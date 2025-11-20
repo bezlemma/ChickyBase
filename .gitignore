@@ -1,20 +1,30 @@
-# Data & Images (Huge!)
+# --- Hugo Site Source (KEEP) ---
+!archetypes/
+!assets/
+!content/
+!hugo.toml
+!i18n/
+!layouts/
+!static/
+!themes/
+!.gitignore
+
+# --- Exclude Everything Else ---
+# Data & Large Files
 data/
-site/static/images
-
-# Antigravity
-planning/
-
-# Scripts
-scripts/
-scrapers/
-*.py
-requirements.txt
-
-# Hugo Build Artifacts
-site/public/
-site/resources/
+public/
+resources/
 .hugo_build.lock
+
+# Project Infrastructure (Not for Site Repo)
+backend/
+planning/
+scrapers/
+scripts/
+requirements.txt
+*.py
+*.log
+pagefind  # Exclude binary
 
 # System & IDE
 .DS_Store
