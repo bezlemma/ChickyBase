@@ -2,7 +2,10 @@
 data/
 site/static/images
 
-# Scripts (User requested to exclude)
+# Antigravity
+planning/
+
+# Scripts
 scripts/
 scrapers/
 *.py
