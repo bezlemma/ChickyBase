@@ -1,0 +1,103 @@
+/Users/bez/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2025-11-18 15:24:41,332 - __main__ - INFO - Scraping single gene: 448631
+2025-11-18 15:24:41,332 - __main__ - INFO - Fetching: https://geisha.arizona.edu/geisha/search.jsp?gene=448631
+2025-11-18 15:24:41,880 - __main__ - INFO - Table 0 contains 'Official Symbol'
+2025-11-18 15:24:41,895 - __main__ - INFO - Table 1 contains 'Official Symbol'
+2025-11-18 15:24:41,906 - __main__ - INFO - Table 4 contains 'Official Symbol'
+2025-11-18 15:24:41,915 - __main__ - INFO - Table 5 contains 'Official Symbol'
+2025-11-18 15:24:41,921 - __main__ - INFO - Table 13 contains 'Official Symbol'
+2025-11-18 15:24:41,924 - __main__ - INFO - Table 14 contains 'Official Symbol'
+2025-11-18 15:24:41,924 - __main__ - INFO - Table 15 contains 'Official Symbol'
+2025-11-18 15:24:41,925 - __main__ - WARNING - No orthology data extracted
+2025-11-18 15:24:41,964 - __main__ - INFO - Extracted metadata keys: ['official_symbol', 'official_full_name', 'cgnc_id', 'synonyms', 'gene_type', 'external_links']
+2025-11-18 15:24:41,964 - __main__ - INFO - Extracted geisha_id: ABCC5.UApcr
+2025-11-18 15:24:41,964 - __main__ - INFO - Extracted data_source: GEISHA ISH Analysis
+2025-11-18 15:24:41,965 - __main__ - INFO - Extracted forward_primer: AAACCAGCCAATCCTCACACC
+2025-11-18 15:24:41,965 - __main__ - INFO - Extracted reverse_primer: ATTAACCCTCACTAAAGGTTCTCCTTCTTCACAGAGCCCG
+2025-11-18 15:24:41,965 - __main__ - INFO - Extracted template_length: 1013
+2025-11-18 15:24:41,966 - __main__ - INFO - Found 25 text nodes matching stage pattern
+2025-11-18 15:24:41,966 - __main__ - INFO - Processing header text: 'stage 4'
+2025-11-18 15:24:41,966 - __main__ - INFO - Found valid table for 'stage 4' with 2 rows
+2025-11-18 15:24:41,966 - __main__ - INFO - Processing header text: 'stage 5'
+2025-11-18 15:24:41,966 - __main__ - INFO - Found valid table for 'stage 5' with 2 rows
+2025-11-18 15:24:41,966 - __main__ - INFO - Processing header text: 'stage 6'
+2025-11-18 15:24:41,966 - __main__ - INFO - Found valid table for 'stage 6' with 2 rows
+2025-11-18 15:24:41,966 - __main__ - INFO - Processing header text: 'stage 8'
+2025-11-18 15:24:41,966 - __main__ - INFO - Found valid table for 'stage 8' with 2 rows
+2025-11-18 15:24:41,966 - __main__ - INFO - Processing header text: 'stage 8'
+2025-11-18 15:24:41,967 - __main__ - INFO - Found valid table for 'stage 8' with 2 rows
+2025-11-18 15:24:41,967 - __main__ - INFO - Processing header text: 'stage 10'
+2025-11-18 15:24:41,967 - __main__ - INFO - Found valid table for 'stage 10' with 2 rows
+2025-11-18 15:24:41,967 - __main__ - INFO - Processing header text: 'stage 10'
+2025-11-18 15:24:41,967 - __main__ - INFO - Found valid table for 'stage 10' with 2 rows
+2025-11-18 15:24:41,967 - __main__ - INFO - Processing header text: 'stage 10'
+2025-11-18 15:24:41,967 - __main__ - INFO - Found valid table for 'stage 10' with 2 rows
+2025-11-18 15:24:41,967 - __main__ - INFO - Processing header text: 'stage 10'
+2025-11-18 15:24:41,967 - __main__ - INFO - Found valid table for 'stage 10' with 2 rows
+2025-11-18 15:24:41,967 - __main__ - INFO - Processing header text: 'stage 13'
+2025-11-18 15:24:41,967 - __main__ - INFO - Found valid table for 'stage 13' with 2 rows
+2025-11-18 15:24:41,967 - __main__ - INFO - Processing header text: 'stage 13'
+2025-11-18 15:24:41,967 - __main__ - INFO - Found valid table for 'stage 13' with 2 rows
+2025-11-18 15:24:41,967 - __main__ - INFO - Processing header text: 'stage 17'
+2025-11-18 15:24:41,967 - __main__ - INFO - Found valid table for 'stage 17' with 2 rows
+2025-11-18 15:24:41,967 - __main__ - INFO - Processing header text: 'stage 17'
+2025-11-18 15:24:41,968 - __main__ - INFO - Found valid table for 'stage 17' with 2 rows
+2025-11-18 15:24:41,968 - __main__ - INFO - Processing header text: 'stage 19'
+2025-11-18 15:24:41,968 - __main__ - INFO - Found valid table for 'stage 19' with 2 rows
+2025-11-18 15:24:41,968 - __main__ - INFO - Processing header text: 'stage 19'
+2025-11-18 15:24:41,968 - __main__ - INFO - Found valid table for 'stage 19' with 2 rows
+2025-11-18 15:24:41,968 - __main__ - INFO - Processing header text: 'stage 20'
+2025-11-18 15:24:41,968 - __main__ - INFO - Found valid table for 'stage 20' with 2 rows
+2025-11-18 15:24:41,968 - __main__ - INFO - Processing header text: 'stage 20'
+2025-11-18 15:24:41,968 - __main__ - INFO - Found valid table for 'stage 20' with 2 rows
+2025-11-18 15:24:41,968 - __main__ - INFO - Processing header text: 'stage 20'
+2025-11-18 15:24:41,968 - __main__ - INFO - Found valid table for 'stage 20' with 2 rows
+2025-11-18 15:24:41,968 - __main__ - INFO - Processing header text: 'stage 25'
+2025-11-18 15:24:41,968 - __main__ - INFO - Found valid table for 'stage 25' with 2 rows
+2025-11-18 15:24:41,968 - __main__ - INFO - Processing header text: 'stage 25'
+2025-11-18 15:24:41,969 - __main__ - INFO - Found valid table for 'stage 25' with 2 rows
+2025-11-18 15:24:41,969 - __main__ - INFO - Processing header text: 'stage 27'
+2025-11-18 15:24:41,969 - __main__ - INFO - Found valid table for 'stage 27' with 2 rows
+2025-11-18 15:24:41,969 - __main__ - INFO - Processing header text: 'stage 27'
+2025-11-18 15:24:41,969 - __main__ - INFO - Found valid table for 'stage 27' with 2 rows
+2025-11-18 15:24:41,969 - __main__ - INFO - Processing header text: 'stage 27'
+2025-11-18 15:24:41,969 - __main__ - INFO - Found valid table for 'stage 27' with 2 rows
+2025-11-18 15:24:41,969 - __main__ - INFO - Processing header text: 'stage 27'
+2025-11-18 15:24:41,969 - __main__ - INFO - Found valid table for 'stage 27' with 2 rows
+2025-11-18 15:24:41,969 - __main__ - INFO - Processing header text: 'stage 27'
+2025-11-18 15:24:41,969 - __main__ - INFO - Table after 'stage 27' rejected: no images or location links
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R483 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R483 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R483 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R483 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R477 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R477 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R477 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R477 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R477 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R477 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R478 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R478 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R478 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R478 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R478 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R478 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R478 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R482 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R482 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R482 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R482 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R482 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R482 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Found image R482 for gene 448631
+2025-11-18 15:24:41,969 - __main__ - INFO - Parsed gene 448631: found 24 entries
+2025-11-18 15:24:41,970 - __main__ - INFO - Saved data/raw/genes/448631.json
+DEBUG: Parsing gene metadata...
+DEBUG: Found 57 tables in page
+DEBUG: Attempting to parse probe info...
+DEBUG: Found label 'GEISHA Id'
+DEBUG: Found label 'Data Source'
+DEBUG: Found label 'Forward cDNA Template Primer'
+DEBUG: Found label 'Reverse cDNA Template Primer'
+DEBUG: Found label 'cDNA Template Length'

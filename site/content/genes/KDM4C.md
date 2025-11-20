@@ -1,0 +1,203 @@
+---
+cgnc_id: '14233'
+expression_data:
+- entries:
+  - comments: ''
+    image_url: https://geisha.arizona.edu/geisha/photos/R725.KDM4C.S4.001.jpg
+    local_path: data/images/462269/462269_0.jpg
+    location: Area Opaca, Epiblast, Primitive Streak
+    locations:
+    - Area Opaca
+    - Epiblast
+    - Primitive Streak
+    stage: stage 4
+    thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R725.KDM4C.S4.001.jpg
+  stage_range: 4-6
+- entries:
+  - comments: ''
+    image_url: https://geisha.arizona.edu/geisha/photos/R725.KDM4C.S7.001.jpg
+    local_path: data/images/462269/462269_1.jpg
+    location: Area Opaca, Neural Plate/Tube
+    locations:
+    - Area Opaca
+    - Neural Plate/Tube
+    stage: stage 7
+    thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R725.KDM4C.S7.001.jpg
+  - comments: ''
+    image_url: https://geisha.arizona.edu/geisha/photos/R725.KDM4C.S10.001.jpg
+    local_path: data/images/462269/462269_2.jpg
+    location: Anterior Intestinal Portal, Forebrain, Head Mesenchyme, Hindbrain, Intermediate
+      Mesoderm, Lateral Plate Mesoderm, Midbrain, Neural Plate/Tube, Sinus Venosus,
+      Somites, extraembryonic mesoderm
+    locations:
+    - Anterior Intestinal Portal
+    - Forebrain
+    - Head Mesenchyme
+    - Hindbrain
+    - Intermediate Mesoderm
+    - Lateral Plate Mesoderm
+    - Midbrain
+    - Neural Plate/Tube
+    - Sinus Venosus
+    - Somites
+    - extraembryonic mesoderm
+    stage: stage 10
+    thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R725.KDM4C.S10.001.jpg
+  - comments: ''
+    image_url: https://geisha.arizona.edu/geisha/photos/R725.KDM4C.S12.001.jpg
+    local_path: data/images/462269/462269_3.jpg
+    location: Aorta, Forebrain, Head Mesenchyme, Hindbrain, Intermediate Mesoderm,
+      Lateral Plate Mesoderm, Midbrain, Neural Plate/Tube, Somites
+    locations:
+    - Aorta
+    - Forebrain
+    - Head Mesenchyme
+    - Hindbrain
+    - Intermediate Mesoderm
+    - Lateral Plate Mesoderm
+    - Midbrain
+    - Neural Plate/Tube
+    - Somites
+    stage: stage 12
+    thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R725.KDM4C.S12.001.jpg
+  stage_range: 7-12
+- entries:
+  - comments: ''
+    image_url: https://geisha.arizona.edu/geisha/photos/R723.KDM4C.S19.001.jpg
+    local_path: data/images/462269/462269_4.jpg
+    location: Widespread Expression
+    locations:
+    - Widespread Expression
+    stage: stage 19
+    thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R723.KDM4C.S19.001.jpg
+  - comments: ''
+    image_url: https://geisha.arizona.edu/geisha/photos/R723.KDM4C.S20.001.jpg
+    local_path: data/images/462269/462269_5.jpg
+    location: Widespread Expression
+    locations:
+    - Widespread Expression
+    stage: stage 20
+    thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R723.KDM4C.S20.001.jpg
+  - comments: ''
+    image_url: https://geisha.arizona.edu/geisha/photos/R724.KDM4C.S23.001.jpg
+    local_path: data/images/462269/462269_6.jpg
+    location: Foregut, Head Mesenchyme, Leg Mesenchyme, Lung, Mesonephros, Neural
+      Plate/Tube, Pharyngeal Arches and Clefts, Sclerotome, Wing Mesenchyme
+    locations:
+    - Foregut
+    - Head Mesenchyme
+    - Leg Mesenchyme
+    - Lung
+    - Mesonephros
+    - Neural Plate/Tube
+    - Pharyngeal Arches and Clefts
+    - Sclerotome
+    - Wing Mesenchyme
+    stage: stage 23
+    thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM4C.S23.001.jpg
+  - comments: ''
+    image_url: https://geisha.arizona.edu/geisha/photos/R724.KDM4C.S23.002.jpg
+    local_path: data/images/462269/462269_7.jpg
+    location: Foregut, Head Mesenchyme, Lung, Neural Plate/Tube, Pharyngeal Arches
+      and Clefts, Sclerotome, Spinal Ganglia and Nerves, Ventricles
+    locations:
+    - Foregut
+    - Head Mesenchyme
+    - Lung
+    - Neural Plate/Tube
+    - Pharyngeal Arches and Clefts
+    - Sclerotome
+    - Spinal Ganglia and Nerves
+    - Ventricles
+    stage: stage 23
+    thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM4C.S23.002.jpg
+  - comments: ''
+    image_url: https://geisha.arizona.edu/geisha/photos/R724.KDM4C.S23A.001.jpg
+    local_path: data/images/462269/462269_8.jpg
+    location: Aorta, Foregut, Lung, Neural Plate/Tube, Sclerotome
+    locations:
+    - Aorta
+    - Foregut
+    - Lung
+    - Neural Plate/Tube
+    - Sclerotome
+    stage: stage 23
+    thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM4C.S23A.001.jpg
+  - comments: ''
+    image_url: https://geisha.arizona.edu/geisha/photos/R724.KDM4C.S23AA.001.jpg
+    local_path: data/images/462269/462269_9.jpg
+    location: Foregut, Lung, Neural Plate/Tube, Sclerotome
+    locations:
+    - Foregut
+    - Lung
+    - Neural Plate/Tube
+    - Sclerotome
+    stage: stage 23
+    thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM4C.S23AA.001.jpg
+  - comments: ''
+    image_url: https://geisha.arizona.edu/geisha/photos/R724.KDM4C.S23AAA.001.jpg
+    local_path: data/images/462269/462269_10.jpg
+    location: Mesonephros
+    locations:
+    - Mesonephros
+    stage: stage 23
+    thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM4C.S23AAA.001.jpg
+  stage_range: 19-24
+- entries:
+  - comments: ''
+    image_url: https://geisha.arizona.edu/geisha/photos/R724.KDM4C.S27.001.jpg
+    local_path: data/images/462269/462269_11.jpg
+    location: Widespread Expression
+    locations:
+    - Widespread Expression
+    stage: stage 27
+    thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM4C.S27.001.jpg
+  stage_range: 25-27
+external_links:
+  Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000020557
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427231
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642992
+forward_primer: TCAGCAGATGGTCACTGGC
+geisha_id: KDM4C.UApcr
+gene_id: '462269'
+gene_type: protein-coding
+has_geisha: true
+name: lysine demethylase 4C
+orthology:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Human
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Mouse
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Zebrafish
+reverse_primer: AGGTGCACAACTTTGCTGC
+symbol: KDM4C
+synonyms: JMJD2C, lysine-specific demethylase 4C|jumonji domain containing 2C|lysine
+  (K)-specific demethylase 4C
+template_length: '710'
+title: KDM4C
+---
+
+# KDM4C
+
+**lysine demethylase 4C**
+

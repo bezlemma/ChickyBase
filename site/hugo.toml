@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "ChickyBase"
+
+[params]
+  description = "A modern, interactive interface for the GEISHA database."
+  # Cloudflare R2 Image URL (Leave empty to use local images)
+  # Example: "https://images.chickybase.com/"
+  imageBaseURL = ""

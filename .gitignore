@@ -1,0 +1,23 @@
+# Data & Images (Huge!)
+data/
+site/static/images
+
+# Scripts (User requested to exclude)
+scripts/
+scrapers/
+*.py
+requirements.txt
+
+# Hugo Build Artifacts
+site/public/
+site/resources/
+.hugo_build.lock
+
+# System & IDE
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+venv/
+.env
