@@ -8,6 +8,8 @@ expression_data:
     location: Area Pellucida
     locations:
     - Area Pellucida
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R375.RAC2.S5.001.jpg
   - comments: Low level expression.
@@ -20,6 +22,8 @@ expression_data:
     - Neural Plate/Tube
     - Paraxial Mesoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R375.RAC2.S6.001.jpg
   stage_range: 4-6
@@ -36,6 +40,8 @@ expression_data:
     - Neural Plate/Tube
     - Paraxial Mesoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R375.RAC2.S7.01.jpg
   - comments: Dorsal ViewDorsal View, early lymph?Ventral View, lymphatic?
@@ -48,6 +54,8 @@ expression_data:
     - Hindbrain
     - Midbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R398.RAC2.S8D.001.jpg
   - comments: Dorsal ViewDorsal View, early lymph?Ventral View, lymphatic?
@@ -62,6 +70,8 @@ expression_data:
     - Hindbrain
     - Midbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R398.RAC2.S9D.001.jpg
   - comments: Dorsal ViewDorsal View, early lymph?Ventral View, lymphatic?
@@ -76,6 +86,8 @@ expression_data:
     - Hindbrain
     - Midbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R398.RAC2.S9V.001.jpg
   stage_range: 7-12
@@ -96,6 +108,8 @@ expression_data:
     - Midbrain
     - Neural Plate/Tube
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R398.RAC2.S13D.001.jpg
   - comments: Dorsal ViewVentral View, lymph??don't know what that line dorsal to
@@ -114,6 +128,8 @@ expression_data:
     - Midbrain
     - Neural Plate/Tube
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R398.RAC2.S13D.002.jpg
   - comments: Dorsal ViewVentral View, lymph??don't know what that line dorsal to
@@ -132,6 +148,8 @@ expression_data:
     - Midbrain
     - Neural Plate/Tube
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R398.RAC2.S13V.001.jpg
   - comments: Dorsal ViewVentral View, lymph??don't know what that line dorsal to
@@ -144,6 +162,8 @@ expression_data:
     - Hindbrain
     - Intermediate Mesoderm
     - Midbrain
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R408.RAC2.S16.001.jpg
   - comments: Dorsal ViewVentral View, lymph??don't know what that line dorsal to
@@ -157,6 +177,8 @@ expression_data:
     - Hindbrain
     - Intermediate Mesoderm
     - Midbrain
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R408.RAC2.S17.001.jpg
   stage_range: 13-17
@@ -197,6 +219,10 @@ orthology:
   phenotypes: ZDB-GENE-040625-27
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGCCAAAGACCCACAACAG
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=RAC2.UApcr
 symbol: RAC2
 synonyms: ras-related C3 botulinum toxin substrate 2|ras-related C3 botulinum toxin
   substrate 2 (rho family, small GTP binding protein Rac2)

@@ -9,6 +9,8 @@ expression_data:
     locations:
     - Neural Plate/Tube
     - Notochord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R528.BEND3.S8.001.jpg
   - comments: ''
@@ -21,6 +23,8 @@ expression_data:
     - Midbrain
     - Neural Plate/Tube
     - Notochord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R528.BEND3.S10.001.jpg
   - comments: ''
@@ -29,6 +33,8 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R528.BEND3.S11.001.jpg
   stage_range: 7-12
@@ -46,6 +52,8 @@ expression_data:
     - Notochord
     - Pharyngeal Arches and Clefts
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R524.BEND3.S17.001.jpg
   - comments: ''
@@ -57,6 +65,8 @@ expression_data:
     - Notochord
     - Pharyngeal Arches and Clefts
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R524.BEND3.S17A.001.jpg
   - comments: ''
@@ -68,6 +78,8 @@ expression_data:
     - Hindbrain
     - Midbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R524.BEND3.S18.001.jpg
   stage_range: 13-18
@@ -85,6 +97,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Sclerotome
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BEND3.S24.001.jpg
   stage_range: 19-24
@@ -102,6 +116,8 @@ expression_data:
     - Lung
     - Pharyngeal Arches and Clefts
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BEND3.S26.001.jpg
   - comments: ''
@@ -111,6 +127,8 @@ expression_data:
     locations:
     - Cranial PNS
     - Hindbrain
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BEND3.S26A.001.jpg
   - comments: ''
@@ -122,6 +140,8 @@ expression_data:
     - Liver
     - Lung
     - Outflow Tract
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BEND3.S26AA.001.jpg
   stage_range: 25-26
@@ -162,6 +182,10 @@ orthology:
   phenotypes: ZDB-GENE-090312-181
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCTGTAGCACTTCATTCCATCCC
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=BEND3.UApcr
 symbol: BEND3
 synonyms: BEN domain-containing protein 3
 template_length: '744'

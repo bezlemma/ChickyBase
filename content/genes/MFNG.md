@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R728.MFNG.S12.001.jpg
   stage_range: 7-12
@@ -18,6 +20,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R726.MFNG.S17.001.jpg
   - comments: ''
@@ -27,6 +31,8 @@ expression_data:
     locations:
     - Head Mesenchyme
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R726.MFNG.S18.001.jpg
   stage_range: 13-18
@@ -37,6 +43,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R727.MFNG.S23.001.jpg
   - comments: ''
@@ -45,6 +53,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R727.MFNG.S23.002.jpg
   stage_range: 19-24
@@ -55,6 +65,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R727.MFNG.S26.001.jpg
   stage_range: 25-26
@@ -62,6 +74,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Tossell.Fig1.ALLIMAGES-10.jpg
     local_path: data/images/458047/458047_6.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tossell.Fig1.ALLIMAGES-10.jpg
   - comments: ''
@@ -70,6 +84,8 @@ expression_data:
     location: Rhombomeres
     locations:
     - Rhombomeres
+    source: Publication
+    source_label: Publication
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tossell.Fig1.L.MFNG.ST12.jpg
   stage_range: 7-10
@@ -110,6 +126,14 @@ orthology:
   phenotypes: ZDB-GENE-041130-1
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGCCAAGGCACACTTTCAGCG-3'
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=MFNG.UApcr
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Tossell+2011+Notch+FGF8+
+    Wizenmann
 symbol: MFNG
 synonyms: beta-1,3-N-acetylglucosaminyltransferase manic fringe
 template_length: '802'

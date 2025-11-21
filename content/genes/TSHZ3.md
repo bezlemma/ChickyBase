@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R471.TSHZ3.S5.002.jpg
   stage_range: 4-6
@@ -18,6 +20,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R471.TSHZ3.S8.002.jpg
   - comments: Ventral view.
@@ -30,6 +34,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Spinal Cord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R286.TSHZ3.S12V.001.jpg
   stage_range: 7-12
@@ -44,6 +50,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Spinal Cord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R286.TSHZ3.S13V.001.jpg
   - comments: Ventral view.
@@ -57,6 +65,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Lung
     - Spinal Cord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R277.TSHZ3.S16.001.jpg
   - comments: Ventral view.
@@ -69,6 +79,8 @@ expression_data:
     - Lung
     - Somatic Mesoderm
     - Spinal Cord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R277.TSHZ3.S17.001.jpg
   - comments: Ventral view.
@@ -80,6 +92,8 @@ expression_data:
     - Amnion
     - Paraxial Mesoderm
     - Somatopleure
+    source: Publication
+    source_label: Publication
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54wc8.125.18.jpg
   stage_range: 13-18
@@ -91,6 +105,8 @@ expression_data:
     locations:
     - Allantois
     - Somatopleure
+    source: Publication
+    source_label: Publication
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54wc8.125.19.jpg
   - comments: roof plate
@@ -108,6 +124,8 @@ expression_data:
     - Spinal Cord
     - Splanchnic Mesoderm
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R277.TSHZ3.S20.001.jpg
   - comments: roof plate
@@ -122,6 +140,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Spinal Cord
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R277.TSHZ3.S20.002.jpg
   - comments: roof plate
@@ -130,6 +150,8 @@ expression_data:
     location: Midbrain
     locations:
     - Midbrain
+    source: Publication
+    source_label: Publication
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54wc8.125.22head.jpg
   - comments: roof plate
@@ -140,6 +162,8 @@ expression_data:
     - Gut
     - Somatopleure
     - Splanchnic Mesoderm
+    source: Publication
+    source_label: Publication
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54wc8.125.22xs.jpg
   - comments: roof plate
@@ -148,6 +172,8 @@ expression_data:
     location: Paraxial Mesoderm
     locations:
     - Paraxial Mesoderm
+    source: Publication
+    source_label: Publication
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54wc8.125.22xsa.jpg
   - comments: roof plate
@@ -164,6 +190,8 @@ expression_data:
     - Spinal Cord
     - Splanchnic Mesoderm
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R277.TSHZ3.S22.001.jpg
   - comments: roof plate
@@ -179,6 +207,8 @@ expression_data:
     - Somatic Mesoderm
     - Somites
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R277.TSHZ3.S23.001.jpg
   stage_range: 19-24
@@ -196,6 +226,8 @@ expression_data:
     - Somatic Mesoderm
     - Somites
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R277.TSHZ3.S25.001.jpg
   - comments: ''
@@ -211,6 +243,8 @@ expression_data:
     - Somatic Mesoderm
     - Somites
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R277.TSHZ3.S25.002.jpg
   stage_range: '25'
@@ -222,6 +256,8 @@ expression_data:
     locations:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TSHZ3Fig.2ASt15.jpg
   - comments: ''
@@ -232,6 +268,8 @@ expression_data:
     - Foregut
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TSHZ3Fig2BSt15.jpg
   stage_range: 13-18
@@ -248,6 +286,8 @@ expression_data:
     - Neural Plate/Tube
     - Pharyngeal Arches and Clefts
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TSHZ3Fig2CSt21.jpg
   - comments: Matches SCX expression at this stagePosterior and anterior expression
@@ -258,6 +298,8 @@ expression_data:
     locations:
     - Pharyngeal Arches and Clefts
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TSHZ3Fig2DSt22.jpg
   - comments: Matches SCX expression at this stagePosterior and anterior expression
@@ -267,6 +309,8 @@ expression_data:
     location: Limb Buds
     locations:
     - Limb Buds
+    source: Publication
+    source_label: Publication
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TSHZ3Fig2NSt23.jpg
   - comments: Matches SCX expression at this stagePosterior and anterior expression
@@ -276,6 +320,8 @@ expression_data:
     location: Limb Buds
     locations:
     - Limb Buds
+    source: Publication
+    source_label: Publication
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TSHZ3Fig2O.jpg
   - comments: Matches SCX expression at this stagePosterior and anterior expression
@@ -286,6 +332,8 @@ expression_data:
     locations:
     - Pharyngeal Arches and Clefts
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TSHZ3Fig2ESt24.jpg
   - comments: Matches SCX expression at this stagePosterior and anterior expression
@@ -295,6 +343,8 @@ expression_data:
     location: Somites
     locations:
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TSHZ3Fig2LSt24.jpg
   stage_range: 19-24
@@ -307,6 +357,8 @@ expression_data:
     location: Somites
     locations:
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TSHZ3Fig2FSt27.jpg
   - comments: Expression in a narrow stripe of mesenchyme underlying the myotome.Expression
@@ -317,6 +369,8 @@ expression_data:
     location: Somites
     locations:
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TSHZ3Fig2HSecSt27.jpg
   - comments: Expression in a narrow stripe of mesenchyme underlying the myotome.Expression
@@ -327,6 +381,8 @@ expression_data:
     location: Somites
     locations:
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TSHZ3Fig2JSt27sect.jpg
   - comments: Expression in a narrow stripe of mesenchyme underlying the myotome.Expression
@@ -337,6 +393,8 @@ expression_data:
     location: Limb Buds
     locations:
     - Limb Buds
+    source: Publication
+    source_label: Publication
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TSHZ3Fig2QSt27.jpg
   - comments: Expression in a narrow stripe of mesenchyme underlying the myotome.Expression
@@ -347,6 +405,8 @@ expression_data:
     location: Limb Buds
     locations:
     - Limb Buds
+    source: Publication
+    source_label: Publication
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TSHZ3Fig2R.jpg
   stage_range: 25-27
@@ -354,6 +414,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Paxton.Fig7.ALLIMAGES-5.jpg
     local_path: data/images/461795/461795_30.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paxton.Fig7.ALLIMAGES-5.jpg
   - comments: ''
@@ -362,6 +424,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: Publication
+    source_label: Publication
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paxton.Fig7.Tshz3.E.ST5.jpg
   stage_range: 4-6
@@ -373,6 +437,8 @@ expression_data:
     locations:
     - Ear/Otic Placode
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paxton.Fig7.Tshz3.K.ST6.jpg
   - comments: ''
@@ -384,6 +450,8 @@ expression_data:
     - Head Mesenchyme
     - Primitive Streak
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paxton.Fig7.Tshz3.P.ST8.jpg
   - comments: ''
@@ -393,6 +461,8 @@ expression_data:
     locations:
     - Ear/Otic Placode
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paxton.Fig7.Tshz3.W.ST9.jpg
   stage_range: 7-12
@@ -406,6 +476,8 @@ expression_data:
     - Hindbrain
     - Midbrain
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paxton.Fig8.TSHZ.E.ST17.jpg
   stage_range: 13-18
@@ -418,6 +490,8 @@ expression_data:
     - Limb Buds
     - Neural Plate/Tube
     - Widespread Expression
+    source: Publication
+    source_label: Publication
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paxton.Fig8.TSHZ.F.ST21.jpg
   stage_range: 19-21
@@ -456,6 +530,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-100319-2,ZFIN:ZDB-GENE-100322-1
   phenotypes: ZDB-GENE-100319-2,ZDB-GENE-100322-1
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ChEST263o14
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Paxton+2010+Schoenwolf+Chapman
 symbol: TSHZ3
 synonyms: ZNF537, teashirt homolog 3|teashirt family zinc finger 3|zinc finger protein
   537

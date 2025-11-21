@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R621.CDK10.S12.001.jpg
   stage_range: 7-12
@@ -25,6 +27,8 @@ expression_data:
     - Neural Plate/Tube
     - Pharyngeal Arches and Clefts
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R620.CDK10.S17.001.jpg
   - comments: ''
@@ -47,6 +51,8 @@ expression_data:
     - Sclerotome
     - Sinus Venosus
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R620.CDK10.S18.001.jpg
   stage_range: 13-18
@@ -57,6 +63,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R622.CDK10.S20.001.jpg
   - comments: ''
@@ -65,6 +73,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R622.CDK10.S22.001.jpg
   stage_range: 19-24
@@ -78,6 +88,8 @@ expression_data:
     - Leg Mesenchyme
     - Sclerotome
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R622.CDK10.S25.001.jpg
   stage_range: '25'
@@ -120,6 +132,10 @@ orthology:
   phenotypes: ZDB-GENE-050417-94
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGGGATGGAAGGCTGTGGATGTTC-3'
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CDK10.UApcr
 symbol: CDK10
 synonyms: cyclin-dependent kinase 10|cyclin-dependent kinase (CDC2-like) 10
 template_length: '834'

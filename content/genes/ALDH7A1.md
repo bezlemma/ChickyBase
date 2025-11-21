@@ -10,6 +10,8 @@ expression_data:
     - Area Opaca
     - Epiblast
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R493.ALDH7A1.S4.001.jpg
   - comments: ''
@@ -19,6 +21,8 @@ expression_data:
     locations:
     - Area Opaca
     - Epiblast
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R493.ALDH7A1.S5.001.jpg
   - comments: ''
@@ -28,6 +32,8 @@ expression_data:
     locations:
     - Area Opaca
     - Epiblast
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R493.ALDH7A1.S5A.001.jpg
   stage_range: 4-6
@@ -46,6 +52,8 @@ expression_data:
     - Notochord
     - Somites
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R493.ALDH7A1.S8.001.jpg
   - comments: ''
@@ -62,6 +70,8 @@ expression_data:
     - Notochord
     - Somites
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R493.ALDH7A1.S10.001.jpg
   stage_range: 7-12
@@ -81,6 +91,8 @@ expression_data:
     - Somatic Mesoderm
     - Splanchnic Mesoderm
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R493.ALDH7A1.S13.001.jpg
   - comments: ''
@@ -97,6 +109,8 @@ expression_data:
     - Somatic Mesoderm
     - Splanchnic Mesoderm
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R493.ALDH7A1.S14.001.jpg
   stage_range: 13-18
@@ -109,6 +123,8 @@ expression_data:
     - Limb Buds
     - Pharyngeal Arches and Clefts
     - Somatic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R494.ALDH7A1.S22.001.jpg
   - comments: ''
@@ -117,16 +133,22 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R494.ALDH7A1.S24.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R494.ALDH7A1.S24A.001.jpg
     local_path: data/images/459115/459115_9.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R494.ALDH7A1.S24A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R494.ALDH7A1.S24AA.001.jpg
     local_path: data/images/459115/459115_10.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R494.ALDH7A1.S24AA.001.jpg
   stage_range: 19-24
@@ -137,26 +159,36 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R494.ALDH7A1.S25.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R494.ALDH7A1.S25A.001.jpg
     local_path: data/images/459115/459115_12.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R494.ALDH7A1.S25A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R494.ALDH7A1.S25AA.001.jpg
     local_path: data/images/459115/459115_13.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R494.ALDH7A1.S25AA.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R494.ALDH7A1.S25AAA.001.jpg
     local_path: data/images/459115/459115_14.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R494.ALDH7A1.S25AAA.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R494.ALDH7A1.S25BB.001.jpg
     local_path: data/images/459115/459115_15.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R494.ALDH7A1.S25BB.001.jpg
   stage_range: '25'
@@ -199,6 +231,10 @@ orthology:
   phenotypes: ZDB-GENE-030131-6129
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCTTCCCAAATCCCTGGTAAAG
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ALDH7A1.UApcr
 symbol: ALDH7A1
 synonyms: alpha-aminoadipic semialdehyde dehydrogenase
 template_length: '745'

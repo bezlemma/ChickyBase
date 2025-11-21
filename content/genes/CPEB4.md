@@ -10,6 +10,8 @@ expression_data:
     - Area Opaca
     - Blood Islands
     - Lateral Plate Mesoderm
+    source: Publication
+    source_label: Publication
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RUN213.CPEB4.S10.001.jpg
   - comments: Sections pending.
@@ -21,6 +23,8 @@ expression_data:
     - Blood Islands
     - Extraembryonic
     - Lateral Plate Mesoderm
+    source: Publication
+    source_label: Publication
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RUN213.CPEB4.S11.001.jpg
   stage_range: 7-12
@@ -39,6 +43,8 @@ expression_data:
     - Heart Tube
     - Somites
     - Spinal Cord
+    source: Publication
+    source_label: Publication
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RUN213.CPEB4.S16.1.jpg
   - comments: Sections pending.
@@ -55,6 +61,8 @@ expression_data:
     - Heart Tube
     - Myocardium
     - Paraxial Mesoderm
+    source: Publication
+    source_label: Publication
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RUN213.CPEB4.S16.01.jpg
   stage_range: 13-18
@@ -72,6 +80,8 @@ expression_data:
     - Lens
     - Neural Plate/Tube
     - Spinal Cord
+    source: Publication
+    source_label: Publication
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RUN213.CPEB4.S21.001.jpg
   - comments: Sections pending.
@@ -87,6 +97,8 @@ expression_data:
     - Lens
     - Neural Plate/Tube
     - Spinal Cord
+    source: Publication
+    source_label: Publication
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RUN213.CPEB4.S22.001.jpg
   - comments: Sections pending.
@@ -101,6 +113,8 @@ expression_data:
     - Neural Plate/Tube
     - Spinal Cord
     - Spinal Ganglia and Nerves
+    source: Publication
+    source_label: Publication
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RUN213.CPEB4.S24.01.jpg
   stage_range: 19-24
@@ -141,6 +155,10 @@ orthology:
   phenotypes: ZDB-GENE-040426-1557
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGTCTACAATCAAAGGTCCAAAGCG
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CPEB4.UApcr
 symbol: CPEB4
 synonyms: cytoplasmic polyadenylation element-binding protein 4
 template_length: '991'

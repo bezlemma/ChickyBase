@@ -8,6 +8,8 @@ expression_data:
     location: Lateral Plate Mesoderm
     locations:
     - Lateral Plate Mesoderm
+    source: Publication
+    source_label: Publication
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54ya12.125.13.jpg
   - comments: ''
@@ -16,6 +18,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: Publication
+    source_label: Publication
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54ya12.125.18.jpg
   stage_range: 13-18
@@ -29,6 +33,8 @@ expression_data:
     - Somatopleure
     - Spinal Cord
     - Spinal Ganglia and Nerves
+    source: Publication
+    source_label: Publication
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54ya12.125.22.jpg
   stage_range: 19-22
@@ -72,6 +78,10 @@ orthology:
   mod: ZFIN:ZDB-GENE-030131-321
   phenotypes: ZDB-GENE-030131-321
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ChEST1019n6
 symbol: CDK9
 synonyms: cyclin-dependent kinase 9|cell division protein kinase 9|cyclin-dependent
   kinase 9 (CDC2-related kinase), Cell division protein kinase 9 , Cyclin- dependent

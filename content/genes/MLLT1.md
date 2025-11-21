@@ -10,6 +10,8 @@ expression_data:
     - Area Opaca
     - Early Endoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R731.MLLT1.S5.001.jpg
   stage_range: 4-6
@@ -22,6 +24,8 @@ expression_data:
     - Area Opaca
     - Neural Plate/Tube
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R731.MLLT1.S8.001.jpg
   - comments: ''
@@ -36,6 +40,8 @@ expression_data:
     - Midbrain
     - Neural Plate/Tube
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R731.MLLT1.S9.001.jpg
   - comments: ''
@@ -50,6 +56,8 @@ expression_data:
     - Hindbrain
     - Midbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R731.MLLT1.S11.001.jpg
   stage_range: 7-12
@@ -65,6 +73,8 @@ expression_data:
     - Neural Plate/Tube
     - Pharyngeal Arches and Clefts
     - Tail
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R730.MLLT1.S17.001.jpg
   stage_range: 13-18
@@ -82,6 +92,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somites
     - Tail
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R730.MLLT1.S19.001.jpg
   - comments: ''
@@ -106,6 +118,8 @@ expression_data:
     - Sclerotome
     - Ventricles
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S22.001.jpg
   - comments: ''
@@ -129,6 +143,8 @@ expression_data:
     - Sclerotome
     - Ventricles
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S23.001.jpg
   - comments: ''
@@ -138,6 +154,8 @@ expression_data:
     locations:
     - Hindbrain
     - Midbrain
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S23A.001.jpg
   - comments: ''
@@ -152,6 +170,8 @@ expression_data:
     - Neural Plate/Tube
     - Sclerotome
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S23AA.001.jpg
   - comments: ''
@@ -167,6 +187,8 @@ expression_data:
     - Neural Plate/Tube
     - Sclerotome
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S23AAA.001.jpg
   stage_range: 19-24
@@ -192,6 +214,8 @@ expression_data:
     - Spinal Ganglia and Nerves
     - Ventricles
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S25.001.jpg
   - comments: ''
@@ -205,11 +229,15 @@ expression_data:
     - Sclerotome
     - Spinal Cord
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S25A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R729.MLLT1.S25AA.001.jpg
     local_path: data/images/458381/458381_13.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S25AA.001.jpg
   - comments: ''
@@ -224,6 +252,8 @@ expression_data:
     - Spinal Cord
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S25AAA.001.jpg
   stage_range: '25'
@@ -266,6 +296,10 @@ orthology:
   phenotypes: ZDB-GENE-060421-7142,ZDB-GENE-081105-45,ZDB-GENE-081105-45
   species: Zebrafish
 reverse_primer: 5'-TCCATGGGTTCGTTTCCTGG-3'
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=MLLT1.UApcr
 symbol: MLLT1
 synonyms: protein ENL|myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog,
   Drosophila); translocated to, 1|myeloid/lymphoid or mixed-lineage leukemia; translocated

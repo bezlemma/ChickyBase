@@ -12,6 +12,8 @@ expression_data:
     - Head Mesenchyme
     - Lens
     - Trunk Mesenchyme
+    source: Publication
+    source_label: Publication
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/4xc2.114.4.15.jpg
   - comments: ''
@@ -22,6 +24,8 @@ expression_data:
     - Cranial Ganglia
     - Head Mesenchyme
     - Trunk Mesenchyme
+    source: Publication
+    source_label: Publication
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/4xc2.114.4.16.jpg
   - comments: ''
@@ -46,6 +50,8 @@ expression_data:
     - Somatic Mesoderm
     - Spinal Cord
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R488.SKP1.S17.001.jpg
   - comments: ''
@@ -59,6 +65,8 @@ expression_data:
     - Oral Pharynx
     - Pharyngeal Arches and Clefts
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R488.SKP1.S17A.001.jpg
   - comments: ''
@@ -74,6 +82,8 @@ expression_data:
     - Sinus Venosus
     - Spinal Cord
     - Trunk Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R488.SKP1.S17AA.001.jpg
   - comments: ''
@@ -91,6 +101,8 @@ expression_data:
     - Somatic Mesoderm
     - Spinal Cord
     - Splanchnic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R488.SKP1.S17AAA.001.jpg
   - comments: ''
@@ -100,6 +112,8 @@ expression_data:
     locations:
     - Diencephalon
     - Head Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R488.SKP1.S17B.001.jpg
   - comments: ''
@@ -113,6 +127,8 @@ expression_data:
     - Head Mesenchyme
     - Nasal Placcode/Nerve
     - Trunk Mesenchyme
+    source: Publication
+    source_label: Publication
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/4xc2.114.4.18.jpg
   - comments: ''
@@ -143,6 +159,8 @@ expression_data:
     - Somatic Mesoderm
     - Spinal Cord
     - Splanchnic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R488.SKP1.S18.001.jpg
   stage_range: 13-18
@@ -160,6 +178,8 @@ expression_data:
     - Somites
     - Trunk Mesenchyme
     - Wing Mesenchyme
+    source: Publication
+    source_label: Publication
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/4xc2.114.4.21.jpg
   stage_range: 19-21
@@ -202,6 +222,10 @@ orthology:
   mod: ZFIN:ZDB-GENE-040426-1707
   phenotypes: ZDB-GENE-040426-1707
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ChEST140m9
 symbol: SKP1
 synonyms: CTD-2410N18.5, SKP1A, S-phase kinase-associated protein 1|S-phase kinase-associated
   protein 1A|cyclin-A/CDK2-associated protein p19|p19A|p19skp1, S-phase kinase-associated

@@ -8,6 +8,8 @@ expression_data:
     location: Neural Crest
     locations:
     - Neural Crest
+    source: Publication
+    source_label: Publication
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DKC1.Gammill.2002.2J.jpg
   stage_range: 7-10
@@ -51,6 +53,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-031118-120
   phenotypes: ZDB-GENE-031118-120
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=DKC1.Gammill.2002
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Gammill+genomic+analysis+induction
 symbol: DKC1
 synonyms: H/ACA ribonucleoprotein complex subunit DKC1|dyskeratosis congenita 1, dyskerin|h/ACA
   ribonucleoprotein complex subunit 4

@@ -10,6 +10,8 @@ expression_data:
     - Area Opaca
     - Epiblast
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R725.KDM4C.S4.001.jpg
   stage_range: 4-6
@@ -21,6 +23,8 @@ expression_data:
     locations:
     - Area Opaca
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R725.KDM4C.S7.001.jpg
   - comments: ''
@@ -41,6 +45,8 @@ expression_data:
     - Sinus Venosus
     - Somites
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R725.KDM4C.S10.001.jpg
   - comments: ''
@@ -58,6 +64,8 @@ expression_data:
     - Midbrain
     - Neural Plate/Tube
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R725.KDM4C.S12.001.jpg
   stage_range: 7-12
@@ -68,6 +76,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R723.KDM4C.S19.001.jpg
   - comments: ''
@@ -76,6 +86,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R723.KDM4C.S20.001.jpg
   - comments: ''
@@ -93,6 +105,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Sclerotome
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM4C.S23.001.jpg
   - comments: ''
@@ -109,6 +123,8 @@ expression_data:
     - Sclerotome
     - Spinal Ganglia and Nerves
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM4C.S23.002.jpg
   - comments: ''
@@ -121,6 +137,8 @@ expression_data:
     - Lung
     - Neural Plate/Tube
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM4C.S23A.001.jpg
   - comments: ''
@@ -132,6 +150,8 @@ expression_data:
     - Lung
     - Neural Plate/Tube
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM4C.S23AA.001.jpg
   - comments: ''
@@ -140,6 +160,8 @@ expression_data:
     location: Mesonephros
     locations:
     - Mesonephros
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM4C.S23AAA.001.jpg
   stage_range: 19-24
@@ -150,6 +172,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM4C.S27.001.jpg
   stage_range: 25-27
@@ -190,6 +214,10 @@ orthology:
   phenotypes: ''
   species: Zebrafish
 reverse_primer: AGGTGCACAACTTTGCTGC
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=KDM4C.UApcr
 symbol: KDM4C
 synonyms: JMJD2C, lysine-specific demethylase 4C|jumonji domain containing 2C|lysine
   (K)-specific demethylase 4C

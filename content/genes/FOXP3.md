@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R691.FOXP1.S9.001.jpg
   - comments: ''
@@ -19,6 +21,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Sinus Venosus
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R691.FOXP1.S11.001.jpg
   stage_range: 7-12
@@ -29,6 +33,8 @@ expression_data:
     location: Ubiquitous Embryonic
     locations:
     - Ubiquitous Embryonic
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R677.FOXP1.S19.001.jpg
   - comments: ''
@@ -37,6 +43,8 @@ expression_data:
     location: Ubiquitous Embryonic
     locations:
     - Ubiquitous Embryonic
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R677.FOXP1.S19.002.jpg
   - comments: ''
@@ -45,11 +53,15 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R678.FOXP1.S20.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R678.FOXP1.S20A.001.jpg
     local_path: data/images/458114/458114_5.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R678.FOXP1.S20A.001.jpg
   - comments: ''
@@ -61,6 +73,8 @@ expression_data:
     - Neural Plate/Tube
     - Sclerotome
     - Stomach
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R678.FOXP1.S20AA.001.jpg
   - comments: ''
@@ -70,6 +84,8 @@ expression_data:
     locations:
     - Allantois
     - Mesonephros
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R678.FOXP1.S20AAA.001.jpg
   stage_range: 19-24
@@ -80,6 +96,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R678.FOXP1.S25.001.jpg
   - comments: ceca
@@ -99,11 +117,15 @@ expression_data:
     - Sclerotome
     - Spinal Cord
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R678.FOXP1.S25A.001.jpg
   - comments: ceca
     image_url: https://geisha.arizona.edu/geisha/photos/R678.FOXP1.S25AA.001.jpg
     local_path: data/images/458114/458114_10.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R678.FOXP1.S25AA.001.jpg
   - comments: ceca
@@ -119,6 +141,8 @@ expression_data:
     - Spinal Cord
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R678.FOXP1.S25AAA.001.jpg
   - comments: ceca
@@ -132,11 +156,15 @@ expression_data:
     - Sclerotome
     - Spinal Cord
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R678.FOXP1.S25AAAA.001.jpg
   - comments: ceca
     image_url: https://geisha.arizona.edu/geisha/photos/R678.FOXP1.S25V.001.jpg
     local_path: data/images/458114/458114_13.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R678.FOXP1.S25V.001.jpg
   - comments: ceca
@@ -145,6 +173,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R678.FOXP1.S27.001.jpg
   stage_range: 25-27
@@ -191,6 +221,10 @@ orthology:
   phenotypes: ZDB-GENE-041203-1,ZDB-GENE-060929-624
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGATCTGGACTGTGGTTGGCTG-3’
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=FOXP1.UApcr
 symbol: FOXP3
 synonyms: FOXP1, forkhead box protein P1|forkhead box P1
 template_length: '909'

@@ -8,6 +8,8 @@ expression_data:
     location: Epiblast
     locations:
     - Epiblast
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R516.ADAMTSL2.S4.001.jpg
   - comments: ''
@@ -16,6 +18,8 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R516.ADAMTSL2.S6.001.jpg
   stage_range: 4-6
@@ -26,6 +30,8 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R516.ADAMTSL2.S8.001.jpg
   - comments: ''
@@ -38,6 +44,8 @@ expression_data:
     - Hindbrain
     - Midbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R516.ADAMTSL2.S10.001.jpg
   stage_range: 7-12
@@ -48,6 +56,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R514.ADAMTSL2.S16.001.jpg
   - comments: ''
@@ -56,6 +66,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R514.ADAMTSL2.S17.001.jpg
   stage_range: 13-18
@@ -66,6 +78,8 @@ expression_data:
     location: Cranial Nerve
     locations:
     - Cranial Nerve
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.ADAMTSL2.S22.001.jpg
   - comments: ophthalmic trigeminal nerve
@@ -76,6 +90,8 @@ expression_data:
     - Cranial Nerve
     - Sclerotome
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.ADAMTSL2.S24.001.jpg
   - comments: ophthalmic trigeminal nerve
@@ -84,11 +100,15 @@ expression_data:
     location: Cranial Nerve
     locations:
     - Cranial Nerve
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.ADAMTSL2.S24A.001.jpg
   - comments: ophthalmic trigeminal nerve
     image_url: https://geisha.arizona.edu/geisha/photos/R517.ADAMTSL2.S24AAA.001.jpg
     local_path: data/images/463478/463478_9.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.ADAMTSL2.S24AAA.001.jpg
   - comments: ophthalmic trigeminal nerve
@@ -97,6 +117,8 @@ expression_data:
     location: Sclerotome
     locations:
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.ADAMTSL2.S24B.001.jpg
   stage_range: 19-24
@@ -110,6 +132,8 @@ expression_data:
     - Leg Mesenchyme
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.ADAMTSL2.S25.001.jpg
   stage_range: '25'
@@ -150,6 +174,10 @@ orthology:
   phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCTGTCATCAGGGTCTGTCTGGTAAG
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ADAMTSL2.UApcr
 symbol: ADAMTSL2
 synonyms: ADAMTS-like protein 2
 template_length: '755'

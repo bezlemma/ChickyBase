@@ -5,6 +5,8 @@ expression_data:
   - comments: not heart
     image_url: https://geisha.arizona.edu/geisha/photos/17-3p.1a.5x.jpg
     local_path: data/images/467929/467929_0.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/17-3p.1a.5x.jpg
   - comments: not heart
@@ -13,6 +15,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: Publication
+    source_label: Publication
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/173p.pcrdkd1.19.jpg
   stage_range: '19'
@@ -23,6 +27,8 @@ expression_data:
     location: Unlabeled Embryonic
     locations:
     - Unlabeled Embryonic
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/17-5p.36.4.jpg
   stage_range: 4-6
@@ -34,11 +40,15 @@ expression_data:
     locations:
     - Anterior Intestinal Portal
     - Endoderm, early
+    source: Publication
+    source_label: Publication
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/17-5p.30.9.1.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/17-5p.30.9.jpg
     local_path: data/images/467929/467929_4.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/17-5p.30.9.jpg
   - comments: ''
@@ -48,6 +58,8 @@ expression_data:
     locations:
     - Neural Plate/Tube
     - Surface Ectoderm
+    source: Publication
+    source_label: Publication
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/17-5p.36.11.jpg
   stage_range: 7-12
@@ -59,6 +71,8 @@ expression_data:
     locations:
     - Notochord
     - Surface Ectoderm
+    source: Publication
+    source_label: Publication
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/17-5p.30.13.jpg
   - comments: not heart
@@ -67,16 +81,22 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: Publication
+    source_label: Publication
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/17-5p.10.15.01.jpg
   - comments: not heart
     image_url: https://geisha.arizona.edu/geisha/photos/17-5p.21.13az.jpg
     local_path: data/images/467929/467929_8.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/17-5p.21.13az.jpg
   - comments: not heart
     image_url: https://geisha.arizona.edu/geisha/photos/17_5p.21.13.aip20x.jpg
     local_path: data/images/467929/467929_9.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/17_5p.21.13.aip20x.jpg
   - comments: not heart
@@ -85,6 +105,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: Publication
+    source_label: Publication
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/17-5p.10.st17.02.jpg
   stage_range: 13-18
@@ -92,6 +114,8 @@ expression_data:
   - comments: not AERnot AER (not heart)not heart
     image_url: https://geisha.arizona.edu/geisha/photos/17-5p.36.21.jpg
     local_path: data/images/467929/467929_11.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/17-5p.36.21.jpg
   - comments: not AERnot AER (not heart)not heart
@@ -100,11 +124,15 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: Publication
+    source_label: Publication
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/17-5p.10.st23.03aer.jpg
   - comments: not AERnot AER (not heart)not heart
     image_url: https://geisha.arizona.edu/geisha/photos/17-5p.10.st23.z.jpg
     local_path: data/images/467929/467929_13.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/17-5p.10.st23.z.jpg
   - comments: not AERnot AER (not heart)not heart
@@ -113,6 +141,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: Publication
+    source_label: Publication
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/17-5p.10.st24.04.jpg
   stage_range: 19-24
@@ -120,6 +150,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/MIR17-5P.Bannister.2009figure3.png
     local_path: data/images/467929/467929_15.png
+    source: Publication
+    source_label: Publication
     stage: stage 1
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR17-5P.Bannister.2009figure3.png
   stage_range: 1-3
@@ -130,6 +162,8 @@ expression_data:
     location: Ovary
     locations:
     - Ovary
+    source: Publication
+    source_label: Publication
     stage: stage 29
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR17-5P.Bannister.2009figure3(3).JPG
   - comments: ''
@@ -138,6 +172,8 @@ expression_data:
     location: Testis
     locations:
     - Testis
+    source: Publication
+    source_label: Publication
     stage: stage 29
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR17-5P.Bannister.2009figure3.JPG
   stage_range: 25-30
@@ -148,6 +184,8 @@ expression_data:
     location: Testis
     locations:
     - Testis
+    source: Publication
+    source_label: Publication
     stage: stage 36
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR17-5P.Bannister.2009figure3(2).JPG
   - comments: ''
@@ -156,6 +194,8 @@ expression_data:
     location: Ovary
     locations:
     - Ovary
+    source: Publication
+    source_label: Publication
     stage: stage 36
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR17-5P.Bannister.2009figure3(4).JPG
   stage_range: 31-36
@@ -194,6 +234,13 @@ orthology:
   mod: ''
   phenotypes: ''
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=gga-miR-17-3p
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Bannister+tizard+microRNA+gonadal
 symbol: MIR17
 synonyms: MIRN17, gga-mir-17, mir-17, microRNA mir-17, mir-17
 title: MIR17

@@ -8,6 +8,8 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R280.CRB2.S3.001.jpg
   stage_range: 1-3
@@ -18,6 +20,8 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R280.CRB2.S4.01.jpg
   - comments: ''
@@ -26,6 +30,8 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R280.CRB2.S5.001.jpg
   - comments: ''
@@ -35,6 +41,8 @@ expression_data:
     locations:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R280.CRB2.S6.001.jpg
   stage_range: 4-6
@@ -46,6 +54,8 @@ expression_data:
     locations:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R280.CRB2.S7.001.jpg
   - comments: Under-stained.Under-stained?
@@ -56,6 +66,8 @@ expression_data:
     - Anterior Intestinal Portal
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R280.CRB2.S8.01.jpg
   - comments: Under-stained.Under-stained?
@@ -68,6 +80,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R280.CRB2.S9.001a.jpg
   - comments: Under-stained.Under-stained?
@@ -79,6 +93,8 @@ expression_data:
     - Hindbrain
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R293.CRB2.S9.001.jpg
   - comments: Under-stained.Under-stained?
@@ -91,6 +107,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R280.CRB2.S10.001a.jpg
   - comments: Under-stained.Under-stained?
@@ -102,6 +120,8 @@ expression_data:
     - Hindbrain
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R293.CRB2.S11.001.jpg
   - comments: Under-stained.Under-stained?
@@ -114,6 +134,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R280.CRB2.S12.001.jpg
   - comments: Under-stained.Under-stained?
@@ -126,6 +148,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R290.CRB2.S12.001.jpg
   stage_range: 7-12
@@ -140,6 +164,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R280.CRB2.S13.001a.jpg
   - comments: ''
@@ -157,6 +183,8 @@ expression_data:
     - Neural Plate/Tube
     - Somatic Mesoderm
     - Spinal Cord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R279.CRB2.S17.001.jpg
   stage_range: 13-18
@@ -176,6 +204,8 @@ expression_data:
     - Nasal Placode/Nerve
     - Somatic Mesoderm
     - Spinal Cord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R279.CRB2.S22R.001.jpg
   - comments: ''
@@ -193,6 +223,8 @@ expression_data:
     - Nasal Placode/Nerve
     - Somatic Mesoderm
     - Spinal Cord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R279.CRB2.S23R.001.jpg
   stage_range: 19-24
@@ -211,6 +243,8 @@ expression_data:
     - Midbrain
     - Nasal Placode/Nerve
     - Spinal Cord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R279.CRB2.S25R.001.jpg
   stage_range: '25'
@@ -251,6 +285,10 @@ orthology:
   phenotypes: ZDB-GENE-060610-1,ZDB-GENE-060612-1
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTAGCCCGAAGCAAAACAGCG
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CRB2.UApcr
 symbol: CRB2
 synonyms: protein crumbs homolog 2|crumbs family member 2|crumbs homolog 2
 template_length: '714'

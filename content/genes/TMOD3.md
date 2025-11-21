@@ -8,6 +8,8 @@ expression_data:
     location: Area Pellucida
     locations:
     - Area Pellucida
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R375.TMOD3.S4.001.jpg
   - comments: ''
@@ -17,6 +19,8 @@ expression_data:
     locations:
     - Area Opaca
     - Area Pellucida
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R375.TMOD3.S5.001.jpg
   - comments: ''
@@ -26,6 +30,8 @@ expression_data:
     locations:
     - Neural Plate/Tube
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R378.TMOD3.S6.001a.jpg
   stage_range: 4-6
@@ -41,6 +47,8 @@ expression_data:
     - Neural Plate/Tube
     - Paraxial Mesoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R378.TMOD3.S7.001.jpg
   - comments: Dorsal ViewVentral View
@@ -54,6 +62,8 @@ expression_data:
     - Neural Plate/Tube
     - Paraxial Mesoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R378.TMOD3.S8.01.jpg
   - comments: Dorsal ViewVentral View
@@ -69,6 +79,8 @@ expression_data:
     - Neural Plate/Tube
     - Paraxial Mesoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R378.TMOD3.S8.02.jpg
   - comments: Dorsal ViewVentral View
@@ -79,6 +91,8 @@ expression_data:
     - Blood Islands
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R396.TMOD3.S9D.001.jpg
   - comments: Dorsal ViewVentral View
@@ -93,6 +107,8 @@ expression_data:
     - Head Mesenchyme
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R396.TMOD3.S10.001a.jpg
   - comments: Dorsal ViewVentral View
@@ -108,6 +124,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Midbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R396.TMOD3.S11D.001.jpg
   - comments: Dorsal ViewVentral View
@@ -124,6 +142,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Midbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R396.TMOD3.S11V.001.jpg
   stage_range: 7-12
@@ -139,6 +159,8 @@ expression_data:
     - Midbrain
     - Pharyngeal Arches and Clefts
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R380.TMOD3.S15.002.jpg
   - comments: ''
@@ -154,6 +176,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somatic Mesoderm
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R380.TMOD3.S18.001.jpg
   stage_range: 13-18
@@ -174,6 +198,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somatic Mesoderm
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R387.TMOD3.S22.01.jpg
   - comments: ''
@@ -188,6 +214,8 @@ expression_data:
     - Isthmus/MHB
     - Nasal Placode/Nerve
     - Pharyngeal Arches and Clefts
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R387.TMOD3.S22.02.jpg
   - comments: ''
@@ -206,6 +234,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somatic Mesoderm
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R387.TMOD3.S23.001.jpg
   stage_range: 19-24
@@ -226,6 +256,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somatic Mesoderm
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R387.TMOD3.S25.001.jpg
   stage_range: '25'
@@ -266,6 +298,10 @@ orthology:
   phenotypes: ZDB-GENE-090313-353
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCAGTCTTTTCCCTTCTAACC
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=TMOD3.UApcr
 symbol: TMOD3
 synonyms: tropomodulin-3, tropomodulin-3|tropomodulin 3 (ubiquitous)
 template_length: '862'

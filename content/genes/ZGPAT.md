@@ -10,6 +10,8 @@ expression_data:
     - Limb Buds
     - Paraxial Mesoderm
     - Pharyngeal Arches and Clefts
+    source: Publication
+    source_label: Publication
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54zb2.123.21.jpg
   stage_range: 19-21
@@ -50,6 +52,10 @@ orthology:
   mod: ZFIN:ZDB-GENE-040426-1248
   phenotypes: ZDB-GENE-040426-1248
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ChEST49f4
 symbol: ZGPAT
 synonyms: zinc finger CCCH-type with G patch domain-containing protein|zinc finger,
   CCCH-type with G patch domain, Zinc finger CCCH-type with G patch domain-containing

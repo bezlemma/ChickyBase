@@ -9,6 +9,8 @@ expression_data:
     locations:
     - Epiblast
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R568.BID.S3.001.jpg
   stage_range: 1-3
@@ -21,11 +23,15 @@ expression_data:
     - Early Mesoderm
     - Epiblast
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R568.BID.S5.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R568.BID.S5A.001.jpg
     local_path: data/images/461445/461445_2.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R568.BID.S5A.001.jpg
   stage_range: 4-6
@@ -46,16 +52,22 @@ expression_data:
     - extraembryonic ectoderm
     - extraembryonic endoderm
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R568.BID.S8.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R568.BID.S9A.001.jpg
     local_path: data/images/461445/461445_4.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R568.BID.S9A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R568.BID.S9AA.001.jpg
     local_path: data/images/461445/461445_5.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R568.BID.S9AA.001.jpg
   - comments: ''
@@ -83,6 +95,8 @@ expression_data:
     - extraembryonic ectoderm
     - extraembryonic endoderm
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R568.BID.S9V.001.jpg
   - comments: ''
@@ -108,6 +122,8 @@ expression_data:
     - extraembryonic ectoderm
     - extraembryonic endoderm
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R568.BID.S10.001.jpg
   - comments: ''
@@ -131,11 +147,15 @@ expression_data:
     - Sinus Venosus
     - Somites
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R568.BID.S10.002.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R568.BID.S10V.002.jpg
     local_path: data/images/461445/461445_9.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R568.BID.S10V.002.jpg
   - comments: ''
@@ -158,11 +178,15 @@ expression_data:
     - Neural Plate/Tube
     - Notochord
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R568.BID.S11.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R568.BID.S11V.001.jpg
     local_path: data/images/461445/461445_11.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R568.BID.S11V.001.jpg
   stage_range: 7-12
@@ -173,16 +197,22 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R567.BID.S22.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R567.BID.S22A.002.jpg
     local_path: data/images/461445/461445_13.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R567.BID.S22A.002.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R567.BID.S22AA.001.jpg
     local_path: data/images/461445/461445_14.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R567.BID.S22AA.001.jpg
   stage_range: 19-24
@@ -193,6 +223,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R567.BID.S26.001.jpg
   - comments: ''
@@ -201,16 +233,22 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R567.BID.S27.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R567.BID.S27A.001.jpg
     local_path: data/images/461445/461445_17.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R567.BID.S27A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R567.BID.S27AA.001.jpg
     local_path: data/images/461445/461445_18.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R567.BID.S27AA.001.jpg
   stage_range: 25-27
@@ -254,6 +292,10 @@ orthology:
   phenotypes: ZDB-GENE-050419-35
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCAATGACCACCTTCTTTCTCAAG
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=BID
 symbol: BID
 synonyms: BH3-interacting domain death agonist
 template_length: '884'

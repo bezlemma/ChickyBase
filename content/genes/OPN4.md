@@ -8,6 +8,8 @@ expression_data:
     location: Retina
     locations:
     - Retina
+    source: Publication
+    source_label: Publication
     stage: stage 36
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cOpn4mimageA.jpg
   - comments: ''
@@ -16,6 +18,8 @@ expression_data:
     location: Retina
     locations:
     - Retina
+    source: Publication
+    source_label: Publication
     stage: stage 41
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cOpn4mimageB'.jpg
   - comments: ''
@@ -24,6 +28,8 @@ expression_data:
     location: Retina
     locations:
     - Retina
+    source: Publication
+    source_label: Publication
     stage: stage 41
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cOpn4mimageB.jpg
   - comments: ''
@@ -32,6 +38,8 @@ expression_data:
     location: Retina
     locations:
     - Retina
+    source: Publication
+    source_label: Publication
     stage: stage 43
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cOpn4mimageC'.jpg
   - comments: ''
@@ -40,6 +48,8 @@ expression_data:
     location: Retina
     locations:
     - Retina
+    source: Publication
+    source_label: Publication
     stage: stage 43
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cOpn4mimageC.jpg
   stage_range: 31-43
@@ -80,6 +90,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-070111-2,ZFIN:ZDB-GENE-080415-3
   phenotypes: ZDB-GENE-070111-2,ZDB-GENE-080415-3
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=cOpn4m.Tomonari.2007
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Tomonari+cOpn4m+2007
 symbol: OPN4
 synonyms: MOP, OPN4-2, OPN4m, cOpn4L, melanopsin, opsin-4, melanopsin|melanopsin 2|opsin
   4 like|putative Opsin 4, opsin 4, melanopsin

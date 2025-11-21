@@ -9,16 +9,22 @@ expression_data:
     locations:
     - Area Pellucida
     - Hensen's Node
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07_04.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/D07_04_old.jpg
     local_path: data/images/451548/451548_1.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07_04_old.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/D07.25.4.20x.jpg
     local_path: data/images/451548/451548_2.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07.25.4.20x.jpg
   - comments: ''
@@ -27,11 +33,15 @@ expression_data:
     location: Mesoderm, early
     locations:
     - Mesoderm, early
+    source: Publication
+    source_label: Publication
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07.25.st5.01.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/D07St.5xsect.jpg
     local_path: data/images/451548/451548_4.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07St.5xsect.jpg
   - comments: ''
@@ -41,11 +51,15 @@ expression_data:
     locations:
     - Head Process
     - Mesoderm, early
+    source: Publication
+    source_label: Publication
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07_06.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/D07_06_mag.jpg
     local_path: data/images/451548/451548_6.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07_06_mag.jpg
   stage_range: 4-6
@@ -57,6 +71,8 @@ expression_data:
     locations:
     - Forebrain
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07_08_dorsal_mag.jpg
   - comments: ''
@@ -65,6 +81,8 @@ expression_data:
     location: Paraxial Mesoderm
     locations:
     - Paraxial Mesoderm
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07_08_mag.jpg
   - comments: ''
@@ -74,6 +92,8 @@ expression_data:
     locations:
     - Anterior Intestinal Portal
     - Forebrain
+    source: Publication
+    source_label: Publication
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07_09.jpg
   - comments: ''
@@ -83,6 +103,8 @@ expression_data:
     locations:
     - Intermediate Mesoderm
     - Paraxial Mesoderm
+    source: Publication
+    source_label: Publication
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07_11_mag.jpg
   - comments: ''
@@ -95,6 +117,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Paraxial Mesoderm
     - Spinal Cord
+    source: Publication
+    source_label: Publication
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07_12_dorsal.jpg
   - comments: ''
@@ -104,6 +128,8 @@ expression_data:
     locations:
     - Intermediate Mesoderm
     - Paraxial Mesoderm
+    source: Publication
+    source_label: Publication
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07_12_dorsal_mag.jpg
   - comments: ''
@@ -113,6 +139,8 @@ expression_data:
     locations:
     - Intermediate Mesoderm
     - Paraxial Mesoderm
+    source: Publication
+    source_label: Publication
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07_12_mag.jpg
   stage_range: 7-12
@@ -125,6 +153,8 @@ expression_data:
     - Intermediate Mesoderm
     - Nephric Ducts
     - Notochord
+    source: Publication
+    source_label: Publication
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07.25.16.20xaa.jpg
   stage_range: 13-18
@@ -137,6 +167,8 @@ expression_data:
     - Intermediate Mesoderm
     - Somites
     - Spinal Cord
+    source: Publication
+    source_label: St20 et al. 0011
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07.25.st20.0011.jpg
   stage_range: 19-20
@@ -148,6 +180,8 @@ expression_data:
     locations:
     - Area Pellucida
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R374.LPHN2.S4.001.jpg
   - comments: TWINS.
@@ -158,6 +192,8 @@ expression_data:
     - Area Pellucida
     - Primitive Streak
     - Twins
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R376.LPHN2.TWIN4.001a.jpg
   - comments: TWINS.
@@ -168,6 +204,8 @@ expression_data:
     - Area Pellucida
     - Notochord
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R374.LPHN2.S5.001.jpg
   - comments: TWINS.
@@ -181,6 +219,8 @@ expression_data:
     - Neural Plate/Tube
     - Notochord
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R374.LPHN2.S6.001.jpg
   stage_range: 4-6
@@ -197,6 +237,8 @@ expression_data:
     - Notochord
     - Paraxial Mesoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R374.LPHN2.S7.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -211,6 +253,8 @@ expression_data:
     - Notochord
     - Paraxial Mesoderm
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R390.LPHN2.S10D.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -227,6 +271,8 @@ expression_data:
     - Paraxial Mesoderm
     - Primitive Streak
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R390.LPHN2.S10V.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -242,6 +288,8 @@ expression_data:
     - Notochord
     - Paraxial Mesoderm
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R390.LPHN2.S11D.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -258,6 +306,8 @@ expression_data:
     - Paraxial Mesoderm
     - Primitive Streak
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R390.LPHN2.S11V.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -272,6 +322,8 @@ expression_data:
     - Notochord
     - Paraxial Mesoderm
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R390.LPHN2.S12D.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -287,6 +339,8 @@ expression_data:
     - Paraxial Mesoderm
     - Primitive Streak
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R390.LPHN2.S12V.001.jpg
   stage_range: 7-12
@@ -308,6 +362,8 @@ expression_data:
     - Paraxial Mesoderm
     - Pharyngeal Arches and Clefts
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R390.LPHN2.S13D.001.jpg
   - comments: Dorsal view.
@@ -326,6 +382,8 @@ expression_data:
     - Paraxial Mesoderm
     - Pharyngeal Arches and Clefts
     - Spinal Cord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R393.LPHN2.S14.001.jpg
   - comments: Dorsal view.
@@ -346,6 +404,8 @@ expression_data:
     - Paraxial Mesoderm
     - Pharyngeal Arches and Clefts
     - Spinal Cord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R393.LPHN2.S17.001.jpg
   stage_range: 13-18
@@ -368,6 +428,8 @@ expression_data:
     - Midbrain
     - Somites
     - Wing
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R391.LPHN2.S21.001.jpg
   - comments: ''
@@ -387,6 +449,8 @@ expression_data:
     - Lung
     - Mesencephalon
     - Wing
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R391.LPHN2.S21.002.jpg
   - comments: ''
@@ -409,6 +473,8 @@ expression_data:
     - Spinal Ganglia and Nerves
     - Ventricles
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R391.LPHN2.S23.001.jpg
   - comments: ''
@@ -419,6 +485,8 @@ expression_data:
     - Eye
     - Hindbrain
     - Nasal Placode/Nerve
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R391.LPHN2.S23.003.jpg
   - comments: ''
@@ -429,6 +497,8 @@ expression_data:
     - Leg Mesenchyme
     - Spinal Cord
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R391.LPHN2.S23.004.jpg
   - comments: ''
@@ -440,6 +510,8 @@ expression_data:
     - Hindbrain
     - Isthmus/MHB
     - Midbrain
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R391.LPHN2.S23.006.jpg
   stage_range: 19-24
@@ -464,6 +536,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R391.LPHN2.S25.01.jpg
   - comments: ''
@@ -487,6 +561,8 @@ expression_data:
     - Somites
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R391.LPHN2.S25.02.jpg
   stage_range: '25'
@@ -498,6 +574,8 @@ expression_data:
     locations:
     - Mesoderm
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/latrophilin-2.imageA.fig1.jpg
   stage_range: 4-6
@@ -510,6 +588,8 @@ expression_data:
     - Nephric Ducts
     - Notochord
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/latrophilin-2.imageB.fig1.jpg
   - comments: ''
@@ -519,6 +599,8 @@ expression_data:
     locations:
     - Nephric Ducts
     - Notochord
+    source: Publication
+    source_label: Publication
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/latrophilin-2.imageC.fig1.jpg
   - comments: ''
@@ -527,6 +609,8 @@ expression_data:
     location: Endocardium
     locations:
     - Endocardium
+    source: Publication
+    source_label: Publication
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/latrophilin-2.imageD.fig1.jpg
   stage_range: 13-18
@@ -538,6 +622,8 @@ expression_data:
     locations:
     - Endocardium
     - Myocardium
+    source: Publication
+    source_label: Publication
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/latrophilin-2.imageE.fig1.jpg
   stage_range: 19-21
@@ -550,12 +636,16 @@ expression_data:
     locations:
     - Forebrain
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LATROPHILIN2.Bell.2004.Fig.6
       latrophilin2.png
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/LATROPHILIN2.Bell.2004.Fig.6.png
     local_path: data/images/451548/451548_44.png
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LATROPHILIN2.Bell.2004.Fig.6.png
   stage_range: 7-8
@@ -568,6 +658,8 @@ expression_data:
     - Central Nervous System
     - Diencephalon
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Vezain.2018_Fig.4.A.HH12.jpg
   stage_range: 7-12
@@ -580,6 +672,8 @@ expression_data:
     - Mesencephalon
     - Neural Plate/Tube
     - Telencephalon
+    source: Publication
+    source_label: Publication
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Vezain.2018_Fig.4.b.HH18.jpg
   stage_range: 13-18
@@ -587,6 +681,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Vezain.2018_Fig 3allimages.jpg
     local_path: data/images/451548/451548_47.jpg
+    source: Publication
+    source_label: Publication
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Vezain.2018_Fig
       3allimages.jpg
@@ -628,6 +724,13 @@ orthology:
   phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTCACAGAACTGCGAGGTCC
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=D07
+- name: St20 0011
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Bell+Antin+GEISHA+screen
 symbol: ADGRL2
 synonyms: LPHN2, adhesion G protein-coupled receptor L2|latrophilin 2
 template_length: '895'

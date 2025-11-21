@@ -8,6 +8,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: Publication
+    source_label: Publication
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/G34.60.13.jpg
   stage_range: '13'
@@ -51,6 +53,10 @@ orthology:
   mod: ZFIN:ZDB-GENE-030131-779,ZFIN:ZDB-GENE-050306-44
   phenotypes: ZDB-GENE-030131-779,ZDB-GENE-050306-44
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=G34
 symbol: YWHAE
 synonyms: 14-3-3 protein epsilon|14-3-3E|tyrosine 3-monooxygenase/tryptophan 5-monooxygenase
   activation protein, epsilon polypeptide, tyrosine 3-monooxygenase/tryptophan 5-monooxygenase

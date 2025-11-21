@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R553.CACNA2D2.S8.001.jpg
   - comments: ''
@@ -18,6 +20,8 @@ expression_data:
     - Blood Islands
     - Facial Muscles
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R553.CACNA2D2.S9.001.jpg
   - comments: ''
@@ -28,6 +32,8 @@ expression_data:
     - Blood Islands
     - Head Mesenchyme
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R553.CACNA2D2.S9.002.jpg
   stage_range: 7-12
@@ -38,6 +44,8 @@ expression_data:
     location: Cranial PNS
     locations:
     - Cranial PNS
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R551.CACNA2D2.S19.001.jpg
   - comments: ''
@@ -46,6 +54,8 @@ expression_data:
     location: Cranial PNS
     locations:
     - Cranial PNS
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R551.CACNA2D2.S19.002.jpg
   - comments: ''
@@ -54,6 +64,8 @@ expression_data:
     location: Cranial PNS
     locations:
     - Cranial PNS
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R551.CACNA2D2.S19A.001.jpg
   - comments: ''
@@ -62,6 +74,8 @@ expression_data:
     location: Myotome
     locations:
     - Myotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R554.CACNA2D2.S22.001.jpg
   stage_range: 19-24
@@ -77,16 +91,22 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Spinal Cord
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R554.CACNA2D2.S27.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R554.CACNA2D2.S27A.001.jpg
     local_path: data/images/448790/448790_8.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R554.CACNA2D2.S27A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R554.CACNA2D2.S27AA.001.jpg
     local_path: data/images/448790/448790_9.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R554.CACNA2D2.S27AA.001.jpg
   stage_range: 25-27
@@ -127,6 +147,10 @@ orthology:
   phenotypes: ''
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGTAGGTGAGGCTGTAGAGGAACTG-3'
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CACNA2D2.UApcr
 symbol: CACNA2D2
 synonyms: voltage-dependent calcium channel subunit alpha-2/delta-2|calcium channel,
   voltage-dependent, alpha 2/delta subunit 2

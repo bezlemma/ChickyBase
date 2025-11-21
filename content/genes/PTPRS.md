@@ -8,6 +8,8 @@ expression_data:
     location: Spinal Cord
     locations:
     - Spinal Cord
+    source: Publication
+    source_label: Publication
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.Fig2.CRYPalpha.E.jpg
   stage_range: 19-24
@@ -19,6 +21,8 @@ expression_data:
     location: Spinal Cord
     locations:
     - Spinal Cord
+    source: Publication
+    source_label: Publication
     stage: stage 28
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.2000.Fig3.Crypalpha.E.jpg
   stage_range: 25-30
@@ -30,6 +34,8 @@ expression_data:
     location: Spinal Cord
     locations:
     - Spinal Cord
+    source: Publication
+    source_label: Publication
     stage: stage 34
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.2000.Fig4.CRYPalpha.D.jpg
   - comments: 'LMC: lateral motor columnMMC: medial motor columnVentricular Zoneventricular
@@ -39,6 +45,8 @@ expression_data:
     location: Spinal Cord
     locations:
     - Spinal Cord
+    source: Publication
+    source_label: Publication
     stage: stage 36
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.CRYPalpha.A.jpg
   stage_range: 31-36
@@ -49,6 +57,8 @@ expression_data:
     location: Spinal Cord
     locations:
     - Spinal Cord
+    source: Publication
+    source_label: Publication
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ChiltonFig.2.CRYPAlpha2.I.jpg
   stage_range: 19-24
@@ -59,6 +69,8 @@ expression_data:
     location: Spinal Cord
     locations:
     - Spinal Cord
+    source: Publication
+    source_label: Publication
     stage: stage 28
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.CRYPAlpha2.I.jpg
   stage_range: 25-30
@@ -69,6 +81,8 @@ expression_data:
     location: Spinal Cord
     locations:
     - Spinal Cord
+    source: Publication
+    source_label: Publication
     stage: stage 34
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.2000.Fig4.CRYPalpha2.H.jpg
   - comments: dorsal and ventral hornsventricular zone
@@ -77,6 +91,8 @@ expression_data:
     location: Spinal Cord
     locations:
     - Spinal Cord
+    source: Publication
+    source_label: Publication
     stage: stage 36
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cilton.CRYPAlpha2.D-2.jpg
   stage_range: 31-36
@@ -115,6 +131,13 @@ orthology:
   mod: ''
   phenotypes: ''
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CRYPALPHA.Chilton.2000
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2000+Chilton+RPTP+CRYP2+Stoker
 symbol: PTPRS
 synonyms: CRYPALPHA, R-PTP-S, receptor-type tyrosine-protein phosphatase S|CRYP alpha|chick
   receptor tyrosine phosphatase alpha|phosphoprotein phosphatase|protein-tyrosine

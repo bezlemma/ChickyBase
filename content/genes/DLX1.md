@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R353.DLX1.S78.001.jpg
   - comments: Stage 7 & 8.Stages 9 & 10.
@@ -16,6 +18,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R353.DLX1.S910.001.jpg
   stage_range: 7-12
@@ -26,6 +30,8 @@ expression_data:
     location: Pharyngeal Arches and Clefts
     locations:
     - Pharyngeal Arches and Clefts
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R353.DLX1.S13.001.jpg
   - comments: ''
@@ -34,6 +40,8 @@ expression_data:
     location: Pharyngeal Arches and Clefts
     locations:
     - Pharyngeal Arches and Clefts
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R328.DLX1.S17.001.jpg
   stage_range: 13-18
@@ -47,6 +55,8 @@ expression_data:
     - Leg AER
     - Pharyngeal Arches and Clefts
     - Wing AER
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R328.DLX1.S19.001.jpg
   - comments: ''
@@ -60,6 +70,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somites
     - Wing AER
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R328.DLX1.S22.001.jpg
   - comments: ''
@@ -70,6 +82,8 @@ expression_data:
     - Forebrain
     - Head Mesenchyme
     - Pharyngeal Arches and Clefts
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R328.DLX1.S23.001.jpg
   stage_range: 19-24
@@ -87,6 +101,8 @@ expression_data:
     - Spinal Ganglia and Nerves
     - Telencephalon
     - Wing AER
+    source: Publication
+    source_label: Publication
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/350.DLX1.S25.001.jpg
   - comments: ''
@@ -101,6 +117,8 @@ expression_data:
     - Somites
     - Telencephalon
     - Wing Mesenchyme
+    source: Publication
+    source_label: Publication
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/350.DLX1.S26.001.jpg
   - comments: ''
@@ -111,6 +129,8 @@ expression_data:
     - Face Mesenchyme
     - Pharyngeal Arches and Clefts
     - Telencephalon
+    source: Publication
+    source_label: Publication
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/350.DLX1.S26.002.jpg
   - comments: ''
@@ -121,6 +141,8 @@ expression_data:
     - Leg Mesenchyme
     - Pharyngeal Arches and Clefts
     - Wing Mesenchyme
+    source: Publication
+    source_label: Publication
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/350.DLX1.S26.003.jpg
   - comments: ''
@@ -131,6 +153,8 @@ expression_data:
     - Leg Mesenchyme
     - Somites
     - Wing Mesenchyme
+    source: Publication
+    source_label: Publication
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/350.DLX1.S26.004.jpg
   stage_range: 25-26
@@ -141,6 +165,8 @@ expression_data:
     location: Pharyngeal Arches and Clefts
     locations:
     - Pharyngeal Arches and Clefts
+    source: Publication
+    source_label: Shig et al. 2000
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.FIG3D.SHIG.2000.jpg
   - comments: Mandibular Arch Mesenchyme
@@ -149,6 +175,8 @@ expression_data:
     location: Pharyngeal Arches and Clefts
     locations:
     - Pharyngeal Arches and Clefts
+    source: Publication
+    source_label: Shig et al. 2000
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.FIG3E.SHIG.2000.jpg
   - comments: Mandibular Arch Mesenchyme
@@ -157,6 +185,8 @@ expression_data:
     location: Pharyngeal Arches and Clefts
     locations:
     - Pharyngeal Arches and Clefts
+    source: Publication
+    source_label: Shig et al. 2000
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.FIG7C.SHIG.2000.jpg
   stage_range: 13-18
@@ -169,6 +199,8 @@ expression_data:
     location: Pharyngeal Arches and Clefts
     locations:
     - Pharyngeal Arches and Clefts
+    source: Publication
+    source_label: Shig et al. 2000
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.FIG3F.SHIG.2000.jpg
   - comments: Figure 3 compares expression patterns of mesenchymally expressed homeobox
@@ -176,6 +208,8 @@ expression_data:
       19, 20, 23 and 24.Mandibular Arch MesenchymeMaxillary Process
     image_url: https://geisha.arizona.edu/geisha/photos/FIG3a.SHIG.2000.jpg
     local_path: data/images/468737/468737_16.jpg
+    source: Publication
+    source_label: Shig et al. 2000
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3a.SHIG.2000.jpg
   stage_range: 19-24
@@ -186,12 +220,16 @@ expression_data:
     location: Telencephalon
     locations:
     - Telencephalon
+    source: Publication
+    source_label: Publication
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.Bielle.2011.Fig.4
       dlx1.png
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/DLX1.Bielle.2011.Fig.4.png
     local_path: data/images/468737/468737_18.png
+    source: Publication
+    source_label: Publication
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.Bielle.2011.Fig.4.png
   stage_range: 25-27
@@ -203,6 +241,8 @@ expression_data:
     location: Telencephalon
     locations:
     - Telencephalon
+    source: Publication
+    source_label: Publication
     stage: stage 31
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1Frowein.2002
       figure 1 panel 1e
@@ -213,6 +253,8 @@ expression_data:
     location: Telencephalon
     locations:
     - Telencephalon
+    source: Publication
+    source_label: Publication
     stage: stage 31
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1Frowein.2002
       figure 1 panel 1k
@@ -224,6 +266,8 @@ expression_data:
     location: Pharyngeal Arches and Clefts
     locations:
     - Pharyngeal Arches and Clefts
+    source: Publication
+    source_label: Publication
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.4_DLX1_St17.jpg
   stage_range: 13-18
@@ -234,6 +278,8 @@ expression_data:
     location: Ear/Otic Placode
     locations:
     - Ear/Otic Placode
+    source: Publication
+    source_label: Publication
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.6_DLX1_A.jpg
   stage_range: 19-24
@@ -241,11 +287,15 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Brown.2005_Fig.4_AllMAGES.jpg
     local_path: data/images/468737/468737_23.jpg
+    source: Publication
+    source_label: Publication
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.4_AllMAGES.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Brown.2005_Fig.6_ALLIMAGES.jpg
     local_path: data/images/468737/468737_24.jpg
+    source: Publication
+    source_label: Publication
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.6_ALLIMAGES.jpg
   stage_range: all
@@ -287,6 +337,10 @@ orthology:
   phenotypes: ZDB-GENE-990415-48
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGAGGCGGAGGAGGTGTTCCAC
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=DLX1.UApcr
 symbol: DLX1
 synonyms: homeobox protein DLX-1|homeodomain transcription factor DLX1
 template_length: '721'

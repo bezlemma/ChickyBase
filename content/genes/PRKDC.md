@@ -8,6 +8,8 @@ expression_data:
     location: Limb Buds
     locations:
     - Limb Buds
+    source: Publication
+    source_label: Publication
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53P.26.st21.jpg
   - comments: longer color
@@ -17,6 +19,8 @@ expression_data:
     locations:
     - Ubiquitous Embryonic
     - Unlabeled Extraembryonic
+    source: Publication
+    source_label: Publication
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53P.27.13-21.jpg
   - comments: longer color
@@ -26,6 +30,8 @@ expression_data:
     locations:
     - Limb Buds
     - Unlabeled Extraembryonic
+    source: Publication
+    source_label: Publication
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53P.26.st23.jpg
   stage_range: 19-24
@@ -37,6 +43,8 @@ expression_data:
     locations:
     - Limb Buds
     - Pharyngeal Arches and Clefts
+    source: Publication
+    source_label: Publication
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53P.26.st25.jpg
   stage_range: '25'
@@ -79,6 +87,10 @@ orthology:
   mod: ZFIN:ZDB-GENE-030131-9008
   phenotypes: ZDB-GENE-030131-9008
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=53P
 symbol: PRKDC
 synonyms: DNA-PKCS, dnapkcs, DNA-dependent protein kinase catalytic subunit|DNA-PK
   catalytic subunit, DNA-dependent protein kinase catalytic subunit, DNA-PK catalytic

@@ -8,6 +8,8 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R569.CELSR2.S4.001.jpg
   - comments: ''
@@ -16,11 +18,15 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R569.CELSR2.S5.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R569.CELSR2.S5A.001.jpg
     local_path: data/images/464352/464352_2.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R569.CELSR2.S5A.001.jpg
   stage_range: 4-6
@@ -31,6 +37,8 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R569.CELSR2.S8.001.jpg
   - comments: ''
@@ -41,16 +49,22 @@ expression_data:
     - Hindbrain
     - Midbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R569.CELSR2.S11.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R569.CELSR2.S11A.001.jpg
     local_path: data/images/464352/464352_5.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R569.CELSR2.S11A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R569.CELSR2.S11AA.001.jpg
     local_path: data/images/464352/464352_6.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R569.CELSR2.S11AA.001.jpg
   - comments: ''
@@ -59,11 +73,15 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R569.CELSR2.S12.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R569.CELSR2.S12A.001.jpg
     local_path: data/images/464352/464352_8.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R569.CELSR2.S12A.001.jpg
   stage_range: 7-12
@@ -76,16 +94,22 @@ expression_data:
     - Hindbrain
     - Midbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R571.CELSR2.S16.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R571.CELSR2.S17.001.jpg
     local_path: data/images/464352/464352_10.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R571.CELSR2.S17.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R571.CELSR2.S17A.001.jpg
     local_path: data/images/464352/464352_11.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R571.CELSR2.S17A.001.jpg
   stage_range: 13-18
@@ -96,6 +120,8 @@ expression_data:
     location: Central Nervous System
     locations:
     - Central Nervous System
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R570.CELSR2.S22.001.jpg
   - comments: ''
@@ -104,11 +130,15 @@ expression_data:
     location: Central Nervous System
     locations:
     - Central Nervous System
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R570.CELSR2.S24.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R570.CELSR2.S24A.001.jpg
     local_path: data/images/464352/464352_14.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R570.CELSR2.S24A.001.jpg
   stage_range: 19-24
@@ -119,21 +149,29 @@ expression_data:
     location: Central Nervous System
     locations:
     - Central Nervous System
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R570.CELSR2.S26.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R570.CELSR2.S26A.001.jpg
     local_path: data/images/464352/464352_16.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R570.CELSR2.S26A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R570.CELSR2.S26AA.001.jpg
     local_path: data/images/464352/464352_17.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R570.CELSR2.S26AA.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R570.CELSR2.S26AAA.001.jpg
     local_path: data/images/464352/464352_18.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R570.CELSR2.S26AAA.001.jpg
   stage_range: 25-26
@@ -174,6 +212,10 @@ orthology:
   phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCGTAGACAGAGCCCTGGTAGGAGTC
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CELSR2
 symbol: CELSR2
 synonyms: cadherin EGF LAG seven-pass G-type receptor 2|cadherin, EGF LAG seven-pass
   G-type receptor 2 (flamingo homolog, Drosophila)

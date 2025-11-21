@@ -9,6 +9,8 @@ expression_data:
     locations:
     - Area Pellucida
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R280.FZD6.S4.01.jpg
   - comments: ''
@@ -19,6 +21,8 @@ expression_data:
     - Area Pellucida
     - Hensen's Node
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R280.FZD6.S5.01.jpg
   - comments: ''
@@ -34,6 +38,8 @@ expression_data:
     - Neural Plate/Tube
     - Paraxial Mesoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R280.FZD6.S6.001.jpg
   stage_range: 4-6
@@ -52,6 +58,8 @@ expression_data:
     - Neural Plate/Tube
     - Paraxial Mesoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R280.FZD6.S7.001.jpg
   - comments: ''
@@ -68,6 +76,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Paraxial Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R280.FZD6.S10.001.jpg
   - comments: ''
@@ -84,6 +94,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Paraxial Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R280.FZD6.S11.001.jpg
   stage_range: 7-12
@@ -101,6 +113,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Paraxial Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R280.FZD6.S13.001.jpg
   - comments: ''
@@ -115,6 +129,8 @@ expression_data:
     - Somatic Mesoderm
     - Somites
     - Surface Ectoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R350.FZD6.S18.001.jpg
   stage_range: 13-18
@@ -131,6 +147,8 @@ expression_data:
     - Somatic Mesoderm
     - Somites
     - Surface Ectoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R350.FZD6.S19.002.jpg
   - comments: ''
@@ -146,6 +164,8 @@ expression_data:
     - Somites
     - Surface Ectoderm
     - Wing Ectoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R279.FZD6.S22.001.jpg
   stage_range: 19-24
@@ -164,6 +184,8 @@ expression_data:
     - Somites
     - Surface Ectoderm
     - Wing Ectoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R279.FZD6.S25.001.jpg
   - comments: ''
@@ -178,6 +200,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somites
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R279.FZD6.S25.002.jpg
   stage_range: '25'
@@ -188,16 +212,22 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: Publication
+    source_label: Mccabe et al. 2007
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Frizzled6.Figure5GHI.McCabe.2007.jpg
   - comments: Presumptive Trigeminal PlacodeTrigeminal Placode
     image_url: https://geisha.arizona.edu/geisha/photos/McCabe Figure 1.png
     local_path: data/images/458641/458641_13.png
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/McCabe Figure 1.png
   - comments: Presumptive Trigeminal PlacodeTrigeminal Placode
     image_url: https://geisha.arizona.edu/geisha/photos/McCabe.Figure5.png
     local_path: data/images/458641/458641_14.png
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/McCabe.Figure5.png
   - comments: Presumptive Trigeminal PlacodeTrigeminal Placode
@@ -206,6 +236,8 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: Publication
+    source_label: Mccabe et al. 2007
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Frizzled6.Figure5JKL.McCabe.2007.jpg
   stage_range: 7-10
@@ -216,6 +248,8 @@ expression_data:
     location: Retina
     locations:
     - Retina
+    source: Publication
+    source_label: Fuhrmann et al. 2006
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2A.Fuhrmann.2006.jpg
   stage_range: 19-24
@@ -226,6 +260,8 @@ expression_data:
     location: Retina
     locations:
     - Retina
+    source: Publication
+    source_label: Fuhrmann et al. 2006
     stage: stage 29
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2B.Fuhrmann.2006.jpg
   stage_range: 25-29
@@ -237,11 +273,15 @@ expression_data:
     locations:
     - Face Mesenchyme
     - Pharyngeal Arches and Clefts
+    source: Publication
+    source_label: Publication
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZD6.GeethaLoganath.2009.Figure8F.panelA.png
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/FZD6.GeethaLoganathan.2009.Figure8.panelA.png
     local_path: data/images/458641/458641_19.png
+    source: Publication
+    source_label: Publication
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZD6.GeethaLoganathan.2009.Figure8.panelA.png
   stage_range: 19-24
@@ -285,6 +325,13 @@ orthology:
   phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTGAATCCATCTCCTTCCTGCCG
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=FZD6.UApcr
+- name: Mccabe 2007
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Antoni+craniofacial+wnt+fu
 symbol: FZD6
 synonyms: FZ-6, frizzled-6|frizzled family receptor 6|frizzled homolog 6|involved
   in Wnt signaling, encoding a Wnt receptor

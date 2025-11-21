@@ -10,6 +10,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Paraxial Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R308.PENK.S7.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -20,6 +22,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Paraxial Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R308.PENK.S8.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -30,6 +34,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Paraxial Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R308.PENK.S8.002.jpg
   - comments: Dorsal view.Ventral view.
@@ -40,6 +46,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Paraxial Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R308.PENK.S8.003.jpg
   - comments: Dorsal view.Ventral view.
@@ -50,6 +58,8 @@ expression_data:
     - Neural Crest
     - Neural Plate/Tube
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R308.PENK.S12D.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -60,6 +70,8 @@ expression_data:
     - Neural Crest
     - Neural Plate/Tube
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R308.PENK.S12V.001.jpg
   stage_range: 7-12
@@ -72,6 +84,8 @@ expression_data:
     - Neural Crest
     - Neural Plate/Tube
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R308.PENK.S13D.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -82,6 +96,8 @@ expression_data:
     - Neural Crest
     - Neural Plate/Tube
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R308.PENK.S13V.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -99,6 +115,8 @@ expression_data:
     - Neural Plate/Tube
     - Pharyngeal Arches and Clefts
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R307.PENK.S17.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -115,6 +133,8 @@ expression_data:
     - Midbrain
     - Pharyngeal Arches and Clefts
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R307.PENK.S18.001.jpg
   stage_range: 13-18
@@ -134,6 +154,8 @@ expression_data:
     - Myotome
     - Nasal Placode/Nerve
     - Pharyngeal Arches and Clefts
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R284.PENK.S21.001.jpg
   - comments: ''
@@ -151,6 +173,8 @@ expression_data:
     - Nasal Placode/Nerve
     - Pharyngeal Arches and Clefts
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R284.PENK.S21L.001.jpg
   - comments: ''
@@ -167,6 +191,8 @@ expression_data:
     - Midbrain
     - Pharyngeal Arches and Clefts
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R284.PENK.S23.001.jpg
   - comments: ''
@@ -183,6 +209,8 @@ expression_data:
     - Midbrain
     - Myotome
     - Pharyngeal Arches and Clefts
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R284.PENK.S23.002.jpg
   - comments: ''
@@ -205,6 +233,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somites
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R307.PENK.S24L.001.jpg
   - comments: ''
@@ -224,6 +254,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somites
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R307.PENK.S24R.001.jpg
   stage_range: 19-24
@@ -246,6 +278,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somites
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R307.PENK.S25L.001.jpg
   - comments: ''
@@ -266,6 +300,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somites
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R307.PENK.S25R.001.jpg
   - comments: ''
@@ -277,6 +313,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somites
     - Spinal Cord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R317.PENK.S25.001.jpg
   - comments: ''
@@ -292,6 +330,8 @@ expression_data:
     - Somites
     - Spinal Cord
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R317.PENK.S25.002.jpg
   - comments: ''
@@ -312,6 +352,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somites
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R317.PENK.S25L.001.jpg
   - comments: ''
@@ -332,6 +374,8 @@ expression_data:
     - Nasal Placode/Nerve
     - Pharyngeal Arches and Clefts
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R317.PENK.S25R.001.jpg
   stage_range: '25'
@@ -371,6 +415,10 @@ orthology:
   mod: ZFIN:ZDB-GENE-030729-31,ZFIN:ZDB-GENE-030729-3
   phenotypes: ZDB-GENE-030729-31,ZDB-GENE-030729-3
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ChEST62j12
 symbol: PENK
 synonyms: proenkephalin-A
 title: PENK

@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R664.EPDR1.S10.001.jpg
   stage_range: 7-12
@@ -27,6 +29,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Sclerotome
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R652.EPDR1.S18.001.jpg
   stage_range: 13-18
@@ -43,6 +47,8 @@ expression_data:
     - Leg Mesenchyme
     - Neural Plate/Tube
     - Pharyngeal Arches and Clefts
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R652.EPDR1.S19.001.jpg
   - comments: ''
@@ -52,6 +58,8 @@ expression_data:
     locations:
     - Head Mesenchyme
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R656.EPDR1.S21.001.jpg
   - comments: ''
@@ -62,6 +70,8 @@ expression_data:
     - Head Mesenchyme
     - Pharyngeal Arches and Clefts
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R656.EPDR1.S22.001.jpg
   stage_range: 19-22
@@ -102,6 +112,10 @@ orthology:
   phenotypes: ZDB-GENE-040718-113
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTCAGTGCCTTCCAACCAGAC-3’
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=EPDR1.UApcr
 symbol: EPDR1
 synonyms: mammalian ependymin-related protein 1|ependymin related protein 1
 template_length: '711'

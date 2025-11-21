@@ -8,6 +8,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3wb10.111.4.jpg
   stage_range: '4'
@@ -18,6 +20,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R528.BAZ2B.S4.001.jpg
   stage_range: 4-6
@@ -28,6 +32,8 @@ expression_data:
     location: Anterior Intestinal Portal
     locations:
     - Anterior Intestinal Portal
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R528.BAZ2B.S7.001.jpg
   - comments: ''
@@ -42,6 +48,8 @@ expression_data:
     - Hindbrain
     - Midbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R528.BAZ2B.S9.001.jpg
   - comments: ''
@@ -57,6 +65,8 @@ expression_data:
     - Hindbrain
     - Midbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R528.BAZ2B.S10.001.jpg
   - comments: ''
@@ -74,6 +84,8 @@ expression_data:
     - Neural Plate/Tube
     - Notochord
     - Sinus Venosus
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R528.BAZ2B.S11.001.jpg
   stage_range: 7-12
@@ -88,6 +100,8 @@ expression_data:
     - Foregut
     - Neural Plate/Tube
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R524.BAZ2B.S15.001.jpg
   - comments: ''
@@ -109,6 +123,8 @@ expression_data:
     - Notochord
     - Pharyngeal Arches and Clefts
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R524.BAZ2B.S18.001.jpg
   stage_range: 13-18
@@ -128,6 +144,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Sclerotome
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BAZ2B.S20.001.jpg
   - comments: ''
@@ -144,11 +162,15 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Sclerotome
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BAZ2B.S22.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R529.BAZ2B.S22A.001.jpg
     local_path: data/images/449178/449178_10.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BAZ2B.S22A.001.jpg
   - comments: ''
@@ -160,6 +182,8 @@ expression_data:
     - Lung
     - Neural Plate/Tube
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BAZ2B.S22AA.001.jpg
   stage_range: 19-24
@@ -182,6 +206,8 @@ expression_data:
     - Spinal Cord
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BAZ2B.S26.001.jpg
   stage_range: 25-26
@@ -225,6 +251,10 @@ orthology:
   phenotypes: ZDB-GENE-070615-37,ZDB-GENE-130826-2
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCACTATCCCCACCCTTTCGTC
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ChEST148c9
 symbol: BAZ2B
 synonyms: bromodomain adjacent to zinc finger domain protein 2B|extracellular matrix
   protein F22, Bromodomain adjacent to zinc finger domain protein 2B , Extracellular

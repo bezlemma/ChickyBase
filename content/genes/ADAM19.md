@@ -9,6 +9,8 @@ expression_data:
     locations:
     - Early Mesoderm
     - Notochord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R481.ADAM19.S5.002.jpg
   stage_range: 4-6
@@ -23,6 +25,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - extraembryonic endoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R481.ADAM19.S8.001.jpg
   - comments: ''
@@ -36,6 +40,8 @@ expression_data:
     - Intermediate Mesoderm
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R481.ADAM19.S9.001.jpg
   - comments: ''
@@ -45,6 +51,8 @@ expression_data:
     locations:
     - Intermediate Mesoderm
     - Lateral Plate Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R540.ADAMTS19.S11.001.jpg
   - comments: ''
@@ -53,6 +61,8 @@ expression_data:
     location: Intermediate Mesoderm
     locations:
     - Intermediate Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R540.ADAMTS19.S11A.001.jpg
   stage_range: 7-12
@@ -75,6 +85,8 @@ expression_data:
     - Sclerotome
     - Sinus Venosus
     - Splanchnic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R480.ADAM19.S16.001.jpg
   - comments: ''
@@ -85,6 +97,8 @@ expression_data:
     - Notochord
     - Sclerotome
     - Sinus Venosus
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R480.ADAM19.S16A.001.jpg
   - comments: ''
@@ -96,6 +110,8 @@ expression_data:
     - Nephric Ducts
     - Notochord
     - Splanchnic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R480.ADAM19.S16AA.001.jpg
   - comments: ''
@@ -104,6 +120,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R480.ADAM19.S18.001.jpg
   stage_range: 13-18
@@ -122,6 +140,8 @@ expression_data:
     - Spinal Cord
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R484.ADAM19.S22.002.jpg
   - comments: ''
@@ -132,6 +152,8 @@ expression_data:
     - Spinal Cord
     - Spinal Ganglia and Nerves
     - Stomach
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R484.ADAM19.S22A.002.jpg
   - comments: ''
@@ -143,6 +165,8 @@ expression_data:
     - Spinal Cord
     - Spinal Ganglia and Nerves
     - Stomach
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R484.ADAM19.S22AA.002.jpg
   stage_range: 19-24
@@ -160,6 +184,8 @@ expression_data:
     - Sclerotome
     - Spinal Cord
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R484.ADAM19.S24A.001.jpg
   - comments: ''
@@ -174,6 +200,8 @@ expression_data:
     - Sclerotome
     - Spinal Cord
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R484.ADAM19.S24AA.001.jpg
   - comments: ''
@@ -191,11 +219,15 @@ expression_data:
     - Somatic Mesoderm
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R484.ADAM19.S26002.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R484.ADAM19.S26V.001.jpg
     local_path: data/images/457023/457023_15.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R484.ADAM19.S26V.001.jpg
   stage_range: 25-26
@@ -207,6 +239,8 @@ expression_data:
     locations:
     - Cranial Ganglion
     - Heart
+    source: Publication
+    source_label: Lewis et al. 2004
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADAM19.FIG3B.LEWIS.2004.jpg
   - comments: Quail
@@ -215,6 +249,8 @@ expression_data:
     location: Allantois
     locations:
     - Allantois
+    source: Publication
+    source_label: Lewis et al. 2004
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADAM19.FIG3C.LEWIS.2004.jpg
   stage_range: 13-18
@@ -227,6 +263,8 @@ expression_data:
     locations:
     - Spinal Cord
     - Spinal Ganglia and Nerves
+    source: Publication
+    source_label: Lewis et al. 2004
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADAM19.FIG3DEF.LEWIS.2004.jpg
   stage_range: 25-26
@@ -268,6 +306,13 @@ orthology:
   phenotypes: ZDB-GENE-070705-541,ZDB-GENE-070813-1
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGATGGATGTGTTCTGACAGCG
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ADAM19.UApcr
+- name: Lewis 2004
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=lewis+farlie+isolation+embryonic+expression+avian+adam+12+19
 symbol: ADAM19
 synonyms: disintegrin and metalloproteinase domain-containing protein 19|ADAM metallopeptidase
   domain 19 (meltrin beta), A disintegrin and metalloproteinase domain 19, Meltrin

@@ -9,6 +9,8 @@ expression_data:
     locations:
     - Early Mesoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R487.ADAMTS9.S4002.jpg
   - comments: ''
@@ -19,6 +21,8 @@ expression_data:
     - Germinal Crescent
     - Notochord
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R487.ADAMTS9.S6.001.jpg
   stage_range: 4-6
@@ -32,6 +36,8 @@ expression_data:
     - Neural Plate/Tube
     - Notochord
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R487.ADAMTS9.S8.001.jpg
   - comments: ''
@@ -53,6 +59,8 @@ expression_data:
     - Tail
     - extraembryonic ectoderm
     - extraembryonic endoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R487.ADAMTS9.S9.001.jpg
   - comments: ''
@@ -74,6 +82,8 @@ expression_data:
     - Somatic Mesoderm
     - extraembryonic ectoderm
     - extraembryonic endoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R487.ADAMTS9.S10001.jpg
   - comments: ''
@@ -84,6 +94,8 @@ expression_data:
     - Notochord
     - Somatic Mesoderm
     - extraembryonic endoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R487.ADAMTS9.S10A.001.jpg
   - comments: ''
@@ -97,6 +109,8 @@ expression_data:
     - Neural Plate/Tube
     - Notochord
     - Paraxial Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R487.ADAMTS9.S10AA.001.jpg
   - comments: ''
@@ -112,6 +126,8 @@ expression_data:
     - Tail
     - extraembryonic ectoderm
     - extraembryonic endoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R487.ADAMTS9.S12.001.jpg
   stage_range: 7-12
@@ -130,6 +146,8 @@ expression_data:
     - Somatic Mesoderm
     - Somites
     - Tail
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R487.ADAMTS9.S13.001.jpg
   - comments: ''
@@ -147,6 +165,8 @@ expression_data:
     - Somatic Mesoderm
     - Spinal Cord
     - Tail
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R487.ADAMTS9.S14.001.jpg
   - comments: ''
@@ -163,6 +183,8 @@ expression_data:
     - Somatic Mesoderm
     - Somites
     - Tail
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R487.ADAMTS9.S14.002.jpg
   - comments: ''
@@ -174,11 +196,15 @@ expression_data:
     - Ectoderm
     - Notochord
     - Somatic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R487.ADAMTS9.S14A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R487.ADAMTS9.S14V.002.jpg
     local_path: data/images/462843/462843_12.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R487.ADAMTS9.S14V.002.jpg
   stage_range: 13-18
@@ -200,6 +226,8 @@ expression_data:
     - Spinal Cord
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R490.ADAMTS9.S26.001.jpg
   - comments: dorsal mesentery
@@ -212,6 +240,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Sclerotome
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R490.ADAMTS9.S26A.001.jpg
   - comments: dorsal mesentery
@@ -226,6 +256,8 @@ expression_data:
     - Somatic Mesoderm
     - Spinal Cord
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R490.ADAMTS9.S26AA.001.jpg
   - comments: dorsal mesentery
@@ -240,11 +272,15 @@ expression_data:
     - Sclerotome
     - Spinal Cord
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R490.ADAMTS9.S26AAA.001.jpg
   - comments: dorsal mesentery
     image_url: https://geisha.arizona.edu/geisha/photos/R490.ADAMTS9.S26V.001.jpg
     local_path: data/images/462843/462843_17.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R490.ADAMTS9.S26V.001.jpg
   stage_range: 25-26
@@ -285,6 +321,10 @@ orthology:
   phenotypes: ZDB-GENE-070814-6,ZDB-GENE-070814-6
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTCACTGCTCTCATCTGGTAGCC
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ADAMTS9.UApcr
 symbol: ADAMTS9
 synonyms: A disintegrin and metalloproteinase with thrombospondin motifs 9
 template_length: '719'

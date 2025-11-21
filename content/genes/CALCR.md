@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R562.CALCR.S12.001.jpg
   stage_range: 7-12
@@ -19,6 +21,8 @@ expression_data:
     locations:
     - Head Mesenchyme
     - Sinus Venosus
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R561.CALCR.S18.001.jpg
   stage_range: 13-18
@@ -31,6 +35,8 @@ expression_data:
     - Foregut
     - Head Mesenchyme
     - Lung
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S22.001.jpg
   - comments: ''
@@ -41,6 +47,8 @@ expression_data:
     - Foregut
     - Lung
     - Outflow Tract
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S22A.001.jpg
   - comments: ''
@@ -50,6 +58,8 @@ expression_data:
     locations:
     - Foregut
     - Lung
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S22AA.001.jpg
   stage_range: 19-24
@@ -69,6 +79,8 @@ expression_data:
     - Sclerotome
     - Somatic Mesoderm
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S26.001.jpg
   - comments: ''
@@ -79,6 +91,8 @@ expression_data:
     - Atria
     - Outflow Tract
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S26A.001.jpg
   - comments: ''
@@ -88,6 +102,8 @@ expression_data:
     locations:
     - Outflow Tract
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S26AA.001.jpg
   - comments: ''
@@ -98,6 +114,8 @@ expression_data:
     - Heart
     - Liver
     - Mesonephros
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S26AAA.001.jpg
   - comments: ''
@@ -108,6 +126,8 @@ expression_data:
     - Mesonephros
     - Sclerotome
     - Somatic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S26AAAA.001.jpg
   - comments: ''
@@ -117,6 +137,8 @@ expression_data:
     locations:
     - Outflow Tract
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S26V.001.jpg
   stage_range: 25-26
@@ -157,6 +179,10 @@ orthology:
   phenotypes: ZDB-GENE-060503-420
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCTTGGATTCCCCACTCTTTTCC
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CALCR
 symbol: CALCR
 synonyms: calcitonin receptor
 template_length: '889'

@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R366.ARHGEF17.S5.001.jpg
   - comments: Low level expression.Stages 4 & 5.
@@ -16,6 +18,8 @@ expression_data:
     location: Hensen's Node
     locations:
     - Hensen's Node
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R371.ARHGEF17.S6.01.jpg
   stage_range: 4-6
@@ -30,6 +34,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R392.ARHGEF17.S7.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -42,6 +48,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R392.ARHGEF17.S8.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -51,6 +59,8 @@ expression_data:
     locations:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R392.ARHGEF17.S8D.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -64,6 +74,8 @@ expression_data:
     - Neural Plate/Tube
     - Primitive Streak
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R392.ARHGEF17.S9.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -75,6 +87,8 @@ expression_data:
     - Neural Crest
     - Neural Plate/Tube
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R392.ARHGEF17.S9D.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -87,6 +101,8 @@ expression_data:
     - Hindbrain
     - Lateral Plate Mesoderm
     - Midbrain
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R383.ARHGEF17.S12.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -99,6 +115,8 @@ expression_data:
     - Hindbrain
     - Lateral Plate Mesoderm
     - Midbrain
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R383.ARHGEF17.S12D.001.jpg
   stage_range: 7-12
@@ -119,6 +137,8 @@ expression_data:
     - Neural Plate/Tube
     - Notochord
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R383.ARHGEF17.S13.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -137,6 +157,8 @@ expression_data:
     - Neural Plate/Tube
     - Notochord
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R383.ARHGEF17.S13D.001.jpg
   - comments: Dorsal view.Ventral view.
@@ -151,6 +173,8 @@ expression_data:
     - Limb Buds
     - Spinal Cord
     - Wing
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R361.ARHGEF17.S17.01.jpg
   - comments: Dorsal view.Ventral view.
@@ -167,6 +191,8 @@ expression_data:
     - Nasal Placode/Nerve
     - Spinal Cord
     - Wing
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R361.ARHGEF17.S18.001.jpg
   stage_range: 13-18
@@ -182,6 +208,8 @@ expression_data:
     - Leg Mesenchyme
     - Spinal Cord
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R361.ARHGEF17.S22.001.jpg
   - comments: ''
@@ -198,6 +226,8 @@ expression_data:
     - Somites
     - Spinal Cord
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R361.ARHGEF17.S24.001.jpg
   stage_range: 19-24
@@ -216,6 +246,8 @@ expression_data:
     - Somites
     - Spinal Cord
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R361.ARHGEF17.S25.001.jpg
   stage_range: '25'
@@ -258,6 +290,10 @@ orthology:
   phenotypes: ZDB-GENE-061207-93
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAGCAGTGATGGTGAGGACAGGTAG
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ARHGEF17.UApcr
 symbol: RELT
 synonyms: rho guanine nucleotide exchange factor 17|tumor necrosis factor receptor
   superfamily member 19L|RELT tumor necrosis factor receptor

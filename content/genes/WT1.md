@@ -11,6 +11,8 @@ expression_data:
     - Epiblast
     - Extraembryonic Mesoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R505.WT1.S4.001.jpg
   - comments: ''
@@ -21,6 +23,8 @@ expression_data:
     - Epiblast
     - Extraembryonic Mesoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R505.WT1.S5.002.jpg
   stage_range: 4-6
@@ -32,6 +36,8 @@ expression_data:
     locations:
     - Extraembryonic Mesoderm
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R477.WT1.S8.003.jpg
   - comments: ''
@@ -43,6 +49,8 @@ expression_data:
     - Forebrain
     - Intermediate Mesoderm
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R477.WT1.S9.001.jpg
   - comments: ''
@@ -54,6 +62,8 @@ expression_data:
     - Foregut
     - Intermediate Mesoderm
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R477.WT1.S11.001.jpg
   - comments: ''
@@ -67,6 +77,8 @@ expression_data:
     - Neural Plate/Tube
     - Notochord
     - Sinus Venosus
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R477.WT1.S11.002.jpg
   - comments: ''
@@ -75,6 +87,8 @@ expression_data:
     location: Intermediate Mesoderm
     locations:
     - Intermediate Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R477.WT1.S11AA.001.jpg
   - comments: ''
@@ -88,6 +102,8 @@ expression_data:
     - Neural Plate/Tube
     - Notochord
     - Sinus Venosus
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R477.WT1.S11V.002.jpg
   stage_range: 7-12
@@ -100,11 +116,15 @@ expression_data:
     - Intermediate Mesoderm
     - Neural Plate/Tube
     - Proepicardium
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R477.WT1.S13.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R477.WT1.S13A.001.jpg
     local_path: data/images/458790/458790_9.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R477.WT1.S13A.001.jpg
   - comments: ''
@@ -114,6 +134,8 @@ expression_data:
     locations:
     - Intermediate Mesoderm
     - Proepicardium
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R477.WT1.S13V.001.jpg
   - comments: ''
@@ -123,6 +145,8 @@ expression_data:
     locations:
     - Intermediate Mesoderm
     - Proepicardium
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R424.WT1.S15.001.jpg
   - comments: ''
@@ -133,11 +157,15 @@ expression_data:
     - Intermediate Mesoderm
     - Proepicardium
     - Somatic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R424.WT1.S15.002.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R424.WT1.S15V.001.jpg
     local_path: data/images/458790/458790_13.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R424.WT1.S15V.001.jpg
   - comments: ''
@@ -147,6 +175,8 @@ expression_data:
     locations:
     - Proepicardium
     - Somatic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R424.WT1.S15b002s.jpg
   - comments: ''
@@ -155,6 +185,8 @@ expression_data:
     location: Proepicardium
     locations:
     - Proepicardium
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R424.WT1.S15c.001a.jpg
   stage_range: 13-18
@@ -181,6 +213,8 @@ expression_data:
     - Notochord
     - Proepicardium
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R437.WT1.S20.001.jpg
   - comments: ''
@@ -203,6 +237,8 @@ expression_data:
     - Notochord
     - Proepicardium
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R437.WT1.S22.001.jpg
   - comments: ''
@@ -212,6 +248,8 @@ expression_data:
     locations:
     - Gut
     - Proepicardium
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R437.WT1.S22A.001a.jpg
   - comments: ''
@@ -222,6 +260,8 @@ expression_data:
     - Foregut
     - Lung
     - Proepicardium
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R437.WT1.S22C.001a.jpg
   - comments: ''
@@ -233,6 +273,8 @@ expression_data:
     - Nephric Ducts
     - Notochord
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R437.WT1.S22E.001.jpg
   - comments: ''
@@ -242,6 +284,8 @@ expression_data:
     locations:
     - Mesonephros
     - Notochord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R437.WT1.S22F.001.jpg
   - comments: ''
@@ -250,6 +294,8 @@ expression_data:
     location: Proepicardium
     locations:
     - Proepicardium
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R437.WT1.S22VB.001a.jpg
   - comments: ''
@@ -259,6 +305,8 @@ expression_data:
     locations:
     - Mesonephros
     - Nephric Ducts
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R437.WT1.S22VC.001.jpg
   - comments: ''
@@ -280,11 +328,15 @@ expression_data:
     - Nephric Ducts
     - Proepicardium
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R437.WT1.S23.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R437.WT1.S23V.001.jpg
     local_path: data/images/458790/458790_25.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R437.WT1.S23V.001.jpg
   stage_range: 19-23
@@ -295,6 +347,8 @@ expression_data:
     location: Proepicardium
     locations:
     - Proepicardium
+    source: Publication
+    source_label: Schlueter et al. 2006
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1M.Schlueter.2006.jpg
   - comments: ''
@@ -303,6 +357,8 @@ expression_data:
     location: Proepicardium
     locations:
     - Proepicardium
+    source: Publication
+    source_label: Schlueter et al. 2006
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1O.Schlueter.2006.jpg
   - comments: ''
@@ -311,6 +367,8 @@ expression_data:
     location: Proepicardium
     locations:
     - Proepicardium
+    source: Publication
+    source_label: Schlueter et al. 2006
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1P.Schlueter.2006.jpg
   - comments: ''
@@ -319,6 +377,8 @@ expression_data:
     location: Proepicardium
     locations:
     - Proepicardium
+    source: Publication
+    source_label: Schlueter et al. 2006
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1R.Schlueter.2006.jpg
   - comments: ''
@@ -328,6 +388,8 @@ expression_data:
     locations:
     - Intermediate Mesoderm
     - Proepicardium
+    source: Publication
+    source_label: Schlueter et al. 2006
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1N.Schlueter.2006.jpg
   - comments: ''
@@ -336,6 +398,8 @@ expression_data:
     location: Proepicardium
     locations:
     - Proepicardium
+    source: Publication
+    source_label: Schlueter et al. 2006
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1Q.Schlueter.2006.jpg
   stage_range: 13-18
@@ -346,6 +410,8 @@ expression_data:
     location: Proepicardium
     locations:
     - Proepicardium
+    source: Publication
+    source_label: Schlueter et al. 2006
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2I.Schlueter.2006.jpg
   - comments: epicardial and pericardial mesothelium
@@ -354,6 +420,8 @@ expression_data:
     location: Proepicardium
     locations:
     - Proepicardium
+    source: Publication
+    source_label: Schlueter et al. 2006
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2J.Schlueter.2006.jpg
   - comments: epicardial and pericardial mesothelium
@@ -364,6 +432,8 @@ expression_data:
     - Atria
     - Proepicardium
     - Sinus Venosus
+    source: Publication
+    source_label: Schlueter et al. 2006
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2K.Schlueter.2006.jpg
   - comments: epicardial and pericardial mesothelium
@@ -373,6 +443,8 @@ expression_data:
     locations:
     - Ectoderm
     - Proepicardium
+    source: Publication
+    source_label: Schlueter et al. 2006
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2L.Schlueter.2006.jpg
   stage_range: 19-22
@@ -384,6 +456,8 @@ expression_data:
     locations:
     - Intermediate Mesoderm
     - Proepicardium
+    source: Publication
+    source_label: Ishii et al. 2007
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WT1.FIG1AB.ISHII.2007.jpg
   - comments: ''
@@ -393,6 +467,8 @@ expression_data:
     locations:
     - Intermediate Mesoderm
     - Proepicardium
+    source: Publication
+    source_label: Ishii et al. 2007
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WT1.FIG1C.ISHII.2007.jpg
   - comments: ''
@@ -401,6 +477,8 @@ expression_data:
     location: Proepicardium
     locations:
     - Proepicardium
+    source: Publication
+    source_label: Ishii et al. 2007
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WT1.FIG1D.ISHII.2007.jpg
   - comments: ''
@@ -410,6 +488,8 @@ expression_data:
     locations:
     - Intermediate Mesoderm
     - Proepicardium
+    source: Publication
+    source_label: Ishii et al. 2007
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WT1.FIG2A.ISHII.2007.jpg
   stage_range: 13-18
@@ -421,6 +501,8 @@ expression_data:
     location: Proepicardium
     locations:
     - Proepicardium
+    source: Publication
+    source_label: Publication
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WT1.Anderson.2019.Supplementary
       figure 4J-st12.jpg
@@ -428,6 +510,8 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/WT1.Anderson.2019.Supplementary
       figure 4J.jpg
     local_path: data/images/458790/458790_41.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WT1.Anderson.2019.Supplementary
       figure 4J.jpg
@@ -469,6 +553,13 @@ orthology:
   phenotypes: ZDB-GENE-980526-558,ZDB-GENE-050420-319
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTTGGTGCCGTTTCAGTTGG
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=WT1.UApcr
+- name: Schlueter 2006
+  type: paper
+  url: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
 symbol: WT1
 synonyms: CWT1, Chick Wilm's tumour protein, Wilms tumor 1 , wt1
 template_length: '663'

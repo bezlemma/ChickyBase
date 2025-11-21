@@ -5,6 +5,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/STK10.Alev.2010.5.jpg
     local_path: data/images/457424/457424_0.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STK10.Alev.2010.5.jpg
   - comments: ''
@@ -13,6 +15,8 @@ expression_data:
     location: Hensen's Node
     locations:
     - Hensen's Node
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STK10.Alev.2010.5a5.png
   stage_range: '4'
@@ -56,6 +60,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-040426-1136
   phenotypes: ZDB-GENE-040426-1136
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=STK10.Alev.2010
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Alev+Jakt+Ueda+landscape
 symbol: STK10
 synonyms: serine/threonine-protein kinase 10
 title: STK10

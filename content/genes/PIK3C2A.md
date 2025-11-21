@@ -8,6 +8,8 @@ expression_data:
     location: Testis
     locations:
     - Testis
+    source: Publication
+    source_label: Publication
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PI3KC2A.FIG5AC.SMITH.2005.copy.jpg
   - comments: ''
@@ -16,6 +18,8 @@ expression_data:
     location: Testis
     locations:
     - Testis
+    source: Publication
+    source_label: Publication
     stage: stage 30
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/pi3kc2a.fig5bd.smith.2005.copy.jpg
   stage_range: 25-30
@@ -56,6 +60,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-030328-39
   phenotypes: ZDB-GENE-030328-39
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=PIK3C2A.Smith.2005
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=smith+mcclive+male-specific+cell+migration+gonad+PDGF+signalling
 symbol: PIK3C2A
 synonyms: phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit alpha|phosphatidylinositol-4-phosphate
   3-kinase C2 domain-containing subunit alpha|phosphoinositide-3-kinase, class 2,

@@ -10,6 +10,8 @@ expression_data:
     - Early Mesoderm
     - Epiblast
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R576.CCT4.S4.001.jpg
   - comments: ''
@@ -18,6 +20,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R578.CCT4.S4.001.jpg
   - comments: ''
@@ -26,6 +30,8 @@ expression_data:
     location: Primitive Streak
     locations:
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R578.CCT4.S5.001.jpg
   stage_range: 4-6
@@ -37,6 +43,8 @@ expression_data:
     locations:
     - Neural Plate/Tube
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R578.CCT4.S7.001.jpg
   - comments: ''
@@ -51,6 +59,8 @@ expression_data:
     - Neural Plate/Tube
     - Somites
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R576.CCT4.S8.001.jpg
   - comments: ''
@@ -63,6 +73,8 @@ expression_data:
     - Head Mesenchyme
     - Neural Plate/Tube
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R578.CCT4.S9.001.jpg
   - comments: ''
@@ -81,11 +93,15 @@ expression_data:
     - Sclerotome
     - Somites
     - Splanchnic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R578.CCT4.S12.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R578.CCT4.S12A.001.jpg
     local_path: data/images/449197/449197_7.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R578.CCT4.S12A.001.jpg
   - comments: ''
@@ -97,11 +113,15 @@ expression_data:
     - Neural Plate/Tube
     - Sclerotome
     - Splanchnic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R578.CCT4.S12AA.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R578.CCT4.S12V.001.jpg
     local_path: data/images/449197/449197_9.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R578.CCT4.S12V.001.jpg
   stage_range: 7-12
@@ -123,6 +143,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Sclerotome
     - Sinus Venosus
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R577.CCT4.S15.001.jpg
   - comments: dorsal mesentery
@@ -138,6 +160,8 @@ expression_data:
     - Notochord
     - Sclerotome
     - Sinus Venosus
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R577.CCT4.S15A.001.jpg
   - comments: dorsal mesentery
@@ -166,6 +190,8 @@ expression_data:
     - Sclerotome
     - Somatic Mesoderm
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R577.CCT4.S17.001.jpg
   - comments: dorsal mesentery
@@ -177,6 +203,8 @@ expression_data:
     - Hindbrain
     - Pharyngeal Arches and Clefts
     - Pharynx
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R577.CCT4.S17A.001.jpg
   - comments: dorsal mesentery
@@ -189,6 +217,8 @@ expression_data:
     - Neural Plate/Tube
     - Sclerotome
     - Somatic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R577.CCT4.S17AA.001.jpg
   - comments: dorsal mesentery
@@ -200,6 +230,8 @@ expression_data:
     - Neural Plate/Tube
     - Sclerotome
     - Somatic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R577.CCT4.S17AAA.001.jpg
   stage_range: 13-18
@@ -223,6 +255,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Sclerotome
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.CCT4.S22.001.jpg
   - comments: ''
@@ -242,6 +276,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Sclerotome
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.CCT4.S23.001.jpg
   - comments: ''
@@ -254,6 +290,8 @@ expression_data:
     - Lung
     - Neural Plate/Tube
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.CCT4.S23A.001.jpg
   - comments: ''
@@ -266,6 +304,8 @@ expression_data:
     - Mesonephros
     - Stomach
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.CCT4.S23AA.001.jpg
   stage_range: 19-24
@@ -290,6 +330,8 @@ expression_data:
     - Spinal Cord
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.CCT4.S25.002.jpg
   - comments: ''
@@ -303,6 +345,8 @@ expression_data:
     - Sclerotome
     - Somatic Mesoderm
     - Spinal Cord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.CCT4.S25A.001.jpg
   - comments: ''
@@ -318,11 +362,15 @@ expression_data:
     - Spinal Cord
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.CCT4.S25AA.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R579.CCT4.S25V.001.jpg
     local_path: data/images/449197/449197_23.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.CCT4.S25V.001.jpg
   stage_range: '25'
@@ -365,6 +413,10 @@ orthology:
   phenotypes: ZDB-GENE-040426-1421
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCTGTTGAGATAGGATTGAGACCCG
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CCT4.UApcr
 symbol: CCT4
 synonyms: T-complex protein 1 subunit delta|T-complex protein 1 delta subunit|chaperonin
   containing TCP1, subunit 4 (delta)

@@ -5,6 +5,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Ring.Fig2.ALLIMAGES-2.jpg
     local_path: data/images/463213/463213_0.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ring.Fig2.ALLIMAGES-2.jpg
   - comments: ''
@@ -13,6 +15,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: Publication
+    source_label: Publication
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ring.Fig2.GABRA3.C.HH25.jpg
   stage_range: 25-30
@@ -23,6 +27,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: Publication
+    source_label: Publication
     stage: stage 35
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ring.Fig2.GABRA3.D.HH35.jpg
   - comments: st 45
@@ -31,6 +37,8 @@ expression_data:
     location: Retina
     locations:
     - Retina
+    source: Publication
+    source_label: Publication
     stage: stage 38
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ring.Fig2.GABRA3.E.HH38.jpg
   - comments: st 45
@@ -39,6 +47,8 @@ expression_data:
     location: Retina
     locations:
     - Retina
+    source: Publication
+    source_label: Publication
     stage: stage 42
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ring.Fig2.GABRA3.F.HH42.jpg
   - comments: st 45
@@ -47,6 +57,8 @@ expression_data:
     location: Retina
     locations:
     - Retina
+    source: Publication
+    source_label: Publication
     stage: stage 44
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ring.Fig2.GABRA3.H.HH45.jpg
   stage_range: 31-44
@@ -88,6 +100,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-091204-365
   phenotypes: ZDB-GENE-091204-365
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=GABRA3.Ring.2010
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Ring+2010+Hallbook+GABA
 symbol: GABRA3
 synonyms: gamma-aminobutyric acid receptor subunit alpha-3|gamma-aminobutyric acid
   (GABA) A receptor, alpha 3

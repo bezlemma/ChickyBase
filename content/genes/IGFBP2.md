@@ -10,6 +10,8 @@ expression_data:
     - Diencephalon
     - Midbrain
     - Paraxial Mesoderm
+    source: Publication
+    source_label: Publication
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/igfbp2-8-12s-5x-2.jpg
   - comments: ''
@@ -23,6 +25,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/igfbp2-8-12s.jpg
   stage_range: 7-12
@@ -37,6 +41,8 @@ expression_data:
     - Midbrain
     - Neural Plate/Tube
     - Paraxial Mesoderm
+    source: Publication
+    source_label: Publication
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/igfbp2-17-18s-2.jpg
   - comments: ''
@@ -47,6 +53,8 @@ expression_data:
     - Diencephalon
     - Midbrain
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/igfbp2-17-18s-3-5xhead.jpg
   - comments: ''
@@ -61,6 +69,8 @@ expression_data:
     - Neural Plate/Tube
     - Paraxial Mesoderm
     - Tail
+    source: Publication
+    source_label: Publication
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/igfbp2-19-24s-2.jpg
   - comments: ''
@@ -71,6 +81,8 @@ expression_data:
     - Diencephalon
     - Hindbrain
     - Midbrain
+    source: Publication
+    source_label: Publication
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/igfbp2-19-24s-3-4xhead.jpg
   stage_range: 13-14
@@ -83,6 +95,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Paraxial Mesoderm
+    source: Publication
+    source_label: Publication
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-IGFBP2-figS1-L.jpg
   stage_range: 7-10
@@ -90,6 +104,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Olivera-Martinez.2014-figS1-L.jpg
     local_path: data/images/461900/461900_7.jpg
+    source: Publication
+    source_label: Publication
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-figS1-L.jpg
   stage_range: all
@@ -131,6 +147,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-000125-12,ZFIN:ZDB-GENE-090107-3
   phenotypes: ZDB-GENE-000125-12,ZDB-GENE-090107-3
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=Igfbp2.Chapman.2008
+- name: Original Publication
+  type: paper
+  url: https://pubmed.ncbi.nlm.nih.gov/25063452/
 symbol: IGFBP2
 synonyms: "IGFBP-2, insulin-like growth factor-binding protein 2|IBP-2|IGF binding\
   \ protein 2|insulin-like growth factor binding protein 2, 36kDa, IGFBP-2, IGF-binding\

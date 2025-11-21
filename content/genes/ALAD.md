@@ -10,6 +10,8 @@ expression_data:
     - Early Mesoderm
     - Epiblast
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R503.ALAD.S4.001.jpg
   - comments: ''
@@ -20,6 +22,8 @@ expression_data:
     - Early Mesoderm
     - Epiblast
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R503.ALAD.S5.001.jpg
   - comments: ''
@@ -35,6 +39,8 @@ expression_data:
     - Neural Plate/Tube
     - Paraxial Mesoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R503.ALAD.S6.001.jpg
   - comments: ''
@@ -49,6 +55,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Paraxial Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R503.ALAD.S6A.001.jpg
   stage_range: 4-6
@@ -67,6 +75,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R503.ALAD.S7.001.jpg
   - comments: ''
@@ -92,6 +102,8 @@ expression_data:
     - Sinus Venosus
     - Somites
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R503.ALAD.S10.001.jpg
   - comments: ''
@@ -104,6 +116,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Midbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R503.ALAD.S10A.001.jpg
   - comments: ''
@@ -115,6 +129,8 @@ expression_data:
     - Neural Plate/Tube
     - Somatic Mesoderm
     - Tail
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R503.ALAD.S10AA.001.jpg
   stage_range: 7-12
@@ -144,6 +160,8 @@ expression_data:
     - Neural Plate/Tube
     - Somites
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R503.ALAD.S13.001.jpg
   stage_range: 13-18
@@ -154,6 +172,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R504.ALAD.S19.001.jpg
   - comments: ''
@@ -198,6 +218,8 @@ expression_data:
     - Widespread Expression
     - Wing Mesenchyme
     - Yolk Sack or Stalk
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R504.ALAD.S20.001.jpg
   - comments: ''
@@ -208,6 +230,8 @@ expression_data:
     - Endocardium
     - Myocardium
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R504.ALAD.S20A.001.jpg
   - comments: ''
@@ -225,6 +249,8 @@ expression_data:
     - Sclerotome
     - Somatic Mesoderm
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R504.ALAD.S20AA.001.jpg
   - comments: ''
@@ -243,16 +269,22 @@ expression_data:
     - Spinal Cord
     - Widespread Expression
     - Yolk Sack or Stalk
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R504.ALAD.S20B.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R519.ALAD.S24.001.jpg
     local_path: data/images/454064/454064_14.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R519.ALAD.S24.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R519.ALAD.S24.002.jpg
     local_path: data/images/454064/454064_15.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R519.ALAD.S24.002.jpg
   - comments: ''
@@ -278,6 +310,8 @@ expression_data:
     - Spinal Ganglia and Nerves
     - Ventricles
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R519.ALAD.S24V.001.jpg
   stage_range: 19-24
@@ -304,6 +338,8 @@ expression_data:
     - Spinal Cord
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R519.ALAD.S25.001.jpg
   - comments: ''
@@ -320,6 +356,8 @@ expression_data:
     - Sinus Venosus
     - Spinal Ganglia and Nerves
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R519.ALAD.S25A.001.jpg
   - comments: ''
@@ -335,6 +373,8 @@ expression_data:
     - Sclerotome
     - Somatic Mesoderm
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R519.ALAD.S25AA.001.jpg
   - comments: ''
@@ -346,6 +386,8 @@ expression_data:
     - Neural Plate/Tube
     - Sclerotome
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R519.ALAD.S25AAA.001.jpg
   stage_range: '25'
@@ -388,6 +430,10 @@ orthology:
   phenotypes: ZDB-GENE-040724-118
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCAAACAGCAGCAAGAAGTCACAGTC
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ALAD.UApcr
 symbol: ALAD
 synonyms: ALADH, PBGS, aminolevulinate dehydratase|aminolevulinate, delta-, dehydratase|delta-aminolevulinic
   acid dehydratase|porphobilinogen synthase, ALAD

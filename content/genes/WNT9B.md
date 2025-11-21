@@ -8,6 +8,8 @@ expression_data:
     location: Eye
     locations:
     - Eye
+    source: Publication
+    source_label: Publication
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt9b.image3m.jpg
   - comments: Ocular Surface epithelium
@@ -16,6 +18,8 @@ expression_data:
     location: Nephric Ducts
     locations:
     - Nephric Ducts
+    source: Publication
+    source_label: Publication
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt9b.image3p.jpg
   stage_range: 13-18
@@ -26,6 +30,8 @@ expression_data:
     location: Eye
     locations:
     - Eye
+    source: Publication
+    source_label: Publication
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt9b.image3n.jpg
   stage_range: 19-24
@@ -36,6 +42,8 @@ expression_data:
     location: Eye
     locations:
     - Eye
+    source: Publication
+    source_label: Publication
     stage: stage 29
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt9b.image3o.jpg
   stage_range: 25-29
@@ -49,6 +57,8 @@ expression_data:
     - Eye
     - Pharyngeal Arches and Clefts
     - Surface Ectoderm
+    source: Publication
+    source_label: Publication
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
       for figure 1 panel M.png
@@ -56,6 +66,8 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/WNT9B.Geetha-Loganathan.2009
       for figure 1.png
     local_path: data/images/449139/449139_5.png
+    source: Publication
+    source_label: Publication
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
       for figure 1.png
@@ -70,6 +82,8 @@ expression_data:
     - Eye
     - Pharyngeal Arches and Clefts
     - Surface Ectoderm
+    source: Publication
+    source_label: Publication
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
       for figure 1 panel N.png
@@ -82,6 +96,8 @@ expression_data:
     - Nasal Placode/Nerve
     - Pharyngeal Arches and Clefts
     - Surface Ectoderm
+    source: Publication
+    source_label: Publication
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
       for figure 1 panel O.png
@@ -94,6 +110,8 @@ expression_data:
     - Nasal Placode/Nerve
     - Pharyngeal Arches and Clefts
     - Surface Ectoderm
+    source: Publication
+    source_label: Publication
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
       for figure 2 panel D-.png
@@ -101,6 +119,8 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/WNT9B.Geetha-Loganathan.2009
       for figure 2.png
     local_path: data/images/449139/449139_9.png
+    source: Publication
+    source_label: Publication
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
       for figure 2.png
@@ -115,6 +135,8 @@ expression_data:
     - Nasal Placode/Nerve
     - Pharyngeal Arches and Clefts
     - Surface Ectoderm
+    source: Publication
+    source_label: Publication
     stage: stage 28
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
       for figure 1 panel P.png
@@ -155,6 +177,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-080201-1
   phenotypes: ZDB-GENE-080201-1
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=Wnt9b.Fokina.2006
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Antoni+craniofacial+wnt+fu
 symbol: WNT9B
 synonyms: protein Wnt-9b|wingless-type MMTV integration site family, member 9B, WNT9B
 title: WNT9B

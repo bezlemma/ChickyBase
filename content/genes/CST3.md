@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R697.CST3.S8.001.jpg
   - comments: ''
@@ -17,16 +19,22 @@ expression_data:
     locations:
     - Hindbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R697.CST3.S9.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R697.CST3.S9A.001.jpg
     local_path: data/images/461150/461150_2.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R697.CST3.S9A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R697.CST3.S11.001.jpg
     local_path: data/images/461150/461150_3.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R697.CST3.S11.001.jpg
   - comments: ''
@@ -38,6 +46,8 @@ expression_data:
     - Notochord
     - Outflow Tract
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R697.CST3.S11V.001.jpg
   stage_range: 7-12
@@ -48,6 +58,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R681.CST3.S18.001.jpg
   stage_range: 13-18
@@ -59,6 +71,8 @@ expression_data:
     locations:
     - Extraembryonic
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R681.CST3.S20.001.jpg
   - comments: ''
@@ -72,6 +86,8 @@ expression_data:
     - Neural Plate/Tube
     - Notochord
     - Pineal Gland
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R681.CST3.S20A.001.jpg
   - comments: ''
@@ -87,6 +103,8 @@ expression_data:
     - Notochord
     - Wing Mesenchyme
     - extraembryonic ectoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R681.CST3.S20AA.001.jpg
   - comments: ''
@@ -95,6 +113,8 @@ expression_data:
     location: Hindbrain
     locations:
     - Hindbrain
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R681.CST3.S20AAA.001.jpg
   - comments: ''
@@ -103,6 +123,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CST3.S21.001.jpg
   - comments: ''
@@ -111,6 +133,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CST3.S21.002.jpg
   - comments: ''
@@ -127,6 +151,8 @@ expression_data:
     - Neural Plate/Tube
     - Notochord
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CST3.S21A.001.jpg
   - comments: ''
@@ -135,6 +161,8 @@ expression_data:
     location: Hindbrain
     locations:
     - Hindbrain
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CST3.S21A.002.jpg
   - comments: ''
@@ -150,6 +178,8 @@ expression_data:
     - Notochord
     - Sclerotome
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CST3.S21AA.001.jpg
   - comments: ''
@@ -158,6 +188,8 @@ expression_data:
     location: Forebrain
     locations:
     - Forebrain
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CST3.S21AA.002.jpg
   - comments: ''
@@ -169,11 +201,15 @@ expression_data:
     - Myotome
     - Nephric Ducts
     - Notochord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CST3.S21AAA.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R679.CST3.S21AAAAA.001.jpg
     local_path: data/images/461150/461150_17.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CST3.S21AAAAA.001.jpg
   stage_range: 19-24
@@ -184,6 +220,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CST3.S25.001.jpg
   - comments: ''
@@ -192,6 +230,8 @@ expression_data:
     location: Hindbrain
     locations:
     - Hindbrain
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CST3.S25A.001.jpg
   - comments: ''
@@ -200,6 +240,8 @@ expression_data:
     location: Forebrain
     locations:
     - Forebrain
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CST3.S25AA.001.jpg
   - comments: ''
@@ -219,6 +261,8 @@ expression_data:
     - Sclerotome
     - Spinal Cord
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CST3.S25AAA.001.jpg
   - comments: ''
@@ -234,6 +278,8 @@ expression_data:
     - Spinal Cord
     - Ventricles
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CST3.S25B.001.jpg
   - comments: ''
@@ -243,11 +289,15 @@ expression_data:
     locations:
     - Allantois
     - Mesonephros
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CST3.S25BB.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R679.CST3.S25BBB.001.jpg
     local_path: data/images/461150/461150_24.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CST3.S25BBB.001.jpg
   stage_range: '25'
@@ -290,6 +340,10 @@ orthology:
   phenotypes: ZDB-GENE-030131-373
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTGGGAAAGCTGCGAGAAGAC-3’
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CST3.UApcr
 symbol: CST3
 synonyms: cystatin|egg-white cystatin|ovocystatin
 template_length: '541'
