@@ -278,7 +278,7 @@ expression_data:
     - Spinal Cord
     - ZPA
     source: Publication
-    source_label: Publication
+    source_label: Pickering et al. 2019
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-Fig2i.jpg
   - comments: ''
@@ -290,7 +290,7 @@ expression_data:
     - Spinal Cord
     - ZPA
     source: Publication
-    source_label: Publication
+    source_label: Pickering et al. 2019
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-Fig2k-2.jpg
   stage_range: 19-24
@@ -303,7 +303,7 @@ expression_data:
     - Somites
     - ZPA
     source: Publication
-    source_label: Publication
+    source_label: Pickering et al. 2019
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-Fig2j.jpg
   - comments: ''
@@ -314,7 +314,7 @@ expression_data:
     - Somites
     - Wing Mesenchyme
     source: Publication
-    source_label: Publication
+    source_label: Pickering et al. 2019
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-Fig2l.jpg
   stage_range: 25-27
@@ -323,7 +323,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/Pickering.2019-p27kip1-Fig2.jpg
     local_path: data/images/463028/463028_19.jpg
     source: Publication
-    source_label: Publication
+    source_label: Pickering et al. 2019
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-p27kip1-Fig2.jpg
   stage_range: all
@@ -335,7 +335,7 @@ expression_data:
     locations:
     - Neural Plate/Tube
     source: Publication
-    source_label: Publication
+    source_label: Olivera-Martinez et al. 2014
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-fig5-p27.JPG
   stage_range: 7-10
@@ -380,7 +380,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CDKN1B.UApcr
-- name: Original Publication
+- name: Pickering 2019
   type: paper
   url: https://pubmed.ncbi.nlm.nih.gov/25063452/
 symbol: CDKN1B

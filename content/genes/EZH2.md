@@ -235,7 +235,7 @@ expression_data:
     - Area Pellucida
     - Epiblast
     source: Publication
-    source_label: Publication
+    source_label: Travers et al. 2023
     stage: stage XII
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EZH2.Travers.2023-Fig7-1-R-XII.jpg
   stage_range: X-XIV
@@ -248,7 +248,7 @@ expression_data:
     - Epiblast
     - Primitive Streak
     source: Publication
-    source_label: Publication
+    source_label: Travers et al. 2023
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EZH2.Travers.2023-Fig7-1-R-3.jpg
   stage_range: 1-3
@@ -260,7 +260,7 @@ expression_data:
     locations:
     - Headfold
     source: Publication
-    source_label: Publication
+    source_label: Travers et al. 2023
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EZH2.Travers.2023-Fig7-1-R-6.jpg
   stage_range: 4-6
@@ -272,7 +272,7 @@ expression_data:
     locations:
     - Neural Plate/Tube
     source: Publication
-    source_label: Publication
+    source_label: Travers et al. 2023
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EZH2.Travers.2023-Fig7-1-R-9.jpg
   stage_range: 7-9
@@ -281,7 +281,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/EZH2.Travers.2023-Fig7-1-R.jpg
     local_path: data/images/455730/455730_20.jpg
     source: Publication
-    source_label: Publication
+    source_label: Travers et al. 2023
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EZH2.Travers.2023-Fig7-1-R.jpg
   stage_range: all

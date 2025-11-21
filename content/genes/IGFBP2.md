@@ -96,7 +96,7 @@ expression_data:
     - Neural Plate/Tube
     - Paraxial Mesoderm
     source: Publication
-    source_label: Publication
+    source_label: Olivera-Martinez et al. 2014
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-IGFBP2-figS1-L.jpg
   stage_range: 7-10
@@ -105,7 +105,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/Olivera-Martinez.2014-figS1-L.jpg
     local_path: data/images/461900/461900_7.jpg
     source: Publication
-    source_label: Publication
+    source_label: Olivera-Martinez et al. 2014
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-figS1-L.jpg
   stage_range: all
@@ -151,7 +151,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=Igfbp2.Chapman.2008
-- name: Original Publication
+- name: Olivera-Martinez 2014
   type: paper
   url: https://pubmed.ncbi.nlm.nih.gov/25063452/
 symbol: IGFBP2

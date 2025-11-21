@@ -9,7 +9,7 @@ expression_data:
     locations:
     - Spinal Cord
     source: Publication
-    source_label: Publication
+    source_label: Kao et al. 2009
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SRC.Kao.2009.Fig.1
       src.png
@@ -17,7 +17,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/SRC.Kao.2009.Fig.1.png
     local_path: data/images/461015/461015_1.png
     source: Publication
-    source_label: Publication
+    source_label: Kao et al. 2009
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SRC.Kao.2009.Fig.1.png
   stage_range: 25-26
@@ -65,7 +65,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=SRC.Kao.2009
-- name: Original Publication
+- name: Kao 2009
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Kao+Palmesino+Kania+trajectory
 symbol: SRC

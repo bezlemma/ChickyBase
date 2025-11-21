@@ -237,14 +237,14 @@ expression_data:
     locations:
     - Ubiquitous
     source: Publication
-    source_label: Publication
+    source_label: Robb et al. 2012
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CDK7.HH25.Robb.2012.F3.cdk7.png
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Robb.2012.F3.cdk7.png
     local_path: data/images/448801/448801_19.png
     source: Publication
-    source_label: Publication
+    source_label: Robb et al. 2012
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robb.2012.F3.cdk7.png
   stage_range: '25'
@@ -289,7 +289,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ChEST582c23
-- name: Original Publication
+- name: Robb 2012
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Robb+Antin+candidate+coloboma
 symbol: CDK7

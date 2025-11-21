@@ -10,7 +10,7 @@ expression_data:
     locations:
     - Pituitary (Rudiment)
     source: Publication
-    source_label: Publication
+    source_label: Murchow et al. 2005
     stage: stage 44
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THSBeta.Murchow.2005.Fig.3
       thsb.png
@@ -18,7 +18,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/THSBeta.Murchow.2005.Fig.3.png
     local_path: data/images/461039/461039_1.png
     source: Publication
-    source_label: Publication
+    source_label: Murchow et al. 2005
     stage: stage 44
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THSBeta.Murchow.2005.Fig.3.png
   stage_range: 31-44
@@ -65,7 +65,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=TSHBeta.Murchow.2005
-- name: Original Publication
+- name: Murchow 2005
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Muchow+Bossis+Porter+Ontogeny
 symbol: THRB

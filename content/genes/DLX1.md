@@ -221,7 +221,7 @@ expression_data:
     locations:
     - Telencephalon
     source: Publication
-    source_label: Publication
+    source_label: Bielle et al. 2011
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.Bielle.2011.Fig.4
       dlx1.png
@@ -229,7 +229,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/DLX1.Bielle.2011.Fig.4.png
     local_path: data/images/468737/468737_18.png
     source: Publication
-    source_label: Publication
+    source_label: Bielle et al. 2011
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.Bielle.2011.Fig.4.png
   stage_range: 25-27
@@ -242,7 +242,7 @@ expression_data:
     locations:
     - Telencephalon
     source: Publication
-    source_label: Publication
+    source_label: Frowein et al. 2002
     stage: stage 31
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1Frowein.2002
       figure 1 panel 1e
@@ -254,7 +254,7 @@ expression_data:
     locations:
     - Telencephalon
     source: Publication
-    source_label: Publication
+    source_label: Frowein et al. 2002
     stage: stage 31
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1Frowein.2002
       figure 1 panel 1k
@@ -267,7 +267,7 @@ expression_data:
     locations:
     - Pharyngeal Arches and Clefts
     source: Publication
-    source_label: Publication
+    source_label: Brown et al. 2005
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.4_DLX1_St17.jpg
   stage_range: 13-18
@@ -279,7 +279,7 @@ expression_data:
     locations:
     - Ear/Otic Placode
     source: Publication
-    source_label: Publication
+    source_label: Brown et al. 2005
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.6_DLX1_A.jpg
   stage_range: 19-24
@@ -288,14 +288,14 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/Brown.2005_Fig.4_AllMAGES.jpg
     local_path: data/images/468737/468737_23.jpg
     source: Publication
-    source_label: Publication
+    source_label: Brown et al. 2005
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.4_AllMAGES.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Brown.2005_Fig.6_ALLIMAGES.jpg
     local_path: data/images/468737/468737_24.jpg
     source: Publication
-    source_label: Publication
+    source_label: Brown et al. 2005
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.6_ALLIMAGES.jpg
   stage_range: all

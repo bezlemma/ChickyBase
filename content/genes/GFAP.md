@@ -9,7 +9,7 @@ expression_data:
     locations:
     - Central Nervous System
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2008
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2008.Figure10.panelB.JPG
   - comments: ''
@@ -19,21 +19,21 @@ expression_data:
     locations:
     - Central Nervous System
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2008
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2008.Figure10.panelC.JPG
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/GFAP.Domowicz.2008.Figure11.panelA.JPG
     local_path: data/images/453099/453099_2.jpg
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2008
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2008.Figure11.panelA.JPG
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/GFAP.Domowicz.2008.Figure6.panelA.JPG
     local_path: data/images/453099/453099_3.jpg
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2008
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2008.Figure6.panelA.JPG
   - comments: ''
@@ -43,7 +43,7 @@ expression_data:
     locations:
     - Central Nervous System
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2008
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2008.Figure6.panelB.JPG
   stage_range: 7-12
@@ -52,7 +52,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/GFAP.Domowicz.2008.Figure9.panelA.JPG
     local_path: data/images/453099/453099_5.jpg
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2008
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2008.Figure9.panelA.JPG
   - comments: ''
@@ -62,7 +62,7 @@ expression_data:
     locations:
     - Central Nervous System
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2008
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2008.Figure9.panelB.JPG
   - comments: ''
@@ -72,7 +72,7 @@ expression_data:
     locations:
     - Central Nervous System
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2008
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2008.Figure9.panelC.JPG
   - comments: ''
@@ -82,7 +82,7 @@ expression_data:
     locations:
     - Central Nervous System
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2008
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2008.Figure9.panelD.JPG
   - comments: ''
@@ -92,7 +92,7 @@ expression_data:
     locations:
     - Central Nervous System
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2008
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2008.Figure9.panelE.JPG
   stage_range: 13-18
@@ -102,7 +102,7 @@ expression_data:
       9a.png
     local_path: data/images/453099/453099_10.png
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2011
     stage: stage 1
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2011
       for figure 9a.png
@@ -116,7 +116,7 @@ expression_data:
     locations:
     - Midbrain
     source: Publication
-    source_label: Publication
+    source_label: Comowicz et al. 2011
     stage: stage 37
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Comowicz.2011
       for figure 2, panel D.png
@@ -125,7 +125,7 @@ expression_data:
       2.png
     local_path: data/images/453099/453099_12.png
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2011
     stage: stage 37
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2011
       for figure 2.png
@@ -137,7 +137,7 @@ expression_data:
     locations:
     - Midbrain
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2011
     stage: stage 37
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2011
       for figure 9, panel A1.png
@@ -149,7 +149,7 @@ expression_data:
     locations:
     - Midbrain
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2011
     stage: stage 37
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2011
       for figure 9, panel E.png
@@ -161,7 +161,7 @@ expression_data:
     locations:
     - Midbrain
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2011
     stage: stage 41
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2011
       for figure 3, panel C.png
@@ -170,7 +170,7 @@ expression_data:
       3.png
     local_path: data/images/453099/453099_16.png
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2011
     stage: stage 41
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2011
       for figure 3.png
@@ -182,7 +182,7 @@ expression_data:
     locations:
     - Ventricles
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2011
     stage: stage 41
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2011
       for figure 7, panel A.png
@@ -191,7 +191,7 @@ expression_data:
       7.png
     local_path: data/images/453099/453099_18.png
     source: Publication
-    source_label: Publication
+    source_label: Domowicz et al. 2011
     stage: stage 41
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2011
       for figure 7.png
@@ -235,7 +235,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=GFAP.Domowicz.2008
-- name: Original Publication
+- name: Domowicz 2011
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=domowicz+kraig+response+navarro
 symbol: GFAP

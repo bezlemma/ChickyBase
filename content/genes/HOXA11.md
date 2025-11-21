@@ -87,7 +87,7 @@ expression_data:
     locations:
     - Leg
     source: Publication
-    source_label: Publication
+    source_label: Nelson et al. 1996
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-11.Nelson.1996.Fig5CL-st19.jpg
   - comments: ''
@@ -97,7 +97,7 @@ expression_data:
     locations:
     - Wing
     source: Publication
-    source_label: Publication
+    source_label: Nelson et al. 1996
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-11.Nelson.1996.Fig5CW-st19.jpg
   - comments: ''
@@ -107,7 +107,7 @@ expression_data:
     locations:
     - Leg
     source: Publication
-    source_label: Publication
+    source_label: Nelson et al. 1996
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-11.Nelson.1996.Fig5CL-st23.jpg
   - comments: ''
@@ -117,7 +117,7 @@ expression_data:
     locations:
     - Wing
     source: Publication
-    source_label: Publication
+    source_label: Nelson et al. 1996
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-11.Nelson.1996.Fig5CW-st23.jpg
   stage_range: 19-24
@@ -129,7 +129,7 @@ expression_data:
     locations:
     - Leg
     source: Publication
-    source_label: Publication
+    source_label: Nelson et al. 1996
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-11.Nelson.1996.Fig5CL-st25.jpg
   - comments: ''
@@ -139,7 +139,7 @@ expression_data:
     locations:
     - Wing
     source: Publication
-    source_label: Publication
+    source_label: Nelson et al. 1996
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-11.Nelson.1996.Fig5CW-st25.jpg
   - comments: ''
@@ -149,7 +149,7 @@ expression_data:
     locations:
     - Wing
     source: Publication
-    source_label: Publication
+    source_label: Nelson et al. 1996
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-11.Nelson.1996.Fig9G-st25.jpg
   - comments: ''
@@ -159,7 +159,7 @@ expression_data:
     locations:
     - Leg
     source: Publication
-    source_label: Publication
+    source_label: Nelson et al. 1996
     stage: stage 28
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-11.Nelson.1996.Fig5CL-st28.jpg
   - comments: ''
@@ -169,7 +169,7 @@ expression_data:
     locations:
     - Wing
     source: Publication
-    source_label: Publication
+    source_label: Nelson et al. 1996
     stage: stage 28
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-11.Nelson.1996.Fig5CW-st28.jpg
   stage_range: 25-30
@@ -178,14 +178,14 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/Hoxa-11.Nelson.1996.Fig5.jpg
     local_path: data/images/448856/448856_16.jpg
     source: Publication
-    source_label: Publication
+    source_label: Nelson et al. 1996
     stage: stage 44
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-11.Nelson.1996.Fig5.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Hoxa-11.Nelson.1996.Fig9.jpg
     local_path: data/images/448856/448856_17.jpg
     source: Publication
-    source_label: Publication
+    source_label: Nelson et al. 1996
     stage: stage 44
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-11.Nelson.1996.Fig9.jpg
   stage_range: 31-44
@@ -231,7 +231,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=HOXA-11.Reid.2002
-- name: Original Publication
+- name: Nelson 1996
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Nelson+1996+Hox
 symbol: HOXA11

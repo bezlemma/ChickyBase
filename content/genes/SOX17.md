@@ -189,7 +189,7 @@ expression_data:
     locations:
     - Early Endoderm
     source: Publication
-    source_label: Publication
+    source_label: Acloque et al. 2011
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX17.Acloque.2011.Fig.6
       sox17.png
@@ -197,7 +197,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/SOX17.Acloque.2011.Fig.6.png
     local_path: data/images/461146/461146_16.png
     source: Publication
-    source_label: Publication
+    source_label: Acloque et al. 2011
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX17.Acloque.2011.Fig.6.png
   stage_range: '4'
@@ -240,7 +240,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=pgr1n.pk001.g24
-- name: Original Publication
+- name: Acloque 2011
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Sox3+Acloque+Rizzoti+territories
 symbol: SOX17

@@ -10,7 +10,7 @@ expression_data:
     locations:
     - Eye
     source: Publication
-    source_label: Publication
+    source_label: Trimarchi et al. 2009
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SGK.Trimarchi.2009
       for figure 4, panel L.JPG
@@ -24,7 +24,7 @@ expression_data:
     locations:
     - Eye
     source: Publication
-    source_label: Publication
+    source_label: Trimarchi et al. 2009
     stage: stage 29
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SGK.Trimarchi.2009
       for figure 4, panel L1.JPG
@@ -38,7 +38,7 @@ expression_data:
     locations:
     - Eye
     source: Publication
-    source_label: Publication
+    source_label: Trimarchi et al. 2009
     stage: stage 34
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SGK.Trimarchi.2009
       for figure 4, panel L2.JPG
@@ -51,7 +51,7 @@ expression_data:
     - Eye
     - Retina
     source: Publication
-    source_label: Publication
+    source_label: Trimarchi et al. 2009
     stage: stage 36
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SGK.Trimarchi.2009
       for figure 5, panel U.JPG
@@ -98,7 +98,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=SGK.Trimarchi.2009
-- name: Original Publication
+- name: Trimarchi 2009
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=trimarchi+cho+peripheral
 symbol: SGK1

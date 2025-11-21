@@ -10,7 +10,7 @@ expression_data:
     - Area Pellucida
     - Epiblast
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: stage XII
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGIF1.Trevers.2023-Fig7-4-G-xii.jpg
   stage_range: X-XIV
@@ -24,7 +24,7 @@ expression_data:
     - Epiblast
     - Primitive Streak
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGIF1.Trevers.2023-Fig7-4-G-3.jpg
   stage_range: 1-3
@@ -41,7 +41,7 @@ expression_data:
     - Mesoderm
     - Neural Plate/Tube
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGIF1.Trevers.2023-Fig7-4-G-5.jpg
   stage_range: 4-6
@@ -56,7 +56,7 @@ expression_data:
     - Paraxial Mesoderm
     - Somites
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGIF1.Trevers.2023-Fig7-4-G-9.jpg
   stage_range: 7-9
@@ -65,7 +65,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/TGIF1.Trevers.2023-Fig7-4-G.jpg
     local_path: data/images/461812/461812_4.jpg
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGIF1.Trevers.2023-Fig7-4-G.jpg
   stage_range: all

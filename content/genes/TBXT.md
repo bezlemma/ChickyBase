@@ -224,7 +224,7 @@ expression_data:
     - Area Pellucida
     - Kohler's Sickle
     source: Publication
-    source_label: Publication
+    source_label: Mikawa et al. 2004
     stage: stage XIII
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20042B.jpg
   stage_range: X-XIV
@@ -236,7 +236,7 @@ expression_data:
     locations:
     - Unlabeled Embryonic
     source: Publication
-    source_label: Publication
+    source_label: Mikawa et al. 2004
     stage: stage 1
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20042A.jpg
   - comments: ''
@@ -246,7 +246,7 @@ expression_data:
     locations:
     - Primitive Streak
     source: Publication
-    source_label: Publication
+    source_label: Mikawa et al. 2004
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20042C.jpg
   - comments: ''
@@ -256,7 +256,7 @@ expression_data:
     locations:
     - Primitive Streak
     source: Publication
-    source_label: Publication
+    source_label: Mikawa et al. 2004
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20047F.jpg
   - comments: ''
@@ -266,7 +266,7 @@ expression_data:
     locations:
     - Primitive Streak
     source: Publication
-    source_label: Publication
+    source_label: Mikawa et al. 2004
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20047G.jpg
   - comments: ''
@@ -276,7 +276,7 @@ expression_data:
     locations:
     - Primitive Streak
     source: Publication
-    source_label: Publication
+    source_label: Mikawa et al. 2004
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20047I.jpg
   stage_range: 1-3
@@ -288,7 +288,7 @@ expression_data:
     locations:
     - Primitive Streak
     source: Publication
-    source_label: Publication
+    source_label: Mikawa et al. 2004
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20042E.jpg
   stage_range: 4-6
@@ -300,7 +300,7 @@ expression_data:
     locations:
     - Primitive Streak
     source: Publication
-    source_label: Publication
+    source_label: Mikawa et al. 2004
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20042F.jpg
   stage_range: '7'
@@ -402,14 +402,14 @@ expression_data:
     - Hensen's Node
     - Primitive Streak
     source: Publication
-    source_label: Publication
+    source_label: Alev et al. 2010
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRA.Alev.2010.1A.png
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/BRA.Alev.2010.1Aall.png
     local_path: data/images/450420/450420_34.png
     source: Publication
-    source_label: Publication
+    source_label: Alev et al. 2010
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRA.Alev.2010.1Aall.png
   stage_range: 1-3
@@ -476,7 +476,7 @@ expression_data:
     - Hensen's Node
     - Primitive Streak
     source: Publication
-    source_label: Publication
+    source_label: Acloque et al. 2011
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRA.Acloque.2011.Fig.6
       bra.png
@@ -484,7 +484,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/BRA.Acloque.2011.Fig.6.png
     local_path: data/images/450420/450420_41.png
     source: Publication
-    source_label: Publication
+    source_label: Acloque et al. 2011
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRA.Acloque.2011.Fig.6.png
   stage_range: 1-3
@@ -493,7 +493,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/BRACHYURY.Dubrulle.2001.2A-P.png
     local_path: data/images/450420/450420_42.png
     source: Publication
-    source_label: Publication
+    source_label: Dubrulle et al. 2001
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRACHYURY.Dubrulle.2001.2A-P.png
   - comments: ''
@@ -504,7 +504,7 @@ expression_data:
     - Notochord
     - Primitive Streak
     source: Publication
-    source_label: Publication
+    source_label: Dubrulle et al. 2001
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRACHYURY.Dubrulle.2001.2I-L.png
   stage_range: '13'
@@ -582,7 +582,7 @@ expression_data:
     - Somites
     - Tail
     source: Publication
-    source_label: Publication
+    source_label: Liu et al. 2003
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1A.jpg
   - comments: ''
@@ -595,7 +595,7 @@ expression_data:
     - Notochord
     - Somites
     source: Publication
-    source_label: Publication
+    source_label: Liu et al. 2003
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1D.jpg
   - comments: ''
@@ -608,7 +608,7 @@ expression_data:
     - Somites
     - Tail
     source: Publication
-    source_label: Publication
+    source_label: Liu et al. 2003
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1B.jpg
   - comments: ''
@@ -621,7 +621,7 @@ expression_data:
     - Somites
     - Wing Mesenchyme
     source: Publication
-    source_label: Publication
+    source_label: Liu et al. 2003
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1E.jpg
   - comments: ''
@@ -631,7 +631,7 @@ expression_data:
     locations:
     - Leg Mesenchyme
     source: Publication
-    source_label: Publication
+    source_label: Liu et al. 2003
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1F.jpg
   stage_range: 13-18
@@ -646,7 +646,7 @@ expression_data:
     - Somites
     - Tail
     source: Publication
-    source_label: Publication
+    source_label: Liu et al. 2003
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1C.jpg
   - comments: ''
@@ -659,7 +659,7 @@ expression_data:
     - Somites
     - Tail
     source: Publication
-    source_label: Publication
+    source_label: Liu et al. 2003
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1G.jpg
   stage_range: 19-22
@@ -708,7 +708,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=Brachyury
-- name: Hardy 2008
+- name: Dubrulle 2001
   type: paper
   url: https://www.ncbi.nlm.nih.gov/pubmed/?term=liu+Nakamura+Knezevic+2003
 symbol: TBXT

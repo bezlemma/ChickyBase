@@ -6,7 +6,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/STK10.Alev.2010.5.jpg
     local_path: data/images/457424/457424_0.jpg
     source: Publication
-    source_label: Publication
+    source_label: Alev et al. 2010
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STK10.Alev.2010.5.jpg
   - comments: ''
@@ -16,7 +16,7 @@ expression_data:
     locations:
     - Hensen's Node
     source: Publication
-    source_label: Publication
+    source_label: Alev et al. 2010
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STK10.Alev.2010.5a5.png
   stage_range: '4'
@@ -64,7 +64,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=STK10.Alev.2010
-- name: Original Publication
+- name: Alev 2010
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Alev+Jakt+Ueda+landscape
 symbol: STK10
