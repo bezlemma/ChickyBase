@@ -18,7 +18,6 @@ resources/
 
 # Project Infrastructure (Not for Site Repo)
 backend/
-planning/
 scrapers/
 scripts/
 requirements.txt
@@ -34,3 +33,4 @@ __pycache__/
 *.pyc
 venv/
 .env
+.gemini/

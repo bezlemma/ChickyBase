@@ -10,6 +10,7 @@
     <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
         <!-- Column 1: Metadata (3 cols) -->
         <div class="lg:col-span-3 space-y-6">
+
             <!-- Gene Information -->
             <div class="bg-slate-50 p-6 rounded-lg border border-slate-200 shadow-sm">
                 <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4">Gene Information</h3>
@@ -32,8 +33,32 @@
                         <dd class="mt-1 text-sm text-slate-700">{{ . }}</dd>
                     </div>
                     {{ end }}
+                    {{ with .Params.species }}
+                    <div>
+                        <dt class="text-xs font-medium text-slate-500 uppercase">Species</dt>
+                        <dd class="mt-1 text-sm text-slate-700 italic">{{ . }}</dd>
+                    </div>
+                    {{ end }}
                 </dl>
             </div>
+
+            <!-- Phenotypes -->
+            {{ if .Params.phenotypes }}
+            <div class="bg-white p-6 rounded-lg border border-slate-200 shadow-sm">
+                <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4">Phenotypes</h3>
+                <ul class="space-y-3">
+                    {{ range .Params.phenotypes }}
+                    <li class="text-sm text-slate-700">
+                        <span class="font-medium">{{ .description }}</span>
+                        {{ if .reference }}
+                        <a href="https://pubmed.ncbi.nlm.nih.gov/{{ .reference }}" target="_blank"
+                            class="text-xs text-primary hover:underline ml-1">[{{ .reference }}]</a>
+                        {{ end }}
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+            {{ end }}
 
             <!-- Primer & Template Information -->
             {{ if or .Params.forward_primer .Params.reverse_primer .Params.template_length }}
@@ -206,15 +231,8 @@
         </div>
     </div>
 
-    <!-- Orthology Section - Full Width at BOTTOM -->
-    {{ if .Params.orthology }}
-    {{ $hasOrthologyData := false }}
-    {{ range .Params.orthology }}
-    {{ if or .ensembl .entrez .mod }}
-    {{ $hasOrthologyData = true }}
-    {{ end }}
-    {{ end }}
-    {{ if $hasOrthologyData }}
+    <!-- Orthology Section -->
+    {{ if .Params.orthologs }}
     <div class="mt-8">
         <h3 class="text-lg font-bold text-slate-900 mb-3">Orthology</h3>
         <div class="bg-white rounded-lg border border-slate-200 overflow-hidden">
@@ -222,35 +240,63 @@
                 <thead class="bg-slate-50">
                     <tr>
                         <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Species</th>
-                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Ensembl</th>
-                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Entrez</th>
-                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">MOD</th>
-                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Phenotypes</th>
+                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Ortholog</th>
+                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">ID</th>
+                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Type</th>
                     </tr>
                 </thead>
                 <tbody class="bg-white divide-y divide-slate-200">
-                    {{ range .Params.orthology }}
-                    {{ if or .ensembl .entrez .mod }}
+                    {{ range .Params.orthologs }}
                     <tr class="hover:bg-slate-50">
-                        <td class="px-4 py-2 text-sm text-slate-900">{{ .species }}</td>
-                        <td class="px-4 py-2 text-sm">{{ if .ensembl }}<a
-                                href="https://www.ensembl.org/id/{{ .ensembl }}" target="_blank"
-                                class="text-primary hover:underline">{{ .ensembl }}</a>{{ else }}-{{ end }}
-                        </td>
-                        <td class="px-4 py-2 text-sm">{{ if .entrez }}<a
-                                href="https://www.ncbi.nlm.nih.gov/gene/{{ .entrez }}" target="_blank"
-                                class="text-primary hover:underline">{{ .entrez }}</a>{{ else }}-{{ end }}</td>
-                        <td class="px-4 py-2 text-sm">{{ if .mod }}{{ .mod }}{{ else }}-{{ end }}</td>
-                        <td class="px-4 py-2 text-sm text-slate-600">{{ if .phenotypes }}{{ .phenotypes }}{{ else }}-{{
-                            end }}</td>
+                        <td class="px-4 py-2 text-sm text-slate-900 italic">{{ .species }}</td>
+                        <td class="px-4 py-2 text-sm font-medium">{{ .ortholog_name }}</td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">{{ .ortholog_id }}</td>
+                        <td class="px-4 py-2 text-sm text-slate-500">{{ .relationship_type }}</td>
                     </tr>
-                    {{ end }}
                     {{ end }}
                 </tbody>
             </table>
         </div>
     </div>
     {{ end }}
+
+    <!-- Recent Publications / Preprints -->
+    {{ if .Params.papers }}
+    <div class="mt-8">
+        <h3 class="text-lg font-bold text-slate-900 mb-3">Recent Publications & Preprints</h3>
+        <div class="bg-white rounded-lg border border-slate-200 shadow-sm overflow-hidden">
+            <ul class="divide-y divide-slate-200">
+                {{ range .Params.papers }}
+                <li class="p-4 hover:bg-slate-50 transition-colors">
+                    <div class="flex justify-between items-start">
+                        <div class="flex-1">
+                            <h4 class="text-sm font-bold text-slate-900 mb-1">
+                                <a href="{{ .url }}" target="_blank" class="hover:text-primary hover:underline">
+                                    {{ .title }}
+                                </a>
+                            </h4>
+                            <p class="text-xs text-slate-600 mb-1">{{ .authors }}</p>
+                            <div class="flex items-center gap-2 text-xs text-slate-500">
+                                {{ if .publication_date }}<span>{{ .publication_date }}</span>{{ end }}
+                                {{ if .doi }}<span class="font-mono">DOI: {{ .doi }}</span>{{ end }}
+                                {{ if .biorxiv_id }}
+                                <span class="bg-red-100 text-red-800 px-1.5 py-0.5 rounded font-medium">bioRxiv</span>
+                                {{ end }}
+                            </div>
+                        </div>
+                        <a href="{{ .url }}" target="_blank" class="text-slate-400 hover:text-primary ml-4">
+                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14">
+                                </path>
+                            </svg>
+                        </a>
+                    </div>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
     {{ end }}
 
 </div>
@@ -271,7 +317,7 @@
                 {{ range .Params.expression_data }}
         {{ range .entries }}
         {
-            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images/%s/%s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
+            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images/% s /% s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
         locations: [{{ with .locations }}{{ range . }}"{{ . }}", {{ end }}{{ end }}{{ with .location }}"{{ . }}"{{ end }}],
         stage: "{{ .stage_range }}",
         source: "{{ .source | default "GEISHA" }}",
@@ -282,7 +328,7 @@
         {{ else if .Params.entries }}
         {{ range .Params.entries }}
         {
-            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images/%s/%s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
+            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images/% s /% s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
         locations: [{{ with .locations }}{{ range . }}"{{ . }}", {{ end }}{{ end }}{{ with .location }}"{{ . }}"{{ end }}],
         stage: "Unknown"
         },
