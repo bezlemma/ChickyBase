@@ -301,7 +301,7 @@
 
 </div>
 
-{{ if .Params.expression_data }}
+{{ if or .Params.expression_data .Params.images }}
 <script>
     const { createApp, ref, computed, onMounted, nextTick } = Vue;
 
@@ -317,7 +317,7 @@
                 {{ range .Params.expression_data }}
         {{ range .entries }}
         {
-            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images/% s /% s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
+            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images/%s/%s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
         locations: [{{ with .locations }}{{ range . }}"{{ . }}", {{ end }}{{ end }}{{ with .location }}"{{ . }}"{{ end }}],
         stage: "{{ .stage_range }}",
         source: "{{ .source | default "GEISHA" }}",
@@ -328,9 +328,19 @@
         {{ else if .Params.entries }}
         {{ range .Params.entries }}
         {
-            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images/% s /% s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
+            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images/%s/%s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
         locations: [{{ with .locations }}{{ range . }}"{{ . }}", {{ end }}{{ end }}{{ with .location }}"{{ . }}"{{ end }}],
         stage: "Unknown"
+        },
+        {{ end }}
+        {{ else if .Params.images }}
+        {{ range .Params.images }}
+        {
+            url: "{{ .image_url | relURL }}",
+            locations: [],
+            stage: "Unknown",
+            source: "{{ .source | default "Publication" }}",
+            sourceLabel: "{{ .source_label | default "Publication" }}"
         },
         {{ end }}
         {{ end }}

@@ -18,12 +18,9 @@ resources/
 
 # Project Infrastructure (Not for Site Repo)
 backend/
-scrapers/
-scripts/
 requirements.txt
 *.py
 *.log
-pagefind  # Exclude binary
 
 # System & IDE
 .DS_Store
