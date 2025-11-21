@@ -9,7 +9,7 @@ expression_data:
     locations:
     - Retina
     source: Publication
-    source_label: Publication
+    source_label: Takahashi et al. 2003
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Takahashi.2003.Fig.2
       gh6.png
@@ -17,7 +17,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/GH6.Takahashi.2003.Fig.2.png
     local_path: data/images/460278/460278_1.png
     source: Publication
-    source_label: Publication
+    source_label: Takahashi et al. 2003
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Takahashi.2003.Fig.2.png
   stage_range: 13-18
@@ -29,7 +29,7 @@ expression_data:
     locations:
     - Ear/Otic Placode
     source: Publication
-    source_label: Publication
+    source_label: Kiernan et al. 1997
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Kiernan.1997.Fig1B-st13.jpg
   - comments: ''
@@ -39,7 +39,7 @@ expression_data:
     locations:
     - Ear/Otic Placode
     source: Publication
-    source_label: Publication
+    source_label: Kiernan et al. 1997
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Kiernan.1997.Fig1D'-st15.jpg
   - comments: ''
@@ -49,7 +49,7 @@ expression_data:
     locations:
     - Ear/Otic Placode
     source: Publication
-    source_label: Publication
+    source_label: Kiernan et al. 1997
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Kiernan.1997.Fig1F-st16.jpg
   - comments: ''
@@ -59,7 +59,7 @@ expression_data:
     locations:
     - Ear/Otic Placode
     source: Publication
-    source_label: Publication
+    source_label: Kiernan et al. 1997
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Kiernan.1997.Fig2B-st17.jpg
   - comments: ''
@@ -69,7 +69,7 @@ expression_data:
     locations:
     - Ear/Otic Placode
     source: Publication
-    source_label: Publication
+    source_label: Kiernan et al. 1997
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Kiernan.1997.Fig2D-st17.jpg
   stage_range: 13-18
@@ -81,7 +81,7 @@ expression_data:
     locations:
     - Ear/Otic Placode
     source: Publication
-    source_label: Publication
+    source_label: Kiernan et al. 1997
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Kiernan.1997.Fig2F-st22.jpg
   stage_range: 19-24
@@ -93,7 +93,7 @@ expression_data:
     locations:
     - Ear/Otic Placode
     source: Publication
-    source_label: Publication
+    source_label: Kiernan et al. 1997
     stage: stage 28
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Kiernan.1997.Fig2H-st28.jpg
   - comments: ''
@@ -103,7 +103,7 @@ expression_data:
     locations:
     - Ear/Otic Placode
     source: Publication
-    source_label: Publication
+    source_label: Kiernan et al. 1997
     stage: stage 29
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Kiernan.1997.Fig2J-st29.jpg
   - comments: ''
@@ -113,7 +113,7 @@ expression_data:
     locations:
     - Ear/Otic Placode
     source: Publication
-    source_label: Publication
+    source_label: Kiernan et al. 1997
     stage: stage 30
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Kiernan.1997.Fig6A-st30.jpg
   - comments: ''
@@ -123,7 +123,7 @@ expression_data:
     locations:
     - Ear/Otic Placode
     source: Publication
-    source_label: Publication
+    source_label: Kiernan et al. 1997
     stage: stage 30
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Kiernan.1997.Fig6C-st30.jpg
   stage_range: 25-30
@@ -135,7 +135,7 @@ expression_data:
     locations:
     - Ear/Otic Placode
     source: Publication
-    source_label: Publication
+    source_label: Kiernan et al. 1997
     stage: stage 36
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Kiernan.1997.Fig6E-st36.jpg
   - comments: ''
@@ -145,7 +145,7 @@ expression_data:
     locations:
     - Ear/Otic Placode
     source: Publication
-    source_label: Publication
+    source_label: Kiernan et al. 1997
     stage: stage 36
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Kiernan.1997.Fig6F-st36.jpg
   - comments: ''
@@ -155,28 +155,28 @@ expression_data:
     locations:
     - Ear/Otic Placode
     source: Publication
-    source_label: Publication
+    source_label: Kiernan et al. 1997
     stage: stage 36
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Kiernan.1997.Fig6G-st36.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/GH6.Kiernan.1997.Fig1.jpg
     local_path: data/images/460278/460278_15.jpg
     source: Publication
-    source_label: Publication
+    source_label: Kiernan et al. 1997
     stage: stage 44
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Kiernan.1997.Fig1.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/GH6.Kiernan.1997.Fig2.jpg
     local_path: data/images/460278/460278_16.jpg
     source: Publication
-    source_label: Publication
+    source_label: Kiernan et al. 1997
     stage: stage 44
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Kiernan.1997.Fig2.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/GH6.Kiernan.1997.Fig6.jpg
     local_path: data/images/460278/460278_17.jpg
     source: Publication
-    source_label: Publication
+    source_label: Kiernan et al. 1997
     stage: stage 44
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Kiernan.1997.Fig6.jpg
   stage_range: 31-44
@@ -223,7 +223,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=GH6.Takahashi.2003
-- name: Original Publication
+- name: Takahashi 2003
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Kiernan+1997+homeobox
 symbol: HMX1

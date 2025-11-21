@@ -168,7 +168,7 @@ expression_data:
     - Somites
     - Spinal Cord
     source: Publication
-    source_label: St20 et al. 0011
+    source_label: Publication
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07.25.st20.0011.jpg
   stage_range: 19-20
@@ -637,7 +637,7 @@ expression_data:
     - Forebrain
     - Neural Plate/Tube
     source: Publication
-    source_label: Publication
+    source_label: Bell et al. 2004
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LATROPHILIN2.Bell.2004.Fig.6
       latrophilin2.png
@@ -645,7 +645,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/LATROPHILIN2.Bell.2004.Fig.6.png
     local_path: data/images/451548/451548_44.png
     source: Publication
-    source_label: Publication
+    source_label: Bell et al. 2004
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LATROPHILIN2.Bell.2004.Fig.6.png
   stage_range: 7-8
@@ -659,7 +659,7 @@ expression_data:
     - Diencephalon
     - Neural Plate/Tube
     source: Publication
-    source_label: Publication
+    source_label: Vezain et al. 2018
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Vezain.2018_Fig.4.A.HH12.jpg
   stage_range: 7-12
@@ -673,7 +673,7 @@ expression_data:
     - Neural Plate/Tube
     - Telencephalon
     source: Publication
-    source_label: Publication
+    source_label: Vezain et al. 2018
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Vezain.2018_Fig.4.b.HH18.jpg
   stage_range: 13-18
@@ -682,7 +682,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/Vezain.2018_Fig 3allimages.jpg
     local_path: data/images/451548/451548_47.jpg
     source: Publication
-    source_label: Publication
+    source_label: Vezain et al. 2018
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Vezain.2018_Fig
       3allimages.jpg
@@ -728,7 +728,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=D07
-- name: St20 0011
+- name: Vezain 2018
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Bell+Antin+GEISHA+screen
 symbol: ADGRL2

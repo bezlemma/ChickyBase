@@ -10,7 +10,7 @@ expression_data:
     - Area Pellucida
     - Kohler's Sickle
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: stage XIII
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZBTB46.Trevers.2023-Fig7-8-G-XIII.jpg
   stage_range: X-XIV
@@ -24,7 +24,7 @@ expression_data:
     - Germ Cells/PGCs
     - Primitive Streak
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZBTB46.Trevers.2023-Fig7-8-G-3.jpg
   stage_range: 1-3
@@ -39,7 +39,7 @@ expression_data:
     - Neural Plate/Tube
     - Primitive Streak
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZBTB46.Trevers.2023-Fig7-8-G-5.jpg
   stage_range: 4-6
@@ -58,7 +58,7 @@ expression_data:
     - Primitive Streak
     - Somites
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZBTB46.Trevers.2023-Fig7-8-G-8.jpg
   stage_range: 7-8
@@ -67,7 +67,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/ZBTB46.Trevers.2023-Fig7-8-G.jpg
     local_path: data/images/455423/455423_4.jpg
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZBTB46.Trevers.2023-Fig7-8-G.jpg
   stage_range: all

@@ -22,7 +22,7 @@ expression_data:
     locations:
     - Spinal Cord
     source: Publication
-    source_label: Publication
+    source_label: Chilton et al. 2000
     stage: stage 28
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.2000.Fig3.Crypalpha.E.jpg
   stage_range: 25-30
@@ -35,7 +35,7 @@ expression_data:
     locations:
     - Spinal Cord
     source: Publication
-    source_label: Publication
+    source_label: Chilton et al. 2000
     stage: stage 34
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.2000.Fig4.CRYPalpha.D.jpg
   - comments: 'LMC: lateral motor columnMMC: medial motor columnVentricular Zoneventricular
@@ -82,7 +82,7 @@ expression_data:
     locations:
     - Spinal Cord
     source: Publication
-    source_label: Publication
+    source_label: Chilton et al. 2000
     stage: stage 34
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.2000.Fig4.CRYPalpha2.H.jpg
   - comments: dorsal and ventral hornsventricular zone
@@ -135,7 +135,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CRYPALPHA.Chilton.2000
-- name: Original Publication
+- name: Chilton 2000
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2000+Chilton+RPTP+CRYP2+Stoker
 symbol: PTPRS

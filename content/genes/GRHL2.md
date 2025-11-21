@@ -9,7 +9,7 @@ expression_data:
     locations:
     - Area Opaca
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: stage XII
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRHL2.Trevers.2023-Fig7-6-C-xii.jpg
   stage_range: X-XIV
@@ -22,7 +22,7 @@ expression_data:
     - Area Pellucida
     - Germ Cells/PGCs
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRHL2.Trevers.2023-Fig7-6-C-3.jpg
   stage_range: 1-3
@@ -38,7 +38,7 @@ expression_data:
     - Neural Plate/Tube
     - Primitive Streak
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRHL2.Trevers.2023-Fig7-6-C-6.jpg
   stage_range: 4-6
@@ -55,7 +55,7 @@ expression_data:
     - Midbrain
     - Neural Plate/Tube
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRHL2.Trevers.2023-Fig7-6-C-9.jpg
   stage_range: 7-9
@@ -64,7 +64,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/GRHL2.Trevers.2023-Fig7-6-C.jpg
     local_path: data/images/464256/464256_4.jpg
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRHL2.Trevers.2023-Fig7-6-C.jpg
   stage_range: all

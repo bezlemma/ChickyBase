@@ -151,7 +151,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/MIR17-5P.Bannister.2009figure3.png
     local_path: data/images/467929/467929_15.png
     source: Publication
-    source_label: Publication
+    source_label: Bannister et al. 2009
     stage: stage 1
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR17-5P.Bannister.2009figure3.png
   stage_range: 1-3
@@ -163,7 +163,7 @@ expression_data:
     locations:
     - Ovary
     source: Publication
-    source_label: Publication
+    source_label: Bannister et al. 2009
     stage: stage 29
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR17-5P.Bannister.2009figure3(3).JPG
   - comments: ''
@@ -173,7 +173,7 @@ expression_data:
     locations:
     - Testis
     source: Publication
-    source_label: Publication
+    source_label: Bannister et al. 2009
     stage: stage 29
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR17-5P.Bannister.2009figure3.JPG
   stage_range: 25-30
@@ -185,7 +185,7 @@ expression_data:
     locations:
     - Testis
     source: Publication
-    source_label: Publication
+    source_label: Bannister et al. 2009
     stage: stage 36
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR17-5P.Bannister.2009figure3(2).JPG
   - comments: ''
@@ -195,7 +195,7 @@ expression_data:
     locations:
     - Ovary
     source: Publication
-    source_label: Publication
+    source_label: Bannister et al. 2009
     stage: stage 36
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR17-5P.Bannister.2009figure3(4).JPG
   stage_range: 31-36
@@ -238,7 +238,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=gga-miR-17-3p
-- name: Original Publication
+- name: Bannister 2009
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Bannister+tizard+microRNA+gonadal
 symbol: MIR17

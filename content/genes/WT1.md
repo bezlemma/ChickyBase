@@ -502,7 +502,7 @@ expression_data:
     locations:
     - Proepicardium
     source: Publication
-    source_label: Publication
+    source_label: Anderson et al. 2019
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WT1.Anderson.2019.Supplementary
       figure 4J-st12.jpg
@@ -511,7 +511,7 @@ expression_data:
       figure 4J.jpg
     local_path: data/images/458790/458790_41.jpg
     source: Publication
-    source_label: Publication
+    source_label: Anderson et al. 2019
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WT1.Anderson.2019.Supplementary
       figure 4J.jpg
@@ -557,7 +557,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=WT1.UApcr
-- name: Schlueter 2006
+- name: Anderson 2019
   type: paper
   url: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
 symbol: WT1

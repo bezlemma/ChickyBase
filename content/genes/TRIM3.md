@@ -9,7 +9,7 @@ expression_data:
     locations:
     - Area Pellucida
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: stage XIII
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRIM3.Trevers.2023-Fig7-8-E-XIII.jpg
   stage_range: X-XIV
@@ -24,7 +24,7 @@ expression_data:
     - Hensen's Node
     - Primitive Streak
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRIM3.Trevers.2023-Fig7-8-E-4.jpg
   - comments: anterior primitive streak / Hensen's node / central area pellucidahead
@@ -38,7 +38,7 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRIM3.Trevers.2023-Fig7-8-E-6.jpg
   stage_range: 4-6
@@ -54,7 +54,7 @@ expression_data:
     - Primitive Streak
     - Somites
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRIM3.Trevers.2023-Fig7-8-E-9.jpg
   stage_range: 7-9
@@ -63,7 +63,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/TRIM3.Trevers.2023-Fig7-8-E.jpg
     local_path: data/images/462382/462382_4.jpg
     source: Publication
-    source_label: Publication
+    source_label: Trevers et al. 2023
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRIM3.Trevers.2023-Fig7-8-E.jpg
   stage_range: all

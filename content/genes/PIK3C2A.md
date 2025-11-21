@@ -9,7 +9,7 @@ expression_data:
     locations:
     - Testis
     source: Publication
-    source_label: Publication
+    source_label: Smith et al. 2005
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PI3KC2A.FIG5AC.SMITH.2005.copy.jpg
   - comments: ''
@@ -19,7 +19,7 @@ expression_data:
     locations:
     - Testis
     source: Publication
-    source_label: Publication
+    source_label: Smith et al. 2005
     stage: stage 30
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/pi3kc2a.fig5bd.smith.2005.copy.jpg
   stage_range: 25-30
@@ -64,7 +64,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=PIK3C2A.Smith.2005
-- name: Original Publication
+- name: Smith 2005
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=smith+mcclive+male-specific+cell+migration+gonad+PDGF+signalling
 symbol: PIK3C2A

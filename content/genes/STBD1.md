@@ -10,7 +10,7 @@ expression_data:
     locations:
     - Atria
     source: Publication
-    source_label: Publication
+    source_label: Anderson et al. 2019
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STBD1.Anderson.2019.Supplementary
       figure 4E-st12.jpg
@@ -19,7 +19,7 @@ expression_data:
       figure 4E.jpg
     local_path: data/images/468371/468371_1.jpg
     source: Publication
-    source_label: Publication
+    source_label: Anderson et al. 2019
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STBD1.Anderson.2019.Supplementary
       figure 4E.jpg
@@ -63,7 +63,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=STBD1.Anderson.2019
-- name: Original Publication
+- name: Anderson 2019
   type: paper
   url: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
 symbol: STBD1

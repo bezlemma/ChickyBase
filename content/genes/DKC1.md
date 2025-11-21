@@ -9,7 +9,7 @@ expression_data:
     locations:
     - Neural Crest
     source: Publication
-    source_label: Publication
+    source_label: Gammill et al. 2002
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DKC1.Gammill.2002.2J.jpg
   stage_range: 7-10
@@ -57,7 +57,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=DKC1.Gammill.2002
-- name: Original Publication
+- name: Gammill 2002
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Gammill+genomic+analysis+induction
 symbol: DKC1

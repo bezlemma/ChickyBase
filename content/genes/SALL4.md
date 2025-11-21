@@ -264,7 +264,7 @@ expression_data:
     locations:
     - Heart
     source: Publication
-    source_label: Publication
+    source_label: Anderson et al. 2019
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SALL4.Anderson.2019.Supplementary
       figure 5I-st12.jpg
@@ -273,7 +273,7 @@ expression_data:
       figure 5I.jpg
     local_path: data/images/350061/350061_22.jpg
     source: Publication
-    source_label: Publication
+    source_label: Anderson et al. 2019
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SALL4.Anderson.2019.Supplementary
       figure 5I.jpg
@@ -318,7 +318,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=P13
-- name: Barem 2007
+- name: Anderson 2019
   type: paper
   url: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
 symbol: SALL4

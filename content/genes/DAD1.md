@@ -6,7 +6,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/Gibson.2011.Fig1.allimages.jpg
     local_path: data/images/448952/448952_0.jpg
     source: Publication
-    source_label: Publication
+    source_label: Gibson et al. 2011
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gibson.2011.Fig1.allimages.jpg
   - comments: ''
@@ -151,7 +151,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=Soares1813B12
-- name: Original Publication
+- name: Gibson 2011
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Gibson+Sheng+programmed+induction
 symbol: DAD1

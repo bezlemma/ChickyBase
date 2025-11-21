@@ -58,7 +58,7 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Surface Ectoderm
     source: Publication
-    source_label: Publication
+    source_label: Geetha-Loganathan et al. 2009
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
       for figure 1 panel M.png
@@ -67,7 +67,7 @@ expression_data:
       for figure 1.png
     local_path: data/images/449139/449139_5.png
     source: Publication
-    source_label: Publication
+    source_label: Geetha-Loganathan et al. 2009
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
       for figure 1.png
@@ -83,7 +83,7 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Surface Ectoderm
     source: Publication
-    source_label: Publication
+    source_label: Geetha-Loganathan et al. 2009
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
       for figure 1 panel N.png
@@ -97,7 +97,7 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Surface Ectoderm
     source: Publication
-    source_label: Publication
+    source_label: Geetha-Loganathan et al. 2009
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
       for figure 1 panel O.png
@@ -111,7 +111,7 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Surface Ectoderm
     source: Publication
-    source_label: Publication
+    source_label: Geetha-Loganathan et al. 2009
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
       for figure 2 panel D-.png
@@ -120,7 +120,7 @@ expression_data:
       for figure 2.png
     local_path: data/images/449139/449139_9.png
     source: Publication
-    source_label: Publication
+    source_label: Geetha-Loganathan et al. 2009
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
       for figure 2.png
@@ -136,7 +136,7 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Surface Ectoderm
     source: Publication
-    source_label: Publication
+    source_label: Geetha-Loganathan et al. 2009
     stage: stage 28
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
       for figure 1 panel P.png
@@ -181,7 +181,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=Wnt9b.Fokina.2006
-- name: Original Publication
+- name: Geetha-Loganathan 2009
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Antoni+craniofacial+wnt+fu
 symbol: WNT9B

@@ -10,7 +10,7 @@ expression_data:
     locations:
     - Epiblast
     source: Publication
-    source_label: Publication
+    source_label: Lee et al. 2020
     stage: stage X
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARL4C.Lee.2020_Fig
       3_d_EGK.X-XI.jpg
@@ -23,7 +23,7 @@ expression_data:
     - Epiblast
     - Kohler's Sickle
     source: Publication
-    source_label: Publication
+    source_label: Lee et al. 2020
     stage: stage XI
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARL4C.Lee.2020Fig
       3_e_EGK.XII-XIII.jpg
@@ -36,7 +36,7 @@ expression_data:
     - Area Opaca
     - Epiblast
     source: Publication
-    source_label: Publication
+    source_label: Lee et al. 2020
     stage: stage XIV
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARL4C.Lee.2020Fig
       3_f_EGK.XIV-HH.2.jpg
@@ -49,7 +49,7 @@ expression_data:
     - Area Opaca
     - Epiblast
     source: Publication
-    source_label: Publication
+    source_label: Lee et al. 2020
     stage: stage XIV
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARL4C.Lee.2020_Fig
       3_f''_EGK.XIV-HH.2.jpg
@@ -62,7 +62,7 @@ expression_data:
     - Area Opaca
     - Epiblast
     source: Publication
-    source_label: Publication
+    source_label: Lee et al. 2020
     stage: stage XIV
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARL4C.Lee.2020_Fig
       3_f_EGK.XIV-HH.2.jpg
@@ -72,7 +72,7 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/Allimages_Lee.2020_Fig 3-3.jpg
     local_path: data/images/462785/462785_5.jpg
     source: Publication
-    source_label: Publication
+    source_label: Lee et al. 2020
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Allimages_Lee.2020_Fig
       3-3.jpg
@@ -116,7 +116,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ARL4C.Lee.2020
-- name: Original Publication
+- name: Lee 2020
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=+2020+Stern+
     Lee+Oliveira+chick

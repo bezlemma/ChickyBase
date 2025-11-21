@@ -274,14 +274,14 @@ expression_data:
     - Face Mesenchyme
     - Pharyngeal Arches and Clefts
     source: Publication
-    source_label: Publication
+    source_label: Geethaloganath et al. 2009
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZD6.GeethaLoganath.2009.Figure8F.panelA.png
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/FZD6.GeethaLoganathan.2009.Figure8.panelA.png
     local_path: data/images/458641/458641_19.png
     source: Publication
-    source_label: Publication
+    source_label: Geethaloganathan et al. 2009
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZD6.GeethaLoganathan.2009.Figure8.panelA.png
   stage_range: 19-24
@@ -329,7 +329,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=FZD6.UApcr
-- name: Mccabe 2007
+- name: Fuhrmann 2006
   type: paper
   url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Antoni+craniofacial+wnt+fu
 symbol: FZD6

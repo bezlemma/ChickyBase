@@ -81,7 +81,7 @@ expression_data:
     locations:
     - Neural Plate/Tube
     source: Publication
-    source_label: Publication
+    source_label: Olivera-Martinez et al. 2014
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-fig5-CyclinE1.JPG
   stage_range: 7-10
@@ -131,7 +131,7 @@ sources:
 - name: GEISHA
   type: database
   url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CCNE1
-- name: Original Publication
+- name: Olivera-Martinez 2014
   type: paper
   url: https://pubmed.ncbi.nlm.nih.gov/25063452/
 symbol: CCNE1
