@@ -8,6 +8,8 @@ expression_data:
     location: Tail
     locations:
     - Tail
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/P13_08.jpg
   stage_range: 7-8
@@ -18,6 +20,8 @@ expression_data:
     location: Epiblast
     locations:
     - Epiblast
+    source: Publication
+    source_label: Publication
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3wc1.111.5.jpg
   stage_range: 4-6
@@ -29,6 +33,8 @@ expression_data:
     locations:
     - Head Mesenchyme
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3wc1.111.8.jpg
   - comments: ''
@@ -39,6 +45,8 @@ expression_data:
     - Head Mesenchyme
     - Hindbrain
     - Tail
+    source: Publication
+    source_label: Publication
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3wc1.111.11.jpg
   - comments: ''
@@ -48,6 +56,8 @@ expression_data:
     locations:
     - Face Mesenchyme
     - Tail
+    source: Publication
+    source_label: Publication
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3wc1.111.11a.jpg
   stage_range: 7-12
@@ -60,6 +70,8 @@ expression_data:
     - Face Mesenchyme
     - Pharyngeal Arches and Clefts
     - Tail
+    source: Publication
+    source_label: Publication
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3wc1.111.14.jpg
   - comments: ''
@@ -73,6 +85,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Pineal Gland
     - Tail
+    source: Publication
+    source_label: Publication
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3wc1.111.17.jpg
   stage_range: 13-18
@@ -91,6 +105,8 @@ expression_data:
     - Pineal Gland
     - Tail
     - Wing Mesenchyme
+    source: Publication
+    source_label: Publication
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3wc1.111.19.jpg
   - comments: ''
@@ -100,6 +116,8 @@ expression_data:
     locations:
     - Hindbrain
     - Tail
+    source: Publication
+    source_label: Publication
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3wc1.111.19a.jpg
   - comments: ''
@@ -108,6 +126,8 @@ expression_data:
     location: Tail
     locations:
     - Tail
+    source: Publication
+    source_label: Publication
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3wc1.111.19b.jpg
   stage_range: '19'
@@ -118,6 +138,8 @@ expression_data:
     location: Epiblast
     locations:
     - Epiblast
+    source: Publication
+    source_label: Barem et al. 2007
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1A.BAREM.2007.jpg
   stage_range: 1-3
@@ -125,6 +147,8 @@ expression_data:
   - comments: Preplacode Ectoderm
     image_url: https://geisha.arizona.edu/geisha/photos/FIG1N-P.BAREM.2007.jpg
     local_path: data/images/350061/350061_11.jpg
+    source: Publication
+    source_label: Barem et al. 2007
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1N-P.BAREM.2007.jpg
   - comments: Preplacode Ectoderm
@@ -134,6 +158,8 @@ expression_data:
     locations:
     - Ectoderm
     - Neural Plate/Tube
+    source: Publication
+    source_label: Barem et al. 2007
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1N.BAREM.2007.jpg
   - comments: Preplacode Ectoderm
@@ -144,6 +170,8 @@ expression_data:
     - Ectoderm
     - Neural Plate/Tube
     - Notochord
+    source: Publication
+    source_label: Barem et al. 2007
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG2BDE.BAREM.2007.jpg
   stage_range: 4-6
@@ -155,6 +183,8 @@ expression_data:
     locations:
     - Ectoderm
     - Neural Plate/Tube
+    source: Publication
+    source_label: Barem et al. 2007
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1CF.BAREM.2007.jpg
   - comments: Head Ectoderm
@@ -163,6 +193,8 @@ expression_data:
     location: Ear/Otic Placcode
     locations:
     - Ear/Otic Placcode
+    source: Publication
+    source_label: Barem et al. 2007
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1G.BAREM.2007.jpg
   stage_range: 7-12
@@ -175,6 +207,8 @@ expression_data:
     - Ear/Otic Placcode
     - Neural Crest
     - Notochord
+    source: Publication
+    source_label: Barem et al. 2007
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1H.BAREM.2007.jpg
   - comments: Olfactory Epithelium
@@ -183,6 +217,8 @@ expression_data:
     location: Lens
     locations:
     - Lens
+    source: Publication
+    source_label: Barem et al. 2007
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1J.BAREM.2007.jpg
   - comments: Olfactory Epithelium
@@ -192,6 +228,8 @@ expression_data:
     locations:
     - Ear/Otic Placcode
     - Neural Crest
+    source: Publication
+    source_label: Barem et al. 2007
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1I.BAREM.2007.jpg
   - comments: Olfactory Epithelium
@@ -200,6 +238,8 @@ expression_data:
     location: Nasal Placcode/Nerve
     locations:
     - Nasal Placcode/Nerve
+    source: Publication
+    source_label: Barem et al. 2007
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1K.BAREM.2007.jpg
   stage_range: 13-18
@@ -210,6 +250,8 @@ expression_data:
     location: Wing Mesenchyme
     locations:
     - Wing Mesenchyme
+    source: Publication
+    source_label: Barem et al. 2007
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/spalt4.fig1lm.barem.2007.jpg
   stage_range: '19'
@@ -221,6 +263,8 @@ expression_data:
     location: Heart
     locations:
     - Heart
+    source: Publication
+    source_label: Publication
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SALL4.Anderson.2019.Supplementary
       figure 5I-st12.jpg
@@ -228,6 +272,8 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/SALL4.Anderson.2019.Supplementary
       figure 5I.jpg
     local_path: data/images/350061/350061_22.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SALL4.Anderson.2019.Supplementary
       figure 5I.jpg
@@ -268,6 +314,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-060328-2
   phenotypes: ZDB-GENE-060328-2
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=P13
+- name: Barem 2007
+  type: paper
+  url: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
 symbol: SALL4
 synonyms: sal-like protein 4|sal-like 4|spalt4
 title: SALL4

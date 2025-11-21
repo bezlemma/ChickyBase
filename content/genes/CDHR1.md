@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R453.CDHR1.S9.002.jpg
   - comments: ''
@@ -20,6 +22,8 @@ expression_data:
     - Hindbrain
     - Midbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R453.CDHR1.S11.001.jpg
   - comments: ''
@@ -32,6 +36,8 @@ expression_data:
     - Hindbrain
     - Midbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R453.CDHR1.S11.002.jpg
   - comments: ''
@@ -44,6 +50,8 @@ expression_data:
     - Midbrain
     - Neural Plate/Tube
     - Sinus Venosus
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R453.CDHR1.S11.003.jpg
   stage_range: 7-12
@@ -54,6 +62,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R460.CDHR1.S15.002.jpg
   stage_range: 13-18
@@ -64,6 +74,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R454.CDHR1.S22.001.jpg
   stage_range: 19-24
@@ -71,6 +83,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R454.CDHR1.S26.001.jpg
     local_path: data/images/460583/460583_6.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R454.CDHR1.S26.001.jpg
   stage_range: 25-26
@@ -114,6 +128,10 @@ orthology:
   phenotypes: ZDB-GENE-040924-4,ZDB-GENE-110210-1
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTGTGGGTGCTGCTATGACCTC
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CDHR1.UApcr
 symbol: CDHR1
 synonyms: PCDH21, prCAD, cadherin-related family member 1|photoreceptor cadherin|protocadherin-21
 template_length: '1070'

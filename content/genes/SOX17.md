@@ -8,6 +8,8 @@ expression_data:
     location: Endoderm, early
     locations:
     - Endoderm, early
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sox13.104.3.jpg
   stage_range: 4-6
@@ -18,6 +20,8 @@ expression_data:
     location: Endoderm
     locations:
     - Endoderm
+    source: Publication
+    source_label: Publication
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sox13.104.10a.jpg
   - comments: ''
@@ -26,6 +30,8 @@ expression_data:
     location: Endoderm
     locations:
     - Endoderm
+    source: Publication
+    source_label: Publication
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sox13.104.10vent.jpg
   - comments: ''
@@ -35,6 +41,8 @@ expression_data:
     locations:
     - Endoderm
     - Extraembryonic
+    source: Publication
+    source_label: Publication
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sox13.104.11a.jpg
   stage_range: 7-12
@@ -48,6 +56,8 @@ expression_data:
     - Blood Vessels
     - Endoderm
     - Extraembryonic
+    source: Publication
+    source_label: Publication
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/001g24.116.3.13.jpg
   - comments: ''
@@ -59,6 +69,8 @@ expression_data:
     - Blood Vessels
     - Endoderm
     - Extraembryonic
+    source: Publication
+    source_label: Publication
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/001g24.116.3.13a.jpg
   stage_range: '13'
@@ -72,6 +84,8 @@ expression_data:
     locations:
     - Early Endoderm
     - Kohler's Sickle
+    source: Publication
+    source_label: Publication
     stage: stage 1
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chapman.Fig1.SOX17.A.ST1.jpg
   - comments: Stage 3b chicken embryoCGW, caudal germ wallPMZ,  posterior marginal
@@ -82,6 +96,8 @@ expression_data:
     location: Kohler's Sickle
     locations:
     - Kohler's Sickle
+    source: Publication
+    source_label: Publication
     stage: stage 1
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chapman.Fig1.SOX17.B.ST1.jpg
   - comments: Stage 3b chicken embryoCGW, caudal germ wallPMZ,  posterior marginal
@@ -89,6 +105,8 @@ expression_data:
       Fig. 1 (E)
     image_url: https://geisha.arizona.edu/geisha/photos/Chapman.Fig1.allimages.jpg
     local_path: data/images/461146/461146_8.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 1
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chapman.Fig1.allimages.jpg
   - comments: Stage 3b chicken embryoCGW, caudal germ wallPMZ,  posterior marginal
@@ -100,6 +118,8 @@ expression_data:
     locations:
     - Kohler's Sickle
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chapman.Fig1.SOX17.C.ST3b.jpg
   - comments: Stage 3b chicken embryoCGW, caudal germ wallPMZ,  posterior marginal
@@ -110,6 +130,8 @@ expression_data:
     location: Primitive Streak
     locations:
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chapman.Fig1.SOX17.D.ST3c.jpg
   - comments: Stage 3b chicken embryoCGW, caudal germ wallPMZ,  posterior marginal
@@ -120,6 +142,8 @@ expression_data:
     location: Early Endoderm
     locations:
     - Early Endoderm
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chapman.Fig1.SOX17.E.ST3d.jpg
   - comments: Stage 3b chicken embryoCGW, caudal germ wallPMZ,  posterior marginal
@@ -130,6 +154,8 @@ expression_data:
     location: Early Endoderm
     locations:
     - Early Endoderm
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chapman.Fig1.SOX17.F.ST3d.jpg
   stage_range: 1-3
@@ -140,6 +166,8 @@ expression_data:
     location: Early Endoderm
     locations:
     - Early Endoderm
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chapman.Fig1.SOX17.G.ST4+.jpg
   - comments: sagittal section of Fig. 1 (G)
@@ -148,6 +176,8 @@ expression_data:
     location: Early Endoderm
     locations:
     - Early Endoderm
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chapman.Fig1.SOX17.H.ST4+.jpg
   stage_range: '4'
@@ -158,12 +188,16 @@ expression_data:
     location: Early Endoderm
     locations:
     - Early Endoderm
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX17.Acloque.2011.Fig.6
       sox17.png
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/SOX17.Acloque.2011.Fig.6.png
     local_path: data/images/461146/461146_16.png
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX17.Acloque.2011.Fig.6.png
   stage_range: '4'
@@ -202,6 +236,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-991213-1
   phenotypes: ZDB-GENE-991213-1
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=pgr1n.pk001.g24
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Sox3+Acloque+Rizzoti+territories
 symbol: SOX17
 synonyms: transcription factor SOX-17|HMG transcription factor SOX17|SRY (sex determining
   region Y)-box 17

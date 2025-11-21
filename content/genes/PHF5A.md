@@ -8,6 +8,8 @@ expression_data:
     location: Primitive Streak
     locations:
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53wc3.131.5.jpg
   stage_range: 4-5
@@ -48,6 +50,10 @@ orthology:
   mod: ZFIN:ZDB-GENE-021219-3
   phenotypes: ZDB-GENE-021219-3
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ChEST107d19
 symbol: PHF5A
 synonyms: PHD finger-like domain-containing protein 5A|SF3b14b, PHD finger-like domain
   protein 5A, Splicing factor 3B-associated 14 kDa protein (SF3b14b)

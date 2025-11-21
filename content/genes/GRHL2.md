@@ -8,6 +8,8 @@ expression_data:
     location: Area Opaca
     locations:
     - Area Opaca
+    source: Publication
+    source_label: Publication
     stage: stage XII
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRHL2.Trevers.2023-Fig7-6-C-xii.jpg
   stage_range: X-XIV
@@ -19,6 +21,8 @@ expression_data:
     locations:
     - Area Pellucida
     - Germ Cells/PGCs
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRHL2.Trevers.2023-Fig7-6-C-3.jpg
   stage_range: 1-3
@@ -33,6 +37,8 @@ expression_data:
     - Headfold
     - Neural Plate/Tube
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRHL2.Trevers.2023-Fig7-6-C-6.jpg
   stage_range: 4-6
@@ -48,6 +54,8 @@ expression_data:
     - Head Mesenchyme
     - Midbrain
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRHL2.Trevers.2023-Fig7-6-C-9.jpg
   stage_range: 7-9
@@ -55,6 +63,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/GRHL2.Trevers.2023-Fig7-6-C.jpg
     local_path: data/images/464256/464256_4.jpg
+    source: Publication
+    source_label: Publication
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRHL2.Trevers.2023-Fig7-6-C.jpg
   stage_range: all
@@ -93,6 +103,10 @@ orthology:
   mod: ''
   phenotypes: ''
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=GRHL2.Trevers.2023
 symbol: GRHL2
 synonyms: grainyhead-like protein 2 homolog|grainyhead-like 2
 title: GRHL2

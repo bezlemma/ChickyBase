@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R708.CELF4.S11.001.jpg
   stage_range: 7-12
@@ -18,6 +20,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R703.CELF4.S17.001.jpg
   - comments: ''
@@ -28,6 +32,8 @@ expression_data:
     - Head Mesenchyme
     - Neural Plate/Tube
     - Pharyngeal Arches and Clefts
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R703.CELF4.S18.001.jpg
   stage_range: 13-18
@@ -46,6 +52,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R702.CELF4.S24.001.jpg
   stage_range: 19-24
@@ -62,6 +70,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Spinal Cord
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R702.CELF4.S25.001.jpg
   - comments: ''
@@ -72,6 +82,8 @@ expression_data:
     - Myotome
     - Spinal Cord
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R702.CELF4.S25A.001.jpg
   - comments: ''
@@ -83,6 +95,8 @@ expression_data:
     - Myotome
     - Spinal Cord
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R702.CELF4.S25AA.001.jpg
   - comments: ''
@@ -103,6 +117,8 @@ expression_data:
     - Spinal Cord
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R702.CELF4.S27.001.jpg
   - comments: ''
@@ -114,6 +130,8 @@ expression_data:
     - Myotome
     - Spinal Cord
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R702.CELF4.S27A.001.jpg
   stage_range: 25-27
@@ -125,6 +143,8 @@ expression_data:
     locations:
     - Head Mesenchyme
     - Neural Plate/Tube
+    source: Publication
+    source_label: Brimacombe et al. 2007
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CLEF4.Figure4A.Brimacombe.2007.jpg
   stage_range: 7-12
@@ -135,6 +155,8 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: Publication
+    source_label: Brimacombe et al. 2007
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CELF4.Figure4D.Brimacombe.2007.jpg
   - comments: outermost layer
@@ -143,6 +165,8 @@ expression_data:
     location: Forebrain
     locations:
     - Forebrain
+    source: Publication
+    source_label: Brimacombe et al. 2007
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CELF4.Figure4G.Brimacombe.2007.jpg
   - comments: outermost layer
@@ -151,6 +175,8 @@ expression_data:
     location: Spinal Cord
     locations:
     - Spinal Cord
+    source: Publication
+    source_label: Brimacombe et al. 2007
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CELF4.Figure4H.Brimacombe.2007.jpg
   stage_range: 19-23
@@ -194,6 +220,13 @@ orthology:
   phenotypes: ZDB-GENE-040718-300
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTCCTTTGGCCTCTTCAGCTG-3’
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CELF4.UApcr
+- name: Brimacombe 2007
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Brimacombe+Ladd+CELF+expression+cloning
 symbol: CELF4
 synonyms: BRUNOL4, CUGBP Elav-like family member 4|CUG-BP and ETR-3-like factor 4,
   CUG-BP and ETR-3-like factor 4 isoform 2 , BRUNOL4, CELF4

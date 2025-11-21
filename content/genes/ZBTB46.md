@@ -9,6 +9,8 @@ expression_data:
     locations:
     - Area Pellucida
     - Kohler's Sickle
+    source: Publication
+    source_label: Publication
     stage: stage XIII
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZBTB46.Trevers.2023-Fig7-8-G-XIII.jpg
   stage_range: X-XIV
@@ -21,6 +23,8 @@ expression_data:
     - Area Pellucida
     - Germ Cells/PGCs
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZBTB46.Trevers.2023-Fig7-8-G-3.jpg
   stage_range: 1-3
@@ -34,6 +38,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZBTB46.Trevers.2023-Fig7-8-G-5.jpg
   stage_range: 4-6
@@ -51,6 +57,8 @@ expression_data:
     - Neural Plate/Tube
     - Primitive Streak
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZBTB46.Trevers.2023-Fig7-8-G-8.jpg
   stage_range: 7-8
@@ -58,6 +66,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/ZBTB46.Trevers.2023-Fig7-8-G.jpg
     local_path: data/images/455423/455423_4.jpg
+    source: Publication
+    source_label: Publication
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZBTB46.Trevers.2023-Fig7-8-G.jpg
   stage_range: all
@@ -96,6 +106,10 @@ orthology:
   mod: ZFIN:ZDB-GENE-090313-352
   phenotypes: ZDB-GENE-090313-352
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ZBTB46.Trevers.2023
 symbol: ZBTB46
 synonyms: zinc finger and BTB domain-containing protein 46
 title: ZBTB46

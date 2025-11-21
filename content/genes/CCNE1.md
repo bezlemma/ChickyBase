@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R595.CCNE1.S8.001.jpg
   stage_range: 7-12
@@ -18,6 +20,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R595.CCNE1.S14.001.jpg
   stage_range: 13-18
@@ -28,6 +32,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R575.CCNE1.19001.jpg
   - comments: ''
@@ -36,6 +42,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R574.CCNE1.S20.001.jpg
   - comments: ''
@@ -44,6 +52,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R574.CCNE1.S20.002.jpg
   stage_range: 19-24
@@ -58,6 +68,8 @@ expression_data:
     - Lung
     - Sclerotome
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R574.CCNE1.S25.001.jpg
   stage_range: '25'
@@ -68,6 +80,8 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-fig5-CyclinE1.JPG
   stage_range: 7-10
@@ -113,6 +127,13 @@ orthology:
   phenotypes: ZDB-GENE-980526-168
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGATCCAGACACTGACCAGGAAGTTC
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CCNE1
+- name: Original Publication
+  type: paper
+  url: https://pubmed.ncbi.nlm.nih.gov/25063452/
 symbol: CCNE1
 synonyms: G1/S-specific cyclin-E1|cyclin E
 template_length: '607'

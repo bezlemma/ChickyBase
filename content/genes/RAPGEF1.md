@@ -9,6 +9,8 @@ expression_data:
     locations:
     - Lens
     - Paraxial Mesoderm
+    source: Publication
+    source_label: Publication
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54ye2.125.15.jpg
   - comments: ''
@@ -20,6 +22,8 @@ expression_data:
     - Myotome
     - Pharyngeal Arches and Clefts
     - Widespread Expression
+    source: Publication
+    source_label: Publication
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54xe2.12518.jpg
   stage_range: 13-18
@@ -31,6 +35,8 @@ expression_data:
     locations:
     - Myotome
     - Pharyngeal Arches and Clefts
+    source: Publication
+    source_label: Publication
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54xe2.125.22pa.jpg
   - comments: hand transectedmotor horns,
@@ -42,6 +48,8 @@ expression_data:
     - Myotome
     - Somatopleure
     - Spinal Cord
+    source: Publication
+    source_label: Publication
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54xe2.125.22xs.jpg
   stage_range: 19-22
@@ -83,6 +91,10 @@ orthology:
   mod: ZFIN:ZDB-GENE-081105-26,ZFIN:ZDB-GENE-040426-1001
   phenotypes: ZDB-GENE-081105-26,ZDB-GENE-040426-1001
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ChEST578b22
 symbol: RAPGEF1
 synonyms: rap guanine nucleotide exchange factor 1|Rap guanine nucleotide exchange
   factor (GEF) 1, Guanine nucleotide-releasing factor 2, C3G protein, CRK SH3-binding

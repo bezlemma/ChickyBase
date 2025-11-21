@@ -5,6 +5,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/F15_04.jpg
     local_path: data/images/453133/453133_0.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_04.jpg
   - comments: ''
@@ -13,6 +15,8 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_06.jpg
   stage_range: 4-6
@@ -20,11 +24,15 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/F15_08_1.jpg
     local_path: data/images/453133/453133_2.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_08_1.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/F15_08_2.jpg
     local_path: data/images/453133/453133_3.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_08_2.jpg
   - comments: ''
@@ -34,6 +42,8 @@ expression_data:
     locations:
     - Neural Plate/Tube
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_08_3.jpg
   - comments: ''
@@ -44,6 +54,8 @@ expression_data:
     - Extraembryonic
     - Neural Plate/Tube
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_09.jpg
   - comments: ''
@@ -54,6 +66,8 @@ expression_data:
     - Extraembryonic
     - Neural Plate/Tube
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_10.jpg
   - comments: ''
@@ -64,6 +78,8 @@ expression_data:
     - Extraembryonic
     - Neural Plate/Tube
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_11.jpg
   stage_range: 7-12
@@ -71,6 +87,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/F15_15.jpg
     local_path: data/images/453133/453133_8.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_15.jpg
   - comments: ''
@@ -80,6 +98,8 @@ expression_data:
     locations:
     - Extraembryonic
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_15_dorsal.jpg
   stage_range: 13-15
@@ -119,6 +139,10 @@ orthology:
   mod: ZFIN:ZDB-GENE-070410-48
   phenotypes: ZDB-GENE-070410-48
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=F15
 symbol: SMIM15
 synonyms: C5orf43, CZH5ORF43, small integral membrane protein 15|UPF0542 protein C5orf43
   homolog

@@ -8,6 +8,8 @@ expression_data:
     location: Wing Mesenchyme
     locations:
     - Wing Mesenchyme
+    source: Publication
+    source_label: Publication
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53ZB7.124.18.1.jpg
   - comments: ''
@@ -17,6 +19,8 @@ expression_data:
     locations:
     - Myotome
     - Wing Mesenchyme
+    source: Publication
+    source_label: Publication
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53zb7.124.18.10x.jpg
   stage_range: 13-18
@@ -58,6 +62,10 @@ orthology:
   mod: ZFIN:ZDB-GENE-980526-320
   phenotypes: ZDB-GENE-980526-320
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ChEST179p16
 symbol: EGR1
 synonyms: early growth response protein 1|EGR-1|zinc finger protein ZENK, Early growth
   response protein 1 , EGR-1, Zinc finger protein ZENK

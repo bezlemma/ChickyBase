@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R601.VSTM5.S13.001.jpg
   - comments: ''
@@ -16,6 +18,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R600.VSTM5.S16.001.jpg
   - comments: ''
@@ -24,6 +28,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R600.VSTM5.S16.002.jpg
   - comments: ''
@@ -32,6 +38,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R602.VSTM5.S17.001.jpg
   - comments: ''
@@ -50,6 +58,8 @@ expression_data:
     - Sclerotome
     - Tail
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R598.VSTM5.S18.001.jpg
   - comments: ''
@@ -60,6 +70,8 @@ expression_data:
     - Leg Mesenchyme
     - Mesonephros
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R598.VSTM5.S18AA.001.jpg
   stage_range: 13-18
@@ -83,6 +95,8 @@ expression_data:
     - Somatic Mesoderm
     - Tail
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R598.VSTM5.S19.001.jpg
   - comments: ''
@@ -105,6 +119,8 @@ expression_data:
     - Sclerotome
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R599.VSTM5.S23.001.jpg
   - comments: ''
@@ -116,6 +132,8 @@ expression_data:
     - Lung
     - Neural Plate/Tube
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R599.VSTM5.S23A.001.jpg
   - comments: ''
@@ -128,6 +146,8 @@ expression_data:
     - Lung
     - Sclerotome
     - Spinal Cord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R599.VSTM5.S23AA.001.jpg
   - comments: ''
@@ -142,16 +162,22 @@ expression_data:
     - Spinal Cord
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R599.VSTM5.S23AAA.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R603.VSTM5.S23.001.jpg
     local_path: data/images/474352/474352_11.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R603.VSTM5.S23.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R606.VSTM5.S23.001.jpg
     local_path: data/images/474352/474352_12.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R606.VSTM5.S23.001.jpg
   - comments: ''
@@ -181,21 +207,29 @@ expression_data:
     - Spinal Cord
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R597.VSTM5.S24.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R597.VSTM5.S24A.001.jpg
     local_path: data/images/474352/474352_14.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R597.VSTM5.S24A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R597.VSTM5.S24AA.001.jpg
     local_path: data/images/474352/474352_15.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R597.VSTM5.S24AA.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R597.VSTM5.S24AAA.001.jpg
     local_path: data/images/474352/474352_16.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R597.VSTM5.S24AAA.001.jpg
   - comments: ''
@@ -220,21 +254,29 @@ expression_data:
     - Somatic Mesoderm
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R603.VSTM5.S24.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R606.VSTM5.S24.001.jpg
     local_path: data/images/474352/474352_18.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R606.VSTM5.S24.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R610.VSTM5.S24.001.jpg
     local_path: data/images/474352/474352_19.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R610.VSTM5.S24.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R610.VSTM5.S24.002.jpg
     local_path: data/images/474352/474352_20.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R610.VSTM5.S24.002.jpg
   stage_range: 19-24
@@ -242,6 +284,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R599.VSTM5.S25.001.jpg
     local_path: data/images/474352/474352_21.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R599.VSTM5.S25.001.jpg
   - comments: ''
@@ -264,6 +308,8 @@ expression_data:
     - Spinal Cord
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R603.VSTM5.S27.001.jpg
   stage_range: 25-27
@@ -304,6 +350,10 @@ orthology:
   phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCCAGTCATTTCAGACAGCATCATC
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=VSTM5.UApcr
 symbol: VSTM5
 synonyms: V-set and transmembrane domain-containing protein 5
 template_length: '659'

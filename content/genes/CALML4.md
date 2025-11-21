@@ -9,6 +9,8 @@ expression_data:
     locations:
     - Extraembryonic Mesoderm
     - extraembryonic endoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R555.CALML4.S4.001.jpg
   - comments: ''
@@ -18,6 +20,8 @@ expression_data:
     locations:
     - Extraembryonic Mesoderm
     - extraembryonic endoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R555.CALML4.S5.001.jpg
   stage_range: 4-6
@@ -35,6 +39,8 @@ expression_data:
     - Neural Plate/Tube
     - Paraxial Mesoderm
     - extraembryonic endoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R555.CALML4.S7.001.jpg
   - comments: ''
@@ -51,6 +57,8 @@ expression_data:
     - Splanchnic Mesoderm
     - extraembryonic endoderm
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R555.CALML4.S8.001.jpg
   - comments: ''
@@ -66,6 +74,8 @@ expression_data:
     - Paraxial Mesoderm
     - extraembryonic endoderm
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R555.CALML4.S8.002.jpg
   - comments: ''
@@ -81,6 +91,8 @@ expression_data:
     - Splanchnic Mesoderm
     - extraembryonic endoderm
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R555.CALML4.S8A.001.jpg
   - comments: ''
@@ -96,6 +108,8 @@ expression_data:
     - Somites
     - extraembryonic endoderm
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R555.CALML4.S10.001.jpg
   - comments: ''
@@ -115,6 +129,8 @@ expression_data:
     - Splanchnic Mesoderm
     - extraembryonic endoderm
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R555.CALML4.S11.001.jpg
   - comments: ''
@@ -126,6 +142,8 @@ expression_data:
     - Sinus Venosus
     - extraembryonic endoderm
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R555.CALML4.S11A.001.jpg
   - comments: ''
@@ -139,6 +157,8 @@ expression_data:
     - Somites
     - extraembryonic endoderm
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R555.CALML4.S11AA.001.jpg
   stage_range: 7-12
@@ -161,6 +181,8 @@ expression_data:
     - Somatic Mesoderm
     - extraembryonic ectoderm
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R551.CALML4.S18.001.jpg
   - comments: ''
@@ -173,6 +195,8 @@ expression_data:
     - Notochord
     - Paraxial Mesoderm
     - Somatic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R551.CALML4.S18A.001.jpg
   stage_range: 13-18
@@ -183,6 +207,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R554.CALML4.S23.001.jpg
   stage_range: 19-24
@@ -193,6 +219,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R554.CALML4.S27.001.jpg
   stage_range: 25-27
@@ -233,6 +261,10 @@ orthology:
   phenotypes: ZDB-GENE-081022-9,ZDB-GENE-071009-6
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGGCTCGCATTTTGTGAGATGGG-3'
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CALML4.UApcr
 symbol: CALML4
 synonyms: calmodulin-like protein 4
 template_length: '586'

@@ -10,6 +10,8 @@ expression_data:
     - Early Endoderm
     - Epiblast
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R566.CACNA2D3.S4.001.jpg
   - comments: ''
@@ -22,6 +24,8 @@ expression_data:
     - Neural Plate/Tube
     - extraembryonic ectoderm
     - extraembryonic endoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R566.CACNA2D3.S6.001.jpg
   stage_range: 4-6
@@ -36,6 +40,8 @@ expression_data:
     - Neural Plate/Tube
     - extraembryonic ectoderm
     - extraembryonic endoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R566.CACNA2D3.S8.001.jpg
   - comments: trapping
@@ -50,6 +56,8 @@ expression_data:
     - Neural Plate/Tube
     - extraembryonic ectoderm
     - extraembryonic endoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R566.CACNA2D3.S9.001.jpg
   - comments: trapping
@@ -61,11 +69,15 @@ expression_data:
     - Blood Islands
     - Ectoderm
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R566.CACNA2D3.S10.001.jpg
   - comments: trapping
     image_url: https://geisha.arizona.edu/geisha/photos/R566.CACNA2D3.S10A.001.jpg
     local_path: data/images/458769/458769_5.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R566.CACNA2D3.S10A.001.jpg
   - comments: trapping
@@ -83,6 +95,8 @@ expression_data:
     - Notochord
     - extraembryonic ectoderm
     - extraembryonic endoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R566.CACNA2D3.S11.001.jpg
   stage_range: 7-12
@@ -93,6 +107,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R563.CACNA2D3.S17.001.jpg
   stage_range: 13-18
@@ -103,21 +119,29 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R563.CACNA2D3.S20.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R563.CACNA2D3.S20A.001.jpg
     local_path: data/images/458769/458769_9.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R563.CACNA2D3.S20A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R563.CACNA2D3.S20AA.001.jpg
     local_path: data/images/458769/458769_10.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R563.CACNA2D3.S20AA.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R563.CACNA2D3.S20AAA.001.jpg
     local_path: data/images/458769/458769_11.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R563.CACNA2D3.S20AAA.001.jpg
   stage_range: 19-20
@@ -160,6 +184,10 @@ orthology:
   phenotypes: ZDB-GENE-060328-4
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTTTTGAGCCTGAGGGAGAGTGC
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CACNA2D3
 symbol: CACNA2D3
 synonyms: voltage-dependent calcium channel subunit alpha-2/delta-3|calcium channel,
   voltage-dependent, alpha 2/delta 3 subunit|calcium channel, voltage-dependent, alpha

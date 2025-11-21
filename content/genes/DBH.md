@@ -10,6 +10,8 @@ expression_data:
     - Diencephalon
     - Hindbrain
     - Midbrain
+    source: Publication
+    source_label: Gimeno et al. 2007
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DBH.FIGURE4FG.GIMENO.2007.jpg
   stage_range: '19'
@@ -17,6 +19,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Lorente-Canovas.Fig1.ALLIMAGES-8.jpg
     local_path: data/images/449569/449569_1.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Lorente-Canovas.Fig1.ALLIMAGES-8.jpg
   - comments: ''
@@ -25,6 +29,8 @@ expression_data:
     location: Rhombomeres
     locations:
     - Rhombomeres
+    source: Publication
+    source_label: Publication
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Lorente-Canovas.Fig1.PAX7.H-I-J.HH26-3.jpg
   stage_range: 25-26
@@ -32,6 +38,8 @@ expression_data:
   - comments: control embryo
     image_url: https://geisha.arizona.edu/geisha/photos/Huber.Fig4.ALLIMAGES-4.jpg
     local_path: data/images/449569/449569_3.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Huber.Fig4.ALLIMAGES-4.jpg
   - comments: control embryo
@@ -41,6 +49,8 @@ expression_data:
     locations:
     - Cranial Ganglia
     - Head Mesenchyme
+    source: Publication
+    source_label: Publication
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Huber.Fig4.DBH.D.ST27.jpg
   stage_range: 25-30
@@ -48,6 +58,8 @@ expression_data:
   - comments: control embryo
     image_url: https://geisha.arizona.edu/geisha/photos/Huber.Fig5.ALLIMAGES-5.jpg
     local_path: data/images/449569/449569_5.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 34
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Huber.Fig5.ALLIMAGES-5.jpg
   - comments: control embryo
@@ -56,6 +68,8 @@ expression_data:
     location: Cranial Ganglia
     locations:
     - Cranial Ganglia
+    source: Publication
+    source_label: Publication
     stage: stage 34
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Huber.Fig5.DBH.D.ST34.jpg
   stage_range: 31-34
@@ -97,6 +111,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-990621-3
   phenotypes: ZDB-GENE-990621-3
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=DBH.Gimeno.2007
+- name: Gimeno 2007
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Huber+HoxB2+Rohrer+2012+Holzmann
 symbol: DBH
 synonyms: dopamine beta-hydroxylase|dopamine beta-hydroxylase (dopamine beta-monooxygenase),
   DBH, dopamine beta-monooxygenase, Dopamine beta-hydroxylase

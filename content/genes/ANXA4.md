@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R495.ANXA4.S5.001.jpg
   stage_range: 4-6
@@ -24,6 +26,8 @@ expression_data:
     - Neural Plate/Tube
     - Paraxial Mesoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R495.ANXA4.S7.001.jpg
   - comments: ''
@@ -33,6 +37,8 @@ expression_data:
     locations:
     - Neural Plate/Tube
     - Splanchnic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R495.ANXA4.S7A.001.jpg
   - comments: ''
@@ -44,6 +50,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Paraxial Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R495.ANXA4.S7AA.001.jpg
   - comments: ''
@@ -56,6 +64,8 @@ expression_data:
     - Blood Islands
     - Forebrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R495.ANXA4.S10.001.jpg
   - comments: ''
@@ -64,6 +74,8 @@ expression_data:
     location: Lateral Plate Mesoderm
     locations:
     - Lateral Plate Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R495.ANXA4.S10A.001.jpg
   - comments: ''
@@ -79,6 +91,8 @@ expression_data:
     - Head Mesenchyme
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R495.ANXA4.S11.001.jpg
   stage_range: 7-12
@@ -112,6 +126,8 @@ expression_data:
     - Widespread Expression
     - Wing Mesenchyme
     - Yolk Sack or Stalk
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R496.ANXA4.S18.001.jpg
   - comments: ''
@@ -125,6 +141,8 @@ expression_data:
     - Notochord
     - Proepicardium
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R496.ANXA4.S18A.001.jpg
   stage_range: 13-18
@@ -135,6 +153,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R496.ANXA4.S20.001.jpg
   - comments: dorsal mesentery
@@ -154,6 +174,8 @@ expression_data:
     - Sclerotome
     - Tail
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R498.ANXA4.S21.001.jpg
   - comments: dorsal mesentery
@@ -165,6 +187,8 @@ expression_data:
     - Lung
     - Outflow Tract
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R498.ANXA4.S21A.001.jpg
   - comments: dorsal mesentery
@@ -176,6 +200,8 @@ expression_data:
     - Leg Mesenchyme
     - Tail
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R498.ANXA4.S21AA.001.jpg
   - comments: dorsal mesentery
@@ -193,6 +219,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Sclerotome
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R498.ANXA4.S22.001.jpg
   stage_range: 19-24
@@ -210,6 +238,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Sclerotome
     - Somatic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R498.ANXA4.S27.001.jpg
   - comments: dorsal mesentery
@@ -221,6 +251,8 @@ expression_data:
     - Hindbrain
     - Pharyngeal Arches and Clefts
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R498.ANXA4.S27A.001.jpg
   - comments: dorsal mesentery
@@ -234,6 +266,8 @@ expression_data:
     - Sclerotome
     - Somatic Mesoderm
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R498.ANXA4.S27AA.001.jpg
   - comments: dorsal mesentery
@@ -245,6 +279,8 @@ expression_data:
     - Leg Mesenchyme
     - Liver
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R498.ANXA4.S27AAA.001.jpg
   stage_range: 25-27
@@ -284,6 +320,10 @@ orthology:
   phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTCCTGTAGTCTCCTGAGCAGTCC
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ANXA4.UApcr
 symbol: ANXA4
 synonyms: annexin A4
 template_length: '589'

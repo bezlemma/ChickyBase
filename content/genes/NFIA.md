@@ -9,6 +9,8 @@ expression_data:
     location: Midbrain
     locations:
     - Midbrain
+    source: Publication
+    source_label: Publication
     stage: stage 37
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Domowicz.2011.Fig.6
       nfia co.png
@@ -16,12 +18,16 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/NFIA.Domowicz.2011.Fig.6 nfia
       ip.png
     local_path: data/images/462551/462551_1.png
+    source: Publication
+    source_label: Publication
     stage: stage 37
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Domowicz.2011.Fig.6
       nfia ip.png
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/NFIA.Domowicz.2011.Fig.6.png
     local_path: data/images/462551/462551_2.png
+    source: Publication
+    source_label: Publication
     stage: stage 37
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Domowicz.2011.Fig.6.png
   - comments: ''
@@ -31,6 +37,8 @@ expression_data:
     location: Midbrain
     locations:
     - Midbrain
+    source: Publication
+    source_label: Publication
     stage: stage 41
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Domowicz.2011.Fig.7
       nfia co.png
@@ -38,6 +46,8 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/NFIA.Domowicz.2011.Fig.7 nfia
       ip.png
     local_path: data/images/462551/462551_4.png
+    source: Publication
+    source_label: Publication
     stage: stage 41
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Domowicz.2011.Fig.7
       nfia ip.png
@@ -47,12 +57,16 @@ expression_data:
     location: Midbrain
     locations:
     - Midbrain
+    source: Publication
+    source_label: Publication
     stage: stage 41
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Domowicz.2011.Fig.7
       nfia.png
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/NFIA.Domowicz.2011.Fig.7.png
     local_path: data/images/462551/462551_6.png
+    source: Publication
+    source_label: Publication
     stage: stage 41
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Domowicz.2011.Fig.7.png
   stage_range: 31-41
@@ -63,6 +77,8 @@ expression_data:
     location: Limb Buds
     locations:
     - Limb Buds
+    source: Publication
+    source_label: Publication
     stage: stage 28
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Singh.2016.Fig5F-st28.jpg
   stage_range: 25-30
@@ -73,6 +89,8 @@ expression_data:
     location: Limb Buds
     locations:
     - Limb Buds
+    source: Publication
+    source_label: Publication
     stage: stage 31
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Singh.2016.Fig5G-st31.jpg
   - comments: ''
@@ -81,6 +99,8 @@ expression_data:
     location: Limb Buds
     locations:
     - Limb Buds
+    source: Publication
+    source_label: Publication
     stage: stage 34
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Singh.2016.Fig5H-st34.jpg
   - comments: ''
@@ -89,6 +109,8 @@ expression_data:
     location: Limb Buds
     locations:
     - Limb Buds
+    source: Publication
+    source_label: Publication
     stage: stage 36
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Singh.2016.Fig5I-st36.jpg
   - comments: ''
@@ -97,6 +119,8 @@ expression_data:
     location: Limb Buds
     locations:
     - Limb Buds
+    source: Publication
+    source_label: Publication
     stage: stage 38
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Singh.2016.Fig5J-st38.jpg
   stage_range: 31-38
@@ -104,6 +128,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/NFIA.Singh.2016.Fig5.jpg
     local_path: data/images/462551/462551_12.jpg
+    source: Publication
+    source_label: Publication
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Singh.2016.Fig5.jpg
   stage_range: all
@@ -147,6 +173,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-050208-501
   phenotypes: ZDB-GENE-050208-501
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=NFIA.Domowicz.2011
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Singh+2016+cartilage+Bandyopadhyay
 symbol: NFIA
 synonyms: CNFI-A, cNFI-A3, nuclear factor 1 A-type|CCAAT-box-binding transcription
   factor|CTF|NF-I/A|NF1-A|NFI-A|TGGCA-binding protein|nuclear factor 1/A, Nuclear

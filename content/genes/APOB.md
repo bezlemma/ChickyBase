@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R520.APOB.S4.001.jpg
   - comments: ''
@@ -16,6 +18,8 @@ expression_data:
     location: Extraembryonic Mesoderm
     locations:
     - Extraembryonic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R520.APOB.S5.001.jpg
   stage_range: 4-6
@@ -27,6 +31,8 @@ expression_data:
     locations:
     - Extraembryonic Mesoderm
     - extraembryonic endoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R520.APOB.S8.001.jpg
   - comments: ''
@@ -36,6 +42,8 @@ expression_data:
     locations:
     - Extraembryonic Mesoderm
     - extraembryonic endoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R520.APOB.S8A.001.jpg
   - comments: ''
@@ -45,6 +53,8 @@ expression_data:
     locations:
     - Extraembryonic Mesoderm
     - extraembryonic endoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R520.APOB.S11.001.jpg
   stage_range: 7-12
@@ -56,6 +66,8 @@ expression_data:
     locations:
     - extraembryonic endoderm
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R536.APOB.S13.001.jpg
   - comments: ''
@@ -65,11 +77,15 @@ expression_data:
     locations:
     - extraembryonic endoderm
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R536.APOB.S13A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R524.APOB.S16.001.jpg
     local_path: data/images/460311/460311_7.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R524.APOB.S16.001.jpg
   - comments: ''
@@ -79,6 +95,8 @@ expression_data:
     locations:
     - extraembryonic endoderm
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R524.APOB.S16A.001.jpg
   - comments: ''
@@ -88,6 +106,8 @@ expression_data:
     locations:
     - extraembryonic endoderm
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R524.APOB.S18.001.jpg
   stage_range: 13-18
@@ -95,6 +115,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R541.APOB.S21.001.jpg
     local_path: data/images/460311/460311_10.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APOB.S21.001.jpg
   - comments: ''
@@ -103,6 +125,8 @@ expression_data:
     location: Liver
     locations:
     - Liver
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APOB.S21A.001.jpg
   - comments: ''
@@ -111,6 +135,8 @@ expression_data:
     location: Liver
     locations:
     - Liver
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APOB.S21AA.001.jpg
   stage_range: 19-24
@@ -123,6 +149,8 @@ expression_data:
     - Head Mesenchyme
     - Liver
     - Nephric Ducts
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APOB.S26.001.jpg
   - comments: ''
@@ -132,6 +160,8 @@ expression_data:
     locations:
     - Liver
     - Nephric Ducts
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APOB.S26A.001.jpg
   stage_range: 25-26
@@ -175,6 +205,10 @@ orthology:
   phenotypes: ZDB-GENE-070702-4,ZDB-GENE-030131-9732
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAGAGAGCCAAGAGTGCTGTTGTG
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=APOB.UApcr
 symbol: APOB
 synonyms: apolipoprotein B|apolipoprotein B (including Ag(x) antigen)
 template_length: '990'

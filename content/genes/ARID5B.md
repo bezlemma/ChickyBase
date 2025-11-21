@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: Publication
+    source_label: Publication
     stage: stage XII
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARID5B.Trevers.2023-Fig7-5-B-xii.jpg
   stage_range: X-XIV
@@ -19,6 +21,8 @@ expression_data:
     locations:
     - Area Pellucida
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARID5B.Trevers.2023-Fig7-5-B-3.jpg
   stage_range: 1-3
@@ -30,6 +34,8 @@ expression_data:
     locations:
     - Area Opaca
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARID5B.Trevers.2023-Fig7-5-B-5.jpg
   stage_range: 4-6
@@ -41,6 +47,8 @@ expression_data:
     locations:
     - Area Opaca
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARID5B.Trevers.2023-Fig7-5-B-8.jpg
   stage_range: 7-8
@@ -48,6 +56,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/ARID5B.Trevers.2023-Fig7-5-B.jpg
     local_path: data/images/451227/451227_4.jpg
+    source: Publication
+    source_label: Publication
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARID5B.Trevers.2023-Fig7-5-B.jpg
   stage_range: all
@@ -90,6 +100,10 @@ orthology:
   mod: ZFIN:ZDB-GENE-070112-1882
   phenotypes: ZDB-GENE-070112-1882
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ARID5B.Trevers.2023
 symbol: ARID5B
 synonyms: AT-rich interactive domain-containing protein 5B|ARID domain-containing
   protein 5B|AT rich interactive domain 5B (MRF1-like)

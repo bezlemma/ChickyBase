@@ -9,6 +9,8 @@ expression_data:
     locations:
     - Area Pellucida
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R351.BATF.S3.001.jpg
   stage_range: 1-3
@@ -20,6 +22,8 @@ expression_data:
     locations:
     - Area Pellucida
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R351.BATF.S4.001.jpg
   - comments: ''
@@ -34,6 +38,8 @@ expression_data:
     - Hensen's Node
     - Notochord
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R415.BARF.S5.001.jpg
   stage_range: 4-6
@@ -49,6 +55,8 @@ expression_data:
     - Neural Plate/Tube
     - Paraxial Mesoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R300.BATF.S7.001.jpg
   - comments: ''
@@ -65,6 +73,8 @@ expression_data:
     - Neural Plate/Tube
     - Primitive Streak
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R351.BATF.S9.001.jpg
   - comments: ''
@@ -81,6 +91,8 @@ expression_data:
     - Neural Plate/Tube
     - Primitive Streak
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R351.BATF.S10.001.jpg
   - comments: ''
@@ -96,6 +108,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Paraxial Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R300.BATF.S12.001.jpg
   stage_range: 7-12
@@ -113,6 +127,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Paraxial Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R300.BATF.S13.001.jpg
   - comments: ''
@@ -121,6 +137,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R296.BATF.S16.001.jpg
   - comments: ''
@@ -129,6 +147,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R296.BATF.S17.001.jpg
   stage_range: 13-18
@@ -140,6 +160,8 @@ expression_data:
     locations:
     - Spinal Ganglia and Nerves
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R296.BATF.S23.001.jpg
   - comments: ''
@@ -149,6 +171,8 @@ expression_data:
     locations:
     - Spinal Ganglia and Nerves
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R296.BATF.S24.001.jpg
   stage_range: 19-24
@@ -160,6 +184,8 @@ expression_data:
     locations:
     - Spinal Ganglia and Nerves
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R296.BATF.S25.001.jpg
   stage_range: '25'
@@ -200,6 +226,10 @@ orthology:
   phenotypes: ZDB-GENE-041014-291
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTGAGCGATGGTGGGCTGCG
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ChEST642f7
 symbol: BATF
 synonyms: basic leucine zipper transcriptional factor ATF-like|basic leucine zipper
   transcription factor, ATF-like

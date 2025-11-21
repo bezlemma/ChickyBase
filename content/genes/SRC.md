@@ -8,12 +8,16 @@ expression_data:
     location: Spinal Cord
     locations:
     - Spinal Cord
+    source: Publication
+    source_label: Publication
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SRC.Kao.2009.Fig.1
       src.png
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/SRC.Kao.2009.Fig.1.png
     local_path: data/images/461015/461015_1.png
+    source: Publication
+    source_label: Publication
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SRC.Kao.2009.Fig.1.png
   stage_range: 25-26
@@ -57,6 +61,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-030131-3809
   phenotypes: ZDB-GENE-030131-3809
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=SRC.Kao.2009
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Kao+Palmesino+Kania+trajectory
 symbol: SRC
 synonyms: PP60C-SCR, SDR, c-src, proto-oncogene tyrosine-protein kinase Src|c-src
   protein, C terminus|non-tyrosine protein kinase|p60-Src|pp60c-src|proto-oncogene

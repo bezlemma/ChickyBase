@@ -9,6 +9,8 @@ expression_data:
     locations:
     - Forebrain
     - Heart Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R249.FGF14.S13D.001.jpg
   - comments: Dorsal view.
@@ -17,6 +19,8 @@ expression_data:
     location: Telencephalon
     locations:
     - Telencephalon
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R242.FGF14.S17.001.jpg
   stage_range: 13-18
@@ -29,6 +33,8 @@ expression_data:
     - Forebrain
     - Telencephalon
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R242.FGF14.S21.001.jpg
   stage_range: 19-24
@@ -42,6 +48,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somatic Mesoderm
     - Telencephalon
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R242.FGF14.S25.001.jpg
   stage_range: '25'
@@ -52,6 +60,8 @@ expression_data:
     location: Face Mesenchyme
     locations:
     - Face Mesenchyme
+    source: Publication
+    source_label: Publication
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MunozFig.1B.jpg
   stage_range: 19-24
@@ -65,6 +75,8 @@ expression_data:
     - Face Mesenchyme
     - Pharyngeal Arches and Clefts
     - Telencephalon
+    source: Publication
+    source_label: Publication
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Munoz.Fig.1A.jpg
   - comments: frontonasal process (FNP)mandibular process (MNP)maxillary processes
@@ -74,6 +86,8 @@ expression_data:
     location: Face Mesenchyme
     locations:
     - Face Mesenchyme
+    source: Publication
+    source_label: Publication
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MunozFig.1C.jpg
   stage_range: 25-26
@@ -84,6 +98,8 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Karabagli.Fig.2.Fgf14.jpg
   - comments: ''
@@ -93,6 +109,8 @@ expression_data:
     locations:
     - Notochord
     - Outflow Tract
+    source: Publication
+    source_label: Publication
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Karabagli.Fig3.Fgf14.jpg
   stage_range: 7-12
@@ -133,6 +151,13 @@ orthology:
   phenotypes: ZDB-GENE-060506-1
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAACTGGTGGTTTGCCGCCATTC
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=FGF14.UApcr
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=12382140&ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
 symbol: FGF14
 synonyms: FHF-4, fibroblast growth factor 14|fibroblast growth factor homologous factor
   4, fibroblast growth factor 14, FGF14, FGF-14, Fibroblast growth factor homologous

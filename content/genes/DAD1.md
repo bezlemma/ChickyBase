@@ -5,6 +5,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Gibson.2011.Fig1.allimages.jpg
     local_path: data/images/448952/448952_0.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gibson.2011.Fig1.allimages.jpg
   - comments: ''
@@ -13,6 +15,8 @@ expression_data:
     location: Primitive Streak
     locations:
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gibson.Fig1.DAD1.A.St3.jpg
   stage_range: 1-3
@@ -23,6 +27,8 @@ expression_data:
     location: Epiblast
     locations:
     - Epiblast
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gibson.Fig1.DAD1.E.St4.jpg
   - comments: ''
@@ -32,11 +38,15 @@ expression_data:
     locations:
     - Epiblast
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gibson.Fig1.DAD1.b.St4.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Gibson.Fig7.ALLIMAGES.jpg
     local_path: data/images/448952/448952_4.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gibson.Fig7.ALLIMAGES.jpg
   - comments: ''
@@ -45,6 +55,8 @@ expression_data:
     location: Epiblast
     locations:
     - Epiblast
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gibson.Fig7.DAD1.A.ST4.jpg
   - comments: ''
@@ -54,6 +66,8 @@ expression_data:
     locations:
     - Epiblast
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gibson.Fig7.DAD1.C.ST5.jpg
   - comments: ''
@@ -63,6 +77,8 @@ expression_data:
     locations:
     - Neural Plate/Tube
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gibson.Fig1.DAD1.C.St6.jpg
   stage_range: 4-6
@@ -75,6 +91,8 @@ expression_data:
     - Neural Plate/Tube
     - Primitive Streak
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gibson.Fig1.DAD1.D.St8.jpg
   - comments: ''
@@ -84,6 +102,8 @@ expression_data:
     locations:
     - Neural Crest
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gibson.Fig1.DAD1.F.St8.jpg
   stage_range: 7-8
@@ -127,6 +147,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-060503-233
   phenotypes: ZDB-GENE-060503-233
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=Soares1813B12
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Gibson+Sheng+programmed+induction
 symbol: DAD1
 synonyms: dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit DAD1|DAD-1|apoptotic
   suppressor|defender against cell death 1 protein|defender against death protein

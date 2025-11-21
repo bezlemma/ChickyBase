@@ -9,6 +9,8 @@ expression_data:
     location: Atria
     locations:
     - Atria
+    source: Publication
+    source_label: Publication
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STBD1.Anderson.2019.Supplementary
       figure 4E-st12.jpg
@@ -16,6 +18,8 @@ expression_data:
     image_url: https://geisha.arizona.edu/geisha/photos/STBD1.Anderson.2019.Supplementary
       figure 4E.jpg
     local_path: data/images/468371/468371_1.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STBD1.Anderson.2019.Supplementary
       figure 4E.jpg
@@ -55,6 +59,13 @@ orthology:
   mod: ''
   phenotypes: ''
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=STBD1.Anderson.2019
+- name: Original Publication
+  type: paper
+  url: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
 symbol: STBD1
 synonyms: starch-binding domain-containing protein 1
 title: STBD1

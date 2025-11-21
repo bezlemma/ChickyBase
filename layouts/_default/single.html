@@ -10,6 +10,7 @@
     <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
         <!-- Column 1: Metadata (3 cols) -->
         <div class="lg:col-span-3 space-y-6">
+            <!-- Gene Information -->
             <div class="bg-slate-50 p-6 rounded-lg border border-slate-200 shadow-sm">
                 <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4">Gene Information</h3>
                 <dl class="space-y-4">
@@ -87,6 +88,48 @@
                 </ul>
             </div>
             {{ end }}
+
+            <!-- Sources Section -->
+            {{ if .Params.sources }}
+            <div class="bg-white p-6 rounded-lg border border-slate-200 shadow-sm">
+                <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4">Data Sources</h3>
+                <ul class="space-y-3">
+                    {{ range .Params.sources }}
+                    <li>
+                        <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"
+                            class="flex items-center p-3 rounded-lg border border-slate-200 hover:border-primary hover:shadow-sm transition-all group">
+                            <div class="mr-3 flex-shrink-0">
+                                {{ if eq .type "database" }}
+                                <div
+                                    class="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center text-blue-600">
+                                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4">
+                                        </path>
+                                    </svg>
+                                </div>
+                                {{ else }}
+                                <div
+                                    class="w-8 h-8 bg-green-100 rounded-full flex items-center justify-center text-green-600">
+                                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253">
+                                        </path>
+                                    </svg>
+                                </div>
+                                {{ end }}
+                            </div>
+                            <div>
+                                <div class="text-sm font-medium text-slate-900 group-hover:text-primary">{{ .name }}
+                                </div>
+                                <div class="text-xs text-slate-500 capitalize">{{ .type }}</div>
+                            </div>
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+            {{ end }}
         </div>
 
         <!-- Column 2: Image Gallery (6 cols) -->
@@ -109,6 +152,16 @@
                             loading="lazy" :alt="symbol + ' expression at ' + img.stage">
                         <div
                             class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-200 flex flex-col justify-end p-3">
+                            <div class="mb-1">
+                                <span v-if="img.source === 'GEISHA'"
+                                    class="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-blue-100 text-blue-800">
+                                    GEISHA
+                                </span>
+                                <span v-else
+                                    class="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-green-100 text-green-800">
+                                    <span v-text="img.sourceLabel"></span>
+                                </span>
+                            </div>
                             <p class="text-white text-xs font-medium truncate" v-text="img.stage"></p>
                             <p class="text-slate-200 text-[10px] truncate" v-if="img.locations.length"
                                 v-text="img.locations.join(', ')"></p>
@@ -182,7 +235,8 @@
                         <td class="px-4 py-2 text-sm text-slate-900">{{ .species }}</td>
                         <td class="px-4 py-2 text-sm">{{ if .ensembl }}<a
                                 href="https://www.ensembl.org/id/{{ .ensembl }}" target="_blank"
-                                class="text-primary hover:underline">{{ .ensembl }}</a>{{ else }}-{{ end }}</td>
+                                class="text-primary hover:underline">{{ .ensembl }}</a>{{ else }}-{{ end }}
+                        </td>
                         <td class="px-4 py-2 text-sm">{{ if .entrez }}<a
                                 href="https://www.ncbi.nlm.nih.gov/gene/{{ .entrez }}" target="_blank"
                                 class="text-primary hover:underline">{{ .entrez }}</a>{{ else }}-{{ end }}</td>
@@ -217,17 +271,19 @@
                 {{ range .Params.expression_data }}
         {{ range .entries }}
         {
-            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}/images/{{ $.Params.gene_id }}/{{ path.Base . }}{{ end }}{{ end }}",
-            locations: [{{ with .locations }}{{ range . }}"{{ . }}", {{ end }}{{ end }}{{ with .location }}"{{ . }}"{{ end }}],
-        stage: "{{ .stage_range }}"
+            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images/%s/%s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
+        locations: [{{ with .locations }}{{ range . }}"{{ . }}", {{ end }}{{ end }}{{ with .location }}"{{ . }}"{{ end }}],
+        stage: "{{ .stage_range }}",
+        source: "{{ .source | default "GEISHA" }}",
+        sourceLabel: "{{ .source_label | default "GEISHA" }}"
         },
         {{ end }}
         {{ end }}
         {{ else if .Params.entries }}
         {{ range .Params.entries }}
         {
-            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}/images/{{ $.Params.gene_id }}/{{ path.Base . }}{{ end }}{{ end }}",
-            locations: [{{ with .locations }}{{ range . }}"{{ . }}", {{ end }}{{ end }}{{ with .location }}"{{ . }}"{{ end }}],
+            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images/%s/%s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
+        locations: [{{ with .locations }}{{ range . }}"{{ . }}", {{ end }}{{ end }}{{ with .location }}"{{ . }}"{{ end }}],
         stage: "Unknown"
         },
         {{ end }}

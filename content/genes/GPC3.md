@@ -8,6 +8,8 @@ expression_data:
     location: Foregut
     locations:
     - Foregut
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig1.A'.Glypican-3.jpg
   - comments: ''
@@ -16,11 +18,15 @@ expression_data:
     location: Foregut
     locations:
     - Foregut
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig1.A.Glypican-3.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Kimura.Fig1.ALLIMAGES.jpg
     local_path: data/images/463244/463244_2.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig1.ALLIMAGES.jpg
   - comments: ''
@@ -30,6 +36,8 @@ expression_data:
     locations:
     - Foregut
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig1.B'.Glypican-3.St11.jpg
   - comments: ''
@@ -39,6 +47,8 @@ expression_data:
     locations:
     - Ectoderm
     - Foregut
+    source: Publication
+    source_label: Publication
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig1.B.Glypican-3.St11.jpg
   stage_range: 7-12
@@ -49,6 +59,8 @@ expression_data:
     location: Foregut
     locations:
     - Foregut
+    source: Publication
+    source_label: Publication
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig1.C'.Glypican-3.St14.jpg
   - comments: ''
@@ -58,6 +70,8 @@ expression_data:
     locations:
     - Foregut
     - Surface Ectoderm
+    source: Publication
+    source_label: Publication
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig1.C.Glypican-3.St14.jpg
   stage_range: 13-14
@@ -98,6 +112,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-031212-1
   phenotypes: ZDB-GENE-031212-1
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=GPC3.Kimura.2011
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Kimura+Fukuda+Jakt+Sheng
 symbol: GPC3
 synonyms: glypican-3
 title: GPC3

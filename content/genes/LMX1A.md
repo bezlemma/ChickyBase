@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/lmx1a.1n18.149.001.jpg
   stage_range: 1-3
@@ -18,6 +20,8 @@ expression_data:
     location: Forebrain
     locations:
     - Forebrain
+    source: Publication
+    source_label: Publication
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/lmx1a.1n18.149.9.jpg
   - comments: ''
@@ -26,6 +30,8 @@ expression_data:
     location: Forebrain
     locations:
     - Forebrain
+    source: Publication
+    source_label: Publication
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/lmx1a.1n18.149.10.jpg
   - comments: ''
@@ -34,6 +40,8 @@ expression_data:
     location: Forebrain
     locations:
     - Forebrain
+    source: Publication
+    source_label: Publication
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/lmx1a.1n18.149.12.jpg
   stage_range: 7-12
@@ -45,6 +53,8 @@ expression_data:
     locations:
     - Notochord
     - Spinal Cord
+    source: Publication
+    source_label: Publication
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/1n18.105.13.1.jpg
   - comments: roof plateroof plate of  NE
@@ -55,6 +65,8 @@ expression_data:
     - Ear/Otic Placcode
     - Neural Plate/Tube
     - Notochord
+    source: Publication
+    source_label: Publication
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/1n18.105.13.jpg
   - comments: roof plateroof plate of  NE
@@ -65,6 +77,8 @@ expression_data:
     - Ear/Otic Placcode
     - Head Mesenchyme
     - Retina
+    source: Publication
+    source_label: Publication
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/lmx1a.153.17.jpg
   - comments: roof plateroof plate of  NE
@@ -75,6 +89,8 @@ expression_data:
     - Ear/Otic Placcode
     - Neural Plate/Tube
     - Notochord
+    source: Publication
+    source_label: Publication
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/1n18.105.16.jpg
   - comments: roof plateroof plate of  NE
@@ -84,6 +100,8 @@ expression_data:
     locations:
     - Head Mesenchyme
     - Retina
+    source: Publication
+    source_label: Publication
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/lmx1a.153.16.jpg
   - comments: roof plateroof plate of  NE
@@ -92,6 +110,8 @@ expression_data:
     location: Ear/Otic Placcode
     locations:
     - Ear/Otic Placcode
+    source: Publication
+    source_label: Publication
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/pgp1n1n18.101.16.jpg
   - comments: roof plateroof plate of  NE
@@ -100,6 +120,8 @@ expression_data:
     location: Ear/Otic Placcode
     locations:
     - Ear/Otic Placcode
+    source: Publication
+    source_label: Publication
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/pgp1n1n18.101.ears.jpg
   - comments: roof plateroof plate of  NE
@@ -109,6 +131,8 @@ expression_data:
     locations:
     - Ear/Otic Placcode
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/1n18.105.001.jpg
   stage_range: 13-18
@@ -123,6 +147,8 @@ expression_data:
     - Extraembryonic
     - Neural Plate/Tube
     - Surface Ectoderm
+    source: Publication
+    source_label: Publication
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/1n18.105.21.jpg
   - comments: ecto of upper jaw, roof plate, floor of midbrain, diencephalonlooking
@@ -135,6 +161,8 @@ expression_data:
     - Head Mesenchyme
     - Pharyngeal Arches and Clefts
     - Retina
+    source: Publication
+    source_label: Publication
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/lmx1a.153.21.jpg
   - comments: ecto of upper jaw, roof plate, floor of midbrain, diencephalonlooking
@@ -146,6 +174,8 @@ expression_data:
     - Ear/Otic Placcode
     - Neural Plate/Tube
     - Surface Ectoderm
+    source: Publication
+    source_label: Publication
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/1n18.105.22.jpg
   - comments: ecto of upper jaw, roof plate, floor of midbrain, diencephalonlooking
@@ -155,6 +185,8 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/1n18.105.22fp.jpg
   stage_range: 19-22
@@ -165,6 +197,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/s2lim1apcr.151.3.jpg
   stage_range: 1-3
@@ -177,6 +211,8 @@ expression_data:
     - Head Process
     - Hensen's Node
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/s2lim1apcr.151.002.jpg
   - comments: ''
@@ -187,6 +223,8 @@ expression_data:
     - Head Process
     - Hensen's Node
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/s2lim1apcr.151.4.1.jpg
   - comments: ''
@@ -196,6 +234,8 @@ expression_data:
     locations:
     - Head Process
     - Notochord
+    source: Publication
+    source_label: Publication
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LIM1aS2PCR.5.jpg
   - comments: ''
@@ -205,6 +245,8 @@ expression_data:
     locations:
     - Head Process
     - Hensen's Node
+    source: Publication
+    source_label: Publication
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/s2lim1apcr.151.4.jpg
   - comments: ''
@@ -216,6 +258,8 @@ expression_data:
     - Hensen's Node
     - Lateral Plate Mesoderm
     - Notochord
+    source: Publication
+    source_label: Publication
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LIM1aS2PCR.6.1.jpg
   - comments: ''
@@ -227,6 +271,8 @@ expression_data:
     - Hensen's Node
     - Lateral Plate Mesoderm
     - Notochord
+    source: Publication
+    source_label: Publication
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LIM1aS2PCR.6.jpg
   stage_range: 4-6
@@ -238,6 +284,8 @@ expression_data:
     locations:
     - Neural Plate/Tube
     - Notochord
+    source: Publication
+    source_label: Publication
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/s2lim1apcr.151.9.jpg
   - comments: ''
@@ -249,6 +297,8 @@ expression_data:
     - Notochord
     - Oral Pharynx
     - Placcode
+    source: Publication
+    source_label: Publication
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/s2lim1a.154.10.jpg
   - comments: ''
@@ -258,6 +308,8 @@ expression_data:
     locations:
     - Ear/Otic Placcode
     - Notochord
+    source: Publication
+    source_label: Publication
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/s2lim1apcr.151.11.jpg
   - comments: ''
@@ -268,6 +320,8 @@ expression_data:
     - Central Nervous System
     - Ear/Otic Placcode
     - Notochord
+    source: Publication
+    source_label: Publication
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/s2lim1a.154.12a.jpg
   stage_range: 7-12
@@ -280,6 +334,8 @@ expression_data:
     - Ear/Otic Placcode
     - Neural Plate/Tube
     - Notochord
+    source: Publication
+    source_label: Publication
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/s2lim1apcr.151.15a.jpg
   - comments: roof plate
@@ -295,6 +351,8 @@ expression_data:
     - Notochord
     - Pituitary (Rudiment)
     - Telencephalon
+    source: Publication
+    source_label: Publication
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/S2Lim1A.153.15.jpg
   - comments: roof plate
@@ -309,6 +367,8 @@ expression_data:
     - Notochord
     - Pituitary (Rudiment)
     - Rhombomeres
+    source: Publication
+    source_label: Publication
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/S2Lim1A.153.17.jpg
   stage_range: 13-18
@@ -324,6 +384,8 @@ expression_data:
     - Midbrain
     - Rhombomeres
     - Telencephalon
+    source: Publication
+    source_label: Publication
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/S2Lim1A.153.20q.jpg
   - comments: roof plate
@@ -337,6 +399,8 @@ expression_data:
     - Midbrain
     - Rhombomeres
     - Telencephalon
+    source: Publication
+    source_label: Publication
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/S2Lim1A.153.21.jpg
   stage_range: 19-21
@@ -347,6 +411,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/s21alim.151.3c.jpg
   stage_range: 1-3
@@ -358,6 +424,8 @@ expression_data:
     locations:
     - Head Process
     - Hensen's Node
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/s21alim.151.4.jpg
   - comments: ''
@@ -367,6 +435,8 @@ expression_data:
     locations:
     - Head Process
     - Hensen's Node
+    source: Publication
+    source_label: Publication
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/s21alim.151.5.jpg
   - comments: ''
@@ -378,6 +448,8 @@ expression_data:
     - Headfold
     - Hensen's Node
     - Notochord
+    source: Publication
+    source_label: Publication
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/s21alim.151.6b.jpg
   stage_range: 4-6
@@ -389,6 +461,8 @@ expression_data:
     locations:
     - Hensen's Node
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/s21alim.151.7.jpg
   stage_range: 7-12
@@ -400,6 +474,8 @@ expression_data:
     locations:
     - Ear/Otic Placcode
     - Head Mesenchyme
+    source: Publication
+    source_label: Publication
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/S21ALIM.R155.S14.02.jpg
   - comments: ''
@@ -408,6 +484,8 @@ expression_data:
     location: Ear/Otic Placcode
     locations:
     - Ear/Otic Placcode
+    source: Publication
+    source_label: Publication
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/S21Alim.153.15.jpg
   - comments: ''
@@ -420,6 +498,8 @@ expression_data:
     - Head Mesenchyme
     - Hindbrain
     - Midbrain
+    source: Publication
+    source_label: Publication
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/S21ALIM.R155.S16.01.jpg
   - comments: ''
@@ -429,6 +509,8 @@ expression_data:
     locations:
     - Ear/Otic Placcode
     - Pituitary (Rudiment)
+    source: Publication
+    source_label: Publication
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/S21Alim.153.17.jpg
   stage_range: 13-18
@@ -441,6 +523,8 @@ expression_data:
     - Ear/Otic Placcode
     - Forebrain
     - Pituitary (Rudiment)
+    source: Publication
+    source_label: Publication
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/S21Alim.153.19.jpg
   - comments: ''
@@ -451,6 +535,8 @@ expression_data:
     - Ear/Otic Placcode
     - Forebrain
     - Pituitary (Rudiment)
+    source: Publication
+    source_label: Publication
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/S21Alim.153.19a.jpg
   stage_range: '19'
@@ -489,6 +575,10 @@ orthology:
   mod: ''
   phenotypes: ''
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=pgf2n.pk001.n18
 symbol: LMX1A
 synonyms: LIM homeobox transcription factor 1-alpha
 title: LMX1A

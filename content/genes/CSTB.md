@@ -9,6 +9,8 @@ expression_data:
     locations:
     - Blood Vessels
     - Extraembryonic
+    source: Publication
+    source_label: Publication
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3Xb11.115.3.12.jpg
   stage_range: 7-12
@@ -19,6 +21,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R655.CSTB.S8.001.jpg
   - comments: ''
@@ -33,6 +37,8 @@ expression_data:
     - Hindbrain
     - Midbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R655.CSTB.S10.001.jpg
   - comments: ''
@@ -41,6 +47,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R655.CSTB.S11.001.jpg
   stage_range: 7-12
@@ -51,6 +59,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R639.CST5.S16.001.jpg
   - comments: ''
@@ -59,6 +69,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R639.CST5.S16.002.jpg
   stage_range: 13-18
@@ -74,6 +86,8 @@ expression_data:
     - Neural Plate/Tube
     - Pharyngeal Arches and Clefts
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R651.CSTB.S22.001.jpg
   - comments: ''
@@ -89,6 +103,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Sclerotome
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R651.CSTB.S24.001.jpg
   stage_range: 19-24
@@ -129,6 +145,10 @@ orthology:
   phenotypes: ZDB-GENE-061013-189,ZDB-GENE-040426-1065,ZDB-GENE-091118-10
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCCAGTGCAGAAATGCTTGTCC-3’
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ChEST149l7
 symbol: CSTB
 synonyms: cystatin B (stefin B)
 template_length: '656'

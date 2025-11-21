@@ -8,6 +8,8 @@ expression_data:
     location: Extraembryonic Mesoderm
     locations:
     - Extraembryonic Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R545.BRE.S6.001.jpg
   stage_range: 4-6
@@ -23,6 +25,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R545.BRE.S8.001.jpg
   - comments: ''
@@ -42,6 +46,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R549.BRE.S11.001.jpg
   stage_range: 7-12
@@ -62,6 +68,8 @@ expression_data:
     - Midbrain
     - Neural Plate/Tube
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R545.BRE.S13.001.jpg
   - comments: ''
@@ -82,6 +90,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Sclerotome
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R550.BRE.S17.001.jpg
   stage_range: 13-18
@@ -108,6 +118,8 @@ expression_data:
     - Somatic Mesoderm
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R550.BRE.S20.001.jpg
   - comments: ''
@@ -124,6 +136,8 @@ expression_data:
     - Sclerotome
     - Somatic Mesoderm
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R550.BRE.S20A.001.jpg
   - comments: ''
@@ -135,6 +149,8 @@ expression_data:
     - Neural Plate/Tube
     - Notochord
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R550.BRE.S20AA.001.jpg
   - comments: ''
@@ -145,11 +161,15 @@ expression_data:
     - Foregut
     - Lung
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R546.BRE.S22.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R546.BRE.S22A.001.jpg
     local_path: data/images/457648/457648_9.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R546.BRE.S22A.001.jpg
   - comments: ''
@@ -170,6 +190,8 @@ expression_data:
     - Sclerotome
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R546.BRE.S23.001.jpg
   - comments: ''
@@ -180,6 +202,8 @@ expression_data:
     - Hindbrain
     - Pharyngeal Arches and Clefts
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R546.BRE.S23A.001.jpg
   - comments: ''
@@ -192,6 +216,8 @@ expression_data:
     - Neural Plate/Tube
     - Sclerotome
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R546.BRE.S23AA.001.jpg
   - comments: ''
@@ -208,6 +234,8 @@ expression_data:
     - Sclerotome
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R546.BRE.S24.001.jpg
   stage_range: 19-24
@@ -251,6 +279,10 @@ orthology:
   phenotypes: ZDB-GENE-050417-299
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGAAAGGTTAGGGTTGGTTGGTC-3'
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=BRE.UApcr
 symbol: BABAM2
 synonyms: BRE, BRISC and BRCA1-A complex member 2|BRCA1-A complex subunit BRE|BRCA1/BRCA2-containing
   complex subunit 45|brain and reproductive organ-expressed (TNFRSF1A modulator)|brain

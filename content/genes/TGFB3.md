@@ -9,6 +9,8 @@ expression_data:
     locations:
     - Heart Tube
     - Ventricles
+    source: Publication
+    source_label: Publication
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGFB3.R157.S11.002.jpg
   stage_range: 7-12
@@ -28,6 +30,8 @@ expression_data:
     - Myotome
     - Notochord
     - Ventricles
+    source: Publication
+    source_label: Publication
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54Zd4.124.15.jpg
   - comments: ''
@@ -42,6 +46,8 @@ expression_data:
     - Heart Tube
     - Notochord
     - Ventricles
+    source: Publication
+    source_label: Publication
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54Zd4.124.17.jpg
   stage_range: 13-18
@@ -57,6 +63,8 @@ expression_data:
     - Blood Vessels
     - Myotome
     - Ventricles
+    source: Publication
+    source_label: Publication
     stage: stage 19
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGFB3.R161.S19.02.jpg
   - comments: ''
@@ -73,6 +81,8 @@ expression_data:
     - Outflow Tract
     - Sinus Venosus
     - Ventricles
+    source: Publication
+    source_label: Publication
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGFB3.R161.S19.002.jpg
   stage_range: 19-24
@@ -92,6 +102,8 @@ expression_data:
     - Outflow Tract
     - Sinus Venosus
     - Ventricles
+    source: Publication
+    source_label: Publication
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGFB3.R161.S25.001.jpg
   stage_range: '25'
@@ -104,6 +116,8 @@ expression_data:
     - Early Mesoderm
     - Epiblast
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R300.TGFB3.S4.001.jpg
   - comments: ''
@@ -113,6 +127,8 @@ expression_data:
     locations:
     - Early Mesoderm
     - Epiblast
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R214.TGFB3.S5.001.jpg
   - comments: ''
@@ -126,6 +142,8 @@ expression_data:
     - Extraembryonic Mesoderm
     - Lateral Plate Mesoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R300.TGFB3.S6.001.jpg
   stage_range: 4-6
@@ -141,6 +159,8 @@ expression_data:
     - Extraembryonic Mesoderm
     - Mesoderm
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R270.TGFB3.S8.001.jpg
   - comments: Sections pending.
@@ -156,6 +176,8 @@ expression_data:
     - Neural Plate/Tube
     - Notochord
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R270.TGFB3.S9.001.jpg
   - comments: Sections pending.
@@ -172,6 +194,8 @@ expression_data:
     - Neural Plate/Tube
     - Notochord
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R270.TGFB3.S10.001.jpg
   - comments: Sections pending.
@@ -187,6 +211,8 @@ expression_data:
     - Neural Plate/Tube
     - Notochord
     - Paraxial Mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R203.TGFB3.S12.001.jpg
   - comments: Sections pending.
@@ -203,6 +229,8 @@ expression_data:
     - Heart Tube
     - Myocardium
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R216.TGFB3.S11.001.jpg
   - comments: Sections pending.
@@ -214,6 +242,8 @@ expression_data:
     - Head Mesenchyme
     - Heart
     - Notochord
+    source: Publication
+    source_label: Publication
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGFB3.101910.004.jpg
   stage_range: 7-12
@@ -230,6 +260,8 @@ expression_data:
     - Notochord
     - Pharyngeal Arches and Clefts
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R208.TGFB3.S15.01.jpg
   - comments: ''
@@ -244,6 +276,8 @@ expression_data:
     - Notochord
     - Paraxial Mesoderm
     - Pharyngeal Arches and Clefts
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R208.TGFB3.S17.01.jpg
   - comments: ''
@@ -258,6 +292,8 @@ expression_data:
     - Notochord
     - Paraxial Mesoderm
     - Pharyngeal Arches and Clefts
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R208.TGFB3.S16.01.jpg
   - comments: ''
@@ -270,6 +306,8 @@ expression_data:
     - Heart
     - Myotome
     - Notochord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R198.TGFB3.S17.001.jpg
   - comments: ''
@@ -284,6 +322,8 @@ expression_data:
     - Myotome
     - Notochord
     - Pharyngeal Arches and Clefts
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R208.TGFB3.S18.001.jpg
   - comments: ''
@@ -294,6 +334,8 @@ expression_data:
     - Blood Vessels
     - Heart
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R299.TGFB3.S17.001.jpg
   - comments: ''
@@ -304,6 +346,8 @@ expression_data:
     - Blood Vessels
     - Heart
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R299.TGFB3.S18.002.jpg
   - comments: ''
@@ -312,6 +356,8 @@ expression_data:
     location: Blood Islands
     locations:
     - Blood Islands
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R299.TGFB3.S18.002C.jpg
   stage_range: 13-18
@@ -329,6 +375,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somites
     - Wing
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R204.TGFB3.S20.001.jpg
   stage_range: 19-24
@@ -346,6 +394,8 @@ expression_data:
     - Somatic Mesoderm
     - Somites
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R269.TGFB3.S25.002.jpg
   - comments: ''
@@ -361,6 +411,8 @@ expression_data:
     - Somatic Mesoderm
     - Somites
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R269.TGFB3.S25.01.jpg
   - comments: ''
@@ -379,6 +431,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somites
     - Wing
+    source: Publication
+    source_label: Publication
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGFB3.R204.S25.1.jpg
   stage_range: '25'
@@ -422,6 +476,10 @@ orthology:
   phenotypes: ZDB-GENE-030723-4
   species: Zebrafish
 reverse_primer: ATTAA CCCTCACTAAAGGATGTAGTAGAGGATGGTGAGGGGC
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ChEST357l20
 symbol: TGFB3
 synonyms: TGF-beta-3, TGF-beta3, transforming growth factor beta-3 proprotein|TGF
   beta 3|transforming growth factor-beta3, TGF-beta-3, Transforming growth factor

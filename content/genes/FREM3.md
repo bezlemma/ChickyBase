@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R704.FREM3.S13.001.jpg
   - comments: ''
@@ -16,6 +18,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R693.FREM3.S17.001.jpg
   - comments: ''
@@ -24,6 +28,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R693.FREM3.S17.002.jpg
   stage_range: 13-18
@@ -34,6 +40,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R694.FREM3.S21.002.jpg
   stage_range: 19-21
@@ -74,6 +82,10 @@ orthology:
   phenotypes: ''
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGTGCTTGCTTCACTGAAGG-3’
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=FREM3.UApcr
 symbol: FREM3
 synonyms: chondroitin sulfate proteoglycan 4|chondroitin sulfate proteoglycan 4-like
 template_length: '830'

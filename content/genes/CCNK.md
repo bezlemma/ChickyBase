@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 12
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R697.CCNK.S12.001.jpg
   stage_range: 7-12
@@ -18,6 +20,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R681.CCNK.S18.001.jpg
   stage_range: 13-18
@@ -37,6 +41,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Sclerotome
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CCNK.S20.001.jpg
   - comments: ''
@@ -51,6 +57,8 @@ expression_data:
     - Neural Plate/Tube
     - Pharyngeal Arches and Clefts
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CCNK.S22.001.jpg
   - comments: ''
@@ -72,16 +80,22 @@ expression_data:
     - Spinal Cord
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CCNK.S24.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R679.CCNK.S24A.001.jpg
     local_path: data/images/451289/451289_5.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CCNK.S24A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R679.CCNK.S24AA.001.jpg
     local_path: data/images/451289/451289_6.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CCNK.S24AA.001.jpg
   stage_range: 19-24
@@ -122,6 +136,10 @@ orthology:
   phenotypes: ZDB-GENE-030131-5126
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAAACTGCTCCCACCATCGTC-3’
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ChEST151g17
 symbol: CCNK
 synonyms: cyclin-K, cyclin-K, cyclin K , CCNK
 template_length: '592'

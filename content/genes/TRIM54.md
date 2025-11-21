@@ -8,6 +8,8 @@ expression_data:
     location: Primitive Streak
     locations:
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R699.TRIM54.S4.001.jpg
   - comments: ''
@@ -19,6 +21,8 @@ expression_data:
     - Extraembryonic Mesoderm
     - Neural Plate/Tube
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R699.TRIM54.S5.001.jpg
   stage_range: 4-6
@@ -43,6 +47,8 @@ expression_data:
     - Somites
     - Ventricles
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R699.TRIM54.S7.001.jpg
   - comments: ''
@@ -64,6 +70,8 @@ expression_data:
     - Sinus Venosus
     - Somites
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R699.TRIM54.S10.001.jpg
   - comments: ''
@@ -84,6 +92,8 @@ expression_data:
     - Somites
     - Ventricles
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R699.TRIM54.S10.002.jpg
   - comments: ''
@@ -104,6 +114,8 @@ expression_data:
     - Sinus Venosus
     - Somites
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R699.TRIM54.S11.001.jpg
   stage_range: 7-12
@@ -114,6 +126,8 @@ expression_data:
     location: Ubiquitous Embryonic
     locations:
     - Ubiquitous Embryonic
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R687.TRIM54.S18.001.jpg
   stage_range: 13-18
@@ -124,6 +138,8 @@ expression_data:
     location: Ubiquitous Embryonic
     locations:
     - Ubiquitous Embryonic
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R687.TRIM54.S20.001.jpg
   - comments: ''
@@ -132,6 +148,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R692.TRIM54.S22.001.jpg
   - comments: ''
@@ -140,6 +158,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R692.TRIM54.S23.001.jpg
   stage_range: 19-24
@@ -150,6 +170,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R692.TRIM54.S25.001.jpg
   stage_range: '25'
@@ -189,6 +211,10 @@ orthology:
   phenotypes: ''
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGTTGGTGGTGTCAATGCTG-3’
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=TRIM54.UApcr
 symbol: TRIM54
 synonyms: tripartite motif-containing protein 54
 template_length: '476'

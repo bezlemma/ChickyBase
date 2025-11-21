@@ -10,6 +10,8 @@ expression_data:
     - Early Mesoderm
     - Epiblast
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BrachyurySt3.001.jpg
   stage_range: 1-3
@@ -21,6 +23,8 @@ expression_data:
     locations:
     - Mesoderm, early
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/brachy.78.4.jpg
   - comments: ''
@@ -30,6 +34,8 @@ expression_data:
     locations:
     - Mesoderm, early
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/brachy.78.4b.jpg
   - comments: ''
@@ -41,6 +47,8 @@ expression_data:
     - Epiblast
     - Notochord
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/brachy7.5.97.4.1.jpg
   - comments: ''
@@ -51,6 +59,8 @@ expression_data:
     - Early Mesoderm
     - Notochord
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRAlin10.7.10.10.001.jpg
   - comments: ''
@@ -61,6 +71,8 @@ expression_data:
     - Mesoderm, early
     - Notochord
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/brachy.78.6.jpg
   stage_range: 4-6
@@ -73,6 +85,8 @@ expression_data:
     - Early Mesoderm
     - Notochord
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRA.S7.R197.001.jpg
   - comments: ''
@@ -84,6 +98,8 @@ expression_data:
     - Hensen's Node
     - Notochord
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/brachy7.5.97.7.jpg
   - comments: ''
@@ -93,6 +109,8 @@ expression_data:
     locations:
     - Notochord
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/brachy9.3.97.10.jpg
   - comments: ''
@@ -104,6 +122,8 @@ expression_data:
     - Hensen's Node
     - Notochord
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/brachy7.5.97.11a.jpg
   stage_range: 7-12
@@ -115,6 +135,8 @@ expression_data:
     locations:
     - Notochord
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/brachy9.3.97.13.jpg
   - comments: ''
@@ -125,6 +147,8 @@ expression_data:
     - Notochord
     - Paraxial Mesoderm
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/brachy.78.15.jpg
   - comments: ''
@@ -133,6 +157,8 @@ expression_data:
     location: Hindbrain
     locations:
     - Hindbrain
+    source: Publication
+    source_label: Publication
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/brachy.78,18hb.jpg
   - comments: ''
@@ -143,6 +169,8 @@ expression_data:
     - Hindbrain
     - Notochord
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/brachy.78.18a.jpg
   stage_range: 13-18
@@ -155,6 +183,8 @@ expression_data:
     - Hindbrain
     - Notochord
     - Tail
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R202.BRA.S20.01B.jpg
   - comments: ''
@@ -165,6 +195,8 @@ expression_data:
     - Hindbrain
     - Notochord
     - Tail
+    source: Publication
+    source_label: Publication
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/brachy.78.22.jpg
   stage_range: 19-24
@@ -178,6 +210,8 @@ expression_data:
     - Hindbrain
     - Notochord
     - Tail
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R202.BRA.S25.001.jpg
   stage_range: '25'
@@ -189,6 +223,8 @@ expression_data:
     locations:
     - Area Pellucida
     - Kohler's Sickle
+    source: Publication
+    source_label: Publication
     stage: stage XIII
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20042B.jpg
   stage_range: X-XIV
@@ -199,6 +235,8 @@ expression_data:
     location: Unlabeled Embryonic
     locations:
     - Unlabeled Embryonic
+    source: Publication
+    source_label: Publication
     stage: stage 1
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20042A.jpg
   - comments: ''
@@ -207,6 +245,8 @@ expression_data:
     location: Primitive Streak
     locations:
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20042C.jpg
   - comments: ''
@@ -215,6 +255,8 @@ expression_data:
     location: Primitive Streak
     locations:
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20047F.jpg
   - comments: ''
@@ -223,6 +265,8 @@ expression_data:
     location: Primitive Streak
     locations:
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20047G.jpg
   - comments: ''
@@ -231,6 +275,8 @@ expression_data:
     location: Primitive Streak
     locations:
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20047I.jpg
   stage_range: 1-3
@@ -241,6 +287,8 @@ expression_data:
     location: Primitive Streak
     locations:
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20042E.jpg
   stage_range: 4-6
@@ -251,6 +299,8 @@ expression_data:
     location: Primitive Streak
     locations:
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20042F.jpg
   stage_range: '7'
@@ -264,6 +314,8 @@ expression_data:
     - Epiblast
     - Notochord
     - Primitive Streak
+    source: Publication
+    source_label: Hardy et al. 2008
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/brachy1.hardy.2008.jpg
   stage_range: 7-8
@@ -274,6 +326,8 @@ expression_data:
     location: Primitive Streak
     locations:
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/fig2.Brachyury.imageF
   stage_range: 7-12
@@ -281,6 +335,8 @@ expression_data:
   - comments: Comparison with other genesnegative control for blood island label
     image_url: https://geisha.arizona.edu/geisha/photos/fig2.allimages.jaffredo-1
     local_path: data/images/450420/450420_27.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 44
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/fig2.allimages.jaffredo-1
   stage_range: 31-44
@@ -288,6 +344,8 @@ expression_data:
   - comments: lateral and medial mesoderm; lateral and preingression epiblast
     image_url: https://geisha.arizona.edu/geisha/photos/Hardy.Fig1.ALLSTAGES-10.jpg
     local_path: data/images/450420/450420_28.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hardy.Fig1.ALLSTAGES-10.jpg
   - comments: lateral and medial mesoderm; lateral and preingression epiblast
@@ -298,6 +356,8 @@ expression_data:
     - Early Mesoderm
     - Epiblast
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hardy.Fig1.K.T-sec.jpg
   - comments: lateral and medial mesoderm; lateral and preingression epiblast
@@ -308,11 +368,15 @@ expression_data:
     - Early Mesoderm
     - Epiblast
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hardy.Fig1.K.T.jpg
   - comments: lateral and medial mesoderm; lateral and preingression epiblast
     image_url: https://geisha.arizona.edu/geisha/photos/Hardy.Fig2.ALLSTAGES-11.jpg
     local_path: data/images/450420/450420_31.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hardy.Fig2.ALLSTAGES-11.jpg
   - comments: lateral and medial mesoderm; lateral and preingression epiblast
@@ -324,6 +388,8 @@ expression_data:
     - Epiblast
     - Head Process
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hardy.Fig2.T.C'.jpg
   stage_range: '4'
@@ -335,11 +401,15 @@ expression_data:
     locations:
     - Hensen's Node
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRA.Alev.2010.1A.png
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/BRA.Alev.2010.1Aall.png
     local_path: data/images/450420/450420_34.png
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRA.Alev.2010.1Aall.png
   stage_range: 1-3
@@ -347,6 +417,8 @@ expression_data:
   - comments: control embryo
     image_url: https://geisha.arizona.edu/geisha/photos/Stumiller.Fig.1.ALLIMAGES-5.jpg
     local_path: data/images/450420/450420_35.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Stumiller.Fig.1.ALLIMAGES-5.jpg
   - comments: control embryo
@@ -355,6 +427,8 @@ expression_data:
     location: Primitive Streak
     locations:
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Stumiller.Fig.1.BRA.E'.jpg
   stage_range: 4-6
@@ -368,6 +442,8 @@ expression_data:
     - Hensen's Node
     - Notochord
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Stumiller.Fig.4.PAX7.ST7.control.jpg
   stage_range: '7'
@@ -375,6 +451,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Patwardhan.Fig.2.ALLIMAGES.jpg
     local_path: data/images/450420/450420_38.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Patwardhan.Fig.2.ALLIMAGES.jpg
   - comments: ''
@@ -383,6 +461,8 @@ expression_data:
     location: Primitive Streak
     locations:
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Patwardhan.Fig.2.Bra.A.stage4.jpg
   stage_range: '4'
@@ -395,12 +475,16 @@ expression_data:
     - Early Mesoderm
     - Hensen's Node
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRA.Acloque.2011.Fig.6
       bra.png
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/BRA.Acloque.2011.Fig.6.png
     local_path: data/images/450420/450420_41.png
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRA.Acloque.2011.Fig.6.png
   stage_range: 1-3
@@ -408,6 +492,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/BRACHYURY.Dubrulle.2001.2A-P.png
     local_path: data/images/450420/450420_42.png
+    source: Publication
+    source_label: Publication
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRACHYURY.Dubrulle.2001.2A-P.png
   - comments: ''
@@ -417,6 +503,8 @@ expression_data:
     locations:
     - Notochord
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRACHYURY.Dubrulle.2001.2I-L.png
   stage_range: '13'
@@ -424,6 +512,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Alwyn.Fig1.ALLIMAGES.C-7.jpg
     local_path: data/images/450420/450420_44.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Alwyn.Fig1.ALLIMAGES.C-7.jpg
   - comments: ''
@@ -433,6 +523,8 @@ expression_data:
     locations:
     - Early Mesoderm
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Alwyn.Fig1.Brachyury.C.jpg
   stage_range: 4-6
@@ -440,6 +532,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Dady.Fig2.ALLIMAGES-7.jpg
     local_path: data/images/450420/450420_46.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dady.Fig2.ALLIMAGES-7.jpg
   - comments: ''
@@ -449,6 +543,8 @@ expression_data:
     locations:
     - Notochord
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 7
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dady.Fig2.Brachyury.B.HH7.jpg
   - comments: ''
@@ -459,6 +555,8 @@ expression_data:
     - Notochord
     - Primitive Streak
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dady.Fig2.Brachyury.C.HH8.jpg
   - comments: ''
@@ -468,6 +566,8 @@ expression_data:
     locations:
     - Central Nervous System
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dady.Fig2.Brachyury.D.HH10.jpg
   stage_range: 7-10
@@ -481,6 +581,8 @@ expression_data:
     - Notochord
     - Somites
     - Tail
+    source: Publication
+    source_label: Publication
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1A.jpg
   - comments: ''
@@ -492,6 +594,8 @@ expression_data:
     - Nephric Ducts
     - Notochord
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1D.jpg
   - comments: ''
@@ -503,6 +607,8 @@ expression_data:
     - Notochord
     - Somites
     - Tail
+    source: Publication
+    source_label: Publication
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1B.jpg
   - comments: ''
@@ -514,6 +620,8 @@ expression_data:
     - Notochord
     - Somites
     - Wing Mesenchyme
+    source: Publication
+    source_label: Publication
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1E.jpg
   - comments: ''
@@ -522,6 +630,8 @@ expression_data:
     location: Leg Mesenchyme
     locations:
     - Leg Mesenchyme
+    source: Publication
+    source_label: Publication
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1F.jpg
   stage_range: 13-18
@@ -535,6 +645,8 @@ expression_data:
     - Notochord
     - Somites
     - Tail
+    source: Publication
+    source_label: Publication
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1C.jpg
   - comments: ''
@@ -546,6 +658,8 @@ expression_data:
     - Nephric Ducts
     - Somites
     - Tail
+    source: Publication
+    source_label: Publication
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1G.jpg
   stage_range: 19-22
@@ -590,6 +704,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-081028-48,ZFIN:ZDB-GENE-980526-437
   phenotypes: ZDB-GENE-081028-48,ZDB-GENE-980526-437
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=Brachyury
+- name: Hardy 2008
+  type: paper
+  url: https://www.ncbi.nlm.nih.gov/pubmed/?term=liu+Nakamura+Knezevic+2003
 symbol: TBXT
 synonyms: CH-T, T, T-box transcription factor T|brachyury protein|T, brachyury homolog|brachyury
   (T)|protein T, Brachyury, T protein

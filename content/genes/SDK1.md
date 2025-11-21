@@ -5,6 +5,8 @@ expression_data:
   - comments: 'Double labeled in situs: CNTN2(red): SDK1(green)'
     image_url: https://geisha.arizona.edu/geisha/photos/Yamagata.2012.Figure7.ALLIMAGES-2.jpg
     local_path: data/images/459355/459355_0.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 40
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yamagata.2012.Figure7.ALLIMAGES-2.jpg
   - comments: 'Double labeled in situs: CNTN2(red): SDK1(green)'
@@ -13,6 +15,8 @@ expression_data:
     location: Retina
     locations:
     - Retina
+    source: Publication
+    source_label: Publication
     stage: stage 40
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yamagata.2012.Figure7.C.CNTN2-SDK1-2.jpg
   stage_range: 31-40
@@ -53,6 +57,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-081104-374,ZFIN:ZDB-GENE-090311-17
   phenotypes: ZDB-GENE-081104-374,ZDB-GENE-090311-17
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=SDK1.Yamagata.2012
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2012+Yamagata+Sanes+laminar+retina+ig
 symbol: SDK1
 synonyms: protein sidekick-1|sidekick 1|sidekick homolog 1, cell adhesion molecule
 title: SDK1

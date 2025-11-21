@@ -10,6 +10,8 @@ expression_data:
     - Early Mesoderm
     - Extraembryonic Mesoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R520.APLP2.S4.001.jpg
   - comments: ''
@@ -19,6 +21,8 @@ expression_data:
     locations:
     - Extraembryonic Mesoderm
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R520.APLP2.S4A.001.jpg
   stage_range: 4-6
@@ -39,6 +43,8 @@ expression_data:
     - Paraxial Mesoderm
     - Sinus Venosus
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R520.APLP2.S9.001.jpg
   - comments: ''
@@ -56,6 +62,8 @@ expression_data:
     - Primitive Streak
     - Sinus Venosus
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R520.APLP2.S9.002.jpg
   - comments: ''
@@ -78,6 +86,8 @@ expression_data:
     - extraembryonic ectoderm
     - extraembryonic endoderm
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R520.APLP2.S9.003.jpg
   - comments: ''
@@ -92,6 +102,8 @@ expression_data:
     - extraembryonic ectoderm
     - extraembryonic endoderm
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R520.APLP2.S9A.001.jpg
   - comments: ''
@@ -105,6 +117,8 @@ expression_data:
     - Paraxial Mesoderm
     - Primitive Streak
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R520.APLP2.S9AA.001.jpg
   stage_range: 7-12
@@ -125,6 +139,8 @@ expression_data:
     - Somites
     - Yolk Sack or Stalk
     - extraembryonic ectoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R524.APLP2.S15.001.jpg
   - comments: ''
@@ -147,6 +163,8 @@ expression_data:
     - Sclerotome
     - Ventricles
     - Yolk Sack or Stalk
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R524.APLP2.S18.001.jpg
   - comments: ''
@@ -157,6 +175,8 @@ expression_data:
     - Foregut
     - Neural Plate/Tube
     - Notochord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R524.APLP2.S18A.001.jpg
   - comments: ''
@@ -169,6 +189,8 @@ expression_data:
     - Heart
     - Neural Plate/Tube
     - Notochord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R524.APLP2.S18AA.001.jpg
   - comments: ''
@@ -177,6 +199,8 @@ expression_data:
     location: extraembryonic ectoderm
     locations:
     - extraembryonic ectoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R524.APLP2.S18AAA.001.jpg
   - comments: ''
@@ -193,6 +217,8 @@ expression_data:
     - Notochord
     - Sclerotome
     - Yolk Sack or Stalk
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R524.APLP2.S18AAAA.001.jpg
   stage_range: 13-18
@@ -219,6 +245,8 @@ expression_data:
     - Spinal Ganglia and Nerves
     - Tail
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APLP2.S20.001.jpg
   - comments: lumen of stomach
@@ -230,6 +258,8 @@ expression_data:
     - Eye
     - Head Mesenchyme
     - Mesencephalon
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APLP2.S20A.001.jpg
   - comments: lumen of stomach
@@ -241,6 +271,8 @@ expression_data:
     - Neural Plate/Tube
     - Sclerotome
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APLP2.S20AA.001.jpg
   - comments: lumen of stomach
@@ -256,6 +288,8 @@ expression_data:
     - Sclerotome
     - Spinal Ganglia and Nerves
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APLP2.S20AAAA.001.jpg
   - comments: lumen of stomach
@@ -271,6 +305,8 @@ expression_data:
     - Neural Plate/Tube
     - Spinal Ganglia and Nerves
     - Stomach
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APLP2.S20AAAAA.001.jpg
   - comments: lumen of stomach
@@ -280,6 +316,8 @@ expression_data:
     locations:
     - Heart
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APLP2.S20AAAAAA.001.jpg
   - comments: lumen of stomach
@@ -301,6 +339,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Sclerotome
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APLP2.S24.001.jpg
   stage_range: 19-24
@@ -334,6 +374,8 @@ expression_data:
     - Spinal Ganglia and Nerves
     - Ventricles
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APLP2.S25.001.jpg
   - comments: ''
@@ -351,6 +393,8 @@ expression_data:
     - Sclerotome
     - Spinal Ganglia and Nerves
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APLP2.S25A.001.jpg
   - comments: ''
@@ -365,6 +409,8 @@ expression_data:
     - Neural Plate/Tube
     - Spinal Ganglia and Nerves
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APLP2.S25AA.001.jpg
   - comments: ''
@@ -379,6 +425,8 @@ expression_data:
     - Neural Plate/Tube
     - Sinus Venosus
     - Spinal Ganglia and Nerves
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APLP2.S25AAA.001.jpg
   - comments: ''
@@ -392,6 +440,8 @@ expression_data:
     - Proepicardium
     - Stomach
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APLP2.S25AAAA.001.jpg
   stage_range: '25'
@@ -434,6 +484,10 @@ orthology:
   phenotypes: ZDB-GENE-030131-6419
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAGAGTCTGTCTTTCTGCCTTGGG
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=APLP2.UApcr
 symbol: APLP2
 synonyms: amyloid-like protein 2|amyloid beta (A4) precursor-like protein 2
 template_length: '869'

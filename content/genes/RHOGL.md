@@ -8,6 +8,8 @@ expression_data:
     location: Area Pellucida
     locations:
     - Area Pellucida
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R403.RHOG.S3.001.jpg
   stage_range: 1-3
@@ -20,6 +22,8 @@ expression_data:
     - Early Mesoderm
     - Hensen's Node
     - Primitive Streak
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R403.RHOG.S5.001.jpg
   - comments: ''
@@ -31,6 +35,8 @@ expression_data:
     - Germinal Crescent
     - Hensen's Node
     - Notochord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R403.RHOG.S6001.jpg
   stage_range: 4-6
@@ -42,6 +48,8 @@ expression_data:
     locations:
     - Head Mesenchyme
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R409.RHOG.S8.002a.jpg
   - comments: ''
@@ -56,6 +64,8 @@ expression_data:
     - Midbrain
     - Neural Plate/Tube
     - Sinus Venosus
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R409.RHOG.S9.001a.jpg
   - comments: ''
@@ -66,6 +76,8 @@ expression_data:
     - Blood Islands
     - Lateral Plate Mesoderm
     - Sinus Venosus
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R409.RHOG.S10.001.jpg
   stage_range: 7-12
@@ -81,6 +93,8 @@ expression_data:
     - Hindbrain
     - Midbrain
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R405.RHOG.S14.001.jpg
   - comments: ''
@@ -96,6 +110,8 @@ expression_data:
     - Lateral Plate Mesoderm
     - Neural Plate/Tube
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R405.RHOG.S14.002.jpg
   - comments: ''
@@ -112,6 +128,8 @@ expression_data:
     - Midbrain
     - Sclerotome
     - Spinal Cord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 14
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R467.RHOG.S14.001.jpg
   - comments: ''
@@ -129,6 +147,8 @@ expression_data:
     - Neural Plate/Tube
     - Pharyngeal Arches and Clefts
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R408.RHOG.S16.001.jpg
   - comments: ''
@@ -145,6 +165,8 @@ expression_data:
     - Midbrain
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R408.RHOG.S17.001.jpg
   stage_range: 13-18
@@ -163,6 +185,8 @@ expression_data:
     - Neural Plate/Tube
     - Pharyngeal Arches and Clefts
     - Wing
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R404.RHOG.S20D.001.jpg
   - comments: ''
@@ -174,6 +198,8 @@ expression_data:
     - Neural Plate/Tube
     - Notochord
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R404.RHOG.S20c.001.jpg
   - comments: ''
@@ -190,11 +216,15 @@ expression_data:
     - Neural Plate/Tube
     - Pharyngeal Arches and Clefts
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R404.RHOG.S21D.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R404.RHOG.S21V.001.jpg
     local_path: data/images/450709/450709_14.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R404.RHOG.S21V.001.jpg
   - comments: ''
@@ -212,11 +242,15 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somites
     - Spinal Cord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R431.RHOG.S21.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R431.RHOG.S21A.001.jpg
     local_path: data/images/450709/450709_16.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R431.RHOG.S21A.001.jpg
   - comments: ''
@@ -234,11 +268,15 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Somites
     - Spinal Cord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R431.RHOG.S22.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R431.RHOG.S22V.001.jpg
     local_path: data/images/450709/450709_18.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R431.RHOG.S22V.001.jpg
   stage_range: 19-22
@@ -279,6 +317,10 @@ orthology:
   phenotypes: ZDB-GENE-040426-1504
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGTCTCTGGGAGTCATCAATG
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=RHOG.UApcr
 symbol: RHOGL
 synonyms: RHOG, transcription initiation factor TFIID subunit 1|ras homolog family
   member G|ras homolog gene family, member G (rho G)

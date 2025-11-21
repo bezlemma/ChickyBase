@@ -5,11 +5,15 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/RUN215.CDK7.S15.001.jpg
     local_path: data/images/448801/448801_0.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RUN215.CDK7.S15.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/RUN215.CDK7.S16.001.jpg
     local_path: data/images/448801/448801_1.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RUN215.CDK7.S16.001.jpg
   stage_range: 13-18
@@ -21,6 +25,8 @@ expression_data:
     locations:
     - Head Mesenchyme
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R217.CDK7.S20.02.jpg
   - comments: Sections pending.
@@ -31,6 +37,8 @@ expression_data:
     - Head Mesenchyme
     - Hindbrain
     - Midbrain
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 24
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R217.CDK7.S24.01.jpg
   stage_range: 19-24
@@ -43,6 +51,8 @@ expression_data:
     - Head Mesenchyme
     - Hindbrain
     - Midbrain
+    source: Publication
+    source_label: Publication
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RUN215.CDK7.S24.001.jpg
   stage_range: '25'
@@ -53,6 +63,8 @@ expression_data:
     location: Epiblast
     locations:
     - Epiblast
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R593.CDK7.S4.001.jpg
   - comments: ''
@@ -61,6 +73,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 6
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R593.CDK7.S6.001.jpg
   stage_range: 4-6
@@ -73,6 +87,8 @@ expression_data:
     - Extraembryonic Mesoderm
     - Head Mesenchyme
     - Neural Plate/Tube
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R593.CDK7.S8.001.jpg
   - comments: ''
@@ -83,6 +99,8 @@ expression_data:
     - Head Mesenchyme
     - Neural Plate/Tube
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R593.CDK7.S10.001.jpg
   stage_range: 7-12
@@ -93,6 +111,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R594B.CDK7.S16.001.jpg
   - comments: ''
@@ -108,6 +128,8 @@ expression_data:
     - Sclerotome
     - Sinus Venosus
     - Somites
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R594B.CDK7.S17.001.jpg
   stage_range: 13-18
@@ -129,6 +151,8 @@ expression_data:
     - Sclerotome
     - Somatic Mesoderm
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R592.CDK7.S22.001.jpg
   - comments: ''
@@ -149,16 +173,22 @@ expression_data:
     - Sclerotome
     - Somatic Mesoderm
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R592.CDK7.S23.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R592.CDK7.S23A.001.jpg
     local_path: data/images/448801/448801_13.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R592.CDK7.S23A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R592.CDK7.S23AA.001.jpg
     local_path: data/images/448801/448801_14.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R592.CDK7.S23AA.001.jpg
   stage_range: 19-24
@@ -180,16 +210,22 @@ expression_data:
     - Spinal Cord
     - Spinal Ganglia and Nerves
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R592.CDK7.S26.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R592.CDK7.S26A.001.jpg
     local_path: data/images/448801/448801_16.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R592.CDK7.S26A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R592.CDK7.S26AA.001.jpg
     local_path: data/images/448801/448801_17.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R592.CDK7.S26AA.001.jpg
   stage_range: 25-26
@@ -200,11 +236,15 @@ expression_data:
     location: Ubiquitous
     locations:
     - Ubiquitous
+    source: Publication
+    source_label: Publication
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CDK7.HH25.Robb.2012.F3.cdk7.png
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Robb.2012.F3.cdk7.png
     local_path: data/images/448801/448801_19.png
+    source: Publication
+    source_label: Publication
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robb.2012.F3.cdk7.png
   stage_range: '25'
@@ -245,6 +285,13 @@ orthology:
   phenotypes: ''
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGAGCACAGTTTGGTCTGGGTAGCAG-3'
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ChEST582c23
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Robb+Antin+candidate+coloboma
 symbol: CDK7
 synonyms: cyclin-dependent kinase 7
 template_length: '962'

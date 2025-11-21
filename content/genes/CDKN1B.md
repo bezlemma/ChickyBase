@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R621.CDKN1B.S5.001.jpg
   stage_range: 4-6
@@ -18,6 +20,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R621.CDKN1B.S8.001.jpg
   - comments: ''
@@ -32,6 +36,8 @@ expression_data:
     - Neural Plate/Tube
     - Sinus Venosus
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R621.CDKN1B.S9.001.jpg
   - comments: ''
@@ -50,6 +56,8 @@ expression_data:
     - Somites
     - Ventricles
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 11
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R621.CDKN1B.S11.001.jpg
   stage_range: 7-12
@@ -72,6 +80,8 @@ expression_data:
     - Somites
     - Ventricles
     - extraembryonic mesoderm
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 13
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R621.CDKN1B.S13.001.jpg
   - comments: ''
@@ -101,6 +111,8 @@ expression_data:
     - Somatic Mesoderm
     - Tail
     - Ventricles
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 16
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R620.CDKN1B.S16.001.jpg
   - comments: ''
@@ -130,21 +142,29 @@ expression_data:
     - Proepicardium
     - Sclerotome
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R620.CDKN1B.S18.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R620.CDKN1B.S18A.001.jpg
     local_path: data/images/463028/463028_7.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R620.CDKN1B.S18A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R620.CDKN1B.S18AA.001.jpg
     local_path: data/images/463028/463028_8.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R620.CDKN1B.S18AA.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R620.CDKN1B.S18AAA.001.jpg
     local_path: data/images/463028/463028_9.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 18
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R620.CDKN1B.S18AAA.001.jpg
   stage_range: 13-18
@@ -171,16 +191,22 @@ expression_data:
     - Sinus Venosus
     - Ventricles
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 20
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R622.CDKN1B.S20.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R622.CDKN1B.21A.001.jpg
     local_path: data/images/463028/463028_11.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R622.CDKN1B.21A.001.jpg
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/R622.CDKN1B.21AA.001.jpg
     local_path: data/images/463028/463028_12.jpg
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R622.CDKN1B.21AA.001.jpg
   - comments: ''
@@ -204,6 +230,8 @@ expression_data:
     - Sinus Venosus
     - Ventricles
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R622.CDKN1B.S21.001.jpg
   stage_range: 19-24
@@ -235,6 +263,8 @@ expression_data:
     - Ventricles
     - Widespread Expression
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 26
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R622.CDKN1B.S26.001.jpg
   stage_range: 25-26
@@ -247,6 +277,8 @@ expression_data:
     - Somites
     - Spinal Cord
     - ZPA
+    source: Publication
+    source_label: Publication
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-Fig2i.jpg
   - comments: ''
@@ -257,6 +289,8 @@ expression_data:
     - Somites
     - Spinal Cord
     - ZPA
+    source: Publication
+    source_label: Publication
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-Fig2k-2.jpg
   stage_range: 19-24
@@ -268,6 +302,8 @@ expression_data:
     locations:
     - Somites
     - ZPA
+    source: Publication
+    source_label: Publication
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-Fig2j.jpg
   - comments: ''
@@ -277,6 +313,8 @@ expression_data:
     locations:
     - Somites
     - Wing Mesenchyme
+    source: Publication
+    source_label: Publication
     stage: stage 27
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-Fig2l.jpg
   stage_range: 25-27
@@ -284,6 +322,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Pickering.2019-p27kip1-Fig2.jpg
     local_path: data/images/463028/463028_19.jpg
+    source: Publication
+    source_label: Publication
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-p27kip1-Fig2.jpg
   stage_range: all
@@ -294,6 +334,8 @@ expression_data:
     location: Neural Plate/Tube
     locations:
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 10
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-fig5-p27.JPG
   stage_range: 7-10
@@ -334,6 +376,13 @@ orthology:
   phenotypes: ZDB-GENE-030521-13,ZDB-GENE-040812-3
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGGAGATTCGGAACAAGTGCC-3'
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CDKN1B.UApcr
+- name: Original Publication
+  type: paper
+  url: https://pubmed.ncbi.nlm.nih.gov/25063452/
 symbol: CDKN1B
 synonyms: cyclin-dependent kinase inhibitor 1B|cyclin-dependent kinase inhibitor 1B
   (p27, Kip1)

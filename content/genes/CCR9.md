@@ -8,6 +8,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 4
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R576.CCR9.S4.001.jpg
   stage_range: 4-6
@@ -18,6 +20,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R576.CCR9.S8.001.jpg
   - comments: ''
@@ -26,6 +30,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R576.CCR9.S8.002.jpg
   - comments: ''
@@ -34,6 +40,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 8
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R578.CCR9.S8.001.jpg
   - comments: ''
@@ -42,6 +50,8 @@ expression_data:
     location: Unlabeled
     locations:
     - Unlabeled
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R578.CCR9.S9.001.jpg
   stage_range: 7-12
@@ -55,6 +65,8 @@ expression_data:
     - Head Mesenchyme
     - Neural Plate/Tube
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 15
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R577.CCR9.S15.001.jpg
   stage_range: 13-18
@@ -71,6 +83,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Sclerotome
     - Wing Mesenchyme
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.CCR9.S22.001.jpg
   - comments: trapping in cardinal veins
@@ -82,6 +96,8 @@ expression_data:
     - Lung
     - Neural Plate/Tube
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.CCR9.S22A.001.jpg
   - comments: trapping in cardinal veins
@@ -91,6 +107,8 @@ expression_data:
     locations:
     - Neural Plate/Tube
     - Sclerotome
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 22
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.CCR9.S22AA.001.jpg
   stage_range: 19-24
@@ -107,6 +125,8 @@ expression_data:
     - Pharyngeal Arches and Clefts
     - Sclerotome
     - Spinal Cord
+    source: GEISHA
+    source_label: GEISHA
     stage: stage 25
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.CCR9.S25.001.jpg
   stage_range: '25'
@@ -147,6 +167,10 @@ orthology:
   phenotypes: ZDB-GENE-060130-125,ZDB-GENE-070301-3
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCGTTCCCCAGCAAAGACATAG
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=CCR9.UApcr
 symbol: CCR9
 synonyms: CCR9-L, C-C chemokine receptor type 9|C-C chemokine receptor 9 like|chemokine
   (C-C motif) receptor 9

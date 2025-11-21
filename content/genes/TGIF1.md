@@ -9,6 +9,8 @@ expression_data:
     locations:
     - Area Pellucida
     - Epiblast
+    source: Publication
+    source_label: Publication
     stage: stage XII
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGIF1.Trevers.2023-Fig7-4-G-xii.jpg
   stage_range: X-XIV
@@ -21,6 +23,8 @@ expression_data:
     - Area Pellucida
     - Epiblast
     - Primitive Streak
+    source: Publication
+    source_label: Publication
     stage: stage 3
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGIF1.Trevers.2023-Fig7-4-G-3.jpg
   stage_range: 1-3
@@ -36,6 +40,8 @@ expression_data:
     - Hensen's Node
     - Mesoderm
     - Neural Plate/Tube
+    source: Publication
+    source_label: Publication
     stage: stage 5
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGIF1.Trevers.2023-Fig7-4-G-5.jpg
   stage_range: 4-6
@@ -49,6 +55,8 @@ expression_data:
     - Neural Plate/Tube
     - Paraxial Mesoderm
     - Somites
+    source: Publication
+    source_label: Publication
     stage: stage 9
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGIF1.Trevers.2023-Fig7-4-G-9.jpg
   stage_range: 7-9
@@ -56,6 +64,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/TGIF1.Trevers.2023-Fig7-4-G.jpg
     local_path: data/images/461812/461812_4.jpg
+    source: Publication
+    source_label: Publication
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGIF1.Trevers.2023-Fig7-4-G.jpg
   stage_range: all
@@ -97,6 +107,10 @@ orthology:
   mod: ZFIN:ZDB-GENE-030131-475
   phenotypes: ZDB-GENE-030131-475
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=TGIF1.Trevers.2023
 symbol: TGIF1
 synonyms: TGIF, homeobox protein AKR|TGFB-induced factor (TALE family homeobox)|avian
   knotted-related protein|homeodomain protein AKR

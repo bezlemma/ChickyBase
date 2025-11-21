@@ -9,6 +9,8 @@ expression_data:
     location: Eye
     locations:
     - Eye
+    source: Publication
+    source_label: Publication
     stage: stage 23
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SGK.Trimarchi.2009
       for figure 4, panel L.JPG
@@ -21,6 +23,8 @@ expression_data:
     location: Eye
     locations:
     - Eye
+    source: Publication
+    source_label: Publication
     stage: stage 29
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SGK.Trimarchi.2009
       for figure 4, panel L1.JPG
@@ -33,6 +37,8 @@ expression_data:
     location: Eye
     locations:
     - Eye
+    source: Publication
+    source_label: Publication
     stage: stage 34
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SGK.Trimarchi.2009
       for figure 4, panel L2.JPG
@@ -44,6 +50,8 @@ expression_data:
     locations:
     - Eye
     - Retina
+    source: Publication
+    source_label: Publication
     stage: stage 36
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SGK.Trimarchi.2009
       for figure 5, panel U.JPG
@@ -86,6 +94,13 @@ orthology:
   mod: ZFIN:ZDB-GENE-030131-2860
   phenotypes: ZDB-GENE-030131-2860
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=SGK.Trimarchi.2009
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=trimarchi+cho+peripheral
 symbol: SGK1
 synonyms: SGK, serine/threonine-protein kinase Sgk1|serum- and glucocorticoid-induced
   kinase

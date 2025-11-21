@@ -9,6 +9,8 @@ expression_data:
     location: Epiblast
     locations:
     - Epiblast
+    source: Publication
+    source_label: Publication
     stage: stage X
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARL4C.Lee.2020_Fig
       3_d_EGK.X-XI.jpg
@@ -20,6 +22,8 @@ expression_data:
     locations:
     - Epiblast
     - Kohler's Sickle
+    source: Publication
+    source_label: Publication
     stage: stage XI
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARL4C.Lee.2020Fig
       3_e_EGK.XII-XIII.jpg
@@ -31,6 +35,8 @@ expression_data:
     locations:
     - Area Opaca
     - Epiblast
+    source: Publication
+    source_label: Publication
     stage: stage XIV
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARL4C.Lee.2020Fig
       3_f_EGK.XIV-HH.2.jpg
@@ -42,6 +48,8 @@ expression_data:
     locations:
     - Area Opaca
     - Epiblast
+    source: Publication
+    source_label: Publication
     stage: stage XIV
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARL4C.Lee.2020_Fig
       3_f''_EGK.XIV-HH.2.jpg
@@ -53,6 +61,8 @@ expression_data:
     locations:
     - Area Opaca
     - Epiblast
+    source: Publication
+    source_label: Publication
     stage: stage XIV
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARL4C.Lee.2020_Fig
       3_f_EGK.XIV-HH.2.jpg
@@ -61,6 +71,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/Allimages_Lee.2020_Fig 3-3.jpg
     local_path: data/images/462785/462785_5.jpg
+    source: Publication
+    source_label: Publication
     stage: ''
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Allimages_Lee.2020_Fig
       3-3.jpg
@@ -100,6 +112,14 @@ orthology:
   mod: ''
   phenotypes: ''
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=ARL4C.Lee.2020
+- name: Original Publication
+  type: paper
+  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=+2020+Stern+
+    Lee+Oliveira+chick
 symbol: ARL4C
 synonyms: ADP-ribosylation factor-like protein 4C|ADP-ribosylation factor-like 4C
 title: ARL4C

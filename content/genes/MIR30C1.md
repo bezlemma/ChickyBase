@@ -5,6 +5,8 @@ expression_data:
   - comments: ''
     image_url: https://geisha.arizona.edu/geisha/photos/30c.15.st17.001.jpg
     local_path: data/images/467991/467991_0.jpg
+    source: Publication
+    source_label: Publication
     stage: stage 17
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/30c.15.st17.001.jpg
   stage_range: 13-18
@@ -15,6 +17,8 @@ expression_data:
     location: Widespread Expression
     locations:
     - Widespread Expression
+    source: Publication
+    source_label: Publication
     stage: stage 21
     thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/30c.10.st21.002.jpg
   stage_range: 19-21
@@ -53,6 +57,10 @@ orthology:
   mod: ''
   phenotypes: ''
   species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=gga-miR-30c
 symbol: MIR30C1
 synonyms: MIR30C-1, MIRN30C-1, gga-mir-30c-1, mir-30c-1, microRNA mir-30c-1, mir-30c
 title: MIR30C1
