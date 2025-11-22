@@ -15,6 +15,13 @@ images:
   source_label: Simoes-Costa et al. 2016
   stage: HH8
   thumbnail_url: null
+- caption: Dmbx1 expression from Figure S1
+  image_url: images/Dmbx1/Dmbx1_FigS1_panel_01.png
+  location: null
+  source: Simoes-Costa et al. 2016
+  source_label: Simoes-Costa et al. 2016
+  stage: HH8
+  thumbnail_url: null
 name: Dmbx1 gene
 ncbi_id: null
 papers:

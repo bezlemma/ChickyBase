@@ -15,6 +15,13 @@ images:
   source_label: Simoes-Costa et al. 2016
   stage: HH8
   thumbnail_url: null
+- caption: Lhx5 expression from Figure S1
+  image_url: images/Lhx5/Lhx5_FigS1_panel_04.png
+  location: null
+  source: Simoes-Costa et al. 2016
+  source_label: Simoes-Costa et al. 2016
+  stage: HH8
+  thumbnail_url: null
 name: Lhx5 gene
 ncbi_id: null
 papers:

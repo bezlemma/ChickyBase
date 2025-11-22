@@ -22,6 +22,13 @@ images:
   source_label: Simoes-Costa et al. 2016
   stage: Unknown
   thumbnail_url: null
+- caption: Ets1 expression from Figure S1
+  image_url: images/Ets1/Ets1_FigS1_panel_09.png
+  location: null
+  source: Simoes-Costa et al. 2016
+  source_label: Simoes-Costa et al. 2016
+  stage: HH9
+  thumbnail_url: null
 name: Ets1 gene
 ncbi_id: null
 papers:

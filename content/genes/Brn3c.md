@@ -15,6 +15,13 @@ images:
   source_label: Simoes-Costa et al. 2016
   stage: HH8
   thumbnail_url: null
+- caption: Brn3c expression from Figure S1
+  image_url: images/Brn3c/Brn3c_FigS1_panel_00.png
+  location: null
+  source: Simoes-Costa et al. 2016
+  source_label: Simoes-Costa et al. 2016
+  stage: HH9
+  thumbnail_url: null
 name: Brn3c gene
 ncbi_id: null
 papers:
