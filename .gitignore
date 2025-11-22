@@ -1,33 +1,11 @@
-# --- Hugo Site Source (KEEP) ---
-!archetypes/
-!assets/
-!content/
-!hugo.toml
-!i18n/
-!layouts/
-!static/
-!themes/
-!.gitignore
-
-# --- Exclude Everything Else ---
-# Data & Large Files
-data/
-public/
-resources/
+# Hugo default output
+public
+resources
 .hugo_build.lock
 
-# Project Infrastructure (Not for Site Repo)
-backend/
-requirements.txt
-*.py
-*.log
-
-# System & IDE
+# System
 .DS_Store
 .vscode/
-.idea/
-__pycache__/
-*.pyc
-venv/
-.env
-.gemini/
+
+# Pagefind
+static/pagefind/

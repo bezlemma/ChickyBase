@@ -1,76 +1,31 @@
 ---
-cgnc_id: '4593'
-expression_data:
-- entries:
-  - comments: ''
-    image_url: https://geisha.arizona.edu/geisha/photos/PI3KC2A.FIG5AC.SMITH.2005.copy.jpg
-    local_path: data/images/449752/449752_0.jpg
-    location: Testis
-    locations:
-    - Testis
-    source: Publication
-    source_label: Smith et al. 2005
-    stage: stage 25
-    thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PI3KC2A.FIG5AC.SMITH.2005.copy.jpg
-  - comments: ''
-    image_url: https://geisha.arizona.edu/geisha/photos/pi3kc2a.fig5bd.smith.2005.copy.jpg
-    local_path: data/images/449752/449752_1.jpg
-    location: Testis
-    locations:
-    - Testis
-    source: Publication
-    source_label: Smith et al. 2005
-    stage: stage 30
-    thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/pi3kc2a.fig5bd.smith.2005.copy.jpg
-  stage_range: 25-30
-external_links:
-  BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0015278
-  Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/39329
-  Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000006121
-  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423070
-  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421003
-geisha_id: PIK3C2A.Smith.2005
 gene_id: '449752'
-gene_type: protein-coding
-has_geisha: true
+images:
+- caption: PIK3C2A expression
+  image_url: images/449752/449752_0.jpg
+  location: Testis
+  source: GEISHA
+  source_label: GEISHA
+  stage: stage 25
+  thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PI3KC2A.FIG5AC.SMITH.2005.copy.jpg
+- caption: PIK3C2A expression
+  image_url: images/449752/449752_1.jpg
+  location: Testis
+  source: GEISHA
+  source_label: GEISHA
+  stage: stage 30
+  thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/pi3kc2a.fig5bd.smith.2005.copy.jpg
 name: phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha
-orthology:
-- ensembl: ''
-  entrez: '39329'
-  mod: FBgn0015278
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000011405
-  entrez: '5286'
-  mod: MIM:603601
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000030660
-  entrez: '18704'
-  mod: MGI:1203729
-  phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
-  species: Mouse
-- ensembl: ''
-  entrez: 100038240,100380949
-  mod: '484562'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000060841
-  entrez: '571356'
-  mod: ZFIN:ZDB-GENE-030328-39
-  phenotypes: ZDB-GENE-030328-39
-  species: Zebrafish
+ncbi_id: '449752'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?stype=gene&keywords=PIK3C2A.Smith.2005
-- name: Smith 2005
-  type: paper
-  url: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=smith+mcclive+male-specific+cell+migration+gonad+PDGF+signalling
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449752
+- name: NCBI Gene
+  type: database
+  url: https://www.ncbi.nlm.nih.gov/gene/449752
+species: Gallus gallus
 symbol: PIK3C2A
-synonyms: phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit alpha|phosphatidylinositol-4-phosphate
-  3-kinase C2 domain-containing subunit alpha|phosphoinositide-3-kinase, class 2,
-  alpha polypeptide
 title: PIK3C2A
 ---
 
