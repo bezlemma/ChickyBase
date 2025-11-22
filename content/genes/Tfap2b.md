@@ -29,6 +29,13 @@ images:
   source_label: Simoes-Costa et al. 2016
   stage: Unknown
   thumbnail_url: null
+- caption: Tfap2b expression from Figure S1
+  image_url: images/Tfap2b/Tfap2b_FigS1_panel_05.png
+  location: null
+  source: Simoes-Costa et al. 2016
+  source_label: Simoes-Costa et al. 2016
+  stage: HH9
+  thumbnail_url: null
 name: Tfap2b gene
 ncbi_id: null
 papers:

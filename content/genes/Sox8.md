@@ -22,6 +22,13 @@ images:
   source_label: Simoes-Costa et al. 2016
   stage: Unknown
   thumbnail_url: null
+- caption: Sox8 expression from Figure S1
+  image_url: images/Sox8/Sox8_FigS1_panel_08.png
+  location: null
+  source: Simoes-Costa et al. 2016
+  source_label: Simoes-Costa et al. 2016
+  stage: HH9
+  thumbnail_url: null
 name: Sox8 gene
 ncbi_id: null
 papers:

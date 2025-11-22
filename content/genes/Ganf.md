@@ -1,14 +1,14 @@
 ---
-gene_id: Grhl2
+gene_id: Ganf
 images:
-- caption: Grhl2 expression from Figure S1
-  image_url: images/Grhl2/Grhl2_FigS1_panel_03.png
+- caption: Ganf expression from Figure S1
+  image_url: images/Ganf/Ganf_FigS1_panel_06.png
   location: null
   source: Simoes-Costa et al. 2016
   source_label: Simoes-Costa et al. 2016
-  stage: HH8
+  stage: HH9
   thumbnail_url: null
-name: Grhl2 gene
+name: Ganf gene
 ncbi_id: null
 papers:
 - authors: Marcos Simoes-Costa, Marianne E Bronner
@@ -22,11 +22,11 @@ sources:
   type: publication
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
 species: Gallus gallus
-symbol: Grhl2
-title: Grhl2
+symbol: Ganf
+title: Ganf
 ---
 
-# Grhl2
+# Ganf
 
-**Grhl2 gene**
+**Ganf gene**
 
