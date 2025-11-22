@@ -1,0 +1,39 @@
+---
+gene_id: Dmbx1
+images:
+- caption: Dmbx1 expression at stage HH6
+  image_url: images/Dmbx1/Dmbx1_HH6_F2_2.jpg
+  location: null
+  source: Simoes-Costa et al. 2016
+  source_label: Simoes-Costa et al. 2016
+  stage: HH6
+  thumbnail_url: null
+- caption: Dmbx1 expression at stage HH8
+  image_url: images/Dmbx1/Dmbx1_HH8_F2_5.jpg
+  location: null
+  source: Simoes-Costa et al. 2016
+  source_label: Simoes-Costa et al. 2016
+  stage: HH8
+  thumbnail_url: null
+name: Dmbx1 gene
+ncbi_id: null
+papers:
+- authors: Marcos Simoes-Costa, Marianne E Bronner
+  doi: 10.1126/science.aaf2729
+  publication_date: '2016'
+  pubmed_id: '27339986'
+  title: Reprogramming of avian neural crest axial identity and cell fate
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
+sources:
+- name: Simoes-Costa et al. 2016
+  type: publication
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
+species: Gallus gallus
+symbol: Dmbx1
+title: Dmbx1
+---
+
+# Dmbx1
+
+**Dmbx1 gene**
+

@@ -260,44 +260,7 @@
     </div>
     {{ end }}
 
-    <!-- Recent Publications / Preprints -->
-    {{ if .Params.papers }}
-    <div class="mt-8">
-        <h3 class="text-lg font-bold text-slate-900 mb-3">Recent Publications & Preprints</h3>
-        <div class="bg-white rounded-lg border border-slate-200 shadow-sm overflow-hidden">
-            <ul class="divide-y divide-slate-200">
-                {{ range .Params.papers }}
-                <li class="p-4 hover:bg-slate-50 transition-colors">
-                    <div class="flex justify-between items-start">
-                        <div class="flex-1">
-                            <h4 class="text-sm font-bold text-slate-900 mb-1">
-                                <a href="{{ .url }}" target="_blank" class="hover:text-primary hover:underline">
-                                    {{ .title }}
-                                </a>
-                            </h4>
-                            <p class="text-xs text-slate-600 mb-1">{{ .authors }}</p>
-                            <div class="flex items-center gap-2 text-xs text-slate-500">
-                                {{ if .publication_date }}<span>{{ .publication_date }}</span>{{ end }}
-                                {{ if .doi }}<span class="font-mono">DOI: {{ .doi }}</span>{{ end }}
-                                {{ if .biorxiv_id }}
-                                <span class="bg-red-100 text-red-800 px-1.5 py-0.5 rounded font-medium">bioRxiv</span>
-                                {{ end }}
-                            </div>
-                        </div>
-                        <a href="{{ .url }}" target="_blank" class="text-slate-400 hover:text-primary ml-4">
-                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                    d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14">
-                                </path>
-                            </svg>
-                        </a>
-                    </div>
-                </li>
-                {{ end }}
-            </ul>
-        </div>
-    </div>
-    {{ end }}
+
 
 </div>
 
@@ -317,7 +280,7 @@
                 {{ range .Params.expression_data }}
         {{ range .entries }}
         {
-            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images/%s/%s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
+            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images/% s /% s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
         locations: [{{ with .locations }}{{ range . }}"{{ . }}", {{ end }}{{ end }}{{ with .location }}"{{ . }}"{{ end }}],
         stage: "{{ .stage_range }}",
         source: "{{ .source | default "GEISHA" }}",
@@ -328,7 +291,7 @@
         {{ else if .Params.entries }}
         {{ range .Params.entries }}
         {
-            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images/%s/%s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
+            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images/% s /% s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
         locations: [{{ with .locations }}{{ range . }}"{{ . }}", {{ end }}{{ end }}{{ with .location }}"{{ . }}"{{ end }}],
         stage: "Unknown"
         },
@@ -337,10 +300,10 @@
         {{ range .Params.images }}
         {
             url: "{{ .image_url | relURL }}",
-            locations: [],
-            stage: "Unknown",
-            source: "{{ .source | default "Publication" }}",
-            sourceLabel: "{{ .source_label | default "Publication" }}"
+            locations: [{{ with .location }}"{{ . }}"{{ end }}],
+        stage: "{{ .stage | default "Unknown" }}",
+        source: "{{ .source | default "Publication" }}",
+        sourceLabel: "{{ .source_label | default "Publication" }}"
         },
         {{ end }}
         {{ end }}
