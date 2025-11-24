@@ -3,28 +3,28 @@ forward_primer: TGCCATTCCCCATTTCTGC
 gene_id: '454926'
 images:
 - caption: BEND3 expression
-  image_url: images/454926/454926_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BEND3/454926_0.jpg
   location: Neural Plate/Tube, Notochord
   source: GEISHA
   source_label: GEISHA
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R528.BEND3.S8.001.jpg
 - caption: BEND3 expression
-  image_url: images/454926/454926_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BEND3/454926_1.jpg
   location: Forebrain, Hindbrain, Midbrain, Neural Plate/Tube, Notochord
   source: GEISHA
   source_label: GEISHA
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R528.BEND3.S10.001.jpg
 - caption: BEND3 expression
-  image_url: images/454926/454926_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BEND3/454926_2.jpg
   location: Neural Plate/Tube
   source: GEISHA
   source_label: GEISHA
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R528.BEND3.S11.001.jpg
 - caption: BEND3 expression
-  image_url: images/454926/454926_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BEND3/454926_3.jpg
   location: Forebrain, Hindbrain, Midbrain, Neural Plate/Tube, Notochord, Pharyngeal
     Arches and Clefts, Sclerotome
   source: GEISHA
@@ -32,21 +32,21 @@ images:
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R524.BEND3.S17.001.jpg
 - caption: BEND3 expression
-  image_url: images/454926/454926_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BEND3/454926_4.jpg
   location: Hindbrain, Notochord, Pharyngeal Arches and Clefts, Sclerotome
   source: GEISHA
   source_label: GEISHA
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R524.BEND3.S17A.001.jpg
 - caption: BEND3 expression
-  image_url: images/454926/454926_5.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BEND3/454926_5.jpg
   location: Forebrain, Hindbrain, Midbrain, Neural Plate/Tube
   source: GEISHA
   source_label: GEISHA
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R524.BEND3.S18.001.jpg
 - caption: BEND3 expression
-  image_url: images/454926/454926_6.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BEND3/454926_6.jpg
   location: Cranial PNS, Foregut, Head Mesenchyme, Lung, Pharyngeal Arches and Clefts,
     Sclerotome, Spinal Ganglia and Nerves
   source: GEISHA
@@ -54,7 +54,7 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BEND3.S24.001.jpg
 - caption: BEND3 expression
-  image_url: images/454926/454926_7.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BEND3/454926_7.jpg
   location: Ear/Otic Placode, Foregut, Head Mesenchyme, Hindbrain, Lung, Pharyngeal
     Arches and Clefts, Sclerotome
   source: GEISHA
@@ -62,14 +62,14 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BEND3.S26.001.jpg
 - caption: BEND3 expression
-  image_url: images/454926/454926_8.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BEND3/454926_8.jpg
   location: Cranial PNS, Hindbrain
   source: GEISHA
   source_label: GEISHA
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BEND3.S26A.001.jpg
 - caption: BEND3 expression
-  image_url: images/454926/454926_9.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BEND3/454926_9.jpg
   location: Foregut, Liver, Lung, Outflow Tract
   source: GEISHA
   source_label: GEISHA
@@ -111,6 +111,8 @@ orthologs:
   mod_id: ZFIN:ZDB-GENE-030131-657
   phenotypes: ''
 ---
+
+
 
 
 # BEND3

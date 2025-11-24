@@ -1,56 +1,57 @@
----gene_id: '468222'
+---
+gene_id: '468222'
 images:
 - caption: PTPRS expression
-  image_url: images/468222/468222_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRS/468222_0.jpg
   location: Spinal Cord
   source: GEISHA
   source_label: GEISHA
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.Fig2.CRYPalpha.E.jpg
 - caption: PTPRS expression
-  image_url: images/468222/468222_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRS/468222_1.jpg
   location: Spinal Cord
   source: Chilton et al. 2000
   source_label: Chilton et al. 2000
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.2000.Fig3.Crypalpha.E.jpg
 - caption: PTPRS expression
-  image_url: images/468222/468222_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRS/468222_2.jpg
   location: Spinal Cord
   source: Chilton et al. 2000
   source_label: Chilton et al. 2000
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.2000.Fig4.CRYPalpha.D.jpg
 - caption: PTPRS expression
-  image_url: images/468222/468222_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRS/468222_3.jpg
   location: Spinal Cord
   source: GEISHA
   source_label: GEISHA
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.CRYPalpha.A.jpg
 - caption: PTPRS expression
-  image_url: images/468222/468222_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRS/468222_4.jpg
   location: Spinal Cord
   source: GEISHA
   source_label: GEISHA
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ChiltonFig.2.CRYPAlpha2.I.jpg
 - caption: PTPRS expression
-  image_url: images/468222/468222_5.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRS/468222_5.jpg
   location: Spinal Cord
   source: GEISHA
   source_label: GEISHA
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.CRYPAlpha2.I.jpg
 - caption: PTPRS expression
-  image_url: images/468222/468222_6.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRS/468222_6.jpg
   location: Spinal Cord
   source: Chilton et al. 2000
   source_label: Chilton et al. 2000
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.2000.Fig4.CRYPalpha2.H.jpg
 - caption: PTPRS expression
-  image_url: images/468222/468222_7.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRS/468222_7.jpg
   location: Spinal Cord
   source: GEISHA
   source_label: GEISHA
@@ -69,6 +70,8 @@ species: Gallus gallus
 symbol: PTPRS
 title: PTPRS
 ---
+
+
 
 # PTPRS
 

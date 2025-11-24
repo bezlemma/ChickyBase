@@ -3,42 +3,42 @@ forward_primer: CCTCATCATCGTTGTGCCTAACC
 gene_id: '461668'
 images:
 - caption: CALCR expression
-  image_url: images/461668/461668_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CALCR/461668_0.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R562.CALCR.S12.001.jpg
 - caption: CALCR expression
-  image_url: images/461668/461668_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CALCR/461668_1.jpg
   location: Head Mesenchyme, Sinus Venosus
   source: GEISHA
   source_label: GEISHA
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R561.CALCR.S18.001.jpg
 - caption: CALCR expression
-  image_url: images/461668/461668_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CALCR/461668_2.jpg
   location: Foregut, Head Mesenchyme, Lung
   source: GEISHA
   source_label: GEISHA
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S22.001.jpg
 - caption: CALCR expression
-  image_url: images/461668/461668_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CALCR/461668_3.jpg
   location: Foregut, Lung, Outflow Tract
   source: GEISHA
   source_label: GEISHA
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S22A.001.jpg
 - caption: CALCR expression
-  image_url: images/461668/461668_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CALCR/461668_4.jpg
   location: Foregut, Lung
   source: GEISHA
   source_label: GEISHA
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S22AA.001.jpg
 - caption: CALCR expression
-  image_url: images/461668/461668_5.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CALCR/461668_5.jpg
   location: Head Mesenchyme, Heart, Hindgut, Leg Mesenchyme, Mesonephros, Pharyngeal
     Arches and Clefts, Sclerotome, Somatic Mesoderm, Wing Mesenchyme
   source: GEISHA
@@ -46,35 +46,35 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S26.001.jpg
 - caption: CALCR expression
-  image_url: images/461668/461668_6.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CALCR/461668_6.jpg
   location: Atria, Outflow Tract, Sclerotome
   source: GEISHA
   source_label: GEISHA
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S26A.001.jpg
 - caption: CALCR expression
-  image_url: images/461668/461668_7.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CALCR/461668_7.jpg
   location: Outflow Tract, Ventricles
   source: GEISHA
   source_label: GEISHA
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S26AA.001.jpg
 - caption: CALCR expression
-  image_url: images/461668/461668_8.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CALCR/461668_8.jpg
   location: Heart, Liver, Mesonephros
   source: GEISHA
   source_label: GEISHA
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S26AAA.001.jpg
 - caption: CALCR expression
-  image_url: images/461668/461668_9.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CALCR/461668_9.jpg
   location: Mesonephros, Sclerotome, Somatic Mesoderm
   source: GEISHA
   source_label: GEISHA
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S26AAAA.001.jpg
 - caption: CALCR expression
-  image_url: images/461668/461668_10.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CALCR/461668_10.jpg
   location: Outflow Tract, Ventricles
   source: GEISHA
   source_label: GEISHA
@@ -111,6 +111,8 @@ orthologs:
   mod_id: ''
   phenotypes: ''
 ---
+
+
 
 
 # CALCR

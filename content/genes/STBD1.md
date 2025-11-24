@@ -2,7 +2,7 @@
 gene_id: '468371'
 images:
 - caption: STBD1 expression
-  image_url: images/468371/468371_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STBD1/468371_0.jpg
   location: Atria
   source: Anderson et al. 2019
   source_label: Anderson et al. 2019
@@ -10,7 +10,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STBD1.Anderson.2019.Supplementary
     figure 4E-st12.jpg
 - caption: STBD1 expression
-  image_url: images/468371/468371_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STBD1/468371_1.jpg
   location: null
   source: Anderson et al. 2019
   source_label: Anderson et al. 2019
@@ -51,6 +51,8 @@ orthologs:
   mod_id: ZFIN:ZDB-GENE-050506-60
   phenotypes: ''
 ---
+
+
 
 
 # STBD1

@@ -3,35 +3,35 @@ forward_primer: TGAATCAGGAGGGTGTTCG
 gene_id: '450709'
 images:
 - caption: RHOGL expression
-  image_url: images/450709/450709_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_0.jpg
   location: Area Pellucida
   source: GEISHA
   source_label: GEISHA
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R403.RHOG.S3.001.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_1.jpg
   location: Early Mesoderm, Hensen's Node, Primitive Streak
   source: GEISHA
   source_label: GEISHA
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R403.RHOG.S5.001.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_2.jpg
   location: Early Mesoderm, Germinal Crescent, Hensen's Node, Notochord
   source: GEISHA
   source_label: GEISHA
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R403.RHOG.S6001.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_3.jpg
   location: Head Mesenchyme, Neural Plate/Tube
   source: GEISHA
   source_label: GEISHA
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R409.RHOG.S8.002a.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_4.jpg
   location: Blood Islands, Forebrain, Hindbrain, Midbrain, Neural Plate/Tube, Sinus
     Venosus
   source: GEISHA
@@ -39,21 +39,21 @@ images:
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R409.RHOG.S9.001a.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_5.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_5.jpg
   location: Blood Islands, Lateral Plate Mesoderm, Sinus Venosus
   source: GEISHA
   source_label: GEISHA
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R409.RHOG.S10.001.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_6.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_6.jpg
   location: Blood Islands, Forebrain, Heart, Hindbrain, Midbrain, Neural Plate/Tube
   source: GEISHA
   source_label: GEISHA
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R405.RHOG.S14.001.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_7.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_7.jpg
   location: Blood Islands, Eye, Heart, Intermediate Mesoderm, Lateral Plate Mesoderm,
     Neural Plate/Tube, Somites
   source: GEISHA
@@ -61,7 +61,7 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R405.RHOG.S14.002.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_8.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_8.jpg
   location: Forebrain, Foregut, Heart, Hindbrain, Intermediate Mesoderm, Midbrain,
     Sclerotome, Spinal Cord
   source: GEISHA
@@ -69,7 +69,7 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R467.RHOG.S14.001.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_9.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_9.jpg
   location: Endoderm, Eye, Forebrain, Hindbrain, Lateral Plate Mesoderm, Midbrain,
     Neural Plate/Tube, Pharyngeal Arches and Clefts, Wing Mesenchyme
   source: GEISHA
@@ -77,7 +77,7 @@ images:
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R408.RHOG.S16.001.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_10.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_10.jpg
   location: Endoderm, Eye, Forebrain, Hindbrain, Lateral Plate Mesoderm, Midbrain,
     Spinal Ganglia and Nerves, Wing Mesenchyme
   source: GEISHA
@@ -85,7 +85,7 @@ images:
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R408.RHOG.S17.001.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_11.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_11.jpg
   location: Forebrain, Hindbrain, Leg, Mesonephros, Midbrain, Neural Plate/Tube, Pharyngeal
     Arches and Clefts, Wing
   source: GEISHA
@@ -93,14 +93,14 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R404.RHOG.S20D.001.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_12.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_12.jpg
   location: Limb Buds, Neural Plate/Tube, Notochord, Somites
   source: GEISHA
   source_label: GEISHA
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R404.RHOG.S20c.001.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_13.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_13.jpg
   location: Forebrain, Hindbrain, Limb Buds, Lung, Midbrain, Neural Plate/Tube, Pharyngeal
     Arches and Clefts, Somites
   source: GEISHA
@@ -108,14 +108,14 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R404.RHOG.S21D.001.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_14.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_14.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R404.RHOG.S21V.001.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_15.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_15.jpg
   location: Eye, Forebrain, Hindbrain, Limb Buds, Midbrain, Notochord, Pharyngeal
     Arches and Clefts, Somites, Spinal Cord
   source: GEISHA
@@ -123,14 +123,14 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R431.RHOG.S21.001.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_16.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_16.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R431.RHOG.S21A.001.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_17.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_17.jpg
   location: Eye, Forebrain, Hindbrain, Limb Buds, Midbrain, Notochord, Pharyngeal
     Arches and Clefts, Somites, Spinal Cord
   source: GEISHA
@@ -138,7 +138,7 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R431.RHOG.S22.001.jpg
 - caption: RHOGL expression
-  image_url: images/450709/450709_18.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_18.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
@@ -175,6 +175,8 @@ orthologs:
   mod_id: ''
   phenotypes: ''
 ---
+
+
 
 
 # RHOGL

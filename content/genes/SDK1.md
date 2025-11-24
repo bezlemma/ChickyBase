@@ -2,14 +2,14 @@
 gene_id: '459355'
 images:
 - caption: SDK1 expression
-  image_url: images/459355/459355_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SDK1/459355_0.jpg
   location: null
   source: Yamagata et al. 2012
   source_label: Yamagata et al. 2012
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yamagata.2012.Figure7.ALLIMAGES-2.jpg
 - caption: SDK1 expression
-  image_url: images/459355/459355_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SDK1/459355_1.jpg
   location: Retina
   source: Yamagata et al. 2012
   source_label: Yamagata et al. 2012
@@ -44,6 +44,8 @@ orthologs:
   mod_id: ZFIN:ZDB-GENE-030131-4053
   phenotypes: ''
 ---
+
+
 
 
 # SDK1

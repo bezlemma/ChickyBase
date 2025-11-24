@@ -2,28 +2,28 @@
 gene_id: Sox8
 images:
 - caption: Sox8 expression at stage HH9
-  image_url: images/Sox8/Sox8_HH9_F2_6.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX8/Sox8_HH9_F2_6.jpg
   location: null
   source: Simoes-Costa et al. 2016
   source_label: Simoes-Costa et al. 2016
   stage: HH9
   thumbnail_url: null
 - caption: Sox8 expression at stage HH10
-  image_url: images/Sox8/Sox8_HH10_F2_9.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX8/Sox8_HH10_F2_9.jpg
   location: null
   source: Simoes-Costa et al. 2016
   source_label: Simoes-Costa et al. 2016
   stage: HH10
   thumbnail_url: null
 - caption: Sox8 expression at stage Unknown
-  image_url: images/Sox8/Sox8_Unknown_F3_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX8/Sox8_Unknown_F3_1.jpg
   location: null
   source: Simoes-Costa et al. 2016
   source_label: Simoes-Costa et al. 2016
   stage: Unknown
   thumbnail_url: null
 - caption: Sox8 expression from Figure S1
-  image_url: images/Sox8/Sox8_FigS1_panel_08.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX8/Sox8_FigS1_panel_08.png
   location: null
   source: Simoes-Costa et al. 2016
   source_label: Simoes-Costa et al. 2016
@@ -46,6 +46,8 @@ species: Gallus gallus
 symbol: SOX8
 title: SOX8
 ---
+
+
 
 
 # Sox8

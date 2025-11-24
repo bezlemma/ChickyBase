@@ -2,28 +2,28 @@
 gene_id: '454619'
 images:
 - caption: RAPGEF1 expression
-  image_url: images/454619/454619_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RAPGEF1/454619_0.jpg
   location: Lens, Paraxial Mesoderm
   source: GEISHA
   source_label: GEISHA
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54ye2.125.15.jpg
 - caption: RAPGEF1 expression
-  image_url: images/454619/454619_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RAPGEF1/454619_1.jpg
   location: Lens, Myotome, Pharyngeal Arches and Clefts, Widespread Expression
   source: GEISHA
   source_label: GEISHA
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54xe2.12518.jpg
 - caption: RAPGEF1 expression
-  image_url: images/454619/454619_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RAPGEF1/454619_2.jpg
   location: Myotome, Pharyngeal Arches and Clefts
   source: GEISHA
   source_label: GEISHA
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54xe2.125.22pa.jpg
 - caption: RAPGEF1 expression
-  image_url: images/454619/454619_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RAPGEF1/454619_3.jpg
   location: Limb Buds, Myotome, Somatopleure, Spinal Cord
   source: GEISHA
   source_label: GEISHA
@@ -63,6 +63,8 @@ orthologs:
   mod_id: ZFIN:ZDB-GENE-030131-8756
   phenotypes: ''
 ---
+
+
 
 
 # RAPGEF1

@@ -1,7 +1,8 @@
----gene_id: '450477'
+---
+gene_id: '450477'
 images:
 - caption: DKC1 expression
-  image_url: images/450477/450477_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKC1/450477_0.jpg
   location: Neural Crest
   source: Gammill et al. 2002
   source_label: Gammill et al. 2002
@@ -20,6 +21,8 @@ species: Gallus gallus
 symbol: DKC1
 title: DKC1
 ---
+
+
 
 # DKC1
 

@@ -1,50 +1,51 @@
----forward_primer: GCTCCAAATGCTGCTATTGAGG
+---
+forward_primer: GCTCCAAATGCTGCTATTGAGG
 gene_id: '461404'
 images:
 - caption: CCNE1 expression
-  image_url: images/461404/461404_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CCNE1/461404_0.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R595.CCNE1.S8.001.jpg
 - caption: CCNE1 expression
-  image_url: images/461404/461404_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CCNE1/461404_1.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R595.CCNE1.S14.001.jpg
 - caption: CCNE1 expression
-  image_url: images/461404/461404_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CCNE1/461404_2.jpg
   location: Unlabeled
   source: Ccne1 et al. 1900
   source_label: Ccne1 et al. 1900
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R575.CCNE1.19001.jpg
 - caption: CCNE1 expression
-  image_url: images/461404/461404_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CCNE1/461404_3.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R574.CCNE1.S20.001.jpg
 - caption: CCNE1 expression
-  image_url: images/461404/461404_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CCNE1/461404_4.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R574.CCNE1.S20.002.jpg
 - caption: CCNE1 expression
-  image_url: images/461404/461404_5.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CCNE1/461404_5.jpg
   location: Foregut, Head Mesenchyme, Lung, Sclerotome, Spinal Ganglia and Nerves
   source: GEISHA
   source_label: GEISHA
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R574.CCNE1.S25.001.jpg
 - caption: CCNE1 expression
-  image_url: images/461404/461404_6.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CCNE1/461404_6.jpg
   location: Neural Plate/Tube
   source: Olivera-martinez et al. 2014
   source_label: Olivera-martinez et al. 2014
@@ -65,6 +66,8 @@ symbol: CCNE1
 template_length: '607'
 title: CCNE1
 ---
+
+
 
 # CCNE1
 

@@ -2,7 +2,7 @@
 gene_id: '453518'
 images:
 - caption: YWHAE expression
-  image_url: images/453518/453518_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/YWHAE/453518_0.jpg
   location: Widespread Expression
   source: GEISHA
   source_label: GEISHA
@@ -37,6 +37,8 @@ orthologs:
   mod_id: ''
   phenotypes: ''
 ---
+
+
 
 
 # YWHAE

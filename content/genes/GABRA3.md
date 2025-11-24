@@ -2,42 +2,42 @@
 gene_id: '463213'
 images:
 - caption: GABRA3 expression
-  image_url: images/463213/463213_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GABRA3/463213_0.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ring.Fig2.ALLIMAGES-2.jpg
 - caption: GABRA3 expression
-  image_url: images/463213/463213_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GABRA3/463213_1.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ring.Fig2.GABRA3.C.HH25.jpg
 - caption: GABRA3 expression
-  image_url: images/463213/463213_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GABRA3/463213_2.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ring.Fig2.GABRA3.D.HH35.jpg
 - caption: GABRA3 expression
-  image_url: images/463213/463213_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GABRA3/463213_3.jpg
   location: Retina
   source: GEISHA
   source_label: GEISHA
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ring.Fig2.GABRA3.E.HH38.jpg
 - caption: GABRA3 expression
-  image_url: images/463213/463213_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GABRA3/463213_4.jpg
   location: Retina
   source: GEISHA
   source_label: GEISHA
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ring.Fig2.GABRA3.F.HH42.jpg
 - caption: GABRA3 expression
-  image_url: images/463213/463213_5.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GABRA3/463213_5.jpg
   location: Retina
   source: GEISHA
   source_label: GEISHA
@@ -67,6 +67,8 @@ orthologs:
   mod_id: MGI:3616076
   phenotypes: ''
 ---
+
+
 
 
 # GABRA3

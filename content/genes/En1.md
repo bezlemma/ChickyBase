@@ -2,7 +2,7 @@
 gene_id: En1
 images:
 - caption: En1 expression from Figure S1
-  image_url: images/En1/En1_FigS1_panel_02.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EN1/En1_FigS1_panel_02.png
   location: null
   source: Simoes-Costa et al. 2016
   source_label: Simoes-Costa et al. 2016
@@ -25,6 +25,8 @@ species: Gallus gallus
 symbol: EN1
 title: EN1
 ---
+
+
 
 
 # En1

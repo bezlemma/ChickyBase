@@ -2,14 +2,14 @@
 gene_id: '459482'
 images:
 - caption: EGR1 expression
-  image_url: images/459482/459482_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EGR1/459482_0.jpg
   location: Wing Mesenchyme
   source: GEISHA
   source_label: GEISHA
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53ZB7.124.18.1.jpg
 - caption: EGR1 expression
-  image_url: images/459482/459482_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EGR1/459482_1.jpg
   location: Myotome, Wing Mesenchyme
   source: GEISHA
   source_label: GEISHA
@@ -44,6 +44,8 @@ orthologs:
   mod_id: ''
   phenotypes: ''
 ---
+
+
 
 
 # EGR1

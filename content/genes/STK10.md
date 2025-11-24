@@ -2,14 +2,14 @@
 gene_id: '457424'
 images:
 - caption: STK10 expression
-  image_url: images/457424/457424_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STK10/457424_0.jpg
   location: null
   source: Alev et al. 2010
   source_label: Alev et al. 2010
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STK10.Alev.2010.5.jpg
 - caption: STK10 expression
-  image_url: images/457424/457424_1.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STK10/457424_1.png
   location: Hensen's Node
   source: Alev et al. 2010
   source_label: Alev et al. 2010
@@ -39,6 +39,8 @@ orthologs:
   mod_id: MGI:3646410
   phenotypes: ''
 ---
+
+
 
 
 # STK10

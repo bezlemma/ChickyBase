@@ -3,56 +3,56 @@ forward_primer: 5'-AAAGGTGACCCCAGACTCCAAG-3'
 gene_id: '448790'
 images:
 - caption: CACNA2D2 expression
-  image_url: images/448790/448790_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CACNA2D2/448790_0.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R553.CACNA2D2.S8.001.jpg
 - caption: CACNA2D2 expression
-  image_url: images/448790/448790_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CACNA2D2/448790_1.jpg
   location: Blood Islands, Facial Muscles, Somites
   source: GEISHA
   source_label: GEISHA
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R553.CACNA2D2.S9.001.jpg
 - caption: CACNA2D2 expression
-  image_url: images/448790/448790_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CACNA2D2/448790_2.jpg
   location: Blood Islands, Head Mesenchyme, Neural Plate/Tube
   source: GEISHA
   source_label: GEISHA
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R553.CACNA2D2.S9.002.jpg
 - caption: CACNA2D2 expression
-  image_url: images/448790/448790_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CACNA2D2/448790_3.jpg
   location: Cranial PNS
   source: GEISHA
   source_label: GEISHA
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R551.CACNA2D2.S19.001.jpg
 - caption: CACNA2D2 expression
-  image_url: images/448790/448790_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CACNA2D2/448790_4.jpg
   location: Cranial PNS
   source: GEISHA
   source_label: GEISHA
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R551.CACNA2D2.S19.002.jpg
 - caption: CACNA2D2 expression
-  image_url: images/448790/448790_5.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CACNA2D2/448790_5.jpg
   location: Cranial PNS
   source: GEISHA
   source_label: GEISHA
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R551.CACNA2D2.S19A.001.jpg
 - caption: CACNA2D2 expression
-  image_url: images/448790/448790_6.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CACNA2D2/448790_6.jpg
   location: Myotome
   source: GEISHA
   source_label: GEISHA
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R554.CACNA2D2.S22.001.jpg
 - caption: CACNA2D2 expression
-  image_url: images/448790/448790_7.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CACNA2D2/448790_7.jpg
   location: Myotome, Oral Pharynx, Pharyngeal Arches and Clefts, Spinal Cord, Spinal
     Ganglia and Nerves
   source: GEISHA
@@ -60,14 +60,14 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R554.CACNA2D2.S27.001.jpg
 - caption: CACNA2D2 expression
-  image_url: images/448790/448790_8.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CACNA2D2/448790_8.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R554.CACNA2D2.S27A.001.jpg
 - caption: CACNA2D2 expression
-  image_url: images/448790/448790_9.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CACNA2D2/448790_9.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
@@ -99,6 +99,8 @@ orthologs:
   mod_id: MGI:1329031
   phenotypes: ''
 ---
+
+
 
 
 # CACNA2D2

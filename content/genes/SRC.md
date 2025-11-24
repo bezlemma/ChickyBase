@@ -2,7 +2,7 @@
 gene_id: '461015'
 images:
 - caption: SRC expression
-  image_url: images/461015/461015_0.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SRC/461015_0.png
   location: Spinal Cord
   source: Kao et al. 2009
   source_label: Kao et al. 2009
@@ -10,7 +10,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SRC.Kao.2009.Fig.1
     src.png
 - caption: SRC expression
-  image_url: images/461015/461015_1.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SRC/461015_1.png
   location: null
   source: Kao et al. 2009
   source_label: Kao et al. 2009
@@ -50,6 +50,8 @@ orthologs:
   mod_id: ZFIN:ZDB-GENE-040912-60
   phenotypes: ''
 ---
+
+
 
 
 # SRC

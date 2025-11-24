@@ -3,14 +3,14 @@ forward_primer: GGAGGAAATGTGGAAATGGCTAC
 gene_id: '457023'
 images:
 - caption: ADAM19 expression
-  image_url: images/457023/457023_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_0.jpg
   location: Early Mesoderm, Notochord
   source: GEISHA
   source_label: GEISHA
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R481.ADAM19.S5.002.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_1.jpg
   location: Extraembryonic Mesoderm, Lateral Plate Mesoderm, Neural Plate/Tube, extraembryonic
     endoderm
   source: GEISHA
@@ -18,7 +18,7 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R481.ADAM19.S8.001.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_2.jpg
   location: Anterior Intestinal Portal, Extraembryonic Mesoderm, Intermediate Mesoderm,
     Lateral Plate Mesoderm, Neural Plate/Tube
   source: GEISHA
@@ -26,21 +26,21 @@ images:
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R481.ADAM19.S9.001.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_3.jpg
   location: Intermediate Mesoderm, Lateral Plate Mesoderm
   source: GEISHA
   source_label: GEISHA
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R540.ADAMTS19.S11.001.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_4.jpg
   location: Intermediate Mesoderm
   source: GEISHA
   source_label: GEISHA
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R540.ADAMTS19.S11A.001.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_5.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_5.jpg
   location: Cranial PNS, Eye, Head Mesenchyme, Intermediate Mesoderm, Nephric Ducts,
     Notochord, Oral Pharynx, Pharyngeal Arches and Clefts, Sclerotome, Sinus Venosus,
     Splanchnic Mesoderm
@@ -49,28 +49,28 @@ images:
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R480.ADAM19.S16.001.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_6.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_6.jpg
   location: Notochord, Sclerotome, Sinus Venosus
   source: GEISHA
   source_label: GEISHA
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R480.ADAM19.S16A.001.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_7.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_7.jpg
   location: Endoderm, Nephric Ducts, Notochord, Splanchnic Mesoderm
   source: GEISHA
   source_label: GEISHA
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R480.ADAM19.S16AA.001.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_8.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_8.jpg
   location: Widespread Expression
   source: GEISHA
   source_label: GEISHA
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R480.ADAM19.S18.001.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_9.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_9.jpg
   location: Allantois, Cranial PNS, Eye, Foregut, Leg Mesenchyme, Spinal Cord, Spinal
     Ganglia and Nerves, Wing Mesenchyme
   source: GEISHA
@@ -78,21 +78,21 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R484.ADAM19.S22.002.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_10.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_10.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves, Stomach
   source: GEISHA
   source_label: GEISHA
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R484.ADAM19.S22A.002.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_11.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_11.jpg
   location: Sclerotome, Spinal Cord, Spinal Ganglia and Nerves, Stomach
   source: GEISHA
   source_label: GEISHA
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R484.ADAM19.S22AA.002.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_12.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_12.jpg
   location: Ectoderm, Foregut, Oral Pharynx, Pharyngeal Arches and Clefts, Sclerotome,
     Spinal Cord, Spinal Ganglia and Nerves
   source: GEISHA
@@ -100,7 +100,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R484.ADAM19.S24A.001.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_13.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_13.jpg
   location: Ectoderm, Foregut, Outflow Tract, Sclerotome, Spinal Cord, Spinal Ganglia
     and Nerves
   source: GEISHA
@@ -108,7 +108,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R484.ADAM19.S24AA.001.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_14.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_14.jpg
   location: Ectoderm, Foregut, Leg Mesenchyme, Mesonephros, Outflow Tract, Pharyngeal
     Arches and Clefts, Somatic Mesoderm, Spinal Ganglia and Nerves, Wing Mesenchyme
   source: GEISHA
@@ -116,28 +116,28 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R484.ADAM19.S26002.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_15.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_15.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R484.ADAM19.S26V.001.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_16.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_16.jpg
   location: Cranial Ganglion, Heart
   source: Lewis et al. 2004
   source_label: Lewis et al. 2004
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADAM19.FIG3B.LEWIS.2004.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_17.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_17.jpg
   location: Allantois
   source: Lewis et al. 2004
   source_label: Lewis et al. 2004
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADAM19.FIG3C.LEWIS.2004.jpg
 - caption: ADAM19 expression
-  image_url: images/457023/457023_18.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAM19/457023_18.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
   source: Lewis et al. 2004
   source_label: Lewis et al. 2004
@@ -178,11 +178,13 @@ orthologs:
   entrez_id: '11492'
   ensembl_id: ENSMUSG00000011256
   mod_id: MGI:105377
-  phenotypes: 'All phenotypic alleles are viable, but some show reduced survival. Homozygotes for a null allele show abnormal heart development, ventricular septal defects, and valvular abnormalities. Some die shortly after birth due to cardiac defects.'
+  phenotypes: All phenotypic alleles are viable, but some show reduced survival. Homozygotes
+    for a null allele show abnormal heart development, ventricular septal defects,
+    and valvular abnormalities. Some die shortly after birth due to cardiac defects.
 - species: Xenopus
   entrez_id: '677730'
   ensembl_id: ENSXETG00000034170
-  mod_id: 'XB-GENE-1005720'
+  mod_id: XB-GENE-1005720
   phenotypes: ''
 - species: Zebrafish
   entrez_id: '571252'
@@ -205,6 +207,8 @@ symbol: ADAM19
 template_length: '699'
 title: ADAM19
 ---
+
+
 
 
 # ADAM19

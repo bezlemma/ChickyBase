@@ -3,21 +3,21 @@ forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGACTGGTTTTAGTAACTGGTCTGCG
 gene_id: '456673'
 images:
 - caption: CPEB4 expression
-  image_url: images/456673/456673_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CPEB4/456673_0.jpg
   location: Area Opaca, Blood Islands, Lateral Plate Mesoderm
   source: GEISHA
   source_label: GEISHA
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RUN213.CPEB4.S10.001.jpg
 - caption: CPEB4 expression
-  image_url: images/456673/456673_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CPEB4/456673_1.jpg
   location: Area Opaca, Blood Islands, Extraembryonic, Lateral Plate Mesoderm
   source: GEISHA
   source_label: GEISHA
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RUN213.CPEB4.S11.001.jpg
 - caption: CPEB4 expression
-  image_url: images/456673/456673_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CPEB4/456673_2.jpg
   location: Area Opaca, Blood Islands, Blood Vessels, Eye, Heart, Heart Tube, Somites,
     Spinal Cord
   source: GEISHA
@@ -25,7 +25,7 @@ images:
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RUN213.CPEB4.S16.1.jpg
 - caption: CPEB4 expression
-  image_url: images/456673/456673_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CPEB4/456673_3.jpg
   location: Area Opaca, Blood Islands, Blood Vessels, Eye, Heart, Heart Tube, Myocardium,
     Paraxial Mesoderm
   source: GEISHA
@@ -33,7 +33,7 @@ images:
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RUN213.CPEB4.S16.01.jpg
 - caption: CPEB4 expression
-  image_url: images/456673/456673_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CPEB4/456673_4.jpg
   location: Cranial Ganglion, Dermomyotome, Head Mesenchyme, Heart, Lens, Neural Plate/Tube,
     Spinal Cord
   source: GEISHA
@@ -41,7 +41,7 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RUN213.CPEB4.S21.001.jpg
 - caption: CPEB4 expression
-  image_url: images/456673/456673_5.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CPEB4/456673_5.jpg
   location: Cranial Ganglion, Dermomyotome, Head Mesenchyme, Heart, Lens, Neural Plate/Tube,
     Spinal Cord
   source: GEISHA
@@ -49,7 +49,7 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RUN213.CPEB4.S22.001.jpg
 - caption: CPEB4 expression
-  image_url: images/456673/456673_6.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CPEB4/456673_6.jpg
   location: Head Mesenchyme, Heart, Lens, Neural Plate/Tube, Spinal Cord, Spinal Ganglia
     and Nerves
   source: GEISHA
@@ -92,6 +92,8 @@ orthologs:
   mod_id: ZFIN:ZDB-GENE-131121-599
   phenotypes: ''
 ---
+
+
 
 
 # CPEB4

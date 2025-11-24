@@ -2,28 +2,28 @@
 gene_id: '448944'
 images:
 - caption: PRKDC expression
-  image_url: images/448944/448944_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PRKDC/448944_0.jpg
   location: Limb Buds
   source: GEISHA
   source_label: GEISHA
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53P.26.st21.jpg
 - caption: PRKDC expression
-  image_url: images/448944/448944_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PRKDC/448944_1.jpg
   location: Ubiquitous Embryonic, Unlabeled Extraembryonic
   source: GEISHA
   source_label: GEISHA
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53P.27.13-21.jpg
 - caption: PRKDC expression
-  image_url: images/448944/448944_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PRKDC/448944_2.jpg
   location: Limb Buds, Unlabeled Extraembryonic
   source: GEISHA
   source_label: GEISHA
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53P.26.st23.jpg
 - caption: PRKDC expression
-  image_url: images/448944/448944_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PRKDC/448944_3.jpg
   location: Limb Buds, Pharyngeal Arches and Clefts
   source: GEISHA
   source_label: GEISHA
@@ -63,6 +63,8 @@ orthologs:
   mod_id: ZFIN:ZDB-GENE-040914-84
   phenotypes: ''
 ---
+
+
 
 
 # PRKDC

@@ -2,7 +2,7 @@
 gene_id: '462785'
 images:
 - caption: ARL4C expression
-  image_url: images/462785/462785_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARL4C/462785_0.jpg
   location: Epiblast
   source: Lee et al. 2020
   source_label: Lee et al. 2020
@@ -10,7 +10,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARL4C.Lee.2020_Fig
     3_d_EGK.X-XI.jpg
 - caption: ARL4C expression
-  image_url: images/462785/462785_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARL4C/462785_1.jpg
   location: Epiblast, Kohler's Sickle
   source: Lee et al. 2020
   source_label: Lee et al. 2020
@@ -18,7 +18,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARL4C.Lee.2020Fig
     3_e_EGK.XII-XIII.jpg
 - caption: ARL4C expression
-  image_url: images/462785/462785_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARL4C/462785_2.jpg
   location: Area Opaca, Epiblast
   source: Lee et al. 2020
   source_label: Lee et al. 2020
@@ -26,7 +26,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARL4C.Lee.2020Fig
     3_f_EGK.XIV-HH.2.jpg
 - caption: ARL4C expression
-  image_url: images/462785/462785_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARL4C/462785_3.jpg
   location: Area Opaca, Epiblast
   source: Lee et al. 2020
   source_label: Lee et al. 2020
@@ -34,7 +34,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARL4C.Lee.2020_Fig
     3_f''_EGK.XIV-HH.2.jpg
 - caption: ARL4C expression
-  image_url: images/462785/462785_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARL4C/462785_4.jpg
   location: Area Opaca, Epiblast
   source: Lee et al. 2020
   source_label: Lee et al. 2020
@@ -42,7 +42,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARL4C.Lee.2020_Fig
     3_f_EGK.XIV-HH.2.jpg
 - caption: ARL4C expression
-  image_url: images/462785/462785_5.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARL4C/462785_5.jpg
   location: null
   source: Allimages_lee et al. 2020
   source_label: Allimages_lee et al. 2020
@@ -83,6 +83,8 @@ orthologs:
   mod_id: ZFIN:ZDB-GENE-030131-7066
   phenotypes: ''
 ---
+
+
 
 
 # ARL4C

@@ -2,35 +2,35 @@
 gene_id: '451175'
 images:
 - caption: OPN4 expression
-  image_url: images/451175/451175_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OPN4/451175_0.jpg
   location: Retina
   source: GEISHA
   source_label: GEISHA
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cOpn4mimageA.jpg
 - caption: OPN4 expression
-  image_url: images/451175/451175_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OPN4/451175_1.jpg
   location: Retina
   source: GEISHA
   source_label: GEISHA
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cOpn4mimageB'.jpg
 - caption: OPN4 expression
-  image_url: images/451175/451175_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OPN4/451175_2.jpg
   location: Retina
   source: GEISHA
   source_label: GEISHA
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cOpn4mimageB.jpg
 - caption: OPN4 expression
-  image_url: images/451175/451175_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OPN4/451175_3.jpg
   location: Retina
   source: GEISHA
   source_label: GEISHA
   stage: stage 43
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cOpn4mimageC'.jpg
 - caption: OPN4 expression
-  image_url: images/451175/451175_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OPN4/451175_4.jpg
   location: Retina
   source: GEISHA
   source_label: GEISHA
@@ -70,6 +70,8 @@ orthologs:
   mod_id: ZFIN:ZDB-GENE-050417-274
   phenotypes: ''
 ---
+
+
 
 
 # OPN4

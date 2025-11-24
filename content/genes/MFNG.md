@@ -3,56 +3,56 @@ forward_primer: 5'-TGTGCGCTTCTGGTTTGC-3'
 gene_id: '458047'
 images:
 - caption: MFNG expression
-  image_url: images/458047/458047_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MFNG/458047_0.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R728.MFNG.S12.001.jpg
 - caption: MFNG expression
-  image_url: images/458047/458047_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MFNG/458047_1.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R726.MFNG.S17.001.jpg
 - caption: MFNG expression
-  image_url: images/458047/458047_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MFNG/458047_2.jpg
   location: Head Mesenchyme, Neural Plate/Tube
   source: GEISHA
   source_label: GEISHA
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R726.MFNG.S18.001.jpg
 - caption: MFNG expression
-  image_url: images/458047/458047_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MFNG/458047_3.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R727.MFNG.S23.001.jpg
 - caption: MFNG expression
-  image_url: images/458047/458047_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MFNG/458047_4.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R727.MFNG.S23.002.jpg
 - caption: MFNG expression
-  image_url: images/458047/458047_5.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MFNG/458047_5.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R727.MFNG.S26.001.jpg
 - caption: MFNG expression
-  image_url: images/458047/458047_6.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MFNG/458047_6.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tossell.Fig1.ALLIMAGES-10.jpg
 - caption: MFNG expression
-  image_url: images/458047/458047_7.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MFNG/458047_7.jpg
   location: Rhombomeres
   source: GEISHA
   source_label: GEISHA
@@ -94,6 +94,8 @@ orthologs:
   mod_id: ZFIN:ZDB-GENE-040109-1
   phenotypes: ''
 ---
+
+
 
 
 # MFNG

@@ -2,70 +2,70 @@
 gene_id: '453133'
 images:
 - caption: SMIM15 expression
-  image_url: images/453133/453133_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMIM15/453133_0.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_04.jpg
 - caption: SMIM15 expression
-  image_url: images/453133/453133_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMIM15/453133_1.jpg
   location: Neural Plate/Tube
   source: GEISHA
   source_label: GEISHA
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_06.jpg
 - caption: SMIM15 expression
-  image_url: images/453133/453133_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMIM15/453133_2.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_08_1.jpg
 - caption: SMIM15 expression
-  image_url: images/453133/453133_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMIM15/453133_3.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_08_2.jpg
 - caption: SMIM15 expression
-  image_url: images/453133/453133_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMIM15/453133_4.jpg
   location: Neural Plate/Tube, Somites
   source: GEISHA
   source_label: GEISHA
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_08_3.jpg
 - caption: SMIM15 expression
-  image_url: images/453133/453133_5.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMIM15/453133_5.jpg
   location: Extraembryonic, Neural Plate/Tube, Somites
   source: GEISHA
   source_label: GEISHA
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_09.jpg
 - caption: SMIM15 expression
-  image_url: images/453133/453133_6.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMIM15/453133_6.jpg
   location: Extraembryonic, Neural Plate/Tube, Somites
   source: GEISHA
   source_label: GEISHA
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_10.jpg
 - caption: SMIM15 expression
-  image_url: images/453133/453133_7.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMIM15/453133_7.jpg
   location: Extraembryonic, Neural Plate/Tube, Somites
   source: GEISHA
   source_label: GEISHA
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_11.jpg
 - caption: SMIM15 expression
-  image_url: images/453133/453133_8.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMIM15/453133_8.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/F15_15.jpg
 - caption: SMIM15 expression
-  image_url: images/453133/453133_9.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMIM15/453133_9.jpg
   location: Extraembryonic, Somites
   source: GEISHA
   source_label: GEISHA
@@ -95,6 +95,8 @@ orthologs:
   mod_id: MGI:98378
   phenotypes: ''
 ---
+
+
 
 
 # SMIM15

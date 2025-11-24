@@ -3,84 +3,84 @@ forward_primer: AAATGTGGTGTTTGCCAAGGAG
 gene_id: '463478'
 images:
 - caption: ADAMTSL2 expression
-  image_url: images/463478/463478_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAMTSL2/463478_0.jpg
   location: Epiblast
   source: GEISHA
   source_label: GEISHA
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R516.ADAMTSL2.S4.001.jpg
 - caption: ADAMTSL2 expression
-  image_url: images/463478/463478_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAMTSL2/463478_1.jpg
   location: Neural Plate/Tube
   source: GEISHA
   source_label: GEISHA
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R516.ADAMTSL2.S6.001.jpg
 - caption: ADAMTSL2 expression
-  image_url: images/463478/463478_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAMTSL2/463478_2.jpg
   location: Neural Plate/Tube
   source: GEISHA
   source_label: GEISHA
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R516.ADAMTSL2.S8.001.jpg
 - caption: ADAMTSL2 expression
-  image_url: images/463478/463478_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAMTSL2/463478_3.jpg
   location: Area Opaca, Forebrain, Hindbrain, Midbrain, Neural Plate/Tube
   source: GEISHA
   source_label: GEISHA
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R516.ADAMTSL2.S10.001.jpg
 - caption: ADAMTSL2 expression
-  image_url: images/463478/463478_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAMTSL2/463478_4.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R514.ADAMTSL2.S16.001.jpg
 - caption: ADAMTSL2 expression
-  image_url: images/463478/463478_5.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAMTSL2/463478_5.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R514.ADAMTSL2.S17.001.jpg
 - caption: ADAMTSL2 expression
-  image_url: images/463478/463478_6.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAMTSL2/463478_6.jpg
   location: Cranial Nerve
   source: GEISHA
   source_label: GEISHA
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.ADAMTSL2.S22.001.jpg
 - caption: ADAMTSL2 expression
-  image_url: images/463478/463478_7.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAMTSL2/463478_7.jpg
   location: Cranial Nerve, Sclerotome, Spinal Ganglia and Nerves
   source: GEISHA
   source_label: GEISHA
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.ADAMTSL2.S24.001.jpg
 - caption: ADAMTSL2 expression
-  image_url: images/463478/463478_8.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAMTSL2/463478_8.jpg
   location: Cranial Nerve
   source: GEISHA
   source_label: GEISHA
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.ADAMTSL2.S24A.001.jpg
 - caption: ADAMTSL2 expression
-  image_url: images/463478/463478_9.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAMTSL2/463478_9.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.ADAMTSL2.S24AAA.001.jpg
 - caption: ADAMTSL2 expression
-  image_url: images/463478/463478_10.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAMTSL2/463478_10.jpg
   location: Sclerotome
   source: GEISHA
   source_label: GEISHA
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.ADAMTSL2.S24B.001.jpg
 - caption: ADAMTSL2 expression
-  image_url: images/463478/463478_11.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAMTSL2/463478_11.jpg
   location: Cranial Nerve, Leg Mesenchyme, Spinal Ganglia and Nerves, Wing Mesenchyme
   source: GEISHA
   source_label: GEISHA
@@ -122,6 +122,8 @@ orthologs:
   mod_id: ZFIN:ZDB-GENE-010328-15
   phenotypes: ''
 ---
+
+
 
 
 # ADAMTSL2

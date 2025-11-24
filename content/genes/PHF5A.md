@@ -2,7 +2,7 @@
 gene_id: '452149'
 images:
 - caption: PHF5A expression
-  image_url: images/452149/452149_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PHF5A/452149_0.jpg
   location: Primitive Streak
   source: GEISHA
   source_label: GEISHA
@@ -42,6 +42,8 @@ orthologs:
   mod_id: ZFIN:ZDB-GENE-040426-2906
   phenotypes: ''
 ---
+
+
 
 
 # PHF5A

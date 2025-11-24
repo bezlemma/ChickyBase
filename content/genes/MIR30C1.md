@@ -2,14 +2,14 @@
 gene_id: '467991'
 images:
 - caption: MIR30C1 expression
-  image_url: images/467991/467991_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MIR30C1/467991_0.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/30c.15.st17.001.jpg
 - caption: MIR30C1 expression
-  image_url: images/467991/467991_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MIR30C1/467991_1.jpg
   location: Widespread Expression
   source: GEISHA
   source_label: GEISHA
@@ -49,6 +49,8 @@ orthologs:
   mod_id: ZFIN:ZDB-GENE-040816-1
   phenotypes: ''
 ---
+
+
 
 
 # MIR30C1

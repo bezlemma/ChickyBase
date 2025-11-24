@@ -2,14 +2,14 @@
 gene_id: '461900'
 images:
 - caption: IGFBP2 expression
-  image_url: images/461900/461900_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGFBP2/461900_0.jpg
   location: Diencephalon, Midbrain, Paraxial Mesoderm
   source: GEISHA
   source_label: GEISHA
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/igfbp2-8-12s-5x-2.jpg
 - caption: IGFBP2 expression
-  image_url: images/461900/461900_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGFBP2/461900_1.jpg
   location: Head Mesenchyme, Hensen's Node, Lateral Plate Mesoderm, Neural Plate/Tube,
     Primitive Streak
   source: GEISHA
@@ -17,21 +17,21 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/igfbp2-8-12s.jpg
 - caption: IGFBP2 expression
-  image_url: images/461900/461900_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGFBP2/461900_2.jpg
   location: Diencephalon, Hindbrain, Midbrain, Neural Plate/Tube, Paraxial Mesoderm
   source: GEISHA
   source_label: GEISHA
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/igfbp2-17-18s-2.jpg
 - caption: IGFBP2 expression
-  image_url: images/461900/461900_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGFBP2/461900_3.jpg
   location: Diencephalon, Midbrain, Neural Plate/Tube
   source: GEISHA
   source_label: GEISHA
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/igfbp2-17-18s-3-5xhead.jpg
 - caption: IGFBP2 expression
-  image_url: images/461900/461900_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGFBP2/461900_4.jpg
   location: Diencephalon, Hindbrain, Midbrain, Neural Plate/Tube, Paraxial Mesoderm,
     Tail
   source: GEISHA
@@ -39,21 +39,21 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/igfbp2-19-24s-2.jpg
 - caption: IGFBP2 expression
-  image_url: images/461900/461900_5.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGFBP2/461900_5.jpg
   location: Diencephalon, Hindbrain, Midbrain
   source: GEISHA
   source_label: GEISHA
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/igfbp2-19-24s-3-4xhead.jpg
 - caption: IGFBP2 expression
-  image_url: images/461900/461900_6.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGFBP2/461900_6.jpg
   location: Lateral Plate Mesoderm, Neural Plate/Tube, Paraxial Mesoderm
   source: Olivera-martinez et al. 2014
   source_label: Olivera-martinez et al. 2014
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-IGFBP2-figS1-L.jpg
 - caption: IGFBP2 expression
-  image_url: images/461900/461900_7.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGFBP2/461900_7.jpg
   location: null
   source: Olivera-martinez et al. 2014
   source_label: Olivera-martinez et al. 2014
@@ -88,6 +88,8 @@ orthologs:
   mod_id: ZFIN:ZDB-GENE-030131-4610
   phenotypes: ''
 ---
+
+
 
 
 # IGFBP2

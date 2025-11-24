@@ -2,49 +2,49 @@
 gene_id: '463244'
 images:
 - caption: GPC3 expression
-  image_url: images/463244/463244_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GPC3/463244_0.jpg
   location: Foregut
   source: GEISHA
   source_label: GEISHA
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig1.A'.Glypican-3.jpg
 - caption: GPC3 expression
-  image_url: images/463244/463244_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GPC3/463244_1.jpg
   location: Foregut
   source: GEISHA
   source_label: GEISHA
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig1.A.Glypican-3.jpg
 - caption: GPC3 expression
-  image_url: images/463244/463244_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GPC3/463244_2.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig1.ALLIMAGES.jpg
 - caption: GPC3 expression
-  image_url: images/463244/463244_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GPC3/463244_3.jpg
   location: Foregut, Neural Plate/Tube
   source: GEISHA
   source_label: GEISHA
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig1.B'.Glypican-3.St11.jpg
 - caption: GPC3 expression
-  image_url: images/463244/463244_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GPC3/463244_4.jpg
   location: Ectoderm, Foregut
   source: GEISHA
   source_label: GEISHA
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig1.B.Glypican-3.St11.jpg
 - caption: GPC3 expression
-  image_url: images/463244/463244_5.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GPC3/463244_5.jpg
   location: Foregut
   source: GEISHA
   source_label: GEISHA
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig1.C'.Glypican-3.St14.jpg
 - caption: GPC3 expression
-  image_url: images/463244/463244_6.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GPC3/463244_6.jpg
   location: Foregut, Surface Ectoderm
   source: GEISHA
   source_label: GEISHA
@@ -63,6 +63,8 @@ species: Gallus gallus
 symbol: GPC3
 title: GPC3
 ---
+
+
 
 # GPC3
 

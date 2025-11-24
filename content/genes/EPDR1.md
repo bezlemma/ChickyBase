@@ -3,14 +3,14 @@ forward_primer: 5’-TGAGTGGAAATGTCCTGGGC-3’
 gene_id: '455767'
 images:
 - caption: EPDR1 expression
-  image_url: images/455767/455767_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EPDR1/455767_0.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R664.EPDR1.S10.001.jpg
 - caption: EPDR1 expression
-  image_url: images/455767/455767_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EPDR1/455767_1.jpg
   location: Foregut, Head Mesenchyme, Heart, Leg Mesenchyme, Midbrain, Neural Plate/Tube,
     Pharyngeal Arches and Clefts, Sclerotome, Wing Mesenchyme
   source: GEISHA
@@ -18,7 +18,7 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R652.EPDR1.S18.001.jpg
 - caption: EPDR1 expression
-  image_url: images/455767/455767_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EPDR1/455767_2.jpg
   location: Forebrain, Foregut, Head Mesenchyme, Leg Mesenchyme, Neural Plate/Tube,
     Pharyngeal Arches and Clefts
   source: GEISHA
@@ -26,14 +26,14 @@ images:
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R652.EPDR1.S19.001.jpg
 - caption: EPDR1 expression
-  image_url: images/455767/455767_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EPDR1/455767_3.jpg
   location: Head Mesenchyme, Sclerotome
   source: GEISHA
   source_label: GEISHA
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R656.EPDR1.S21.001.jpg
 - caption: EPDR1 expression
-  image_url: images/455767/455767_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EPDR1/455767_4.jpg
   location: Head Mesenchyme, Pharyngeal Arches and Clefts, Sclerotome
   source: GEISHA
   source_label: GEISHA
@@ -54,6 +54,8 @@ symbol: EPDR1
 template_length: '711'
 title: EPDR1
 ---
+
+
 
 # EPDR1
 

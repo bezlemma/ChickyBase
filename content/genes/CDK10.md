@@ -3,14 +3,14 @@ forward_primer: 5'-AAAGGCTGCGTGAAGATAGCG-3'
 gene_id: '459251'
 images:
 - caption: CDK10 expression
-  image_url: images/459251/459251_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDK10/459251_0.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R621.CDK10.S12.001.jpg
 - caption: CDK10 expression
-  image_url: images/459251/459251_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDK10/459251_1.jpg
   location: Forebrain, Head Mesenchyme, Hindbrain, Midbrain, Neural Plate/Tube, Pharyngeal
     Arches and Clefts, Sclerotome
   source: GEISHA
@@ -18,7 +18,7 @@ images:
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R620.CDK10.S17.001.jpg
 - caption: CDK10 expression
-  image_url: images/459251/459251_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDK10/459251_2.jpg
   location: Eye, Forebrain, Foregut, Head Mesenchyme, Hindbrain, Leg Mesenchyme, Midbrain,
     Neural Plate/Tube, Outflow Tract, Pharyngeal Arches and Clefts, Sclerotome, Sinus
     Venosus, Ventricles
@@ -27,21 +27,21 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R620.CDK10.S18.001.jpg
 - caption: CDK10 expression
-  image_url: images/459251/459251_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDK10/459251_3.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R622.CDK10.S20.001.jpg
 - caption: CDK10 expression
-  image_url: images/459251/459251_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDK10/459251_4.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R622.CDK10.S22.001.jpg
 - caption: CDK10 expression
-  image_url: images/459251/459251_5.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDK10/459251_5.jpg
   location: Head Mesenchyme, Leg Mesenchyme, Sclerotome, Wing Mesenchyme
   source: GEISHA
   source_label: GEISHA
@@ -83,6 +83,8 @@ orthologs:
   mod_id: ZFIN:ZDB-GENE-040426-1045
   phenotypes: ''
 ---
+
+
 
 
 # CDK10

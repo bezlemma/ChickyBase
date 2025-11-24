@@ -2,28 +2,28 @@
 gene_id: '455423'
 images:
 - caption: ZBTB46 expression
-  image_url: images/455423/455423_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZBTB46/455423_0.jpg
   location: Area Pellucida, Kohler's Sickle
   source: Trevers et al. 2023
   source_label: Trevers et al. 2023
   stage: stage XIII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZBTB46.Trevers.2023-Fig7-8-G-XIII.jpg
 - caption: ZBTB46 expression
-  image_url: images/455423/455423_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZBTB46/455423_1.jpg
   location: Area Pellucida, Germ Cells/PGCs, Primitive Streak
   source: Trevers et al. 2023
   source_label: Trevers et al. 2023
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZBTB46.Trevers.2023-Fig7-8-G-3.jpg
 - caption: ZBTB46 expression
-  image_url: images/455423/455423_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZBTB46/455423_2.jpg
   location: Headfold, Lateral Plate Mesoderm, Neural Plate/Tube, Primitive Streak
   source: Trevers et al. 2023
   source_label: Trevers et al. 2023
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZBTB46.Trevers.2023-Fig7-8-G-5.jpg
 - caption: ZBTB46 expression
-  image_url: images/455423/455423_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZBTB46/455423_3.jpg
   location: Blood Vessels, Foregut, Headfold, Neural Plate/Tube, Primitive Streak,
     Somites
   source: Trevers et al. 2023
@@ -31,7 +31,7 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZBTB46.Trevers.2023-Fig7-8-G-8.jpg
 - caption: ZBTB46 expression
-  image_url: images/455423/455423_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZBTB46/455423_4.jpg
   location: null
   source: Trevers et al. 2023
   source_label: Trevers et al. 2023
@@ -66,6 +66,8 @@ orthologs:
   mod_id: ''
   phenotypes: ''
 ---
+
+
 
 
 # ZBTB46

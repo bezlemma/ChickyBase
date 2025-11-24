@@ -3,21 +3,21 @@ forward_primer: 5'-CAAGGAACCAAAACTGGCCG-3'
 gene_id: '458381'
 images:
 - caption: MLLT1 expression
-  image_url: images/458381/458381_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MLLT1/458381_0.jpg
   location: Area Opaca, Early Endoderm, Primitive Streak
   source: GEISHA
   source_label: GEISHA
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R731.MLLT1.S5.001.jpg
 - caption: MLLT1 expression
-  image_url: images/458381/458381_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MLLT1/458381_1.jpg
   location: Area Opaca, Neural Plate/Tube, Primitive Streak
   source: GEISHA
   source_label: GEISHA
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R731.MLLT1.S8.001.jpg
 - caption: MLLT1 expression
-  image_url: images/458381/458381_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MLLT1/458381_2.jpg
   location: Area Opaca, Forebrain, Hindbrain, Midbrain, Neural Plate/Tube, Primitive
     Streak
   source: GEISHA
@@ -25,7 +25,7 @@ images:
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R731.MLLT1.S9.001.jpg
 - caption: MLLT1 expression
-  image_url: images/458381/458381_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MLLT1/458381_3.jpg
   location: Anterior Intestinal Portal, Forebrain, Head Mesenchyme, Hindbrain, Midbrain,
     Neural Plate/Tube
   source: GEISHA
@@ -33,7 +33,7 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R731.MLLT1.S11.001.jpg
 - caption: MLLT1 expression
-  image_url: images/458381/458381_4.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MLLT1/458381_4.jpg
   location: Foregut, Head Mesenchyme, Neural Plate/Tube, Pharyngeal Arches and Clefts,
     Tail
   source: GEISHA
@@ -41,7 +41,7 @@ images:
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R730.MLLT1.S17.001.jpg
 - caption: MLLT1 expression
-  image_url: images/458381/458381_5.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MLLT1/458381_5.jpg
   location: Foregut, Head Mesenchyme, Leg Mesenchyme, Neural Plate/Tube, Pharyngeal
     Arches and Clefts, Somites, Tail
   source: GEISHA
@@ -49,7 +49,7 @@ images:
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R730.MLLT1.S19.001.jpg
 - caption: MLLT1 expression
-  image_url: images/458381/458381_6.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MLLT1/458381_6.jpg
   location: Aorta, Forebrain, Foregut, Head Mesenchyme, Hindbrain, Leg Mesenchyme,
     Liver, Lung, Mesonephros, Midbrain, Neural Plate/Tube, Pharyngeal Arches and Clefts,
     Sclerotome, Ventricles, Wing Mesenchyme
@@ -58,7 +58,7 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S22.001.jpg
 - caption: MLLT1 expression
-  image_url: images/458381/458381_7.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MLLT1/458381_7.jpg
   location: Forebrain, Foregut, Head Mesenchyme, Hindbrain, Leg Mesenchyme, Liver,
     Lung, Mesonephros, Midbrain, Neural Plate/Tube, Pharyngeal Arches and Clefts,
     Sclerotome, Ventricles, Wing Mesenchyme
@@ -67,14 +67,14 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S23.001.jpg
 - caption: MLLT1 expression
-  image_url: images/458381/458381_8.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MLLT1/458381_8.jpg
   location: Hindbrain, Midbrain
   source: GEISHA
   source_label: GEISHA
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S23A.001.jpg
 - caption: MLLT1 expression
-  image_url: images/458381/458381_9.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MLLT1/458381_9.jpg
   location: Foregut, Liver, Lung, Neural Plate/Tube, Sclerotome, Spinal Ganglia and
     Nerves
   source: GEISHA
@@ -82,7 +82,7 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S23AA.001.jpg
 - caption: MLLT1 expression
-  image_url: images/458381/458381_10.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MLLT1/458381_10.jpg
   location: Aorta, Foregut, Liver, Lung, Neural Plate/Tube, Sclerotome, Spinal Ganglia
     and Nerves
   source: GEISHA
@@ -90,7 +90,7 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S23AAA.001.jpg
 - caption: MLLT1 expression
-  image_url: images/458381/458381_11.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MLLT1/458381_11.jpg
   location: Forebrain, Foregut, Head Mesenchyme, Hindbrain, Leg Mesenchyme, Liver,
     Mesonephros, Midbrain, Pharyngeal Arches and Clefts, Sclerotome, Spinal Cord,
     Spinal Ganglia and Nerves, Ventricles, Wing Mesenchyme
@@ -99,7 +99,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S25.001.jpg
 - caption: MLLT1 expression
-  image_url: images/458381/458381_12.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MLLT1/458381_12.jpg
   location: Oral Pharynx, Pharyngeal Arches and Clefts, Sclerotome, Spinal Cord, Spinal
     Ganglia and Nerves
   source: GEISHA
@@ -107,14 +107,14 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S25A.001.jpg
 - caption: MLLT1 expression
-  image_url: images/458381/458381_13.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MLLT1/458381_13.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S25AA.001.jpg
 - caption: MLLT1 expression
-  image_url: images/458381/458381_14.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MLLT1/458381_14.jpg
   location: Gizzard, Liver, Sclerotome, Spinal Cord, Spinal Ganglia and Nerves, Wing
     Mesenchyme
   source: GEISHA
@@ -157,6 +157,8 @@ orthologs:
   mod_id: ZFIN:ZDB-GENE-131127-579
   phenotypes: ''
 ---
+
+
 
 
 # MLLT1

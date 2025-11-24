@@ -3,28 +3,28 @@ forward_primer: 5’-TTGAAGCGCAGTCAGTAC-3’
 gene_id: '459197'
 images:
 - caption: FREM3 expression
-  image_url: images/459197/459197_0.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FREM3/459197_0.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R704.FREM3.S13.001.jpg
 - caption: FREM3 expression
-  image_url: images/459197/459197_1.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FREM3/459197_1.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R693.FREM3.S17.001.jpg
 - caption: FREM3 expression
-  image_url: images/459197/459197_2.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FREM3/459197_2.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R693.FREM3.S17.002.jpg
 - caption: FREM3 expression
-  image_url: images/459197/459197_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FREM3/459197_3.jpg
   location: Unlabeled
   source: GEISHA
   source_label: GEISHA
@@ -66,6 +66,8 @@ orthologs:
   mod_id: ZFIN:ZDB-GENE-010412-1
   phenotypes: ''
 ---
+
+
 
 
 # FREM3
