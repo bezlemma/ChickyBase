@@ -15,15 +15,27 @@
             <div class="bg-slate-50 p-6 rounded-lg border border-slate-200 shadow-sm">
                 <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4">Gene Information</h3>
                 <dl class="space-y-4">
-                    {{ with .Params.synonyms }}
+                    {{ if or .Params.aliases .Params.synonyms }}
                     <div>
-                        <dt class="text-xs font-medium text-slate-500 uppercase">Synonyms</dt>
-                        <dd class="mt-1 text-sm text-slate-700">{{ . }}</dd>
+                        <dt class="text-xs font-medium text-slate-500 uppercase">Aliases</dt>
+                        <dd class="mt-1 text-sm text-slate-700">
+                            {{ if .Params.aliases }}
+                                {{ delimit .Params.aliases ", " }}
+                            {{ else }}
+                                {{ .Params.synonyms }}
+                            {{ end }}
+                        </dd>
                     </div>
                     {{ end }}
                     {{ with .Params.gene_type }}
                     <div>
                         <dt class="text-xs font-medium text-slate-500 uppercase">Type</dt>
+                        <dd class="mt-1 text-sm text-slate-700">{{ . }}</dd>
+                    </div>
+                    {{ end }}
+                    {{ with .Params.genomic_location }}
+                    <div>
+                        <dt class="text-xs font-medium text-slate-500 uppercase">Location</dt>
                         <dd class="mt-1 text-sm text-slate-700">{{ . }}</dd>
                     </div>
                     {{ end }}
@@ -35,6 +47,31 @@
                     {{ end }}
                 </dl>
             </div>
+
+            <!-- Sequence Information -->
+            {{ if .Params.sequences }}
+            <div class="bg-white p-6 rounded-lg border border-slate-200 shadow-sm">
+                <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4">Sequence Information</h3>
+                <dl class="space-y-4">
+                    {{ with .Params.sequences.rna }}
+                    <div>
+                        <dt class="text-xs font-medium text-slate-500 uppercase">RNA (RefSeq)</dt>
+                        <dd class="mt-1 text-sm text-slate-700 font-mono">
+                            <a href="https://www.ncbi.nlm.nih.gov/nuccore/{{ . }}" target="_blank" class="text-primary hover:underline">{{ . }}</a>
+                        </dd>
+                    </div>
+                    {{ end }}
+                    {{ with .Params.sequences.protein }}
+                    <div>
+                        <dt class="text-xs font-medium text-slate-500 uppercase">Protein (RefSeq)</dt>
+                        <dd class="mt-1 text-sm text-slate-700 font-mono">
+                            <a href="https://www.ncbi.nlm.nih.gov/protein/{{ . }}" target="_blank" class="text-primary hover:underline">{{ . }}</a>
+                        </dd>
+                    </div>
+                    {{ end }}
+                </dl>
+            </div>
+            {{ end }}
 
             <!-- Phenotypes -->
             {{ if .Params.phenotypes }}
@@ -86,7 +123,7 @@
             {{ end }}
 
             <!-- External Links -->
-            {{ if .Params.external_links }}
+            {{ if or .Params.external_links .Params.external_ids }}
             <div class="bg-white p-6 rounded-lg border border-slate-200 shadow-sm">
                 <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4">External Resources</h3>
                 <ul class="space-y-3">
@@ -101,6 +138,66 @@
                                 </path>
                             </svg>
                             {{ $key }}
+                        </a>
+                    </li>
+                    {{ end }}
+                    
+                    {{ with .Params.external_ids.ensembl }}
+                    <li>
+                        <a href="http://www.ensembl.org/id/{{ . }}" target="_blank" rel="noopener noreferrer"
+                            class="flex items-center text-sm text-primary hover:text-primary-dark transition-colors group">
+                            <svg class="w-4 h-4 mr-2 text-slate-400 group-hover:text-primary" fill="none"
+                                stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14">
+                                </path>
+                            </svg>
+                            Ensembl Gene
+                        </a>
+                    </li>
+                    {{ end }}
+
+                    {{ with .Params.ncbi_id }}
+                    <li>
+                        <a href="https://www.ncbi.nlm.nih.gov/gene/{{ . }}" target="_blank" rel="noopener noreferrer"
+                            class="flex items-center text-sm text-primary hover:text-primary-dark transition-colors group">
+                            <svg class="w-4 h-4 mr-2 text-slate-400 group-hover:text-primary" fill="none"
+                                stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14">
+                                </path>
+                            </svg>
+                            NCBI Gene
+                        </a>
+                    </li>
+                    {{ end }}
+                    
+                    {{ with .Params.external_ids.kegg }}
+                    <li>
+                        <a href="http://www.genome.jp/dbget-bin/www_bget?{{ . }}" target="_blank" rel="noopener noreferrer"
+                            class="flex items-center text-sm text-primary hover:text-primary-dark transition-colors group">
+                            <svg class="w-4 h-4 mr-2 text-slate-400 group-hover:text-primary" fill="none"
+                                stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14">
+                                </path>
+                            </svg>
+                            KEGG
+                        </a>
+                    </li>
+                    {{ end }}
+
+                    {{ with .Params.external_ids.uniprot }}
+                    <li>
+                        <a href="https://www.uniprot.org/uniprot/{{ . }}" target="_blank" rel="noopener noreferrer"
+                            class="flex items-center text-sm text-primary hover:text-primary-dark transition-colors group">
+                            <svg class="w-4 h-4 mr-2 text-slate-400 group-hover:text-primary" fill="none"
+                                stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14">
+                                </path>
+                            </svg>
+                            UniProt
                         </a>
                     </li>
                     {{ end }}
@@ -285,6 +382,64 @@
         </div>
     </div>
 
+    <!-- Gene Ontology Section (Full Width) -->
+    {{ if .Params.gene_ontology }}
+    <div class="mt-8">
+        <h3 class="text-lg font-bold text-slate-900 mb-3">Gene Ontology</h3>
+        <div class="bg-white rounded-lg border border-slate-200 shadow-sm p-6">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                {{ with .Params.gene_ontology.molecular_function }}
+                {{ if gt (len .) 0 }}
+                <div>
+                    <h4 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 border-b border-slate-100 pb-2">Molecular Function</h4>
+                    <ul class="space-y-2">
+                        {{ range . }}
+                        <li class="text-sm text-slate-700 flex items-start">
+                            <span class="text-primary mr-2">•</span>
+                            {{ . }}
+                        </li>
+                        {{ end }}
+                    </ul>
+                </div>
+                {{ end }}
+                {{ end }}
+
+                {{ with .Params.gene_ontology.biological_process }}
+                {{ if gt (len .) 0 }}
+                <div>
+                    <h4 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 border-b border-slate-100 pb-2">Biological Process</h4>
+                    <ul class="space-y-2">
+                        {{ range . }}
+                        <li class="text-sm text-slate-700 flex items-start">
+                            <span class="text-primary mr-2">•</span>
+                            {{ . }}
+                        </li>
+                        {{ end }}
+                    </ul>
+                </div>
+                {{ end }}
+                {{ end }}
+
+                {{ with .Params.gene_ontology.cellular_component }}
+                {{ if gt (len .) 0 }}
+                <div>
+                    <h4 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 border-b border-slate-100 pb-2">Cellular Component</h4>
+                    <ul class="space-y-2">
+                        {{ range . }}
+                        <li class="text-sm text-slate-700 flex items-start">
+                            <span class="text-primary mr-2">•</span>
+                            {{ . }}
+                        </li>
+                        {{ end }}
+                    </ul>
+                </div>
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+    {{ end }}
+
     <!-- Orthology Section -->
     {{ if .Params.orthologs }}
     <div class="mt-8">
@@ -294,18 +449,59 @@
                 <thead class="bg-slate-50">
                     <tr>
                         <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Species</th>
-                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Ortholog</th>
-                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">ID</th>
-                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Type</th>
+                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Entrez Gene</th>
+                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Ensembl Gene</th>
+                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Genetic Phenotypes</th>
+                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">MOD</th>
                     </tr>
                 </thead>
                 <tbody class="bg-white divide-y divide-slate-200">
                     {{ range .Params.orthologs }}
                     <tr class="hover:bg-slate-50">
                         <td class="px-4 py-2 text-sm text-slate-900 italic">{{ .species }}</td>
-                        <td class="px-4 py-2 text-sm font-medium">{{ .ortholog_name }}</td>
-                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">{{ .ortholog_id }}</td>
-                        <td class="px-4 py-2 text-sm text-slate-500">{{ .relationship_type }}</td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            {{ if .entrez_id }}
+                                {{ $ids := split (string .entrez_id) "," }}
+                                {{ range $index, $id := $ids }}
+                                    {{ $cleanId := trim $id " " }}
+                                    {{ if gt $index 0 }}, {{ end }}
+                                    <a href="https://www.ncbi.nlm.nih.gov/gene/{{ $cleanId }}" target="_blank" class="text-primary hover:underline">{{ $cleanId }}</a>
+                                {{ end }}
+                            {{ end }}
+                        </td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            {{ if .ensembl_id }}
+                                {{ $ids := split (string .ensembl_id) "," }}
+                                {{ range $index, $id := $ids }}
+                                    {{ $cleanId := trim $id " " }}
+                                    {{ if gt $index 0 }}, {{ end }}
+                                    <a href="http://www.ensembl.org/id/{{ $cleanId }}" target="_blank" class="text-primary hover:underline">{{ $cleanId }}</a>
+                                {{ end }}
+                            {{ end }}
+                        </td>
+                        <td class="px-4 py-2 text-sm text-slate-500">{{ .phenotypes }}</td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            {{ if .mod_id }}
+                                {{ $species := .species }}
+                                {{ $ids := split (string .mod_id) "," }}
+                                {{ range $index, $id := $ids }}
+                                    {{ $cleanId := trim $id " " }}
+                                    {{ if gt $index 0 }}, {{ end }}
+                                    
+                                    {{ if in $cleanId "MIM:" }}
+                                        <a href="https://www.omim.org/entry/{{ replace $cleanId "MIM:" "" }}" target="_blank" class="text-primary hover:underline">{{ $cleanId }}</a>
+                                    {{ else if in $cleanId "MGI:" }}
+                                        <a href="http://www.informatics.jax.org/marker/{{ $cleanId }}" target="_blank" class="text-primary hover:underline">{{ $cleanId }}</a>
+                                    {{ else if in $cleanId "ZFIN:" }}
+                                        <a href="https://zfin.org/{{ replace $cleanId "ZFIN:" "" }}" target="_blank" class="text-primary hover:underline">{{ $cleanId }}</a>
+                                    {{ else if eq $species "Xenopus" }}
+                                        <a href="http://www.xenbase.org/gene/showgene.do?method=display&geneId={{ $cleanId }}" target="_blank" class="text-primary hover:underline">{{ $cleanId }}</a>
+                                    {{ else }}
+                                        {{ $cleanId }}
+                                    {{ end }}
+                                {{ end }}
+                            {{ end }}
+                        </td>
                     </tr>
                     {{ end }}
                 </tbody>
@@ -313,8 +509,6 @@
         </div>
     </div>
     {{ end }}
-
-
 
 </div>
 

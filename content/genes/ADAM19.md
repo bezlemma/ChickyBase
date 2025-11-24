@@ -143,7 +143,49 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADAM19.FIG3DEF.LEWIS.2004.jpg
 name: ADAM metallopeptidase domain 19
-ncbi_id: '457023'
+ncbi_id: '416244'
+cgnc_id: '2737'
+gene_type: protein coding
+genomic_location: Chromosome 13
+aliases:
+- disintegrin and metalloproteinase domain-containing protein 19
+- Meltrin beta
+- MADDAM
+- ADAM metallopeptidase domain 19 (meltrin beta)
+sequences:
+  rna: NM_001195122
+  protein: NP_001182051
+gene_ontology:
+  molecular_function:
+  - metalloendopeptidase activity
+  - metal ion binding
+  biological_process:
+  - proteolysis
+  cellular_component:
+  - membrane
+external_ids:
+  ensembl: ENSGALG00010015002
+  uniprot: E1AP05
+  kegg: gga:416244
+orthologs:
+- species: Human
+  entrez_id: '8728'
+  ensembl_id: ENSG00000135074
+  mod_id: MIM:603640
+- species: Mouse
+  entrez_id: '11492'
+  ensembl_id: ENSMUSG00000011256
+  phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2)
+    Gene trapped(1)
+  mod_id: MGI:105377
+- species: Xenopus
+  entrez_id: 677730, 100174810
+  mod_id: '993484'
+- species: Zebrafish
+  entrez_id: 571252, 565342
+  ensembl_id: ENSDARG00000067545, ENSDARG00000059693
+  phenotypes: ZDB-GENE-070705-541, ZDB-GENE-070813-1
+  mod_id: ZFIN:ZDB-GENE-070705-541, ZFIN:ZDB-GENE-070813-1
 reverse_primer: ATTAACCCTCACTAAAGGTGATGGATGTGTTCTGACAGCG
 sources:
 - name: GEISHA
@@ -151,7 +193,7 @@ sources:
   url: https://geisha.arizona.edu/geisha/search.jsp?gene=457023
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457023
+  url: https://www.ncbi.nlm.nih.gov/gene/416244
 - name: Lewis et al. 2004
   type: publication
   url: https://pubmed.ncbi.nlm.nih.gov/15533821/
