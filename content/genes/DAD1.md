@@ -1,11 +1,10 @@
----
-gene_id: '448952'
+---gene_id: '448952'
 images:
 - caption: DAD1 expression
   image_url: images/448952/448952_0.jpg
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Gibson et al. 2011
+  source_label: Gibson et al. 2011
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gibson.2011.Fig1.allimages.jpg
 - caption: DAD1 expression

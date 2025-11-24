@@ -1,5 +1,4 @@
----
-forward_primer: GGAGGAAATGTGGAAATGGCTAC
+---forward_primer: GGAGGAAATGTGGAAATGGCTAC
 gene_id: '457023'
 images:
 - caption: ADAM19 expression
@@ -125,22 +124,22 @@ images:
 - caption: ADAM19 expression
   image_url: images/457023/457023_16.jpg
   location: Cranial Ganglion, Heart
-  source: GEISHA
-  source_label: GEISHA
+  source: Lewis et al. 2004
+  source_label: Lewis et al. 2004
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADAM19.FIG3B.LEWIS.2004.jpg
 - caption: ADAM19 expression
   image_url: images/457023/457023_17.jpg
   location: Allantois
-  source: GEISHA
-  source_label: GEISHA
+  source: Lewis et al. 2004
+  source_label: Lewis et al. 2004
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADAM19.FIG3C.LEWIS.2004.jpg
 - caption: ADAM19 expression
   image_url: images/457023/457023_18.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: GEISHA
-  source_label: GEISHA
+  source: Lewis et al. 2004
+  source_label: Lewis et al. 2004
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADAM19.FIG3DEF.LEWIS.2004.jpg
 name: ADAM metallopeptidase domain 19
@@ -153,6 +152,9 @@ sources:
 - name: NCBI Gene
   type: database
   url: https://www.ncbi.nlm.nih.gov/gene/457023
+- name: Lewis et al. 2004
+  type: publication
+  url: https://pubmed.ncbi.nlm.nih.gov/15533821/
 species: Gallus gallus
 symbol: ADAM19
 template_length: '699'

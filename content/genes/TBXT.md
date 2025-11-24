@@ -1,5 +1,4 @@
----
-gene_id: '450420'
+---gene_id: '450420'
 images:
 - caption: TBXT expression
   image_url: images/450420/450420_0.jpg
@@ -123,64 +122,64 @@ images:
 - caption: TBXT expression
   image_url: images/450420/450420_17.jpg
   location: Area Pellucida, Kohler's Sickle
-  source: GEISHA
-  source_label: GEISHA
+  source: Mikawa et al. 2004
+  source_label: Mikawa et al. 2004
   stage: stage XIII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20042B.jpg
 - caption: TBXT expression
   image_url: images/450420/450420_18.jpg
   location: Unlabeled Embryonic
-  source: GEISHA
-  source_label: GEISHA
+  source: Mikawa et al. 2004
+  source_label: Mikawa et al. 2004
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20042A.jpg
 - caption: TBXT expression
   image_url: images/450420/450420_19.jpg
   location: Primitive Streak
-  source: GEISHA
-  source_label: GEISHA
+  source: Mikawa et al. 2004
+  source_label: Mikawa et al. 2004
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20042C.jpg
 - caption: TBXT expression
   image_url: images/450420/450420_20.jpg
   location: Primitive Streak
-  source: GEISHA
-  source_label: GEISHA
+  source: Mikawa et al. 2004
+  source_label: Mikawa et al. 2004
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20047F.jpg
 - caption: TBXT expression
   image_url: images/450420/450420_21.jpg
   location: Primitive Streak
-  source: GEISHA
-  source_label: GEISHA
+  source: Mikawa et al. 2004
+  source_label: Mikawa et al. 2004
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20047G.jpg
 - caption: TBXT expression
   image_url: images/450420/450420_22.jpg
   location: Primitive Streak
-  source: GEISHA
-  source_label: GEISHA
+  source: Mikawa et al. 2004
+  source_label: Mikawa et al. 2004
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20047I.jpg
 - caption: TBXT expression
   image_url: images/450420/450420_23.jpg
   location: Primitive Streak
-  source: GEISHA
-  source_label: GEISHA
+  source: Mikawa et al. 2004
+  source_label: Mikawa et al. 2004
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20042E.jpg
 - caption: TBXT expression
   image_url: images/450420/450420_24.jpg
   location: Primitive Streak
-  source: GEISHA
-  source_label: GEISHA
+  source: Mikawa et al. 2004
+  source_label: Mikawa et al. 2004
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brachyury.Mikawa.20042F.jpg
 - caption: TBXT expression
   image_url: images/450420/450420_25.jpg
   location: Early Mesoderm, Epiblast, Notochord, Primitive Streak
-  source: GEISHA
-  source_label: GEISHA
+  source: Hardy et al. 2008
+  source_label: Hardy et al. 2008
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/brachy1.hardy.2008.jpg
 - caption: TBXT expression
@@ -235,15 +234,15 @@ images:
 - caption: TBXT expression
   image_url: images/450420/450420_33.png
   location: Hensen's Node, Primitive Streak
-  source: GEISHA
-  source_label: GEISHA
+  source: Alev et al. 2010
+  source_label: Alev et al. 2010
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRA.Alev.2010.1A.png
 - caption: TBXT expression
   image_url: images/450420/450420_34.png
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Alev et al. 2010
+  source_label: Alev et al. 2010
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRA.Alev.2010.1Aall.png
 - caption: TBXT expression
@@ -284,30 +283,30 @@ images:
 - caption: TBXT expression
   image_url: images/450420/450420_40.png
   location: Early Mesoderm, Hensen's Node, Primitive Streak
-  source: GEISHA
-  source_label: GEISHA
+  source: Acloque et al. 2011
+  source_label: Acloque et al. 2011
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRA.Acloque.2011.Fig.6
     bra.png
 - caption: TBXT expression
   image_url: images/450420/450420_41.png
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Acloque et al. 2011
+  source_label: Acloque et al. 2011
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRA.Acloque.2011.Fig.6.png
 - caption: TBXT expression
   image_url: images/450420/450420_42.png
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Dubrulle et al. 2001
+  source_label: Dubrulle et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRACHYURY.Dubrulle.2001.2A-P.png
 - caption: TBXT expression
   image_url: images/450420/450420_43.png
   location: Notochord, Primitive Streak
-  source: GEISHA
-  source_label: GEISHA
+  source: Dubrulle et al. 2001
+  source_label: Dubrulle et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRACHYURY.Dubrulle.2001.2I-L.png
 - caption: TBXT expression
@@ -355,50 +354,50 @@ images:
 - caption: TBXT expression
   image_url: images/450420/450420_50.jpg
   location: Limb Buds, Notochord, Somites, Tail
-  source: GEISHA
-  source_label: GEISHA
+  source: Liu et al. 2003
+  source_label: Liu et al. 2003
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1A.jpg
 - caption: TBXT expression
   image_url: images/450420/450420_51.jpg
   location: Limb Buds, Nephric Ducts, Notochord, Somites
-  source: GEISHA
-  source_label: GEISHA
+  source: Liu et al. 2003
+  source_label: Liu et al. 2003
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1D.jpg
 - caption: TBXT expression
   image_url: images/450420/450420_52.jpg
   location: Limb Buds, Notochord, Somites, Tail
-  source: GEISHA
-  source_label: GEISHA
+  source: Liu et al. 2003
+  source_label: Liu et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1B.jpg
 - caption: TBXT expression
   image_url: images/450420/450420_53.jpg
   location: Nephric Ducts, Notochord, Somites, Wing Mesenchyme
-  source: GEISHA
-  source_label: GEISHA
+  source: Liu et al. 2003
+  source_label: Liu et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1E.jpg
 - caption: TBXT expression
   image_url: images/450420/450420_54.jpg
   location: Leg Mesenchyme
-  source: GEISHA
-  source_label: GEISHA
+  source: Liu et al. 2003
+  source_label: Liu et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1F.jpg
 - caption: TBXT expression
   image_url: images/450420/450420_55.jpg
   location: Leg Mesenchyme, Notochord, Somites, Tail
-  source: GEISHA
-  source_label: GEISHA
+  source: Liu et al. 2003
+  source_label: Liu et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1C.jpg
 - caption: TBXT expression
   image_url: images/450420/450420_56.jpg
   location: Leg Mesenchyme, Nephric Ducts, Somites, Tail
-  source: GEISHA
-  source_label: GEISHA
+  source: Liu et al. 2003
+  source_label: Liu et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1G.jpg
 name: T brachyury transcription factor

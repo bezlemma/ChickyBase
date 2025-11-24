@@ -1,5 +1,4 @@
----
-gene_id: '468222'
+---gene_id: '468222'
 images:
 - caption: PTPRS expression
   image_url: images/468222/468222_0.jpg
@@ -11,15 +10,15 @@ images:
 - caption: PTPRS expression
   image_url: images/468222/468222_1.jpg
   location: Spinal Cord
-  source: GEISHA
-  source_label: GEISHA
+  source: Chilton et al. 2000
+  source_label: Chilton et al. 2000
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.2000.Fig3.Crypalpha.E.jpg
 - caption: PTPRS expression
   image_url: images/468222/468222_2.jpg
   location: Spinal Cord
-  source: GEISHA
-  source_label: GEISHA
+  source: Chilton et al. 2000
+  source_label: Chilton et al. 2000
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.2000.Fig4.CRYPalpha.D.jpg
 - caption: PTPRS expression
@@ -46,8 +45,8 @@ images:
 - caption: PTPRS expression
   image_url: images/468222/468222_6.jpg
   location: Spinal Cord
-  source: GEISHA
-  source_label: GEISHA
+  source: Chilton et al. 2000
+  source_label: Chilton et al. 2000
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.2000.Fig4.CRYPalpha2.H.jpg
 - caption: PTPRS expression

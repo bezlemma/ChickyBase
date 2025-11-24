@@ -1,41 +1,68 @@
----
-gene_id: '451227'
+---gene_id: '451227'
 images:
 - caption: ARID5B expression
   image_url: images/451227/451227_0.jpg
   location: Unlabeled
-  source: GEISHA
-  source_label: GEISHA
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
   stage: stage XII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARID5B.Trevers.2023-Fig7-5-B-xii.jpg
 - caption: ARID5B expression
   image_url: images/451227/451227_1.jpg
   location: Area Pellucida, Primitive Streak
-  source: GEISHA
-  source_label: GEISHA
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARID5B.Trevers.2023-Fig7-5-B-3.jpg
 - caption: ARID5B expression
   image_url: images/451227/451227_2.jpg
   location: Area Opaca, Primitive Streak
-  source: GEISHA
-  source_label: GEISHA
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARID5B.Trevers.2023-Fig7-5-B-5.jpg
 - caption: ARID5B expression
   image_url: images/451227/451227_3.jpg
   location: Area Opaca, Neural Plate/Tube
-  source: GEISHA
-  source_label: GEISHA
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARID5B.Trevers.2023-Fig7-5-B-8.jpg
 - caption: ARID5B expression
   image_url: images/451227/451227_4.jpg
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARID5B.Trevers.2023-Fig7-5-B.jpg
+- caption: ARID5B expression at Stage 1
+  image_url: images/elife_73189/page26_img0_ARID5B_Stage1.jpg
+  location: Not specified
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
+  stage: stage 1
+  thumbnail_url: images/elife_73189/page26_img0_ARID5B_Stage1.jpg
+- caption: ARID5B expression at Stage 2
+  image_url: images/elife_73189/page26_img0_ARID5B_Stage2.jpg
+  location: Not specified
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
+  stage: stage 2
+  thumbnail_url: images/elife_73189/page26_img0_ARID5B_Stage2.jpg
+- caption: ARID5B expression at Stage 3
+  image_url: images/elife_73189/page26_img0_ARID5B_Stage3.jpg
+  location: Not specified
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
+  stage: stage 3
+  thumbnail_url: images/elife_73189/page26_img0_ARID5B_Stage3.jpg
+- caption: ARID5B expression at Stage 4
+  image_url: images/elife_73189/page26_img0_ARID5B_Stage4.jpg
+  location: Not specified
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
+  stage: stage 4
+  thumbnail_url: images/elife_73189/page26_img0_ARID5B_Stage4.jpg
 name: AT-rich interaction domain 5B
 ncbi_id: '451227'
 sources:
@@ -49,6 +76,7 @@ species: Gallus gallus
 symbol: ARID5B
 title: ARID5B
 ---
+
 
 # ARID5B
 

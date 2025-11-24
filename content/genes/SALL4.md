@@ -1,5 +1,4 @@
----
-gene_id: '350061'
+---gene_id: '350061'
 images:
 - caption: SALL4 expression
   image_url: images/350061/350061_0.jpg
@@ -76,93 +75,93 @@ images:
 - caption: SALL4 expression
   image_url: images/350061/350061_10.jpg
   location: Epiblast
-  source: GEISHA
-  source_label: GEISHA
+  source: Barem et al. 2007
+  source_label: Barem et al. 2007
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1A.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: images/350061/350061_11.jpg
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Barem et al. 2007
+  source_label: Barem et al. 2007
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1N-P.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: images/350061/350061_12.jpg
   location: Ectoderm, Neural Plate/Tube
-  source: GEISHA
-  source_label: GEISHA
+  source: Barem et al. 2007
+  source_label: Barem et al. 2007
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1N.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: images/350061/350061_13.jpg
   location: Ectoderm, Neural Plate/Tube, Notochord
-  source: GEISHA
-  source_label: GEISHA
+  source: Barem et al. 2007
+  source_label: Barem et al. 2007
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG2BDE.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: images/350061/350061_14.jpg
   location: Ectoderm, Neural Plate/Tube
-  source: GEISHA
-  source_label: GEISHA
+  source: Barem et al. 2007
+  source_label: Barem et al. 2007
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1CF.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: images/350061/350061_15.jpg
   location: Ear/Otic Placcode
-  source: GEISHA
-  source_label: GEISHA
+  source: Barem et al. 2007
+  source_label: Barem et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1G.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: images/350061/350061_16.jpg
   location: Ear/Otic Placcode, Neural Crest, Notochord
-  source: GEISHA
-  source_label: GEISHA
+  source: Barem et al. 2007
+  source_label: Barem et al. 2007
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1H.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: images/350061/350061_17.jpg
   location: Lens
-  source: GEISHA
-  source_label: GEISHA
+  source: Barem et al. 2007
+  source_label: Barem et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1J.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: images/350061/350061_18.jpg
   location: Ear/Otic Placcode, Neural Crest
-  source: GEISHA
-  source_label: GEISHA
+  source: Barem et al. 2007
+  source_label: Barem et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1I.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: images/350061/350061_19.jpg
   location: Nasal Placcode/Nerve
-  source: GEISHA
-  source_label: GEISHA
+  source: Barem et al. 2007
+  source_label: Barem et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1K.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: images/350061/350061_20.jpg
   location: Wing Mesenchyme
-  source: GEISHA
-  source_label: GEISHA
+  source: Barem et al. 2007
+  source_label: Barem et al. 2007
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/spalt4.fig1lm.barem.2007.jpg
 - caption: SALL4 expression
   image_url: images/350061/350061_21.jpg
   location: Heart
-  source: GEISHA
-  source_label: GEISHA
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SALL4.Anderson.2019.Supplementary
     figure 5I-st12.jpg
 - caption: SALL4 expression
   image_url: images/350061/350061_22.jpg
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SALL4.Anderson.2019.Supplementary
     figure 5I.jpg

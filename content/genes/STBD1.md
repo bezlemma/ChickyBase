@@ -1,19 +1,18 @@
----
-gene_id: '468371'
+---gene_id: '468371'
 images:
 - caption: STBD1 expression
   image_url: images/468371/468371_0.jpg
   location: Atria
-  source: GEISHA
-  source_label: GEISHA
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STBD1.Anderson.2019.Supplementary
     figure 4E-st12.jpg
 - caption: STBD1 expression
   image_url: images/468371/468371_1.jpg
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STBD1.Anderson.2019.Supplementary
     figure 4E.jpg

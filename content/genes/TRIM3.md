@@ -1,41 +1,68 @@
----
-gene_id: '462382'
+---gene_id: '462382'
 images:
 - caption: TRIM3 expression
   image_url: images/462382/462382_0.jpg
   location: Area Pellucida
-  source: GEISHA
-  source_label: GEISHA
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
   stage: stage XIII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRIM3.Trevers.2023-Fig7-8-E-XIII.jpg
 - caption: TRIM3 expression
   image_url: images/462382/462382_1.jpg
   location: Area Pellucida, Hensen's Node, Primitive Streak
-  source: GEISHA
-  source_label: GEISHA
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRIM3.Trevers.2023-Fig7-8-E-4.jpg
 - caption: TRIM3 expression
   image_url: images/462382/462382_2.jpg
   location: Extraembryonic Mesoderm, Headfold, Lateral Plate Mesoderm, Neural Plate/Tube
-  source: GEISHA
-  source_label: GEISHA
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRIM3.Trevers.2023-Fig7-8-E-6.jpg
 - caption: TRIM3 expression
   image_url: images/462382/462382_3.jpg
   location: Extraembryonic Mesoderm, Neural Plate/Tube, Primitive Streak, Somites
-  source: GEISHA
-  source_label: GEISHA
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRIM3.Trevers.2023-Fig7-8-E-9.jpg
 - caption: TRIM3 expression
   image_url: images/462382/462382_4.jpg
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRIM3.Trevers.2023-Fig7-8-E.jpg
+- caption: TRIM3 expression at Stage 1
+  image_url: images/elife_73189/page32_img0_TRIM3_Stage1.jpg
+  location: Not specified
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
+  stage: stage 1
+  thumbnail_url: images/elife_73189/page32_img0_TRIM3_Stage1.jpg
+- caption: TRIM3 expression at Stage 2
+  image_url: images/elife_73189/page32_img0_TRIM3_Stage2.jpg
+  location: Not specified
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
+  stage: stage 2
+  thumbnail_url: images/elife_73189/page32_img0_TRIM3_Stage2.jpg
+- caption: TRIM3 expression at Stage 3
+  image_url: images/elife_73189/page32_img0_TRIM3_Stage3.jpg
+  location: Not specified
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
+  stage: stage 3
+  thumbnail_url: images/elife_73189/page32_img0_TRIM3_Stage3.jpg
+- caption: TRIM3 expression at Stage 4
+  image_url: images/elife_73189/page32_img0_TRIM3_Stage4.jpg
+  location: Not specified
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
+  stage: stage 4
+  thumbnail_url: images/elife_73189/page32_img0_TRIM3_Stage4.jpg
 name: tripartite motif containing 3
 ncbi_id: '462382'
 sources:
@@ -49,6 +76,7 @@ species: Gallus gallus
 symbol: TRIM3
 title: TRIM3
 ---
+
 
 # TRIM3
 

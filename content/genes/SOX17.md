@@ -1,5 +1,4 @@
----
-gene_id: '461146'
+---gene_id: '461146'
 images:
 - caption: SOX17 expression
   image_url: images/461146/461146_0.jpg
@@ -109,16 +108,16 @@ images:
 - caption: SOX17 expression
   image_url: images/461146/461146_15.png
   location: Early Endoderm
-  source: GEISHA
-  source_label: GEISHA
+  source: Acloque et al. 2011
+  source_label: Acloque et al. 2011
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX17.Acloque.2011.Fig.6
     sox17.png
 - caption: SOX17 expression
   image_url: images/461146/461146_16.png
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Acloque et al. 2011
+  source_label: Acloque et al. 2011
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX17.Acloque.2011.Fig.6.png
 name: SRY-box 17

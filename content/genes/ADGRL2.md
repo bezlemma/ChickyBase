@@ -1,5 +1,4 @@
----
-forward_primer: ATGCCAGGGATACAAGTGCC
+---forward_primer: ATGCCAGGGATACAAGTGCC
 gene_id: '451548'
 images:
 - caption: ADGRL2 expression
@@ -111,8 +110,8 @@ images:
 - caption: ADGRL2 expression
   image_url: images/451548/451548_15.jpg
   location: Intermediate Mesoderm, Somites, Spinal Cord
-  source: GEISHA
-  source_label: GEISHA
+  source: St20 et al. 0011
+  source_label: St20 et al. 0011
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07.25.st20.0011.jpg
 - caption: ADGRL2 expression
@@ -328,37 +327,37 @@ images:
 - caption: ADGRL2 expression
   image_url: images/451548/451548_43.png
   location: Forebrain, Neural Plate/Tube
-  source: GEISHA
-  source_label: GEISHA
+  source: Bell et al. 2004
+  source_label: Bell et al. 2004
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LATROPHILIN2.Bell.2004.Fig.6
     latrophilin2.png
 - caption: ADGRL2 expression
   image_url: images/451548/451548_44.png
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Bell et al. 2004
+  source_label: Bell et al. 2004
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LATROPHILIN2.Bell.2004.Fig.6.png
 - caption: ADGRL2 expression
   image_url: images/451548/451548_45.jpg
   location: Central Nervous System, Diencephalon, Neural Plate/Tube
-  source: GEISHA
-  source_label: GEISHA
+  source: Vezain et al. 2018
+  source_label: Vezain et al. 2018
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Vezain.2018_Fig.4.A.HH12.jpg
 - caption: ADGRL2 expression
   image_url: images/451548/451548_46.jpg
   location: Mesencephalon, Neural Plate/Tube, Telencephalon
-  source: GEISHA
-  source_label: GEISHA
+  source: Vezain et al. 2018
+  source_label: Vezain et al. 2018
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Vezain.2018_Fig.4.b.HH18.jpg
 - caption: ADGRL2 expression
   image_url: images/451548/451548_47.jpg
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Vezain et al. 2018
+  source_label: Vezain et al. 2018
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Vezain.2018_Fig 3allimages.jpg
 name: adhesion G protein-coupled receptor L2

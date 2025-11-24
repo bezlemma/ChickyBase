@@ -1,5 +1,4 @@
----
-forward_primer: 5’-TGAACAGCAGCTTCCAGGAG-3’
+---forward_primer: 5’-TGAACAGCAGCTTCCAGGAG-3’
 gene_id: '455730'
 images:
 - caption: EZH2 expression
@@ -125,38 +124,66 @@ images:
 - caption: EZH2 expression
   image_url: images/455730/455730_16.jpg
   location: Area Pellucida, Epiblast
-  source: GEISHA
-  source_label: GEISHA
+  source: Travers et al. 2023
+  source_label: Travers et al. 2023
   stage: stage XII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EZH2.Travers.2023-Fig7-1-R-XII.jpg
 - caption: EZH2 expression
   image_url: images/455730/455730_17.jpg
   location: Epiblast, Primitive Streak
-  source: GEISHA
-  source_label: GEISHA
+  source: Travers et al. 2023
+  source_label: Travers et al. 2023
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EZH2.Travers.2023-Fig7-1-R-3.jpg
 - caption: EZH2 expression
   image_url: images/455730/455730_18.jpg
   location: Headfold
-  source: GEISHA
-  source_label: GEISHA
+  source: Travers et al. 2023
+  source_label: Travers et al. 2023
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EZH2.Travers.2023-Fig7-1-R-6.jpg
 - caption: EZH2 expression
   image_url: images/455730/455730_19.jpg
   location: Neural Plate/Tube
-  source: GEISHA
-  source_label: GEISHA
+  source: Travers et al. 2023
+  source_label: Travers et al. 2023
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EZH2.Travers.2023-Fig7-1-R-9.jpg
 - caption: EZH2 expression
   image_url: images/455730/455730_20.jpg
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Travers et al. 2023
+  source_label: Travers et al. 2023
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EZH2.Travers.2023-Fig7-1-R.jpg
+- caption: EZH2 expression at Stage 1
+  image_url: images/elife_73189/page19_img0_EZH2_Stage1.jpg
+  location: Not specified
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
+  stage: stage 1
+  thumbnail_url: images/elife_73189/page19_img0_EZH2_Stage1.jpg
+- caption: EZH2 expression at Stage 2
+  image_url: images/elife_73189/page19_img0_EZH2_Stage2.jpg
+  location: Not specified
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
+  stage: stage 2
+  thumbnail_url: images/elife_73189/page19_img0_EZH2_Stage2.jpg
+- caption: EZH2 expression at Stage 3
+  image_url: images/elife_73189/page19_img0_EZH2_Stage3.jpg
+  location: Not specified
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
+  stage: stage 3
+  thumbnail_url: images/elife_73189/page19_img0_EZH2_Stage3.jpg
+- caption: EZH2 expression at Stage 4
+  image_url: images/elife_73189/page19_img0_EZH2_Stage4.jpg
+  location: Not specified
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
+  stage: stage 4
+  thumbnail_url: images/elife_73189/page19_img0_EZH2_Stage4.jpg
 name: enhancer of zeste 2 polycomb repressive complex 2 subunit
 ncbi_id: '455730'
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAGGCTGACGTGGATGATCAC-3’
@@ -172,6 +199,7 @@ symbol: EZH2
 template_length: '844'
 title: EZH2
 ---
+
 
 # EZH2
 

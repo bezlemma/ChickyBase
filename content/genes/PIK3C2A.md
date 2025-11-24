@@ -1,18 +1,17 @@
----
-gene_id: '449752'
+---gene_id: '449752'
 images:
 - caption: PIK3C2A expression
   image_url: images/449752/449752_0.jpg
   location: Testis
-  source: GEISHA
-  source_label: GEISHA
+  source: Smith et al. 2005
+  source_label: Smith et al. 2005
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PI3KC2A.FIG5AC.SMITH.2005.copy.jpg
 - caption: PIK3C2A expression
   image_url: images/449752/449752_1.jpg
   location: Testis
-  source: GEISHA
-  source_label: GEISHA
+  source: Smith et al. 2005
+  source_label: Smith et al. 2005
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/pi3kc2a.fig5bd.smith.2005.copy.jpg
 name: phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha

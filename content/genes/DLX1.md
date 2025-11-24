@@ -1,5 +1,4 @@
----
-forward_primer: CAGACCCCCAAAAGGCACG
+---forward_primer: CAGACCCCCAAAAGGCACG
 gene_id: '468737'
 images:
 - caption: DLX1 expression
@@ -92,95 +91,95 @@ images:
 - caption: DLX1 expression
   image_url: images/468737/468737_12.jpg
   location: Pharyngeal Arches and Clefts
-  source: GEISHA
-  source_label: GEISHA
+  source: Shig et al. 2000
+  source_label: Shig et al. 2000
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.FIG3D.SHIG.2000.jpg
 - caption: DLX1 expression
   image_url: images/468737/468737_13.jpg
   location: Pharyngeal Arches and Clefts
-  source: GEISHA
-  source_label: GEISHA
+  source: Shig et al. 2000
+  source_label: Shig et al. 2000
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.FIG3E.SHIG.2000.jpg
 - caption: DLX1 expression
   image_url: images/468737/468737_14.jpg
   location: Pharyngeal Arches and Clefts
-  source: GEISHA
-  source_label: GEISHA
+  source: Shig et al. 2000
+  source_label: Shig et al. 2000
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.FIG7C.SHIG.2000.jpg
 - caption: DLX1 expression
   image_url: images/468737/468737_15.jpg
   location: Pharyngeal Arches and Clefts
-  source: GEISHA
-  source_label: GEISHA
+  source: Shig et al. 2000
+  source_label: Shig et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.FIG3F.SHIG.2000.jpg
 - caption: DLX1 expression
   image_url: images/468737/468737_16.jpg
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Shig et al. 2000
+  source_label: Shig et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3a.SHIG.2000.jpg
 - caption: DLX1 expression
   image_url: images/468737/468737_17.png
   location: Telencephalon
-  source: GEISHA
-  source_label: GEISHA
+  source: Bielle et al. 2011
+  source_label: Bielle et al. 2011
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.Bielle.2011.Fig.4
     dlx1.png
 - caption: DLX1 expression
   image_url: images/468737/468737_18.png
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Bielle et al. 2011
+  source_label: Bielle et al. 2011
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.Bielle.2011.Fig.4.png
 - caption: DLX1 expression
   image_url: images/468737/468737_19.jpg
   location: Telencephalon
-  source: GEISHA
-  source_label: GEISHA
+  source: Frowein et al. 2002
+  source_label: Frowein et al. 2002
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1Frowein.2002
     figure 1 panel 1e
 - caption: DLX1 expression
   image_url: images/468737/468737_20.jpg
   location: Telencephalon
-  source: GEISHA
-  source_label: GEISHA
+  source: Frowein et al. 2002
+  source_label: Frowein et al. 2002
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1Frowein.2002
     figure 1 panel 1k
 - caption: DLX1 expression
   image_url: images/468737/468737_21.jpg
   location: Pharyngeal Arches and Clefts
-  source: GEISHA
-  source_label: GEISHA
+  source: Brown et al. 2005
+  source_label: Brown et al. 2005
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.4_DLX1_St17.jpg
 - caption: DLX1 expression
   image_url: images/468737/468737_22.jpg
   location: Ear/Otic Placode
-  source: GEISHA
-  source_label: GEISHA
+  source: Brown et al. 2005
+  source_label: Brown et al. 2005
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.6_DLX1_A.jpg
 - caption: DLX1 expression
   image_url: images/468737/468737_23.jpg
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Brown et al. 2005
+  source_label: Brown et al. 2005
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.4_AllMAGES.jpg
 - caption: DLX1 expression
   image_url: images/468737/468737_24.jpg
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Brown et al. 2005
+  source_label: Brown et al. 2005
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.6_ALLIMAGES.jpg
 name: distal-less homeobox 1

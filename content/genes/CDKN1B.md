@@ -1,5 +1,4 @@
----
-forward_primer: 5'-TTCAGTGGAGCAAACACCCAAG-3'
+---forward_primer: 5'-TTCAGTGGAGCAAACACCCAAG-3'
 gene_id: '463028'
 images:
 - caption: CDKN1B expression
@@ -126,43 +125,43 @@ images:
 - caption: CDKN1B expression
   image_url: images/463028/463028_15.jpg
   location: Somites, Spinal Cord, ZPA
-  source: GEISHA
-  source_label: GEISHA
+  source: Pickering et al. 2019
+  source_label: Pickering et al. 2019
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-Fig2i.jpg
 - caption: CDKN1B expression
   image_url: images/463028/463028_16.jpg
   location: Somites, Spinal Cord, ZPA
-  source: GEISHA
-  source_label: GEISHA
+  source: Pickering et al. 2019
+  source_label: Pickering et al. 2019
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-Fig2k-2.jpg
 - caption: CDKN1B expression
   image_url: images/463028/463028_17.jpg
   location: Somites, ZPA
-  source: GEISHA
-  source_label: GEISHA
+  source: Pickering et al. 2019
+  source_label: Pickering et al. 2019
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-Fig2j.jpg
 - caption: CDKN1B expression
   image_url: images/463028/463028_18.jpg
   location: Somites, Wing Mesenchyme
-  source: GEISHA
-  source_label: GEISHA
+  source: Pickering et al. 2019
+  source_label: Pickering et al. 2019
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-Fig2l.jpg
 - caption: CDKN1B expression
   image_url: images/463028/463028_19.jpg
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Pickering et al. 2019
+  source_label: Pickering et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-p27kip1-Fig2.jpg
 - caption: CDKN1B expression
   image_url: images/463028/463028_20.jpg
   location: Neural Plate/Tube
-  source: GEISHA
-  source_label: GEISHA
+  source: Olivera-martinez et al. 2014
+  source_label: Olivera-martinez et al. 2014
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-fig5-p27.JPG
 name: cyclin dependent kinase inhibitor 1B

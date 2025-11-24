@@ -1,5 +1,4 @@
----
-gene_id: '449139'
+---gene_id: '449139'
 images:
 - caption: WNT9B expression
   image_url: images/449139/449139_0.jpg
@@ -32,56 +31,56 @@ images:
 - caption: WNT9B expression
   image_url: images/449139/449139_4.png
   location: Eye, Pharyngeal Arches and Clefts, Surface Ectoderm
-  source: GEISHA
-  source_label: GEISHA
+  source: Geetha-loganathan et al. 2009
+  source_label: Geetha-loganathan et al. 2009
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
     for figure 1 panel M.png
 - caption: WNT9B expression
   image_url: images/449139/449139_5.png
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Geetha-loganathan et al. 2009
+  source_label: Geetha-loganathan et al. 2009
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
     for figure 1.png
 - caption: WNT9B expression
   image_url: images/449139/449139_6.png
   location: Eye, Pharyngeal Arches and Clefts, Surface Ectoderm
-  source: GEISHA
-  source_label: GEISHA
+  source: Geetha-loganathan et al. 2009
+  source_label: Geetha-loganathan et al. 2009
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
     for figure 1 panel N.png
 - caption: WNT9B expression
   image_url: images/449139/449139_7.png
   location: Nasal Placode/Nerve, Pharyngeal Arches and Clefts, Surface Ectoderm
-  source: GEISHA
-  source_label: GEISHA
+  source: Geetha-loganathan et al. 2009
+  source_label: Geetha-loganathan et al. 2009
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
     for figure 1 panel O.png
 - caption: WNT9B expression
   image_url: images/449139/449139_8.png
   location: Nasal Placode/Nerve, Pharyngeal Arches and Clefts, Surface Ectoderm
-  source: GEISHA
-  source_label: GEISHA
+  source: Geetha-loganathan et al. 2009
+  source_label: Geetha-loganathan et al. 2009
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
     for figure 2 panel D-.png
 - caption: WNT9B expression
   image_url: images/449139/449139_9.png
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Geetha-loganathan et al. 2009
+  source_label: Geetha-loganathan et al. 2009
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
     for figure 2.png
 - caption: WNT9B expression
   image_url: images/449139/449139_10.png
   location: Nasal Placode/Nerve, Pharyngeal Arches and Clefts, Surface Ectoderm
-  source: GEISHA
-  source_label: GEISHA
+  source: Geetha-loganathan et al. 2009
+  source_label: Geetha-loganathan et al. 2009
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
     for figure 1 panel P.png

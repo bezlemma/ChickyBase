@@ -1,5 +1,4 @@
----
-gene_id: '461900'
+---gene_id: '461900'
 images:
 - caption: IGFBP2 expression
   image_url: images/461900/461900_0.jpg
@@ -48,15 +47,15 @@ images:
 - caption: IGFBP2 expression
   image_url: images/461900/461900_6.jpg
   location: Lateral Plate Mesoderm, Neural Plate/Tube, Paraxial Mesoderm
-  source: GEISHA
-  source_label: GEISHA
+  source: Olivera-martinez et al. 2014
+  source_label: Olivera-martinez et al. 2014
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-IGFBP2-figS1-L.jpg
 - caption: IGFBP2 expression
   image_url: images/461900/461900_7.jpg
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Olivera-martinez et al. 2014
+  source_label: Olivera-martinez et al. 2014
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-figS1-L.jpg
 name: insulin like growth factor binding protein 2

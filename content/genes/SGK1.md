@@ -1,35 +1,34 @@
----
-gene_id: '462156'
+---gene_id: '462156'
 images:
 - caption: SGK1 expression
   image_url: images/462156/462156_0.jpg
   location: Eye
-  source: GEISHA
-  source_label: GEISHA
+  source: Trimarchi et al. 2009
+  source_label: Trimarchi et al. 2009
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SGK.Trimarchi.2009
     for figure 4, panel L.JPG
 - caption: SGK1 expression
   image_url: images/462156/462156_1.jpg
   location: Eye
-  source: GEISHA
-  source_label: GEISHA
+  source: Trimarchi et al. 2009
+  source_label: Trimarchi et al. 2009
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SGK.Trimarchi.2009
     for figure 4, panel L1.JPG
 - caption: SGK1 expression
   image_url: images/462156/462156_2.jpg
   location: Eye
-  source: GEISHA
-  source_label: GEISHA
+  source: Trimarchi et al. 2009
+  source_label: Trimarchi et al. 2009
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SGK.Trimarchi.2009
     for figure 4, panel L2.JPG
 - caption: SGK1 expression
   image_url: images/462156/462156_3.jpg
   location: Eye, Retina
-  source: GEISHA
-  source_label: GEISHA
+  source: Trimarchi et al. 2009
+  source_label: Trimarchi et al. 2009
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SGK.Trimarchi.2009
     for figure 5, panel U.JPG

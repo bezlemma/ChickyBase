@@ -1,5 +1,4 @@
----
-forward_primer: 5’-CGGGACAAATGGGCATGTTC-3’
+---forward_primer: 5’-CGGGACAAATGGGCATGTTC-3’
 gene_id: '459206'
 images:
 - caption: CELF4 expression
@@ -72,29 +71,29 @@ images:
 - caption: CELF4 expression
   image_url: images/459206/459206_9.jpg
   location: Head Mesenchyme, Neural Plate/Tube
-  source: GEISHA
-  source_label: GEISHA
+  source: Brimacombe et al. 2007
+  source_label: Brimacombe et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CLEF4.Figure4A.Brimacombe.2007.jpg
 - caption: CELF4 expression
   image_url: images/459206/459206_10.jpg
   location: Neural Plate/Tube
-  source: GEISHA
-  source_label: GEISHA
+  source: Brimacombe et al. 2007
+  source_label: Brimacombe et al. 2007
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CELF4.Figure4D.Brimacombe.2007.jpg
 - caption: CELF4 expression
   image_url: images/459206/459206_11.jpg
   location: Forebrain
-  source: GEISHA
-  source_label: GEISHA
+  source: Brimacombe et al. 2007
+  source_label: Brimacombe et al. 2007
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CELF4.Figure4G.Brimacombe.2007.jpg
 - caption: CELF4 expression
   image_url: images/459206/459206_12.jpg
   location: Spinal Cord
-  source: GEISHA
-  source_label: GEISHA
+  source: Brimacombe et al. 2007
+  source_label: Brimacombe et al. 2007
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CELF4.Figure4H.Brimacombe.2007.jpg
 name: CUGBP Elav-like family member 4

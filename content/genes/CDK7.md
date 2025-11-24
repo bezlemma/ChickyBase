@@ -1,5 +1,4 @@
----
-forward_primer: 5'-GTTCTTCTCGCCTTTTCCGC-3'
+---forward_primer: 5'-GTTCTTCTCGCCTTTTCCGC-3'
 gene_id: '448801'
 images:
 - caption: CDK7 expression
@@ -136,15 +135,15 @@ images:
 - caption: CDK7 expression
   image_url: images/448801/448801_18.png
   location: Ubiquitous
-  source: GEISHA
-  source_label: GEISHA
+  source: Robb et al. 2012
+  source_label: Robb et al. 2012
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CDK7.HH25.Robb.2012.F3.cdk7.png
 - caption: CDK7 expression
   image_url: images/448801/448801_19.png
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Robb et al. 2012
+  source_label: Robb et al. 2012
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robb.2012.F3.cdk7.png
 name: cyclin dependent kinase 7

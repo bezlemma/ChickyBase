@@ -1,5 +1,4 @@
----
-forward_primer: GCTGAAATGGCAAACACGAAATCG
+---forward_primer: GCTGAAATGGCAAACACGAAATCG
 gene_id: '457131'
 images:
 - caption: EPCAM expression
@@ -174,8 +173,8 @@ images:
   image_url: images/457131/457131_23.jpg
   location: Ear/Otic Placode, Eye, Foregut, Nasal Placode/Nerve, Pharyngeal Arches
     and Clefts, Surface Ectoderm, Tail, Widespread Expression
-  source: GEISHA
-  source_label: GEISHA
+  source: S15 et al. 0001
+  source_label: S15 et al. 0001
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R433.EPCAM.S15.0001.jpg
 - caption: EPCAM expression
@@ -190,8 +189,8 @@ images:
 - caption: EPCAM expression
   image_url: images/457131/457131_25.jpg
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: S16 et al. 0002
+  source_label: S16 et al. 0002
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R433.EPCAM.S16.0002.jpg
 - caption: EPCAM expression

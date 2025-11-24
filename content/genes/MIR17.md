@@ -1,5 +1,4 @@
----
-gene_id: '467929'
+---gene_id: '467929'
 images:
 - caption: MIR17 expression
   image_url: images/467929/467929_0.jpg
@@ -109,36 +108,36 @@ images:
 - caption: MIR17 expression
   image_url: images/467929/467929_15.png
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Bannister et al. 2009
+  source_label: Bannister et al. 2009
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR17-5P.Bannister.2009figure3.png
 - caption: MIR17 expression
   image_url: images/467929/467929_16.jpg
   location: Ovary
-  source: GEISHA
-  source_label: GEISHA
+  source: Bannister et al. 2009
+  source_label: Bannister et al. 2009
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR17-5P.Bannister.2009figure3(3).JPG
 - caption: MIR17 expression
   image_url: images/467929/467929_17.jpg
   location: Testis
-  source: GEISHA
-  source_label: GEISHA
+  source: Bannister et al. 2009
+  source_label: Bannister et al. 2009
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR17-5P.Bannister.2009figure3.JPG
 - caption: MIR17 expression
   image_url: images/467929/467929_18.jpg
   location: Testis
-  source: GEISHA
-  source_label: GEISHA
+  source: Bannister et al. 2009
+  source_label: Bannister et al. 2009
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR17-5P.Bannister.2009figure3(2).JPG
 - caption: MIR17 expression
   image_url: images/467929/467929_19.jpg
   location: Ovary
-  source: GEISHA
-  source_label: GEISHA
+  source: Bannister et al. 2009
+  source_label: Bannister et al. 2009
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR17-5P.Bannister.2009figure3(4).JPG
 name: microRNA 17

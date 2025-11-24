@@ -1,11 +1,10 @@
----
-gene_id: '450477'
+---gene_id: '450477'
 images:
 - caption: DKC1 expression
   image_url: images/450477/450477_0.jpg
   location: Neural Crest
-  source: GEISHA
-  source_label: GEISHA
+  source: Gammill et al. 2002
+  source_label: Gammill et al. 2002
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DKC1.Gammill.2002.2J.jpg
 name: dyskerin pseudouridine synthase 1

@@ -1,18 +1,17 @@
----
-gene_id: '459355'
+---gene_id: '459355'
 images:
 - caption: SDK1 expression
   image_url: images/459355/459355_0.jpg
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Yamagata et al. 2012
+  source_label: Yamagata et al. 2012
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yamagata.2012.Figure7.ALLIMAGES-2.jpg
 - caption: SDK1 expression
   image_url: images/459355/459355_1.jpg
   location: Retina
-  source: GEISHA
-  source_label: GEISHA
+  source: Yamagata et al. 2012
+  source_label: Yamagata et al. 2012
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yamagata.2012.Figure7.C.CNTN2-SDK1-2.jpg
 name: sidekick cell adhesion molecule 1

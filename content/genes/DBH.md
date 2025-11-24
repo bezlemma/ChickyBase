@@ -1,11 +1,10 @@
----
-gene_id: '449569'
+---gene_id: '449569'
 images:
 - caption: DBH expression
   image_url: images/449569/449569_0.jpg
   location: Diencephalon, Hindbrain, Midbrain
-  source: GEISHA
-  source_label: GEISHA
+  source: Gimeno et al. 2007
+  source_label: Gimeno et al. 2007
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DBH.FIGURE4FG.GIMENO.2007.jpg
 - caption: DBH expression

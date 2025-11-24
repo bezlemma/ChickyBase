@@ -1,19 +1,18 @@
----
-gene_id: '461015'
+---gene_id: '461015'
 images:
 - caption: SRC expression
   image_url: images/461015/461015_0.png
   location: Spinal Cord
-  source: GEISHA
-  source_label: GEISHA
+  source: Kao et al. 2009
+  source_label: Kao et al. 2009
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SRC.Kao.2009.Fig.1
     src.png
 - caption: SRC expression
   image_url: images/461015/461015_1.png
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Kao et al. 2009
+  source_label: Kao et al. 2009
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SRC.Kao.2009.Fig.1.png
 name: SRC proto-oncogene, non-receptor tyrosine kinase

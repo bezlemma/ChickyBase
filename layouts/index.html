@@ -96,9 +96,14 @@
                 <div class="text-4xl font-bold text-primary mb-2">
                     {{ $imageCount := 0 }}
                     {{ range where .Site.RegularPages "Section" "genes" }}
-                    {{ range .Params.expression_data }}
-                    {{ $imageCount = add $imageCount (len .entries) }}
-                    {{ end }}
+                        {{ if .Params.images }}
+                            {{ $imageCount = add $imageCount (len .Params.images) }}
+                        {{ end }}
+                        {{ if .Params.expression_data }}
+                            {{ range .Params.expression_data }}
+                                {{ $imageCount = add $imageCount (len .entries) }}
+                            {{ end }}
+                        {{ end }}
                     {{ end }}
                     {{ $imageCount }}
                 </div>

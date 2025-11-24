@@ -1,5 +1,4 @@
----
-forward_primer: AGAGCCAGCAAGCCATTCG
+---forward_primer: AGAGCCAGCAAGCCATTCG
 gene_id: '458790'
 images:
 - caption: WT1 expression
@@ -193,114 +192,114 @@ images:
 - caption: WT1 expression
   image_url: images/458790/458790_26.jpg
   location: Proepicardium
-  source: GEISHA
-  source_label: GEISHA
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1M.Schlueter.2006.jpg
 - caption: WT1 expression
   image_url: images/458790/458790_27.jpg
   location: Proepicardium
-  source: GEISHA
-  source_label: GEISHA
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1O.Schlueter.2006.jpg
 - caption: WT1 expression
   image_url: images/458790/458790_28.jpg
   location: Proepicardium
-  source: GEISHA
-  source_label: GEISHA
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1P.Schlueter.2006.jpg
 - caption: WT1 expression
   image_url: images/458790/458790_29.jpg
   location: Proepicardium
-  source: GEISHA
-  source_label: GEISHA
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1R.Schlueter.2006.jpg
 - caption: WT1 expression
   image_url: images/458790/458790_30.jpg
   location: Intermediate Mesoderm, Proepicardium
-  source: GEISHA
-  source_label: GEISHA
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1N.Schlueter.2006.jpg
 - caption: WT1 expression
   image_url: images/458790/458790_31.jpg
   location: Proepicardium
-  source: GEISHA
-  source_label: GEISHA
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1Q.Schlueter.2006.jpg
 - caption: WT1 expression
   image_url: images/458790/458790_32.jpg
   location: Proepicardium
-  source: GEISHA
-  source_label: GEISHA
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2I.Schlueter.2006.jpg
 - caption: WT1 expression
   image_url: images/458790/458790_33.jpg
   location: Proepicardium
-  source: GEISHA
-  source_label: GEISHA
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2J.Schlueter.2006.jpg
 - caption: WT1 expression
   image_url: images/458790/458790_34.jpg
   location: Atria, Proepicardium, Sinus Venosus
-  source: GEISHA
-  source_label: GEISHA
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2K.Schlueter.2006.jpg
 - caption: WT1 expression
   image_url: images/458790/458790_35.jpg
   location: Ectoderm, Proepicardium
-  source: GEISHA
-  source_label: GEISHA
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2L.Schlueter.2006.jpg
 - caption: WT1 expression
   image_url: images/458790/458790_36.jpg
   location: Intermediate Mesoderm, Proepicardium
-  source: GEISHA
-  source_label: GEISHA
+  source: Ishii et al. 2007
+  source_label: Ishii et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WT1.FIG1AB.ISHII.2007.jpg
 - caption: WT1 expression
   image_url: images/458790/458790_37.jpg
   location: Intermediate Mesoderm, Proepicardium
-  source: GEISHA
-  source_label: GEISHA
+  source: Ishii et al. 2007
+  source_label: Ishii et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WT1.FIG1C.ISHII.2007.jpg
 - caption: WT1 expression
   image_url: images/458790/458790_38.jpg
   location: Proepicardium
-  source: GEISHA
-  source_label: GEISHA
+  source: Ishii et al. 2007
+  source_label: Ishii et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WT1.FIG1D.ISHII.2007.jpg
 - caption: WT1 expression
   image_url: images/458790/458790_39.jpg
   location: Intermediate Mesoderm, Proepicardium
-  source: GEISHA
-  source_label: GEISHA
+  source: Ishii et al. 2007
+  source_label: Ishii et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WT1.FIG2A.ISHII.2007.jpg
 - caption: WT1 expression
   image_url: images/458790/458790_40.jpg
   location: Proepicardium
-  source: GEISHA
-  source_label: GEISHA
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WT1.Anderson.2019.Supplementary
     figure 4J-st12.jpg
 - caption: WT1 expression
   image_url: images/458790/458790_41.jpg
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WT1.Anderson.2019.Supplementary
     figure 4J.jpg

@@ -1,5 +1,4 @@
----
-forward_primer: AACTTGGGTGTTTGACCACTGTGAC
+---forward_primer: AACTTGGGTGTTTGACCACTGTGAC
 gene_id: '458641'
 images:
 - caption: FZD6 expression
@@ -99,8 +98,8 @@ images:
 - caption: FZD6 expression
   image_url: images/458641/458641_12.jpg
   location: Neural Plate/Tube
-  source: GEISHA
-  source_label: GEISHA
+  source: Mccabe et al. 2007
+  source_label: Mccabe et al. 2007
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Frizzled6.Figure5GHI.McCabe.2007.jpg
 - caption: FZD6 expression
@@ -120,36 +119,36 @@ images:
 - caption: FZD6 expression
   image_url: images/458641/458641_15.jpg
   location: Neural Plate/Tube
-  source: GEISHA
-  source_label: GEISHA
+  source: Mccabe et al. 2007
+  source_label: Mccabe et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Frizzled6.Figure5JKL.McCabe.2007.jpg
 - caption: FZD6 expression
   image_url: images/458641/458641_16.jpg
   location: Retina
-  source: GEISHA
-  source_label: GEISHA
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2A.Fuhrmann.2006.jpg
 - caption: FZD6 expression
   image_url: images/458641/458641_17.jpg
   location: Retina
-  source: GEISHA
-  source_label: GEISHA
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2B.Fuhrmann.2006.jpg
 - caption: FZD6 expression
   image_url: images/458641/458641_18.png
   location: Face Mesenchyme, Pharyngeal Arches and Clefts
-  source: GEISHA
-  source_label: GEISHA
+  source: Geethaloganath et al. 2009
+  source_label: Geethaloganath et al. 2009
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZD6.GeethaLoganath.2009.Figure8F.panelA.png
 - caption: FZD6 expression
   image_url: images/458641/458641_19.png
   location: null
-  source: GEISHA
-  source_label: GEISHA
+  source: Geethaloganathan et al. 2009
+  source_label: Geethaloganathan et al. 2009
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZD6.GeethaLoganathan.2009.Figure8.panelA.png
 name: frizzled class receptor 6
