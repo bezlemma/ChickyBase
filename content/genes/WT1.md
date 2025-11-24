@@ -1,4 +1,5 @@
----forward_primer: AGAGCCAGCAAGCCATTCG
+---
+forward_primer: AGAGCCAGCAAGCCATTCG
 gene_id: '458790'
 images:
 - caption: WT1 expression
@@ -317,7 +318,29 @@ species: Gallus gallus
 symbol: WT1
 template_length: '663'
 title: WT1
+orthologs:
+- species: Human
+  entrez_id: '4174'
+  ensembl_id: ENSG00000100297
+  mod_id: MIM:602696
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '17218'
+  ensembl_id: ENSMUSG00000005410
+  mod_id: MGI:103197
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '550081'
+  ensembl_id: ENSXETG00000000253
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '286747'
+  ensembl_id: ENSDARG00000019507
+  mod_id: ZFIN:ZDB-GENE-021209-1
+  phenotypes: ''
 ---
+
 
 # WT1
 

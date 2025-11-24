@@ -27,7 +27,19 @@ sources:
 species: Gallus gallus
 symbol: KLF13
 title: KLF13
+orthologs:
+- species: Human
+  entrez_id: '8711'
+  ensembl_id: ENSG00000174292
+  mod_id: MIM:608076
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '83813'
+  ensembl_id: ENSMUSG00000001583
+  mod_id: MGI:1930958
+  phenotypes: ''
 ---
+
 
 # KLF13
 

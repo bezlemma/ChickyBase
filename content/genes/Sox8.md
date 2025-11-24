@@ -43,9 +43,10 @@ sources:
   type: publication
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
 species: Gallus gallus
-symbol: Sox8
-title: Sox8
+symbol: SOX8
+title: SOX8
 ---
+
 
 # Sox8
 

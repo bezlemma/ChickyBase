@@ -100,7 +100,29 @@ species: Gallus gallus
 symbol: TRIM54
 template_length: '476'
 title: TRIM54
+orthologs:
+- species: Human
+  entrez_id: '6258'
+  ensembl_id: ENSG00000143171
+  mod_id: MIM:180247
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '20183'
+  ensembl_id: ENSMUSG00000015843
+  mod_id: MGI:98216
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '779621'
+  ensembl_id: ENSXETG00000004750
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '436617'
+  ensembl_id: ENSDARG00000004697
+  mod_id: ZFIN:ZDB-GENE-040718-34
+  phenotypes: ''
 ---
+
 
 # TRIM54
 

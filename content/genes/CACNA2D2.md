@@ -87,7 +87,19 @@ species: Gallus gallus
 symbol: CACNA2D2
 template_length: '842'
 title: CACNA2D2
+orthologs:
+- species: Human
+  entrez_id: '6364'
+  ensembl_id: ENSG00000115009
+  mod_id: MIM:601960
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '20297'
+  ensembl_id: ENSMUSG00000026166
+  mod_id: MGI:1329031
+  phenotypes: ''
 ---
+
 
 # CACNA2D2
 

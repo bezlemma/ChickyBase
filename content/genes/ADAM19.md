@@ -1,4 +1,5 @@
----forward_primer: GGAGGAAATGTGGAAATGGCTAC
+---
+forward_primer: GGAGGAAATGTGGAAATGGCTAC
 gene_id: '457023'
 images:
 - caption: ADAM19 expression
@@ -172,20 +173,22 @@ orthologs:
   entrez_id: '8728'
   ensembl_id: ENSG00000135074
   mod_id: MIM:603640
+  phenotypes: ''
 - species: Mouse
   entrez_id: '11492'
   ensembl_id: ENSMUSG00000011256
-  phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2)
-    Gene trapped(1)
   mod_id: MGI:105377
+  phenotypes: 'All phenotypic alleles are viable, but some show reduced survival. Homozygotes for a null allele show abnormal heart development, ventricular septal defects, and valvular abnormalities. Some die shortly after birth due to cardiac defects.'
 - species: Xenopus
-  entrez_id: 677730, 100174810
-  mod_id: '993484'
+  entrez_id: '677730'
+  ensembl_id: ENSXETG00000034170
+  mod_id: 'XB-GENE-1005720'
+  phenotypes: ''
 - species: Zebrafish
-  entrez_id: 571252, 565342
-  ensembl_id: ENSDARG00000067545, ENSDARG00000059693
-  phenotypes: ZDB-GENE-070705-541, ZDB-GENE-070813-1
-  mod_id: ZFIN:ZDB-GENE-070705-541, ZFIN:ZDB-GENE-070813-1
+  entrez_id: '571252'
+  ensembl_id: ENSDARG00000067545
+  mod_id: ZFIN:ZDB-GENE-070705-541
+  phenotypes: ''
 reverse_primer: ATTAACCCTCACTAAAGGTGATGGATGTGTTCTGACAGCG
 sources:
 - name: GEISHA
@@ -202,6 +205,7 @@ symbol: ADAM19
 template_length: '699'
 title: ADAM19
 ---
+
 
 # ADAM19
 

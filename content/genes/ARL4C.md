@@ -1,4 +1,5 @@
----gene_id: '462785'
+---
+gene_id: '462785'
 images:
 - caption: ARL4C expression
   image_url: images/462785/462785_0.jpg
@@ -60,7 +61,29 @@ sources:
 species: Gallus gallus
 symbol: ARL4C
 title: ARL4C
+orthologs:
+- species: Human
+  entrez_id: '222584'
+  ensembl_id: ENSG00000168143
+  mod_id: ''
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '208994'
+  ensembl_id: ENSMUSG00000032358
+  mod_id: MGI:2685362
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '100495584'
+  ensembl_id: ENSXETG00000001621
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '568458'
+  ensembl_id: ENSDARG00000078309
+  mod_id: ZFIN:ZDB-GENE-030131-7066
+  phenotypes: ''
 ---
+
 
 # ARL4C
 

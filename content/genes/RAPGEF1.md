@@ -41,7 +41,29 @@ sources:
 species: Gallus gallus
 symbol: RAPGEF1
 title: RAPGEF1
+orthologs:
+- species: Human
+  entrez_id: '9349'
+  ensembl_id: ENSG00000125691
+  mod_id: MIM:603662
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '65019'
+  ensembl_id: ENSMUSG00000071415
+  mod_id: MGI:1929455
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '496667'
+  ensembl_id: ENSXETG00000049411
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '336812'
+  ensembl_id: ENSDARG00000053457
+  mod_id: ZFIN:ZDB-GENE-030131-8756
+  phenotypes: ''
 ---
+
 
 # RAPGEF1
 

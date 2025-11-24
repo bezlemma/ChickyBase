@@ -1,4 +1,5 @@
----gene_id: '461812'
+---
+gene_id: '461812'
 images:
 - caption: TGIF1 expression
   image_url: images/461812/461812_0.jpg
@@ -75,7 +76,29 @@ sources:
 species: Gallus gallus
 symbol: TGIF1
 title: TGIF1
+orthologs:
+- species: Human
+  entrez_id: '689'
+  ensembl_id: ENSG00000145741
+  mod_id: MIM:602542
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '218490'
+  ensembl_id: ENSMUSG00000021660
+  mod_id: MGI:1202875
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '549451'
+  ensembl_id: ENSXETG00000016819
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '556625'
+  ensembl_id: ENSDARG00000035400
+  mod_id: ZFIN:ZDB-GENE-030131-8731
+  phenotypes: ''
 ---
+
 
 
 # TGIF1

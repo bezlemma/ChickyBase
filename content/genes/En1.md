@@ -22,9 +22,10 @@ sources:
   type: publication
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
 species: Gallus gallus
-symbol: En1
-title: En1
+symbol: EN1
+title: EN1
 ---
+
 
 # En1
 

@@ -1,4 +1,5 @@
----gene_id: '451227'
+---
+gene_id: '451227'
 images:
 - caption: ARID5B expression
   image_url: images/451227/451227_0.jpg
@@ -75,7 +76,24 @@ sources:
 species: Gallus gallus
 symbol: ARID5B
 title: ARID5B
+orthologs:
+- species: Human
+  entrez_id: '79080'
+  ensembl_id: ENSG00000110104
+  mod_id: MIM:611293
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '108673'
+  ensembl_id: ENSMUSG00000024732
+  mod_id: MGI:1277220
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '101733466'
+  ensembl_id: ENSXETG00000037483
+  mod_id: ''
+  phenotypes: ''
 ---
+
 
 
 # ARID5B

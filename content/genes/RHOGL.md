@@ -158,7 +158,24 @@ species: Gallus gallus
 symbol: RHOGL
 template_length: '1000'
 title: RHOGL
+orthologs:
+- species: Human
+  entrez_id: '9118'
+  ensembl_id: ENSG00000148798
+  mod_id: MIM:605338
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '226180'
+  ensembl_id: ENSMUSG00000034336
+  mod_id: MGI:96568
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '100101732'
+  ensembl_id: ENSXETG00000009478
+  mod_id: ''
+  phenotypes: ''
 ---
+
 
 # RHOGL
 

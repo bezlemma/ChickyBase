@@ -61,7 +61,29 @@ species: Gallus gallus
 symbol: CDK10
 template_length: '834'
 title: CDK10
+orthologs:
+- species: Human
+  entrez_id: '55120'
+  ensembl_id: ENSG00000115392
+  mod_id: MIM:608111
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '67030'
+  ensembl_id: ENSMUSG00000004018
+  mod_id: MGI:1914280
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '493212'
+  ensembl_id: ENSXETG00000020481
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '406255'
+  ensembl_id: ENSDARG00000007885
+  mod_id: ZFIN:ZDB-GENE-040426-1045
+  phenotypes: ''
 ---
+
 
 # CDK10
 

@@ -1,4 +1,5 @@
----forward_primer: AACTTGGGTGTTTGACCACTGTGAC
+---
+forward_primer: AACTTGGGTGTTTGACCACTGTGAC
 gene_id: '458641'
 images:
 - caption: FZD6 expression
@@ -165,7 +166,29 @@ species: Gallus gallus
 symbol: FZD6
 template_length: '766'
 title: FZD6
+orthologs:
+- species: Human
+  entrez_id: '51807'
+  ensembl_id: ENSG00000183785
+  mod_id: MIM:605742
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '53857'
+  ensembl_id: ENSMUSG00000030137
+  mod_id: MGI:1858225
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '100037894'
+  ensembl_id: ENSXETG00000044622
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '337223'
+  ensembl_id: ENSDARG00000042708
+  mod_id: ZFIN:ZDB-GENE-030131-9167
+  phenotypes: ''
 ---
+
 
 # FZD6
 

@@ -50,9 +50,10 @@ sources:
   type: publication
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
 species: Gallus gallus
-symbol: Tfap2b
-title: Tfap2b
+symbol: TFAP2B
+title: TFAP2B
 ---
+
 
 # Tfap2b
 

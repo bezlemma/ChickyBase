@@ -70,7 +70,29 @@ species: Gallus gallus
 symbol: CPEB4
 template_length: '991'
 title: CPEB4
+orthologs:
+- species: Human
+  entrez_id: '84958'
+  ensembl_id: ENSG00000142765
+  mod_id: MIM:608042
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '269589'
+  ensembl_id: ENSMUSG00000028860
+  mod_id: MGI:1933365
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '448459'
+  ensembl_id: ENSXETG00000020676
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '565707'
+  ensembl_id: ENSDARG00000003381
+  mod_id: ZFIN:ZDB-GENE-131121-599
+  phenotypes: ''
 ---
+
 
 # CPEB4
 

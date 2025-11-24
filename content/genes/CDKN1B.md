@@ -1,4 +1,5 @@
----forward_primer: 5'-TTCAGTGGAGCAAACACCCAAG-3'
+---
+forward_primer: 5'-TTCAGTGGAGCAAACACCCAAG-3'
 gene_id: '463028'
 images:
 - caption: CDKN1B expression
@@ -178,7 +179,24 @@ species: Gallus gallus
 symbol: CDKN1B
 template_length: '741'
 title: CDKN1B
+orthologs:
+- species: Human
+  entrez_id: '57221'
+  ensembl_id: ENSG00000112379
+  mod_id: MIM:617411
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '215821'
+  ensembl_id: ENSMUSG00000019852
+  mod_id: MGI:106387
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '562652'
+  ensembl_id: ENSDARG00000077656
+  mod_id: ZFIN:ZDB-GENE-081107-37
+  phenotypes: ''
 ---
+
 
 # CDKN1B
 

@@ -43,9 +43,10 @@ sources:
   type: publication
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
 species: Gallus gallus
-symbol: Ets1
-title: Ets1
+symbol: ETS1
+title: ETS1
 ---
+
 
 # Ets1
 

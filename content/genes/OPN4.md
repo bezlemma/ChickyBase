@@ -48,7 +48,29 @@ sources:
 species: Gallus gallus
 symbol: OPN4
 title: OPN4
+orthologs:
+- species: Human
+  entrez_id: '4722'
+  ensembl_id: ENSG00000213619
+  mod_id: MIM:603846
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '68349'
+  ensembl_id: ENSMUSG00000005510
+  mod_id: MGI:1915599
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '394690'
+  ensembl_id: ENSXETG00000019932
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '550451'
+  ensembl_id: ENSDARG00000015385
+  mod_id: ZFIN:ZDB-GENE-050417-274
+  phenotypes: ''
 ---
+
 
 # OPN4
 

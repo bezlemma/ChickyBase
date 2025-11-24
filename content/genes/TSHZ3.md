@@ -282,7 +282,24 @@ sources:
 species: Gallus gallus
 symbol: TSHZ3
 title: TSHZ3
+orthologs:
+- species: Human
+  entrez_id: '55255'
+  ensembl_id: ENSG00000164253
+  mod_id: MIM:617502
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '218460'
+  ensembl_id: ENSMUSG00000042015
+  mod_id: MGI:2445123
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '571294'
+  ensembl_id: ENSDARG00000009851
+  mod_id: ZFIN:ZDB-GENE-050706-152
+  phenotypes: ''
 ---
+
 
 # TSHZ3
 

@@ -44,7 +44,29 @@ species: Gallus gallus
 symbol: FREM3
 template_length: '830'
 title: FREM3
+orthologs:
+- species: Human
+  entrez_id: '10736'
+  ensembl_id: ENSG00000170577
+  mod_id: MIM:604994
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '20472'
+  ensembl_id: ENSMUSG00000024134
+  mod_id: MGI:102778
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '100101784'
+  ensembl_id: ENSXETG00000026158
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '83415'
+  ensembl_id: ENSDARG00000058004
+  mod_id: ZFIN:ZDB-GENE-010412-1
+  phenotypes: ''
 ---
+
 
 # FREM3
 

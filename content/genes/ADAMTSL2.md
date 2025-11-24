@@ -100,7 +100,29 @@ species: Gallus gallus
 symbol: ADAMTSL2
 template_length: '755'
 title: ADAMTSL2
+orthologs:
+- species: Human
+  entrez_id: '3092'
+  ensembl_id: ENSG00000127946
+  mod_id: MIM:601767
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '215114'
+  ensembl_id: ENSMUSG00000039959
+  mod_id: MGI:1099804
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '100496371'
+  ensembl_id: ENSXETG00000005880
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '793823'
+  ensembl_id: ENSDARG00000112248
+  mod_id: ZFIN:ZDB-GENE-010328-15
+  phenotypes: ''
 ---
+
 
 # ADAMTSL2
 

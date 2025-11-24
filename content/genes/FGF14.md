@@ -79,7 +79,24 @@ species: Gallus gallus
 symbol: FGF14
 template_length: '650'
 title: FGF14
+orthologs:
+- species: Human
+  entrez_id: '348'
+  ensembl_id: ENSG00000130203
+  mod_id: MIM:107741
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '11816'
+  ensembl_id: ENSMUSG00000002985
+  mod_id: MGI:88057
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '394678'
+  ensembl_id: ENSXETG00000035511
+  mod_id: ''
+  phenotypes: ''
 ---
+
 
 # FGF14
 

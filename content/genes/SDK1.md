@@ -1,4 +1,5 @@
----gene_id: '459355'
+---
+gene_id: '459355'
 images:
 - caption: SDK1 expression
   image_url: images/459355/459355_0.jpg
@@ -26,7 +27,24 @@ sources:
 species: Gallus gallus
 symbol: SDK1
 title: SDK1
+orthologs:
+- species: Human
+  entrez_id: '129293'
+  ensembl_id: ENSG00000186854
+  mod_id: MIM:614912
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '100491951'
+  ensembl_id: ENSXETG00000013102
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '564021'
+  ensembl_id: ENSDARG00000089701
+  mod_id: ZFIN:ZDB-GENE-030131-4053
+  phenotypes: ''
 ---
+
 
 # SDK1
 

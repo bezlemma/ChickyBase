@@ -27,7 +27,24 @@ sources:
 species: Gallus gallus
 symbol: EGR1
 title: EGR1
+orthologs:
+- species: Human
+  entrez_id: '7851'
+  ensembl_id: ENSG00000144063
+  mod_id: MIM:602022
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '228576'
+  ensembl_id: ENSMUSG00000027377
+  mod_id: MGI:2385152
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '100135069'
+  ensembl_id: ENSXETG00000026715
+  mod_id: ''
+  phenotypes: ''
 ---
+
 
 # EGR1
 

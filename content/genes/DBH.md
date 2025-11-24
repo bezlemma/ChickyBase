@@ -1,4 +1,5 @@
----gene_id: '449569'
+---
+gene_id: '449569'
 images:
 - caption: DBH expression
   image_url: images/449569/449569_0.jpg
@@ -61,7 +62,29 @@ sources:
 species: Gallus gallus
 symbol: DBH
 title: DBH
+orthologs:
+- species: Human
+  entrez_id: '7054'
+  ensembl_id: ENSG00000180176
+  mod_id: MIM:191290
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '21823'
+  ensembl_id: ENSMUSG00000000214
+  mod_id: MGI:98735
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '100488900'
+  ensembl_id: ENSXETG00000014030
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '30384'
+  ensembl_id: ENSDARG00000109947
+  mod_id: ZFIN:ZDB-GENE-990621-5
+  phenotypes: ''
 ---
+
 
 # DBH
 

@@ -1,4 +1,5 @@
----forward_primer: 5’-TGAACAGCAGCTTCCAGGAG-3’
+---
+forward_primer: 5’-TGAACAGCAGCTTCCAGGAG-3’
 gene_id: '455730'
 images:
 - caption: EZH2 expression
@@ -198,7 +199,19 @@ species: Gallus gallus
 symbol: EZH2
 template_length: '844'
 title: EZH2
+orthologs:
+- species: Human
+  entrez_id: '57139'
+  ensembl_id: ENSG00000205517
+  mod_id: MIM:616743
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '71746'
+  ensembl_id: ENSMUSG00000040146
+  mod_id: MGI:1918996
+  phenotypes: ''
 ---
+
 
 
 # EZH2

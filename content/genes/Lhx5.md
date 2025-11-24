@@ -64,9 +64,10 @@ sources:
   type: publication
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
 species: Gallus gallus
-symbol: Lhx5
-title: Lhx5
+symbol: LHX5
+title: LHX5
 ---
+
 
 
 # Lhx5

@@ -1,4 +1,5 @@
----gene_id: '462551'
+---
+gene_id: '462551'
 images:
 - caption: NFIA expression
   image_url: images/462551/462551_0.png
@@ -108,7 +109,14 @@ sources:
 species: Gallus gallus
 symbol: NFIA
 title: NFIA
+orthologs:
+- species: Human
+  entrez_id: '394263'
+  ensembl_id: ENSG00000204544
+  mod_id: MIM:616991
+  phenotypes: ''
 ---
+
 
 # NFIA
 

@@ -75,7 +75,29 @@ species: Gallus gallus
 symbol: CSTB
 template_length: '656'
 title: CSTB
+orthologs:
+- species: Human
+  entrez_id: '147007'
+  ensembl_id: ENSG00000244045
+  mod_id: MIM:616815
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '195040'
+  ensembl_id: ENSMUSG00000051232
+  mod_id: MGI:2144113
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '100145125'
+  ensembl_id: ENSXETG00000023795
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '100001648'
+  ensembl_id: ENSDARG00000069314
+  mod_id: ZFIN:ZDB-GENE-050522-150
+  phenotypes: ''
 ---
+
 
 # CSTB
 

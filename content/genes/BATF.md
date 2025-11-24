@@ -113,7 +113,24 @@ species: Gallus gallus
 symbol: BATF
 template_length: '484'
 title: BATF
+orthologs:
+- species: Human
+  entrez_id: '10209'
+  ensembl_id: ENSG00000173812
+  mod_id: MIM:619901
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '448694'
+  ensembl_id: ENSXETG00000025051
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '322237'
+  ensembl_id: ENSDARG00000012688
+  mod_id: ZFIN:ZDB-GENE-030131-956
+  phenotypes: ''
 ---
+
 
 # BATF
 

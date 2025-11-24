@@ -94,7 +94,24 @@ species: Gallus gallus
 symbol: CALCR
 template_length: '889'
 title: CALCR
+orthologs:
+- species: Human
+  entrez_id: '11341'
+  ensembl_id: ENSG00000164106
+  mod_id: MIM:603163
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '20284'
+  ensembl_id: ENSMUSG00000031610
+  mod_id: MGI:1328308
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '108645703'
+  ensembl_id: ENSXETG00000036235
+  mod_id: ''
+  phenotypes: ''
 ---
+
 
 # CALCR
 

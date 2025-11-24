@@ -121,7 +121,24 @@ species: Gallus gallus
 symbol: APOB
 template_length: '990'
 title: APOB
+orthologs:
+- species: Human
+  entrez_id: '7047'
+  ensembl_id: ENSG00000281886
+  mod_id: MIM:600585
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '331046'
+  ensembl_id: ENSMUSG00000025787
+  mod_id: MGI:3027002
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '100488625'
+  ensembl_id: ENSXETG00000008494
+  mod_id: ''
+  phenotypes: ''
 ---
+
 
 # APOB
 

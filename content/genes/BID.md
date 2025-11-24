@@ -160,7 +160,29 @@ species: Gallus gallus
 symbol: BID
 template_length: '884'
 title: BID
+orthologs:
+- species: Human
+  entrez_id: '817'
+  ensembl_id: ENSG00000145349
+  mod_id: MIM:607708
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '108058'
+  ensembl_id: ENSMUSG00000053819
+  mod_id: MGI:1341265
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '100135023'
+  ensembl_id: ENSXETG00000015547
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '445208'
+  ensembl_id: ENSDARG00000043010
+  mod_id: ZFIN:ZDB-GENE-040801-121
+  phenotypes: ''
 ---
+
 
 # BID
 

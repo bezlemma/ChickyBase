@@ -22,9 +22,10 @@ sources:
   type: publication
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
 species: Gallus gallus
-symbol: Ganf
-title: Ganf
+symbol: GANF
+title: GANF
 ---
+
 
 # Ganf
 

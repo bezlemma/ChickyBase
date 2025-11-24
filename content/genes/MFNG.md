@@ -72,7 +72,29 @@ species: Gallus gallus
 symbol: MFNG
 template_length: '802'
 title: MFNG
+orthologs:
+- species: Human
+  entrez_id: '10528'
+  ensembl_id: ENSG00000101361
+  mod_id: MIM:614154
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '67134'
+  ensembl_id: ENSMUSG00000027405
+  mod_id: MGI:1914384
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '733535'
+  ensembl_id: ENSXETG00000014962
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '394196'
+  ensembl_id: ENSDARG00000012820
+  mod_id: ZFIN:ZDB-GENE-040109-1
+  phenotypes: ''
 ---
+
 
 # MFNG
 

@@ -36,9 +36,10 @@ sources:
   type: publication
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
 species: Gallus gallus
-symbol: Brn3c
-title: Brn3c
+symbol: BRN3C
+title: BRN3C
 ---
+
 
 # Brn3c
 

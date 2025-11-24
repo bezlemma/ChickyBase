@@ -55,7 +55,19 @@ sources:
 species: Gallus gallus
 symbol: GABRA3
 title: GABRA3
+orthologs:
+- species: Human
+  entrez_id: '54905'
+  ensembl_id: ENSG00000073067
+  mod_id: MIM:615967
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '545817'
+  ensembl_id: ENSMUSG00000029541
+  mod_id: MGI:3616076
+  phenotypes: ''
 ---
+
 
 # GABRA3
 

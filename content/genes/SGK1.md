@@ -1,4 +1,5 @@
----gene_id: '462156'
+---
+gene_id: '462156'
 images:
 - caption: SGK1 expression
   image_url: images/462156/462156_0.jpg
@@ -44,7 +45,29 @@ sources:
 species: Gallus gallus
 symbol: SGK1
 title: SGK1
+orthologs:
+- species: Human
+  entrez_id: '80762'
+  ensembl_id: ENSG00000131507
+  mod_id: MIM:612050
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '65113'
+  ensembl_id: ENSMUSG00000024425
+  mod_id: MGI:1929601
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '613097'
+  ensembl_id: ENSXETG00000019569
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '324047'
+  ensembl_id: ENSDARG00000013979
+  mod_id: ZFIN:ZDB-GENE-030131-2767
+  phenotypes: ''
 ---
+
 
 # SGK1
 

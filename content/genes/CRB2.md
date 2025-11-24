@@ -139,7 +139,29 @@ species: Gallus gallus
 symbol: CRB2
 template_length: '714'
 title: CRB2
+orthologs:
+- species: Human
+  entrez_id: '5026'
+  ensembl_id: ENSG00000083454
+  mod_id: MIM:602836
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '94045'
+  ensembl_id: ENSMUSG00000005950
+  mod_id: MGI:2137026
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '100485445'
+  ensembl_id: ENSXETG00000032944
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '373879'
+  ensembl_id: ENSDARG00000004455
+  mod_id: ZFIN:ZDB-GENE-030319-5
+  phenotypes: ''
 ---
+
 
 # CRB2
 

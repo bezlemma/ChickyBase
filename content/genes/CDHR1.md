@@ -65,7 +65,19 @@ species: Gallus gallus
 symbol: CDHR1
 template_length: '1070'
 title: CDHR1
+orthologs:
+- species: Human
+  entrez_id: '4345'
+  ensembl_id: ENSG00000091972
+  mod_id: MIM:155970
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '17470'
+  ensembl_id: ENSMUSG00000022661
+  mod_id: MGI:1196990
+  phenotypes: ''
 ---
+
 
 # CDHR1
 

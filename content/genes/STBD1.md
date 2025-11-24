@@ -1,4 +1,5 @@
----gene_id: '468371'
+---
+gene_id: '468371'
 images:
 - caption: STBD1 expression
   image_url: images/468371/468371_0.jpg
@@ -28,7 +29,29 @@ sources:
 species: Gallus gallus
 symbol: STBD1
 title: STBD1
+orthologs:
+- species: Human
+  entrez_id: '9487'
+  ensembl_id: ENSG00000108474
+  mod_id: MIM:605947
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '327942'
+  ensembl_id: ENSMUSG00000014245
+  mod_id: MGI:2681271
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '100495759'
+  ensembl_id: ENSXETG00000038618
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '561471'
+  ensembl_id: ENSDARG00000067752
+  mod_id: ZFIN:ZDB-GENE-050506-60
+  phenotypes: ''
 ---
+
 
 # STBD1
 

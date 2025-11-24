@@ -1,4 +1,5 @@
----gene_id: '450420'
+---
+gene_id: '450420'
 images:
 - caption: TBXT expression
   image_url: images/450420/450420_0.jpg
@@ -412,7 +413,19 @@ sources:
 species: Gallus gallus
 symbol: TBXT
 title: TBXT
+orthologs:
+- species: Human
+  entrez_id: '8187'
+  ensembl_id: ENSG00000196793
+  mod_id: MIM:601069
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '22685'
+  ensembl_id: ENSMUSG00000042097
+  mod_id: MGI:1306812
+  phenotypes: ''
 ---
+
 
 # TBXT
 

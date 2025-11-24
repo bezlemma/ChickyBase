@@ -50,9 +50,10 @@ sources:
   type: publication
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
 species: Gallus gallus
-symbol: Eya2
-title: Eya2
+symbol: EYA2
+title: EYA2
 ---
+
 
 
 # Eya2

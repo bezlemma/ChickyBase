@@ -83,7 +83,19 @@ sources:
 species: Gallus gallus
 symbol: SMIM15
 title: SMIM15
+orthologs:
+- species: Human
+  entrez_id: '12'
+  ensembl_id: ENSG00000196136
+  mod_id: MIM:107280
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '20717'
+  ensembl_id: ENSMUSG00000079012
+  mod_id: MGI:98378
+  phenotypes: ''
 ---
+
 
 # SMIM15
 

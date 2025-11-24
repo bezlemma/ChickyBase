@@ -1,4 +1,5 @@
----gene_id: '461900'
+---
+gene_id: '461900'
 images:
 - caption: IGFBP2 expression
   image_url: images/461900/461900_0.jpg
@@ -70,7 +71,24 @@ sources:
 species: Gallus gallus
 symbol: IGFBP2
 title: IGFBP2
+orthologs:
+- species: Human
+  entrez_id: '285636'
+  ensembl_id: ENSG00000205765
+  mod_id: MIM:620266
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '106064'
+  ensembl_id: ENSMUSG00000041935
+  mod_id: MGI:2146232
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '325885'
+  ensembl_id: ENSDARG00000054777
+  mod_id: ZFIN:ZDB-GENE-030131-4610
+  phenotypes: ''
 ---
+
 
 # IGFBP2
 

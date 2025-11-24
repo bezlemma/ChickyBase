@@ -196,7 +196,24 @@ species: Gallus gallus
 symbol: CST3
 template_length: '541'
 title: CST3
+orthologs:
+- species: Human
+  entrez_id: '23231'
+  ensembl_id: ENSG00000091490
+  mod_id: MIM:619914
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '231238'
+  ensembl_id: ENSMUSG00000029189
+  mod_id: MGI:1916941
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '100492622'
+  ensembl_id: ENSXETG00000000947
+  mod_id: ''
+  phenotypes: ''
 ---
+
 
 # CST3
 

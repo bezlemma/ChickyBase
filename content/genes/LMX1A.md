@@ -316,7 +316,29 @@ sources:
 species: Gallus gallus
 symbol: LMX1A
 title: LMX1A
+orthologs:
+- species: Human
+  entrez_id: '79691'
+  ensembl_id: ENSG00000151576
+  mod_id: ''
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '106248'
+  ensembl_id: ENSMUSG00000022704
+  mod_id: MGI:1922194
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '549645'
+  ensembl_id: ENSXETG00000002805
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '402798'
+  ensembl_id: ENSDARG00000016093
+  mod_id: ZFIN:ZDB-GENE-060427-4
+  phenotypes: ''
 ---
+
 
 # LMX1A
 

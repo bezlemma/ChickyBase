@@ -124,7 +124,29 @@ species: Gallus gallus
 symbol: FOXP3
 template_length: '909'
 title: FOXP3
+orthologs:
+- species: Human
+  entrez_id: '57325'
+  ensembl_id: ENSG00000149474
+  mod_id: MIM:617501
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '228714'
+  ensembl_id: ENSMUSG00000027425
+  mod_id: MGI:1917264
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '780135'
+  ensembl_id: ENSXETG00000013798
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '562636'
+  ensembl_id: ENSDARG00000041708
+  mod_id: ZFIN:ZDB-GENE-040718-452
+  phenotypes: ''
 ---
+
 
 # FOXP3
 

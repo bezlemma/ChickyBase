@@ -64,9 +64,10 @@ sources:
   type: publication
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
 species: Gallus gallus
-symbol: Dmbx1
-title: Dmbx1
+symbol: DMBX1
+title: DMBX1
 ---
+
 
 
 # Dmbx1

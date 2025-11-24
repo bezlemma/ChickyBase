@@ -134,7 +134,29 @@ species: Gallus gallus
 symbol: RELT
 template_length: '813'
 title: RELT
+orthologs:
+- species: Human
+  entrez_id: '390928'
+  ensembl_id: ENSG00000183760
+  mod_id: MIM:610490
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '101744'
+  ensembl_id: ENSMUSG00000037469
+  mod_id: MGI:2142121
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '100486004'
+  ensembl_id: ENSXETG00000029991
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '571830'
+  ensembl_id: ENSDARG00000102421
+  mod_id: ZFIN:ZDB-GENE-070615-9
+  phenotypes: ''
 ---
+
 
 # RELT
 

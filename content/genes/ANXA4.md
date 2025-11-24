@@ -150,7 +150,29 @@ species: Gallus gallus
 symbol: ANXA4
 template_length: '589'
 title: ANXA4
+orthologs:
+- species: Human
+  entrez_id: '7291'
+  ensembl_id: ENSG00000122691
+  mod_id: MIM:601622
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '22160'
+  ensembl_id: ENSMUSG00000035799
+  mod_id: MGI:98872
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '395054'
+  ensembl_id: ENSXETG00000025630
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '550518'
+  ensembl_id: ENSDARG00000076010
+  mod_id: ZFIN:ZDB-GENE-050417-357
+  phenotypes: ''
 ---
+
 
 # ANXA4
 

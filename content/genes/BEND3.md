@@ -89,7 +89,29 @@ species: Gallus gallus
 symbol: BEND3
 template_length: '744'
 title: BEND3
+orthologs:
+- species: Human
+  entrez_id: '9267'
+  ensembl_id: ENSG00000108669
+  mod_id: MIM:182115
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '19157'
+  ensembl_id: ENSMUSG00000017132
+  mod_id: MGI:1334257
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '448569'
+  ensembl_id: ENSXETG00000024577
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '321938'
+  ensembl_id: ENSDARG00000076742
+  mod_id: ZFIN:ZDB-GENE-030131-657
+  phenotypes: ''
 ---
+
 
 # BEND3
 

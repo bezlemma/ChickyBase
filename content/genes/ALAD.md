@@ -184,7 +184,24 @@ species: Gallus gallus
 symbol: ALAD
 template_length: '583'
 title: ALAD
+orthologs:
+- species: Human
+  entrez_id: '9726'
+  ensembl_id: ENSG00000167395
+  mod_id: MIM:619299
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '233905'
+  ensembl_id: ENSMUSG00000049739
+  mod_id: MGI:3665412
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '101732255'
+  ensembl_id: ENSXETG00000036016
+  mod_id: ''
+  phenotypes: ''
 ---
+
 
 # ALAD
 

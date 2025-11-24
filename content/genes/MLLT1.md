@@ -135,7 +135,29 @@ species: Gallus gallus
 symbol: MLLT1
 template_length: '998'
 title: MLLT1
+orthologs:
+- species: Human
+  entrez_id: '6874'
+  ensembl_id: ENSG00000280529
+  mod_id: MIM:601796
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '228980'
+  ensembl_id: ENSMUSG00000039117
+  mod_id: MGI:2152346
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '779738'
+  ensembl_id: ENSXETG00000001996
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '100149942'
+  ensembl_id: ENSDARG00000068192
+  mod_id: ZFIN:ZDB-GENE-131127-579
+  phenotypes: ''
 ---
+
 
 # MLLT1
 

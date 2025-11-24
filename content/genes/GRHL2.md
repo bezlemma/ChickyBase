@@ -50,9 +50,10 @@ sources:
   type: publication
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
 species: Gallus gallus
-symbol: Grhl2
-title: Grhl2
+symbol: GRHL2
+title: GRHL2
 ---
+
 
 
 # Grhl2

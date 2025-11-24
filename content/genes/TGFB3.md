@@ -222,7 +222,14 @@ species: Gallus gallus
 symbol: TGFB3
 template_length: '743'
 title: TGFB3
+orthologs:
+- species: Human
+  entrez_id: '521'
+  ensembl_id: ENSG00000169020
+  mod_id: MIM:601519
+  phenotypes: ''
 ---
+
 
 # TGFB3
 

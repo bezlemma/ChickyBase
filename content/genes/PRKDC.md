@@ -41,7 +41,29 @@ sources:
 species: Gallus gallus
 symbol: PRKDC
 title: PRKDC
+orthologs:
+- species: Human
+  entrez_id: '80764'
+  ensembl_id: ENSG00000184436
+  mod_id: MIM:609518
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '69009'
+  ensembl_id: ENSMUSG00000022760
+  mod_id: MGI:1916259
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '733766'
+  ensembl_id: ENSXETG00000019248
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '100006965'
+  ensembl_id: ENSDARG00000070704
+  mod_id: ZFIN:ZDB-GENE-040914-84
+  phenotypes: ''
 ---
+
 
 # PRKDC
 

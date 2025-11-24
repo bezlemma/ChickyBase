@@ -1,4 +1,5 @@
----gene_id: '461015'
+---
+gene_id: '461015'
 images:
 - caption: SRC expression
   image_url: images/461015/461015_0.png
@@ -27,7 +28,29 @@ sources:
 species: Gallus gallus
 symbol: SRC
 title: SRC
+orthologs:
+- species: Human
+  entrez_id: '2876'
+  ensembl_id: ENSG00000233276
+  mod_id: MIM:138320
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '14775'
+  ensembl_id: ENSMUSG00000063856
+  mod_id: MGI:104887
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '548457'
+  ensembl_id: ENSXETG00000005933
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '447895'
+  ensembl_id: ENSDARG00000006207
+  mod_id: ZFIN:ZDB-GENE-040912-60
+  phenotypes: ''
 ---
+
 
 # SRC
 

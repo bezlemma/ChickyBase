@@ -22,9 +22,10 @@ sources:
   type: publication
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
 species: Gallus gallus
-symbol: Dlx6
-title: Dlx6
+symbol: DLX6
+title: DLX6
 ---
+
 
 # Dlx6
 

@@ -1,4 +1,5 @@
----gene_id: '455423'
+---
+gene_id: '455423'
 images:
 - caption: ZBTB46 expression
   image_url: images/455423/455423_0.jpg
@@ -48,7 +49,24 @@ sources:
 species: Gallus gallus
 symbol: ZBTB46
 title: ZBTB46
+orthologs:
+- species: Human
+  entrez_id: '51320'
+  ensembl_id: ENSG00000176624
+  mod_id: MIM:611005
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '240396'
+  ensembl_id: ENSMUSG00000037253
+  mod_id: MGI:2652843
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '549821'
+  ensembl_id: ENSXETG00000022367
+  mod_id: ''
+  phenotypes: ''
 ---
+
 
 # ZBTB46
 

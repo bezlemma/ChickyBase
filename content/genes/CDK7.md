@@ -1,4 +1,5 @@
----forward_primer: 5'-GTTCTTCTCGCCTTTTCCGC-3'
+---
+forward_primer: 5'-GTTCTTCTCGCCTTTTCCGC-3'
 gene_id: '448801'
 images:
 - caption: CDK7 expression
@@ -160,7 +161,14 @@ species: Gallus gallus
 symbol: CDK7
 template_length: '962'
 title: CDK7
+orthologs:
+- species: Mouse
+  entrez_id: '328780'
+  ensembl_id: ENSMUSG00000056399
+  mod_id: MGI:2681414
+  phenotypes: ''
 ---
+
 
 # CDK7
 

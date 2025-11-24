@@ -1,4 +1,5 @@
----forward_primer: ATGCCAGGGATACAAGTGCC
+---
+forward_primer: ATGCCAGGGATACAAGTGCC
 gene_id: '451548'
 images:
 - caption: ADGRL2 expression
@@ -374,7 +375,29 @@ species: Gallus gallus
 symbol: ADGRL2
 template_length: '895'
 title: ADGRL2
+orthologs:
+- species: Human
+  entrez_id: '83875'
+  ensembl_id: ENSG00000197580
+  mod_id: MIM:611740
+  phenotypes: ''
+- species: Mouse
+  entrez_id: '170752'
+  ensembl_id: ENSMUSG00000032066
+  mod_id: MGI:2177469
+  phenotypes: ''
+- species: Xenopus
+  entrez_id: '100487224'
+  ensembl_id: ENSXETG00000026012
+  mod_id: ''
+  phenotypes: ''
+- species: Zebrafish
+  entrez_id: '793849'
+  ensembl_id: ENSDARG00000055722
+  mod_id: ZFIN:ZDB-GENE-030131-8039
+  phenotypes: ''
 ---
+
 
 # ADGRL2
 
