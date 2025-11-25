@@ -6,7 +6,6 @@ aliases:
 - ras homolog gene family, member C
 cgnc_id: '49521'
 external_ids:
-  '31': stage 31
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0014020
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0043297
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0032154
@@ -26,7 +25,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395869
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005525
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001029849
-gene_id: '450788'
+gene_id: '395869'
 gene_type: protein-coding
 images:
 - caption: RHOC expression
@@ -93,13 +92,8 @@ images:
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RhoC.Montero.2007.Figure1D.jpg
 name: ras homolog family member C
-ncbi_id: '450788'
+ncbi_id: '395869'
 orthologs:
-- ensembl: ''
-  entrez: '36775'
-  mod: FBgn0014020
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000155366
   entrez: '389'
   mod: MIM:165380
@@ -110,20 +104,21 @@ orthologs:
   mod: MGI:106028
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 549323,379326
-  mod: '941425'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000006898
+  entrez: '549323'
   mod: ''
   phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000018328
+  entrez: '436718'
+  mod: ZFIN:ZDB-GENE-040718-144
+  phenotypes: actin filament organization, cell migration, mitotic cytokinesis, regulation
+    of actin cytoskeleton organization, signal transduction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450788
+  url: https://www.ncbi.nlm.nih.gov/gene/395869
 species: Gallus gallus
 symbol: RHOC
 title: RHOC
@@ -160,9 +155,8 @@ Copyright © 2007 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36775](https://www.ncbi.nlm.nih.gov/gene/36775) | FBgn0014020 |  |
 | Human | [ENSG00000155366](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000155366) | [389](https://www.ncbi.nlm.nih.gov/gene/389) | [MIM:165380](https://omim.org/entry/165380) |  |
 | Mouse | [ENSMUSG00000002233](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002233) | [11853](https://www.ncbi.nlm.nih.gov/gene/11853) | [MGI:106028](http://www.informatics.jax.org/marker/MGI:106028) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [549323](https://www.ncbi.nlm.nih.gov/gene/549323), [379326](https://www.ncbi.nlm.nih.gov/gene/379326) | [941425](http://www.xenbase.org/gene/showgene.do?method=display&geneId=941425) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000006898](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006898) | [549323](https://www.ncbi.nlm.nih.gov/gene/549323) |  |  |
+| Zebrafish | [ENSDARG00000018328](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018328) | [436718](https://www.ncbi.nlm.nih.gov/gene/436718) | [ZFIN:ZDB-GENE-040718-144](https://zfin.org/ZDB-GENE-040718-144) | actin filament organization, cell migration, mitotic cytokinesis, regulation of actin cytoskeleton organization, signal transduction |
 

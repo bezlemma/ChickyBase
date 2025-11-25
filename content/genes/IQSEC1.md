@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415976
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414319
-gene_id: '458744'
+gene_id: '415976'
 gene_type: protein-coding
 images:
 - caption: IQSEC1 expression
@@ -56,37 +56,33 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IQSEC1.Anderson.2019.Supplementary
     figure 5F.jpg
 name: IQ motif and Sec7 domain 1
-ncbi_id: '458744'
+ncbi_id: '415976'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000144711
+  entrez: '9922'
+  mod: MIM:610166
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000034312
+  entrez: '232227'
+  mod: MGI:1196356
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000045628
+  entrez: '100135093'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000016551
+  entrez: '100148736'
+  mod: ZFIN:ZDB-GENE-120813-1
+  phenotypes: actin cytoskeleton organization, angiogenesis, lymphangiogenesis, regulation
+    of ARF protein signal transduction, vasculature development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458744
+  url: https://www.ncbi.nlm.nih.gov/gene/415976
 species: Gallus gallus
 symbol: IQSEC1
 title: IQSEC1
@@ -112,9 +108,8 @@ title: IQSEC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000144711](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000144711) | [9922](https://www.ncbi.nlm.nih.gov/gene/9922) | [MIM:610166](https://omim.org/entry/610166) |  |
+| Mouse | [ENSMUSG00000034312](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034312) | [232227](https://www.ncbi.nlm.nih.gov/gene/232227) | [MGI:1196356](http://www.informatics.jax.org/marker/MGI:1196356) |  |
+| Xenopus | [ENSXETG00000045628](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000045628) | [100135093](https://www.ncbi.nlm.nih.gov/gene/100135093) |  |  |
+| Zebrafish | [ENSDARG00000016551](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016551) | [100148736](https://www.ncbi.nlm.nih.gov/gene/100148736) | [ZFIN:ZDB-GENE-120813-1](https://zfin.org/ZDB-GENE-120813-1) | actin cytoskeleton organization, angiogenesis, lymphangiogenesis, regulation of ARF protein signal transduction, vasculature development |
 

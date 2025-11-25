@@ -9,7 +9,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422633
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/CLSTN2
 forward_primer: AACCCTTCCCAGTCAGTCCTTG
-gene_id: '463058'
+gene_id: '424819'
 gene_type: protein-coding
 images:
 - caption: CLSTN2 expression
@@ -166,13 +166,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R462.CLSTN2.S27V.001.jpg
 name: calsyntenin 2
-ncbi_id: '463058'
+ncbi_id: '424819'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000158258
   entrez: '64084'
   mod: MIM:611323
@@ -183,24 +178,26 @@ orthologs:
   mod: MGI:1929897
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000020738
   entrez: '100493355'
-  mod: '958941'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000060637
   entrez: '100125749'
   mod: ZFIN:ZDB-GENE-070911-2
-  phenotypes: ZDB-GENE-070911-2
+  phenotypes: cell adhesion, homophilic cell adhesion via plasma membrane adhesion
+    molecules, positive regulation of synapse assembly, positive regulation of synaptic
+    transmission
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCTCTTCATCATCTTCCTCTTCGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463058
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424819
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463058
+  url: https://www.ncbi.nlm.nih.gov/gene/424819
 species: Gallus gallus
 symbol: CLSTN2
 template_length: '1039'
@@ -223,9 +220,8 @@ title: CLSTN2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000158258](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000158258) | [64084](https://www.ncbi.nlm.nih.gov/gene/64084) | [MIM:611323](https://omim.org/entry/611323) |  |
 | Mouse | [ENSMUSG00000032452](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032452) | [64085](https://www.ncbi.nlm.nih.gov/gene/64085) | [MGI:1929897](http://www.informatics.jax.org/marker/MGI:1929897) |  |
-| Xenopus |  | [100493355](https://www.ncbi.nlm.nih.gov/gene/100493355) | [958941](http://www.xenbase.org/gene/showgene.do?method=display&geneId=958941) |  |
-| Zebrafish |  | [100125749](https://www.ncbi.nlm.nih.gov/gene/100125749) | [ZFIN:ZDB-GENE-070911-2](https://zfin.org/ZDB-GENE-070911-2) | ZDB-GENE-070911-2 |
+| Xenopus | [ENSXETG00000020738](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020738) | [100493355](https://www.ncbi.nlm.nih.gov/gene/100493355) |  |  |
+| Zebrafish | [ENSDARG00000060637](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060637) | [100125749](https://www.ncbi.nlm.nih.gov/gene/100125749) | [ZFIN:ZDB-GENE-070911-2](https://zfin.org/ZDB-GENE-070911-2) | cell adhesion, homophilic cell adhesion via plasma membrane adhesion molecules, positive regulation of synapse assembly, positive regulation of synaptic transmission |
 

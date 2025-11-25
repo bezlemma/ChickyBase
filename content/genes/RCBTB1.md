@@ -7,7 +7,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418868
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417063
-gene_id: '454236'
+gene_id: '418868'
 gene_type: protein-coding
 images:
 - caption: RCBTB1 expression
@@ -32,13 +32,8 @@ images:
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54ye12.121.17.jpg
 name: RCC1 and BTB domain containing protein 1
-ncbi_id: '454236'
+ncbi_id: '418868'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136144
   entrez: '55213'
   mod: MIM:607867
@@ -49,23 +44,24 @@ orthologs:
   mod: MGI:1918580
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 550106,414496
-  mod: '987315'
+- ensembl: ENSXETG00000015675
+  entrez: '550106'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000036645
   entrez: '336007'
   mod: ZFIN:ZDB-GENE-030131-7951
-  phenotypes: ZDB-GENE-030131-7951
+  phenotypes: blood vessel development, retina vasculature development in camera-type
+    eye
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454236
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418868
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454236
+  url: https://www.ncbi.nlm.nih.gov/gene/418868
 species: Gallus gallus
 symbol: RCBTB1
 title: RCBTB1
@@ -86,9 +82,8 @@ title: RCBTB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000136144](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136144) | [55213](https://www.ncbi.nlm.nih.gov/gene/55213) | [MIM:607867](https://omim.org/entry/607867) | MIM:103780 |
 | Mouse | [ENSMUSG00000035469](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035469) | [71330](https://www.ncbi.nlm.nih.gov/gene/71330) | [MGI:1918580](http://www.informatics.jax.org/marker/MGI:1918580) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [550106](https://www.ncbi.nlm.nih.gov/gene/550106), [414496](https://www.ncbi.nlm.nih.gov/gene/414496) | [987315](http://www.xenbase.org/gene/showgene.do?method=display&geneId=987315) |  |
-| Zebrafish | [ENSDARG00000036645](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036645) | [336007](https://www.ncbi.nlm.nih.gov/gene/336007) | [ZFIN:ZDB-GENE-030131-7951](https://zfin.org/ZDB-GENE-030131-7951) | ZDB-GENE-030131-7951 |
+| Xenopus | [ENSXETG00000015675](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015675) | [550106](https://www.ncbi.nlm.nih.gov/gene/550106) |  |  |
+| Zebrafish | [ENSDARG00000036645](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036645) | [336007](https://www.ncbi.nlm.nih.gov/gene/336007) | [ZFIN:ZDB-GENE-030131-7951](https://zfin.org/ZDB-GENE-030131-7951) | blood vessel development, retina vasculature development in camera-type eye |
 

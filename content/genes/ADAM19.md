@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416244
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001195122
 forward_primer: GGAGGAAATGTGGAAATGGCTAC
-gene_id: '457023'
+gene_id: '416244'
 gene_type: protein-coding
 images:
 - caption: ADAM19 expression
@@ -160,13 +160,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADAM19.FIG3DEF.LEWIS.2004.jpg
 name: ADAM metallopeptidase domain 19
-ncbi_id: '457023'
+ncbi_id: '416244'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000135074
   entrez: '8728'
   mod: MIM:603640
@@ -178,24 +173,24 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 677730,100174810
-  mod: '993484'
+- ensembl: ENSXETG00000034170
+  entrez: '677730'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000067545,ENSDARG00000059693
-  entrez: 571252,565342
-  mod: ZFIN:ZDB-GENE-070705-541,ZFIN:ZDB-GENE-070813-1
-  phenotypes: ZDB-GENE-070705-541,ZDB-GENE-070813-1
+- ensembl: ENSDARG00000067545
+  entrez: '571252'
+  mod: ZFIN:ZDB-GENE-070705-541
+  phenotypes: membrane protein ectodomain proteolysis, proteolysis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGATGGATGTGTTCTGACAGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457023
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416244
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457023
+  url: https://www.ncbi.nlm.nih.gov/gene/416244
 species: Gallus gallus
 symbol: ADAM19
 template_length: '699'
@@ -222,9 +217,8 @@ title: ADAM19
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000135074](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135074) | [8728](https://www.ncbi.nlm.nih.gov/gene/8728) | [MIM:603640](https://omim.org/entry/603640) |  |
 | Mouse | [ENSMUSG00000011256](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000011256) | [11492](https://www.ncbi.nlm.nih.gov/gene/11492) | [MGI:105377](http://www.informatics.jax.org/marker/MGI:105377) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [677730](https://www.ncbi.nlm.nih.gov/gene/677730), [100174810](https://www.ncbi.nlm.nih.gov/gene/100174810) | [993484](http://www.xenbase.org/gene/showgene.do?method=display&geneId=993484) |  |
-| Zebrafish | [ENSDARG00000067545](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000067545), [ENSDARG00000059693](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059693) | [571252](https://www.ncbi.nlm.nih.gov/gene/571252), [565342](https://www.ncbi.nlm.nih.gov/gene/565342) | [ZFIN:ZDB-GENE-070705-541](https://zfin.org/ZDB-GENE-070705-541), [ZFIN:ZDB-GENE-070813-1](https://zfin.org/ZDB-GENE-070813-1) | ZDB-GENE-070705-541,ZDB-GENE-070813-1 |
+| Xenopus | [ENSXETG00000034170](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034170) | [677730](https://www.ncbi.nlm.nih.gov/gene/677730) |  |  |
+| Zebrafish | [ENSDARG00000067545](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000067545) | [571252](https://www.ncbi.nlm.nih.gov/gene/571252) | [ZFIN:ZDB-GENE-070705-541](https://zfin.org/ZDB-GENE-070705-541) | membrane protein ectodomain proteolysis, proteolysis |
 

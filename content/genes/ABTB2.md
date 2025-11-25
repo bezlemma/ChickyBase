@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:425717
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423445
 forward_primer: 5'-ACGGACAACCTTCTACCAGTCTCG-3'
-gene_id: '451311'
+gene_id: '425717'
 gene_type: protein-coding
 images:
 - caption: ABTB2 expression
@@ -65,16 +65,11 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R552.ABTB2.S27.001.jpg
 name: ankyrin repeat and BTB domain containing 2
-ncbi_id: '451311'
+ncbi_id: '425717'
 orthologs:
-- ensembl: ''
-  entrez: '2768995'
-  mod: FBgn0264711
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000166016
   entrez: '25841'
-  mod: ''
+  mod: MIM:621014
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000032724
@@ -82,24 +77,19 @@ orthologs:
   mod: MGI:2139365
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 496423,495101
-  mod: '984510'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000062000
+- ensembl: ENSDARG00000111540
   entrez: '100007078'
-  mod: ZFIN:ZDB-GENE-100422-13,ZFIN:ZDB-GENE-100422-14
-  phenotypes: ZDB-GENE-100422-13,ZDB-GENE-100422-14
+  mod: ZFIN:ZDB-GENE-100422-14
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGTTGAACCAGTGCTTCTGCCAC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451311
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=425717
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451311
+  url: https://www.ncbi.nlm.nih.gov/gene/425717
 species: Gallus gallus
 symbol: ABTB2
 template_length: '859'
@@ -124,9 +114,7 @@ title: ABTB2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [2768995](https://www.ncbi.nlm.nih.gov/gene/2768995) | FBgn0264711 |  |
-| Human | [ENSG00000166016](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166016) | [25841](https://www.ncbi.nlm.nih.gov/gene/25841) |  |  |
+| Human | [ENSG00000166016](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166016) | [25841](https://www.ncbi.nlm.nih.gov/gene/25841) | [MIM:621014](https://omim.org/entry/621014) |  |
 | Mouse | [ENSMUSG00000032724](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032724) | [99382](https://www.ncbi.nlm.nih.gov/gene/99382) | [MGI:2139365](http://www.informatics.jax.org/marker/MGI:2139365) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [496423](https://www.ncbi.nlm.nih.gov/gene/496423), [495101](https://www.ncbi.nlm.nih.gov/gene/495101) | [984510](http://www.xenbase.org/gene/showgene.do?method=display&geneId=984510) |  |
-| Zebrafish | [ENSDARG00000062000](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062000) | [100007078](https://www.ncbi.nlm.nih.gov/gene/100007078) | [ZFIN:ZDB-GENE-100422-13](https://zfin.org/ZDB-GENE-100422-13), [ZFIN:ZDB-GENE-100422-14](https://zfin.org/ZDB-GENE-100422-14) | ZDB-GENE-100422-13,ZDB-GENE-100422-14 |
+| Zebrafish | [ENSDARG00000111540](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000111540) | [100007078](https://www.ncbi.nlm.nih.gov/gene/100007078) | [ZFIN:ZDB-GENE-100422-14](https://zfin.org/ZDB-GENE-100422-14) |  |
 

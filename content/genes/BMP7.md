@@ -3,9 +3,6 @@ aliases:
 - bone morphogenetic protein 7
 cgnc_id: '49345'
 external_ids:
-  '13': stage 13
-  '25': stage 25stage 25stage 25
-  '4': stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Smith+2018+retinoic+Erskine
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (XM_417496).
@@ -17,7 +14,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417496
   X-XIV: stage XIII
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAAACCCCACAACAAACCAACAC
-gene_id: '449323'
+gene_id: '395494'
 gene_type: protein-coding
 images:
 - caption: BMP7 expression
@@ -1065,13 +1062,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP7.Smith.2018.Fig1.jpg
 name: bone morphogenetic protein 7
-ncbi_id: '449323'
+ncbi_id: '395494'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000101144
   entrez: '655'
   mod: MIM:112267
@@ -1083,24 +1075,25 @@ orthologs:
   phenotypes: All phenotypic alleles (12):Targeted, knock-out(3) Targeted, other(8)
     Transgenic(1)
   species: Mouse
-- ensembl: ''
-  entrez: 619363,379625
-  mod: '855953'
+- ensembl: ENSXETG00000011272
+  entrez: '394805'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000063230,ENSDARG00000018260
-  entrez: 557567,30584
-  mod: ZFIN:ZDB-GENE-060929-328,ZFIN:ZDB-GENE-000208-25
-  phenotypes: ZDB-GENE-060929-328,ZDB-GENE-000208-25
+- ensembl: ENSDARG00000063230
+  entrez: '557567'
+  mod: ZFIN:ZDB-GENE-060929-328
+  phenotypes: BMP signaling pathway, bone morphogenesis, cell-cell adhesion, heart
+    development, iris morphogenesis
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCCAAAGATGCTTCTGACCTGTAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449323
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395494
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449323
+  url: https://www.ncbi.nlm.nih.gov/gene/395494
 species: Gallus gallus
 symbol: BMP7
 template_length: '992'
@@ -1127,9 +1120,8 @@ title: BMP7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000101144](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101144) | [655](https://www.ncbi.nlm.nih.gov/gene/655) | [MIM:112267](https://omim.org/entry/112267) |  |
 | Mouse | [ENSMUSG00000008999](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000008999) | [12162](https://www.ncbi.nlm.nih.gov/gene/12162) | [MGI:103302](http://www.informatics.jax.org/marker/MGI:103302) | All phenotypic alleles (12):Targeted, knock-out(3) Targeted, other(8) Transgenic(1) |
-| Xenopus |  | [619363](https://www.ncbi.nlm.nih.gov/gene/619363), [379625](https://www.ncbi.nlm.nih.gov/gene/379625) | [855953](http://www.xenbase.org/gene/showgene.do?method=display&geneId=855953) |  |
-| Zebrafish | [ENSDARG00000063230](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063230), [ENSDARG00000018260](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018260) | [557567](https://www.ncbi.nlm.nih.gov/gene/557567), [30584](https://www.ncbi.nlm.nih.gov/gene/30584) | [ZFIN:ZDB-GENE-060929-328](https://zfin.org/ZDB-GENE-060929-328), [ZFIN:ZDB-GENE-000208-25](https://zfin.org/ZDB-GENE-000208-25) | ZDB-GENE-060929-328,ZDB-GENE-000208-25 |
+| Xenopus | [ENSXETG00000011272](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011272) | [394805](https://www.ncbi.nlm.nih.gov/gene/394805) |  |  |
+| Zebrafish | [ENSDARG00000063230](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063230) | [557567](https://www.ncbi.nlm.nih.gov/gene/557567) | [ZFIN:ZDB-GENE-060929-328](https://zfin.org/ZDB-GENE-060929-328) | BMP signaling pathway, bone morphogenesis, cell-cell adhesion, heart development, iris morphogenesis |
 

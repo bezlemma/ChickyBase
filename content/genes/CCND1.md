@@ -4,8 +4,6 @@ aliases:
 - 'cyclin D1 (PRAD1: parathyroid adenomatosis 1)'
 cgnc_id: '5701'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25
-  '7': stage 7
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0000082
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0000307
   Citation: https://pubmed.ncbi.nlm.nih.gov/25063452/
@@ -20,7 +18,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205381
   X-XIV: stage XII
 forward_primer: AAGTTTTCCCCTTGGCGATG
-gene_id: '461774'
+gene_id: '396341'
 gene_type: protein-coding
 images:
 - caption: CCND1 expression
@@ -284,13 +282,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CCND1.Travers.2023.jpg
 name: cyclin D1
-ncbi_id: '461774'
+ncbi_id: '396341'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000110092
   entrez: '595'
   mod: MIM:168461
@@ -301,24 +294,25 @@ orthologs:
   mod: MGI:88313
   phenotypes: All phenotypic alleles (9):Targeted, knock-out(3) Targeted, other(6)
   species: Mouse
-- ensembl: ''
-  entrez: 448045,379937,379161
-  mod: '6077305'
+- ensembl: ENSXETG00000045695
+  entrez: '448045'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000035750
-  entrez: 100334747,30222
+- ensembl: ENSDARG00000101637
+  entrez: '30222'
   mod: ZFIN:ZDB-GENE-980526-176
-  phenotypes: ZDB-GENE-980526-176
+  phenotypes: DNA damage response, G1/S transition of mitotic cell cycle, camera-type
+    eye morphogenesis, cell division, mitotic G1 DNA damage checkpoint signaling
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCTGCTTCGTCCTCTACAGTCTTTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461774
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396341
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461774
+  url: https://www.ncbi.nlm.nih.gov/gene/396341
 species: Gallus gallus
 symbol: CCND1
 template_length: '610'
@@ -348,9 +342,8 @@ title: CCND1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000110092](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000110092) | [595](https://www.ncbi.nlm.nih.gov/gene/595) | [MIM:168461](https://omim.org/entry/168461) | MIM:168461 |
 | Mouse | [ENSMUSG00000070348](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000070348) | [12443](https://www.ncbi.nlm.nih.gov/gene/12443) | [MGI:88313](http://www.informatics.jax.org/marker/MGI:88313) | All phenotypic alleles (9):Targeted, knock-out(3) Targeted, other(6) |
-| Xenopus |  | [448045](https://www.ncbi.nlm.nih.gov/gene/448045), [379937](https://www.ncbi.nlm.nih.gov/gene/379937), [379161](https://www.ncbi.nlm.nih.gov/gene/379161) | [6077305](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6077305) |  |
-| Zebrafish | [ENSDARG00000035750](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035750) | [100334747](https://www.ncbi.nlm.nih.gov/gene/100334747), [30222](https://www.ncbi.nlm.nih.gov/gene/30222) | [ZFIN:ZDB-GENE-980526-176](https://zfin.org/ZDB-GENE-980526-176) | ZDB-GENE-980526-176 |
+| Xenopus | [ENSXETG00000045695](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000045695) | [448045](https://www.ncbi.nlm.nih.gov/gene/448045) |  |  |
+| Zebrafish | [ENSDARG00000101637](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101637) | [30222](https://www.ncbi.nlm.nih.gov/gene/30222) | [ZFIN:ZDB-GENE-980526-176](https://zfin.org/ZDB-GENE-980526-176) | DNA damage response, G1/S transition of mitotic cell cycle, camera-type eye morphogenesis, cell division, mitotic G1 DNA damage checkpoint signaling |
 

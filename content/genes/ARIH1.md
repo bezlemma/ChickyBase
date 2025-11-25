@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415319
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030387
-gene_id: '456422'
+gene_id: '415319'
 gene_type: protein-coding
 images:
 - caption: ARIH1 expression
@@ -59,37 +59,32 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BU396906.Nelson.2004.fig3.jpg
 name: ariadne RBR E3 ubiquitin protein ligase 1
-ncbi_id: '456422'
+ncbi_id: '415319'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000166233
+  entrez: '25820'
+  mod: MIM:605624
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000025234
+  entrez: '23806'
+  mod: MGI:1344363
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000032729
+  entrez: '100144731'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000112965
+  entrez: '405859'
+  mod: ZFIN:ZDB-GENE-040426-2395
+  phenotypes: protein ubiquitination, ubiquitin-dependent protein catabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456422
+  url: https://www.ncbi.nlm.nih.gov/gene/415319
 species: Gallus gallus
 symbol: ARIH1
 title: ARIH1
@@ -115,9 +110,8 @@ title: ARIH1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000166233](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166233) | [25820](https://www.ncbi.nlm.nih.gov/gene/25820) | [MIM:605624](https://omim.org/entry/605624) |  |
+| Mouse | [ENSMUSG00000025234](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025234) | [23806](https://www.ncbi.nlm.nih.gov/gene/23806) | [MGI:1344363](http://www.informatics.jax.org/marker/MGI:1344363) |  |
+| Xenopus | [ENSXETG00000032729](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000032729) | [100144731](https://www.ncbi.nlm.nih.gov/gene/100144731) |  |  |
+| Zebrafish | [ENSDARG00000112965](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000112965) | [405859](https://www.ncbi.nlm.nih.gov/gene/405859) | [ZFIN:ZDB-GENE-040426-2395](https://zfin.org/ZDB-GENE-040426-2395) | protein ubiquitination, ubiquitin-dependent protein catabolic process |
 

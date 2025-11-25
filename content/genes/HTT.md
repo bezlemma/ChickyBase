@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422878
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420822
 forward_primer: 5’-GCATGGTTGACACACTGGC-3’
-gene_id: '452922'
+gene_id: '422878'
 gene_type: protein-coding
 images:
 - caption: HTT expression
@@ -57,13 +57,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R711.HTT.S26.001.jpg
 name: huntingtin
-ncbi_id: '452922'
+ncbi_id: '422878'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000197386
   entrez: '3064'
   mod: MIM:613004
@@ -74,24 +69,25 @@ orthologs:
   mod: MGI:96067
   phenotypes: All phenotypic alleles (29):Targeted, knock-out(6) Targeted, other(23)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000014723
   entrez: '493287'
-  mod: '1013461'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000052866
   entrez: '30214'
   mod: ZFIN:ZDB-GENE-990415-131
-  phenotypes: ZDB-GENE-990415-131
+  phenotypes: anterior neural plate formation, cartilage development, central nervous
+    system development, central nervous system neuron development, developmental growth
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAATTCCAGAGGCTCGGCTG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452922
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422878
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452922
+  url: https://www.ncbi.nlm.nih.gov/gene/422878
 species: Gallus gallus
 symbol: HTT
 template_length: '864'
@@ -114,9 +110,8 @@ title: HTT
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000197386](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197386) | [3064](https://www.ncbi.nlm.nih.gov/gene/3064) | [MIM:613004](https://omim.org/entry/613004) | MIM:143100 |
 | Mouse | [ENSMUSG00000029104](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029104) | [15194](https://www.ncbi.nlm.nih.gov/gene/15194) | [MGI:96067](http://www.informatics.jax.org/marker/MGI:96067) | All phenotypic alleles (29):Targeted, knock-out(6) Targeted, other(23) |
-| Xenopus |  | [493287](https://www.ncbi.nlm.nih.gov/gene/493287) | [1013461](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1013461) |  |
-| Zebrafish | [ENSDARG00000052866](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052866) | [30214](https://www.ncbi.nlm.nih.gov/gene/30214) | [ZFIN:ZDB-GENE-990415-131](https://zfin.org/ZDB-GENE-990415-131) | ZDB-GENE-990415-131 |
+| Xenopus | [ENSXETG00000014723](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014723) | [493287](https://www.ncbi.nlm.nih.gov/gene/493287) |  |  |
+| Zebrafish | [ENSDARG00000052866](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052866) | [30214](https://www.ncbi.nlm.nih.gov/gene/30214) | [ZFIN:ZDB-GENE-990415-131](https://zfin.org/ZDB-GENE-990415-131) | anterior neural plate formation, cartilage development, central nervous system development, central nervous system neuron development, developmental growth |
 

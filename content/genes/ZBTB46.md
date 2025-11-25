@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419259
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417431
   X-XIV: stage XIII
-gene_id: '455423'
+gene_id: '419259'
 gene_type: protein-coding
 images:
 - caption: ZBTB46 expression
@@ -51,40 +51,30 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZBTB46.Trevers.2023-Fig7-8-G.jpg
 name: zinc finger and BTB domain containing 46
-ncbi_id: '455423'
+ncbi_id: '419259'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000130584
   entrez: '140685'
   mod: MIM:614639
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000027583
+  entrez: '72147'
+  mod: MGI:1919397
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100145588,447054
-  mod: '5847061'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000113888
   entrez: '570537'
   mod: ZFIN:ZDB-GENE-090313-352
-  phenotypes: ZDB-GENE-090313-352
+  phenotypes: regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455423
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419259
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455423
+  url: https://www.ncbi.nlm.nih.gov/gene/419259
 species: Gallus gallus
 symbol: ZBTB46
 title: ZBTB46
@@ -108,9 +98,7 @@ title: ZBTB46
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000130584](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000130584) | [140685](https://www.ncbi.nlm.nih.gov/gene/140685) | [MIM:614639](https://omim.org/entry/614639) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100145588](https://www.ncbi.nlm.nih.gov/gene/100145588), [447054](https://www.ncbi.nlm.nih.gov/gene/447054) | [5847061](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5847061) |  |
-| Zebrafish |  | [570537](https://www.ncbi.nlm.nih.gov/gene/570537) | [ZFIN:ZDB-GENE-090313-352](https://zfin.org/ZDB-GENE-090313-352) | ZDB-GENE-090313-352 |
+| Mouse | [ENSMUSG00000027583](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027583) | [72147](https://www.ncbi.nlm.nih.gov/gene/72147) | [MGI:1919397](http://www.informatics.jax.org/marker/MGI:1919397) |  |
+| Zebrafish | [ENSDARG00000113888](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000113888) | [570537](https://www.ncbi.nlm.nih.gov/gene/570537) | [ZFIN:ZDB-GENE-090313-352](https://zfin.org/ZDB-GENE-090313-352) | regulation of transcription by RNA polymerase II |
 

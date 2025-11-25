@@ -13,7 +13,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003779
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204158
 forward_primer: 5'-CCAGTTGCTAAGGCACTACTAAC-3'
-gene_id: '451531'
+gene_id: '373965'
 gene_type: protein-coding
 images:
 - caption: CALD1 expression
@@ -94,41 +94,21 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R614.CALD1.S26AAA.001.jpg
 name: caldesmon 1
-ncbi_id: '451531'
+ncbi_id: '373965'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000122786
-  entrez: '800'
-  mod: MIM:114213
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000029761
+  entrez: '109624'
+  mod: MGI:88250
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: '100124848'
-  mod: '963930'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: 563892,322909
-  mod: ZFIN:ZDB-GENE-090313-229,ZFIN:ZDB-GENE-030131-1629
-  phenotypes: ZDB-GENE-090313-229,ZDB-GENE-030131-1629
-  species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGGTCAGATGCTGTAAGAGATGGAAG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451531
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373965
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451531
+  url: https://www.ncbi.nlm.nih.gov/gene/373965
 species: Gallus gallus
 symbol: CALD1
 template_length: '707'
@@ -154,9 +134,5 @@ title: CALD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000122786](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000122786) | [800](https://www.ncbi.nlm.nih.gov/gene/800) | [MIM:114213](https://omim.org/entry/114213) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100124848](https://www.ncbi.nlm.nih.gov/gene/100124848) | [963930](http://www.xenbase.org/gene/showgene.do?method=display&geneId=963930) |  |
-| Zebrafish |  | [563892](https://www.ncbi.nlm.nih.gov/gene/563892), [322909](https://www.ncbi.nlm.nih.gov/gene/322909) | [ZFIN:ZDB-GENE-090313-229](https://zfin.org/ZDB-GENE-090313-229), [ZFIN:ZDB-GENE-030131-1629](https://zfin.org/ZDB-GENE-030131-1629) | ZDB-GENE-090313-229,ZDB-GENE-030131-1629 |
+| Mouse | [ENSMUSG00000029761](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029761) | [109624](https://www.ncbi.nlm.nih.gov/gene/109624) | [MGI:88250](http://www.informatics.jax.org/marker/MGI:88250) |  |
 

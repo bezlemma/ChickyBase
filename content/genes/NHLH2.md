@@ -3,13 +3,12 @@ aliases:
 - NSCL2, helix-loop-helix protein 2
 cgnc_id: '20175'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/395578
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395578
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204797
 forward_primer: TGGGGTTTTTCTCCTCCTTTCACC
-gene_id: '468073'
+gene_id: '395578'
 gene_type: protein-coding
 images:
 - caption: NHLH2 expression
@@ -90,13 +89,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R327.NHLH2.S25.001.jpg
 name: nescient helix-loop-helix 2
-ncbi_id: '468073'
+ncbi_id: '395578'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000177551
   entrez: '4808'
   mod: MIM:162361
@@ -107,24 +101,20 @@ orthologs:
   mod: MGI:97324
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000025495
   entrez: '402968'
   mod: ZFIN:ZDB-GENE-040426-1809
-  phenotypes: ZDB-GENE-040426-1809
+  phenotypes: nervous system development, positive regulation of transcription by
+    RNA polymerase II, regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCTCCGCCGCCGCCTCTTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468073
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395578
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468073
+  url: https://www.ncbi.nlm.nih.gov/gene/395578
 species: Gallus gallus
 symbol: NHLH2
 template_length: '862'
@@ -146,9 +136,7 @@ title: NHLH2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000177551](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000177551) | [4808](https://www.ncbi.nlm.nih.gov/gene/4808) | [MIM:162361](https://omim.org/entry/162361) |  |
 | Mouse | [ENSMUSG00000048540](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048540) | [18072](https://www.ncbi.nlm.nih.gov/gene/18072) | [MGI:97324](http://www.informatics.jax.org/marker/MGI:97324) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000025495](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025495) | [402968](https://www.ncbi.nlm.nih.gov/gene/402968) | [ZFIN:ZDB-GENE-040426-1809](https://zfin.org/ZDB-GENE-040426-1809) | ZDB-GENE-040426-1809 |
+| Zebrafish | [ENSDARG00000025495](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025495) | [402968](https://www.ncbi.nlm.nih.gov/gene/402968) | [ZFIN:ZDB-GENE-040426-1809](https://zfin.org/ZDB-GENE-040426-1809) | nervous system development, positive regulation of transcription by RNA polymerase II, regulation of transcription by RNA polymerase II |
 

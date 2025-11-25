@@ -4,7 +4,6 @@ aliases:
 - cadherin 6, type 2, K-cadherin (fetal kidney)
 cgnc_id: '9782'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007156
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=taneyhill+coles+snail2+represses+cadherin6b+epithelial-to-mesenchymal+neural+crest
@@ -20,7 +19,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001758
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/CDH6
 forward_primer: CAAGTGGAAGATGTAGATGAACCCC
-gene_id: '460936'
+gene_id: '414842'
 gene_type: protein-coding
 images:
 - caption: CDH6 expression
@@ -293,13 +292,8 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cad6b.fig1e.taney.2007.jpg
 name: cadherin 6
-ncbi_id: '460936'
+ncbi_id: '414842'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000113361
   entrez: '1004'
   mod: MIM:603007
@@ -310,24 +304,26 @@ orthologs:
   mod: MGI:107435
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100495587,373627
-  mod: '484591'
+- ensembl: ENSXETG00000016687
+  entrez: '100495587'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000014522
   entrez: '541393'
   mod: ZFIN:ZDB-GENE-050320-92
-  phenotypes: ZDB-GENE-050320-92
+  phenotypes: adherens junction organization, calcium-dependent cell-cell adhesion
+    via plasma membrane cell adhesion molecules, cell adhesion, cell migration, cell
+    morphogenesis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTCTGGCACAATGTCTCTGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460936
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=414842
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460936
+  url: https://www.ncbi.nlm.nih.gov/gene/414842
 species: Gallus gallus
 symbol: CDH6
 template_length: '969'
@@ -358,9 +354,8 @@ title: CDH6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000113361](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113361) | [1004](https://www.ncbi.nlm.nih.gov/gene/1004) | [MIM:603007](https://omim.org/entry/603007) |  |
 | Mouse | [ENSMUSG00000039385](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039385) | [12563](https://www.ncbi.nlm.nih.gov/gene/12563) | [MGI:107435](http://www.informatics.jax.org/marker/MGI:107435) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100495587](https://www.ncbi.nlm.nih.gov/gene/100495587), [373627](https://www.ncbi.nlm.nih.gov/gene/373627) | [484591](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484591) |  |
-| Zebrafish | [ENSDARG00000014522](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014522) | [541393](https://www.ncbi.nlm.nih.gov/gene/541393) | [ZFIN:ZDB-GENE-050320-92](https://zfin.org/ZDB-GENE-050320-92) | ZDB-GENE-050320-92 |
+| Xenopus | [ENSXETG00000016687](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016687) | [100495587](https://www.ncbi.nlm.nih.gov/gene/100495587) |  |  |
+| Zebrafish | [ENSDARG00000014522](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014522) | [541393](https://www.ncbi.nlm.nih.gov/gene/541393) | [ZFIN:ZDB-GENE-050320-92](https://zfin.org/ZDB-GENE-050320-92) | adherens junction organization, calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules, cell adhesion, cell migration, cell morphogenesis |
 

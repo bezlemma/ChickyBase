@@ -1,14 +1,13 @@
 ---
 cgnc_id: '2865'
 external_ids:
-  '25': stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000026628
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417429
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415681
 forward_primer: 5'-CAATAGGACCAAGGACTCGGAGAC-3'
-gene_id: '453254'
+gene_id: '417429'
 gene_type: protein-coding
 images:
 - caption: CACNG5 expression
@@ -122,13 +121,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R580.CACNG5.S25A.001.jpg
 name: calcium voltage-gated channel auxiliary subunit gamma 5
-ncbi_id: '453254'
+ncbi_id: '417429'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000075429
   entrez: '27091'
   mod: MIM:606405
@@ -139,24 +133,21 @@ orthologs:
   mod: MGI:2157946
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: '444605'
-  mod: '6460178'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000003326
-  entrez: '797409'
-  mod: ZFIN:ZDB-GENE-120104-3,ZFIN:ZDB-GENE-120104-4
-  phenotypes: ZDB-GENE-120104-3,ZDB-GENE-120104-4
+- ensembl: ENSDARG00000039240
+  entrez: '100331116'
+  mod: ZFIN:ZDB-GENE-120104-3
+  phenotypes: calcium ion transport, positive regulation of synaptic transmission,
+    glutamatergic, postsynaptic neurotransmitter receptor diffusion trapping, transmission
+    of nerve impulse
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGCACGAAGACCTGAAAGAAGAGGG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453254
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417429
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453254
+  url: https://www.ncbi.nlm.nih.gov/gene/417429
 species: Gallus gallus
 symbol: CACNG5
 template_length: '617'
@@ -179,9 +170,7 @@ title: CACNG5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000075429](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000075429) | [27091](https://www.ncbi.nlm.nih.gov/gene/27091) | [MIM:606405](https://omim.org/entry/606405) |  |
 | Mouse | [ENSMUSG00000040373](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040373) | [140723](https://www.ncbi.nlm.nih.gov/gene/140723) | [MGI:2157946](http://www.informatics.jax.org/marker/MGI:2157946) |  |
-| Xenopus |  | [444605](https://www.ncbi.nlm.nih.gov/gene/444605) | [6460178](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6460178) |  |
-| Zebrafish | [ENSDARG00000003326](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003326) | [797409](https://www.ncbi.nlm.nih.gov/gene/797409) | [ZFIN:ZDB-GENE-120104-3](https://zfin.org/ZDB-GENE-120104-3), [ZFIN:ZDB-GENE-120104-4](https://zfin.org/ZDB-GENE-120104-4) | ZDB-GENE-120104-3,ZDB-GENE-120104-4 |
+| Zebrafish | [ENSDARG00000039240](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039240) | [100331116](https://www.ncbi.nlm.nih.gov/gene/100331116) | [ZFIN:ZDB-GENE-120104-3](https://zfin.org/ZDB-GENE-120104-3) | calcium ion transport, positive regulation of synaptic transmission, glutamatergic, postsynaptic neurotransmitter receptor diffusion trapping, transmission of nerve impulse |
 

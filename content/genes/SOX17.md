@@ -5,8 +5,6 @@ aliases:
 - SRY (sex determining region Y)-box 17
 cgnc_id: '53393'
 external_ids:
-  '13': stage 13stage 13
-  '4': stage 4stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Sox3+Acloque+Rizzoti+territories
   Comments: 'As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI (acc
@@ -17,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428534
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001039326
-gene_id: '461146'
+gene_id: '428534'
 gene_type: protein-coding
 images:
 - caption: SOX17 expression
@@ -141,13 +139,8 @@ images:
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX17.Acloque.2011.Fig.6.png
 name: SRY-box 17
-ncbi_id: '461146'
+ncbi_id: '428534'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164736
   entrez: '64321'
   mod: MIM:610928
@@ -159,22 +152,17 @@ orthologs:
   phenotypes: All phenotypic alleles (9):Targeted, knock-out(2) Targeted, other(7)
   species: Mouse
 - ensembl: ''
-  entrez: 395066,397966,398765
-  mod: '484294'
+  entrez: '395066'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000041345
-  entrez: '30544'
-  mod: ZFIN:ZDB-GENE-991213-1
-  phenotypes: ZDB-GENE-991213-1
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461146
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428534
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461146
+  url: https://www.ncbi.nlm.nih.gov/gene/428534
 species: Gallus gallus
 symbol: SOX17
 title: SOX17
@@ -200,9 +188,7 @@ title: SOX17
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164736](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164736) | [64321](https://www.ncbi.nlm.nih.gov/gene/64321) | [MIM:610928](https://omim.org/entry/610928) | MIM:613674 |
 | Mouse | [ENSMUSG00000025902](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025902) | [20671](https://www.ncbi.nlm.nih.gov/gene/20671) | [MGI:107543](http://www.informatics.jax.org/marker/MGI:107543) | All phenotypic alleles (9):Targeted, knock-out(2) Targeted, other(7) |
-| Xenopus |  | [395066](https://www.ncbi.nlm.nih.gov/gene/395066), [397966](https://www.ncbi.nlm.nih.gov/gene/397966), [398765](https://www.ncbi.nlm.nih.gov/gene/398765) | [484294](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484294) |  |
-| Zebrafish | [ENSDARG00000041345](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041345) | [30544](https://www.ncbi.nlm.nih.gov/gene/30544) | [ZFIN:ZDB-GENE-991213-1](https://zfin.org/ZDB-GENE-991213-1) | ZDB-GENE-991213-1 |
+| Xenopus |  | [395066](https://www.ncbi.nlm.nih.gov/gene/395066) |  |  |
 

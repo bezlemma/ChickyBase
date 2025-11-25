@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373931
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204136
-gene_id: '459482'
+gene_id: '373931'
 gene_type: protein-coding
 images:
 - caption: EGR1 expression
@@ -30,40 +30,37 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53zb7.124.18.10x.jpg
 name: early growth response 1
-ncbi_id: '459482'
+ncbi_id: '373931'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000120738
   entrez: '1958'
   mod: MIM:128990
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000038418
   entrez: '13653'
   mod: MGI:95295
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100038164,399162,414518
-  mod: '853411'
+- ensembl: ENSXETG00000006697
+  entrez: '100038164'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000037421
   entrez: '30498'
   mod: ZFIN:ZDB-GENE-980526-320
-  phenotypes: ZDB-GENE-980526-320
+  phenotypes: anatomical structure formation involved in morphogenesis, camera-type
+    eye development, circadian regulation of gene expression, embryonic organ development,
+    embryonic retina morphogenesis in camera-type eye
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459482
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373931
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459482
+  url: https://www.ncbi.nlm.nih.gov/gene/373931
 species: Gallus gallus
 symbol: EGR1
 title: EGR1
@@ -89,9 +86,8 @@ title: EGR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000120738](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000120738) | [1958](https://www.ncbi.nlm.nih.gov/gene/1958) | [MIM:128990](https://omim.org/entry/128990) |  |
-| Mouse |  | [13653](https://www.ncbi.nlm.nih.gov/gene/13653) | [MGI:95295](http://www.informatics.jax.org/marker/MGI:95295) | All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2) |
-| Xenopus |  | [100038164](https://www.ncbi.nlm.nih.gov/gene/100038164), [399162](https://www.ncbi.nlm.nih.gov/gene/399162), [414518](https://www.ncbi.nlm.nih.gov/gene/414518) | [853411](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853411) |  |
-| Zebrafish |  | [30498](https://www.ncbi.nlm.nih.gov/gene/30498) | [ZFIN:ZDB-GENE-980526-320](https://zfin.org/ZDB-GENE-980526-320) | ZDB-GENE-980526-320 |
+| Mouse | [ENSMUSG00000038418](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038418) | [13653](https://www.ncbi.nlm.nih.gov/gene/13653) | [MGI:95295](http://www.informatics.jax.org/marker/MGI:95295) | All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2) |
+| Xenopus | [ENSXETG00000006697](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006697) | [100038164](https://www.ncbi.nlm.nih.gov/gene/100038164) |  |  |
+| Zebrafish | [ENSDARG00000037421](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037421) | [30498](https://www.ncbi.nlm.nih.gov/gene/30498) | [ZFIN:ZDB-GENE-980526-320](https://zfin.org/ZDB-GENE-980526-320) | anatomical structure formation involved in morphogenesis, camera-type eye development, circadian regulation of gene expression, embryonic organ development, embryonic retina morphogenesis in camera-type eye |
 

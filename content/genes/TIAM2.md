@@ -7,7 +7,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001267535
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/TIAM2
 forward_primer: GAATGCTTGGGAAACACAAACG
-gene_id: '458591'
+gene_id: '421648'
 gene_type: protein-coding
 images:
 - caption: TIAM2 expression
@@ -104,13 +104,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R399.TIAM2.S26V.001.jpg
 name: T cell lymphoma invasion and metastasis 2
-ncbi_id: '458591'
+ncbi_id: '421648'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000146426
   entrez: '26230'
   mod: MIM:604709
@@ -121,24 +116,21 @@ orthologs:
   mod: MGI:1344338
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000087780
-  entrez: 100334442,338198
-  mod: ZFIN:ZDB-GENE-030219-98,ZFIN:ZDB-GENE-111019-2
-  phenotypes: ZDB-GENE-030219-98,ZDB-GENE-111019-2
+  entrez: '100334442'
+  mod: ZFIN:ZDB-GENE-030219-98
+  phenotypes: activation of GTPase activity, intracellular signal transduction, positive
+    regulation of axonogenesis, signal transduction, small GTPase-mediated signal
+    transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGGACCTCTTGGAAGTTGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458591
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421648
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458591
+  url: https://www.ncbi.nlm.nih.gov/gene/421648
 species: Gallus gallus
 symbol: TIAM2
 template_length: '807'
@@ -161,9 +153,7 @@ title: TIAM2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000146426](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000146426) | [26230](https://www.ncbi.nlm.nih.gov/gene/26230) | [MIM:604709](https://omim.org/entry/604709) |  |
 | Mouse | [ENSMUSG00000023800](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023800) | [24001](https://www.ncbi.nlm.nih.gov/gene/24001) | [MGI:1344338](http://www.informatics.jax.org/marker/MGI:1344338) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000087780](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000087780) | [100334442](https://www.ncbi.nlm.nih.gov/gene/100334442), [338198](https://www.ncbi.nlm.nih.gov/gene/338198) | [ZFIN:ZDB-GENE-030219-98](https://zfin.org/ZDB-GENE-030219-98), [ZFIN:ZDB-GENE-111019-2](https://zfin.org/ZDB-GENE-111019-2) | ZDB-GENE-030219-98,ZDB-GENE-111019-2 |
+| Zebrafish | [ENSDARG00000087780](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000087780) | [100334442](https://www.ncbi.nlm.nih.gov/gene/100334442) | [ZFIN:ZDB-GENE-030219-98](https://zfin.org/ZDB-GENE-030219-98) | activation of GTPase activity, intracellular signal transduction, positive regulation of axonogenesis, signal transduction, small GTPase-mediated signal transduction |
 

@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100859545
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640857
-gene_id: '474076'
+gene_id: '100859545'
 gene_type: protein-coding
 images:
 - caption: KCNK9 expression
@@ -33,37 +33,34 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/task-1.imageI.jpg
 name: potassium two pore domain channel subfamily K member 9
-ncbi_id: '474076'
+ncbi_id: '100859545'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000169427
+  entrez: '51305'
+  mod: MIM:605874
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000036760
+  entrez: '223604'
+  mod: MGI:3521816
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000038355
+  entrez: '100379982'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000104563
+  entrez: '799704'
+  mod: ZFIN:ZDB-GENE-070705-260
+  phenotypes: monoatomic ion transmembrane transport, monoatomic ion transport, potassium
+    ion import across plasma membrane, potassium ion transmembrane transport, potassium
+    ion transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/474076
+  url: https://www.ncbi.nlm.nih.gov/gene/100859545
 species: Gallus gallus
 symbol: KCNK9
 title: KCNK9
@@ -89,9 +86,8 @@ title: KCNK9
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000169427](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169427) | [51305](https://www.ncbi.nlm.nih.gov/gene/51305) | [MIM:605874](https://omim.org/entry/605874) |  |
+| Mouse | [ENSMUSG00000036760](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036760) | [223604](https://www.ncbi.nlm.nih.gov/gene/223604) | [MGI:3521816](http://www.informatics.jax.org/marker/MGI:3521816) |  |
+| Xenopus | [ENSXETG00000038355](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000038355) | [100379982](https://www.ncbi.nlm.nih.gov/gene/100379982) |  |  |
+| Zebrafish | [ENSDARG00000104563](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104563) | [799704](https://www.ncbi.nlm.nih.gov/gene/799704) | [ZFIN:ZDB-GENE-070705-260](https://zfin.org/ZDB-GENE-070705-260) | monoatomic ion transmembrane transport, monoatomic ion transport, potassium ion import across plasma membrane, potassium ion transmembrane transport, potassium ion transport |
 

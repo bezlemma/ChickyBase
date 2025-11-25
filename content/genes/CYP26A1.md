@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:408183
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0020037
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001129
-gene_id: '451982'
+gene_id: '408183'
 gene_type: protein-coding
 images:
 - caption: CYP26A1 expression
@@ -427,13 +427,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Rejntjes.Fig3.Cyp26A1_allimages.jpg
 name: cytochrome P450 family 26 subfamily A member 1
-ncbi_id: '451982'
+ncbi_id: '408183'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000095596
   entrez: '1592'
   mod: MIM:602239
@@ -444,20 +439,22 @@ orthologs:
   mod: MGI:1096359
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 548901,496314
-  mod: '855582'
+- ensembl: ENSXETG00000018184
+  entrez: '548901'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000033999
   entrez: '30381'
   mod: ZFIN:ZDB-GENE-990415-44
-  phenotypes: ZDB-GENE-990415-44
+  phenotypes: anterior/posterior pattern specification involved in pronephros development,
+    atrial cardiac muscle cell development, blood vessel development, brain morphogenesis,
+    cellular response to vitamin A
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451982
+  url: https://www.ncbi.nlm.nih.gov/gene/408183
 species: Gallus gallus
 symbol: CYP26A1
 title: CYP26A1
@@ -485,9 +482,8 @@ title: CYP26A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000095596](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000095596) | [1592](https://www.ncbi.nlm.nih.gov/gene/1592) | [MIM:602239](https://omim.org/entry/602239) |  |
 | Mouse | [ENSMUSG00000024987](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024987) | [13082](https://www.ncbi.nlm.nih.gov/gene/13082) | [MGI:1096359](http://www.informatics.jax.org/marker/MGI:1096359) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [548901](https://www.ncbi.nlm.nih.gov/gene/548901), [496314](https://www.ncbi.nlm.nih.gov/gene/496314) | [855582](http://www.xenbase.org/gene/showgene.do?method=display&geneId=855582) |  |
-| Zebrafish | [ENSDARG00000033999](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033999) | [30381](https://www.ncbi.nlm.nih.gov/gene/30381) | [ZFIN:ZDB-GENE-990415-44](https://zfin.org/ZDB-GENE-990415-44) | ZDB-GENE-990415-44 |
+| Xenopus | [ENSXETG00000018184](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018184) | [548901](https://www.ncbi.nlm.nih.gov/gene/548901) |  |  |
+| Zebrafish | [ENSDARG00000033999](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033999) | [30381](https://www.ncbi.nlm.nih.gov/gene/30381) | [ZFIN:ZDB-GENE-990415-44](https://zfin.org/ZDB-GENE-990415-44) | anterior/posterior pattern specification involved in pronephros development, atrial cardiac muscle cell development, blood vessel development, brain morphogenesis, cellular response to vitamin A |
 

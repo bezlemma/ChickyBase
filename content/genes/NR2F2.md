@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:386585
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004879
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204421
-gene_id: '459036'
+gene_id: '386585'
 gene_type: protein-coding
 images:
 - caption: NR2F2 expression
@@ -117,13 +117,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NR2F2 COUPTFII_HH
     12 c x25.jpg
 name: nuclear receptor subfamily 2 group F member 2
-ncbi_id: '459036'
+ncbi_id: '386585'
 orthologs:
-- ensembl: ''
-  entrez: '41491'
-  mod: FBgn0003651
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000185551
   entrez: '7026'
   mod: MIM:107773
@@ -134,20 +129,21 @@ orthologs:
   mod: MGI:1352452
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100038039,380180
-  mod: '482565'
+- ensembl: ENSXETG00000022346
+  entrez: '100038039'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000040926
   entrez: '30424'
   mod: ZFIN:ZDB-GENE-990415-252
-  phenotypes: ZDB-GENE-990415-252
+  phenotypes: brain segmentation, cardiac muscle cell development, cell differentiation,
+    lymphangiogenesis, lymphatic endothelial cell fate commitment
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459036
+  url: https://www.ncbi.nlm.nih.gov/gene/386585
 species: Gallus gallus
 symbol: NR2F2
 title: NR2F2
@@ -176,9 +172,8 @@ title: NR2F2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41491](https://www.ncbi.nlm.nih.gov/gene/41491) | FBgn0003651 |  |
 | Human | [ENSG00000185551](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185551) | [7026](https://www.ncbi.nlm.nih.gov/gene/7026) | [MIM:107773](https://omim.org/entry/107773) |  |
 | Mouse | [ENSMUSG00000030551](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030551) | [11819](https://www.ncbi.nlm.nih.gov/gene/11819) | [MGI:1352452](http://www.informatics.jax.org/marker/MGI:1352452) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [100038039](https://www.ncbi.nlm.nih.gov/gene/100038039), [380180](https://www.ncbi.nlm.nih.gov/gene/380180) | [482565](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482565) |  |
-| Zebrafish | [ENSDARG00000040926](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040926) | [30424](https://www.ncbi.nlm.nih.gov/gene/30424) | [ZFIN:ZDB-GENE-990415-252](https://zfin.org/ZDB-GENE-990415-252) | ZDB-GENE-990415-252 |
+| Xenopus | [ENSXETG00000022346](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022346) | [100038039](https://www.ncbi.nlm.nih.gov/gene/100038039) |  |  |
+| Zebrafish | [ENSDARG00000040926](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040926) | [30424](https://www.ncbi.nlm.nih.gov/gene/30424) | [ZFIN:ZDB-GENE-990415-252](https://zfin.org/ZDB-GENE-990415-252) | brain segmentation, cardiac muscle cell development, cell differentiation, lymphangiogenesis, lymphatic endothelial cell fate commitment |
 

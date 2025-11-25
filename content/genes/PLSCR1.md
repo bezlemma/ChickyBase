@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424883
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001231236
-gene_id: '449028'
+gene_id: '424883'
 gene_type: protein-coding
 images:
 - caption: PLSCR1 expression
@@ -49,13 +49,8 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.SupF5.plscr1.png
 name: phospholipid scramblase 1
-ncbi_id: '449028'
+ncbi_id: '424883'
 orthologs:
-- ensembl: ''
-  entrez: '326186'
-  mod: FBgn0052056
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000188313
   entrez: '5359'
   mod: MIM:604170
@@ -66,20 +61,20 @@ orthologs:
   mod: MGI:893575
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100216165,734475
-  mod: '967762'
+- ensembl: ENSXETG00000001630
+  entrez: '100489273'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000069432
-  entrez: '405802'
-  mod: ZFIN:ZDB-GENE-040426-2517
-  phenotypes: ZDB-GENE-040426-2517
+- ensembl: ENSDARG00000093078
+  entrez: '564882'
+  mod: ZFIN:ZDB-GENE-060531-17
+  phenotypes: plasma membrane phospholipid scrambling
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449028
+  url: https://www.ncbi.nlm.nih.gov/gene/424883
 species: Gallus gallus
 symbol: PLSCR1
 title: PLSCR1
@@ -107,9 +102,8 @@ title: PLSCR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [326186](https://www.ncbi.nlm.nih.gov/gene/326186) | FBgn0052056 |  |
 | Human | [ENSG00000188313](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000188313) | [5359](https://www.ncbi.nlm.nih.gov/gene/5359) | [MIM:604170](https://omim.org/entry/604170) |  |
 | Mouse | [ENSMUSG00000032369](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032369) | [22038](https://www.ncbi.nlm.nih.gov/gene/22038) | [MGI:893575](http://www.informatics.jax.org/marker/MGI:893575) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100216165](https://www.ncbi.nlm.nih.gov/gene/100216165), [734475](https://www.ncbi.nlm.nih.gov/gene/734475) | [967762](http://www.xenbase.org/gene/showgene.do?method=display&geneId=967762) |  |
-| Zebrafish | [ENSDARG00000069432](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069432) | [405802](https://www.ncbi.nlm.nih.gov/gene/405802) | [ZFIN:ZDB-GENE-040426-2517](https://zfin.org/ZDB-GENE-040426-2517) | ZDB-GENE-040426-2517 |
+| Xenopus | [ENSXETG00000001630](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001630) | [100489273](https://www.ncbi.nlm.nih.gov/gene/100489273) |  |  |
+| Zebrafish | [ENSDARG00000093078](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000093078) | [564882](https://www.ncbi.nlm.nih.gov/gene/564882) | [ZFIN:ZDB-GENE-060531-17](https://zfin.org/ZDB-GENE-060531-17) | plasma membrane phospholipid scrambling |
 

@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:378905
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204388
-gene_id: '452572'
+gene_id: '378905'
 gene_type: protein-coding
 images:
 - caption: FAM53A expression
@@ -80,16 +80,11 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FAM53A_HH24 x15.jpg
 name: family with sequence similarity 53 member A
-ncbi_id: '452572'
+ncbi_id: '378905'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000174137
   entrez: '152877'
-  mod: ''
+  mod: MIM:617229
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000037339
@@ -97,20 +92,15 @@ orthologs:
   mod: MGI:1919225
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 493500,443593
-  mod: '920486'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000003878
+  entrez: '493500'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452572
+  url: https://www.ncbi.nlm.nih.gov/gene/378905
 species: Gallus gallus
 symbol: FAM53A
 title: FAM53A
@@ -136,9 +126,7 @@ title: FAM53A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000174137](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000174137) | [152877](https://www.ncbi.nlm.nih.gov/gene/152877) |  |  |
+| Human | [ENSG00000174137](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000174137) | [152877](https://www.ncbi.nlm.nih.gov/gene/152877) | [MIM:617229](https://omim.org/entry/617229) |  |
 | Mouse | [ENSMUSG00000037339](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037339) | [74504](https://www.ncbi.nlm.nih.gov/gene/74504) | [MGI:1919225](http://www.informatics.jax.org/marker/MGI:1919225) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [493500](https://www.ncbi.nlm.nih.gov/gene/493500), [443593](https://www.ncbi.nlm.nih.gov/gene/443593) | [920486](http://www.xenbase.org/gene/showgene.do?method=display&geneId=920486) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000003878](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003878) | [493500](https://www.ncbi.nlm.nih.gov/gene/493500) |  |  |
 

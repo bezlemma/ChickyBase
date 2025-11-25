@@ -19,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204759
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/POU4F3
-gene_id: '449613'
+gene_id: '107054548'
 gene_type: protein-coding
 images:
 - caption: POU4F3 expression
@@ -86,7 +86,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRN3A-POU4F1.Agarwala.2002.1F.26.PNG
 name: POU class 4 homeobox 3
-ncbi_id: '449613'
+ncbi_id: '107054548'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -112,12 +112,12 @@ orthologs:
 - ensembl: ENSDARG00000006206
   entrez: '30534'
   mod: ZFIN:ZDB-GENE-990415-24
-  phenotypes: ZDB-GENE-990415-24
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449613
+  url: https://www.ncbi.nlm.nih.gov/gene/107054548
 species: Gallus gallus
 symbol: POU4F3
 title: POU4F3
@@ -151,5 +151,5 @@ title: POU4F3
 | Human | [ENSG00000091010](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000091010) | [5459](https://www.ncbi.nlm.nih.gov/gene/5459) | [MIM:602460](https://omim.org/entry/602460) | MIM:602459 |
 | Mouse |  | [18998](https://www.ncbi.nlm.nih.gov/gene/18998) | [MGI:102523](http://www.informatics.jax.org/marker/MGI:102523) | All phenotypic alleles (6):Spontaneous(1) Targeted, knock-out(4) Targeted, other(1) |
 | Xenopus |  | [100498313](https://www.ncbi.nlm.nih.gov/gene/100498313) | [853640](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853640) |  |
-| Zebrafish | [ENSDARG00000006206](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006206) | [30534](https://www.ncbi.nlm.nih.gov/gene/30534) | [ZFIN:ZDB-GENE-990415-24](https://zfin.org/ZDB-GENE-990415-24) | ZDB-GENE-990415-24 |
+| Zebrafish | [ENSDARG00000006206](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006206) | [30534](https://www.ncbi.nlm.nih.gov/gene/30534) | [ZFIN:ZDB-GENE-990415-24](https://zfin.org/ZDB-GENE-990415-24) |  |
 

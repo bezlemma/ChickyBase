@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424507
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422347
 forward_primer: 5'-CGCTTTTGTGATGGAGACAGAGTC-3'
-gene_id: '450154'
+gene_id: '424507'
 gene_type: protein-coding
 images:
 - caption: CDC7 expression
@@ -70,13 +70,8 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-fig5-CDC7.JPG
 name: cell division cycle 7
-ncbi_id: '450154'
+ncbi_id: '424507'
 orthologs:
-- ensembl: ''
-  entrez: '31598'
-  mod: FBgn0028360
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000097046
   entrez: '8317'
   mod: MIM:603311
@@ -87,24 +82,25 @@ orthologs:
   mod: MGI:1309511
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 549335,398099
-  mod: '951313'
+- ensembl: ENSXETG00000023034
+  entrez: '549335'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000023584
   entrez: '492768'
   mod: ZFIN:ZDB-GENE-041114-113
-  phenotypes: ZDB-GENE-041114-113
+  phenotypes: cell division, double-strand break repair via break-induced replication,
+    phosphorylation, protein phosphorylation, signal transduction
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGTGAGTAACTTCCCTGCTGGC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450154
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424507
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450154
+  url: https://www.ncbi.nlm.nih.gov/gene/424507
 species: Gallus gallus
 symbol: CDC7
 template_length: '663'
@@ -133,9 +129,8 @@ title: CDC7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31598](https://www.ncbi.nlm.nih.gov/gene/31598) | FBgn0028360 |  |
 | Human | [ENSG00000097046](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000097046) | [8317](https://www.ncbi.nlm.nih.gov/gene/8317) | [MIM:603311](https://omim.org/entry/603311) |  |
 | Mouse | [ENSMUSG00000029283](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029283) | [12545](https://www.ncbi.nlm.nih.gov/gene/12545) | [MGI:1309511](http://www.informatics.jax.org/marker/MGI:1309511) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [549335](https://www.ncbi.nlm.nih.gov/gene/549335), [398099](https://www.ncbi.nlm.nih.gov/gene/398099) | [951313](http://www.xenbase.org/gene/showgene.do?method=display&geneId=951313) |  |
-| Zebrafish | [ENSDARG00000023584](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023584) | [492768](https://www.ncbi.nlm.nih.gov/gene/492768) | [ZFIN:ZDB-GENE-041114-113](https://zfin.org/ZDB-GENE-041114-113) | ZDB-GENE-041114-113 |
+| Xenopus | [ENSXETG00000023034](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023034) | [549335](https://www.ncbi.nlm.nih.gov/gene/549335) |  |  |
+| Zebrafish | [ENSDARG00000023584](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023584) | [492768](https://www.ncbi.nlm.nih.gov/gene/492768) | [ZFIN:ZDB-GENE-041114-113](https://zfin.org/ZDB-GENE-041114-113) | cell division, double-strand break repair via break-induced replication, phosphorylation, protein phosphorylation, signal transduction |
 

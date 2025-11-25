@@ -4,7 +4,6 @@ aliases:
 - homeodomain transcription factor DLX1
 cgnc_id: '53614'
 external_ids:
-  '31': stage 31stage 31
   Citation: Stephen T Brown 1, Juemei Wang, Andrew K Groves. Dlx gene expression during
     chick inner ear development. J Comp Neurol. 2005 Feb 28;483(1):48-65.0
   Comments: The complete cDNA template sequence was obtained from the information
@@ -17,7 +16,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001045842
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/DLX1
 forward_primer: CAGACCCCCAAAAGGCACG
-gene_id: '468737'
+gene_id: '429283'
 gene_type: protein-coding
 images:
 - caption: DLX1 expression
@@ -202,13 +201,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.6_ALLIMAGES.jpg
 name: distal-less homeobox 1
-ncbi_id: '468737'
+ncbi_id: '429283'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000144355
   entrez: '1745'
   mod: MIM:600029
@@ -219,24 +213,25 @@ orthologs:
   mod: MGI:94901
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000049466
   entrez: '100101750'
-  mod: '876849'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000013125
-  entrez: 100329678,30568
+  entrez: '30568'
   mod: ZFIN:ZDB-GENE-990415-48
-  phenotypes: ZDB-GENE-990415-48
+  phenotypes: cartilage development, cell differentiation, chordate embryonic development,
+    embryonic morphogenesis, embryonic skeletal system development
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGAGGCGGAGGAGGTGTTCCAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468737
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=429283
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468737
+  url: https://www.ncbi.nlm.nih.gov/gene/429283
 species: Gallus gallus
 symbol: DLX1
 template_length: '721'
@@ -263,9 +258,8 @@ title: DLX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000144355](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000144355) | [1745](https://www.ncbi.nlm.nih.gov/gene/1745) | [MIM:600029](https://omim.org/entry/600029) |  |
 | Mouse | [ENSMUSG00000041911](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041911) | [13390](https://www.ncbi.nlm.nih.gov/gene/13390) | [MGI:94901](http://www.informatics.jax.org/marker/MGI:94901) |  |
-| Xenopus |  | [100101750](https://www.ncbi.nlm.nih.gov/gene/100101750) | [876849](http://www.xenbase.org/gene/showgene.do?method=display&geneId=876849) |  |
-| Zebrafish | [ENSDARG00000013125](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013125) | [100329678](https://www.ncbi.nlm.nih.gov/gene/100329678), [30568](https://www.ncbi.nlm.nih.gov/gene/30568) | [ZFIN:ZDB-GENE-990415-48](https://zfin.org/ZDB-GENE-990415-48) | ZDB-GENE-990415-48 |
+| Xenopus | [ENSXETG00000049466](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000049466) | [100101750](https://www.ncbi.nlm.nih.gov/gene/100101750) |  |  |
+| Zebrafish | [ENSDARG00000013125](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013125) | [30568](https://www.ncbi.nlm.nih.gov/gene/30568) | [ZFIN:ZDB-GENE-990415-48](https://zfin.org/ZDB-GENE-990415-48) | cartilage development, cell differentiation, chordate embryonic development, embryonic morphogenesis, embryonic skeletal system development |
 

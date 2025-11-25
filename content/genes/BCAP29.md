@@ -4,13 +4,12 @@ aliases:
 - B-cell receptor-associated protein BAP29
 cgnc_id: '6061'
 external_ids:
-  '25': stage 25stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000008009
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417702
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001097645
 forward_primer: GGCGAAAATAAAGAGATGGCG
-gene_id: '452794'
+gene_id: '417702'
 gene_type: protein-coding
 images:
 - caption: BCAP29 expression
@@ -121,16 +120,11 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R532.BCAP29.S25A.001.jpg
 name: B cell receptor associated protein 29
-ncbi_id: '452794'
+ncbi_id: '417702'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000075790
   entrez: '55973'
-  mod: ''
+  mod: MIM:619612
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000020650
@@ -138,24 +132,26 @@ orthologs:
   mod: MGI:101917
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100216272,446403
-  mod: '950367'
+- ensembl: ENSXETG00000039361
+  entrez: '100216272'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000016231
   entrez: '554151'
   mod: ZFIN:ZDB-GENE-050522-468
-  phenotypes: ZDB-GENE-050522-468
+  phenotypes: endoplasmic reticulum to Golgi vesicle-mediated transport, intracellular
+    protein transport, protein localization to endoplasmic reticulum exit site, protein
+    transport, vesicle-mediated transport
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGACCAAACCAACACAACTATCCTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452794
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417702
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452794
+  url: https://www.ncbi.nlm.nih.gov/gene/417702
 species: Gallus gallus
 symbol: BCAP29
 template_length: '1025'
@@ -177,9 +173,8 @@ title: BCAP29
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000075790](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000075790) | [55973](https://www.ncbi.nlm.nih.gov/gene/55973) |  |  |
+| Human | [ENSG00000075790](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000075790) | [55973](https://www.ncbi.nlm.nih.gov/gene/55973) | [MIM:619612](https://omim.org/entry/619612) |  |
 | Mouse | [ENSMUSG00000020650](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020650) | [12033](https://www.ncbi.nlm.nih.gov/gene/12033) | [MGI:101917](http://www.informatics.jax.org/marker/MGI:101917) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100216272](https://www.ncbi.nlm.nih.gov/gene/100216272), [446403](https://www.ncbi.nlm.nih.gov/gene/446403) | [950367](http://www.xenbase.org/gene/showgene.do?method=display&geneId=950367) |  |
-| Zebrafish | [ENSDARG00000016231](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016231) | [554151](https://www.ncbi.nlm.nih.gov/gene/554151) | [ZFIN:ZDB-GENE-050522-468](https://zfin.org/ZDB-GENE-050522-468) | ZDB-GENE-050522-468 |
+| Xenopus | [ENSXETG00000039361](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000039361) | [100216272](https://www.ncbi.nlm.nih.gov/gene/100216272) |  |  |
+| Zebrafish | [ENSDARG00000016231](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016231) | [554151](https://www.ncbi.nlm.nih.gov/gene/554151) | [ZFIN:ZDB-GENE-050522-468](https://zfin.org/ZDB-GENE-050522-468) | endoplasmic reticulum to Golgi vesicle-mediated transport, intracellular protein transport, protein localization to endoplasmic reticulum exit site, protein transport, vesicle-mediated transport |
 

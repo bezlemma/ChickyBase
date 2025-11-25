@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395323
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004368
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCCTACAAGTATGGCTCAACGCAG
-gene_id: '448844'
+gene_id: '395323'
 gene_type: protein-coding
 images:
 - caption: KDR expression
@@ -621,13 +621,8 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VEGFR2.HH8.control.trans.Li.2013.F9.vegfr2.png.png
 name: kinase insert domain receptor
-ncbi_id: '448844'
+ncbi_id: '395323'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000128052
   entrez: '3791'
   mod: MIM:191306
@@ -638,24 +633,25 @@ orthologs:
   mod: MGI:96683
   phenotypes: All phenotypic alleles (14):Targeted, knock-out(1) Targeted, other(13)
   species: Mouse
-- ensembl: ''
-  entrez: 100487501,373687
-  mod: '6053212'
+- ensembl: ENSXETG00000021061
+  entrez: '100487501'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000017321
   entrez: '554230'
   mod: ZFIN:ZDB-GENE-041001-112
-  phenotypes: ZDB-GENE-041001-112
+  phenotypes: angiogenesis, blood vessel development, cell differentiation, cell migration,
+    cell surface receptor protein tyrosine kinase signaling pathway
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCCAGGCAGTGCTGTGTTTTAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448844
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395323
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448844
+  url: https://www.ncbi.nlm.nih.gov/gene/395323
 species: Gallus gallus
 symbol: KDR
 template_length: '676'
@@ -682,9 +678,8 @@ title: KDR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000128052](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000128052) | [3791](https://www.ncbi.nlm.nih.gov/gene/3791) | [MIM:191306](https://omim.org/entry/191306) | MIM:602089 |
 | Mouse | [ENSMUSG00000062960](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000062960) | [16542](https://www.ncbi.nlm.nih.gov/gene/16542) | [MGI:96683](http://www.informatics.jax.org/marker/MGI:96683) | All phenotypic alleles (14):Targeted, knock-out(1) Targeted, other(13) |
-| Xenopus |  | [100487501](https://www.ncbi.nlm.nih.gov/gene/100487501), [373687](https://www.ncbi.nlm.nih.gov/gene/373687) | [6053212](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6053212) |  |
-| Zebrafish | [ENSDARG00000017321](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017321) | [554230](https://www.ncbi.nlm.nih.gov/gene/554230) | [ZFIN:ZDB-GENE-041001-112](https://zfin.org/ZDB-GENE-041001-112) | ZDB-GENE-041001-112 |
+| Xenopus | [ENSXETG00000021061](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021061) | [100487501](https://www.ncbi.nlm.nih.gov/gene/100487501) |  |  |
+| Zebrafish | [ENSDARG00000017321](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017321) | [554230](https://www.ncbi.nlm.nih.gov/gene/554230) | [ZFIN:ZDB-GENE-041001-112](https://zfin.org/ZDB-GENE-041001-112) | angiogenesis, blood vessel development, cell differentiation, cell migration, cell surface receptor protein tyrosine kinase signaling pathway |
 

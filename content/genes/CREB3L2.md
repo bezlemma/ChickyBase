@@ -1,13 +1,12 @@
 ---
 cgnc_id: '9755'
 external_ids:
-  '25': stage 25stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000012877
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418123
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416356
 forward_primer: AGAATGAAGTGATGGAGGTGGAAC
-gene_id: '455330'
+gene_id: '418123'
 gene_type: protein-coding
 images:
 - caption: CREB3L2 expression
@@ -121,41 +120,38 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R299.CREB3L2.S25R.001.jpg
 name: cAMP responsive element binding protein 3 like 2
-ncbi_id: '455330'
+ncbi_id: '418123'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000182158
   entrez: '64764'
   mod: MIM:608834
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000038648
   entrez: '208647'
   mod: MGI:2442695
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
 - ensembl: ''
-  entrez: 100145418,100037168
-  mod: '996210'
+  entrez: '100145418'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000063563
   entrez: '791169'
   mod: ZFIN:ZDB-GENE-070112-1542
-  phenotypes: ZDB-GENE-070112-1542
+  phenotypes: chondrocyte differentiation, regulation of DNA-templated transcription,
+    regulation of ER to Golgi vesicle-mediated transport, regulation of extracellular
+    matrix constituent secretion, regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGGGATTGTGTGAAGTAAGGAAGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455330
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418123
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455330
+  url: https://www.ncbi.nlm.nih.gov/gene/418123
 species: Gallus gallus
 symbol: CREB3L2
 template_length: '1579'
@@ -177,9 +173,8 @@ title: CREB3L2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000182158](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000182158) | [64764](https://www.ncbi.nlm.nih.gov/gene/64764) | [MIM:608834](https://omim.org/entry/608834) |  |
-| Mouse |  | [208647](https://www.ncbi.nlm.nih.gov/gene/208647) | [MGI:2442695](http://www.informatics.jax.org/marker/MGI:2442695) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100145418](https://www.ncbi.nlm.nih.gov/gene/100145418), [100037168](https://www.ncbi.nlm.nih.gov/gene/100037168) | [996210](http://www.xenbase.org/gene/showgene.do?method=display&geneId=996210) |  |
-| Zebrafish | [ENSDARG00000063563](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063563) | [791169](https://www.ncbi.nlm.nih.gov/gene/791169) | [ZFIN:ZDB-GENE-070112-1542](https://zfin.org/ZDB-GENE-070112-1542) | ZDB-GENE-070112-1542 |
+| Mouse | [ENSMUSG00000038648](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038648) | [208647](https://www.ncbi.nlm.nih.gov/gene/208647) | [MGI:2442695](http://www.informatics.jax.org/marker/MGI:2442695) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
+| Xenopus |  | [100145418](https://www.ncbi.nlm.nih.gov/gene/100145418) |  |  |
+| Zebrafish | [ENSDARG00000063563](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063563) | [791169](https://www.ncbi.nlm.nih.gov/gene/791169) | [ZFIN:ZDB-GENE-070112-1542](https://zfin.org/ZDB-GENE-070112-1542) | chondrocyte differentiation, regulation of DNA-templated transcription, regulation of ER to Golgi vesicle-mediated transport, regulation of extracellular matrix constituent secretion, regulation of transcription by RNA polymerase II |
 

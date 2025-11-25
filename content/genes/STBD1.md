@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422637
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_429975
-gene_id: '468371'
+gene_id: '422637'
 gene_type: protein-coding
 images:
 - caption: STBD1 expression
@@ -32,32 +32,37 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STBD1.Anderson.2019.Supplementary
     figure 4E.jpg
 name: starch binding domain 1
-ncbi_id: '468371'
+ncbi_id: '422637'
 orthologs:
-- ensembl: ENSG00000108474
-  entrez: '9487'
-  mod: MIM:605947
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ''
+  entrez: ''
+  mod: ''
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000014245
-  entrez: '327942'
-  mod: MGI:2681271
+- ensembl: ''
+  entrez: ''
+  mod: ''
   phenotypes: ''
   species: Mouse
-- ensembl: ENSXETG00000038618
-  entrez: '100495759'
+- ensembl: ''
+  entrez: ''
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000067752
-  entrez: '561471'
-  mod: ZFIN:ZDB-GENE-050506-60
+- ensembl: ''
+  entrez: ''
+  mod: ''
   phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468371
+  url: https://www.ncbi.nlm.nih.gov/gene/422637
 species: Gallus gallus
 symbol: STBD1
 title: STBD1
@@ -83,8 +88,9 @@ title: STBD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Human | [ENSG00000108474](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000108474) | [9487](https://www.ncbi.nlm.nih.gov/gene/9487) | [MIM:605947](https://omim.org/entry/605947) |  |
-| Mouse | [ENSMUSG00000014245](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000014245) | [327942](https://www.ncbi.nlm.nih.gov/gene/327942) | [MGI:2681271](http://www.informatics.jax.org/marker/MGI:2681271) |  |
-| Xenopus | [ENSXETG00000038618](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000038618) | [100495759](https://www.ncbi.nlm.nih.gov/gene/100495759) |  |  |
-| Zebrafish | [ENSDARG00000067752](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000067752) | [561471](https://www.ncbi.nlm.nih.gov/gene/561471) | [ZFIN:ZDB-GENE-050506-60](https://zfin.org/ZDB-GENE-050506-60) |  |
+| Fruit Fly |  |  |  |  |
+| Human |  |  |  |  |
+| Mouse |  |  |  |  |
+| Xenopus |  |  |  |  |
+| Zebrafish |  |  |  |  |
 

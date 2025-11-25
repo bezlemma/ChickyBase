@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:404530
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_206985
-gene_id: '455683'
+gene_id: '404530'
 gene_type: protein-coding
 images:
 - caption: TNMD expression
@@ -255,13 +255,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.2._AllImages_Yamamoto-Shiraishi.2013.jpg
 name: tenomodulin
-ncbi_id: '455683'
+ncbi_id: '404530'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000000005
   entrez: '64102'
   mod: MIM:300459
@@ -272,20 +267,21 @@ orthologs:
   mod: MGI:1929885
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '991485'
+- ensembl: ENSXETG00000033578
+  entrez: '101731375'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000052615
   entrez: '556984'
   mod: ZFIN:ZDB-GENE-080220-31
-  phenotypes: ZDB-GENE-080220-31
+  phenotypes: negative regulation of angiogenesis, negative regulation of endothelial
+    cell proliferation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455683
+  url: https://www.ncbi.nlm.nih.gov/gene/404530
 species: Gallus gallus
 symbol: TNMD
 title: TNMD
@@ -311,9 +307,8 @@ title: TNMD
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000000005](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000000005) | [64102](https://www.ncbi.nlm.nih.gov/gene/64102) | [MIM:300459](https://omim.org/entry/300459) |  |
 | Mouse | [ENSMUSG00000031250](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031250) | [64103](https://www.ncbi.nlm.nih.gov/gene/64103) | [MGI:1929885](http://www.informatics.jax.org/marker/MGI:1929885) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  |  | [991485](http://www.xenbase.org/gene/showgene.do?method=display&geneId=991485) |  |
-| Zebrafish |  | [556984](https://www.ncbi.nlm.nih.gov/gene/556984) | [ZFIN:ZDB-GENE-080220-31](https://zfin.org/ZDB-GENE-080220-31) | ZDB-GENE-080220-31 |
+| Xenopus | [ENSXETG00000033578](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033578) | [101731375](https://www.ncbi.nlm.nih.gov/gene/101731375) |  |  |
+| Zebrafish | [ENSDARG00000052615](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052615) | [556984](https://www.ncbi.nlm.nih.gov/gene/556984) | [ZFIN:ZDB-GENE-080220-31](https://zfin.org/ZDB-GENE-080220-31) | negative regulation of angiogenesis, negative regulation of endothelial cell proliferation |
 

@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421715
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419752
 forward_primer: GAGTATGTCTTTCCTCGTGTCCAAG
-gene_id: '454730'
+gene_id: '421715'
 gene_type: protein-coding
 images:
 - caption: RSPO3 expression
@@ -344,14 +344,9 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RSPO3.Anderson.2019.Fig3.jpg
 name: R-spondin 3
-ncbi_id: '454730'
+ncbi_id: '421715'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000146374
   entrez: '84870'
   mod: MIM:610574
   phenotypes: ''
@@ -361,24 +356,25 @@ orthologs:
   mod: MGI:1920030
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010624
   entrez: '496565'
-  mod: '994473'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000070081
   entrez: '100007702'
   mod: ZFIN:ZDB-GENE-030131-9814
-  phenotypes: ZDB-GENE-030131-9814
+  phenotypes: Wnt signaling pathway, adipose tissue development, blood vessel remodeling,
+    cranial skeletal system development, negative regulation of Wnt signaling pathway
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAGCATTGTCCATTTGCGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454730
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421715
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454730
+  url: https://www.ncbi.nlm.nih.gov/gene/421715
 species: Gallus gallus
 symbol: RSPO3
 template_length: '705'
@@ -405,9 +401,8 @@ title: RSPO3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [84870](https://www.ncbi.nlm.nih.gov/gene/84870) | [MIM:610574](https://omim.org/entry/610574) |  |
+| Human | [ENSG00000146374](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000146374) | [84870](https://www.ncbi.nlm.nih.gov/gene/84870) | [MIM:610574](https://omim.org/entry/610574) |  |
 | Mouse | [ENSMUSG00000019880](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019880) | [72780](https://www.ncbi.nlm.nih.gov/gene/72780) | [MGI:1920030](http://www.informatics.jax.org/marker/MGI:1920030) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [496565](https://www.ncbi.nlm.nih.gov/gene/496565) | [994473](http://www.xenbase.org/gene/showgene.do?method=display&geneId=994473) |  |
-| Zebrafish | [ENSDARG00000070081](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070081) | [100007702](https://www.ncbi.nlm.nih.gov/gene/100007702) | [ZFIN:ZDB-GENE-030131-9814](https://zfin.org/ZDB-GENE-030131-9814) | ZDB-GENE-030131-9814 |
+| Xenopus | [ENSXETG00000010624](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010624) | [496565](https://www.ncbi.nlm.nih.gov/gene/496565) |  |  |
+| Zebrafish | [ENSDARG00000070081](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070081) | [100007702](https://www.ncbi.nlm.nih.gov/gene/100007702) | [ZFIN:ZDB-GENE-030131-9814](https://zfin.org/ZDB-GENE-030131-9814) | Wnt signaling pathway, adipose tissue development, blood vessel remodeling, cranial skeletal system development, negative regulation of Wnt signaling pathway |
 

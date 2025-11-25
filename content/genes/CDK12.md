@@ -4,7 +4,6 @@ aliases:
 - Cdc2-related kinase, arginine/serine-rich
 cgnc_id: '53328'
 external_ids:
-  '25': stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0037093
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/40385
@@ -13,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428306
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425866
 forward_primer: 5’-TTCGAAACAGCTGGGAAC-3’
-gene_id: '462434'
+gene_id: '428306'
 gene_type: protein-coding
 images:
 - caption: CDK12 expression
@@ -107,13 +106,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R680.CDK12.S25AA.001.jpg
 name: cyclin dependent kinase 12
-ncbi_id: '462434'
+ncbi_id: '428306'
 orthologs:
-- ensembl: ''
-  entrez: '40385'
-  mod: FBgn0037093
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000167258
   entrez: '51755'
   mod: MIM:615514
@@ -124,24 +118,19 @@ orthologs:
   mod: MGI:1098802
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000023695
   entrez: '100038049'
-  mod: '493307'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ZFIN:ZDB-GENE-081104-294
-  phenotypes: ZDB-GENE-081104-294
-  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTCTTGTTTGTCCGTGACG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462434
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428306
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462434
+  url: https://www.ncbi.nlm.nih.gov/gene/428306
 species: Gallus gallus
 symbol: CDK12
 template_length: '903'
@@ -166,9 +155,7 @@ title: CDK12
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40385](https://www.ncbi.nlm.nih.gov/gene/40385) | FBgn0037093 |  |
 | Human | [ENSG00000167258](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000167258) | [51755](https://www.ncbi.nlm.nih.gov/gene/51755) | [MIM:615514](https://omim.org/entry/615514) |  |
 | Mouse | [ENSMUSG00000003119](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000003119) | [69131](https://www.ncbi.nlm.nih.gov/gene/69131) | [MGI:1098802](http://www.informatics.jax.org/marker/MGI:1098802) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100038049](https://www.ncbi.nlm.nih.gov/gene/100038049) | [493307](http://www.xenbase.org/gene/showgene.do?method=display&geneId=493307) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-081104-294](https://zfin.org/ZDB-GENE-081104-294) | ZDB-GENE-081104-294 |
+| Xenopus | [ENSXETG00000023695](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023695) | [100038049](https://www.ncbi.nlm.nih.gov/gene/100038049) |  |  |
 

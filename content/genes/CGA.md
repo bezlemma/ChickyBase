@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421829
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001278021
-gene_id: '455409'
+gene_id: '421829'
 gene_type: protein-coding
 images:
 - caption: CGA expression
@@ -113,13 +113,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/alpaGSU.Parkinson.2010.Fig.2.png
 name: glycoprotein hormones, alpha polypeptide
-ncbi_id: '455409'
+ncbi_id: '421829'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000135346
   entrez: '1081'
   mod: MIM:118850
@@ -130,20 +125,20 @@ orthologs:
   mod: MGI:88390
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100488153,432256,378681
-  mod: '478482'
+- ensembl: ENSXETG00000018063
+  entrez: '100488153'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000040479
   entrez: '402987'
   mod: ZFIN:ZDB-GENE-040715-2
-  phenotypes: ZDB-GENE-040715-2
+  phenotypes: G protein-coupled receptor signaling pathway
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455409
+  url: https://www.ncbi.nlm.nih.gov/gene/421829
 species: Gallus gallus
 symbol: CGA
 title: CGA
@@ -171,9 +166,8 @@ title: CGA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000135346](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135346) | [1081](https://www.ncbi.nlm.nih.gov/gene/1081) | [MIM:118850](https://omim.org/entry/118850) |  |
 | Mouse | [ENSMUSG00000028298](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028298) | [12640](https://www.ncbi.nlm.nih.gov/gene/12640) | [MGI:88390](http://www.informatics.jax.org/marker/MGI:88390) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100488153](https://www.ncbi.nlm.nih.gov/gene/100488153), [432256](https://www.ncbi.nlm.nih.gov/gene/432256), [378681](https://www.ncbi.nlm.nih.gov/gene/378681) | [478482](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478482) |  |
-| Zebrafish | [ENSDARG00000040479](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040479) | [402987](https://www.ncbi.nlm.nih.gov/gene/402987) | [ZFIN:ZDB-GENE-040715-2](https://zfin.org/ZDB-GENE-040715-2) | ZDB-GENE-040715-2 |
+| Xenopus | [ENSXETG00000018063](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018063) | [100488153](https://www.ncbi.nlm.nih.gov/gene/100488153) |  |  |
+| Zebrafish | [ENSDARG00000040479](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040479) | [402987](https://www.ncbi.nlm.nih.gov/gene/402987) | [ZFIN:ZDB-GENE-040715-2](https://zfin.org/ZDB-GENE-040715-2) | G protein-coupled receptor signaling pathway |
 

@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419570
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006309
-gene_id: '458186'
+gene_id: '419570'
 gene_type: protein-coding
 images:
 - caption: HNRNPR expression
@@ -40,14 +40,9 @@ images:
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/37.h11f.95.16.jpg
 name: heterogeneous nuclear ribonucleoprotein R
-ncbi_id: '458186'
+ncbi_id: '419570'
 orthologs:
-- ensembl: ''
-  entrez: '42460'
-  mod: FBgn0038826
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000125944
+- ensembl: ENSG00000282958
   entrez: '10236'
   mod: MIM:607201
   phenotypes: ''
@@ -57,23 +52,18 @@ orthologs:
   mod: MGI:1891692
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 734078,100158425
-  mod: '5726054'
+- ensembl: ENSXETG00000007102
+  entrez: '734078'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '406735'
-  mod: ZFIN:ZDB-GENE-040426-2766
-  phenotypes: ZDB-GENE-040426-2766
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458186
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419570
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458186
+  url: https://www.ncbi.nlm.nih.gov/gene/419570
 species: Gallus gallus
 symbol: HNRNPR
 title: HNRNPR
@@ -98,9 +88,7 @@ title: HNRNPR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42460](https://www.ncbi.nlm.nih.gov/gene/42460) | FBgn0038826 |  |
-| Human | [ENSG00000125944](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125944) | [10236](https://www.ncbi.nlm.nih.gov/gene/10236) | [MIM:607201](https://omim.org/entry/607201) |  |
+| Human | [ENSG00000282958](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000282958) | [10236](https://www.ncbi.nlm.nih.gov/gene/10236) | [MIM:607201](https://omim.org/entry/607201) |  |
 | Mouse | [ENSMUSG00000066037](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000066037) | [74326](https://www.ncbi.nlm.nih.gov/gene/74326) | [MGI:1891692](http://www.informatics.jax.org/marker/MGI:1891692) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [734078](https://www.ncbi.nlm.nih.gov/gene/734078), [100158425](https://www.ncbi.nlm.nih.gov/gene/100158425) | [5726054](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5726054) |  |
-| Zebrafish |  | [406735](https://www.ncbi.nlm.nih.gov/gene/406735) | [ZFIN:ZDB-GENE-040426-2766](https://zfin.org/ZDB-GENE-040426-2766) | ZDB-GENE-040426-2766 |
+| Xenopus | [ENSXETG00000007102](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007102) | [734078](https://www.ncbi.nlm.nih.gov/gene/734078) |  |  |
 

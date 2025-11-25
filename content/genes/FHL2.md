@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418726
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416924
 forward_primer: 5’-GGATGAGTTTGCATATTGCC-3’
-gene_id: '453847'
+gene_id: '418726'
 gene_type: protein-coding
 images:
 - caption: FHL2 expression
@@ -91,13 +91,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R701.FHL2.S24.001.jpg
 name: four and a half LIM domains 2
-ncbi_id: '453847'
+ncbi_id: '418726'
 orthologs:
-- ensembl: ''
-  entrez: '39889'
-  mod: FBgn0261565
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000115641
   entrez: '2274'
   mod: MIM:602633
@@ -108,24 +103,24 @@ orthologs:
   mod: MGI:1338762
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000002577
   entrez: '100145283'
-  mod: '969631'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000042018,ENSDARG00000003991
-  entrez: 445277,450007
-  mod: ZFIN:ZDB-GENE-040808-49,ZFIN:ZDB-GENE-041010-121
-  phenotypes: ZDB-GENE-040808-49,ZDB-GENE-041010-121
+- ensembl: ENSDARG00000003991
+  entrez: '450007'
+  mod: ZFIN:ZDB-GENE-041010-121
+  phenotypes: skeletal muscle tissue regeneration
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGAGACCACAGCCTTATTGAA-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453847
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418726
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453847
+  url: https://www.ncbi.nlm.nih.gov/gene/418726
 species: Gallus gallus
 symbol: FHL2
 template_length: '676'
@@ -152,9 +147,8 @@ title: FHL2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39889](https://www.ncbi.nlm.nih.gov/gene/39889) | FBgn0261565 |  |
 | Human | [ENSG00000115641](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000115641) | [2274](https://www.ncbi.nlm.nih.gov/gene/2274) | [MIM:602633](https://omim.org/entry/602633) |  |
 | Mouse | [ENSMUSG00000008136](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000008136) | [14200](https://www.ncbi.nlm.nih.gov/gene/14200) | [MGI:1338762](http://www.informatics.jax.org/marker/MGI:1338762) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100145283](https://www.ncbi.nlm.nih.gov/gene/100145283) | [969631](http://www.xenbase.org/gene/showgene.do?method=display&geneId=969631) |  |
-| Zebrafish | [ENSDARG00000042018](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042018), [ENSDARG00000003991](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003991) | [445277](https://www.ncbi.nlm.nih.gov/gene/445277), [450007](https://www.ncbi.nlm.nih.gov/gene/450007) | [ZFIN:ZDB-GENE-040808-49](https://zfin.org/ZDB-GENE-040808-49), [ZFIN:ZDB-GENE-041010-121](https://zfin.org/ZDB-GENE-041010-121) | ZDB-GENE-040808-49,ZDB-GENE-041010-121 |
+| Xenopus | [ENSXETG00000002577](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002577) | [100145283](https://www.ncbi.nlm.nih.gov/gene/100145283) |  |  |
+| Zebrafish | [ENSDARG00000003991](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003991) | [450007](https://www.ncbi.nlm.nih.gov/gene/450007) | [ZFIN:ZDB-GENE-041010-121](https://zfin.org/ZDB-GENE-041010-121) | skeletal muscle tissue regeneration |
 

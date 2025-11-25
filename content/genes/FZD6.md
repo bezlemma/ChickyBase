@@ -5,7 +5,6 @@ aliases:
 - frizzled homolog 6
 cgnc_id: '49120'
 external_ids:
-  '25': stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0016055
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Antoni+craniofacial+wnt+fu
@@ -19,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004930
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001271931
 forward_primer: AACTTGGGTGTTTGACCACTGTGAC
-gene_id: '458641'
+gene_id: '378788'
 gene_type: protein-coding
 images:
 - caption: FZD6 expression
@@ -173,36 +172,38 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZD6.GeethaLoganathan.2009.Figure8.panelA.png
 name: frizzled class receptor 6
-ncbi_id: '458641'
+ncbi_id: '378788'
 orthologs:
-- ensembl: ENSG00000183785
-  entrez: '51807'
-  mod: MIM:605742
+- ensembl: ENSG00000164930
+  entrez: '8323'
+  mod: MIM:603409
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000030137
-  entrez: '53857'
-  mod: MGI:1858225
+- ensembl: ENSMUSG00000022297
+  entrez: '14368'
+  mod: MGI:108474
   phenotypes: ''
   species: Mouse
-- ensembl: ENSXETG00000044622
-  entrez: '100037894'
+- ensembl: ENSXETG00000004106
+  entrez: '100490861'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000042708
-  entrez: '337223'
-  mod: ZFIN:ZDB-GENE-030131-9167
-  phenotypes: ''
+- ensembl: ENSDARG00000104874
+  entrez: '393533'
+  mod: ZFIN:ZDB-GENE-040426-1451
+  phenotypes: G protein-coupled receptor signaling pathway, Wnt signaling pathway,
+    angiogenesis, canonical Wnt signaling pathway, cell surface receptor signaling
+    pathway
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTGAATCCATCTCCTTCCTGCCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458641
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=378788
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458641
+  url: https://www.ncbi.nlm.nih.gov/gene/378788
 species: Gallus gallus
 symbol: FZD6
 template_length: '766'
@@ -232,8 +233,8 @@ title: FZD6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Human | [ENSG00000183785](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000183785) | [51807](https://www.ncbi.nlm.nih.gov/gene/51807) | [MIM:605742](https://omim.org/entry/605742) |  |
-| Mouse | [ENSMUSG00000030137](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030137) | [53857](https://www.ncbi.nlm.nih.gov/gene/53857) | [MGI:1858225](http://www.informatics.jax.org/marker/MGI:1858225) |  |
-| Xenopus | [ENSXETG00000044622](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044622) | [100037894](https://www.ncbi.nlm.nih.gov/gene/100037894) |  |  |
-| Zebrafish | [ENSDARG00000042708](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042708) | [337223](https://www.ncbi.nlm.nih.gov/gene/337223) | [ZFIN:ZDB-GENE-030131-9167](https://zfin.org/ZDB-GENE-030131-9167) |  |
+| Human | [ENSG00000164930](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164930) | [8323](https://www.ncbi.nlm.nih.gov/gene/8323) | [MIM:603409](https://omim.org/entry/603409) |  |
+| Mouse | [ENSMUSG00000022297](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022297) | [14368](https://www.ncbi.nlm.nih.gov/gene/14368) | [MGI:108474](http://www.informatics.jax.org/marker/MGI:108474) |  |
+| Xenopus | [ENSXETG00000004106](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004106) | [100490861](https://www.ncbi.nlm.nih.gov/gene/100490861) |  |  |
+| Zebrafish | [ENSDARG00000104874](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104874) | [393533](https://www.ncbi.nlm.nih.gov/gene/393533) | [ZFIN:ZDB-GENE-040426-1451](https://zfin.org/ZDB-GENE-040426-1451) | G protein-coupled receptor signaling pathway, Wnt signaling pathway, angiogenesis, canonical Wnt signaling pathway, cell surface receptor signaling pathway |
 

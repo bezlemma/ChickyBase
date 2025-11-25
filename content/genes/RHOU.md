@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428589
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426146
 forward_primer: CAAGGAGGTCTTTGATGCG
-gene_id: '461177'
+gene_id: '428589'
 gene_type: protein-coding
 images:
 - caption: RHOU expression
@@ -213,13 +213,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R399.RHOU.S26g.001.jpg
 name: ras homolog family member U
-ncbi_id: '461177'
+ncbi_id: '428589'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000116574
   entrez: '58480'
   mod: MIM:606366
@@ -230,24 +225,25 @@ orthologs:
   mod: MGI:1916831
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ENSXETG00000014956
-  entrez: 548469,493579
-  mod: '491189'
+- ensembl: ENSXETG00000002589
+  entrez: '548469'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000019709
   entrez: '492802'
   mod: ZFIN:ZDB-GENE-040618-3
-  phenotypes: ZDB-GENE-040618-3
+  phenotypes: actin filament organization, atrioventricular canal development, cytoskeleton
+    organization, endocytosis, establishment of cell polarity
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAAATGAGATGTCAGTGCCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461177
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428589
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461177
+  url: https://www.ncbi.nlm.nih.gov/gene/428589
 species: Gallus gallus
 symbol: RHOU
 template_length: '761'
@@ -274,9 +270,8 @@ title: RHOU
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000116574](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000116574) | [58480](https://www.ncbi.nlm.nih.gov/gene/58480) | [MIM:606366](https://omim.org/entry/606366) |  |
 | Mouse | [ENSMUSG00000039960](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039960) | [69581](https://www.ncbi.nlm.nih.gov/gene/69581) | [MGI:1916831](http://www.informatics.jax.org/marker/MGI:1916831) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus | [ENSXETG00000014956](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014956) | [548469](https://www.ncbi.nlm.nih.gov/gene/548469), [493579](https://www.ncbi.nlm.nih.gov/gene/493579) | [491189](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491189) |  |
-| Zebrafish | [ENSDARG00000019709](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019709) | [492802](https://www.ncbi.nlm.nih.gov/gene/492802) | [ZFIN:ZDB-GENE-040618-3](https://zfin.org/ZDB-GENE-040618-3) | ZDB-GENE-040618-3 |
+| Xenopus | [ENSXETG00000002589](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002589) | [548469](https://www.ncbi.nlm.nih.gov/gene/548469) |  |  |
+| Zebrafish | [ENSDARG00000019709](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019709) | [492802](https://www.ncbi.nlm.nih.gov/gene/492802) | [ZFIN:ZDB-GENE-040618-3](https://zfin.org/ZDB-GENE-040618-3) | actin filament organization, atrioventricular canal development, cytoskeleton organization, endocytosis, establishment of cell polarity |
 

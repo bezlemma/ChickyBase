@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426970
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424580
-gene_id: '451703'
+gene_id: '426970'
 gene_type: protein-coding
 images:
 - caption: CASP9 expression
@@ -40,37 +40,29 @@ images:
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gibson.Fig4.CAS9.F.St5.jpg
 name: caspase 9
-ncbi_id: '451703'
+ncbi_id: '426970'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000132906
+  entrez: '842'
+  mod: MIM:602234
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000028914
+  entrez: '12371'
+  mod: MGI:1277950
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000004325
+  entrez: '492763'
+  mod: ZFIN:ZDB-GENE-030825-5
+  phenotypes: DNA damage response, apoptotic process, intrinsic apoptotic signaling
+    pathway in response to DNA damage, kidney development, positive regulation of
+    apoptotic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451703
+  url: https://www.ncbi.nlm.nih.gov/gene/426970
 species: Gallus gallus
 symbol: CASP9
 title: CASP9
@@ -96,9 +88,7 @@ title: CASP9
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000132906](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000132906) | [842](https://www.ncbi.nlm.nih.gov/gene/842) | [MIM:602234](https://omim.org/entry/602234) |  |
+| Mouse | [ENSMUSG00000028914](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028914) | [12371](https://www.ncbi.nlm.nih.gov/gene/12371) | [MGI:1277950](http://www.informatics.jax.org/marker/MGI:1277950) |  |
+| Zebrafish | [ENSDARG00000004325](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004325) | [492763](https://www.ncbi.nlm.nih.gov/gene/492763) | [ZFIN:ZDB-GENE-030825-5](https://zfin.org/ZDB-GENE-030825-5) | DNA damage response, apoptotic process, intrinsic apoptotic signaling pathway in response to DNA damage, kidney development, positive regulation of apoptotic process |
 

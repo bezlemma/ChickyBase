@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418870
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001193575
 forward_primer: 5'- GGTGCCACATGCTGACAAC-3'
-gene_id: '454180'
+gene_id: '418870'
 gene_type: protein-coding
 images:
 - caption: KPNA3 expression
@@ -87,13 +87,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R727.KPNA3.S26.001.jpg
 name: karyopherin subunit alpha 3
-ncbi_id: '454180'
+ncbi_id: '418870'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000102753
   entrez: '3839'
   mod: MIM:601892
@@ -104,24 +99,25 @@ orthologs:
   mod: MGI:1100863
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 548814,432069
-  mod: '953228'
+- ensembl: ENSXETG00000015677
+  entrez: '548814'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000052641
   entrez: '368640'
   mod: ZFIN:ZDB-GENE-030616-541
-  phenotypes: ZDB-GENE-030616-541
+  phenotypes: NLS-bearing protein import into nucleus, animal organ development, protein
+    import into nucleus, protein transport
   species: Zebrafish
 reverse_primer: 5'- AATTAACCCTCACTAAAGGAGCCTCACACGTCAACCAG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454180
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418870
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454180
+  url: https://www.ncbi.nlm.nih.gov/gene/418870
 species: Gallus gallus
 symbol: KPNA3
 template_length: '967'
@@ -144,9 +140,8 @@ title: KPNA3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000102753](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000102753) | [3839](https://www.ncbi.nlm.nih.gov/gene/3839) | [MIM:601892](https://omim.org/entry/601892) |  |
 | Mouse | [ENSMUSG00000021929](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021929) | [16648](https://www.ncbi.nlm.nih.gov/gene/16648) | [MGI:1100863](http://www.informatics.jax.org/marker/MGI:1100863) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [548814](https://www.ncbi.nlm.nih.gov/gene/548814), [432069](https://www.ncbi.nlm.nih.gov/gene/432069) | [953228](http://www.xenbase.org/gene/showgene.do?method=display&geneId=953228) |  |
-| Zebrafish |  | [368640](https://www.ncbi.nlm.nih.gov/gene/368640) | [ZFIN:ZDB-GENE-030616-541](https://zfin.org/ZDB-GENE-030616-541) | ZDB-GENE-030616-541 |
+| Xenopus | [ENSXETG00000015677](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015677) | [548814](https://www.ncbi.nlm.nih.gov/gene/548814) |  |  |
+| Zebrafish | [ENSDARG00000052641](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052641) | [368640](https://www.ncbi.nlm.nih.gov/gene/368640) | [ZFIN:ZDB-GENE-030616-541](https://zfin.org/ZDB-GENE-030616-541) | NLS-bearing protein import into nucleus, animal organ development, protein import into nucleus, protein transport |
 

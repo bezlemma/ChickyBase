@@ -5,8 +5,6 @@ aliases:
 - sex determining region Y-box 5
 cgnc_id: '9966'
 external_ids:
-  '25': stage 25stage 25stage 25
-  '31': stage 31stage 31
   Citation: http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=Chimal-Monroy+macias+cascade+Sox
   Comments: "Fragments of L-Sox5 (760 bp) chicken gene was obtained by RT-PCR using\
     \ the following primers: 5′ primer, 5′-ATGAATGCCTTCATGGTGTGG-3′, and 3′ primer,\
@@ -19,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418195
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004385
-gene_id: '455069'
+gene_id: '418195'
 gene_type: protein-coding
 images:
 - caption: SOX5 expression
@@ -161,13 +159,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Screen shot 2011-05-17
     at 2.17.44 PM.png
 name: SRY-box 5
-ncbi_id: '455069'
+ncbi_id: '418195'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134532
   entrez: '6660'
   mod: MIM:604975
@@ -179,23 +172,24 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Transposon induced(1) Targeted, knock-out(1)
     Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100038209,378594
-  mod: '487031'
+- ensembl: ENSXETG00000026458
+  entrez: '100038209'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000011582
   entrez: '567413'
   mod: ZFIN:ZDB-GENE-000607-13
-  phenotypes: ZDB-GENE-000607-13
+  phenotypes: cell differentiation, cell fate commitment, iridophore differentiation,
+    melanocyte differentiation, positive regulation of chondrocyte differentiation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455069
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418195
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455069
+  url: https://www.ncbi.nlm.nih.gov/gene/418195
 species: Gallus gallus
 symbol: SOX5
 title: SOX5
@@ -224,9 +218,8 @@ Forward primer was located in available sequence, reverse primer was not.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000134532](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134532) | [6660](https://www.ncbi.nlm.nih.gov/gene/6660) | [MIM:604975](https://omim.org/entry/604975) |  |
 | Mouse | [ENSMUSG00000041540](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041540) | [20678](https://www.ncbi.nlm.nih.gov/gene/20678) | [MGI:98367](http://www.informatics.jax.org/marker/MGI:98367) | All phenotypic alleles (5):Transposon induced(1) Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100038209](https://www.ncbi.nlm.nih.gov/gene/100038209), [378594](https://www.ncbi.nlm.nih.gov/gene/378594) | [487031](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487031) |  |
-| Zebrafish | [ENSDARG00000011582](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011582) | [567413](https://www.ncbi.nlm.nih.gov/gene/567413) | [ZFIN:ZDB-GENE-000607-13](https://zfin.org/ZDB-GENE-000607-13) | ZDB-GENE-000607-13 |
+| Xenopus | [ENSXETG00000026458](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026458) | [100038209](https://www.ncbi.nlm.nih.gov/gene/100038209) |  |  |
+| Zebrafish | [ENSDARG00000011582](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011582) | [567413](https://www.ncbi.nlm.nih.gov/gene/567413) | [ZFIN:ZDB-GENE-000607-13](https://zfin.org/ZDB-GENE-000607-13) | cell differentiation, cell fate commitment, iridophore differentiation, melanocyte differentiation, positive regulation of chondrocyte differentiation |
 

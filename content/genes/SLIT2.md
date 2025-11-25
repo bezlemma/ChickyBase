@@ -17,7 +17,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001267075
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/SLIT2
-gene_id: '451538'
+gene_id: '373967'
 gene_type: protein-coding
 images:
 - caption: SLIT2 expression
@@ -409,37 +409,33 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLIT2.Anderson.2019.Supplementary
     figure 5G2.jpg
 name: slit guidance ligand 2
-ncbi_id: '451538'
+ncbi_id: '373967'
 orthologs:
-- ensembl: ''
-  entrez: '36746'
-  mod: FBgn0264089
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000145147
   entrez: '9353'
   mod: MIM:603746
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000031558
   entrez: '20563'
   mod: MGI:1315205
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100492007,394404
-  mod: '1004409'
+- ensembl: ENSXETG00000020473
+  entrez: '100492007'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000004246
   entrez: '80353'
   mod: ZFIN:ZDB-GENE-010306-3
-  phenotypes: ZDB-GENE-010306-3
+  phenotypes: animal organ development, anterior/posterior axon guidance, axon guidance,
+    axonal defasciculation, cell differentiation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451538
+  url: https://www.ncbi.nlm.nih.gov/gene/373967
 species: Gallus gallus
 symbol: SLIT2
 title: SLIT2
@@ -469,9 +465,8 @@ title: SLIT2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36746](https://www.ncbi.nlm.nih.gov/gene/36746) | FBgn0264089 |  |
 | Human | [ENSG00000145147](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145147) | [9353](https://www.ncbi.nlm.nih.gov/gene/9353) | [MIM:603746](https://omim.org/entry/603746) |  |
-| Mouse |  | [20563](https://www.ncbi.nlm.nih.gov/gene/20563) | [MGI:1315205](http://www.informatics.jax.org/marker/MGI:1315205) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100492007](https://www.ncbi.nlm.nih.gov/gene/100492007), [394404](https://www.ncbi.nlm.nih.gov/gene/394404) | [1004409](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1004409) |  |
-| Zebrafish | [ENSDARG00000004246](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004246) | [80353](https://www.ncbi.nlm.nih.gov/gene/80353) | [ZFIN:ZDB-GENE-010306-3](https://zfin.org/ZDB-GENE-010306-3) | ZDB-GENE-010306-3 |
+| Mouse | [ENSMUSG00000031558](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031558) | [20563](https://www.ncbi.nlm.nih.gov/gene/20563) | [MGI:1315205](http://www.informatics.jax.org/marker/MGI:1315205) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
+| Xenopus | [ENSXETG00000020473](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020473) | [100492007](https://www.ncbi.nlm.nih.gov/gene/100492007) |  |  |
+| Zebrafish | [ENSDARG00000004246](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004246) | [80353](https://www.ncbi.nlm.nih.gov/gene/80353) | [ZFIN:ZDB-GENE-010306-3](https://zfin.org/ZDB-GENE-010306-3) | animal organ development, anterior/posterior axon guidance, axon guidance, axonal defasciculation, cell differentiation |
 

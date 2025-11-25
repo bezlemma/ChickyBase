@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395584
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204800
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCTGCTCCAACGATGATGAGGAC
-gene_id: '449712'
+gene_id: '395584'
 gene_type: protein-coding
 images:
 - caption: SPRY2 expression
@@ -525,13 +525,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPRY2.Anderson.2019.Supplementary
     figure 5A.jpg
 name: sprouty RTK signaling antagonist 2
-ncbi_id: '449712'
+ncbi_id: '395584'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136158
   entrez: '10253'
   mod: MIM:602466
@@ -542,24 +537,26 @@ orthologs:
   mod: MGI:1345138
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 449471,398313
-  mod: '482100'
+- ensembl: ENSXETG00000045936
+  entrez: '449471'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000078308
-  entrez: 100330834,335098
+  entrez: '335098'
   mod: ZFIN:ZDB-GENE-030131-7038
-  phenotypes: ZDB-GENE-030131-7038
+  phenotypes: angiogenesis, animal organ development, dorsal/ventral pattern formation,
+    negative regulation of ERK1 and ERK2 cascade, negative regulation of Ras protein
+    signal transduction
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAGGGGTGACACTTGTAAGATGCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449712
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395584
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449712
+  url: https://www.ncbi.nlm.nih.gov/gene/395584
 species: Gallus gallus
 symbol: SPRY2
 template_length: '1013'
@@ -588,9 +585,8 @@ title: SPRY2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000136158](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136158) | [10253](https://www.ncbi.nlm.nih.gov/gene/10253) | [MIM:602466](https://omim.org/entry/602466) |  |
 | Mouse | [ENSMUSG00000022114](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022114) | [24064](https://www.ncbi.nlm.nih.gov/gene/24064) | [MGI:1345138](http://www.informatics.jax.org/marker/MGI:1345138) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [449471](https://www.ncbi.nlm.nih.gov/gene/449471), [398313](https://www.ncbi.nlm.nih.gov/gene/398313) | [482100](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482100) |  |
-| Zebrafish | [ENSDARG00000078308](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078308) | [100330834](https://www.ncbi.nlm.nih.gov/gene/100330834), [335098](https://www.ncbi.nlm.nih.gov/gene/335098) | [ZFIN:ZDB-GENE-030131-7038](https://zfin.org/ZDB-GENE-030131-7038) | ZDB-GENE-030131-7038 |
+| Xenopus | [ENSXETG00000045936](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000045936) | [449471](https://www.ncbi.nlm.nih.gov/gene/449471) |  |  |
+| Zebrafish | [ENSDARG00000078308](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078308) | [335098](https://www.ncbi.nlm.nih.gov/gene/335098) | [ZFIN:ZDB-GENE-030131-7038](https://zfin.org/ZDB-GENE-030131-7038) | angiogenesis, animal organ development, dorsal/ventral pattern formation, negative regulation of ERK1 and ERK2 cascade, negative regulation of Ras protein signal transduction |
 

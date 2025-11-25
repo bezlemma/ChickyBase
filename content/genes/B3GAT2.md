@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428638
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031527
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/B3GAT2
-gene_id: '460415'
+gene_id: '428638'
 gene_type: protein-coding
 images:
 - caption: B3GAT2 expression
@@ -40,37 +40,33 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/hh26.ray.jpg
 name: beta-1,3-glucuronyltransferase 2
-ncbi_id: '460415'
+ncbi_id: '428638'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000112309
   entrez: '135152'
   mod: MIM:607497
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000026156
   entrez: '280645'
   mod: MGI:2389490
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 594928,733177
-  mod: '921700'
+- ensembl: ENSXETG00000017898
+  entrez: '594928'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000030733
   entrez: '445060'
   mod: ZFIN:ZDB-GENE-040801-191
-  phenotypes: ZDB-GENE-040801-191
+  phenotypes: carbohydrate metabolic process, chondroitin sulfate proteoglycan biosynthetic
+    process, protein glycosylation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460415
+  url: https://www.ncbi.nlm.nih.gov/gene/428638
 species: Gallus gallus
 symbol: B3GAT2
 title: B3GAT2
@@ -97,9 +93,8 @@ title: B3GAT2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [135152](https://www.ncbi.nlm.nih.gov/gene/135152) | [MIM:607497](https://omim.org/entry/607497) |  |
-| Mouse |  | [280645](https://www.ncbi.nlm.nih.gov/gene/280645) | [MGI:2389490](http://www.informatics.jax.org/marker/MGI:2389490) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [594928](https://www.ncbi.nlm.nih.gov/gene/594928), [733177](https://www.ncbi.nlm.nih.gov/gene/733177) | [921700](http://www.xenbase.org/gene/showgene.do?method=display&geneId=921700) |  |
-| Zebrafish | [ENSDARG00000030733](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030733) | [445060](https://www.ncbi.nlm.nih.gov/gene/445060) | [ZFIN:ZDB-GENE-040801-191](https://zfin.org/ZDB-GENE-040801-191) | ZDB-GENE-040801-191 |
+| Human | [ENSG00000112309](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112309) | [135152](https://www.ncbi.nlm.nih.gov/gene/135152) | [MIM:607497](https://omim.org/entry/607497) |  |
+| Mouse | [ENSMUSG00000026156](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026156) | [280645](https://www.ncbi.nlm.nih.gov/gene/280645) | [MGI:2389490](http://www.informatics.jax.org/marker/MGI:2389490) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
+| Xenopus | [ENSXETG00000017898](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017898) | [594928](https://www.ncbi.nlm.nih.gov/gene/594928) |  |  |
+| Zebrafish | [ENSDARG00000030733](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030733) | [445060](https://www.ncbi.nlm.nih.gov/gene/445060) | [ZFIN:ZDB-GENE-040801-191](https://zfin.org/ZDB-GENE-040801-191) | carbohydrate metabolic process, chondroitin sulfate proteoglycan biosynthetic process, protein glycosylation |
 

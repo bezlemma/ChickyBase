@@ -5,7 +5,6 @@ aliases:
 - frizzled family receptor 1
 cgnc_id: '6896'
 external_ids:
-  '19': stage 19
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007199
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0045177
   Citation: https://pubmed.ncbi.nlm.nih.gov/25063452/
@@ -21,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374062
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004930
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006089.3?report=genbank&from=22261021&to=22263342
-gene_id: '454446'
+gene_id: '374062'
 gene_type: protein-coding
 images:
 - caption: FZD1 expression
@@ -350,14 +349,9 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-FZD1-fig1.jpg
 name: frizzled class receptor 1
-ncbi_id: '454446'
+ncbi_id: '374062'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000157240
   entrez: '8321'
   mod: MIM:603408
   phenotypes: ''
@@ -367,23 +361,19 @@ orthologs:
   mod: MGI:1196625
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100145232,373817
-  mod: '481860'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000041464
-  entrez: 557384,30365
-  mod: ZFIN:ZDB-GENE-990415-219,ZFIN:ZDB-GENE-990415-219
-  phenotypes: ZDB-GENE-990415-219,ZDB-GENE-990415-219
+- ensembl: ENSDARG00000027589
+  entrez: '30412'
+  mod: ZFIN:ZDB-GENE-990415-229
+  phenotypes: canonical Wnt signaling pathway, cell surface receptor signaling pathway,
+    convergent extension involved in gastrulation, epiboly, neuromast development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454446
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374062
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454446
+  url: https://www.ncbi.nlm.nih.gov/gene/374062
 species: Gallus gallus
 symbol: FZD1
 title: FZD1
@@ -413,9 +403,7 @@ title: FZD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [8321](https://www.ncbi.nlm.nih.gov/gene/8321) | [MIM:603408](https://omim.org/entry/603408) |  |
+| Human | [ENSG00000157240](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000157240) | [8321](https://www.ncbi.nlm.nih.gov/gene/8321) | [MIM:603408](https://omim.org/entry/603408) |  |
 | Mouse | [ENSMUSG00000044674](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000044674) | [14362](https://www.ncbi.nlm.nih.gov/gene/14362) | [MGI:1196625](http://www.informatics.jax.org/marker/MGI:1196625) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100145232](https://www.ncbi.nlm.nih.gov/gene/100145232), [373817](https://www.ncbi.nlm.nih.gov/gene/373817) | [481860](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481860) |  |
-| Zebrafish | [ENSDARG00000041464](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041464) | [557384](https://www.ncbi.nlm.nih.gov/gene/557384), [30365](https://www.ncbi.nlm.nih.gov/gene/30365) | [ZFIN:ZDB-GENE-990415-219](https://zfin.org/ZDB-GENE-990415-219), [ZFIN:ZDB-GENE-990415-219](https://zfin.org/ZDB-GENE-990415-219) | ZDB-GENE-990415-219,ZDB-GENE-990415-219 |
+| Zebrafish | [ENSDARG00000027589](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027589) | [30412](https://www.ncbi.nlm.nih.gov/gene/30412) | [ZFIN:ZDB-GENE-990415-229](https://zfin.org/ZDB-GENE-990415-229) | canonical Wnt signaling pathway, cell surface receptor signaling pathway, convergent extension involved in gastrulation, epiboly, neuromast development |
 

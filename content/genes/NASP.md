@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424600
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001235059
-gene_id: '451385'
+gene_id: '424600'
 gene_type: protein-coding
 images:
 - caption: NASP expression
@@ -61,7 +61,7 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/N42.60.25.jpg
 name: nuclear autoantigenic sperm protein
-ncbi_id: '451385'
+ncbi_id: '424600'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -86,15 +86,15 @@ orthologs:
 - ensembl: ENSDARG00000039208
   entrez: '799570'
   mod: ZFIN:ZDB-GENE-030131-5511
-  phenotypes: ZDB-GENE-030131-5511
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451385
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424600
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451385
+  url: https://www.ncbi.nlm.nih.gov/gene/424600
 species: Gallus gallus
 symbol: NASP
 title: NASP
@@ -120,5 +120,5 @@ title: NASP
 | Human | [ENSG00000132780](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000132780) | [4678](https://www.ncbi.nlm.nih.gov/gene/4678) | [MIM:603185](https://omim.org/entry/603185) |  |
 | Mouse | [ENSMUSG00000028693](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028693) | [50927](https://www.ncbi.nlm.nih.gov/gene/50927) | [MGI:1355328](http://www.informatics.jax.org/marker/MGI:1355328) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
 | Xenopus |  | [733514](https://www.ncbi.nlm.nih.gov/gene/733514), [397901](https://www.ncbi.nlm.nih.gov/gene/397901) | [980253](http://www.xenbase.org/gene/showgene.do?method=display&geneId=980253) |  |
-| Zebrafish | [ENSDARG00000039208](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039208) | [799570](https://www.ncbi.nlm.nih.gov/gene/799570) | [ZFIN:ZDB-GENE-030131-5511](https://zfin.org/ZDB-GENE-030131-5511) | ZDB-GENE-030131-5511 |
+| Zebrafish | [ENSDARG00000039208](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039208) | [799570](https://www.ncbi.nlm.nih.gov/gene/799570) | [ZFIN:ZDB-GENE-030131-5511](https://zfin.org/ZDB-GENE-030131-5511) |  |
 

@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374271
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204353
-gene_id: '363846'
+gene_id: '374271'
 gene_type: protein-coding
 images:
 - caption: IGFBP4 expression
@@ -73,37 +73,27 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGFBP4.Singh.2016.Fig2.jpg
 name: insulin like growth factor binding protein 4
-ncbi_id: '363846'
+ncbi_id: '374271'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000141753
+  entrez: '3487'
+  mod: MIM:146733
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000017493
+  entrez: '16010'
+  mod: MGI:96439
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000042693
+  entrez: '100498651'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/363846
+  url: https://www.ncbi.nlm.nih.gov/gene/374271
 species: Gallus gallus
 symbol: IGFBP4
 title: IGFBP4
@@ -129,9 +119,7 @@ title: IGFBP4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000141753](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000141753) | [3487](https://www.ncbi.nlm.nih.gov/gene/3487) | [MIM:146733](https://omim.org/entry/146733) |  |
+| Mouse | [ENSMUSG00000017493](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000017493) | [16010](https://www.ncbi.nlm.nih.gov/gene/16010) | [MGI:96439](http://www.informatics.jax.org/marker/MGI:96439) |  |
+| Xenopus | [ENSXETG00000042693](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000042693) | [100498651](https://www.ncbi.nlm.nih.gov/gene/100498651) |  |  |
 

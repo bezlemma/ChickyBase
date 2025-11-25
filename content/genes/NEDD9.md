@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395736
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418946
 forward_primer: TCACACTGCCGTGGATAAAGTAGAG
-gene_id: '449828'
+gene_id: '395736'
 gene_type: protein-coding
 images:
 - caption: NEDD9 expression
@@ -195,13 +195,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R532.NEDD9.S26AAAA.001.jpg
 name: neural precursor cell expressed, developmentally down-regulated 9
-ncbi_id: '449828'
+ncbi_id: '395736'
 orthologs:
-- ensembl: ''
-  entrez: '38021'
-  mod: FBgn0035101
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000111859
   entrez: '4739'
   mod: MIM:602265
@@ -212,24 +207,25 @@ orthologs:
   mod: MGI:97302
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000015461
   entrez: '100487989'
-  mod: '490925'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000089878
   entrez: '768136'
   mod: ZFIN:ZDB-GENE-061013-318
-  phenotypes: ZDB-GENE-061013-318
+  phenotypes: cell adhesion, cell migration, cell surface receptor protein tyrosine
+    kinase signaling pathway
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCTGTTGCGTATGTCCTGAGATG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449828
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395736
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449828
+  url: https://www.ncbi.nlm.nih.gov/gene/395736
 species: Gallus gallus
 symbol: NEDD9
 template_length: '970'
@@ -253,9 +249,8 @@ title: NEDD9
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38021](https://www.ncbi.nlm.nih.gov/gene/38021) | FBgn0035101 |  |
 | Human | [ENSG00000111859](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111859) | [4739](https://www.ncbi.nlm.nih.gov/gene/4739) | [MIM:602265](https://omim.org/entry/602265) |  |
 | Mouse | [ENSMUSG00000021365](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021365) | [18003](https://www.ncbi.nlm.nih.gov/gene/18003) | [MGI:97302](http://www.informatics.jax.org/marker/MGI:97302) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100487989](https://www.ncbi.nlm.nih.gov/gene/100487989) | [490925](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490925) |  |
-| Zebrafish | [ENSDARG00000089878](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089878) | [768136](https://www.ncbi.nlm.nih.gov/gene/768136) | [ZFIN:ZDB-GENE-061013-318](https://zfin.org/ZDB-GENE-061013-318) | ZDB-GENE-061013-318 |
+| Xenopus | [ENSXETG00000015461](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015461) | [100487989](https://www.ncbi.nlm.nih.gov/gene/100487989) |  |  |
+| Zebrafish | [ENSDARG00000089878](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089878) | [768136](https://www.ncbi.nlm.nih.gov/gene/768136) | [ZFIN:ZDB-GENE-061013-318](https://zfin.org/ZDB-GENE-061013-318) | cell adhesion, cell migration, cell surface receptor protein tyrosine kinase signaling pathway |
 

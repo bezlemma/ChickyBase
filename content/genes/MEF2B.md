@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426373
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_430389
 forward_primer: TGCGGCAGATGAATGAGGG
-gene_id: '463950'
+gene_id: '426373'
 gene_type: protein-coding
 images:
 - caption: MEF2B expression
@@ -114,41 +114,32 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R277.MEF2B.S24.001.jpg
 name: myocyte enhancer factor 2B
-ncbi_id: '463950'
+ncbi_id: '426373'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000213999
+  entrez: '100271849'
+  mod: MIM:600661
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000079033
+  entrez: '17259'
+  mod: MGI:104526
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000093170
+  entrez: '558073'
+  mod: ZFIN:ZDB-GENE-050208-357
+  phenotypes: cell differentiation, heart development, positive regulation of DNA-templated
+    transcription, positive regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAAGGCTGTGGCTGGGAATGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463950
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426373
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463950
+  url: https://www.ncbi.nlm.nih.gov/gene/426373
 species: Gallus gallus
 symbol: MEF2B
 template_length: '413'
@@ -170,9 +161,7 @@ title: MEF2B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000213999](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000213999) | [100271849](https://www.ncbi.nlm.nih.gov/gene/100271849) | [MIM:600661](https://omim.org/entry/600661) |  |
+| Mouse | [ENSMUSG00000079033](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000079033) | [17259](https://www.ncbi.nlm.nih.gov/gene/17259) | [MGI:104526](http://www.informatics.jax.org/marker/MGI:104526) |  |
+| Zebrafish | [ENSDARG00000093170](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000093170) | [558073](https://www.ncbi.nlm.nih.gov/gene/558073) | [ZFIN:ZDB-GENE-050208-357](https://zfin.org/ZDB-GENE-050208-357) | cell differentiation, heart development, positive regulation of DNA-templated transcription, positive regulation of transcription by RNA polymerase II |
 

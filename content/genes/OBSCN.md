@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420395
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418501
 forward_primer: ACTCCCAGAAAACCTCCCACAC
-gene_id: '457850'
+gene_id: '420395'
 gene_type: protein-coding
 images:
 - caption: OBSCN expression
@@ -147,41 +147,37 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R402.OBSCN.S27D.001.jpg
 name: obscurin, cytoskeletal calmodulin and titin-interacting RhoGEF
-ncbi_id: '457850'
+ncbi_id: '420395'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000154358
   entrez: '84033'
   mod: MIM:608616
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000061462
+  entrez: '380698'
+  mod: MGI:2681862
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '957360'
+- ensembl: ENSXETG00000041307
+  entrez: '101730564'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
-  entrez: '445358'
-  mod: ZFIN:ZDB-GENE-040812-4
-  phenotypes: ZDB-GENE-040812-4
+  entrez: '572412'
+  mod: ZFIN:ZDB-GENE-070119-5
+  phenotypes: myofibril assembly, retina development in camera-type eye, skeletal
+    myofibril assembly, striated muscle cell development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAGTTCCAGCATCCTCCATTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457850
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420395
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457850
+  url: https://www.ncbi.nlm.nih.gov/gene/420395
 species: Gallus gallus
 symbol: OBSCN
 template_length: '795'
@@ -203,9 +199,8 @@ title: OBSCN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000154358](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000154358) | [84033](https://www.ncbi.nlm.nih.gov/gene/84033) | [MIM:608616](https://omim.org/entry/608616) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  | [957360](http://www.xenbase.org/gene/showgene.do?method=display&geneId=957360) |  |
-| Zebrafish |  | [445358](https://www.ncbi.nlm.nih.gov/gene/445358) | [ZFIN:ZDB-GENE-040812-4](https://zfin.org/ZDB-GENE-040812-4) | ZDB-GENE-040812-4 |
+| Mouse | [ENSMUSG00000061462](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061462) | [380698](https://www.ncbi.nlm.nih.gov/gene/380698) | [MGI:2681862](http://www.informatics.jax.org/marker/MGI:2681862) |  |
+| Xenopus | [ENSXETG00000041307](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041307) | [101730564](https://www.ncbi.nlm.nih.gov/gene/101730564) |  |  |
+| Zebrafish |  | [572412](https://www.ncbi.nlm.nih.gov/gene/572412) | [ZFIN:ZDB-GENE-070119-5](https://zfin.org/ZDB-GENE-070119-5) | myofibril assembly, retina development in camera-type eye, skeletal myofibril assembly, striated muscle cell development |
 

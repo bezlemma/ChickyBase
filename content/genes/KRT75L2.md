@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:431299
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_428850
 forward_primer: CTACCACAACGGTGAAATCTTCG
-gene_id: '449994'
+gene_id: '431299'
 gene_type: protein-coding
 images:
 - caption: KRT75L2 expression
@@ -61,41 +61,26 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R476.KRT75L2.S23.002.jpg
 name: keratin, type II cytoskeletal 75-like 2
-ncbi_id: '449994'
+ncbi_id: '431299'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000139648
+  entrez: '112802'
+  mod: MIM:608245
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000051879
+  entrez: '56735'
+  mod: MGI:1861586
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGCCACTTCCCAACTACCACAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449994
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=431299
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449994
+  url: https://www.ncbi.nlm.nih.gov/gene/431299
 species: Gallus gallus
 symbol: KRT75L2
 template_length: '1094'
@@ -117,9 +102,6 @@ title: KRT75L2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000139648](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139648) | [112802](https://www.ncbi.nlm.nih.gov/gene/112802) | [MIM:608245](https://omim.org/entry/608245) |  |
+| Mouse | [ENSMUSG00000051879](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000051879) | [56735](https://www.ncbi.nlm.nih.gov/gene/56735) | [MGI:1861586](http://www.informatics.jax.org/marker/MGI:1861586) |  |
 

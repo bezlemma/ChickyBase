@@ -4,13 +4,12 @@ aliases:
 - cadherin 12, type 2 (N-cadherin 2)
 cgnc_id: '9798'
 external_ids:
-  '25': stage 25stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/420912
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420912
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418999
 forward_primer: TGGTCTACAGCATTCTTCAGGGGC
-gene_id: '454040'
+gene_id: '420912'
 gene_type: protein-coding
 images:
 - caption: CDH12 expression
@@ -98,13 +97,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R450.CDH12.S25V.001.jpg
 name: cadherin 12
-ncbi_id: '454040'
+ncbi_id: '420912'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000154162
   entrez: '1010'
   mod: MIM:600562
@@ -115,24 +109,26 @@ orthologs:
   mod: MGI:109503
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000020440
   entrez: '100489783'
-  mod: '982875'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000078226
   entrez: '568508'
-  mod: ZFIN:ZDB-GENE-070912-673,ZFIN:ZDB-GENE-140106-107
-  phenotypes: ZDB-GENE-070912-673,ZDB-GENE-140106-107
+  mod: ZFIN:ZDB-GENE-070912-673
+  phenotypes: adherens junction organization, calcium-dependent cell-cell adhesion
+    via plasma membrane cell adhesion molecules, cell adhesion, cell migration, cell
+    morphogenesis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGAAACTCATTGACATCCAGGACG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454040
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420912
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454040
+  url: https://www.ncbi.nlm.nih.gov/gene/420912
 species: Gallus gallus
 symbol: CDH12
 template_length: '864'
@@ -154,9 +150,8 @@ title: CDH12
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000154162](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000154162) | [1010](https://www.ncbi.nlm.nih.gov/gene/1010) | [MIM:600562](https://omim.org/entry/600562) |  |
 | Mouse | [ENSMUSG00000040452](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040452) | [215654](https://www.ncbi.nlm.nih.gov/gene/215654) | [MGI:109503](http://www.informatics.jax.org/marker/MGI:109503) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100489783](https://www.ncbi.nlm.nih.gov/gene/100489783) | [982875](http://www.xenbase.org/gene/showgene.do?method=display&geneId=982875) |  |
-| Zebrafish | [ENSDARG00000078226](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078226) | [568508](https://www.ncbi.nlm.nih.gov/gene/568508) | [ZFIN:ZDB-GENE-070912-673](https://zfin.org/ZDB-GENE-070912-673), [ZFIN:ZDB-GENE-140106-107](https://zfin.org/ZDB-GENE-140106-107) | ZDB-GENE-070912-673,ZDB-GENE-140106-107 |
+| Xenopus | [ENSXETG00000020440](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020440) | [100489783](https://www.ncbi.nlm.nih.gov/gene/100489783) |  |  |
+| Zebrafish | [ENSDARG00000078226](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078226) | [568508](https://www.ncbi.nlm.nih.gov/gene/568508) | [ZFIN:ZDB-GENE-070912-673](https://zfin.org/ZDB-GENE-070912-673) | adherens junction organization, calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules, cell adhesion, cell migration, cell morphogenesis |
 

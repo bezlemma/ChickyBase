@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419863
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417990
-gene_id: '452407'
+gene_id: '419863'
 gene_type: protein-coding
 images:
 - caption: IRF6 expression
@@ -63,13 +63,8 @@ images:
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Irf6.figure4g.Knight.jpg
 name: interferon regulatory factor 6
-ncbi_id: '452407'
+ncbi_id: '419863'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000117595
   entrez: '3664'
   mod: MIM:607199
@@ -81,20 +76,21 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Chemically induced(1) Targeted, other(3)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 594951,397715
-  mod: '5910330'
+- ensembl: ENSXETG00000018674
+  entrez: '594908'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000043296
+- ensembl: ENSDARG00000101986
   entrez: '393570'
   mod: ZFIN:ZDB-GENE-040426-1137
-  phenotypes: ZDB-GENE-040426-1137
+  phenotypes: cranial skeletal system development, embryonic neurocranium morphogenesis,
+    epidermis development, epithelium development, hard palate morphogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452407
+  url: https://www.ncbi.nlm.nih.gov/gene/419863
 species: Gallus gallus
 symbol: IRF6
 title: IRF6
@@ -120,9 +116,8 @@ title: IRF6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000117595](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000117595) | [3664](https://www.ncbi.nlm.nih.gov/gene/3664) | [MIM:607199](https://omim.org/entry/607199) | MIM:608864 |
 | Mouse | [ENSMUSG00000026638](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026638) | [54139](https://www.ncbi.nlm.nih.gov/gene/54139) | [MGI:1859211](http://www.informatics.jax.org/marker/MGI:1859211) | All phenotypic alleles (5):Chemically induced(1) Targeted, other(3) Gene trapped(1) |
-| Xenopus |  | [594951](https://www.ncbi.nlm.nih.gov/gene/594951), [397715](https://www.ncbi.nlm.nih.gov/gene/397715) | [5910330](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5910330) |  |
-| Zebrafish | [ENSDARG00000043296](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043296) | [393570](https://www.ncbi.nlm.nih.gov/gene/393570) | [ZFIN:ZDB-GENE-040426-1137](https://zfin.org/ZDB-GENE-040426-1137) | ZDB-GENE-040426-1137 |
+| Xenopus | [ENSXETG00000018674](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018674) | [594908](https://www.ncbi.nlm.nih.gov/gene/594908) |  |  |
+| Zebrafish | [ENSDARG00000101986](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101986) | [393570](https://www.ncbi.nlm.nih.gov/gene/393570) | [ZFIN:ZDB-GENE-040426-1137](https://zfin.org/ZDB-GENE-040426-1137) | cranial skeletal system development, embryonic neurocranium morphogenesis, epidermis development, epithelium development, hard palate morphogenesis |
 

@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427808
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425379
-gene_id: '457905'
+gene_id: '427808'
 gene_type: protein-coding
 images:
 - caption: RAB11FIP4 expression
@@ -244,13 +244,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RAB11FIP4 ChEST803n22_HH
     24 x20 right.jpg
 name: RAB11 family interacting protein 4 (class II)
-ncbi_id: '457905'
+ncbi_id: '427808'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000131242
   entrez: '84440'
   mod: MIM:611999
@@ -261,20 +256,21 @@ orthologs:
   mod: MGI:2442920
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000047529
   entrez: '100124715'
-  mod: '6454386'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000053855,ENSDARG00000070319
-  entrez: 436806,100151129
-  mod: ZFIN:ZDB-GENE-040718-266,ZFIN:ZDB-GENE-080722-8
-  phenotypes: ZDB-GENE-040718-266,ZDB-GENE-080722-8
+- ensembl: ENSDARG00000090170
+  entrez: '436806'
+  mod: ZFIN:ZDB-GENE-040718-266
+  phenotypes: cell division, endocytic recycling, eye morphogenesis, regulation of
+    cell cycle, regulation of cytokinesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457905
+  url: https://www.ncbi.nlm.nih.gov/gene/427808
 species: Gallus gallus
 symbol: RAB11FIP4
 title: RAB11FIP4
@@ -298,9 +294,8 @@ title: RAB11FIP4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000131242](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000131242) | [84440](https://www.ncbi.nlm.nih.gov/gene/84440) | [MIM:611999](https://omim.org/entry/611999) |  |
 | Mouse | [ENSMUSG00000017639](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000017639) | [268451](https://www.ncbi.nlm.nih.gov/gene/268451) | [MGI:2442920](http://www.informatics.jax.org/marker/MGI:2442920) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100124715](https://www.ncbi.nlm.nih.gov/gene/100124715) | [6454386](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6454386) |  |
-| Zebrafish | [ENSDARG00000053855](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053855), [ENSDARG00000070319](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070319) | [436806](https://www.ncbi.nlm.nih.gov/gene/436806), [100151129](https://www.ncbi.nlm.nih.gov/gene/100151129) | [ZFIN:ZDB-GENE-040718-266](https://zfin.org/ZDB-GENE-040718-266), [ZFIN:ZDB-GENE-080722-8](https://zfin.org/ZDB-GENE-080722-8) | ZDB-GENE-040718-266,ZDB-GENE-080722-8 |
+| Xenopus | [ENSXETG00000047529](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000047529) | [100124715](https://www.ncbi.nlm.nih.gov/gene/100124715) |  |  |
+| Zebrafish | [ENSDARG00000090170](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000090170) | [436806](https://www.ncbi.nlm.nih.gov/gene/436806) | [ZFIN:ZDB-GENE-040718-266](https://zfin.org/ZDB-GENE-040718-266) | cell division, endocytic recycling, eye morphogenesis, regulation of cell cycle, regulation of cytokinesis |
 

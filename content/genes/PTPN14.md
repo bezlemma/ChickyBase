@@ -3,7 +3,6 @@ aliases:
 - tyrosine-protein phosphatase non-receptor type 14
 cgnc_id: '7434'
 external_ids:
-  '25': stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0031799
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/33882
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000009784
@@ -11,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421360
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419419
 forward_primer: TTGGAAGAGGGGATGGTGTTTAC
-gene_id: '457280'
+gene_id: '421360'
 gene_type: protein-coding
 images:
 - caption: PTPN14 expression
@@ -120,13 +119,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R299.PTPN14.S26.001.jpg
 name: protein tyrosine phosphatase, non-receptor type 14
-ncbi_id: '457280'
+ncbi_id: '421360'
 orthologs:
-- ensembl: ''
-  entrez: '33882'
-  mod: FBgn0031799
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000152104
   entrez: '5784'
   mod: MIM:603155
@@ -137,24 +131,19 @@ orthologs:
   mod: MGI:102467
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000023157
   entrez: '100379917'
-  mod: '985640'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: AATTAACCCTCACTAAAGGGAACTGGATGAGCACTTGATAGAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457280
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421360
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457280
+  url: https://www.ncbi.nlm.nih.gov/gene/421360
 species: Gallus gallus
 symbol: PTPN14
 template_length: '832'
@@ -178,9 +167,7 @@ title: PTPN14
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33882](https://www.ncbi.nlm.nih.gov/gene/33882) | FBgn0031799 |  |
 | Human | [ENSG00000152104](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000152104) | [5784](https://www.ncbi.nlm.nih.gov/gene/5784) | [MIM:603155](https://omim.org/entry/603155) | MIM:613611 |
 | Mouse | [ENSMUSG00000026604](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026604) | [19250](https://www.ncbi.nlm.nih.gov/gene/19250) | [MGI:102467](http://www.informatics.jax.org/marker/MGI:102467) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100379917](https://www.ncbi.nlm.nih.gov/gene/100379917) | [985640](http://www.xenbase.org/gene/showgene.do?method=display&geneId=985640) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000023157](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023157) | [100379917](https://www.ncbi.nlm.nih.gov/gene/100379917) |  |  |
 

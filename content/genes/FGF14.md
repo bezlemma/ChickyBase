@@ -3,7 +3,6 @@ aliases:
 - FHF-4, fibroblast growth factor 14
 cgnc_id: '12658'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=12382140&ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
   Comments: No expression detected at or below stage 6.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -13,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395554
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204777
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATTGCTGGATTGCTTTTCGCC
-gene_id: '449586'
+gene_id: '395554'
 gene_type: protein-coding
 images:
 - caption: FGF14 expression
@@ -80,7 +79,7 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Karabagli.Fig3.Fgf14.jpg
 name: fibroblast growth factor 14
-ncbi_id: '449586'
+ncbi_id: '395554'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -105,16 +104,16 @@ orthologs:
 - ensembl: ENSDARG00000040982
   entrez: '497642'
   mod: ZFIN:ZDB-GENE-060506-1
-  phenotypes: ZDB-GENE-060506-1
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAACTGGTGGTTTGCCGCCATTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449586
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395554
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449586
+  url: https://www.ncbi.nlm.nih.gov/gene/395554
 species: Gallus gallus
 symbol: FGF14
 template_length: '650'
@@ -145,5 +144,5 @@ title: FGF14
 | Human |  | [2259](https://www.ncbi.nlm.nih.gov/gene/2259) | [MIM:601515](https://omim.org/entry/601515) | MIM:609307 |
 | Mouse | [ENSMUSG00000025551](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025551) | [14169](https://www.ncbi.nlm.nih.gov/gene/14169) | [MGI:109189](http://www.informatics.jax.org/marker/MGI:109189) | All phenotypic alleles (1):Targeted, other(1) |
 | Xenopus |  | [100217328](https://www.ncbi.nlm.nih.gov/gene/100217328) | [483673](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483673) |  |
-| Zebrafish | [ENSDARG00000040982](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040982) | [497642](https://www.ncbi.nlm.nih.gov/gene/497642) | [ZFIN:ZDB-GENE-060506-1](https://zfin.org/ZDB-GENE-060506-1) | ZDB-GENE-060506-1 |
+| Zebrafish | [ENSDARG00000040982](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040982) | [497642](https://www.ncbi.nlm.nih.gov/gene/497642) | [ZFIN:ZDB-GENE-060506-1](https://zfin.org/ZDB-GENE-060506-1) |  |
 

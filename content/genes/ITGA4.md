@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424121
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421974
-gene_id: '460508'
+gene_id: '424121'
 gene_type: protein-coding
 images:
 - caption: ITGA4 expression
@@ -44,14 +44,9 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG8.LEU.2008.jpg
 name: integrin subunit alpha 4
-ncbi_id: '460508'
+ncbi_id: '424121'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000115232
   entrez: '3676'
   mod: MIM:192975
   phenotypes: ''
@@ -61,20 +56,21 @@ orthologs:
   mod: MGI:96603
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(1) Targeted, other(7)
   species: Mouse
-- ensembl: ''
-  entrez: 100487924,397839
-  mod: '960092'
+- ensembl: ENSXETG00000014072
+  entrez: '100487924'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000061186
+- ensembl: ENSDARG00000103056
   entrez: '100331333'
   mod: ZFIN:ZDB-GENE-110411-108
-  phenotypes: ZDB-GENE-110411-108
+  phenotypes: blood vessel development, cell adhesion, cell-cell adhesion, cell-matrix
+    adhesion, endocardial cell differentiation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460508
+  url: https://www.ncbi.nlm.nih.gov/gene/424121
 species: Gallus gallus
 symbol: ITGA4
 title: ITGA4
@@ -100,9 +96,8 @@ title: ITGA4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [3676](https://www.ncbi.nlm.nih.gov/gene/3676) | [MIM:192975](https://omim.org/entry/192975) |  |
+| Human | [ENSG00000115232](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000115232) | [3676](https://www.ncbi.nlm.nih.gov/gene/3676) | [MIM:192975](https://omim.org/entry/192975) |  |
 | Mouse | [ENSMUSG00000027009](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027009) | [16401](https://www.ncbi.nlm.nih.gov/gene/16401) | [MGI:96603](http://www.informatics.jax.org/marker/MGI:96603) | All phenotypic alleles (8):Targeted, knock-out(1) Targeted, other(7) |
-| Xenopus |  | [100487924](https://www.ncbi.nlm.nih.gov/gene/100487924), [397839](https://www.ncbi.nlm.nih.gov/gene/397839) | [960092](http://www.xenbase.org/gene/showgene.do?method=display&geneId=960092) |  |
-| Zebrafish | [ENSDARG00000061186](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061186) | [100331333](https://www.ncbi.nlm.nih.gov/gene/100331333) | [ZFIN:ZDB-GENE-110411-108](https://zfin.org/ZDB-GENE-110411-108) | ZDB-GENE-110411-108 |
+| Xenopus | [ENSXETG00000014072](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014072) | [100487924](https://www.ncbi.nlm.nih.gov/gene/100487924) |  |  |
+| Zebrafish | [ENSDARG00000103056](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000103056) | [100331333](https://www.ncbi.nlm.nih.gov/gene/100331333) | [ZFIN:ZDB-GENE-110411-108](https://zfin.org/ZDB-GENE-110411-108) | blood vessel development, cell adhesion, cell-cell adhesion, cell-matrix adhesion, endocardial cell differentiation |
 

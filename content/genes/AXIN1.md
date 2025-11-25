@@ -21,7 +21,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005096
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204944
 forward_primer: 5’-TCCGACTTGGATCTGGGCTA-3’
-gene_id: '450423'
+gene_id: '395786'
 gene_type: protein-coding
 images:
 - caption: AXIN1 expression
@@ -105,7 +105,7 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AXIN1.Quinlan.2009.5M.png
 name: axin 1
-ncbi_id: '450423'
+ncbi_id: '395786'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -131,16 +131,16 @@ orthologs:
 - ensembl: ENSDARG00000026534
   entrez: '57931'
   mod: ZFIN:ZDB-GENE-000403-1
-  phenotypes: ZDB-GENE-000403-1
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTGTGAGCGACATCGTATCCG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450423
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395786
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450423
+  url: https://www.ncbi.nlm.nih.gov/gene/395786
 species: Gallus gallus
 symbol: AXIN1
 template_length: '819'
@@ -174,5 +174,5 @@ title: AXIN1
 | Human | [ENSG00000103126](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000103126) | [8312](https://www.ncbi.nlm.nih.gov/gene/8312) | [MIM:603816](https://omim.org/entry/603816) | MIM:607864 |
 | Mouse | [ENSMUSG00000024182](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024182) | [12005](https://www.ncbi.nlm.nih.gov/gene/12005) | [MGI:1096327](http://www.informatics.jax.org/marker/MGI:1096327) | All phenotypic alleles (15):Spontaneous(3) Targeted, knock-out(1) Targeted, other(10) Transgenic(1) |
 | Xenopus |  | [100498631](https://www.ncbi.nlm.nih.gov/gene/100498631), [734298](https://www.ncbi.nlm.nih.gov/gene/734298) | [486780](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486780) |  |
-| Zebrafish | [ENSDARG00000026534](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026534) | [57931](https://www.ncbi.nlm.nih.gov/gene/57931) | [ZFIN:ZDB-GENE-000403-1](https://zfin.org/ZDB-GENE-000403-1) | ZDB-GENE-000403-1 |
+| Zebrafish | [ENSDARG00000026534](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026534) | [57931](https://www.ncbi.nlm.nih.gov/gene/57931) | [ZFIN:ZDB-GENE-000403-1](https://zfin.org/ZDB-GENE-000403-1) |  |
 

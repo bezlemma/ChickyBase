@@ -23,7 +23,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_206906
 forward_primer: GTGCTGAAAAGCCACTTGGAAG
-gene_id: '457153'
+gene_id: '404271'
 gene_type: protein-coding
 images:
 - caption: ANXA1 expression
@@ -224,13 +224,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANXA1.Anderson.2019.Fig2.jpg
 name: annexin A1
-ncbi_id: '457153'
+ncbi_id: '404271'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000135046
   entrez: '301'
   mod: MIM:151690
@@ -242,23 +237,24 @@ orthologs:
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
 - ensembl: ''
-  entrez: 394995,398427
-  mod: '977622'
+  entrez: '448333'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000026726,ENSDARG00000014594
-  entrez: 334724,353358
-  mod: ZFIN:ZDB-GENE-030131-6664,ZFIN:ZDB-GENE-030131-5274,ZFIN:ZDB-GENE-030131-6554
-  phenotypes: ZDB-GENE-030131-6664,ZDB-GENE-030131-5274,ZDB-GENE-030131-6554
+- ensembl: ENSDARG00000026726
+  entrez: '334724'
+  mod: ZFIN:ZDB-GENE-030131-6664
+  phenotypes: cellular response to glucocorticoid stimulus, fin regeneration, phagocytosis,
+    signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCACATAAAGCGACCAGGATGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457153
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=404271
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457153
+  url: https://www.ncbi.nlm.nih.gov/gene/404271
 species: Gallus gallus
 symbol: ANXA1
 template_length: '737'
@@ -287,9 +283,8 @@ title: ANXA1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000135046](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135046) | [301](https://www.ncbi.nlm.nih.gov/gene/301) | [MIM:151690](https://omim.org/entry/151690) |  |
 | Mouse | [ENSMUSG00000024659](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024659) | [16952](https://www.ncbi.nlm.nih.gov/gene/16952) | [MGI:96819](http://www.informatics.jax.org/marker/MGI:96819) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [394995](https://www.ncbi.nlm.nih.gov/gene/394995), [398427](https://www.ncbi.nlm.nih.gov/gene/398427) | [977622](http://www.xenbase.org/gene/showgene.do?method=display&geneId=977622) |  |
-| Zebrafish | [ENSDARG00000026726](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026726), [ENSDARG00000014594](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014594) | [334724](https://www.ncbi.nlm.nih.gov/gene/334724), [353358](https://www.ncbi.nlm.nih.gov/gene/353358) | [ZFIN:ZDB-GENE-030131-6664](https://zfin.org/ZDB-GENE-030131-6664), [ZFIN:ZDB-GENE-030131-5274](https://zfin.org/ZDB-GENE-030131-5274), [ZFIN:ZDB-GENE-030131-6554](https://zfin.org/ZDB-GENE-030131-6554) | ZDB-GENE-030131-6664,ZDB-GENE-030131-5274,ZDB-GENE-030131-6554 |
+| Xenopus |  | [448333](https://www.ncbi.nlm.nih.gov/gene/448333) |  |  |
+| Zebrafish | [ENSDARG00000026726](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026726) | [334724](https://www.ncbi.nlm.nih.gov/gene/334724) | [ZFIN:ZDB-GENE-030131-6664](https://zfin.org/ZDB-GENE-030131-6664) | cellular response to glucocorticoid stimulus, fin regeneration, phagocytosis, signal transduction |
 

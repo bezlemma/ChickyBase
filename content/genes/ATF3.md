@@ -3,8 +3,6 @@ aliases:
 - cyclic AMP-dependent transcription factor ATF-3
 cgnc_id: '7459'
 external_ids:
-  '25': stage 25
-  '7': stage 7
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Trevers et al. 2023.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -14,7 +12,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419429
   X-XIV: stage XIII
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATTCAGCGCCTCCGCAATTGTCC
-gene_id: '457293'
+gene_id: '421369'
 gene_type: protein-coding
 images:
 - caption: ATF3 expression
@@ -161,13 +159,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ATF3.Trevers.2023-Fig7-5-C.jpg
 name: activating transcription factor 3
-ncbi_id: '457293'
+ncbi_id: '421369'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000162772
   entrez: '467'
   mod: MIM:603148
@@ -178,24 +171,26 @@ orthologs:
   mod: MGI:109384
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100494437,447311
-  mod: '6085250'
+- ensembl: ENSXETG00000044220
+  entrez: '100494437'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000007823
   entrez: '393939'
   mod: ZFIN:ZDB-GENE-040426-728
-  phenotypes: ZDB-GENE-040426-728
+  phenotypes: cardiac muscle cell myoblast differentiation, hematopoietic progenitor
+    cell differentiation, regulation of DNA-templated transcription, regulation of
+    transcription by RNA polymerase II, response to virus
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGCTTTCCCTGACAGCCACAAGGA
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457293
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421369
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457293
+  url: https://www.ncbi.nlm.nih.gov/gene/421369
 species: Gallus gallus
 symbol: ATF3
 template_length: '911'
@@ -220,9 +215,8 @@ title: ATF3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000162772](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162772) | [467](https://www.ncbi.nlm.nih.gov/gene/467) | [MIM:603148](https://omim.org/entry/603148) |  |
 | Mouse | [ENSMUSG00000026628](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026628) | [11910](https://www.ncbi.nlm.nih.gov/gene/11910) | [MGI:109384](http://www.informatics.jax.org/marker/MGI:109384) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100494437](https://www.ncbi.nlm.nih.gov/gene/100494437), [447311](https://www.ncbi.nlm.nih.gov/gene/447311) | [6085250](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6085250) |  |
-| Zebrafish | [ENSDARG00000007823](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007823) | [393939](https://www.ncbi.nlm.nih.gov/gene/393939) | [ZFIN:ZDB-GENE-040426-728](https://zfin.org/ZDB-GENE-040426-728) | ZDB-GENE-040426-728 |
+| Xenopus | [ENSXETG00000044220](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044220) | [100494437](https://www.ncbi.nlm.nih.gov/gene/100494437) |  |  |
+| Zebrafish | [ENSDARG00000007823](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007823) | [393939](https://www.ncbi.nlm.nih.gov/gene/393939) | [ZFIN:ZDB-GENE-040426-728](https://zfin.org/ZDB-GENE-040426-728) | cardiac muscle cell myoblast differentiation, hematopoietic progenitor cell differentiation, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II, response to virus |
 

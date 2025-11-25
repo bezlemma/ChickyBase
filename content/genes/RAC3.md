@@ -3,7 +3,6 @@ aliases:
 - GTPase cRac1B
 cgnc_id: '49522'
 external_ids:
-  '31': stage 31stage 31
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0010333
   Citation: http://www.ncbi.nlm.nih.gov/sites/entrez?term=McKinnell%20EphA4%20RhoB%20cytoskeleton&cmd=search&db=pubmed
   Comments: 'Authors said: Rac1B (576 bp-chick orthologue of mammalian Rac3). Insufficient
@@ -20,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395870
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205016
 forward_primer: TCAGTTACACCACGAATGC
-gene_id: '450752'
+gene_id: '395870'
 gene_type: protein-coding
 images:
 - caption: RAC3 expression
@@ -191,13 +190,8 @@ images:
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2V.Rac1B.McKinnell.2004.jpg
 name: Rac family small GTPase 3
-ncbi_id: '450752'
+ncbi_id: '395870'
 orthologs:
-- ensembl: ''
-  entrez: '38146'
-  mod: FBgn0010333
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000169750
   entrez: '5881'
   mod: MIM:602050
@@ -208,24 +202,25 @@ orthologs:
   mod: MGI:2180784
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100101726,399379
-  mod: '490194'
+- ensembl: ENSXETG00000033871
+  entrez: '100101726'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000020795,ENSDARG00000090062
-  entrez: 795167,573982,437027
-  mod: ZFIN:ZDB-GENE-080220-21,ZFIN:ZDB-GENE-050622-10,ZFIN:ZDB-GENE-040718-256
-  phenotypes: ZDB-GENE-080220-21,ZDB-GENE-050622-10,ZDB-GENE-040718-256
+- ensembl: ENSDARG00000020795
+  entrez: '795167'
+  mod: ZFIN:ZDB-GENE-080220-21
+  phenotypes: Rac protein signal transduction, actin filament organization, actomyosin
+    structure organization, cell chemotaxis, cell projection assembly
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAAACACCGTCTTCAAGCCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450752
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395870
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450752
+  url: https://www.ncbi.nlm.nih.gov/gene/395870
 species: Gallus gallus
 symbol: RAC3
 template_length: '446'
@@ -254,9 +249,8 @@ Copyright © 2004 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38146](https://www.ncbi.nlm.nih.gov/gene/38146) | FBgn0010333 |  |
 | Human | [ENSG00000169750](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169750) | [5881](https://www.ncbi.nlm.nih.gov/gene/5881) | [MIM:602050](https://omim.org/entry/602050) |  |
 | Mouse | [ENSMUSG00000018012](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018012) | [170758](https://www.ncbi.nlm.nih.gov/gene/170758) | [MGI:2180784](http://www.informatics.jax.org/marker/MGI:2180784) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100101726](https://www.ncbi.nlm.nih.gov/gene/100101726), [399379](https://www.ncbi.nlm.nih.gov/gene/399379) | [490194](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490194) |  |
-| Zebrafish | [ENSDARG00000020795](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020795), [ENSDARG00000090062](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000090062) | [795167](https://www.ncbi.nlm.nih.gov/gene/795167), [573982](https://www.ncbi.nlm.nih.gov/gene/573982), [437027](https://www.ncbi.nlm.nih.gov/gene/437027) | [ZFIN:ZDB-GENE-080220-21](https://zfin.org/ZDB-GENE-080220-21), [ZFIN:ZDB-GENE-050622-10](https://zfin.org/ZDB-GENE-050622-10), [ZFIN:ZDB-GENE-040718-256](https://zfin.org/ZDB-GENE-040718-256) | ZDB-GENE-080220-21,ZDB-GENE-050622-10,ZDB-GENE-040718-256 |
+| Xenopus | [ENSXETG00000033871](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033871) | [100101726](https://www.ncbi.nlm.nih.gov/gene/100101726) |  |  |
+| Zebrafish | [ENSDARG00000020795](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020795) | [795167](https://www.ncbi.nlm.nih.gov/gene/795167) | [ZFIN:ZDB-GENE-080220-21](https://zfin.org/ZDB-GENE-080220-21) | Rac protein signal transduction, actin filament organization, actomyosin structure organization, cell chemotaxis, cell projection assembly |
 

@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418863
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012826
 forward_primer: 5’-GTGCCTGCAGTTGTGACTTG-3’
-gene_id: '454243'
+gene_id: '418863'
 gene_type: protein-coding
 images:
 - caption: FNDC3A expression
@@ -97,13 +97,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R675.FNDC3A.S26.001.jpg
 name: fibronectin type III domain containing 3A
-ncbi_id: '454243'
+ncbi_id: '418863'
 orthologs:
-- ensembl: ''
-  entrez: '34987'
-  mod: FBgn0259735
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000102531
   entrez: '22862'
   mod: MIM:615794
@@ -114,24 +109,19 @@ orthologs:
   mod: MGI:1196463
   phenotypes: All phenotypic alleles (4):Targeted, other(2) Gene trapped(1) Transgenic(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100379968,446899
-  mod: '5957600'
+- ensembl: ENSXETG00000013335
+  entrez: '100492173'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '335075'
-  mod: ZFIN:ZDB-GENE-030131-7015
-  phenotypes: ZDB-GENE-030131-7015
-  species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGGCTTTCAAGGCAGCTGGAAC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454243
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418863
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454243
+  url: https://www.ncbi.nlm.nih.gov/gene/418863
 species: Gallus gallus
 symbol: FNDC3A
 template_length: '599'
@@ -157,9 +147,7 @@ title: FNDC3A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34987](https://www.ncbi.nlm.nih.gov/gene/34987) | FBgn0259735 |  |
 | Human | [ENSG00000102531](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000102531) | [22862](https://www.ncbi.nlm.nih.gov/gene/22862) | [MIM:615794](https://omim.org/entry/615794) |  |
 | Mouse | [ENSMUSG00000033487](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033487) | [319448](https://www.ncbi.nlm.nih.gov/gene/319448) | [MGI:1196463](http://www.informatics.jax.org/marker/MGI:1196463) | All phenotypic alleles (4):Targeted, other(2) Gene trapped(1) Transgenic(1) |
-| Xenopus |  | [100379968](https://www.ncbi.nlm.nih.gov/gene/100379968), [446899](https://www.ncbi.nlm.nih.gov/gene/446899) | [5957600](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5957600) |  |
-| Zebrafish |  | [335075](https://www.ncbi.nlm.nih.gov/gene/335075) | [ZFIN:ZDB-GENE-030131-7015](https://zfin.org/ZDB-GENE-030131-7015) | ZDB-GENE-030131-7015 |
+| Xenopus | [ENSXETG00000013335](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013335) | [100492173](https://www.ncbi.nlm.nih.gov/gene/100492173) |  |  |
 

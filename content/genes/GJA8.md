@@ -20,7 +20,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005515
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204997
 forward_primer: 5’-TATGGCTTCCGCATTCTCCC-3’
-gene_id: '450024'
+gene_id: '395846'
 gene_type: protein-coding
 images:
 - caption: GJA8 expression
@@ -101,42 +101,38 @@ images:
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CX45.6.Reza.2007.7N.png
 name: gap junction protein alpha 8
-ncbi_id: '450024'
+ncbi_id: '395846'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000121634
   entrez: '2703'
   mod: MIM:600897
   phenotypes: MIM:600897
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000049908
   entrez: '14616'
   mod: MGI:99953
   phenotypes: All phenotypic alleles (10):Spontaneous(1) Chemically induced(3) Targeted,
     knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100490617,100381091
-  mod: '493229'
+- ensembl: ENSXETG00000016305
+  entrez: '100490617'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000015076
   entrez: '114403'
-  mod: ZFIN:ZDB-GENE-050616-14,ZFIN:ZDB-GENE-010607-3
-  phenotypes: ZDB-GENE-050616-14,ZDB-GENE-010607-3
+  mod: ZFIN:ZDB-GENE-010607-3
+  phenotypes: cell communication, cell-cell signaling, gap junction-mediated intercellular
+    transport, lens development in camera-type eye
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTCACATCGGTGGCAAGTTCA-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450024
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395846
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450024
+  url: https://www.ncbi.nlm.nih.gov/gene/395846
 species: Gallus gallus
 symbol: GJA8
 template_length: '619'
@@ -166,9 +162,8 @@ title: GJA8
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [2703](https://www.ncbi.nlm.nih.gov/gene/2703) | [MIM:600897](https://omim.org/entry/600897) | MIM:600897 |
-| Mouse |  | [14616](https://www.ncbi.nlm.nih.gov/gene/14616) | [MGI:99953](http://www.informatics.jax.org/marker/MGI:99953) | All phenotypic alleles (10):Spontaneous(1) Chemically induced(3) Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [100490617](https://www.ncbi.nlm.nih.gov/gene/100490617), [100381091](https://www.ncbi.nlm.nih.gov/gene/100381091) | [493229](http://www.xenbase.org/gene/showgene.do?method=display&geneId=493229) |  |
-| Zebrafish | [ENSDARG00000015076](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015076) | [114403](https://www.ncbi.nlm.nih.gov/gene/114403) | [ZFIN:ZDB-GENE-050616-14](https://zfin.org/ZDB-GENE-050616-14), [ZFIN:ZDB-GENE-010607-3](https://zfin.org/ZDB-GENE-010607-3) | ZDB-GENE-050616-14,ZDB-GENE-010607-3 |
+| Human | [ENSG00000121634](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000121634) | [2703](https://www.ncbi.nlm.nih.gov/gene/2703) | [MIM:600897](https://omim.org/entry/600897) | MIM:600897 |
+| Mouse | [ENSMUSG00000049908](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049908) | [14616](https://www.ncbi.nlm.nih.gov/gene/14616) | [MGI:99953](http://www.informatics.jax.org/marker/MGI:99953) | All phenotypic alleles (10):Spontaneous(1) Chemically induced(3) Targeted, knock-out(2) Targeted, other(4) |
+| Xenopus | [ENSXETG00000016305](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016305) | [100490617](https://www.ncbi.nlm.nih.gov/gene/100490617) |  |  |
+| Zebrafish | [ENSDARG00000015076](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015076) | [114403](https://www.ncbi.nlm.nih.gov/gene/114403) | [ZFIN:ZDB-GENE-010607-3](https://zfin.org/ZDB-GENE-010607-3) | cell communication, cell-cell signaling, gap junction-mediated intercellular transport, lens development in camera-type eye |
 

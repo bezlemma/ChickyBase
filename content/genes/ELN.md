@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396441
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005201
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642386
-gene_id: '461011'
+gene_id: '396441'
 gene_type: protein-coding
 images:
 - caption: ELN expression
@@ -230,7 +230,7 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ELN.Holzenberger.1993.Fig9'.jpg
 name: elastin
-ncbi_id: '461011'
+ncbi_id: '396441'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -260,7 +260,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461011
+  url: https://www.ncbi.nlm.nih.gov/gene/396441
 species: Gallus gallus
 symbol: ELN
 title: ELN

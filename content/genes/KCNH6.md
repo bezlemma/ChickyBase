@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:414871
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005249
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418075
-gene_id: '460534'
+gene_id: '414871'
 gene_type: protein-coding
 images:
 - caption: KCNH6 expression
@@ -72,13 +72,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCNH6.Anderson.2019.Supplementary
     figure 5D.jpg
 name: potassium voltage-gated channel subfamily H member 6
-ncbi_id: '460534'
+ncbi_id: '414871'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000173826
   entrez: '81033'
   mod: MIM:608168
@@ -89,20 +84,22 @@ orthologs:
   mod: MGI:2684139
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: '100491983'
-  mod: 990942,983103
+- ensembl: ENSXETG00000005312
+  entrez: '100485121'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000001803
   entrez: '405763'
   mod: ZFIN:ZDB-GENE-040702-5
-  phenotypes: ZDB-GENE-040702-5
+  phenotypes: heart contraction, membrane repolarization during cardiac muscle cell
+    action potential, monoatomic ion transmembrane transport, monoatomic ion transport,
+    potassium ion transmembrane transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460534
+  url: https://www.ncbi.nlm.nih.gov/gene/414871
 species: Gallus gallus
 symbol: KCNH6
 title: KCNH6
@@ -130,9 +127,8 @@ title: KCNH6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000173826](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000173826) | [81033](https://www.ncbi.nlm.nih.gov/gene/81033) | [MIM:608168](https://omim.org/entry/608168) |  |
 | Mouse | [ENSMUSG00000001901](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001901) | [192775](https://www.ncbi.nlm.nih.gov/gene/192775) | [MGI:2684139](http://www.informatics.jax.org/marker/MGI:2684139) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100491983](https://www.ncbi.nlm.nih.gov/gene/100491983) | [990942](http://www.xenbase.org/gene/showgene.do?method=display&geneId=990942), [983103](http://www.xenbase.org/gene/showgene.do?method=display&geneId=983103) |  |
-| Zebrafish | [ENSDARG00000001803](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000001803) | [405763](https://www.ncbi.nlm.nih.gov/gene/405763) | [ZFIN:ZDB-GENE-040702-5](https://zfin.org/ZDB-GENE-040702-5) | ZDB-GENE-040702-5 |
+| Xenopus | [ENSXETG00000005312](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005312) | [100485121](https://www.ncbi.nlm.nih.gov/gene/100485121) |  |  |
+| Zebrafish | [ENSDARG00000001803](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000001803) | [405763](https://www.ncbi.nlm.nih.gov/gene/405763) | [ZFIN:ZDB-GENE-040702-5](https://zfin.org/ZDB-GENE-040702-5) | heart contraction, membrane repolarization during cardiac muscle cell action potential, monoatomic ion transmembrane transport, monoatomic ion transport, potassium ion transmembrane transport |
 

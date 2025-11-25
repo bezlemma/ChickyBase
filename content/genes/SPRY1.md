@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395583
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001097524
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATTGGTTCGCTGGTGGTGATTC
-gene_id: '449711'
+gene_id: '395583'
 gene_type: protein-coding
 images:
 - caption: SPRY1 expression
@@ -397,41 +397,38 @@ images:
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPRY1.Kuracha.2011.Fig.1.png
 name: sprouty RTK signaling antagonist 1
-ncbi_id: '449711'
+ncbi_id: '395583'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000164056
+  entrez: '10252'
+  mod: MIM:602465
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000037211
+  entrez: '24063'
+  mod: MGI:1345139
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000041240
+  entrez: '449470'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000103985
+  entrez: '798229'
+  mod: ZFIN:ZDB-GENE-081215-2
+  phenotypes: animal organ development, negative regulation of ERK1 and ERK2 cascade,
+    negative regulation of Ras protein signal transduction, negative regulation of
+    fibroblast growth factor receptor signaling pathway, regulation of signal transduction
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAATGTGACTGGGAGCAAGAGCAGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449711
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395583
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449711
+  url: https://www.ncbi.nlm.nih.gov/gene/395583
 species: Gallus gallus
 symbol: SPRY1
 template_length: '709'
@@ -460,9 +457,8 @@ title: SPRY1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000164056](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164056) | [10252](https://www.ncbi.nlm.nih.gov/gene/10252) | [MIM:602465](https://omim.org/entry/602465) |  |
+| Mouse | [ENSMUSG00000037211](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037211) | [24063](https://www.ncbi.nlm.nih.gov/gene/24063) | [MGI:1345139](http://www.informatics.jax.org/marker/MGI:1345139) |  |
+| Xenopus | [ENSXETG00000041240](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041240) | [449470](https://www.ncbi.nlm.nih.gov/gene/449470) |  |  |
+| Zebrafish | [ENSDARG00000103985](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000103985) | [798229](https://www.ncbi.nlm.nih.gov/gene/798229) | [ZFIN:ZDB-GENE-081215-2](https://zfin.org/ZDB-GENE-081215-2) | animal organ development, negative regulation of ERK1 and ERK2 cascade, negative regulation of Ras protein signal transduction, negative regulation of fibroblast growth factor receptor signaling pathway, regulation of signal transduction |
 

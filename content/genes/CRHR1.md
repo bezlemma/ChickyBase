@@ -8,7 +8,6 @@ aliases:
 - CRH-R1
 cgnc_id: '216'
 external_ids:
-  '4': stage 4stage 4
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0033744
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0071376
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
@@ -24,7 +23,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0015056
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204321
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/CRHR1
-gene_id: '456534'
+gene_id: '374218'
 gene_type: protein-coding
 images:
 - caption: CRHR1 expression
@@ -42,14 +41,9 @@ images:
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CRHR.Alev.2010.5a3.png
 name: corticotropin releasing hormone receptor 1
-ncbi_id: '456534'
+ncbi_id: '374218'
 orthologs:
-- ensembl: ''
-  entrez: '36368'
-  mod: FBgn0033744
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000120088
+- ensembl: ENSG00000276191
   entrez: '1394'
   mod: MIM:122561
   phenotypes: ''
@@ -59,20 +53,22 @@ orthologs:
   mod: MGI:88498
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100498637,373580
-  mod: '968266'
+- ensembl: ENSXETG00000005305
+  entrez: '100498637'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000003989
   entrez: '567940'
   mod: ZFIN:ZDB-GENE-081231-1
-  phenotypes: ZDB-GENE-081231-1
+  phenotypes: G protein-coupled receptor signaling pathway, adenylate cyclase-activating
+    G protein-coupled receptor signaling pathway, cell surface receptor signaling
+    pathway, cellular response to hormone stimulus, regulation of transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456534
+  url: https://www.ncbi.nlm.nih.gov/gene/374218
 species: Gallus gallus
 symbol: CRHR1
 title: CRHR1
@@ -105,9 +101,8 @@ REVERSE PRIMER	TGGTCATGAGAATCCGAACA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36368](https://www.ncbi.nlm.nih.gov/gene/36368) | FBgn0033744 |  |
-| Human | [ENSG00000120088](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000120088) | [1394](https://www.ncbi.nlm.nih.gov/gene/1394) | [MIM:122561](https://omim.org/entry/122561) |  |
+| Human | [ENSG00000276191](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000276191) | [1394](https://www.ncbi.nlm.nih.gov/gene/1394) | [MIM:122561](https://omim.org/entry/122561) |  |
 | Mouse | [ENSMUSG00000018634](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018634) | [12921](https://www.ncbi.nlm.nih.gov/gene/12921) | [MGI:88498](http://www.informatics.jax.org/marker/MGI:88498) | All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3) |
-| Xenopus |  | [100498637](https://www.ncbi.nlm.nih.gov/gene/100498637), [373580](https://www.ncbi.nlm.nih.gov/gene/373580) | [968266](http://www.xenbase.org/gene/showgene.do?method=display&geneId=968266) |  |
-| Zebrafish |  | [567940](https://www.ncbi.nlm.nih.gov/gene/567940) | [ZFIN:ZDB-GENE-081231-1](https://zfin.org/ZDB-GENE-081231-1) | ZDB-GENE-081231-1 |
+| Xenopus | [ENSXETG00000005305](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005305) | [100498637](https://www.ncbi.nlm.nih.gov/gene/100498637) |  |  |
+| Zebrafish | [ENSDARG00000003989](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003989) | [567940](https://www.ncbi.nlm.nih.gov/gene/567940) | [ZFIN:ZDB-GENE-081231-1](https://zfin.org/ZDB-GENE-081231-1) | G protein-coupled receptor signaling pathway, adenylate cyclase-activating G protein-coupled receptor signaling pathway, cell surface receptor signaling pathway, cellular response to hormone stimulus, regulation of transport |
 

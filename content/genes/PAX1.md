@@ -4,7 +4,6 @@ aliases:
 - Paired box protein Pax-1
 cgnc_id: '63989'
 external_ids:
-  '19': stage 19
   Citation: https://pubmed.ncbi.nlm.nih.gov/31225912/
   Comments: Authors indicated the probe was kindly provided by Bodo Christ. As insufficient
     information is provided in publication to verify exact sequence used to synthesize
@@ -15,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100859138
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640897
-gene_id: '473669'
+gene_id: '100859138'
 gene_type: protein-coding
 images:
 - caption: PAX1 expression
@@ -656,37 +655,34 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Draga.2019-Pax1-fig3.jpg
 name: paired box 1
-ncbi_id: '473669'
+ncbi_id: '100859138'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000125813
+  entrez: '5075'
+  mod: MIM:167411
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000037034
+  entrez: '18503'
+  mod: MGI:97485
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000023497
+  entrez: '100038212'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000073814
+  entrez: '572108'
+  mod: ZFIN:ZDB-GENE-060503-372
+  phenotypes: anterior/posterior pattern specification, camera-type eye morphogenesis,
+    cranial skeletal system development, embryo development ending in birth or egg
+    hatching, embryonic skeletal system development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/473669
+  url: https://www.ncbi.nlm.nih.gov/gene/100859138
 species: Gallus gallus
 symbol: PAX1
 title: PAX1
@@ -712,9 +708,8 @@ title: PAX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000125813](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125813) | [5075](https://www.ncbi.nlm.nih.gov/gene/5075) | [MIM:167411](https://omim.org/entry/167411) |  |
+| Mouse | [ENSMUSG00000037034](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037034) | [18503](https://www.ncbi.nlm.nih.gov/gene/18503) | [MGI:97485](http://www.informatics.jax.org/marker/MGI:97485) |  |
+| Xenopus | [ENSXETG00000023497](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023497) | [100038212](https://www.ncbi.nlm.nih.gov/gene/100038212) |  |  |
+| Zebrafish | [ENSDARG00000073814](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000073814) | [572108](https://www.ncbi.nlm.nih.gov/gene/572108) | [ZFIN:ZDB-GENE-060503-372](https://zfin.org/ZDB-GENE-060503-372) | anterior/posterior pattern specification, camera-type eye morphogenesis, cranial skeletal system development, embryo development ending in birth or egg hatching, embryonic skeletal system development |
 

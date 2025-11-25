@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424228
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006524
 forward_primer: AGCAAATAAAAGCCCCTCGC
-gene_id: '461224'
+gene_id: '424228'
 gene_type: protein-coding
 images:
 - caption: BIN1 expression
@@ -178,41 +178,36 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R522.BIN1.S27V.001.jpg
 name: bridging integrator 1
-ncbi_id: '461224'
+ncbi_id: '424228'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000136717
+  entrez: '274'
+  mod: MIM:601248
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000024381
+  entrez: '30948'
+  mod: MGI:108092
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 394839,380484
-  mod: '979734'
+- ensembl: ENSXETG00000046584
+  entrez: '394839'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000058820
-  entrez: 100332049,447863
-  mod: ZFIN:ZDB-GENE-030425-1
-  phenotypes: ZDB-GENE-030425-1
+- ensembl: ENSDARG00000042114
+  entrez: '563561'
+  mod: ZFIN:ZDB-GENE-070912-715
+  phenotypes: endocytosis, establishment of localization in cell
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCCACCTTCAAGACAAAACAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461224
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424228
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461224
+  url: https://www.ncbi.nlm.nih.gov/gene/424228
 species: Gallus gallus
 symbol: BIN1
 template_length: '983'
@@ -234,9 +229,8 @@ title: BIN1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [394839](https://www.ncbi.nlm.nih.gov/gene/394839), [380484](https://www.ncbi.nlm.nih.gov/gene/380484) | [979734](http://www.xenbase.org/gene/showgene.do?method=display&geneId=979734) |  |
-| Zebrafish | [ENSDARG00000058820](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058820) | [100332049](https://www.ncbi.nlm.nih.gov/gene/100332049), [447863](https://www.ncbi.nlm.nih.gov/gene/447863) | [ZFIN:ZDB-GENE-030425-1](https://zfin.org/ZDB-GENE-030425-1) | ZDB-GENE-030425-1 |
+| Human | [ENSG00000136717](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136717) | [274](https://www.ncbi.nlm.nih.gov/gene/274) | [MIM:601248](https://omim.org/entry/601248) |  |
+| Mouse | [ENSMUSG00000024381](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024381) | [30948](https://www.ncbi.nlm.nih.gov/gene/30948) | [MGI:108092](http://www.informatics.jax.org/marker/MGI:108092) |  |
+| Xenopus | [ENSXETG00000046584](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000046584) | [394839](https://www.ncbi.nlm.nih.gov/gene/394839) |  |  |
+| Zebrafish | [ENSDARG00000042114](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042114) | [563561](https://www.ncbi.nlm.nih.gov/gene/563561) | [ZFIN:ZDB-GENE-070912-715](https://zfin.org/ZDB-GENE-070912-715) | endocytosis, establishment of localization in cell |
 

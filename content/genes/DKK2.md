@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422531
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420494
-gene_id: '451151'
+gene_id: '422531'
 gene_type: protein-coding
 images:
 - caption: DKK2 expression
@@ -133,13 +133,8 @@ images:
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/2539-17-tail-1.jpg
 name: dickkopf WNT signaling pathway inhibitor 2
-ncbi_id: '451151'
+ncbi_id: '422531'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000155011
   entrez: '27123'
   mod: MIM:605415
@@ -150,20 +145,22 @@ orthologs:
   mod: MGI:1890663
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100493182,378632
-  mod: '480440'
+- ensembl: ENSXETG00000019859
+  entrez: '100493182'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000076420
   entrez: '792404'
   mod: ZFIN:ZDB-GENE-080204-14
-  phenotypes: ZDB-GENE-080204-14
+  phenotypes: Wnt signaling pathway, liver development, negative regulation of Wnt
+    signaling pathway, negative regulation of canonical Wnt signaling pathway, neuromast
+    development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451151
+  url: https://www.ncbi.nlm.nih.gov/gene/422531
 species: Gallus gallus
 symbol: DKK2
 title: DKK2
@@ -187,9 +184,8 @@ title: DKK2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000155011](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000155011) | [27123](https://www.ncbi.nlm.nih.gov/gene/27123) | [MIM:605415](https://omim.org/entry/605415) |  |
 | Mouse | [ENSMUSG00000028031](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028031) | [56811](https://www.ncbi.nlm.nih.gov/gene/56811) | [MGI:1890663](http://www.informatics.jax.org/marker/MGI:1890663) | All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2) |
-| Xenopus |  | [100493182](https://www.ncbi.nlm.nih.gov/gene/100493182), [378632](https://www.ncbi.nlm.nih.gov/gene/378632) | [480440](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480440) |  |
-| Zebrafish | [ENSDARG00000076420](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076420) | [792404](https://www.ncbi.nlm.nih.gov/gene/792404) | [ZFIN:ZDB-GENE-080204-14](https://zfin.org/ZDB-GENE-080204-14) | ZDB-GENE-080204-14 |
+| Xenopus | [ENSXETG00000019859](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019859) | [100493182](https://www.ncbi.nlm.nih.gov/gene/100493182) |  |  |
+| Zebrafish | [ENSDARG00000076420](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076420) | [792404](https://www.ncbi.nlm.nih.gov/gene/792404) | [ZFIN:ZDB-GENE-080204-14](https://zfin.org/ZDB-GENE-080204-14) | Wnt signaling pathway, liver development, negative regulation of Wnt signaling pathway, negative regulation of canonical Wnt signaling pathway, neuromast development |
 

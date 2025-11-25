@@ -22,7 +22,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420680
 forward_primer: CAATGTGAAGAAACTGGTGTTGCC
-gene_id: '462323'
+gene_id: '395168'
 gene_type: protein-coding
 images:
 - caption: FAT1 expression
@@ -359,13 +359,8 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.Fat-1.imageF
 name: FAT atypical cadherin 1
-ncbi_id: '462323'
+ncbi_id: '395168'
 orthologs:
-- ensembl: ''
-  entrez: '40191'
-  mod: FBgn0261574
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000083857
   entrez: '2195'
   mod: MIM:600976
@@ -376,24 +371,25 @@ orthologs:
   mod: MGI:109168
   phenotypes: All phenotypic alleles (2):Targeted, other(1) Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000017135
   entrez: '100489070'
-  mod: '920278'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000017591
-  entrez: '406172'
-  mod: ZFIN:ZDB-GENE-050425-1,ZFIN:ZDB-GENE-130530-563
-  phenotypes: ZDB-GENE-050425-1,ZDB-GENE-130530-563
+- ensembl: ENSDARG00000019063
+  entrez: '565591'
+  mod: ZFIN:ZDB-GENE-130530-563
+  phenotypes: anatomical structure morphogenesis, cell adhesion, cell-cell adhesion,
+    cell-cell adhesion mediated by cadherin, glial cell development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAATACAGAGAACCGTGGAGGGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462323
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395168
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462323
+  url: https://www.ncbi.nlm.nih.gov/gene/395168
 species: Gallus gallus
 symbol: FAT1
 template_length: '1094'
@@ -422,9 +418,8 @@ title: FAT1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40191](https://www.ncbi.nlm.nih.gov/gene/40191) | FBgn0261574 |  |
 | Human | [ENSG00000083857](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000083857) | [2195](https://www.ncbi.nlm.nih.gov/gene/2195) | [MIM:600976](https://omim.org/entry/600976) |  |
 | Mouse | [ENSMUSG00000070047](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000070047) | [14107](https://www.ncbi.nlm.nih.gov/gene/14107) | [MGI:109168](http://www.informatics.jax.org/marker/MGI:109168) | All phenotypic alleles (2):Targeted, other(1) Gene trapped(1) |
-| Xenopus |  | [100489070](https://www.ncbi.nlm.nih.gov/gene/100489070) | [920278](http://www.xenbase.org/gene/showgene.do?method=display&geneId=920278) |  |
-| Zebrafish | [ENSDARG00000017591](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017591) | [406172](https://www.ncbi.nlm.nih.gov/gene/406172) | [ZFIN:ZDB-GENE-050425-1](https://zfin.org/ZDB-GENE-050425-1), [ZFIN:ZDB-GENE-130530-563](https://zfin.org/ZDB-GENE-130530-563) | ZDB-GENE-050425-1,ZDB-GENE-130530-563 |
+| Xenopus | [ENSXETG00000017135](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017135) | [100489070](https://www.ncbi.nlm.nih.gov/gene/100489070) |  |  |
+| Zebrafish | [ENSDARG00000019063](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019063) | [565591](https://www.ncbi.nlm.nih.gov/gene/565591) | [ZFIN:ZDB-GENE-130530-563](https://zfin.org/ZDB-GENE-130530-563) | anatomical structure morphogenesis, cell adhesion, cell-cell adhesion, cell-cell adhesion mediated by cadherin, glial cell development |
 

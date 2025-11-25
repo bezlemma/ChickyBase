@@ -3,7 +3,6 @@ aliases:
 - cyclin-dependent kinase 7
 cgnc_id: '10969'
 external_ids:
-  '25': stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Robb+Antin+candidate+coloboma
   Comments: As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI XM_001234586.3
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771294
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234586
 forward_primer: 5'-GTTCTTCTCGCCTTTTCCGC-3'
-gene_id: '448801'
+gene_id: '771294'
 gene_type: protein-coding
 images:
 - caption: CDK7 expression
@@ -165,21 +164,37 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robb.2012.F3.cdk7.png
 name: cyclin dependent kinase 7
-ncbi_id: '448801'
+ncbi_id: '771294'
 orthologs:
-- ensembl: ENSMUSG00000056399
-  entrez: '328780'
-  mod: MGI:2681414
+- ensembl: ENSG00000277273
+  entrez: '1022'
+  mod: MIM:601955
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000069089
+  entrez: '12572'
+  mod: MGI:102956
   phenotypes: ''
   species: Mouse
+- ensembl: ENSXETG00000000481
+  entrez: '549973'
+  mod: ''
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000051916
+  entrez: '405897'
+  mod: ZFIN:ZDB-GENE-010320-2
+  phenotypes: phosphorylation, positive regulation of transcription by RNA polymerase
+    II, protein phosphorylation, regulation of cell cycle
+  species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGAGCACAGTTTGGTCTGGGTAGCAG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448801
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771294
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448801
+  url: https://www.ncbi.nlm.nih.gov/gene/771294
 species: Gallus gallus
 symbol: CDK7
 template_length: '962'
@@ -206,5 +221,8 @@ title: CDK7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Mouse | [ENSMUSG00000056399](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000056399) | [328780](https://www.ncbi.nlm.nih.gov/gene/328780) | [MGI:2681414](http://www.informatics.jax.org/marker/MGI:2681414) |  |
+| Human | [ENSG00000277273](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000277273) | [1022](https://www.ncbi.nlm.nih.gov/gene/1022) | [MIM:601955](https://omim.org/entry/601955) |  |
+| Mouse | [ENSMUSG00000069089](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000069089) | [12572](https://www.ncbi.nlm.nih.gov/gene/12572) | [MGI:102956](http://www.informatics.jax.org/marker/MGI:102956) |  |
+| Xenopus | [ENSXETG00000000481](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000481) | [549973](https://www.ncbi.nlm.nih.gov/gene/549973) |  |  |
+| Zebrafish | [ENSDARG00000051916](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000051916) | [405897](https://www.ncbi.nlm.nih.gov/gene/405897) | [ZFIN:ZDB-GENE-010320-2](https://zfin.org/ZDB-GENE-010320-2) | phosphorylation, positive regulation of transcription by RNA polymerase II, protein phosphorylation, regulation of cell cycle |
 

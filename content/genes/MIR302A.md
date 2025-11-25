@@ -6,7 +6,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374020
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204196
-gene_id: '467985'
+gene_id: '777815'
 gene_type: miscRNA
 images:
 - caption: MIR302A expression
@@ -31,7 +31,7 @@ images:
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/302.6.001z.jpg
 name: microRNA 302a
-ncbi_id: '467985'
+ncbi_id: '777815'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -61,10 +61,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467985
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777815
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467985
+  url: https://www.ncbi.nlm.nih.gov/gene/777815
 species: Gallus gallus
 symbol: MIR302A
 title: MIR302A

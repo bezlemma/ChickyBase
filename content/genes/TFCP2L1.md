@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424238
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422087
   X-XIV: stage XIII
-gene_id: '461209'
+gene_id: '424238'
 gene_type: protein-coding
 images:
 - caption: TFCP2L1 expression
@@ -50,13 +50,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TFCP2L1.Trevers.2023-Fig7-8-D.jpg
 name: transcription factor CP2 like 1
-ncbi_id: '461209'
+ncbi_id: '424238'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000115112
   entrez: '29842'
   mod: MIM:609785
@@ -67,23 +62,13 @@ orthologs:
   mod: MGI:2444691
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549628,380069,379687
-  mod: '997198'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000029497
-  entrez: '431761'
-  mod: ZFIN:ZDB-GENE-040704-58
-  phenotypes: ZDB-GENE-040704-58
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461209
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424238
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461209
+  url: https://www.ncbi.nlm.nih.gov/gene/424238
 species: Gallus gallus
 symbol: TFCP2L1
 title: TFCP2L1
@@ -107,9 +92,6 @@ title: TFCP2L1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000115112](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000115112) | [29842](https://www.ncbi.nlm.nih.gov/gene/29842) | [MIM:609785](https://omim.org/entry/609785) |  |
 | Mouse | [ENSMUSG00000026380](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026380) | [81879](https://www.ncbi.nlm.nih.gov/gene/81879) | [MGI:2444691](http://www.informatics.jax.org/marker/MGI:2444691) | All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1) |
-| Xenopus |  | [549628](https://www.ncbi.nlm.nih.gov/gene/549628), [380069](https://www.ncbi.nlm.nih.gov/gene/380069), [379687](https://www.ncbi.nlm.nih.gov/gene/379687) | [997198](http://www.xenbase.org/gene/showgene.do?method=display&geneId=997198) |  |
-| Zebrafish | [ENSDARG00000029497](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029497) | [431761](https://www.ncbi.nlm.nih.gov/gene/431761) | [ZFIN:ZDB-GENE-040704-58](https://zfin.org/ZDB-GENE-040704-58) | ZDB-GENE-040704-58 |
 

@@ -20,7 +20,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204700
   X-XIV: stage XIII
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGCCTTCAGTGAGGGACTTTGGAC
-gene_id: '449221'
+gene_id: '395437'
 gene_type: protein-coding
 images:
 - caption: CFC1 expression
@@ -529,41 +529,26 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CFC1_HH12_s64.jpg
 name: cripto, FRL-1, cryptic family 1
-ncbi_id: '449221'
+ncbi_id: '395437'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSG00000152093
+  entrez: '653275'
   mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000152093,ENSG00000136698
-  entrez: 653275,55997
-  mod: MIM:605194
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000026124
+  entrez: '12627'
+  mod: MGI:109448
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000035095
-  entrez: '30304'
-  mod: ZFIN:ZDB-GENE-990415-198
-  phenotypes: ZDB-GENE-990415-198
-  species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCGCAGACATTGTTTGCTGTAATCTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449221
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395437
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449221
+  url: https://www.ncbi.nlm.nih.gov/gene/395437
 species: Gallus gallus
 symbol: CFC1
 template_length: '605'
@@ -594,9 +579,6 @@ title: CFC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000152093](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000152093), [ENSG00000136698](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136698) | [653275](https://www.ncbi.nlm.nih.gov/gene/653275), [55997](https://www.ncbi.nlm.nih.gov/gene/55997) | [MIM:605194](https://omim.org/entry/605194) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000035095](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035095) | [30304](https://www.ncbi.nlm.nih.gov/gene/30304) | [ZFIN:ZDB-GENE-990415-198](https://zfin.org/ZDB-GENE-990415-198) | ZDB-GENE-990415-198 |
+| Human | [ENSG00000152093](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000152093) | [653275](https://www.ncbi.nlm.nih.gov/gene/653275) |  |  |
+| Mouse | [ENSMUSG00000026124](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026124) | [12627](https://www.ncbi.nlm.nih.gov/gene/12627) | [MGI:109448](http://www.informatics.jax.org/marker/MGI:109448) |  |
 

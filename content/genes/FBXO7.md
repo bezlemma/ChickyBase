@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418063
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012537
 forward_primer: 5’-ACCCAGGCACTAACATCTGC-3’
-gene_id: '458088'
+gene_id: '418063'
 gene_type: protein-coding
 images:
 - caption: FBXO7 expression
@@ -37,13 +37,8 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R663.FBX07.S18.001.jpg
 name: F-box protein 7
-ncbi_id: '458088'
+ncbi_id: '418063'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100225
   entrez: '25793'
   mod: MIM:605648
@@ -54,24 +49,25 @@ orthologs:
   mod: MGI:1917004
   phenotypes: All phenotypic alleles (4):Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 780025,446503
-  mod: '994353'
+- ensembl: ENSXETG00000011520
+  entrez: '780025'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000059115
-  entrez: 100332168,558097
+- ensembl: ENSDARG00000099833
+  entrez: '558097'
   mod: ZFIN:ZDB-GENE-050913-68
-  phenotypes: ZDB-GENE-050913-68
+  phenotypes: dopaminergic neuron differentiation, heart morphogenesis, larval locomotory
+    behavior, musculoskeletal movement, positive regulation of autophagy of mitochondrion
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTGTTTCTCCTGCCGTGATCC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458088
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418063
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458088
+  url: https://www.ncbi.nlm.nih.gov/gene/418063
 species: Gallus gallus
 symbol: FBXO7
 template_length: '841'
@@ -94,9 +90,8 @@ title: FBXO7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000100225](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100225) | [25793](https://www.ncbi.nlm.nih.gov/gene/25793) | [MIM:605648](https://omim.org/entry/605648) | MIM:260300 |
 | Mouse | [ENSMUSG00000001786](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001786) | [69754](https://www.ncbi.nlm.nih.gov/gene/69754) | [MGI:1917004](http://www.informatics.jax.org/marker/MGI:1917004) | All phenotypic alleles (4):Targeted, other(4) |
-| Xenopus |  | [780025](https://www.ncbi.nlm.nih.gov/gene/780025), [446503](https://www.ncbi.nlm.nih.gov/gene/446503) | [994353](http://www.xenbase.org/gene/showgene.do?method=display&geneId=994353) |  |
-| Zebrafish | [ENSDARG00000059115](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059115) | [100332168](https://www.ncbi.nlm.nih.gov/gene/100332168), [558097](https://www.ncbi.nlm.nih.gov/gene/558097) | [ZFIN:ZDB-GENE-050913-68](https://zfin.org/ZDB-GENE-050913-68) | ZDB-GENE-050913-68 |
+| Xenopus | [ENSXETG00000011520](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011520) | [780025](https://www.ncbi.nlm.nih.gov/gene/780025) |  |  |
+| Zebrafish | [ENSDARG00000099833](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099833) | [558097](https://www.ncbi.nlm.nih.gov/gene/558097) | [ZFIN:ZDB-GENE-050913-68](https://zfin.org/ZDB-GENE-050913-68) | dopaminergic neuron differentiation, heart morphogenesis, larval locomotory behavior, musculoskeletal movement, positive regulation of autophagy of mitochondrion |
 

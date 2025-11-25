@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395749
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422651
   X-XIV: stage XII
-gene_id: '450370'
+gene_id: '395749'
 gene_type: protein-coding
 images:
 - caption: ETV5 expression
@@ -173,13 +173,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ETV5.Travers.2023-Fig7-1-P.jpg
 name: ETS variant 5
-ncbi_id: '450370'
+ncbi_id: '395749'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000244405
   entrez: '2119'
   mod: MIM:601600
@@ -190,20 +185,17 @@ orthologs:
   mod: MGI:1096867
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000069763,ENSDARG00000044511
-  entrez: 100332865,337626,30452
-  mod: ZFIN:ZDB-GENE-030131-9572,ZFIN:ZDB-GENE-991228-4
-  phenotypes: ZDB-GENE-030131-9572,ZDB-GENE-991228-4
+- ensembl: ENSDARG00000069763
+  entrez: '337626'
+  mod: ZFIN:ZDB-GENE-030131-9572
+  phenotypes: cell differentiation, hemangioblast cell differentiation, limb morphogenesis,
+    negative regulation of cell population proliferation, positive regulation of DNA-templated
+    transcription
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450370
+  url: https://www.ncbi.nlm.nih.gov/gene/395749
 species: Gallus gallus
 symbol: ETV5
 title: ETV5
@@ -229,9 +221,7 @@ title: ETV5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000244405](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000244405) | [2119](https://www.ncbi.nlm.nih.gov/gene/2119) | [MIM:601600](https://omim.org/entry/601600) |  |
 | Mouse | [ENSMUSG00000013089](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000013089) | [104156](https://www.ncbi.nlm.nih.gov/gene/104156) | [MGI:1096867](http://www.informatics.jax.org/marker/MGI:1096867) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000069763](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069763), [ENSDARG00000044511](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044511) | [100332865](https://www.ncbi.nlm.nih.gov/gene/100332865), [337626](https://www.ncbi.nlm.nih.gov/gene/337626), [30452](https://www.ncbi.nlm.nih.gov/gene/30452) | [ZFIN:ZDB-GENE-030131-9572](https://zfin.org/ZDB-GENE-030131-9572), [ZFIN:ZDB-GENE-991228-4](https://zfin.org/ZDB-GENE-991228-4) | ZDB-GENE-030131-9572,ZDB-GENE-991228-4 |
+| Zebrafish | [ENSDARG00000069763](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069763) | [337626](https://www.ncbi.nlm.nih.gov/gene/337626) | [ZFIN:ZDB-GENE-030131-9572](https://zfin.org/ZDB-GENE-030131-9572) | cell differentiation, hemangioblast cell differentiation, limb morphogenesis, negative regulation of cell population proliferation, positive regulation of DNA-templated transcription |
 

@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:768795
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001231580
-gene_id: '452663'
+gene_id: '768795'
 gene_type: protein-coding
 images:
 - caption: SH3BGRL3 expression
@@ -57,14 +57,9 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SH3BGRL3.Singh.2016.Fig4.jpg
 name: SH3 domain binding glutamate rich protein like 3
-ncbi_id: '452663'
+ncbi_id: '768795'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000142669
   entrez: '83442'
   mod: MIM:615679
   phenotypes: ''
@@ -74,20 +69,20 @@ orthologs:
   mod: MGI:1920973
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100125146,414560
-  mod: '965975'
+- ensembl: ENSXETG00000012330
+  entrez: '100125146'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000036016
+- ensembl: ENSDARG00000098075
   entrez: '393248'
   mod: ZFIN:ZDB-GENE-040426-1059
-  phenotypes: ZDB-GENE-040426-1059
+  phenotypes: metabolite repair, nicotinamide nucleotide metabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452663
+  url: https://www.ncbi.nlm.nih.gov/gene/768795
 species: Gallus gallus
 symbol: SH3BGRL3
 title: SH3BGRL3
@@ -113,9 +108,8 @@ title: SH3BGRL3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [83442](https://www.ncbi.nlm.nih.gov/gene/83442) | [MIM:615679](https://omim.org/entry/615679) |  |
+| Human | [ENSG00000142669](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000142669) | [83442](https://www.ncbi.nlm.nih.gov/gene/83442) | [MIM:615679](https://omim.org/entry/615679) |  |
 | Mouse | [ENSMUSG00000028843](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028843) | [73723](https://www.ncbi.nlm.nih.gov/gene/73723) | [MGI:1920973](http://www.informatics.jax.org/marker/MGI:1920973) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100125146](https://www.ncbi.nlm.nih.gov/gene/100125146), [414560](https://www.ncbi.nlm.nih.gov/gene/414560) | [965975](http://www.xenbase.org/gene/showgene.do?method=display&geneId=965975) |  |
-| Zebrafish | [ENSDARG00000036016](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036016) | [393248](https://www.ncbi.nlm.nih.gov/gene/393248) | [ZFIN:ZDB-GENE-040426-1059](https://zfin.org/ZDB-GENE-040426-1059) | ZDB-GENE-040426-1059 |
+| Xenopus | [ENSXETG00000012330](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012330) | [100125146](https://www.ncbi.nlm.nih.gov/gene/100125146) |  |  |
+| Zebrafish | [ENSDARG00000098075](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098075) | [393248](https://www.ncbi.nlm.nih.gov/gene/393248) | [ZFIN:ZDB-GENE-040426-1059](https://zfin.org/ZDB-GENE-040426-1059) | metabolite repair, nicotinamide nucleotide metabolic process |
 

@@ -10,7 +10,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641390
   X-XIV: stage XIII
-gene_id: '474141'
+gene_id: '100859610'
 gene_type: protein-coding
 images:
 - caption: CREB3L1 expression
@@ -114,40 +114,36 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CREB3L1.Trevers.2023-Fig7-5-I.jpg
 name: cAMP responsive element binding protein 3 like 1
-ncbi_id: '474141'
+ncbi_id: '100859610'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000157613
+  entrez: '90993'
+  mod: MIM:616215
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000027230
+  entrez: '26427'
+  mod: MGI:1347062
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000031075
+  entrez: '100496679'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000015793
+  entrez: '338317'
+  mod: ZFIN:ZDB-GENE-030219-181
+  phenotypes: regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II, response to unfolded protein
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=474141
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100859610
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/474141
+  url: https://www.ncbi.nlm.nih.gov/gene/100859610
 species: Gallus gallus
 symbol: CREB3L1
 title: CREB3L1
@@ -172,9 +168,8 @@ title: CREB3L1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000157613](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000157613) | [90993](https://www.ncbi.nlm.nih.gov/gene/90993) | [MIM:616215](https://omim.org/entry/616215) |  |
+| Mouse | [ENSMUSG00000027230](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027230) | [26427](https://www.ncbi.nlm.nih.gov/gene/26427) | [MGI:1347062](http://www.informatics.jax.org/marker/MGI:1347062) |  |
+| Xenopus | [ENSXETG00000031075](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031075) | [100496679](https://www.ncbi.nlm.nih.gov/gene/100496679) |  |  |
+| Zebrafish | [ENSDARG00000015793](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015793) | [338317](https://www.ncbi.nlm.nih.gov/gene/338317) | [ZFIN:ZDB-GENE-030219-181](https://zfin.org/ZDB-GENE-030219-181) | regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II, response to unfolded protein |
 

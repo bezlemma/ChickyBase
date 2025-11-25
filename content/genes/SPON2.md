@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422905
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420847
 forward_primer: CTTCACAGGGAAATGGAGTCAGAC
-gene_id: '452381'
+gene_id: '422905'
 gene_type: protein-coding
 images:
 - caption: SPON2 expression
@@ -100,13 +100,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R447.SPON2.S26V.001.jpg
 name: spondin 2
-ncbi_id: '452381'
+ncbi_id: '422905'
 orthologs:
-- ensembl: ''
-  entrez: '36632'
-  mod: FBgn0020269
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000159674
   entrez: '10417'
   mod: MIM:605918
@@ -117,24 +112,24 @@ orthologs:
   mod: MGI:1923724
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 780015,446905
-  mod: '945213'
+- ensembl: ENSXETG00000021044
+  entrez: '780015'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000002732,ENSDARG00000025465
-  entrez: 30202,30201
-  mod: ZFIN:ZDB-GENE-990415-161,ZFIN:ZDB-GENE-990415-160
-  phenotypes: ZDB-GENE-990415-161,ZDB-GENE-990415-160
+- ensembl: ENSDARG00000002732
+  entrez: '30202'
+  mod: ZFIN:ZDB-GENE-990415-161
+  phenotypes: cell adhesion
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGAGTTTGCTGGGTGGCTTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452381
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422905
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452381
+  url: https://www.ncbi.nlm.nih.gov/gene/422905
 species: Gallus gallus
 symbol: SPON2
 template_length: '535'
@@ -160,9 +155,8 @@ title: SPON2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36632](https://www.ncbi.nlm.nih.gov/gene/36632) | FBgn0020269 |  |
 | Human | [ENSG00000159674](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000159674) | [10417](https://www.ncbi.nlm.nih.gov/gene/10417) | [MIM:605918](https://omim.org/entry/605918) |  |
 | Mouse | [ENSMUSG00000037379](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037379) | [100689](https://www.ncbi.nlm.nih.gov/gene/100689) | [MGI:1923724](http://www.informatics.jax.org/marker/MGI:1923724) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [780015](https://www.ncbi.nlm.nih.gov/gene/780015), [446905](https://www.ncbi.nlm.nih.gov/gene/446905) | [945213](http://www.xenbase.org/gene/showgene.do?method=display&geneId=945213) |  |
-| Zebrafish | [ENSDARG00000002732](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002732), [ENSDARG00000025465](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025465) | [30202](https://www.ncbi.nlm.nih.gov/gene/30202), [30201](https://www.ncbi.nlm.nih.gov/gene/30201) | [ZFIN:ZDB-GENE-990415-161](https://zfin.org/ZDB-GENE-990415-161), [ZFIN:ZDB-GENE-990415-160](https://zfin.org/ZDB-GENE-990415-160) | ZDB-GENE-990415-161,ZDB-GENE-990415-160 |
+| Xenopus | [ENSXETG00000021044](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021044) | [780015](https://www.ncbi.nlm.nih.gov/gene/780015) |  |  |
+| Zebrafish | [ENSDARG00000002732](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002732) | [30202](https://www.ncbi.nlm.nih.gov/gene/30202) | [ZFIN:ZDB-GENE-990415-161](https://zfin.org/ZDB-GENE-990415-161) | cell adhesion |
 

@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395742
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414600
 forward_primer: AAACTGGTGGAAGAAGTGTC
-gene_id: '450373'
+gene_id: '395742'
 gene_type: protein-coding
 images:
 - caption: FLT4 expression
@@ -412,13 +412,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R447.VEGFR3.S26V.001.jpg
 name: fms related tyrosine kinase 4
-ncbi_id: '450373'
+ncbi_id: '395742'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000037280
   entrez: '2324'
   mod: MIM:136352
@@ -430,24 +425,25 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Chemically induced(1) Targeted, knock-out(1)
     Targeted, other(5)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000008399
   entrez: '100493801'
-  mod: '483182'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000015717
+- ensembl: ENSDARG00000104453
   entrez: '30121'
   mod: ZFIN:ZDB-GENE-980526-326
-  phenotypes: ZDB-GENE-980526-326
+  phenotypes: angiogenesis, atrioventricular canal development, cardiac muscle tissue
+    regeneration, cell differentiation, cell migration
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAGTCAGGGTCCTTGTAGATG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450373
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395742
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450373
+  url: https://www.ncbi.nlm.nih.gov/gene/395742
 species: Gallus gallus
 symbol: FLT4
 template_length: '1054'
@@ -469,9 +465,8 @@ title: FLT4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000037280](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000037280) | [2324](https://www.ncbi.nlm.nih.gov/gene/2324) | [MIM:136352](https://omim.org/entry/136352) | MIM:602089 |
 | Mouse | [ENSMUSG00000020357](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020357) | [14257](https://www.ncbi.nlm.nih.gov/gene/14257) | [MGI:95561](http://www.informatics.jax.org/marker/MGI:95561) | All phenotypic alleles (7):Chemically induced(1) Targeted, knock-out(1) Targeted, other(5) |
-| Xenopus |  | [100493801](https://www.ncbi.nlm.nih.gov/gene/100493801) | [483182](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483182) |  |
-| Zebrafish | [ENSDARG00000015717](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015717) | [30121](https://www.ncbi.nlm.nih.gov/gene/30121) | [ZFIN:ZDB-GENE-980526-326](https://zfin.org/ZDB-GENE-980526-326) | ZDB-GENE-980526-326 |
+| Xenopus | [ENSXETG00000008399](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008399) | [100493801](https://www.ncbi.nlm.nih.gov/gene/100493801) |  |  |
+| Zebrafish | [ENSDARG00000104453](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104453) | [30121](https://www.ncbi.nlm.nih.gov/gene/30121) | [ZFIN:ZDB-GENE-980526-326](https://zfin.org/ZDB-GENE-980526-326) | angiogenesis, atrioventricular canal development, cardiac muscle tissue regeneration, cell differentiation, cell migration |
 

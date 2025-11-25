@@ -4,7 +4,6 @@ aliases:
 - growth factor CVg1
 cgnc_id: '49666'
 external_ids:
-  '4': stage 4
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI ( NM_205211).
@@ -17,7 +16,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205211
   X-XIV: stage Xstage Xstage XIstage XIstage XII
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGCTCCCATCAGGCAATCATCAC
-gene_id: '458788'
+gene_id: '396132'
 gene_type: protein-coding
 images:
 - caption: GDF3 expression
@@ -303,13 +302,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GDF3.Anderson.2019.Supplementary
     figure 4A.jpg
 name: growth differentiation factor 3
-ncbi_id: '458788'
+ncbi_id: '396132'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000184344
   entrez: '9573'
   mod: MIM:606522
@@ -321,24 +315,25 @@ orthologs:
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(3)
     Gene trapped(2)
   species: Mouse
-- ensembl: ''
-  entrez: 493288,394305
-  mod: '487308'
+- ensembl: ENSXETG00000010131
+  entrez: '549573'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000037995
   entrez: '30125'
   mod: ZFIN:ZDB-GENE-980526-389
-  phenotypes: ZDB-GENE-980526-389
+  phenotypes: BMP signaling pathway, animal organ development, axis specification,
+    circulatory system development, convergent extension involved in gastrulation
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGAGAGAGGTATCCAGGAAAGAGTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458788
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396132
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458788
+  url: https://www.ncbi.nlm.nih.gov/gene/396132
 species: Gallus gallus
 symbol: GDF3
 template_length: '829'
@@ -366,9 +361,8 @@ title: GDF3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000184344](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000184344) | [9573](https://www.ncbi.nlm.nih.gov/gene/9573) | [MIM:606522](https://omim.org/entry/606522) | MIM:613702 |
 | Mouse | [ENSMUSG00000030117](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030117) | [14562](https://www.ncbi.nlm.nih.gov/gene/14562) | [MGI:95686](http://www.informatics.jax.org/marker/MGI:95686) | All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(3) Gene trapped(2) |
-| Xenopus |  | [493288](https://www.ncbi.nlm.nih.gov/gene/493288), [394305](https://www.ncbi.nlm.nih.gov/gene/394305) | [487308](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487308) |  |
-| Zebrafish | [ENSDARG00000037995](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037995) | [30125](https://www.ncbi.nlm.nih.gov/gene/30125) | [ZFIN:ZDB-GENE-980526-389](https://zfin.org/ZDB-GENE-980526-389) | ZDB-GENE-980526-389 |
+| Xenopus | [ENSXETG00000010131](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010131) | [549573](https://www.ncbi.nlm.nih.gov/gene/549573) |  |  |
+| Zebrafish | [ENSDARG00000037995](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037995) | [30125](https://www.ncbi.nlm.nih.gov/gene/30125) | [ZFIN:ZDB-GENE-980526-389](https://zfin.org/ZDB-GENE-980526-389) | BMP signaling pathway, animal organ development, axis specification, circulatory system development, convergent extension involved in gastrulation |
 

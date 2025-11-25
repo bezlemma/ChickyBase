@@ -7,7 +7,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417842
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199616
-gene_id: '451900'
+gene_id: '417842'
 gene_type: protein-coding
 images:
 - caption: SLC35E3 expression
@@ -18,16 +18,11 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/E39.65.8ntBI.jpg
 name: solute carrier family 35 member E3
-ncbi_id: '451900'
+ncbi_id: '417842'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000175782
   entrez: '55508'
-  mod: ''
+  mod: MIM:620355
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000060181
@@ -35,23 +30,18 @@ orthologs:
   mod: MGI:2448489
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(3)
   species: Mouse
-- ensembl: ''
-  entrez: '779730'
-  mod: '1006546'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000045493
+- ensembl: ENSDARG00000114987
   entrez: '563675'
   mod: ZFIN:ZDB-GENE-041210-186
-  phenotypes: ZDB-GENE-041210-186
+  phenotypes: transmembrane transport
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451900
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417842
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451900
+  url: https://www.ncbi.nlm.nih.gov/gene/417842
 species: Gallus gallus
 symbol: SLC35E3
 title: SLC35E3
@@ -75,9 +65,7 @@ title: SLC35E3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [55508](https://www.ncbi.nlm.nih.gov/gene/55508) |  |  |
+| Human | [ENSG00000175782](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000175782) | [55508](https://www.ncbi.nlm.nih.gov/gene/55508) | [MIM:620355](https://omim.org/entry/620355) |  |
 | Mouse | [ENSMUSG00000060181](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000060181) | [215436](https://www.ncbi.nlm.nih.gov/gene/215436) | [MGI:2448489](http://www.informatics.jax.org/marker/MGI:2448489) | All phenotypic alleles (3):Targeted, knock-out(3) |
-| Xenopus |  | [779730](https://www.ncbi.nlm.nih.gov/gene/779730) | [1006546](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1006546) |  |
-| Zebrafish | [ENSDARG00000045493](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045493) | [563675](https://www.ncbi.nlm.nih.gov/gene/563675) | [ZFIN:ZDB-GENE-041210-186](https://zfin.org/ZDB-GENE-041210-186) | ZDB-GENE-041210-186 |
+| Zebrafish | [ENSDARG00000114987](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114987) | [563675](https://www.ncbi.nlm.nih.gov/gene/563675) | [ZFIN:ZDB-GENE-041210-186](https://zfin.org/ZDB-GENE-041210-186) | transmembrane transport |
 

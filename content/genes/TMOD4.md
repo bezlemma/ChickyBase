@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395547
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204774
 forward_primer: CATTCACTGGGGAGAAGAAAG
-gene_id: '449573'
+gene_id: '395547'
 gene_type: protein-coding
 images:
 - caption: TMOD4 expression
@@ -105,41 +105,37 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R402.TMOD4.S22D.002.jpg
 name: tropomodulin 4
-ncbi_id: '449573'
+ncbi_id: '395547'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000163157
+  entrez: '29765'
+  mod: MIM:605834
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000005628
+  entrez: '50874'
+  mod: MGI:1355285
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000008139
+  entrez: '549491'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000020890
+  entrez: '30441'
+  mod: ZFIN:ZDB-GENE-991019-9
+  phenotypes: actin filament organization, muscle contraction, myofibril assembly,
+    pointed-end actin filament capping, skeletal myofibril assembly
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCGAAGCAGAGCCTAAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449573
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395547
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449573
+  url: https://www.ncbi.nlm.nih.gov/gene/395547
 species: Gallus gallus
 symbol: TMOD4
 template_length: '846'
@@ -161,9 +157,8 @@ title: TMOD4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000163157](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163157) | [29765](https://www.ncbi.nlm.nih.gov/gene/29765) | [MIM:605834](https://omim.org/entry/605834) |  |
+| Mouse | [ENSMUSG00000005628](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005628) | [50874](https://www.ncbi.nlm.nih.gov/gene/50874) | [MGI:1355285](http://www.informatics.jax.org/marker/MGI:1355285) |  |
+| Xenopus | [ENSXETG00000008139](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008139) | [549491](https://www.ncbi.nlm.nih.gov/gene/549491) |  |  |
+| Zebrafish | [ENSDARG00000020890](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020890) | [30441](https://www.ncbi.nlm.nih.gov/gene/30441) | [ZFIN:ZDB-GENE-991019-9](https://zfin.org/ZDB-GENE-991019-9) | actin filament organization, muscle contraction, myofibril assembly, pointed-end actin filament capping, skeletal myofibril assembly |
 

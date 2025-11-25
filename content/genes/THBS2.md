@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:414837
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001755
-gene_id: '460962'
+gene_id: '414837'
 gene_type: protein-coding
 images:
 - caption: THBS2 expression
@@ -54,13 +54,8 @@ images:
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TSP2.perichond.Bandyopadhyay.2008.f2.tsp2.png
 name: thrombospondin 2
-ncbi_id: '460962'
+ncbi_id: '414837'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000186340
   entrez: '7058'
   mod: MIM:188061
@@ -71,20 +66,20 @@ orthologs:
   mod: MGI:98738
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100494997,779026
-  mod: '482461'
+- ensembl: ENSXETG00000008550
+  entrez: '100494997'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000073810,ENSDARG00000092466
-  entrez: 566325,794881
-  mod: ZFIN:ZDB-GENE-100623-1,ZFIN:ZDB-GENE-020708-2
-  phenotypes: ZDB-GENE-100623-1,ZDB-GENE-020708-2
+- ensembl: ENSDARG00000060410
+  entrez: '100535241'
+  mod: ZFIN:ZDB-GENE-020708-2
+  phenotypes: cell adhesion, negative regulation of angiogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460962
+  url: https://www.ncbi.nlm.nih.gov/gene/414837
 species: Gallus gallus
 symbol: THBS2
 title: THBS2
@@ -113,9 +108,8 @@ title: THBS2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000186340](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000186340) | [7058](https://www.ncbi.nlm.nih.gov/gene/7058) | [MIM:188061](https://omim.org/entry/188061) | MIM:603932 |
 | Mouse | [ENSMUSG00000023885](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023885) | [21826](https://www.ncbi.nlm.nih.gov/gene/21826) | [MGI:98738](http://www.informatics.jax.org/marker/MGI:98738) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100494997](https://www.ncbi.nlm.nih.gov/gene/100494997), [779026](https://www.ncbi.nlm.nih.gov/gene/779026) | [482461](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482461) |  |
-| Zebrafish | [ENSDARG00000073810](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000073810), [ENSDARG00000092466](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000092466) | [566325](https://www.ncbi.nlm.nih.gov/gene/566325), [794881](https://www.ncbi.nlm.nih.gov/gene/794881) | [ZFIN:ZDB-GENE-100623-1](https://zfin.org/ZDB-GENE-100623-1), [ZFIN:ZDB-GENE-020708-2](https://zfin.org/ZDB-GENE-020708-2) | ZDB-GENE-100623-1,ZDB-GENE-020708-2 |
+| Xenopus | [ENSXETG00000008550](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008550) | [100494997](https://www.ncbi.nlm.nih.gov/gene/100494997) |  |  |
+| Zebrafish | [ENSDARG00000060410](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060410) | [100535241](https://www.ncbi.nlm.nih.gov/gene/100535241) | [ZFIN:ZDB-GENE-020708-2](https://zfin.org/ZDB-GENE-020708-2) | cell adhesion, negative regulation of angiogenesis |
 

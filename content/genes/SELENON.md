@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419587
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001114972
 forward_primer: CCCCTAAGAGTGTGATGCTTGC
-gene_id: '458302'
+gene_id: '419587'
 gene_type: protein-coding
 images:
 - caption: SELENON expression
@@ -85,13 +85,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.SEPN1.S26AA.001.jpg
 name: selenoprotein N
-ncbi_id: '458302'
+ncbi_id: '419587'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000162430
   entrez: '57190'
   mod: MIM:606210
@@ -102,24 +97,26 @@ orthologs:
   mod: MGI:2151208
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010686
   entrez: '394859'
-  mod: '6456839'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000033616
+- ensembl: ENSDARG00000113817
   entrez: '352914'
   mod: ZFIN:ZDB-GENE-030327-7
-  phenotypes: ZDB-GENE-030327-7
+  phenotypes: calcium ion homeostasis, muscle cell development, muscle tissue development,
+    regulation of locomotion, regulation of ryanodine-sensitive calcium-release channel
+    activity
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAACTTTCCAGGACAGTCTCCCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458302
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419587
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458302
+  url: https://www.ncbi.nlm.nih.gov/gene/419587
 species: Gallus gallus
 symbol: SELENON
 template_length: '843'
@@ -141,9 +138,8 @@ title: SELENON
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000162430](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162430) | [57190](https://www.ncbi.nlm.nih.gov/gene/57190) | [MIM:606210](https://omim.org/entry/606210) | MIM:602771 |
 | Mouse | [ENSMUSG00000050989](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000050989) | [74777](https://www.ncbi.nlm.nih.gov/gene/74777) | [MGI:2151208](http://www.informatics.jax.org/marker/MGI:2151208) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [394859](https://www.ncbi.nlm.nih.gov/gene/394859) | [6456839](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6456839) |  |
-| Zebrafish | [ENSDARG00000033616](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033616) | [352914](https://www.ncbi.nlm.nih.gov/gene/352914) | [ZFIN:ZDB-GENE-030327-7](https://zfin.org/ZDB-GENE-030327-7) | ZDB-GENE-030327-7 |
+| Xenopus | [ENSXETG00000010686](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010686) | [394859](https://www.ncbi.nlm.nih.gov/gene/394859) |  |  |
+| Zebrafish | [ENSDARG00000113817](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000113817) | [352914](https://www.ncbi.nlm.nih.gov/gene/352914) | [ZFIN:ZDB-GENE-030327-7](https://zfin.org/ZDB-GENE-030327-7) | calcium ion homeostasis, muscle cell development, muscle tissue development, regulation of locomotion, regulation of ryanodine-sensitive calcium-release channel activity |
 

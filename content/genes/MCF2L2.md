@@ -1,13 +1,12 @@
 ---
 cgnc_id: '6637'
 external_ids:
-  '25': stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/424959
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424959
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422768
 forward_primer: GATGCTACAGACCTTTGGAACGG
-gene_id: '467871'
+gene_id: '424959'
 gene_type: protein-coding
 images:
 - caption: MCF2L2 expression
@@ -109,41 +108,26 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R391.MCF2L2.S25.002.jpg
 name: MCF.2 cell line derived transforming sequence-like 2
-ncbi_id: '467871'
+ncbi_id: '424959'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000019392
+  entrez: '100380200'
   mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000053524
-  entrez: '23101'
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '6037883'
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000079742
   entrez: '100149630'
   mod: ZFIN:ZDB-GENE-100812-1
-  phenotypes: ZDB-GENE-100812-1
+  phenotypes: intracellular signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCTTTGGGTTAGAGAGTTGGTGCTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467871
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424959
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467871
+  url: https://www.ncbi.nlm.nih.gov/gene/424959
 species: Gallus gallus
 symbol: MCF2L2
 template_length: '808'
@@ -165,9 +149,6 @@ title: MCF2L2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000053524](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000053524) | [23101](https://www.ncbi.nlm.nih.gov/gene/23101) |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  | [6037883](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6037883) |  |
-| Zebrafish | [ENSDARG00000079742](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079742) | [100149630](https://www.ncbi.nlm.nih.gov/gene/100149630) | [ZFIN:ZDB-GENE-100812-1](https://zfin.org/ZDB-GENE-100812-1) | ZDB-GENE-100812-1 |
+| Xenopus | [ENSXETG00000019392](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019392) | [100380200](https://www.ncbi.nlm.nih.gov/gene/100380200) |  |  |
+| Zebrafish | [ENSDARG00000079742](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079742) | [100149630](https://www.ncbi.nlm.nih.gov/gene/100149630) | [ZFIN:ZDB-GENE-100812-1](https://zfin.org/ZDB-GENE-100812-1) | intracellular signal transduction |
 

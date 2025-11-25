@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418825
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417021
-gene_id: '454266'
+gene_id: '418825'
 gene_type: protein-coding
 images:
 - caption: PCDH17 expression
@@ -241,13 +241,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh17.Lin.2013.Fig3.jpg
 name: protocadherin 17
-ncbi_id: '454266'
+ncbi_id: '418825'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000118946
   entrez: '27253'
   mod: MIM:611760
@@ -258,23 +253,24 @@ orthologs:
   mod: MGI:2684924
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000013565
   entrez: '100485388'
-  mod: '480219'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000027041
   entrez: '561336'
   mod: ZFIN:ZDB-GENE-090608-3
-  phenotypes: ZDB-GENE-090608-3
+  phenotypes: anatomical structure morphogenesis, axon extension, axon guidance, camera-type
+    eye photoreceptor cell differentiation, cell adhesion
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454266
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418825
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454266
+  url: https://www.ncbi.nlm.nih.gov/gene/418825
 species: Gallus gallus
 symbol: PCDH17
 title: PCDH17
@@ -300,9 +296,8 @@ title: PCDH17
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000118946](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118946) | [27253](https://www.ncbi.nlm.nih.gov/gene/27253) | [MIM:611760](https://omim.org/entry/611760) |  |
 | Mouse | [ENSMUSG00000035566](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035566) | [219228](https://www.ncbi.nlm.nih.gov/gene/219228) | [MGI:2684924](http://www.informatics.jax.org/marker/MGI:2684924) |  |
-| Xenopus |  | [100485388](https://www.ncbi.nlm.nih.gov/gene/100485388) | [480219](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480219) |  |
-| Zebrafish | [ENSDARG00000027041](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027041) | [561336](https://www.ncbi.nlm.nih.gov/gene/561336) | [ZFIN:ZDB-GENE-090608-3](https://zfin.org/ZDB-GENE-090608-3) | ZDB-GENE-090608-3 |
+| Xenopus | [ENSXETG00000013565](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013565) | [100485388](https://www.ncbi.nlm.nih.gov/gene/100485388) |  |  |
+| Zebrafish | [ENSDARG00000027041](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027041) | [561336](https://www.ncbi.nlm.nih.gov/gene/561336) | [ZFIN:ZDB-GENE-090608-3](https://zfin.org/ZDB-GENE-090608-3) | anatomical structure morphogenesis, axon extension, axon guidance, camera-type eye photoreceptor cell differentiation, cell adhesion |
 

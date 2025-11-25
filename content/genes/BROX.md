@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421334
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419397
 forward_primer: 5'-CCAGAGATGATGAAGAACGCAAC-3'
-gene_id: '457311'
+gene_id: '421334'
 gene_type: protein-coding
 images:
 - caption: BROX expression
@@ -62,41 +62,36 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R546.BROX.S24.001.jpg
 name: BRO1 domain and CAAX motif containing
-ncbi_id: '457311'
+ncbi_id: '421334'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000162819
   entrez: '148362'
   mod: ''
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000046836
+  entrez: '71678'
+  mod: MGI:1918928
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000015033
   entrez: '100125017'
-  mod: '5745544'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000013659
   entrez: '492786'
   mod: ZFIN:ZDB-GENE-041114-137
-  phenotypes: ZDB-GENE-041114-137
+  phenotypes: biological_process
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGTGTCCAGAAGGTTTGGCAGTAGTC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457311
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421334
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457311
+  url: https://www.ncbi.nlm.nih.gov/gene/421334
 species: Gallus gallus
 symbol: BROX
 template_length: '758'
@@ -119,9 +114,8 @@ title: BROX
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000162819](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162819) | [148362](https://www.ncbi.nlm.nih.gov/gene/148362) |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100125017](https://www.ncbi.nlm.nih.gov/gene/100125017) | [5745544](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5745544) |  |
-| Zebrafish | [ENSDARG00000013659](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013659) | [492786](https://www.ncbi.nlm.nih.gov/gene/492786) | [ZFIN:ZDB-GENE-041114-137](https://zfin.org/ZDB-GENE-041114-137) | ZDB-GENE-041114-137 |
+| Mouse | [ENSMUSG00000046836](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000046836) | [71678](https://www.ncbi.nlm.nih.gov/gene/71678) | [MGI:1918928](http://www.informatics.jax.org/marker/MGI:1918928) |  |
+| Xenopus | [ENSXETG00000015033](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015033) | [100125017](https://www.ncbi.nlm.nih.gov/gene/100125017) |  |  |
+| Zebrafish | [ENSDARG00000013659](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013659) | [492786](https://www.ncbi.nlm.nih.gov/gene/492786) | [ZFIN:ZDB-GENE-041114-137](https://zfin.org/ZDB-GENE-041114-137) | biological_process |
 

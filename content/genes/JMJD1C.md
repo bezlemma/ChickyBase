@@ -1,7 +1,6 @@
 ---
 cgnc_id: '2125'
 external_ids:
-  '25': stage 25
   Comments: no specific expression detected stages 4-18.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/423655
@@ -9,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423655
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199546
 forward_primer: 5’-TCCGTGCAATCTCACTCGG-3’
-gene_id: '451237'
+gene_id: '423655'
 gene_type: protein-coding
 images:
 - caption: JMJD1C expression
@@ -72,13 +71,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R718.JMJD1C.S25.001.jpg
 name: jumonji domain containing 1C
-ncbi_id: '451237'
+ncbi_id: '423655'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000171988
   entrez: '221037'
   mod: MIM:604503
@@ -89,24 +83,25 @@ orthologs:
   mod: MGI:1918614
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000007684
   entrez: '100487525'
-  mod: '1008866'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000079939
   entrez: '558436'
-  mod: ZFIN:ZDB-GENE-121214-344,ZFIN:ZDB-GENE-130530-832
-  phenotypes: ZDB-GENE-121214-344,ZDB-GENE-130530-832
+  mod: ZFIN:ZDB-GENE-121214-344
+  phenotypes: chromatin organization, hemopoiesis, myeloid cell development, regulation
+    of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGACGGTGCCTTGTGAGACAG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451237
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423655
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451237
+  url: https://www.ncbi.nlm.nih.gov/gene/423655
 species: Gallus gallus
 symbol: JMJD1C
 template_length: '635'
@@ -131,9 +126,8 @@ title: JMJD1C
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000171988](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171988) | [221037](https://www.ncbi.nlm.nih.gov/gene/221037) | [MIM:604503](https://omim.org/entry/604503) |  |
 | Mouse | [ENSMUSG00000037876](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037876) | [108829](https://www.ncbi.nlm.nih.gov/gene/108829) | [MGI:1918614](http://www.informatics.jax.org/marker/MGI:1918614) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100487525](https://www.ncbi.nlm.nih.gov/gene/100487525) | [1008866](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1008866) |  |
-| Zebrafish |  | [558436](https://www.ncbi.nlm.nih.gov/gene/558436) | [ZFIN:ZDB-GENE-121214-344](https://zfin.org/ZDB-GENE-121214-344), [ZFIN:ZDB-GENE-130530-832](https://zfin.org/ZDB-GENE-130530-832) | ZDB-GENE-121214-344,ZDB-GENE-130530-832 |
+| Xenopus | [ENSXETG00000007684](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007684) | [100487525](https://www.ncbi.nlm.nih.gov/gene/100487525) |  |  |
+| Zebrafish | [ENSDARG00000079939](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079939) | [558436](https://www.ncbi.nlm.nih.gov/gene/558436) | [ZFIN:ZDB-GENE-121214-344](https://zfin.org/ZDB-GENE-121214-344) | chromatin organization, hemopoiesis, myeloid cell development, regulation of transcription by RNA polymerase II |
 

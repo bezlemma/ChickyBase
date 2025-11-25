@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
   X-XIV: stage XIIstage XII
-gene_id: '504569'
+gene_id: '101750306'
 gene_type: unknown
 images:
 - caption: PRMT5 expression
@@ -153,7 +153,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zwane.2015-Prmt5-fig4.jpg
 name: protein arginine methyltransferase 5
-ncbi_id: '504569'
+ncbi_id: '101750306'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -183,10 +183,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=504569
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=101750306
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/504569
+  url: https://www.ncbi.nlm.nih.gov/gene/101750306
 species: Gallus gallus
 symbol: PRMT5
 title: PRMT5

@@ -5,7 +5,6 @@ aliases:
 - cathepsin D (lysosomal aspartyl protease)
 cgnc_id: '4989'
 external_ids:
-  '31': stage 31stage 31stage 31
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0029093
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006508
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0031012
@@ -23,7 +22,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004190
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205177
 forward_primer: 5’-CATCTTGGGCATGGCATTCC-3’
-gene_id: '459594'
+gene_id: '396090'
 gene_type: protein-coding
 images:
 - caption: CTSD expression
@@ -205,13 +204,8 @@ images:
   stage: stage 33
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/zuz2007a.jpg
 name: cathepsin D
-ncbi_id: '459594'
+ncbi_id: '396090'
 orthologs:
-- ensembl: ''
-  entrez: '45268'
-  mod: FBgn0029093
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000117984
   entrez: '1509'
   mod: MIM:116840
@@ -223,23 +217,24 @@ orthologs:
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
 - ensembl: ''
-  entrez: 394561,443721
-  mod: '5906944'
+  entrez: '101735147'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000057698
+- ensembl: ENSDARG00000110172
   entrez: '65225'
   mod: ZFIN:ZDB-GENE-010131-8
-  phenotypes: ZDB-GENE-010131-8
+  phenotypes: membrane protein proteolysis, muscle structure development, proteolysis,
+    response to bacterium, retinal pigment epithelium development
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGGCGCTTAGACACATTTGGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459594
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396090
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459594
+  url: https://www.ncbi.nlm.nih.gov/gene/396090
 species: Gallus gallus
 symbol: CTSD
 template_length: '648'
@@ -271,9 +266,8 @@ title: CTSD
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [45268](https://www.ncbi.nlm.nih.gov/gene/45268) | FBgn0029093 |  |
 | Human | [ENSG00000117984](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000117984) | [1509](https://www.ncbi.nlm.nih.gov/gene/1509) | [MIM:116840](https://omim.org/entry/116840) | MIM:610127 |
 | Mouse | [ENSMUSG00000007891](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000007891) | [13033](https://www.ncbi.nlm.nih.gov/gene/13033) | [MGI:88562](http://www.informatics.jax.org/marker/MGI:88562) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [394561](https://www.ncbi.nlm.nih.gov/gene/394561), [443721](https://www.ncbi.nlm.nih.gov/gene/443721) | [5906944](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5906944) |  |
-| Zebrafish | [ENSDARG00000057698](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057698) | [65225](https://www.ncbi.nlm.nih.gov/gene/65225) | [ZFIN:ZDB-GENE-010131-8](https://zfin.org/ZDB-GENE-010131-8) | ZDB-GENE-010131-8 |
+| Xenopus |  | [101735147](https://www.ncbi.nlm.nih.gov/gene/101735147) |  |  |
+| Zebrafish | [ENSDARG00000110172](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110172) | [65225](https://www.ncbi.nlm.nih.gov/gene/65225) | [ZFIN:ZDB-GENE-010131-8](https://zfin.org/ZDB-GENE-010131-8) | membrane protein proteolysis, muscle structure development, proteolysis, response to bacterium, retinal pigment epithelium development |
 

@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428820
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004930
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426378
-gene_id: '456428'
+gene_id: '428820'
 gene_type: protein-coding
 images:
 - caption: COR8 expression
@@ -39,7 +39,7 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COR8.Nef.1996.Fig4.jpg
 name: chick olfactory receptor 8
-ncbi_id: '456428'
+ncbi_id: '428820'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -69,7 +69,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456428
+  url: https://www.ncbi.nlm.nih.gov/gene/428820
 species: Gallus gallus
 symbol: COR8
 title: COR8

@@ -6,7 +6,6 @@ aliases:
 - LERK-6
 cgnc_id: '49502'
 external_ids:
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0048013
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0031225
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=1999+Iwamasa+Eph
@@ -19,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395831
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204983
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATACCGCTACGCCGTCTATTGG
-gene_id: '450052'
+gene_id: '395831'
 gene_type: protein-coding
 images:
 - caption: EFNA2 expression
@@ -305,41 +304,36 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ephrin-A2.Iwamasa.1999.Fig3D.jpg
 name: ephrin A2
-ncbi_id: '450052'
+ncbi_id: '395831'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000099617
+  entrez: '1943'
+  mod: MIM:602756
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000003070
+  entrez: '13637'
+  mod: MGI:102707
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000003278
+  entrez: '100144647'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000112093
+  entrez: '100332852'
+  mod: ZFIN:ZDB-GENE-141120-2
+  phenotypes: ephrin receptor signaling pathway
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAGTTGTTGCTGGTGAAGATGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450052
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395831
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450052
+  url: https://www.ncbi.nlm.nih.gov/gene/395831
 species: Gallus gallus
 symbol: EFNA2
 template_length: '444'
@@ -368,9 +362,8 @@ title: EFNA2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000099617](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000099617) | [1943](https://www.ncbi.nlm.nih.gov/gene/1943) | [MIM:602756](https://omim.org/entry/602756) |  |
+| Mouse | [ENSMUSG00000003070](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000003070) | [13637](https://www.ncbi.nlm.nih.gov/gene/13637) | [MGI:102707](http://www.informatics.jax.org/marker/MGI:102707) |  |
+| Xenopus | [ENSXETG00000003278](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003278) | [100144647](https://www.ncbi.nlm.nih.gov/gene/100144647) |  |  |
+| Zebrafish | [ENSDARG00000112093](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000112093) | [100332852](https://www.ncbi.nlm.nih.gov/gene/100332852) | [ZFIN:ZDB-GENE-141120-2](https://zfin.org/ZDB-GENE-141120-2) | ephrin receptor signaling pathway |
 

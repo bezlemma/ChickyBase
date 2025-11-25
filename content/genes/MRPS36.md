@@ -3,7 +3,6 @@ aliases:
 - 28S ribosomal protein S36, mitochondrial
 cgnc_id: '10968'
 external_ids:
-  '25': stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Robb+Antin+candidate+coloboma
   Comments: As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI XM_001234564.3
@@ -15,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771273
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234564
-gene_id: '448820'
+gene_id: '771273'
 gene_type: protein-coding
 images:
 - caption: MRPS36 expression
@@ -62,40 +61,35 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robb.2012.F3.mrps36.png
 name: mitochondrial ribosomal protein S36
-ncbi_id: '448820'
+ncbi_id: '771273'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000134056
+- ensembl: ENSG00000278461
   entrez: '92259'
   mod: MIM:611996
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000061474
-  entrez: 66128,100042811,100043826
-  mod: MGI:1913378,MGI:3704298,MGI:3809201
+  entrez: '66128'
+  mod: MGI:1913378
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 548723,100037103
-  mod: '5729392'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000027658
+  entrez: '548723'
   mod: ''
   phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000113427
+  entrez: '567309'
+  mod: ZFIN:ZDB-GENE-081104-343
+  phenotypes: 2-oxoglutarate metabolic process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448820
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771273
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448820
+  url: https://www.ncbi.nlm.nih.gov/gene/771273
 species: Gallus gallus
 symbol: MRPS36
 title: MRPS36
@@ -121,9 +115,8 @@ title: MRPS36
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000134056](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134056) | [92259](https://www.ncbi.nlm.nih.gov/gene/92259) | [MIM:611996](https://omim.org/entry/611996) |  |
-| Mouse | [ENSMUSG00000061474](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061474) | [66128](https://www.ncbi.nlm.nih.gov/gene/66128), [100042811](https://www.ncbi.nlm.nih.gov/gene/100042811), [100043826](https://www.ncbi.nlm.nih.gov/gene/100043826) | [MGI:1913378](http://www.informatics.jax.org/marker/MGI:1913378), [MGI:3704298](http://www.informatics.jax.org/marker/MGI:3704298), [MGI:3809201](http://www.informatics.jax.org/marker/MGI:3809201) |  |
-| Xenopus |  | [548723](https://www.ncbi.nlm.nih.gov/gene/548723), [100037103](https://www.ncbi.nlm.nih.gov/gene/100037103) | [5729392](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5729392) |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000278461](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000278461) | [92259](https://www.ncbi.nlm.nih.gov/gene/92259) | [MIM:611996](https://omim.org/entry/611996) |  |
+| Mouse | [ENSMUSG00000061474](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061474) | [66128](https://www.ncbi.nlm.nih.gov/gene/66128) | [MGI:1913378](http://www.informatics.jax.org/marker/MGI:1913378) |  |
+| Xenopus | [ENSXETG00000027658](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000027658) | [548723](https://www.ncbi.nlm.nih.gov/gene/548723) |  |  |
+| Zebrafish | [ENSDARG00000113427](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000113427) | [567309](https://www.ncbi.nlm.nih.gov/gene/567309) | [ZFIN:ZDB-GENE-081104-343](https://zfin.org/ZDB-GENE-081104-343) | 2-oxoglutarate metabolic process |
 

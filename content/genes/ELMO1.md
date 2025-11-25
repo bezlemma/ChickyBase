@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420735
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030994
-gene_id: '455759'
+gene_id: '420735'
 gene_type: protein-coding
 images:
 - caption: ELMO1 expression
@@ -37,13 +37,8 @@ images:
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ELMO1_HH9 x30 (3).jpg
 name: engulfment and cell motility 1
-ncbi_id: '455759'
+ncbi_id: '420735'
 orthologs:
-- ensembl: ''
-  entrez: '34633'
-  mod: FBgn0032409
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000155849
   entrez: '9844'
   mod: MIM:606420
@@ -54,20 +49,21 @@ orthologs:
   mod: MGI:2153044
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 493485,398953
-  mod: '986984'
+- ensembl: ENSXETG00000031168
+  entrez: '100380096'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000019258
+- ensembl: ENSDARG00000098753
   entrez: '406364'
   mod: ZFIN:ZDB-GENE-040426-2069
-  phenotypes: ZDB-GENE-040426-2069
+  phenotypes: actin filament organization, apoptotic process, cell motility, cilium
+    assembly, glomerulus development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455759
+  url: https://www.ncbi.nlm.nih.gov/gene/420735
 species: Gallus gallus
 symbol: ELMO1
 title: ELMO1
@@ -93,9 +89,8 @@ title: ELMO1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34633](https://www.ncbi.nlm.nih.gov/gene/34633) | FBgn0032409 |  |
 | Human | [ENSG00000155849](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000155849) | [9844](https://www.ncbi.nlm.nih.gov/gene/9844) | [MIM:606420](https://omim.org/entry/606420) |  |
 | Mouse | [ENSMUSG00000041112](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041112) | [140580](https://www.ncbi.nlm.nih.gov/gene/140580) | [MGI:2153044](http://www.informatics.jax.org/marker/MGI:2153044) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [493485](https://www.ncbi.nlm.nih.gov/gene/493485), [398953](https://www.ncbi.nlm.nih.gov/gene/398953) | [986984](http://www.xenbase.org/gene/showgene.do?method=display&geneId=986984) |  |
-| Zebrafish | [ENSDARG00000019258](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019258) | [406364](https://www.ncbi.nlm.nih.gov/gene/406364) | [ZFIN:ZDB-GENE-040426-2069](https://zfin.org/ZDB-GENE-040426-2069) | ZDB-GENE-040426-2069 |
+| Xenopus | [ENSXETG00000031168](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031168) | [100380096](https://www.ncbi.nlm.nih.gov/gene/100380096) |  |  |
+| Zebrafish | [ENSDARG00000098753](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098753) | [406364](https://www.ncbi.nlm.nih.gov/gene/406364) | [ZFIN:ZDB-GENE-040426-2069](https://zfin.org/ZDB-GENE-040426-2069) | actin filament organization, apoptotic process, cell motility, cilium assembly, glomerulus development |
 

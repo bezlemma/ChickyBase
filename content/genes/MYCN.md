@@ -16,7 +16,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031091
   X-XIV: stage XIII
-gene_id: '456305'
+gene_id: '421948'
 gene_type: protein-coding
 images:
 - caption: MYCN expression
@@ -228,13 +228,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYC.Trevers.2023-Fig7-7-B.jpg
 name: MYCN proto-oncogene, bHLH transcription factor
-ncbi_id: '456305'
+ncbi_id: '421948'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134323
   entrez: '4613'
   mod: MIM:164840
@@ -245,20 +240,21 @@ orthologs:
   mod: MGI:97357
   phenotypes: All phenotypic alleles (12):Targeted, knock-out(7) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 448649,380041,100337516
-  mod: '478858'
+- ensembl: ENSXETG00000015485
+  entrez: '448649'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000006837
   entrez: '252851'
   mod: ZFIN:ZDB-GENE-020711-1
-  phenotypes: ZDB-GENE-020711-1
+  phenotypes: hematopoietic progenitor cell differentiation, regulation of DNA-templated
+    transcription
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456305
+  url: https://www.ncbi.nlm.nih.gov/gene/421948
 species: Gallus gallus
 symbol: MYCN
 title: MYCN
@@ -286,9 +282,8 @@ title: MYCN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000134323](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134323) | [4613](https://www.ncbi.nlm.nih.gov/gene/4613) | [MIM:164840](https://omim.org/entry/164840) | MIM:164280 |
 | Mouse | [ENSMUSG00000037169](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037169) | [18109](https://www.ncbi.nlm.nih.gov/gene/18109) | [MGI:97357](http://www.informatics.jax.org/marker/MGI:97357) | All phenotypic alleles (12):Targeted, knock-out(7) Targeted, other(5) |
-| Xenopus |  | [448649](https://www.ncbi.nlm.nih.gov/gene/448649), [380041](https://www.ncbi.nlm.nih.gov/gene/380041), [100337516](https://www.ncbi.nlm.nih.gov/gene/100337516) | [478858](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478858) |  |
-| Zebrafish |  | [252851](https://www.ncbi.nlm.nih.gov/gene/252851) | [ZFIN:ZDB-GENE-020711-1](https://zfin.org/ZDB-GENE-020711-1) | ZDB-GENE-020711-1 |
+| Xenopus | [ENSXETG00000015485](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015485) | [448649](https://www.ncbi.nlm.nih.gov/gene/448649) |  |  |
+| Zebrafish | [ENSDARG00000006837](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006837) | [252851](https://www.ncbi.nlm.nih.gov/gene/252851) | [ZFIN:ZDB-GENE-020711-1](https://zfin.org/ZDB-GENE-020711-1) | hematopoietic progenitor cell differentiation, regulation of DNA-templated transcription |
 

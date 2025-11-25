@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419212
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417389
-gene_id: '455777'
+gene_id: '419212'
 gene_type: protein-coding
 images:
 - caption: CSE1L expression
@@ -77,13 +77,8 @@ images:
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CSE.Kruck.2009.Fig.2.png
 name: chromosome segregation 1 like
-ncbi_id: '455777'
+ncbi_id: '419212'
 orthologs:
-- ensembl: ''
-  entrez: '35016'
-  mod: FBgn0022213
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000124207
   entrez: '1434'
   mod: MIM:601342
@@ -94,20 +89,21 @@ orthologs:
   mod: MGI:1339951
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100158534,444464
-  mod: '5802330'
+- ensembl: ENSXETG00000001784
+  entrez: '100158534'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000006963
-  entrez: 100331234,30707
+  entrez: '30707'
   mod: ZFIN:ZDB-GENE-990603-1
-  phenotypes: ZDB-GENE-990603-1
+  phenotypes: body fluid secretion, intracellular protein transport, protein export
+    from nucleus, protein import into nucleus, protein transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455777
+  url: https://www.ncbi.nlm.nih.gov/gene/419212
 species: Gallus gallus
 symbol: CSE1L
 title: CSE1L
@@ -135,9 +131,8 @@ title: CSE1L
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35016](https://www.ncbi.nlm.nih.gov/gene/35016) | FBgn0022213 |  |
 | Human | [ENSG00000124207](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000124207) | [1434](https://www.ncbi.nlm.nih.gov/gene/1434) | [MIM:601342](https://omim.org/entry/601342) |  |
 | Mouse | [ENSMUSG00000002718](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002718) | [110750](https://www.ncbi.nlm.nih.gov/gene/110750) | [MGI:1339951](http://www.informatics.jax.org/marker/MGI:1339951) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100158534](https://www.ncbi.nlm.nih.gov/gene/100158534), [444464](https://www.ncbi.nlm.nih.gov/gene/444464) | [5802330](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5802330) |  |
-| Zebrafish | [ENSDARG00000006963](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006963) | [100331234](https://www.ncbi.nlm.nih.gov/gene/100331234), [30707](https://www.ncbi.nlm.nih.gov/gene/30707) | [ZFIN:ZDB-GENE-990603-1](https://zfin.org/ZDB-GENE-990603-1) | ZDB-GENE-990603-1 |
+| Xenopus | [ENSXETG00000001784](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001784) | [100158534](https://www.ncbi.nlm.nih.gov/gene/100158534) |  |  |
+| Zebrafish | [ENSDARG00000006963](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006963) | [30707](https://www.ncbi.nlm.nih.gov/gene/30707) | [ZFIN:ZDB-GENE-990603-1](https://zfin.org/ZDB-GENE-990603-1) | body fluid secretion, intracellular protein transport, protein export from nucleus, protein import into nucleus, protein transport |
 

@@ -1,7 +1,6 @@
 ---
 cgnc_id: '59214'
 external_ids:
-  '19': stage 19
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Darnell+MicroRNA+Stanislaw+Dev
     Dyn
   Comments: up to stage 12  no detectable signal
@@ -11,7 +10,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000021733
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006106.3?report=genbank&from=7367265&to=7367361
-gene_id: '467963'
+gene_id: '777914'
 gene_type: miscRNA
 images:
 - caption: MIR21 expression
@@ -36,7 +35,7 @@ images:
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/h-miR-21.30.20.jpg
 name: microRNA 21
-ncbi_id: '467963'
+ncbi_id: '777914'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -66,7 +65,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467963
+  url: https://www.ncbi.nlm.nih.gov/gene/777914
 species: Gallus gallus
 symbol: MIR21
 title: MIR21

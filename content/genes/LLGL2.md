@@ -4,13 +4,12 @@ aliases:
 - lethal giant larvae homolog 2
 cgnc_id: '6099'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/422127
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422127
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420130
 forward_primer: TACAGCAGGGGCTTGATTGTCC
-gene_id: '450568'
+gene_id: '422127'
 gene_type: protein-coding
 images:
 - caption: LLGL2 expression
@@ -160,16 +159,11 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R422.LLGL2.S25.001.jpg
 name: LLGL2, scribble cell polarity complex component
-ncbi_id: '450568'
+ncbi_id: '422127'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000073350
   entrez: '3993'
-  mod: ''
+  mod: MIM:618483
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000020782
@@ -177,24 +171,25 @@ orthologs:
   mod: MGI:1918843
   phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 548396,447703
-  mod: '868477'
+- ensembl: ENSXETG00000012529
+  entrez: '548396'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000023920
   entrez: '795670'
   mod: ZFIN:ZDB-GENE-030131-9877
-  phenotypes: ZDB-GENE-030131-9877
+  phenotypes: Golgi to plasma membrane transport, Kupffer's vesicle development, cell
+    projection assembly, cortical actin cytoskeleton organization, cytoskeleton organization
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGTTTCTCGTGACCTTTCCATCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450568
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422127
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450568
+  url: https://www.ncbi.nlm.nih.gov/gene/422127
 species: Gallus gallus
 symbol: LLGL2
 template_length: '1069'
@@ -216,9 +211,8 @@ title: LLGL2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000073350](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000073350) | [3993](https://www.ncbi.nlm.nih.gov/gene/3993) |  |  |
+| Human | [ENSG00000073350](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000073350) | [3993](https://www.ncbi.nlm.nih.gov/gene/3993) | [MIM:618483](https://omim.org/entry/618483) |  |
 | Mouse | [ENSMUSG00000020782](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020782) | [217325](https://www.ncbi.nlm.nih.gov/gene/217325) | [MGI:1918843](http://www.informatics.jax.org/marker/MGI:1918843) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [548396](https://www.ncbi.nlm.nih.gov/gene/548396), [447703](https://www.ncbi.nlm.nih.gov/gene/447703) | [868477](http://www.xenbase.org/gene/showgene.do?method=display&geneId=868477) |  |
-| Zebrafish | [ENSDARG00000023920](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023920) | [795670](https://www.ncbi.nlm.nih.gov/gene/795670) | [ZFIN:ZDB-GENE-030131-9877](https://zfin.org/ZDB-GENE-030131-9877) | ZDB-GENE-030131-9877 |
+| Xenopus | [ENSXETG00000012529](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012529) | [548396](https://www.ncbi.nlm.nih.gov/gene/548396) |  |  |
+| Zebrafish | [ENSDARG00000023920](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023920) | [795670](https://www.ncbi.nlm.nih.gov/gene/795670) | [ZFIN:ZDB-GENE-030131-9877](https://zfin.org/ZDB-GENE-030131-9877) | Golgi to plasma membrane transport, Kupffer's vesicle development, cell projection assembly, cortical actin cytoskeleton organization, cytoskeleton organization |
 

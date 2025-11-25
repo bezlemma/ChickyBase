@@ -3,7 +3,6 @@ aliases:
 - syndecan-1
 cgnc_id: '12340'
 external_ids:
-  '31': stage 31stage 31
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2019+Cui+MDK+PTN
   Comments: The complete cDNA template sequence was obtained from the information
     provided in the publication as described in Cui et al. 2019.
@@ -13,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421960
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419972
-gene_id: '456216'
+gene_id: '421960'
 gene_type: protein-coding
 images:
 - caption: SDC1 expression
@@ -38,13 +37,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig5.Allimages-3.jpg
 name: syndecan 1
-ncbi_id: '456216'
+ncbi_id: '421960'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000115884
   entrez: '6382'
   mod: MIM:186355
@@ -55,20 +49,10 @@ orthologs:
   mod: MGI:1349162
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100038138,398348
-  mod: '494959'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456216
+  url: https://www.ncbi.nlm.nih.gov/gene/421960
 species: Gallus gallus
 symbol: SDC1
 title: SDC1
@@ -94,9 +78,6 @@ title: SDC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000115884](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000115884) | [6382](https://www.ncbi.nlm.nih.gov/gene/6382) | [MIM:186355](https://omim.org/entry/186355) |  |
 | Mouse | [ENSMUSG00000020592](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020592) | [20969](https://www.ncbi.nlm.nih.gov/gene/20969) | [MGI:1349162](http://www.informatics.jax.org/marker/MGI:1349162) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100038138](https://www.ncbi.nlm.nih.gov/gene/100038138), [398348](https://www.ncbi.nlm.nih.gov/gene/398348) | [494959](http://www.xenbase.org/gene/showgene.do?method=display&geneId=494959) |  |
-| Zebrafish |  |  |  |  |
 

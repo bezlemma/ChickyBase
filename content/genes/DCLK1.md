@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418903
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001257257
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/DCLK1
-gene_id: '451943'
+gene_id: '418903'
 gene_type: protein-coding
 images:
 - caption: DCLK1 expression
@@ -74,13 +74,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DCLK.CapesDavis.2005.Fig.3.png
 name: doublecortin like kinase 1
-ncbi_id: '451943'
+ncbi_id: '418903'
 orthologs:
-- ensembl: ''
-  entrez: '3355134'
-  mod: FBgn0261387
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000133083
   entrez: '9201'
   mod: MIM:604742
@@ -91,20 +86,10 @@ orthologs:
   mod: MGI:1330861
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: '100487296'
-  mod: '960487'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000018856
-  entrez: 558997,100151759
-  mod: ZFIN:ZDB-GENE-061013-124,ZFIN:ZDB-GENE-080516-7
-  phenotypes: ZDB-GENE-061013-124,ZDB-GENE-080516-7
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451943
+  url: https://www.ncbi.nlm.nih.gov/gene/418903
 species: Gallus gallus
 symbol: DCLK1
 title: DCLK1
@@ -133,9 +118,6 @@ title: DCLK1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [3355134](https://www.ncbi.nlm.nih.gov/gene/3355134) | FBgn0261387 |  |
 | Human | [ENSG00000133083](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000133083) | [9201](https://www.ncbi.nlm.nih.gov/gene/9201) | [MIM:604742](https://omim.org/entry/604742) |  |
 | Mouse | [ENSMUSG00000027797](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027797) | [13175](https://www.ncbi.nlm.nih.gov/gene/13175) | [MGI:1330861](http://www.informatics.jax.org/marker/MGI:1330861) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100487296](https://www.ncbi.nlm.nih.gov/gene/100487296) | [960487](http://www.xenbase.org/gene/showgene.do?method=display&geneId=960487) |  |
-| Zebrafish | [ENSDARG00000018856](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018856) | [558997](https://www.ncbi.nlm.nih.gov/gene/558997), [100151759](https://www.ncbi.nlm.nih.gov/gene/100151759) | [ZFIN:ZDB-GENE-061013-124](https://zfin.org/ZDB-GENE-061013-124), [ZFIN:ZDB-GENE-080516-7](https://zfin.org/ZDB-GENE-080516-7) | ZDB-GENE-061013-124,ZDB-GENE-080516-7 |
 

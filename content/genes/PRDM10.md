@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419729
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417870
 forward_primer: 5’-AAGACTTCCTGTGCTCCACG-3’
-gene_id: '457188'
+gene_id: '419729'
 gene_type: protein-coding
 images:
 - caption: PRDM10 expression
@@ -109,16 +109,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R648.PRDM10.S26A.001.jpg
 name: PR domain 10
-ncbi_id: '457188'
+ncbi_id: '419729'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000170325
   entrez: '56980'
-  mod: ''
+  mod: MIM:618319
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000042496
@@ -126,24 +121,25 @@ orthologs:
   mod: MGI:2682952
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000032173
   entrez: '100216084'
-  mod: '985863'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000022161
-  entrez: 100150096,567760
+- ensembl: ENSDARG00000104251
+  entrez: '798383'
   mod: ZFIN:ZDB-GENE-050419-74
-  phenotypes: ZDB-GENE-050419-74
+  phenotypes: methylation, positive regulation of DNA-templated transcription, positive
+    regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGCCACTTGAACAACCTGCAG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457188
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419729
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457188
+  url: https://www.ncbi.nlm.nih.gov/gene/419729
 species: Gallus gallus
 symbol: PRDM10
 template_length: '841'
@@ -166,9 +162,8 @@ title: PRDM10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000170325](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170325) | [56980](https://www.ncbi.nlm.nih.gov/gene/56980) |  |  |
+| Human | [ENSG00000170325](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170325) | [56980](https://www.ncbi.nlm.nih.gov/gene/56980) | [MIM:618319](https://omim.org/entry/618319) |  |
 | Mouse | [ENSMUSG00000042496](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042496) | [382066](https://www.ncbi.nlm.nih.gov/gene/382066) | [MGI:2682952](http://www.informatics.jax.org/marker/MGI:2682952) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100216084](https://www.ncbi.nlm.nih.gov/gene/100216084) | [985863](http://www.xenbase.org/gene/showgene.do?method=display&geneId=985863) |  |
-| Zebrafish | [ENSDARG00000022161](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000022161) | [100150096](https://www.ncbi.nlm.nih.gov/gene/100150096), [567760](https://www.ncbi.nlm.nih.gov/gene/567760) | [ZFIN:ZDB-GENE-050419-74](https://zfin.org/ZDB-GENE-050419-74) | ZDB-GENE-050419-74 |
+| Xenopus | [ENSXETG00000032173](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000032173) | [100216084](https://www.ncbi.nlm.nih.gov/gene/100216084) |  |  |
+| Zebrafish | [ENSDARG00000104251](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104251) | [798383](https://www.ncbi.nlm.nih.gov/gene/798383) | [ZFIN:ZDB-GENE-050419-74](https://zfin.org/ZDB-GENE-050419-74) | methylation, positive regulation of DNA-templated transcription, positive regulation of transcription by RNA polymerase II |
 

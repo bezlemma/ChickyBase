@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_004943257
 forward_primer: 5'-GCTCTTCAACCTCAGCAAACGC-3'
-gene_id: '450202'
+gene_id: '424433'
 gene_type: protein-coding
 images:
 - caption: BRINP2 expression
@@ -110,16 +110,11 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R546.FAM5B.S24.001.jpg
 name: BMP/retinoic acid inducible neural specific 2
-ncbi_id: '450202'
+ncbi_id: '424433'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000198797
   entrez: '57795'
-  mod: ''
+  mod: MIM:619359
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000004031
@@ -127,24 +122,21 @@ orthologs:
   mod: MGI:2443333
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: '100141503'
-  mod: '1217684'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000014302
-  entrez: '561009'
-  mod: ZFIN:ZDB-GENE-070912-621,ZFIN:ZDB-GENE-070912-621
-  phenotypes: ZDB-GENE-070912-621,ZDB-GENE-070912-621
+- ensembl: ENSDARG00000076351
+  entrez: '569746'
+  mod: ZFIN:ZDB-GENE-080218-16
+  phenotypes: cellular response to retinoic acid, central nervous system neuron differentiation,
+    negative regulation of mitotic cell cycle, positive regulation of neuron differentiation,
+    regulation of cell cycle
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGAAGGGCTCGTAGTAGATTGTCTCG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450202
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424433
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450202
+  url: https://www.ncbi.nlm.nih.gov/gene/424433
 species: Gallus gallus
 symbol: BRINP2
 template_length: '822'
@@ -166,9 +158,7 @@ title: BRINP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000198797](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198797) | [57795](https://www.ncbi.nlm.nih.gov/gene/57795) |  |  |
+| Human | [ENSG00000198797](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198797) | [57795](https://www.ncbi.nlm.nih.gov/gene/57795) | [MIM:619359](https://omim.org/entry/619359) |  |
 | Mouse | [ENSMUSG00000004031](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000004031) | [240843](https://www.ncbi.nlm.nih.gov/gene/240843) | [MGI:2443333](http://www.informatics.jax.org/marker/MGI:2443333) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100141503](https://www.ncbi.nlm.nih.gov/gene/100141503) | [1217684](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1217684) |  |
-| Zebrafish | [ENSDARG00000014302](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014302) | [561009](https://www.ncbi.nlm.nih.gov/gene/561009) | [ZFIN:ZDB-GENE-070912-621](https://zfin.org/ZDB-GENE-070912-621), [ZFIN:ZDB-GENE-070912-621](https://zfin.org/ZDB-GENE-070912-621) | ZDB-GENE-070912-621,ZDB-GENE-070912-621 |
+| Zebrafish | [ENSDARG00000076351](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076351) | [569746](https://www.ncbi.nlm.nih.gov/gene/569746) | [ZFIN:ZDB-GENE-080218-16](https://zfin.org/ZDB-GENE-080218-16) | cellular response to retinoic acid, central nervous system neuron differentiation, negative regulation of mitotic cell cycle, positive regulation of neuron differentiation, regulation of cell cycle |
 

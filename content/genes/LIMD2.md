@@ -3,13 +3,12 @@ aliases:
 - LIM domain-containing protein 2
 cgnc_id: '327'
 external_ids:
-  '25': stage 25stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000000529
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419955
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006330
 forward_primer: AACCGACTGAGGAGGGGACAGAACC
-gene_id: '453115'
+gene_id: '419955'
 gene_type: protein-coding
 images:
 - caption: LIMD2 expression
@@ -162,13 +161,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R342.LIMD2.S25.002.jpg
 name: LIM domain containing 2
-ncbi_id: '453115'
+ncbi_id: '419955'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136490
   entrez: '80774'
   mod: ''
@@ -179,24 +173,24 @@ orthologs:
   mod: MGI:1915053
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 496845,444202,444701
-  mod: '986973'
+- ensembl: ENSXETG00000044990
+  entrez: '496845'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000078092
   entrez: '560139'
   mod: ZFIN:ZDB-GENE-120906-1
-  phenotypes: ZDB-GENE-120906-1
+  phenotypes: actin filament bundle assembly
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCAGGGCTGGGATTTCACAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453115
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419955
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453115
+  url: https://www.ncbi.nlm.nih.gov/gene/419955
 species: Gallus gallus
 symbol: LIMD2
 template_length: '679'
@@ -218,9 +212,8 @@ title: LIMD2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000136490](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136490) | [80774](https://www.ncbi.nlm.nih.gov/gene/80774) |  |  |
 | Mouse | [ENSMUSG00000040699](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040699) | [67803](https://www.ncbi.nlm.nih.gov/gene/67803) | [MGI:1915053](http://www.informatics.jax.org/marker/MGI:1915053) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [496845](https://www.ncbi.nlm.nih.gov/gene/496845), [444202](https://www.ncbi.nlm.nih.gov/gene/444202), [444701](https://www.ncbi.nlm.nih.gov/gene/444701) | [986973](http://www.xenbase.org/gene/showgene.do?method=display&geneId=986973) |  |
-| Zebrafish | [ENSDARG00000078092](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078092) | [560139](https://www.ncbi.nlm.nih.gov/gene/560139) | [ZFIN:ZDB-GENE-120906-1](https://zfin.org/ZDB-GENE-120906-1) | ZDB-GENE-120906-1 |
+| Xenopus | [ENSXETG00000044990](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044990) | [496845](https://www.ncbi.nlm.nih.gov/gene/496845) |  |  |
+| Zebrafish | [ENSDARG00000078092](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078092) | [560139](https://www.ncbi.nlm.nih.gov/gene/560139) | [ZFIN:ZDB-GENE-120906-1](https://zfin.org/ZDB-GENE-120906-1) | actin filament bundle assembly |
 

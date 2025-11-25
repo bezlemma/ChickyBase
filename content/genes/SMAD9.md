@@ -20,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395543
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001024826
   X-XIV: stage XIII
-gene_id: '449567'
+gene_id: '395543'
 gene_type: protein-coding
 images:
 - caption: SMAD9 expression
@@ -165,13 +165,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SMAD9.Trevers.2023-Fig7-7-T.jpg
 name: SMAD family member 9
-ncbi_id: '449567'
+ncbi_id: '395543'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000120693
   entrez: '4093'
   mod: MIM:603295
@@ -182,20 +177,21 @@ orthologs:
   mod: MGI:1859993
   phenotypes: All phenotypic alleles (10):Targeted, knock-out(4) Targeted, other(6)
   species: Mouse
-- ensembl: ''
-  entrez: 493210,379659
-  mod: '484685'
+- ensembl: ENSXETG00000001820
+  entrez: '493210'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000021938
   entrez: '445564'
   mod: ZFIN:ZDB-GENE-031014-1
-  phenotypes: ZDB-GENE-031014-1
+  phenotypes: BMP signaling pathway, SMAD protein signal transduction, anatomical
+    structure morphogenesis, cell differentiation, dorsal/ventral pattern formation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449567
+  url: https://www.ncbi.nlm.nih.gov/gene/395543
 species: Gallus gallus
 symbol: SMAD9
 title: SMAD9
@@ -222,9 +218,8 @@ Copyright © 2004 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000120693](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000120693) | [4093](https://www.ncbi.nlm.nih.gov/gene/4093) | [MIM:603295](https://omim.org/entry/603295) | MIM:178600 |
 | Mouse | [ENSMUSG00000027796](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027796) | [55994](https://www.ncbi.nlm.nih.gov/gene/55994) | [MGI:1859993](http://www.informatics.jax.org/marker/MGI:1859993) | All phenotypic alleles (10):Targeted, knock-out(4) Targeted, other(6) |
-| Xenopus |  | [493210](https://www.ncbi.nlm.nih.gov/gene/493210), [379659](https://www.ncbi.nlm.nih.gov/gene/379659) | [484685](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484685) |  |
-| Zebrafish | [ENSDARG00000021938](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021938) | [445564](https://www.ncbi.nlm.nih.gov/gene/445564) | [ZFIN:ZDB-GENE-031014-1](https://zfin.org/ZDB-GENE-031014-1) | ZDB-GENE-031014-1 |
+| Xenopus | [ENSXETG00000001820](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001820) | [493210](https://www.ncbi.nlm.nih.gov/gene/493210) |  |  |
+| Zebrafish | [ENSDARG00000021938](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021938) | [445564](https://www.ncbi.nlm.nih.gov/gene/445564) | [ZFIN:ZDB-GENE-031014-1](https://zfin.org/ZDB-GENE-031014-1) | BMP signaling pathway, SMAD protein signal transduction, anatomical structure morphogenesis, cell differentiation, dorsal/ventral pattern formation |
 

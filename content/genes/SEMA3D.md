@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396332
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004872
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205373
-gene_id: '461818'
+gene_id: '396332'
 gene_type: protein-coding
 images:
 - caption: SEMA3D expression
@@ -241,13 +241,8 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sema3D.Riley.2010.4L.PNG
 name: semaphorin 3D
-ncbi_id: '461818'
+ncbi_id: '396332'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000153993
   entrez: '223117'
   mod: MIM:609907
@@ -258,20 +253,21 @@ orthologs:
   mod: MGI:1860118
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100492784,447413
-  mod: '490693'
+- ensembl: ENSXETG00000005431
+  entrez: '100492784'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000017369
   entrez: '30250'
   mod: ZFIN:ZDB-GENE-990715-2
-  phenotypes: ZDB-GENE-990715-2
+  phenotypes: axon guidance, axonal fasciculation, blood vessel endothelial cell migration,
+    cardioblast differentiation, cartilage development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461818
+  url: https://www.ncbi.nlm.nih.gov/gene/396332
 species: Gallus gallus
 symbol: SEMA3D
 title: SEMA3D
@@ -300,9 +296,8 @@ title: SEMA3D
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000153993](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000153993) | [223117](https://www.ncbi.nlm.nih.gov/gene/223117) | [MIM:609907](https://omim.org/entry/609907) |  |
 | Mouse | [ENSMUSG00000040254](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040254) | [108151](https://www.ncbi.nlm.nih.gov/gene/108151) | [MGI:1860118](http://www.informatics.jax.org/marker/MGI:1860118) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100492784](https://www.ncbi.nlm.nih.gov/gene/100492784), [447413](https://www.ncbi.nlm.nih.gov/gene/447413) | [490693](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490693) |  |
-| Zebrafish | [ENSDARG00000017369](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017369) | [30250](https://www.ncbi.nlm.nih.gov/gene/30250) | [ZFIN:ZDB-GENE-990715-2](https://zfin.org/ZDB-GENE-990715-2) | ZDB-GENE-990715-2 |
+| Xenopus | [ENSXETG00000005431](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005431) | [100492784](https://www.ncbi.nlm.nih.gov/gene/100492784) |  |  |
+| Zebrafish | [ENSDARG00000017369](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017369) | [30250](https://www.ncbi.nlm.nih.gov/gene/30250) | [ZFIN:ZDB-GENE-990715-2](https://zfin.org/ZDB-GENE-990715-2) | axon guidance, axonal fasciculation, blood vessel endothelial cell migration, cardioblast differentiation, cartilage development |
 

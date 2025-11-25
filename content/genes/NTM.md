@@ -7,7 +7,6 @@ aliases:
 - neural secreted glycoprotein, CEPU-1 precursor
 cgnc_id: '49326'
 external_ids:
-  '19': stage 19stage 19
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0259714
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007155
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0031225
@@ -21,7 +20,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395450
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204711
-gene_id: '449258'
+gene_id: '395450'
 gene_type: protein-coding
 images:
 - caption: NTM expression
@@ -207,13 +206,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Jungbluth.2001-CEPU-1-fig2.jpg
 name: neurotrimin
-ncbi_id: '449258'
+ncbi_id: '395450'
 orthologs:
-- ensembl: ''
-  entrez: '7354433'
-  mod: FBgn0259714
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000182667
   entrez: '50863'
   mod: MIM:607938
@@ -224,20 +218,15 @@ orthologs:
   mod: MGI:2446259
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100492453,444598
-  mod: '6045424'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000015706
+  entrez: '100492453'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449258
+  url: https://www.ncbi.nlm.nih.gov/gene/395450
 species: Gallus gallus
 symbol: NTM
 title: NTM
@@ -267,9 +256,7 @@ title: NTM
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [7354433](https://www.ncbi.nlm.nih.gov/gene/7354433) | FBgn0259714 |  |
 | Human | [ENSG00000182667](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000182667) | [50863](https://www.ncbi.nlm.nih.gov/gene/50863) | [MIM:607938](https://omim.org/entry/607938) |  |
 | Mouse | [ENSMUSG00000059974](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000059974) | [235106](https://www.ncbi.nlm.nih.gov/gene/235106) | [MGI:2446259](http://www.informatics.jax.org/marker/MGI:2446259) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100492453](https://www.ncbi.nlm.nih.gov/gene/100492453), [444598](https://www.ncbi.nlm.nih.gov/gene/444598) | [6045424](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6045424) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000015706](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015706) | [100492453](https://www.ncbi.nlm.nih.gov/gene/100492453) |  |  |
 

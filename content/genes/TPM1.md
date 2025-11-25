@@ -22,7 +22,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396366
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003779
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205401
-gene_id: '461715'
+gene_id: '396366'
 gene_type: protein-coding
 images:
 - caption: TPM1 expression
@@ -47,37 +47,22 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wang.1995.fig5B-D2.jpg
 name: tropomyosin 1 (alpha)
-ncbi_id: '461715'
+ncbi_id: '396366'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000140416
+  entrez: '7168'
+  mod: MIM:191010
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000032366
-  entrez: '22003'
-  mod: MGI:98809
-  phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
-  species: Mouse
-- ensembl: ''
-  entrez: 448541,100189579
-  mod: '485945'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000087402
-  entrez: '393908'
-  mod: ZFIN:ZDB-GENE-040426-854
-  phenotypes: ZDB-GENE-040426-854
+- ensembl: ENSDARG00000104682
+  entrez: '415209'
+  mod: ZFIN:ZDB-GENE-040625-114
+  phenotypes: actin filament organization, muscle contraction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461715
+  url: https://www.ncbi.nlm.nih.gov/gene/396366
 species: Gallus gallus
 symbol: TPM1
 title: TPM1
@@ -105,9 +90,6 @@ title: TPM1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse | [ENSMUSG00000032366](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032366) | [22003](https://www.ncbi.nlm.nih.gov/gene/22003) | [MGI:98809](http://www.informatics.jax.org/marker/MGI:98809) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [448541](https://www.ncbi.nlm.nih.gov/gene/448541), [100189579](https://www.ncbi.nlm.nih.gov/gene/100189579) | [485945](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485945) |  |
-| Zebrafish | [ENSDARG00000087402](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000087402) | [393908](https://www.ncbi.nlm.nih.gov/gene/393908) | [ZFIN:ZDB-GENE-040426-854](https://zfin.org/ZDB-GENE-040426-854) | ZDB-GENE-040426-854 |
+| Human | [ENSG00000140416](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140416) | [7168](https://www.ncbi.nlm.nih.gov/gene/7168) | [MIM:191010](https://omim.org/entry/191010) |  |
+| Zebrafish | [ENSDARG00000104682](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104682) | [415209](https://www.ncbi.nlm.nih.gov/gene/415209) | [ZFIN:ZDB-GENE-040625-114](https://zfin.org/ZDB-GENE-040625-114) | actin filament organization, muscle contraction |
 

@@ -5,7 +5,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417490
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001080861
-gene_id: '453419'
+gene_id: '417490'
 gene_type: protein-coding
 images:
 - caption: EIF4H expression
@@ -44,13 +44,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/O13.60.24.jpg
 name: eukaryotic translation initiation factor 4H
-ncbi_id: '453419'
+ncbi_id: '417490'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000106682
   entrez: '7458'
   mod: MIM:603431
@@ -61,23 +56,24 @@ orthologs:
   mod: MGI:1341822
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100125209,447037
-  mod: '970965'
+- ensembl: ENSXETG00000018230
+  entrez: '100125209'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000042252
-  entrez: 100331686,402996
+  entrez: '402996'
   mod: ZFIN:ZDB-GENE-010328-19
-  phenotypes: ZDB-GENE-010328-19
+  phenotypes: eukaryotic translation initiation factor 4F complex assembly, formation
+    of translation preinitiation complex, translation, translational initiation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453419
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417490
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453419
+  url: https://www.ncbi.nlm.nih.gov/gene/417490
 species: Gallus gallus
 symbol: EIF4H
 title: EIF4H
@@ -98,9 +94,8 @@ title: EIF4H
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000106682](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000106682) | [7458](https://www.ncbi.nlm.nih.gov/gene/7458) | [MIM:603431](https://omim.org/entry/603431) |  |
 | Mouse | [ENSMUSG00000040731](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040731) | [22384](https://www.ncbi.nlm.nih.gov/gene/22384) | [MGI:1341822](http://www.informatics.jax.org/marker/MGI:1341822) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100125209](https://www.ncbi.nlm.nih.gov/gene/100125209), [447037](https://www.ncbi.nlm.nih.gov/gene/447037) | [970965](http://www.xenbase.org/gene/showgene.do?method=display&geneId=970965) |  |
-| Zebrafish | [ENSDARG00000042252](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042252) | [100331686](https://www.ncbi.nlm.nih.gov/gene/100331686), [402996](https://www.ncbi.nlm.nih.gov/gene/402996) | [ZFIN:ZDB-GENE-010328-19](https://zfin.org/ZDB-GENE-010328-19) | ZDB-GENE-010328-19 |
+| Xenopus | [ENSXETG00000018230](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018230) | [100125209](https://www.ncbi.nlm.nih.gov/gene/100125209) |  |  |
+| Zebrafish | [ENSDARG00000042252](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042252) | [402996](https://www.ncbi.nlm.nih.gov/gene/402996) | [ZFIN:ZDB-GENE-010328-19](https://zfin.org/ZDB-GENE-010328-19) | eukaryotic translation initiation factor 4F complex assembly, formation of translation preinitiation complex, translation, translational initiation |
 

@@ -4,7 +4,6 @@ aliases:
 - tetrapeptide repeat homeobox like
 cgnc_id: '63581'
 external_ids:
-  '25': stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/100859561
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100859561

@@ -3,14 +3,13 @@ aliases:
 - pigment epithelium-derived factor
 cgnc_id: '2180'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000003015
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417561
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001257289
 forward_primer: 5’-TGATGTCAGACCCCAAAGCC-3’
-gene_id: '453759'
+gene_id: '417561'
 gene_type: protein-coding
 images:
 - caption: SERPINF1 expression
@@ -128,41 +127,36 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R640.SERPINF1.S25AAA.001.jpg
 name: serpin family F member 1
-ncbi_id: '453759'
+ncbi_id: '417561'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000167711
-  entrez: '5345'
-  mod: MIM:613168
+- ensembl: ENSG00000282307
+  entrez: '5176'
+  mod: MIM:172860
   phenotypes: MIM:262850
   species: Human
-- ensembl: ENSMUSG00000038224
-  entrez: '18816'
-  mod: MGI:107173
+- ensembl: ENSMUSG00000000753
+  entrez: '20317'
+  mod: MGI:108080
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100170598,447645
-  mod: '877014'
+- ensembl: ENSXETG00000027686
+  entrez: '394686'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000061383,ENSDARG00000076448
-  entrez: 100333123,563663,560308
-  mod: ZFIN:ZDB-GENE-061215-114,ZFIN:ZDB-GENE-060822-1
-  phenotypes: ZDB-GENE-061215-114,ZDB-GENE-060822-1
+- ensembl: ENSDARG00000069048
+  entrez: '447800'
+  mod: ZFIN:ZDB-GENE-040912-2
+  phenotypes: negative regulation of angiogenesis, positive regulation of neurogenesis
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGACCATCCTTTCCACTCGAGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453759
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417561
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453759
+  url: https://www.ncbi.nlm.nih.gov/gene/417561
 species: Gallus gallus
 symbol: SERPINF1
 template_length: '579'
@@ -185,9 +179,8 @@ title: SERPINF1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000167711](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000167711) | [5345](https://www.ncbi.nlm.nih.gov/gene/5345) | [MIM:613168](https://omim.org/entry/613168) | MIM:262850 |
-| Mouse | [ENSMUSG00000038224](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038224) | [18816](https://www.ncbi.nlm.nih.gov/gene/18816) | [MGI:107173](http://www.informatics.jax.org/marker/MGI:107173) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100170598](https://www.ncbi.nlm.nih.gov/gene/100170598), [447645](https://www.ncbi.nlm.nih.gov/gene/447645) | [877014](http://www.xenbase.org/gene/showgene.do?method=display&geneId=877014) |  |
-| Zebrafish | [ENSDARG00000061383](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061383), [ENSDARG00000076448](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076448) | [100333123](https://www.ncbi.nlm.nih.gov/gene/100333123), [563663](https://www.ncbi.nlm.nih.gov/gene/563663), [560308](https://www.ncbi.nlm.nih.gov/gene/560308) | [ZFIN:ZDB-GENE-061215-114](https://zfin.org/ZDB-GENE-061215-114), [ZFIN:ZDB-GENE-060822-1](https://zfin.org/ZDB-GENE-060822-1) | ZDB-GENE-061215-114,ZDB-GENE-060822-1 |
+| Human | [ENSG00000282307](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000282307) | [5176](https://www.ncbi.nlm.nih.gov/gene/5176) | [MIM:172860](https://omim.org/entry/172860) | MIM:262850 |
+| Mouse | [ENSMUSG00000000753](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000753) | [20317](https://www.ncbi.nlm.nih.gov/gene/20317) | [MGI:108080](http://www.informatics.jax.org/marker/MGI:108080) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
+| Xenopus | [ENSXETG00000027686](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000027686) | [394686](https://www.ncbi.nlm.nih.gov/gene/394686) |  |  |
+| Zebrafish | [ENSDARG00000069048](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069048) | [447800](https://www.ncbi.nlm.nih.gov/gene/447800) | [ZFIN:ZDB-GENE-040912-2](https://zfin.org/ZDB-GENE-040912-2) | negative regulation of angiogenesis, positive regulation of neurogenesis |
 

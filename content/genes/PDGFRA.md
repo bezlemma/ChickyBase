@@ -6,7 +6,6 @@ aliases:
 - alpha platelet-derived growth factor receptor
 cgnc_id: '10416'
 external_ids:
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006935
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Zhou+2001+bHLH+Olig2+Anderson
@@ -20,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204749
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/PDGFRA
-gene_id: '449649'
+gene_id: '395509'
 gene_type: protein-coding
 images:
 - caption: PDGFRA expression
@@ -335,13 +334,8 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhu.2001.Fig1.R.jpg
 name: platelet-derived growth factor receptor, alpha polypeptide
-ncbi_id: '449649'
+ncbi_id: '395509'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134853
   entrez: '5156'
   mod: MIM:173490
@@ -352,23 +346,25 @@ orthologs:
   mod: MGI:97530
   phenotypes: All phenotypic alleles (15):Targeted, knock-out(2) Targeted, other(13)
   species: Mouse
-- ensembl: ''
-  entrez: 100124862,380245
-  mod: '6072919'
+- ensembl: ENSXETG00000021035
+  entrez: '100124862'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '30745'
+- ensembl: ENSDARG00000113952
+  entrez: '386856'
   mod: ZFIN:ZDB-GENE-990415-208
-  phenotypes: ZDB-GENE-990415-208
+  phenotypes: ameboidal-type cell migration, cardiac muscle progenitor cell migration
+    to the midline involved in heart field formation, cardioblast cell midline fusion,
+    cell migration, cell surface receptor protein tyrosine kinase signaling pathway
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449649
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395509
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449649
+  url: https://www.ncbi.nlm.nih.gov/gene/395509
 species: Gallus gallus
 symbol: PDGFRA
 title: PDGFRA
@@ -398,9 +394,8 @@ title: PDGFRA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000134853](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134853) | [5156](https://www.ncbi.nlm.nih.gov/gene/5156) | [MIM:173490](https://omim.org/entry/173490) | MIM:606764 |
 | Mouse | [ENSMUSG00000029231](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029231) | [18595](https://www.ncbi.nlm.nih.gov/gene/18595) | [MGI:97530](http://www.informatics.jax.org/marker/MGI:97530) | All phenotypic alleles (15):Targeted, knock-out(2) Targeted, other(13) |
-| Xenopus |  | [100124862](https://www.ncbi.nlm.nih.gov/gene/100124862), [380245](https://www.ncbi.nlm.nih.gov/gene/380245) | [6072919](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6072919) |  |
-| Zebrafish |  | [30745](https://www.ncbi.nlm.nih.gov/gene/30745) | [ZFIN:ZDB-GENE-990415-208](https://zfin.org/ZDB-GENE-990415-208) | ZDB-GENE-990415-208 |
+| Xenopus | [ENSXETG00000021035](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021035) | [100124862](https://www.ncbi.nlm.nih.gov/gene/100124862) |  |  |
+| Zebrafish | [ENSDARG00000113952](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000113952) | [386856](https://www.ncbi.nlm.nih.gov/gene/386856) | [ZFIN:ZDB-GENE-990415-208](https://zfin.org/ZDB-GENE-990415-208) | ameboidal-type cell migration, cardiac muscle progenitor cell migration to the midline involved in heart field formation, cardioblast cell midline fusion, cell migration, cell surface receptor protein tyrosine kinase signaling pathway |
 

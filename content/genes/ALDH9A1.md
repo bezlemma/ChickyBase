@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424405
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422248
 forward_primer: CCCCCTTATCATCTTTTCGGAC
-gene_id: '450177'
+gene_id: '424405'
 gene_type: protein-coding
 images:
 - caption: ALDH9A1 expression
@@ -127,13 +127,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R494.ALDH9A1.S27BB.001.jpg
 name: aldehyde dehydrogenase 9 family member A1
-ncbi_id: '450177'
+ncbi_id: '424405'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000143149
   entrez: '223'
   mod: MIM:602733
@@ -144,24 +139,24 @@ orthologs:
   mod: MGI:1861622
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 448752,379229
-  mod: '951246'
+- ensembl: ENSXETG00000004757
+  entrez: '448752'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000055331,ENSDARG00000037061,ENSDARG00000069100
-  entrez: 100006238,399481,100005587
-  mod: ZFIN:ZDB-GENE-081104-507,ZFIN:ZDB-GENE-040120-5,ZFIN:ZDB-GENE-030131-1257
-  phenotypes: ZDB-GENE-081104-507,ZDB-GENE-040120-5,ZDB-GENE-030131-1257
+- ensembl: ENSDARG00000117162
+  entrez: '100006238'
+  mod: ZFIN:ZDB-GENE-081104-507
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCCACATTTCTGGCTGACGCTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450177
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424405
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450177
+  url: https://www.ncbi.nlm.nih.gov/gene/424405
 species: Gallus gallus
 symbol: ALDH9A1
 template_length: '753'
@@ -184,9 +179,8 @@ title: ALDH9A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000143149](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143149) | [223](https://www.ncbi.nlm.nih.gov/gene/223) | [MIM:602733](https://omim.org/entry/602733) |  |
 | Mouse | [ENSMUSG00000026687](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026687) | [56752](https://www.ncbi.nlm.nih.gov/gene/56752) | [MGI:1861622](http://www.informatics.jax.org/marker/MGI:1861622) |  |
-| Xenopus |  | [448752](https://www.ncbi.nlm.nih.gov/gene/448752), [379229](https://www.ncbi.nlm.nih.gov/gene/379229) | [951246](http://www.xenbase.org/gene/showgene.do?method=display&geneId=951246) |  |
-| Zebrafish | [ENSDARG00000055331](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055331), [ENSDARG00000037061](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037061), [ENSDARG00000069100](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069100) | [100006238](https://www.ncbi.nlm.nih.gov/gene/100006238), [399481](https://www.ncbi.nlm.nih.gov/gene/399481), [100005587](https://www.ncbi.nlm.nih.gov/gene/100005587) | [ZFIN:ZDB-GENE-081104-507](https://zfin.org/ZDB-GENE-081104-507), [ZFIN:ZDB-GENE-040120-5](https://zfin.org/ZDB-GENE-040120-5), [ZFIN:ZDB-GENE-030131-1257](https://zfin.org/ZDB-GENE-030131-1257) | ZDB-GENE-081104-507,ZDB-GENE-040120-5,ZDB-GENE-030131-1257 |
+| Xenopus | [ENSXETG00000004757](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004757) | [448752](https://www.ncbi.nlm.nih.gov/gene/448752) |  |  |
+| Zebrafish | [ENSDARG00000117162](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000117162) | [100006238](https://www.ncbi.nlm.nih.gov/gene/100006238) | [ZFIN:ZDB-GENE-081104-507](https://zfin.org/ZDB-GENE-081104-507) |  |
 

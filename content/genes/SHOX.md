@@ -3,7 +3,6 @@ aliases:
 - short stature homeobox protein
 cgnc_id: '50824'
 external_ids:
-  '31': stage 31
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Decker+Rappold+Rodelsperger+shox
   Comments: 'The sequence below was obtained from NCBI (acc # NM_001079724.1) using
     the information provided in the publication as described in Durand et al. 2012.'
@@ -18,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418669
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001079724
-gene_id: '453706'
+gene_id: '418669'
 gene_type: protein-coding
 images:
 - caption: SHOX expression
@@ -204,40 +203,31 @@ images:
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/G'g.jpg
 name: short stature homeobox
-ncbi_id: '453706'
+ncbi_id: '418669'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000185960
+  entrez: '6473'
+  mod: MIM:400020
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000035986
+  entrez: '100486480'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000025891
+  entrez: '664748'
+  mod: ZFIN:ZDB-GENE-051030-21
+  phenotypes: bone mineralization, cell population proliferation, ossification, pectoral
+    fin development, regulation of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453706
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418669
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453706
+  url: https://www.ncbi.nlm.nih.gov/gene/418669
 species: Gallus gallus
 symbol: SHOX
 title: SHOX
@@ -264,9 +254,7 @@ Copyright © 2006 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000185960](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185960) | [6473](https://www.ncbi.nlm.nih.gov/gene/6473) | [MIM:400020](https://omim.org/entry/400020) |  |
+| Xenopus | [ENSXETG00000035986](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000035986) | [100486480](https://www.ncbi.nlm.nih.gov/gene/100486480) |  |  |
+| Zebrafish | [ENSDARG00000025891](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025891) | [664748](https://www.ncbi.nlm.nih.gov/gene/664748) | [ZFIN:ZDB-GENE-051030-21](https://zfin.org/ZDB-GENE-051030-21) | bone mineralization, cell population proliferation, ossification, pectoral fin development, regulation of DNA-templated transcription |
 

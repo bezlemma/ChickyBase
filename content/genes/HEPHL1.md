@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418998
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417192
 forward_primer: GTCAGGCTCTACTACATCGCTG
-gene_id: '451833'
+gene_id: '418998'
 gene_type: protein-coding
 images:
 - caption: HEPHL1 expression
@@ -270,16 +270,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R603.HEPHL1.S26.001.jpg
 name: hephaestin like 1
-ncbi_id: '451833'
+ncbi_id: '418998'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000181333
   entrez: '341208'
-  mod: ''
+  mod: MIM:618455
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000031936
@@ -287,24 +282,24 @@ orthologs:
   mod: MGI:2685355
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000006429
   entrez: '100487896'
-  mod: '6037259'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ZFIN:ZDB-GENE-070801-4
-  phenotypes: ZDB-GENE-070801-4
+- ensembl: ENSDARG00000026403
+  entrez: '101886332'
+  mod: ZFIN:ZDB-GENE-091204-388
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGTCAAATACATCTCCTCTGTGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451833
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418998
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451833
+  url: https://www.ncbi.nlm.nih.gov/gene/418998
 species: Gallus gallus
 symbol: HEPHL1
 template_length: '885'
@@ -327,9 +322,8 @@ title: HEPHL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000181333](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000181333) | [341208](https://www.ncbi.nlm.nih.gov/gene/341208) |  |  |
+| Human | [ENSG00000181333](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000181333) | [341208](https://www.ncbi.nlm.nih.gov/gene/341208) | [MIM:618455](https://omim.org/entry/618455) |  |
 | Mouse | [ENSMUSG00000031936](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031936) | [244698](https://www.ncbi.nlm.nih.gov/gene/244698) | [MGI:2685355](http://www.informatics.jax.org/marker/MGI:2685355) |  |
-| Xenopus |  | [100487896](https://www.ncbi.nlm.nih.gov/gene/100487896) | [6037259](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6037259) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-070801-4](https://zfin.org/ZDB-GENE-070801-4) | ZDB-GENE-070801-4 |
+| Xenopus | [ENSXETG00000006429](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006429) | [100487896](https://www.ncbi.nlm.nih.gov/gene/100487896) |  |  |
+| Zebrafish | [ENSDARG00000026403](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026403) | [101886332](https://www.ncbi.nlm.nih.gov/gene/101886332) | [ZFIN:ZDB-GENE-091204-388](https://zfin.org/ZDB-GENE-091204-388) |  |
 

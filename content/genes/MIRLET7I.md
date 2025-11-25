@@ -1,13 +1,12 @@
 ---
 external_ids:
-  '25': stage 25stage 25
   Comments: no label detected before stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018237
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?tgu:100223582
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_002198572
-gene_id: '468035'
+gene_id: '777922'
 gene_type: miscRNA
 images:
 - caption: MIRLET7I expression
@@ -25,7 +24,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/7i.21.st25tv.jpg
 name: microRNA let-7i
-ncbi_id: '468035'
+ncbi_id: '777922'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -55,10 +54,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468035
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777922
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468035
+  url: https://www.ncbi.nlm.nih.gov/gene/777922
 species: Gallus gallus
 symbol: MIRLET7I
 title: MIRLET7I

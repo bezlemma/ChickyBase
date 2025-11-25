@@ -3,7 +3,6 @@ aliases:
 - proliferating cell nuclear antigen
 cgnc_id: '92'
 external_ids:
-  '1': stage 1stage 1stage 1
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0005655
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006281
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0043626
@@ -18,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373984
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0030337
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204170
-gene_id: '451480'
+gene_id: '373984'
 gene_type: protein-coding
 images:
 - caption: PCNA expression
@@ -50,13 +49,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhang.2006.Fig4.PCNA.E.jpg
 name: proliferating cell nuclear antigen
-ncbi_id: '451480'
+ncbi_id: '373984'
 orthologs:
-- ensembl: ''
-  entrez: '37290'
-  mod: FBgn0005655
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000132646
   entrez: '5111'
   mod: MIM:176740
@@ -67,20 +61,21 @@ orthologs:
   mod: MGI:97503
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 493302,394328
-  mod: '972521'
+- ensembl: ENSXETG00000008193
+  entrez: '493302'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000054155
   entrez: '30678'
   mod: ZFIN:ZDB-GENE-000210-8
-  phenotypes: ZDB-GENE-000210-8
+  phenotypes: DNA replication, leading strand elongation, mismatch repair, regulation
+    of DNA replication, response to activity
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451480
+  url: https://www.ncbi.nlm.nih.gov/gene/373984
 species: Gallus gallus
 symbol: PCNA
 title: PCNA
@@ -111,9 +106,8 @@ title: PCNA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [37290](https://www.ncbi.nlm.nih.gov/gene/37290) | FBgn0005655 |  |
 | Human | [ENSG00000132646](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000132646) | [5111](https://www.ncbi.nlm.nih.gov/gene/5111) | [MIM:176740](https://omim.org/entry/176740) |  |
 | Mouse | [ENSMUSG00000027342](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027342) | [18538](https://www.ncbi.nlm.nih.gov/gene/18538) | [MGI:97503](http://www.informatics.jax.org/marker/MGI:97503) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [493302](https://www.ncbi.nlm.nih.gov/gene/493302), [394328](https://www.ncbi.nlm.nih.gov/gene/394328) | [972521](http://www.xenbase.org/gene/showgene.do?method=display&geneId=972521) |  |
-| Zebrafish | [ENSDARG00000054155](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054155) | [30678](https://www.ncbi.nlm.nih.gov/gene/30678) | [ZFIN:ZDB-GENE-000210-8](https://zfin.org/ZDB-GENE-000210-8) | ZDB-GENE-000210-8 |
+| Xenopus | [ENSXETG00000008193](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008193) | [493302](https://www.ncbi.nlm.nih.gov/gene/493302) |  |  |
+| Zebrafish | [ENSDARG00000054155](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054155) | [30678](https://www.ncbi.nlm.nih.gov/gene/30678) | [ZFIN:ZDB-GENE-000210-8](https://zfin.org/ZDB-GENE-000210-8) | DNA replication, leading strand elongation, mismatch repair, regulation of DNA replication, response to activity |
 

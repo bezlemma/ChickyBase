@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:431641
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_429193
-gene_id: '461212'
+gene_id: '431641'
 gene_type: protein-coding
 images:
 - caption: DMRT3 expression
@@ -186,13 +186,8 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DMRT3_HH14+ x25.jpg
 name: doublesex and mab-3 related transcription factor 3
-ncbi_id: '461212'
+ncbi_id: '431641'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000064218
   entrez: '58524'
   mod: MIM:614754
@@ -203,20 +198,22 @@ orthologs:
   mod: MGI:2449470
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000015285
   entrez: '100495546'
-  mod: '995120'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000035290
-  entrez: 450035,286780
-  mod: ZFIN:ZDB-GENE-021220-3,ZFIN:ZDB-GENE-021220-5
-  phenotypes: ZDB-GENE-021220-3,ZDB-GENE-021220-5
+- ensembl: ENSDARG00000114587
+  entrez: '450035'
+  mod: ZFIN:ZDB-GENE-021220-3
+  phenotypes: adult locomotory behavior, regulation of DNA-templated transcription,
+    regulation of transcription by RNA polymerase II, sex differentiation, swimming
+    behavior
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461212
+  url: https://www.ncbi.nlm.nih.gov/gene/431641
 species: Gallus gallus
 symbol: DMRT3
 title: DMRT3
@@ -242,9 +239,8 @@ title: DMRT3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000064218](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000064218) | [58524](https://www.ncbi.nlm.nih.gov/gene/58524) | [MIM:614754](https://omim.org/entry/614754) |  |
 | Mouse | [ENSMUSG00000042372](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042372) | [240590](https://www.ncbi.nlm.nih.gov/gene/240590) | [MGI:2449470](http://www.informatics.jax.org/marker/MGI:2449470) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100495546](https://www.ncbi.nlm.nih.gov/gene/100495546) | [995120](http://www.xenbase.org/gene/showgene.do?method=display&geneId=995120) |  |
-| Zebrafish | [ENSDARG00000035290](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035290) | [450035](https://www.ncbi.nlm.nih.gov/gene/450035), [286780](https://www.ncbi.nlm.nih.gov/gene/286780) | [ZFIN:ZDB-GENE-021220-3](https://zfin.org/ZDB-GENE-021220-3), [ZFIN:ZDB-GENE-021220-5](https://zfin.org/ZDB-GENE-021220-5) | ZDB-GENE-021220-3,ZDB-GENE-021220-5 |
+| Xenopus | [ENSXETG00000015285](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015285) | [100495546](https://www.ncbi.nlm.nih.gov/gene/100495546) |  |  |
+| Zebrafish | [ENSDARG00000114587](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114587) | [450035](https://www.ncbi.nlm.nih.gov/gene/450035) | [ZFIN:ZDB-GENE-021220-3](https://zfin.org/ZDB-GENE-021220-3) | adult locomotory behavior, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II, sex differentiation, swimming behavior |
 

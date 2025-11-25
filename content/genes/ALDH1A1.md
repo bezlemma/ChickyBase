@@ -10,7 +10,6 @@ aliases:
 - cytosolic aldehyde dehydrogenase
 cgnc_id: '49236'
 external_ids:
-  '31': stage 31stage 31stage 31
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0051075
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0042572
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
@@ -26,7 +25,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395264
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0001758
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204577
-gene_id: '461619'
+gene_id: '395264'
 gene_type: protein-coding
 images:
 - caption: ALDH1A1 expression
@@ -226,13 +225,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.Smith.2018.Fig5.jpg
 name: aldehyde dehydrogenase 1 family member A1
-ncbi_id: '461619'
+ncbi_id: '395264'
 orthologs:
-- ensembl: ''
-  entrez: '43244'
-  mod: FBgn0051075
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000165092
   entrez: '216'
   mod: MIM:100640
@@ -243,20 +237,15 @@ orthologs:
   mod: MGI:1353450
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 613078,397728
-  mod: '987057'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000019615
+  entrez: '613078'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461619
+  url: https://www.ncbi.nlm.nih.gov/gene/395264
 species: Gallus gallus
 symbol: ALDH1A1
 title: ALDH1A1
@@ -287,9 +276,7 @@ title: ALDH1A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43244](https://www.ncbi.nlm.nih.gov/gene/43244) | FBgn0051075 |  |
 | Human | [ENSG00000165092](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165092) | [216](https://www.ncbi.nlm.nih.gov/gene/216) | [MIM:100640](https://omim.org/entry/100640) |  |
 | Mouse | [ENSMUSG00000053279](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000053279) | [11668](https://www.ncbi.nlm.nih.gov/gene/11668) | [MGI:1353450](http://www.informatics.jax.org/marker/MGI:1353450) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [613078](https://www.ncbi.nlm.nih.gov/gene/613078), [397728](https://www.ncbi.nlm.nih.gov/gene/397728) | [987057](http://www.xenbase.org/gene/showgene.do?method=display&geneId=987057) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000019615](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019615) | [613078](https://www.ncbi.nlm.nih.gov/gene/613078) |  |  |
 

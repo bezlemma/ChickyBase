@@ -8,7 +8,6 @@ aliases:
 - homeodomain-containing protein
 cgnc_id: '4101'
 external_ids:
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2012+Borodulin+Noggin4+Zaraisky
@@ -22,7 +21,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205012
   X-XIV: stage XII
-gene_id: '450778'
+gene_id: '395864'
 gene_type: protein-coding
 images:
 - caption: HESX1 expression
@@ -376,13 +375,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HESX1.Travers.2023-Fig7-2-A.jpg
 name: HESX homeobox 1
-ncbi_id: '450778'
+ncbi_id: '395864'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163666
   entrez: '8820'
   mod: MIM:601802
@@ -393,23 +387,24 @@ orthologs:
   mod: MGI:96071
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 549466,397950,378542
-  mod: '483192'
+- ensembl: ENSXETG00000008710
+  entrez: '549466'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000054509
+- ensembl: ''
   entrez: '30620'
   mod: ZFIN:ZDB-GENE-990415-130
-  phenotypes: ZDB-GENE-990415-130
+  phenotypes: forebrain development, regulation of DNA-templated transcription, regulation
+    of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450778
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395864
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450778
+  url: https://www.ncbi.nlm.nih.gov/gene/395864
 species: Gallus gallus
 symbol: HESX1
 title: HESX1
@@ -438,9 +433,8 @@ title: HESX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163666](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163666) | [8820](https://www.ncbi.nlm.nih.gov/gene/8820) | [MIM:601802](https://omim.org/entry/601802) | MIM:182230 |
 | Mouse | [ENSMUSG00000040726](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040726) | [15209](https://www.ncbi.nlm.nih.gov/gene/15209) | [MGI:96071](http://www.informatics.jax.org/marker/MGI:96071) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [549466](https://www.ncbi.nlm.nih.gov/gene/549466), [397950](https://www.ncbi.nlm.nih.gov/gene/397950), [378542](https://www.ncbi.nlm.nih.gov/gene/378542) | [483192](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483192) |  |
-| Zebrafish | [ENSDARG00000054509](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054509) | [30620](https://www.ncbi.nlm.nih.gov/gene/30620) | [ZFIN:ZDB-GENE-990415-130](https://zfin.org/ZDB-GENE-990415-130) | ZDB-GENE-990415-130 |
+| Xenopus | [ENSXETG00000008710](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008710) | [549466](https://www.ncbi.nlm.nih.gov/gene/549466) |  |  |
+| Zebrafish |  | [30620](https://www.ncbi.nlm.nih.gov/gene/30620) | [ZFIN:ZDB-GENE-990415-130](https://zfin.org/ZDB-GENE-990415-130) | forebrain development, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

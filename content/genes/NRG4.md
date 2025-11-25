@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415354
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030544
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCCTGATGACACAAAGAGAATGG
-gene_id: '456490'
+gene_id: '415354'
 gene_type: protein-coding
 images:
 - caption: NRG4 expression
@@ -55,14 +55,9 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R239.NRG4.S25.001.jpg
 name: neuregulin 4
-ncbi_id: '456490'
+ncbi_id: '415354'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000169752
   entrez: '145957'
   mod: MIM:610894
   phenotypes: ''
@@ -72,24 +67,14 @@ orthologs:
   mod: MGI:1933833
   phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '985372'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCTTCGGTGAAAACAGCGTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456490
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415354
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456490
+  url: https://www.ncbi.nlm.nih.gov/gene/415354
 species: Gallus gallus
 symbol: NRG4
 template_length: '935'
@@ -113,9 +98,6 @@ title: NRG4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [145957](https://www.ncbi.nlm.nih.gov/gene/145957) | [MIM:610894](https://omim.org/entry/610894) |  |
+| Human | [ENSG00000169752](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169752) | [145957](https://www.ncbi.nlm.nih.gov/gene/145957) | [MIM:610894](https://omim.org/entry/610894) |  |
 | Mouse | [ENSMUSG00000032311](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032311) | [83961](https://www.ncbi.nlm.nih.gov/gene/83961) | [MGI:1933833](http://www.informatics.jax.org/marker/MGI:1933833) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
-| Xenopus |  |  | [985372](http://www.xenbase.org/gene/showgene.do?method=display&geneId=985372) |  |
-| Zebrafish |  |  |  |  |
 

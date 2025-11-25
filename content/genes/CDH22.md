@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419305
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417477
 forward_primer: GGCTGTCATCACCGTTCAGAAG
-gene_id: '454982'
+gene_id: '419305'
 gene_type: protein-coding
 images:
 - caption: CDH22 expression
@@ -77,13 +77,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R454.CDH22.S26AA.001.jpg
 name: cadherin 22
-ncbi_id: '454982'
+ncbi_id: '419305'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000149654
   entrez: '64405'
   mod: MIM:609920
@@ -95,24 +90,19 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(3)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000008671
   entrez: '100498457'
-  mod: '922904'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ZFIN:ZDB-GENE-140106-113
-  phenotypes: ZDB-GENE-140106-113
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCGCTGTCCACCACCAAAATG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454982
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419305
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454982
+  url: https://www.ncbi.nlm.nih.gov/gene/419305
 species: Gallus gallus
 symbol: CDH22
 template_length: '743'
@@ -134,9 +124,7 @@ title: CDH22
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000149654](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000149654) | [64405](https://www.ncbi.nlm.nih.gov/gene/64405) | [MIM:609920](https://omim.org/entry/609920) |  |
 | Mouse | [ENSMUSG00000053166](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000053166) | [104010](https://www.ncbi.nlm.nih.gov/gene/104010) | [MGI:1341843](http://www.informatics.jax.org/marker/MGI:1341843) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(3) Gene trapped(1) |
-| Xenopus |  | [100498457](https://www.ncbi.nlm.nih.gov/gene/100498457) | [922904](http://www.xenbase.org/gene/showgene.do?method=display&geneId=922904) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-140106-113](https://zfin.org/ZDB-GENE-140106-113) | ZDB-GENE-140106-113 |
+| Xenopus | [ENSXETG00000008671](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008671) | [100498457](https://www.ncbi.nlm.nih.gov/gene/100498457) |  |  |
 

@@ -5,14 +5,13 @@ aliases:
 - anterior gradient protein 3 homolog
 cgnc_id: '13935'
 external_ids:
-  '25': stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/420597
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420597
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199613
 forward_primer: AGGCTGGGGAGATGAAATAACC
-gene_id: '462851'
+gene_id: '420597'
 gene_type: protein-coding
 images:
 - caption: AGR3 expression
@@ -86,13 +85,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R506.AGR3.S25V.001.jpg
 name: anterior gradient 3, protein disulphide isomerase family member
-ncbi_id: '462851'
+ncbi_id: '420597'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000173467
   entrez: '155465'
   mod: MIM:609482
@@ -103,24 +97,19 @@ orthologs:
   mod: MGI:2685734
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000022793
   entrez: '448756'
-  mod: '950740'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: AATTAACCCTCACTAAAGGCAGTTCTGTCTGAATGAGGCGAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462851
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420597
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462851
+  url: https://www.ncbi.nlm.nih.gov/gene/420597
 species: Gallus gallus
 symbol: AGR3
 template_length: '391'
@@ -143,9 +132,7 @@ title: AGR3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000173467](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000173467) | [155465](https://www.ncbi.nlm.nih.gov/gene/155465) | [MIM:609482](https://omim.org/entry/609482) |  |
 | Mouse | [ENSMUSG00000036231](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036231) | [403205](https://www.ncbi.nlm.nih.gov/gene/403205) | [MGI:2685734](http://www.informatics.jax.org/marker/MGI:2685734) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [448756](https://www.ncbi.nlm.nih.gov/gene/448756) | [950740](http://www.xenbase.org/gene/showgene.do?method=display&geneId=950740) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000022793](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022793) | [448756](https://www.ncbi.nlm.nih.gov/gene/448756) |  |  |
 

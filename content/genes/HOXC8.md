@@ -17,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003700
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204893
 forward_primer: ACCACGGAACCTCCAGCATC
-gene_id: '449815'
+gene_id: '395711'
 gene_type: protein-coding
 images:
 - caption: HOXC8 expression
@@ -219,41 +219,38 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxc-8.Nelson.1996.Fig3.jpg
 name: homeobox C8
-ncbi_id: '449815'
+ncbi_id: '395711'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000037965
+  entrez: '3224'
+  mod: MIM:142970
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000001657
+  entrez: '15426'
+  mod: MGI:96198
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000023476
+  entrez: '448482'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000070346
+  entrez: '449648'
+  mod: ZFIN:ZDB-GENE-990415-114
+  phenotypes: embryonic pectoral fin morphogenesis, endocrine pancreas development,
+    exocrine pancreas development, regulation of DNA-templated transcription, regulation
+    of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGGGGAAGCAAAAAGTAGGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449815
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395711
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449815
+  url: https://www.ncbi.nlm.nih.gov/gene/395711
 species: Gallus gallus
 symbol: HOXC8
 template_length: '721'
@@ -283,9 +280,8 @@ title: HOXC8
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000037965](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000037965) | [3224](https://www.ncbi.nlm.nih.gov/gene/3224) | [MIM:142970](https://omim.org/entry/142970) |  |
+| Mouse | [ENSMUSG00000001657](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001657) | [15426](https://www.ncbi.nlm.nih.gov/gene/15426) | [MGI:96198](http://www.informatics.jax.org/marker/MGI:96198) |  |
+| Xenopus | [ENSXETG00000023476](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023476) | [448482](https://www.ncbi.nlm.nih.gov/gene/448482) |  |  |
+| Zebrafish | [ENSDARG00000070346](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070346) | [449648](https://www.ncbi.nlm.nih.gov/gene/449648) | [ZFIN:ZDB-GENE-990415-114](https://zfin.org/ZDB-GENE-990415-114) | embryonic pectoral fin morphogenesis, endocrine pancreas development, exocrine pancreas development, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

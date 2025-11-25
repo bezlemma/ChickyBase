@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
 forward_primer: 5’-ACAGCGATGAGGAAGGCAG-3’
-gene_id: '504700'
+gene_id: '101747801'
 gene_type: unknown
 images:
 - caption: IKZF4 expression
@@ -71,41 +71,36 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R709.IKZF4.S26A.003.jpg
 name: IKAROS family zinc finger 4
-ncbi_id: '504700'
+ncbi_id: '101747801'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000123411
+  entrez: '64375'
+  mod: MIM:606239
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000002578
+  entrez: '22781'
+  mod: MGI:1343139
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000009449
+  entrez: '100496155'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000037068
+  entrez: '566844'
+  mod: ZFIN:ZDB-GENE-180319-1
+  phenotypes: regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCTTCTCAAAGCCGGCGTTC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=504700
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=101747801
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/504700
+  url: https://www.ncbi.nlm.nih.gov/gene/101747801
 species: Gallus gallus
 symbol: IKZF4
 template_length: '752'
@@ -126,9 +121,8 @@ title: IKZF4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000123411](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000123411) | [64375](https://www.ncbi.nlm.nih.gov/gene/64375) | [MIM:606239](https://omim.org/entry/606239) |  |
+| Mouse | [ENSMUSG00000002578](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002578) | [22781](https://www.ncbi.nlm.nih.gov/gene/22781) | [MGI:1343139](http://www.informatics.jax.org/marker/MGI:1343139) |  |
+| Xenopus | [ENSXETG00000009449](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009449) | [100496155](https://www.ncbi.nlm.nih.gov/gene/100496155) |  |  |
+| Zebrafish | [ENSDARG00000037068](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037068) | [566844](https://www.ncbi.nlm.nih.gov/gene/566844) | [ZFIN:ZDB-GENE-180319-1](https://zfin.org/ZDB-GENE-180319-1) | regulation of transcription by RNA polymerase II |
 

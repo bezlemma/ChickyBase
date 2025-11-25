@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423189
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421114
 forward_primer: 5’-GAAGTGAGAGTGAGCATGTG-3’
-gene_id: '467838'
+gene_id: '423189'
 gene_type: protein-coding
 images:
 - caption: LRP4 expression
@@ -93,13 +93,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R680.LRP4.S26A.002.jpg
 name: LDL receptor related protein 4
-ncbi_id: '467838'
+ncbi_id: '423189'
 orthologs:
-- ensembl: ''
-  entrez: '32552'
-  mod: FBgn0030706
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134569
   entrez: '4038'
   mod: MIM:604270
@@ -111,24 +106,26 @@ orthologs:
   phenotypes: All phenotypic alleles (9):Spontaneous(3) Chemically induced(2) Targeted,
     knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000005091
   entrez: '100101694'
-  mod: '494511'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000090535
-  entrez: '100331602'
+- ensembl: ENSDARG00000116353
+  entrez: '110351181'
   mod: ZFIN:ZDB-GENE-130129-1
-  phenotypes: ZDB-GENE-130129-1
+  phenotypes: axon regeneration, endocytosis, establishment of synaptic specificity
+    at neuromuscular junction, neuromuscular synaptic transmission, receptor-mediated
+    endocytosis
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAATCACGGACGTTATCTCAG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467838
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423189
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467838
+  url: https://www.ncbi.nlm.nih.gov/gene/423189
 species: Gallus gallus
 symbol: LRP4
 template_length: '616'
@@ -153,9 +150,8 @@ title: LRP4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32552](https://www.ncbi.nlm.nih.gov/gene/32552) | FBgn0030706 |  |
 | Human | [ENSG00000134569](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134569) | [4038](https://www.ncbi.nlm.nih.gov/gene/4038) | [MIM:604270](https://omim.org/entry/604270) | MIM:212780 |
 | Mouse | [ENSMUSG00000027253](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027253) | [228357](https://www.ncbi.nlm.nih.gov/gene/228357) | [MGI:2442252](http://www.informatics.jax.org/marker/MGI:2442252) | All phenotypic alleles (9):Spontaneous(3) Chemically induced(2) Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100101694](https://www.ncbi.nlm.nih.gov/gene/100101694) | [494511](http://www.xenbase.org/gene/showgene.do?method=display&geneId=494511) |  |
-| Zebrafish | [ENSDARG00000090535](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000090535) | [100331602](https://www.ncbi.nlm.nih.gov/gene/100331602) | [ZFIN:ZDB-GENE-130129-1](https://zfin.org/ZDB-GENE-130129-1) | ZDB-GENE-130129-1 |
+| Xenopus | [ENSXETG00000005091](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005091) | [100101694](https://www.ncbi.nlm.nih.gov/gene/100101694) |  |  |
+| Zebrafish | [ENSDARG00000116353](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116353) | [110351181](https://www.ncbi.nlm.nih.gov/gene/110351181) | [ZFIN:ZDB-GENE-130129-1](https://zfin.org/ZDB-GENE-130129-1) | axon regeneration, endocytosis, establishment of synaptic specificity at neuromuscular junction, neuromuscular synaptic transmission, receptor-mediated endocytosis |
 

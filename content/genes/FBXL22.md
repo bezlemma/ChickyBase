@@ -9,7 +9,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/415368
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_413754
-gene_id: '456518'
+gene_id: '101749169'
 gene_type: protein-coding
 images:
 - caption: FBXL22 expression
@@ -54,7 +54,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FBXL22_HH12 x 25
     ISH3.jpg
 name: F-box and leucine-rich repeat protein 22
-ncbi_id: '456518'
+ncbi_id: '101749169'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -79,15 +79,15 @@ orthologs:
 - ensembl: ENSDARG00000096995
   entrez: '503591'
   mod: ZFIN:ZDB-GENE-050227-1
-  phenotypes: ZDB-GENE-050227-1
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456518
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=101749169
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456518
+  url: https://www.ncbi.nlm.nih.gov/gene/101749169
 species: Gallus gallus
 symbol: FBXL22
 title: FBXL22
@@ -115,5 +115,5 @@ Related article: Anderson C, Hill B, Lu HC, Moverley A, Yang Y, Oliveira NMM, Ba
 | Human |  |  |  |  |
 | Mouse | [ENSMUSG00000050503](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000050503) | [74165](https://www.ncbi.nlm.nih.gov/gene/74165) | [MGI:1921415](http://www.informatics.jax.org/marker/MGI:1921415) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
 | Xenopus |  | [100493810](https://www.ncbi.nlm.nih.gov/gene/100493810), [779270](https://www.ncbi.nlm.nih.gov/gene/779270) | [940222](http://www.xenbase.org/gene/showgene.do?method=display&geneId=940222) |  |
-| Zebrafish | [ENSDARG00000096995](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000096995) | [503591](https://www.ncbi.nlm.nih.gov/gene/503591) | [ZFIN:ZDB-GENE-050227-1](https://zfin.org/ZDB-GENE-050227-1) | ZDB-GENE-050227-1 |
+| Zebrafish | [ENSDARG00000096995](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000096995) | [503591](https://www.ncbi.nlm.nih.gov/gene/503591) | [ZFIN:ZDB-GENE-050227-1](https://zfin.org/ZDB-GENE-050227-1) |  |
 

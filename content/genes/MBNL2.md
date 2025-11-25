@@ -3,7 +3,6 @@ aliases:
 - muscleblind-like protein 2
 cgnc_id: '50852'
 external_ids:
-  '25': stage 25stage 25stage 25
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Trevers et al. 2023.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -13,7 +12,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001081700
   X-XIV: stage XIII
 forward_primer: CAAACGACAACACCGTAACCG
-gene_id: '453948'
+gene_id: '418784'
 gene_type: protein-coding
 images:
 - caption: MBNL2 expression
@@ -155,13 +154,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MBNL2.Trevers.2023-Fig7-6-U.jpg
 name: muscleblind like splicing regulator 2
-ncbi_id: '453948'
+ncbi_id: '418784'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000139793
   entrez: '10150'
   mod: MIM:607327
@@ -172,24 +166,25 @@ orthologs:
   mod: MGI:2145597
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Gene trapped(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000033349
   entrez: '780224'
-  mod: '961078'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000018460
   entrez: '560384'
   mod: ZFIN:ZDB-GENE-030131-9582
-  phenotypes: ZDB-GENE-030131-9582
+  phenotypes: RNA splicing, chordate embryonic development, eye development, heart
+    development, mRNA processing
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTGAACAGCGAATCTCCCAAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453948
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418784
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453948
+  url: https://www.ncbi.nlm.nih.gov/gene/418784
 species: Gallus gallus
 symbol: MBNL2
 template_length: '916'
@@ -214,9 +209,8 @@ title: MBNL2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000139793](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139793) | [10150](https://www.ncbi.nlm.nih.gov/gene/10150) | [MIM:607327](https://omim.org/entry/607327) |  |
 | Mouse | [ENSMUSG00000022139](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022139) | [105559](https://www.ncbi.nlm.nih.gov/gene/105559) | [MGI:2145597](http://www.informatics.jax.org/marker/MGI:2145597) | All phenotypic alleles (3):Targeted, knock-out(1) Gene trapped(2) |
-| Xenopus |  | [780224](https://www.ncbi.nlm.nih.gov/gene/780224) | [961078](http://www.xenbase.org/gene/showgene.do?method=display&geneId=961078) |  |
-| Zebrafish | [ENSDARG00000018460](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018460) | [560384](https://www.ncbi.nlm.nih.gov/gene/560384) | [ZFIN:ZDB-GENE-030131-9582](https://zfin.org/ZDB-GENE-030131-9582) | ZDB-GENE-030131-9582 |
+| Xenopus | [ENSXETG00000033349](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033349) | [780224](https://www.ncbi.nlm.nih.gov/gene/780224) |  |  |
+| Zebrafish | [ENSDARG00000018460](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018460) | [560384](https://www.ncbi.nlm.nih.gov/gene/560384) | [ZFIN:ZDB-GENE-030131-9582](https://zfin.org/ZDB-GENE-030131-9582) | RNA splicing, chordate embryonic development, eye development, heart development, mRNA processing |
 

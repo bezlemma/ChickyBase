@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423952
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421811
-gene_id: '452730'
+gene_id: '423952'
 gene_type: protein-coding
 images:
 - caption: CHST15 expression
@@ -96,13 +96,8 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.Fig1.png
 name: carbohydrate sulfotransferase 15
-ncbi_id: '452730'
+ncbi_id: '423952'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000182022
   entrez: '51363'
   mod: MIM:608277
@@ -113,20 +108,15 @@ orthologs:
   mod: MGI:1924840
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: '100487411'
-  mod: '990673'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000074527
+- ensembl: ENSDARG00000116274
   entrez: '565523'
-  mod: ''
-  phenotypes: ''
+  mod: ZFIN:ZDB-GENE-131127-327
+  phenotypes: hexose biosynthetic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452730
+  url: https://www.ncbi.nlm.nih.gov/gene/423952
 species: Gallus gallus
 symbol: CHST15
 title: CHST15
@@ -152,9 +142,7 @@ title: CHST15
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000182022](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000182022) | [51363](https://www.ncbi.nlm.nih.gov/gene/51363) | [MIM:608277](https://omim.org/entry/608277) |  |
 | Mouse | [ENSMUSG00000030930](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030930) | [77590](https://www.ncbi.nlm.nih.gov/gene/77590) | [MGI:1924840](http://www.informatics.jax.org/marker/MGI:1924840) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100487411](https://www.ncbi.nlm.nih.gov/gene/100487411) | [990673](http://www.xenbase.org/gene/showgene.do?method=display&geneId=990673) |  |
-| Zebrafish | [ENSDARG00000074527](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074527) | [565523](https://www.ncbi.nlm.nih.gov/gene/565523) |  |  |
+| Zebrafish | [ENSDARG00000116274](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116274) | [565523](https://www.ncbi.nlm.nih.gov/gene/565523) | [ZFIN:ZDB-GENE-131127-327](https://zfin.org/ZDB-GENE-131127-327) | hexose biosynthetic process |
 

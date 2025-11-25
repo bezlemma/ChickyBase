@@ -1,7 +1,6 @@
 ---
 cgnc_id: '5902'
 external_ids:
-  '25': stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Chapman+Cai+Bleyl+Fgf16+ear
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe.  Sequence below was obtained from NCBI (NM_001044650).
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422330
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001044650
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCGGGATTTTGGAGTTCATCAGC
-gene_id: '450272'
+gene_id: '422330'
 gene_type: protein-coding
 images:
 - caption: FGF16 expression
@@ -299,41 +298,37 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/fgf16.figure2w.chapman.2006.jpg
 name: fibroblast growth factor 16
-ncbi_id: '450272'
+ncbi_id: '422330'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000196468
   entrez: '8823'
   mod: MIM:300827
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000031230
   entrez: '80903'
   mod: MGI:1931627
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000037314
   entrez: '100492309'
-  mod: '483588'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000042233
   entrez: '692065'
   mod: ZFIN:ZDB-GENE-060427-3
-  phenotypes: ZDB-GENE-060427-3
+  phenotypes: GABAergic neuron differentiation, cell population proliferation, cell
+    proliferation in forebrain, cell proliferation in midbrain, diencephalon development
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGCAGGTATTTTGGCAGGGTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450272
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422330
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450272
+  url: https://www.ncbi.nlm.nih.gov/gene/422330
 species: Gallus gallus
 symbol: FGF16
 template_length: '321'
@@ -360,9 +355,8 @@ title: FGF16
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [8823](https://www.ncbi.nlm.nih.gov/gene/8823) | [MIM:300827](https://omim.org/entry/300827) |  |
-| Mouse |  | [80903](https://www.ncbi.nlm.nih.gov/gene/80903) | [MGI:1931627](http://www.informatics.jax.org/marker/MGI:1931627) | All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5) |
-| Xenopus |  | [100492309](https://www.ncbi.nlm.nih.gov/gene/100492309) | [483588](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483588) |  |
-| Zebrafish | [ENSDARG00000042233](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042233) | [692065](https://www.ncbi.nlm.nih.gov/gene/692065) | [ZFIN:ZDB-GENE-060427-3](https://zfin.org/ZDB-GENE-060427-3) | ZDB-GENE-060427-3 |
+| Human | [ENSG00000196468](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000196468) | [8823](https://www.ncbi.nlm.nih.gov/gene/8823) | [MIM:300827](https://omim.org/entry/300827) |  |
+| Mouse | [ENSMUSG00000031230](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031230) | [80903](https://www.ncbi.nlm.nih.gov/gene/80903) | [MGI:1931627](http://www.informatics.jax.org/marker/MGI:1931627) | All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5) |
+| Xenopus | [ENSXETG00000037314](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000037314) | [100492309](https://www.ncbi.nlm.nih.gov/gene/100492309) |  |  |
+| Zebrafish | [ENSDARG00000042233](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042233) | [692065](https://www.ncbi.nlm.nih.gov/gene/692065) | [ZFIN:ZDB-GENE-060427-3](https://zfin.org/ZDB-GENE-060427-3) | GABAergic neuron differentiation, cell population proliferation, cell proliferation in forebrain, cell proliferation in midbrain, diencephalon development |
 

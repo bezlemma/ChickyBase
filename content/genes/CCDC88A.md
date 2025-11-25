@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421210
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419285
 forward_primer: 5'-GGAATAATGCTACACTTCAAGCGG-3'
-gene_id: '460049'
+gene_id: '421210'
 gene_type: protein-coding
 images:
 - caption: CCDC88A expression
@@ -116,13 +116,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R629.CCDC88A.S26V.001.jpg
 name: coiled-coil domain containing 88A
-ncbi_id: '460049'
+ncbi_id: '421210'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000115355
   entrez: '55704'
   mod: MIM:609736
@@ -133,24 +128,19 @@ orthologs:
   mod: MGI:1925177
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100380128,431973
-  mod: '5883976'
+- ensembl: ENSXETG00000004516
+  entrez: '100380128'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '100498671'
-  mod: ZFIN:ZDB-GENE-100701-2,ZFIN:ZDB-GENE-100701-3
-  phenotypes: ZDB-GENE-100701-2,ZDB-GENE-100701-3
-  species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGGAACTATCCTGACTGTCCTGGTG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460049
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421210
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460049
+  url: https://www.ncbi.nlm.nih.gov/gene/421210
 species: Gallus gallus
 symbol: CCDC88A
 template_length: '1171'
@@ -173,9 +163,7 @@ title: CCDC88A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000115355](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000115355) | [55704](https://www.ncbi.nlm.nih.gov/gene/55704) | [MIM:609736](https://omim.org/entry/609736) |  |
 | Mouse | [ENSMUSG00000032740](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032740) | [108686](https://www.ncbi.nlm.nih.gov/gene/108686) | [MGI:1925177](http://www.informatics.jax.org/marker/MGI:1925177) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [100380128](https://www.ncbi.nlm.nih.gov/gene/100380128), [431973](https://www.ncbi.nlm.nih.gov/gene/431973) | [5883976](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5883976) |  |
-| Zebrafish |  | [100498671](https://www.ncbi.nlm.nih.gov/gene/100498671) | [ZFIN:ZDB-GENE-100701-2](https://zfin.org/ZDB-GENE-100701-2), [ZFIN:ZDB-GENE-100701-3](https://zfin.org/ZDB-GENE-100701-3) | ZDB-GENE-100701-2,ZDB-GENE-100701-3 |
+| Xenopus | [ENSXETG00000004516](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004516) | [100380128](https://www.ncbi.nlm.nih.gov/gene/100380128) |  |  |
 

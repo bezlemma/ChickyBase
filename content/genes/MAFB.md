@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419173
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030852
-gene_id: '456142'
+gene_id: '419173'
 gene_type: protein-coding
 images:
 - caption: MAFB expression
@@ -225,13 +225,8 @@ images:
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.Bandyopadhyay.2008.f3.mafb.png
 name: MAF bZIP transcription factor B
-ncbi_id: '456142'
+ncbi_id: '419173'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000204103
   entrez: '9935'
   mod: MIM:608968
@@ -243,20 +238,15 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Chemically induced(1) Radiation induced(1)
     Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 595086,399156
-  mod: '6085858'
+- ensembl: ENSXETG00000037195
+  entrez: '595086'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000017121,ENSDARG00000070542
-  entrez: 30210,114463
-  mod: ZFIN:ZDB-GENE-980526-515,ZFIN:ZDB-GENE-010605-4
-  phenotypes: ZDB-GENE-980526-515,ZDB-GENE-010605-4
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456142
+  url: https://www.ncbi.nlm.nih.gov/gene/419173
 species: Gallus gallus
 symbol: MAFB
 title: MAFB
@@ -285,9 +275,7 @@ title: MAFB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000204103](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000204103) | [9935](https://www.ncbi.nlm.nih.gov/gene/9935) | [MIM:608968](https://omim.org/entry/608968) |  |
 | Mouse | [ENSMUSG00000074622](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000074622) | [16658](https://www.ncbi.nlm.nih.gov/gene/16658) | [MGI:104555](http://www.informatics.jax.org/marker/MGI:104555) | All phenotypic alleles (4):Chemically induced(1) Radiation induced(1) Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [595086](https://www.ncbi.nlm.nih.gov/gene/595086), [399156](https://www.ncbi.nlm.nih.gov/gene/399156) | [6085858](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6085858) |  |
-| Zebrafish | [ENSDARG00000017121](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017121), [ENSDARG00000070542](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070542) | [30210](https://www.ncbi.nlm.nih.gov/gene/30210), [114463](https://www.ncbi.nlm.nih.gov/gene/114463) | [ZFIN:ZDB-GENE-980526-515](https://zfin.org/ZDB-GENE-980526-515), [ZFIN:ZDB-GENE-010605-4](https://zfin.org/ZDB-GENE-010605-4) | ZDB-GENE-980526-515,ZDB-GENE-010605-4 |
+| Xenopus | [ENSXETG00000037195](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000037195) | [595086](https://www.ncbi.nlm.nih.gov/gene/595086) |  |  |
 

@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423990
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001163650
 forward_primer: TCTTGGCTGGGGTTTTCCAC
-gene_id: '452746'
+gene_id: '423990'
 gene_type: protein-coding
 images:
 - caption: CALCRL expression
@@ -92,13 +92,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCRL.S27AAA.001.jpg
 name: calcitonin receptor like receptor
-ncbi_id: '452746'
+ncbi_id: '423990'
 orthologs:
-- ensembl: ''
-  entrez: '36475'
-  mod: FBgn0052843
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000064989
   entrez: '10203'
   mod: MIM:114190
@@ -109,24 +104,26 @@ orthologs:
   mod: MGI:1926944
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 549647,379898
-  mod: '5736125'
+- ensembl: ENSXETG00000013895
+  entrez: '549647'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000011473
-  entrez: '445508'
-  mod: ZFIN:ZDB-GENE-040822-26,ZFIN:ZDB-GENE-080924-1
-  phenotypes: ZDB-GENE-040822-26,ZDB-GENE-080924-1
+- ensembl: ENSDARG00000011571
+  entrez: '567131'
+  mod: ZFIN:ZDB-GENE-080924-1
+  phenotypes: G protein-coupled receptor signaling pathway, adenylate cyclase-activating
+    G protein-coupled receptor signaling pathway, angiogenesis, cell surface receptor
+    signaling pathway, signal transduction
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAACTGTGAGGGTGAACACTGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452746
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423990
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452746
+  url: https://www.ncbi.nlm.nih.gov/gene/423990
 species: Gallus gallus
 symbol: CALCRL
 template_length: '662'
@@ -151,9 +148,8 @@ title: CALCRL
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36475](https://www.ncbi.nlm.nih.gov/gene/36475) | FBgn0052843 |  |
 | Human | [ENSG00000064989](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000064989) | [10203](https://www.ncbi.nlm.nih.gov/gene/10203) | [MIM:114190](https://omim.org/entry/114190) |  |
 | Mouse | [ENSMUSG00000059588](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000059588) | [54598](https://www.ncbi.nlm.nih.gov/gene/54598) | [MGI:1926944](http://www.informatics.jax.org/marker/MGI:1926944) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [549647](https://www.ncbi.nlm.nih.gov/gene/549647), [379898](https://www.ncbi.nlm.nih.gov/gene/379898) | [5736125](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5736125) |  |
-| Zebrafish | [ENSDARG00000011473](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011473) | [445508](https://www.ncbi.nlm.nih.gov/gene/445508) | [ZFIN:ZDB-GENE-040822-26](https://zfin.org/ZDB-GENE-040822-26), [ZFIN:ZDB-GENE-080924-1](https://zfin.org/ZDB-GENE-080924-1) | ZDB-GENE-040822-26,ZDB-GENE-080924-1 |
+| Xenopus | [ENSXETG00000013895](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013895) | [549647](https://www.ncbi.nlm.nih.gov/gene/549647) |  |  |
+| Zebrafish | [ENSDARG00000011571](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011571) | [567131](https://www.ncbi.nlm.nih.gov/gene/567131) | [ZFIN:ZDB-GENE-080924-1](https://zfin.org/ZDB-GENE-080924-1) | G protein-coupled receptor signaling pathway, adenylate cyclase-activating G protein-coupled receptor signaling pathway, angiogenesis, cell surface receptor signaling pathway, signal transduction |
 

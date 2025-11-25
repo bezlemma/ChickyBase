@@ -21,7 +21,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396243
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005201
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001079714
-gene_id: '462362'
+gene_id: '396243'
 gene_type: protein-coding
 images:
 - caption: COL1A2 expression
@@ -76,13 +76,8 @@ images:
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COLLA2.HH38.Bandyopadhyay.2008.f4.colla2.png
 name: collagen type I alpha 2 chain
-ncbi_id: '462362'
+ncbi_id: '396243'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164692
   entrez: '1278'
   mod: MIM:120160
@@ -93,20 +88,20 @@ orthologs:
   mod: MGI:88468
   phenotypes: All phenotypic alleles (4):Spontaneous(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 780175,380419
-  mod: '493263'
+- ensembl: ENSXETG00000020318
+  entrez: '780175'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000020007
   entrez: '336471'
   mod: ZFIN:ZDB-GENE-030131-8415
-  phenotypes: ZDB-GENE-030131-8415
+  phenotypes: response to mechanical stimulus, skeletal system development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462362
+  url: https://www.ncbi.nlm.nih.gov/gene/396243
 species: Gallus gallus
 symbol: COL1A2
 title: COL1A2
@@ -134,9 +129,8 @@ title: COL1A2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164692](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164692) | [1278](https://www.ncbi.nlm.nih.gov/gene/1278) | [MIM:120160](https://omim.org/entry/120160) | MIM:225320 |
 | Mouse | [ENSMUSG00000029661](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029661) | [12843](https://www.ncbi.nlm.nih.gov/gene/12843) | [MGI:88468](http://www.informatics.jax.org/marker/MGI:88468) | All phenotypic alleles (4):Spontaneous(1) Targeted, other(3) |
-| Xenopus |  | [780175](https://www.ncbi.nlm.nih.gov/gene/780175), [380419](https://www.ncbi.nlm.nih.gov/gene/380419) | [493263](http://www.xenbase.org/gene/showgene.do?method=display&geneId=493263) |  |
-| Zebrafish | [ENSDARG00000020007](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020007) | [336471](https://www.ncbi.nlm.nih.gov/gene/336471) | [ZFIN:ZDB-GENE-030131-8415](https://zfin.org/ZDB-GENE-030131-8415) | ZDB-GENE-030131-8415 |
+| Xenopus | [ENSXETG00000020318](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020318) | [780175](https://www.ncbi.nlm.nih.gov/gene/780175) |  |  |
+| Zebrafish | [ENSDARG00000020007](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020007) | [336471](https://www.ncbi.nlm.nih.gov/gene/336471) | [ZFIN:ZDB-GENE-030131-8415](https://zfin.org/ZDB-GENE-030131-8415) | response to mechanical stimulus, skeletal system development |
 

@@ -3,7 +3,6 @@ aliases:
 - dopamine beta-hydroxylase
 cgnc_id: '2115'
 external_ids:
-  '19': stage 19
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0010329
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Huber+HoxB2+Rohrer+2012+Holzmann
   Comments: 'Insufficient information provided in publication to verify exact sequence
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395549
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415429
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/DBH
-gene_id: '449569'
+gene_id: '395549'
 gene_type: protein-coding
 images:
 - caption: DBH expression
@@ -69,13 +68,8 @@ images:
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Huber.Fig5.DBH.D.ST34.jpg
 name: dopamine beta-hydroxylase
-ncbi_id: '449569'
+ncbi_id: '395549'
 orthologs:
-- ensembl: ''
-  entrez: '31718'
-  mod: FBgn0010329
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000123454
   entrez: '1621'
   mod: MIM:609312
@@ -86,20 +80,22 @@ orthologs:
   mod: MGI:94864
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000023110
   entrez: '100492247'
-  mod: '959494'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000069446
   entrez: '30505'
   mod: ZFIN:ZDB-GENE-990621-3
-  phenotypes: ZDB-GENE-990621-3
+  phenotypes: catecholamine biosynthetic process, catecholamine metabolic process,
+    dopamine catabolic process, norepinephrine biosynthetic process, octopamine biosynthetic
+    process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449569
+  url: https://www.ncbi.nlm.nih.gov/gene/395549
 species: Gallus gallus
 symbol: DBH
 title: DBH
@@ -128,9 +124,8 @@ title: DBH
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31718](https://www.ncbi.nlm.nih.gov/gene/31718) | FBgn0010329 |  |
 | Human | [ENSG00000123454](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000123454) | [1621](https://www.ncbi.nlm.nih.gov/gene/1621) | [MIM:609312](https://omim.org/entry/609312) | MIM:223360 |
 | Mouse | [ENSMUSG00000000889](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000889) | [13166](https://www.ncbi.nlm.nih.gov/gene/13166) | [MGI:94864](http://www.informatics.jax.org/marker/MGI:94864) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100492247](https://www.ncbi.nlm.nih.gov/gene/100492247) | [959494](http://www.xenbase.org/gene/showgene.do?method=display&geneId=959494) |  |
-| Zebrafish | [ENSDARG00000069446](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069446) | [30505](https://www.ncbi.nlm.nih.gov/gene/30505) | [ZFIN:ZDB-GENE-990621-3](https://zfin.org/ZDB-GENE-990621-3) | ZDB-GENE-990621-3 |
+| Xenopus | [ENSXETG00000023110](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023110) | [100492247](https://www.ncbi.nlm.nih.gov/gene/100492247) |  |  |
+| Zebrafish | [ENSDARG00000069446](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069446) | [30505](https://www.ncbi.nlm.nih.gov/gene/30505) | [ZFIN:ZDB-GENE-990621-3](https://zfin.org/ZDB-GENE-990621-3) | catecholamine biosynthetic process, catecholamine metabolic process, dopamine catabolic process, norepinephrine biosynthetic process, octopamine biosynthetic process |
 

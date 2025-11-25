@@ -6,9 +6,6 @@ aliases:
 - tyrosine kinase (cek2)
 cgnc_id: '49846'
 external_ids:
-  '13': stage 13stage 13stage 13
-  '25': stage 25
-  '4': stage 4stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006915
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
@@ -24,7 +21,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205509
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAGGCGGCAGAATACTTGAGGAG
-gene_id: '460368'
+gene_id: '396515'
 gene_type: protein-coding
 images:
 - caption: FGFR3 expression
@@ -1208,13 +1205,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FGFR3.Anderson.2019.Fig2.jpg
 name: fibroblast growth factor receptor 3
-ncbi_id: '460368'
+ncbi_id: '396515'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000068078
   entrez: '2261'
   mod: MIM:134934
@@ -1225,24 +1217,25 @@ orthologs:
   mod: MGI:95524
   phenotypes: All phenotypic alleles (24):Targeted, knock-out(6) Targeted, other(18)
   species: Mouse
-- ensembl: ''
-  entrez: 100196923,779370
-  mod: '479254'
+- ensembl: ENSXETG00000002396
+  entrez: '100196923'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000004782
+- ensembl: ENSDARG00000114756
   entrez: '58129'
   mod: ZFIN:ZDB-GENE-000816-1
-  phenotypes: ZDB-GENE-000816-1
+  phenotypes: apoptotic process, cell differentiation, fibroblast growth factor receptor
+    signaling pathway, phosphorylation, positive regulation of MAPK cascade
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCGTCTTCAGCACTGTGACATAGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460368
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396515
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460368
+  url: https://www.ncbi.nlm.nih.gov/gene/396515
 species: Gallus gallus
 symbol: FGFR3
 template_length: '763'
@@ -1273,9 +1266,8 @@ title: FGFR3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000068078](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000068078) | [2261](https://www.ncbi.nlm.nih.gov/gene/2261) | [MIM:134934](https://omim.org/entry/134934) | MIM:100800 |
 | Mouse | [ENSMUSG00000054252](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000054252) | [14184](https://www.ncbi.nlm.nih.gov/gene/14184) | [MGI:95524](http://www.informatics.jax.org/marker/MGI:95524) | All phenotypic alleles (24):Targeted, knock-out(6) Targeted, other(18) |
-| Xenopus |  | [100196923](https://www.ncbi.nlm.nih.gov/gene/100196923), [779370](https://www.ncbi.nlm.nih.gov/gene/779370) | [479254](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479254) |  |
-| Zebrafish | [ENSDARG00000004782](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004782) | [58129](https://www.ncbi.nlm.nih.gov/gene/58129) | [ZFIN:ZDB-GENE-000816-1](https://zfin.org/ZDB-GENE-000816-1) | ZDB-GENE-000816-1 |
+| Xenopus | [ENSXETG00000002396](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002396) | [100196923](https://www.ncbi.nlm.nih.gov/gene/100196923) |  |  |
+| Zebrafish | [ENSDARG00000114756](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114756) | [58129](https://www.ncbi.nlm.nih.gov/gene/58129) | [ZFIN:ZDB-GENE-000816-1](https://zfin.org/ZDB-GENE-000816-1) | apoptotic process, cell differentiation, fibroblast growth factor receptor signaling pathway, phosphorylation, positive regulation of MAPK cascade |
 

@@ -3,7 +3,6 @@ aliases:
 - glomulin
 cgnc_id: '4454'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0050496
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/246652
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424503
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422343
 forward_primer: 3'-TGCTTCCTGAAGGTGCTGAG-5'
-gene_id: '450157'
+gene_id: '424503'
 gene_type: protein-coding
 images:
 - caption: GLMN expression
@@ -58,13 +57,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R715.GLMN.S25.001.jpg
 name: glomulin, FKBP associated protein
-ncbi_id: '450157'
+ncbi_id: '424503'
 orthologs:
-- ensembl: ''
-  entrez: '246652'
-  mod: FBgn0050496
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000174842
   entrez: '11146'
   mod: MIM:601749
@@ -75,24 +69,24 @@ orthologs:
   mod: MGI:2141180
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100379907,379731
-  mod: '965005'
+- ensembl: ENSXETG00000023009
+  entrez: '100379907'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000058267,ENSDARG00000010958
-  entrez: 492774,100170791
-  mod: ZFIN:ZDB-GENE-041114-120,ZFIN:ZDB-GENE-080723-14
-  phenotypes: ZDB-GENE-041114-120,ZDB-GENE-080723-14
+- ensembl: ENSDARG00000058267
+  entrez: '492774'
+  mod: ZFIN:ZDB-GENE-041114-120
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 3'-TCACGGCTCTCCAGGTTAC-5'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450157
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424503
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450157
+  url: https://www.ncbi.nlm.nih.gov/gene/424503
 species: Gallus gallus
 symbol: GLMN
 title: GLMN
@@ -116,9 +110,8 @@ title: GLMN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [246652](https://www.ncbi.nlm.nih.gov/gene/246652) | FBgn0050496 |  |
 | Human | [ENSG00000174842](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000174842) | [11146](https://www.ncbi.nlm.nih.gov/gene/11146) | [MIM:601749](https://omim.org/entry/601749) | MIM:138000 |
 | Mouse | [ENSMUSG00000029276](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029276) | [170823](https://www.ncbi.nlm.nih.gov/gene/170823) | [MGI:2141180](http://www.informatics.jax.org/marker/MGI:2141180) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [100379907](https://www.ncbi.nlm.nih.gov/gene/100379907), [379731](https://www.ncbi.nlm.nih.gov/gene/379731) | [965005](http://www.xenbase.org/gene/showgene.do?method=display&geneId=965005) |  |
-| Zebrafish | [ENSDARG00000058267](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058267), [ENSDARG00000010958](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010958) | [492774](https://www.ncbi.nlm.nih.gov/gene/492774), [100170791](https://www.ncbi.nlm.nih.gov/gene/100170791) | [ZFIN:ZDB-GENE-041114-120](https://zfin.org/ZDB-GENE-041114-120), [ZFIN:ZDB-GENE-080723-14](https://zfin.org/ZDB-GENE-080723-14) | ZDB-GENE-041114-120,ZDB-GENE-080723-14 |
+| Xenopus | [ENSXETG00000023009](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023009) | [100379907](https://www.ncbi.nlm.nih.gov/gene/100379907) |  |  |
+| Zebrafish | [ENSDARG00000058267](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058267) | [492774](https://www.ncbi.nlm.nih.gov/gene/492774) | [ZFIN:ZDB-GENE-041114-120](https://zfin.org/ZDB-GENE-041114-120) |  |
 

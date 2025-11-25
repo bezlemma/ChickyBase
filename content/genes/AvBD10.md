@@ -19,7 +19,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:414341
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001609
-gene_id: '459500'
+gene_id: '414341'
 gene_type: protein-coding
 images:
 - caption: AvBD10 expression
@@ -58,7 +58,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhang.2019.Fig2_AllImages.jpg
 name: avian beta-defensin 10
-ncbi_id: '459500'
+ncbi_id: '414341'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -88,10 +88,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459500
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=414341
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459500
+  url: https://www.ncbi.nlm.nih.gov/gene/414341
 species: Gallus gallus
 symbol: AvBD10
 title: AvBD10

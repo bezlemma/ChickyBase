@@ -3,14 +3,13 @@ aliases:
 - prolyl endopeptidase FAP
 cgnc_id: '8428'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000011099
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424186
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001193639
 forward_primer: 5’-TTACCTCAGACGGCAGTTCG-3’
-gene_id: '460637'
+gene_id: '424186'
 gene_type: protein-coding
 images:
 - caption: FAP expression
@@ -57,41 +56,31 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R660.FAP.S25.001.jpg
 name: fibroblast activation protein alpha
-ncbi_id: '460637'
+ncbi_id: '424186'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000078098
+  entrez: '2191'
+  mod: MIM:600403
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000000392
+  entrez: '14089'
+  mod: MGI:109608
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000033310
+  entrez: '100134993'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTCCACTGCCAGATCCAAGTG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460637
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424186
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460637
+  url: https://www.ncbi.nlm.nih.gov/gene/424186
 species: Gallus gallus
 symbol: FAP
 template_length: '848'
@@ -114,9 +103,7 @@ title: FAP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000078098](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000078098) | [2191](https://www.ncbi.nlm.nih.gov/gene/2191) | [MIM:600403](https://omim.org/entry/600403) |  |
+| Mouse | [ENSMUSG00000000392](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000392) | [14089](https://www.ncbi.nlm.nih.gov/gene/14089) | [MGI:109608](http://www.informatics.jax.org/marker/MGI:109608) |  |
+| Xenopus | [ENSXETG00000033310](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033310) | [100134993](https://www.ncbi.nlm.nih.gov/gene/100134993) |  |  |
 

@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100857760
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003643493
-gene_id: '472291'
+gene_id: '100857760'
 gene_type: protein-coding
 images:
 - caption: FOXF2 expression
@@ -63,37 +63,33 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXF2.Anderson.2019.Supplementary
     figure 5H1.jpg
 name: forkhead box F2
-ncbi_id: '472291'
+ncbi_id: '100857760'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000137273
+  entrez: '2295'
+  mod: MIM:603250
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000038402
+  entrez: '14238'
+  mod: MGI:1347479
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000041951
+  entrez: '100101712'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000017195
+  entrez: '407681'
+  mod: ZFIN:ZDB-GENE-110407-5
+  phenotypes: animal organ morphogenesis, regulation of DNA-templated transcription,
+    regulation of transcription by RNA polymerase II, system development, tissue homeostasis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/472291
+  url: https://www.ncbi.nlm.nih.gov/gene/100857760
 species: Gallus gallus
 symbol: FOXF2
 title: FOXF2
@@ -119,9 +115,8 @@ title: FOXF2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000137273](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137273) | [2295](https://www.ncbi.nlm.nih.gov/gene/2295) | [MIM:603250](https://omim.org/entry/603250) |  |
+| Mouse | [ENSMUSG00000038402](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038402) | [14238](https://www.ncbi.nlm.nih.gov/gene/14238) | [MGI:1347479](http://www.informatics.jax.org/marker/MGI:1347479) |  |
+| Xenopus | [ENSXETG00000041951](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041951) | [100101712](https://www.ncbi.nlm.nih.gov/gene/100101712) |  |  |
+| Zebrafish | [ENSDARG00000017195](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017195) | [407681](https://www.ncbi.nlm.nih.gov/gene/407681) | [ZFIN:ZDB-GENE-110407-5](https://zfin.org/ZDB-GENE-110407-5) | animal organ morphogenesis, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II, system development, tissue homeostasis |
 

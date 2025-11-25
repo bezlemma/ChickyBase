@@ -3,7 +3,6 @@ aliases:
 - CENP-H, centromere protein H
 cgnc_id: '10967'
 external_ids:
-  '25': stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0051382
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0000777
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Robb+Antin+candidate+coloboma
@@ -18,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395316
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043515
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204611
-gene_id: '448901'
+gene_id: '395316'
 gene_type: protein-coding
 images:
 - caption: CENPH expression
@@ -141,13 +140,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robb.2012.F3.cenph.png
 name: centromere protein H
-ncbi_id: '448901'
+ncbi_id: '395316'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000153044
   entrez: '64946'
   mod: MIM:605607
@@ -158,23 +152,18 @@ orthologs:
   mod: MGI:1349448
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000030572
   entrez: '779498'
-  mod: '1001497'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000094892
-  entrez: '567359'
-  mod: ZFIN:ZDB-GENE-081104-340
-  phenotypes: ZDB-GENE-081104-340
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448901
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395316
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448901
+  url: https://www.ncbi.nlm.nih.gov/gene/395316
 species: Gallus gallus
 symbol: CENPH
 title: CENPH
@@ -203,9 +192,7 @@ title: CENPH
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000153044](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000153044) | [64946](https://www.ncbi.nlm.nih.gov/gene/64946) | [MIM:605607](https://omim.org/entry/605607) |  |
 | Mouse | [ENSMUSG00000045273](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000045273) | [26886](https://www.ncbi.nlm.nih.gov/gene/26886) | [MGI:1349448](http://www.informatics.jax.org/marker/MGI:1349448) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [779498](https://www.ncbi.nlm.nih.gov/gene/779498) | [1001497](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1001497) |  |
-| Zebrafish | [ENSDARG00000094892](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000094892) | [567359](https://www.ncbi.nlm.nih.gov/gene/567359) | [ZFIN:ZDB-GENE-081104-340](https://zfin.org/ZDB-GENE-081104-340) | ZDB-GENE-081104-340 |
+| Xenopus | [ENSXETG00000030572](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000030572) | [779498](https://www.ncbi.nlm.nih.gov/gene/779498) |  |  |
 

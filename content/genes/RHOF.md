@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416848
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001278152
 forward_primer: AGACAAAGAGCAGTTGCG
-gene_id: '461422'
+gene_id: '416848'
 gene_type: protein-coding
 images:
 - caption: RHOF expression
@@ -121,16 +121,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R454.RHOF.S26.001.jpg
 name: ras homolog family member F, filopodia associated
-ncbi_id: '461422'
+ncbi_id: '416848'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000139725
   entrez: '54509'
-  mod: ''
+  mod: MIM:618867
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000029449
@@ -138,24 +133,25 @@ orthologs:
   mod: MGI:1345629
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 549123,495677
-  mod: '920535'
+- ensembl: ENSXETG00000003758
+  entrez: '549123'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000054389
   entrez: '573655'
   mod: ZFIN:ZDB-GENE-050522-280
-  phenotypes: ZDB-GENE-050522-280
+  phenotypes: actin filament organization, cell migration, regulation of actin cytoskeleton
+    organization, signal transduction, small GTPase-mediated signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGTTACACAGAGTGGCTGAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461422
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416848
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461422
+  url: https://www.ncbi.nlm.nih.gov/gene/416848
 species: Gallus gallus
 symbol: RHOF
 template_length: '959'
@@ -177,9 +173,8 @@ title: RHOF
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000139725](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139725) | [54509](https://www.ncbi.nlm.nih.gov/gene/54509) |  |  |
+| Human | [ENSG00000139725](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139725) | [54509](https://www.ncbi.nlm.nih.gov/gene/54509) | [MIM:618867](https://omim.org/entry/618867) |  |
 | Mouse | [ENSMUSG00000029449](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029449) | [23912](https://www.ncbi.nlm.nih.gov/gene/23912) | [MGI:1345629](http://www.informatics.jax.org/marker/MGI:1345629) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [549123](https://www.ncbi.nlm.nih.gov/gene/549123), [495677](https://www.ncbi.nlm.nih.gov/gene/495677) | [920535](http://www.xenbase.org/gene/showgene.do?method=display&geneId=920535) |  |
-| Zebrafish | [ENSDARG00000054389](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054389) | [573655](https://www.ncbi.nlm.nih.gov/gene/573655) | [ZFIN:ZDB-GENE-050522-280](https://zfin.org/ZDB-GENE-050522-280) | ZDB-GENE-050522-280 |
+| Xenopus | [ENSXETG00000003758](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003758) | [549123](https://www.ncbi.nlm.nih.gov/gene/549123) |  |  |
+| Zebrafish | [ENSDARG00000054389](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054389) | [573655](https://www.ncbi.nlm.nih.gov/gene/573655) | [ZFIN:ZDB-GENE-050522-280](https://zfin.org/ZDB-GENE-050522-280) | actin filament organization, cell migration, regulation of actin cytoskeleton organization, signal transduction, small GTPase-mediated signal transduction |
 

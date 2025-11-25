@@ -1,13 +1,12 @@
 ---
 external_ids:
-  '1': stage 1
   Comments: no expression detected stages 4-24
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic: http://www.ncbi.nlm.nih.gov/nuccore/NC_006113.3?report=genbank&from=2641616&to=2641695&strand=true
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018311
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006113.3?report=genbank&from=2641616&to=2641695&strand=true
-gene_id: '467982'
+gene_id: '777870'
 gene_type: miscRNA
 images:
 - caption: MIR29B2 expression
@@ -18,7 +17,7 @@ images:
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/29b.6.002.jpg
 name: microRNA 29b-2
-ncbi_id: '467982'
+ncbi_id: '777870'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -48,10 +47,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467982
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777870
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467982
+  url: https://www.ncbi.nlm.nih.gov/gene/777870
 species: Gallus gallus
 symbol: MIR29B2
 title: MIR29B2

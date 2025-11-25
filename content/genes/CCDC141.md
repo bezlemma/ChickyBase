@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:770766
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234092
-gene_id: '452677'
+gene_id: '770766'
 gene_type: protein-coding
 images:
 - caption: CCDC141 expression
@@ -21,13 +21,8 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CCDC141_HH 12 x25.jpg
 name: coiled-coil domain containing 141
-ncbi_id: '452677'
+ncbi_id: '770766'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163492
   entrez: '285025'
   mod: MIM:616031
@@ -38,23 +33,23 @@ orthologs:
   mod: MGI:1919735
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000015049
   entrez: '100485826'
-  mod: '6462925'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000095675
   entrez: '553274'
-  mod: ZFIN:ZDB-GENE-081105-49,ZFIN:ZDB-GENE-081104-472
-  phenotypes: ZDB-GENE-081105-49,ZDB-GENE-081104-472
+  mod: ZFIN:ZDB-GENE-081104-472
+  phenotypes: regulation of amacrine cell differentiation, swimming
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452677
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=770766
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452677
+  url: https://www.ncbi.nlm.nih.gov/gene/770766
 species: Gallus gallus
 symbol: CCDC141
 title: CCDC141
@@ -78,9 +73,8 @@ title: CCDC141
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163492](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163492) | [285025](https://www.ncbi.nlm.nih.gov/gene/285025) | [MIM:616031](https://omim.org/entry/616031) |  |
 | Mouse | [ENSMUSG00000044033](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000044033) | [545428](https://www.ncbi.nlm.nih.gov/gene/545428) | [MGI:1919735](http://www.informatics.jax.org/marker/MGI:1919735) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100485826](https://www.ncbi.nlm.nih.gov/gene/100485826) | [6462925](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6462925) |  |
-| Zebrafish |  | [553274](https://www.ncbi.nlm.nih.gov/gene/553274) | [ZFIN:ZDB-GENE-081105-49](https://zfin.org/ZDB-GENE-081105-49), [ZFIN:ZDB-GENE-081104-472](https://zfin.org/ZDB-GENE-081104-472) | ZDB-GENE-081105-49,ZDB-GENE-081104-472 |
+| Xenopus | [ENSXETG00000015049](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015049) | [100485826](https://www.ncbi.nlm.nih.gov/gene/100485826) |  |  |
+| Zebrafish | [ENSDARG00000095675](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000095675) | [553274](https://www.ncbi.nlm.nih.gov/gene/553274) | [ZFIN:ZDB-GENE-081104-472](https://zfin.org/ZDB-GENE-081104-472) | regulation of amacrine cell differentiation, swimming |
 

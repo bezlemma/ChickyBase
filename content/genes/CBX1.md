@@ -3,8 +3,6 @@ aliases:
 - chromobox protein homolog 1
 cgnc_id: '49096'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25
-  '7': stage 7
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0030082
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (NM_001396186
@@ -17,7 +15,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204332
   X-XIV: stage XII
 forward_primer: GCCAAGGAAGCCAACATCAAG
-gene_id: '456463'
+gene_id: '374237'
 gene_type: protein-coding
 images:
 - caption: CBX1 expression
@@ -249,13 +247,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBX1.Travers.2023-ALL.jpg
 name: chromobox 1
-ncbi_id: '456463'
+ncbi_id: '374237'
 orthologs:
-- ensembl: ''
-  entrez: '31834'
-  mod: FBgn0030082
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000108468
   entrez: '10951'
   mod: MIM:604511
@@ -266,24 +259,24 @@ orthologs:
   mod: MGI:105369
   phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549904,444708
-  mod: '1005973'
+- ensembl: ENSXETG00000021962
+  entrez: '549904'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000054442,ENSDARG00000004189
-  entrez: 415180,326746
-  mod: ZFIN:ZDB-GENE-040625-68,ZFIN:ZDB-GENE-030131-4945
-  phenotypes: ZDB-GENE-040625-68,ZDB-GENE-030131-4945
+- ensembl: ENSDARG00000054442
+  entrez: '415180'
+  mod: ZFIN:ZDB-GENE-040625-68
+  phenotypes: heterochromatin formation
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCCCAGACCGATACACCAGTAATAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456463
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374237
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456463
+  url: https://www.ncbi.nlm.nih.gov/gene/374237
 species: Gallus gallus
 symbol: CBX1
 template_length: '670'
@@ -310,9 +303,8 @@ title: CBX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31834](https://www.ncbi.nlm.nih.gov/gene/31834) | FBgn0030082 |  |
 | Human | [ENSG00000108468](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000108468) | [10951](https://www.ncbi.nlm.nih.gov/gene/10951) | [MIM:604511](https://omim.org/entry/604511) |  |
 | Mouse | [ENSMUSG00000018666](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018666) | [12412](https://www.ncbi.nlm.nih.gov/gene/12412) | [MGI:105369](http://www.informatics.jax.org/marker/MGI:105369) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [549904](https://www.ncbi.nlm.nih.gov/gene/549904), [444708](https://www.ncbi.nlm.nih.gov/gene/444708) | [1005973](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1005973) |  |
-| Zebrafish | [ENSDARG00000054442](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054442), [ENSDARG00000004189](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004189) | [415180](https://www.ncbi.nlm.nih.gov/gene/415180), [326746](https://www.ncbi.nlm.nih.gov/gene/326746) | [ZFIN:ZDB-GENE-040625-68](https://zfin.org/ZDB-GENE-040625-68), [ZFIN:ZDB-GENE-030131-4945](https://zfin.org/ZDB-GENE-030131-4945) | ZDB-GENE-040625-68,ZDB-GENE-030131-4945 |
+| Xenopus | [ENSXETG00000021962](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021962) | [549904](https://www.ncbi.nlm.nih.gov/gene/549904) |  |  |
+| Zebrafish | [ENSDARG00000054442](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054442) | [415180](https://www.ncbi.nlm.nih.gov/gene/415180) | [ZFIN:ZDB-GENE-040625-68](https://zfin.org/ZDB-GENE-040625-68) | heterochromatin formation |
 

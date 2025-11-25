@@ -5,7 +5,6 @@ aliases:
 - absent in melanoma 1
 cgnc_id: '11429'
 external_ids:
-  '19': stage 19stage 19
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/421783
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421783
@@ -111,7 +110,7 @@ orthologs:
 - ensembl: ENSDARG00000031782
   entrez: 100334360,566781,556848
   mod: ZFIN:ZDB-GENE-030131-7179,ZFIN:ZDB-GENE-041008-100
-  phenotypes: ZDB-GENE-030131-7179,ZDB-GENE-041008-100
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGGGAAGTAGGAACAGCATCCAAC
 sources:
@@ -146,5 +145,5 @@ title: CRYBG1
 | Human | [ENSG00000112297](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112297) | [202](https://www.ncbi.nlm.nih.gov/gene/202) | [MIM:601797](https://omim.org/entry/601797) |  |
 | Mouse | [ENSMUSG00000019866](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019866) | [11630](https://www.ncbi.nlm.nih.gov/gene/11630) | [MGI:109544](http://www.informatics.jax.org/marker/MGI:109544) | All phenotypic alleles (2):Targeted, other(2) |
 | Xenopus |  | [100491164](https://www.ncbi.nlm.nih.gov/gene/100491164) | [989533](http://www.xenbase.org/gene/showgene.do?method=display&geneId=989533) |  |
-| Zebrafish | [ENSDARG00000031782](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031782) | [100334360](https://www.ncbi.nlm.nih.gov/gene/100334360), [566781](https://www.ncbi.nlm.nih.gov/gene/566781), [556848](https://www.ncbi.nlm.nih.gov/gene/556848) | [ZFIN:ZDB-GENE-030131-7179](https://zfin.org/ZDB-GENE-030131-7179), [ZFIN:ZDB-GENE-041008-100](https://zfin.org/ZDB-GENE-041008-100) | ZDB-GENE-030131-7179,ZDB-GENE-041008-100 |
+| Zebrafish | [ENSDARG00000031782](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031782) | [100334360](https://www.ncbi.nlm.nih.gov/gene/100334360), [566781](https://www.ncbi.nlm.nih.gov/gene/566781), [556848](https://www.ncbi.nlm.nih.gov/gene/556848) | [ZFIN:ZDB-GENE-030131-7179](https://zfin.org/ZDB-GENE-030131-7179), [ZFIN:ZDB-GENE-041008-100](https://zfin.org/ZDB-GENE-041008-100) |  |
 

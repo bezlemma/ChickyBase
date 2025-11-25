@@ -3,7 +3,6 @@ aliases:
 - single-minded homolog 1
 cgnc_id: '49663'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Caqueret+Coumailleau+chick+hypothalamus
   Comments: "According to the authors, \"Digoxigenin\r\n(DIG)- and fluorescein-labeled\
     \ riboprobes were synthesized from chick cDNA plasmids...\"  As information provided\
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396129
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419817
 forward_primer: GCGGGGGCTACAAGGTCATCC
-gene_id: '458898'
+gene_id: '396129'
 gene_type: protein-coding
 images:
 - caption: SIM1 expression
@@ -236,13 +235,8 @@ images:
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SIM1.Caqueret.2005.Fig.5.png
 name: SIM bHLH transcription factor 1
-ncbi_id: '458898'
+ncbi_id: '396129'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000112246
   entrez: '6492'
   mod: MIM:603128
@@ -254,24 +248,25 @@ orthologs:
   phenotypes: All phenotypic alleles (9):Chemically induced(1) Targeted, knock-out(3)
     Targeted, other(5)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000002406
   entrez: '100486719'
-  mod: '485815'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000023316
-  entrez: 260351,566656
-  mod: ZFIN:ZDB-GENE-020829-1,ZFIN:ZDB-GENE-041210-5
-  phenotypes: ZDB-GENE-020829-1,ZDB-GENE-041210-5
+  entrez: '260351'
+  mod: ZFIN:ZDB-GENE-020829-1
+  phenotypes: animal organ development, axon guidance, cell differentiation, diencephalon
+    development, dopaminergic neuron differentiation
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGGGAGAGGCTGTGTCGGTGAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458898
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396129
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458898
+  url: https://www.ncbi.nlm.nih.gov/gene/396129
 species: Gallus gallus
 symbol: SIM1
 template_length: '719'
@@ -299,9 +294,8 @@ title: SIM1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000112246](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112246) | [6492](https://www.ncbi.nlm.nih.gov/gene/6492) | [MIM:603128](https://omim.org/entry/603128) | MIM:601665 |
 | Mouse | [ENSMUSG00000019913](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019913) | [20464](https://www.ncbi.nlm.nih.gov/gene/20464) | [MGI:98306](http://www.informatics.jax.org/marker/MGI:98306) | All phenotypic alleles (9):Chemically induced(1) Targeted, knock-out(3) Targeted, other(5) |
-| Xenopus |  | [100486719](https://www.ncbi.nlm.nih.gov/gene/100486719) | [485815](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485815) |  |
-| Zebrafish | [ENSDARG00000023316](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023316) | [260351](https://www.ncbi.nlm.nih.gov/gene/260351), [566656](https://www.ncbi.nlm.nih.gov/gene/566656) | [ZFIN:ZDB-GENE-020829-1](https://zfin.org/ZDB-GENE-020829-1), [ZFIN:ZDB-GENE-041210-5](https://zfin.org/ZDB-GENE-041210-5) | ZDB-GENE-020829-1,ZDB-GENE-041210-5 |
+| Xenopus | [ENSXETG00000002406](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002406) | [100486719](https://www.ncbi.nlm.nih.gov/gene/100486719) |  |  |
+| Zebrafish | [ENSDARG00000023316](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023316) | [260351](https://www.ncbi.nlm.nih.gov/gene/260351) | [ZFIN:ZDB-GENE-020829-1](https://zfin.org/ZDB-GENE-020829-1) | animal organ development, axon guidance, cell differentiation, diencephalon development, dopaminergic neuron differentiation |
 

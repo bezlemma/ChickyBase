@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422022
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420030
 forward_primer: TGCCAGATAAAGACGATGCGAC
-gene_id: '449436'
+gene_id: '422022'
 gene_type: protein-coding
 images:
 - caption: EXTL3 expression
@@ -103,13 +103,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R255.EXTL3.S26L.001.jpg
 name: exostosin like glycosyltransferase 3
-ncbi_id: '449436'
+ncbi_id: '422022'
 orthologs:
-- ensembl: ''
-  entrez: '37198'
-  mod: FBgn0027535
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000012232
   entrez: '2137'
   mod: MIM:605744
@@ -121,24 +116,26 @@ orthologs:
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(1)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 493398,447542
-  mod: '855818'
+- ensembl: ENSXETG00000000117
+  entrez: '493398'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000026811
   entrez: '493783'
   mod: ZFIN:ZDB-GENE-041124-2
-  phenotypes: ZDB-GENE-041124-2
+  phenotypes: anterior/posterior axon guidance, chondroitin sulfate proteoglycan biosynthetic
+    process, embryonic pectoral fin morphogenesis, heparan sulfate proteoglycan biosynthetic
+    process, negative regulation of inflammatory response to wounding
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCAGTGAGGGTGAAGTTGCGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449436
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422022
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449436
+  url: https://www.ncbi.nlm.nih.gov/gene/422022
 species: Gallus gallus
 symbol: EXTL3
 template_length: '1311'
@@ -162,9 +159,8 @@ title: EXTL3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [37198](https://www.ncbi.nlm.nih.gov/gene/37198) | FBgn0027535 |  |
 | Human | [ENSG00000012232](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000012232) | [2137](https://www.ncbi.nlm.nih.gov/gene/2137) | [MIM:605744](https://omim.org/entry/605744) |  |
 | Mouse | [ENSMUSG00000021978](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021978) | [54616](https://www.ncbi.nlm.nih.gov/gene/54616) | [MGI:1860765](http://www.informatics.jax.org/marker/MGI:1860765) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(1) Gene trapped(1) |
-| Xenopus |  | [493398](https://www.ncbi.nlm.nih.gov/gene/493398), [447542](https://www.ncbi.nlm.nih.gov/gene/447542) | [855818](http://www.xenbase.org/gene/showgene.do?method=display&geneId=855818) |  |
-| Zebrafish | [ENSDARG00000026811](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026811) | [493783](https://www.ncbi.nlm.nih.gov/gene/493783) | [ZFIN:ZDB-GENE-041124-2](https://zfin.org/ZDB-GENE-041124-2) | ZDB-GENE-041124-2 |
+| Xenopus | [ENSXETG00000000117](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000117) | [493398](https://www.ncbi.nlm.nih.gov/gene/493398) |  |  |
+| Zebrafish | [ENSDARG00000026811](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026811) | [493783](https://www.ncbi.nlm.nih.gov/gene/493783) | [ZFIN:ZDB-GENE-041124-2](https://zfin.org/ZDB-GENE-041124-2) | anterior/posterior axon guidance, chondroitin sulfate proteoglycan biosynthetic process, embryonic pectoral fin morphogenesis, heparan sulfate proteoglycan biosynthetic process, negative regulation of inflammatory response to wounding |
 

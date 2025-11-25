@@ -6,7 +6,6 @@ aliases:
 - hypoxia inducible factor 1 alpha subunit
 cgnc_id: '8999'
 external_ids:
-  '19': stage 19
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0015542
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0045893
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
@@ -22,7 +21,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374177
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204297
-gene_id: '455094'
+gene_id: '374177'
 gene_type: protein-coding
 images:
 - caption: HIF1A expression
@@ -363,13 +362,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hif1a.Singh.2016.Fig2.jpg
 name: hypoxia inducible factor 1 subunit alpha
-ncbi_id: '455094'
+ncbi_id: '374177'
 orthologs:
-- ensembl: ''
-  entrez: '43580'
-  mod: FBgn0015542
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100644
   entrez: '3091'
   mod: MIM:603348
@@ -380,23 +374,19 @@ orthologs:
   mod: MGI:106918
   phenotypes: All phenotypic alleles (12):Targeted, knock-out(7) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 496583,380141
-  mod: '946621'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000034293,ENSDARG00000006181
-  entrez: 393202,797150
-  mod: ZFIN:ZDB-GENE-040426-706,ZFIN:ZDB-GENE-080917-55
-  phenotypes: ZDB-GENE-040426-706,ZDB-GENE-080917-55
+- ensembl: ENSDARG00000034293
+  entrez: '393202'
+  mod: ZFIN:ZDB-GENE-040426-706
+  phenotypes: Notch signaling pathway, animal organ development, cellular response
+    to hypoxia, hematopoietic stem cell differentiation, intracellular oxygen homeostasis
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455094
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374177
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455094
+  url: https://www.ncbi.nlm.nih.gov/gene/374177
 species: Gallus gallus
 symbol: HIF1A
 title: HIF1A
@@ -427,9 +417,7 @@ title: HIF1A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43580](https://www.ncbi.nlm.nih.gov/gene/43580) | FBgn0015542 |  |
 | Human | [ENSG00000100644](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100644) | [3091](https://www.ncbi.nlm.nih.gov/gene/3091) | [MIM:603348](https://omim.org/entry/603348) |  |
 | Mouse | [ENSMUSG00000021109](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021109) | [15251](https://www.ncbi.nlm.nih.gov/gene/15251) | [MGI:106918](http://www.informatics.jax.org/marker/MGI:106918) | All phenotypic alleles (12):Targeted, knock-out(7) Targeted, other(5) |
-| Xenopus |  | [496583](https://www.ncbi.nlm.nih.gov/gene/496583), [380141](https://www.ncbi.nlm.nih.gov/gene/380141) | [946621](http://www.xenbase.org/gene/showgene.do?method=display&geneId=946621) |  |
-| Zebrafish | [ENSDARG00000034293](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034293), [ENSDARG00000006181](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006181) | [393202](https://www.ncbi.nlm.nih.gov/gene/393202), [797150](https://www.ncbi.nlm.nih.gov/gene/797150) | [ZFIN:ZDB-GENE-040426-706](https://zfin.org/ZDB-GENE-040426-706), [ZFIN:ZDB-GENE-080917-55](https://zfin.org/ZDB-GENE-080917-55) | ZDB-GENE-040426-706,ZDB-GENE-080917-55 |
+| Zebrafish | [ENSDARG00000034293](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034293) | [393202](https://www.ncbi.nlm.nih.gov/gene/393202) | [ZFIN:ZDB-GENE-040426-706](https://zfin.org/ZDB-GENE-040426-706) | Notch signaling pathway, animal organ development, cellular response to hypoxia, hematopoietic stem cell differentiation, intracellular oxygen homeostasis |
 

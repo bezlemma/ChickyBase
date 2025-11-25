@@ -7,7 +7,6 @@ aliases:
 - myosin heavy chain
 cgnc_id: '49277'
 external_ids:
-  '25': stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0264695
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
   Comments: Insufficient information provided in publication to verify exact sequence
@@ -21,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395350
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001302
 forward_primer: AGGGGCAGTTCATTGACAGTCG
-gene_id: '448948'
+gene_id: '395350'
 gene_type: protein-coding
 images:
 - caption: MYH7 expression
@@ -426,13 +425,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AMHC1.Anderson.2019.Fig1.jpg
 name: myosin, heavy chain 7, cardiac muscle, beta
-ncbi_id: '448948'
+ncbi_id: '395350'
 orthologs:
-- ensembl: ''
-  entrez: '35007'
-  mod: FBgn0264695
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000092054
   entrez: '4625'
   mod: MIM:160760
@@ -445,22 +439,22 @@ orthologs:
   species: Mouse
 - ensembl: ''
   entrez: '100485637'
-  mod: '992452'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000079564,ENSDARG00000092902,ENSDARG00000093715,ENSDARG00000093148,ENSDARG00000079782,ENSDARG00000045242,ENSDARG00000071433,ENSDARG00000092357,ENSDARG00000071430
-  entrez: 100329670,30616,567740,100001366,100329748,768300,100001337,100124599,100329813,321552
-  mod: ZFIN:ZDB-GENE-991123-5,ZFIN:ZDB-GENE-110401-4,ZFIN:ZDB-GENE-061027-393,ZFIN:ZDB-GENE-080930-1,ZFIN:ZDB-GENE-070822-12,ZFIN:ZDB-GENE-030131-271
-  phenotypes: ZDB-GENE-991123-5,ZDB-GENE-110401-4,ZDB-GENE-061027-393,ZDB-GENE-080930-1,ZDB-GENE-070822-12,ZDB-GENE-030131-271
+- ensembl: ''
+  entrez: '100329813'
+  mod: ''
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCGTTCCAGGTCCATCCGTATC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448948
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395350
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448948
+  url: https://www.ncbi.nlm.nih.gov/gene/395350
 species: Gallus gallus
 symbol: MYH7
 template_length: '956'
@@ -489,9 +483,8 @@ title: MYH7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35007](https://www.ncbi.nlm.nih.gov/gene/35007) | FBgn0264695 |  |
 | Human | [ENSG00000092054](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000092054) | [4625](https://www.ncbi.nlm.nih.gov/gene/4625) | [MIM:160760](https://omim.org/entry/160760) | MIM:160760 |
 | Mouse | [ENSMUSG00000053093](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000053093) | [140781](https://www.ncbi.nlm.nih.gov/gene/140781) | [MGI:2155600](http://www.informatics.jax.org/marker/MGI:2155600) | All phenotypic alleles (5):Targeted, other(5) |
-| Xenopus |  | [100485637](https://www.ncbi.nlm.nih.gov/gene/100485637) | [992452](http://www.xenbase.org/gene/showgene.do?method=display&geneId=992452) |  |
-| Zebrafish | [ENSDARG00000079564](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079564), [ENSDARG00000092902](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000092902), [ENSDARG00000093715](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000093715), [ENSDARG00000093148](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000093148), [ENSDARG00000079782](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079782), [ENSDARG00000045242](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045242), [ENSDARG00000071433](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071433), [ENSDARG00000092357](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000092357), [ENSDARG00000071430](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071430) | [100329670](https://www.ncbi.nlm.nih.gov/gene/100329670), [30616](https://www.ncbi.nlm.nih.gov/gene/30616), [567740](https://www.ncbi.nlm.nih.gov/gene/567740), [100001366](https://www.ncbi.nlm.nih.gov/gene/100001366), [100329748](https://www.ncbi.nlm.nih.gov/gene/100329748), [768300](https://www.ncbi.nlm.nih.gov/gene/768300), [100001337](https://www.ncbi.nlm.nih.gov/gene/100001337), [100124599](https://www.ncbi.nlm.nih.gov/gene/100124599), [100329813](https://www.ncbi.nlm.nih.gov/gene/100329813), [321552](https://www.ncbi.nlm.nih.gov/gene/321552) | [ZFIN:ZDB-GENE-991123-5](https://zfin.org/ZDB-GENE-991123-5), [ZFIN:ZDB-GENE-110401-4](https://zfin.org/ZDB-GENE-110401-4), [ZFIN:ZDB-GENE-061027-393](https://zfin.org/ZDB-GENE-061027-393), [ZFIN:ZDB-GENE-080930-1](https://zfin.org/ZDB-GENE-080930-1), [ZFIN:ZDB-GENE-070822-12](https://zfin.org/ZDB-GENE-070822-12), [ZFIN:ZDB-GENE-030131-271](https://zfin.org/ZDB-GENE-030131-271) | ZDB-GENE-991123-5,ZDB-GENE-110401-4,ZDB-GENE-061027-393,ZDB-GENE-080930-1,ZDB-GENE-070822-12,ZDB-GENE-030131-271 |
+| Xenopus |  | [100485637](https://www.ncbi.nlm.nih.gov/gene/100485637) |  |  |
+| Zebrafish |  | [100329813](https://www.ncbi.nlm.nih.gov/gene/100329813) |  |  |
 

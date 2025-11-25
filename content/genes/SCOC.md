@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422446
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001114852
-gene_id: '451451'
+gene_id: '422446'
 gene_type: protein-coding
 images:
 - caption: SCOC expression
@@ -52,37 +52,23 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/papanayotou.bert.fig10.allimages
 name: short coiled-coil protein
-ncbi_id: '451451'
+ncbi_id: '422446'
 orthologs:
 - ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000153130
-  entrez: '60592'
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000063253
-  entrez: '56367'
-  mod: MGI:1927654
+  entrez: '100039350'
+  mod: MGI:3704226
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100494794,733176
-  mod: '949186'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000087333
-  entrez: 100329577,562638,791709
-  mod: ZFIN:ZDB-GENE-061013-114,ZFIN:ZDB-GENE-041010-41
-  phenotypes: ZDB-GENE-061013-114,ZDB-GENE-041010-41
+- ensembl: ENSDARG00000002217
+  entrez: '791709'
+  mod: ZFIN:ZDB-GENE-041010-41
+  phenotypes: positive regulation of macroautophagy, regulation of protein complex
+    stability
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451451
+  url: https://www.ncbi.nlm.nih.gov/gene/422446
 species: Gallus gallus
 symbol: SCOC
 title: SCOC
@@ -108,9 +94,6 @@ title: SCOC
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000153130](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000153130) | [60592](https://www.ncbi.nlm.nih.gov/gene/60592) |  |  |
-| Mouse | [ENSMUSG00000063253](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000063253) | [56367](https://www.ncbi.nlm.nih.gov/gene/56367) | [MGI:1927654](http://www.informatics.jax.org/marker/MGI:1927654) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100494794](https://www.ncbi.nlm.nih.gov/gene/100494794), [733176](https://www.ncbi.nlm.nih.gov/gene/733176) | [949186](http://www.xenbase.org/gene/showgene.do?method=display&geneId=949186) |  |
-| Zebrafish | [ENSDARG00000087333](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000087333) | [100329577](https://www.ncbi.nlm.nih.gov/gene/100329577), [562638](https://www.ncbi.nlm.nih.gov/gene/562638), [791709](https://www.ncbi.nlm.nih.gov/gene/791709) | [ZFIN:ZDB-GENE-061013-114](https://zfin.org/ZDB-GENE-061013-114), [ZFIN:ZDB-GENE-041010-41](https://zfin.org/ZDB-GENE-041010-41) | ZDB-GENE-061013-114,ZDB-GENE-041010-41 |
+| Mouse |  | [100039350](https://www.ncbi.nlm.nih.gov/gene/100039350) | [MGI:3704226](http://www.informatics.jax.org/marker/MGI:3704226) | All phenotypic alleles (1):Targeted, other(1) |
+| Zebrafish | [ENSDARG00000002217](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002217) | [791709](https://www.ncbi.nlm.nih.gov/gene/791709) | [ZFIN:ZDB-GENE-041010-41](https://zfin.org/ZDB-GENE-041010-41) | positive regulation of macroautophagy, regulation of protein complex stability |
 

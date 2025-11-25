@@ -8,7 +8,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018315
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NC_006098
-gene_id: '467966'
+gene_id: '777804'
 gene_type: miscRNA
 images:
 - caption: MIR216A expression
@@ -26,7 +26,7 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/216.40.24.jpg
 name: microRNA 216a
-ncbi_id: '467966'
+ncbi_id: '777804'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -56,10 +56,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467966
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777804
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467966
+  url: https://www.ncbi.nlm.nih.gov/gene/777804
 species: Gallus gallus
 symbol: MIR216A
 title: MIR216A

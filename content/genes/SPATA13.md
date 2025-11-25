@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418940
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417134
 forward_primer: TCCACCTCAAACCTTACCGACC
-gene_id: '451689'
+gene_id: '418940'
 gene_type: protein-coding
 images:
 - caption: SPATA13 expression
@@ -165,13 +165,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R399.SPATA13.26b.002.jpg
 name: spermatogenesis associated 13
-ncbi_id: '451689'
+ncbi_id: '418940'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000182957
   entrez: '221178'
   mod: MIM:613324
@@ -182,24 +177,24 @@ orthologs:
   mod: MGI:104838
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000009707
   entrez: '100485539'
-  mod: '991807'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000062837
   entrez: '568426'
   mod: ZFIN:ZDB-GENE-091116-25
-  phenotypes: ZDB-GENE-091116-25
+  phenotypes: filopodium assembly, lamellipodium assembly
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGGATGGGGACTTCTTCCAATG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451689
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418940
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451689
+  url: https://www.ncbi.nlm.nih.gov/gene/418940
 species: Gallus gallus
 symbol: SPATA13
 template_length: '916'
@@ -221,9 +216,8 @@ title: SPATA13
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000182957](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000182957) | [221178](https://www.ncbi.nlm.nih.gov/gene/221178) | [MIM:613324](https://omim.org/entry/613324) |  |
 | Mouse | [ENSMUSG00000021990](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021990) | [219140](https://www.ncbi.nlm.nih.gov/gene/219140) | [MGI:104838](http://www.informatics.jax.org/marker/MGI:104838) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100485539](https://www.ncbi.nlm.nih.gov/gene/100485539) | [991807](http://www.xenbase.org/gene/showgene.do?method=display&geneId=991807) |  |
-| Zebrafish | [ENSDARG00000062837](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062837) | [568426](https://www.ncbi.nlm.nih.gov/gene/568426) | [ZFIN:ZDB-GENE-091116-25](https://zfin.org/ZDB-GENE-091116-25) | ZDB-GENE-091116-25 |
+| Xenopus | [ENSXETG00000009707](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009707) | [100485539](https://www.ncbi.nlm.nih.gov/gene/100485539) |  |  |
+| Zebrafish | [ENSDARG00000062837](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062837) | [568426](https://www.ncbi.nlm.nih.gov/gene/568426) | [ZFIN:ZDB-GENE-091116-25](https://zfin.org/ZDB-GENE-091116-25) | filopodium assembly, lamellipodium assembly |
 

@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421312
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419377
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/CHGB
-gene_id: '457208'
+gene_id: '421312'
 gene_type: protein-coding
 images:
 - caption: CHGB expression
@@ -62,13 +62,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/4xa10.114.2.22.jpg
 name: chromogranin B
-ncbi_id: '457208'
+ncbi_id: '421312'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000089199
   entrez: '1114'
   mod: MIM:118920
@@ -79,23 +74,13 @@ orthologs:
   mod: MGI:88395
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: '100145188'
-  mod: '962992'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000076500
-  entrez: '792853'
-  mod: ZFIN:ZDB-GENE-070705-268
-  phenotypes: ZDB-GENE-070705-268
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457208
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421312
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457208
+  url: https://www.ncbi.nlm.nih.gov/gene/421312
 species: Gallus gallus
 symbol: CHGB
 title: CHGB
@@ -119,9 +104,6 @@ title: CHGB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000089199](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000089199) | [1114](https://www.ncbi.nlm.nih.gov/gene/1114) | [MIM:118920](https://omim.org/entry/118920) |  |
 | Mouse | [ENSMUSG00000027350](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027350) | [12653](https://www.ncbi.nlm.nih.gov/gene/12653) | [MGI:88395](http://www.informatics.jax.org/marker/MGI:88395) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100145188](https://www.ncbi.nlm.nih.gov/gene/100145188) | [962992](http://www.xenbase.org/gene/showgene.do?method=display&geneId=962992) |  |
-| Zebrafish | [ENSDARG00000076500](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076500) | [792853](https://www.ncbi.nlm.nih.gov/gene/792853) | [ZFIN:ZDB-GENE-070705-268](https://zfin.org/ZDB-GENE-070705-268) | ZDB-GENE-070705-268 |
 

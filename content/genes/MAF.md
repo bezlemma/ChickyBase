@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:693248
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001044671
-gene_id: '453625'
+gene_id: '693248'
 gene_type: protein-coding
 images:
 - caption: MAF expression
@@ -289,38 +289,18 @@ images:
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CMAF.HH24.Reza.2007.f1.cmaf.png
 name: MAF bZIP transcription factor
-ncbi_id: '453625'
+ncbi_id: '693248'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000178573
-  entrez: '4094'
-  mod: MIM:177075
-  phenotypes: MIM:610202
-  species: Human
-- ensembl: ''
-  entrez: '17132'
-  mod: MGI:96909
-  phenotypes: All phenotypic alleles (5):Chemically induced(1) Radiation induced(1)
-    Targeted, knock-out(1) Targeted, other(2)
-  species: Mouse
-- ensembl: ''
-  entrez: '613051'
-  mod: '6053270'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000015890
   entrez: '114467'
   mod: ZFIN:ZDB-GENE-010605-2
-  phenotypes: ZDB-GENE-010605-2
+  phenotypes: regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453625
+  url: https://www.ncbi.nlm.nih.gov/gene/693248
 species: Gallus gallus
 symbol: MAF
 title: MAF
@@ -349,9 +329,5 @@ title: MAF
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000178573](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000178573) | [4094](https://www.ncbi.nlm.nih.gov/gene/4094) | [MIM:177075](https://omim.org/entry/177075) | MIM:610202 |
-| Mouse |  | [17132](https://www.ncbi.nlm.nih.gov/gene/17132) | [MGI:96909](http://www.informatics.jax.org/marker/MGI:96909) | All phenotypic alleles (5):Chemically induced(1) Radiation induced(1) Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [613051](https://www.ncbi.nlm.nih.gov/gene/613051) | [6053270](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6053270) |  |
-| Zebrafish | [ENSDARG00000015890](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015890) | [114467](https://www.ncbi.nlm.nih.gov/gene/114467) | [ZFIN:ZDB-GENE-010605-2](https://zfin.org/ZDB-GENE-010605-2) | ZDB-GENE-010605-2 |
+| Zebrafish | [ENSDARG00000015890](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015890) | [114467](https://www.ncbi.nlm.nih.gov/gene/114467) | [ZFIN:ZDB-GENE-010605-2](https://zfin.org/ZDB-GENE-010605-2) | regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

@@ -3,14 +3,13 @@ aliases:
 - coiled-coil domain containing 109B
 cgnc_id: '9259'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/422698
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422698
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420651
 forward_primer: 5'-TGCCTACAAGAAGAGAACGCTG-3'
-gene_id: '452183'
+gene_id: '422698'
 gene_type: protein-coding
 images:
 - caption: MCUB expression
@@ -94,16 +93,11 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R625.CCDC109B.S25.001.jpg
 name: mitochondrial calcium uniporter dominant negative beta subunit
-ncbi_id: '452183'
+ncbi_id: '422698'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000005059
   entrez: '55013'
-  mod: ''
+  mod: MIM:620702
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000027994
@@ -111,24 +105,19 @@ orthologs:
   mod: MGI:1914065
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100145024,447698
-  mod: '5744059'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000021086
+  entrez: '100145024'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: 5'-AATTAACCCTCACTAAAGGATGATGTCCCACGAATAGACCC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452183
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422698
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452183
+  url: https://www.ncbi.nlm.nih.gov/gene/422698
 species: Gallus gallus
 symbol: MCUB
 template_length: '520'
@@ -151,9 +140,7 @@ title: MCUB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000005059](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000005059) | [55013](https://www.ncbi.nlm.nih.gov/gene/55013) |  |  |
+| Human | [ENSG00000005059](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000005059) | [55013](https://www.ncbi.nlm.nih.gov/gene/55013) | [MIM:620702](https://omim.org/entry/620702) |  |
 | Mouse | [ENSMUSG00000027994](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027994) | [66815](https://www.ncbi.nlm.nih.gov/gene/66815) | [MGI:1914065](http://www.informatics.jax.org/marker/MGI:1914065) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100145024](https://www.ncbi.nlm.nih.gov/gene/100145024), [447698](https://www.ncbi.nlm.nih.gov/gene/447698) | [5744059](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5744059) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000021086](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021086) | [100145024](https://www.ncbi.nlm.nih.gov/gene/100145024) |  |  |
 

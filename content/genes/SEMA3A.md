@@ -21,7 +21,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004872
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204977
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/SEMA3A
-gene_id: '450043'
+gene_id: '395825'
 gene_type: protein-coding
 images:
 - caption: SEMA3A expression
@@ -303,13 +303,8 @@ images:
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferrario2012.Fig1.L-L'.SEMA3A.E6=STAGE29.jpg
 name: semaphorin 3A
-ncbi_id: '450043'
+ncbi_id: '395825'
 orthologs:
-- ensembl: ''
-  entrez: '36846'
-  mod: FBgn0011260
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000075213
   entrez: '10371'
   mod: MIM:603961
@@ -321,20 +316,21 @@ orthologs:
   phenotypes: All phenotypic alleles (8):Chemically induced(1) Targeted, knock-out(2)
     Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100494110,378645
-  mod: '966368'
+- ensembl: ENSXETG00000014232
+  entrez: '100494110'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000019235,ENSDARG00000042210
-  entrez: 30266,30267
-  mod: ZFIN:ZDB-GENE-991209-3,ZFIN:ZDB-GENE-991209-6
-  phenotypes: ZDB-GENE-991209-3,ZDB-GENE-991209-6
+- ensembl: ENSDARG00000042210
+  entrez: '30267'
+  mod: ZFIN:ZDB-GENE-991209-6
+  phenotypes: axon guidance, branching involved in blood vessel morphogenesis, branching
+    morphogenesis of a nerve, cell differentiation, circulatory system development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450043
+  url: https://www.ncbi.nlm.nih.gov/gene/395825
 species: Gallus gallus
 symbol: SEMA3A
 title: SEMA3A
@@ -366,9 +362,8 @@ title: SEMA3A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36846](https://www.ncbi.nlm.nih.gov/gene/36846) | FBgn0011260 |  |
 | Human | [ENSG00000075213](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000075213) | [10371](https://www.ncbi.nlm.nih.gov/gene/10371) | [MIM:603961](https://omim.org/entry/603961) |  |
 | Mouse | [ENSMUSG00000028883](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028883) | [20346](https://www.ncbi.nlm.nih.gov/gene/20346) | [MGI:107558](http://www.informatics.jax.org/marker/MGI:107558) | All phenotypic alleles (8):Chemically induced(1) Targeted, knock-out(2) Targeted, other(5) |
-| Xenopus |  | [100494110](https://www.ncbi.nlm.nih.gov/gene/100494110), [378645](https://www.ncbi.nlm.nih.gov/gene/378645) | [966368](http://www.xenbase.org/gene/showgene.do?method=display&geneId=966368) |  |
-| Zebrafish | [ENSDARG00000019235](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019235), [ENSDARG00000042210](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042210) | [30266](https://www.ncbi.nlm.nih.gov/gene/30266), [30267](https://www.ncbi.nlm.nih.gov/gene/30267) | [ZFIN:ZDB-GENE-991209-3](https://zfin.org/ZDB-GENE-991209-3), [ZFIN:ZDB-GENE-991209-6](https://zfin.org/ZDB-GENE-991209-6) | ZDB-GENE-991209-3,ZDB-GENE-991209-6 |
+| Xenopus | [ENSXETG00000014232](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014232) | [100494110](https://www.ncbi.nlm.nih.gov/gene/100494110) |  |  |
+| Zebrafish | [ENSDARG00000042210](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042210) | [30267](https://www.ncbi.nlm.nih.gov/gene/30267) | [ZFIN:ZDB-GENE-991209-6](https://zfin.org/ZDB-GENE-991209-6) | axon guidance, branching involved in blood vessel morphogenesis, branching morphogenesis of a nerve, cell differentiation, circulatory system development |
 

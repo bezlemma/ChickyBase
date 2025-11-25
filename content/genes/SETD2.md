@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420404
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418510
   X-XIV: stage XIII
-gene_id: '456542'
+gene_id: '420404'
 gene_type: protein-coding
 images:
 - caption: SETD2 expression
@@ -50,13 +50,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SETD2.Trevers.2023-Fig7-3-N.jpg
 name: SET domain containing 2
-ncbi_id: '456542'
+ncbi_id: '420404'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000181555
   entrez: '29072'
   mod: MIM:612778
@@ -67,23 +62,24 @@ orthologs:
   mod: MGI:1918177
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000023876
   entrez: '100492810'
-  mod: '995487'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000062244
   entrez: '794199'
   mod: ZFIN:ZDB-GENE-030131-2140
-  phenotypes: ZDB-GENE-030131-2140
+  phenotypes: chromatin organization, methylation, regulation of DNA-templated transcription,
+    regulation of gene expression
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456542
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420404
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456542
+  url: https://www.ncbi.nlm.nih.gov/gene/420404
 species: Gallus gallus
 symbol: SETD2
 title: SETD2
@@ -107,9 +103,8 @@ title: SETD2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000181555](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000181555) | [29072](https://www.ncbi.nlm.nih.gov/gene/29072) | [MIM:612778](https://omim.org/entry/612778) |  |
 | Mouse | [ENSMUSG00000044791](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000044791) | [235626](https://www.ncbi.nlm.nih.gov/gene/235626) | [MGI:1918177](http://www.informatics.jax.org/marker/MGI:1918177) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100492810](https://www.ncbi.nlm.nih.gov/gene/100492810) | [995487](http://www.xenbase.org/gene/showgene.do?method=display&geneId=995487) |  |
-| Zebrafish | [ENSDARG00000062244](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062244) | [794199](https://www.ncbi.nlm.nih.gov/gene/794199) | [ZFIN:ZDB-GENE-030131-2140](https://zfin.org/ZDB-GENE-030131-2140) | ZDB-GENE-030131-2140 |
+| Xenopus | [ENSXETG00000023876](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023876) | [100492810](https://www.ncbi.nlm.nih.gov/gene/100492810) |  |  |
+| Zebrafish | [ENSDARG00000062244](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062244) | [794199](https://www.ncbi.nlm.nih.gov/gene/794199) | [ZFIN:ZDB-GENE-030131-2140](https://zfin.org/ZDB-GENE-030131-2140) | chromatin organization, methylation, regulation of DNA-templated transcription, regulation of gene expression |
 

@@ -14,7 +14,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416752
 forward_primer: 5'-AAAGCCCTGTCCCACATCAG-3'
-gene_id: '453321'
+gene_id: '418545'
 gene_type: protein-coding
 images:
 - caption: CBS expression
@@ -148,16 +148,11 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R622.CBS.S27.001.jpg
 name: cystathionine-beta-synthase
-ncbi_id: '453321'
+ncbi_id: '418545'
 orthologs:
-- ensembl: ''
-  entrez: '33081'
-  mod: FBgn0031148
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000160200
-  entrez: '875'
-  mod: MIM:613381
+- ensembl: ENSG00000274276
+  entrez: '102724560'
+  mod: ''
   phenotypes: MIM:236200
   species: Human
 - ensembl: ENSMUSG00000024039
@@ -165,24 +160,26 @@ orthologs:
   mod: MGI:88285
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 493533,446655,380308
-  mod: '5754722'
+- ensembl: ENSXETG00000047466
+  entrez: '493533'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000053500,ENSDARG00000010946
-  entrez: 550524,266987
-  mod: ZFIN:ZDB-GENE-050417-367,ZFIN:ZDB-GENE-021030-3
-  phenotypes: ZDB-GENE-050417-367,ZDB-GENE-021030-3
+- ensembl: ENSDARG00000053500
+  entrez: '550524'
+  mod: ZFIN:ZDB-GENE-050417-367
+  phenotypes: amino acid biosynthetic process, cysteine biosynthetic process, cysteine
+    biosynthetic process from serine, cysteine biosynthetic process via cystathionine,
+    cysteine metabolic process
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGAGGTTCTGCTAAGACTTGCCC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453321
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418545
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453321
+  url: https://www.ncbi.nlm.nih.gov/gene/418545
 species: Gallus gallus
 symbol: CBS
 template_length: '906'
@@ -210,9 +207,8 @@ title: CBS
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33081](https://www.ncbi.nlm.nih.gov/gene/33081) | FBgn0031148 |  |
-| Human | [ENSG00000160200](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000160200) | [875](https://www.ncbi.nlm.nih.gov/gene/875) | [MIM:613381](https://omim.org/entry/613381) | MIM:236200 |
+| Human | [ENSG00000274276](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000274276) | [102724560](https://www.ncbi.nlm.nih.gov/gene/102724560) |  | MIM:236200 |
 | Mouse | [ENSMUSG00000024039](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024039) | [12411](https://www.ncbi.nlm.nih.gov/gene/12411) | [MGI:88285](http://www.informatics.jax.org/marker/MGI:88285) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [493533](https://www.ncbi.nlm.nih.gov/gene/493533), [446655](https://www.ncbi.nlm.nih.gov/gene/446655), [380308](https://www.ncbi.nlm.nih.gov/gene/380308) | [5754722](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5754722) |  |
-| Zebrafish | [ENSDARG00000053500](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053500), [ENSDARG00000010946](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010946) | [550524](https://www.ncbi.nlm.nih.gov/gene/550524), [266987](https://www.ncbi.nlm.nih.gov/gene/266987) | [ZFIN:ZDB-GENE-050417-367](https://zfin.org/ZDB-GENE-050417-367), [ZFIN:ZDB-GENE-021030-3](https://zfin.org/ZDB-GENE-021030-3) | ZDB-GENE-050417-367,ZDB-GENE-021030-3 |
+| Xenopus | [ENSXETG00000047466](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000047466) | [493533](https://www.ncbi.nlm.nih.gov/gene/493533) |  |  |
+| Zebrafish | [ENSDARG00000053500](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053500) | [550524](https://www.ncbi.nlm.nih.gov/gene/550524) | [ZFIN:ZDB-GENE-050417-367](https://zfin.org/ZDB-GENE-050417-367) | amino acid biosynthetic process, cysteine biosynthetic process, cysteine biosynthetic process from serine, cysteine biosynthetic process via cystathionine, cysteine metabolic process |
 

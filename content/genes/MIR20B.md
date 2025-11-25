@@ -10,7 +10,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000021725
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NC_006091
-gene_id: '467962'
+gene_id: '777891'
 gene_type: miscRNA
 images:
 - caption: MIR20B expression
@@ -105,7 +105,7 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/20b.21.st23.jpg
 name: microRNA 20b
-ncbi_id: '467962'
+ncbi_id: '777891'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -135,7 +135,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467962
+  url: https://www.ncbi.nlm.nih.gov/gene/777891
 species: Gallus gallus
 symbol: MIR20B
 title: MIR20B

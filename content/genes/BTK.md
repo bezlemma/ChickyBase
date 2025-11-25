@@ -13,7 +13,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204233
 forward_primer: CAGCAACTATGTCACCGCAACC
-gene_id: '454428'
+gene_id: '374075'
 gene_type: protein-coding
 images:
 - caption: BTK expression
@@ -108,13 +108,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R556.BTK.S26aaa.001.jpg
 name: Bruton tyrosine kinase
-ncbi_id: '454428'
+ncbi_id: '374075'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000010671
   entrez: '695'
   mod: MIM:300300
@@ -126,24 +121,26 @@ orthologs:
   phenotypes: All phenotypic alleles (6):Spontaneous(1) Chemically induced(1) Targeted,
     knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000018152
   entrez: '100170477'
-  mod: '6451229'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000004433
   entrez: '568653'
   mod: ZFIN:ZDB-GENE-070531-1
-  phenotypes: ZDB-GENE-070531-1
+  phenotypes: B cell receptor signaling pathway, T cell receptor signaling pathway,
+    adaptive immune response, anterior/posterior pattern specification, intracellular
+    signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCGAGACTTTCACAATCCCTTGGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454428
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374075
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454428
+  url: https://www.ncbi.nlm.nih.gov/gene/374075
 species: Gallus gallus
 symbol: BTK
 template_length: '823'
@@ -169,9 +166,8 @@ title: BTK
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000010671](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000010671) | [695](https://www.ncbi.nlm.nih.gov/gene/695) | [MIM:300300](https://omim.org/entry/300300) | MIM:307200 |
 | Mouse | [ENSMUSG00000031264](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031264) | [12229](https://www.ncbi.nlm.nih.gov/gene/12229) | [MGI:88216](http://www.informatics.jax.org/marker/MGI:88216) | All phenotypic alleles (6):Spontaneous(1) Chemically induced(1) Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100170477](https://www.ncbi.nlm.nih.gov/gene/100170477) | [6451229](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6451229) |  |
-| Zebrafish | [ENSDARG00000004433](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004433) | [568653](https://www.ncbi.nlm.nih.gov/gene/568653) | [ZFIN:ZDB-GENE-070531-1](https://zfin.org/ZDB-GENE-070531-1) | ZDB-GENE-070531-1 |
+| Xenopus | [ENSXETG00000018152](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018152) | [100170477](https://www.ncbi.nlm.nih.gov/gene/100170477) |  |  |
+| Zebrafish | [ENSDARG00000004433](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004433) | [568653](https://www.ncbi.nlm.nih.gov/gene/568653) | [ZFIN:ZDB-GENE-070531-1](https://zfin.org/ZDB-GENE-070531-1) | B cell receptor signaling pathway, T cell receptor signaling pathway, adaptive immune response, anterior/posterior pattern specification, intracellular signal transduction |
 

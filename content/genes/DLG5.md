@@ -4,13 +4,12 @@ aliases:
 - discs large homolog 5
 cgnc_id: '3697'
 external_ids:
-  '25': stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/423728
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423728
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421604
 forward_primer: TTGTTGCTGCTGTTGTGCC
-gene_id: '450887'
+gene_id: '423728'
 gene_type: protein-coding
 images:
 - caption: DLG5 expression
@@ -132,14 +131,9 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R391.DLG5.S25.002.jpg
 name: discs large MAGUK scaffold protein 5
-ncbi_id: '450887'
+ncbi_id: '423728'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000151208
+- ensembl: ENSG00000274429
   entrez: '9231'
   mod: MIM:604090
   phenotypes: MIM:266600
@@ -149,24 +143,24 @@ orthologs:
   mod: MGI:1918478
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000018090
   entrez: '779611'
-  mod: '978274'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000074059
   entrez: '569065'
-  mod: ZFIN:ZDB-GENE-030131-3149,ZFIN:ZDB-GENE-120206-4,ZFIN:ZDB-GENE-130530-774,ZFIN:ZDB-GENE-130919-1
-  phenotypes: ZDB-GENE-030131-3149,ZDB-GENE-120206-4,ZDB-GENE-130530-774,ZDB-GENE-130919-1
+  mod: ZFIN:ZDB-GENE-030131-3149
+  phenotypes: negative regulation of hippo signaling, regulation of apoptotic process
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGAGTCACTTCTCTTCGGAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450887
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423728
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450887
+  url: https://www.ncbi.nlm.nih.gov/gene/423728
 species: Gallus gallus
 symbol: DLG5
 template_length: '854'
@@ -188,9 +182,8 @@ title: DLG5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000151208](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000151208) | [9231](https://www.ncbi.nlm.nih.gov/gene/9231) | [MIM:604090](https://omim.org/entry/604090) | MIM:266600 |
+| Human | [ENSG00000274429](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000274429) | [9231](https://www.ncbi.nlm.nih.gov/gene/9231) | [MIM:604090](https://omim.org/entry/604090) | MIM:266600 |
 | Mouse | [ENSMUSG00000021782](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021782) | [71228](https://www.ncbi.nlm.nih.gov/gene/71228) | [MGI:1918478](http://www.informatics.jax.org/marker/MGI:1918478) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [779611](https://www.ncbi.nlm.nih.gov/gene/779611) | [978274](http://www.xenbase.org/gene/showgene.do?method=display&geneId=978274) |  |
-| Zebrafish | [ENSDARG00000074059](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074059) | [569065](https://www.ncbi.nlm.nih.gov/gene/569065) | [ZFIN:ZDB-GENE-030131-3149](https://zfin.org/ZDB-GENE-030131-3149), [ZFIN:ZDB-GENE-120206-4](https://zfin.org/ZDB-GENE-120206-4), [ZFIN:ZDB-GENE-130530-774](https://zfin.org/ZDB-GENE-130530-774), [ZFIN:ZDB-GENE-130919-1](https://zfin.org/ZDB-GENE-130919-1) | ZDB-GENE-030131-3149,ZDB-GENE-120206-4,ZDB-GENE-130530-774,ZDB-GENE-130919-1 |
+| Xenopus | [ENSXETG00000018090](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018090) | [779611](https://www.ncbi.nlm.nih.gov/gene/779611) |  |  |
+| Zebrafish | [ENSDARG00000074059](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074059) | [569065](https://www.ncbi.nlm.nih.gov/gene/569065) | [ZFIN:ZDB-GENE-030131-3149](https://zfin.org/ZDB-GENE-030131-3149) | negative regulation of hippo signaling, regulation of apoptotic process |
 

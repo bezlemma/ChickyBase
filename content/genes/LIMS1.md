@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:414880
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001766
-gene_id: '460562'
+gene_id: '414880'
 gene_type: protein-coding
 images:
 - caption: LIMS1 expression
@@ -289,7 +289,7 @@ images:
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PINCH-1.imageO.jpg
 name: LIM zinc finger domain containing 1
-ncbi_id: '460562'
+ncbi_id: '414880'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -314,15 +314,15 @@ orthologs:
 - ensembl: ENSDARG00000026985
   entrez: '554019'
   mod: ZFIN:ZDB-GENE-050522-236
-  phenotypes: ZDB-GENE-050522-236
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460562
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=414880
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460562
+  url: https://www.ncbi.nlm.nih.gov/gene/414880
 species: Gallus gallus
 symbol: LIMS1
 title: LIMS1
@@ -352,5 +352,5 @@ title: LIMS1
 | Human | [ENSG00000169756](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169756) | [3987](https://www.ncbi.nlm.nih.gov/gene/3987) | [MIM:602567](https://omim.org/entry/602567) |  |
 | Mouse |  |  |  |  |
 | Xenopus |  | [100216119](https://www.ncbi.nlm.nih.gov/gene/100216119), [432196](https://www.ncbi.nlm.nih.gov/gene/432196), [444502](https://www.ncbi.nlm.nih.gov/gene/444502) | [967922](http://www.xenbase.org/gene/showgene.do?method=display&geneId=967922) |  |
-| Zebrafish | [ENSDARG00000026985](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026985) | [554019](https://www.ncbi.nlm.nih.gov/gene/554019) | [ZFIN:ZDB-GENE-050522-236](https://zfin.org/ZDB-GENE-050522-236) | ZDB-GENE-050522-236 |
+| Zebrafish | [ENSDARG00000026985](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026985) | [554019](https://www.ncbi.nlm.nih.gov/gene/554019) | [ZFIN:ZDB-GENE-050522-236](https://zfin.org/ZDB-GENE-050522-236) |  |
 

@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422733
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0000175
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006454
-gene_id: '451766'
+gene_id: '422733'
 gene_type: protein-coding
 images:
 - caption: CNOT7 expression
@@ -56,13 +56,8 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3xh4.117.3.21.jpg
 name: CCR4-NOT transcription complex subunit 7
-ncbi_id: '451766'
+ncbi_id: '422733'
 orthologs:
-- ensembl: ''
-  entrez: '39366'
-  mod: FBgn0036239
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000198791
   entrez: '29883'
   mod: MIM:604913
@@ -73,23 +68,26 @@ orthologs:
   mod: MGI:1298230
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100124970,734751
-  mod: '969323'
+- ensembl: ENSXETG00000000701
+  entrez: '100124970'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000032116
   entrez: '768119'
   mod: ZFIN:ZDB-GENE-061013-29
-  phenotypes: ZDB-GENE-061013-29
+  phenotypes: mRNA catabolic process, miRNA-mediated gene silencing by mRNA destabilization,
+    negative regulation of cell population proliferation, nuclear-transcribed mRNA
+    catabolic process, deadenylation-dependent decay, positive regulation of cell
+    population proliferation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451766
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422733
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451766
+  url: https://www.ncbi.nlm.nih.gov/gene/422733
 species: Gallus gallus
 symbol: CNOT7
 title: CNOT7
@@ -117,9 +115,8 @@ title: CNOT7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39366](https://www.ncbi.nlm.nih.gov/gene/39366) | FBgn0036239 |  |
 | Human | [ENSG00000198791](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198791) | [29883](https://www.ncbi.nlm.nih.gov/gene/29883) | [MIM:604913](https://omim.org/entry/604913) |  |
 | Mouse | [ENSMUSG00000031601](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031601) | [18983](https://www.ncbi.nlm.nih.gov/gene/18983) | [MGI:1298230](http://www.informatics.jax.org/marker/MGI:1298230) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100124970](https://www.ncbi.nlm.nih.gov/gene/100124970), [734751](https://www.ncbi.nlm.nih.gov/gene/734751) | [969323](http://www.xenbase.org/gene/showgene.do?method=display&geneId=969323) |  |
-| Zebrafish | [ENSDARG00000032116](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032116) | [768119](https://www.ncbi.nlm.nih.gov/gene/768119) | [ZFIN:ZDB-GENE-061013-29](https://zfin.org/ZDB-GENE-061013-29) | ZDB-GENE-061013-29 |
+| Xenopus | [ENSXETG00000000701](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000701) | [100124970](https://www.ncbi.nlm.nih.gov/gene/100124970) |  |  |
+| Zebrafish | [ENSDARG00000032116](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032116) | [768119](https://www.ncbi.nlm.nih.gov/gene/768119) | [ZFIN:ZDB-GENE-061013-29](https://zfin.org/ZDB-GENE-061013-29) | mRNA catabolic process, miRNA-mediated gene silencing by mRNA destabilization, negative regulation of cell population proliferation, nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay, positive regulation of cell population proliferation |
 

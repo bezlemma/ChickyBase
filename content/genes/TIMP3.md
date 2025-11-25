@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396483
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0046872
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205487
-gene_id: '461122'
+gene_id: '396483'
 gene_type: protein-coding
 images:
 - caption: TIMP3 expression
@@ -105,13 +105,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TIMP3.Anderson.2019.Fig3.jpg
 name: TIMP metallopeptidase inhibitor 3
-ncbi_id: '461122'
+ncbi_id: '396483'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100234
   entrez: '7078'
   mod: MIM:188826
@@ -122,20 +117,15 @@ orthologs:
   mod: MGI:98754
   phenotypes: All phenotypic alleles (9):Targeted, knock-out(4) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100489929,373596
-  mod: '482399'
+- ensembl: ENSXETG00000046604
+  entrez: '100489929'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ZFIN:ZDB-GENE-070824-3
-  phenotypes: ZDB-GENE-070824-3
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461122
+  url: https://www.ncbi.nlm.nih.gov/gene/396483
 species: Gallus gallus
 symbol: TIMP3
 title: TIMP3
@@ -163,9 +153,7 @@ title: TIMP3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000100234](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100234) | [7078](https://www.ncbi.nlm.nih.gov/gene/7078) | [MIM:188826](https://omim.org/entry/188826) | MIM:136900 |
 | Mouse | [ENSMUSG00000020044](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020044) | [21859](https://www.ncbi.nlm.nih.gov/gene/21859) | [MGI:98754](http://www.informatics.jax.org/marker/MGI:98754) | All phenotypic alleles (9):Targeted, knock-out(4) Targeted, other(5) |
-| Xenopus |  | [100489929](https://www.ncbi.nlm.nih.gov/gene/100489929), [373596](https://www.ncbi.nlm.nih.gov/gene/373596) | [482399](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482399) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-070824-3](https://zfin.org/ZDB-GENE-070824-3) | ZDB-GENE-070824-3 |
+| Xenopus | [ENSXETG00000046604](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000046604) | [100489929](https://www.ncbi.nlm.nih.gov/gene/100489929) |  |  |
 

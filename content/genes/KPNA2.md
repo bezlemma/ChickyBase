@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417420
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006209
 forward_primer: 5'-CAGAAATGAGAAGGCGGCG-3'
-gene_id: '453224'
+gene_id: '417420'
 gene_type: protein-coding
 images:
 - caption: KPNA2 expression
@@ -133,41 +133,38 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R727.KPNA2.S26.001.jpg
 name: karyopherin subunit alpha 2
-ncbi_id: '453224'
+ncbi_id: '417420'
 orthologs:
-- ensembl: ''
-  entrez: '34338'
-  mod: FBgn0011823
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000182481
   entrez: '3838'
   mod: MIM:600685
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000018362
-  entrez: 16647,100039592,100043906
-  mod: MGI:103561,MGI:3704211,MGI:3704480
+  entrez: '16647'
+  mod: MGI:103561
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 493517,380125
-  mod: '979795'
+- ensembl: ENSXETG00000001594
+  entrez: '493517'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000038066
   entrez: '436607'
   mod: ZFIN:ZDB-GENE-040718-22
-  phenotypes: ZDB-GENE-040718-22
+  phenotypes: NLS-bearing protein import into nucleus, animal organ development, entry
+    of viral genome into host nucleus through nuclear pore complex via importin, positive
+    regulation of viral life cycle, protein import into nucleus
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGGCAGTTCACCACATCCC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453224
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417420
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453224
+  url: https://www.ncbi.nlm.nih.gov/gene/417420
 species: Gallus gallus
 symbol: KPNA2
 template_length: '851'
@@ -192,9 +189,8 @@ title: KPNA2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34338](https://www.ncbi.nlm.nih.gov/gene/34338) | FBgn0011823 |  |
 | Human | [ENSG00000182481](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000182481) | [3838](https://www.ncbi.nlm.nih.gov/gene/3838) | [MIM:600685](https://omim.org/entry/600685) |  |
-| Mouse | [ENSMUSG00000018362](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018362) | [16647](https://www.ncbi.nlm.nih.gov/gene/16647), [100039592](https://www.ncbi.nlm.nih.gov/gene/100039592), [100043906](https://www.ncbi.nlm.nih.gov/gene/100043906) | [MGI:103561](http://www.informatics.jax.org/marker/MGI:103561), [MGI:3704211](http://www.informatics.jax.org/marker/MGI:3704211), [MGI:3704480](http://www.informatics.jax.org/marker/MGI:3704480) |  |
-| Xenopus |  | [493517](https://www.ncbi.nlm.nih.gov/gene/493517), [380125](https://www.ncbi.nlm.nih.gov/gene/380125) | [979795](http://www.xenbase.org/gene/showgene.do?method=display&geneId=979795) |  |
-| Zebrafish | [ENSDARG00000038066](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038066) | [436607](https://www.ncbi.nlm.nih.gov/gene/436607) | [ZFIN:ZDB-GENE-040718-22](https://zfin.org/ZDB-GENE-040718-22) | ZDB-GENE-040718-22 |
+| Mouse | [ENSMUSG00000018362](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018362) | [16647](https://www.ncbi.nlm.nih.gov/gene/16647) | [MGI:103561](http://www.informatics.jax.org/marker/MGI:103561) |  |
+| Xenopus | [ENSXETG00000001594](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001594) | [493517](https://www.ncbi.nlm.nih.gov/gene/493517) |  |  |
+| Zebrafish | [ENSDARG00000038066](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038066) | [436607](https://www.ncbi.nlm.nih.gov/gene/436607) | [ZFIN:ZDB-GENE-040718-22](https://zfin.org/ZDB-GENE-040718-22) | NLS-bearing protein import into nucleus, animal organ development, entry of viral genome into host nucleus through nuclear pore complex via importin, positive regulation of viral life cycle, protein import into nucleus |
 

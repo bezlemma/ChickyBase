@@ -6,7 +6,6 @@ aliases:
 - EPH-like kinase 9
 cgnc_id: '50733'
 external_ids:
-  '25': stage 25
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005887
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Santiago+2002+
     Ephrin-B + Erickson
@@ -21,7 +20,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004387
 forward_primer: CACAGGACCGACTGCCACTTATTG
-gene_id: '456609'
+gene_id: '418308'
 gene_type: protein-coding
 images:
 - caption: EPHB6 expression
@@ -150,7 +149,7 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Santiago.Fig3_all_images-4.jpg
 name: EPH receptor B6
-ncbi_id: '456609'
+ncbi_id: '418308'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -175,16 +174,16 @@ orthologs:
 - ensembl: ENSDARG00000057729
   entrez: '572411'
   mod: ZFIN:ZDB-GENE-100922-51
-  phenotypes: ZDB-GENE-100922-51
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGCTGGAGGAGGTGAACTTGCGATAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456609
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418308
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456609
+  url: https://www.ncbi.nlm.nih.gov/gene/418308
 species: Gallus gallus
 symbol: EPHB6
 template_length: '805'
@@ -217,5 +216,5 @@ title: EPHB6
 | Human | [ENSG00000106123](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000106123) | [2051](https://www.ncbi.nlm.nih.gov/gene/2051) | [MIM:602757](https://omim.org/entry/602757) |  |
 | Mouse | [ENSMUSG00000029869](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029869) | [13848](https://www.ncbi.nlm.nih.gov/gene/13848) | [MGI:1096338](http://www.informatics.jax.org/marker/MGI:1096338) | All phenotypic alleles (7):Targeted, knock-out(4) Targeted, other(3) |
 | Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000057729](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057729) | [572411](https://www.ncbi.nlm.nih.gov/gene/572411) | [ZFIN:ZDB-GENE-100922-51](https://zfin.org/ZDB-GENE-100922-51) | ZDB-GENE-100922-51 |
+| Zebrafish | [ENSDARG00000057729](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057729) | [572411](https://www.ncbi.nlm.nih.gov/gene/572411) | [ZFIN:ZDB-GENE-100922-51](https://zfin.org/ZDB-GENE-100922-51) |  |
 

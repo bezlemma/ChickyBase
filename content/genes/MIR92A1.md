@@ -8,7 +8,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018248
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006088.3?report=genbank&from=147253128&to=147253205&strand=true
-gene_id: '468026'
+gene_id: '777933'
 gene_type: miscRNA
 images:
 - caption: MIR92A1 expression
@@ -47,7 +47,7 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/92.42.22z.jpg
 name: microRNA 92a-1
-ncbi_id: '468026'
+ncbi_id: '777933'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -77,10 +77,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468026
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777933
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468026
+  url: https://www.ncbi.nlm.nih.gov/gene/777933
 species: Gallus gallus
 symbol: MIR92A1
 title: MIR92A1

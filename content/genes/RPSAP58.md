@@ -147,7 +147,7 @@ orthologs:
 - ensembl: ''
   entrez: '394027'
   mod: ZFIN:ZDB-GENE-040426-811
-  phenotypes: ZDB-GENE-040426-811
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -187,5 +187,5 @@ title: RPSAP58
 | Human | [ENSG00000168028](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000168028) | [3921](https://www.ncbi.nlm.nih.gov/gene/3921) | [MIM:150370](https://omim.org/entry/150370) |  |
 | Mouse | [ENSMUSG00000032518](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032518) | [16785](https://www.ncbi.nlm.nih.gov/gene/16785) | [MGI:105381](http://www.informatics.jax.org/marker/MGI:105381) | All phenotypic alleles (5):Spontaneous(1) Targeted, knock-out(1) Targeted, other(3) |
 | Xenopus |  | [394665](https://www.ncbi.nlm.nih.gov/gene/394665), [380422](https://www.ncbi.nlm.nih.gov/gene/380422) | [972234](http://www.xenbase.org/gene/showgene.do?method=display&geneId=972234) |  |
-| Zebrafish |  | [394027](https://www.ncbi.nlm.nih.gov/gene/394027) | [ZFIN:ZDB-GENE-040426-811](https://zfin.org/ZDB-GENE-040426-811) | ZDB-GENE-040426-811 |
+| Zebrafish |  | [394027](https://www.ncbi.nlm.nih.gov/gene/394027) | [ZFIN:ZDB-GENE-040426-811](https://zfin.org/ZDB-GENE-040426-811) |  |
 

@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420361
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001198662
-gene_id: '457934'
+gene_id: '420361'
 gene_type: protein-coding
 images:
 - caption: ENPP2 expression
@@ -374,13 +374,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Atx.Singh.2016.Fig2.jpg
 name: ectonucleotide pyrophosphatase/phosphodiesterase 2
-ncbi_id: '457934'
+ncbi_id: '420361'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136960
   entrez: '5168'
   mod: MIM:601060
@@ -391,20 +386,21 @@ orthologs:
   mod: MGI:1321390
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 548690,735240
-  mod: '1016185'
+- ensembl: ENSXETG00000003134
+  entrez: '548690'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000011257
-  entrez: 393575,100332039
-  mod: ZFIN:ZDB-GENE-040426-1156,ZFIN:ZDB-GENE-040426-1156
-  phenotypes: ZDB-GENE-040426-1156,ZDB-GENE-040426-1156
+  entrez: '100332039'
+  mod: ZFIN:ZDB-GENE-040426-1156
+  phenotypes: Kupffer's vesicle development, cartilage development, cilium assembly,
+    determination of heart left/right asymmetry, determination of left/right symmetry
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457934
+  url: https://www.ncbi.nlm.nih.gov/gene/420361
 species: Gallus gallus
 symbol: ENPP2
 title: ENPP2
@@ -430,9 +426,8 @@ title: ENPP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000136960](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136960) | [5168](https://www.ncbi.nlm.nih.gov/gene/5168) | [MIM:601060](https://omim.org/entry/601060) |  |
 | Mouse | [ENSMUSG00000022425](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022425) | [18606](https://www.ncbi.nlm.nih.gov/gene/18606) | [MGI:1321390](http://www.informatics.jax.org/marker/MGI:1321390) | All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5) |
-| Xenopus |  | [548690](https://www.ncbi.nlm.nih.gov/gene/548690), [735240](https://www.ncbi.nlm.nih.gov/gene/735240) | [1016185](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1016185) |  |
-| Zebrafish | [ENSDARG00000011257](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011257) | [393575](https://www.ncbi.nlm.nih.gov/gene/393575), [100332039](https://www.ncbi.nlm.nih.gov/gene/100332039) | [ZFIN:ZDB-GENE-040426-1156](https://zfin.org/ZDB-GENE-040426-1156), [ZFIN:ZDB-GENE-040426-1156](https://zfin.org/ZDB-GENE-040426-1156) | ZDB-GENE-040426-1156,ZDB-GENE-040426-1156 |
+| Xenopus | [ENSXETG00000003134](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003134) | [548690](https://www.ncbi.nlm.nih.gov/gene/548690) |  |  |
+| Zebrafish | [ENSDARG00000011257](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011257) | [100332039](https://www.ncbi.nlm.nih.gov/gene/100332039) | [ZFIN:ZDB-GENE-040426-1156](https://zfin.org/ZDB-GENE-040426-1156) | Kupffer's vesicle development, cartilage development, cilium assembly, determination of heart left/right asymmetry, determination of left/right symmetry |
 

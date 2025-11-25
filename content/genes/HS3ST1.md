@@ -7,7 +7,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420786
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/HS3ST1
 forward_primer: CCCATTACCTGCTTGAGTGAAACC
-gene_id: '452770'
+gene_id: '422840'
 gene_type: protein-coding
 images:
 - caption: HS3ST1 expression
@@ -147,14 +147,9 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R470.HS3ST1.S26CC.001.jpg
 name: heparan sulfate-glucosamine 3-sulfotransferase 1
-ncbi_id: '452770'
+ncbi_id: '422840'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000002587
   entrez: '9957'
   mod: MIM:603244
   phenotypes: ''
@@ -164,24 +159,24 @@ orthologs:
   mod: MGI:1201606
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 496940,398971
-  mod: '5855726'
+- ensembl: ENSXETG00000006969
+  entrez: '496940'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000012249
+- ensembl: ''
   entrez: '565201'
   mod: ZFIN:ZDB-GENE-070202-1
-  phenotypes: ZDB-GENE-070202-1
+  phenotypes: glycosaminoglycan biosynthetic process
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGACTTGCCACAGATGAGTGCCAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452770
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422840
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452770
+  url: https://www.ncbi.nlm.nih.gov/gene/422840
 species: Gallus gallus
 symbol: HS3ST1
 template_length: '1003'
@@ -204,9 +199,8 @@ title: HS3ST1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [9957](https://www.ncbi.nlm.nih.gov/gene/9957) | [MIM:603244](https://omim.org/entry/603244) |  |
+| Human | [ENSG00000002587](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000002587) | [9957](https://www.ncbi.nlm.nih.gov/gene/9957) | [MIM:603244](https://omim.org/entry/603244) |  |
 | Mouse | [ENSMUSG00000051022](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000051022) | [15476](https://www.ncbi.nlm.nih.gov/gene/15476) | [MGI:1201606](http://www.informatics.jax.org/marker/MGI:1201606) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [496940](https://www.ncbi.nlm.nih.gov/gene/496940), [398971](https://www.ncbi.nlm.nih.gov/gene/398971) | [5855726](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5855726) |  |
-| Zebrafish | [ENSDARG00000012249](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012249) | [565201](https://www.ncbi.nlm.nih.gov/gene/565201) | [ZFIN:ZDB-GENE-070202-1](https://zfin.org/ZDB-GENE-070202-1) | ZDB-GENE-070202-1 |
+| Xenopus | [ENSXETG00000006969](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006969) | [496940](https://www.ncbi.nlm.nih.gov/gene/496940) |  |  |
+| Zebrafish |  | [565201](https://www.ncbi.nlm.nih.gov/gene/565201) | [ZFIN:ZDB-GENE-070202-1](https://zfin.org/ZDB-GENE-070202-1) | glycosaminoglycan biosynthetic process |
 

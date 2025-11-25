@@ -5,7 +5,6 @@ aliases:
 - transcription factor 1, hepatic
 cgnc_id: '5258'
 external_ids:
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0042593
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -15,7 +14,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030668
 forward_primer: 5’-TGCAGCCAGTCCAGTTCTC-3’
-gene_id: '461000'
+gene_id: '416967'
 gene_type: protein-coding
 images:
 - caption: HNF1A expression
@@ -61,13 +60,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R711.HNF1A.S25.001.jpg
 name: HNF1 homeobox A
-ncbi_id: '461000'
+ncbi_id: '416967'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000135100
   entrez: '6927'
   mod: MIM:142410
@@ -78,24 +72,26 @@ orthologs:
   mod: MGI:98504
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100144688,378589,378590
-  mod: '484116'
+- ensembl: ENSXETG00000012278
+  entrez: '100144688'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000009470
   entrez: '266961'
   mod: ZFIN:ZDB-GENE-021206-12
-  phenotypes: ZDB-GENE-021206-12
+  phenotypes: anterior/posterior pattern specification involved in pronephros development,
+    endocrine pancreas development, insulin secretion, liver development, pancreas
+    development
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGATCAGCGCCGGTATCACTG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461000
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416967
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461000
+  url: https://www.ncbi.nlm.nih.gov/gene/416967
 species: Gallus gallus
 symbol: HNF1A
 template_length: '741'
@@ -121,9 +117,8 @@ title: HNF1A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000135100](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135100) | [6927](https://www.ncbi.nlm.nih.gov/gene/6927) | [MIM:142410](https://omim.org/entry/142410) | MIM:222100 |
 | Mouse | [ENSMUSG00000029556](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029556) | [21405](https://www.ncbi.nlm.nih.gov/gene/21405) | [MGI:98504](http://www.informatics.jax.org/marker/MGI:98504) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100144688](https://www.ncbi.nlm.nih.gov/gene/100144688), [378589](https://www.ncbi.nlm.nih.gov/gene/378589), [378590](https://www.ncbi.nlm.nih.gov/gene/378590) | [484116](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484116) |  |
-| Zebrafish | [ENSDARG00000009470](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009470) | [266961](https://www.ncbi.nlm.nih.gov/gene/266961) | [ZFIN:ZDB-GENE-021206-12](https://zfin.org/ZDB-GENE-021206-12) | ZDB-GENE-021206-12 |
+| Xenopus | [ENSXETG00000012278](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012278) | [100144688](https://www.ncbi.nlm.nih.gov/gene/100144688) |  |  |
+| Zebrafish | [ENSDARG00000009470](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009470) | [266961](https://www.ncbi.nlm.nih.gov/gene/266961) | [ZFIN:ZDB-GENE-021206-12](https://zfin.org/ZDB-GENE-021206-12) | anterior/posterior pattern specification involved in pronephros development, endocrine pancreas development, insulin secretion, liver development, pancreas development |
 

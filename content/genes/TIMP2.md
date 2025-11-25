@@ -6,7 +6,6 @@ aliases:
 - tissue inhibitor of metalloproteinases 2
 cgnc_id: '49073'
 external_ids:
-  '1': stage 1stage 1
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005576
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Brauer+2002+TIMPs
   Comments: The complete cDNA template sequence was obtained from the information
@@ -19,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0046872
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204298
 forward_primer: GGAACCCCATCAAGCGAATC
-gene_id: '455097'
+gene_id: '374178'
 gene_type: protein-coding
 images:
 - caption: TIMP2 expression
@@ -193,41 +192,37 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TIMP-2.Brauer.2002.Fig1.jpg
 name: TIMP metallopeptidase inhibitor 2
-ncbi_id: '455097'
+ncbi_id: '374178'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000035862
+  entrez: '7077'
+  mod: MIM:188825
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000017466
+  entrez: '21858'
+  mod: MGI:98753
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000020206
+  entrez: '548477'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000114336
+  entrez: '359835'
+  mod: ZFIN:ZDB-GENE-030612-1
+  phenotypes: negative regulation of membrane protein ectodomain proteolysis, negative
+    regulation of peptidase activity, response to cytokine, response to hormone
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGTCGGCGTGGACCAGTCTAAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455097
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374178
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455097
+  url: https://www.ncbi.nlm.nih.gov/gene/374178
 species: Gallus gallus
 symbol: TIMP2
 template_length: '544'
@@ -256,9 +251,8 @@ title: TIMP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000035862](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000035862) | [7077](https://www.ncbi.nlm.nih.gov/gene/7077) | [MIM:188825](https://omim.org/entry/188825) |  |
+| Mouse | [ENSMUSG00000017466](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000017466) | [21858](https://www.ncbi.nlm.nih.gov/gene/21858) | [MGI:98753](http://www.informatics.jax.org/marker/MGI:98753) |  |
+| Xenopus | [ENSXETG00000020206](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020206) | [548477](https://www.ncbi.nlm.nih.gov/gene/548477) |  |  |
+| Zebrafish | [ENSDARG00000114336](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114336) | [359835](https://www.ncbi.nlm.nih.gov/gene/359835) | [ZFIN:ZDB-GENE-030612-1](https://zfin.org/ZDB-GENE-030612-1) | negative regulation of membrane protein ectodomain proteolysis, negative regulation of peptidase activity, response to cytokine, response to hormone |
 

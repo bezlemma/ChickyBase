@@ -6,7 +6,6 @@ aliases:
 - cell division protein kinase 1
 cgnc_id: '2236'
 external_ids:
-  '25': stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0004106
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006281
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
@@ -28,7 +27,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205314
 forward_primer: 5'-CACCCAACAATGATGTGTGGC-3'
-gene_id: '462342'
+gene_id: '396252'
 gene_type: protein-coding
 images:
 - caption: CDK1 expression
@@ -103,13 +102,8 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2D.2006.jpg
 name: cyclin dependent kinase 1
-ncbi_id: '462342'
+ncbi_id: '396252'
 orthologs:
-- ensembl: ''
-  entrez: '34411'
-  mod: FBgn0004106
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000170312
   entrez: '983'
   mod: MIM:116940
@@ -121,24 +115,25 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(1)
     Gene trapped(2)
   species: Mouse
-- ensembl: ''
-  entrez: 394503,380246,379785
-  mod: '482749'
+- ensembl: ENSXETG00000003123
+  entrez: '394503'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000087554
+- ensembl: ENSDARG00000110840
   entrez: '80973'
   mod: ZFIN:ZDB-GENE-010320-1
-  phenotypes: ZDB-GENE-010320-1
+  phenotypes: G2/M transition of mitotic cell cycle, amacrine cell differentiation,
+    cell division, mitotic G2 DNA damage checkpoint signaling, mitotic S phase
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGGGCAGGCAGGCAAAGATAAAG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462342
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396252
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462342
+  url: https://www.ncbi.nlm.nih.gov/gene/396252
 species: Gallus gallus
 symbol: CDK1
 template_length: '320'
@@ -171,9 +166,8 @@ Copyright © 2006 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34411](https://www.ncbi.nlm.nih.gov/gene/34411) | FBgn0004106 |  |
 | Human | [ENSG00000170312](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170312) | [983](https://www.ncbi.nlm.nih.gov/gene/983) | [MIM:116940](https://omim.org/entry/116940) |  |
 | Mouse | [ENSMUSG00000019942](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019942) | [12534](https://www.ncbi.nlm.nih.gov/gene/12534) | [MGI:88351](http://www.informatics.jax.org/marker/MGI:88351) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(1) Gene trapped(2) |
-| Xenopus |  | [394503](https://www.ncbi.nlm.nih.gov/gene/394503), [380246](https://www.ncbi.nlm.nih.gov/gene/380246), [379785](https://www.ncbi.nlm.nih.gov/gene/379785) | [482749](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482749) |  |
-| Zebrafish | [ENSDARG00000087554](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000087554) | [80973](https://www.ncbi.nlm.nih.gov/gene/80973) | [ZFIN:ZDB-GENE-010320-1](https://zfin.org/ZDB-GENE-010320-1) | ZDB-GENE-010320-1 |
+| Xenopus | [ENSXETG00000003123](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003123) | [394503](https://www.ncbi.nlm.nih.gov/gene/394503) |  |  |
+| Zebrafish | [ENSDARG00000110840](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110840) | [80973](https://www.ncbi.nlm.nih.gov/gene/80973) | [ZFIN:ZDB-GENE-010320-1](https://zfin.org/ZDB-GENE-010320-1) | G2/M transition of mitotic cell cycle, amacrine cell differentiation, cell division, mitotic G2 DNA damage checkpoint signaling, mitotic S phase |
 

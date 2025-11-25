@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:770310
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001233642
 forward_primer: TGGACATCTTCACAGCCTACAACG
-gene_id: '462857'
+gene_id: '770310'
 gene_type: protein-coding
 images:
 - caption: AJAP1 expression
@@ -97,41 +97,36 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R521.AJAP1.S26.001.jpg
 name: adherens junctions associated protein 1
-ncbi_id: '462857'
+ncbi_id: '770310'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000196581
+  entrez: '55966'
+  mod: MIM:610972
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000039546
+  entrez: '230959'
+  mod: MGI:2685419
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000015321
+  entrez: '779816'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000038655
+  entrez: '101887016'
+  mod: ZFIN:ZDB-GENE-041210-353
+  phenotypes: superoxide metabolic process
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCACATCAACTTCATCAGAGGGAGAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462857
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=770310
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462857
+  url: https://www.ncbi.nlm.nih.gov/gene/770310
 species: Gallus gallus
 symbol: AJAP1
 template_length: '981'
@@ -153,9 +148,8 @@ title: AJAP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000196581](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000196581) | [55966](https://www.ncbi.nlm.nih.gov/gene/55966) | [MIM:610972](https://omim.org/entry/610972) |  |
+| Mouse | [ENSMUSG00000039546](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039546) | [230959](https://www.ncbi.nlm.nih.gov/gene/230959) | [MGI:2685419](http://www.informatics.jax.org/marker/MGI:2685419) |  |
+| Xenopus | [ENSXETG00000015321](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015321) | [779816](https://www.ncbi.nlm.nih.gov/gene/779816) |  |  |
+| Zebrafish | [ENSDARG00000038655](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038655) | [101887016](https://www.ncbi.nlm.nih.gov/gene/101887016) | [ZFIN:ZDB-GENE-041210-353](https://zfin.org/ZDB-GENE-041210-353) | superoxide metabolic process |
 

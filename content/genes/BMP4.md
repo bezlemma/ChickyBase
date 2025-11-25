@@ -1,12 +1,6 @@
 ---
 cgnc_id: '49681'
 external_ids:
-  '13': stage 13
-  '19': stage 19stage 19stage 19stage 19
-  '25': stage 25
-  '31': stage 31stage 31
-  '4': stage 4
-  '7': stage 7
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0071729
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005615
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
@@ -21,7 +15,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205237
   X-XIV: stage XI
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATATGTTTGGGCTGCGAAGGC
-gene_id: '459056'
+gene_id: '396165'
 gene_type: protein-coding
 images:
 - caption: BMP4 expression
@@ -2572,13 +2566,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.Anderson.2019.Supplementary
     figure 5G1.jpg
 name: bone morphogenetic protein 4
-ncbi_id: '459056'
+ncbi_id: '396165'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000125378
   entrez: '652'
   mod: MIM:112262
@@ -2589,24 +2578,25 @@ orthologs:
   mod: MGI:88180
   phenotypes: All phenotypic alleles (16):Targeted, knock-out(3) Targeted, other(13)
   species: Mouse
-- ensembl: ''
-  entrez: 549788,397874,399322
-  mod: '483057'
+- ensembl: ENSXETG00000008620
+  entrez: '549788'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000019995
   entrez: '30612'
   mod: ZFIN:ZDB-GENE-980528-2059
-  phenotypes: ZDB-GENE-980528-2059
+  phenotypes: BMP signaling pathway, animal organ morphogenesis, cartilage development,
+    cell differentiation, cell fate commitment
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGCGTGGTTGGTGGAGTTGAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459056
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396165
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459056
+  url: https://www.ncbi.nlm.nih.gov/gene/396165
 species: Gallus gallus
 symbol: BMP4
 template_length: '860'
@@ -2636,9 +2626,8 @@ title: BMP4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000125378](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125378) | [652](https://www.ncbi.nlm.nih.gov/gene/652) | [MIM:112262](https://omim.org/entry/112262) | MIM:607932 |
 | Mouse | [ENSMUSG00000021835](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021835) | [12159](https://www.ncbi.nlm.nih.gov/gene/12159) | [MGI:88180](http://www.informatics.jax.org/marker/MGI:88180) | All phenotypic alleles (16):Targeted, knock-out(3) Targeted, other(13) |
-| Xenopus |  | [549788](https://www.ncbi.nlm.nih.gov/gene/549788), [397874](https://www.ncbi.nlm.nih.gov/gene/397874), [399322](https://www.ncbi.nlm.nih.gov/gene/399322) | [483057](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483057) |  |
-| Zebrafish | [ENSDARG00000019995](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019995) | [30612](https://www.ncbi.nlm.nih.gov/gene/30612) | [ZFIN:ZDB-GENE-980528-2059](https://zfin.org/ZDB-GENE-980528-2059) | ZDB-GENE-980528-2059 |
+| Xenopus | [ENSXETG00000008620](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008620) | [549788](https://www.ncbi.nlm.nih.gov/gene/549788) |  |  |
+| Zebrafish | [ENSDARG00000019995](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019995) | [30612](https://www.ncbi.nlm.nih.gov/gene/30612) | [ZFIN:ZDB-GENE-980528-2059](https://zfin.org/ZDB-GENE-980528-2059) | BMP signaling pathway, animal organ morphogenesis, cartilage development, cell differentiation, cell fate commitment |
 

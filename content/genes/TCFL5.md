@@ -3,13 +3,12 @@ aliases:
 - transcription factor-like 5 protein
 cgnc_id: '4196'
 external_ids:
-  '25': stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000005635
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771446
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234726
 forward_primer: CCCCAGATGCCAAGAACCCC
-gene_id: '453818'
+gene_id: '771446'
 gene_type: protein-coding
 images:
 - caption: TCFL5 expression
@@ -140,13 +139,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R443.TCFL5.S25.001.jpg
 name: transcription factor like 5
-ncbi_id: '453818'
+ncbi_id: '771446'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000101190
   entrez: '10732'
   mod: MIM:604745
@@ -157,24 +151,19 @@ orthologs:
   mod: MGI:2672878
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000034754
   entrez: '100493147'
-  mod: '6458682'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: AATTAACCCTCACTAAAGGCAGTCTCCTGCCTGTTTTGCCAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453818
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771446
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453818
+  url: https://www.ncbi.nlm.nih.gov/gene/771446
 species: Gallus gallus
 symbol: TCFL5
 template_length: '823'
@@ -196,9 +185,7 @@ title: TCFL5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000101190](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101190) | [10732](https://www.ncbi.nlm.nih.gov/gene/10732) | [MIM:604745](https://omim.org/entry/604745) |  |
 | Mouse | [ENSMUSG00000038932](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038932) | [277353](https://www.ncbi.nlm.nih.gov/gene/277353) | [MGI:2672878](http://www.informatics.jax.org/marker/MGI:2672878) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100493147](https://www.ncbi.nlm.nih.gov/gene/100493147) | [6458682](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6458682) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000034754](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034754) | [100493147](https://www.ncbi.nlm.nih.gov/gene/100493147) |  |  |
 

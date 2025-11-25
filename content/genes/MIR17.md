@@ -1,6 +1,5 @@
 ---
 external_ids:
-  '19': stage 19stage 19
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Bannister+tizard+microRNA+gonadal
   Comments: Authors indicted this was the probe sequence.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -9,7 +8,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018253
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006088.3?report=genbank&from=147253839&to=147253923&strand=true
-gene_id: '467929'
+gene_id: '777938'
 gene_type: miscRNA
 images:
 - caption: MIR17 expression
@@ -153,7 +152,7 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR17-5P.Bannister.2009figure3(4).JPG
 name: microRNA 17
-ncbi_id: '467929'
+ncbi_id: '777938'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -183,10 +182,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467929
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777938
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467929
+  url: https://www.ncbi.nlm.nih.gov/gene/777938
 species: Gallus gallus
 symbol: MIR17
 title: MIR17

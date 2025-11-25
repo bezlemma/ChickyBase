@@ -3,7 +3,6 @@ aliases:
 - protein Wnt-8b
 cgnc_id: '53518'
 external_ids:
-  '25': stage 25
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Garda+PUELLES+RUBENSTEIN+2002
   Comments: As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence above was obtained from NCBI (accession
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428953
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426508
 forward_primer: GACAGGACCCCAATAGGTGTAGG
-gene_id: '455842'
+gene_id: '428953'
 gene_type: protein-coding
 images:
 - caption: WNT8B expression
@@ -299,13 +298,8 @@ images:
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Garda.2002-Wntb-fig2R-2.jpg
 name: Wnt family member 8B
-ncbi_id: '455842'
+ncbi_id: '428953'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000075290
   entrez: '7479'
   mod: MIM:601396
@@ -316,24 +310,25 @@ orthologs:
   mod: MGI:109485
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100496786,399098
-  mod: '492635'
+- ensembl: ENSXETG00000023760
+  entrez: '100496786'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000006911
   entrez: '30144'
   mod: ZFIN:ZDB-GENE-990415-279
-  phenotypes: ZDB-GENE-990415-279
+  phenotypes: Wnt signaling pathway, canonical Wnt signaling pathway, cell fate commitment,
+    commissural neuron axon guidance, embryonic pattern specification
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTGTTCTCCAGGCAGTAGTCGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455842
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428953
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455842
+  url: https://www.ncbi.nlm.nih.gov/gene/428953
 species: Gallus gallus
 symbol: WNT8B
 template_length: '760'
@@ -360,9 +355,8 @@ title: WNT8B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000075290](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000075290) | [7479](https://www.ncbi.nlm.nih.gov/gene/7479) | [MIM:601396](https://omim.org/entry/601396) |  |
 | Mouse | [ENSMUSG00000036961](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036961) | [22423](https://www.ncbi.nlm.nih.gov/gene/22423) | [MGI:109485](http://www.informatics.jax.org/marker/MGI:109485) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100496786](https://www.ncbi.nlm.nih.gov/gene/100496786), [399098](https://www.ncbi.nlm.nih.gov/gene/399098) | [492635](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492635) |  |
-| Zebrafish |  | [30144](https://www.ncbi.nlm.nih.gov/gene/30144) | [ZFIN:ZDB-GENE-990415-279](https://zfin.org/ZDB-GENE-990415-279) | ZDB-GENE-990415-279 |
+| Xenopus | [ENSXETG00000023760](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023760) | [100496786](https://www.ncbi.nlm.nih.gov/gene/100496786) |  |  |
+| Zebrafish | [ENSDARG00000006911](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006911) | [30144](https://www.ncbi.nlm.nih.gov/gene/30144) | [ZFIN:ZDB-GENE-990415-279](https://zfin.org/ZDB-GENE-990415-279) | Wnt signaling pathway, canonical Wnt signaling pathway, cell fate commitment, commissural neuron axon guidance, embryonic pattern specification |
 

@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416341
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006156
-gene_id: '456751'
+gene_id: '416341'
 gene_type: protein-coding
 images:
 - caption: GNPDA1 expression
@@ -194,7 +194,7 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_HH24 x15.jpg
 name: glucosamine-6-phosphate deaminase 1
-ncbi_id: '456751'
+ncbi_id: '416341'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -219,12 +219,12 @@ orthologs:
 - ensembl: ENSDARG00000037307
   entrez: '550565'
   mod: ZFIN:ZDB-GENE-050417-417
-  phenotypes: ZDB-GENE-050417-417
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456751
+  url: https://www.ncbi.nlm.nih.gov/gene/416341
 species: Gallus gallus
 symbol: GNPDA1
 title: GNPDA1
@@ -252,5 +252,5 @@ title: GNPDA1
 | Human | [ENSG00000113552](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113552) | [10007](https://www.ncbi.nlm.nih.gov/gene/10007) | [MIM:601798](https://omim.org/entry/601798) |  |
 | Mouse | [ENSMUSG00000052102](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000052102) | [26384](https://www.ncbi.nlm.nih.gov/gene/26384) | [MGI:1347054](http://www.informatics.jax.org/marker/MGI:1347054) | All phenotypic alleles (2):Targeted, other(1) Gene trapped(1) |
 | Xenopus |  | [100380029](https://www.ncbi.nlm.nih.gov/gene/100380029), [398943](https://www.ncbi.nlm.nih.gov/gene/398943) | [966375](http://www.xenbase.org/gene/showgene.do?method=display&geneId=966375) |  |
-| Zebrafish | [ENSDARG00000037307](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037307) | [550565](https://www.ncbi.nlm.nih.gov/gene/550565) | [ZFIN:ZDB-GENE-050417-417](https://zfin.org/ZDB-GENE-050417-417) | ZDB-GENE-050417-417 |
+| Zebrafish | [ENSDARG00000037307](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037307) | [550565](https://www.ncbi.nlm.nih.gov/gene/550565) | [ZFIN:ZDB-GENE-050417-417](https://zfin.org/ZDB-GENE-050417-417) |  |
 

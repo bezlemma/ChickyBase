@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419512
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417663
-gene_id: '458230'
+gene_id: '419512'
 gene_type: protein-coding
 images:
 - caption: AAK1 expression
@@ -37,37 +37,17 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.8_All-images.jpg
 name: AP2 associated kinase 1
-ncbi_id: '458230'
+ncbi_id: '419512'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: '22848'
-  mod: ''
-  phenotypes: ''
-  species: Human
 - ensembl: ENSMUSG00000057230
   entrez: '269774'
   mod: MGI:1098687
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: '100135375'
-  mod: '986554'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ZFIN:ZDB-GENE-081105-101,ZFIN:ZDB-GENE-091118-25
-  phenotypes: ZDB-GENE-081105-101,ZDB-GENE-091118-25
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458230
+  url: https://www.ncbi.nlm.nih.gov/gene/419512
 species: Gallus gallus
 symbol: AAK1
 title: AAK1
@@ -93,9 +73,5 @@ title: AAK1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [22848](https://www.ncbi.nlm.nih.gov/gene/22848) |  |  |
 | Mouse | [ENSMUSG00000057230](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000057230) | [269774](https://www.ncbi.nlm.nih.gov/gene/269774) | [MGI:1098687](http://www.informatics.jax.org/marker/MGI:1098687) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100135375](https://www.ncbi.nlm.nih.gov/gene/100135375) | [986554](http://www.xenbase.org/gene/showgene.do?method=display&geneId=986554) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-081105-101](https://zfin.org/ZDB-GENE-081105-101), [ZFIN:ZDB-GENE-091118-25](https://zfin.org/ZDB-GENE-091118-25) | ZDB-GENE-081105-101,ZDB-GENE-091118-25 |
 

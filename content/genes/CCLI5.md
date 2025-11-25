@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417533
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415779
 forward_primer: ACAACATCGTCGCCTGCTATG
-gene_id: '453559'
+gene_id: '417533'
 gene_type: protein-coding
 images:
 - caption: CCLI5 expression
@@ -146,7 +146,7 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R572.CCL15.S27BB.001.jpg
 name: chemokine
-ncbi_id: '453559'
+ncbi_id: '417533'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -177,10 +177,10 @@ reverse_primer: AATTAACCCTCACTAAAGGGCTGACATTTCTCACCCGAAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453559
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417533
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453559
+  url: https://www.ncbi.nlm.nih.gov/gene/417533
 species: Gallus gallus
 symbol: CCLI5
 template_length: '625'

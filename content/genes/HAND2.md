@@ -1,7 +1,6 @@
 ---
 cgnc_id: '49493'
 external_ids:
-  '19': stage 19stage 19
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0032209
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395813
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204966
-gene_id: '450006'
+gene_id: '395813'
 gene_type: protein-coding
 images:
 - caption: HAND2 expression
@@ -510,7 +509,7 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HAND2_stage 12 x25.jpg
 name: heart and neural crest derivatives expressed 2
-ncbi_id: '450006'
+ncbi_id: '395813'
 orthologs:
 - ensembl: ''
   entrez: '34379'
@@ -535,15 +534,15 @@ orthologs:
 - ensembl: ENSDARG00000008305
   entrez: '58150'
   mod: ZFIN:ZDB-GENE-000511-1
-  phenotypes: ZDB-GENE-000511-1
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450006
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395813
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450006
+  url: https://www.ncbi.nlm.nih.gov/gene/395813
 species: Gallus gallus
 symbol: HAND2
 title: HAND2
@@ -578,5 +577,5 @@ title: HAND2
 | Human | [ENSG00000164107](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164107) | [9464](https://www.ncbi.nlm.nih.gov/gene/9464) | [MIM:602407](https://omim.org/entry/602407) |  |
 | Mouse | [ENSMUSG00000038193](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038193) | [15111](https://www.ncbi.nlm.nih.gov/gene/15111) | [MGI:103580](http://www.informatics.jax.org/marker/MGI:103580) | All phenotypic alleles (9):Targeted, knock-out(3) Targeted, other(6) |
 | Xenopus |  | [100101704](https://www.ncbi.nlm.nih.gov/gene/100101704), [373641](https://www.ncbi.nlm.nih.gov/gene/373641), [373833](https://www.ncbi.nlm.nih.gov/gene/373833) | [481425](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481425) |  |
-| Zebrafish | [ENSDARG00000008305](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008305) | [58150](https://www.ncbi.nlm.nih.gov/gene/58150) | [ZFIN:ZDB-GENE-000511-1](https://zfin.org/ZDB-GENE-000511-1) | ZDB-GENE-000511-1 |
+| Zebrafish | [ENSDARG00000008305](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008305) | [58150](https://www.ncbi.nlm.nih.gov/gene/58150) | [ZFIN:ZDB-GENE-000511-1](https://zfin.org/ZDB-GENE-000511-1) |  |
 

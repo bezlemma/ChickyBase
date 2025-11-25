@@ -6,7 +6,6 @@ aliases:
 - cE4BP4 protein
 cgnc_id: '11317'
 external_ids:
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007623
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Comments: No expression detected at or before stage 5.
@@ -16,7 +15,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204618
 forward_primer: GGATGCTATGTATTGGGAGAAAAGG
-gene_id: '448857'
+gene_id: '395326'
 gene_type: protein-coding
 images:
 - caption: NFIL3 expression
@@ -97,13 +96,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R303.NFIL3.S25.001.jpg
 name: nuclear factor, interleukin 3 regulated
-ncbi_id: '448857'
+ncbi_id: '395326'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000165030
   entrez: '4783'
   mod: MIM:605327
@@ -114,24 +108,25 @@ orthologs:
   mod: MGI:109495
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(4) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 548427,447503
-  mod: '479623'
+- ensembl: ENSXETG00000000804
+  entrez: '548427'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000042977
+- ensembl: ENSDARG00000110085
   entrez: '445509'
   mod: ZFIN:ZDB-GENE-040822-28
-  phenotypes: ZDB-GENE-040822-28
+  phenotypes: DNA-templated transcription, circadian rhythm, heart development, immune
+    response, myeloid cell development
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGTTCAACTGGAGAATGGATTGGAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448857
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395326
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448857
+  url: https://www.ncbi.nlm.nih.gov/gene/395326
 species: Gallus gallus
 symbol: NFIL3
 template_length: '689'
@@ -158,9 +153,8 @@ title: NFIL3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000165030](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165030) | [4783](https://www.ncbi.nlm.nih.gov/gene/4783) | [MIM:605327](https://omim.org/entry/605327) |  |
 | Mouse | [ENSMUSG00000056749](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000056749) | [18030](https://www.ncbi.nlm.nih.gov/gene/18030) | [MGI:109495](http://www.informatics.jax.org/marker/MGI:109495) | All phenotypic alleles (8):Targeted, knock-out(4) Targeted, other(4) |
-| Xenopus |  | [548427](https://www.ncbi.nlm.nih.gov/gene/548427), [447503](https://www.ncbi.nlm.nih.gov/gene/447503) | [479623](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479623) |  |
-| Zebrafish | [ENSDARG00000042977](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042977) | [445509](https://www.ncbi.nlm.nih.gov/gene/445509) | [ZFIN:ZDB-GENE-040822-28](https://zfin.org/ZDB-GENE-040822-28) | ZDB-GENE-040822-28 |
+| Xenopus | [ENSXETG00000000804](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000804) | [548427](https://www.ncbi.nlm.nih.gov/gene/548427) |  |  |
+| Zebrafish | [ENSDARG00000110085](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110085) | [445509](https://www.ncbi.nlm.nih.gov/gene/445509) | [ZFIN:ZDB-GENE-040822-28](https://zfin.org/ZDB-GENE-040822-28) | DNA-templated transcription, circadian rhythm, heart development, immune response, myeloid cell development |
 

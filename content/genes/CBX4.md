@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395354
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204642
 forward_primer: TGAAATGGAGGGGATGGTCG
-gene_id: '448960'
+gene_id: '395354'
 gene_type: protein-coding
 images:
 - caption: CBX4 expression
@@ -100,13 +100,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R570.CBX4.S26.001.jpg
 name: chromobox 4
-ncbi_id: '448960'
+ncbi_id: '395354'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000141582
   entrez: '8535'
   mod: MIM:603079
@@ -117,24 +112,25 @@ orthologs:
   mod: MGI:1195985
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100124911,394294
-  mod: '986715'
+- ensembl: ENSXETG00000035662
+  entrez: '100124911'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000070807
+- ensembl: ENSDARG00000099441
   entrez: '573110'
   mod: ZFIN:ZDB-GENE-040329-2
-  phenotypes: ZDB-GENE-040329-2
+  phenotypes: negative regulation of DNA-templated transcription, negative regulation
+    of transcription by RNA polymerase II, protein sumoylation
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGATCTTGGGGTCAGGCTGGTAGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448960
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395354
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448960
+  url: https://www.ncbi.nlm.nih.gov/gene/395354
 species: Gallus gallus
 symbol: CBX4
 template_length: '412'
@@ -157,9 +153,8 @@ title: CBX4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000141582](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000141582) | [8535](https://www.ncbi.nlm.nih.gov/gene/8535) | [MIM:603079](https://omim.org/entry/603079) |  |
 | Mouse | [ENSMUSG00000039989](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039989) | [12418](https://www.ncbi.nlm.nih.gov/gene/12418) | [MGI:1195985](http://www.informatics.jax.org/marker/MGI:1195985) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100124911](https://www.ncbi.nlm.nih.gov/gene/100124911), [394294](https://www.ncbi.nlm.nih.gov/gene/394294) | [986715](http://www.xenbase.org/gene/showgene.do?method=display&geneId=986715) |  |
-| Zebrafish | [ENSDARG00000070807](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070807) | [573110](https://www.ncbi.nlm.nih.gov/gene/573110) | [ZFIN:ZDB-GENE-040329-2](https://zfin.org/ZDB-GENE-040329-2) | ZDB-GENE-040329-2 |
+| Xenopus | [ENSXETG00000035662](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000035662) | [100124911](https://www.ncbi.nlm.nih.gov/gene/100124911) |  |  |
+| Zebrafish | [ENSDARG00000099441](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099441) | [573110](https://www.ncbi.nlm.nih.gov/gene/573110) | [ZFIN:ZDB-GENE-040329-2](https://zfin.org/ZDB-GENE-040329-2) | negative regulation of DNA-templated transcription, negative regulation of transcription by RNA polymerase II, protein sumoylation |
 

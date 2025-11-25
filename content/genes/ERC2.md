@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769533
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001232639
 forward_primer: 5’-ACAGACACAGCACTAGCCAC-3’
-gene_id: '460108'
+gene_id: '769533'
 gene_type: protein-coding
 images:
 - caption: ERC2 expression
@@ -65,16 +65,11 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R658.ERC2.S27.001.jpg
 name: ELKS/RAB6-interacting/CAST family member 2
-ncbi_id: '460108'
+ncbi_id: '769533'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000187672
   entrez: '26059'
-  mod: ''
+  mod: MIM:617250
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000040640
@@ -84,22 +79,22 @@ orthologs:
   species: Mouse
 - ensembl: ''
   entrez: '100485848'
-  mod: '1013676'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000105178
   entrez: '572002'
   mod: ZFIN:ZDB-GENE-130530-700
-  phenotypes: ZDB-GENE-130530-700
+  phenotypes: maintenance of presynaptic active zone structure
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGCAGACAGTTCAAGCAAGGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460108
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=769533
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460108
+  url: https://www.ncbi.nlm.nih.gov/gene/769533
 species: Gallus gallus
 symbol: ERC2
 template_length: '884'
@@ -122,9 +117,8 @@ title: ERC2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000187672](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000187672) | [26059](https://www.ncbi.nlm.nih.gov/gene/26059) |  |  |
+| Human | [ENSG00000187672](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000187672) | [26059](https://www.ncbi.nlm.nih.gov/gene/26059) | [MIM:617250](https://omim.org/entry/617250) |  |
 | Mouse | [ENSMUSG00000040640](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040640) | [238988](https://www.ncbi.nlm.nih.gov/gene/238988) | [MGI:1098749](http://www.informatics.jax.org/marker/MGI:1098749) | All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1) |
-| Xenopus |  | [100485848](https://www.ncbi.nlm.nih.gov/gene/100485848) | [1013676](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1013676) |  |
-| Zebrafish |  | [572002](https://www.ncbi.nlm.nih.gov/gene/572002) | [ZFIN:ZDB-GENE-130530-700](https://zfin.org/ZDB-GENE-130530-700) | ZDB-GENE-130530-700 |
+| Xenopus |  | [100485848](https://www.ncbi.nlm.nih.gov/gene/100485848) |  |  |
+| Zebrafish | [ENSDARG00000105178](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000105178) | [572002](https://www.ncbi.nlm.nih.gov/gene/572002) | [ZFIN:ZDB-GENE-130530-700](https://zfin.org/ZDB-GENE-130530-700) | maintenance of presynaptic active zone structure |
 

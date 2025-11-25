@@ -4,7 +4,6 @@ aliases:
 - RhoA GTPase
 cgnc_id: '49322'
 external_ids:
-  '31': stage 31stage 31
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Roszko+RhoA+2006
   Comments: 'Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (acc # NM_204704).'
@@ -15,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395442
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204704
-gene_id: '449244'
+gene_id: '395442'
 gene_type: protein-coding
 images:
 - caption: RHOA expression
@@ -75,13 +74,8 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RhoA.Fig5.imageA5
 name: ras homolog family member A
-ncbi_id: '449244'
+ncbi_id: '395442'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000067560
   entrez: '387'
   mod: MIM:165390
@@ -92,20 +86,21 @@ orthologs:
   mod: MGI:1096342
   phenotypes: All phenotypic alleles (4):Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 549402,448080,379416,380133
-  mod: 1019547,489221
+- ensembl: ENSXETG00000009241
+  entrez: '549402'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000094673,ENSDARG00000021309,ENSDARG00000018328,ENSDARG00000026845,ENSDARG00000015429
-  entrez: 751630,100006041,394125,436718,406411,406659
-  mod: ZFIN:ZDB-GENE-060825-41,ZFIN:ZDB-GENE-040322-2,ZFIN:ZDB-GENE-040426-1337,ZFIN:ZDB-GENE-040718-144,ZFIN:ZDB-GENE-040426-2150,ZFIN:ZDB-GENE-040426-2665
-  phenotypes: ZDB-GENE-060825-41,ZDB-GENE-040322-2,ZDB-GENE-040426-1337,ZDB-GENE-040718-144,ZDB-GENE-040426-2150,ZDB-GENE-040426-2665
+- ensembl: ENSDARG00000094673
+  entrez: '100006041'
+  mod: ZFIN:ZDB-GENE-040322-2
+  phenotypes: Rho protein signal transduction, Wnt signaling pathway, actin filament
+    organization, cell migration, cell migration involved in gastrulation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449244
+  url: https://www.ncbi.nlm.nih.gov/gene/395442
 species: Gallus gallus
 symbol: RHOA
 title: RHOA
@@ -131,9 +126,8 @@ title: RHOA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000067560](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000067560) | [387](https://www.ncbi.nlm.nih.gov/gene/387) | [MIM:165390](https://omim.org/entry/165390) |  |
 | Mouse | [ENSMUSG00000007815](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000007815) | [11848](https://www.ncbi.nlm.nih.gov/gene/11848) | [MGI:1096342](http://www.informatics.jax.org/marker/MGI:1096342) | All phenotypic alleles (4):Targeted, other(4) |
-| Xenopus |  | [549402](https://www.ncbi.nlm.nih.gov/gene/549402), [448080](https://www.ncbi.nlm.nih.gov/gene/448080), [379416](https://www.ncbi.nlm.nih.gov/gene/379416), [380133](https://www.ncbi.nlm.nih.gov/gene/380133) | [1019547](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1019547), [489221](http://www.xenbase.org/gene/showgene.do?method=display&geneId=489221) |  |
-| Zebrafish | [ENSDARG00000094673](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000094673), [ENSDARG00000021309](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021309), [ENSDARG00000018328](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018328), [ENSDARG00000026845](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026845), [ENSDARG00000015429](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015429) | [751630](https://www.ncbi.nlm.nih.gov/gene/751630), [100006041](https://www.ncbi.nlm.nih.gov/gene/100006041), [394125](https://www.ncbi.nlm.nih.gov/gene/394125), [436718](https://www.ncbi.nlm.nih.gov/gene/436718), [406411](https://www.ncbi.nlm.nih.gov/gene/406411), [406659](https://www.ncbi.nlm.nih.gov/gene/406659) | [ZFIN:ZDB-GENE-060825-41](https://zfin.org/ZDB-GENE-060825-41), [ZFIN:ZDB-GENE-040322-2](https://zfin.org/ZDB-GENE-040322-2), [ZFIN:ZDB-GENE-040426-1337](https://zfin.org/ZDB-GENE-040426-1337), [ZFIN:ZDB-GENE-040718-144](https://zfin.org/ZDB-GENE-040718-144), [ZFIN:ZDB-GENE-040426-2150](https://zfin.org/ZDB-GENE-040426-2150), [ZFIN:ZDB-GENE-040426-2665](https://zfin.org/ZDB-GENE-040426-2665) | ZDB-GENE-060825-41,ZDB-GENE-040322-2,ZDB-GENE-040426-1337,ZDB-GENE-040718-144,ZDB-GENE-040426-2150,ZDB-GENE-040426-2665 |
+| Xenopus | [ENSXETG00000009241](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009241) | [549402](https://www.ncbi.nlm.nih.gov/gene/549402) |  |  |
+| Zebrafish | [ENSDARG00000094673](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000094673) | [100006041](https://www.ncbi.nlm.nih.gov/gene/100006041) | [ZFIN:ZDB-GENE-040322-2](https://zfin.org/ZDB-GENE-040322-2) | Rho protein signal transduction, Wnt signaling pathway, actin filament organization, cell migration, cell migration involved in gastrulation |
 

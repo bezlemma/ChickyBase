@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420898
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001276386
-gene_id: '468299'
+gene_id: '420898'
 gene_type: protein-coding
 images:
 - caption: OVALX expression
@@ -81,37 +81,27 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig6.SERPINB11.CONTROL.Lim.jpg
 name: ovalbumin-related protein X (SERPINB14C)
-ncbi_id: '468299'
+ncbi_id: '420898'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000206073
+  entrez: '6318'
+  mod: MIM:600518
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000044594
+  entrez: '20248'
+  mod: MGI:3573933
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000018037
+  entrez: '100490314'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468299
+  url: https://www.ncbi.nlm.nih.gov/gene/420898
 species: Gallus gallus
 symbol: OVALX
 title: OVALX
@@ -138,9 +128,7 @@ title: OVALX
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000206073](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000206073) | [6318](https://www.ncbi.nlm.nih.gov/gene/6318) | [MIM:600518](https://omim.org/entry/600518) |  |
+| Mouse | [ENSMUSG00000044594](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000044594) | [20248](https://www.ncbi.nlm.nih.gov/gene/20248) | [MGI:3573933](http://www.informatics.jax.org/marker/MGI:3573933) |  |
+| Xenopus | [ENSXETG00000018037](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018037) | [100490314](https://www.ncbi.nlm.nih.gov/gene/100490314) |  |  |
 

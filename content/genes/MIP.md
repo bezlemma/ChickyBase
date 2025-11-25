@@ -20,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374124
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005515
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204266
-gene_id: '467886'
+gene_id: '374124'
 gene_type: protein-coding
 images:
 - caption: MIP expression
@@ -31,7 +31,7 @@ images:
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIP.Reza.2007.7U.png
 name: major intrinsic protein of lens fiber
-ncbi_id: '467886'
+ncbi_id: '374124'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -61,7 +61,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467886
+  url: https://www.ncbi.nlm.nih.gov/gene/374124
 species: Gallus gallus
 symbol: MIP
 title: MIP

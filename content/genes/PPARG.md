@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373928
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001460
-gene_id: '459484'
+gene_id: '373928'
 gene_type: protein-coding
 images:
 - caption: PPARG expression
@@ -71,13 +71,8 @@ images:
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PPAR.Fig4.imageE
 name: peroxisome proliferator-activated receptor gamma
-ncbi_id: '459484'
+ncbi_id: '373928'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000132170
   entrez: '5468'
   mod: MIM:601487
@@ -88,23 +83,20 @@ orthologs:
   mod: MGI:97747
   phenotypes: All phenotypic alleles (29):Targeted, knock-out(7) Targeted, other(22)
   species: Mouse
-- ensembl: ''
-  entrez: 100144687,397769
-  mod: '483135'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000031848
   entrez: '557037'
   mod: ZFIN:ZDB-GENE-990415-213
-  phenotypes: ZDB-GENE-990415-213
+  phenotypes: cell differentiation, cellular response to hormone stimulus, fatty acid
+    metabolic process, hormone-mediated signaling pathway, intracellular receptor
+    signaling pathway
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459484
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373928
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459484
+  url: https://www.ncbi.nlm.nih.gov/gene/373928
 species: Gallus gallus
 symbol: PPARG
 title: PPARG
@@ -130,9 +122,7 @@ title: PPARG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000132170](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000132170) | [5468](https://www.ncbi.nlm.nih.gov/gene/5468) | [MIM:601487](https://omim.org/entry/601487) | MIM:609338 |
 | Mouse | [ENSMUSG00000000440](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000440) | [19016](https://www.ncbi.nlm.nih.gov/gene/19016) | [MGI:97747](http://www.informatics.jax.org/marker/MGI:97747) | All phenotypic alleles (29):Targeted, knock-out(7) Targeted, other(22) |
-| Xenopus |  | [100144687](https://www.ncbi.nlm.nih.gov/gene/100144687), [397769](https://www.ncbi.nlm.nih.gov/gene/397769) | [483135](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483135) |  |
-| Zebrafish | [ENSDARG00000031848](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031848) | [557037](https://www.ncbi.nlm.nih.gov/gene/557037) | [ZFIN:ZDB-GENE-990415-213](https://zfin.org/ZDB-GENE-990415-213) | ZDB-GENE-990415-213 |
+| Zebrafish | [ENSDARG00000031848](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031848) | [557037](https://www.ncbi.nlm.nih.gov/gene/557037) | [ZFIN:ZDB-GENE-990415-213](https://zfin.org/ZDB-GENE-990415-213) | cell differentiation, cellular response to hormone stimulus, fatty acid metabolic process, hormone-mediated signaling pathway, intracellular receptor signaling pathway |
 

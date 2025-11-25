@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427306
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424888
-gene_id: '461495'
+gene_id: '427306'
 gene_type: protein-coding
 images:
 - caption: PLPPR1 expression
@@ -30,16 +30,11 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLPPR1.Anderson.2019.Supplementary
     figure 5D.jpg
 name: phospholipid phosphatase related 1
-ncbi_id: '461495'
+ncbi_id: '427306'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000148123
   entrez: '54886'
-  mod: ''
+  mod: MIM:619590
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000063446
@@ -47,20 +42,21 @@ orthologs:
   mod: MGI:2445015
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000033877
   entrez: '100124964'
-  mod: '974060'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
   entrez: '415222'
   mod: ZFIN:ZDB-GENE-040625-138
-  phenotypes: ZDB-GENE-040625-138
+  phenotypes: nervous system development, phospholipid dephosphorylation, phospholipid
+    metabolic process, signal transduction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461495
+  url: https://www.ncbi.nlm.nih.gov/gene/427306
 species: Gallus gallus
 symbol: PLPPR1
 title: PLPPR1
@@ -86,9 +82,8 @@ title: PLPPR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000148123](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148123) | [54886](https://www.ncbi.nlm.nih.gov/gene/54886) |  |  |
+| Human | [ENSG00000148123](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148123) | [54886](https://www.ncbi.nlm.nih.gov/gene/54886) | [MIM:619590](https://omim.org/entry/619590) |  |
 | Mouse | [ENSMUSG00000063446](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000063446) | [272031](https://www.ncbi.nlm.nih.gov/gene/272031) | [MGI:2445015](http://www.informatics.jax.org/marker/MGI:2445015) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100124964](https://www.ncbi.nlm.nih.gov/gene/100124964) | [974060](http://www.xenbase.org/gene/showgene.do?method=display&geneId=974060) |  |
-| Zebrafish |  | [415222](https://www.ncbi.nlm.nih.gov/gene/415222) | [ZFIN:ZDB-GENE-040625-138](https://zfin.org/ZDB-GENE-040625-138) | ZDB-GENE-040625-138 |
+| Xenopus | [ENSXETG00000033877](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033877) | [100124964](https://www.ncbi.nlm.nih.gov/gene/100124964) |  |  |
+| Zebrafish |  | [415222](https://www.ncbi.nlm.nih.gov/gene/415222) | [ZFIN:ZDB-GENE-040625-138](https://zfin.org/ZDB-GENE-040625-138) | nervous system development, phospholipid dephosphorylation, phospholipid metabolic process, signal transduction |
 

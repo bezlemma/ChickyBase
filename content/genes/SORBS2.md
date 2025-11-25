@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422719
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420674
-gene_id: '451799'
+gene_id: '422719'
 gene_type: protein-coding
 images:
 - caption: SORBS2 expression
@@ -32,37 +32,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SORBS2.Anderson.2019.Supplementary
     figure 5D.jpg
 name: sorbin and SH3 domain containing 2
-ncbi_id: '451799'
+ncbi_id: '422719'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000154556
   entrez: '8470'
-  mod: ''
+  mod: MIM:616349
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000031626
+  entrez: '234214'
+  mod: MGI:1924574
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000001564
   entrez: '100196922'
-  mod: '478189'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000061603,ENSDARG00000003046
-  entrez: 100331486,563408,571008
-  mod: ZFIN:ZDB-GENE-070308-3,ZFIN:ZDB-GENE-070308-2
-  phenotypes: ZDB-GENE-070308-3,ZDB-GENE-070308-2
+- ensembl: ENSDARG00000061603
+  entrez: '563408'
+  mod: ZFIN:ZDB-GENE-070308-3
+  phenotypes: regulation of heart rate
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451799
+  url: https://www.ncbi.nlm.nih.gov/gene/422719
 species: Gallus gallus
 symbol: SORBS2
 title: SORBS2
@@ -88,9 +83,8 @@ title: SORBS2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000154556](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000154556) | [8470](https://www.ncbi.nlm.nih.gov/gene/8470) |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100196922](https://www.ncbi.nlm.nih.gov/gene/100196922) | [478189](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478189) |  |
-| Zebrafish | [ENSDARG00000061603](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061603), [ENSDARG00000003046](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003046) | [100331486](https://www.ncbi.nlm.nih.gov/gene/100331486), [563408](https://www.ncbi.nlm.nih.gov/gene/563408), [571008](https://www.ncbi.nlm.nih.gov/gene/571008) | [ZFIN:ZDB-GENE-070308-3](https://zfin.org/ZDB-GENE-070308-3), [ZFIN:ZDB-GENE-070308-2](https://zfin.org/ZDB-GENE-070308-2) | ZDB-GENE-070308-3,ZDB-GENE-070308-2 |
+| Human | [ENSG00000154556](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000154556) | [8470](https://www.ncbi.nlm.nih.gov/gene/8470) | [MIM:616349](https://omim.org/entry/616349) |  |
+| Mouse | [ENSMUSG00000031626](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031626) | [234214](https://www.ncbi.nlm.nih.gov/gene/234214) | [MGI:1924574](http://www.informatics.jax.org/marker/MGI:1924574) |  |
+| Xenopus | [ENSXETG00000001564](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001564) | [100196922](https://www.ncbi.nlm.nih.gov/gene/100196922) |  |  |
+| Zebrafish | [ENSDARG00000061603](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061603) | [563408](https://www.ncbi.nlm.nih.gov/gene/563408) | [ZFIN:ZDB-GENE-070308-3](https://zfin.org/ZDB-GENE-070308-3) | regulation of heart rate |
 

@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422623
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420580
-gene_id: '452113'
+gene_id: '422623'
 gene_type: protein-coding
 images:
 - caption: REST expression
@@ -40,13 +40,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3WH10.115.1.23a.jpg
 name: RE1 silencing transcription factor
-ncbi_id: '452113'
+ncbi_id: '422623'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000084093
   entrez: '5978'
   mod: MIM:600571
@@ -57,23 +52,13 @@ orthologs:
   mod: MGI:104897
   phenotypes: All phenotypic alleles (9):Targeted, knock-out(2) Targeted, other(7)
   species: Mouse
-- ensembl: ''
-  entrez: 734016,373614,734238
-  mod: '955465'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000007222
-  entrez: '564772'
-  mod: ZFIN:ZDB-GENE-080415-1
-  phenotypes: ZDB-GENE-080415-1
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452113
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422623
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452113
+  url: https://www.ncbi.nlm.nih.gov/gene/422623
 species: Gallus gallus
 symbol: REST
 title: REST
@@ -96,9 +81,6 @@ title: REST
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000084093](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000084093) | [5978](https://www.ncbi.nlm.nih.gov/gene/5978) | [MIM:600571](https://omim.org/entry/600571) |  |
 | Mouse | [ENSMUSG00000029249](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029249) | [19712](https://www.ncbi.nlm.nih.gov/gene/19712) | [MGI:104897](http://www.informatics.jax.org/marker/MGI:104897) | All phenotypic alleles (9):Targeted, knock-out(2) Targeted, other(7) |
-| Xenopus |  | [734016](https://www.ncbi.nlm.nih.gov/gene/734016), [373614](https://www.ncbi.nlm.nih.gov/gene/373614), [734238](https://www.ncbi.nlm.nih.gov/gene/734238) | [955465](http://www.xenbase.org/gene/showgene.do?method=display&geneId=955465) |  |
-| Zebrafish | [ENSDARG00000007222](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007222) | [564772](https://www.ncbi.nlm.nih.gov/gene/564772) | [ZFIN:ZDB-GENE-080415-1](https://zfin.org/ZDB-GENE-080415-1) | ZDB-GENE-080415-1 |
 

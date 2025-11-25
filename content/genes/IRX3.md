@@ -12,7 +12,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/107054273
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
-gene_id: '505323'
+gene_id: '107054273'
 gene_type: unknown
 images:
 - caption: IRX3 expression
@@ -67,7 +67,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IRX3.Anderson.2019.Supplementary
     figure 5I.jpg
 name: iroquois homeobox 3
-ncbi_id: '505323'
+ncbi_id: '107054273'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -97,7 +97,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/505323
+  url: https://www.ncbi.nlm.nih.gov/gene/107054273
 species: Gallus gallus
 symbol: IRX3
 title: IRX3

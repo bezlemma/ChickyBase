@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396242
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205305
-gene_id: '462360'
+gene_id: '396242'
 gene_type: protein-coding
 images:
 - caption: COL9A3 expression
@@ -33,13 +33,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COL9A3.Smith.2018.Fig10.jpg
 name: collagen type IX alpha 3 chain
-ncbi_id: '462360'
+ncbi_id: '396242'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000092758
   entrez: '1299'
   mod: MIM:120270
@@ -50,20 +45,20 @@ orthologs:
   mod: MGI:894686
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100145619,446508
-  mod: '997412'
+- ensembl: ENSXETG00000045554
+  entrez: '100145619'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000037845
   entrez: '567110'
   mod: ZFIN:ZDB-GENE-030131-9799
-  phenotypes: ZDB-GENE-030131-9799
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462360
+  url: https://www.ncbi.nlm.nih.gov/gene/396242
 species: Gallus gallus
 symbol: COL9A3
 title: COL9A3
@@ -90,9 +85,8 @@ title: COL9A3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000092758](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000092758) | [1299](https://www.ncbi.nlm.nih.gov/gene/1299) | [MIM:120270](https://omim.org/entry/120270) | MIM:600969 |
 | Mouse | [ENSMUSG00000027570](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027570) | [12841](https://www.ncbi.nlm.nih.gov/gene/12841) | [MGI:894686](http://www.informatics.jax.org/marker/MGI:894686) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100145619](https://www.ncbi.nlm.nih.gov/gene/100145619), [446508](https://www.ncbi.nlm.nih.gov/gene/446508) | [997412](http://www.xenbase.org/gene/showgene.do?method=display&geneId=997412) |  |
-| Zebrafish | [ENSDARG00000037845](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037845) | [567110](https://www.ncbi.nlm.nih.gov/gene/567110) | [ZFIN:ZDB-GENE-030131-9799](https://zfin.org/ZDB-GENE-030131-9799) | ZDB-GENE-030131-9799 |
+| Xenopus | [ENSXETG00000045554](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000045554) | [100145619](https://www.ncbi.nlm.nih.gov/gene/100145619) |  |  |
+| Zebrafish | [ENSDARG00000037845](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037845) | [567110](https://www.ncbi.nlm.nih.gov/gene/567110) | [ZFIN:ZDB-GENE-030131-9799](https://zfin.org/ZDB-GENE-030131-9799) |  |
 

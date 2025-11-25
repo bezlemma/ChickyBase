@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373989
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030537
 forward_primer: GTGACCTCCTACCAGAACCACAAG
-gene_id: '451486'
+gene_id: '373989'
 gene_type: protein-coding
 images:
 - caption: TBX4 expression
@@ -207,13 +207,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tbx4.Gibson-Brown.1998.Fig3.jpg
 name: T-box 4
-ncbi_id: '451486'
+ncbi_id: '373989'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000121075
   entrez: '9496'
   mod: MIM:601719
@@ -224,24 +219,25 @@ orthologs:
   mod: MGI:102556
   phenotypes: All phenotypic alleles (9):Targeted, knock-out(1) Targeted, other(8)
   species: Mouse
-- ensembl: ''
-  entrez: 100488041,373555
-  mod: '951381'
+- ensembl: ENSXETG00000010718
+  entrez: '100488041'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000030058
-  entrez: 100333554,30070
+  entrez: '30070'
   mod: ZFIN:ZDB-GENE-991124-5
-  phenotypes: ZDB-GENE-991124-5
+  phenotypes: anatomical structure morphogenesis, angiogenesis, cell fate specification,
+    embryonic hindlimb morphogenesis, embryonic pelvic fin morphogenesis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGAACTCATTGGCAGCGTTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451486
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373989
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451486
+  url: https://www.ncbi.nlm.nih.gov/gene/373989
 species: Gallus gallus
 symbol: TBX4
 template_length: '889'
@@ -268,9 +264,8 @@ title: TBX4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000121075](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000121075) | [9496](https://www.ncbi.nlm.nih.gov/gene/9496) | [MIM:601719](https://omim.org/entry/601719) | MIM:147891 |
 | Mouse | [ENSMUSG00000000094](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000094) | [21387](https://www.ncbi.nlm.nih.gov/gene/21387) | [MGI:102556](http://www.informatics.jax.org/marker/MGI:102556) | All phenotypic alleles (9):Targeted, knock-out(1) Targeted, other(8) |
-| Xenopus |  | [100488041](https://www.ncbi.nlm.nih.gov/gene/100488041), [373555](https://www.ncbi.nlm.nih.gov/gene/373555) | [951381](http://www.xenbase.org/gene/showgene.do?method=display&geneId=951381) |  |
-| Zebrafish | [ENSDARG00000030058](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030058) | [100333554](https://www.ncbi.nlm.nih.gov/gene/100333554), [30070](https://www.ncbi.nlm.nih.gov/gene/30070) | [ZFIN:ZDB-GENE-991124-5](https://zfin.org/ZDB-GENE-991124-5) | ZDB-GENE-991124-5 |
+| Xenopus | [ENSXETG00000010718](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010718) | [100488041](https://www.ncbi.nlm.nih.gov/gene/100488041) |  |  |
+| Zebrafish | [ENSDARG00000030058](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030058) | [30070](https://www.ncbi.nlm.nih.gov/gene/30070) | [ZFIN:ZDB-GENE-991124-5](https://zfin.org/ZDB-GENE-991124-5) | anatomical structure morphogenesis, angiogenesis, cell fate specification, embryonic hindlimb morphogenesis, embryonic pelvic fin morphogenesis |
 

@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418613
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416812
   X-XIV: stage XIII
-gene_id: '453661'
+gene_id: '418613'
 gene_type: protein-coding
 images:
 - caption: SCML2 expression
@@ -50,40 +50,31 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SCML2.Trevers.2023-Fig7-7-P.jpg
 name: sex comb on midleg-like 2 (Drosophila)
-ncbi_id: '453661'
+ncbi_id: '418613'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000102098
   entrez: '10389'
   mod: MIM:300208
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000000037
-  entrez: '107815'
-  mod: MGI:1340042
-  phenotypes: All phenotypic alleles (2):Targeted, other(2)
-  species: Mouse
-- ensembl: ''
-  entrez: 780057,735037
-  mod: '6043727'
+- ensembl: ENSXETG00000001116
+  entrez: '780057'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '100330797'
+- ensembl: ENSDARG00000012949
+  entrez: '559561'
   mod: ZFIN:ZDB-GENE-130530-546
-  phenotypes: ZDB-GENE-130530-546
+  phenotypes: negative regulation of DNA-templated transcription, regulation of DNA-templated
+    transcription
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453661
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418613
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453661
+  url: https://www.ncbi.nlm.nih.gov/gene/418613
 species: Gallus gallus
 symbol: SCML2
 title: SCML2
@@ -107,9 +98,7 @@ title: SCML2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000102098](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000102098) | [10389](https://www.ncbi.nlm.nih.gov/gene/10389) | [MIM:300208](https://omim.org/entry/300208) |  |
-| Mouse | [ENSMUSG00000000037](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000037) | [107815](https://www.ncbi.nlm.nih.gov/gene/107815) | [MGI:1340042](http://www.informatics.jax.org/marker/MGI:1340042) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [780057](https://www.ncbi.nlm.nih.gov/gene/780057), [735037](https://www.ncbi.nlm.nih.gov/gene/735037) | [6043727](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6043727) |  |
-| Zebrafish |  | [100330797](https://www.ncbi.nlm.nih.gov/gene/100330797) | [ZFIN:ZDB-GENE-130530-546](https://zfin.org/ZDB-GENE-130530-546) | ZDB-GENE-130530-546 |
+| Xenopus | [ENSXETG00000001116](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001116) | [780057](https://www.ncbi.nlm.nih.gov/gene/780057) |  |  |
+| Zebrafish | [ENSDARG00000012949](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012949) | [559561](https://www.ncbi.nlm.nih.gov/gene/559561) | [ZFIN:ZDB-GENE-130530-546](https://zfin.org/ZDB-GENE-130530-546) | negative regulation of DNA-templated transcription, regulation of DNA-templated transcription |
 

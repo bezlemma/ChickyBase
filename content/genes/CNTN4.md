@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396149
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414435
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/CNTN4
-gene_id: '458823'
+gene_id: '396149'
 gene_type: protein-coding
 images:
 - caption: CNTN4 expression
@@ -86,37 +86,32 @@ images:
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yamagata.2012.Figure6.n2.CNTN4-CNTN5-2.jpg
 name: contactin 4
-ncbi_id: '458823'
+ncbi_id: '396149'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000144619
   entrez: '152330'
   mod: MIM:607280
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000064293
+  entrez: '269784'
+  mod: MGI:1095737
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100216195,432118
-  mod: '492898'
+- ensembl: ENSXETG00000031338
+  entrez: '100216195'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000019405,ENSDARG00000062880
-  entrez: 571349,569437
-  mod: ZFIN:ZDB-GENE-060929-776,ZFIN:ZDB-GENE-081030-10
-  phenotypes: ZDB-GENE-060929-776,ZDB-GENE-081030-10
+- ensembl: ENSDARG00000109387
+  entrez: '571349'
+  mod: ZFIN:ZDB-GENE-060929-776
+  phenotypes: axon guidance, brain development, cell adhesion, cell-cell adhesion
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458823
+  url: https://www.ncbi.nlm.nih.gov/gene/396149
 species: Gallus gallus
 symbol: CNTN4
 title: CNTN4
@@ -143,9 +138,8 @@ title: CNTN4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000144619](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000144619) | [152330](https://www.ncbi.nlm.nih.gov/gene/152330) | [MIM:607280](https://omim.org/entry/607280) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100216195](https://www.ncbi.nlm.nih.gov/gene/100216195), [432118](https://www.ncbi.nlm.nih.gov/gene/432118) | [492898](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492898) |  |
-| Zebrafish | [ENSDARG00000019405](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019405), [ENSDARG00000062880](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062880) | [571349](https://www.ncbi.nlm.nih.gov/gene/571349), [569437](https://www.ncbi.nlm.nih.gov/gene/569437) | [ZFIN:ZDB-GENE-060929-776](https://zfin.org/ZDB-GENE-060929-776), [ZFIN:ZDB-GENE-081030-10](https://zfin.org/ZDB-GENE-081030-10) | ZDB-GENE-060929-776,ZDB-GENE-081030-10 |
+| Mouse | [ENSMUSG00000064293](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000064293) | [269784](https://www.ncbi.nlm.nih.gov/gene/269784) | [MGI:1095737](http://www.informatics.jax.org/marker/MGI:1095737) |  |
+| Xenopus | [ENSXETG00000031338](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031338) | [100216195](https://www.ncbi.nlm.nih.gov/gene/100216195) |  |  |
+| Zebrafish | [ENSDARG00000109387](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000109387) | [571349](https://www.ncbi.nlm.nih.gov/gene/571349) | [ZFIN:ZDB-GENE-060929-776](https://zfin.org/ZDB-GENE-060929-776) | axon guidance, brain development, cell adhesion, cell-cell adhesion |
 

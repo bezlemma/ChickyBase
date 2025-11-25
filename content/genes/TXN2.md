@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426978
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031410
-gene_id: '451669'
+gene_id: '426978'
 gene_type: protein-coding
 images:
 - caption: TXN2 expression
@@ -34,13 +34,8 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TXN2.Roy.2013.F5.txn2.png
 name: thioredoxin 2
-ncbi_id: '451669'
+ncbi_id: '426978'
 orthologs:
-- ensembl: ''
-  entrez: '38301'
-  mod: FBgn0035334
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100348
   entrez: '25828'
   mod: MIM:609063
@@ -51,20 +46,20 @@ orthologs:
   mod: MGI:1929468
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 493523,379758
-  mod: '943372'
+- ensembl: ENSXETG00000035461
+  entrez: '493523'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000034777
   entrez: '402938'
   mod: ZFIN:ZDB-GENE-040426-1795
-  phenotypes: ZDB-GENE-040426-1795
+  phenotypes: cell redox homeostasis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451669
+  url: https://www.ncbi.nlm.nih.gov/gene/426978
 species: Gallus gallus
 symbol: TXN2
 title: TXN2
@@ -92,9 +87,8 @@ title: TXN2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38301](https://www.ncbi.nlm.nih.gov/gene/38301) | FBgn0035334 |  |
 | Human | [ENSG00000100348](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100348) | [25828](https://www.ncbi.nlm.nih.gov/gene/25828) | [MIM:609063](https://omim.org/entry/609063) |  |
 | Mouse | [ENSMUSG00000005354](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005354) | [56551](https://www.ncbi.nlm.nih.gov/gene/56551) | [MGI:1929468](http://www.informatics.jax.org/marker/MGI:1929468) | All phenotypic alleles (3):Targeted, knock-out(2) Gene trapped(1) |
-| Xenopus |  | [493523](https://www.ncbi.nlm.nih.gov/gene/493523), [379758](https://www.ncbi.nlm.nih.gov/gene/379758) | [943372](http://www.xenbase.org/gene/showgene.do?method=display&geneId=943372) |  |
-| Zebrafish | [ENSDARG00000034777](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034777) | [402938](https://www.ncbi.nlm.nih.gov/gene/402938) | [ZFIN:ZDB-GENE-040426-1795](https://zfin.org/ZDB-GENE-040426-1795) | ZDB-GENE-040426-1795 |
+| Xenopus | [ENSXETG00000035461](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000035461) | [493523](https://www.ncbi.nlm.nih.gov/gene/493523) |  |  |
+| Zebrafish | [ENSDARG00000034777](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034777) | [402938](https://www.ncbi.nlm.nih.gov/gene/402938) | [ZFIN:ZDB-GENE-040426-1795](https://zfin.org/ZDB-GENE-040426-1795) | cell redox homeostasis |
 

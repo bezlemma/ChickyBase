@@ -4,14 +4,13 @@ aliases:
 - luman-recruiting factor
 cgnc_id: '2078'
 external_ids:
-  '25': stage 25
   Comments: Widespread expression detected at stages 9-25.
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/416206
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416206
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001231573
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAGGCAAGCAAACCCGCGACA
-gene_id: '457420'
+gene_id: '416206'
 gene_type: protein-coding
 images:
 - caption: CREBRF expression
@@ -101,16 +100,11 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R296.C5ORF41.S25.001.jpg
 name: CREB3 regulatory factor
-ncbi_id: '457420'
+ncbi_id: '416206'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164463
   entrez: '153222'
-  mod: ''
+  mod: MIM:617109
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000048249
@@ -118,24 +112,25 @@ orthologs:
   mod: MGI:1924378
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '988759'
+- ensembl: ENSXETG00000012727
+  entrez: '100490775'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000078581
+- ensembl: ENSDARG00000105114
   entrez: '100149876'
-  mod: ZFIN:ZDB-GENE-120203-3,ZFIN:ZDB-GENE-120203-3
-  phenotypes: ZDB-GENE-120203-3,ZDB-GENE-120203-3
+  mod: ZFIN:ZDB-GENE-120203-3
+  phenotypes: regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II, response to unfolded protein
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCAAGGCCACCTGTGGGGTCTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457420
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416206
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457420
+  url: https://www.ncbi.nlm.nih.gov/gene/416206
 species: Gallus gallus
 symbol: CREBRF
 template_length: '1272'
@@ -159,9 +154,8 @@ title: CREBRF
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000164463](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164463) | [153222](https://www.ncbi.nlm.nih.gov/gene/153222) |  |  |
+| Human | [ENSG00000164463](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164463) | [153222](https://www.ncbi.nlm.nih.gov/gene/153222) | [MIM:617109](https://omim.org/entry/617109) |  |
 | Mouse | [ENSMUSG00000048249](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048249) | [77128](https://www.ncbi.nlm.nih.gov/gene/77128) | [MGI:1924378](http://www.informatics.jax.org/marker/MGI:1924378) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  |  | [988759](http://www.xenbase.org/gene/showgene.do?method=display&geneId=988759) |  |
-| Zebrafish | [ENSDARG00000078581](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078581) | [100149876](https://www.ncbi.nlm.nih.gov/gene/100149876) | [ZFIN:ZDB-GENE-120203-3](https://zfin.org/ZDB-GENE-120203-3), [ZFIN:ZDB-GENE-120203-3](https://zfin.org/ZDB-GENE-120203-3) | ZDB-GENE-120203-3,ZDB-GENE-120203-3 |
+| Xenopus | [ENSXETG00000012727](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012727) | [100490775](https://www.ncbi.nlm.nih.gov/gene/100490775) |  |  |
+| Zebrafish | [ENSDARG00000105114](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000105114) | [100149876](https://www.ncbi.nlm.nih.gov/gene/100149876) | [ZFIN:ZDB-GENE-120203-3](https://zfin.org/ZDB-GENE-120203-3) | regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II, response to unfolded protein |
 

@@ -13,7 +13,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0019904
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204116
 forward_primer: GATGCTCAGGTCTCTGCCAATAAG
-gene_id: '459407'
+gene_id: '373905'
 gene_type: protein-coding
 images:
 - caption: BASP1 expression
@@ -209,7 +209,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BASP1.S26AAA.001.jpg
 name: brain abundant membrane attached signal protein 1
-ncbi_id: '459407'
+ncbi_id: '373905'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -234,16 +234,16 @@ orthologs:
 - ensembl: ENSDARG00000053358
   entrez: '569631'
   mod: ZFIN:ZDB-GENE-070424-158
-  phenotypes: ZDB-GENE-070424-158
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGTTTCGCTTCCTCTGGTGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459407
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373905
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459407
+  url: https://www.ncbi.nlm.nih.gov/gene/373905
 species: Gallus gallus
 symbol: BASP1
 template_length: '493'
@@ -272,5 +272,5 @@ title: BASP1
 | Human | [ENSG00000176788](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000176788) | [10409](https://www.ncbi.nlm.nih.gov/gene/10409) | [MIM:605940](https://omim.org/entry/605940) |  |
 | Mouse | [ENSMUSG00000045763](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000045763) | [70350](https://www.ncbi.nlm.nih.gov/gene/70350) | [MGI:1917600](http://www.informatics.jax.org/marker/MGI:1917600) | All phenotypic alleles (5):Targeted, other(5) |
 | Xenopus |  | [496542](https://www.ncbi.nlm.nih.gov/gene/496542), [734877](https://www.ncbi.nlm.nih.gov/gene/734877) | [6258617](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6258617) |  |
-| Zebrafish | [ENSDARG00000053358](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053358) | [569631](https://www.ncbi.nlm.nih.gov/gene/569631) | [ZFIN:ZDB-GENE-070424-158](https://zfin.org/ZDB-GENE-070424-158) | ZDB-GENE-070424-158 |
+| Zebrafish | [ENSDARG00000053358](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053358) | [569631](https://www.ncbi.nlm.nih.gov/gene/569631) | [ZFIN:ZDB-GENE-070424-158](https://zfin.org/ZDB-GENE-070424-158) |  |
 

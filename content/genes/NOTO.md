@@ -3,7 +3,6 @@ aliases:
 - CNOT, GNOT1, notochord homeobox
 cgnc_id: '49744'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Stein+1995+node+Kessel
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Stein et al. 1995. CNOT is also known as
@@ -16,7 +15,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205354
   X-XIV: stage XI
-gene_id: '461393'
+gene_id: '396302'
 gene_type: protein-coding
 images:
 - caption: NOTO expression
@@ -497,40 +496,27 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cnot.Stein.1995.Fig6.jpg
 name: notochord homeobox
-ncbi_id: '461393'
+ncbi_id: '396302'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000011780
+  entrez: '100038059'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000021201
+  entrez: '30260'
+  mod: ZFIN:ZDB-GENE-990415-75
+  phenotypes: adrenal gland development, axial mesoderm morphogenesis, axial mesoderm
+    structural organization, axial mesodermal cell fate specification, determination
+    of heart left/right asymmetry
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461393
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396302
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461393
+  url: https://www.ncbi.nlm.nih.gov/gene/396302
 species: Gallus gallus
 symbol: NOTO
 title: NOTO
@@ -557,9 +543,6 @@ title: NOTO
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000011780](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011780) | [100038059](https://www.ncbi.nlm.nih.gov/gene/100038059) |  |  |
+| Zebrafish | [ENSDARG00000021201](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021201) | [30260](https://www.ncbi.nlm.nih.gov/gene/30260) | [ZFIN:ZDB-GENE-990415-75](https://zfin.org/ZDB-GENE-990415-75) | adrenal gland development, axial mesoderm morphogenesis, axial mesoderm structural organization, axial mesodermal cell fate specification, determination of heart left/right asymmetry |
 

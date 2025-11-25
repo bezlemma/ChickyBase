@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419528
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417679
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/NEFL
-gene_id: '458248'
+gene_id: '419528'
 gene_type: protein-coding
 images:
 - caption: NEFL expression
@@ -35,37 +35,32 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NEUROFIlAMENT.Huber.2008.Fig.1.png
 name: neurofilament, light polypeptide
-ncbi_id: '458248'
+ncbi_id: '419528'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000277586
   entrez: '4747'
   mod: MIM:162280
   phenotypes: MIM:607734
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000022055
   entrez: '18039'
   mod: MGI:97313
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100216135,397822
-  mod: '492105'
+- ensembl: ENSXETG00000010142
+  entrez: '100216135'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000012426,ENSDARG00000057568
-  entrez: 664698,793912
-  mod: ZFIN:ZDB-GENE-060312-44,ZFIN:ZDB-GENE-091117-1
-  phenotypes: ZDB-GENE-060312-44,ZDB-GENE-091117-1
+- ensembl: ENSDARG00000057568
+  entrez: '793912'
+  mod: ZFIN:ZDB-GENE-091117-1
+  phenotypes: neurofilament bundle assembly
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458248
+  url: https://www.ncbi.nlm.nih.gov/gene/419528
 species: Gallus gallus
 symbol: NEFL
 title: NEFL
@@ -92,9 +87,8 @@ title: NEFL
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000277586](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000277586) | [4747](https://www.ncbi.nlm.nih.gov/gene/4747) | [MIM:162280](https://omim.org/entry/162280) | MIM:607734 |
-| Mouse |  | [18039](https://www.ncbi.nlm.nih.gov/gene/18039) | [MGI:97313](http://www.informatics.jax.org/marker/MGI:97313) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100216135](https://www.ncbi.nlm.nih.gov/gene/100216135), [397822](https://www.ncbi.nlm.nih.gov/gene/397822) | [492105](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492105) |  |
-| Zebrafish | [ENSDARG00000012426](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012426), [ENSDARG00000057568](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057568) | [664698](https://www.ncbi.nlm.nih.gov/gene/664698), [793912](https://www.ncbi.nlm.nih.gov/gene/793912) | [ZFIN:ZDB-GENE-060312-44](https://zfin.org/ZDB-GENE-060312-44), [ZFIN:ZDB-GENE-091117-1](https://zfin.org/ZDB-GENE-091117-1) | ZDB-GENE-060312-44,ZDB-GENE-091117-1 |
+| Mouse | [ENSMUSG00000022055](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022055) | [18039](https://www.ncbi.nlm.nih.gov/gene/18039) | [MGI:97313](http://www.informatics.jax.org/marker/MGI:97313) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
+| Xenopus | [ENSXETG00000010142](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010142) | [100216135](https://www.ncbi.nlm.nih.gov/gene/100216135) |  |  |
+| Zebrafish | [ENSDARG00000057568](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057568) | [793912](https://www.ncbi.nlm.nih.gov/gene/793912) | [ZFIN:ZDB-GENE-091117-1](https://zfin.org/ZDB-GENE-091117-1) | neurofilament bundle assembly |
 

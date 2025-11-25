@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423816
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421688
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATTGTCAACCCTGTATTTGGTGGC
-gene_id: '450211'
+gene_id: '423816'
 gene_type: protein-coding
 images:
 - caption: CPEB3 expression
@@ -45,13 +45,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R213.CPEB3.S24.001.jpg
 name: cytoplasmic polyadenylation element binding protein 3
-ncbi_id: '450211'
+ncbi_id: '423816'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000107864
   entrez: '22849'
   mod: MIM:610606
@@ -62,24 +57,25 @@ orthologs:
   mod: MGI:2443075
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000012190
   entrez: '548679'
-  mod: '5716008'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000060103
   entrez: '100005268'
   mod: ZFIN:ZDB-GENE-090312-68
-  phenotypes: ZDB-GENE-090312-68
+  phenotypes: long-term memory, negative regulation of cytoplasmic translation, regulation
+    of postsynapse assembly, regulation of translation
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAAAGGCTGAGACCCATCCATTAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450211
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423816
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450211
+  url: https://www.ncbi.nlm.nih.gov/gene/423816
 species: Gallus gallus
 symbol: CPEB3
 template_length: '1122'
@@ -101,9 +97,8 @@ title: CPEB3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000107864](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107864) | [22849](https://www.ncbi.nlm.nih.gov/gene/22849) | [MIM:610606](https://omim.org/entry/610606) |  |
 | Mouse | [ENSMUSG00000039652](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039652) | [208922](https://www.ncbi.nlm.nih.gov/gene/208922) | [MGI:2443075](http://www.informatics.jax.org/marker/MGI:2443075) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [548679](https://www.ncbi.nlm.nih.gov/gene/548679) | [5716008](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5716008) |  |
-| Zebrafish | [ENSDARG00000060103](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060103) | [100005268](https://www.ncbi.nlm.nih.gov/gene/100005268) | [ZFIN:ZDB-GENE-090312-68](https://zfin.org/ZDB-GENE-090312-68) | ZDB-GENE-090312-68 |
+| Xenopus | [ENSXETG00000012190](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012190) | [548679](https://www.ncbi.nlm.nih.gov/gene/548679) |  |  |
+| Zebrafish | [ENSDARG00000060103](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060103) | [100005268](https://www.ncbi.nlm.nih.gov/gene/100005268) | [ZFIN:ZDB-GENE-090312-68](https://zfin.org/ZDB-GENE-090312-68) | long-term memory, negative regulation of cytoplasmic translation, regulation of postsynapse assembly, regulation of translation |
 

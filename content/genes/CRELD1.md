@@ -10,7 +10,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/100858613
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
-gene_id: '473144'
+gene_id: '100858613'
 gene_type: unknown
 images:
 - caption: CRELD1 expression
@@ -28,37 +28,32 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig. 5.jpg
 name: cysteine rich with EGF like domains 1
-ncbi_id: '473144'
+ncbi_id: '100858613'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000163703
+  entrez: '78987'
+  mod: MIM:607170
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000030284
+  entrez: '171508'
+  mod: MGI:2152539
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000023532
+  entrez: '100498303'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSDARG00000006990
+  entrez: '569741'
+  mod: ZFIN:ZDB-GENE-161219-1
   phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/473144
+  url: https://www.ncbi.nlm.nih.gov/gene/100858613
 species: Gallus gallus
 symbol: CRELD1
 title: CRELD1
@@ -82,9 +77,8 @@ title: CRELD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000163703](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163703) | [78987](https://www.ncbi.nlm.nih.gov/gene/78987) | [MIM:607170](https://omim.org/entry/607170) |  |
+| Mouse | [ENSMUSG00000030284](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030284) | [171508](https://www.ncbi.nlm.nih.gov/gene/171508) | [MGI:2152539](http://www.informatics.jax.org/marker/MGI:2152539) |  |
+| Xenopus | [ENSXETG00000023532](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023532) | [100498303](https://www.ncbi.nlm.nih.gov/gene/100498303) |  |  |
+| Zebrafish | [ENSDARG00000006990](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006990) | [569741](https://www.ncbi.nlm.nih.gov/gene/569741) | [ZFIN:ZDB-GENE-161219-1](https://zfin.org/ZDB-GENE-161219-1) |  |
 

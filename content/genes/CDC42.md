@@ -13,7 +13,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005525
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205048
 forward_primer: TGATAGATTACGACCCCTCAG
-gene_id: '450453'
+gene_id: '395917'
 gene_type: protein-coding
 images:
 - caption: CDC42 expression
@@ -134,42 +134,32 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R581.CDC42.S18.001.jpg
 name: cell division cycle 42
-ncbi_id: '450453'
+ncbi_id: '395917'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000070831
+  entrez: '998'
+  mod: MIM:116952
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000006699
-  entrez: '12540'
-  mod: MGI:106211
-  phenotypes: All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(4)
-    Gene trapped(1)
-  species: Mouse
-- ensembl: ''
-  entrez: 493389,379055
-  mod: '967584'
+- ensembl: ENSXETG00000004743
+  entrez: '493389'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000116748
   entrez: '793158'
   mod: ZFIN:ZDB-GENE-030131-6069
-  phenotypes: ZDB-GENE-030131-6069
+  phenotypes: actin filament organization, anatomical structure morphogenesis, cell
+    division, endocytosis, establishment of cell polarity
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAAGGCTGCTCACACATAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450453
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395917
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450453
+  url: https://www.ncbi.nlm.nih.gov/gene/395917
 species: Gallus gallus
 symbol: CDC42
 template_length: '836'
@@ -195,9 +185,7 @@ title: CDC42
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse | [ENSMUSG00000006699](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000006699) | [12540](https://www.ncbi.nlm.nih.gov/gene/12540) | [MGI:106211](http://www.informatics.jax.org/marker/MGI:106211) | All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(4) Gene trapped(1) |
-| Xenopus |  | [493389](https://www.ncbi.nlm.nih.gov/gene/493389), [379055](https://www.ncbi.nlm.nih.gov/gene/379055) | [967584](http://www.xenbase.org/gene/showgene.do?method=display&geneId=967584) |  |
-| Zebrafish |  | [793158](https://www.ncbi.nlm.nih.gov/gene/793158) | [ZFIN:ZDB-GENE-030131-6069](https://zfin.org/ZDB-GENE-030131-6069) | ZDB-GENE-030131-6069 |
+| Human | [ENSG00000070831](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000070831) | [998](https://www.ncbi.nlm.nih.gov/gene/998) | [MIM:116952](https://omim.org/entry/116952) |  |
+| Xenopus | [ENSXETG00000004743](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004743) | [493389](https://www.ncbi.nlm.nih.gov/gene/493389) |  |  |
+| Zebrafish | [ENSDARG00000116748](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116748) | [793158](https://www.ncbi.nlm.nih.gov/gene/793158) | [ZFIN:ZDB-GENE-030131-6069](https://zfin.org/ZDB-GENE-030131-6069) | actin filament organization, anatomical structure morphogenesis, cell division, endocytosis, establishment of cell polarity |
 

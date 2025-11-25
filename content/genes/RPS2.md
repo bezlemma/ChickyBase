@@ -9,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416544
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277164
-gene_id: '455464'
+gene_id: '416544'
 gene_type: protein-coding
 images:
 - caption: RPS2 expression
@@ -34,40 +34,35 @@ images:
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/W40_13_mag.jpg
 name: ribosomal protein S2
-ncbi_id: '455464'
+ncbi_id: '416544'
 orthologs:
-- ensembl: ''
-  entrez: '34309'
-  mod: FBgn0004867
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000140988
+- ensembl: ENSG00000291931
   entrez: '6187'
   mod: MIM:603624
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000044533
-  entrez: 16898,546298,667279
-  mod: MGI:105110,MGI:3705640,MGI:3645604
+  entrez: '16898'
+  mod: MGI:105110
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 493255,380576
-  mod: '1003615'
+- ensembl: ENSXETG00000007220
+  entrez: '493255'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000077291
-  entrez: 406565,325635
-  mod: ZFIN:ZDB-GENE-040426-2454,ZFIN:ZDB-GENE-030131-4360
-  phenotypes: ZDB-GENE-040426-2454,ZDB-GENE-030131-4360
+  entrez: '406565'
+  mod: ZFIN:ZDB-GENE-040426-2454
+  phenotypes: translation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455464
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416544
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455464
+  url: https://www.ncbi.nlm.nih.gov/gene/416544
 species: Gallus gallus
 symbol: RPS2
 title: RPS2
@@ -90,9 +85,8 @@ title: RPS2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34309](https://www.ncbi.nlm.nih.gov/gene/34309) | FBgn0004867 |  |
-| Human | [ENSG00000140988](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140988) | [6187](https://www.ncbi.nlm.nih.gov/gene/6187) | [MIM:603624](https://omim.org/entry/603624) |  |
-| Mouse | [ENSMUSG00000044533](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000044533) | [16898](https://www.ncbi.nlm.nih.gov/gene/16898), [546298](https://www.ncbi.nlm.nih.gov/gene/546298), [667279](https://www.ncbi.nlm.nih.gov/gene/667279) | [MGI:105110](http://www.informatics.jax.org/marker/MGI:105110), [MGI:3705640](http://www.informatics.jax.org/marker/MGI:3705640), [MGI:3645604](http://www.informatics.jax.org/marker/MGI:3645604) |  |
-| Xenopus |  | [493255](https://www.ncbi.nlm.nih.gov/gene/493255), [380576](https://www.ncbi.nlm.nih.gov/gene/380576) | [1003615](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1003615) |  |
-| Zebrafish | [ENSDARG00000077291](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077291) | [406565](https://www.ncbi.nlm.nih.gov/gene/406565), [325635](https://www.ncbi.nlm.nih.gov/gene/325635) | [ZFIN:ZDB-GENE-040426-2454](https://zfin.org/ZDB-GENE-040426-2454), [ZFIN:ZDB-GENE-030131-4360](https://zfin.org/ZDB-GENE-030131-4360) | ZDB-GENE-040426-2454,ZDB-GENE-030131-4360 |
+| Human | [ENSG00000291931](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000291931) | [6187](https://www.ncbi.nlm.nih.gov/gene/6187) | [MIM:603624](https://omim.org/entry/603624) |  |
+| Mouse | [ENSMUSG00000044533](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000044533) | [16898](https://www.ncbi.nlm.nih.gov/gene/16898) | [MGI:105110](http://www.informatics.jax.org/marker/MGI:105110) |  |
+| Xenopus | [ENSXETG00000007220](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007220) | [493255](https://www.ncbi.nlm.nih.gov/gene/493255) |  |  |
+| Zebrafish | [ENSDARG00000077291](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077291) | [406565](https://www.ncbi.nlm.nih.gov/gene/406565) | [ZFIN:ZDB-GENE-040426-2454](https://zfin.org/ZDB-GENE-040426-2454) | translation |
 

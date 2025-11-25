@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395836
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204988
 forward_primer: TCCTTGGAAGCCCAGCCTAATG
-gene_id: '450054'
+gene_id: '395836'
 gene_type: protein-coding
 images:
 - caption: MERTK expression
@@ -104,13 +104,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/c‐eyk.Nelson.2004.fig1.jpg
 name: MER proto-oncogene, tyrosine kinase
-ncbi_id: '450054'
+ncbi_id: '395836'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000153208
   entrez: '10461'
   mod: MIM:604705
@@ -121,24 +116,25 @@ orthologs:
   mod: MGI:96965
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000013781
   entrez: '100485743'
-  mod: '493220'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000074695
   entrez: '100322133'
   mod: ZFIN:ZDB-GENE-081107-1
-  phenotypes: ZDB-GENE-081107-1
+  phenotypes: cell migration, cell surface receptor protein tyrosine kinase signaling
+    pathway, nervous system development, phagocytosis, phosphorylation
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAAGAAACTGCCGACTGCTCAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450054
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395836
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450054
+  url: https://www.ncbi.nlm.nih.gov/gene/395836
 species: Gallus gallus
 symbol: MERTK
 template_length: '855'
@@ -165,9 +161,8 @@ title: MERTK
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000153208](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000153208) | [10461](https://www.ncbi.nlm.nih.gov/gene/10461) | [MIM:604705](https://omim.org/entry/604705) | MIM:613862 |
 | Mouse | [ENSMUSG00000014361](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000014361) | [17289](https://www.ncbi.nlm.nih.gov/gene/17289) | [MGI:96965](http://www.informatics.jax.org/marker/MGI:96965) | All phenotypic alleles (3):Targeted, knock-out(3) |
-| Xenopus |  | [100485743](https://www.ncbi.nlm.nih.gov/gene/100485743) | [493220](http://www.xenbase.org/gene/showgene.do?method=display&geneId=493220) |  |
-| Zebrafish | [ENSDARG00000074695](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074695) | [100322133](https://www.ncbi.nlm.nih.gov/gene/100322133) | [ZFIN:ZDB-GENE-081107-1](https://zfin.org/ZDB-GENE-081107-1) | ZDB-GENE-081107-1 |
+| Xenopus | [ENSXETG00000013781](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013781) | [100485743](https://www.ncbi.nlm.nih.gov/gene/100485743) |  |  |
+| Zebrafish | [ENSDARG00000074695](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074695) | [100322133](https://www.ncbi.nlm.nih.gov/gene/100322133) | [ZFIN:ZDB-GENE-081107-1](https://zfin.org/ZDB-GENE-081107-1) | cell migration, cell surface receptor protein tyrosine kinase signaling pathway, nervous system development, phagocytosis, phosphorylation |
 

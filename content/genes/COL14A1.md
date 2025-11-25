@@ -19,7 +19,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396276
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205334
-gene_id: '462585'
+gene_id: '396276'
 gene_type: protein-coding
 images:
 - caption: COL14A1 expression
@@ -44,13 +44,8 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/UNDULIN.perichond.Bandyopadhyay.2008.f3.undulin.png
 name: collagen type XIV alpha 1 chain
-ncbi_id: '462585'
+ncbi_id: '396276'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000187955
   entrez: '7373'
   mod: MIM:120324
@@ -61,20 +56,15 @@ orthologs:
   mod: MGI:1341272
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: '100216005'
-  mod: '990915'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000005762
-  entrez: 321298,323265
-  mod: ZFIN:ZDB-GENE-030131-9889,ZFIN:ZDB-GENE-030131-1985
-  phenotypes: ZDB-GENE-030131-9889,ZDB-GENE-030131-1985
+  entrez: '321298'
+  mod: ZFIN:ZDB-GENE-030131-9889
+  phenotypes: basement membrane assembly, cell adhesion, extracellular matrix organization
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462585
+  url: https://www.ncbi.nlm.nih.gov/gene/396276
 species: Gallus gallus
 symbol: COL14A1
 title: COL14A1
@@ -102,9 +92,7 @@ title: COL14A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000187955](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000187955) | [7373](https://www.ncbi.nlm.nih.gov/gene/7373) | [MIM:120324](https://omim.org/entry/120324) |  |
 | Mouse | [ENSMUSG00000022371](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022371) | [12818](https://www.ncbi.nlm.nih.gov/gene/12818) | [MGI:1341272](http://www.informatics.jax.org/marker/MGI:1341272) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100216005](https://www.ncbi.nlm.nih.gov/gene/100216005) | [990915](http://www.xenbase.org/gene/showgene.do?method=display&geneId=990915) |  |
-| Zebrafish | [ENSDARG00000005762](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005762) | [321298](https://www.ncbi.nlm.nih.gov/gene/321298), [323265](https://www.ncbi.nlm.nih.gov/gene/323265) | [ZFIN:ZDB-GENE-030131-9889](https://zfin.org/ZDB-GENE-030131-9889), [ZFIN:ZDB-GENE-030131-1985](https://zfin.org/ZDB-GENE-030131-1985) | ZDB-GENE-030131-9889,ZDB-GENE-030131-1985 |
+| Zebrafish | [ENSDARG00000005762](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005762) | [321298](https://www.ncbi.nlm.nih.gov/gene/321298) | [ZFIN:ZDB-GENE-030131-9889](https://zfin.org/ZDB-GENE-030131-9889) | basement membrane assembly, cell adhesion, extracellular matrix organization |
 

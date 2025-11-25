@@ -22,7 +22,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396244
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205306
-gene_id: '462363'
+gene_id: '396244'
 gene_type: protein-coding
 images:
 - caption: MYB expression
@@ -82,13 +82,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cMyb.Betancur.2011.F4.jpg
 name: MYB proto-oncogene, transcription factor
-ncbi_id: '462363'
+ncbi_id: '396244'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000118513
   entrez: '4602'
   mod: MIM:189990
@@ -100,20 +95,21 @@ orthologs:
   phenotypes: All phenotypic alleles (14):Chemically induced(4) Targeted, knock-out(2)
     Targeted, other(8)
   species: Mouse
-- ensembl: ''
-  entrez: 613049,398039
-  mod: '867552'
+- ensembl: ENSXETG00000003725
+  entrez: '613049'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000053666
+- ensembl: ENSDARG00000114024
   entrez: '30519'
   mod: ZFIN:ZDB-GENE-991110-14
-  phenotypes: ZDB-GENE-991110-14
+  phenotypes: chordate embryonic development, cilium assembly, definitive hemopoiesis,
+    eye development, hematopoietic stem cell migration
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462363
+  url: https://www.ncbi.nlm.nih.gov/gene/396244
 species: Gallus gallus
 symbol: MYB
 title: MYB
@@ -142,9 +138,8 @@ title: MYB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000118513](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118513) | [4602](https://www.ncbi.nlm.nih.gov/gene/4602) | [MIM:189990](https://omim.org/entry/189990) | MIM:189990 |
 | Mouse | [ENSMUSG00000019982](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019982) | [17863](https://www.ncbi.nlm.nih.gov/gene/17863) | [MGI:97249](http://www.informatics.jax.org/marker/MGI:97249) | All phenotypic alleles (14):Chemically induced(4) Targeted, knock-out(2) Targeted, other(8) |
-| Xenopus |  | [613049](https://www.ncbi.nlm.nih.gov/gene/613049), [398039](https://www.ncbi.nlm.nih.gov/gene/398039) | [867552](http://www.xenbase.org/gene/showgene.do?method=display&geneId=867552) |  |
-| Zebrafish | [ENSDARG00000053666](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053666) | [30519](https://www.ncbi.nlm.nih.gov/gene/30519) | [ZFIN:ZDB-GENE-991110-14](https://zfin.org/ZDB-GENE-991110-14) | ZDB-GENE-991110-14 |
+| Xenopus | [ENSXETG00000003725](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003725) | [613049](https://www.ncbi.nlm.nih.gov/gene/613049) |  |  |
+| Zebrafish | [ENSDARG00000114024](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114024) | [30519](https://www.ncbi.nlm.nih.gov/gene/30519) | [ZFIN:ZDB-GENE-991110-14](https://zfin.org/ZDB-GENE-991110-14) | chordate embryonic development, cilium assembly, definitive hemopoiesis, eye development, hematopoietic stem cell migration |
 

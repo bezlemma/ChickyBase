@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420465
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418567
 forward_primer: 5’-TGCCAGCAAGTGAGACCTG-3’
-gene_id: '456118'
+gene_id: '420465'
 gene_type: protein-coding
 images:
 - caption: GJD4 expression
@@ -79,13 +79,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R711.GJD4.S26.001.jpg
 name: gap junction protein delta 4
-ncbi_id: '456118'
+ncbi_id: '420465'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000177291
   entrez: '219770'
   mod: MIM:611922
@@ -96,24 +91,14 @@ orthologs:
   mod: MGI:2444990
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: '394684'
-  mod: '943622'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000045438
-  entrez: '795763'
-  mod: ZFIN:ZDB-GENE-050616-13
-  phenotypes: ZDB-GENE-050616-13
-  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTGTGCCAGCTGACCTCAAG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456118
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420465
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456118
+  url: https://www.ncbi.nlm.nih.gov/gene/420465
 species: Gallus gallus
 symbol: GJD4
 template_length: '824'
@@ -136,9 +121,6 @@ title: GJD4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000177291](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000177291) | [219770](https://www.ncbi.nlm.nih.gov/gene/219770) | [MIM:611922](https://omim.org/entry/611922) |  |
 | Mouse | [ENSMUSG00000036855](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036855) | [225152](https://www.ncbi.nlm.nih.gov/gene/225152) | [MGI:2444990](http://www.informatics.jax.org/marker/MGI:2444990) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [394684](https://www.ncbi.nlm.nih.gov/gene/394684) | [943622](http://www.xenbase.org/gene/showgene.do?method=display&geneId=943622) |  |
-| Zebrafish | [ENSDARG00000045438](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045438) | [795763](https://www.ncbi.nlm.nih.gov/gene/795763) | [ZFIN:ZDB-GENE-050616-13](https://zfin.org/ZDB-GENE-050616-13) | ZDB-GENE-050616-13 |
 

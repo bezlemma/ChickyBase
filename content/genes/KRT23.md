@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420044
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418167
 forward_primer: AGTATGAAGCGGAGAAGACTCGG
-gene_id: '458334'
+gene_id: '420044'
 gene_type: protein-coding
 images:
 - caption: KRT23 expression
@@ -85,14 +85,9 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R472.KRT23.S27A.001.jpg
 name: keratin 23
-ncbi_id: '458334'
+ncbi_id: '420044'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000108244
+- ensembl: ENSG00000263309
   entrez: '25984'
   mod: MIM:606194
   phenotypes: ''
@@ -102,24 +97,14 @@ orthologs:
   mod: MGI:2148866
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCTTGTTATCCTGTCCACATTGCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458334
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420044
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458334
+  url: https://www.ncbi.nlm.nih.gov/gene/420044
 species: Gallus gallus
 symbol: KRT23
 template_length: '676'
@@ -141,9 +126,6 @@ title: KRT23
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000108244](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000108244) | [25984](https://www.ncbi.nlm.nih.gov/gene/25984) | [MIM:606194](https://omim.org/entry/606194) |  |
+| Human | [ENSG00000263309](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000263309) | [25984](https://www.ncbi.nlm.nih.gov/gene/25984) | [MIM:606194](https://omim.org/entry/606194) |  |
 | Mouse | [ENSMUSG00000006777](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000006777) | [94179](https://www.ncbi.nlm.nih.gov/gene/94179) | [MGI:2148866](http://www.informatics.jax.org/marker/MGI:2148866) |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
 

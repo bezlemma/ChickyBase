@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417406
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415658
 forward_primer: 5’-TGTGAAACGTTGGGGAGAGG-3’
-gene_id: '453213'
+gene_id: '417406'
 gene_type: protein-coding
 images:
 - caption: SUZ12 expression
@@ -89,13 +89,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R644.SUZ12.S26.001.jpg
 name: SUZ12, polycomb repressive complex 2 subunit
-ncbi_id: '453213'
+ncbi_id: '417406'
 orthologs:
-- ensembl: ''
-  entrez: '48071'
-  mod: FBgn0020887
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000178691
   entrez: '23512'
   mod: MIM:606245
@@ -107,24 +102,24 @@ orthologs:
   phenotypes: All phenotypic alleles (6):Chemically induced(1) Targeted, knock-out(1)
     Targeted, other(3) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 779745,100174799
-  mod: '997461'
+- ensembl: ENSXETG00000020055
+  entrez: '779745'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000052022,ENSDARG00000070256
-  entrez: 561871,794171
-  mod: ZFIN:ZDB-GENE-030131-3255,ZFIN:ZDB-GENE-040801-36
-  phenotypes: ZDB-GENE-030131-3255,ZDB-GENE-040801-36
+- ensembl: ENSDARG00000114239
+  entrez: '561871'
+  mod: ZFIN:ZDB-GENE-030131-3255
+  phenotypes: chromatin organization
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCACTCAACCACAGTGCTTGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453213
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417406
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453213
+  url: https://www.ncbi.nlm.nih.gov/gene/417406
 species: Gallus gallus
 symbol: SUZ12
 template_length: '824'
@@ -149,9 +144,8 @@ title: SUZ12
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [48071](https://www.ncbi.nlm.nih.gov/gene/48071) | FBgn0020887 |  |
 | Human | [ENSG00000178691](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000178691) | [23512](https://www.ncbi.nlm.nih.gov/gene/23512) | [MIM:606245](https://omim.org/entry/606245) | MIM:606245 |
 | Mouse | [ENSMUSG00000017548](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000017548) | [52615](https://www.ncbi.nlm.nih.gov/gene/52615) | [MGI:1261758](http://www.informatics.jax.org/marker/MGI:1261758) | All phenotypic alleles (6):Chemically induced(1) Targeted, knock-out(1) Targeted, other(3) Gene trapped(1) |
-| Xenopus |  | [779745](https://www.ncbi.nlm.nih.gov/gene/779745), [100174799](https://www.ncbi.nlm.nih.gov/gene/100174799) | [997461](http://www.xenbase.org/gene/showgene.do?method=display&geneId=997461) |  |
-| Zebrafish | [ENSDARG00000052022](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052022), [ENSDARG00000070256](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070256) | [561871](https://www.ncbi.nlm.nih.gov/gene/561871), [794171](https://www.ncbi.nlm.nih.gov/gene/794171) | [ZFIN:ZDB-GENE-030131-3255](https://zfin.org/ZDB-GENE-030131-3255), [ZFIN:ZDB-GENE-040801-36](https://zfin.org/ZDB-GENE-040801-36) | ZDB-GENE-030131-3255,ZDB-GENE-040801-36 |
+| Xenopus | [ENSXETG00000020055](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020055) | [779745](https://www.ncbi.nlm.nih.gov/gene/779745) |  |  |
+| Zebrafish | [ENSDARG00000114239](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114239) | [561871](https://www.ncbi.nlm.nih.gov/gene/561871) | [ZFIN:ZDB-GENE-030131-3255](https://zfin.org/ZDB-GENE-030131-3255) | chromatin organization |
 

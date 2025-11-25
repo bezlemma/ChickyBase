@@ -4,9 +4,6 @@ aliases:
 - Wnt-4 protein
 cgnc_id: '3556'
 external_ids:
-  '13': stage 13stage 13
-  '25': stage 25stage 25
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0016055
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0009986
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Stark+2000+Frizzled+Mauch
@@ -20,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005109
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204783
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCTGGACAAGTGTGGATGCGAC
-gene_id: '449535'
+gene_id: '395561'
 gene_type: protein-coding
 images:
 - caption: WNT4 expression
@@ -468,13 +465,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt-4.Stark.2000.Fig3.jpg
 name: Wnt family member 4
-ncbi_id: '449535'
+ncbi_id: '395561'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000162552
   entrez: '54361'
   mod: MIM:603490
@@ -485,24 +477,25 @@ orthologs:
   mod: MGI:98957
   phenotypes: All phenotypic alleles (11):Targeted, knock-out(4) Targeted, other(7)
   species: Mouse
-- ensembl: ''
-  entrez: 100491282,397706
-  mod: '484097'
+- ensembl: ENSXETG00000004742
+  entrez: '100491282'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000071208,ENSDARG00000040159
-  entrez: 30123,791993
-  mod: ZFIN:ZDB-GENE-980526-352,ZFIN:ZDB-GENE-000411-1
-  phenotypes: ZDB-GENE-980526-352,ZDB-GENE-000411-1
+- ensembl: ENSDARG00000071208
+  entrez: '30123'
+  mod: ZFIN:ZDB-GENE-980526-352
+  phenotypes: Wnt signaling pathway, animal organ development, canonical Wnt signaling
+    pathway, cell fate commitment, cell migration involved in gastrulation
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGCAAGAGAGAAGCAGGGTCAGTTAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449535
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395561
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449535
+  url: https://www.ncbi.nlm.nih.gov/gene/395561
 species: Gallus gallus
 symbol: WNT4
 template_length: '718'
@@ -532,9 +525,8 @@ title: WNT4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000162552](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162552) | [54361](https://www.ncbi.nlm.nih.gov/gene/54361) | [MIM:603490](https://omim.org/entry/603490) | MIM:158330 |
 | Mouse | [ENSMUSG00000036856](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036856) | [22417](https://www.ncbi.nlm.nih.gov/gene/22417) | [MGI:98957](http://www.informatics.jax.org/marker/MGI:98957) | All phenotypic alleles (11):Targeted, knock-out(4) Targeted, other(7) |
-| Xenopus |  | [100491282](https://www.ncbi.nlm.nih.gov/gene/100491282), [397706](https://www.ncbi.nlm.nih.gov/gene/397706) | [484097](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484097) |  |
-| Zebrafish | [ENSDARG00000071208](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071208), [ENSDARG00000040159](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040159) | [30123](https://www.ncbi.nlm.nih.gov/gene/30123), [791993](https://www.ncbi.nlm.nih.gov/gene/791993) | [ZFIN:ZDB-GENE-980526-352](https://zfin.org/ZDB-GENE-980526-352), [ZFIN:ZDB-GENE-000411-1](https://zfin.org/ZDB-GENE-000411-1) | ZDB-GENE-980526-352,ZDB-GENE-000411-1 |
+| Xenopus | [ENSXETG00000004742](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004742) | [100491282](https://www.ncbi.nlm.nih.gov/gene/100491282) |  |  |
+| Zebrafish | [ENSDARG00000071208](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071208) | [30123](https://www.ncbi.nlm.nih.gov/gene/30123) | [ZFIN:ZDB-GENE-980526-352](https://zfin.org/ZDB-GENE-980526-352) | Wnt signaling pathway, animal organ development, canonical Wnt signaling pathway, cell fate commitment, cell migration involved in gastrulation |
 

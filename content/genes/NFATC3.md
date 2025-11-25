@@ -3,13 +3,12 @@ aliases:
 - cytoplasmic nuclear factor of activated T-cells 3
 cgnc_id: '2472'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/415711
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415711
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414078
 forward_primer: AAACAGAAGGAAGCAGAGGAGCCG
-gene_id: '461698'
+gene_id: '415711'
 gene_type: protein-coding
 images:
 - caption: NFATC3 expression
@@ -123,13 +122,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R340.NFATC3.S25.001.jpg
 name: nuclear factor of activated T-cells 3
-ncbi_id: '461698'
+ncbi_id: '415711'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000072736
   entrez: '4775'
   mod: MIM:602698
@@ -140,24 +134,26 @@ orthologs:
   mod: MGI:103296
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100216091,398297
-  mod: '493917'
+- ensembl: ENSXETG00000005812
+  entrez: '100216091'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000076297
-  entrez: 561772,492400
-  mod: ZFIN:ZDB-GENE-041111-41,ZFIN:ZDB-GENE-100922-25
-  phenotypes: ZDB-GENE-041111-41,ZDB-GENE-100922-25
+- ensembl: ENSDARG00000112133
+  entrez: '561772'
+  mod: ZFIN:ZDB-GENE-041111-41
+  phenotypes: anatomical structure morphogenesis, calcineurin-NFAT signaling cascade,
+    epithelium development, nervous system development, positive regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGATAGGAAGACCAGACCGTTCGTTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461698
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415711
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461698
+  url: https://www.ncbi.nlm.nih.gov/gene/415711
 species: Gallus gallus
 symbol: NFATC3
 template_length: '1144'
@@ -179,9 +175,8 @@ title: NFATC3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000072736](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000072736) | [4775](https://www.ncbi.nlm.nih.gov/gene/4775) | [MIM:602698](https://omim.org/entry/602698) |  |
 | Mouse | [ENSMUSG00000031902](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031902) | [18021](https://www.ncbi.nlm.nih.gov/gene/18021) | [MGI:103296](http://www.informatics.jax.org/marker/MGI:103296) | All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3) |
-| Xenopus |  | [100216091](https://www.ncbi.nlm.nih.gov/gene/100216091), [398297](https://www.ncbi.nlm.nih.gov/gene/398297) | [493917](http://www.xenbase.org/gene/showgene.do?method=display&geneId=493917) |  |
-| Zebrafish | [ENSDARG00000076297](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076297) | [561772](https://www.ncbi.nlm.nih.gov/gene/561772), [492400](https://www.ncbi.nlm.nih.gov/gene/492400) | [ZFIN:ZDB-GENE-041111-41](https://zfin.org/ZDB-GENE-041111-41), [ZFIN:ZDB-GENE-100922-25](https://zfin.org/ZDB-GENE-100922-25) | ZDB-GENE-041111-41,ZDB-GENE-100922-25 |
+| Xenopus | [ENSXETG00000005812](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005812) | [100216091](https://www.ncbi.nlm.nih.gov/gene/100216091) |  |  |
+| Zebrafish | [ENSDARG00000112133](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000112133) | [561772](https://www.ncbi.nlm.nih.gov/gene/561772) | [ZFIN:ZDB-GENE-041111-41](https://zfin.org/ZDB-GENE-041111-41) | anatomical structure morphogenesis, calcineurin-NFAT signaling cascade, epithelium development, nervous system development, positive regulation of transcription by RNA polymerase II |
 

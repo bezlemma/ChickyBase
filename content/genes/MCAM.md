@@ -19,7 +19,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:448832
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004768
-gene_id: '452637'
+gene_id: '448832'
 gene_type: protein-coding
 images:
 - caption: MCAM expression
@@ -107,37 +107,32 @@ images:
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/fig3.MCAM.imgE
 name: melanoma cell adhesion molecule
-ncbi_id: '452637'
+ncbi_id: '448832'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000076706
+  entrez: '4162'
+  mod: MIM:155735
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000032135
+  entrez: '84004'
+  mod: MGI:1933966
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000021591
+  entrez: '100489907'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000110844
+  entrez: '566921'
+  mod: ZFIN:ZDB-GENE-090218-29
+  phenotypes: angiogenesis, biological_process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452637
+  url: https://www.ncbi.nlm.nih.gov/gene/448832
 species: Gallus gallus
 symbol: MCAM
 title: MCAM
@@ -164,9 +159,8 @@ UBC Press". All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000076706](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000076706) | [4162](https://www.ncbi.nlm.nih.gov/gene/4162) | [MIM:155735](https://omim.org/entry/155735) |  |
+| Mouse | [ENSMUSG00000032135](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032135) | [84004](https://www.ncbi.nlm.nih.gov/gene/84004) | [MGI:1933966](http://www.informatics.jax.org/marker/MGI:1933966) |  |
+| Xenopus | [ENSXETG00000021591](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021591) | [100489907](https://www.ncbi.nlm.nih.gov/gene/100489907) |  |  |
+| Zebrafish | [ENSDARG00000110844](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110844) | [566921](https://www.ncbi.nlm.nih.gov/gene/566921) | [ZFIN:ZDB-GENE-090218-29](https://zfin.org/ZDB-GENE-090218-29) | angiogenesis, biological_process |
 

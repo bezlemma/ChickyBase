@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422699
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031149
   X-XIV: stage XIII
-gene_id: '452184'
+gene_id: '422699'
 gene_type: protein-coding
 images:
 - caption: PDLIM5 expression
@@ -157,13 +157,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PDLIM5.Trevers.2023-Fig7-7-H.jpg
 name: PDZ and LIM domain 5
-ncbi_id: '452184'
+ncbi_id: '422699'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163110
   entrez: '10611'
   mod: MIM:605904
@@ -174,23 +169,24 @@ orthologs:
   mod: MGI:1927489
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 548530,100101292
-  mod: '854113'
+- ensembl: ENSXETG00000019217
+  entrez: '548530'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000027600,ENSDARG00000038267
-  entrez: 393165,436927
-  mod: ZFIN:ZDB-GENE-040426-908,ZFIN:ZDB-GENE-040718-401
-  phenotypes: ZDB-GENE-040426-908,ZDB-GENE-040718-401
+- ensembl: ENSDARG00000101777
+  entrez: '436927'
+  mod: ZFIN:ZDB-GENE-040718-401
+  phenotypes: actin cytoskeleton organization, heart development, muscle structure
+    development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452184
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422699
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452184
+  url: https://www.ncbi.nlm.nih.gov/gene/422699
 species: Gallus gallus
 symbol: PDLIM5
 title: PDLIM5
@@ -214,9 +210,8 @@ title: PDLIM5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163110](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163110) | [10611](https://www.ncbi.nlm.nih.gov/gene/10611) | [MIM:605904](https://omim.org/entry/605904) |  |
 | Mouse | [ENSMUSG00000028273](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028273) | [56376](https://www.ncbi.nlm.nih.gov/gene/56376) | [MGI:1927489](http://www.informatics.jax.org/marker/MGI:1927489) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [548530](https://www.ncbi.nlm.nih.gov/gene/548530), [100101292](https://www.ncbi.nlm.nih.gov/gene/100101292) | [854113](http://www.xenbase.org/gene/showgene.do?method=display&geneId=854113) |  |
-| Zebrafish | [ENSDARG00000027600](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027600), [ENSDARG00000038267](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038267) | [393165](https://www.ncbi.nlm.nih.gov/gene/393165), [436927](https://www.ncbi.nlm.nih.gov/gene/436927) | [ZFIN:ZDB-GENE-040426-908](https://zfin.org/ZDB-GENE-040426-908), [ZFIN:ZDB-GENE-040718-401](https://zfin.org/ZDB-GENE-040718-401) | ZDB-GENE-040426-908,ZDB-GENE-040718-401 |
+| Xenopus | [ENSXETG00000019217](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019217) | [548530](https://www.ncbi.nlm.nih.gov/gene/548530) |  |  |
+| Zebrafish | [ENSDARG00000101777](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101777) | [436927](https://www.ncbi.nlm.nih.gov/gene/436927) | [ZFIN:ZDB-GENE-040718-401](https://zfin.org/ZDB-GENE-040718-401) | actin cytoskeleton organization, heart development, muscle structure development |
 

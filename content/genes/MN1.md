@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416911
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642206
-gene_id: '460761'
+gene_id: '416911'
 gene_type: protein-coding
 images:
 - caption: MN1 expression
@@ -30,7 +30,7 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3H.jpg
 name: MN1 proto-oncogene, transcriptional regulator
-ncbi_id: '460761'
+ncbi_id: '416911'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -60,7 +60,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460761
+  url: https://www.ncbi.nlm.nih.gov/gene/416911
 species: Gallus gallus
 symbol: MN1
 title: MN1

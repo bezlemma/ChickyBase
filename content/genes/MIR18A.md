@@ -9,7 +9,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018252
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NC_006088
-gene_id: '467937'
+gene_id: '777937'
 gene_type: miscRNA
 images:
 - caption: MIR18A expression
@@ -55,7 +55,7 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/18a.6.03-1.jpg
 name: microRNA 18a
-ncbi_id: '467937'
+ncbi_id: '777937'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -85,10 +85,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467937
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777937
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467937
+  url: https://www.ncbi.nlm.nih.gov/gene/777937
 species: Gallus gallus
 symbol: MIR18A
 title: MIR18A

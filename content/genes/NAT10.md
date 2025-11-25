@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426609
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012940
-gene_id: '459971'
+gene_id: '426609'
 gene_type: protein-coding
 images:
 - caption: NAT10 expression
@@ -28,13 +28,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F5.nat10.png
 name: N-acetyltransferase 10
-ncbi_id: '459971'
+ncbi_id: '426609'
 orthologs:
-- ensembl: ''
-  entrez: '31811'
-  mod: FBgn0027330
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000135372
   entrez: '55226'
   mod: MIM:609221
@@ -45,20 +40,21 @@ orthologs:
   mod: MGI:2138939
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 779537,100174807
-  mod: '5858431'
+- ensembl: ENSXETG00000003782
+  entrez: '779537'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000054259
   entrez: '393617'
   mod: ZFIN:ZDB-GENE-040426-1543
-  phenotypes: ZDB-GENE-040426-1543
+  phenotypes: RNA modification, rRNA acetylation involved in maturation of SSU-rRNA,
+    rRNA metabolic process, rRNA modification, rRNA processing
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459971
+  url: https://www.ncbi.nlm.nih.gov/gene/426609
 species: Gallus gallus
 symbol: NAT10
 title: NAT10
@@ -86,9 +82,8 @@ title: NAT10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31811](https://www.ncbi.nlm.nih.gov/gene/31811) | FBgn0027330 |  |
 | Human | [ENSG00000135372](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135372) | [55226](https://www.ncbi.nlm.nih.gov/gene/55226) | [MIM:609221](https://omim.org/entry/609221) |  |
 | Mouse | [ENSMUSG00000027185](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027185) | [98956](https://www.ncbi.nlm.nih.gov/gene/98956) | [MGI:2138939](http://www.informatics.jax.org/marker/MGI:2138939) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [779537](https://www.ncbi.nlm.nih.gov/gene/779537), [100174807](https://www.ncbi.nlm.nih.gov/gene/100174807) | [5858431](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5858431) |  |
-| Zebrafish | [ENSDARG00000054259](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054259) | [393617](https://www.ncbi.nlm.nih.gov/gene/393617) | [ZFIN:ZDB-GENE-040426-1543](https://zfin.org/ZDB-GENE-040426-1543) | ZDB-GENE-040426-1543 |
+| Xenopus | [ENSXETG00000003782](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003782) | [779537](https://www.ncbi.nlm.nih.gov/gene/779537) |  |  |
+| Zebrafish | [ENSDARG00000054259](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054259) | [393617](https://www.ncbi.nlm.nih.gov/gene/393617) | [ZFIN:ZDB-GENE-040426-1543](https://zfin.org/ZDB-GENE-040426-1543) | RNA modification, rRNA acetylation involved in maturation of SSU-rRNA, rRNA metabolic process, rRNA modification, rRNA processing |
 

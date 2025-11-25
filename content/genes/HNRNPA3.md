@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100859627
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641571
-gene_id: '474158'
+gene_id: '100859627'
 gene_type: protein-coding
 images:
 - caption: HNRNPA3 expression
@@ -132,37 +132,17 @@ images:
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure5D.Bronstein.2003.jpg
 name: heterogeneous nuclear ribonucleoprotein A3 homolog 1-like
-ncbi_id: '474158'
+ncbi_id: '100859627'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000135486
+  entrez: '3178'
+  mod: MIM:164017
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/474158
+  url: https://www.ncbi.nlm.nih.gov/gene/100859627
 species: Gallus gallus
 symbol: HNRNPA3
 title: HNRNPA3
@@ -189,9 +169,5 @@ Copyright © 2003 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000135486](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135486) | [3178](https://www.ncbi.nlm.nih.gov/gene/3178) | [MIM:164017](https://omim.org/entry/164017) |  |
 

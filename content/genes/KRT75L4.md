@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100858302
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NW_003766128.1?report=genbank&from=144&to=3568
 forward_primer: ACGGAACAACCAGAGTGAGATAGC
-gene_id: '472833'
+gene_id: '100858302'
 gene_type: protein-coding
 images:
 - caption: KRT75L4 expression
@@ -193,7 +193,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R476.KRT75L4.S26V.001.jpg
 name: keratin, type II cytoskeletal 75-like 4
-ncbi_id: '472833'
+ncbi_id: '100858302'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -224,10 +224,10 @@ reverse_primer: ATTAACCCTCACTAAAGGATCAGCACCAGACAGCACCTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=472833
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100858302
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/472833
+  url: https://www.ncbi.nlm.nih.gov/gene/100858302
 species: Gallus gallus
 symbol: KRT75L4
 template_length: '568'

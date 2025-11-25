@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395393
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204673
-gene_id: '448967'
+gene_id: '395393'
 gene_type: protein-coding
 images:
 - caption: SNCA expression
@@ -108,13 +108,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/α-synuclein.Tiunova.2000.Fig.5.jpg
 name: synuclein alpha
-ncbi_id: '448967'
+ncbi_id: '395393'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000145335
   entrez: '6622'
   mod: MIM:163890
@@ -125,20 +120,15 @@ orthologs:
   mod: MGI:1277151
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100038302,380315
-  mod: '1014190'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000023641
+  entrez: '100038302'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448967
+  url: https://www.ncbi.nlm.nih.gov/gene/395393
 species: Gallus gallus
 symbol: SNCA
 title: SNCA
@@ -164,9 +154,7 @@ title: SNCA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000145335](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145335) | [6622](https://www.ncbi.nlm.nih.gov/gene/6622) | [MIM:163890](https://omim.org/entry/163890) | MIM:127750 |
 | Mouse | [ENSMUSG00000025889](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025889) | [20617](https://www.ncbi.nlm.nih.gov/gene/20617) | [MGI:1277151](http://www.informatics.jax.org/marker/MGI:1277151) | All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1) |
-| Xenopus |  | [100038302](https://www.ncbi.nlm.nih.gov/gene/100038302), [380315](https://www.ncbi.nlm.nih.gov/gene/380315) | [1014190](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1014190) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000023641](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023641) | [100038302](https://www.ncbi.nlm.nih.gov/gene/100038302) |  |  |
 

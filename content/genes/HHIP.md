@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422460
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420424
-gene_id: '451489'
+gene_id: '422460'
 gene_type: protein-coding
 images:
 - caption: HHIP expression
@@ -142,40 +142,37 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kahane.2013.Fig1_Allimages-8.jpg
 name: hedgehog interacting protein
-ncbi_id: '451489'
+ncbi_id: '422460'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000164161
   entrez: '64399'
   mod: MIM:606178
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000064325
   entrez: '15245'
   mod: MGI:1341847
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 448466,380097
-  mod: '487498'
+- ensembl: ENSXETG00000017616
+  entrez: '448466'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000060397
   entrez: '326102'
   mod: ZFIN:ZDB-GENE-030131-4827
-  phenotypes: ZDB-GENE-030131-4827
+  phenotypes: fin development, negative regulation of muscle organ development, negative
+    regulation of signal transduction, negative regulation of smoothened signaling
+    pathway
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451489
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422460
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451489
+  url: https://www.ncbi.nlm.nih.gov/gene/422460
 species: Gallus gallus
 symbol: HHIP
 title: HHIP
@@ -201,9 +198,8 @@ title: HHIP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [64399](https://www.ncbi.nlm.nih.gov/gene/64399) | [MIM:606178](https://omim.org/entry/606178) |  |
-| Mouse |  | [15245](https://www.ncbi.nlm.nih.gov/gene/15245) | [MGI:1341847](http://www.informatics.jax.org/marker/MGI:1341847) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [448466](https://www.ncbi.nlm.nih.gov/gene/448466), [380097](https://www.ncbi.nlm.nih.gov/gene/380097) | [487498](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487498) |  |
-| Zebrafish | [ENSDARG00000060397](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060397) | [326102](https://www.ncbi.nlm.nih.gov/gene/326102) | [ZFIN:ZDB-GENE-030131-4827](https://zfin.org/ZDB-GENE-030131-4827) | ZDB-GENE-030131-4827 |
+| Human | [ENSG00000164161](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164161) | [64399](https://www.ncbi.nlm.nih.gov/gene/64399) | [MIM:606178](https://omim.org/entry/606178) |  |
+| Mouse | [ENSMUSG00000064325](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000064325) | [15245](https://www.ncbi.nlm.nih.gov/gene/15245) | [MGI:1341847](http://www.informatics.jax.org/marker/MGI:1341847) | All phenotypic alleles (2):Targeted, other(2) |
+| Xenopus | [ENSXETG00000017616](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017616) | [448466](https://www.ncbi.nlm.nih.gov/gene/448466) |  |  |
+| Zebrafish | [ENSDARG00000060397](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060397) | [326102](https://www.ncbi.nlm.nih.gov/gene/326102) | [ZFIN:ZDB-GENE-030131-4827](https://zfin.org/ZDB-GENE-030131-4827) | fin development, negative regulation of muscle organ development, negative regulation of signal transduction, negative regulation of smoothened signaling pathway |
 

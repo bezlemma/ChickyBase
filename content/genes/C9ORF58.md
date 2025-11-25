@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417179
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415461
 forward_primer: TGTTCTGTCCTATGCTTCCCGAC
-gene_id: '454610'
+gene_id: '417179'
 gene_type: protein-coding
 images:
 - caption: C9ORF58 expression
@@ -158,16 +158,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R506.C9ORF58.S26.001.jpg
 name: allograft inflammatory factor 1-like
-ncbi_id: '454610'
+ncbi_id: '417179'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000126878
   entrez: '83543'
-  mod: ''
+  mod: MIM:621223
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000001864
@@ -175,24 +170,24 @@ orthologs:
   mod: MGI:1919598
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100216287,444577
-  mod: '953713'
+- ensembl: ENSXETG00000001474
+  entrez: '100216287'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000009336
   entrez: '321033'
   mod: ZFIN:ZDB-GENE-030131-9646
-  phenotypes: ZDB-GENE-030131-9646
+  phenotypes: actin filament bundle assembly, ruffle assembly
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAATCATCCCCACTTGCTGGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454610
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417179
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454610
+  url: https://www.ncbi.nlm.nih.gov/gene/417179
 species: Gallus gallus
 symbol: C9ORF58
 template_length: '838'
@@ -214,9 +209,8 @@ title: C9ORF58
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000126878](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000126878) | [83543](https://www.ncbi.nlm.nih.gov/gene/83543) |  |  |
+| Human | [ENSG00000126878](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000126878) | [83543](https://www.ncbi.nlm.nih.gov/gene/83543) | [MIM:621223](https://omim.org/entry/621223) |  |
 | Mouse | [ENSMUSG00000001864](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001864) | [108897](https://www.ncbi.nlm.nih.gov/gene/108897) | [MGI:1919598](http://www.informatics.jax.org/marker/MGI:1919598) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100216287](https://www.ncbi.nlm.nih.gov/gene/100216287), [444577](https://www.ncbi.nlm.nih.gov/gene/444577) | [953713](http://www.xenbase.org/gene/showgene.do?method=display&geneId=953713) |  |
-| Zebrafish | [ENSDARG00000009336](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009336) | [321033](https://www.ncbi.nlm.nih.gov/gene/321033) | [ZFIN:ZDB-GENE-030131-9646](https://zfin.org/ZDB-GENE-030131-9646) | ZDB-GENE-030131-9646 |
+| Xenopus | [ENSXETG00000001474](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001474) | [100216287](https://www.ncbi.nlm.nih.gov/gene/100216287) |  |  |
+| Zebrafish | [ENSDARG00000009336](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009336) | [321033](https://www.ncbi.nlm.nih.gov/gene/321033) | [ZFIN:ZDB-GENE-030131-9646](https://zfin.org/ZDB-GENE-030131-9646) | actin filament bundle assembly, ruffle assembly |
 

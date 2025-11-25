@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423692
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421573
 forward_primer: 5'-AAGGAGGCTGATGGAGAACAGG-3'
-gene_id: '450522'
+gene_id: '423692'
 gene_type: protein-coding
 images:
 - caption: CCAR1 expression
@@ -80,13 +80,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R625.CCAR1.S27.001.jpg
 name: cell division cycle and apoptosis regulator 1
-ncbi_id: '450522'
+ncbi_id: '423692'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000060339
   entrez: '55749'
   mod: MIM:612569
@@ -97,24 +92,24 @@ orthologs:
   mod: MGI:1914750
   phenotypes: All phenotypic alleles (4):Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100216237,779160
-  mod: '989028'
+- ensembl: ENSXETG00000008844
+  entrez: '100216237'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000074759
-  entrez: 568087,337744
+  entrez: '568087'
   mod: ZFIN:ZDB-GENE-030131-146
-  phenotypes: ZDB-GENE-030131-146
+  phenotypes: cell division, regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTCAATGGGAGTTGCGAGTGG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450522
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423692
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450522
+  url: https://www.ncbi.nlm.nih.gov/gene/423692
 species: Gallus gallus
 symbol: CCAR1
 template_length: '857'
@@ -139,9 +134,8 @@ title: CCAR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000060339](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000060339) | [55749](https://www.ncbi.nlm.nih.gov/gene/55749) | [MIM:612569](https://omim.org/entry/612569) |  |
 | Mouse | [ENSMUSG00000020074](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020074) | [67500](https://www.ncbi.nlm.nih.gov/gene/67500) | [MGI:1914750](http://www.informatics.jax.org/marker/MGI:1914750) | All phenotypic alleles (4):Targeted, other(4) |
-| Xenopus |  | [100216237](https://www.ncbi.nlm.nih.gov/gene/100216237), [779160](https://www.ncbi.nlm.nih.gov/gene/779160) | [989028](http://www.xenbase.org/gene/showgene.do?method=display&geneId=989028) |  |
-| Zebrafish | [ENSDARG00000074759](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074759) | [568087](https://www.ncbi.nlm.nih.gov/gene/568087), [337744](https://www.ncbi.nlm.nih.gov/gene/337744) | [ZFIN:ZDB-GENE-030131-146](https://zfin.org/ZDB-GENE-030131-146) | ZDB-GENE-030131-146 |
+| Xenopus | [ENSXETG00000008844](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008844) | [100216237](https://www.ncbi.nlm.nih.gov/gene/100216237) |  |  |
+| Zebrafish | [ENSDARG00000074759](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074759) | [568087](https://www.ncbi.nlm.nih.gov/gene/568087) | [ZFIN:ZDB-GENE-030131-146](https://zfin.org/ZDB-GENE-030131-146) | cell division, regulation of DNA-templated transcription |
 

@@ -235,7 +235,7 @@ orthologs:
 - ensembl: ENSDARG00000056985
   entrez: '327292'
   mod: ZFIN:ZDB-GENE-030131-5503
-  phenotypes: ZDB-GENE-030131-5503
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
@@ -273,5 +273,5 @@ title: TPTE2
 | Human | [ENSG00000274391](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000274391), [ENSG00000132958](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000132958) | [7179](https://www.ncbi.nlm.nih.gov/gene/7179), [93492](https://www.ncbi.nlm.nih.gov/gene/93492) | [MIM:604336](https://omim.org/entry/604336), [MIM:606791](https://omim.org/entry/606791) |  |
 | Mouse | [ENSMUSG00000031481](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031481) | [234129](https://www.ncbi.nlm.nih.gov/gene/234129) | [MGI:2446460](http://www.informatics.jax.org/marker/MGI:2446460) | All phenotypic alleles (1):Targeted, knock-out(1) |
 | Xenopus |  | [548705](https://www.ncbi.nlm.nih.gov/gene/548705), [735146](https://www.ncbi.nlm.nih.gov/gene/735146) | [1015880](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1015880) |  |
-| Zebrafish | [ENSDARG00000056985](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056985) | [327292](https://www.ncbi.nlm.nih.gov/gene/327292) | [ZFIN:ZDB-GENE-030131-5503](https://zfin.org/ZDB-GENE-030131-5503) | ZDB-GENE-030131-5503 |
+| Zebrafish | [ENSDARG00000056985](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056985) | [327292](https://www.ncbi.nlm.nih.gov/gene/327292) | [ZFIN:ZDB-GENE-030131-5503](https://zfin.org/ZDB-GENE-030131-5503) |  |
 

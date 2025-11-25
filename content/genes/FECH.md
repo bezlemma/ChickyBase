@@ -22,7 +22,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374020
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0051537
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006127.3?report=genbank&from=380954&to=391800
-gene_id: '454552'
+gene_id: '374020'
 gene_type: protein-coding
 images:
 - caption: FECH expression
@@ -61,13 +61,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FCH.Nakazawa.2009.Fig2.jpg
 name: ferrochelatase
-ncbi_id: '454552'
+ncbi_id: '374020'
 orthologs:
-- ensembl: ''
-  entrez: '43757'
-  mod: FBgn0024891
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000066926
   entrez: '2235'
   mod: MIM:612386
@@ -78,20 +73,21 @@ orthologs:
   mod: MGI:95513
   phenotypes: All phenotypic alleles (2):Chemically induced(1) Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100496154,398014
-  mod: '960753'
+- ensembl: ENSXETG00000020888
+  entrez: '100496154'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000003462
   entrez: '58215'
   mod: ZFIN:ZDB-GENE-000928-1
-  phenotypes: ZDB-GENE-000928-1
+  phenotypes: erythrocyte maturation, heme biosynthetic process, porphyrin-containing
+    compound biosynthetic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454552
+  url: https://www.ncbi.nlm.nih.gov/gene/374020
 species: Gallus gallus
 symbol: FECH
 title: FECH
@@ -123,9 +119,8 @@ title: FECH
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43757](https://www.ncbi.nlm.nih.gov/gene/43757) | FBgn0024891 |  |
 | Human | [ENSG00000066926](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000066926) | [2235](https://www.ncbi.nlm.nih.gov/gene/2235) | [MIM:612386](https://omim.org/entry/612386) | MIM:177000 |
 | Mouse | [ENSMUSG00000024588](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024588) | [14151](https://www.ncbi.nlm.nih.gov/gene/14151) | [MGI:95513](http://www.informatics.jax.org/marker/MGI:95513) | All phenotypic alleles (2):Chemically induced(1) Targeted, knock-out(1) |
-| Xenopus |  | [100496154](https://www.ncbi.nlm.nih.gov/gene/100496154), [398014](https://www.ncbi.nlm.nih.gov/gene/398014) | [960753](http://www.xenbase.org/gene/showgene.do?method=display&geneId=960753) |  |
-| Zebrafish | [ENSDARG00000003462](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003462) | [58215](https://www.ncbi.nlm.nih.gov/gene/58215) | [ZFIN:ZDB-GENE-000928-1](https://zfin.org/ZDB-GENE-000928-1) | ZDB-GENE-000928-1 |
+| Xenopus | [ENSXETG00000020888](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020888) | [100496154](https://www.ncbi.nlm.nih.gov/gene/100496154) |  |  |
+| Zebrafish | [ENSDARG00000003462](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003462) | [58215](https://www.ncbi.nlm.nih.gov/gene/58215) | [ZFIN:ZDB-GENE-000928-1](https://zfin.org/ZDB-GENE-000928-1) | erythrocyte maturation, heme biosynthetic process, porphyrin-containing compound biosynthetic process |
 

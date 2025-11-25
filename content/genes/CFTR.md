@@ -7,7 +7,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100049619
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001105666
 forward_primer: TGAGACTCTGCGACGATTTTCC
-gene_id: '453787'
+gene_id: '100049619'
 gene_type: protein-coding
 images:
 - caption: CFTR expression
@@ -133,41 +133,37 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R701.CFTR.S24.001.jpg
 name: cystic fibrosis transmembrane conductance regulator
-ncbi_id: '453787'
+ncbi_id: '100049619'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000001626
+  entrez: '1080'
+  mod: MIM:602421
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000041301
+  entrez: '12638'
+  mod: MGI:88388
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000021796
+  entrez: '100486085'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000041107
+  entrez: '559080'
+  mod: ZFIN:ZDB-GENE-050517-20
+  phenotypes: Kupffer's vesicle development, Spemann organizer formation at the embryonic
+    shield, T cell differentiation, bicarbonate transport, cellular response to forskolin
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGGTAGCGTTTTCTGGTTGTGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453787
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100049619
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453787
+  url: https://www.ncbi.nlm.nih.gov/gene/100049619
 species: Gallus gallus
 symbol: CFTR
 template_length: '719'
@@ -190,9 +186,8 @@ title: CFTR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000001626](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000001626) | [1080](https://www.ncbi.nlm.nih.gov/gene/1080) | [MIM:602421](https://omim.org/entry/602421) |  |
+| Mouse | [ENSMUSG00000041301](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041301) | [12638](https://www.ncbi.nlm.nih.gov/gene/12638) | [MGI:88388](http://www.informatics.jax.org/marker/MGI:88388) |  |
+| Xenopus | [ENSXETG00000021796](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021796) | [100486085](https://www.ncbi.nlm.nih.gov/gene/100486085) |  |  |
+| Zebrafish | [ENSDARG00000041107](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041107) | [559080](https://www.ncbi.nlm.nih.gov/gene/559080) | [ZFIN:ZDB-GENE-050517-20](https://zfin.org/ZDB-GENE-050517-20) | Kupffer's vesicle development, Spemann organizer formation at the embryonic shield, T cell differentiation, bicarbonate transport, cellular response to forskolin |
 

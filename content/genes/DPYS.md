@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420266
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277426
-gene_id: '457344'
+gene_id: '420266'
 gene_type: protein-coding
 images:
 - caption: DPYS expression
@@ -83,13 +83,8 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.SupF2.dpys.png
 name: dihydropyrimidinase
-ncbi_id: '457344'
+ncbi_id: '420266'
 orthologs:
-- ensembl: ''
-  entrez: '40675'
-  mod: FBgn0023023
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000147647
   entrez: '1807'
   mod: MIM:613326
@@ -100,20 +95,20 @@ orthologs:
   mod: MGI:1928679
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ENSXETG00000010896
-  entrez: 100491365,495311
-  mod: '959926'
+- ensembl: ENSXETG00000048506
+  entrez: '100491365'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000079543
   entrez: '100144569'
   mod: ZFIN:ZDB-GENE-070508-1
-  phenotypes: ZDB-GENE-070508-1
+  phenotypes: pyrimidine nucleobase catabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457344
+  url: https://www.ncbi.nlm.nih.gov/gene/420266
 species: Gallus gallus
 symbol: DPYS
 title: DPYS
@@ -141,9 +136,8 @@ title: DPYS
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40675](https://www.ncbi.nlm.nih.gov/gene/40675) | FBgn0023023 |  |
 | Human | [ENSG00000147647](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000147647) | [1807](https://www.ncbi.nlm.nih.gov/gene/1807) | [MIM:613326](https://omim.org/entry/613326) | MIM:222748 |
 | Mouse | [ENSMUSG00000022304](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022304) | [64705](https://www.ncbi.nlm.nih.gov/gene/64705) | [MGI:1928679](http://www.informatics.jax.org/marker/MGI:1928679) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus | [ENSXETG00000010896](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010896) | [100491365](https://www.ncbi.nlm.nih.gov/gene/100491365), [495311](https://www.ncbi.nlm.nih.gov/gene/495311) | [959926](http://www.xenbase.org/gene/showgene.do?method=display&geneId=959926) |  |
-| Zebrafish | [ENSDARG00000079543](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079543) | [100144569](https://www.ncbi.nlm.nih.gov/gene/100144569) | [ZFIN:ZDB-GENE-070508-1](https://zfin.org/ZDB-GENE-070508-1) | ZDB-GENE-070508-1 |
+| Xenopus | [ENSXETG00000048506](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000048506) | [100491365](https://www.ncbi.nlm.nih.gov/gene/100491365) |  |  |
+| Zebrafish | [ENSDARG00000079543](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079543) | [100144569](https://www.ncbi.nlm.nih.gov/gene/100144569) | [ZFIN:ZDB-GENE-070508-1](https://zfin.org/ZDB-GENE-070508-1) | pyrimidine nucleobase catabolic process |
 

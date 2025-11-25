@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423500
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031212
 forward_primer: 5'-GAGACGCTGGAGAACAAAAGTCC-3'
-gene_id: '451609'
+gene_id: '423500'
 gene_type: protein-coding
 images:
 - caption: CDCA4 expression
@@ -56,13 +56,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R587.CDCA3.S26.001.jpg
 name: cell division cycle associated 4
-ncbi_id: '451609'
+ncbi_id: '423500'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000170779
   entrez: '55038'
   mod: MIM:612270
@@ -73,24 +68,24 @@ orthologs:
   mod: MGI:1919213
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 549403,446382
-  mod: '992110'
+- ensembl: ENSXETG00000006803
+  entrez: '549403'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000042319
   entrez: '494037'
   mod: ZFIN:ZDB-GENE-030131-1695
-  phenotypes: ZDB-GENE-030131-1695
+  phenotypes: cell division
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGTAGCAAAGTGGAAACTGGAGG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451609
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423500
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451609
+  url: https://www.ncbi.nlm.nih.gov/gene/423500
 species: Gallus gallus
 symbol: CDCA4
 template_length: '669'
@@ -113,9 +108,8 @@ title: CDCA4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000170779](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170779) | [55038](https://www.ncbi.nlm.nih.gov/gene/55038) | [MIM:612270](https://omim.org/entry/612270) |  |
 | Mouse | [ENSMUSG00000047832](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000047832) | [71963](https://www.ncbi.nlm.nih.gov/gene/71963) | [MGI:1919213](http://www.informatics.jax.org/marker/MGI:1919213) |  |
-| Xenopus |  | [549403](https://www.ncbi.nlm.nih.gov/gene/549403), [446382](https://www.ncbi.nlm.nih.gov/gene/446382) | [992110](http://www.xenbase.org/gene/showgene.do?method=display&geneId=992110) |  |
-| Zebrafish | [ENSDARG00000042319](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042319) | [494037](https://www.ncbi.nlm.nih.gov/gene/494037) | [ZFIN:ZDB-GENE-030131-1695](https://zfin.org/ZDB-GENE-030131-1695) | ZDB-GENE-030131-1695 |
+| Xenopus | [ENSXETG00000006803](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006803) | [549403](https://www.ncbi.nlm.nih.gov/gene/549403) |  |  |
+| Zebrafish | [ENSDARG00000042319](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042319) | [494037](https://www.ncbi.nlm.nih.gov/gene/494037) | [ZFIN:ZDB-GENE-030131-1695](https://zfin.org/ZDB-GENE-030131-1695) | cell division |
 

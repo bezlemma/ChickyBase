@@ -11,7 +11,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003779
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204751
 forward_primer: TTGTGGTTAGGAGTTGATGC
-gene_id: '449671'
+gene_id: '395511'
 gene_type: protein-coding
 images:
 - caption: RDX expression
@@ -192,13 +192,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R402.RDX.S27D.001.jpg
 name: radixin
-ncbi_id: '449671'
+ncbi_id: '395511'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000137710
   entrez: '5962'
   mod: MIM:179410
@@ -209,24 +204,21 @@ orthologs:
   mod: MGI:97887
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 447978,733147,100145669,735107
-  mod: 990891,1004599
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000028740
   entrez: '553434'
   mod: ZFIN:ZDB-GENE-030717-7
-  phenotypes: ZDB-GENE-030717-7
+  phenotypes: positive regulation of early endosome to late endosome transport, positive
+    regulation of protein localization to early endosome, regulation of cell shape,
+    regulation of organelle assembly
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTCTGTGTTTCTGTTACCCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449671
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395511
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449671
+  url: https://www.ncbi.nlm.nih.gov/gene/395511
 species: Gallus gallus
 symbol: RDX
 template_length: '914'
@@ -251,9 +243,7 @@ title: RDX
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000137710](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137710) | [5962](https://www.ncbi.nlm.nih.gov/gene/5962) | [MIM:179410](https://omim.org/entry/179410) | MIM:611022 |
 | Mouse | [ENSMUSG00000032050](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032050) | [19684](https://www.ncbi.nlm.nih.gov/gene/19684) | [MGI:97887](http://www.informatics.jax.org/marker/MGI:97887) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [447978](https://www.ncbi.nlm.nih.gov/gene/447978), [733147](https://www.ncbi.nlm.nih.gov/gene/733147), [100145669](https://www.ncbi.nlm.nih.gov/gene/100145669), [735107](https://www.ncbi.nlm.nih.gov/gene/735107) | [990891](http://www.xenbase.org/gene/showgene.do?method=display&geneId=990891), [1004599](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1004599) |  |
-| Zebrafish | [ENSDARG00000028740](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028740) | [553434](https://www.ncbi.nlm.nih.gov/gene/553434) | [ZFIN:ZDB-GENE-030717-7](https://zfin.org/ZDB-GENE-030717-7) | ZDB-GENE-030717-7 |
+| Zebrafish | [ENSDARG00000028740](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028740) | [553434](https://www.ncbi.nlm.nih.gov/gene/553434) | [ZFIN:ZDB-GENE-030717-7](https://zfin.org/ZDB-GENE-030717-7) | positive regulation of early endosome to late endosome transport, positive regulation of protein localization to early endosome, regulation of cell shape, regulation of organelle assembly |
 

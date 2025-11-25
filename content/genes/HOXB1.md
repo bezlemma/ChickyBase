@@ -4,10 +4,6 @@ aliases:
 - homeobox-containing transcription factor Hoxb-1
 cgnc_id: '10116'
 external_ids:
-  '13': stage 13stage 13
-  '19': stage 19stage 19
-  '4': stage 4stage 4
-  '7': stage 7
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: 'Sophie Bel-Vialar, Nobue Itasaki, Robb Krumlauf. Initiating Hox gene
@@ -26,7 +22,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001080859
   X-XIV: stage XII
-gene_id: '450448'
+gene_id: '395900'
 gene_type: protein-coding
 images:
 - caption: HOXB1 expression
@@ -377,14 +373,9 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXB1.Travers.2023-Fig7-2-D.jpg
 name: homeobox B1
-ncbi_id: '450448'
+ncbi_id: '395900'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000120094
   entrez: '3211'
   mod: MIM:142968
   phenotypes: ''
@@ -394,23 +385,24 @@ orthologs:
   mod: MGI:96182
   phenotypes: All phenotypic alleles (16):Targeted, knock-out(2) Targeted, other(14)
   species: Mouse
-- ensembl: ''
-  entrez: 100493290,100301962
-  mod: '485771'
+- ensembl: ENSXETG00000049208
+  entrez: '100493290'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000008174
-  entrez: 30337,30374
-  mod: ZFIN:ZDB-GENE-990415-101,ZFIN:ZDB-GENE-980526-290
-  phenotypes: ZDB-GENE-990415-101,ZDB-GENE-980526-290
+  entrez: '30337'
+  mod: ZFIN:ZDB-GENE-990415-101
+  phenotypes: anatomical structure morphogenesis, animal organ development, cell migration
+    in hindbrain, facial nerve development, facial nucleus development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450448
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395900
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450448
+  url: https://www.ncbi.nlm.nih.gov/gene/395900
 species: Gallus gallus
 symbol: HOXB1
 title: HOXB1
@@ -439,9 +431,8 @@ title: HOXB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [3211](https://www.ncbi.nlm.nih.gov/gene/3211) | [MIM:142968](https://omim.org/entry/142968) |  |
+| Human | [ENSG00000120094](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000120094) | [3211](https://www.ncbi.nlm.nih.gov/gene/3211) | [MIM:142968](https://omim.org/entry/142968) |  |
 | Mouse | [ENSMUSG00000018973](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018973) | [15407](https://www.ncbi.nlm.nih.gov/gene/15407) | [MGI:96182](http://www.informatics.jax.org/marker/MGI:96182) | All phenotypic alleles (16):Targeted, knock-out(2) Targeted, other(14) |
-| Xenopus |  | [100493290](https://www.ncbi.nlm.nih.gov/gene/100493290), [100301962](https://www.ncbi.nlm.nih.gov/gene/100301962) | [485771](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485771) |  |
-| Zebrafish | [ENSDARG00000008174](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008174) | [30337](https://www.ncbi.nlm.nih.gov/gene/30337), [30374](https://www.ncbi.nlm.nih.gov/gene/30374) | [ZFIN:ZDB-GENE-990415-101](https://zfin.org/ZDB-GENE-990415-101), [ZFIN:ZDB-GENE-980526-290](https://zfin.org/ZDB-GENE-980526-290) | ZDB-GENE-990415-101,ZDB-GENE-980526-290 |
+| Xenopus | [ENSXETG00000049208](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000049208) | [100493290](https://www.ncbi.nlm.nih.gov/gene/100493290) |  |  |
+| Zebrafish | [ENSDARG00000008174](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008174) | [30337](https://www.ncbi.nlm.nih.gov/gene/30337) | [ZFIN:ZDB-GENE-990415-101](https://zfin.org/ZDB-GENE-990415-101) | anatomical structure morphogenesis, animal organ development, cell migration in hindbrain, facial nerve development, facial nucleus development |
 

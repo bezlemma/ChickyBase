@@ -1,8 +1,6 @@
 ---
 cgnc_id: '5704'
 external_ids:
-  '19': stage 19stage 19
-  '25': stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2012+BMP+Kumar+Chapman
   Comments: 'As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI (acc
@@ -14,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395394
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204674
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAAGATTTTCTCCCGCTGTCTCAC
-gene_id: '448968'
+gene_id: '395394'
 gene_type: protein-coding
 images:
 - caption: FGF19 expression
@@ -967,13 +965,8 @@ images:
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig4.allimages.Kumar.2012B-2.jpg
 name: fibroblast growth factor 19
-ncbi_id: '448968'
+ncbi_id: '395394'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000162344
   entrez: '9965'
   mod: MIM:603891
@@ -984,24 +977,25 @@ orthologs:
   mod: MGI:1096383
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000037561
   entrez: '100217329'
-  mod: '486498'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000074833
-  entrez: 100335006,368245
+- ensembl: ENSDARG00000098663
+  entrez: '368245'
   mod: ZFIN:ZDB-GENE-030729-32
-  phenotypes: ZDB-GENE-030729-32
+  phenotypes: brain development, camera-type eye development, fibroblast growth factor
+    receptor signaling pathway, lens development in camera-type eye, neurogenesis
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTTGAACTGCTCATTCCTACCAGATG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448968
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395394
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448968
+  url: https://www.ncbi.nlm.nih.gov/gene/395394
 species: Gallus gallus
 symbol: FGF19
 template_length: '812'
@@ -1028,9 +1022,8 @@ title: FGF19
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000162344](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162344) | [9965](https://www.ncbi.nlm.nih.gov/gene/9965) | [MIM:603891](https://omim.org/entry/603891) |  |
 | Mouse | [ENSMUSG00000031073](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031073) | [14170](https://www.ncbi.nlm.nih.gov/gene/14170) | [MGI:1096383](http://www.informatics.jax.org/marker/MGI:1096383) | All phenotypic alleles (3):Targeted, knock-out(3) |
-| Xenopus |  | [100217329](https://www.ncbi.nlm.nih.gov/gene/100217329) | [486498](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486498) |  |
-| Zebrafish | [ENSDARG00000074833](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074833) | [100335006](https://www.ncbi.nlm.nih.gov/gene/100335006), [368245](https://www.ncbi.nlm.nih.gov/gene/368245) | [ZFIN:ZDB-GENE-030729-32](https://zfin.org/ZDB-GENE-030729-32) | ZDB-GENE-030729-32 |
+| Xenopus | [ENSXETG00000037561](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000037561) | [100217329](https://www.ncbi.nlm.nih.gov/gene/100217329) |  |  |
+| Zebrafish | [ENSDARG00000098663](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098663) | [368245](https://www.ncbi.nlm.nih.gov/gene/368245) | [ZFIN:ZDB-GENE-030729-32](https://zfin.org/ZDB-GENE-030729-32) | brain development, camera-type eye development, fibroblast growth factor receptor signaling pathway, lens development in camera-type eye, neurogenesis |
 

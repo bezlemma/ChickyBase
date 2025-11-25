@@ -3,13 +3,12 @@ aliases:
 - X-box-binding protein 1
 cgnc_id: '4325'
 external_ids:
-  '25': stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000005796
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416918
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006192
 forward_primer: TCACCCACTTGACCCCCGAG
-gene_id: '460762'
+gene_id: '416918'
 gene_type: protein-coding
 images:
 - caption: XBP1 expression
@@ -88,41 +87,27 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R284.XBP1.S25.001.jpg
 name: X-box binding protein 1
-ncbi_id: '460762'
+ncbi_id: '416918'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000027416
+  entrez: '407858'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000035622
+  entrez: '140614'
+  mod: ZFIN:ZDB-GENE-011210-2
+  phenotypes: endoplasmic reticulum unfolded protein response, hatching, hatching
+    gland development, liver development, negative regulation of apoptotic process
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCTCCACCCCCCCAAAAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460762
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416918
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460762
+  url: https://www.ncbi.nlm.nih.gov/gene/416918
 species: Gallus gallus
 symbol: XBP1
 template_length: '1058'
@@ -144,9 +129,6 @@ title: XBP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000027416](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000027416) | [407858](https://www.ncbi.nlm.nih.gov/gene/407858) |  |  |
+| Zebrafish | [ENSDARG00000035622](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035622) | [140614](https://www.ncbi.nlm.nih.gov/gene/140614) | [ZFIN:ZDB-GENE-011210-2](https://zfin.org/ZDB-GENE-011210-2) | endoplasmic reticulum unfolded protein response, hatching, hatching gland development, liver development, negative regulation of apoptotic process |
 

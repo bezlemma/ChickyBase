@@ -3,8 +3,6 @@ aliases:
 - Krueppel-like factor 15
 cgnc_id: '4689'
 external_ids:
-  '25': stage 25stage 25stage 25
-  '4': stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Alev+Jakt+Ueda+landscape
   Comments: "The probe for KLF15 was amplified by PCR using the following primers:\
     \ \r\nForward Primer: TTGCAGCCAAGTTTCTGTTG\r\nReverse Primer: AAACGGCTTTTCTCCCGTAT\r\
@@ -16,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427588
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425161
-gene_id: '454882'
+gene_id: '427588'
 gene_type: protein-coding
 images:
 - caption: KLF15 expression
@@ -171,13 +169,8 @@ images:
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KLF15.Alev.2010.png
 name: Kruppel like factor 15
-ncbi_id: '454882'
+ncbi_id: '427588'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163884
   entrez: '28999'
   mod: MIM:606465
@@ -188,23 +181,24 @@ orthologs:
   mod: MGI:1929988
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: '100494101'
-  mod: '1018579'
+- ensembl: ENSXETG00000011549
+  entrez: '100495857'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000091127
-  entrez: 100333704,335901
+  entrez: '335901'
   mod: ZFIN:ZDB-GENE-030131-7844
-  phenotypes: ZDB-GENE-030131-7844
+  phenotypes: positive regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454882
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427588
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454882
+  url: https://www.ncbi.nlm.nih.gov/gene/427588
 species: Gallus gallus
 symbol: KLF15
 title: KLF15
@@ -233,9 +227,8 @@ Base Pair Numbers: 465 - 1014
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163884](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163884) | [28999](https://www.ncbi.nlm.nih.gov/gene/28999) | [MIM:606465](https://omim.org/entry/606465) |  |
 | Mouse | [ENSMUSG00000030087](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030087) | [66277](https://www.ncbi.nlm.nih.gov/gene/66277) | [MGI:1929988](http://www.informatics.jax.org/marker/MGI:1929988) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100494101](https://www.ncbi.nlm.nih.gov/gene/100494101) | [1018579](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1018579) |  |
-| Zebrafish | [ENSDARG00000091127](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000091127) | [100333704](https://www.ncbi.nlm.nih.gov/gene/100333704), [335901](https://www.ncbi.nlm.nih.gov/gene/335901) | [ZFIN:ZDB-GENE-030131-7844](https://zfin.org/ZDB-GENE-030131-7844) | ZDB-GENE-030131-7844 |
+| Xenopus | [ENSXETG00000011549](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011549) | [100495857](https://www.ncbi.nlm.nih.gov/gene/100495857) |  |  |
+| Zebrafish | [ENSDARG00000091127](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000091127) | [335901](https://www.ncbi.nlm.nih.gov/gene/335901) | [ZFIN:ZDB-GENE-030131-7844](https://zfin.org/ZDB-GENE-030131-7844) | positive regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

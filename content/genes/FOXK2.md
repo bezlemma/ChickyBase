@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427798
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425369
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCAAAGGCTCATTCTGGAGGATAGAC
-gene_id: '456372'
+gene_id: '427798'
 gene_type: protein-coding
 images:
 - caption: FOXK2 expression
@@ -60,13 +60,8 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXK2.R164.S12.002.jpg
 name: forkhead box K2
-ncbi_id: '456372'
+ncbi_id: '427798'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000141568
   entrez: '3607'
   mod: MIM:147685
@@ -77,24 +72,25 @@ orthologs:
   mod: MGI:1916087
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100216193,399427
-  mod: '483519'
+- ensembl: ENSXETG00000041438
+  entrez: '100216193'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000011609,ENSDARG00000030583
-  entrez: 798356,324141
-  mod: ZFIN:ZDB-GENE-030131-5310,ZFIN:ZDB-GENE-030131-2861
-  phenotypes: ZDB-GENE-030131-5310,ZDB-GENE-030131-2861
+- ensembl: ENSDARG00000011609
+  entrez: '798356'
+  mod: ZFIN:ZDB-GENE-030131-5310
+  phenotypes: cilium assembly, heart jogging, heart looping, negative regulation of
+    DNA-templated transcription, positive regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTTGGGCTGGGTTACCATTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456372
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427798
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456372
+  url: https://www.ncbi.nlm.nih.gov/gene/427798
 species: Gallus gallus
 symbol: FOXK2
 template_length: '555'
@@ -117,9 +113,8 @@ title: FOXK2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000141568](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000141568) | [3607](https://www.ncbi.nlm.nih.gov/gene/3607) | [MIM:147685](https://omim.org/entry/147685) |  |
 | Mouse | [ENSMUSG00000039275](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039275) | [68837](https://www.ncbi.nlm.nih.gov/gene/68837) | [MGI:1916087](http://www.informatics.jax.org/marker/MGI:1916087) |  |
-| Xenopus |  | [100216193](https://www.ncbi.nlm.nih.gov/gene/100216193), [399427](https://www.ncbi.nlm.nih.gov/gene/399427) | [483519](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483519) |  |
-| Zebrafish | [ENSDARG00000011609](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011609), [ENSDARG00000030583](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030583) | [798356](https://www.ncbi.nlm.nih.gov/gene/798356), [324141](https://www.ncbi.nlm.nih.gov/gene/324141) | [ZFIN:ZDB-GENE-030131-5310](https://zfin.org/ZDB-GENE-030131-5310), [ZFIN:ZDB-GENE-030131-2861](https://zfin.org/ZDB-GENE-030131-2861) | ZDB-GENE-030131-5310,ZDB-GENE-030131-2861 |
+| Xenopus | [ENSXETG00000041438](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041438) | [100216193](https://www.ncbi.nlm.nih.gov/gene/100216193) |  |  |
+| Zebrafish | [ENSDARG00000011609](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011609) | [798356](https://www.ncbi.nlm.nih.gov/gene/798356) | [ZFIN:ZDB-GENE-030131-5310](https://zfin.org/ZDB-GENE-030131-5310) | cilium assembly, heart jogging, heart looping, negative regulation of DNA-templated transcription, positive regulation of DNA-templated transcription |
 

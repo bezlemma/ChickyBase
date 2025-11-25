@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422463
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420427
-gene_id: '451488'
+gene_id: '422463'
 gene_type: protein-coding
 images:
 - caption: OTUD4 expression
@@ -36,13 +36,8 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54xe5.125.21.jpg
 name: OTU deubiquitinase 4
-ncbi_id: '451488'
+ncbi_id: '422463'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164164
   entrez: '54726'
   mod: MIM:611744
@@ -53,23 +48,18 @@ orthologs:
   mod: MGI:1098801
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000017606
   entrez: '780053'
-  mod: '5900160'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '327127'
-  mod: ZFIN:ZDB-GENE-030131-5338
-  phenotypes: ZDB-GENE-030131-5338
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451488
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422463
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451488
+  url: https://www.ncbi.nlm.nih.gov/gene/422463
 species: Gallus gallus
 symbol: OTUD4
 title: OTUD4
@@ -92,9 +82,7 @@ title: OTUD4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164164](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164164) | [54726](https://www.ncbi.nlm.nih.gov/gene/54726) | [MIM:611744](https://omim.org/entry/611744) |  |
 | Mouse | [ENSMUSG00000036990](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036990) | [73945](https://www.ncbi.nlm.nih.gov/gene/73945) | [MGI:1098801](http://www.informatics.jax.org/marker/MGI:1098801) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [780053](https://www.ncbi.nlm.nih.gov/gene/780053) | [5900160](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5900160) |  |
-| Zebrafish |  | [327127](https://www.ncbi.nlm.nih.gov/gene/327127) | [ZFIN:ZDB-GENE-030131-5338](https://zfin.org/ZDB-GENE-030131-5338) | ZDB-GENE-030131-5338 |
+| Xenopus | [ENSXETG00000017606](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017606) | [780053](https://www.ncbi.nlm.nih.gov/gene/780053) |  |  |
 

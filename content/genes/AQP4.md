@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421088
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004765
 forward_primer: TTTTGTCCTCCTCAGCCTTGG
-gene_id: '459820'
+gene_id: '421088'
 gene_type: protein-coding
 images:
 - caption: AQP4 expression
@@ -84,13 +84,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R498.AQP4.S27.001.jpg
 name: aquaporin 4
-ncbi_id: '459820'
+ncbi_id: '421088'
 orthologs:
-- ensembl: ''
-  entrez: '36236'
-  mod: FBgn0015872
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000171885
   entrez: '361'
   mod: MIM:600308
@@ -101,24 +96,24 @@ orthologs:
   mod: MGI:107387
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100487371,100174805
-  mod: '487853'
+- ensembl: ENSXETG00000033655
+  entrez: '100487371'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000010565
   entrez: '445293'
   mod: ZFIN:ZDB-GENE-040724-152
-  phenotypes: ZDB-GENE-040724-152
+  phenotypes: intracellular water homeostasis, transmembrane transport, water transport
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGCTCCTGGTGTCATCCACTTCTATG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459820
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421088
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459820
+  url: https://www.ncbi.nlm.nih.gov/gene/421088
 species: Gallus gallus
 symbol: AQP4
 template_length: '715'
@@ -142,9 +137,8 @@ title: AQP4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36236](https://www.ncbi.nlm.nih.gov/gene/36236) | FBgn0015872 |  |
 | Human | [ENSG00000171885](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171885) | [361](https://www.ncbi.nlm.nih.gov/gene/361) | [MIM:600308](https://omim.org/entry/600308) |  |
 | Mouse | [ENSMUSG00000024411](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024411) | [11829](https://www.ncbi.nlm.nih.gov/gene/11829) | [MGI:107387](http://www.informatics.jax.org/marker/MGI:107387) | All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2) |
-| Xenopus |  | [100487371](https://www.ncbi.nlm.nih.gov/gene/100487371), [100174805](https://www.ncbi.nlm.nih.gov/gene/100174805) | [487853](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487853) |  |
-| Zebrafish | [ENSDARG00000010565](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010565) | [445293](https://www.ncbi.nlm.nih.gov/gene/445293) | [ZFIN:ZDB-GENE-040724-152](https://zfin.org/ZDB-GENE-040724-152) | ZDB-GENE-040724-152 |
+| Xenopus | [ENSXETG00000033655](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033655) | [100487371](https://www.ncbi.nlm.nih.gov/gene/100487371) |  |  |
+| Zebrafish | [ENSDARG00000010565](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010565) | [445293](https://www.ncbi.nlm.nih.gov/gene/445293) | [ZFIN:ZDB-GENE-040724-152](https://zfin.org/ZDB-GENE-040724-152) | intracellular water homeostasis, transmembrane transport, water transport |
 

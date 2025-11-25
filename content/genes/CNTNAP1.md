@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428309
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642826
 forward_primer: TGAACGATGGCTTCTGGCACTC
-gene_id: '462361'
+gene_id: '428309'
 gene_type: protein-coding
 images:
 - caption: CNTNAP1 expression
@@ -87,41 +87,36 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R558.CNTNAP1.S20AAA.001.jpg
 name: contactin associated protein 1
-ncbi_id: '462361'
+ncbi_id: '428309'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000108797
+  entrez: '8506'
+  mod: MIM:602346
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000017167
+  entrez: '53321'
+  mod: MGI:1858201
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000020201
+  entrez: '100037844'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000074524
+  entrez: '566220'
+  mod: ZFIN:ZDB-GENE-030916-2
+  phenotypes: cell adhesion
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGATGGTTGGCGTCACAGTTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462361
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428309
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462361
+  url: https://www.ncbi.nlm.nih.gov/gene/428309
 species: Gallus gallus
 symbol: CNTNAP1
 template_length: '893'
@@ -144,9 +139,8 @@ title: CNTNAP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000108797](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000108797) | [8506](https://www.ncbi.nlm.nih.gov/gene/8506) | [MIM:602346](https://omim.org/entry/602346) |  |
+| Mouse | [ENSMUSG00000017167](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000017167) | [53321](https://www.ncbi.nlm.nih.gov/gene/53321) | [MGI:1858201](http://www.informatics.jax.org/marker/MGI:1858201) |  |
+| Xenopus | [ENSXETG00000020201](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020201) | [100037844](https://www.ncbi.nlm.nih.gov/gene/100037844) |  |  |
+| Zebrafish | [ENSDARG00000074524](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074524) | [566220](https://www.ncbi.nlm.nih.gov/gene/566220) | [ZFIN:ZDB-GENE-030916-2](https://zfin.org/ZDB-GENE-030916-2) | cell adhesion |
 

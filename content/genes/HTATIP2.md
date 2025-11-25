@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424363
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422206
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/HTATIP2
-gene_id: '450719'
+gene_id: '424363'
 gene_type: protein-coding
 images:
 - caption: HTATIP2 expression
@@ -34,7 +34,7 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/4xa9.114.1.21.jpg
 name: HIV-1 Tat interactive protein 2
-ncbi_id: '450719'
+ncbi_id: '424363'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -64,10 +64,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450719
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424363
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450719
+  url: https://www.ncbi.nlm.nih.gov/gene/424363
 species: Gallus gallus
 symbol: HTATIP2
 title: HTATIP2

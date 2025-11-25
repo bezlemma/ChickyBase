@@ -3,14 +3,13 @@ aliases:
 - cyclin-A1
 cgnc_id: '12810'
 external_ids:
-  '25': stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000017052
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418901
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417097
 forward_primer: GCCAAGAGGATGAAGAACTGGAATC
-gene_id: '451888'
+gene_id: '418901'
 gene_type: protein-coding
 images:
 - caption: CCNA1 expression
@@ -84,13 +83,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R574.CCNA1.S25AA.001.jpg
 name: cyclin A1
-ncbi_id: '451888'
+ncbi_id: '418901'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000133101
   entrez: '8900'
   mod: MIM:604036
@@ -101,24 +95,24 @@ orthologs:
   mod: MGI:108042
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 548993,447494
-  mod: '922386'
+- ensembl: ENSXETG00000013224
+  entrez: '548993'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000043236
   entrez: '404206'
   mod: ZFIN:ZDB-GENE-040311-2
-  phenotypes: ZDB-GENE-040311-2
+  phenotypes: G1/S transition of mitotic cell cycle, cell division
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCACTGTGAGGTCAAAAGCCAAAAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451888
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418901
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451888
+  url: https://www.ncbi.nlm.nih.gov/gene/418901
 species: Gallus gallus
 symbol: CCNA1
 template_length: '572'
@@ -141,9 +135,8 @@ title: CCNA1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000133101](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000133101) | [8900](https://www.ncbi.nlm.nih.gov/gene/8900) | [MIM:604036](https://omim.org/entry/604036) |  |
 | Mouse | [ENSMUSG00000027793](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027793) | [12427](https://www.ncbi.nlm.nih.gov/gene/12427) | [MGI:108042](http://www.informatics.jax.org/marker/MGI:108042) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [548993](https://www.ncbi.nlm.nih.gov/gene/548993), [447494](https://www.ncbi.nlm.nih.gov/gene/447494) | [922386](http://www.xenbase.org/gene/showgene.do?method=display&geneId=922386) |  |
-| Zebrafish | [ENSDARG00000043236](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043236) | [404206](https://www.ncbi.nlm.nih.gov/gene/404206) | [ZFIN:ZDB-GENE-040311-2](https://zfin.org/ZDB-GENE-040311-2) | ZDB-GENE-040311-2 |
+| Xenopus | [ENSXETG00000013224](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013224) | [548993](https://www.ncbi.nlm.nih.gov/gene/548993) |  |  |
+| Zebrafish | [ENSDARG00000043236](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043236) | [404206](https://www.ncbi.nlm.nih.gov/gene/404206) | [ZFIN:ZDB-GENE-040311-2](https://zfin.org/ZDB-GENE-040311-2) | G1/S transition of mitotic cell cycle, cell division |
 

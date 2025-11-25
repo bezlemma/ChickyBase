@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423682
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641459
   X-XIV: stage XIII
-gene_id: '463738'
+gene_id: '423682'
 gene_type: protein-coding
 images:
 - caption: PRKG1 expression
@@ -184,37 +184,32 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PRKG1_HH 24 x17 right.jpg
 name: protein kinase cGMP-dependent 1
-ncbi_id: '463738'
+ncbi_id: '423682'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000185532
+  entrez: '5592'
+  mod: MIM:176894
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000052920
+  entrez: '19091'
+  mod: MGI:108174
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000034199
+  entrez: '100494278'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000020656
+  entrez: '394005'
+  mod: ZFIN:ZDB-GENE-040426-1308
+  phenotypes: phosphorylation, protein phosphorylation, signal transduction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463738
+  url: https://www.ncbi.nlm.nih.gov/gene/423682
 species: Gallus gallus
 symbol: PRKG1
 title: PRKG1
@@ -238,9 +233,8 @@ title: PRKG1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000185532](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185532) | [5592](https://www.ncbi.nlm.nih.gov/gene/5592) | [MIM:176894](https://omim.org/entry/176894) |  |
+| Mouse | [ENSMUSG00000052920](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000052920) | [19091](https://www.ncbi.nlm.nih.gov/gene/19091) | [MGI:108174](http://www.informatics.jax.org/marker/MGI:108174) |  |
+| Xenopus | [ENSXETG00000034199](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034199) | [100494278](https://www.ncbi.nlm.nih.gov/gene/100494278) |  |  |
+| Zebrafish | [ENSDARG00000020656](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020656) | [394005](https://www.ncbi.nlm.nih.gov/gene/394005) | [ZFIN:ZDB-GENE-040426-1308](https://zfin.org/ZDB-GENE-040426-1308) | phosphorylation, protein phosphorylation, signal transduction |
 

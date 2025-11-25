@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419024
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417217
 forward_primer: AGATGGGAGGTTACAGGTTG
-gene_id: '456806'
+gene_id: '419024'
 gene_type: protein-coding
 images:
 - caption: DLG2 expression
@@ -126,41 +126,38 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R414.DLG2.S24b.001a.jpg
 name: discs large MAGUK scaffold protein 2
-ncbi_id: '456806'
+ncbi_id: '419024'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000150672
   entrez: '1740'
   mod: MIM:603583
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000052572
   entrez: '23859'
   mod: MGI:1344351
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000012737
   entrez: '100170164'
-  mod: '940637'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000099323
   entrez: '497638'
   mod: ZFIN:ZDB-GENE-050221-3
-  phenotypes: ZDB-GENE-050221-3
+  phenotypes: cell-cell adhesion, chemical synaptic transmission, establishment or
+    maintenance of epithelial cell apical/basal polarity, nervous system development,
+    protein localization to synapse
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGATGATTGTTACCGTCTGCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456806
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419024
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456806
+  url: https://www.ncbi.nlm.nih.gov/gene/419024
 species: Gallus gallus
 symbol: DLG2
 template_length: '789'
@@ -182,9 +179,8 @@ title: DLG2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000150672](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000150672) | [1740](https://www.ncbi.nlm.nih.gov/gene/1740) | [MIM:603583](https://omim.org/entry/603583) |  |
-| Mouse |  | [23859](https://www.ncbi.nlm.nih.gov/gene/23859) | [MGI:1344351](http://www.informatics.jax.org/marker/MGI:1344351) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100170164](https://www.ncbi.nlm.nih.gov/gene/100170164) | [940637](http://www.xenbase.org/gene/showgene.do?method=display&geneId=940637) |  |
-| Zebrafish |  | [497638](https://www.ncbi.nlm.nih.gov/gene/497638) | [ZFIN:ZDB-GENE-050221-3](https://zfin.org/ZDB-GENE-050221-3) | ZDB-GENE-050221-3 |
+| Mouse | [ENSMUSG00000052572](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000052572) | [23859](https://www.ncbi.nlm.nih.gov/gene/23859) | [MGI:1344351](http://www.informatics.jax.org/marker/MGI:1344351) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
+| Xenopus | [ENSXETG00000012737](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012737) | [100170164](https://www.ncbi.nlm.nih.gov/gene/100170164) |  |  |
+| Zebrafish | [ENSDARG00000099323](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099323) | [497638](https://www.ncbi.nlm.nih.gov/gene/497638) | [ZFIN:ZDB-GENE-050221-3](https://zfin.org/ZDB-GENE-050221-3) | cell-cell adhesion, chemical synaptic transmission, establishment or maintenance of epithelial cell apical/basal polarity, nervous system development, protein localization to synapse |
 

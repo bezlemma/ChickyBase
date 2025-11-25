@@ -3,7 +3,6 @@ aliases:
 - protein ENL
 cgnc_id: '1107'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0026441
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/44451
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420089
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418209
 forward_primer: 5'-CAAGGAACCAAAACTGGCCG-3'
-gene_id: '458381'
+gene_id: '420089'
 gene_type: protein-coding
 images:
 - caption: MLLT1 expression
@@ -135,13 +134,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT1.S25AAA.001.jpg
 name: MLLT1, super elongation complex subunit
-ncbi_id: '458381'
+ncbi_id: '420089'
 orthologs:
-- ensembl: ''
-  entrez: '44451'
-  mod: FBgn0026441
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000130382
   entrez: '4298'
   mod: MIM:159556
@@ -152,24 +146,25 @@ orthologs:
   mod: MGI:1927238
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100158574,447347
-  mod: '991782'
+- ensembl: ENSXETG00000021875
+  entrez: '100158574'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000031709,ENSDARG00000043185
-  entrez: 678639,565484
-  mod: ZFIN:ZDB-GENE-060421-7142,ZFIN:ZDB-GENE-081105-45,ZFIN:ZDB-GENE-081105-45
-  phenotypes: ZDB-GENE-060421-7142,ZDB-GENE-081105-45,ZDB-GENE-081105-45
+- ensembl: ENSDARG00000031709
+  entrez: '678639'
+  mod: ZFIN:ZDB-GENE-060421-7142
+  phenotypes: positive regulation of DNA-templated transcription, regulation of DNA-templated
+    transcription
   species: Zebrafish
 reverse_primer: 5'-TCCATGGGTTCGTTTCCTGG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458381
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420089
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458381
+  url: https://www.ncbi.nlm.nih.gov/gene/420089
 species: Gallus gallus
 symbol: MLLT1
 template_length: '998'
@@ -194,9 +189,8 @@ title: MLLT1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [44451](https://www.ncbi.nlm.nih.gov/gene/44451) | FBgn0026441 |  |
 | Human | [ENSG00000130382](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000130382) | [4298](https://www.ncbi.nlm.nih.gov/gene/4298) | [MIM:159556](https://omim.org/entry/159556) |  |
 | Mouse | [ENSMUSG00000024212](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024212) | [64144](https://www.ncbi.nlm.nih.gov/gene/64144) | [MGI:1927238](http://www.informatics.jax.org/marker/MGI:1927238) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100158574](https://www.ncbi.nlm.nih.gov/gene/100158574), [447347](https://www.ncbi.nlm.nih.gov/gene/447347) | [991782](http://www.xenbase.org/gene/showgene.do?method=display&geneId=991782) |  |
-| Zebrafish | [ENSDARG00000031709](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031709), [ENSDARG00000043185](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043185) | [678639](https://www.ncbi.nlm.nih.gov/gene/678639), [565484](https://www.ncbi.nlm.nih.gov/gene/565484) | [ZFIN:ZDB-GENE-060421-7142](https://zfin.org/ZDB-GENE-060421-7142), [ZFIN:ZDB-GENE-081105-45](https://zfin.org/ZDB-GENE-081105-45), [ZFIN:ZDB-GENE-081105-45](https://zfin.org/ZDB-GENE-081105-45) | ZDB-GENE-060421-7142,ZDB-GENE-081105-45,ZDB-GENE-081105-45 |
+| Xenopus | [ENSXETG00000021875](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021875) | [100158574](https://www.ncbi.nlm.nih.gov/gene/100158574) |  |  |
+| Zebrafish | [ENSDARG00000031709](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031709) | [678639](https://www.ncbi.nlm.nih.gov/gene/678639) | [ZFIN:ZDB-GENE-060421-7142](https://zfin.org/ZDB-GENE-060421-7142) | positive regulation of DNA-templated transcription, regulation of DNA-templated transcription |
 

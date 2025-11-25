@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423971
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421829
 forward_primer: TTCAAACACCCCAGACGCAC
-gene_id: '452714'
+gene_id: '423971'
 gene_type: protein-coding
 images:
 - caption: BNIP3 expression
@@ -111,41 +111,37 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R570.BNIP3.S26AAAA.001.jpg
 name: BCL2 interacting protein 3
-ncbi_id: '452714'
+ncbi_id: '423971'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000176171
   entrez: '664'
   mod: MIM:603293
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: '100042570'
-  mod: MGI:3647611
+- ensembl: ENSMUSG00000078566
+  entrez: '12176'
+  mod: MGI:109326
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 548576,398786
-  mod: '971174'
+- ensembl: ENSXETG00000025214
+  entrez: '548576'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000045033
+- ensembl: ENSDARG00000099961
   entrez: '336116'
   mod: ZFIN:ZDB-GENE-030131-8060
-  phenotypes: ZDB-GENE-030131-8060
+  phenotypes: apoptotic process, mitochondrial outer membrane permeabilization, positive
+    regulation of apoptotic process, positive regulation of programmed cell death
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCAGAAGAAACTATCAGGCACCAAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452714
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423971
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452714
+  url: https://www.ncbi.nlm.nih.gov/gene/423971
 species: Gallus gallus
 symbol: BNIP3
 template_length: '836'
@@ -168,9 +164,8 @@ title: BNIP3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [664](https://www.ncbi.nlm.nih.gov/gene/664) | [MIM:603293](https://omim.org/entry/603293) |  |
-| Mouse |  | [100042570](https://www.ncbi.nlm.nih.gov/gene/100042570) | [MGI:3647611](http://www.informatics.jax.org/marker/MGI:3647611) |  |
-| Xenopus |  | [548576](https://www.ncbi.nlm.nih.gov/gene/548576), [398786](https://www.ncbi.nlm.nih.gov/gene/398786) | [971174](http://www.xenbase.org/gene/showgene.do?method=display&geneId=971174) |  |
-| Zebrafish | [ENSDARG00000045033](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045033) | [336116](https://www.ncbi.nlm.nih.gov/gene/336116) | [ZFIN:ZDB-GENE-030131-8060](https://zfin.org/ZDB-GENE-030131-8060) | ZDB-GENE-030131-8060 |
+| Human | [ENSG00000176171](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000176171) | [664](https://www.ncbi.nlm.nih.gov/gene/664) | [MIM:603293](https://omim.org/entry/603293) |  |
+| Mouse | [ENSMUSG00000078566](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000078566) | [12176](https://www.ncbi.nlm.nih.gov/gene/12176) | [MGI:109326](http://www.informatics.jax.org/marker/MGI:109326) |  |
+| Xenopus | [ENSXETG00000025214](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025214) | [548576](https://www.ncbi.nlm.nih.gov/gene/548576) |  |  |
+| Zebrafish | [ENSDARG00000099961](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099961) | [336116](https://www.ncbi.nlm.nih.gov/gene/336116) | [ZFIN:ZDB-GENE-030131-8060](https://zfin.org/ZDB-GENE-030131-8060) | apoptotic process, mitochondrial outer membrane permeabilization, positive regulation of apoptotic process, positive regulation of programmed cell death |
 

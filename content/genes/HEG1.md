@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424257
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422104
-gene_id: '461330'
+gene_id: '424257'
 gene_type: protein-coding
 images:
 - caption: HEG1 expression
@@ -42,7 +42,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HEG1.Anderson.2019.Supplementary
     figure 5F.jpg
 name: heart development protein with EGF like domains 1
-ncbi_id: '461330'
+ncbi_id: '424257'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -72,7 +72,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461330
+  url: https://www.ncbi.nlm.nih.gov/gene/424257
 species: Gallus gallus
 symbol: HEG1
 title: HEG1

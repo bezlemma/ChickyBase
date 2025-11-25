@@ -22,7 +22,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396246
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008289
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205308
-gene_id: '462353'
+gene_id: '396246'
 gene_type: protein-coding
 images:
 - caption: FABP7 expression
@@ -68,13 +68,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-figS1-C.jpg
 name: fatty acid binding protein 7
-ncbi_id: '462353'
+ncbi_id: '396246'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164434
   entrez: '2173'
   mod: MIM:602965
@@ -86,19 +81,19 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, other(4)
   species: Mouse
 - ensembl: ''
-  entrez: 548661,496060
-  mod: '967703'
+  entrez: '548661'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000034650,ENSDARG00000007697
-  entrez: 407736,58128
-  mod: ZFIN:ZDB-GENE-040614-4,ZFIN:ZDB-GENE-000627-1
-  phenotypes: ZDB-GENE-040614-4,ZDB-GENE-000627-1
+- ensembl: ENSDARG00000034650
+  entrez: '407736'
+  mod: ZFIN:ZDB-GENE-040614-4
+  phenotypes: fatty acid transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462353
+  url: https://www.ncbi.nlm.nih.gov/gene/396246
 species: Gallus gallus
 symbol: FABP7
 title: FABP7
@@ -127,9 +122,8 @@ title: FABP7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164434](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164434) | [2173](https://www.ncbi.nlm.nih.gov/gene/2173) | [MIM:602965](https://omim.org/entry/602965) |  |
 | Mouse | [ENSMUSG00000019874](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019874) | [12140](https://www.ncbi.nlm.nih.gov/gene/12140) | [MGI:101916](http://www.informatics.jax.org/marker/MGI:101916) | All phenotypic alleles (4):Targeted, other(4) |
-| Xenopus |  | [548661](https://www.ncbi.nlm.nih.gov/gene/548661), [496060](https://www.ncbi.nlm.nih.gov/gene/496060) | [967703](http://www.xenbase.org/gene/showgene.do?method=display&geneId=967703) |  |
-| Zebrafish | [ENSDARG00000034650](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034650), [ENSDARG00000007697](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007697) | [407736](https://www.ncbi.nlm.nih.gov/gene/407736), [58128](https://www.ncbi.nlm.nih.gov/gene/58128) | [ZFIN:ZDB-GENE-040614-4](https://zfin.org/ZDB-GENE-040614-4), [ZFIN:ZDB-GENE-000627-1](https://zfin.org/ZDB-GENE-000627-1) | ZDB-GENE-040614-4,ZDB-GENE-000627-1 |
+| Xenopus |  | [548661](https://www.ncbi.nlm.nih.gov/gene/548661) |  |  |
+| Zebrafish | [ENSDARG00000034650](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034650) | [407736](https://www.ncbi.nlm.nih.gov/gene/407736) | [ZFIN:ZDB-GENE-040614-4](https://zfin.org/ZDB-GENE-040614-4) | fatty acid transport |
 

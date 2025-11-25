@@ -4,7 +4,6 @@ aliases:
 - pancortin
 cgnc_id: '1803'
 external_ids:
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0030054
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Barembaum+Moreno+2000
@@ -18,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395535
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204767
 forward_primer: GCAACATCGTCATCAGCAAGC
-gene_id: '449625'
+gene_id: '395535'
 gene_type: protein-coding
 images:
 - caption: OLFM1 expression
@@ -192,13 +191,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barembaum.2000-Noelin-1-Fig1.jpg
 name: olfactomedin 1
-ncbi_id: '449625'
+ncbi_id: '395535'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000130558
   entrez: '10439'
   mod: MIM:605366
@@ -209,24 +203,19 @@ orthologs:
   mod: MGI:1860437
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100101729,398287
-  mod: '491790'
+- ensembl: ENSXETG00000022336
+  entrez: '100101729'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000014053
-  entrez: 445092,436764
-  mod: ZFIN:ZDB-GENE-040801-228,ZFIN:ZDB-GENE-040718-194
-  phenotypes: ZDB-GENE-040801-228,ZDB-GENE-040718-194
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCCACACAGAAGAGAGCGAATC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449625
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395535
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449625
+  url: https://www.ncbi.nlm.nih.gov/gene/395535
 species: Gallus gallus
 symbol: OLFM1
 template_length: '727'
@@ -255,9 +244,7 @@ title: OLFM1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000130558](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000130558) | [10439](https://www.ncbi.nlm.nih.gov/gene/10439) | [MIM:605366](https://omim.org/entry/605366) |  |
 | Mouse | [ENSMUSG00000026833](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026833) | [56177](https://www.ncbi.nlm.nih.gov/gene/56177) | [MGI:1860437](http://www.informatics.jax.org/marker/MGI:1860437) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [100101729](https://www.ncbi.nlm.nih.gov/gene/100101729), [398287](https://www.ncbi.nlm.nih.gov/gene/398287) | [491790](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491790) |  |
-| Zebrafish | [ENSDARG00000014053](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014053) | [445092](https://www.ncbi.nlm.nih.gov/gene/445092), [436764](https://www.ncbi.nlm.nih.gov/gene/436764) | [ZFIN:ZDB-GENE-040801-228](https://zfin.org/ZDB-GENE-040801-228), [ZFIN:ZDB-GENE-040718-194](https://zfin.org/ZDB-GENE-040718-194) | ZDB-GENE-040801-228,ZDB-GENE-040718-194 |
+| Xenopus | [ENSXETG00000022336](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022336) | [100101729](https://www.ncbi.nlm.nih.gov/gene/100101729) |  |  |
 

@@ -6,7 +6,6 @@ aliases:
 - myeloid ecotropic viral insertion site-2a protein
 cgnc_id: '49388'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Heine+dohle+engelkamp+homothorax
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (NM_001397970).
@@ -19,7 +18,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204803
   X-XIV: stage XII
 forward_primer: TCCGCTGTCAACGACGCTC
-gene_id: '449714'
+gene_id: '395588'
 gene_type: protein-coding
 images:
 - caption: MEIS2 expression
@@ -1033,13 +1032,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MEIS2.Travers.2023-Fig7-2-Q.jpg
 name: Meis homeobox 2
-ncbi_id: '449714'
+ncbi_id: '395588'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134138
   entrez: '4212'
   mod: MIM:601740
@@ -1050,24 +1044,25 @@ orthologs:
   mod: MGI:108564
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100036664,398167
-  mod: '487674'
+- ensembl: ENSXETG00000012882
+  entrez: '100036664'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000077840
-  entrez: 170454,30066
-  mod: ZFIN:ZDB-GENE-020122-2,ZFIN:ZDB-GENE-000210-23
-  phenotypes: ZDB-GENE-020122-2,ZDB-GENE-000210-23
+- ensembl: ENSDARG00000098240
+  entrez: '170454'
+  mod: ZFIN:ZDB-GENE-020122-2
+  phenotypes: animal organ morphogenesis, brain development, embryonic pattern specification,
+    embryonic viscerocranium morphogenesis, eye development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAAGTCCTGTGTCTTGGGCTAACTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449714
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395588
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449714
+  url: https://www.ncbi.nlm.nih.gov/gene/395588
 species: Gallus gallus
 symbol: MEIS2
 template_length: '756'
@@ -1094,9 +1089,8 @@ title: MEIS2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000134138](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134138) | [4212](https://www.ncbi.nlm.nih.gov/gene/4212) | [MIM:601740](https://omim.org/entry/601740) |  |
 | Mouse | [ENSMUSG00000027210](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027210) | [17536](https://www.ncbi.nlm.nih.gov/gene/17536) | [MGI:108564](http://www.informatics.jax.org/marker/MGI:108564) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100036664](https://www.ncbi.nlm.nih.gov/gene/100036664), [398167](https://www.ncbi.nlm.nih.gov/gene/398167) | [487674](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487674) |  |
-| Zebrafish | [ENSDARG00000077840](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077840) | [170454](https://www.ncbi.nlm.nih.gov/gene/170454), [30066](https://www.ncbi.nlm.nih.gov/gene/30066) | [ZFIN:ZDB-GENE-020122-2](https://zfin.org/ZDB-GENE-020122-2), [ZFIN:ZDB-GENE-000210-23](https://zfin.org/ZDB-GENE-000210-23) | ZDB-GENE-020122-2,ZDB-GENE-000210-23 |
+| Xenopus | [ENSXETG00000012882](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012882) | [100036664](https://www.ncbi.nlm.nih.gov/gene/100036664) |  |  |
+| Zebrafish | [ENSDARG00000098240](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098240) | [170454](https://www.ncbi.nlm.nih.gov/gene/170454) | [ZFIN:ZDB-GENE-020122-2](https://zfin.org/ZDB-GENE-020122-2) | animal organ morphogenesis, brain development, embryonic pattern specification, embryonic viscerocranium morphogenesis, eye development |
 

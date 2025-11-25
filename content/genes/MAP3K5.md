@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421688
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419725
-gene_id: '458536'
+gene_id: '421688'
 gene_type: protein-coding
 images:
 - caption: MAP3K5 expression
@@ -138,13 +138,8 @@ images:
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ASK1Fig3MFerrer.jpg
 name: mitogen-activated protein kinase kinase kinase 5
-ncbi_id: '458536'
+ncbi_id: '421688'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000197442
   entrez: '4217'
   mod: MIM:602448
@@ -155,20 +150,22 @@ orthologs:
   mod: MGI:1346876
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: '549376'
-  mod: '1012321'
+- ensembl: ENSXETG00000002476
+  entrez: '100497692'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000005416
   entrez: '555703'
   mod: ZFIN:ZDB-GENE-030827-3
-  phenotypes: ZDB-GENE-030827-3
+  phenotypes: JNK cascade, MAPK cascade, defense response to bacterium, intrinsic
+    apoptotic signaling pathway in response to endoplasmic reticulum stress, intrinsic
+    apoptotic signaling pathway in response to oxidative stress
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458536
+  url: https://www.ncbi.nlm.nih.gov/gene/421688
 species: Gallus gallus
 symbol: MAP3K5
 title: MAP3K5
@@ -193,9 +190,8 @@ title: MAP3K5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000197442](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197442) | [4217](https://www.ncbi.nlm.nih.gov/gene/4217) | [MIM:602448](https://omim.org/entry/602448) |  |
 | Mouse | [ENSMUSG00000071369](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000071369) | [26408](https://www.ncbi.nlm.nih.gov/gene/26408) | [MGI:1346876](http://www.informatics.jax.org/marker/MGI:1346876) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [549376](https://www.ncbi.nlm.nih.gov/gene/549376) | [1012321](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1012321) |  |
-| Zebrafish | [ENSDARG00000005416](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005416) | [555703](https://www.ncbi.nlm.nih.gov/gene/555703) | [ZFIN:ZDB-GENE-030827-3](https://zfin.org/ZDB-GENE-030827-3) | ZDB-GENE-030827-3 |
+| Xenopus | [ENSXETG00000002476](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002476) | [100497692](https://www.ncbi.nlm.nih.gov/gene/100497692) |  |  |
+| Zebrafish | [ENSDARG00000005416](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005416) | [555703](https://www.ncbi.nlm.nih.gov/gene/555703) | [ZFIN:ZDB-GENE-030827-3](https://zfin.org/ZDB-GENE-030827-3) | JNK cascade, MAPK cascade, defense response to bacterium, intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress, intrinsic apoptotic signaling pathway in response to oxidative stress |
 

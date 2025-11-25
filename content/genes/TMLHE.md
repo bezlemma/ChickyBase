@@ -17,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0031418
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012575
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/TMLHE
-gene_id: '450159'
+gene_id: '422296'
 gene_type: protein-coding
 images:
 - caption: TMLHE expression
@@ -70,40 +70,35 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C02.83.23.jpg
 name: trimethyllysine hydroxylase, epsilon
-ncbi_id: '450159'
+ncbi_id: '422296'
 orthologs:
-- ensembl: ''
-  entrez: '42421'
-  mod: FBgn0038795
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000185973
   entrez: '55217'
   mod: MIM:300777
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000079834
+- ensembl: ''
   entrez: '192289'
   mod: MGI:2180203
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100124877,100189568
-  mod: '978202'
+- ensembl: ENSXETG00000018382
+  entrez: '100124877'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000077547
   entrez: '555271'
   mod: ZFIN:ZDB-GENE-091204-144
-  phenotypes: ZDB-GENE-091204-144
+  phenotypes: carnitine biosynthetic process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450159
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422296
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450159
+  url: https://www.ncbi.nlm.nih.gov/gene/422296
 species: Gallus gallus
 symbol: TMLHE
 title: TMLHE
@@ -130,9 +125,8 @@ title: TMLHE
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42421](https://www.ncbi.nlm.nih.gov/gene/42421) | FBgn0038795 |  |
 | Human | [ENSG00000185973](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185973) | [55217](https://www.ncbi.nlm.nih.gov/gene/55217) | [MIM:300777](https://omim.org/entry/300777) |  |
-| Mouse | [ENSMUSG00000079834](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000079834) | [192289](https://www.ncbi.nlm.nih.gov/gene/192289) | [MGI:2180203](http://www.informatics.jax.org/marker/MGI:2180203) |  |
-| Xenopus |  | [100124877](https://www.ncbi.nlm.nih.gov/gene/100124877), [100189568](https://www.ncbi.nlm.nih.gov/gene/100189568) | [978202](http://www.xenbase.org/gene/showgene.do?method=display&geneId=978202) |  |
-| Zebrafish | [ENSDARG00000077547](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077547) | [555271](https://www.ncbi.nlm.nih.gov/gene/555271) | [ZFIN:ZDB-GENE-091204-144](https://zfin.org/ZDB-GENE-091204-144) | ZDB-GENE-091204-144 |
+| Mouse |  | [192289](https://www.ncbi.nlm.nih.gov/gene/192289) | [MGI:2180203](http://www.informatics.jax.org/marker/MGI:2180203) |  |
+| Xenopus | [ENSXETG00000018382](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018382) | [100124877](https://www.ncbi.nlm.nih.gov/gene/100124877) |  |  |
+| Zebrafish | [ENSDARG00000077547](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077547) | [555271](https://www.ncbi.nlm.nih.gov/gene/555271) | [ZFIN:ZDB-GENE-091204-144](https://zfin.org/ZDB-GENE-091204-144) | carnitine biosynthetic process |
 

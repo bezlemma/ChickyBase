@@ -4,7 +4,6 @@ aliases:
 - Hox D10
 cgnc_id: '56632'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Yakushiji-Kaminatsui+2018+HoxD
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (XM_001234538.5)
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771246
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234538
 forward_primer: AGACATTGGGACTTATGGGATGC
-gene_id: '448848'
+gene_id: '771246'
 gene_type: protein-coding
 images:
 - caption: HOXD10 expression
@@ -260,41 +259,37 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxd10.Yakushiji-Kaminatsui.2018.Fig1.jpg
 name: homeobox D10
-ncbi_id: '448848'
+ncbi_id: '771246'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000128710
   entrez: '3236'
   mod: MIM:142984
   phenotypes: MIM:142984
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000050368
   entrez: '15430'
   mod: MGI:96202
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100038085,399032
-  mod: '485203'
+- ensembl: ENSXETG00000032416
+  entrez: '100038085'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000057859
   entrez: '30404'
   mod: ZFIN:ZDB-GENE-990415-116
-  phenotypes: ZDB-GENE-990415-116
+  phenotypes: regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTTTCCACTTGAGAGACTTTAGCCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448848
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771246
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448848
+  url: https://www.ncbi.nlm.nih.gov/gene/771246
 species: Gallus gallus
 symbol: HOXD10
 template_length: '530'
@@ -321,9 +316,8 @@ title: HOXD10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000128710](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000128710) | [3236](https://www.ncbi.nlm.nih.gov/gene/3236) | [MIM:142984](https://omim.org/entry/142984) | MIM:142984 |
-| Mouse |  | [15430](https://www.ncbi.nlm.nih.gov/gene/15430) | [MGI:96202](http://www.informatics.jax.org/marker/MGI:96202) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100038085](https://www.ncbi.nlm.nih.gov/gene/100038085), [399032](https://www.ncbi.nlm.nih.gov/gene/399032) | [485203](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485203) |  |
-| Zebrafish | [ENSDARG00000057859](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057859) | [30404](https://www.ncbi.nlm.nih.gov/gene/30404) | [ZFIN:ZDB-GENE-990415-116](https://zfin.org/ZDB-GENE-990415-116) | ZDB-GENE-990415-116 |
+| Mouse | [ENSMUSG00000050368](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000050368) | [15430](https://www.ncbi.nlm.nih.gov/gene/15430) | [MGI:96202](http://www.informatics.jax.org/marker/MGI:96202) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
+| Xenopus | [ENSXETG00000032416](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000032416) | [100038085](https://www.ncbi.nlm.nih.gov/gene/100038085) |  |  |
+| Zebrafish | [ENSDARG00000057859](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057859) | [30404](https://www.ncbi.nlm.nih.gov/gene/30404) | [ZFIN:ZDB-GENE-990415-116](https://zfin.org/ZDB-GENE-990415-116) | regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

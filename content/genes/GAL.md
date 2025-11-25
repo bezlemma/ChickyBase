@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423117
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005179
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001145389
-gene_id: '449479'
+gene_id: '423117'
 gene_type: protein-coding
 images:
 - caption: GAL expression
@@ -45,37 +45,23 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GAL.Anderson.2019.Supplementary
     figure 5J.jpg
 name: galanin and GMAP prepropeptide
-ncbi_id: '449479'
+ncbi_id: '423117'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000044443
+  entrez: '100491634'
   mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000091377
   entrez: '100006361'
-  mod: ''
-  phenotypes: ''
+  mod: ZFIN:ZDB-GENE-111117-2
+  phenotypes: neuropeptide signaling pathway, positive regulation of transcription
+    by RNA polymerase II, response to light stimulus, response to salt stress, sleep
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449479
+  url: https://www.ncbi.nlm.nih.gov/gene/423117
 species: Gallus gallus
 symbol: GAL
 title: GAL
@@ -104,9 +90,6 @@ title: GAL
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000091377](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000091377) | [100006361](https://www.ncbi.nlm.nih.gov/gene/100006361) |  |  |
+| Xenopus | [ENSXETG00000044443](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044443) | [100491634](https://www.ncbi.nlm.nih.gov/gene/100491634) |  |  |
+| Zebrafish | [ENSDARG00000091377](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000091377) | [100006361](https://www.ncbi.nlm.nih.gov/gene/100006361) | [ZFIN:ZDB-GENE-111117-2](https://zfin.org/ZDB-GENE-111117-2) | neuropeptide signaling pathway, positive regulation of transcription by RNA polymerase II, response to light stimulus, response to salt stress, sleep |
 

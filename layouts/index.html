@@ -85,7 +85,7 @@
     <!-- Quick Stats -->
     <div class="bg-white rounded-xl shadow-md border border-slate-200 p-8 mb-16">
         <h2 class="text-2xl font-bold text-slate-900 mb-6 text-center">Database Statistics</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div class="text-center">
                 <div class="text-4xl font-bold text-primary mb-2">
                     {{ len (where .Site.RegularPages "Section" "genes") }}
@@ -96,18 +96,24 @@
                 <div class="text-4xl font-bold text-primary mb-2">
                     {{ $imageCount := 0 }}
                     {{ range where .Site.RegularPages "Section" "genes" }}
-                        {{ if .Params.images }}
-                            {{ $imageCount = add $imageCount (len .Params.images) }}
-                        {{ end }}
-                        {{ if .Params.expression_data }}
-                            {{ range .Params.expression_data }}
-                                {{ $imageCount = add $imageCount (len .entries) }}
-                            {{ end }}
-                        {{ end }}
+                    {{ if .Params.images }}
+                    {{ $imageCount = add $imageCount (len .Params.images) }}
+                    {{ end }}
+                    {{ if .Params.expression_data }}
+                    {{ range .Params.expression_data }}
+                    {{ $imageCount = add $imageCount (len .entries) }}
+                    {{ end }}
+                    {{ end }}
                     {{ end }}
                     {{ $imageCount }}
                 </div>
                 <div class="text-slate-600">Expression Images</div>
+            </div>
+            <div class="text-center">
+                <div class="text-4xl font-bold text-primary mb-2">
+                    {{ .Params.paper_count | default 0 }}
+                </div>
+                <div class="text-slate-600">Publications</div>
             </div>
         </div>
     </div>

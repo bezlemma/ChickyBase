@@ -22,7 +22,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396035
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0045296
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205136
-gene_id: '459539'
+gene_id: '396035'
 gene_type: protein-coding
 images:
 - caption: CTNNA2 expression
@@ -105,13 +105,8 @@ images:
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/aNCATENIN.Jhingory.2010.Fig.1.png
 name: catenin alpha 2
-ncbi_id: '459539'
+ncbi_id: '396035'
 orthologs:
-- ensembl: ''
-  entrez: '40517'
-  mod: FBgn0010215
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000066032
   entrez: '1496'
   mod: MIM:114025
@@ -122,20 +117,21 @@ orthologs:
   mod: MGI:88275
   phenotypes: All phenotypic alleles (3):Spontaneous(1) Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100037860,444710
-  mod: '5955200'
+- ensembl: ENSXETG00000040099
+  entrez: '100037860'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000024785
   entrez: '567500'
   mod: ZFIN:ZDB-GENE-060815-3
-  phenotypes: ZDB-GENE-060815-3
+  phenotypes: axonogenesis, brain morphogenesis, cell adhesion, cell differentiation,
+    cell migration
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459539
+  url: https://www.ncbi.nlm.nih.gov/gene/396035
 species: Gallus gallus
 symbol: CTNNA2
 title: CTNNA2
@@ -168,9 +164,8 @@ title: CTNNA2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40517](https://www.ncbi.nlm.nih.gov/gene/40517) | FBgn0010215 |  |
 | Human | [ENSG00000066032](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000066032) | [1496](https://www.ncbi.nlm.nih.gov/gene/1496) | [MIM:114025](https://omim.org/entry/114025) |  |
 | Mouse | [ENSMUSG00000063063](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000063063) | [12386](https://www.ncbi.nlm.nih.gov/gene/12386) | [MGI:88275](http://www.informatics.jax.org/marker/MGI:88275) | All phenotypic alleles (3):Spontaneous(1) Targeted, knock-out(2) |
-| Xenopus |  | [100037860](https://www.ncbi.nlm.nih.gov/gene/100037860), [444710](https://www.ncbi.nlm.nih.gov/gene/444710) | [5955200](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5955200) |  |
-| Zebrafish | [ENSDARG00000024785](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000024785) | [567500](https://www.ncbi.nlm.nih.gov/gene/567500) | [ZFIN:ZDB-GENE-060815-3](https://zfin.org/ZDB-GENE-060815-3) | ZDB-GENE-060815-3 |
+| Xenopus | [ENSXETG00000040099](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000040099) | [100037860](https://www.ncbi.nlm.nih.gov/gene/100037860) |  |  |
+| Zebrafish | [ENSDARG00000024785](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000024785) | [567500](https://www.ncbi.nlm.nih.gov/gene/567500) | [ZFIN:ZDB-GENE-060815-3](https://zfin.org/ZDB-GENE-060815-3) | axonogenesis, brain morphogenesis, cell adhesion, cell differentiation, cell migration |
 

@@ -3,13 +3,12 @@ aliases:
 - nuclear receptor coactivator 1
 cgnc_id: '12452'
 external_ids:
-  '25': stage 25stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000016617
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422016
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012882
 forward_primer: CGATACAGCCCAGAGCAATGAAAAG
-gene_id: '449439'
+gene_id: '422016'
 gene_type: protein-coding
 images:
 - caption: NCOA1 expression
@@ -164,13 +163,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R334.NCOA1.S25.002.jpg
 name: nuclear receptor coactivator 1
-ncbi_id: '449439'
+ncbi_id: '422016'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000084676
   entrez: '8648'
   mod: MIM:602691
@@ -181,24 +175,19 @@ orthologs:
   mod: MGI:1276523
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(4) Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000021173
   entrez: '100127189'
-  mod: '494348'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000018257
-  entrez: '563288'
-  mod: ZFIN:ZDB-GENE-041001-175
-  phenotypes: ZDB-GENE-041001-175
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCACTAAATCTTCCCAACCCGTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449439
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422016
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449439
+  url: https://www.ncbi.nlm.nih.gov/gene/422016
 species: Gallus gallus
 symbol: NCOA1
 template_length: '800'
@@ -220,9 +209,7 @@ title: NCOA1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000084676](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000084676) | [8648](https://www.ncbi.nlm.nih.gov/gene/8648) | [MIM:602691](https://omim.org/entry/602691) |  |
 | Mouse | [ENSMUSG00000020647](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020647) | [17977](https://www.ncbi.nlm.nih.gov/gene/17977) | [MGI:1276523](http://www.informatics.jax.org/marker/MGI:1276523) | All phenotypic alleles (5):Targeted, knock-out(4) Targeted, other(1) |
-| Xenopus |  | [100127189](https://www.ncbi.nlm.nih.gov/gene/100127189) | [494348](http://www.xenbase.org/gene/showgene.do?method=display&geneId=494348) |  |
-| Zebrafish | [ENSDARG00000018257](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018257) | [563288](https://www.ncbi.nlm.nih.gov/gene/563288) | [ZFIN:ZDB-GENE-041001-175](https://zfin.org/ZDB-GENE-041001-175) | ZDB-GENE-041001-175 |
+| Xenopus | [ENSXETG00000021173](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021173) | [100127189](https://www.ncbi.nlm.nih.gov/gene/100127189) |  |  |
 

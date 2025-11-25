@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418431
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416642
 forward_primer: 5’-GAACAGGAACAAATGGATGC-3’
-gene_id: '462898'
+gene_id: '418431'
 gene_type: protein-coding
 images:
 - caption: ARL13B expression
@@ -57,13 +57,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.ARL13B.S24.001.jpg
 name: ADP ribosylation factor like GTPase 13B
-ncbi_id: '462898'
+ncbi_id: '418431'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000169379
   entrez: '200894'
   mod: MIM:608922
@@ -75,24 +70,25 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Chemically induced(1) Targeted, knock-out(1)
     Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000032383
   entrez: '100124913'
-  mod: '1014459'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000012763
   entrez: '286784'
   mod: ZFIN:ZDB-GENE-021217-3
-  phenotypes: ZDB-GENE-021217-3
+  phenotypes: cilium assembly, formation of radial glial scaffolds, interneuron migration
+    from the subpallium to the cortex, neural tube patterning, non-motile cilium assembly
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGATCTTCCTTGCTTTCATGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462898
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418431
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462898
+  url: https://www.ncbi.nlm.nih.gov/gene/418431
 species: Gallus gallus
 symbol: ARL13B
 template_length: '629'
@@ -115,9 +111,8 @@ title: ARL13B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000169379](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169379) | [200894](https://www.ncbi.nlm.nih.gov/gene/200894) | [MIM:608922](https://omim.org/entry/608922) | MIM:612291 |
 | Mouse | [ENSMUSG00000022911](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022911) | [68146](https://www.ncbi.nlm.nih.gov/gene/68146) | [MGI:1915396](http://www.informatics.jax.org/marker/MGI:1915396) | All phenotypic alleles (5):Chemically induced(1) Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100124913](https://www.ncbi.nlm.nih.gov/gene/100124913) | [1014459](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1014459) |  |
-| Zebrafish | [ENSDARG00000012763](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012763) | [286784](https://www.ncbi.nlm.nih.gov/gene/286784) | [ZFIN:ZDB-GENE-021217-3](https://zfin.org/ZDB-GENE-021217-3) | ZDB-GENE-021217-3 |
+| Xenopus | [ENSXETG00000032383](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000032383) | [100124913](https://www.ncbi.nlm.nih.gov/gene/100124913) |  |  |
+| Zebrafish | [ENSDARG00000012763](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012763) | [286784](https://www.ncbi.nlm.nih.gov/gene/286784) | [ZFIN:ZDB-GENE-021217-3](https://zfin.org/ZDB-GENE-021217-3) | cilium assembly, formation of radial glial scaffolds, interneuron migration from the subpallium to the cortex, neural tube patterning, non-motile cilium assembly |
 

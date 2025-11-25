@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769355
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0046982
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001079489
-gene_id: '460821'
+gene_id: '769355'
 gene_type: protein-coding
 images:
 - caption: MAFG expression
@@ -104,37 +104,34 @@ images:
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG8G.LECOIN.2003.jpg
 name: MAF bZIP transcription factor G
-ncbi_id: '460821'
+ncbi_id: '769355'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000197063
   entrez: '4097'
   mod: MIM:602020
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000051510
   entrez: '17134'
   mod: MGI:96911
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
 - ensembl: ''
   entrez: '100486278'
-  mod: '989895'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000018109,ENSDARG00000030791
-  entrez: 100330983,415134,405877
-  mod: ZFIN:ZDB-GENE-040624-7,ZFIN:ZDB-GENE-040426-2403
-  phenotypes: ZDB-GENE-040624-7,ZDB-GENE-040426-2403
+- ensembl: ENSDARG00000018109
+  entrez: '415134'
+  mod: ZFIN:ZDB-GENE-040624-7
+  phenotypes: positive regulation of DNA-templated transcription, regulation of DNA-templated
+    transcription, regulation of epidermal cell differentiation, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460821
+  url: https://www.ncbi.nlm.nih.gov/gene/769355
 species: Gallus gallus
 symbol: MAFG
 title: MAFG
@@ -163,9 +160,8 @@ title: MAFG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000197063](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197063) | [4097](https://www.ncbi.nlm.nih.gov/gene/4097) | [MIM:602020](https://omim.org/entry/602020) |  |
-| Mouse |  | [17134](https://www.ncbi.nlm.nih.gov/gene/17134) | [MGI:96911](http://www.informatics.jax.org/marker/MGI:96911) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100486278](https://www.ncbi.nlm.nih.gov/gene/100486278) | [989895](http://www.xenbase.org/gene/showgene.do?method=display&geneId=989895) |  |
-| Zebrafish | [ENSDARG00000018109](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018109), [ENSDARG00000030791](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030791) | [100330983](https://www.ncbi.nlm.nih.gov/gene/100330983), [415134](https://www.ncbi.nlm.nih.gov/gene/415134), [405877](https://www.ncbi.nlm.nih.gov/gene/405877) | [ZFIN:ZDB-GENE-040624-7](https://zfin.org/ZDB-GENE-040624-7), [ZFIN:ZDB-GENE-040426-2403](https://zfin.org/ZDB-GENE-040426-2403) | ZDB-GENE-040624-7,ZDB-GENE-040426-2403 |
+| Mouse | [ENSMUSG00000051510](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000051510) | [17134](https://www.ncbi.nlm.nih.gov/gene/17134) | [MGI:96911](http://www.informatics.jax.org/marker/MGI:96911) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
+| Xenopus |  | [100486278](https://www.ncbi.nlm.nih.gov/gene/100486278) |  |  |
+| Zebrafish | [ENSDARG00000018109](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018109) | [415134](https://www.ncbi.nlm.nih.gov/gene/415134) | [ZFIN:ZDB-GENE-040624-7](https://zfin.org/ZDB-GENE-040624-7) | positive regulation of DNA-templated transcription, regulation of DNA-templated transcription, regulation of epidermal cell differentiation, regulation of transcription by RNA polymerase II |
 

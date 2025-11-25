@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428716
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426274
-gene_id: '456901'
+gene_id: '428716'
 gene_type: protein-coding
 images:
 - caption: SLC16A2 expression
@@ -79,13 +79,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MCT8.Vancamp.2019.Fig1.jpg
 name: solute carrier family 16 member 2
-ncbi_id: '456901'
+ncbi_id: '428716'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000147100
   entrez: '6567'
   mod: MIM:300095
@@ -96,20 +91,21 @@ orthologs:
   mod: MGI:1203732
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000004581
   entrez: '100494635'
-  mod: '980578'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
-  entrez: ''
+  entrez: '100884148'
   mod: ZFIN:ZDB-GENE-120117-1
-  phenotypes: ZDB-GENE-120117-1
+  phenotypes: Schwann cell differentiation, brain development, central nervous system
+    development, chordate embryonic development, locomotion
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456901
+  url: https://www.ncbi.nlm.nih.gov/gene/428716
 species: Gallus gallus
 symbol: SLC16A2
 title: SLC16A2
@@ -135,9 +131,8 @@ title: SLC16A2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000147100](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000147100) | [6567](https://www.ncbi.nlm.nih.gov/gene/6567) | [MIM:300095](https://omim.org/entry/300095) | MIM:300523 |
 | Mouse | [ENSMUSG00000033965](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033965) | [20502](https://www.ncbi.nlm.nih.gov/gene/20502) | [MGI:1203732](http://www.informatics.jax.org/marker/MGI:1203732) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100494635](https://www.ncbi.nlm.nih.gov/gene/100494635) | [980578](http://www.xenbase.org/gene/showgene.do?method=display&geneId=980578) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-120117-1](https://zfin.org/ZDB-GENE-120117-1) | ZDB-GENE-120117-1 |
+| Xenopus | [ENSXETG00000004581](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004581) | [100494635](https://www.ncbi.nlm.nih.gov/gene/100494635) |  |  |
+| Zebrafish |  | [100884148](https://www.ncbi.nlm.nih.gov/gene/100884148) | [ZFIN:ZDB-GENE-120117-1](https://zfin.org/ZDB-GENE-120117-1) | Schwann cell differentiation, brain development, central nervous system development, chordate embryonic development, locomotion |
 

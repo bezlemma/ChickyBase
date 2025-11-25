@@ -4,7 +4,6 @@ aliases:
 - cat eye syndrome chromosome region, candidate 2
 cgnc_id: '9859'
 external_ids:
-  '31': stage 31stage 31stage 31stage 31
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Chen+2010+CECR2+Brand-Saberi
   Comments: 'Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (acc # NM_001130739).'
@@ -14,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418161
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001130739
-gene_id: '455227'
+gene_id: '418161'
 gene_type: protein-coding
 images:
 - caption: CECR2 expression
@@ -277,13 +276,8 @@ images:
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chen.Fig3.CECR2.L.ST31-2.jpg
 name: CECR2, histone acetyl-lysine reader
-ncbi_id: '455227'
+ncbi_id: '418161'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000099954
   entrez: '27443'
   mod: MIM:607576
@@ -294,20 +288,15 @@ orthologs:
   mod: MGI:1923799
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000000873
   entrez: '100486642'
-  mod: '6461177'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000078310
-  entrez: '799918'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455227
+  url: https://www.ncbi.nlm.nih.gov/gene/418161
 species: Gallus gallus
 symbol: CECR2
 title: CECR2
@@ -333,9 +322,7 @@ title: CECR2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000099954](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000099954) | [27443](https://www.ncbi.nlm.nih.gov/gene/27443) | [MIM:607576](https://omim.org/entry/607576) |  |
 | Mouse | [ENSMUSG00000071226](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000071226) | [330409](https://www.ncbi.nlm.nih.gov/gene/330409) | [MGI:1923799](http://www.informatics.jax.org/marker/MGI:1923799) | All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1) |
-| Xenopus |  | [100486642](https://www.ncbi.nlm.nih.gov/gene/100486642) | [6461177](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6461177) |  |
-| Zebrafish | [ENSDARG00000078310](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078310) | [799918](https://www.ncbi.nlm.nih.gov/gene/799918) |  |  |
+| Xenopus | [ENSXETG00000000873](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000873) | [100486642](https://www.ncbi.nlm.nih.gov/gene/100486642) |  |  |
 

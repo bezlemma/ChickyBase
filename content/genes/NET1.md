@@ -4,7 +4,6 @@ aliases:
 - neuroepithelial cell transforming gene 1
 cgnc_id: '6397'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Nakaya+2008+Sheng+RhoA
   Comments: 'The sequence below was obtained from NCBI (acc # NM_001030648.1 - Showing
     the last 0.5 kb of chick Net1 region from base 2587 to 3087) using the information
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416693
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030648
 forward_primer: AACTGCTCCTGGAAGACCTG
-gene_id: '454825'
+gene_id: '416693'
 gene_type: protein-coding
 images:
 - caption: NET1 expression
@@ -298,13 +297,8 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NakayaSt8.D3.png
 name: neuroepithelial cell transforming 1
-ncbi_id: '454825'
+ncbi_id: '416693'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000173848
   entrez: '10276'
   mod: MIM:606450
@@ -315,24 +309,26 @@ orthologs:
   mod: MGI:1927138
   phenotypes: All phenotypic alleles (4):Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 780346,380067
-  mod: '487219'
+- ensembl: ENSXETG00000018160
+  entrez: '780346'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000032765
   entrez: '493607'
   mod: ZFIN:ZDB-GENE-041121-18
-  phenotypes: ZDB-GENE-041121-18
+  phenotypes: dorsal/ventral axis specification, intracellular signal transduction,
+    mesendoderm development, positive regulation of Rho protein signal transduction,
+    regulation of nodal signaling pathway
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGGGATGGGTGGTGATAACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454825
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416693
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454825
+  url: https://www.ncbi.nlm.nih.gov/gene/416693
 species: Gallus gallus
 symbol: NET1
 template_length: '927'
@@ -359,9 +355,8 @@ title: NET1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000173848](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000173848) | [10276](https://www.ncbi.nlm.nih.gov/gene/10276) | [MIM:606450](https://omim.org/entry/606450) |  |
 | Mouse | [ENSMUSG00000021215](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021215) | [56349](https://www.ncbi.nlm.nih.gov/gene/56349) | [MGI:1927138](http://www.informatics.jax.org/marker/MGI:1927138) | All phenotypic alleles (4):Targeted, other(4) |
-| Xenopus |  | [780346](https://www.ncbi.nlm.nih.gov/gene/780346), [380067](https://www.ncbi.nlm.nih.gov/gene/380067) | [487219](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487219) |  |
-| Zebrafish | [ENSDARG00000032765](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032765) | [493607](https://www.ncbi.nlm.nih.gov/gene/493607) | [ZFIN:ZDB-GENE-041121-18](https://zfin.org/ZDB-GENE-041121-18) | ZDB-GENE-041121-18 |
+| Xenopus | [ENSXETG00000018160](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018160) | [780346](https://www.ncbi.nlm.nih.gov/gene/780346) |  |  |
+| Zebrafish | [ENSDARG00000032765](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032765) | [493607](https://www.ncbi.nlm.nih.gov/gene/493607) | [ZFIN:ZDB-GENE-041121-18](https://zfin.org/ZDB-GENE-041121-18) | dorsal/ventral axis specification, intracellular signal transduction, mesendoderm development, positive regulation of Rho protein signal transduction, regulation of nodal signaling pathway |
 

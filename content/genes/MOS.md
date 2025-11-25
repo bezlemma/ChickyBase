@@ -4,7 +4,6 @@ aliases:
 - oocyte maturation factor Mos
 cgnc_id: '53396'
 external_ids:
-  '1': stage 1stage 1
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=
   Comments: Authors indicated  chkmos probe was isolated using primers forward:TACTCGTGTGACATCGTGACTGGC
     and reverse:TTGCTGGCAAACATGGTGGC from NCBI acc# NM_001031516
@@ -19,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428537
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031516
-gene_id: '461144'
+gene_id: '428537'
 gene_type: protein-coding
 images:
 - caption: MOS expression
@@ -38,13 +37,8 @@ images:
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CHKMOS.Elis.2008.Fig.10.png
 name: MOS proto-oncogene, serine/threonine kinase
-ncbi_id: '461144'
+ncbi_id: '428537'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000172680
   entrez: '4342'
   mod: MIM:190060
@@ -56,19 +50,21 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(4)
   species: Mouse
 - ensembl: ''
-  entrez: 100135289,397924
-  mod: '1011505'
+  entrez: '100489962'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000069744
+- ensembl: ENSDARG00000110181
   entrez: '795517'
   mod: ZFIN:ZDB-GENE-040428-3
-  phenotypes: ZDB-GENE-040428-3
+  phenotypes: negative regulation of metaphase/anaphase transition of meiotic cell
+    cycle, phosphorylation, positive regulation of MAPK cascade, protein phosphorylation,
+    signal transduction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461144
+  url: https://www.ncbi.nlm.nih.gov/gene/428537
 species: Gallus gallus
 symbol: MOS
 title: MOS
@@ -97,9 +93,8 @@ title: MOS
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000172680](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000172680) | [4342](https://www.ncbi.nlm.nih.gov/gene/4342) | [MIM:190060](https://omim.org/entry/190060) |  |
 | Mouse | [ENSMUSG00000078365](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000078365) | [17451](https://www.ncbi.nlm.nih.gov/gene/17451) | [MGI:97052](http://www.informatics.jax.org/marker/MGI:97052) | All phenotypic alleles (4):Targeted, knock-out(4) |
-| Xenopus |  | [100135289](https://www.ncbi.nlm.nih.gov/gene/100135289), [397924](https://www.ncbi.nlm.nih.gov/gene/397924) | [1011505](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1011505) |  |
-| Zebrafish | [ENSDARG00000069744](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069744) | [795517](https://www.ncbi.nlm.nih.gov/gene/795517) | [ZFIN:ZDB-GENE-040428-3](https://zfin.org/ZDB-GENE-040428-3) | ZDB-GENE-040428-3 |
+| Xenopus |  | [100489962](https://www.ncbi.nlm.nih.gov/gene/100489962) |  |  |
+| Zebrafish | [ENSDARG00000110181](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110181) | [795517](https://www.ncbi.nlm.nih.gov/gene/795517) | [ZFIN:ZDB-GENE-040428-3](https://zfin.org/ZDB-GENE-040428-3) | negative regulation of metaphase/anaphase transition of meiotic cell cycle, phosphorylation, positive regulation of MAPK cascade, protein phosphorylation, signal transduction |
 

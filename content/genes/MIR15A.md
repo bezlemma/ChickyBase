@@ -1,6 +1,5 @@
 ---
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Darnell+MicroRNA+Stanislaw+Dev
     Dyn
   Comments: no expression detected prior to stage 20, expression sometimes ambiguous
@@ -10,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?tgu:100190073
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001245465
-gene_id: '467925'
+gene_id: '777940'
 gene_type: miscRNA
 images:
 - caption: MIR15A expression
@@ -42,7 +41,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/15a.13,st.21.003wm.jpg
 name: microRNA 15a
-ncbi_id: '467925'
+ncbi_id: '777940'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -72,7 +71,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467925
+  url: https://www.ncbi.nlm.nih.gov/gene/777940
 species: Gallus gallus
 symbol: MIR15A
 title: MIR15A

@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419642
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001233265
 forward_primer: AACGCAGACAGAAGTCCAGCAAGG
-gene_id: '457647'
+gene_id: '419642'
 gene_type: protein-coding
 images:
 - caption: NFYC expression
@@ -116,13 +116,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R346.NFYC.S24.002.jpg
 name: nuclear transcription factor Y subunit gamma
-ncbi_id: '457647'
+ncbi_id: '419642'
 orthologs:
-- ensembl: ''
-  entrez: '31622'
-  mod: FBgn0029905
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000066136
   entrez: '4802'
   mod: MIM:605344
@@ -133,24 +128,25 @@ orthologs:
   mod: MGI:107901
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 394813,100127321
-  mod: '1218937'
+- ensembl: ENSXETG00000025363
+  entrez: '394813'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000070151
   entrez: '323445'
   mod: ZFIN:ZDB-GENE-030131-2165
-  phenotypes: ZDB-GENE-030131-2165
+  phenotypes: regulation of transcription by RNA polymerase II, retina development
+    in camera-type eye
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAAAAAAGGAGGCAGGAGAGGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457647
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419642
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457647
+  url: https://www.ncbi.nlm.nih.gov/gene/419642
 species: Gallus gallus
 symbol: NFYC
 template_length: '672'
@@ -176,9 +172,8 @@ title: NFYC
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31622](https://www.ncbi.nlm.nih.gov/gene/31622) | FBgn0029905 |  |
 | Human | [ENSG00000066136](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000066136) | [4802](https://www.ncbi.nlm.nih.gov/gene/4802) | [MIM:605344](https://omim.org/entry/605344) |  |
 | Mouse | [ENSMUSG00000032897](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032897) | [18046](https://www.ncbi.nlm.nih.gov/gene/18046) | [MGI:107901](http://www.informatics.jax.org/marker/MGI:107901) |  |
-| Xenopus |  | [394813](https://www.ncbi.nlm.nih.gov/gene/394813), [100127321](https://www.ncbi.nlm.nih.gov/gene/100127321) | [1218937](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1218937) |  |
-| Zebrafish |  | [323445](https://www.ncbi.nlm.nih.gov/gene/323445) | [ZFIN:ZDB-GENE-030131-2165](https://zfin.org/ZDB-GENE-030131-2165) | ZDB-GENE-030131-2165 |
+| Xenopus | [ENSXETG00000025363](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025363) | [394813](https://www.ncbi.nlm.nih.gov/gene/394813) |  |  |
+| Zebrafish | [ENSDARG00000070151](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070151) | [323445](https://www.ncbi.nlm.nih.gov/gene/323445) | [ZFIN:ZDB-GENE-030131-2165](https://zfin.org/ZDB-GENE-030131-2165) | regulation of transcription by RNA polymerase II, retina development in camera-type eye |
 

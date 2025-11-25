@@ -4,7 +4,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
 forward_primer: CAGACAGACAAAGCCCATTCAAG
-gene_id: '505259'
+gene_id: '112533340'
 gene_type: unknown
 images:
 - caption: AMIGO3 expression
@@ -43,7 +43,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R522.AMIGO3.S26.001.jpg
 name: adhesion molecule with Ig like domain 3
-ncbi_id: '505259'
+ncbi_id: '112533340'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -74,10 +74,10 @@ reverse_primer: AATTAACCCTCACTAAAGGGAGGTTGCTCAGGTCAAACAAGAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=505259
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=112533340
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/505259
+  url: https://www.ncbi.nlm.nih.gov/gene/112533340
 species: Gallus gallus
 symbol: AMIGO3
 template_length: '863'

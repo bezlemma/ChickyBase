@@ -5,9 +5,6 @@ aliases:
 - cerberus 1 homolog, cysteine knot superfamily
 cgnc_id: '4048'
 external_ids:
-  '25': stage 25stage 25
-  '4': stage 4stage 4
-  '7': stage 7stage 7
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0009948
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005615
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Katsu+2012+Dan+Shh+Bmp4+Caronte
@@ -22,7 +19,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204823
   X-XIV: stage XII
 forward_primer: AGACCACCAAAGTGAACGGCAG
-gene_id: '449920'
+gene_id: '395623'
 gene_type: protein-coding
 images:
 - caption: CER1 expression
@@ -455,13 +452,8 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Katsu.Fig3.Caronte.M.HH6.jpg
 name: cerberus 1, DAN family BMP antagonist
-ncbi_id: '449920'
+ncbi_id: '395623'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000147869
   entrez: '9350'
   mod: MIM:603777
@@ -472,24 +464,14 @@ orthologs:
   mod: MGI:1201414
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 394437,398060
-  mod: '484970'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTCAATCAACTCTCGCATCCCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449920
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395623
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449920
+  url: https://www.ncbi.nlm.nih.gov/gene/395623
 species: Gallus gallus
 symbol: CER1
 template_length: '810'
@@ -519,9 +501,6 @@ title: CER1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000147869](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000147869) | [9350](https://www.ncbi.nlm.nih.gov/gene/9350) | [MIM:603777](https://omim.org/entry/603777) |  |
 | Mouse | [ENSMUSG00000038192](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038192) | [12622](https://www.ncbi.nlm.nih.gov/gene/12622) | [MGI:1201414](http://www.informatics.jax.org/marker/MGI:1201414) | All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5) |
-| Xenopus |  | [394437](https://www.ncbi.nlm.nih.gov/gene/394437), [398060](https://www.ncbi.nlm.nih.gov/gene/398060) | [484970](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484970) |  |
-| Zebrafish |  |  |  |  |
 

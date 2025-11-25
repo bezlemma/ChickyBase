@@ -3,7 +3,6 @@ aliases:
 - GATA-2, NF-E1b, GATA-binding factor 2
 cgnc_id: '4415'
 external_ids:
-  '25': stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0021533
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=acloque+wilkinson+analysis+sections
@@ -18,7 +17,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001003797
   X-XIV: stage XII
 forward_primer: AGGACAAAGACAGCATCAAG
-gene_id: '457999'
+gene_id: '416018'
 gene_type: protein-coding
 images:
 - caption: GATA2 expression
@@ -676,13 +675,8 @@ images:
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GATA2.HH9.Acloque.2008.f2.gata2.png
 name: GATA binding protein 2
-ncbi_id: '457999'
+ncbi_id: '416018'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000179348
   entrez: '2624'
   mod: MIM:137295
@@ -693,24 +687,25 @@ orthologs:
   mod: MGI:95662
   phenotypes: All phenotypic alleles (12):Targeted, knock-out(2) Targeted, other(10)
   species: Mouse
-- ensembl: ''
-  entrez: 100487142,399273
-  mod: '478164'
+- ensembl: ENSXETG00000016171
+  entrez: '100487142'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000059327,ENSDARG00000009094
-  entrez: 30480,436962
-  mod: ZFIN:ZDB-GENE-980526-260,ZFIN:ZDB-GENE-040718-440
-  phenotypes: ZDB-GENE-980526-260,ZDB-GENE-040718-440
+- ensembl: ENSDARG00000059327
+  entrez: '30480'
+  mod: ZFIN:ZDB-GENE-980526-260
+  phenotypes: atrioventricular valve formation, cell fate commitment, dorsal aorta
+    morphogenesis, erythrocyte development, myeloid cell development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTGGTCGTCAGGTTTTATCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457999
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416018
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457999
+  url: https://www.ncbi.nlm.nih.gov/gene/416018
 species: Gallus gallus
 symbol: GATA2
 template_length: '838'
@@ -740,9 +735,8 @@ title: GATA2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000179348](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000179348) | [2624](https://www.ncbi.nlm.nih.gov/gene/2624) | [MIM:137295](https://omim.org/entry/137295) |  |
 | Mouse | [ENSMUSG00000015053](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000015053) | [14461](https://www.ncbi.nlm.nih.gov/gene/14461) | [MGI:95662](http://www.informatics.jax.org/marker/MGI:95662) | All phenotypic alleles (12):Targeted, knock-out(2) Targeted, other(10) |
-| Xenopus |  | [100487142](https://www.ncbi.nlm.nih.gov/gene/100487142), [399273](https://www.ncbi.nlm.nih.gov/gene/399273) | [478164](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478164) |  |
-| Zebrafish | [ENSDARG00000059327](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059327), [ENSDARG00000009094](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009094) | [30480](https://www.ncbi.nlm.nih.gov/gene/30480), [436962](https://www.ncbi.nlm.nih.gov/gene/436962) | [ZFIN:ZDB-GENE-980526-260](https://zfin.org/ZDB-GENE-980526-260), [ZFIN:ZDB-GENE-040718-440](https://zfin.org/ZDB-GENE-040718-440) | ZDB-GENE-980526-260,ZDB-GENE-040718-440 |
+| Xenopus | [ENSXETG00000016171](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016171) | [100487142](https://www.ncbi.nlm.nih.gov/gene/100487142) |  |  |
+| Zebrafish | [ENSDARG00000059327](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059327) | [30480](https://www.ncbi.nlm.nih.gov/gene/30480) | [ZFIN:ZDB-GENE-980526-260](https://zfin.org/ZDB-GENE-980526-260) | atrioventricular valve formation, cell fate commitment, dorsal aorta morphogenesis, erythrocyte development, myeloid cell development |
 

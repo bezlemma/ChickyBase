@@ -3,8 +3,6 @@ aliases:
 - WNT-1, protein Wnt-1
 cgnc_id: '49678'
 external_ids:
-  '13': stage 13stage 13
-  '25': stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030509
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005578
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Hidalgo-Sanchez+Millet+1999
@@ -19,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396160
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005102
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003643575
-gene_id: '459062'
+gene_id: '396160'
 gene_type: protein-coding
 images:
 - caption: WNT1 expression
@@ -615,7 +613,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hidalgo-Sánchez.1999-Wnt1-fig3-Wnt1.jpg
 name: Wnt family member 1
-ncbi_id: '459062'
+ncbi_id: '396160'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -645,7 +643,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459062
+  url: https://www.ncbi.nlm.nih.gov/gene/396160
 species: Gallus gallus
 symbol: WNT1
 title: WNT1

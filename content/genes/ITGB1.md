@@ -21,7 +21,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374058
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0046872
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001039254
-gene_id: '454460'
+gene_id: '374058'
 gene_type: protein-coding
 images:
 - caption: ITGB1 expression
@@ -81,13 +81,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig6.Allimages.jpg
 name: integrin subunit beta 1
-ncbi_id: '454460'
+ncbi_id: '374058'
 orthologs:
-- ensembl: ''
-  entrez: '44885'
-  mod: FBgn0004657
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000150093
   entrez: '3688'
   mod: MIM:135630
@@ -98,20 +93,21 @@ orthologs:
   mod: MGI:96610
   phenotypes: All phenotypic alleles (18):Targeted, knock-out(4) Targeted, other(14)
   species: Mouse
-- ensembl: ''
-  entrez: 394767,397755,399443
-  mod: '946724'
+- ensembl: ENSXETG00000026716
+  entrez: '394767'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000071863,ENSDARG00000053255
-  entrez: 556734,570216
-  mod: ZFIN:ZDB-GENE-060803-2,ZFIN:ZDB-GENE-030909-10
-  phenotypes: ZDB-GENE-060803-2,ZDB-GENE-030909-10
+- ensembl: ENSDARG00000104484
+  entrez: '570216'
+  mod: ZFIN:ZDB-GENE-030909-10
+  phenotypes: Kupffer's vesicle development, blood vessel development, cardiac muscle
+    cell development, cell adhesion, cell adhesion mediated by integrin
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454460
+  url: https://www.ncbi.nlm.nih.gov/gene/374058
 species: Gallus gallus
 symbol: ITGB1
 title: ITGB1
@@ -142,9 +138,8 @@ title: ITGB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [44885](https://www.ncbi.nlm.nih.gov/gene/44885) | FBgn0004657 |  |
 | Human | [ENSG00000150093](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000150093) | [3688](https://www.ncbi.nlm.nih.gov/gene/3688) | [MIM:135630](https://omim.org/entry/135630) |  |
 | Mouse | [ENSMUSG00000025809](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025809) | [16412](https://www.ncbi.nlm.nih.gov/gene/16412) | [MGI:96610](http://www.informatics.jax.org/marker/MGI:96610) | All phenotypic alleles (18):Targeted, knock-out(4) Targeted, other(14) |
-| Xenopus |  | [394767](https://www.ncbi.nlm.nih.gov/gene/394767), [397755](https://www.ncbi.nlm.nih.gov/gene/397755), [399443](https://www.ncbi.nlm.nih.gov/gene/399443) | [946724](http://www.xenbase.org/gene/showgene.do?method=display&geneId=946724) |  |
-| Zebrafish | [ENSDARG00000071863](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071863), [ENSDARG00000053255](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053255) | [556734](https://www.ncbi.nlm.nih.gov/gene/556734), [570216](https://www.ncbi.nlm.nih.gov/gene/570216) | [ZFIN:ZDB-GENE-060803-2](https://zfin.org/ZDB-GENE-060803-2), [ZFIN:ZDB-GENE-030909-10](https://zfin.org/ZDB-GENE-030909-10) | ZDB-GENE-060803-2,ZDB-GENE-030909-10 |
+| Xenopus | [ENSXETG00000026716](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026716) | [394767](https://www.ncbi.nlm.nih.gov/gene/394767) |  |  |
+| Zebrafish | [ENSDARG00000104484](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104484) | [570216](https://www.ncbi.nlm.nih.gov/gene/570216) | [ZFIN:ZDB-GENE-030909-10](https://zfin.org/ZDB-GENE-030909-10) | Kupffer's vesicle development, blood vessel development, cardiac muscle cell development, cell adhesion, cell adhesion mediated by integrin |
 

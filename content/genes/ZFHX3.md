@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395682
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414230
   X-XIV: stage XIII
-gene_id: '449906'
+gene_id: '395682'
 gene_type: protein-coding
 images:
 - caption: ZFHX3 expression
@@ -53,13 +53,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZFHX3.Trevers.2023-Fig7-8-H.jpg
 name: zinc finger homeobox 3
-ncbi_id: '449906'
+ncbi_id: '395682'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000140836
   entrez: '463'
   mod: MIM:104155
@@ -70,23 +65,25 @@ orthologs:
   mod: MGI:99948
   phenotypes: All phenotypic alleles (2):Targeted, other(1) Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000023509
   entrez: '100495855'
-  mod: '853730'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000103057
   entrez: '100333211'
   mod: ZFIN:ZDB-GENE-030131-7577
-  phenotypes: ZDB-GENE-030131-7577
+  phenotypes: positive regulation of DNA-templated transcription, regulation of DNA-templated
+    transcription, regulation of neuron differentiation, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449906
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395682
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449906
+  url: https://www.ncbi.nlm.nih.gov/gene/395682
 species: Gallus gallus
 symbol: ZFHX3
 title: ZFHX3
@@ -110,9 +107,8 @@ title: ZFHX3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000140836](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140836) | [463](https://www.ncbi.nlm.nih.gov/gene/463) | [MIM:104155](https://omim.org/entry/104155) | MIM:176807 |
 | Mouse | [ENSMUSG00000038872](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038872) | [11906](https://www.ncbi.nlm.nih.gov/gene/11906) | [MGI:99948](http://www.informatics.jax.org/marker/MGI:99948) | All phenotypic alleles (2):Targeted, other(1) Gene trapped(1) |
-| Xenopus |  | [100495855](https://www.ncbi.nlm.nih.gov/gene/100495855) | [853730](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853730) |  |
-| Zebrafish |  | [100333211](https://www.ncbi.nlm.nih.gov/gene/100333211) | [ZFIN:ZDB-GENE-030131-7577](https://zfin.org/ZDB-GENE-030131-7577) | ZDB-GENE-030131-7577 |
+| Xenopus | [ENSXETG00000023509](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023509) | [100495855](https://www.ncbi.nlm.nih.gov/gene/100495855) |  |  |
+| Zebrafish | [ENSDARG00000103057](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000103057) | [100333211](https://www.ncbi.nlm.nih.gov/gene/100333211) | [ZFIN:ZDB-GENE-030131-7577](https://zfin.org/ZDB-GENE-030131-7577) | positive regulation of DNA-templated transcription, regulation of DNA-templated transcription, regulation of neuron differentiation, regulation of transcription by RNA polymerase II |
 

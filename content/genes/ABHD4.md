@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420673
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001278145
 forward_primer: 5’-CACGTGTGCAGCTTTTACGG-3’
-gene_id: '454858'
+gene_id: '420673'
 gene_type: protein-coding
 images:
 - caption: ABHD4 expression
@@ -84,14 +84,9 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R640.ABHD5.S26.001.jpg
 name: abhydrolase domain containing 4
-ncbi_id: '454858'
+ncbi_id: '420673'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000011198
   entrez: '51099'
   mod: MIM:604780
   phenotypes: MIM:275630
@@ -101,24 +96,25 @@ orthologs:
   mod: MGI:1914719
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 549643,446400
-  mod: '939788'
+- ensembl: ENSXETG00000022025
+  entrez: '549643'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000078831
-  entrez: 100329433,566493
-  mod: ZFIN:ZDB-GENE-070615-1,ZFIN:ZDB-GENE-110411-277
-  phenotypes: ZDB-GENE-070615-1,ZDB-GENE-110411-277
+- ensembl: ENSDARG00000099189
+  entrez: '566493'
+  mod: ZFIN:ZDB-GENE-070615-1
+  phenotypes: cell differentiation, fatty acid metabolic process, lipid homeostasis,
+    lipid metabolic process, negative regulation of triglyceride storage
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGTGCTAGCAGTCACAAAGGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454858
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420673
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454858
+  url: https://www.ncbi.nlm.nih.gov/gene/420673
 species: Gallus gallus
 symbol: ABHD4
 template_length: '950'
@@ -141,9 +137,8 @@ title: ABHD4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [51099](https://www.ncbi.nlm.nih.gov/gene/51099) | [MIM:604780](https://omim.org/entry/604780) | MIM:275630 |
+| Human | [ENSG00000011198](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000011198) | [51099](https://www.ncbi.nlm.nih.gov/gene/51099) | [MIM:604780](https://omim.org/entry/604780) | MIM:275630 |
 | Mouse | [ENSMUSG00000032540](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032540) | [67469](https://www.ncbi.nlm.nih.gov/gene/67469) | [MGI:1914719](http://www.informatics.jax.org/marker/MGI:1914719) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [549643](https://www.ncbi.nlm.nih.gov/gene/549643), [446400](https://www.ncbi.nlm.nih.gov/gene/446400) | [939788](http://www.xenbase.org/gene/showgene.do?method=display&geneId=939788) |  |
-| Zebrafish | [ENSDARG00000078831](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078831) | [100329433](https://www.ncbi.nlm.nih.gov/gene/100329433), [566493](https://www.ncbi.nlm.nih.gov/gene/566493) | [ZFIN:ZDB-GENE-070615-1](https://zfin.org/ZDB-GENE-070615-1), [ZFIN:ZDB-GENE-110411-277](https://zfin.org/ZDB-GENE-110411-277) | ZDB-GENE-070615-1,ZDB-GENE-110411-277 |
+| Xenopus | [ENSXETG00000022025](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022025) | [549643](https://www.ncbi.nlm.nih.gov/gene/549643) |  |  |
+| Zebrafish | [ENSDARG00000099189](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099189) | [566493](https://www.ncbi.nlm.nih.gov/gene/566493) | [ZFIN:ZDB-GENE-070615-1](https://zfin.org/ZDB-GENE-070615-1) | cell differentiation, fatty acid metabolic process, lipid homeostasis, lipid metabolic process, negative regulation of triglyceride storage |
 

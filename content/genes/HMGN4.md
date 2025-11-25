@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:768675
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0031492
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001079485
-gene_id: '452234'
+gene_id: '768675'
 gene_type: protein-coding
 images:
 - caption: HMGN4 expression
@@ -28,40 +28,20 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53F.27.14.jpg
 name: high mobility group nucleosomal binding domain 4
-ncbi_id: '452234'
+ncbi_id: '768675'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: '3151'
-  mod: MIM:163910
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: '626954'
-  mod: MGI:3648052
+- ensembl: ENSMUSG00000140766
+  entrez: '100503799'
+  mod: MGI:3643448
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 496440,379468
-  mod: '1015270'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000093817
-  entrez: 100334122,569904
-  mod: ZFIN:ZDB-GENE-051030-81
-  phenotypes: ZDB-GENE-051030-81
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452234
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=768675
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452234
+  url: https://www.ncbi.nlm.nih.gov/gene/768675
 species: Gallus gallus
 symbol: HMGN4
 title: HMGN4
@@ -84,9 +64,5 @@ title: HMGN4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [3151](https://www.ncbi.nlm.nih.gov/gene/3151) | [MIM:163910](https://omim.org/entry/163910) |  |
-| Mouse |  | [626954](https://www.ncbi.nlm.nih.gov/gene/626954) | [MGI:3648052](http://www.informatics.jax.org/marker/MGI:3648052) |  |
-| Xenopus |  | [496440](https://www.ncbi.nlm.nih.gov/gene/496440), [379468](https://www.ncbi.nlm.nih.gov/gene/379468) | [1015270](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1015270) |  |
-| Zebrafish | [ENSDARG00000093817](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000093817) | [100334122](https://www.ncbi.nlm.nih.gov/gene/100334122), [569904](https://www.ncbi.nlm.nih.gov/gene/569904) | [ZFIN:ZDB-GENE-051030-81](https://zfin.org/ZDB-GENE-051030-81) | ZDB-GENE-051030-81 |
+| Mouse | [ENSMUSG00000140766](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000140766) | [100503799](https://www.ncbi.nlm.nih.gov/gene/100503799) | [MGI:3643448](http://www.informatics.jax.org/marker/MGI:3643448) |  |
 

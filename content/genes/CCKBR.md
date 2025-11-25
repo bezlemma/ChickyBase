@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:414885
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001742
 forward_primer: CGTCACCAACTCTTTCCTGCTGTC
-gene_id: '460552'
+gene_id: '414885'
 gene_type: protein-coding
 images:
 - caption: CCKBR expression
@@ -77,13 +77,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R570.CCKBR.S26.001.jpg
 name: cholecystokinin B receptor
-ncbi_id: '460552'
+ncbi_id: '414885'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000110148
   entrez: '887'
   mod: MIM:118445
@@ -94,24 +89,20 @@ orthologs:
   mod: MGI:99479
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000076824
+  entrez: '100331465'
+  mod: ZFIN:ZDB-GENE-201012-1
+  phenotypes: G protein-coupled receptor signaling pathway, neuropeptide signaling
+    pathway, signal transduction
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTGCTTCCCCCTTGATGTCCAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460552
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=414885
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460552
+  url: https://www.ncbi.nlm.nih.gov/gene/414885
 species: Gallus gallus
 symbol: CCKBR
 template_length: '532'
@@ -134,9 +125,7 @@ title: CCKBR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000110148](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000110148) | [887](https://www.ncbi.nlm.nih.gov/gene/887) | [MIM:118445](https://omim.org/entry/118445) |  |
 | Mouse | [ENSMUSG00000030898](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030898) | [12426](https://www.ncbi.nlm.nih.gov/gene/12426) | [MGI:99479](http://www.informatics.jax.org/marker/MGI:99479) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Zebrafish | [ENSDARG00000076824](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076824) | [100331465](https://www.ncbi.nlm.nih.gov/gene/100331465) | [ZFIN:ZDB-GENE-201012-1](https://zfin.org/ZDB-GENE-201012-1) | G protein-coupled receptor signaling pathway, neuropeptide signaling pathway, signal transduction |
 

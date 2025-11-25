@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416581
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414882
 forward_primer: CATCAAGTTCTACGAAACGGTCG
-gene_id: '455570'
+gene_id: '416581'
 gene_type: protein-coding
 images:
 - caption: HS3ST2 expression
@@ -123,13 +123,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R470.HS3ST2.S26BB.001.jpg
 name: heparan sulfate-glucosamine 3-sulfotransferase 2
-ncbi_id: '455570'
+ncbi_id: '416581'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000122254
   entrez: '9956'
   mod: MIM:604056
@@ -140,24 +135,24 @@ orthologs:
   mod: MGI:1333802
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000049108
   entrez: '100492586'
-  mod: '980909'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000059616
   entrez: '571246'
   mod: ZFIN:ZDB-GENE-070202-7
-  phenotypes: ZDB-GENE-070202-7
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGATACATCTCACCCTCCTGACGGAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455570
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416581
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455570
+  url: https://www.ncbi.nlm.nih.gov/gene/416581
 species: Gallus gallus
 symbol: HS3ST2
 template_length: '441'
@@ -179,9 +174,8 @@ title: HS3ST2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000122254](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000122254) | [9956](https://www.ncbi.nlm.nih.gov/gene/9956) | [MIM:604056](https://omim.org/entry/604056) |  |
 | Mouse | [ENSMUSG00000046321](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000046321) | [195646](https://www.ncbi.nlm.nih.gov/gene/195646) | [MGI:1333802](http://www.informatics.jax.org/marker/MGI:1333802) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100492586](https://www.ncbi.nlm.nih.gov/gene/100492586) | [980909](http://www.xenbase.org/gene/showgene.do?method=display&geneId=980909) |  |
-| Zebrafish | [ENSDARG00000059616](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059616) | [571246](https://www.ncbi.nlm.nih.gov/gene/571246) | [ZFIN:ZDB-GENE-070202-7](https://zfin.org/ZDB-GENE-070202-7) | ZDB-GENE-070202-7 |
+| Xenopus | [ENSXETG00000049108](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000049108) | [100492586](https://www.ncbi.nlm.nih.gov/gene/100492586) |  |  |
+| Zebrafish | [ENSDARG00000059616](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059616) | [571246](https://www.ncbi.nlm.nih.gov/gene/571246) | [ZFIN:ZDB-GENE-070202-7](https://zfin.org/ZDB-GENE-070202-7) |  |
 

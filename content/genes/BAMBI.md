@@ -3,8 +3,6 @@ aliases:
 - BMP and activin membrane-bound inhibitor homolog
 cgnc_id: '5561'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25
-  '4': stage 4stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Afrakhte+2004+microarray
   Comments: 'Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence  was obtained from NCBI (Acc. # NM_001195401.2).'
@@ -15,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428413
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001195401
 forward_primer: TCAGATGCTACTGTGATGCCGC
-gene_id: '461645'
+gene_id: '428413'
 gene_type: protein-coding
 images:
 - caption: BAMBI expression
@@ -275,13 +273,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3L.jpg
 name: BMP and activin membrane bound inhibitor
-ncbi_id: '461645'
+ncbi_id: '428413'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000095739
   entrez: '25805'
   mod: MIM:604444
@@ -292,24 +285,26 @@ orthologs:
   mod: MGI:1915260
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 493556,394401
-  mod: '495358'
+- ensembl: ENSXETG00000048957
+  entrez: '493556'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000055381,ENSDARG00000056406
-  entrez: 83496,431736
-  mod: ZFIN:ZDB-GENE-010416-1,ZFIN:ZDB-GENE-040704-30
-  phenotypes: ZDB-GENE-010416-1,ZDB-GENE-040704-30
+- ensembl: ENSDARG00000055381
+  entrez: '83496'
+  mod: ZFIN:ZDB-GENE-010416-1
+  phenotypes: dorsal/ventral pattern formation, negative regulation of BMP signaling
+    pathway, negative regulation of transforming growth factor beta receptor signaling
+    pathway, platelet activation, positive regulation of canonical Wnt signaling pathway
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGACCAAAATGAGCCCACCAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461645
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428413
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461645
+  url: https://www.ncbi.nlm.nih.gov/gene/428413
 species: Gallus gallus
 symbol: BAMBI
 template_length: '412'
@@ -336,9 +331,8 @@ title: BAMBI
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000095739](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000095739) | [25805](https://www.ncbi.nlm.nih.gov/gene/25805) | [MIM:604444](https://omim.org/entry/604444) |  |
 | Mouse | [ENSMUSG00000024232](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024232) | [68010](https://www.ncbi.nlm.nih.gov/gene/68010) | [MGI:1915260](http://www.informatics.jax.org/marker/MGI:1915260) | All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1) |
-| Xenopus |  | [493556](https://www.ncbi.nlm.nih.gov/gene/493556), [394401](https://www.ncbi.nlm.nih.gov/gene/394401) | [495358](http://www.xenbase.org/gene/showgene.do?method=display&geneId=495358) |  |
-| Zebrafish | [ENSDARG00000055381](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055381), [ENSDARG00000056406](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056406) | [83496](https://www.ncbi.nlm.nih.gov/gene/83496), [431736](https://www.ncbi.nlm.nih.gov/gene/431736) | [ZFIN:ZDB-GENE-010416-1](https://zfin.org/ZDB-GENE-010416-1), [ZFIN:ZDB-GENE-040704-30](https://zfin.org/ZDB-GENE-040704-30) | ZDB-GENE-010416-1,ZDB-GENE-040704-30 |
+| Xenopus | [ENSXETG00000048957](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000048957) | [493556](https://www.ncbi.nlm.nih.gov/gene/493556) |  |  |
+| Zebrafish | [ENSDARG00000055381](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055381) | [83496](https://www.ncbi.nlm.nih.gov/gene/83496) | [ZFIN:ZDB-GENE-010416-1](https://zfin.org/ZDB-GENE-010416-1) | dorsal/ventral pattern formation, negative regulation of BMP signaling pathway, negative regulation of transforming growth factor beta receptor signaling pathway, platelet activation, positive regulation of canonical Wnt signaling pathway |
 

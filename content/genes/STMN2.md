@@ -4,8 +4,6 @@ aliases:
 - stathmin-like 2
 cgnc_id: '49645'
 external_ids:
-  '25': stage 25stage 25
-  '31': stage 31stage 31stage 31
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:1990090
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0030424
   Citation: https://pubmed.ncbi.nlm.nih.gov/23570883/?from_single_result=Vieceli+Sim%C3%B5es-Costa+2013
@@ -18,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396095
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205181
-gene_id: '459588'
+gene_id: '396095'
 gene_type: protein-coding
 images:
 - caption: STMN2 expression
@@ -421,13 +419,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Vieceli.2013-SCG10-Fig6.jpg
 name: stathmin 2
-ncbi_id: '459588'
+ncbi_id: '396095'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000104435
   entrez: '11075'
   mod: MIM:600621
@@ -438,20 +431,21 @@ orthologs:
   mod: MGI:98241
   phenotypes: ''
   species: Mouse
-- ensembl: ENSXETG00000007079
-  entrez: 448716,494676,780757
-  mod: '962965'
+- ensembl: ENSXETG00000039584
+  entrez: '448716'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000033234,ENSDARG00000070537
-  entrez: 449651,100003563
-  mod: ZFIN:ZDB-GENE-041010-85,ZFIN:ZDB-GENE-050522-207
-  phenotypes: ZDB-GENE-041010-85,ZDB-GENE-050522-207
+- ensembl: ENSDARG00000070537
+  entrez: '100003563'
+  mod: ZFIN:ZDB-GENE-050522-207
+  phenotypes: microtubule depolymerization, nervous system development, neuron projection
+    development, regulation of microtubule polymerization or depolymerization
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459588
+  url: https://www.ncbi.nlm.nih.gov/gene/396095
 species: Gallus gallus
 symbol: STMN2
 title: STMN2
@@ -479,9 +473,8 @@ title: STMN2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000104435](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000104435) | [11075](https://www.ncbi.nlm.nih.gov/gene/11075) | [MIM:600621](https://omim.org/entry/600621) |  |
 | Mouse | [ENSMUSG00000027500](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027500) | [20257](https://www.ncbi.nlm.nih.gov/gene/20257) | [MGI:98241](http://www.informatics.jax.org/marker/MGI:98241) |  |
-| Xenopus | [ENSXETG00000007079](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007079) | [448716](https://www.ncbi.nlm.nih.gov/gene/448716), [494676](https://www.ncbi.nlm.nih.gov/gene/494676), [780757](https://www.ncbi.nlm.nih.gov/gene/780757) | [962965](http://www.xenbase.org/gene/showgene.do?method=display&geneId=962965) |  |
-| Zebrafish | [ENSDARG00000033234](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033234), [ENSDARG00000070537](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070537) | [449651](https://www.ncbi.nlm.nih.gov/gene/449651), [100003563](https://www.ncbi.nlm.nih.gov/gene/100003563) | [ZFIN:ZDB-GENE-041010-85](https://zfin.org/ZDB-GENE-041010-85), [ZFIN:ZDB-GENE-050522-207](https://zfin.org/ZDB-GENE-050522-207) | ZDB-GENE-041010-85,ZDB-GENE-050522-207 |
+| Xenopus | [ENSXETG00000039584](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000039584) | [448716](https://www.ncbi.nlm.nih.gov/gene/448716) |  |  |
+| Zebrafish | [ENSDARG00000070537](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070537) | [100003563](https://www.ncbi.nlm.nih.gov/gene/100003563) | [ZFIN:ZDB-GENE-050522-207](https://zfin.org/ZDB-GENE-050522-207) | microtubule depolymerization, nervous system development, neuron projection development, regulation of microtubule polymerization or depolymerization |
 

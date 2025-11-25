@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422904
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012890
-gene_id: '452378'
+gene_id: '422904'
 gene_type: protein-coding
 images:
 - caption: CTBP1 expression
@@ -32,13 +32,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CTBP1 figure 2.JPG
 name: C-terminal binding protein 1
-ncbi_id: '452378'
+ncbi_id: '422904'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000159692
   entrez: '1487'
   mod: MIM:602618
@@ -49,20 +44,20 @@ orthologs:
   mod: MGI:1201685
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ENSXETG00000001081
-  entrez: 493289,373701
-  mod: '483378'
+- ensembl: ENSXETG00000021047
+  entrez: '493289'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000019213,ENSDARG00000057007
-  entrez: 678649,65229
-  mod: ZFIN:ZDB-GENE-060421-4235,ZFIN:ZDB-GENE-010130-1
-  phenotypes: ZDB-GENE-060421-4235,ZDB-GENE-010130-1
+- ensembl: ENSDARG00000019213
+  entrez: '678649'
+  mod: ZFIN:ZDB-GENE-060421-4235
+  phenotypes: regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452378
+  url: https://www.ncbi.nlm.nih.gov/gene/422904
 species: Gallus gallus
 symbol: CTBP1
 title: CTBP1
@@ -88,9 +83,8 @@ title: CTBP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000159692](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000159692) | [1487](https://www.ncbi.nlm.nih.gov/gene/1487) | [MIM:602618](https://omim.org/entry/602618) |  |
 | Mouse | [ENSMUSG00000037373](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037373) | [13016](https://www.ncbi.nlm.nih.gov/gene/13016) | [MGI:1201685](http://www.informatics.jax.org/marker/MGI:1201685) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus | [ENSXETG00000001081](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001081) | [493289](https://www.ncbi.nlm.nih.gov/gene/493289), [373701](https://www.ncbi.nlm.nih.gov/gene/373701) | [483378](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483378) |  |
-| Zebrafish | [ENSDARG00000019213](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019213), [ENSDARG00000057007](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057007) | [678649](https://www.ncbi.nlm.nih.gov/gene/678649), [65229](https://www.ncbi.nlm.nih.gov/gene/65229) | [ZFIN:ZDB-GENE-060421-4235](https://zfin.org/ZDB-GENE-060421-4235), [ZFIN:ZDB-GENE-010130-1](https://zfin.org/ZDB-GENE-010130-1) | ZDB-GENE-060421-4235,ZDB-GENE-010130-1 |
+| Xenopus | [ENSXETG00000021047](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021047) | [493289](https://www.ncbi.nlm.nih.gov/gene/493289) |  |  |
+| Zebrafish | [ENSDARG00000019213](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019213) | [678649](https://www.ncbi.nlm.nih.gov/gene/678649) | [ZFIN:ZDB-GENE-060421-4235](https://zfin.org/ZDB-GENE-060421-4235) | regulation of transcription by RNA polymerase II |
 

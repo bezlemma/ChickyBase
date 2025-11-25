@@ -4,7 +4,6 @@ aliases:
 - mindbomb homolog 1
 cgnc_id: '11124'
 external_ids:
-  '7': stage 7
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0263601
   Comments: ambiguous, no or low level ubiquitous expression detected at most stages
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -13,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421069
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419157
-gene_id: '459807'
+gene_id: '421069'
 gene_type: protein-coding
 images:
 - caption: MIB1 expression
@@ -24,13 +23,8 @@ images:
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/A40_07.jpg
 name: mindbomb E3 ubiquitin protein ligase 1
-ncbi_id: '459807'
+ncbi_id: '421069'
 orthologs:
-- ensembl: ''
-  entrez: '39750'
-  mod: FBgn0263601
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000101752
   entrez: '57534'
   mod: MIM:608677
@@ -41,23 +35,24 @@ orthologs:
   mod: MGI:2443157
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100170182,444232
-  mod: '1001394'
+- ensembl: ENSXETG00000003146
+  entrez: '100170182'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000102184
   entrez: '352910'
   mod: ZFIN:ZDB-GENE-030404-2
-  phenotypes: ZDB-GENE-030404-2
+  phenotypes: Notch signaling pathway, anterior lateral line development, blood vessel
+    development, blood vessel morphogenesis, brain development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459807
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421069
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459807
+  url: https://www.ncbi.nlm.nih.gov/gene/421069
 species: Gallus gallus
 symbol: MIB1
 title: MIB1
@@ -83,9 +78,8 @@ title: MIB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39750](https://www.ncbi.nlm.nih.gov/gene/39750) | FBgn0263601 |  |
 | Human | [ENSG00000101752](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101752) | [57534](https://www.ncbi.nlm.nih.gov/gene/57534) | [MIM:608677](https://omim.org/entry/608677) |  |
 | Mouse | [ENSMUSG00000024294](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024294) | [225164](https://www.ncbi.nlm.nih.gov/gene/225164) | [MGI:2443157](http://www.informatics.jax.org/marker/MGI:2443157) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [100170182](https://www.ncbi.nlm.nih.gov/gene/100170182), [444232](https://www.ncbi.nlm.nih.gov/gene/444232) | [1001394](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1001394) |  |
-| Zebrafish |  | [352910](https://www.ncbi.nlm.nih.gov/gene/352910) | [ZFIN:ZDB-GENE-030404-2](https://zfin.org/ZDB-GENE-030404-2) | ZDB-GENE-030404-2 |
+| Xenopus | [ENSXETG00000003146](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003146) | [100170182](https://www.ncbi.nlm.nih.gov/gene/100170182) |  |  |
+| Zebrafish | [ENSDARG00000102184](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000102184) | [352910](https://www.ncbi.nlm.nih.gov/gene/352910) | [ZFIN:ZDB-GENE-030404-2](https://zfin.org/ZDB-GENE-030404-2) | Notch signaling pathway, anterior lateral line development, blood vessel development, blood vessel morphogenesis, brain development |
 

@@ -15,7 +15,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005096
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012909
 forward_primer: GAGAACAATGGACTCCGAC
-gene_id: '450393'
+gene_id: '423846'
 gene_type: protein-coding
 images:
 - caption: ARHGAP19 expression
@@ -118,13 +118,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R412.ARHGAP19.S27d.001.jpg
 name: Rho GTPase activating protein 19
-ncbi_id: '450393'
+ncbi_id: '423846'
 orthologs:
-- ensembl: ''
-  entrez: '36996'
-  mod: FBgn0034249
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000213390
   entrez: '84986'
   mod: MIM:611587
@@ -135,24 +130,24 @@ orthologs:
   mod: MGI:1918335
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100497228,443844
-  mod: '6041528'
+- ensembl: ENSXETG00000003417
+  entrez: '100497228'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSDARG00000083189
+  entrez: '100537002'
   mod: ZFIN:ZDB-GENE-100922-157
-  phenotypes: ZDB-GENE-100922-157
+  phenotypes: regulation of small GTPase mediated signal transduction, signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCACATCCCCTTTCACACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450393
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423846
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450393
+  url: https://www.ncbi.nlm.nih.gov/gene/423846
 species: Gallus gallus
 symbol: ARHGAP19
 template_length: '993'
@@ -179,9 +174,8 @@ title: ARHGAP19
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36996](https://www.ncbi.nlm.nih.gov/gene/36996) | FBgn0034249 |  |
 | Human | [ENSG00000213390](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000213390) | [84986](https://www.ncbi.nlm.nih.gov/gene/84986) | [MIM:611587](https://omim.org/entry/611587) |  |
 | Mouse | [ENSMUSG00000025154](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025154) | [71085](https://www.ncbi.nlm.nih.gov/gene/71085) | [MGI:1918335](http://www.informatics.jax.org/marker/MGI:1918335) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100497228](https://www.ncbi.nlm.nih.gov/gene/100497228), [443844](https://www.ncbi.nlm.nih.gov/gene/443844) | [6041528](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6041528) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-100922-157](https://zfin.org/ZDB-GENE-100922-157) | ZDB-GENE-100922-157 |
+| Xenopus | [ENSXETG00000003417](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003417) | [100497228](https://www.ncbi.nlm.nih.gov/gene/100497228) |  |  |
+| Zebrafish | [ENSDARG00000083189](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000083189) | [100537002](https://www.ncbi.nlm.nih.gov/gene/100537002) | [ZFIN:ZDB-GENE-100922-157](https://zfin.org/ZDB-GENE-100922-157) | regulation of small GTPase mediated signal transduction, signal transduction |
 

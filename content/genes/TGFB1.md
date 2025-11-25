@@ -6,7 +6,6 @@ aliases:
 - transforming growth factor beta 4
 cgnc_id: '65904'
 external_ids:
-  '25': stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0016049
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005615
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=
@@ -25,7 +24,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008083
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=AF395834
-gene_id: '504467'
+gene_id: '100873157'
 gene_type: protein-coding
 images:
 - caption: TGFB1 expression
@@ -265,7 +264,7 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGFB.Halper.2005.Fig.2.png
 name: transforming growth factor beta 1
-ncbi_id: '504467'
+ncbi_id: '100873157'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -295,10 +294,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=504467
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100873157
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/504467
+  url: https://www.ncbi.nlm.nih.gov/gene/100873157
 species: Gallus gallus
 symbol: TGFB1
 title: TGFB1

@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423722
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421599
-gene_id: '450878'
+gene_id: '423722'
 gene_type: protein-coding
 images:
 - caption: ZCCHC24 expression
@@ -94,13 +94,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Bento.2011.Fig.4.ALL-IMAGES-2.jpg
 name: zinc finger CCHC-type containing 24
-ncbi_id: '450878'
+ncbi_id: '423722'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000165424
   entrez: '219654'
   mod: ''
@@ -111,20 +106,15 @@ orthologs:
   mod: MGI:1919168
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: '100496711'
-  mod: '994545'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000078026
   entrez: '562028'
   mod: ZFIN:ZDB-GENE-030131-3573
-  phenotypes: ZDB-GENE-030131-3573
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450878
+  url: https://www.ncbi.nlm.nih.gov/gene/423722
 species: Gallus gallus
 symbol: ZCCHC24
 title: ZCCHC24
@@ -150,9 +140,7 @@ title: ZCCHC24
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000165424](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165424) | [219654](https://www.ncbi.nlm.nih.gov/gene/219654) |  |  |
 | Mouse | [ENSMUSG00000055538](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000055538) | [71918](https://www.ncbi.nlm.nih.gov/gene/71918) | [MGI:1919168](http://www.informatics.jax.org/marker/MGI:1919168) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100496711](https://www.ncbi.nlm.nih.gov/gene/100496711) | [994545](http://www.xenbase.org/gene/showgene.do?method=display&geneId=994545) |  |
-| Zebrafish | [ENSDARG00000078026](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078026) | [562028](https://www.ncbi.nlm.nih.gov/gene/562028) | [ZFIN:ZDB-GENE-030131-3573](https://zfin.org/ZDB-GENE-030131-3573) | ZDB-GENE-030131-3573 |
+| Zebrafish | [ENSDARG00000078026](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078026) | [562028](https://www.ncbi.nlm.nih.gov/gene/562028) | [ZFIN:ZDB-GENE-030131-3573](https://zfin.org/ZDB-GENE-030131-3573) |  |
 

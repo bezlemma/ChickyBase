@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421456
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419506
 forward_primer: GCACTTCAGCACCAGGATAAATACC
-gene_id: '457734'
+gene_id: '421456'
 gene_type: protein-coding
 images:
 - caption: ABCC10 expression
@@ -120,13 +120,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R482.ABCC10.S27.001.jpg
 name: ATP binding cassette subfamily C member 10
-ncbi_id: '457734'
+ncbi_id: '421456'
 orthologs:
-- ensembl: ''
-  entrez: '34140'
-  mod: FBgn0032018
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000124574
   entrez: '89845'
   mod: MIM:612509
@@ -137,24 +132,24 @@ orthologs:
   mod: MGI:2386976
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010586
   entrez: '100216149'
-  mod: '6465376'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000077988
-  entrez: '556709'
   mod: ''
   phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000113210
+  entrez: '556709'
+  mod: ZFIN:ZDB-GENE-050517-24
+  phenotypes: organic anion transport, transmembrane transport
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCATCAACAACAAGGCATCGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457734
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421456
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457734
+  url: https://www.ncbi.nlm.nih.gov/gene/421456
 species: Gallus gallus
 symbol: ABCC10
 template_length: '986'
@@ -178,9 +173,8 @@ title: ABCC10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34140](https://www.ncbi.nlm.nih.gov/gene/34140) | FBgn0032018 |  |
 | Human | [ENSG00000124574](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000124574) | [89845](https://www.ncbi.nlm.nih.gov/gene/89845) | [MIM:612509](https://omim.org/entry/612509) |  |
 | Mouse | [ENSMUSG00000032842](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032842) | [224814](https://www.ncbi.nlm.nih.gov/gene/224814) | [MGI:2386976](http://www.informatics.jax.org/marker/MGI:2386976) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100216149](https://www.ncbi.nlm.nih.gov/gene/100216149) | [6465376](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6465376) |  |
-| Zebrafish | [ENSDARG00000077988](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077988) | [556709](https://www.ncbi.nlm.nih.gov/gene/556709) |  |  |
+| Xenopus | [ENSXETG00000010586](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010586) | [100216149](https://www.ncbi.nlm.nih.gov/gene/100216149) |  |  |
+| Zebrafish | [ENSDARG00000113210](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000113210) | [556709](https://www.ncbi.nlm.nih.gov/gene/556709) | [ZFIN:ZDB-GENE-050517-24](https://zfin.org/ZDB-GENE-050517-24) | organic anion transport, transmembrane transport |
 

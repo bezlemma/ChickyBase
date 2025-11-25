@@ -5,7 +5,6 @@ aliases:
 - spalt4
 cgnc_id: '55134'
 external_ids:
-  '19': stage 19
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (NM_001080872).
@@ -15,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769286
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001080872
-gene_id: '350061'
+gene_id: '769286'
 gene_type: protein-coding
 images:
 - caption: SALL4 expression
@@ -184,13 +183,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SALL4.Anderson.2019.Supplementary
     figure 5I.jpg
 name: spalt like transcription factor 4
-ncbi_id: '350061'
+ncbi_id: '769286'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000101115
   entrez: '57167'
   mod: MIM:607343
@@ -202,23 +196,25 @@ orthologs:
   phenotypes: All phenotypic alleles (14):Targeted, knock-out(7) Targeted, other(4)
     Gene trapped(3)
   species: Mouse
-- ensembl: ''
-  entrez: 407860,398679
-  mod: '485251'
+- ensembl: ENSXETG00000012326
+  entrez: '407860'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000044485
   entrez: '572527'
   mod: ZFIN:ZDB-GENE-060328-2
-  phenotypes: ZDB-GENE-060328-2
+  phenotypes: embryonic pectoral fin morphogenesis, positive regulation of fibroblast
+    growth factor receptor signaling pathway, regulation of transcription by RNA polymerase
+    II, system development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=350061
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=769286
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/350061
+  url: https://www.ncbi.nlm.nih.gov/gene/769286
 species: Gallus gallus
 symbol: SALL4
 title: SALL4
@@ -244,9 +240,8 @@ title: SALL4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000101115](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101115) | [57167](https://www.ncbi.nlm.nih.gov/gene/57167) | [MIM:607343](https://omim.org/entry/607343) | MIM:607323 |
 | Mouse | [ENSMUSG00000027547](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027547) | [99377](https://www.ncbi.nlm.nih.gov/gene/99377) | [MGI:2139360](http://www.informatics.jax.org/marker/MGI:2139360) | All phenotypic alleles (14):Targeted, knock-out(7) Targeted, other(4) Gene trapped(3) |
-| Xenopus |  | [407860](https://www.ncbi.nlm.nih.gov/gene/407860), [398679](https://www.ncbi.nlm.nih.gov/gene/398679) | [485251](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485251) |  |
-| Zebrafish | [ENSDARG00000044485](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044485) | [572527](https://www.ncbi.nlm.nih.gov/gene/572527) | [ZFIN:ZDB-GENE-060328-2](https://zfin.org/ZDB-GENE-060328-2) | ZDB-GENE-060328-2 |
+| Xenopus | [ENSXETG00000012326](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012326) | [407860](https://www.ncbi.nlm.nih.gov/gene/407860) |  |  |
+| Zebrafish | [ENSDARG00000044485](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044485) | [572527](https://www.ncbi.nlm.nih.gov/gene/572527) | [ZFIN:ZDB-GENE-060328-2](https://zfin.org/ZDB-GENE-060328-2) | embryonic pectoral fin morphogenesis, positive regulation of fibroblast growth factor receptor signaling pathway, regulation of transcription by RNA polymerase II, system development |
 

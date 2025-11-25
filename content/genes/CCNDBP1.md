@@ -4,14 +4,13 @@ aliases:
 - cyclin D-type binding-protein 1
 cgnc_id: '3589'
 external_ids:
-  '25': stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000004837
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419217
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417394
 forward_primer: CGAGATAACCAGGCAGCAGTTG
-gene_id: '455762'
+gene_id: '419217'
 gene_type: protein-coding
 images:
 - caption: CCNDBP1 expression
@@ -110,13 +109,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R574.CCNDBF1.S25AA.001.jpg
 name: cyclin D1 binding protein 1
-ncbi_id: '455762'
+ncbi_id: '419217'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000166946
   entrez: '23582'
   mod: MIM:607089
@@ -127,24 +121,24 @@ orthologs:
   mod: MGI:109595
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100101758,495493
-  mod: '922597'
+- ensembl: ENSXETG00000007359
+  entrez: '100101758'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000039328
   entrez: '553373'
   mod: ZFIN:ZDB-GENE-070410-17
-  phenotypes: ZDB-GENE-070410-17
+  phenotypes: regulation of cell cycle
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAGGCAGCAGTAAAGTTCCCTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455762
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419217
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455762
+  url: https://www.ncbi.nlm.nih.gov/gene/419217
 species: Gallus gallus
 symbol: CCNDBP1
 template_length: '689'
@@ -167,9 +161,8 @@ title: CCNDBP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000166946](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166946) | [23582](https://www.ncbi.nlm.nih.gov/gene/23582) | [MIM:607089](https://omim.org/entry/607089) |  |
 | Mouse | [ENSMUSG00000023572](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023572) | [17151](https://www.ncbi.nlm.nih.gov/gene/17151) | [MGI:109595](http://www.informatics.jax.org/marker/MGI:109595) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100101758](https://www.ncbi.nlm.nih.gov/gene/100101758), [495493](https://www.ncbi.nlm.nih.gov/gene/495493) | [922597](http://www.xenbase.org/gene/showgene.do?method=display&geneId=922597) |  |
-| Zebrafish |  | [553373](https://www.ncbi.nlm.nih.gov/gene/553373) | [ZFIN:ZDB-GENE-070410-17](https://zfin.org/ZDB-GENE-070410-17) | ZDB-GENE-070410-17 |
+| Xenopus | [ENSXETG00000007359](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007359) | [100101758](https://www.ncbi.nlm.nih.gov/gene/100101758) |  |  |
+| Zebrafish | [ENSDARG00000039328](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039328) | [553373](https://www.ncbi.nlm.nih.gov/gene/553373) | [ZFIN:ZDB-GENE-070410-17](https://zfin.org/ZDB-GENE-070410-17) | regulation of cell cycle |
 

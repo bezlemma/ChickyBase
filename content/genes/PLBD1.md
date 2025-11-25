@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417967
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416206
-gene_id: '452186'
+gene_id: '417967'
 gene_type: protein-coding
 images:
 - caption: PLBD1 expression
@@ -33,16 +33,11 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLBD1.Anderson.2019.Supplementary
     figure 5C.jpg
 name: phospholipase B domain containing 1
-ncbi_id: '452186'
+ncbi_id: '417967'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000121316
   entrez: '79887'
-  mod: ''
+  mod: MIM:618486
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000030214
@@ -50,20 +45,16 @@ orthologs:
   mod: MGI:1914107
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000063313,ENSDARG00000076015
-  entrez: 569736,792904
-  mod: ZFIN:ZDB-GENE-050411-22,ZFIN:ZDB-GENE-130531-47
-  phenotypes: ZDB-GENE-050411-22,ZDB-GENE-130531-47
+- ensembl: ENSDARG00000110749
+  entrez: '792904'
+  mod: ZFIN:ZDB-GENE-130531-47
+  phenotypes: lipid catabolic process, lipid metabolic process, phospholipid catabolic
+    process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452186
+  url: https://www.ncbi.nlm.nih.gov/gene/417967
 species: Gallus gallus
 symbol: PLBD1
 title: PLBD1
@@ -89,9 +80,7 @@ title: PLBD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [79887](https://www.ncbi.nlm.nih.gov/gene/79887) |  |  |
+| Human | [ENSG00000121316](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000121316) | [79887](https://www.ncbi.nlm.nih.gov/gene/79887) | [MIM:618486](https://omim.org/entry/618486) |  |
 | Mouse | [ENSMUSG00000030214](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030214) | [66857](https://www.ncbi.nlm.nih.gov/gene/66857) | [MGI:1914107](http://www.informatics.jax.org/marker/MGI:1914107) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000063313](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063313), [ENSDARG00000076015](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076015) | [569736](https://www.ncbi.nlm.nih.gov/gene/569736), [792904](https://www.ncbi.nlm.nih.gov/gene/792904) | [ZFIN:ZDB-GENE-050411-22](https://zfin.org/ZDB-GENE-050411-22), [ZFIN:ZDB-GENE-130531-47](https://zfin.org/ZDB-GENE-130531-47) | ZDB-GENE-050411-22,ZDB-GENE-130531-47 |
+| Zebrafish | [ENSDARG00000110749](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110749) | [792904](https://www.ncbi.nlm.nih.gov/gene/792904) | [ZFIN:ZDB-GENE-130531-47](https://zfin.org/ZDB-GENE-130531-47) | lipid catabolic process, lipid metabolic process, phospholipid catabolic process |
 

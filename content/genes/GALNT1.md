@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420955
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006381
-gene_id: '453986'
+gene_id: '420955'
 gene_type: protein-coding
 images:
 - caption: GALNT1 expression
@@ -34,13 +34,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F5.galnt1.png
 name: polypeptide N-acetylgalactosaminyltransferase 1
-ncbi_id: '453986'
+ncbi_id: '420955'
 orthologs:
-- ensembl: ''
-  entrez: '326151'
-  mod: FBgn0031681
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000141429
   entrez: '2589'
   mod: MIM:602273
@@ -52,20 +47,20 @@ orthologs:
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(3)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 594943,398911
-  mod: '1013397'
+- ensembl: ENSXETG00000014012
+  entrez: '594943'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000061335
   entrez: '559073'
   mod: ZFIN:ZDB-GENE-030131-2360
-  phenotypes: ZDB-GENE-030131-2360
+  phenotypes: protein O-linked glycosylation, protein glycosylation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453986
+  url: https://www.ncbi.nlm.nih.gov/gene/420955
 species: Gallus gallus
 symbol: GALNT1
 title: GALNT1
@@ -93,9 +88,8 @@ title: GALNT1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [326151](https://www.ncbi.nlm.nih.gov/gene/326151) | FBgn0031681 |  |
 | Human | [ENSG00000141429](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000141429) | [2589](https://www.ncbi.nlm.nih.gov/gene/2589) | [MIM:602273](https://omim.org/entry/602273) |  |
 | Mouse | [ENSMUSG00000000420](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000420) | [14423](https://www.ncbi.nlm.nih.gov/gene/14423) | [MGI:894693](http://www.informatics.jax.org/marker/MGI:894693) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(3) Gene trapped(1) |
-| Xenopus |  | [594943](https://www.ncbi.nlm.nih.gov/gene/594943), [398911](https://www.ncbi.nlm.nih.gov/gene/398911) | [1013397](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1013397) |  |
-| Zebrafish | [ENSDARG00000061335](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061335) | [559073](https://www.ncbi.nlm.nih.gov/gene/559073) | [ZFIN:ZDB-GENE-030131-2360](https://zfin.org/ZDB-GENE-030131-2360) | ZDB-GENE-030131-2360 |
+| Xenopus | [ENSXETG00000014012](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014012) | [594943](https://www.ncbi.nlm.nih.gov/gene/594943) |  |  |
+| Zebrafish | [ENSDARG00000061335](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061335) | [559073](https://www.ncbi.nlm.nih.gov/gene/559073) | [ZFIN:ZDB-GENE-030131-2360](https://zfin.org/ZDB-GENE-030131-2360) | protein O-linked glycosylation, protein glycosylation |
 

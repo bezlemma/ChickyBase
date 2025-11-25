@@ -22,7 +22,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:429199
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001007985
-gene_id: '449898'
+gene_id: '429199'
 gene_type: protein-coding
 images:
 - caption: HMX3 expression
@@ -75,13 +75,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_4_Allimages-2.jpg
 name: H6 family homeobox 3
-ncbi_id: '449898'
+ncbi_id: '429199'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000188620
   entrez: '340784'
   mod: MIM:613380
@@ -92,20 +87,21 @@ orthologs:
   mod: MGI:107160
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 780290,373845
-  mod: '483775'
+- ensembl: ENSXETG00000009562
+  entrez: '780290'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000070955
+- ensembl: ENSDARG00000115051
   entrez: '60310'
   mod: ZFIN:ZDB-GENE-001020-1
-  phenotypes: ZDB-GENE-001020-1
+  phenotypes: cell differentiation, inner ear morphogenesis, nervous system development,
+    otolith development, posterior lateral line development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449898
+  url: https://www.ncbi.nlm.nih.gov/gene/429199
 species: Gallus gallus
 symbol: HMX3
 title: HMX3
@@ -134,9 +130,8 @@ title: HMX3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000188620](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000188620) | [340784](https://www.ncbi.nlm.nih.gov/gene/340784) | [MIM:613380](https://omim.org/entry/613380) |  |
 | Mouse | [ENSMUSG00000040148](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040148) | [15373](https://www.ncbi.nlm.nih.gov/gene/15373) | [MGI:107160](http://www.informatics.jax.org/marker/MGI:107160) | All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2) |
-| Xenopus |  | [780290](https://www.ncbi.nlm.nih.gov/gene/780290), [373845](https://www.ncbi.nlm.nih.gov/gene/373845) | [483775](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483775) |  |
-| Zebrafish | [ENSDARG00000070955](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070955) | [60310](https://www.ncbi.nlm.nih.gov/gene/60310) | [ZFIN:ZDB-GENE-001020-1](https://zfin.org/ZDB-GENE-001020-1) | ZDB-GENE-001020-1 |
+| Xenopus | [ENSXETG00000009562](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009562) | [780290](https://www.ncbi.nlm.nih.gov/gene/780290) |  |  |
+| Zebrafish | [ENSDARG00000115051](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115051) | [60310](https://www.ncbi.nlm.nih.gov/gene/60310) | [ZFIN:ZDB-GENE-001020-1](https://zfin.org/ZDB-GENE-001020-1) | cell differentiation, inner ear morphogenesis, nervous system development, otolith development, posterior lateral line development |
 

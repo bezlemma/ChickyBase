@@ -1,8 +1,6 @@
 ---
 cgnc_id: '3150'
 external_ids:
-  '19': stage 19stage 19
-  '25': stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007389
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0030173
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=+2020+Stern+
@@ -17,7 +15,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0033829
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204948
   X-XIV: stage Xstage XIIstage XIVstage XIVstage XIV
-gene_id: '450437'
+gene_id: '395790'
 gene_type: protein-coding
 images:
 - caption: LFNG expression
@@ -718,13 +716,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Allimages_Lee.2020_Fig
     3-8.jpg
 name: LFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase
-ncbi_id: '450437'
+ncbi_id: '395790'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000106003
   entrez: '3955'
   mod: MIM:602576
@@ -736,23 +729,24 @@ orthologs:
   phenotypes: All phenotypic alleles (8):Chemically induced(1) Targeted, knock-out(4)
     Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 549805,100036937
-  mod: '487974'
+- ensembl: ENSXETG00000021768
+  entrez: '549805'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000037879
   entrez: '30158'
   mod: ZFIN:ZDB-GENE-980605-16
-  phenotypes: ZDB-GENE-980605-16
+  phenotypes: Notch signaling pathway, cell differentiation, fin regeneration, hypochord
+    development, negative regulation of neuron differentiation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450437
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395790
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450437
+  url: https://www.ncbi.nlm.nih.gov/gene/395790
 species: Gallus gallus
 symbol: LFNG
 title: LFNG
@@ -781,9 +775,8 @@ title: LFNG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000106003](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000106003) | [3955](https://www.ncbi.nlm.nih.gov/gene/3955) | [MIM:602576](https://omim.org/entry/602576) | MIM:609813 |
 | Mouse | [ENSMUSG00000029570](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029570) | [16848](https://www.ncbi.nlm.nih.gov/gene/16848) | [MGI:1095413](http://www.informatics.jax.org/marker/MGI:1095413) | All phenotypic alleles (8):Chemically induced(1) Targeted, knock-out(4) Targeted, other(3) |
-| Xenopus |  | [549805](https://www.ncbi.nlm.nih.gov/gene/549805), [100036937](https://www.ncbi.nlm.nih.gov/gene/100036937) | [487974](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487974) |  |
-| Zebrafish | [ENSDARG00000037879](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037879) | [30158](https://www.ncbi.nlm.nih.gov/gene/30158) | [ZFIN:ZDB-GENE-980605-16](https://zfin.org/ZDB-GENE-980605-16) | ZDB-GENE-980605-16 |
+| Xenopus | [ENSXETG00000021768](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021768) | [549805](https://www.ncbi.nlm.nih.gov/gene/549805) |  |  |
+| Zebrafish | [ENSDARG00000037879](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037879) | [30158](https://www.ncbi.nlm.nih.gov/gene/30158) | [ZFIN:ZDB-GENE-980605-16](https://zfin.org/ZDB-GENE-980605-16) | Notch signaling pathway, cell differentiation, fin regeneration, hypochord development, negative regulation of neuron differentiation |
 

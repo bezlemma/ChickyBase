@@ -3,7 +3,6 @@ aliases:
 - protein Wnt-7a
 cgnc_id: '3813'
 external_ids:
-  '31': stage 31
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Altabef+Tickle+limb+ventral
   Comments: 'As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI (acc
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374168
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204292
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATATCTTCCTGAGCCTGGGGATTG
-gene_id: '455252'
+gene_id: '374168'
 gene_type: protein-coding
 images:
 - caption: WNT7A expression
@@ -336,14 +335,9 @@ images:
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt7A.Altabef.2002.1B.png
 name: Wnt family member 7A
-ncbi_id: '455252'
+ncbi_id: '374168'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000154764
   entrez: '7476'
   mod: MIM:601570
   phenotypes: MIM:228930
@@ -354,24 +348,25 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Spontaneous(2) Chemically induced(1) Targeted,
     knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100497917,378677
-  mod: '5901653'
+- ensembl: ENSXETG00000049086
+  entrez: '100145124'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000044827
   entrez: '565714'
-  mod: ZFIN:ZDB-GENE-051129-1,ZFIN:ZDB-GENE-100922-44
-  phenotypes: ZDB-GENE-051129-1,ZDB-GENE-100922-44
+  mod: ZFIN:ZDB-GENE-051129-1
+  phenotypes: Wnt signaling pathway, animal organ development, canonical Wnt signaling
+    pathway, cell differentiation, cell fate commitment
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGACTGGTGCGTGTTGTAACCTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455252
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374168
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455252
+  url: https://www.ncbi.nlm.nih.gov/gene/374168
 species: Gallus gallus
 symbol: WNT7A
 template_length: '919'
@@ -398,9 +393,8 @@ title: WNT7A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [7476](https://www.ncbi.nlm.nih.gov/gene/7476) | [MIM:601570](https://omim.org/entry/601570) | MIM:228930 |
+| Human | [ENSG00000154764](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000154764) | [7476](https://www.ncbi.nlm.nih.gov/gene/7476) | [MIM:601570](https://omim.org/entry/601570) | MIM:228930 |
 | Mouse | [ENSMUSG00000030093](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030093) | [22421](https://www.ncbi.nlm.nih.gov/gene/22421) | [MGI:98961](http://www.informatics.jax.org/marker/MGI:98961) | All phenotypic alleles (4):Spontaneous(2) Chemically induced(1) Targeted, knock-out(1) |
-| Xenopus |  | [100497917](https://www.ncbi.nlm.nih.gov/gene/100497917), [378677](https://www.ncbi.nlm.nih.gov/gene/378677) | [5901653](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5901653) |  |
-| Zebrafish |  | [565714](https://www.ncbi.nlm.nih.gov/gene/565714) | [ZFIN:ZDB-GENE-051129-1](https://zfin.org/ZDB-GENE-051129-1), [ZFIN:ZDB-GENE-100922-44](https://zfin.org/ZDB-GENE-100922-44) | ZDB-GENE-051129-1,ZDB-GENE-100922-44 |
+| Xenopus | [ENSXETG00000049086](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000049086) | [100145124](https://www.ncbi.nlm.nih.gov/gene/100145124) |  |  |
+| Zebrafish | [ENSDARG00000044827](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044827) | [565714](https://www.ncbi.nlm.nih.gov/gene/565714) | [ZFIN:ZDB-GENE-051129-1](https://zfin.org/ZDB-GENE-051129-1) | Wnt signaling pathway, animal organ development, canonical Wnt signaling pathway, cell differentiation, cell fate commitment |
 

@@ -18,7 +18,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422825
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641252
-gene_id: '452736'
+gene_id: '422825'
 gene_type: protein-coding
 images:
 - caption: PROM1 expression
@@ -38,13 +38,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PROM1.Anderson.2019.Supplementary
     figure 5G2.jpg
 name: prominin 1
-ncbi_id: '452736'
+ncbi_id: '422825'
 orthologs:
-- ensembl: ''
-  entrez: '38372'
-  mod: FBgn0026189
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000007062
   entrez: '8842'
   mod: MIM:604365
@@ -55,20 +50,20 @@ orthologs:
   mod: MGI:1100886
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100036621,100316925
-  mod: '853792'
+- ensembl: ENSXETG00000020336
+  entrez: '100036621'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000034007,ENSDARG00000039966
-  entrez: 378834,322857
-  mod: ZFIN:ZDB-GENE-031003-1,ZFIN:ZDB-GENE-030131-1577
-  phenotypes: ZDB-GENE-031003-1,ZDB-GENE-030131-1577
+- ensembl: ENSDARG00000039966
+  entrez: '322857'
+  mod: ZFIN:ZDB-GENE-030131-1577
+  phenotypes: photoreceptor cell outer segment organization
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452736
+  url: https://www.ncbi.nlm.nih.gov/gene/422825
 species: Gallus gallus
 symbol: PROM1
 title: PROM1
@@ -96,9 +91,8 @@ title: PROM1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38372](https://www.ncbi.nlm.nih.gov/gene/38372) | FBgn0026189 |  |
 | Human | [ENSG00000007062](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000007062) | [8842](https://www.ncbi.nlm.nih.gov/gene/8842) | [MIM:604365](https://omim.org/entry/604365) | MIM:612657 |
 | Mouse | [ENSMUSG00000029086](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029086) | [19126](https://www.ncbi.nlm.nih.gov/gene/19126) | [MGI:1100886](http://www.informatics.jax.org/marker/MGI:1100886) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100036621](https://www.ncbi.nlm.nih.gov/gene/100036621), [100316925](https://www.ncbi.nlm.nih.gov/gene/100316925) | [853792](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853792) |  |
-| Zebrafish | [ENSDARG00000034007](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034007), [ENSDARG00000039966](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039966) | [378834](https://www.ncbi.nlm.nih.gov/gene/378834), [322857](https://www.ncbi.nlm.nih.gov/gene/322857) | [ZFIN:ZDB-GENE-031003-1](https://zfin.org/ZDB-GENE-031003-1), [ZFIN:ZDB-GENE-030131-1577](https://zfin.org/ZDB-GENE-030131-1577) | ZDB-GENE-031003-1,ZDB-GENE-030131-1577 |
+| Xenopus | [ENSXETG00000020336](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020336) | [100036621](https://www.ncbi.nlm.nih.gov/gene/100036621) |  |  |
+| Zebrafish | [ENSDARG00000039966](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039966) | [322857](https://www.ncbi.nlm.nih.gov/gene/322857) | [ZFIN:ZDB-GENE-030131-1577](https://zfin.org/ZDB-GENE-030131-1577) | photoreceptor cell outer segment organization |
 

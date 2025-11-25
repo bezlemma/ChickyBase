@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416952
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415244
 forward_primer: CAGACAGTCCACAACATTCCCC
-gene_id: '460896'
+gene_id: '416952'
 gene_type: protein-coding
 images:
 - caption: BCR expression
@@ -141,13 +141,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R414.BCR.S23g.001a.jpg
 name: BCR, RhoGEF and GTPase activating protein
-ncbi_id: '460896'
+ncbi_id: '416952'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000186716
   entrez: '613'
   mod: MIM:151410
@@ -158,24 +153,25 @@ orthologs:
   mod: MGI:88141
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100170543,431900
-  mod: '980811'
+- ensembl: ENSXETG00000004215
+  entrez: '100170543'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000079286
   entrez: '568320'
   mod: ZFIN:ZDB-GENE-040724-43
-  phenotypes: ZDB-GENE-040724-43
+  phenotypes: intracellular signal transduction, positive regulation of GTPase activity,
+    protein phosphorylation, signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCTCAGCAACCCTTTTTAGATGGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460896
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416952
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460896
+  url: https://www.ncbi.nlm.nih.gov/gene/416952
 species: Gallus gallus
 symbol: BCR
 template_length: '906'
@@ -197,9 +193,8 @@ title: BCR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000186716](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000186716) | [613](https://www.ncbi.nlm.nih.gov/gene/613) | [MIM:151410](https://omim.org/entry/151410) | MIM:613065 |
 | Mouse | [ENSMUSG00000009681](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000009681) | [110279](https://www.ncbi.nlm.nih.gov/gene/110279) | [MGI:88141](http://www.informatics.jax.org/marker/MGI:88141) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100170543](https://www.ncbi.nlm.nih.gov/gene/100170543), [431900](https://www.ncbi.nlm.nih.gov/gene/431900) | [980811](http://www.xenbase.org/gene/showgene.do?method=display&geneId=980811) |  |
-| Zebrafish | [ENSDARG00000079286](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079286) | [568320](https://www.ncbi.nlm.nih.gov/gene/568320) | [ZFIN:ZDB-GENE-040724-43](https://zfin.org/ZDB-GENE-040724-43) | ZDB-GENE-040724-43 |
+| Xenopus | [ENSXETG00000004215](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004215) | [100170543](https://www.ncbi.nlm.nih.gov/gene/100170543) |  |  |
+| Zebrafish | [ENSDARG00000079286](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079286) | [568320](https://www.ncbi.nlm.nih.gov/gene/568320) | [ZFIN:ZDB-GENE-040724-43](https://zfin.org/ZDB-GENE-040724-43) | intracellular signal transduction, positive regulation of GTPase activity, protein phosphorylation, signal transduction |
 

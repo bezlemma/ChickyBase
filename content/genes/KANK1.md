@@ -3,13 +3,12 @@ aliases:
 - ankyrin repeat domain 15
 cgnc_id: '7722'
 external_ids:
-  '25': stage 25stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/395475
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395475
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424927
 forward_primer: 5’-ACCACGTGCATGTTGCTG-3’
-gene_id: '449280'
+gene_id: '395475'
 gene_type: protein-coding
 images:
 - caption: KANK1 expression
@@ -120,13 +119,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R718.KANK1.S25AA.001.jpg
 name: KN motif and ankyrin repeat domains 1
-ncbi_id: '449280'
+ncbi_id: '395475'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000107104
   entrez: '23189'
   mod: MIM:607704
@@ -137,24 +131,24 @@ orthologs:
   mod: MGI:2147707
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 733504,446299
-  mod: '876858'
+- ensembl: ENSXETG00000002278
+  entrez: '733504'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000060102
   entrez: '777729'
   mod: ZFIN:ZDB-GENE-060526-215
-  phenotypes: ZDB-GENE-060526-215
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAACAGCTTCTGCACACGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449280
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395475
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449280
+  url: https://www.ncbi.nlm.nih.gov/gene/395475
 species: Gallus gallus
 symbol: KANK1
 template_length: '919'
@@ -176,9 +170,8 @@ title: KANK1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000107104](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107104) | [23189](https://www.ncbi.nlm.nih.gov/gene/23189) | [MIM:607704](https://omim.org/entry/607704) | MIM:612900 |
 | Mouse | [ENSMUSG00000032702](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032702) | [107351](https://www.ncbi.nlm.nih.gov/gene/107351) | [MGI:2147707](http://www.informatics.jax.org/marker/MGI:2147707) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [733504](https://www.ncbi.nlm.nih.gov/gene/733504), [446299](https://www.ncbi.nlm.nih.gov/gene/446299) | [876858](http://www.xenbase.org/gene/showgene.do?method=display&geneId=876858) |  |
-| Zebrafish | [ENSDARG00000060102](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060102) | [777729](https://www.ncbi.nlm.nih.gov/gene/777729) | [ZFIN:ZDB-GENE-060526-215](https://zfin.org/ZDB-GENE-060526-215) | ZDB-GENE-060526-215 |
+| Xenopus | [ENSXETG00000002278](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002278) | [733504](https://www.ncbi.nlm.nih.gov/gene/733504) |  |  |
+| Zebrafish | [ENSDARG00000060102](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060102) | [777729](https://www.ncbi.nlm.nih.gov/gene/777729) | [ZFIN:ZDB-GENE-060526-215](https://zfin.org/ZDB-GENE-060526-215) |  |
 

@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395229
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204547
   X-XIV: stage XI
-gene_id: '461503'
+gene_id: '395229'
 gene_type: protein-coding
 images:
 - caption: TCF7 expression
@@ -86,37 +86,23 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tcf-1.Schmidt.20043R.jpg
 name: transcription factor 7 (T-cell specific, HMG-box)
-ncbi_id: '461503'
+ncbi_id: '395229'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000016100
+  entrez: '395061'
   mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: 395061,398658
-  mod: '855461'
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000038672
   entrez: '497649'
   mod: ZFIN:ZDB-GENE-050222-4
-  phenotypes: ZDB-GENE-050222-4
+  phenotypes: Wnt signaling pathway, canonical Wnt signaling pathway, cell proliferation
+    in dorsal spinal cord, endothelial cell fate specification, fin development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461503
+  url: https://www.ncbi.nlm.nih.gov/gene/395229
 species: Gallus gallus
 symbol: TCF7
 title: TCF7
@@ -142,9 +128,6 @@ title: TCF7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [395061](https://www.ncbi.nlm.nih.gov/gene/395061), [398658](https://www.ncbi.nlm.nih.gov/gene/398658) | [855461](http://www.xenbase.org/gene/showgene.do?method=display&geneId=855461) |  |
-| Zebrafish |  | [497649](https://www.ncbi.nlm.nih.gov/gene/497649) | [ZFIN:ZDB-GENE-050222-4](https://zfin.org/ZDB-GENE-050222-4) | ZDB-GENE-050222-4 |
+| Xenopus | [ENSXETG00000016100](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016100) | [395061](https://www.ncbi.nlm.nih.gov/gene/395061) |  |  |
+| Zebrafish | [ENSDARG00000038672](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038672) | [497649](https://www.ncbi.nlm.nih.gov/gene/497649) | [ZFIN:ZDB-GENE-050222-4](https://zfin.org/ZDB-GENE-050222-4) | Wnt signaling pathway, canonical Wnt signaling pathway, cell proliferation in dorsal spinal cord, endothelial cell fate specification, fin development |
 

@@ -5,7 +5,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423778
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001233168
-gene_id: '450762'
+gene_id: '423778'
 gene_type: protein-coding
 images:
 - caption: MAPK8 expression
@@ -23,13 +23,8 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53ZD7.124.20.jpg
 name: mitogen-activated protein kinase 8
-ncbi_id: '450762'
+ncbi_id: '423778'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000107643
   entrez: '5599'
   mod: MIM:601158
@@ -40,23 +35,24 @@ orthologs:
   mod: MGI:1346861
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100170194,379876
-  mod: '1217555'
+- ensembl: ENSXETG00000021691
+  entrez: '100170194'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000009870,ENSDARG00000031888
-  entrez: 100333971,65236,562720
-  mod: ZFIN:ZDB-GENE-010202-1,ZFIN:ZDB-GENE-080218-17
-  phenotypes: ZDB-GENE-010202-1,ZDB-GENE-080218-17
+- ensembl: ENSDARG00000031888
+  entrez: '562720'
+  mod: ZFIN:ZDB-GENE-080218-17
+  phenotypes: JNK cascade, enteric nervous system development, phosphorylation, protein
+    phosphorylation, rhythmic process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450762
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423778
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450762
+  url: https://www.ncbi.nlm.nih.gov/gene/423778
 species: Gallus gallus
 symbol: MAPK8
 title: MAPK8
@@ -77,9 +73,8 @@ title: MAPK8
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000107643](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107643) | [5599](https://www.ncbi.nlm.nih.gov/gene/5599) | [MIM:601158](https://omim.org/entry/601158) |  |
 | Mouse | [ENSMUSG00000021936](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021936) | [26419](https://www.ncbi.nlm.nih.gov/gene/26419) | [MGI:1346861](http://www.informatics.jax.org/marker/MGI:1346861) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100170194](https://www.ncbi.nlm.nih.gov/gene/100170194), [379876](https://www.ncbi.nlm.nih.gov/gene/379876) | [1217555](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1217555) |  |
-| Zebrafish | [ENSDARG00000009870](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009870), [ENSDARG00000031888](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031888) | [100333971](https://www.ncbi.nlm.nih.gov/gene/100333971), [65236](https://www.ncbi.nlm.nih.gov/gene/65236), [562720](https://www.ncbi.nlm.nih.gov/gene/562720) | [ZFIN:ZDB-GENE-010202-1](https://zfin.org/ZDB-GENE-010202-1), [ZFIN:ZDB-GENE-080218-17](https://zfin.org/ZDB-GENE-080218-17) | ZDB-GENE-010202-1,ZDB-GENE-080218-17 |
+| Xenopus | [ENSXETG00000021691](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021691) | [100170194](https://www.ncbi.nlm.nih.gov/gene/100170194) |  |  |
+| Zebrafish | [ENSDARG00000031888](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031888) | [562720](https://www.ncbi.nlm.nih.gov/gene/562720) | [ZFIN:ZDB-GENE-080218-17](https://zfin.org/ZDB-GENE-080218-17) | JNK cascade, enteric nervous system development, phosphorylation, protein phosphorylation, rhythmic process |
 

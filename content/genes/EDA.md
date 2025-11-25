@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769069
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641131
-gene_id: '461748'
+gene_id: '769069'
 gene_type: protein-coding
 images:
 - caption: EDA expression
@@ -163,7 +163,7 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.5.png
 name: ectodysplasin A
-ncbi_id: '461748'
+ncbi_id: '769069'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -193,7 +193,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461748
+  url: https://www.ncbi.nlm.nih.gov/gene/769069
 species: Gallus gallus
 symbol: EDA
 title: EDA

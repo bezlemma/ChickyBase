@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423606
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199508
 forward_primer: TGGGATGAAGAGGGACTGGAAC
-gene_id: '451180'
+gene_id: '423606'
 gene_type: protein-coding
 images:
 - caption: CCSER2 expression
@@ -130,41 +130,26 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.FAM190B.S24V.001.jpg
 name: coiled-coil serine rich protein 2
-ncbi_id: '451180'
+ncbi_id: '423606'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000030589
+  entrez: '100379972'
   mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000107771
-  entrez: '54462'
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000058690
-  entrez: '72972'
-  mod: MGI:101859
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: 100379972,100158327
-  mod: '5737385'
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000087749
-  entrez: 100151609,793969
-  mod: ZFIN:ZDB-GENE-121214-220
-  phenotypes: ZDB-GENE-121214-220
+  entrez: '793969'
+  mod: ZFIN:ZDB-GENE-131121-492
+  phenotypes: microtubule bundle formation
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGAGAGAAGGAGGGAGCAGAATACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451180
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423606
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451180
+  url: https://www.ncbi.nlm.nih.gov/gene/423606
 species: Gallus gallus
 symbol: CCSER2
 template_length: '829'
@@ -187,9 +172,6 @@ title: CCSER2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000107771](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107771) | [54462](https://www.ncbi.nlm.nih.gov/gene/54462) |  |  |
-| Mouse | [ENSMUSG00000058690](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000058690) | [72972](https://www.ncbi.nlm.nih.gov/gene/72972) | [MGI:101859](http://www.informatics.jax.org/marker/MGI:101859) |  |
-| Xenopus |  | [100379972](https://www.ncbi.nlm.nih.gov/gene/100379972), [100158327](https://www.ncbi.nlm.nih.gov/gene/100158327) | [5737385](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5737385) |  |
-| Zebrafish | [ENSDARG00000087749](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000087749) | [100151609](https://www.ncbi.nlm.nih.gov/gene/100151609), [793969](https://www.ncbi.nlm.nih.gov/gene/793969) | [ZFIN:ZDB-GENE-121214-220](https://zfin.org/ZDB-GENE-121214-220) | ZDB-GENE-121214-220 |
+| Xenopus | [ENSXETG00000030589](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000030589) | [100379972](https://www.ncbi.nlm.nih.gov/gene/100379972) |  |  |
+| Zebrafish | [ENSDARG00000087749](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000087749) | [793969](https://www.ncbi.nlm.nih.gov/gene/793969) | [ZFIN:ZDB-GENE-131121-492](https://zfin.org/ZDB-GENE-131121-492) | microtubule bundle formation |
 

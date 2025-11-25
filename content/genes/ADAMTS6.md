@@ -1,13 +1,12 @@
 ---
 cgnc_id: '10940'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/427160
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427160
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424749
 forward_primer: AATCCTTTCTCTTGGTCAGCCTG
-gene_id: '460575'
+gene_id: '427160'
 gene_type: protein-coding
 images:
 - caption: ADAMTS6 expression
@@ -113,13 +112,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R484.ADAMTS6.S25B.001.jpg
 name: ADAM metallopeptidase with thrombospondin type 1 motif 6
-ncbi_id: '460575'
+ncbi_id: '427160'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000049192
   entrez: '11174'
   mod: MIM:605008
@@ -130,24 +124,24 @@ orthologs:
   mod: MGI:1347348
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000000457
   entrez: '100490362'
-  mod: '951749'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000041982
   entrez: '569099'
   mod: ZFIN:ZDB-GENE-091113-9
-  phenotypes: ZDB-GENE-091113-9
+  phenotypes: extracellular matrix organization, proteolysis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCATCTCCTCCACAAACACGAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460575
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427160
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460575
+  url: https://www.ncbi.nlm.nih.gov/gene/427160
 species: Gallus gallus
 symbol: ADAMTS6
 template_length: '821'
@@ -169,9 +163,8 @@ title: ADAMTS6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000049192](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000049192) | [11174](https://www.ncbi.nlm.nih.gov/gene/11174) | [MIM:605008](https://omim.org/entry/605008) |  |
 | Mouse | [ENSMUSG00000046169](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000046169) | [108154](https://www.ncbi.nlm.nih.gov/gene/108154) | [MGI:1347348](http://www.informatics.jax.org/marker/MGI:1347348) |  |
-| Xenopus |  | [100490362](https://www.ncbi.nlm.nih.gov/gene/100490362) | [951749](http://www.xenbase.org/gene/showgene.do?method=display&geneId=951749) |  |
-| Zebrafish | [ENSDARG00000041982](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041982) | [569099](https://www.ncbi.nlm.nih.gov/gene/569099) | [ZFIN:ZDB-GENE-091113-9](https://zfin.org/ZDB-GENE-091113-9) | ZDB-GENE-091113-9 |
+| Xenopus | [ENSXETG00000000457](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000457) | [100490362](https://www.ncbi.nlm.nih.gov/gene/100490362) |  |  |
+| Zebrafish | [ENSDARG00000041982](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041982) | [569099](https://www.ncbi.nlm.nih.gov/gene/569099) | [ZFIN:ZDB-GENE-091113-9](https://zfin.org/ZDB-GENE-091113-9) | extracellular matrix organization, proteolysis |
 

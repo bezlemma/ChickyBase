@@ -3,7 +3,6 @@ aliases:
 - hepatocyte nuclear factor 1-beta
 cgnc_id: '4099'
 external_ids:
-  '7': stage 7
   Citation: "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=\r\
     \nAragon+pujades+controls+erk"
   Comments: Insufficient information provided in publication to verify exact sequence
@@ -19,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427838
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642414
   X-XIV: stage XIII
-gene_id: '457817'
+gene_id: '427838'
 gene_type: protein-coding
 images:
 - caption: HNF1B expression
@@ -82,37 +81,34 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HNF1B.Trevers.2023-Fig7-6-H.jpg
 name: HNF1 homeobox B
-ncbi_id: '457817'
+ncbi_id: '427838'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000275410
+  entrez: '6928'
+  mod: MIM:189907
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000020679
+  entrez: '21410'
+  mod: MGI:98505
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000008000
+  entrez: '733490'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000006615
+  entrez: '792391'
+  mod: ZFIN:ZDB-GENE-020104-1
+  phenotypes: animal organ development, anterior/posterior pattern specification,
+    anterior/posterior pattern specification involved in pronephros development, digestive
+    tract morphogenesis, embryonic digestive tract development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457817
+  url: https://www.ncbi.nlm.nih.gov/gene/427838
 species: Gallus gallus
 symbol: HNF1B
 title: HNF1B
@@ -140,9 +136,8 @@ Aragon+pujades+controls+erk)
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000275410](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000275410) | [6928](https://www.ncbi.nlm.nih.gov/gene/6928) | [MIM:189907](https://omim.org/entry/189907) |  |
+| Mouse | [ENSMUSG00000020679](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020679) | [21410](https://www.ncbi.nlm.nih.gov/gene/21410) | [MGI:98505](http://www.informatics.jax.org/marker/MGI:98505) |  |
+| Xenopus | [ENSXETG00000008000](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008000) | [733490](https://www.ncbi.nlm.nih.gov/gene/733490) |  |  |
+| Zebrafish | [ENSDARG00000006615](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006615) | [792391](https://www.ncbi.nlm.nih.gov/gene/792391) | [ZFIN:ZDB-GENE-020104-1](https://zfin.org/ZDB-GENE-020104-1) | animal organ development, anterior/posterior pattern specification, anterior/posterior pattern specification involved in pronephros development, digestive tract morphogenesis, embryonic digestive tract development |
 

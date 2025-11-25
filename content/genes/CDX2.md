@@ -16,7 +16,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204311
   X-XIV: stage XIII
 forward_primer: TGTCGGAGAGGCAGGTGAAAATC
-gene_id: '456405'
+gene_id: '374205'
 gene_type: protein-coding
 images:
 - caption: CDX2 expression
@@ -211,14 +211,9 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CDX2.Trevers.2023-Fig7-5-G.jpg
 name: caudal type homeobox 2
-ncbi_id: '456405'
+ncbi_id: '374205'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000165556
   entrez: '1045'
   mod: MIM:600297
   phenotypes: ''
@@ -228,24 +223,19 @@ orthologs:
   mod: MGI:88361
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 394817,735025
-  mod: '483305'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000040504
+  entrez: '394817'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: AATTAACCCTCACTAAAGGCCCAACAGCATCGCTCAGACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456405
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374205
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456405
+  url: https://www.ncbi.nlm.nih.gov/gene/374205
 species: Gallus gallus
 symbol: CDX2
 template_length: '506'
@@ -272,9 +262,7 @@ title: CDX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [1045](https://www.ncbi.nlm.nih.gov/gene/1045) | [MIM:600297](https://omim.org/entry/600297) |  |
+| Human | [ENSG00000165556](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165556) | [1045](https://www.ncbi.nlm.nih.gov/gene/1045) | [MIM:600297](https://omim.org/entry/600297) |  |
 | Mouse | [ENSMUSG00000029646](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029646) | [12591](https://www.ncbi.nlm.nih.gov/gene/12591) | [MGI:88361](http://www.informatics.jax.org/marker/MGI:88361) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [394817](https://www.ncbi.nlm.nih.gov/gene/394817), [735025](https://www.ncbi.nlm.nih.gov/gene/735025) | [483305](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483305) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000040504](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000040504) | [394817](https://www.ncbi.nlm.nih.gov/gene/394817) |  |  |
 

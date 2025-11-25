@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423451
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421361
-gene_id: '451296'
+gene_id: '423451'
 gene_type: protein-coding
 images:
 - caption: PKDCCB expression
@@ -101,37 +101,23 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PKDCCB.Anderson.2019.Supplementary
     figure 5G1.jpg
 name: protein kinase domain containing, cytoplasmic b
-ncbi_id: '451296'
+ncbi_id: '423451'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000016464
+  entrez: '100216132'
   mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000162878
-  entrez: '91461'
-  mod: MIM:614150
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000024247
-  entrez: '106522'
-  mod: MGI:2147077
-  phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
-  species: Mouse
-- ensembl: ''
-  entrez: 100216132,100037022
-  mod: '5993400'
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000038235
   entrez: '565254'
   mod: ZFIN:ZDB-GENE-130530-599
-  phenotypes: ZDB-GENE-130530-599
+  phenotypes: embryonic cranial skeleton morphogenesis, phosphorylation, protein phosphorylation,
+    skeletal system development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451296
+  url: https://www.ncbi.nlm.nih.gov/gene/423451
 species: Gallus gallus
 symbol: PKDCCB
 title: PKDCCB
@@ -157,9 +143,6 @@ title: PKDCCB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000162878](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162878) | [91461](https://www.ncbi.nlm.nih.gov/gene/91461) | [MIM:614150](https://omim.org/entry/614150) |  |
-| Mouse | [ENSMUSG00000024247](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024247) | [106522](https://www.ncbi.nlm.nih.gov/gene/106522) | [MGI:2147077](http://www.informatics.jax.org/marker/MGI:2147077) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100216132](https://www.ncbi.nlm.nih.gov/gene/100216132), [100037022](https://www.ncbi.nlm.nih.gov/gene/100037022) | [5993400](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5993400) |  |
-| Zebrafish | [ENSDARG00000038235](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038235) | [565254](https://www.ncbi.nlm.nih.gov/gene/565254) | [ZFIN:ZDB-GENE-130530-599](https://zfin.org/ZDB-GENE-130530-599) | ZDB-GENE-130530-599 |
+| Xenopus | [ENSXETG00000016464](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016464) | [100216132](https://www.ncbi.nlm.nih.gov/gene/100216132) |  |  |
+| Zebrafish | [ENSDARG00000038235](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038235) | [565254](https://www.ncbi.nlm.nih.gov/gene/565254) | [ZFIN:ZDB-GENE-130530-599](https://zfin.org/ZDB-GENE-130530-599) | embryonic cranial skeleton morphogenesis, phosphorylation, protein phosphorylation, skeletal system development |
 

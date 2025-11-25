@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415301
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_413689
-gene_id: '456374'
+gene_id: '415301'
 gene_type: protein-coding
 images:
 - caption: STRA6 expression
@@ -251,14 +251,9 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STRA6.Anderson.2019.Supplementary
     figure 5H1.jpg
 name: stimulated by retinoic acid 6
-ncbi_id: '456374'
+ncbi_id: '415301'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000137868
+- ensembl: ENSG00000288257
   entrez: '64220'
   mod: MIM:610745
   phenotypes: MIM:601186
@@ -268,20 +263,21 @@ orthologs:
   mod: MGI:107742
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000005165
   entrez: '100124902'
-  mod: '1002041'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000051874
+- ensembl: ENSDARG00000115031
   entrez: '724007'
   mod: ZFIN:ZDB-GENE-060616-252
-  phenotypes: ZDB-GENE-060616-252
+  phenotypes: chordate embryonic development, retinol transport, vitamin A import
+    into cell
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456374
+  url: https://www.ncbi.nlm.nih.gov/gene/415301
 species: Gallus gallus
 symbol: STRA6
 title: STRA6
@@ -307,9 +303,8 @@ title: STRA6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000137868](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137868) | [64220](https://www.ncbi.nlm.nih.gov/gene/64220) | [MIM:610745](https://omim.org/entry/610745) | MIM:601186 |
+| Human | [ENSG00000288257](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000288257) | [64220](https://www.ncbi.nlm.nih.gov/gene/64220) | [MIM:610745](https://omim.org/entry/610745) | MIM:601186 |
 | Mouse | [ENSMUSG00000032327](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032327) | [20897](https://www.ncbi.nlm.nih.gov/gene/20897) | [MGI:107742](http://www.informatics.jax.org/marker/MGI:107742) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100124902](https://www.ncbi.nlm.nih.gov/gene/100124902) | [1002041](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1002041) |  |
-| Zebrafish | [ENSDARG00000051874](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000051874) | [724007](https://www.ncbi.nlm.nih.gov/gene/724007) | [ZFIN:ZDB-GENE-060616-252](https://zfin.org/ZDB-GENE-060616-252) | ZDB-GENE-060616-252 |
+| Xenopus | [ENSXETG00000005165](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005165) | [100124902](https://www.ncbi.nlm.nih.gov/gene/100124902) |  |  |
+| Zebrafish | [ENSDARG00000115031](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115031) | [724007](https://www.ncbi.nlm.nih.gov/gene/724007) | [ZFIN:ZDB-GENE-060616-252](https://zfin.org/ZDB-GENE-060616-252) | chordate embryonic development, retinol transport, vitamin A import into cell |
 

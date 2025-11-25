@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419747
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417886
-gene_id: '457207'
+gene_id: '419747'
 gene_type: protein-coding
 images:
 - caption: CLMP expression
@@ -52,14 +52,9 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/8I.jpg
 name: CXADR like membrane protein
-ncbi_id: '457207'
+ncbi_id: '419747'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000166250
   entrez: '79827'
   mod: MIM:611693
   phenotypes: ''
@@ -71,18 +66,18 @@ orthologs:
   species: Mouse
 - ensembl: ''
   entrez: '493539'
-  mod: '973666'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
-  entrez: '567179'
-  mod: ZFIN:ZDB-GENE-120320-1,ZFIN:ZDB-GENE-120320-2
-  phenotypes: ZDB-GENE-120320-1,ZDB-GENE-120320-2
+  entrez: '100330877'
+  mod: ZFIN:ZDB-GENE-120320-2
+  phenotypes: NAD+ metabolic process, NADP+ biosynthetic process, phosphorylation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457207
+  url: https://www.ncbi.nlm.nih.gov/gene/419747
 species: Gallus gallus
 symbol: CLMP
 title: CLMP
@@ -108,9 +103,8 @@ Copyright © 2003 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [79827](https://www.ncbi.nlm.nih.gov/gene/79827) | [MIM:611693](https://omim.org/entry/611693) |  |
+| Human | [ENSG00000166250](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166250) | [79827](https://www.ncbi.nlm.nih.gov/gene/79827) | [MIM:611693](https://omim.org/entry/611693) |  |
 | Mouse | [ENSMUSG00000032024](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032024) | [71566](https://www.ncbi.nlm.nih.gov/gene/71566) | [MGI:1918816](http://www.informatics.jax.org/marker/MGI:1918816) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [493539](https://www.ncbi.nlm.nih.gov/gene/493539) | [973666](http://www.xenbase.org/gene/showgene.do?method=display&geneId=973666) |  |
-| Zebrafish |  | [567179](https://www.ncbi.nlm.nih.gov/gene/567179) | [ZFIN:ZDB-GENE-120320-1](https://zfin.org/ZDB-GENE-120320-1), [ZFIN:ZDB-GENE-120320-2](https://zfin.org/ZDB-GENE-120320-2) | ZDB-GENE-120320-1,ZDB-GENE-120320-2 |
+| Xenopus |  | [493539](https://www.ncbi.nlm.nih.gov/gene/493539) |  |  |
+| Zebrafish |  | [100330877](https://www.ncbi.nlm.nih.gov/gene/100330877) | [ZFIN:ZDB-GENE-120320-2](https://zfin.org/ZDB-GENE-120320-2) | NAD+ metabolic process, NADP+ biosynthetic process, phosphorylation |
 

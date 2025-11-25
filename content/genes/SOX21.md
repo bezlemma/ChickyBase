@@ -12,7 +12,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/107051027
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
-gene_id: '505321'
+gene_id: '107051027'
 gene_type: unknown
 images:
 - caption: SOX21 expression
@@ -118,7 +118,7 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Screenshot2024-01-189.04.13.png
 name: SRY-box 21
-ncbi_id: '505321'
+ncbi_id: '107051027'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -148,7 +148,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/505321
+  url: https://www.ncbi.nlm.nih.gov/gene/107051027
 species: Gallus gallus
 symbol: SOX21
 title: SOX21

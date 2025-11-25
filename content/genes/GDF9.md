@@ -10,7 +10,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_206988
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGGTCCCCCCTTCTCTTCTTCTTTAC
-gene_id: '455682'
+gene_id: '404533'
 gene_type: protein-coding
 images:
 - caption: GDF9 expression
@@ -35,13 +35,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R240.GDF9.S26.001.jpg
 name: growth differentiation factor 9
-ncbi_id: '455682'
+ncbi_id: '404533'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164404
   entrez: '2661'
   mod: MIM:601918
@@ -52,24 +47,25 @@ orthologs:
   mod: MGI:95692
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000004168
   entrez: '100496740'
-  mod: '478148'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000003229
   entrez: '497643'
   mod: ZFIN:ZDB-GENE-050221-7
-  phenotypes: ZDB-GENE-050221-7
+  phenotypes: cell surface receptor protein serine/threonine kinase signaling pathway,
+    female sex determination
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAGGCTGAGTGGATACAAAAACAGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455682
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=404533
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455682
+  url: https://www.ncbi.nlm.nih.gov/gene/404533
 species: Gallus gallus
 symbol: GDF9
 template_length: '714'
@@ -94,9 +90,8 @@ title: GDF9
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164404](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164404) | [2661](https://www.ncbi.nlm.nih.gov/gene/2661) | [MIM:601918](https://omim.org/entry/601918) |  |
 | Mouse | [ENSMUSG00000018238](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018238) | [14566](https://www.ncbi.nlm.nih.gov/gene/14566) | [MGI:95692](http://www.informatics.jax.org/marker/MGI:95692) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100496740](https://www.ncbi.nlm.nih.gov/gene/100496740) | [478148](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478148) |  |
-| Zebrafish | [ENSDARG00000003229](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003229) | [497643](https://www.ncbi.nlm.nih.gov/gene/497643) | [ZFIN:ZDB-GENE-050221-7](https://zfin.org/ZDB-GENE-050221-7) | ZDB-GENE-050221-7 |
+| Xenopus | [ENSXETG00000004168](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004168) | [100496740](https://www.ncbi.nlm.nih.gov/gene/100496740) |  |  |
+| Zebrafish | [ENSDARG00000003229](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003229) | [497643](https://www.ncbi.nlm.nih.gov/gene/497643) | [ZFIN:ZDB-GENE-050221-7](https://zfin.org/ZDB-GENE-050221-7) | cell surface receptor protein serine/threonine kinase signaling pathway, female sex determination |
 

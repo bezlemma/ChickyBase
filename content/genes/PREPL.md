@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421405
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004252
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031053
-gene_id: '457947'
+gene_id: '421405'
 gene_type: protein-coding
 images:
 - caption: PREPL expression
@@ -36,13 +36,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F5.prepl.png
 name: prolyl endopeptidase like
-ncbi_id: '457947'
+ncbi_id: '421405'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138078
   entrez: '9581'
   mod: MIM:609557
@@ -53,20 +48,20 @@ orthologs:
   mod: MGI:2441932
   phenotypes: All phenotypic alleles (2):Targeted, other(1) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100498250,495490,100381109
-  mod: '981634'
+- ensembl: ENSXETG00000002751
+  entrez: '100498250'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000017853
+- ensembl: ENSDARG00000114415
   entrez: '796680'
   mod: ZFIN:ZDB-GENE-090313-224
-  phenotypes: ZDB-GENE-090313-224
+  phenotypes: proteolysis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457947
+  url: https://www.ncbi.nlm.nih.gov/gene/421405
 species: Gallus gallus
 symbol: PREPL
 title: PREPL
@@ -95,9 +90,8 @@ title: PREPL
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000138078](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138078) | [9581](https://www.ncbi.nlm.nih.gov/gene/9581) | [MIM:609557](https://omim.org/entry/609557) | MIM:606407 |
 | Mouse | [ENSMUSG00000024127](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024127) | [213760](https://www.ncbi.nlm.nih.gov/gene/213760) | [MGI:2441932](http://www.informatics.jax.org/marker/MGI:2441932) | All phenotypic alleles (2):Targeted, other(1) Gene trapped(1) |
-| Xenopus |  | [100498250](https://www.ncbi.nlm.nih.gov/gene/100498250), [495490](https://www.ncbi.nlm.nih.gov/gene/495490), [100381109](https://www.ncbi.nlm.nih.gov/gene/100381109) | [981634](http://www.xenbase.org/gene/showgene.do?method=display&geneId=981634) |  |
-| Zebrafish | [ENSDARG00000017853](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017853) | [796680](https://www.ncbi.nlm.nih.gov/gene/796680) | [ZFIN:ZDB-GENE-090313-224](https://zfin.org/ZDB-GENE-090313-224) | ZDB-GENE-090313-224 |
+| Xenopus | [ENSXETG00000002751](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002751) | [100498250](https://www.ncbi.nlm.nih.gov/gene/100498250) |  |  |
+| Zebrafish | [ENSDARG00000114415](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114415) | [796680](https://www.ncbi.nlm.nih.gov/gene/796680) | [ZFIN:ZDB-GENE-090313-224](https://zfin.org/ZDB-GENE-090313-224) | proteolysis |
 

@@ -5,12 +5,11 @@ aliases:
 - zinc finger protein 218
 cgnc_id: '5905'
 external_ids:
-  '25': stage 25stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000007809
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419341
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417506
-gene_id: '454728'
+gene_id: '419341'
 gene_type: protein-coding
 images:
 - caption: TSHZ2 expression
@@ -174,13 +173,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R277.TSHZ2.S25.002.jpg
 name: teashirt zinc finger homeobox 2
-ncbi_id: '454728'
+ncbi_id: '419341'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000182463
   entrez: '128553'
   mod: MIM:614118
@@ -191,23 +185,23 @@ orthologs:
   mod: MGI:2153084
   phenotypes: All phenotypic alleles (1):Transposon induced(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000017555
   entrez: '100497744'
-  mod: '486893'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000079201
   entrez: '100332862'
   mod: ZFIN:ZDB-GENE-100322-2
-  phenotypes: ZDB-GENE-100322-2
+  phenotypes: embryonic cranial skeleton morphogenesis, regulation of gene expression
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454728
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419341
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454728
+  url: https://www.ncbi.nlm.nih.gov/gene/419341
 species: Gallus gallus
 symbol: TSHZ2
 title: TSHZ2
@@ -228,9 +222,8 @@ title: TSHZ2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000182463](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000182463) | [128553](https://www.ncbi.nlm.nih.gov/gene/128553) | [MIM:614118](https://omim.org/entry/614118) |  |
 | Mouse | [ENSMUSG00000047907](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000047907) | [228911](https://www.ncbi.nlm.nih.gov/gene/228911) | [MGI:2153084](http://www.informatics.jax.org/marker/MGI:2153084) | All phenotypic alleles (1):Transposon induced(1) |
-| Xenopus |  | [100497744](https://www.ncbi.nlm.nih.gov/gene/100497744) | [486893](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486893) |  |
-| Zebrafish | [ENSDARG00000079201](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079201) | [100332862](https://www.ncbi.nlm.nih.gov/gene/100332862) | [ZFIN:ZDB-GENE-100322-2](https://zfin.org/ZDB-GENE-100322-2) | ZDB-GENE-100322-2 |
+| Xenopus | [ENSXETG00000017555](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017555) | [100497744](https://www.ncbi.nlm.nih.gov/gene/100497744) |  |  |
+| Zebrafish | [ENSDARG00000079201](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079201) | [100332862](https://www.ncbi.nlm.nih.gov/gene/100332862) | [ZFIN:ZDB-GENE-100322-2](https://zfin.org/ZDB-GENE-100322-2) | embryonic cranial skeleton morphogenesis, regulation of gene expression |
 

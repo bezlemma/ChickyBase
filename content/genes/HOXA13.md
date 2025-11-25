@@ -19,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204139
 forward_primer: GAGCCCGCTGTCAAGCAGTG
-gene_id: '459480'
+gene_id: '373934'
 gene_type: protein-coding
 images:
 - caption: HOXA13 expression
@@ -359,42 +359,39 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa13.Yakushiji-Kaminatsui.2018.Fig6.jpg
 name: homeobox A13
-ncbi_id: '459480'
+ncbi_id: '373934'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000106031
   entrez: '3209'
   mod: MIM:142959
   phenotypes: MIM:176305
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000038203
   entrez: '15398'
   mod: MGI:96173
   phenotypes: All phenotypic alleles (6):Spontaneous(1) Targeted, knock-out(2) Targeted,
     other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100497053,378638
-  mod: '479979'
+- ensembl: ENSXETG00000044962
+  entrez: '100497053'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000036254,ENSDARG00000007609
-  entrez: 30438,570239
-  mod: ZFIN:ZDB-GENE-980526-365,ZFIN:ZDB-GENE-990415-5
-  phenotypes: ZDB-GENE-980526-365,ZDB-GENE-990415-5
+- ensembl: ENSDARG00000036254
+  entrez: '30438'
+  mod: ZFIN:ZDB-GENE-980526-365
+  phenotypes: fin development, negative regulation of transcription by RNA polymerase
+    II, regulation of DNA-templated transcription, regulation of transcription by
+    RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGCCGCCGTTTGTCTTTGGTTATG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459480
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373934
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459480
+  url: https://www.ncbi.nlm.nih.gov/gene/373934
 species: Gallus gallus
 symbol: HOXA13
 template_length: '579'
@@ -424,9 +421,8 @@ title: HOXA13
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [3209](https://www.ncbi.nlm.nih.gov/gene/3209) | [MIM:142959](https://omim.org/entry/142959) | MIM:176305 |
-| Mouse |  | [15398](https://www.ncbi.nlm.nih.gov/gene/15398) | [MGI:96173](http://www.informatics.jax.org/marker/MGI:96173) | All phenotypic alleles (6):Spontaneous(1) Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100497053](https://www.ncbi.nlm.nih.gov/gene/100497053), [378638](https://www.ncbi.nlm.nih.gov/gene/378638) | [479979](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479979) |  |
-| Zebrafish | [ENSDARG00000036254](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036254), [ENSDARG00000007609](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007609) | [30438](https://www.ncbi.nlm.nih.gov/gene/30438), [570239](https://www.ncbi.nlm.nih.gov/gene/570239) | [ZFIN:ZDB-GENE-980526-365](https://zfin.org/ZDB-GENE-980526-365), [ZFIN:ZDB-GENE-990415-5](https://zfin.org/ZDB-GENE-990415-5) | ZDB-GENE-980526-365,ZDB-GENE-990415-5 |
+| Human | [ENSG00000106031](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000106031) | [3209](https://www.ncbi.nlm.nih.gov/gene/3209) | [MIM:142959](https://omim.org/entry/142959) | MIM:176305 |
+| Mouse | [ENSMUSG00000038203](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038203) | [15398](https://www.ncbi.nlm.nih.gov/gene/15398) | [MGI:96173](http://www.informatics.jax.org/marker/MGI:96173) | All phenotypic alleles (6):Spontaneous(1) Targeted, knock-out(2) Targeted, other(3) |
+| Xenopus | [ENSXETG00000044962](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044962) | [100497053](https://www.ncbi.nlm.nih.gov/gene/100497053) |  |  |
+| Zebrafish | [ENSDARG00000036254](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036254) | [30438](https://www.ncbi.nlm.nih.gov/gene/30438) | [ZFIN:ZDB-GENE-980526-365](https://zfin.org/ZDB-GENE-980526-365) | fin development, negative regulation of transcription by RNA polymerase II, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

@@ -3,7 +3,6 @@ aliases:
 - homeobox protein Hox-A2
 cgnc_id: '49629'
 external_ids:
-  '19': stage 19
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0009952
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
@@ -17,7 +16,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205150
   X-XIV: stage XII
-gene_id: '459573'
+gene_id: '396055'
 gene_type: protein-coding
 images:
 - caption: HOXA2 expression
@@ -325,37 +324,33 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA2.Trevers.2023-Fig7-6-J.jpg
 name: homeobox A2
-ncbi_id: '459573'
+ncbi_id: '396055'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000105996
+  entrez: '3199'
+  mod: MIM:604685
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000014704
+  entrez: '15399'
+  mod: MGI:96174
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000000716
+  entrez: '100038099'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000023031
+  entrez: '30325'
+  mod: ZFIN:ZDB-GENE-990415-98
+  phenotypes: regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459573
+  url: https://www.ncbi.nlm.nih.gov/gene/396055
 species: Gallus gallus
 symbol: HOXA2
 title: HOXA2
@@ -384,9 +379,8 @@ title: HOXA2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000105996](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000105996) | [3199](https://www.ncbi.nlm.nih.gov/gene/3199) | [MIM:604685](https://omim.org/entry/604685) |  |
+| Mouse | [ENSMUSG00000014704](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000014704) | [15399](https://www.ncbi.nlm.nih.gov/gene/15399) | [MGI:96174](http://www.informatics.jax.org/marker/MGI:96174) |  |
+| Xenopus | [ENSXETG00000000716](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000716) | [100038099](https://www.ncbi.nlm.nih.gov/gene/100038099) |  |  |
+| Zebrafish | [ENSDARG00000023031](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023031) | [30325](https://www.ncbi.nlm.nih.gov/gene/30325) | [ZFIN:ZDB-GENE-990415-98](https://zfin.org/ZDB-GENE-990415-98) | regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

@@ -4,14 +4,13 @@ aliases:
 - propionyl-CoA carboxylase alpha subunit
 cgnc_id: '12663'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/418774
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418774
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416970
 forward_primer: 5’-AATGGGAGAACAAGCAGTAG-3’
-gene_id: '468123'
+gene_id: '418774'
 gene_type: protein-coding
 images:
 - caption: PCCA expression
@@ -61,13 +60,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R680.PCCA.S26.001.jpg
 name: propionyl-CoA carboxylase subunit alpha
-ncbi_id: '468123'
+ncbi_id: '418774'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000175198
   entrez: '5095'
   mod: MIM:232000
@@ -78,24 +72,24 @@ orthologs:
   mod: MGI:97499
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100493552,734347
-  mod: '944986'
+- ensembl: ENSXETG00000020685
+  entrez: '100493552'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000028982
+- ensembl: ENSDARG00000110281
   entrez: '437019'
   mod: ZFIN:ZDB-GENE-040718-246
-  phenotypes: ZDB-GENE-040718-246
+  phenotypes: lipid catabolic process, lipid metabolic process
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTGTTGCCAGTAGTTCTCTTC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468123
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418774
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468123
+  url: https://www.ncbi.nlm.nih.gov/gene/418774
 species: Gallus gallus
 symbol: PCCA
 template_length: '640'
@@ -118,9 +112,8 @@ title: PCCA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000175198](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000175198) | [5095](https://www.ncbi.nlm.nih.gov/gene/5095) | [MIM:232000](https://omim.org/entry/232000) | MIM:606054 |
 | Mouse | [ENSMUSG00000041650](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041650) | [110821](https://www.ncbi.nlm.nih.gov/gene/110821) | [MGI:97499](http://www.informatics.jax.org/marker/MGI:97499) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100493552](https://www.ncbi.nlm.nih.gov/gene/100493552), [734347](https://www.ncbi.nlm.nih.gov/gene/734347) | [944986](http://www.xenbase.org/gene/showgene.do?method=display&geneId=944986) |  |
-| Zebrafish | [ENSDARG00000028982](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028982) | [437019](https://www.ncbi.nlm.nih.gov/gene/437019) | [ZFIN:ZDB-GENE-040718-246](https://zfin.org/ZDB-GENE-040718-246) | ZDB-GENE-040718-246 |
+| Xenopus | [ENSXETG00000020685](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020685) | [100493552](https://www.ncbi.nlm.nih.gov/gene/100493552) |  |  |
+| Zebrafish | [ENSDARG00000110281](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110281) | [437019](https://www.ncbi.nlm.nih.gov/gene/437019) | [ZFIN:ZDB-GENE-040718-246](https://zfin.org/ZDB-GENE-040718-246) | lipid catabolic process, lipid metabolic process |
 

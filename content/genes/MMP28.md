@@ -3,14 +3,13 @@ aliases:
 - matrix metalloproteinase-28
 cgnc_id: '1477'
 external_ids:
-  '25': stage 25stage 25
   Comments: No expression detected stages 2-6
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000002081
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417523
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415771
 forward_primer: TTGATGCCTGTGCCTACTC
-gene_id: '453532'
+gene_id: '417523'
 gene_type: protein-coding
 images:
 - caption: MMP28 expression
@@ -146,14 +145,9 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R450.MMP28.S25A.001.jpg
 name: matrix metallopeptidase 28
-ncbi_id: '453532'
+ncbi_id: '417523'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000271447
+- ensembl: ENSG00000278843
   entrez: '79148'
   mod: MIM:608417
   phenotypes: ''
@@ -164,24 +158,25 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100488826,399016,100037251
-  mod: '984023'
+- ensembl: ENSXETG00000013462
+  entrez: '100488826'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000059029
   entrez: '100005670'
   mod: ZFIN:ZDB-GENE-100226-1
-  phenotypes: ZDB-GENE-100226-1
+  phenotypes: collagen catabolic process, extracellular matrix organization, glial
+    cell development, proteolysis, retina development in camera-type eye
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCTTTCCCCTGTTCCTTCAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453532
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417523
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453532
+  url: https://www.ncbi.nlm.nih.gov/gene/417523
 species: Gallus gallus
 symbol: MMP28
 template_length: '1007'
@@ -205,9 +200,8 @@ title: MMP28
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000271447](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000271447) | [79148](https://www.ncbi.nlm.nih.gov/gene/79148) | [MIM:608417](https://omim.org/entry/608417) |  |
+| Human | [ENSG00000278843](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000278843) | [79148](https://www.ncbi.nlm.nih.gov/gene/79148) | [MIM:608417](https://omim.org/entry/608417) |  |
 | Mouse | [ENSMUSG00000020682](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020682) | [118453](https://www.ncbi.nlm.nih.gov/gene/118453) | [MGI:2153062](http://www.informatics.jax.org/marker/MGI:2153062) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [100488826](https://www.ncbi.nlm.nih.gov/gene/100488826), [399016](https://www.ncbi.nlm.nih.gov/gene/399016), [100037251](https://www.ncbi.nlm.nih.gov/gene/100037251) | [984023](http://www.xenbase.org/gene/showgene.do?method=display&geneId=984023) |  |
-| Zebrafish | [ENSDARG00000059029](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059029) | [100005670](https://www.ncbi.nlm.nih.gov/gene/100005670) | [ZFIN:ZDB-GENE-100226-1](https://zfin.org/ZDB-GENE-100226-1) | ZDB-GENE-100226-1 |
+| Xenopus | [ENSXETG00000013462](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013462) | [100488826](https://www.ncbi.nlm.nih.gov/gene/100488826) |  |  |
+| Zebrafish | [ENSDARG00000059029](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059029) | [100005670](https://www.ncbi.nlm.nih.gov/gene/100005670) | [ZFIN:ZDB-GENE-100226-1](https://zfin.org/ZDB-GENE-100226-1) | collagen catabolic process, extracellular matrix organization, glial cell development, proteolysis, retina development in camera-type eye |
 

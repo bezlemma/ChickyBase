@@ -3,7 +3,6 @@ aliases:
 - POU class 3 homeobox 3
 cgnc_id: '65597'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/sites/entrez/query.fcgi?CMD=search&DB=pubmed&term=Lan+2006+qBrn-1
   Comments: Quail; probably POU3F2 (none yet ID'd in chick).
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -12,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100857422
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641077
-gene_id: '471953'
+gene_id: '100857422'
 gene_type: protein-coding
 images:
 - caption: POU3F4 expression
@@ -203,37 +202,18 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/qBrn-2.imageH'24
 name: POU class 3 homeobox 4
-ncbi_id: '471953'
+ncbi_id: '100857422'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000070220
+  entrez: '30547'
+  mod: ZFIN:ZDB-GENE-980526-139
+  phenotypes: brain development, regulation of DNA-templated transcription, regulation
+    of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/471953
+  url: https://www.ncbi.nlm.nih.gov/gene/100857422
 species: Gallus gallus
 symbol: POU3F4
 title: POU3F4
@@ -259,9 +239,5 @@ title: POU3F4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Zebrafish | [ENSDARG00000070220](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070220) | [30547](https://www.ncbi.nlm.nih.gov/gene/30547) | [ZFIN:ZDB-GENE-980526-139](https://zfin.org/ZDB-GENE-980526-139) | brain development, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

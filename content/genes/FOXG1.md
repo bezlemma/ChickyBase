@@ -9,8 +9,6 @@ aliases:
 - forkhead-related protein FKHL1
 cgnc_id: '49654'
 external_ids:
-  '19': stage 19stage 19
-  '4': stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2012+FreterPax2+Ladher
@@ -24,7 +22,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396110
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205193
-gene_id: '458857'
+gene_id: '396110'
 gene_type: protein-coding
 images:
 - caption: FOXG1 expression
@@ -329,7 +327,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_4_Allimages-3.jpg
 name: forkhead box G1
-ncbi_id: '458857'
+ncbi_id: '396110'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -354,15 +352,15 @@ orthologs:
 - ensembl: ENSDARG00000070769
   entrez: '30274'
   mod: ZFIN:ZDB-GENE-990415-267
-  phenotypes: ZDB-GENE-990415-267
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458857
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396110
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458857
+  url: https://www.ncbi.nlm.nih.gov/gene/396110
 species: Gallus gallus
 symbol: FOXG1
 title: FOXG1
@@ -395,5 +393,5 @@ title: FOXG1
 | Human |  | [2290](https://www.ncbi.nlm.nih.gov/gene/2290) | [MIM:164874](https://omim.org/entry/164874) | MIM:613454 |
 | Mouse | [ENSMUSG00000020950](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020950) | [15228](https://www.ncbi.nlm.nih.gov/gene/15228) | [MGI:1347464](http://www.informatics.jax.org/marker/MGI:1347464) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
 | Xenopus |  | [100144706](https://www.ncbi.nlm.nih.gov/gene/100144706), [373732](https://www.ncbi.nlm.nih.gov/gene/373732) | [480075](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480075) |  |
-| Zebrafish | [ENSDARG00000070769](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070769) | [30274](https://www.ncbi.nlm.nih.gov/gene/30274) | [ZFIN:ZDB-GENE-990415-267](https://zfin.org/ZDB-GENE-990415-267) | ZDB-GENE-990415-267 |
+| Zebrafish | [ENSDARG00000070769](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070769) | [30274](https://www.ncbi.nlm.nih.gov/gene/30274) | [ZFIN:ZDB-GENE-990415-267](https://zfin.org/ZDB-GENE-990415-267) |  |
 

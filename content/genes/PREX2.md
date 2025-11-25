@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420172
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418285
 forward_primer: GAGTATGGAGTGGTTTACGAG
-gene_id: '457117'
+gene_id: '420172'
 gene_type: protein-coding
 images:
 - caption: PREX2 expression
@@ -106,41 +106,37 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R404.PREX2.S27.001.jpg
 name: phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 2
-ncbi_id: '457117'
+ncbi_id: '420172'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000046889
   entrez: '80243'
   mod: MIM:612139
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000048960
+  entrez: '109294'
+  mod: MGI:1923385
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000030673
   entrez: '100490424'
-  mod: '6048677'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000071692
   entrez: '557288'
   mod: ZFIN:ZDB-GENE-091113-37
-  phenotypes: ZDB-GENE-091113-37
+  phenotypes: G protein-coupled receptor signaling pathway, intracellular signal transduction,
+    negative regulation of TOR signaling, signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGG TTCTTTCCGTTCCTTTCCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457117
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420172
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457117
+  url: https://www.ncbi.nlm.nih.gov/gene/420172
 species: Gallus gallus
 symbol: PREX2
 template_length: '800'
@@ -164,9 +160,8 @@ title: PREX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [80243](https://www.ncbi.nlm.nih.gov/gene/80243) | [MIM:612139](https://omim.org/entry/612139) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100490424](https://www.ncbi.nlm.nih.gov/gene/100490424) | [6048677](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6048677) |  |
-| Zebrafish | [ENSDARG00000071692](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071692) | [557288](https://www.ncbi.nlm.nih.gov/gene/557288) | [ZFIN:ZDB-GENE-091113-37](https://zfin.org/ZDB-GENE-091113-37) | ZDB-GENE-091113-37 |
+| Human | [ENSG00000046889](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000046889) | [80243](https://www.ncbi.nlm.nih.gov/gene/80243) | [MIM:612139](https://omim.org/entry/612139) |  |
+| Mouse | [ENSMUSG00000048960](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048960) | [109294](https://www.ncbi.nlm.nih.gov/gene/109294) | [MGI:1923385](http://www.informatics.jax.org/marker/MGI:1923385) |  |
+| Xenopus | [ENSXETG00000030673](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000030673) | [100490424](https://www.ncbi.nlm.nih.gov/gene/100490424) |  |  |
+| Zebrafish | [ENSDARG00000071692](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071692) | [557288](https://www.ncbi.nlm.nih.gov/gene/557288) | [ZFIN:ZDB-GENE-091113-37](https://zfin.org/ZDB-GENE-091113-37) | G protein-coupled receptor signaling pathway, intracellular signal transduction, negative regulation of TOR signaling, signal transduction |
 

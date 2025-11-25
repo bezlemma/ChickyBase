@@ -7,9 +7,6 @@ aliases:
 - snail homolog 2, Slug, Snail-2
 cgnc_id: '54314'
 external_ids:
-  '31': stage 31stage 31
-  '4': stage 4stage 4stage 4stage 4stage 4
-  '7': stage 7stage 7
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0001981
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=del+Barrio+Nieto+2002+Slug
   Comments: Insufficient information provided in publication to verify exact sequence
@@ -23,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:432368
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419196
   X-XIV: stage XII
-gene_id: '452263'
+gene_id: '432368'
 gene_type: protein-coding
 images:
 - caption: SNAI2 expression
@@ -922,13 +919,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slug.delBarrio.2002.Fig3.jpg
 name: snail family transcriptional repressor 2
-ncbi_id: '452263'
+ncbi_id: '432368'
 orthologs:
-- ensembl: ''
-  entrez: '34903'
-  mod: FBgn0001981
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000019549
   entrez: '6591'
   mod: MIM:602150
@@ -939,23 +931,23 @@ orthologs:
   mod: MGI:1096393
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 395065,398235,379440
-  mod: '487370'
+- ensembl: ENSXETG00000024006
+  entrez: '395065'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000040046
   entrez: '494038'
   mod: ZFIN:ZDB-GENE-030326-6
-  phenotypes: ZDB-GENE-030326-6
+  phenotypes: regulation of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452263
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=432368
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452263
+  url: https://www.ncbi.nlm.nih.gov/gene/432368
 species: Gallus gallus
 symbol: SNAI2
 title: SNAI2
@@ -983,9 +975,8 @@ title: SNAI2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34903](https://www.ncbi.nlm.nih.gov/gene/34903) | FBgn0001981 |  |
 | Human | [ENSG00000019549](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000019549) | [6591](https://www.ncbi.nlm.nih.gov/gene/6591) | [MIM:602150](https://omim.org/entry/602150) | MIM:602150 |
 | Mouse | [ENSMUSG00000022676](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022676) | [20583](https://www.ncbi.nlm.nih.gov/gene/20583) | [MGI:1096393](http://www.informatics.jax.org/marker/MGI:1096393) | All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2) |
-| Xenopus |  | [395065](https://www.ncbi.nlm.nih.gov/gene/395065), [398235](https://www.ncbi.nlm.nih.gov/gene/398235), [379440](https://www.ncbi.nlm.nih.gov/gene/379440) | [487370](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487370) |  |
-| Zebrafish | [ENSDARG00000040046](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040046) | [494038](https://www.ncbi.nlm.nih.gov/gene/494038) | [ZFIN:ZDB-GENE-030326-6](https://zfin.org/ZDB-GENE-030326-6) | ZDB-GENE-030326-6 |
+| Xenopus | [ENSXETG00000024006](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000024006) | [395065](https://www.ncbi.nlm.nih.gov/gene/395065) |  |  |
+| Zebrafish | [ENSDARG00000040046](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040046) | [494038](https://www.ncbi.nlm.nih.gov/gene/494038) | [ZFIN:ZDB-GENE-030326-6](https://zfin.org/ZDB-GENE-030326-6) | regulation of DNA-templated transcription |
 

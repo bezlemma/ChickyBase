@@ -3,13 +3,12 @@ aliases:
 - fer3-like protein
 cgnc_id: '8252'
 external_ids:
-  '25': stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000010862
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428429
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425989
 forward_primer: CGCTTCCCTACTGGACAGACCC
-gene_id: '461713'
+gene_id: '428429'
 gene_type: protein-coding
 images:
 - caption: FERD3L expression
@@ -86,16 +85,11 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R261.FERD3L.S25.001.jpg
 name: Fer3 like bHLH transcription factor
-ncbi_id: '461713'
+ncbi_id: '428429'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000146618
   entrez: '222894'
-  mod: ''
+  mod: MIM:617578
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000046518
@@ -103,24 +97,14 @@ orthologs:
   mod: MGI:2150010
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: '100124312'
-  mod: '983143'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ZFIN:ZDB-GENE-081104-461
-  phenotypes: ZDB-GENE-081104-461
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCTCGCCTCCTGCCTGCTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461713
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428429
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461713
+  url: https://www.ncbi.nlm.nih.gov/gene/428429
 species: Gallus gallus
 symbol: FERD3L
 template_length: '244'
@@ -142,9 +126,6 @@ title: FERD3L
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000146618](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000146618) | [222894](https://www.ncbi.nlm.nih.gov/gene/222894) |  |  |
+| Human | [ENSG00000146618](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000146618) | [222894](https://www.ncbi.nlm.nih.gov/gene/222894) | [MIM:617578](https://omim.org/entry/617578) |  |
 | Mouse | [ENSMUSG00000046518](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000046518) | [114712](https://www.ncbi.nlm.nih.gov/gene/114712) | [MGI:2150010](http://www.informatics.jax.org/marker/MGI:2150010) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100124312](https://www.ncbi.nlm.nih.gov/gene/100124312) | [983143](http://www.xenbase.org/gene/showgene.do?method=display&geneId=983143) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-081104-461](https://zfin.org/ZDB-GENE-081104-461) | ZDB-GENE-081104-461 |
 

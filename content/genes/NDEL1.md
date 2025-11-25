@@ -18,7 +18,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417317
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030696
-gene_id: '454131'
+gene_id: '417317'
 gene_type: protein-coding
 images:
 - caption: NDEL1 expression
@@ -36,13 +36,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_5_ALLIMAGES-7.jpg
 name: nudE neurodevelopment protein 1-like 1
-ncbi_id: '454131'
+ncbi_id: '417317'
 orthologs:
-- ensembl: ''
-  entrez: '39169'
-  mod: FBgn0036059
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000166579
   entrez: '81565'
   mod: MIM:607538
@@ -53,20 +48,21 @@ orthologs:
   mod: MGI:1932915
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 548955,444761,447537
-  mod: '989303'
+- ensembl: ENSXETG00000016342
+  entrez: '548955'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000038190,ENSDARG00000010953
-  entrez: 333957,394244
-  mod: ZFIN:ZDB-GENE-030131-5889,ZFIN:ZDB-GENE-040115-2
-  phenotypes: ZDB-GENE-030131-5889,ZDB-GENE-040115-2
+- ensembl: ENSDARG00000010953
+  entrez: '394244'
+  mod: ZFIN:ZDB-GENE-040115-2
+  phenotypes: cell migration, centrosome localization, chromosome localization, chromosome
+    segregation, establishment of mitotic spindle orientation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454131
+  url: https://www.ncbi.nlm.nih.gov/gene/417317
 species: Gallus gallus
 symbol: NDEL1
 title: NDEL1
@@ -96,9 +92,8 @@ title: NDEL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39169](https://www.ncbi.nlm.nih.gov/gene/39169) | FBgn0036059 |  |
 | Human | [ENSG00000166579](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166579) | [81565](https://www.ncbi.nlm.nih.gov/gene/81565) | [MIM:607538](https://omim.org/entry/607538) |  |
 | Mouse | [ENSMUSG00000018736](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018736) | [83431](https://www.ncbi.nlm.nih.gov/gene/83431) | [MGI:1932915](http://www.informatics.jax.org/marker/MGI:1932915) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [548955](https://www.ncbi.nlm.nih.gov/gene/548955), [444761](https://www.ncbi.nlm.nih.gov/gene/444761), [447537](https://www.ncbi.nlm.nih.gov/gene/447537) | [989303](http://www.xenbase.org/gene/showgene.do?method=display&geneId=989303) |  |
-| Zebrafish | [ENSDARG00000038190](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038190), [ENSDARG00000010953](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010953) | [333957](https://www.ncbi.nlm.nih.gov/gene/333957), [394244](https://www.ncbi.nlm.nih.gov/gene/394244) | [ZFIN:ZDB-GENE-030131-5889](https://zfin.org/ZDB-GENE-030131-5889), [ZFIN:ZDB-GENE-040115-2](https://zfin.org/ZDB-GENE-040115-2) | ZDB-GENE-030131-5889,ZDB-GENE-040115-2 |
+| Xenopus | [ENSXETG00000016342](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016342) | [548955](https://www.ncbi.nlm.nih.gov/gene/548955) |  |  |
+| Zebrafish | [ENSDARG00000010953](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010953) | [394244](https://www.ncbi.nlm.nih.gov/gene/394244) | [ZFIN:ZDB-GENE-040115-2](https://zfin.org/ZDB-GENE-040115-2) | cell migration, centrosome localization, chromosome localization, chromosome segregation, establishment of mitotic spindle orientation |
 

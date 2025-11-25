@@ -123,7 +123,7 @@ orthologs:
 - ensembl: ''
   entrez: '405764'
   mod: ZFIN:ZDB-GENE-040702-4
-  phenotypes: ZDB-GENE-040702-4
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGGTTGCCTTGAATCCTGTCC
 sources:
@@ -160,5 +160,5 @@ title: BLNK
 | Human | [ENSG00000095585](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000095585) | [29760](https://www.ncbi.nlm.nih.gov/gene/29760) | [MIM:604515](https://omim.org/entry/604515) | MIM:613502 |
 | Mouse | [ENSMUSG00000061132](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061132) | [17060](https://www.ncbi.nlm.nih.gov/gene/17060) | [MGI:96878](http://www.informatics.jax.org/marker/MGI:96878) | All phenotypic alleles (7):Chemically induced(1) Targeted, knock-out(4) Targeted, other(2) |
 | Xenopus |  | [548350](https://www.ncbi.nlm.nih.gov/gene/548350), [398328](https://www.ncbi.nlm.nih.gov/gene/398328) | [946365](http://www.xenbase.org/gene/showgene.do?method=display&geneId=946365) |  |
-| Zebrafish |  | [405764](https://www.ncbi.nlm.nih.gov/gene/405764) | [ZFIN:ZDB-GENE-040702-4](https://zfin.org/ZDB-GENE-040702-4) | ZDB-GENE-040702-4 |
+| Zebrafish |  | [405764](https://www.ncbi.nlm.nih.gov/gene/405764) | [ZFIN:ZDB-GENE-040702-4](https://zfin.org/ZDB-GENE-040702-4) |  |
 

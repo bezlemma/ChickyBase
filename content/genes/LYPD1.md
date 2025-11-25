@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100859784
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641592
-gene_id: '474315'
+gene_id: '100859784'
 gene_type: protein-coding
 images:
 - caption: LYPD1 expression
@@ -39,37 +39,22 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LYPD1.Anderson.2019.Supplementary
     figure 5D.jpg
 name: LY6/PLAUR domain containing 1
-ncbi_id: '474315'
+ncbi_id: '100859784'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000150551
+  entrez: '116372'
+  mod: MIM:610450
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000026344
+  entrez: '72585'
+  mod: MGI:1919835
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/474315
+  url: https://www.ncbi.nlm.nih.gov/gene/100859784
 species: Gallus gallus
 symbol: LYPD1
 title: LYPD1
@@ -95,9 +80,6 @@ title: LYPD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000150551](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000150551) | [116372](https://www.ncbi.nlm.nih.gov/gene/116372) | [MIM:610450](https://omim.org/entry/610450) |  |
+| Mouse | [ENSMUSG00000026344](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026344) | [72585](https://www.ncbi.nlm.nih.gov/gene/72585) | [MGI:1919835](http://www.informatics.jax.org/marker/MGI:1919835) |  |
 

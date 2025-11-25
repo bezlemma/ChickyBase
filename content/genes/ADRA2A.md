@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428980
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426537
   X-XIV: stage XII
-gene_id: '455415'
+gene_id: '428980'
 gene_type: protein-coding
 images:
 - caption: ADRA2A expression
@@ -158,40 +158,32 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADRA2A_HH24_x15.jpg
 name: adrenoceptor alpha 2A
-ncbi_id: '455415'
+ncbi_id: '428980'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000150594
+  entrez: '150'
+  mod: MIM:104210
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000033717
+  entrez: '11551'
+  mod: MGI:87934
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000040841
+  entrez: '266750'
+  mod: ZFIN:ZDB-GENE-021010-1
+  phenotypes: G protein-coupled receptor signaling pathway, adenylate cyclase-inhibiting
+    adrenergic receptor signaling pathway, negative regulation of norepinephrine secretion,
+    signal transduction
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455415
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428980
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455415
+  url: https://www.ncbi.nlm.nih.gov/gene/428980
 species: Gallus gallus
 symbol: ADRA2A
 title: ADRA2A
@@ -215,9 +207,7 @@ title: ADRA2A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000150594](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000150594) | [150](https://www.ncbi.nlm.nih.gov/gene/150) | [MIM:104210](https://omim.org/entry/104210) |  |
+| Mouse | [ENSMUSG00000033717](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033717) | [11551](https://www.ncbi.nlm.nih.gov/gene/11551) | [MGI:87934](http://www.informatics.jax.org/marker/MGI:87934) |  |
+| Zebrafish | [ENSDARG00000040841](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040841) | [266750](https://www.ncbi.nlm.nih.gov/gene/266750) | [ZFIN:ZDB-GENE-021010-1](https://zfin.org/ZDB-GENE-021010-1) | G protein-coupled receptor signaling pathway, adenylate cyclase-inhibiting adrenergic receptor signaling pathway, negative regulation of norepinephrine secretion, signal transduction |
 

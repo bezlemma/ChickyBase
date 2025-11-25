@@ -3,7 +3,6 @@ aliases:
 - ETS-related transcription factor Elf-1
 cgnc_id: '50862'
 external_ids:
-  '25': stage 25
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Trevers et al. 2023.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -13,7 +12,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006269
   X-XIV: stage XIII
 forward_primer: TGAACAACCAAAGAAGAAAAAGGGG
-gene_id: '454261'
+gene_id: '418828'
 gene_type: protein-coding
 images:
 - caption: ELF1 expression
@@ -133,13 +132,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ELF1.Trevers.2023-Fig7-5-N.jpg
 name: E74 like ETS transcription factor 1
-ncbi_id: '454261'
+ncbi_id: '418828'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000120690
   entrez: '1997'
   mod: MIM:189973
@@ -150,24 +144,26 @@ orthologs:
   mod: MGI:107180
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 780315,495059
-  mod: '492874'
+- ensembl: ENSXETG00000018893
+  entrez: '780315'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000020759
   entrez: '30396'
   mod: ZFIN:ZDB-GENE-980526-335
-  phenotypes: ZDB-GENE-980526-335
+  phenotypes: cell differentiation, positive regulation of DNA-templated transcription,
+    regulation of DNA-templated transcription, regulation of transcription by RNA
+    polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCTGCTGGAATCTCTGCTCGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454261
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418828
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454261
+  url: https://www.ncbi.nlm.nih.gov/gene/418828
 species: Gallus gallus
 symbol: ELF1
 template_length: '1289'
@@ -192,9 +188,8 @@ title: ELF1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000120690](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000120690) | [1997](https://www.ncbi.nlm.nih.gov/gene/1997) | [MIM:189973](https://omim.org/entry/189973) |  |
 | Mouse | [ENSMUSG00000036461](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036461) | [13709](https://www.ncbi.nlm.nih.gov/gene/13709) | [MGI:107180](http://www.informatics.jax.org/marker/MGI:107180) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [780315](https://www.ncbi.nlm.nih.gov/gene/780315), [495059](https://www.ncbi.nlm.nih.gov/gene/495059) | [492874](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492874) |  |
-| Zebrafish | [ENSDARG00000020759](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020759) | [30396](https://www.ncbi.nlm.nih.gov/gene/30396) | [ZFIN:ZDB-GENE-980526-335](https://zfin.org/ZDB-GENE-980526-335) | ZDB-GENE-980526-335 |
+| Xenopus | [ENSXETG00000018893](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018893) | [780315](https://www.ncbi.nlm.nih.gov/gene/780315) |  |  |
+| Zebrafish | [ENSDARG00000020759](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020759) | [30396](https://www.ncbi.nlm.nih.gov/gene/30396) | [ZFIN:ZDB-GENE-980526-335](https://zfin.org/ZDB-GENE-980526-335) | cell differentiation, positive regulation of DNA-templated transcription, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

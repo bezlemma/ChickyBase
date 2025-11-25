@@ -16,7 +16,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204917
   X-XIV: stage XII
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/ETV1
-gene_id: '450371'
+gene_id: '395748'
 gene_type: protein-coding
 images:
 - caption: ETV1 expression
@@ -147,13 +147,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ETV1.Travers.2023-Fig7-1-N.jpg
 name: ETS variant 1
-ncbi_id: '450371'
+ncbi_id: '395748'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000006468
   entrez: '2115'
   mod: MIM:600541
@@ -164,20 +159,22 @@ orthologs:
   mod: MGI:99254
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 394827,398358
-  mod: '489878'
+- ensembl: ENSXETG00000005062
+  entrez: '394827'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000055183
+- ensembl: ENSDARG00000101959
   entrez: '563876'
   mod: ZFIN:ZDB-GENE-070104-1
-  phenotypes: ZDB-GENE-070104-1
+  phenotypes: cell differentiation, enteric nervous system development, positive regulation
+    of DNA-templated transcription, regulation of DNA-templated transcription, regulation
+    of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450371
+  url: https://www.ncbi.nlm.nih.gov/gene/395748
 species: Gallus gallus
 symbol: ETV1
 title: ETV1
@@ -204,9 +201,8 @@ title: ETV1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000006468](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000006468) | [2115](https://www.ncbi.nlm.nih.gov/gene/2115) | [MIM:600541](https://omim.org/entry/600541) |  |
 | Mouse | [ENSMUSG00000004151](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000004151) | [14009](https://www.ncbi.nlm.nih.gov/gene/14009) | [MGI:99254](http://www.informatics.jax.org/marker/MGI:99254) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [394827](https://www.ncbi.nlm.nih.gov/gene/394827), [398358](https://www.ncbi.nlm.nih.gov/gene/398358) | [489878](http://www.xenbase.org/gene/showgene.do?method=display&geneId=489878) |  |
-| Zebrafish | [ENSDARG00000055183](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055183) | [563876](https://www.ncbi.nlm.nih.gov/gene/563876) | [ZFIN:ZDB-GENE-070104-1](https://zfin.org/ZDB-GENE-070104-1) | ZDB-GENE-070104-1 |
+| Xenopus | [ENSXETG00000005062](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005062) | [394827](https://www.ncbi.nlm.nih.gov/gene/394827) |  |  |
+| Zebrafish | [ENSDARG00000101959](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101959) | [563876](https://www.ncbi.nlm.nih.gov/gene/563876) | [ZFIN:ZDB-GENE-070104-1](https://zfin.org/ZDB-GENE-070104-1) | cell differentiation, enteric nervous system development, positive regulation of DNA-templated transcription, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

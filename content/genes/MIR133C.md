@@ -7,7 +7,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018300
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NC_006110
-gene_id: '467908'
+gene_id: '777859'
 gene_type: miscRNA
 images:
 - caption: MIR133C expression
@@ -18,7 +18,7 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/133c.12.st111021.jpg
 name: microRNA 133c
-ncbi_id: '467908'
+ncbi_id: '777859'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -48,10 +48,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467908
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777859
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467908
+  url: https://www.ncbi.nlm.nih.gov/gene/777859
 species: Gallus gallus
 symbol: MIR133C
 title: MIR133C

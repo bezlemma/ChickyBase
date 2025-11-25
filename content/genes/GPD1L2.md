@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424263
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422110
-gene_id: '461305'
+gene_id: '424263'
 gene_type: protein-coding
 images:
 - caption: GPD1L2 expression
@@ -62,37 +62,18 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F4.gpd1.png
 name: glycerol-3-phosphate dehydrogenase 1-like 2
-ncbi_id: '461305'
+ncbi_id: '424263'
 orthologs:
-- ensembl: ''
-  entrez: '33824'
-  mod: FBgn0001128
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000167588
-  entrez: '2819'
-  mod: MIM:138420
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000023019
-  entrez: '14555'
-  mod: MGI:95679
-  phenotypes: All phenotypic alleles (3):Spontaneous(1) Targeted, other(2)
-  species: Mouse
-- ensembl: ''
-  entrez: 448519,399227
-  mod: '1003322'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000043701,ENSDARG00000043180
-  entrez: 550404,325181
-  mod: ZFIN:ZDB-GENE-050417-209,ZFIN:ZDB-GENE-030131-3906
-  phenotypes: ZDB-GENE-050417-209,ZDB-GENE-030131-3906
+- ensembl: ENSDARG00000036942
+  entrez: '406615'
+  mod: ZFIN:ZDB-GENE-040426-2576
+  phenotypes: carbohydrate metabolic process, glycerol-3-phosphate catabolic process,
+    glycerol-3-phosphate metabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461305
+  url: https://www.ncbi.nlm.nih.gov/gene/424263
 species: Gallus gallus
 symbol: GPD1L2
 title: GPD1L2
@@ -120,9 +101,5 @@ title: GPD1L2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33824](https://www.ncbi.nlm.nih.gov/gene/33824) | FBgn0001128 |  |
-| Human | [ENSG00000167588](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000167588) | [2819](https://www.ncbi.nlm.nih.gov/gene/2819) | [MIM:138420](https://omim.org/entry/138420) |  |
-| Mouse | [ENSMUSG00000023019](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023019) | [14555](https://www.ncbi.nlm.nih.gov/gene/14555) | [MGI:95679](http://www.informatics.jax.org/marker/MGI:95679) | All phenotypic alleles (3):Spontaneous(1) Targeted, other(2) |
-| Xenopus |  | [448519](https://www.ncbi.nlm.nih.gov/gene/448519), [399227](https://www.ncbi.nlm.nih.gov/gene/399227) | [1003322](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1003322) |  |
-| Zebrafish | [ENSDARG00000043701](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043701), [ENSDARG00000043180](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043180) | [550404](https://www.ncbi.nlm.nih.gov/gene/550404), [325181](https://www.ncbi.nlm.nih.gov/gene/325181) | [ZFIN:ZDB-GENE-050417-209](https://zfin.org/ZDB-GENE-050417-209), [ZFIN:ZDB-GENE-030131-3906](https://zfin.org/ZDB-GENE-030131-3906) | ZDB-GENE-050417-209,ZDB-GENE-030131-3906 |
+| Zebrafish | [ENSDARG00000036942](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036942) | [406615](https://www.ncbi.nlm.nih.gov/gene/406615) | [ZFIN:ZDB-GENE-040426-2576](https://zfin.org/ZDB-GENE-040426-2576) | carbohydrate metabolic process, glycerol-3-phosphate catabolic process, glycerol-3-phosphate metabolic process |
 

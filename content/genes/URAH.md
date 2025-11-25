@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415859
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414218
 forward_primer: 5’-TGGCACCTATAAACTGCAC-3’
-gene_id: '459121'
+gene_id: '415859'
 gene_type: protein-coding
 images:
 - caption: URAH expression
@@ -200,41 +200,31 @@ images:
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R685.URAH.D15.002.jpg
 name: 5-hydroxyisourate hydrolase
-ncbi_id: '459121'
+ncbi_id: '415859'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
 - ensembl: ENSMUSG00000025481
   entrez: '76974'
   mod: MGI:1916142
   phenotypes: All phenotypic alleles (3):Chemically induced(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000038782
+  entrez: '100489904'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000068644
+- ensembl: ENSDARG00000100719
   entrez: '751742'
   mod: ZFIN:ZDB-GENE-060825-253
-  phenotypes: ZDB-GENE-060825-253
+  phenotypes: purine nucleobase metabolic process, urate catabolic process
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGATGTGCCTTGCCTTAACTG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459121
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415859
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459121
+  url: https://www.ncbi.nlm.nih.gov/gene/415859
 species: Gallus gallus
 symbol: URAH
 template_length: '181'
@@ -257,9 +247,7 @@ title: URAH
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
 | Mouse | [ENSMUSG00000025481](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025481) | [76974](https://www.ncbi.nlm.nih.gov/gene/76974) | [MGI:1916142](http://www.informatics.jax.org/marker/MGI:1916142) | All phenotypic alleles (3):Chemically induced(1) Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000068644](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068644) | [751742](https://www.ncbi.nlm.nih.gov/gene/751742) | [ZFIN:ZDB-GENE-060825-253](https://zfin.org/ZDB-GENE-060825-253) | ZDB-GENE-060825-253 |
+| Xenopus | [ENSXETG00000038782](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000038782) | [100489904](https://www.ncbi.nlm.nih.gov/gene/100489904) |  |  |
+| Zebrafish | [ENSDARG00000100719](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000100719) | [751742](https://www.ncbi.nlm.nih.gov/gene/751742) | [ZFIN:ZDB-GENE-060825-253](https://zfin.org/ZDB-GENE-060825-253) | purine nucleobase metabolic process, urate catabolic process |
 

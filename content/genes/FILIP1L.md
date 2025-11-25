@@ -3,14 +3,13 @@ aliases:
 - filamin A-interacting protein 1-like
 cgnc_id: '11367'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/769163
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769163
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640468
 forward_primer: 5’-TGCAACTTCTCAGCTCCAGG-3’
-gene_id: '462452'
+gene_id: '769163'
 gene_type: protein-coding
 images:
 - caption: FILIP1L expression
@@ -76,41 +75,36 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R670.FILIP1L.S25V.001.jpg
 name: filamin A interacting protein 1 like
-ncbi_id: '462452'
+ncbi_id: '769163'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000168386
+  entrez: '11259'
+  mod: MIM:612993
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000043336
+  entrez: '78749'
+  mod: MGI:1925999
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000030953
+  entrez: '100493507'
   mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+  entrez: '100004879'
+  mod: ZFIN:ZDB-GENE-070410-7
+  phenotypes: biological_process, protein localization to actin cytoskeleton
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGTGCAAGTCAGATATCCGCCG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462452
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=769163
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462452
+  url: https://www.ncbi.nlm.nih.gov/gene/769163
 species: Gallus gallus
 symbol: FILIP1L
 template_length: '819'
@@ -133,9 +127,8 @@ title: FILIP1L
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000168386](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000168386) | [11259](https://www.ncbi.nlm.nih.gov/gene/11259) | [MIM:612993](https://omim.org/entry/612993) |  |
+| Mouse | [ENSMUSG00000043336](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000043336) | [78749](https://www.ncbi.nlm.nih.gov/gene/78749) | [MGI:1925999](http://www.informatics.jax.org/marker/MGI:1925999) |  |
+| Xenopus | [ENSXETG00000030953](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000030953) | [100493507](https://www.ncbi.nlm.nih.gov/gene/100493507) |  |  |
+| Zebrafish |  | [100004879](https://www.ncbi.nlm.nih.gov/gene/100004879) | [ZFIN:ZDB-GENE-070410-7](https://zfin.org/ZDB-GENE-070410-7) | biological_process, protein localization to actin cytoskeleton |
 

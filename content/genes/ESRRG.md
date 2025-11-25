@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421357
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001007081
   X-XIV: stage XIII
-gene_id: '457274'
+gene_id: '421357'
 gene_type: protein-coding
 images:
 - caption: ESRRG expression
@@ -100,13 +100,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ESRRG.Trevers.2023-Fig7-5-P.jpg
 name: estrogen related receptor gamma
-ncbi_id: '457274'
+ncbi_id: '421357'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000196482
   entrez: '2104'
   mod: MIM:602969
@@ -117,23 +112,25 @@ orthologs:
   mod: MGI:1347056
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000020932
   entrez: '100101684'
-  mod: '486171'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000004861,ENSDARG00000011696
-  entrez: 405890,407691
-  mod: ZFIN:ZDB-GENE-030821-2,ZFIN:ZDB-GENE-040616-4
-  phenotypes: ZDB-GENE-030821-2,ZDB-GENE-040616-4
+- ensembl: ENSDARG00000004861
+  entrez: '405890'
+  mod: ZFIN:ZDB-GENE-030821-2
+  phenotypes: DNA-templated transcription, otic vesicle development, regulation of
+    DNA-templated transcription, regulation of macromolecule biosynthetic process,
+    regulation of nucleobase-containing compound metabolic process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457274
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421357
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457274
+  url: https://www.ncbi.nlm.nih.gov/gene/421357
 species: Gallus gallus
 symbol: ESRRG
 title: ESRRG
@@ -157,9 +154,8 @@ title: ESRRG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000196482](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000196482) | [2104](https://www.ncbi.nlm.nih.gov/gene/2104) | [MIM:602969](https://omim.org/entry/602969) |  |
 | Mouse | [ENSMUSG00000026610](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026610) | [26381](https://www.ncbi.nlm.nih.gov/gene/26381) | [MGI:1347056](http://www.informatics.jax.org/marker/MGI:1347056) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100101684](https://www.ncbi.nlm.nih.gov/gene/100101684) | [486171](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486171) |  |
-| Zebrafish | [ENSDARG00000004861](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004861), [ENSDARG00000011696](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011696) | [405890](https://www.ncbi.nlm.nih.gov/gene/405890), [407691](https://www.ncbi.nlm.nih.gov/gene/407691) | [ZFIN:ZDB-GENE-030821-2](https://zfin.org/ZDB-GENE-030821-2), [ZFIN:ZDB-GENE-040616-4](https://zfin.org/ZDB-GENE-040616-4) | ZDB-GENE-030821-2,ZDB-GENE-040616-4 |
+| Xenopus | [ENSXETG00000020932](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020932) | [100101684](https://www.ncbi.nlm.nih.gov/gene/100101684) |  |  |
+| Zebrafish | [ENSDARG00000004861](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004861) | [405890](https://www.ncbi.nlm.nih.gov/gene/405890) | [ZFIN:ZDB-GENE-030821-2](https://zfin.org/ZDB-GENE-030821-2) | DNA-templated transcription, otic vesicle development, regulation of DNA-templated transcription, regulation of macromolecule biosynthetic process, regulation of nucleobase-containing compound metabolic process |
 

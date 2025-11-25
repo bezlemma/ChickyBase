@@ -6,7 +6,6 @@ aliases:
 - gamma polypeptide, fibrinogen, gamma chain
 cgnc_id: '7041'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=
     Yanai + Tatsumi + Endo +2005
   Comments: Images and probe sequence provided by Claire Anderson. The probe was synthesized
@@ -18,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395837
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204989
 forward_primer: 5’-TGAGTCACACTGCCAGGAAC-3’
-gene_id: '450055'
+gene_id: '395837'
 gene_type: protein-coding
 images:
 - caption: FGG expression
@@ -192,13 +191,8 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HH12_FGG_s10.jpg
 name: fibrinogen gamma chain
-ncbi_id: '450055'
+ncbi_id: '395837'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000171557
   entrez: '2266'
   mod: MIM:134850
@@ -209,24 +203,25 @@ orthologs:
   mod: MGI:95526
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100038189,380331
-  mod: '478354'
+- ensembl: ENSXETG00000022415
+  entrez: '100038189'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000037281
+- ensembl: ENSDARG00000114705
   entrez: '406327'
   mod: ZFIN:ZDB-GENE-040426-1998
-  phenotypes: ZDB-GENE-040426-1998
+  phenotypes: blood coagulation, blood coagulation, fibrin clot formation, cell-matrix
+    adhesion, hemostasis, platelet activation
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGCCATTGAGGTGACCAGCATG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450055
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395837
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450055
+  url: https://www.ncbi.nlm.nih.gov/gene/395837
 species: Gallus gallus
 symbol: FGG
 template_length: '645'
@@ -253,9 +248,8 @@ title: FGG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000171557](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171557) | [2266](https://www.ncbi.nlm.nih.gov/gene/2266) | [MIM:134850](https://omim.org/entry/134850) | MIM:134850 |
 | Mouse | [ENSMUSG00000033860](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033860) | [99571](https://www.ncbi.nlm.nih.gov/gene/99571) | [MGI:95526](http://www.informatics.jax.org/marker/MGI:95526) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [100038189](https://www.ncbi.nlm.nih.gov/gene/100038189), [380331](https://www.ncbi.nlm.nih.gov/gene/380331) | [478354](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478354) |  |
-| Zebrafish | [ENSDARG00000037281](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037281) | [406327](https://www.ncbi.nlm.nih.gov/gene/406327) | [ZFIN:ZDB-GENE-040426-1998](https://zfin.org/ZDB-GENE-040426-1998) | ZDB-GENE-040426-1998 |
+| Xenopus | [ENSXETG00000022415](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022415) | [100038189](https://www.ncbi.nlm.nih.gov/gene/100038189) |  |  |
+| Zebrafish | [ENSDARG00000114705](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114705) | [406327](https://www.ncbi.nlm.nih.gov/gene/406327) | [ZFIN:ZDB-GENE-040426-1998](https://zfin.org/ZDB-GENE-040426-1998) | blood coagulation, blood coagulation, fibrin clot formation, cell-matrix adhesion, hemostasis, platelet activation |
 

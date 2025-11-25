@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420519
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005198
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001048076
-gene_id: '456920'
+gene_id: '420519'
 gene_type: protein-coding
 images:
 - caption: VIM expression
@@ -35,13 +35,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VIM.Anderson.2019.Supplementary
     figure 4E.jpg
 name: vimentin
-ncbi_id: '456920'
+ncbi_id: '420519'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000026025
   entrez: '7431'
   mod: MIM:193060
@@ -52,20 +47,20 @@ orthologs:
   mod: MGI:98932
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: '100495820'
-  mod: '920287'
+- ensembl: ENSXETG00000007462
+  entrez: '496727'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000010008
   entrez: '140599'
   mod: ZFIN:ZDB-GENE-011212-3
-  phenotypes: ZDB-GENE-011212-3
+  phenotypes: intermediate filament organization, wound healing
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456920
+  url: https://www.ncbi.nlm.nih.gov/gene/420519
 species: Gallus gallus
 symbol: VIM
 title: VIM
@@ -93,9 +88,8 @@ title: VIM
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000026025](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000026025) | [7431](https://www.ncbi.nlm.nih.gov/gene/7431) | [MIM:193060](https://omim.org/entry/193060) | MIM:193060 |
 | Mouse | [ENSMUSG00000026728](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026728) | [22352](https://www.ncbi.nlm.nih.gov/gene/22352) | [MGI:98932](http://www.informatics.jax.org/marker/MGI:98932) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100495820](https://www.ncbi.nlm.nih.gov/gene/100495820) | [920287](http://www.xenbase.org/gene/showgene.do?method=display&geneId=920287) |  |
-| Zebrafish | [ENSDARG00000010008](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010008) | [140599](https://www.ncbi.nlm.nih.gov/gene/140599) | [ZFIN:ZDB-GENE-011212-3](https://zfin.org/ZDB-GENE-011212-3) | ZDB-GENE-011212-3 |
+| Xenopus | [ENSXETG00000007462](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007462) | [496727](https://www.ncbi.nlm.nih.gov/gene/496727) |  |  |
+| Zebrafish | [ENSDARG00000010008](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010008) | [140599](https://www.ncbi.nlm.nih.gov/gene/140599) | [ZFIN:ZDB-GENE-011212-3](https://zfin.org/ZDB-GENE-011212-3) | intermediate filament organization, wound healing |
 

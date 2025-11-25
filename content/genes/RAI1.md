@@ -10,7 +10,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425237
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/RAI1
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGAAGGAGAAACTGCCTGAAAACC
-gene_id: '391807'
+gene_id: '427664'
 gene_type: protein-coding
 images:
 - caption: RAI1 expression
@@ -98,13 +98,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R214.RAI1.S24.001.jpg
 name: retinoic acid induced 1
-ncbi_id: '391807'
+ncbi_id: '427664'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000108557
   entrez: '10743'
   mod: MIM:607642
@@ -115,24 +110,19 @@ orthologs:
   mod: MGI:103291
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000041193
   entrez: '100487671'
-  mod: '987625'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: 100332881,100333007
-  mod: ZFIN:ZDB-GENE-101203-2
-  phenotypes: ZDB-GENE-101203-2
-  species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCCGCTCGTTGGTCACATACTTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=391807
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427664
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/391807
+  url: https://www.ncbi.nlm.nih.gov/gene/427664
 species: Gallus gallus
 symbol: RAI1
 template_length: '514'
@@ -156,9 +146,7 @@ title: RAI1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000108557](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000108557) | [10743](https://www.ncbi.nlm.nih.gov/gene/10743) | [MIM:607642](https://omim.org/entry/607642) | MIM:182290 |
 | Mouse | [ENSMUSG00000062115](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000062115) | [19377](https://www.ncbi.nlm.nih.gov/gene/19377) | [MGI:103291](http://www.informatics.jax.org/marker/MGI:103291) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100487671](https://www.ncbi.nlm.nih.gov/gene/100487671) | [987625](http://www.xenbase.org/gene/showgene.do?method=display&geneId=987625) |  |
-| Zebrafish |  | [100332881](https://www.ncbi.nlm.nih.gov/gene/100332881), [100333007](https://www.ncbi.nlm.nih.gov/gene/100333007) | [ZFIN:ZDB-GENE-101203-2](https://zfin.org/ZDB-GENE-101203-2) | ZDB-GENE-101203-2 |
+| Xenopus | [ENSXETG00000041193](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041193) | [100487671](https://www.ncbi.nlm.nih.gov/gene/100487671) |  |  |
 

@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:404296
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_206979
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/GRIN1
-gene_id: '457185'
+gene_id: '404296'
 gene_type: protein-coding
 images:
 - caption: GRIN1 expression
@@ -98,13 +98,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tang.2007.f7.nr1.png
 name: glutamate ionotropic receptor NMDA type subunit 1
-ncbi_id: '457185'
+ncbi_id: '404296'
 orthologs:
-- ensembl: ''
-  entrez: '40665'
-  mod: FBgn0010399
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000176884
   entrez: '2902'
   mod: MIM:138249
@@ -116,20 +111,22 @@ orthologs:
   phenotypes: All phenotypic alleles (27):Chemically induced(1) Targeted, knock-out(7)
     Targeted, other(19)
   species: Mouse
-- ensembl: ''
-  entrez: 780048,397953
-  mod: '494199'
+- ensembl: ENSXETG00000022933
+  entrez: '780048'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000025728,ENSDARG00000027828
-  entrez: 100005675,767745
-  mod: ZFIN:ZDB-GENE-051202-2,ZFIN:ZDB-GENE-051202-1
-  phenotypes: ZDB-GENE-051202-2,ZDB-GENE-051202-1
+- ensembl: ENSDARG00000025728
+  entrez: '100005675'
+  mod: ZFIN:ZDB-GENE-051202-2
+  phenotypes: calcium ion transmembrane transport, chemical synaptic transmission,
+    ionotropic glutamate receptor signaling pathway, monoatomic ion transmembrane
+    transport, monoatomic ion transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457185
+  url: https://www.ncbi.nlm.nih.gov/gene/404296
 species: Gallus gallus
 symbol: GRIN1
 title: GRIN1
@@ -158,9 +155,8 @@ title: GRIN1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40665](https://www.ncbi.nlm.nih.gov/gene/40665) | FBgn0010399 |  |
 | Human | [ENSG00000176884](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000176884) | [2902](https://www.ncbi.nlm.nih.gov/gene/2902) | [MIM:138249](https://omim.org/entry/138249) |  |
 | Mouse | [ENSMUSG00000026959](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026959) | [14810](https://www.ncbi.nlm.nih.gov/gene/14810) | [MGI:95819](http://www.informatics.jax.org/marker/MGI:95819) | All phenotypic alleles (27):Chemically induced(1) Targeted, knock-out(7) Targeted, other(19) |
-| Xenopus |  | [780048](https://www.ncbi.nlm.nih.gov/gene/780048), [397953](https://www.ncbi.nlm.nih.gov/gene/397953) | [494199](http://www.xenbase.org/gene/showgene.do?method=display&geneId=494199) |  |
-| Zebrafish | [ENSDARG00000025728](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025728), [ENSDARG00000027828](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027828) | [100005675](https://www.ncbi.nlm.nih.gov/gene/100005675), [767745](https://www.ncbi.nlm.nih.gov/gene/767745) | [ZFIN:ZDB-GENE-051202-2](https://zfin.org/ZDB-GENE-051202-2), [ZFIN:ZDB-GENE-051202-1](https://zfin.org/ZDB-GENE-051202-1) | ZDB-GENE-051202-2,ZDB-GENE-051202-1 |
+| Xenopus | [ENSXETG00000022933](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022933) | [780048](https://www.ncbi.nlm.nih.gov/gene/780048) |  |  |
+| Zebrafish | [ENSDARG00000025728](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025728) | [100005675](https://www.ncbi.nlm.nih.gov/gene/100005675) | [ZFIN:ZDB-GENE-051202-2](https://zfin.org/ZDB-GENE-051202-2) | calcium ion transmembrane transport, chemical synaptic transmission, ionotropic glutamate receptor signaling pathway, monoatomic ion transmembrane transport, monoatomic ion transport |
 

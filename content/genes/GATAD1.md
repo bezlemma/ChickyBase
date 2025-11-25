@@ -3,7 +3,6 @@ aliases:
 - GATA zinc finger domain-containing protein 1
 cgnc_id: '7147'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0025634
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/31013
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420551
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277498
 forward_primer: 5’-TTTCCACGAAGGGCAAAG-3’
-gene_id: '456994'
+gene_id: '420551'
 gene_type: protein-coding
 images:
 - caption: GATAD1 expression
@@ -58,14 +57,9 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R694.GATAD1.S25.001.jpg
 name: GATA zinc finger domain containing 1
-ncbi_id: '456994'
+ncbi_id: '420551'
 orthologs:
-- ensembl: ''
-  entrez: '31013'
-  mod: FBgn0025634
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000157259
   entrez: '57798'
   mod: MIM:614518
   phenotypes: ''
@@ -75,24 +69,24 @@ orthologs:
   mod: MGI:1914460
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100125784,380295
-  mod: '965953'
+- ensembl: ENSXETG00000018528
+  entrez: '100125784'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000027612
   entrez: '678617'
   mod: ZFIN:ZDB-GENE-050629-1
-  phenotypes: ZDB-GENE-050629-1
+  phenotypes: chromatin organization, regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGAACTGGTCCAAAGCGTTC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456994
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420551
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456994
+  url: https://www.ncbi.nlm.nih.gov/gene/420551
 species: Gallus gallus
 symbol: GATAD1
 template_length: '510'
@@ -117,9 +111,8 @@ title: GATAD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31013](https://www.ncbi.nlm.nih.gov/gene/31013) | FBgn0025634 |  |
-| Human |  | [57798](https://www.ncbi.nlm.nih.gov/gene/57798) | [MIM:614518](https://omim.org/entry/614518) |  |
+| Human | [ENSG00000157259](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000157259) | [57798](https://www.ncbi.nlm.nih.gov/gene/57798) | [MIM:614518](https://omim.org/entry/614518) |  |
 | Mouse | [ENSMUSG00000007415](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000007415) | [67210](https://www.ncbi.nlm.nih.gov/gene/67210) | [MGI:1914460](http://www.informatics.jax.org/marker/MGI:1914460) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100125784](https://www.ncbi.nlm.nih.gov/gene/100125784), [380295](https://www.ncbi.nlm.nih.gov/gene/380295) | [965953](http://www.xenbase.org/gene/showgene.do?method=display&geneId=965953) |  |
-| Zebrafish | [ENSDARG00000027612](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027612) | [678617](https://www.ncbi.nlm.nih.gov/gene/678617) | [ZFIN:ZDB-GENE-050629-1](https://zfin.org/ZDB-GENE-050629-1) | ZDB-GENE-050629-1 |
+| Xenopus | [ENSXETG00000018528](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018528) | [100125784](https://www.ncbi.nlm.nih.gov/gene/100125784) |  |  |
+| Zebrafish | [ENSDARG00000027612](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027612) | [678617](https://www.ncbi.nlm.nih.gov/gene/678617) | [ZFIN:ZDB-GENE-050629-1](https://zfin.org/ZDB-GENE-050629-1) | chromatin organization, regulation of DNA-templated transcription |
 

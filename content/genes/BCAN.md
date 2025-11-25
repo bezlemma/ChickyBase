@@ -3,7 +3,6 @@ aliases:
 - brevican core protein
 cgnc_id: '52630'
 external_ids:
-  '25': stage 25stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=domowicz+sanders+glia+astrocyte
   Comments: The probe shown was generated using PCR and degenerate primers based on
     sequences of the mammalian orthologs. Authors indicated the clone was XP_423655,
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:425976
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423655
 forward_primer: TGCCATCAGTGCCAGCATTG
-gene_id: '450383'
+gene_id: '425976'
 gene_type: protein-coding
 images:
 - caption: BCAN expression
@@ -126,13 +125,8 @@ images:
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BCAN whole picture.png
 name: brevican
-ncbi_id: '450383'
+ncbi_id: '425976'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000132692
   entrez: '63827'
   mod: MIM:600347
@@ -143,24 +137,24 @@ orthologs:
   mod: MGI:1096385
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: '398229'
-  mod: '5829330'
+- ensembl: ENSXETG00000019908
+  entrez: '100486298'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000016736
+- ensembl: ENSDARG00000099412
   entrez: '334113'
   mod: ZFIN:ZDB-GENE-030131-6045
-  phenotypes: ZDB-GENE-030131-6045
+  phenotypes: cell adhesion, central nervous system development, skeletal system development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAAGAGTTTGTCCCTTCTCGGTAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450383
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=425976
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450383
+  url: https://www.ncbi.nlm.nih.gov/gene/425976
 species: Gallus gallus
 symbol: BCAN
 template_length: '539'
@@ -187,9 +181,8 @@ title: BCAN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000132692](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000132692) | [63827](https://www.ncbi.nlm.nih.gov/gene/63827) | [MIM:600347](https://omim.org/entry/600347) |  |
 | Mouse | [ENSMUSG00000004892](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000004892) | [12032](https://www.ncbi.nlm.nih.gov/gene/12032) | [MGI:1096385](http://www.informatics.jax.org/marker/MGI:1096385) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [398229](https://www.ncbi.nlm.nih.gov/gene/398229) | [5829330](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5829330) |  |
-| Zebrafish | [ENSDARG00000016736](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016736) | [334113](https://www.ncbi.nlm.nih.gov/gene/334113) | [ZFIN:ZDB-GENE-030131-6045](https://zfin.org/ZDB-GENE-030131-6045) | ZDB-GENE-030131-6045 |
+| Xenopus | [ENSXETG00000019908](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019908) | [100486298](https://www.ncbi.nlm.nih.gov/gene/100486298) |  |  |
+| Zebrafish | [ENSDARG00000099412](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099412) | [334113](https://www.ncbi.nlm.nih.gov/gene/334113) | [ZFIN:ZDB-GENE-030131-6045](https://zfin.org/ZDB-GENE-030131-6045) | cell adhesion, central nervous system development, skeletal system development |
 

@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:431192
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640931
 forward_primer: TGAAGCAAGCAATAACAGCCCTAC
-gene_id: '448937'
+gene_id: '431192'
 gene_type: protein-coding
 images:
 - caption: SOS1 expression
@@ -90,41 +90,31 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R399.SOS1.S26V.001.jpg
 name: SOS Ras/Rac guanine nucleotide exchange factor 1
-ncbi_id: '448937'
+ncbi_id: '431192'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000115904
+  entrez: '6654'
+  mod: MIM:182530
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000024241
+  entrez: '20662'
+  mod: MGI:98354
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000008386
+  entrez: '100489960'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGTCTCCATTCTCCATAGCAATACG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448937
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=431192
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448937
+  url: https://www.ncbi.nlm.nih.gov/gene/431192
 species: Gallus gallus
 symbol: SOS1
 template_length: '885'
@@ -146,9 +136,7 @@ title: SOS1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000115904](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000115904) | [6654](https://www.ncbi.nlm.nih.gov/gene/6654) | [MIM:182530](https://omim.org/entry/182530) |  |
+| Mouse | [ENSMUSG00000024241](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024241) | [20662](https://www.ncbi.nlm.nih.gov/gene/20662) | [MGI:98354](http://www.informatics.jax.org/marker/MGI:98354) |  |
+| Xenopus | [ENSXETG00000008386](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008386) | [100489960](https://www.ncbi.nlm.nih.gov/gene/100489960) |  |  |
 

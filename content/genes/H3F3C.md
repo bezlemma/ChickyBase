@@ -49,7 +49,7 @@ orthologs:
 - ensembl: ''
   entrez: '368227'
   mod: ZFIN:ZDB-GENE-030722-8
-  phenotypes: ZDB-GENE-030722-8
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
@@ -88,5 +88,5 @@ title: H3F3C
 | Human | [ENSG00000183598](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000183598) | [333932](https://www.ncbi.nlm.nih.gov/gene/333932), [126961](https://www.ncbi.nlm.nih.gov/gene/126961), [653604](https://www.ncbi.nlm.nih.gov/gene/653604) | [MIM:142780](https://omim.org/entry/142780) |  |
 | Mouse | [ENSMUSG00000093769](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000093769) | [15077](https://www.ncbi.nlm.nih.gov/gene/15077) | [MGI:2448355](http://www.informatics.jax.org/marker/MGI:2448355) |  |
 | Xenopus |  | [100492367](https://www.ncbi.nlm.nih.gov/gene/100492367), [444503](https://www.ncbi.nlm.nih.gov/gene/444503), [549390](https://www.ncbi.nlm.nih.gov/gene/549390), [100049126](https://www.ncbi.nlm.nih.gov/gene/100049126) | [855977](http://www.xenbase.org/gene/showgene.do?method=display&geneId=855977), [5889770](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5889770) |  |
-| Zebrafish |  | [368227](https://www.ncbi.nlm.nih.gov/gene/368227) | [ZFIN:ZDB-GENE-030722-8](https://zfin.org/ZDB-GENE-030722-8) | ZDB-GENE-030722-8 |
+| Zebrafish |  | [368227](https://www.ncbi.nlm.nih.gov/gene/368227) | [ZFIN:ZDB-GENE-030722-8](https://zfin.org/ZDB-GENE-030722-8) |  |
 

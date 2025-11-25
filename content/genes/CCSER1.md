@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422518
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420481
 forward_primer: TGACGGAGGATTCTGTTTCGG
-gene_id: '451134'
+gene_id: '422518'
 gene_type: protein-coding
 images:
 - caption: CCSER1 expression
@@ -101,16 +101,11 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.FAM190A.S24.001.jpg
 name: coiled-coil serine rich protein 1
-ncbi_id: '451134'
+ncbi_id: '422518'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000184305
   entrez: '401145'
-  mod: ''
+  mod: MIM:618934
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000039578
@@ -118,24 +113,24 @@ orthologs:
   mod: MGI:3045354
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000038781
   entrez: '100488162'
-  mod: '6044978'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000075919
   entrez: '795160'
   mod: ZFIN:ZDB-GENE-081104-422
-  phenotypes: ZDB-GENE-081104-422
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGAGGTTCTGTTTAGACGCTTCAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451134
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422518
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451134
+  url: https://www.ncbi.nlm.nih.gov/gene/422518
 species: Gallus gallus
 symbol: CCSER1
 template_length: '929'
@@ -158,9 +153,8 @@ title: CCSER1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000184305](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000184305) | [401145](https://www.ncbi.nlm.nih.gov/gene/401145) |  |  |
+| Human | [ENSG00000184305](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000184305) | [401145](https://www.ncbi.nlm.nih.gov/gene/401145) | [MIM:618934](https://omim.org/entry/618934) |  |
 | Mouse | [ENSMUSG00000039578](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039578) | [232035](https://www.ncbi.nlm.nih.gov/gene/232035) | [MGI:3045354](http://www.informatics.jax.org/marker/MGI:3045354) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100488162](https://www.ncbi.nlm.nih.gov/gene/100488162) | [6044978](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6044978) |  |
-| Zebrafish |  | [795160](https://www.ncbi.nlm.nih.gov/gene/795160) | [ZFIN:ZDB-GENE-081104-422](https://zfin.org/ZDB-GENE-081104-422) | ZDB-GENE-081104-422 |
+| Xenopus | [ENSXETG00000038781](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000038781) | [100488162](https://www.ncbi.nlm.nih.gov/gene/100488162) |  |  |
+| Zebrafish | [ENSDARG00000075919](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075919) | [795160](https://www.ncbi.nlm.nih.gov/gene/795160) | [ZFIN:ZDB-GENE-081104-422](https://zfin.org/ZDB-GENE-081104-422) |  |
 

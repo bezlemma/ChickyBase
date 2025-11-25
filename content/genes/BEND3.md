@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421778
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419805
 forward_primer: TGCCATTCCCCATTTCTGC
-gene_id: '454926'
+gene_id: '421778'
 gene_type: protein-coding
 images:
 - caption: BEND3 expression
@@ -85,16 +85,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BEND3.S26AA.001.jpg
 name: BEN domain containing 3
-ncbi_id: '454926'
+ncbi_id: '421778'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000178409
   entrez: '57673'
-  mod: ''
+  mod: MIM:616374
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000038214
@@ -104,22 +99,23 @@ orthologs:
   species: Mouse
 - ensembl: ''
   entrez: '100490658'
-  mod: '6051070'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000076903
   entrez: '565716'
   mod: ZFIN:ZDB-GENE-090312-181
-  phenotypes: ZDB-GENE-090312-181
+  phenotypes: negative regulation of transcription by RNA polymerase II, rDNA heterochromatin
+    formation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCTGTAGCACTTCATTCCATCCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454926
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421778
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454926
+  url: https://www.ncbi.nlm.nih.gov/gene/421778
 species: Gallus gallus
 symbol: BEND3
 template_length: '744'
@@ -141,9 +137,8 @@ title: BEND3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000178409](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000178409) | [57673](https://www.ncbi.nlm.nih.gov/gene/57673) |  |  |
+| Human | [ENSG00000178409](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000178409) | [57673](https://www.ncbi.nlm.nih.gov/gene/57673) | [MIM:616374](https://omim.org/entry/616374) |  |
 | Mouse | [ENSMUSG00000038214](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038214) | [331623](https://www.ncbi.nlm.nih.gov/gene/331623) | [MGI:2677212](http://www.informatics.jax.org/marker/MGI:2677212) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100490658](https://www.ncbi.nlm.nih.gov/gene/100490658) | [6051070](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6051070) |  |
-| Zebrafish | [ENSDARG00000076903](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076903) | [565716](https://www.ncbi.nlm.nih.gov/gene/565716) | [ZFIN:ZDB-GENE-090312-181](https://zfin.org/ZDB-GENE-090312-181) | ZDB-GENE-090312-181 |
+| Xenopus |  | [100490658](https://www.ncbi.nlm.nih.gov/gene/100490658) |  |  |
+| Zebrafish | [ENSDARG00000076903](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076903) | [565716](https://www.ncbi.nlm.nih.gov/gene/565716) | [ZFIN:ZDB-GENE-090312-181](https://zfin.org/ZDB-GENE-090312-181) | negative regulation of transcription by RNA polymerase II, rDNA heterochromatin formation |
 

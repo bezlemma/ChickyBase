@@ -3,7 +3,6 @@ aliases:
 - Smad-interacting protein 1
 cgnc_id: '9449'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Dady+2012+Duband
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (NM_001318466
@@ -17,7 +16,7 @@ external_ids:
   X-XIV: stage XIII
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/ZEB2
 forward_primer: GAACCCATTCAGTGCCAAACC
-gene_id: '450664'
+gene_id: '424306'
 gene_type: protein-coding
 images:
 - caption: ZEB2 expression
@@ -465,13 +464,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZEB2.Trevers.2023-Fig7-4-K.jpg
 name: zinc finger E-box binding homeobox 2
-ncbi_id: '450664'
+ncbi_id: '424306'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000169554
   entrez: '9839'
   mod: MIM:605802
@@ -482,24 +476,26 @@ orthologs:
   mod: MGI:1344407
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100492834,100049718
-  mod: '479557'
+- ensembl: ENSXETG00000000237
+  entrez: '100492834'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000078416,ENSDARG00000062338
-  entrez: 564934,100003889
-  mod: ZFIN:ZDB-GENE-080717-1,ZFIN:ZDB-GENE-070912-553
-  phenotypes: ZDB-GENE-080717-1,ZDB-GENE-070912-553
+- ensembl: ENSDARG00000078416
+  entrez: '564934'
+  mod: ZFIN:ZDB-GENE-080717-1
+  phenotypes: central nervous system development, convergent extension involved in
+    axis elongation, dorsal convergence, dorsal/ventral pattern formation, intrahepatic
+    bile duct development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCCATCTTCCGAACTATCGTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450664
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424306
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450664
+  url: https://www.ncbi.nlm.nih.gov/gene/424306
 species: Gallus gallus
 symbol: ZEB2
 template_length: '934'
@@ -527,9 +523,8 @@ title: ZEB2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000169554](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169554) | [9839](https://www.ncbi.nlm.nih.gov/gene/9839) | [MIM:605802](https://omim.org/entry/605802) | MIM:235730 |
 | Mouse | [ENSMUSG00000026872](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026872) | [24136](https://www.ncbi.nlm.nih.gov/gene/24136) | [MGI:1344407](http://www.informatics.jax.org/marker/MGI:1344407) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100492834](https://www.ncbi.nlm.nih.gov/gene/100492834), [100049718](https://www.ncbi.nlm.nih.gov/gene/100049718) | [479557](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479557) |  |
-| Zebrafish | [ENSDARG00000078416](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078416), [ENSDARG00000062338](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062338) | [564934](https://www.ncbi.nlm.nih.gov/gene/564934), [100003889](https://www.ncbi.nlm.nih.gov/gene/100003889) | [ZFIN:ZDB-GENE-080717-1](https://zfin.org/ZDB-GENE-080717-1), [ZFIN:ZDB-GENE-070912-553](https://zfin.org/ZDB-GENE-070912-553) | ZDB-GENE-080717-1,ZDB-GENE-070912-553 |
+| Xenopus | [ENSXETG00000000237](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000237) | [100492834](https://www.ncbi.nlm.nih.gov/gene/100492834) |  |  |
+| Zebrafish | [ENSDARG00000078416](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078416) | [564934](https://www.ncbi.nlm.nih.gov/gene/564934) | [ZFIN:ZDB-GENE-080717-1](https://zfin.org/ZDB-GENE-080717-1) | central nervous system development, convergent extension involved in axis elongation, dorsal convergence, dorsal/ventral pattern formation, intrahepatic bile duct development |
 

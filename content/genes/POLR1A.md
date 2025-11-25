@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422910
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420851
-gene_id: '452367'
+gene_id: '422910'
 gene_type: protein-coding
 images:
 - caption: POLR1A expression
@@ -244,16 +244,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R454.POLR1A.S26.001.jpg
 name: RNA polymerase I subunit A
-ncbi_id: '452367'
+ncbi_id: '422910'
 orthologs:
-- ensembl: ''
-  entrez: '36617'
-  mod: FBgn0019938
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000068654
   entrez: '25885'
-  mod: ''
+  mod: MIM:616404
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000049553
@@ -261,23 +256,25 @@ orthologs:
   mod: MGI:1096397
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100158635,398274
-  mod: '1005159'
+- ensembl: ENSXETG00000001952
+  entrez: '100158635'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000029172
+- ensembl: ENSDARG00000098375
   entrez: '327078'
   mod: ZFIN:ZDB-GENE-030131-5286
-  phenotypes: ZDB-GENE-030131-5286
+  phenotypes: DNA-templated transcription, embryonic viscerocranium morphogenesis,
+    neural crest cell development, nucleolar large rRNA transcription by RNA polymerase
+    I, rRNA transcription
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452367
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422910
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452367
+  url: https://www.ncbi.nlm.nih.gov/gene/422910
 species: Gallus gallus
 symbol: POLR1A
 title: POLR1A
@@ -300,9 +297,8 @@ title: POLR1A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36617](https://www.ncbi.nlm.nih.gov/gene/36617) | FBgn0019938 |  |
-| Human | [ENSG00000068654](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000068654) | [25885](https://www.ncbi.nlm.nih.gov/gene/25885) |  |  |
+| Human | [ENSG00000068654](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000068654) | [25885](https://www.ncbi.nlm.nih.gov/gene/25885) | [MIM:616404](https://omim.org/entry/616404) |  |
 | Mouse | [ENSMUSG00000049553](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049553) | [20019](https://www.ncbi.nlm.nih.gov/gene/20019) | [MGI:1096397](http://www.informatics.jax.org/marker/MGI:1096397) |  |
-| Xenopus |  | [100158635](https://www.ncbi.nlm.nih.gov/gene/100158635), [398274](https://www.ncbi.nlm.nih.gov/gene/398274) | [1005159](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1005159) |  |
-| Zebrafish | [ENSDARG00000029172](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029172) | [327078](https://www.ncbi.nlm.nih.gov/gene/327078) | [ZFIN:ZDB-GENE-030131-5286](https://zfin.org/ZDB-GENE-030131-5286) | ZDB-GENE-030131-5286 |
+| Xenopus | [ENSXETG00000001952](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001952) | [100158635](https://www.ncbi.nlm.nih.gov/gene/100158635) |  |  |
+| Zebrafish | [ENSDARG00000098375](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098375) | [327078](https://www.ncbi.nlm.nih.gov/gene/327078) | [ZFIN:ZDB-GENE-030131-5286](https://zfin.org/ZDB-GENE-030131-5286) | DNA-templated transcription, embryonic viscerocranium morphogenesis, neural crest cell development, nucleolar large rRNA transcription by RNA polymerase I, rRNA transcription |
 

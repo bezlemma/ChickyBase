@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396309
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277097
 forward_primer: TTGCTATGGAAATCTTGCCCC
-gene_id: '461401'
+gene_id: '396309'
 gene_type: protein-coding
 images:
 - caption: ANK3 expression
@@ -115,13 +115,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.ANK3.S26AAA.001.jpg
 name: ankyrin 3
-ncbi_id: '461401'
+ncbi_id: '396309'
 orthologs:
-- ensembl: ''
-  entrez: '43770'
-  mod: FBgn0011747
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000151150
   entrez: '288'
   mod: MIM:600465
@@ -132,24 +127,24 @@ orthologs:
   mod: MGI:88026
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000003121
   entrez: '100216211'
-  mod: '989432'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000061736,ENSDARG00000077582
-  entrez: 794638,100320407,100126016
-  mod: ZFIN:ZDB-GENE-060418-1,ZFIN:ZDB-GENE-060621-1,ZFIN:ZDB-GENE-060621-2
-  phenotypes: ZDB-GENE-060418-1,ZDB-GENE-060621-1,ZDB-GENE-060621-2
+- ensembl: ''
+  entrez: '100126016'
+  mod: ZFIN:ZDB-GENE-060621-2
+  phenotypes: protein localization to plasma membrane, signal transduction
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGTGAGGATGCTGATGTGATGACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461401
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396309
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461401
+  url: https://www.ncbi.nlm.nih.gov/gene/396309
 species: Gallus gallus
 symbol: ANK3
 template_length: '905'
@@ -173,9 +168,8 @@ title: ANK3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43770](https://www.ncbi.nlm.nih.gov/gene/43770) | FBgn0011747 |  |
 | Human | [ENSG00000151150](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000151150) | [288](https://www.ncbi.nlm.nih.gov/gene/288) | [MIM:600465](https://omim.org/entry/600465) |  |
 | Mouse | [ENSMUSG00000069601](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000069601) | [11735](https://www.ncbi.nlm.nih.gov/gene/11735) | [MGI:88026](http://www.informatics.jax.org/marker/MGI:88026) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100216211](https://www.ncbi.nlm.nih.gov/gene/100216211) | [989432](http://www.xenbase.org/gene/showgene.do?method=display&geneId=989432) |  |
-| Zebrafish | [ENSDARG00000061736](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061736), [ENSDARG00000077582](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077582) | [794638](https://www.ncbi.nlm.nih.gov/gene/794638), [100320407](https://www.ncbi.nlm.nih.gov/gene/100320407), [100126016](https://www.ncbi.nlm.nih.gov/gene/100126016) | [ZFIN:ZDB-GENE-060418-1](https://zfin.org/ZDB-GENE-060418-1), [ZFIN:ZDB-GENE-060621-1](https://zfin.org/ZDB-GENE-060621-1), [ZFIN:ZDB-GENE-060621-2](https://zfin.org/ZDB-GENE-060621-2) | ZDB-GENE-060418-1,ZDB-GENE-060621-1,ZDB-GENE-060621-2 |
+| Xenopus | [ENSXETG00000003121](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003121) | [100216211](https://www.ncbi.nlm.nih.gov/gene/100216211) |  |  |
+| Zebrafish |  | [100126016](https://www.ncbi.nlm.nih.gov/gene/100126016) | [ZFIN:ZDB-GENE-060621-2](https://zfin.org/ZDB-GENE-060621-2) | protein localization to plasma membrane, signal transduction |
 

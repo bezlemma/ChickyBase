@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373901
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006095.3?report=genbank&from=14664289&to=14678127&strand=true
-gene_id: '459403'
+gene_id: '373901'
 gene_type: protein-coding
 images:
 - caption: LMO4 expression
@@ -273,13 +273,8 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferronha.2013.LM04.B.HH14.jpg
 name: LIM domain only 4
-ncbi_id: '459403'
+ncbi_id: '373901'
 orthologs:
-- ensembl: ''
-  entrez: '34361'
-  mod: FBgn0032196
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000143013
   entrez: '8543'
   mod: MIM:603129
@@ -290,23 +285,24 @@ orthologs:
   mod: MGI:109360
   phenotypes: All phenotypic alleles (13):Targeted, knock-out(3) Targeted, other(10)
   species: Mouse
-- ensembl: ''
-  entrez: 448304,447751
-  mod: '971938'
+- ensembl: ENSXETG00000023295
+  entrez: '448304'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000054749,ENSDARG00000013853
-  entrez: 324849,114412
-  mod: ZFIN:ZDB-GENE-030131-3570,ZFIN:ZDB-GENE-010702-1
-  phenotypes: ZDB-GENE-030131-3570,ZDB-GENE-010702-1
+- ensembl: ENSDARG00000115402
+  entrez: '324849'
+  mod: ZFIN:ZDB-GENE-030131-3570
+  phenotypes: positive regulation of transcription by RNA polymerase II, regulation
+    of developmental process, tissue development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459403
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373901
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459403
+  url: https://www.ncbi.nlm.nih.gov/gene/373901
 species: Gallus gallus
 symbol: LMO4
 title: LMO4
@@ -335,9 +331,8 @@ title: LMO4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34361](https://www.ncbi.nlm.nih.gov/gene/34361) | FBgn0032196 |  |
 | Human | [ENSG00000143013](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143013) | [8543](https://www.ncbi.nlm.nih.gov/gene/8543) | [MIM:603129](https://omim.org/entry/603129) |  |
 | Mouse | [ENSMUSG00000028266](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028266) | [16911](https://www.ncbi.nlm.nih.gov/gene/16911) | [MGI:109360](http://www.informatics.jax.org/marker/MGI:109360) | All phenotypic alleles (13):Targeted, knock-out(3) Targeted, other(10) |
-| Xenopus |  | [448304](https://www.ncbi.nlm.nih.gov/gene/448304), [447751](https://www.ncbi.nlm.nih.gov/gene/447751) | [971938](http://www.xenbase.org/gene/showgene.do?method=display&geneId=971938) |  |
-| Zebrafish | [ENSDARG00000054749](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054749), [ENSDARG00000013853](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013853) | [324849](https://www.ncbi.nlm.nih.gov/gene/324849), [114412](https://www.ncbi.nlm.nih.gov/gene/114412) | [ZFIN:ZDB-GENE-030131-3570](https://zfin.org/ZDB-GENE-030131-3570), [ZFIN:ZDB-GENE-010702-1](https://zfin.org/ZDB-GENE-010702-1) | ZDB-GENE-030131-3570,ZDB-GENE-010702-1 |
+| Xenopus | [ENSXETG00000023295](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023295) | [448304](https://www.ncbi.nlm.nih.gov/gene/448304) |  |  |
+| Zebrafish | [ENSDARG00000115402](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115402) | [324849](https://www.ncbi.nlm.nih.gov/gene/324849) | [ZFIN:ZDB-GENE-030131-3570](https://zfin.org/ZDB-GENE-030131-3570) | positive regulation of transcription by RNA polymerase II, regulation of developmental process, tissue development |
 

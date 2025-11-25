@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:404294
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_206977
 forward_primer: TTTGAACTCATCGTTGGGCTGGCG
-gene_id: '462837'
+gene_id: '100857840'
 gene_type: protein-coding
 images:
 - caption: ADAM20 expression
@@ -95,41 +95,26 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R484.ADAM20.S26AA.001.jpg
 name: ADAM metallopeptidase domain 20
-ncbi_id: '462837'
+ncbi_id: '100857840'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000134007
-  entrez: '8748'
-  mod: MIM:603712
+- ensembl: ENSG00000139985
+  entrez: '8747'
+  mod: MIM:603713
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000008438
+  entrez: '56622'
+  mod: MGI:1861229
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCACGGTAGCAGTAACCATTGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462837
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100857840
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462837
+  url: https://www.ncbi.nlm.nih.gov/gene/100857840
 species: Gallus gallus
 symbol: ADAM20
 template_length: '614'
@@ -151,9 +136,6 @@ title: ADAM20
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000134007](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134007) | [8748](https://www.ncbi.nlm.nih.gov/gene/8748) | [MIM:603712](https://omim.org/entry/603712) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000139985](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139985) | [8747](https://www.ncbi.nlm.nih.gov/gene/8747) | [MIM:603713](https://omim.org/entry/603713) |  |
+| Mouse | [ENSMUSG00000008438](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000008438) | [56622](https://www.ncbi.nlm.nih.gov/gene/56622) | [MGI:1861229](http://www.informatics.jax.org/marker/MGI:1861229) |  |
 

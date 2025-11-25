@@ -5,7 +5,6 @@ aliases:
 - somatomedin
 cgnc_id: '9671'
 external_ids:
-  '19': stage 19
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0035630
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005615
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2000+Holzenberger+IGF-I+Lapointe
@@ -19,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008083
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004384
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/IGF1
-gene_id: '455870'
+gene_id: '418090'
 gene_type: protein-coding
 images:
 - caption: IGF1 expression
@@ -128,13 +127,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1.Holzenberger.2000.Fig8D'.jpg
 name: insulin like growth factor 1
-ncbi_id: '455870'
+ncbi_id: '418090'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000017427
   entrez: '3479'
   mod: MIM:147440
@@ -145,20 +139,22 @@ orthologs:
   mod: MGI:96432
   phenotypes: All phenotypic alleles (12):Targeted, knock-out(7) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100486334,378699
-  mod: '480238'
+- ensembl: ENSXETG00000002532
+  entrez: '100486334'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000094132
   entrez: '114433'
   mod: ZFIN:ZDB-GENE-010607-2
-  phenotypes: ZDB-GENE-010607-2
+  phenotypes: cell population proliferation, dorsal/ventral pattern formation, insulin-like
+    growth factor receptor signaling pathway, negative regulation of apoptotic process,
+    positive regulation of cell population proliferation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455870
+  url: https://www.ncbi.nlm.nih.gov/gene/418090
 species: Gallus gallus
 symbol: IGF1
 title: IGF1
@@ -188,9 +184,8 @@ title: IGF1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000017427](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000017427) | [3479](https://www.ncbi.nlm.nih.gov/gene/3479) | [MIM:147440](https://omim.org/entry/147440) | MIM:608747 |
 | Mouse | [ENSMUSG00000020053](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020053) | [16000](https://www.ncbi.nlm.nih.gov/gene/16000) | [MGI:96432](http://www.informatics.jax.org/marker/MGI:96432) | All phenotypic alleles (12):Targeted, knock-out(7) Targeted, other(5) |
-| Xenopus |  | [100486334](https://www.ncbi.nlm.nih.gov/gene/100486334), [378699](https://www.ncbi.nlm.nih.gov/gene/378699) | [480238](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480238) |  |
-| Zebrafish | [ENSDARG00000094132](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000094132) | [114433](https://www.ncbi.nlm.nih.gov/gene/114433) | [ZFIN:ZDB-GENE-010607-2](https://zfin.org/ZDB-GENE-010607-2) | ZDB-GENE-010607-2 |
+| Xenopus | [ENSXETG00000002532](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002532) | [100486334](https://www.ncbi.nlm.nih.gov/gene/100486334) |  |  |
+| Zebrafish | [ENSDARG00000094132](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000094132) | [114433](https://www.ncbi.nlm.nih.gov/gene/114433) | [ZFIN:ZDB-GENE-010607-2](https://zfin.org/ZDB-GENE-010607-2) | cell population proliferation, dorsal/ventral pattern formation, insulin-like growth factor receptor signaling pathway, negative regulation of apoptotic process, positive regulation of cell population proliferation |
 

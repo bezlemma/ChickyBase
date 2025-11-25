@@ -3,10 +3,6 @@ aliases:
 - protein Wnt-5b
 cgnc_id: '9838'
 external_ids:
-  '13': stage 13
-  '25': stage 25
-  '31': stage 31
-  '4': stage 4stage 4stage 4stage 4stage 4
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0010194
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Loganathan+2005+Wnts
   Comments: Insufficient information provided in publication to verify exact sequence
@@ -18,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418154
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001037269
-gene_id: '455181'
+gene_id: '418154'
 gene_type: protein-coding
 images:
 - caption: WNT5B expression
@@ -564,13 +560,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5b.Loganathan.2005.Fig2.jpg
 name: Wnt family member 5B
-ncbi_id: '455181'
+ncbi_id: '418154'
 orthologs:
-- ensembl: ''
-  entrez: '32838'
-  mod: FBgn0010194
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000111186
   entrez: '81029'
   mod: MIM:606361
@@ -581,23 +572,24 @@ orthologs:
   mod: MGI:98959
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 448452,379842
-  mod: '480395'
+- ensembl: ENSXETG00000044755
+  entrez: '448452'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000034894
+- ensembl: ENSDARG00000102464
   entrez: '30105'
   mod: ZFIN:ZDB-GENE-980526-87
-  phenotypes: ZDB-GENE-980526-87
+  phenotypes: Wnt signaling pathway, Wnt signaling pathway, calcium modulating pathway,
+    ameboidal-type cell migration, angiogenesis, animal organ development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455181
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418154
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455181
+  url: https://www.ncbi.nlm.nih.gov/gene/418154
 species: Gallus gallus
 symbol: WNT5B
 title: WNT5B
@@ -625,9 +617,8 @@ title: WNT5B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32838](https://www.ncbi.nlm.nih.gov/gene/32838) | FBgn0010194 |  |
 | Human | [ENSG00000111186](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111186) | [81029](https://www.ncbi.nlm.nih.gov/gene/81029) | [MIM:606361](https://omim.org/entry/606361) |  |
 | Mouse | [ENSMUSG00000030170](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030170) | [22419](https://www.ncbi.nlm.nih.gov/gene/22419) | [MGI:98959](http://www.informatics.jax.org/marker/MGI:98959) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [448452](https://www.ncbi.nlm.nih.gov/gene/448452), [379842](https://www.ncbi.nlm.nih.gov/gene/379842) | [480395](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480395) |  |
-| Zebrafish | [ENSDARG00000034894](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034894) | [30105](https://www.ncbi.nlm.nih.gov/gene/30105) | [ZFIN:ZDB-GENE-980526-87](https://zfin.org/ZDB-GENE-980526-87) | ZDB-GENE-980526-87 |
+| Xenopus | [ENSXETG00000044755](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044755) | [448452](https://www.ncbi.nlm.nih.gov/gene/448452) |  |  |
+| Zebrafish | [ENSDARG00000102464](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000102464) | [30105](https://www.ncbi.nlm.nih.gov/gene/30105) | [ZFIN:ZDB-GENE-980526-87](https://zfin.org/ZDB-GENE-980526-87) | Wnt signaling pathway, Wnt signaling pathway, calcium modulating pathway, ameboidal-type cell migration, angiogenesis, animal organ development |
 

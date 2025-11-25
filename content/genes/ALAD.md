@@ -6,7 +6,6 @@ aliases:
 - porphobilinogen synthase, ALAD
 cgnc_id: '6731'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0029712
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/31385
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/417273
@@ -14,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417273
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415547
 forward_primer: GGGTGGATGTCGTCAAGGAAAC
-gene_id: '454064'
+gene_id: '417273'
 gene_type: protein-coding
 images:
 - caption: ALAD expression
@@ -186,41 +185,38 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R519.ALAD.S25AAA.001.jpg
 name: aminolevulinate dehydratase
-ncbi_id: '454064'
+ncbi_id: '417273'
 orthologs:
-- ensembl: ''
-  entrez: '31385'
-  mod: FBgn0029712
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000119431
-  entrez: '81932'
-  mod: ''
+- ensembl: ENSG00000148218
+  entrez: '210'
+  mod: MIM:125270
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000038422
-  entrez: '72748'
-  mod: MGI:1919998
+- ensembl: ENSMUSG00000028393
+  entrez: '17025'
+  mod: MGI:96853
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 780150,496361
-  mod: '969462'
+- ensembl: ENSXETG00000023474
+  entrez: '779632'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000053934
-  entrez: '553464'
-  mod: ZFIN:ZDB-GENE-040724-118
-  phenotypes: ZDB-GENE-040724-118
+- ensembl: ENSDARG00000100372
+  entrez: '550338'
+  mod: ZFIN:ZDB-GENE-050417-123
+  phenotypes: heme biosynthetic process, porphyrin-containing compound biosynthetic
+    process, protoporphyrinogen IX biosynthetic process, tetrapyrrole biosynthetic
+    process
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCAAACAGCAGCAAGAAGTCACAGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454064
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417273
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454064
+  url: https://www.ncbi.nlm.nih.gov/gene/417273
 species: Gallus gallus
 symbol: ALAD
 template_length: '583'
@@ -244,9 +240,8 @@ title: ALAD
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31385](https://www.ncbi.nlm.nih.gov/gene/31385) | FBgn0029712 |  |
-| Human | [ENSG00000119431](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000119431) | [81932](https://www.ncbi.nlm.nih.gov/gene/81932) |  |  |
-| Mouse | [ENSMUSG00000038422](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038422) | [72748](https://www.ncbi.nlm.nih.gov/gene/72748) | [MGI:1919998](http://www.informatics.jax.org/marker/MGI:1919998) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [780150](https://www.ncbi.nlm.nih.gov/gene/780150), [496361](https://www.ncbi.nlm.nih.gov/gene/496361) | [969462](http://www.xenbase.org/gene/showgene.do?method=display&geneId=969462) |  |
-| Zebrafish | [ENSDARG00000053934](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053934) | [553464](https://www.ncbi.nlm.nih.gov/gene/553464) | [ZFIN:ZDB-GENE-040724-118](https://zfin.org/ZDB-GENE-040724-118) | ZDB-GENE-040724-118 |
+| Human | [ENSG00000148218](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148218) | [210](https://www.ncbi.nlm.nih.gov/gene/210) | [MIM:125270](https://omim.org/entry/125270) |  |
+| Mouse | [ENSMUSG00000028393](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028393) | [17025](https://www.ncbi.nlm.nih.gov/gene/17025) | [MGI:96853](http://www.informatics.jax.org/marker/MGI:96853) | All phenotypic alleles (2):Targeted, other(2) |
+| Xenopus | [ENSXETG00000023474](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023474) | [779632](https://www.ncbi.nlm.nih.gov/gene/779632) |  |  |
+| Zebrafish | [ENSDARG00000100372](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000100372) | [550338](https://www.ncbi.nlm.nih.gov/gene/550338) | [ZFIN:ZDB-GENE-050417-123](https://zfin.org/ZDB-GENE-050417-123) | heme biosynthetic process, porphyrin-containing compound biosynthetic process, protoporphyrinogen IX biosynthetic process, tetrapyrrole biosynthetic process |
 

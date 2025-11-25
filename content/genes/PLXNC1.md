@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417901
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416143
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/PLXNC1
-gene_id: '452065'
+gene_id: '417901'
 gene_type: protein-coding
 images:
 - caption: PLXNC1 expression
@@ -125,37 +125,33 @@ images:
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINC1.Mauti.2006.FIg.9.png
 name: plexin C1
-ncbi_id: '452065'
+ncbi_id: '417901'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000136040
+  entrez: '10154'
+  mod: MIM:604259
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000074785
+  entrez: '54712'
+  mod: MGI:1890127
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000045738
+  entrez: '100492725'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000015278
+  entrez: '562273'
+  mod: ZFIN:ZDB-GENE-030131-1620
+  phenotypes: axon guidance, negative regulation of cell adhesion, positive regulation
+    of axonogenesis, regulation of GTPase activity, regulation of cell migration
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452065
+  url: https://www.ncbi.nlm.nih.gov/gene/417901
 species: Gallus gallus
 symbol: PLXNC1
 title: PLXNC1
@@ -182,9 +178,8 @@ title: PLXNC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000136040](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136040) | [10154](https://www.ncbi.nlm.nih.gov/gene/10154) | [MIM:604259](https://omim.org/entry/604259) |  |
+| Mouse | [ENSMUSG00000074785](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000074785) | [54712](https://www.ncbi.nlm.nih.gov/gene/54712) | [MGI:1890127](http://www.informatics.jax.org/marker/MGI:1890127) |  |
+| Xenopus | [ENSXETG00000045738](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000045738) | [100492725](https://www.ncbi.nlm.nih.gov/gene/100492725) |  |  |
+| Zebrafish | [ENSDARG00000015278](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015278) | [562273](https://www.ncbi.nlm.nih.gov/gene/562273) | [ZFIN:ZDB-GENE-030131-1620](https://zfin.org/ZDB-GENE-030131-1620) | axon guidance, negative regulation of cell adhesion, positive regulation of axonogenesis, regulation of GTPase activity, regulation of cell migration |
 

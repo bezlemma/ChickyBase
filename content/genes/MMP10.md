@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418981
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001278089
 forward_primer: TCATACTCATACGCTTTGCC
-gene_id: '451771'
+gene_id: '418981'
 gene_type: protein-coding
 images:
 - caption: MMP10 expression
@@ -44,41 +44,26 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R435.MMP10.S24.001.jpg
 name: matrix metallopeptidase 10
-ncbi_id: '451771'
+ncbi_id: '418981'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000149968
-  entrez: '4314'
-  mod: MIM:185250
+- ensembl: ENSG00000166670
+  entrez: '4319'
+  mod: MIM:185260
   phenotypes: MIM:185250
   species: Human
-- ensembl: ENSMUSG00000043613
-  entrez: '17392'
-  mod: MGI:97010
+- ensembl: ENSMUSG00000047562
+  entrez: '17384'
+  mod: MGI:97007
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 594917,446898
-  mod: '5932508'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAGTCCTCTGGTCTTTCTGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451771
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418981
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451771
+  url: https://www.ncbi.nlm.nih.gov/gene/418981
 species: Gallus gallus
 symbol: MMP10
 template_length: '883'
@@ -102,9 +87,6 @@ title: MMP10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000149968](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000149968) | [4314](https://www.ncbi.nlm.nih.gov/gene/4314) | [MIM:185250](https://omim.org/entry/185250) | MIM:185250 |
-| Mouse | [ENSMUSG00000043613](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000043613) | [17392](https://www.ncbi.nlm.nih.gov/gene/17392) | [MGI:97010](http://www.informatics.jax.org/marker/MGI:97010) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [594917](https://www.ncbi.nlm.nih.gov/gene/594917), [446898](https://www.ncbi.nlm.nih.gov/gene/446898) | [5932508](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5932508) |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000166670](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166670) | [4319](https://www.ncbi.nlm.nih.gov/gene/4319) | [MIM:185260](https://omim.org/entry/185260) | MIM:185250 |
+| Mouse | [ENSMUSG00000047562](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000047562) | [17384](https://www.ncbi.nlm.nih.gov/gene/17384) | [MGI:97007](http://www.informatics.jax.org/marker/MGI:97007) | All phenotypic alleles (1):Targeted, knock-out(1) |
 

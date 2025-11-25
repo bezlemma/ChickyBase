@@ -3,13 +3,12 @@ aliases:
 - rho guanine nucleotide exchange factor 18
 cgnc_id: '2608'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/420132
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420132
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418249
 forward_primer: TGGGAAGAGTGGTGGTAGTG
-gene_id: '458622'
+gene_id: '420132'
 gene_type: protein-coding
 images:
 - caption: ARHGEF18 expression
@@ -119,16 +118,11 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R387.ARHGEF18.S25.001.jpg
 name: Rho/Rac guanine nucleotide exchange factor 18
-ncbi_id: '458622'
+ncbi_id: '420132'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000104880
   entrez: '23370'
-  mod: ''
+  mod: MIM:616432
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000004568
@@ -136,24 +130,25 @@ orthologs:
   mod: MGI:2142567
   phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '990866'
+- ensembl: ENSXETG00000006438
+  entrez: '100498531'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000042308,ENSDARG00000011157
-  entrez: 562264,407987
-  mod: ZFIN:ZDB-GENE-070705-462,ZFIN:ZDB-GENE-040516-14
-  phenotypes: ZDB-GENE-070705-462,ZDB-GENE-040516-14
+- ensembl: ENSDARG00000042308
+  entrez: '562264'
+  mod: ZFIN:ZDB-GENE-070705-462
+  phenotypes: cilium movement, regulation of Rho protein signal transduction, small
+    GTPase-mediated signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGGTTTCTGTATCTGATTAGTCGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458622
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420132
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458622
+  url: https://www.ncbi.nlm.nih.gov/gene/420132
 species: Gallus gallus
 symbol: ARHGEF18
 template_length: '850'
@@ -175,9 +170,8 @@ title: ARHGEF18
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000104880](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000104880) | [23370](https://www.ncbi.nlm.nih.gov/gene/23370) |  |  |
+| Human | [ENSG00000104880](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000104880) | [23370](https://www.ncbi.nlm.nih.gov/gene/23370) | [MIM:616432](https://omim.org/entry/616432) |  |
 | Mouse | [ENSMUSG00000004568](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000004568) | [102098](https://www.ncbi.nlm.nih.gov/gene/102098) | [MGI:2142567](http://www.informatics.jax.org/marker/MGI:2142567) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
-| Xenopus |  |  | [990866](http://www.xenbase.org/gene/showgene.do?method=display&geneId=990866) |  |
-| Zebrafish | [ENSDARG00000042308](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042308), [ENSDARG00000011157](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011157) | [562264](https://www.ncbi.nlm.nih.gov/gene/562264), [407987](https://www.ncbi.nlm.nih.gov/gene/407987) | [ZFIN:ZDB-GENE-070705-462](https://zfin.org/ZDB-GENE-070705-462), [ZFIN:ZDB-GENE-040516-14](https://zfin.org/ZDB-GENE-040516-14) | ZDB-GENE-070705-462,ZDB-GENE-040516-14 |
+| Xenopus | [ENSXETG00000006438](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006438) | [100498531](https://www.ncbi.nlm.nih.gov/gene/100498531) |  |  |
+| Zebrafish | [ENSDARG00000042308](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042308) | [562264](https://www.ncbi.nlm.nih.gov/gene/562264) | [ZFIN:ZDB-GENE-070705-462](https://zfin.org/ZDB-GENE-070705-462) | cilium movement, regulation of Rho protein signal transduction, small GTPase-mediated signal transduction |
 

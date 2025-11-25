@@ -3,7 +3,6 @@ aliases:
 - MYCL, MYCL1, protein L-Myc
 cgnc_id: '16978'
 external_ids:
-  '25': stage 25stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000024047
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428231
@@ -134,7 +133,7 @@ orthologs:
 - ensembl: ENSDARG00000006003,ENSDARG00000034956
   entrez: 405873,567762
   mod: ZFIN:ZDB-GENE-040426-2439,ZFIN:ZDB-GENE-030131-5561
-  phenotypes: ZDB-GENE-040426-2439,ZDB-GENE-030131-5561
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCTCAGGTCGGGGTCACACG
 sources:
@@ -169,5 +168,5 @@ title: MYCLP1
 | Human | [ENSG00000116990](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000116990) | [4610](https://www.ncbi.nlm.nih.gov/gene/4610) | [MIM:164850](https://omim.org/entry/164850) |  |
 | Mouse | [ENSMUSG00000028654](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028654) | [16918](https://www.ncbi.nlm.nih.gov/gene/16918) | [MGI:96799](http://www.informatics.jax.org/marker/MGI:96799) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
 | Xenopus |  | [496561](https://www.ncbi.nlm.nih.gov/gene/496561), [379147](https://www.ncbi.nlm.nih.gov/gene/379147), [397783](https://www.ncbi.nlm.nih.gov/gene/397783) | [6453834](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6453834) |  |
-| Zebrafish | [ENSDARG00000006003](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006003), [ENSDARG00000034956](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034956) | [405873](https://www.ncbi.nlm.nih.gov/gene/405873), [567762](https://www.ncbi.nlm.nih.gov/gene/567762) | [ZFIN:ZDB-GENE-040426-2439](https://zfin.org/ZDB-GENE-040426-2439), [ZFIN:ZDB-GENE-030131-5561](https://zfin.org/ZDB-GENE-030131-5561) | ZDB-GENE-040426-2439,ZDB-GENE-030131-5561 |
+| Zebrafish | [ENSDARG00000006003](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006003), [ENSDARG00000034956](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034956) | [405873](https://www.ncbi.nlm.nih.gov/gene/405873), [567762](https://www.ncbi.nlm.nih.gov/gene/567762) | [ZFIN:ZDB-GENE-040426-2439](https://zfin.org/ZDB-GENE-040426-2439), [ZFIN:ZDB-GENE-030131-5561](https://zfin.org/ZDB-GENE-030131-5561) |  |
 

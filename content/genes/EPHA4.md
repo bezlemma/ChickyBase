@@ -5,7 +5,6 @@ aliases:
 - EK8
 cgnc_id: '3911'
 external_ids:
-  '31': stage 31
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007628
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0030424
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Buchberger+2002+cMeso2
@@ -20,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204781
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/EPHA4
-gene_id: '449593'
+gene_id: '395559'
 gene_type: protein-coding
 images:
 - caption: EPHA4 expression
@@ -454,13 +453,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cek8.Buchberger.2002.fig3.jpg
 name: EPH receptor A4
-ncbi_id: '449593'
+ncbi_id: '395559'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000116106
   entrez: '2043'
   mod: MIM:602188
@@ -472,23 +466,25 @@ orthologs:
   phenotypes: All phenotypic alleles (20):Spontaneous(2) Chemically induced(1) Targeted,
     knock-out(4) Targeted, other(12) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100216124,379148,779062
-  mod: '1015802'
+- ensembl: ENSXETG00000007614
+  entrez: '100216124'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000054454
   entrez: '64271'
   mod: ZFIN:ZDB-GENE-001207-7
-  phenotypes: ZDB-GENE-001207-7
+  phenotypes: anterior/posterior pattern specification, cell adhesion, cell surface
+    receptor protein tyrosine kinase signaling pathway, cell-cell recognition, forebrain
+    development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449593
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395559
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449593
+  url: https://www.ncbi.nlm.nih.gov/gene/395559
 species: Gallus gallus
 symbol: EPHA4
 title: EPHA4
@@ -518,9 +514,8 @@ title: EPHA4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000116106](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000116106) | [2043](https://www.ncbi.nlm.nih.gov/gene/2043) | [MIM:602188](https://omim.org/entry/602188) |  |
 | Mouse | [ENSMUSG00000026235](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026235) | [13838](https://www.ncbi.nlm.nih.gov/gene/13838) | [MGI:98277](http://www.informatics.jax.org/marker/MGI:98277) | All phenotypic alleles (20):Spontaneous(2) Chemically induced(1) Targeted, knock-out(4) Targeted, other(12) Gene trapped(1) |
-| Xenopus |  | [100216124](https://www.ncbi.nlm.nih.gov/gene/100216124), [379148](https://www.ncbi.nlm.nih.gov/gene/379148), [779062](https://www.ncbi.nlm.nih.gov/gene/779062) | [1015802](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1015802) |  |
-| Zebrafish | [ENSDARG00000054454](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054454) | [64271](https://www.ncbi.nlm.nih.gov/gene/64271) | [ZFIN:ZDB-GENE-001207-7](https://zfin.org/ZDB-GENE-001207-7) | ZDB-GENE-001207-7 |
+| Xenopus | [ENSXETG00000007614](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007614) | [100216124](https://www.ncbi.nlm.nih.gov/gene/100216124) |  |  |
+| Zebrafish | [ENSDARG00000054454](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054454) | [64271](https://www.ncbi.nlm.nih.gov/gene/64271) | [ZFIN:ZDB-GENE-001207-7](https://zfin.org/ZDB-GENE-001207-7) | anterior/posterior pattern specification, cell adhesion, cell surface receptor protein tyrosine kinase signaling pathway, cell-cell recognition, forebrain development |
 

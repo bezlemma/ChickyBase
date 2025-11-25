@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418078
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416314
 forward_primer: TTCTGCTTCCTTGGCTGACG
-gene_id: '458137'
+gene_id: '418078'
 gene_type: protein-coding
 images:
 - caption: ALDH1L2 expression
@@ -96,13 +96,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R494.ALDH1L2.S27A.001.jpg
 name: aldehyde dehydrogenase 1 family member L2
-ncbi_id: '458137'
+ncbi_id: '418078'
 orthologs:
-- ensembl: ''
-  entrez: '35407'
-  mod: FBgn0032945
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136010
   entrez: '160428'
   mod: MIM:613584
@@ -113,24 +108,25 @@ orthologs:
   mod: MGI:2444680
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000001886
   entrez: '100127737'
-  mod: '5820494'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000070230
   entrez: '100333269'
   mod: ZFIN:ZDB-GENE-100426-6
-  phenotypes: ZDB-GENE-100426-6
+  phenotypes: 10-formyltetrahydrofolate catabolic process, biosynthetic process, one-carbon
+    metabolic process
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCTGCTCCCATACCCATTTTTACAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458137
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418078
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458137
+  url: https://www.ncbi.nlm.nih.gov/gene/418078
 species: Gallus gallus
 symbol: ALDH1L2
 template_length: '731'
@@ -154,9 +150,8 @@ title: ALDH1L2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35407](https://www.ncbi.nlm.nih.gov/gene/35407) | FBgn0032945 |  |
 | Human | [ENSG00000136010](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136010) | [160428](https://www.ncbi.nlm.nih.gov/gene/160428) | [MIM:613584](https://omim.org/entry/613584) |  |
 | Mouse | [ENSMUSG00000020256](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020256) | [216188](https://www.ncbi.nlm.nih.gov/gene/216188) | [MGI:2444680](http://www.informatics.jax.org/marker/MGI:2444680) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [100127737](https://www.ncbi.nlm.nih.gov/gene/100127737) | [5820494](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5820494) |  |
-| Zebrafish | [ENSDARG00000070230](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070230) | [100333269](https://www.ncbi.nlm.nih.gov/gene/100333269) | [ZFIN:ZDB-GENE-100426-6](https://zfin.org/ZDB-GENE-100426-6) | ZDB-GENE-100426-6 |
+| Xenopus | [ENSXETG00000001886](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001886) | [100127737](https://www.ncbi.nlm.nih.gov/gene/100127737) |  |  |
+| Zebrafish | [ENSDARG00000070230](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070230) | [100333269](https://www.ncbi.nlm.nih.gov/gene/100333269) | [ZFIN:ZDB-GENE-100426-6](https://zfin.org/ZDB-GENE-100426-6) | 10-formyltetrahydrofolate catabolic process, biosynthetic process, one-carbon metabolic process |
 

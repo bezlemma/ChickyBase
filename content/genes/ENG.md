@@ -4,8 +4,6 @@ aliases:
 - endoglin (Osler-Rendu-Weber syndrome 1)
 cgnc_id: '56870'
 external_ids:
-  '13': stage 13stage 13stage 13stage 13
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Endoglin+2010+TGF-B+alev+Sheng
   Comments: The cDNA template used to generate the probe was obtained by PCR as described
     in the paper.
@@ -16,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771557
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001080887
 forward_primer: CCCAGACAGCAGCAAAACAATC
-gene_id: '391801'
+gene_id: '771557'
 gene_type: protein-coding
 images:
 - caption: ENG expression
@@ -475,13 +473,8 @@ images:
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cantas.Fig3.Endoglin.N.HH13.jpg
 name: endoglin
-ncbi_id: '391801'
+ncbi_id: '771557'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000106991
   entrez: '2022'
   mod: MIM:131195
@@ -493,24 +486,19 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(4)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000040084
+  entrez: '100491276'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGCCTTCACTTCCAAAACCTTCTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=391801
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771557
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/391801
+  url: https://www.ncbi.nlm.nih.gov/gene/771557
 species: Gallus gallus
 symbol: ENG
 template_length: '991'
@@ -537,9 +525,7 @@ title: ENG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000106991](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000106991) | [2022](https://www.ncbi.nlm.nih.gov/gene/2022) | [MIM:131195](https://omim.org/entry/131195) | MIM:187300 |
 | Mouse | [ENSMUSG00000026814](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026814) | [13805](https://www.ncbi.nlm.nih.gov/gene/13805) | [MGI:95392](http://www.informatics.jax.org/marker/MGI:95392) | All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(4) Gene trapped(1) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000040084](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000040084) | [100491276](https://www.ncbi.nlm.nih.gov/gene/100491276) |  |  |
 

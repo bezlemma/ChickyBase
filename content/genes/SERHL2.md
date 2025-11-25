@@ -103,7 +103,7 @@ orthologs:
 - ensembl: ENSDARG00000032340
   entrez: '322648'
   mod: ZFIN:ZDB-GENE-030131-1368
-  phenotypes: ZDB-GENE-030131-1368
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCCTCCAGAGCCAGACTTTTACCTAC
 sources:
@@ -140,5 +140,5 @@ title: SERHL2
 | Human | [ENSG00000183569](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000183569) | [253190](https://www.ncbi.nlm.nih.gov/gene/253190) |  |  |
 | Mouse | [ENSMUSG00000058586](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000058586) | [68607](https://www.ncbi.nlm.nih.gov/gene/68607) | [MGI:1890404](http://www.informatics.jax.org/marker/MGI:1890404) | All phenotypic alleles (2):Targeted, other(2) |
 | Xenopus |  | [100124846](https://www.ncbi.nlm.nih.gov/gene/100124846), [379291](https://www.ncbi.nlm.nih.gov/gene/379291), [493433](https://www.ncbi.nlm.nih.gov/gene/493433) | [943364](http://www.xenbase.org/gene/showgene.do?method=display&geneId=943364), [5751958](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5751958) |  |
-| Zebrafish | [ENSDARG00000032340](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032340) | [322648](https://www.ncbi.nlm.nih.gov/gene/322648) | [ZFIN:ZDB-GENE-030131-1368](https://zfin.org/ZDB-GENE-030131-1368) | ZDB-GENE-030131-1368 |
+| Zebrafish | [ENSDARG00000032340](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032340) | [322648](https://www.ncbi.nlm.nih.gov/gene/322648) | [ZFIN:ZDB-GENE-030131-1368](https://zfin.org/ZDB-GENE-030131-1368) |  |
 

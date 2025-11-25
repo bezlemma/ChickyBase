@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423579
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421468
   X-XIV: stage XIII
-gene_id: '450936'
+gene_id: '423579'
 gene_type: protein-coding
 images:
 - caption: TRIM9 expression
@@ -50,7 +50,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRIM9.Trevers.2023-Fig7-4-H.jpg
 name: tripartite motif containing 9
-ncbi_id: '450936'
+ncbi_id: '423579'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -80,10 +80,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450936
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423579
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450936
+  url: https://www.ncbi.nlm.nih.gov/gene/423579
 species: Gallus gallus
 symbol: TRIM9
 title: TRIM9

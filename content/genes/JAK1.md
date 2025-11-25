@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395681
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204870
 forward_primer: AAACTGGAGGAGCAAAACCCC
-gene_id: '449907'
+gene_id: '395681'
 gene_type: protein-coding
 images:
 - caption: JAK1 expression
@@ -284,13 +284,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/JAK1.Tao.2020.Fig2.jpg
 name: Janus kinase 1
-ncbi_id: '449907'
+ncbi_id: '395681'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000162434
   entrez: '3716'
   mod: MIM:147795
@@ -301,24 +296,26 @@ orthologs:
   mod: MGI:96628
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100038172,446697
-  mod: '483749'
+- ensembl: ENSXETG00000020396
+  entrez: '100038172'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000020625
   entrez: '30280'
   mod: ZFIN:ZDB-GENE-980526-142
-  phenotypes: ZDB-GENE-980526-142
+  phenotypes: T cell differentiation in thymus, cell differentiation, cell surface
+    receptor signaling pathway via JAK-STAT, cytokine-mediated signaling pathway,
+    developmental process
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGACGCTTCTCTTCTTGTAGGACACG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449907
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395681
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449907
+  url: https://www.ncbi.nlm.nih.gov/gene/395681
 species: Gallus gallus
 symbol: JAK1
 template_length: '801'
@@ -345,9 +342,8 @@ title: JAK1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000162434](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162434) | [3716](https://www.ncbi.nlm.nih.gov/gene/3716) | [MIM:147795](https://omim.org/entry/147795) |  |
 | Mouse | [ENSMUSG00000028530](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028530) | [16451](https://www.ncbi.nlm.nih.gov/gene/16451) | [MGI:96628](http://www.informatics.jax.org/marker/MGI:96628) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100038172](https://www.ncbi.nlm.nih.gov/gene/100038172), [446697](https://www.ncbi.nlm.nih.gov/gene/446697) | [483749](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483749) |  |
-| Zebrafish | [ENSDARG00000020625](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020625) | [30280](https://www.ncbi.nlm.nih.gov/gene/30280) | [ZFIN:ZDB-GENE-980526-142](https://zfin.org/ZDB-GENE-980526-142) | ZDB-GENE-980526-142 |
+| Xenopus | [ENSXETG00000020396](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020396) | [100038172](https://www.ncbi.nlm.nih.gov/gene/100038172) |  |  |
+| Zebrafish | [ENSDARG00000020625](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020625) | [30280](https://www.ncbi.nlm.nih.gov/gene/30280) | [ZFIN:ZDB-GENE-980526-142](https://zfin.org/ZDB-GENE-980526-142) | T cell differentiation in thymus, cell differentiation, cell surface receptor signaling pathway via JAK-STAT, cytokine-mediated signaling pathway, developmental process |
 

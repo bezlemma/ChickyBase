@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373986
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204172
-gene_id: '451483'
+gene_id: '373986'
 gene_type: protein-coding
 images:
 - caption: LMBR1 expression
@@ -99,13 +99,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Lmbr1.Maas.20042L.jpg
 name: limb development membrane protein 1
-ncbi_id: '451483'
+ncbi_id: '373986'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000105983
   entrez: '64327'
   mod: MIM:605522
@@ -116,20 +111,20 @@ orthologs:
   mod: MGI:1861746
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000013512
   entrez: '496578'
-  mod: '981845'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000024092
   entrez: '557300'
   mod: ZFIN:ZDB-GENE-090128-4
-  phenotypes: ZDB-GENE-090128-4
+  phenotypes: signal transduction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451483
+  url: https://www.ncbi.nlm.nih.gov/gene/373986
 species: Gallus gallus
 symbol: LMBR1
 title: LMBR1
@@ -157,9 +152,8 @@ As information provided was insufficient to verify exact sequence used to synthe
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000105983](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000105983) | [64327](https://www.ncbi.nlm.nih.gov/gene/64327) | [MIM:605522](https://omim.org/entry/605522) | MIM:200500 |
 | Mouse | [ENSMUSG00000010721](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000010721) | [56873](https://www.ncbi.nlm.nih.gov/gene/56873) | [MGI:1861746](http://www.informatics.jax.org/marker/MGI:1861746) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [496578](https://www.ncbi.nlm.nih.gov/gene/496578) | [981845](http://www.xenbase.org/gene/showgene.do?method=display&geneId=981845) |  |
-| Zebrafish | [ENSDARG00000024092](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000024092) | [557300](https://www.ncbi.nlm.nih.gov/gene/557300) | [ZFIN:ZDB-GENE-090128-4](https://zfin.org/ZDB-GENE-090128-4) | ZDB-GENE-090128-4 |
+| Xenopus | [ENSXETG00000013512](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013512) | [496578](https://www.ncbi.nlm.nih.gov/gene/496578) |  |  |
+| Zebrafish | [ENSDARG00000024092](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000024092) | [557300](https://www.ncbi.nlm.nih.gov/gene/557300) | [ZFIN:ZDB-GENE-090128-4](https://zfin.org/ZDB-GENE-090128-4) | signal transduction |
 

@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418999
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277830
 forward_primer: TCCTGTATTTCCCCAATGGACG
-gene_id: '451828'
+gene_id: '418999'
 gene_type: protein-coding
 images:
 - caption: TM4SF1a expression
@@ -184,41 +184,21 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R603.TM4SF1A.S26.001.jpg
 name: transmembrane 4 L six family member 1a
-ncbi_id: '451828'
+ncbi_id: '418999'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSDARG00000090943
+  entrez: '100002960'
   mod: ''
   phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000057706
-  entrez: 563398,565274
-  mod: ZFIN:ZDB-GENE-080204-103,ZFIN:ZDB-GENE-060526-34
-  phenotypes: ZDB-GENE-080204-103,ZDB-GENE-060526-34
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCCACACACAAAGCCAATGAGAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451828
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418999
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451828
+  url: https://www.ncbi.nlm.nih.gov/gene/418999
 species: Gallus gallus
 symbol: TM4SF1a
 template_length: '469'
@@ -241,9 +221,5 @@ title: TM4SF1a
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000057706](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057706) | [563398](https://www.ncbi.nlm.nih.gov/gene/563398), [565274](https://www.ncbi.nlm.nih.gov/gene/565274) | [ZFIN:ZDB-GENE-080204-103](https://zfin.org/ZDB-GENE-080204-103), [ZFIN:ZDB-GENE-060526-34](https://zfin.org/ZDB-GENE-060526-34) | ZDB-GENE-080204-103,ZDB-GENE-060526-34 |
+| Zebrafish | [ENSDARG00000090943](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000090943) | [100002960](https://www.ncbi.nlm.nih.gov/gene/100002960) |  |  |
 

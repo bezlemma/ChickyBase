@@ -15,7 +15,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003723
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001305
-gene_id: '459001'
+gene_id: '396195'
 gene_type: protein-coding
 images:
 - caption: SRSF2 expression
@@ -71,13 +71,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/G53.60.25.jpg
 name: serine and arginine rich splicing factor 2
-ncbi_id: '459001'
+ncbi_id: '396195'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000161547
   entrez: '6427'
   mod: MIM:600813
@@ -88,23 +83,13 @@ orthologs:
   mod: MGI:98284
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 394953,380435
-  mod: '481124'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000057484,ENSDARG00000010906
-  entrez: 406691,323700
-  mod: ZFIN:ZDB-GENE-040426-2706,ZFIN:ZDB-GENE-030131-2420
-  phenotypes: ZDB-GENE-040426-2706,ZDB-GENE-030131-2420
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459001
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396195
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459001
+  url: https://www.ncbi.nlm.nih.gov/gene/396195
 species: Gallus gallus
 symbol: SRSF2
 title: SRSF2
@@ -129,9 +114,6 @@ title: SRSF2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000161547](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000161547) | [6427](https://www.ncbi.nlm.nih.gov/gene/6427) | [MIM:600813](https://omim.org/entry/600813) |  |
 | Mouse | [ENSMUSG00000034120](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034120) | [20382](https://www.ncbi.nlm.nih.gov/gene/20382) | [MGI:98284](http://www.informatics.jax.org/marker/MGI:98284) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [394953](https://www.ncbi.nlm.nih.gov/gene/394953), [380435](https://www.ncbi.nlm.nih.gov/gene/380435) | [481124](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481124) |  |
-| Zebrafish | [ENSDARG00000057484](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057484), [ENSDARG00000010906](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010906) | [406691](https://www.ncbi.nlm.nih.gov/gene/406691), [323700](https://www.ncbi.nlm.nih.gov/gene/323700) | [ZFIN:ZDB-GENE-040426-2706](https://zfin.org/ZDB-GENE-040426-2706), [ZFIN:ZDB-GENE-030131-2420](https://zfin.org/ZDB-GENE-030131-2420) | ZDB-GENE-040426-2706,ZDB-GENE-030131-2420 |
 

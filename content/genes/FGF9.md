@@ -4,7 +4,6 @@ aliases:
 - glia-activating factor
 cgnc_id: '49145'
 external_ids:
-  '25': stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=havens+rodgers+fgfr2b+isoforms
   Comments: The complete cDNA template sequence was obtained from the information
     provided in the publication as described in Havens et al. 2006.
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:378917
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204399
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGGTCAGCATCCGAGGAGTAGACAG
-gene_id: '452525'
+gene_id: '378917'
 gene_type: protein-coding
 images:
 - caption: FGF9 expression
@@ -160,42 +159,32 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Havens.Fig5.Fgf9.B.St23.jpg
 name: fibroblast growth factor 9
-ncbi_id: '452525'
+ncbi_id: '378917'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000102678
   entrez: '2254'
   mod: MIM:600921
   phenotypes: MIM:612961
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000021974
   entrez: '14180'
   mod: MGI:104723
   phenotypes: All phenotypic alleles (7):Spontaneous(1) Targeted, knock-out(2) Targeted,
     other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100217327,378562
-  mod: '484465'
+- ensembl: ENSXETG00000021075
+  entrez: '100217327'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ZFIN:ZDB-GENE-070424-238
-  phenotypes: ZDB-GENE-070424-238
-  species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGCTAATCAATAAGAACCCACCGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452525
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=378917
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452525
+  url: https://www.ncbi.nlm.nih.gov/gene/378917
 species: Gallus gallus
 symbol: FGF9
 template_length: '394'
@@ -222,9 +211,7 @@ title: FGF9
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000102678](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000102678) | [2254](https://www.ncbi.nlm.nih.gov/gene/2254) | [MIM:600921](https://omim.org/entry/600921) | MIM:612961 |
-| Mouse |  | [14180](https://www.ncbi.nlm.nih.gov/gene/14180) | [MGI:104723](http://www.informatics.jax.org/marker/MGI:104723) | All phenotypic alleles (7):Spontaneous(1) Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [100217327](https://www.ncbi.nlm.nih.gov/gene/100217327), [378562](https://www.ncbi.nlm.nih.gov/gene/378562) | [484465](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484465) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-070424-238](https://zfin.org/ZDB-GENE-070424-238) | ZDB-GENE-070424-238 |
+| Mouse | [ENSMUSG00000021974](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021974) | [14180](https://www.ncbi.nlm.nih.gov/gene/14180) | [MGI:104723](http://www.informatics.jax.org/marker/MGI:104723) | All phenotypic alleles (7):Spontaneous(1) Targeted, knock-out(2) Targeted, other(4) |
+| Xenopus | [ENSXETG00000021075](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021075) | [100217327](https://www.ncbi.nlm.nih.gov/gene/100217327) |  |  |
 

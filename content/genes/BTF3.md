@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426154
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423823
 forward_primer: 5'-CCGCAGAAAGAAGAAGGTTGTCC-3'
-gene_id: '462055'
+gene_id: '426154'
 gene_type: protein-coding
 images:
 - caption: BTF3 expression
@@ -204,13 +204,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R552.BTP3.S27A.001.jpg
 name: basic transcription factor 3
-ncbi_id: '462055'
+ncbi_id: '426154'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000145741
   entrez: '689'
   mod: MIM:602542
@@ -221,24 +216,24 @@ orthologs:
   mod: MGI:1202875
   phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549451,495200
-  mod: '985802'
+- ensembl: ENSXETG00000016819
+  entrez: '549451'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000035400
   entrez: '556625'
   mod: ZFIN:ZDB-GENE-030131-8731
-  phenotypes: ZDB-GENE-030131-8731
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGATCCACAGGTTGCTTGGGTAAGGC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462055
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426154
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462055
+  url: https://www.ncbi.nlm.nih.gov/gene/426154
 species: Gallus gallus
 symbol: BTF3
 template_length: '316'
@@ -261,9 +256,8 @@ title: BTF3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000145741](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145741) | [689](https://www.ncbi.nlm.nih.gov/gene/689) | [MIM:602542](https://omim.org/entry/602542) |  |
 | Mouse | [ENSMUSG00000021660](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021660) | [218490](https://www.ncbi.nlm.nih.gov/gene/218490) | [MGI:1202875](http://www.informatics.jax.org/marker/MGI:1202875) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [549451](https://www.ncbi.nlm.nih.gov/gene/549451), [495200](https://www.ncbi.nlm.nih.gov/gene/495200) | [985802](http://www.xenbase.org/gene/showgene.do?method=display&geneId=985802) |  |
-| Zebrafish | [ENSDARG00000035400](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035400) | [556625](https://www.ncbi.nlm.nih.gov/gene/556625) | [ZFIN:ZDB-GENE-030131-8731](https://zfin.org/ZDB-GENE-030131-8731) | ZDB-GENE-030131-8731 |
+| Xenopus | [ENSXETG00000016819](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016819) | [549451](https://www.ncbi.nlm.nih.gov/gene/549451) |  |  |
+| Zebrafish | [ENSDARG00000035400](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035400) | [556625](https://www.ncbi.nlm.nih.gov/gene/556625) | [ZFIN:ZDB-GENE-030131-8731](https://zfin.org/ZDB-GENE-030131-8731) |  |
 

@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415558
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277628
 forward_primer: 5’-CATCACATTCGTCATGGGCG-3’
-gene_id: '460312'
+gene_id: '415558'
 gene_type: protein-coding
 images:
 - caption: CLN6 expression
@@ -88,13 +88,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R640.CLN6.S26.001.jpg
 name: CLN6, transmembrane ER protein
-ncbi_id: '460312'
+ncbi_id: '415558'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000128973
   entrez: '54982'
   mod: MIM:606725
@@ -106,24 +101,24 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Spontaneous(1) Targeted, knock-out(1) Targeted,
     other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100145280,100127342
-  mod: '982585'
+- ensembl: ENSXETG00000029932
+  entrez: '100145280'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000077584
   entrez: '449809'
-  mod: ZFIN:ZDB-GENE-041010-57,ZFIN:ZDB-GENE-110623-6
-  phenotypes: ZDB-GENE-041010-57,ZDB-GENE-110623-6
+  mod: ZFIN:ZDB-GENE-041010-57
+  phenotypes: lysosome organization
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGTGCAGGGTGTAAAAAGCCC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460312
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415558
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460312
+  url: https://www.ncbi.nlm.nih.gov/gene/415558
 species: Gallus gallus
 symbol: CLN6
 template_length: '568'
@@ -146,9 +141,8 @@ title: CLN6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000128973](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000128973) | [54982](https://www.ncbi.nlm.nih.gov/gene/54982) | [MIM:606725](https://omim.org/entry/606725) | MIM:204300 |
 | Mouse | [ENSMUSG00000032245](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032245) | [76524](https://www.ncbi.nlm.nih.gov/gene/76524) | [MGI:2159324](http://www.informatics.jax.org/marker/MGI:2159324) | All phenotypic alleles (5):Spontaneous(1) Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100145280](https://www.ncbi.nlm.nih.gov/gene/100145280), [100127342](https://www.ncbi.nlm.nih.gov/gene/100127342) | [982585](http://www.xenbase.org/gene/showgene.do?method=display&geneId=982585) |  |
-| Zebrafish | [ENSDARG00000077584](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077584) | [449809](https://www.ncbi.nlm.nih.gov/gene/449809) | [ZFIN:ZDB-GENE-041010-57](https://zfin.org/ZDB-GENE-041010-57), [ZFIN:ZDB-GENE-110623-6](https://zfin.org/ZDB-GENE-110623-6) | ZDB-GENE-041010-57,ZDB-GENE-110623-6 |
+| Xenopus | [ENSXETG00000029932](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000029932) | [100145280](https://www.ncbi.nlm.nih.gov/gene/100145280) |  |  |
+| Zebrafish | [ENSDARG00000077584](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077584) | [449809](https://www.ncbi.nlm.nih.gov/gene/449809) | [ZFIN:ZDB-GENE-041010-57](https://zfin.org/ZDB-GENE-041010-57) | lysosome organization |
 

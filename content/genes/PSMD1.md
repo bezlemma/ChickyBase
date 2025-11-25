@@ -5,7 +5,6 @@ aliases:
 - 26S proteasome regulatory subunit S1
 cgnc_id: '5786'
 external_ids:
-  '19': stage 19stage 19
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0028692
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0042176
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0022624
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424926
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0030234
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012600
-gene_id: '448613'
+gene_id: '424926'
 gene_type: protein-coding
 images:
 - caption: PSMD1 expression
@@ -41,16 +40,11 @@ images:
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/12g13.100.19xs.jpg
 name: proteasome 26S subunit, non-ATPase 1
-ncbi_id: '448613'
+ncbi_id: '424926'
 orthologs:
-- ensembl: ''
-  entrez: '43449'
-  mod: FBgn0028692
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000173692
   entrez: '5707'
-  mod: ''
+  mod: MIM:617842
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000026229
@@ -58,23 +52,24 @@ orthologs:
   mod: MGI:1917497
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 407894,446265
-  mod: '989958'
+- ensembl: ENSXETG00000009522
+  entrez: '407894'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000003189
   entrez: '554967'
   mod: ZFIN:ZDB-GENE-040426-810
-  phenotypes: ZDB-GENE-040426-810
+  phenotypes: proteasome-mediated ubiquitin-dependent protein catabolic process, regulation
+    of protein catabolic process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448613
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424926
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448613
+  url: https://www.ncbi.nlm.nih.gov/gene/424926
 species: Gallus gallus
 symbol: PSMD1
 title: PSMD1
@@ -102,9 +97,8 @@ title: PSMD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43449](https://www.ncbi.nlm.nih.gov/gene/43449) | FBgn0028692 |  |
-| Human | [ENSG00000173692](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000173692) | [5707](https://www.ncbi.nlm.nih.gov/gene/5707) |  |  |
+| Human | [ENSG00000173692](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000173692) | [5707](https://www.ncbi.nlm.nih.gov/gene/5707) | [MIM:617842](https://omim.org/entry/617842) |  |
 | Mouse | [ENSMUSG00000026229](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026229) | [70247](https://www.ncbi.nlm.nih.gov/gene/70247) | [MGI:1917497](http://www.informatics.jax.org/marker/MGI:1917497) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [407894](https://www.ncbi.nlm.nih.gov/gene/407894), [446265](https://www.ncbi.nlm.nih.gov/gene/446265) | [989958](http://www.xenbase.org/gene/showgene.do?method=display&geneId=989958) |  |
-| Zebrafish | [ENSDARG00000003189](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003189) | [554967](https://www.ncbi.nlm.nih.gov/gene/554967) | [ZFIN:ZDB-GENE-040426-810](https://zfin.org/ZDB-GENE-040426-810) | ZDB-GENE-040426-810 |
+| Xenopus | [ENSXETG00000009522](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009522) | [407894](https://www.ncbi.nlm.nih.gov/gene/407894) |  |  |
+| Zebrafish | [ENSDARG00000003189](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003189) | [554967](https://www.ncbi.nlm.nih.gov/gene/554967) | [ZFIN:ZDB-GENE-040426-810](https://zfin.org/ZDB-GENE-040426-810) | proteasome-mediated ubiquitin-dependent protein catabolic process, regulation of protein catabolic process |
 

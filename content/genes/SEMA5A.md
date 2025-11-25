@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420931
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419016
-gene_id: '454011'
+gene_id: '420931'
 gene_type: protein-coding
 images:
 - caption: SEMA5A expression
@@ -56,13 +56,8 @@ images:
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SEMA.image4f.jpg
 name: semaphorin 5A
-ncbi_id: '454011'
+ncbi_id: '420931'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000112902
   entrez: '9037'
   mod: MIM:609297
@@ -73,20 +68,16 @@ orthologs:
   mod: MGI:107556
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000058821
   entrez: '561295'
   mod: ZFIN:ZDB-GENE-030131-8969
-  phenotypes: ZDB-GENE-030131-8969
+  phenotypes: axon extension, axon guidance, cell differentiation, nervous system
+    development, neural crest cell migration
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454011
+  url: https://www.ncbi.nlm.nih.gov/gene/420931
 species: Gallus gallus
 symbol: SEMA5A
 title: SEMA5A
@@ -111,9 +102,7 @@ title: SEMA5A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000112902](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112902) | [9037](https://www.ncbi.nlm.nih.gov/gene/9037) | [MIM:609297](https://omim.org/entry/609297) |  |
 | Mouse | [ENSMUSG00000022231](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022231) | [20356](https://www.ncbi.nlm.nih.gov/gene/20356) | [MGI:107556](http://www.informatics.jax.org/marker/MGI:107556) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000058821](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058821) | [561295](https://www.ncbi.nlm.nih.gov/gene/561295) | [ZFIN:ZDB-GENE-030131-8969](https://zfin.org/ZDB-GENE-030131-8969) | ZDB-GENE-030131-8969 |
+| Zebrafish | [ENSDARG00000058821](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058821) | [561295](https://www.ncbi.nlm.nih.gov/gene/561295) | [ZFIN:ZDB-GENE-030131-8969](https://zfin.org/ZDB-GENE-030131-8969) | axon extension, axon guidance, cell differentiation, nervous system development, neural crest cell migration |
 

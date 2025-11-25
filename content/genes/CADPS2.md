@@ -5,14 +5,13 @@ aliases:
 - Ca2+-dependent activator protein for secretion 2
 cgnc_id: '6777'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000008926
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417756
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640346
 forward_primer: 5'-GGTTGTCACCGCCATCTTTG-3'
-gene_id: '452844'
+gene_id: '417756'
 gene_type: protein-coding
 images:
 - caption: CADPS2 expression
@@ -182,41 +181,31 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CADPS2.S25AAAAA.001.jpg
 name: calcium dependent secretion activator 2
-ncbi_id: '452844'
+ncbi_id: '417756'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000081803
+  entrez: '93664'
+  mod: MIM:609978
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000017978
+  entrez: '320405'
+  mod: MGI:2443963
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000022749
+  entrez: '100487097'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGCTGTGCCTCAAGTGCTGAATC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452844
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417756
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452844
+  url: https://www.ncbi.nlm.nih.gov/gene/417756
 species: Gallus gallus
 symbol: CADPS2
 template_length: '642'
@@ -239,9 +228,7 @@ title: CADPS2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000081803](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000081803) | [93664](https://www.ncbi.nlm.nih.gov/gene/93664) | [MIM:609978](https://omim.org/entry/609978) |  |
+| Mouse | [ENSMUSG00000017978](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000017978) | [320405](https://www.ncbi.nlm.nih.gov/gene/320405) | [MGI:2443963](http://www.informatics.jax.org/marker/MGI:2443963) |  |
+| Xenopus | [ENSXETG00000022749](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022749) | [100487097](https://www.ncbi.nlm.nih.gov/gene/100487097) |  |  |
 

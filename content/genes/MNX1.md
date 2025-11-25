@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395768
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204928
-gene_id: '450340'
+gene_id: '395768'
 gene_type: protein-coding
 images:
 - caption: MNX1 expression
@@ -34,37 +34,34 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HB9.Guidato.2003.Fig.1.png
 name: motor neuron and pancreas homeobox 1
-ncbi_id: '450340'
+ncbi_id: '395768'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000130675
   entrez: '3110'
   mod: MIM:142994
   phenotypes: MIM:176450
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000001566
   entrez: '15285'
   mod: MGI:109160
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100496534,779201
-  mod: '919889'
+- ensembl: ENSXETG00000021615
+  entrez: '100496534'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000035984
+- ensembl: ENSDARG00000109419
   entrez: '405399'
   mod: ZFIN:ZDB-GENE-040409-1
-  phenotypes: ZDB-GENE-040409-1
+  phenotypes: central nervous system development, endocrine pancreas development,
+    neuron projection morphogenesis, regulation of DNA-templated transcription, spinal
+    cord motor neuron cell fate specification
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450340
+  url: https://www.ncbi.nlm.nih.gov/gene/395768
 species: Gallus gallus
 symbol: MNX1
 title: MNX1
@@ -90,9 +87,8 @@ title: MNX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000130675](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000130675) | [3110](https://www.ncbi.nlm.nih.gov/gene/3110) | [MIM:142994](https://omim.org/entry/142994) | MIM:176450 |
-| Mouse |  | [15285](https://www.ncbi.nlm.nih.gov/gene/15285) | [MGI:109160](http://www.informatics.jax.org/marker/MGI:109160) | All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5) |
-| Xenopus |  | [100496534](https://www.ncbi.nlm.nih.gov/gene/100496534), [779201](https://www.ncbi.nlm.nih.gov/gene/779201) | [919889](http://www.xenbase.org/gene/showgene.do?method=display&geneId=919889) |  |
-| Zebrafish | [ENSDARG00000035984](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035984) | [405399](https://www.ncbi.nlm.nih.gov/gene/405399) | [ZFIN:ZDB-GENE-040409-1](https://zfin.org/ZDB-GENE-040409-1) | ZDB-GENE-040409-1 |
+| Mouse | [ENSMUSG00000001566](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001566) | [15285](https://www.ncbi.nlm.nih.gov/gene/15285) | [MGI:109160](http://www.informatics.jax.org/marker/MGI:109160) | All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5) |
+| Xenopus | [ENSXETG00000021615](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021615) | [100496534](https://www.ncbi.nlm.nih.gov/gene/100496534) |  |  |
+| Zebrafish | [ENSDARG00000109419](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000109419) | [405399](https://www.ncbi.nlm.nih.gov/gene/405399) | [ZFIN:ZDB-GENE-040409-1](https://zfin.org/ZDB-GENE-040409-1) | central nervous system development, endocrine pancreas development, neuron projection morphogenesis, regulation of DNA-templated transcription, spinal cord motor neuron cell fate specification |
 

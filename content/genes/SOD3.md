@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422810
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420760
-gene_id: '452810'
+gene_id: '422810'
 gene_type: protein-coding
 images:
 - caption: SOD3 expression
@@ -38,37 +38,32 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOD3.Anderson.2019.Fig2.jpg
 name: superoxide dismutase 3
-ncbi_id: '452810'
+ncbi_id: '422810'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000109610
   entrez: '6649'
   mod: MIM:185490
   phenotypes: MIM:185490
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000072941
   entrez: '20657'
   mod: MGI:103181
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000002122
   entrez: '100127868'
-  mod: '1008937'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000094543
-  entrez: 100329641,794006,504078
-  mod: ZFIN:ZDB-GENE-030131-8743,ZFIN:ZDB-GENE-050309-208
-  phenotypes: ZDB-GENE-030131-8743,ZDB-GENE-050309-208
+- ensembl: ENSDARG00000070168
+  entrez: '504078'
+  mod: ZFIN:ZDB-GENE-050309-208
+  phenotypes: removal of superoxide radicals, superoxide metabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452810
+  url: https://www.ncbi.nlm.nih.gov/gene/422810
 species: Gallus gallus
 symbol: SOD3
 title: SOD3
@@ -94,9 +89,8 @@ title: SOD3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000109610](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000109610) | [6649](https://www.ncbi.nlm.nih.gov/gene/6649) | [MIM:185490](https://omim.org/entry/185490) | MIM:185490 |
-| Mouse |  | [20657](https://www.ncbi.nlm.nih.gov/gene/20657) | [MGI:103181](http://www.informatics.jax.org/marker/MGI:103181) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100127868](https://www.ncbi.nlm.nih.gov/gene/100127868) | [1008937](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1008937) |  |
-| Zebrafish | [ENSDARG00000094543](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000094543) | [100329641](https://www.ncbi.nlm.nih.gov/gene/100329641), [794006](https://www.ncbi.nlm.nih.gov/gene/794006), [504078](https://www.ncbi.nlm.nih.gov/gene/504078) | [ZFIN:ZDB-GENE-030131-8743](https://zfin.org/ZDB-GENE-030131-8743), [ZFIN:ZDB-GENE-050309-208](https://zfin.org/ZDB-GENE-050309-208) | ZDB-GENE-030131-8743,ZDB-GENE-050309-208 |
+| Mouse | [ENSMUSG00000072941](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000072941) | [20657](https://www.ncbi.nlm.nih.gov/gene/20657) | [MGI:103181](http://www.informatics.jax.org/marker/MGI:103181) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
+| Xenopus | [ENSXETG00000002122](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002122) | [100127868](https://www.ncbi.nlm.nih.gov/gene/100127868) |  |  |
+| Zebrafish | [ENSDARG00000070168](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070168) | [504078](https://www.ncbi.nlm.nih.gov/gene/504078) | [ZFIN:ZDB-GENE-050309-208](https://zfin.org/ZDB-GENE-050309-208) | removal of superoxide radicals, superoxide metabolic process |
 

@@ -3,14 +3,13 @@ aliases:
 - protein very KIND
 cgnc_id: '5286'
 external_ids:
-  '25': stage 25
   Comments: No expression detected at or before stage 7.
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000007007
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423824
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421694
 forward_primer: GGCTGTTGAGGAAGATGTGAGC
-gene_id: '450221'
+gene_id: '423824'
 gene_type: protein-coding
 images:
 - caption: KNDC1 expression
@@ -105,13 +104,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R361.KNDC1.S25R.001.jpg
 name: kinase non-catalytic C-lobe domain containing 1
-ncbi_id: '450221'
+ncbi_id: '423824'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000171798
   entrez: '85442'
   mod: MIM:616237
@@ -122,24 +116,19 @@ orthologs:
   mod: MGI:1923734
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000008873
   entrez: '100495169'
-  mod: '6258226'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: ATTAACCCTCACTAAAGGCGCTGGCAAACTATGAGAGCAATC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450221
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423824
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450221
+  url: https://www.ncbi.nlm.nih.gov/gene/423824
 species: Gallus gallus
 symbol: KNDC1
 template_length: '715'
@@ -163,9 +152,7 @@ title: KNDC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000171798](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171798) | [85442](https://www.ncbi.nlm.nih.gov/gene/85442) | [MIM:616237](https://omim.org/entry/616237) |  |
 | Mouse | [ENSMUSG00000066129](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000066129) | [76484](https://www.ncbi.nlm.nih.gov/gene/76484) | [MGI:1923734](http://www.informatics.jax.org/marker/MGI:1923734) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100495169](https://www.ncbi.nlm.nih.gov/gene/100495169) | [6258226](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6258226) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000008873](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008873) | [100495169](https://www.ncbi.nlm.nih.gov/gene/100495169) |  |  |
 

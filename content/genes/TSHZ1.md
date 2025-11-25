@@ -4,12 +4,11 @@ aliases:
 - teashirt family zinc finger 1
 cgnc_id: '10243'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/428513
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428513
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426067
-gene_id: '461024'
+gene_id: '428513'
 gene_type: protein-coding
 images:
 - caption: TSHZ1 expression
@@ -103,13 +102,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R277.TSHZ1.S25.001.jpg
 name: teashirt zinc finger homeobox 1
-ncbi_id: '461024'
+ncbi_id: '428513'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000179981
   entrez: '10194'
   mod: MIM:614427
@@ -120,23 +114,24 @@ orthologs:
   mod: MGI:1346031
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100379091,100379090
-  mod: '6461980'
+- ensembl: ENSXETG00000039942
+  entrez: '101730769'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000005026
   entrez: '369196'
   mod: ZFIN:ZDB-GENE-030820-3
-  phenotypes: ZDB-GENE-030820-3
+  phenotypes: regulation of gene expression, regulation of transcription by RNA polymerase
+    II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461024
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428513
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461024
+  url: https://www.ncbi.nlm.nih.gov/gene/428513
 species: Gallus gallus
 symbol: TSHZ1
 title: TSHZ1
@@ -157,9 +152,8 @@ title: TSHZ1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000179981](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000179981) | [10194](https://www.ncbi.nlm.nih.gov/gene/10194) | [MIM:614427](https://omim.org/entry/614427) |  |
 | Mouse | [ENSMUSG00000046982](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000046982) | [110796](https://www.ncbi.nlm.nih.gov/gene/110796) | [MGI:1346031](http://www.informatics.jax.org/marker/MGI:1346031) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100379091](https://www.ncbi.nlm.nih.gov/gene/100379091), [100379090](https://www.ncbi.nlm.nih.gov/gene/100379090) | [6461980](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6461980) |  |
-| Zebrafish | [ENSDARG00000005026](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005026) | [369196](https://www.ncbi.nlm.nih.gov/gene/369196) | [ZFIN:ZDB-GENE-030820-3](https://zfin.org/ZDB-GENE-030820-3) | ZDB-GENE-030820-3 |
+| Xenopus | [ENSXETG00000039942](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000039942) | [101730769](https://www.ncbi.nlm.nih.gov/gene/101730769) |  |  |
+| Zebrafish | [ENSDARG00000005026](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005026) | [369196](https://www.ncbi.nlm.nih.gov/gene/369196) | [ZFIN:ZDB-GENE-030820-3](https://zfin.org/ZDB-GENE-030820-3) | regulation of gene expression, regulation of transcription by RNA polymerase II |
 

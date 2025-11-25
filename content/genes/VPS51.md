@@ -20,7 +20,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422984
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031172
-gene_id: '452497'
+gene_id: '422984'
 gene_type: protein-coding
 images:
 - caption: VPS51 expression
@@ -94,7 +94,7 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Moyon.2001.Fig3-all-Ang2.jpg
 name: VPS51, GARP complex subunit
-ncbi_id: '452497'
+ncbi_id: '422984'
 orthologs:
 - ensembl: ''
   entrez: '37156'
@@ -119,12 +119,12 @@ orthologs:
 - ensembl: ENSDARG00000062016
   entrez: '559339'
   mod: ZFIN:ZDB-GENE-030131-6008
-  phenotypes: ZDB-GENE-030131-6008
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452497
+  url: https://www.ncbi.nlm.nih.gov/gene/422984
 species: Gallus gallus
 symbol: VPS51
 title: VPS51
@@ -158,5 +158,5 @@ title: VPS51
 | Human | [ENSG00000149823](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000149823) | [738](https://www.ncbi.nlm.nih.gov/gene/738) | [MIM:615738](https://omim.org/entry/615738) |  |
 | Mouse | [ENSMUSG00000024797](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024797) | [68505](https://www.ncbi.nlm.nih.gov/gene/68505) | [MGI:1915755](http://www.informatics.jax.org/marker/MGI:1915755) | All phenotypic alleles (3):Targeted, other(3) |
 | Xenopus |  | [613113](https://www.ncbi.nlm.nih.gov/gene/613113), [734484](https://www.ncbi.nlm.nih.gov/gene/734484) | [1005390](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1005390) |  |
-| Zebrafish | [ENSDARG00000062016](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062016) | [559339](https://www.ncbi.nlm.nih.gov/gene/559339) | [ZFIN:ZDB-GENE-030131-6008](https://zfin.org/ZDB-GENE-030131-6008) | ZDB-GENE-030131-6008 |
+| Zebrafish | [ENSDARG00000062016](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062016) | [559339](https://www.ncbi.nlm.nih.gov/gene/559339) | [ZFIN:ZDB-GENE-030131-6008](https://zfin.org/ZDB-GENE-030131-6008) |  |
 

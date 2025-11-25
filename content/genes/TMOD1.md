@@ -3,7 +3,6 @@ aliases:
 - E-Tmod, tropomodulin-1, tropomodulin-1
 cgnc_id: '49529'
 external_ids:
-  '25': stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0082582
   Comments: No expression detected at or before stage 6.
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/43633
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395883
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205027
 forward_primer: TGTTACTGTGACAACCTAAAGGCG
-gene_id: '450822'
+gene_id: '395883'
 gene_type: protein-coding
 images:
 - caption: TMOD1 expression
@@ -170,13 +169,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R387.TMOD1.S25.003.jpg
 name: tropomodulin 1
-ncbi_id: '450822'
+ncbi_id: '395883'
 orthologs:
-- ensembl: ''
-  entrez: '43633'
-  mod: FBgn0082582
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136842
   entrez: '7111'
   mod: MIM:190930
@@ -187,24 +181,25 @@ orthologs:
   mod: MGI:98775
   phenotypes: All phenotypic alleles (4):Targeted, other(4)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010173
   entrez: '100486576'
-  mod: '954353'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000078318
   entrez: '100149766'
   mod: ZFIN:ZDB-GENE-090312-131
-  phenotypes: ZDB-GENE-090312-131
+  phenotypes: actin filament organization, muscle contraction, myofibril assembly,
+    pointed-end actin filament capping
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCAAAGCAGCGAAGAAAGGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450822
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395883
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450822
+  url: https://www.ncbi.nlm.nih.gov/gene/395883
 species: Gallus gallus
 symbol: TMOD1
 template_length: '831'
@@ -230,9 +225,8 @@ title: TMOD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43633](https://www.ncbi.nlm.nih.gov/gene/43633) | FBgn0082582 |  |
 | Human | [ENSG00000136842](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136842) | [7111](https://www.ncbi.nlm.nih.gov/gene/7111) | [MIM:190930](https://omim.org/entry/190930) |  |
 | Mouse | [ENSMUSG00000028328](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028328) | [21916](https://www.ncbi.nlm.nih.gov/gene/21916) | [MGI:98775](http://www.informatics.jax.org/marker/MGI:98775) | All phenotypic alleles (4):Targeted, other(4) |
-| Xenopus |  | [100486576](https://www.ncbi.nlm.nih.gov/gene/100486576) | [954353](http://www.xenbase.org/gene/showgene.do?method=display&geneId=954353) |  |
-| Zebrafish | [ENSDARG00000078318](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078318) | [100149766](https://www.ncbi.nlm.nih.gov/gene/100149766) | [ZFIN:ZDB-GENE-090312-131](https://zfin.org/ZDB-GENE-090312-131) | ZDB-GENE-090312-131 |
+| Xenopus | [ENSXETG00000010173](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010173) | [100486576](https://www.ncbi.nlm.nih.gov/gene/100486576) |  |  |
+| Zebrafish | [ENSDARG00000078318](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078318) | [100149766](https://www.ncbi.nlm.nih.gov/gene/100149766) | [ZFIN:ZDB-GENE-090312-131](https://zfin.org/ZDB-GENE-090312-131) | actin filament organization, muscle contraction, myofibril assembly, pointed-end actin filament capping |
 

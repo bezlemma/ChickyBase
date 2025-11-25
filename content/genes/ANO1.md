@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423144
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421072
 forward_primer: CAAATCAATCAGACCCACGGAC
-gene_id: '449517'
+gene_id: '423144'
 gene_type: protein-coding
 images:
 - caption: ANO1 expression
@@ -195,13 +195,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.ANO1.S26C.001.jpg
 name: anoctamin 1
-ncbi_id: '449517'
+ncbi_id: '423144'
 orthologs:
-- ensembl: ''
-  entrez: '42340'
-  mod: FBgn0038721
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000131620
   entrez: '55107'
   mod: MIM:610108
@@ -212,24 +207,24 @@ orthologs:
   mod: MGI:2142149
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100170550,100190795
-  mod: '5967575'
+- ensembl: ENSXETG00000001994
+  entrez: '100170550'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000102335
   entrez: '407698'
   mod: ZFIN:ZDB-GENE-121127-3
-  phenotypes: ZDB-GENE-121127-3
+  phenotypes: chloride transmembrane transport
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCCTCCTCTTCAAACCCAGTCAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449517
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423144
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449517
+  url: https://www.ncbi.nlm.nih.gov/gene/423144
 species: Gallus gallus
 symbol: ANO1
 template_length: '860'
@@ -253,9 +248,8 @@ title: ANO1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42340](https://www.ncbi.nlm.nih.gov/gene/42340) | FBgn0038721 |  |
 | Human | [ENSG00000131620](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000131620) | [55107](https://www.ncbi.nlm.nih.gov/gene/55107) | [MIM:610108](https://omim.org/entry/610108) |  |
 | Mouse | [ENSMUSG00000031075](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031075) | [101772](https://www.ncbi.nlm.nih.gov/gene/101772) | [MGI:2142149](http://www.informatics.jax.org/marker/MGI:2142149) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100170550](https://www.ncbi.nlm.nih.gov/gene/100170550), [100190795](https://www.ncbi.nlm.nih.gov/gene/100190795) | [5967575](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5967575) |  |
-| Zebrafish |  | [407698](https://www.ncbi.nlm.nih.gov/gene/407698) | [ZFIN:ZDB-GENE-121127-3](https://zfin.org/ZDB-GENE-121127-3) | ZDB-GENE-121127-3 |
+| Xenopus | [ENSXETG00000001994](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001994) | [100170550](https://www.ncbi.nlm.nih.gov/gene/100170550) |  |  |
+| Zebrafish | [ENSDARG00000102335](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000102335) | [407698](https://www.ncbi.nlm.nih.gov/gene/407698) | [ZFIN:ZDB-GENE-121127-3](https://zfin.org/ZDB-GENE-121127-3) | chloride transmembrane transport |
 

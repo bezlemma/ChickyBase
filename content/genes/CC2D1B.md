@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:772226
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001235392
 forward_primer: TCTAACGCAAAGGACTTGGGTG
-gene_id: '450592'
+gene_id: '772226'
 gene_type: protein-coding
 images:
 - caption: CC2D1B expression
@@ -61,13 +61,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R702.CC2D1B.S27.001.jpg
 name: coiled-coil and C2 domain containing 1B
-ncbi_id: '450592'
+ncbi_id: '772226'
 orthologs:
-- ensembl: ''
-  entrez: '34543'
-  mod: FBgn0261983
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000154222
   entrez: '200014'
   mod: ''
@@ -78,24 +73,24 @@ orthologs:
   mod: MGI:2443076
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100489497,379644
-  mod: '997987'
+- ensembl: ENSXETG00000008058
+  entrez: '100489497'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000075120
+- ensembl: ENSDARG00000099445
   entrez: '563720'
   mod: ZFIN:ZDB-GENE-030131-1426
-  phenotypes: ZDB-GENE-030131-1426
+  phenotypes: regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAAGAGGGGGAAATCCAGGAGGAAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450592
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=772226
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450592
+  url: https://www.ncbi.nlm.nih.gov/gene/772226
 species: Gallus gallus
 symbol: CC2D1B
 template_length: '864'
@@ -120,9 +115,8 @@ title: CC2D1B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34543](https://www.ncbi.nlm.nih.gov/gene/34543) | FBgn0261983 |  |
 | Human | [ENSG00000154222](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000154222) | [200014](https://www.ncbi.nlm.nih.gov/gene/200014) |  |  |
 | Mouse | [ENSMUSG00000028582](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028582) | [319965](https://www.ncbi.nlm.nih.gov/gene/319965) | [MGI:2443076](http://www.informatics.jax.org/marker/MGI:2443076) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100489497](https://www.ncbi.nlm.nih.gov/gene/100489497), [379644](https://www.ncbi.nlm.nih.gov/gene/379644) | [997987](http://www.xenbase.org/gene/showgene.do?method=display&geneId=997987) |  |
-| Zebrafish | [ENSDARG00000075120](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075120) | [563720](https://www.ncbi.nlm.nih.gov/gene/563720) | [ZFIN:ZDB-GENE-030131-1426](https://zfin.org/ZDB-GENE-030131-1426) | ZDB-GENE-030131-1426 |
+| Xenopus | [ENSXETG00000008058](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008058) | [100489497](https://www.ncbi.nlm.nih.gov/gene/100489497) |  |  |
+| Zebrafish | [ENSDARG00000099445](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099445) | [563720](https://www.ncbi.nlm.nih.gov/gene/563720) | [ZFIN:ZDB-GENE-030131-1426](https://zfin.org/ZDB-GENE-030131-1426) | regulation of transcription by RNA polymerase II |
 

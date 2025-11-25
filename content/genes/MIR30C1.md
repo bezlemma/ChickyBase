@@ -8,7 +8,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/777861
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006110.3?report=genbank&from=4884602&to=4884690
-gene_id: '467991'
+gene_id: '777861'
 gene_type: miscRNA
 images:
 - caption: MIR30C1 expression
@@ -26,35 +26,40 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/30c.10.st21.002.jpg
 name: microRNA 30c-1
-ncbi_id: '467991'
+ncbi_id: '777861'
 orthologs:
-- ensembl: ENSG00000179776
-  entrez: '1003'
-  mod: MIM:601120
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ''
+  entrez: ''
+  mod: ''
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000031871
-  entrez: '12562'
-  mod: MGI:105057
+- ensembl: ''
+  entrez: ''
+  mod: ''
   phenotypes: ''
   species: Mouse
-- ensembl: ENSXETG00000020009
-  entrez: '100488458'
+- ensembl: ''
+  entrez: ''
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000075549
-  entrez: '445471'
-  mod: ZFIN:ZDB-GENE-040816-1
+- ensembl: ''
+  entrez: ''
+  mod: ''
   phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467991
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777861
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467991
+  url: https://www.ncbi.nlm.nih.gov/gene/777861
 species: Gallus gallus
 symbol: MIR30C1
 title: MIR30C1
@@ -79,8 +84,9 @@ This miR (30c-1) contained in the intron of ENSGALG00000003189 (NFYC) with mir-3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Human | [ENSG00000179776](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000179776) | [1003](https://www.ncbi.nlm.nih.gov/gene/1003) | [MIM:601120](https://omim.org/entry/601120) |  |
-| Mouse | [ENSMUSG00000031871](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031871) | [12562](https://www.ncbi.nlm.nih.gov/gene/12562) | [MGI:105057](http://www.informatics.jax.org/marker/MGI:105057) |  |
-| Xenopus | [ENSXETG00000020009](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020009) | [100488458](https://www.ncbi.nlm.nih.gov/gene/100488458) |  |  |
-| Zebrafish | [ENSDARG00000075549](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075549) | [445471](https://www.ncbi.nlm.nih.gov/gene/445471) | [ZFIN:ZDB-GENE-040816-1](https://zfin.org/ZDB-GENE-040816-1) |  |
+| Fruit Fly |  |  |  |  |
+| Human |  |  |  |  |
+| Mouse |  |  |  |  |
+| Xenopus |  |  |  |  |
+| Zebrafish |  |  |  |  |
 

@@ -3,14 +3,13 @@ aliases:
 - fibronectin type III domain-containing protein 7
 cgnc_id: '1407'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000001983
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424339
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422182
 forward_primer: 5’-ATGTACGAGACCAAGGCTGC-3’
-gene_id: '450750'
+gene_id: '424339'
 gene_type: protein-coding
 images:
 - caption: FNDC7 expression
@@ -74,7 +73,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.FNDC7.S25.001.jpg
 name: fibronectin type III domain containing 7
-ncbi_id: '450750'
+ncbi_id: '424339'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -99,16 +98,16 @@ orthologs:
 - ensembl: ''
   entrez: ''
   mod: ZFIN:ZDB-GENE-070216-2
-  phenotypes: ZDB-GENE-070216-2
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGACCACTGTGTAGACATCGCC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450750
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424339
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450750
+  url: https://www.ncbi.nlm.nih.gov/gene/424339
 species: Gallus gallus
 symbol: FNDC7
 template_length: '881'
@@ -135,5 +134,5 @@ title: FNDC7
 | Human | [ENSG00000143107](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143107) | [163479](https://www.ncbi.nlm.nih.gov/gene/163479) |  |  |
 | Mouse | [ENSMUSG00000045326](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000045326) | [320181](https://www.ncbi.nlm.nih.gov/gene/320181) | [MGI:2443535](http://www.informatics.jax.org/marker/MGI:2443535) | All phenotypic alleles (1):Targeted, knock-out(1) |
 | Xenopus |  | [100492589](https://www.ncbi.nlm.nih.gov/gene/100492589) | [981276](http://www.xenbase.org/gene/showgene.do?method=display&geneId=981276) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-070216-2](https://zfin.org/ZDB-GENE-070216-2) | ZDB-GENE-070216-2 |
+| Zebrafish |  |  | [ZFIN:ZDB-GENE-070216-2](https://zfin.org/ZDB-GENE-070216-2) |  |
 

@@ -3,7 +3,6 @@ aliases:
 - bone morphogenetic protein 6
 cgnc_id: '9693'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0024234
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Belecky-Adams+2001+morphogenetic
   Comments: Insufficient information provided in publication to verify exact sequence
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420868
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418956
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGCAGCACCACAAGGAGTTCAAG
-gene_id: '454140'
+gene_id: '420868'
 gene_type: protein-coding
 images:
 - caption: BMP6 expression
@@ -162,13 +161,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP-6.Belecky-Adams.2001.Fig1.jpg
 name: bone morphogenetic protein 6
-ncbi_id: '454140'
+ncbi_id: '420868'
 orthologs:
-- ensembl: ''
-  entrez: '37778'
-  mod: FBgn0024234
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000153162
   entrez: '654'
   mod: MIM:112266
@@ -179,24 +173,25 @@ orthologs:
   mod: MGI:88182
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100127176,734440
-  mod: '479133'
+- ensembl: ENSXETG00000024635
+  entrez: '100127176'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000015686
   entrez: '503761'
   mod: ZFIN:ZDB-GENE-050306-42
-  phenotypes: ZDB-GENE-050306-42
+  phenotypes: BMP signaling pathway, bone morphogenesis, developmental process, heart
+    development
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAACCAGAGTTTGGACGATGGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454140
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420868
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454140
+  url: https://www.ncbi.nlm.nih.gov/gene/420868
 species: Gallus gallus
 symbol: BMP6
 template_length: '700'
@@ -225,9 +220,8 @@ title: BMP6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [37778](https://www.ncbi.nlm.nih.gov/gene/37778) | FBgn0024234 |  |
 | Human | [ENSG00000153162](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000153162) | [654](https://www.ncbi.nlm.nih.gov/gene/654) | [MIM:112266](https://omim.org/entry/112266) |  |
 | Mouse | [ENSMUSG00000039004](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039004) | [12161](https://www.ncbi.nlm.nih.gov/gene/12161) | [MGI:88182](http://www.informatics.jax.org/marker/MGI:88182) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100127176](https://www.ncbi.nlm.nih.gov/gene/100127176), [734440](https://www.ncbi.nlm.nih.gov/gene/734440) | [479133](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479133) |  |
-| Zebrafish | [ENSDARG00000015686](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015686) | [503761](https://www.ncbi.nlm.nih.gov/gene/503761) | [ZFIN:ZDB-GENE-050306-42](https://zfin.org/ZDB-GENE-050306-42) | ZDB-GENE-050306-42 |
+| Xenopus | [ENSXETG00000024635](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000024635) | [100127176](https://www.ncbi.nlm.nih.gov/gene/100127176) |  |  |
+| Zebrafish | [ENSDARG00000015686](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015686) | [503761](https://www.ncbi.nlm.nih.gov/gene/503761) | [ZFIN:ZDB-GENE-050306-42](https://zfin.org/ZDB-GENE-050306-42) | BMP signaling pathway, bone morphogenesis, developmental process, heart development |
 

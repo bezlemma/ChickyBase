@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374001
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0042166
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204181
-gene_id: '463045'
+gene_id: '374001'
 gene_type: protein-coding
 images:
 - caption: CHRNA7 expression
@@ -35,13 +35,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CHRNA7.Ikonomov.1998.Fig3.jpg
 name: cholinergic receptor nicotinic alpha 7 subunit
-ncbi_id: '463045'
+ncbi_id: '374001'
 orthologs:
-- ensembl: ''
-  entrez: '34826'
-  mod: FBgn0028875
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000175344
   entrez: '1139'
   mod: MIM:118511
@@ -52,20 +47,21 @@ orthologs:
   mod: MGI:99779
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000016395
   entrez: '100493611'
-  mod: '990455'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000035785
+- ensembl: ENSDARG00000101702
   entrez: '394199'
   mod: ZFIN:ZDB-GENE-040108-3
-  phenotypes: ZDB-GENE-040108-3
+  phenotypes: chemical synaptic transmission, monoatomic ion transmembrane transport,
+    monoatomic ion transport, regulation of membrane potential, response to nicotine
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463045
+  url: https://www.ncbi.nlm.nih.gov/gene/374001
 species: Gallus gallus
 symbol: CHRNA7
 title: CHRNA7
@@ -96,9 +92,8 @@ title: CHRNA7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34826](https://www.ncbi.nlm.nih.gov/gene/34826) | FBgn0028875 |  |
 | Human | [ENSG00000175344](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000175344) | [1139](https://www.ncbi.nlm.nih.gov/gene/1139) | [MIM:118511](https://omim.org/entry/118511) | MIM:118511 |
 | Mouse | [ENSMUSG00000030525](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030525) | [11441](https://www.ncbi.nlm.nih.gov/gene/11441) | [MGI:99779](http://www.informatics.jax.org/marker/MGI:99779) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100493611](https://www.ncbi.nlm.nih.gov/gene/100493611) | [990455](http://www.xenbase.org/gene/showgene.do?method=display&geneId=990455) |  |
-| Zebrafish | [ENSDARG00000035785](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035785) | [394199](https://www.ncbi.nlm.nih.gov/gene/394199) | [ZFIN:ZDB-GENE-040108-3](https://zfin.org/ZDB-GENE-040108-3) | ZDB-GENE-040108-3 |
+| Xenopus | [ENSXETG00000016395](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016395) | [100493611](https://www.ncbi.nlm.nih.gov/gene/100493611) |  |  |
+| Zebrafish | [ENSDARG00000101702](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101702) | [394199](https://www.ncbi.nlm.nih.gov/gene/394199) | [ZFIN:ZDB-GENE-040108-3](https://zfin.org/ZDB-GENE-040108-3) | chemical synaptic transmission, monoatomic ion transmembrane transport, monoatomic ion transport, regulation of membrane potential, response to nicotine |
 

@@ -4,13 +4,12 @@ aliases:
 - Rho guanine nucleotide exchange factor (GEF) 10
 cgnc_id: '12233'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/421900
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421900
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001235642
 forward_primer: CACCAAGAGGCTAATGTCAC
-gene_id: '455992'
+gene_id: '421900'
 gene_type: protein-coding
 images:
 - caption: ARHGEF10 expression
@@ -116,13 +115,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R389.ARHGEF10.S25.001.jpg
 name: Rho guanine nucleotide exchange factor 10
-ncbi_id: '455992'
+ncbi_id: '421900'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000104728
   entrez: '9639'
   mod: MIM:608136
@@ -133,24 +127,26 @@ orthologs:
   mod: MGI:2444453
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: '100493255'
-  mod: '877295'
+- ensembl: ENSXETG00000011608
+  entrez: '100490713'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000077788
   entrez: '334278'
   mod: ZFIN:ZDB-GENE-030131-6210
-  phenotypes: ZDB-GENE-030131-6210
+  phenotypes: actin cytoskeleton organization, mitotic spindle assembly, positive
+    regulation of stress fiber assembly, regulation of small GTPase mediated signal
+    transduction, swimming behavior
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAATCCTTCAGGCATAGGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455992
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421900
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455992
+  url: https://www.ncbi.nlm.nih.gov/gene/421900
 species: Gallus gallus
 symbol: ARHGEF10
 template_length: '974'
@@ -172,9 +168,8 @@ title: ARHGEF10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000104728](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000104728) | [9639](https://www.ncbi.nlm.nih.gov/gene/9639) | [MIM:608136](https://omim.org/entry/608136) | MIM:608236 |
 | Mouse | [ENSMUSG00000071176](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000071176) | [234094](https://www.ncbi.nlm.nih.gov/gene/234094) | [MGI:2444453](http://www.informatics.jax.org/marker/MGI:2444453) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100493255](https://www.ncbi.nlm.nih.gov/gene/100493255) | [877295](http://www.xenbase.org/gene/showgene.do?method=display&geneId=877295) |  |
-| Zebrafish | [ENSDARG00000077788](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077788) | [334278](https://www.ncbi.nlm.nih.gov/gene/334278) | [ZFIN:ZDB-GENE-030131-6210](https://zfin.org/ZDB-GENE-030131-6210) | ZDB-GENE-030131-6210 |
+| Xenopus | [ENSXETG00000011608](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011608) | [100490713](https://www.ncbi.nlm.nih.gov/gene/100490713) |  |  |
+| Zebrafish | [ENSDARG00000077788](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077788) | [334278](https://www.ncbi.nlm.nih.gov/gene/334278) | [ZFIN:ZDB-GENE-030131-6210](https://zfin.org/ZDB-GENE-030131-6210) | actin cytoskeleton organization, mitotic spindle assembly, positive regulation of stress fiber assembly, regulation of small GTPase mediated signal transduction, swimming behavior |
 

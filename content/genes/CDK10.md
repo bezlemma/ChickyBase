@@ -4,7 +4,6 @@ aliases:
 - cyclin-dependent kinase (CDC2-like) 10
 cgnc_id: '4611'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0013435
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/36051
@@ -13,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415840
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001109939
 forward_primer: 5'-AAAGGCTGCGTGAAGATAGCG-3'
-gene_id: '459251'
+gene_id: '415840'
 gene_type: protein-coding
 images:
 - caption: CDK10 expression
@@ -62,13 +61,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R622.CDK10.S25.001.jpg
 name: cyclin dependent kinase 10
-ncbi_id: '459251'
+ncbi_id: '415840'
 orthologs:
-- ensembl: ''
-  entrez: '36051'
-  mod: FBgn0013435
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000185324
   entrez: '8558'
   mod: MIM:603464
@@ -79,24 +73,25 @@ orthologs:
   mod: MGI:2448549
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549329,100036925
-  mod: '5727030'
+- ensembl: ENSXETG00000000185
+  entrez: '549329'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000034256
   entrez: '550285'
   mod: ZFIN:ZDB-GENE-050417-94
-  phenotypes: ZDB-GENE-050417-94
+  phenotypes: negative regulation of neuron apoptotic process, neurogenesis, phosphorylation,
+    post-translational protein modification, protein phosphorylation
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGGGATGGAAGGCTGTGGATGTTC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459251
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415840
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459251
+  url: https://www.ncbi.nlm.nih.gov/gene/415840
 species: Gallus gallus
 symbol: CDK10
 template_length: '834'
@@ -121,9 +116,8 @@ title: CDK10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36051](https://www.ncbi.nlm.nih.gov/gene/36051) | FBgn0013435 |  |
 | Human | [ENSG00000185324](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185324) | [8558](https://www.ncbi.nlm.nih.gov/gene/8558) | [MIM:603464](https://omim.org/entry/603464) |  |
 | Mouse | [ENSMUSG00000033862](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033862) | [234854](https://www.ncbi.nlm.nih.gov/gene/234854) | [MGI:2448549](http://www.informatics.jax.org/marker/MGI:2448549) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [549329](https://www.ncbi.nlm.nih.gov/gene/549329), [100036925](https://www.ncbi.nlm.nih.gov/gene/100036925) | [5727030](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5727030) |  |
-| Zebrafish | [ENSDARG00000034256](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034256) | [550285](https://www.ncbi.nlm.nih.gov/gene/550285) | [ZFIN:ZDB-GENE-050417-94](https://zfin.org/ZDB-GENE-050417-94) | ZDB-GENE-050417-94 |
+| Xenopus | [ENSXETG00000000185](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000185) | [549329](https://www.ncbi.nlm.nih.gov/gene/549329) |  |  |
+| Zebrafish | [ENSDARG00000034256](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034256) | [550285](https://www.ncbi.nlm.nih.gov/gene/550285) | [ZFIN:ZDB-GENE-050417-94](https://zfin.org/ZDB-GENE-050417-94) | negative regulation of neuron apoptotic process, neurogenesis, phosphorylation, post-translational protein modification, protein phosphorylation |
 

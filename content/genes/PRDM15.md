@@ -5,14 +5,13 @@ aliases:
 - PR domain containing 15
 cgnc_id: '50783'
 external_ids:
-  '25': stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000019178
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418531
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416740
 forward_primer: 5’-AGAGCTGTCAGTTGTGTGGG-3’
-gene_id: '453335'
+gene_id: '418531'
 gene_type: protein-coding
 images:
 - caption: PRDM15 expression
@@ -94,16 +93,11 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R648.PRDM15.S25AA.001.jpg
 name: PR/SET domain 15
-ncbi_id: '453335'
+ncbi_id: '418531'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000141956
   entrez: '63977'
-  mod: ''
+  mod: MIM:617692
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000014039
@@ -111,24 +105,25 @@ orthologs:
   mod: MGI:1930121
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000000068
   entrez: '100494779'
-  mod: '1013929'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000098867
   entrez: '566512'
   mod: ZFIN:ZDB-GENE-080618-4
-  phenotypes: ZDB-GENE-080618-4
+  phenotypes: primitive erythrocyte differentiation, regulation of transcription by
+    RNA polymerase II
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGACAGAGTGAGGATTGGCTGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453335
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418531
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453335
+  url: https://www.ncbi.nlm.nih.gov/gene/418531
 species: Gallus gallus
 symbol: PRDM15
 template_length: '652'
@@ -151,9 +146,8 @@ title: PRDM15
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000141956](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000141956) | [63977](https://www.ncbi.nlm.nih.gov/gene/63977) |  |  |
+| Human | [ENSG00000141956](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000141956) | [63977](https://www.ncbi.nlm.nih.gov/gene/63977) | [MIM:617692](https://omim.org/entry/617692) |  |
 | Mouse | [ENSMUSG00000014039](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000014039) | [114604](https://www.ncbi.nlm.nih.gov/gene/114604) | [MGI:1930121](http://www.informatics.jax.org/marker/MGI:1930121) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100494779](https://www.ncbi.nlm.nih.gov/gene/100494779) | [1013929](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1013929) |  |
-| Zebrafish |  | [566512](https://www.ncbi.nlm.nih.gov/gene/566512) | [ZFIN:ZDB-GENE-080618-4](https://zfin.org/ZDB-GENE-080618-4) | ZDB-GENE-080618-4 |
+| Xenopus | [ENSXETG00000000068](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000068) | [100494779](https://www.ncbi.nlm.nih.gov/gene/100494779) |  |  |
+| Zebrafish | [ENSDARG00000098867](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098867) | [566512](https://www.ncbi.nlm.nih.gov/gene/566512) | [ZFIN:ZDB-GENE-080618-4](https://zfin.org/ZDB-GENE-080618-4) | primitive erythrocyte differentiation, regulation of transcription by RNA polymerase II |
 

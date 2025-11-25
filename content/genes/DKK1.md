@@ -5,8 +5,6 @@ aliases:
 - dickkopf homolog 1
 cgnc_id: '2791'
 external_ids:
-  '19': stage 19
-  '4': stage 4stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=+2020+Stern+
     Lee+Oliveira+chick
   Comments: Insufficient information provided in publication to verify exact sequence
@@ -652,7 +650,7 @@ orthologs:
 - ensembl: ENSDARG00000014103,ENSDARG00000045219
   entrez: 799377,30197
   mod: ZFIN:ZDB-GENE-090313-406,ZFIN:ZDB-GENE-990708-5
-  phenotypes: ZDB-GENE-090313-406,ZDB-GENE-990708-5
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -687,5 +685,5 @@ title: DKK1
 | Human | [ENSG00000107984](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107984) | [22943](https://www.ncbi.nlm.nih.gov/gene/22943) | [MIM:605189](https://omim.org/entry/605189) |  |
 | Mouse | [ENSMUSG00000024868](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024868) | [13380](https://www.ncbi.nlm.nih.gov/gene/13380) | [MGI:1329040](http://www.informatics.jax.org/marker/MGI:1329040) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
 | Xenopus |  | [549037](https://www.ncbi.nlm.nih.gov/gene/549037), [373592](https://www.ncbi.nlm.nih.gov/gene/373592) | [481643](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481643) |  |
-| Zebrafish | [ENSDARG00000014103](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014103), [ENSDARG00000045219](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045219) | [799377](https://www.ncbi.nlm.nih.gov/gene/799377), [30197](https://www.ncbi.nlm.nih.gov/gene/30197) | [ZFIN:ZDB-GENE-090313-406](https://zfin.org/ZDB-GENE-090313-406), [ZFIN:ZDB-GENE-990708-5](https://zfin.org/ZDB-GENE-990708-5) | ZDB-GENE-090313-406,ZDB-GENE-990708-5 |
+| Zebrafish | [ENSDARG00000014103](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014103), [ENSDARG00000045219](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045219) | [799377](https://www.ncbi.nlm.nih.gov/gene/799377), [30197](https://www.ncbi.nlm.nih.gov/gene/30197) | [ZFIN:ZDB-GENE-090313-406](https://zfin.org/ZDB-GENE-090313-406), [ZFIN:ZDB-GENE-990708-5](https://zfin.org/ZDB-GENE-990708-5) |  |
 

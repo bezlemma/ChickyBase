@@ -3,7 +3,6 @@ aliases:
 - LIM domain-binding protein 3
 cgnc_id: '52001'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Anderson et al. 2019.
@@ -14,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423610
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641476
 forward_primer: CACAGTCACAGATGAATCAAGGGG
-gene_id: '451192'
+gene_id: '423610'
 gene_type: protein-coding
 images:
 - caption: LDB3 expression
@@ -242,41 +241,26 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LDB3.Anderson.2019.Supplementary
     figure 4D.jpg
 name: LIM domain binding 3
-ncbi_id: '451192'
+ncbi_id: '423610'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000122367
+  entrez: '11155'
+  mod: MIM:605906
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000021798
+  entrez: '24131'
+  mod: MGI:1344412
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTGGGCAAGGATGCGAAAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451192
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423610
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451192
+  url: https://www.ncbi.nlm.nih.gov/gene/423610
 species: Gallus gallus
 symbol: LDB3
 template_length: '583'
@@ -303,9 +287,6 @@ title: LDB3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000122367](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000122367) | [11155](https://www.ncbi.nlm.nih.gov/gene/11155) | [MIM:605906](https://omim.org/entry/605906) |  |
+| Mouse | [ENSMUSG00000021798](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021798) | [24131](https://www.ncbi.nlm.nih.gov/gene/24131) | [MGI:1344412](http://www.informatics.jax.org/marker/MGI:1344412) |  |
 

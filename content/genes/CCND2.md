@@ -3,7 +3,6 @@ aliases:
 - G1/S-specific cyclin-D2
 cgnc_id: '12983'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0010315
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007049
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0000785
@@ -20,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0019901
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204213
 forward_primer: ACAACTTACTGACGATAGAGGAGCG
-gene_id: '454483'
+gene_id: '374047'
 gene_type: protein-coding
 images:
 - caption: CCND2 expression
@@ -194,13 +193,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-CyclinD2-Fig2.jpg
 name: cyclin D2
-ncbi_id: '454483'
+ncbi_id: '374047'
 orthologs:
-- ensembl: ''
-  entrez: '32551'
-  mod: FBgn0010315
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000118971
   entrez: '894'
   mod: MIM:123833
@@ -212,23 +206,24 @@ orthologs:
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
 - ensembl: ''
-  entrez: 100038071,734882,373667
-  mod: '481218'
+  entrez: '100038071'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000051748
-  entrez: 799608,565038
-  mod: ZFIN:ZDB-GENE-070424-30,ZFIN:ZDB-GENE-050420-354
-  phenotypes: ZDB-GENE-070424-30,ZDB-GENE-050420-354
+  entrez: '799608'
+  mod: ZFIN:ZDB-GENE-070424-30
+  phenotypes: G1/S transition of mitotic cell cycle, cell division, mitotic cell cycle
+    phase transition, positive regulation of G1/S transition of mitotic cell cycle
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTGGCACAAAGGGCAATGAAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454483
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374047
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454483
+  url: https://www.ncbi.nlm.nih.gov/gene/374047
 species: Gallus gallus
 symbol: CCND2
 template_length: '486'
@@ -260,9 +255,8 @@ title: CCND2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32551](https://www.ncbi.nlm.nih.gov/gene/32551) | FBgn0010315 |  |
 | Human | [ENSG00000118971](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118971) | [894](https://www.ncbi.nlm.nih.gov/gene/894) | [MIM:123833](https://omim.org/entry/123833) |  |
 | Mouse | [ENSMUSG00000000184](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000184) | [12444](https://www.ncbi.nlm.nih.gov/gene/12444) | [MGI:88314](http://www.informatics.jax.org/marker/MGI:88314) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100038071](https://www.ncbi.nlm.nih.gov/gene/100038071), [734882](https://www.ncbi.nlm.nih.gov/gene/734882), [373667](https://www.ncbi.nlm.nih.gov/gene/373667) | [481218](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481218) |  |
-| Zebrafish | [ENSDARG00000051748](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000051748) | [799608](https://www.ncbi.nlm.nih.gov/gene/799608), [565038](https://www.ncbi.nlm.nih.gov/gene/565038) | [ZFIN:ZDB-GENE-070424-30](https://zfin.org/ZDB-GENE-070424-30), [ZFIN:ZDB-GENE-050420-354](https://zfin.org/ZDB-GENE-050420-354) | ZDB-GENE-070424-30,ZDB-GENE-050420-354 |
+| Xenopus |  | [100038071](https://www.ncbi.nlm.nih.gov/gene/100038071) |  |  |
+| Zebrafish | [ENSDARG00000051748](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000051748) | [799608](https://www.ncbi.nlm.nih.gov/gene/799608) | [ZFIN:ZDB-GENE-070424-30](https://zfin.org/ZDB-GENE-070424-30) | G1/S transition of mitotic cell cycle, cell division, mitotic cell cycle phase transition, positive regulation of G1/S transition of mitotic cell cycle |
 

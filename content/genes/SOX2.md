@@ -7,10 +7,6 @@ aliases:
 - delta EF2a, Transcription factor SOX-2
 cgnc_id: '49650'
 external_ids:
-  '13': stage 13stage 13
-  '19': stage 19stage 19stage 19
-  '4': stage 4stage 4
-  '7': stage 7stage 7
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007050
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005829
   Citation: https://pubmed.ncbi.nlm.nih.gov/21762129/
@@ -23,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396105
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0035198
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205188
-gene_id: '458727'
+gene_id: '396105'
 gene_type: protein-coding
 images:
 - caption: SOX2 expression
@@ -977,13 +973,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Screenshot 2024-01-21
     at 12.52.49.png
 name: SRY-box 2
-ncbi_id: '458727'
+ncbi_id: '396105'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000181449
   entrez: '6657'
   mod: MIM:184429
@@ -995,20 +986,21 @@ orthologs:
   phenotypes: All phenotypic alleles (16):Radiation induced(1) Targeted, knock-out(4)
     Targeted, other(10) Transgenic(1)
   species: Mouse
-- ensembl: ''
-  entrez: 407873,398000
-  mod: '484552'
+- ensembl: ENSXETG00000036807
+  entrez: '407873'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000070913
   entrez: '378723'
   mod: ZFIN:ZDB-GENE-030909-1
-  phenotypes: ZDB-GENE-030909-1
+  phenotypes: brain development, cell population proliferation, epithalamus development,
+    eye morphogenesis, fin regeneration
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458727
+  url: https://www.ncbi.nlm.nih.gov/gene/396105
 species: Gallus gallus
 symbol: SOX2
 title: SOX2
@@ -1037,9 +1029,8 @@ title: SOX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000181449](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000181449) | [6657](https://www.ncbi.nlm.nih.gov/gene/6657) | [MIM:184429](https://omim.org/entry/184429) | MIM:206900 |
 | Mouse | [ENSMUSG00000074637](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000074637) | [20674](https://www.ncbi.nlm.nih.gov/gene/20674) | [MGI:98364](http://www.informatics.jax.org/marker/MGI:98364) | All phenotypic alleles (16):Radiation induced(1) Targeted, knock-out(4) Targeted, other(10) Transgenic(1) |
-| Xenopus |  | [407873](https://www.ncbi.nlm.nih.gov/gene/407873), [398000](https://www.ncbi.nlm.nih.gov/gene/398000) | [484552](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484552) |  |
-| Zebrafish | [ENSDARG00000070913](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070913) | [378723](https://www.ncbi.nlm.nih.gov/gene/378723) | [ZFIN:ZDB-GENE-030909-1](https://zfin.org/ZDB-GENE-030909-1) | ZDB-GENE-030909-1 |
+| Xenopus | [ENSXETG00000036807](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000036807) | [407873](https://www.ncbi.nlm.nih.gov/gene/407873) |  |  |
+| Zebrafish | [ENSDARG00000070913](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070913) | [378723](https://www.ncbi.nlm.nih.gov/gene/378723) | [ZFIN:ZDB-GENE-030909-1](https://zfin.org/ZDB-GENE-030909-1) | brain development, cell population proliferation, epithalamus development, eye morphogenesis, fin regeneration |
 

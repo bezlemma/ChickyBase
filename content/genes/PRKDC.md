@@ -1,7 +1,6 @@
 ---
 cgnc_id: '9779'
 external_ids:
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006281
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0070419
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000012914
@@ -9,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395376
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204658
-gene_id: '448944'
+gene_id: '395376'
 gene_type: protein-coding
 images:
 - caption: PRKDC expression
@@ -41,13 +40,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53P.26.st25.jpg
 name: protein kinase, DNA-activated, catalytic polypeptide
-ncbi_id: '448944'
+ncbi_id: '395376'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000253729
   entrez: '5591'
   mod: MIM:600899
@@ -59,23 +53,24 @@ orthologs:
   phenotypes: All phenotypic alleles (9):Spontaneous(2) Chemically induced(2) Targeted,
     knock-out(3) Targeted, other(1) Transgenic(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100488663,373602
-  mod: '494613'
+- ensembl: ENSXETG00000004851
+  entrez: '100488663'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000075083
   entrez: '562283'
   mod: ZFIN:ZDB-GENE-030131-9008
-  phenotypes: ZDB-GENE-030131-9008
+  phenotypes: B cell differentiation, DNA damage response, DNA repair, T cell differentiation,
+    T cell receptor V(D)J recombination
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448944
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395376
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448944
+  url: https://www.ncbi.nlm.nih.gov/gene/395376
 species: Gallus gallus
 symbol: PRKDC
 title: PRKDC
@@ -99,9 +94,8 @@ title: PRKDC
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000253729](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000253729) | [5591](https://www.ncbi.nlm.nih.gov/gene/5591) | [MIM:600899](https://omim.org/entry/600899) |  |
 | Mouse | [ENSMUSG00000022672](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022672) | [19090](https://www.ncbi.nlm.nih.gov/gene/19090) | [MGI:104779](http://www.informatics.jax.org/marker/MGI:104779) | All phenotypic alleles (9):Spontaneous(2) Chemically induced(2) Targeted, knock-out(3) Targeted, other(1) Transgenic(1) |
-| Xenopus |  | [100488663](https://www.ncbi.nlm.nih.gov/gene/100488663), [373602](https://www.ncbi.nlm.nih.gov/gene/373602) | [494613](http://www.xenbase.org/gene/showgene.do?method=display&geneId=494613) |  |
-| Zebrafish | [ENSDARG00000075083](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075083) | [562283](https://www.ncbi.nlm.nih.gov/gene/562283) | [ZFIN:ZDB-GENE-030131-9008](https://zfin.org/ZDB-GENE-030131-9008) | ZDB-GENE-030131-9008 |
+| Xenopus | [ENSXETG00000004851](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004851) | [100488663](https://www.ncbi.nlm.nih.gov/gene/100488663) |  |  |
+| Zebrafish | [ENSDARG00000075083](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075083) | [562283](https://www.ncbi.nlm.nih.gov/gene/562283) | [ZFIN:ZDB-GENE-030131-9008](https://zfin.org/ZDB-GENE-030131-9008) | B cell differentiation, DNA damage response, DNA repair, T cell differentiation, T cell receptor V(D)J recombination |
 

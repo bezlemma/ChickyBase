@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:772164
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001235338
 forward_primer: GAGAACATTGCTGTGTCCGAG
-gene_id: '450673'
+gene_id: '772164'
 gene_type: protein-coding
 images:
 - caption: PANX1 expression
@@ -325,7 +325,7 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R613.PANX1.S27.001.jpg
 name: pannexin 1
-ncbi_id: '450673'
+ncbi_id: '772164'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -350,16 +350,16 @@ orthologs:
 - ensembl: ENSDARG00000025285
   entrez: 393890,567417
   mod: ZFIN:ZDB-GENE-040426-766,ZFIN:ZDB-GENE-070705-192
-  phenotypes: ZDB-GENE-040426-766,ZDB-GENE-070705-192
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAGTCTAAACTCCCAGAAGGATACG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450673
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=772164
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450673
+  url: https://www.ncbi.nlm.nih.gov/gene/772164
 species: Gallus gallus
 symbol: PANX1
 template_length: '1087'
@@ -386,5 +386,5 @@ title: PANX1
 | Human | [ENSG00000110218](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000110218) | [24145](https://www.ncbi.nlm.nih.gov/gene/24145) | [MIM:608420](https://omim.org/entry/608420) |  |
 | Mouse |  | [55991](https://www.ncbi.nlm.nih.gov/gene/55991) | [MGI:1860055](http://www.informatics.jax.org/marker/MGI:1860055) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
 | Xenopus |  | [100170473](https://www.ncbi.nlm.nih.gov/gene/100170473) | [993671](http://www.xenbase.org/gene/showgene.do?method=display&geneId=993671) |  |
-| Zebrafish | [ENSDARG00000025285](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025285) | [393890](https://www.ncbi.nlm.nih.gov/gene/393890), [567417](https://www.ncbi.nlm.nih.gov/gene/567417) | [ZFIN:ZDB-GENE-040426-766](https://zfin.org/ZDB-GENE-040426-766), [ZFIN:ZDB-GENE-070705-192](https://zfin.org/ZDB-GENE-070705-192) | ZDB-GENE-040426-766,ZDB-GENE-070705-192 |
+| Zebrafish | [ENSDARG00000025285](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025285) | [393890](https://www.ncbi.nlm.nih.gov/gene/393890), [567417](https://www.ncbi.nlm.nih.gov/gene/567417) | [ZFIN:ZDB-GENE-040426-766](https://zfin.org/ZDB-GENE-040426-766), [ZFIN:ZDB-GENE-070705-192](https://zfin.org/ZDB-GENE-070705-192) |  |
 

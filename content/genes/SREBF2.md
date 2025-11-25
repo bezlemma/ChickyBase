@@ -1,8 +1,6 @@
 ---
 cgnc_id: '49254'
 external_ids:
-  '13': stage 13
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=adams+gammill+transcription+factors+candidate+regulators+neural+crest+development
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (XM_416222).
@@ -13,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395304
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416222
 forward_primer: TGTTGAAGGGCATTGACCTAAGC
-gene_id: '448887'
+gene_id: '395304'
 gene_type: protein-coding
 images:
 - caption: SREBF2 expression
@@ -202,13 +200,8 @@ images:
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SREBP2.FIG6B.ADAMS.2008.jpg
 name: sterol regulatory element binding transcription factor 2
-ncbi_id: '448887'
+ncbi_id: '395304'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000198911
   entrez: '6721'
   mod: MIM:600481
@@ -219,24 +212,25 @@ orthologs:
   mod: MGI:107585
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100144677,443980
-  mod: '1011359'
+- ensembl: ENSXETG00000017449
+  entrez: '100144677'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000063438
   entrez: '100037309'
   mod: ZFIN:ZDB-GENE-070410-8
-  phenotypes: ZDB-GENE-070410-8
+  phenotypes: SREBP signaling pathway, cholesterol metabolic process, lipid metabolic
+    process, liver development, positive regulation of cholesterol biosynthetic process
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGAGGGGAGTTTACCTGTGATGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448887
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395304
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448887
+  url: https://www.ncbi.nlm.nih.gov/gene/395304
 species: Gallus gallus
 symbol: SREBF2
 template_length: '842'
@@ -263,9 +257,8 @@ title: SREBF2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000198911](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198911) | [6721](https://www.ncbi.nlm.nih.gov/gene/6721) | [MIM:600481](https://omim.org/entry/600481) |  |
 | Mouse | [ENSMUSG00000022463](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022463) | [20788](https://www.ncbi.nlm.nih.gov/gene/20788) | [MGI:107585](http://www.informatics.jax.org/marker/MGI:107585) |  |
-| Xenopus |  | [100144677](https://www.ncbi.nlm.nih.gov/gene/100144677), [443980](https://www.ncbi.nlm.nih.gov/gene/443980) | [1011359](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1011359) |  |
-| Zebrafish | [ENSDARG00000063438](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063438) | [100037309](https://www.ncbi.nlm.nih.gov/gene/100037309) | [ZFIN:ZDB-GENE-070410-8](https://zfin.org/ZDB-GENE-070410-8) | ZDB-GENE-070410-8 |
+| Xenopus | [ENSXETG00000017449](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017449) | [100144677](https://www.ncbi.nlm.nih.gov/gene/100144677) |  |  |
+| Zebrafish | [ENSDARG00000063438](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063438) | [100037309](https://www.ncbi.nlm.nih.gov/gene/100037309) | [ZFIN:ZDB-GENE-070410-8](https://zfin.org/ZDB-GENE-070410-8) | SREBP signaling pathway, cholesterol metabolic process, lipid metabolic process, liver development, positive regulation of cholesterol biosynthetic process |
 

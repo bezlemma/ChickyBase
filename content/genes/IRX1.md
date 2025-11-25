@@ -5,8 +5,6 @@ aliases:
 - iroquois homologue-1
 cgnc_id: '9961'
 external_ids:
-  '1': stage 1
-  '4': stage 4
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (NM_001030338
@@ -18,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374185
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030338
 forward_primer: AACACCGCAAGAACCCCTACCC
-gene_id: '455080'
+gene_id: '374185'
 gene_type: protein-coding
 images:
 - caption: IRX1 expression
@@ -257,13 +255,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IRX1.Anderson.2019.Supplementary
     figure 4I.jpg
 name: iroquois homeobox 1
-ncbi_id: '455080'
+ncbi_id: '374185'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000170549
   entrez: '79192'
   mod: MIM:606197
@@ -274,24 +267,26 @@ orthologs:
   mod: MGI:1197515
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100038208,397976,735237
-  mod: '486816'
+- ensembl: ENSXETG00000006958
+  entrez: '100038208'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000009510,ENSDARG00000056594
-  entrez: 403019,114430
-  mod: ZFIN:ZDB-GENE-040707-1,ZFIN:ZDB-GENE-010716-1
-  phenotypes: ZDB-GENE-040707-1,ZDB-GENE-010716-1
+- ensembl: ENSDARG00000101831
+  entrez: '403019'
+  mod: ZFIN:ZDB-GENE-040707-1
+  phenotypes: cell development, central nervous system development, central nervous
+    system neuron differentiation, embryonic camera-type eye development, embryonic
+    pectoral fin morphogenesis
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAAGCCCCATTTGTCCAGTTGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455080
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374185
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455080
+  url: https://www.ncbi.nlm.nih.gov/gene/374185
 species: Gallus gallus
 symbol: IRX1
 template_length: '675'
@@ -318,9 +313,8 @@ title: IRX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000170549](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170549) | [79192](https://www.ncbi.nlm.nih.gov/gene/79192) | [MIM:606197](https://omim.org/entry/606197) |  |
 | Mouse | [ENSMUSG00000060969](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000060969) | [16371](https://www.ncbi.nlm.nih.gov/gene/16371) | [MGI:1197515](http://www.informatics.jax.org/marker/MGI:1197515) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100038208](https://www.ncbi.nlm.nih.gov/gene/100038208), [397976](https://www.ncbi.nlm.nih.gov/gene/397976), [735237](https://www.ncbi.nlm.nih.gov/gene/735237) | [486816](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486816) |  |
-| Zebrafish | [ENSDARG00000009510](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009510), [ENSDARG00000056594](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056594) | [403019](https://www.ncbi.nlm.nih.gov/gene/403019), [114430](https://www.ncbi.nlm.nih.gov/gene/114430) | [ZFIN:ZDB-GENE-040707-1](https://zfin.org/ZDB-GENE-040707-1), [ZFIN:ZDB-GENE-010716-1](https://zfin.org/ZDB-GENE-010716-1) | ZDB-GENE-040707-1,ZDB-GENE-010716-1 |
+| Xenopus | [ENSXETG00000006958](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006958) | [100038208](https://www.ncbi.nlm.nih.gov/gene/100038208) |  |  |
+| Zebrafish | [ENSDARG00000101831](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101831) | [403019](https://www.ncbi.nlm.nih.gov/gene/403019) | [ZFIN:ZDB-GENE-040707-1](https://zfin.org/ZDB-GENE-040707-1) | cell development, central nervous system development, central nervous system neuron differentiation, embryonic camera-type eye development, embryonic pectoral fin morphogenesis |
 

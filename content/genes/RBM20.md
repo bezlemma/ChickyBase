@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423892
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421755
 forward_primer: CCGACACCTGACACAAAGTTTAGC
-gene_id: '450352'
+gene_id: '423892'
 gene_type: protein-coding
 images:
 - caption: RBM20 expression
@@ -118,13 +118,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R472.RBM20.S26.001.jpg
 name: RNA binding motif protein 20
-ncbi_id: '450352'
+ncbi_id: '423892'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000203867
   entrez: '282996'
   mod: MIM:613171
@@ -135,24 +130,24 @@ orthologs:
   mod: MGI:1920963
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000025245
   entrez: '100495938'
-  mod: '6465464'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: 555579,497540
+- ensembl: ENSDARG00000092881
+  entrez: '497540'
   mod: ZFIN:ZDB-GENE-050208-256
-  phenotypes: ZDB-GENE-050208-256
+  phenotypes: biological_process
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCCTGGATGATAGCAGCAACG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450352
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423892
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450352
+  url: https://www.ncbi.nlm.nih.gov/gene/423892
 species: Gallus gallus
 symbol: RBM20
 template_length: '800'
@@ -174,9 +169,8 @@ title: RBM20
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000203867](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000203867) | [282996](https://www.ncbi.nlm.nih.gov/gene/282996) | [MIM:613171](https://omim.org/entry/613171) | MIM:613172 |
 | Mouse | [ENSMUSG00000043639](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000043639) | [73713](https://www.ncbi.nlm.nih.gov/gene/73713) | [MGI:1920963](http://www.informatics.jax.org/marker/MGI:1920963) |  |
-| Xenopus |  | [100495938](https://www.ncbi.nlm.nih.gov/gene/100495938) | [6465464](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6465464) |  |
-| Zebrafish |  | [555579](https://www.ncbi.nlm.nih.gov/gene/555579), [497540](https://www.ncbi.nlm.nih.gov/gene/497540) | [ZFIN:ZDB-GENE-050208-256](https://zfin.org/ZDB-GENE-050208-256) | ZDB-GENE-050208-256 |
+| Xenopus | [ENSXETG00000025245](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025245) | [100495938](https://www.ncbi.nlm.nih.gov/gene/100495938) |  |  |
+| Zebrafish | [ENSDARG00000092881](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000092881) | [497540](https://www.ncbi.nlm.nih.gov/gene/497540) | [ZFIN:ZDB-GENE-050208-256](https://zfin.org/ZDB-GENE-050208-256) | biological_process |
 

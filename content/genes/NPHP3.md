@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420690
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418790
 forward_primer: 5’-AAACAGGATATCTTGGGCTG-3’
-gene_id: '468090'
+gene_id: '420690'
 gene_type: protein-coding
 images:
 - caption: NPHP3 expression
@@ -58,13 +58,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R696.NHP3.S26.001.jpg
 name: nephrocystin 3
-ncbi_id: '468090'
+ncbi_id: '420690'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000113971
   entrez: '27031'
   mod: MIM:608002
@@ -76,24 +71,25 @@ orthologs:
   phenotypes: All phenotypic alleles (3):Spontaneous(1) Chemically induced(1) Targeted,
     other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 780190,446530
-  mod: '487872'
+- ensembl: ENSXETG00000008477
+  entrez: '780190'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000078261
   entrez: '562601'
   mod: ZFIN:ZDB-GENE-091204-117
-  phenotypes: ZDB-GENE-091204-117
+  phenotypes: Kupffer's vesicle development, Wnt signaling pathway, anatomical structure
+    morphogenesis, cilium assembly, convergent extension
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGAGTGACATACAAAGCGTTG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468090
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420690
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468090
+  url: https://www.ncbi.nlm.nih.gov/gene/420690
 species: Gallus gallus
 symbol: NPHP3
 template_length: '811'
@@ -116,9 +112,8 @@ title: NPHP3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000113971](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113971) | [27031](https://www.ncbi.nlm.nih.gov/gene/27031) | [MIM:608002](https://omim.org/entry/608002) | MIM:267010 |
 | Mouse | [ENSMUSG00000032558](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032558) | [74025](https://www.ncbi.nlm.nih.gov/gene/74025) | [MGI:1921275](http://www.informatics.jax.org/marker/MGI:1921275) | All phenotypic alleles (3):Spontaneous(1) Chemically induced(1) Targeted, other(1) |
-| Xenopus |  | [780190](https://www.ncbi.nlm.nih.gov/gene/780190), [446530](https://www.ncbi.nlm.nih.gov/gene/446530) | [487872](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487872) |  |
-| Zebrafish | [ENSDARG00000078261](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078261) | [562601](https://www.ncbi.nlm.nih.gov/gene/562601) | [ZFIN:ZDB-GENE-091204-117](https://zfin.org/ZDB-GENE-091204-117) | ZDB-GENE-091204-117 |
+| Xenopus | [ENSXETG00000008477](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008477) | [780190](https://www.ncbi.nlm.nih.gov/gene/780190) |  |  |
+| Zebrafish | [ENSDARG00000078261](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078261) | [562601](https://www.ncbi.nlm.nih.gov/gene/562601) | [ZFIN:ZDB-GENE-091204-117](https://zfin.org/ZDB-GENE-091204-117) | Kupffer's vesicle development, Wnt signaling pathway, anatomical structure morphogenesis, cilium assembly, convergent extension |
 

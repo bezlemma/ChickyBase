@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100858027
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642145
 forward_primer: TGCCGTCACAGGAGAAGTTTTC
-gene_id: '472558'
+gene_id: '100858027'
 gene_type: protein-coding
 images:
 - caption: LLGL1 expression
@@ -129,41 +129,38 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R423.LLGL1.S26.001.jpg
 name: LLGL1, scribble cell polarity complex component
-ncbi_id: '472558'
+ncbi_id: '100858027'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000131899
+  entrez: '3996'
+  mod: MIM:600966
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000020536
+  entrez: '16897'
+  mod: MGI:102682
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000005768
+  entrez: '100486472'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000009693
+  entrez: '751760'
+  mod: ZFIN:ZDB-GENE-060825-69
+  phenotypes: Golgi to plasma membrane transport, atrioventricular valve development,
+    cell projection assembly, cortical actin cytoskeleton organization, establishment
+    of spindle orientation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGAATCCGAACACTGAGATGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=472558
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100858027
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/472558
+  url: https://www.ncbi.nlm.nih.gov/gene/100858027
 species: Gallus gallus
 symbol: LLGL1
 template_length: '941'
@@ -185,9 +182,8 @@ title: LLGL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000131899](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000131899) | [3996](https://www.ncbi.nlm.nih.gov/gene/3996) | [MIM:600966](https://omim.org/entry/600966) |  |
+| Mouse | [ENSMUSG00000020536](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020536) | [16897](https://www.ncbi.nlm.nih.gov/gene/16897) | [MGI:102682](http://www.informatics.jax.org/marker/MGI:102682) |  |
+| Xenopus | [ENSXETG00000005768](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005768) | [100486472](https://www.ncbi.nlm.nih.gov/gene/100486472) |  |  |
+| Zebrafish | [ENSDARG00000009693](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009693) | [751760](https://www.ncbi.nlm.nih.gov/gene/751760) | [ZFIN:ZDB-GENE-060825-69](https://zfin.org/ZDB-GENE-060825-69) | Golgi to plasma membrane transport, atrioventricular valve development, cell projection assembly, cortical actin cytoskeleton organization, establishment of spindle orientation |
 

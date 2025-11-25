@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420022
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001105610
-gene_id: '458356'
+gene_id: '420022'
 gene_type: protein-coding
 images:
 - caption: RAMP2 expression
@@ -34,37 +34,22 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RAMP2.Javerzat.2009.3B.png
 name: receptor activity modifying protein 2
-ncbi_id: '458356'
+ncbi_id: '420022'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000131477
   entrez: '10266'
   mod: MIM:605154
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000001240
   entrez: '54409'
   mod: MGI:1859650
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000037895
-  entrez: '566313'
-  mod: ZFIN:ZDB-GENE-080204-79
-  phenotypes: ZDB-GENE-080204-79
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458356
+  url: https://www.ncbi.nlm.nih.gov/gene/420022
 species: Gallus gallus
 symbol: RAMP2
 title: RAMP2
@@ -90,9 +75,6 @@ title: RAMP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000131477](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000131477) | [10266](https://www.ncbi.nlm.nih.gov/gene/10266) | [MIM:605154](https://omim.org/entry/605154) |  |
-| Mouse |  | [54409](https://www.ncbi.nlm.nih.gov/gene/54409) | [MGI:1859650](http://www.informatics.jax.org/marker/MGI:1859650) | All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000037895](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037895) | [566313](https://www.ncbi.nlm.nih.gov/gene/566313) | [ZFIN:ZDB-GENE-080204-79](https://zfin.org/ZDB-GENE-080204-79) | ZDB-GENE-080204-79 |
+| Mouse | [ENSMUSG00000001240](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001240) | [54409](https://www.ncbi.nlm.nih.gov/gene/54409) | [MGI:1859650](http://www.informatics.jax.org/marker/MGI:1859650) | All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1) |
 

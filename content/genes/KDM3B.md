@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100859412
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006100.3?report=genbank&from=17614532&to=17660452
 forward_primer: AACAGGCCGAACGCAAAC
-gene_id: '473943'
+gene_id: '100859412'
 gene_type: protein-coding
 images:
 - caption: KDM3B expression
@@ -81,41 +81,37 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM3B.S27.001.jpg
 name: lysine demethylase 3B
-ncbi_id: '473943'
+ncbi_id: '100859412'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000120733
+  entrez: '51780'
+  mod: MIM:609373
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000038773
+  entrez: '277250'
+  mod: MGI:1923356
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000006700
+  entrez: '100135177'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000062267
+  entrez: '326643'
+  mod: ZFIN:ZDB-GENE-101007-4
+  phenotypes: chromatin organization, demethylation, regulation of transcription by
+    RNA polymerase II
   species: Zebrafish
 reverse_primer: CCTTGGCTTGCAACTGCTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=473943
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100859412
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/473943
+  url: https://www.ncbi.nlm.nih.gov/gene/100859412
 species: Gallus gallus
 symbol: KDM3B
 template_length: '1121'
@@ -139,9 +135,8 @@ title: KDM3B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000120733](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000120733) | [51780](https://www.ncbi.nlm.nih.gov/gene/51780) | [MIM:609373](https://omim.org/entry/609373) |  |
+| Mouse | [ENSMUSG00000038773](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038773) | [277250](https://www.ncbi.nlm.nih.gov/gene/277250) | [MGI:1923356](http://www.informatics.jax.org/marker/MGI:1923356) |  |
+| Xenopus | [ENSXETG00000006700](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006700) | [100135177](https://www.ncbi.nlm.nih.gov/gene/100135177) |  |  |
+| Zebrafish | [ENSDARG00000062267](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062267) | [326643](https://www.ncbi.nlm.nih.gov/gene/326643) | [ZFIN:ZDB-GENE-101007-4](https://zfin.org/ZDB-GENE-101007-4) | chromatin organization, demethylation, regulation of transcription by RNA polymerase II |
 

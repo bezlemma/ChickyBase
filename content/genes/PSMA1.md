@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395874
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004298
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205020
-gene_id: '450756'
+gene_id: '395874'
 gene_type: protein-coding
 images:
 - caption: PSMA1 expression
@@ -29,13 +29,8 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D34.65.8npbi.jpg
 name: proteasome subunit alpha 1
-ncbi_id: '450756'
+ncbi_id: '395874'
 orthologs:
-- ensembl: ''
-  entrez: '34359'
-  mod: FBgn0250843
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000129084
   entrez: '5682'
   mod: MIM:602854
@@ -46,23 +41,19 @@ orthologs:
   mod: MGI:1347005
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 493521,735073
-  mod: '995830'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000074076
+- ensembl: ENSDARG00000101560
   entrez: '445033'
   mod: ZFIN:ZDB-GENE-040801-15
-  phenotypes: ZDB-GENE-040801-15
+  phenotypes: proteasome-mediated ubiquitin-dependent protein catabolic process, proteolysis
+    involved in protein catabolic process, ubiquitin-dependent protein catabolic process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450756
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395874
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450756
+  url: https://www.ncbi.nlm.nih.gov/gene/395874
 species: Gallus gallus
 symbol: PSMA1
 title: PSMA1
@@ -91,9 +82,7 @@ title: PSMA1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34359](https://www.ncbi.nlm.nih.gov/gene/34359) | FBgn0250843 |  |
 | Human | [ENSG00000129084](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000129084) | [5682](https://www.ncbi.nlm.nih.gov/gene/5682) | [MIM:602854](https://omim.org/entry/602854) |  |
 | Mouse | [ENSMUSG00000030751](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030751) | [26440](https://www.ncbi.nlm.nih.gov/gene/26440) | [MGI:1347005](http://www.informatics.jax.org/marker/MGI:1347005) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [493521](https://www.ncbi.nlm.nih.gov/gene/493521), [735073](https://www.ncbi.nlm.nih.gov/gene/735073) | [995830](http://www.xenbase.org/gene/showgene.do?method=display&geneId=995830) |  |
-| Zebrafish | [ENSDARG00000074076](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074076) | [445033](https://www.ncbi.nlm.nih.gov/gene/445033) | [ZFIN:ZDB-GENE-040801-15](https://zfin.org/ZDB-GENE-040801-15) | ZDB-GENE-040801-15 |
+| Zebrafish | [ENSDARG00000101560](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101560) | [445033](https://www.ncbi.nlm.nih.gov/gene/445033) | [ZFIN:ZDB-GENE-040801-15](https://zfin.org/ZDB-GENE-040801-15) | proteasome-mediated ubiquitin-dependent protein catabolic process, proteolysis involved in protein catabolic process, ubiquitin-dependent protein catabolic process |
 

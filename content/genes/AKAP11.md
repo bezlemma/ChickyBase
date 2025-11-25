@@ -4,13 +4,12 @@ aliases:
 - A kinase (PRKA) anchor protein 11
 cgnc_id: '12729'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/418835
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418835
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417031
 forward_primer: TTTGAAGTCCCAGATTCCCCTC
-gene_id: '454258'
+gene_id: '418835'
 gene_type: protein-coding
 images:
 - caption: AKAP11 expression
@@ -98,13 +97,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R521.AKAP11.S25.001.jpg
 name: A-kinase anchoring protein 11
-ncbi_id: '454258'
+ncbi_id: '418835'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000023516
   entrez: '11215'
   mod: MIM:604696
@@ -115,24 +109,25 @@ orthologs:
   mod: MGI:2684060
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000014581
   entrez: '100145197'
-  mod: '968299'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000075435
   entrez: '558595'
-  mod: ZFIN:ZDB-GENE-090804-1,ZFIN:ZDB-GENE-090804-1
-  phenotypes: ZDB-GENE-090804-1,ZDB-GENE-090804-1
+  mod: ZFIN:ZDB-GENE-090804-1
+  phenotypes: cell surface receptor protein serine/threonine kinase signaling pathway,
+    intracellular protein localization
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTGGCTGCTTGTGTTGTGAAGGTGAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454258
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418835
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454258
+  url: https://www.ncbi.nlm.nih.gov/gene/418835
 species: Gallus gallus
 symbol: AKAP11
 template_length: '904'
@@ -154,9 +149,8 @@ title: AKAP11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000023516](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000023516) | [11215](https://www.ncbi.nlm.nih.gov/gene/11215) | [MIM:604696](https://omim.org/entry/604696) |  |
 | Mouse | [ENSMUSG00000022016](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022016) | [219181](https://www.ncbi.nlm.nih.gov/gene/219181) | [MGI:2684060](http://www.informatics.jax.org/marker/MGI:2684060) |  |
-| Xenopus |  | [100145197](https://www.ncbi.nlm.nih.gov/gene/100145197) | [968299](http://www.xenbase.org/gene/showgene.do?method=display&geneId=968299) |  |
-| Zebrafish | [ENSDARG00000075435](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075435) | [558595](https://www.ncbi.nlm.nih.gov/gene/558595) | [ZFIN:ZDB-GENE-090804-1](https://zfin.org/ZDB-GENE-090804-1), [ZFIN:ZDB-GENE-090804-1](https://zfin.org/ZDB-GENE-090804-1) | ZDB-GENE-090804-1,ZDB-GENE-090804-1 |
+| Xenopus | [ENSXETG00000014581](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014581) | [100145197](https://www.ncbi.nlm.nih.gov/gene/100145197) |  |  |
+| Zebrafish | [ENSDARG00000075435](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075435) | [558595](https://www.ncbi.nlm.nih.gov/gene/558595) | [ZFIN:ZDB-GENE-090804-1](https://zfin.org/ZDB-GENE-090804-1) | cell surface receptor protein serine/threonine kinase signaling pathway, intracellular protein localization |
 

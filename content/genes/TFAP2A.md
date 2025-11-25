@@ -4,9 +4,6 @@ aliases:
 - AP-2 transcription factor
 cgnc_id: '9685'
 external_ids:
-  '19': stage 19
-  '4': stage 4
-  '7': stage 7
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0261953
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=blentic+ectomesenchyme+tandon+walshe
   Comments: The complete cDNA template sequence was obtained from the information
@@ -19,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395982
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205094
   X-XIV: stage XII
-gene_id: '451263'
+gene_id: '395982'
 gene_type: protein-coding
 images:
 - caption: TFAP2A expression
@@ -165,13 +162,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TFAP2A.Trevers.2023-Fig7-8-A.jpg
 name: transcription factor AP-2 alpha
-ncbi_id: '451263'
+ncbi_id: '395982'
 orthologs:
-- ensembl: ''
-  entrez: '40398'
-  mod: FBgn0261953
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000137203
   entrez: '7020'
   mod: MIM:107580
@@ -183,20 +175,21 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Chemically induced(1) Targeted, knock-out(2)
     Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 395064,503683,394344
-  mod: '481200'
+- ensembl: ENSXETG00000001074
+  entrez: '395064'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000059279
   entrez: '140618'
   mod: ZFIN:ZDB-GENE-011212-6
-  phenotypes: ZDB-GENE-011212-6
+  phenotypes: cartilage development, cranial skeletal system development, developmental
+    pigmentation, ectodermal placode development, ectodermal placode formation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451263
+  url: https://www.ncbi.nlm.nih.gov/gene/395982
 species: Gallus gallus
 symbol: TFAP2A
 title: TFAP2A
@@ -224,9 +217,8 @@ title: TFAP2A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40398](https://www.ncbi.nlm.nih.gov/gene/40398) | FBgn0261953 |  |
 | Human | [ENSG00000137203](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137203) | [7020](https://www.ncbi.nlm.nih.gov/gene/7020) | [MIM:107580](https://omim.org/entry/107580) | MIM:113620 |
 | Mouse | [ENSMUSG00000021359](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021359) | [21418](https://www.ncbi.nlm.nih.gov/gene/21418) | [MGI:104671](http://www.informatics.jax.org/marker/MGI:104671) | All phenotypic alleles (7):Chemically induced(1) Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [395064](https://www.ncbi.nlm.nih.gov/gene/395064), [503683](https://www.ncbi.nlm.nih.gov/gene/503683), [394344](https://www.ncbi.nlm.nih.gov/gene/394344) | [481200](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481200) |  |
-| Zebrafish | [ENSDARG00000059279](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059279) | [140618](https://www.ncbi.nlm.nih.gov/gene/140618) | [ZFIN:ZDB-GENE-011212-6](https://zfin.org/ZDB-GENE-011212-6) | ZDB-GENE-011212-6 |
+| Xenopus | [ENSXETG00000001074](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001074) | [395064](https://www.ncbi.nlm.nih.gov/gene/395064) |  |  |
+| Zebrafish | [ENSDARG00000059279](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059279) | [140618](https://www.ncbi.nlm.nih.gov/gene/140618) | [ZFIN:ZDB-GENE-011212-6](https://zfin.org/ZDB-GENE-011212-6) | cartilage development, cranial skeletal system development, developmental pigmentation, ectodermal placode development, ectodermal placode formation |
 

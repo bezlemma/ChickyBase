@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:429062
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0016787
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001039329
-gene_id: '449543'
+gene_id: '429062'
 gene_type: protein-coding
 images:
 - caption: PRDX6 expression
@@ -59,13 +59,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C01.83.22.jpg
 name: peroxiredoxin 6
-ncbi_id: '449543'
+ncbi_id: '429062'
 orthologs:
-- ensembl: ''
-  entrez: '33493'
-  mod: FBgn0031479
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000117592
   entrez: '9588'
   mod: MIM:602316
@@ -76,23 +71,23 @@ orthologs:
   mod: MGI:894320
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 394706,398641
-  mod: '951730'
+- ensembl: ENSXETG00000000525
+  entrez: '394706'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000043511
   entrez: '393778'
   mod: ZFIN:ZDB-GENE-040426-1778
-  phenotypes: ZDB-GENE-040426-1778
+  phenotypes: cell redox homeostasis, cellular oxidant detoxification
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449543
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=429062
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449543
+  url: https://www.ncbi.nlm.nih.gov/gene/429062
 species: Gallus gallus
 symbol: PRDX6
 title: PRDX6
@@ -118,9 +113,8 @@ title: PRDX6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33493](https://www.ncbi.nlm.nih.gov/gene/33493) | FBgn0031479 |  |
 | Human | [ENSG00000117592](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000117592) | [9588](https://www.ncbi.nlm.nih.gov/gene/9588) | [MIM:602316](https://omim.org/entry/602316) |  |
 | Mouse | [ENSMUSG00000026701](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026701) | [11758](https://www.ncbi.nlm.nih.gov/gene/11758) | [MGI:894320](http://www.informatics.jax.org/marker/MGI:894320) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [394706](https://www.ncbi.nlm.nih.gov/gene/394706), [398641](https://www.ncbi.nlm.nih.gov/gene/398641) | [951730](http://www.xenbase.org/gene/showgene.do?method=display&geneId=951730) |  |
-| Zebrafish | [ENSDARG00000043511](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043511) | [393778](https://www.ncbi.nlm.nih.gov/gene/393778) | [ZFIN:ZDB-GENE-040426-1778](https://zfin.org/ZDB-GENE-040426-1778) | ZDB-GENE-040426-1778 |
+| Xenopus | [ENSXETG00000000525](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000525) | [394706](https://www.ncbi.nlm.nih.gov/gene/394706) |  |  |
+| Zebrafish | [ENSDARG00000043511](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043511) | [393778](https://www.ncbi.nlm.nih.gov/gene/393778) | [ZFIN:ZDB-GENE-040426-1778](https://zfin.org/ZDB-GENE-040426-1778) | cell redox homeostasis, cellular oxidant detoxification |
 

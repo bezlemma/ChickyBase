@@ -6,8 +6,6 @@ aliases:
 - frizzled homolog 4
 cgnc_id: '12957'
 external_ids:
-  '19': stage 19
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007223
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0042995
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Stark+2000+Frizzled+Mauch
@@ -22,7 +20,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004930
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006088.3?report=genbank&from=187935346&to=187939795
 forward_primer: GGTGGGCATCACTTCAGGTATG
-gene_id: '459347'
+gene_id: '373887'
 gene_type: protein-coding
 images:
 - caption: FZD4 expression
@@ -616,13 +614,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cFz-4.Stark.2000.Fig4.jpg
 name: frizzled class receptor 4
-ncbi_id: '459347'
+ncbi_id: '373887'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000174804
   entrez: '8322'
   mod: MIM:604579
@@ -633,24 +626,26 @@ orthologs:
   mod: MGI:108520
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100497693,399192
-  mod: '478209'
+- ensembl: ENSXETG00000034910
+  entrez: '100497693'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000077111
-  entrez: 100333651,30363
+- ensembl: ENSDARG00000104117
+  entrez: '30363'
   mod: ZFIN:ZDB-GENE-990415-217
-  phenotypes: ZDB-GENE-990415-217
+  phenotypes: G protein-coupled receptor signaling pathway, Wnt signaling pathway,
+    canonical Wnt signaling pathway, cell surface receptor signaling pathway, non-canonical
+    Wnt signaling pathway
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAGCACGCACAGTTTCCAGATTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459347
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373887
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459347
+  url: https://www.ncbi.nlm.nih.gov/gene/373887
 species: Gallus gallus
 symbol: FZD4
 template_length: '1016'
@@ -681,9 +676,8 @@ title: FZD4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000174804](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000174804) | [8322](https://www.ncbi.nlm.nih.gov/gene/8322) | [MIM:604579](https://omim.org/entry/604579) | MIM:133780 |
 | Mouse | [ENSMUSG00000049791](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049791) | [14366](https://www.ncbi.nlm.nih.gov/gene/14366) | [MGI:108520](http://www.informatics.jax.org/marker/MGI:108520) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100497693](https://www.ncbi.nlm.nih.gov/gene/100497693), [399192](https://www.ncbi.nlm.nih.gov/gene/399192) | [478209](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478209) |  |
-| Zebrafish | [ENSDARG00000077111](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077111) | [100333651](https://www.ncbi.nlm.nih.gov/gene/100333651), [30363](https://www.ncbi.nlm.nih.gov/gene/30363) | [ZFIN:ZDB-GENE-990415-217](https://zfin.org/ZDB-GENE-990415-217) | ZDB-GENE-990415-217 |
+| Xenopus | [ENSXETG00000034910](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034910) | [100497693](https://www.ncbi.nlm.nih.gov/gene/100497693) |  |  |
+| Zebrafish | [ENSDARG00000104117](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104117) | [30363](https://www.ncbi.nlm.nih.gov/gene/30363) | [ZFIN:ZDB-GENE-990415-217](https://zfin.org/ZDB-GENE-990415-217) | G protein-coupled receptor signaling pathway, Wnt signaling pathway, canonical Wnt signaling pathway, cell surface receptor signaling pathway, non-canonical Wnt signaling pathway |
 

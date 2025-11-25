@@ -4,7 +4,6 @@ aliases:
 - forkhead box J3
 cgnc_id: '10669'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/418259
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
@@ -76,7 +75,7 @@ orthologs:
 - ensembl: ''
   entrez: ''
   mod: ZFIN:ZDB-GENE-100922-240
-  phenotypes: ZDB-GENE-100922-240
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGTGCTGGATCACAACACCCTC-3’
 sources:
@@ -112,5 +111,5 @@ title: FOXJ2
 | Human | [ENSG00000065970](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000065970) | [55810](https://www.ncbi.nlm.nih.gov/gene/55810) |  |  |
 | Mouse | [ENSMUSG00000003154](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000003154) | [60611](https://www.ncbi.nlm.nih.gov/gene/60611) | [MGI:1926805](http://www.informatics.jax.org/marker/MGI:1926805) | All phenotypic alleles (2):Targeted, other(2) |
 | Xenopus |  | [448174](https://www.ncbi.nlm.nih.gov/gene/448174), [447345](https://www.ncbi.nlm.nih.gov/gene/447345) | [483645](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483645) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-100922-240](https://zfin.org/ZDB-GENE-100922-240) | ZDB-GENE-100922-240 |
+| Zebrafish |  |  | [ZFIN:ZDB-GENE-100922-240](https://zfin.org/ZDB-GENE-100922-240) |  |
 

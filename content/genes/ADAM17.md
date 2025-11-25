@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421931
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001008682
 forward_primer: GCACCAAGAACTATGGGAAAACC
-gene_id: '456324'
+gene_id: '421931'
 gene_type: protein-coding
 images:
 - caption: ADAM17 expression
@@ -269,13 +269,8 @@ images:
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Lin.Fig2.X.ADAM17.St34.jpg
 name: ADAM metallopeptidase domain 17
-ncbi_id: '456324'
+ncbi_id: '421931'
 orthologs:
-- ensembl: ''
-  entrez: '43558'
-  mod: FBgn0039734
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000151694
   entrez: '6868'
   mod: MIM:603639
@@ -287,24 +282,24 @@ orthologs:
   phenotypes: All phenotypic alleles (13):Spontaneous(1) Chemically induced(1) Targeted,
     knock-out(2) Targeted, other(9)
   species: Mouse
-- ensembl: ''
-  entrez: 100492947,733430
-  mod: '492533'
+- ensembl: ENSXETG00000008262
+  entrez: '100492947'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000043213,ENSDARG00000093093
-  entrez: 324142,560657
-  mod: ZFIN:ZDB-GENE-030131-2862,ZFIN:ZDB-GENE-041001-199
-  phenotypes: ZDB-GENE-030131-2862,ZDB-GENE-041001-199
+- ensembl: ENSDARG00000093093
+  entrez: '560657'
+  mod: ZFIN:ZDB-GENE-041001-199
+  phenotypes: Notch signaling pathway, membrane protein ectodomain proteolysis, proteolysis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGCACAAGGATGCTGAGAGGAATC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456324
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421931
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456324
+  url: https://www.ncbi.nlm.nih.gov/gene/421931
 species: Gallus gallus
 symbol: ADAM17
 template_length: '918'
@@ -333,9 +328,8 @@ title: ADAM17
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43558](https://www.ncbi.nlm.nih.gov/gene/43558) | FBgn0039734 |  |
 | Human | [ENSG00000151694](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000151694) | [6868](https://www.ncbi.nlm.nih.gov/gene/6868) | [MIM:603639](https://omim.org/entry/603639) |  |
 | Mouse | [ENSMUSG00000052593](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000052593) | [11491](https://www.ncbi.nlm.nih.gov/gene/11491) | [MGI:1096335](http://www.informatics.jax.org/marker/MGI:1096335) | All phenotypic alleles (13):Spontaneous(1) Chemically induced(1) Targeted, knock-out(2) Targeted, other(9) |
-| Xenopus |  | [100492947](https://www.ncbi.nlm.nih.gov/gene/100492947), [733430](https://www.ncbi.nlm.nih.gov/gene/733430) | [492533](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492533) |  |
-| Zebrafish | [ENSDARG00000043213](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043213), [ENSDARG00000093093](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000093093) | [324142](https://www.ncbi.nlm.nih.gov/gene/324142), [560657](https://www.ncbi.nlm.nih.gov/gene/560657) | [ZFIN:ZDB-GENE-030131-2862](https://zfin.org/ZDB-GENE-030131-2862), [ZFIN:ZDB-GENE-041001-199](https://zfin.org/ZDB-GENE-041001-199) | ZDB-GENE-030131-2862,ZDB-GENE-041001-199 |
+| Xenopus | [ENSXETG00000008262](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008262) | [100492947](https://www.ncbi.nlm.nih.gov/gene/100492947) |  |  |
+| Zebrafish | [ENSDARG00000093093](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000093093) | [560657](https://www.ncbi.nlm.nih.gov/gene/560657) | [ZFIN:ZDB-GENE-041001-199](https://zfin.org/ZDB-GENE-041001-199) | Notch signaling pathway, membrane protein ectodomain proteolysis, proteolysis |
 

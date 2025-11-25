@@ -3,8 +3,6 @@ aliases:
 - protein Wnt-2b
 cgnc_id: '49099'
 external_ids:
-  '19': stage 19
-  '25': stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0016055
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005578
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Smith+2018+retinoic+Erskine
@@ -17,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374243
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005109
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204336
-gene_id: '456501'
+gene_id: '374243'
 gene_type: protein-coding
 images:
 - caption: WNT2B expression
@@ -378,13 +376,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT2B.Smith.2018.Fig1.jpg
 name: Wnt family member 2B
-ncbi_id: '456501'
+ncbi_id: '374243'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134245
   entrez: '7482'
   mod: MIM:601968
@@ -395,23 +388,24 @@ orthologs:
   mod: MGI:1261834
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100491761,378566,378675
-  mod: '960147'
+- ensembl: ENSXETG00000006908
+  entrez: '100491761'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000032234,ENSDARG00000005050
-  entrez: 556087,359837
-  mod: ZFIN:ZDB-GENE-060824-6,ZFIN:ZDB-GENE-030717-2
-  phenotypes: ZDB-GENE-060824-6,ZDB-GENE-030717-2
+- ensembl: ENSDARG00000110703
+  entrez: '556087'
+  mod: ZFIN:ZDB-GENE-060824-6
+  phenotypes: Wnt signaling pathway, angiogenesis, animal organ development, canonical
+    Wnt signaling pathway, cell fate commitment
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456501
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374243
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456501
+  url: https://www.ncbi.nlm.nih.gov/gene/374243
 species: Gallus gallus
 symbol: WNT2B
 title: WNT2B
@@ -440,9 +434,8 @@ title: WNT2B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000134245](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134245) | [7482](https://www.ncbi.nlm.nih.gov/gene/7482) | [MIM:601968](https://omim.org/entry/601968) |  |
 | Mouse | [ENSMUSG00000027840](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027840) | [22414](https://www.ncbi.nlm.nih.gov/gene/22414) | [MGI:1261834](http://www.informatics.jax.org/marker/MGI:1261834) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100491761](https://www.ncbi.nlm.nih.gov/gene/100491761), [378566](https://www.ncbi.nlm.nih.gov/gene/378566), [378675](https://www.ncbi.nlm.nih.gov/gene/378675) | [960147](http://www.xenbase.org/gene/showgene.do?method=display&geneId=960147) |  |
-| Zebrafish | [ENSDARG00000032234](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032234), [ENSDARG00000005050](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005050) | [556087](https://www.ncbi.nlm.nih.gov/gene/556087), [359837](https://www.ncbi.nlm.nih.gov/gene/359837) | [ZFIN:ZDB-GENE-060824-6](https://zfin.org/ZDB-GENE-060824-6), [ZFIN:ZDB-GENE-030717-2](https://zfin.org/ZDB-GENE-030717-2) | ZDB-GENE-060824-6,ZDB-GENE-030717-2 |
+| Xenopus | [ENSXETG00000006908](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006908) | [100491761](https://www.ncbi.nlm.nih.gov/gene/100491761) |  |  |
+| Zebrafish | [ENSDARG00000110703](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110703) | [556087](https://www.ncbi.nlm.nih.gov/gene/556087) | [ZFIN:ZDB-GENE-060824-6](https://zfin.org/ZDB-GENE-060824-6) | Wnt signaling pathway, angiogenesis, animal organ development, canonical Wnt signaling pathway, cell fate commitment |
 

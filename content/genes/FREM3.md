@@ -44,24 +44,29 @@ images:
 name: FRAS1 related extracellular matrix 3
 ncbi_id: '459197'
 orthologs:
-- ensembl: ENSG00000170577
-  entrez: '10736'
-  mod: MIM:604994
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ''
+  entrez: ''
+  mod: ''
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000024134
-  entrez: '20472'
-  mod: MGI:102778
+- ensembl: ''
+  entrez: ''
+  mod: ''
   phenotypes: ''
   species: Mouse
-- ensembl: ENSXETG00000026158
-  entrez: '100101784'
+- ensembl: ''
+  entrez: ''
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000058004
-  entrez: '83415'
-  mod: ZFIN:ZDB-GENE-010412-1
+- ensembl: ''
+  entrez: ''
+  mod: ''
   phenotypes: ''
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGTGCTTGCTTCACTGAAGG-3’
@@ -94,8 +99,9 @@ title: FREM3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Human | [ENSG00000170577](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170577) | [10736](https://www.ncbi.nlm.nih.gov/gene/10736) | [MIM:604994](https://omim.org/entry/604994) |  |
-| Mouse | [ENSMUSG00000024134](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024134) | [20472](https://www.ncbi.nlm.nih.gov/gene/20472) | [MGI:102778](http://www.informatics.jax.org/marker/MGI:102778) |  |
-| Xenopus | [ENSXETG00000026158](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026158) | [100101784](https://www.ncbi.nlm.nih.gov/gene/100101784) |  |  |
-| Zebrafish | [ENSDARG00000058004](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058004) | [83415](https://www.ncbi.nlm.nih.gov/gene/83415) | [ZFIN:ZDB-GENE-010412-1](https://zfin.org/ZDB-GENE-010412-1) |  |
+| Fruit Fly |  |  |  |  |
+| Human |  |  |  |  |
+| Mouse |  |  |  |  |
+| Xenopus |  |  |  |  |
+| Zebrafish |  |  |  |  |
 

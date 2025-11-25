@@ -17,7 +17,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001465
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/BMPR2
 forward_primer: 5'-GATGGCTTTCCAGACAGAAGTCG-3'
-gene_id: '455159'
+gene_id: '374147'
 gene_type: protein-coding
 images:
 - caption: BMPR2 expression
@@ -309,41 +309,38 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRK-3.Belecky-Adams.2001.Fig4F-st44.jpg
 name: bone morphogenetic protein receptor type 2
-ncbi_id: '455159'
+ncbi_id: '374147'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000204217
   entrez: '659'
   mod: MIM:600799
   phenotypes: MIM:178600
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000067336
   entrez: '12168'
   mod: MGI:1095407
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100494339,397981
-  mod: '479989'
+- ensembl: ENSXETG00000022074
+  entrez: '100494339'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000020057,ENSDARG00000011941
-  entrez: 555655,562822
-  mod: ZFIN:ZDB-GENE-070618-2,ZFIN:ZDB-GENE-070618-1
-  phenotypes: ZDB-GENE-070618-2,ZDB-GENE-070618-1
+- ensembl: ENSDARG00000020057
+  entrez: '555655'
+  mod: ZFIN:ZDB-GENE-070618-2
+  phenotypes: BMP signaling pathway, blood vessel development, cell surface receptor
+    protein serine/threonine kinase signaling pathway, cellular response to growth
+    factor stimulus, determination of left/right symmetry
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGAGGATAGACCTGAGCAGATGGGAC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455159
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374147
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455159
+  url: https://www.ncbi.nlm.nih.gov/gene/374147
 species: Gallus gallus
 symbol: BMPR2
 template_length: '934'
@@ -371,9 +368,8 @@ title: BMPR2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000204217](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000204217) | [659](https://www.ncbi.nlm.nih.gov/gene/659) | [MIM:600799](https://omim.org/entry/600799) | MIM:178600 |
-| Mouse |  | [12168](https://www.ncbi.nlm.nih.gov/gene/12168) | [MGI:1095407](http://www.informatics.jax.org/marker/MGI:1095407) | All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2) |
-| Xenopus |  | [100494339](https://www.ncbi.nlm.nih.gov/gene/100494339), [397981](https://www.ncbi.nlm.nih.gov/gene/397981) | [479989](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479989) |  |
-| Zebrafish | [ENSDARG00000020057](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020057), [ENSDARG00000011941](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011941) | [555655](https://www.ncbi.nlm.nih.gov/gene/555655), [562822](https://www.ncbi.nlm.nih.gov/gene/562822) | [ZFIN:ZDB-GENE-070618-2](https://zfin.org/ZDB-GENE-070618-2), [ZFIN:ZDB-GENE-070618-1](https://zfin.org/ZDB-GENE-070618-1) | ZDB-GENE-070618-2,ZDB-GENE-070618-1 |
+| Mouse | [ENSMUSG00000067336](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000067336) | [12168](https://www.ncbi.nlm.nih.gov/gene/12168) | [MGI:1095407](http://www.informatics.jax.org/marker/MGI:1095407) | All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2) |
+| Xenopus | [ENSXETG00000022074](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022074) | [100494339](https://www.ncbi.nlm.nih.gov/gene/100494339) |  |  |
+| Zebrafish | [ENSDARG00000020057](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020057) | [555655](https://www.ncbi.nlm.nih.gov/gene/555655) | [ZFIN:ZDB-GENE-070618-2](https://zfin.org/ZDB-GENE-070618-2) | BMP signaling pathway, blood vessel development, cell surface receptor protein serine/threonine kinase signaling pathway, cellular response to growth factor stimulus, determination of left/right symmetry |
 

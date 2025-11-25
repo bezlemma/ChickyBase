@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396127
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205207
-gene_id: '458892'
+gene_id: '396127'
 gene_type: protein-coding
 images:
 - caption: MELTF expression
@@ -28,13 +28,8 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/T50_12.jpg
 name: melanotransferrin
-ncbi_id: '458892'
+ncbi_id: '396127'
 orthologs:
-- ensembl: ''
-  entrez: '39435'
-  mod: FBgn0036299
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163975
   entrez: '4241'
   mod: MIM:155750
@@ -45,23 +40,23 @@ orthologs:
   mod: MGI:1353421
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000019380
   entrez: '100158653'
-  mod: '968180'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000075159
   entrez: '565942'
   mod: ZFIN:ZDB-GENE-050309-40
-  phenotypes: ZDB-GENE-050309-40
+  phenotypes: iron ion transport, monoatomic ion transport
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458892
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396127
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458892
+  url: https://www.ncbi.nlm.nih.gov/gene/396127
 species: Gallus gallus
 symbol: MELTF
 title: MELTF
@@ -84,9 +79,8 @@ title: MELTF
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39435](https://www.ncbi.nlm.nih.gov/gene/39435) | FBgn0036299 |  |
 | Human | [ENSG00000163975](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163975) | [4241](https://www.ncbi.nlm.nih.gov/gene/4241) | [MIM:155750](https://omim.org/entry/155750) |  |
 | Mouse | [ENSMUSG00000022780](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022780) | [30060](https://www.ncbi.nlm.nih.gov/gene/30060) | [MGI:1353421](http://www.informatics.jax.org/marker/MGI:1353421) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100158653](https://www.ncbi.nlm.nih.gov/gene/100158653) | [968180](http://www.xenbase.org/gene/showgene.do?method=display&geneId=968180) |  |
-| Zebrafish | [ENSDARG00000075159](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075159) | [565942](https://www.ncbi.nlm.nih.gov/gene/565942) | [ZFIN:ZDB-GENE-050309-40](https://zfin.org/ZDB-GENE-050309-40) | ZDB-GENE-050309-40 |
+| Xenopus | [ENSXETG00000019380](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019380) | [100158653](https://www.ncbi.nlm.nih.gov/gene/100158653) |  |  |
+| Zebrafish | [ENSDARG00000075159](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075159) | [565942](https://www.ncbi.nlm.nih.gov/gene/565942) | [ZFIN:ZDB-GENE-050309-40](https://zfin.org/ZDB-GENE-050309-40) | iron ion transport, monoatomic ion transport |
 

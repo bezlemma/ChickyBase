@@ -3,7 +3,6 @@ aliases:
 - eomesodermin homolog
 cgnc_id: '8681'
 external_ids:
-  '25': stage 25
   Citation: https://pubmed.ncbi.nlm.nih.gov/29877574/
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI ( NM_001321555
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428443
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426003
   X-XIV: stage XII
-gene_id: '461736'
+gene_id: '428443'
 gene_type: protein-coding
 images:
 - caption: EOMES expression
@@ -313,13 +312,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EOMES.Travers.2023-Fig7-1-M.jpg
 name: eomesodermin
-ncbi_id: '461736'
+ncbi_id: '428443'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163508
   entrez: '8320'
   mod: MIM:604615
@@ -330,23 +324,25 @@ orthologs:
   mod: MGI:1201683
   phenotypes: All phenotypic alleles (10):Targeted, knock-out(3) Targeted, other(7)
   species: Mouse
-- ensembl: ''
-  entrez: 100038065,398065
-  mod: '479768'
+- ensembl: ENSXETG00000019924
+  entrez: '100038065'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000006640,ENSDARG00000019428
-  entrez: 64603,799447
-  mod: ZFIN:ZDB-GENE-001228-1,ZFIN:ZDB-GENE-070318-1
-  phenotypes: ZDB-GENE-001228-1,ZDB-GENE-070318-1
+- ensembl: ENSDARG00000006640
+  entrez: '64603'
+  mod: ZFIN:ZDB-GENE-001228-1
+  phenotypes: CD8-positive, alpha-beta T cell differentiation involved in immune response,
+    anatomical structure morphogenesis, cell migration involved in gastrulation, determination
+    of dorsal identity, endoderm formation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461736
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428443
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461736
+  url: https://www.ncbi.nlm.nih.gov/gene/428443
 species: Gallus gallus
 symbol: EOMES
 title: EOMES
@@ -372,9 +368,8 @@ title: EOMES
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163508](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163508) | [8320](https://www.ncbi.nlm.nih.gov/gene/8320) | [MIM:604615](https://omim.org/entry/604615) |  |
 | Mouse | [ENSMUSG00000032446](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032446) | [13813](https://www.ncbi.nlm.nih.gov/gene/13813) | [MGI:1201683](http://www.informatics.jax.org/marker/MGI:1201683) | All phenotypic alleles (10):Targeted, knock-out(3) Targeted, other(7) |
-| Xenopus |  | [100038065](https://www.ncbi.nlm.nih.gov/gene/100038065), [398065](https://www.ncbi.nlm.nih.gov/gene/398065) | [479768](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479768) |  |
-| Zebrafish | [ENSDARG00000006640](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006640), [ENSDARG00000019428](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019428) | [64603](https://www.ncbi.nlm.nih.gov/gene/64603), [799447](https://www.ncbi.nlm.nih.gov/gene/799447) | [ZFIN:ZDB-GENE-001228-1](https://zfin.org/ZDB-GENE-001228-1), [ZFIN:ZDB-GENE-070318-1](https://zfin.org/ZDB-GENE-070318-1) | ZDB-GENE-001228-1,ZDB-GENE-070318-1 |
+| Xenopus | [ENSXETG00000019924](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019924) | [100038065](https://www.ncbi.nlm.nih.gov/gene/100038065) |  |  |
+| Zebrafish | [ENSDARG00000006640](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006640) | [64603](https://www.ncbi.nlm.nih.gov/gene/64603) | [ZFIN:ZDB-GENE-001228-1](https://zfin.org/ZDB-GENE-001228-1) | CD8-positive, alpha-beta T cell differentiation involved in immune response, anatomical structure morphogenesis, cell migration involved in gastrulation, determination of dorsal identity, endoderm formation |
 

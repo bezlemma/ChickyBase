@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419781
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001278123
-gene_id: '457269'
+gene_id: '419781'
 gene_type: protein-coding
 images:
 - caption: BTG4 expression
@@ -36,13 +36,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BTG4.Elis.2008.Fig.10.png
 name: BTG anti-proliferation factor 4
-ncbi_id: '457269'
+ncbi_id: '419781'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000137707
   entrez: '54766'
   mod: MIM:605673
@@ -53,20 +48,20 @@ orthologs:
   mod: MGI:1860140
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549151,397913,394334
-  mod: '941936'
+- ensembl: ENSXETG00000010162
+  entrez: '549151'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000035171
+- ensembl: ENSDARG00000109355
   entrez: '378946'
   mod: ZFIN:ZDB-GENE-031008-1
-  phenotypes: ZDB-GENE-031008-1
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457269
+  url: https://www.ncbi.nlm.nih.gov/gene/419781
 species: Gallus gallus
 symbol: BTG4
 title: BTG4
@@ -94,9 +89,8 @@ title: BTG4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000137707](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137707) | [54766](https://www.ncbi.nlm.nih.gov/gene/54766) | [MIM:605673](https://omim.org/entry/605673) |  |
 | Mouse | [ENSMUSG00000032056](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032056) | [56057](https://www.ncbi.nlm.nih.gov/gene/56057) | [MGI:1860140](http://www.informatics.jax.org/marker/MGI:1860140) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [549151](https://www.ncbi.nlm.nih.gov/gene/549151), [397913](https://www.ncbi.nlm.nih.gov/gene/397913), [394334](https://www.ncbi.nlm.nih.gov/gene/394334) | [941936](http://www.xenbase.org/gene/showgene.do?method=display&geneId=941936) |  |
-| Zebrafish | [ENSDARG00000035171](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035171) | [378946](https://www.ncbi.nlm.nih.gov/gene/378946) | [ZFIN:ZDB-GENE-031008-1](https://zfin.org/ZDB-GENE-031008-1) | ZDB-GENE-031008-1 |
+| Xenopus | [ENSXETG00000010162](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010162) | [549151](https://www.ncbi.nlm.nih.gov/gene/549151) |  |  |
+| Zebrafish | [ENSDARG00000109355](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000109355) | [378946](https://www.ncbi.nlm.nih.gov/gene/378946) | [ZFIN:ZDB-GENE-031008-1](https://zfin.org/ZDB-GENE-031008-1) |  |
 

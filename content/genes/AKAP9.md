@@ -6,13 +6,12 @@ aliases:
 - hyperion protein, 419 kD isoform
 cgnc_id: '49433'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000009348
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395695
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_207179
 forward_primer: CTCCAAGAGGATACTGAAAGGCAG
-gene_id: '449913'
+gene_id: '395695'
 gene_type: protein-coding
 images:
 - caption: AKAP9 expression
@@ -168,41 +167,26 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R519.AKAP9.S25AAA.001.jpg
 name: A-kinase anchoring protein 9
-ncbi_id: '449913'
+ncbi_id: '395695'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000127914
   entrez: '10142'
   mod: MIM:604001
   phenotypes: MIM:611820
   species: Human
-- ensembl: ENSMUSG00000040407
-  entrez: '100986'
-  mod: MGI:2178217
-  phenotypes: All phenotypic alleles (2):Targeted, other(2)
-  species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000003440
   entrez: '779447'
-  mod: '5953769'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '565037'
-  mod: ZFIN:ZDB-GENE-030131-7276
-  phenotypes: ZDB-GENE-030131-7276
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCGGCTGTTCTGGTTTTGACATTTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449913
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395695
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449913
+  url: https://www.ncbi.nlm.nih.gov/gene/395695
 species: Gallus gallus
 symbol: AKAP9
 template_length: '732'
@@ -224,9 +208,6 @@ title: AKAP9
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000127914](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000127914) | [10142](https://www.ncbi.nlm.nih.gov/gene/10142) | [MIM:604001](https://omim.org/entry/604001) | MIM:611820 |
-| Mouse | [ENSMUSG00000040407](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040407) | [100986](https://www.ncbi.nlm.nih.gov/gene/100986) | [MGI:2178217](http://www.informatics.jax.org/marker/MGI:2178217) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [779447](https://www.ncbi.nlm.nih.gov/gene/779447) | [5953769](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5953769) |  |
-| Zebrafish |  | [565037](https://www.ncbi.nlm.nih.gov/gene/565037) | [ZFIN:ZDB-GENE-030131-7276](https://zfin.org/ZDB-GENE-030131-7276) | ZDB-GENE-030131-7276 |
+| Xenopus | [ENSXETG00000003440](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003440) | [779447](https://www.ncbi.nlm.nih.gov/gene/779447) |  |  |
 

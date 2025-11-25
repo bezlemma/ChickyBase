@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395548
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234150
-gene_id: '449571'
+gene_id: '395548'
 gene_type: protein-coding
 images:
 - caption: PHOX2B expression
@@ -325,13 +325,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_5_ALLIMAGES-5.jpg
 name: paired like homeobox 2b
-ncbi_id: '449571'
+ncbi_id: '395548'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000109132
   entrez: '8929'
   mod: MIM:603851
@@ -342,23 +337,25 @@ orthologs:
   mod: MGI:1100882
   phenotypes: All phenotypic alleles (6):Chemically induced(1) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100124329,495120
-  mod: '1000414'
+- ensembl: ENSXETG00000021083
+  entrez: '100124329'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000091029,ENSDARG00000075330
-  entrez: 544654,795258
-  mod: ZFIN:ZDB-GENE-050407-3,ZFIN:ZDB-GENE-090313-51
-  phenotypes: ZDB-GENE-050407-3,ZDB-GENE-090313-51
+- ensembl: ENSDARG00000091029
+  entrez: '544654'
+  mod: ZFIN:ZDB-GENE-050407-3
+  phenotypes: axonogenesis, enteric nervous system development, neuron development,
+    positive regulation of transcription by RNA polymerase II, regulation of DNA-templated
+    transcription
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449571
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395548
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449571
+  url: https://www.ncbi.nlm.nih.gov/gene/395548
 species: Gallus gallus
 symbol: PHOX2B
 title: PHOX2B
@@ -384,9 +381,8 @@ title: PHOX2B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000109132](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000109132) | [8929](https://www.ncbi.nlm.nih.gov/gene/8929) | [MIM:603851](https://omim.org/entry/603851) | MIM:209880 |
 | Mouse | [ENSMUSG00000012520](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000012520) | [18935](https://www.ncbi.nlm.nih.gov/gene/18935) | [MGI:1100882](http://www.informatics.jax.org/marker/MGI:1100882) | All phenotypic alleles (6):Chemically induced(1) Targeted, other(5) |
-| Xenopus |  | [100124329](https://www.ncbi.nlm.nih.gov/gene/100124329), [495120](https://www.ncbi.nlm.nih.gov/gene/495120) | [1000414](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1000414) |  |
-| Zebrafish | [ENSDARG00000091029](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000091029), [ENSDARG00000075330](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075330) | [544654](https://www.ncbi.nlm.nih.gov/gene/544654), [795258](https://www.ncbi.nlm.nih.gov/gene/795258) | [ZFIN:ZDB-GENE-050407-3](https://zfin.org/ZDB-GENE-050407-3), [ZFIN:ZDB-GENE-090313-51](https://zfin.org/ZDB-GENE-090313-51) | ZDB-GENE-050407-3,ZDB-GENE-090313-51 |
+| Xenopus | [ENSXETG00000021083](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021083) | [100124329](https://www.ncbi.nlm.nih.gov/gene/100124329) |  |  |
+| Zebrafish | [ENSDARG00000091029](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000091029) | [544654](https://www.ncbi.nlm.nih.gov/gene/544654) | [ZFIN:ZDB-GENE-050407-3](https://zfin.org/ZDB-GENE-050407-3) | axonogenesis, enteric nervous system development, neuron development, positive regulation of transcription by RNA polymerase II, regulation of DNA-templated transcription |
 

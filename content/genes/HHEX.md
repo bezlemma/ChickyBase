@@ -3,9 +3,6 @@ aliases:
 - homeobox protein HEX
 cgnc_id: '5114'
 external_ids:
-  '13': stage 13
-  '4': stage 4stage 4
-  '7': stage 7
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030154
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=+1999+cHEX+Yatskievych+Antin
@@ -22,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205252
   X-XIV: stage XIII
-gene_id: '459029'
+gene_id: '396182'
 gene_type: protein-coding
 images:
 - caption: HHEX expression
@@ -941,40 +938,36 @@ images:
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HHEX_HH13 x25.jpg
 name: hematopoietically expressed homeobox
-ncbi_id: '459029'
+ncbi_id: '396182'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000152804
   entrez: '3087'
   mod: MIM:604420
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000024986
   entrez: '15242'
   mod: MGI:96086
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 395060,373590
-  mod: '487158'
+- ensembl: ENSXETG00000012215
+  entrez: '395060'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
   entrez: '30098'
   mod: ZFIN:ZDB-GENE-980526-299
-  phenotypes: ZDB-GENE-980526-299
+  phenotypes: anterior/posterior pattern specification, cell differentiation, determination
+    of left/right symmetry, digestive tract development, dorsal/ventral pattern formation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459029
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396182
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459029
+  url: https://www.ncbi.nlm.nih.gov/gene/396182
 species: Gallus gallus
 symbol: HHEX
 title: HHEX
@@ -1003,9 +996,8 @@ title: HHEX
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000152804](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000152804) | [3087](https://www.ncbi.nlm.nih.gov/gene/3087) | [MIM:604420](https://omim.org/entry/604420) |  |
-| Mouse |  | [15242](https://www.ncbi.nlm.nih.gov/gene/15242) | [MGI:96086](http://www.informatics.jax.org/marker/MGI:96086) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [395060](https://www.ncbi.nlm.nih.gov/gene/395060), [373590](https://www.ncbi.nlm.nih.gov/gene/373590) | [487158](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487158) |  |
-| Zebrafish |  | [30098](https://www.ncbi.nlm.nih.gov/gene/30098) | [ZFIN:ZDB-GENE-980526-299](https://zfin.org/ZDB-GENE-980526-299) | ZDB-GENE-980526-299 |
+| Mouse | [ENSMUSG00000024986](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024986) | [15242](https://www.ncbi.nlm.nih.gov/gene/15242) | [MGI:96086](http://www.informatics.jax.org/marker/MGI:96086) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
+| Xenopus | [ENSXETG00000012215](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012215) | [395060](https://www.ncbi.nlm.nih.gov/gene/395060) |  |  |
+| Zebrafish |  | [30098](https://www.ncbi.nlm.nih.gov/gene/30098) | [ZFIN:ZDB-GENE-980526-299](https://zfin.org/ZDB-GENE-980526-299) | anterior/posterior pattern specification, cell differentiation, determination of left/right symmetry, digestive tract development, dorsal/ventral pattern formation |
 

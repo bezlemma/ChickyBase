@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:425131
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422922
   X-XIV: stage XIII
-gene_id: '462382'
+gene_id: '425131'
 gene_type: protein-coding
 images:
 - caption: TRIM3 expression
@@ -50,40 +50,31 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRIM3.Trevers.2023-Fig7-8-E.jpg
 name: tripartite motif containing 3
-ncbi_id: '462382'
+ncbi_id: '425131'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000110171
+  entrez: '10612'
+  mod: MIM:605493
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000036989
+  entrez: '55992'
+  mod: MGI:1860040
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000063711
+  entrez: '562489'
+  mod: ZFIN:ZDB-GENE-080522-4
+  phenotypes: nervous system development, proteasome-mediated ubiquitin-dependent
+    protein catabolic process, protein polyubiquitination
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462382
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=425131
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462382
+  url: https://www.ncbi.nlm.nih.gov/gene/425131
 species: Gallus gallus
 symbol: TRIM3
 title: TRIM3
@@ -107,9 +98,7 @@ title: TRIM3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000110171](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000110171) | [10612](https://www.ncbi.nlm.nih.gov/gene/10612) | [MIM:605493](https://omim.org/entry/605493) |  |
+| Mouse | [ENSMUSG00000036989](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036989) | [55992](https://www.ncbi.nlm.nih.gov/gene/55992) | [MGI:1860040](http://www.informatics.jax.org/marker/MGI:1860040) |  |
+| Zebrafish | [ENSDARG00000063711](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063711) | [562489](https://www.ncbi.nlm.nih.gov/gene/562489) | [ZFIN:ZDB-GENE-080522-4](https://zfin.org/ZDB-GENE-080522-4) | nervous system development, proteasome-mediated ubiquitin-dependent protein catabolic process, protein polyubiquitination |
 

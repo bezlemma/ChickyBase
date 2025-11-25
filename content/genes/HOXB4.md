@@ -5,7 +5,6 @@ aliases:
 - homeobox protein Hox-Z
 cgnc_id: '15553'
 external_ids:
-  '25': stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
@@ -20,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006114.3?report=genbank&from=3621360&to=3626264
 forward_primer: GGAAAACGAGTAAAGGGGGGGAC
-gene_id: '462520'
+gene_id: '396230'
 gene_type: protein-coding
 images:
 - caption: HOXB4 expression
@@ -573,41 +572,38 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXB4.Anderson.2019.Supplementary
     figure 5K.jpg
 name: homeobox B4
-ncbi_id: '462520'
+ncbi_id: '396230'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000182742
   entrez: '3214'
   mod: MIM:142965
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000038692
   entrez: '15412'
   mod: MGI:96185
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(6) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 548393,734796
-  mod: '1033881'
+- ensembl: ENSXETG00000021973
+  entrez: '548393'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000013533
   entrez: '30340'
   mod: ZFIN:ZDB-GENE-990415-105
-  phenotypes: ZDB-GENE-990415-105
+  phenotypes: anterior/posterior pattern specification, embryonic skeletal system
+    morphogenesis, positive regulation of transcription by RNA polymerase II, regulation
+    of DNA-templated transcription
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAGAGGCACAGAGAATGGGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462520
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396230
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462520
+  url: https://www.ncbi.nlm.nih.gov/gene/396230
 species: Gallus gallus
 symbol: HOXB4
 template_length: '656'
@@ -638,9 +634,8 @@ title: HOXB4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [3214](https://www.ncbi.nlm.nih.gov/gene/3214) | [MIM:142965](https://omim.org/entry/142965) |  |
-| Mouse |  | [15412](https://www.ncbi.nlm.nih.gov/gene/15412) | [MGI:96185](http://www.informatics.jax.org/marker/MGI:96185) | All phenotypic alleles (8):Targeted, knock-out(6) Targeted, other(2) |
-| Xenopus |  | [548393](https://www.ncbi.nlm.nih.gov/gene/548393), [734796](https://www.ncbi.nlm.nih.gov/gene/734796) | [1033881](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1033881) |  |
-| Zebrafish | [ENSDARG00000013533](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013533) | [30340](https://www.ncbi.nlm.nih.gov/gene/30340) | [ZFIN:ZDB-GENE-990415-105](https://zfin.org/ZDB-GENE-990415-105) | ZDB-GENE-990415-105 |
+| Human | [ENSG00000182742](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000182742) | [3214](https://www.ncbi.nlm.nih.gov/gene/3214) | [MIM:142965](https://omim.org/entry/142965) |  |
+| Mouse | [ENSMUSG00000038692](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038692) | [15412](https://www.ncbi.nlm.nih.gov/gene/15412) | [MGI:96185](http://www.informatics.jax.org/marker/MGI:96185) | All phenotypic alleles (8):Targeted, knock-out(6) Targeted, other(2) |
+| Xenopus | [ENSXETG00000021973](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021973) | [548393](https://www.ncbi.nlm.nih.gov/gene/548393) |  |  |
+| Zebrafish | [ENSDARG00000013533](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013533) | [30340](https://www.ncbi.nlm.nih.gov/gene/30340) | [ZFIN:ZDB-GENE-990415-105](https://zfin.org/ZDB-GENE-990415-105) | anterior/posterior pattern specification, embryonic skeletal system morphogenesis, positive regulation of transcription by RNA polymerase II, regulation of DNA-templated transcription |
 

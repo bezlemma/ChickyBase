@@ -11,7 +11,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/107051987
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
-gene_id: '505820'
+gene_id: '107051987'
 gene_type: unknown
 images:
 - caption: POU3F3 expression
@@ -29,7 +29,7 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Bouchard.2005.Brn1-fig7C-2.jpg
 name: POU class 3 homeobox 3
-ncbi_id: '505820'
+ncbi_id: '107051987'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -59,7 +59,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/505820
+  url: https://www.ncbi.nlm.nih.gov/gene/107051987
 species: Gallus gallus
 symbol: POU3F3
 title: POU3F3

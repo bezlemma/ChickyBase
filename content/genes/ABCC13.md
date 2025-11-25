@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418468
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416677
 forward_primer: GAGAACAGAAGTGAAAAGGCAACC
-gene_id: '463537'
+gene_id: '418468'
 gene_type: protein-coding
 images:
 - caption: ABCC13 expression
@@ -70,41 +70,21 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R482.ABCC13.S26A.001.jpg
 name: ATP binding cassette subfamily C member 13 (pseudogene)
-ncbi_id: '463537'
+ncbi_id: '418468'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000033617
+  entrez: '100493583'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGAGATGACAGGAGAATGTGATGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463537
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418468
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463537
+  url: https://www.ncbi.nlm.nih.gov/gene/418468
 species: Gallus gallus
 symbol: ABCC13
 template_length: '762'
@@ -126,9 +106,5 @@ title: ABCC13
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000033617](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033617) | [100493583](https://www.ncbi.nlm.nih.gov/gene/100493583) |  |  |
 

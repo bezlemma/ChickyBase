@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421471
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001024580
-gene_id: '457772'
+gene_id: '421471'
 gene_type: protein-coding
 images:
 - caption: VIT expression
@@ -112,16 +112,11 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Akhirin.Ahsan.20054K.jpg
 name: vitrin
-ncbi_id: '457772'
+ncbi_id: '421471'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000205221
   entrez: '5212'
-  mod: ''
+  mod: MIM:617693
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000024076
@@ -129,20 +124,21 @@ orthologs:
   mod: MGI:1921449
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000022285
   entrez: '100489513'
-  mod: '6466688'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000063631
   entrez: '497398'
   mod: ZFIN:ZDB-GENE-050208-114
-  phenotypes: ZDB-GENE-050208-114
+  phenotypes: extracellular matrix organization, positive regulation of cell-substrate
+    adhesion, visual perception
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457772
+  url: https://www.ncbi.nlm.nih.gov/gene/421471
 species: Gallus gallus
 symbol: VIT
 title: VIT
@@ -170,9 +166,8 @@ As information provided was insufficient to verify exact sequence used to synthe
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000205221](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000205221) | [5212](https://www.ncbi.nlm.nih.gov/gene/5212) |  |  |
+| Human | [ENSG00000205221](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000205221) | [5212](https://www.ncbi.nlm.nih.gov/gene/5212) | [MIM:617693](https://omim.org/entry/617693) |  |
 | Mouse | [ENSMUSG00000024076](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024076) | [74199](https://www.ncbi.nlm.nih.gov/gene/74199) | [MGI:1921449](http://www.informatics.jax.org/marker/MGI:1921449) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100489513](https://www.ncbi.nlm.nih.gov/gene/100489513) | [6466688](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6466688) |  |
-| Zebrafish | [ENSDARG00000063631](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063631) | [497398](https://www.ncbi.nlm.nih.gov/gene/497398) | [ZFIN:ZDB-GENE-050208-114](https://zfin.org/ZDB-GENE-050208-114) | ZDB-GENE-050208-114 |
+| Xenopus | [ENSXETG00000022285](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022285) | [100489513](https://www.ncbi.nlm.nih.gov/gene/100489513) |  |  |
+| Zebrafish | [ENSDARG00000063631](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063631) | [497398](https://www.ncbi.nlm.nih.gov/gene/497398) | [ZFIN:ZDB-GENE-050208-114](https://zfin.org/ZDB-GENE-050208-114) | extracellular matrix organization, positive regulation of cell-substrate adhesion, visual perception |
 

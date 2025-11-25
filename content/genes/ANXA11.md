@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423637
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012903
 forward_primer: GCCTATGGGATTACCAGGACAAC
-gene_id: '451215'
+gene_id: '423637'
 gene_type: protein-coding
 images:
 - caption: ANXA11 expression
@@ -171,13 +171,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R498.ANXA11.S27AAAA.001.jpg
 name: annexin A11
-ncbi_id: '451215'
+ncbi_id: '423637'
 orthologs:
-- ensembl: ''
-  entrez: '42492'
-  mod: FBgn0000083
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000122359
   entrez: '311'
   mod: MIM:602572
@@ -188,24 +183,24 @@ orthologs:
   mod: MGI:108481
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 448260,447705
-  mod: '958576'
+- ensembl: ENSXETG00000018375
+  entrez: '448260'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000002632,ENSDARG00000077383
-  entrez: 323752,353365,368215
-  mod: ZFIN:ZDB-GENE-030131-2472,ZFIN:ZDB-GENE-030707-5,ZFIN:ZDB-GENE-030707-4
-  phenotypes: ZDB-GENE-030131-2472,ZDB-GENE-030707-5,ZDB-GENE-030707-4
+- ensembl: ENSDARG00000077383
+  entrez: '368215'
+  mod: ZFIN:ZDB-GENE-030707-4
+  phenotypes: cytokinetic process, phagocytosis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCTGAAAACTGCTCTGAGGTGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451215
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423637
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451215
+  url: https://www.ncbi.nlm.nih.gov/gene/423637
 species: Gallus gallus
 symbol: ANXA11
 template_length: '765'
@@ -229,9 +224,8 @@ title: ANXA11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42492](https://www.ncbi.nlm.nih.gov/gene/42492) | FBgn0000083 |  |
 | Human | [ENSG00000122359](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000122359) | [311](https://www.ncbi.nlm.nih.gov/gene/311) | [MIM:602572](https://omim.org/entry/602572) |  |
 | Mouse | [ENSMUSG00000021866](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021866) | [11744](https://www.ncbi.nlm.nih.gov/gene/11744) | [MGI:108481](http://www.informatics.jax.org/marker/MGI:108481) |  |
-| Xenopus |  | [448260](https://www.ncbi.nlm.nih.gov/gene/448260), [447705](https://www.ncbi.nlm.nih.gov/gene/447705) | [958576](http://www.xenbase.org/gene/showgene.do?method=display&geneId=958576) |  |
-| Zebrafish | [ENSDARG00000002632](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002632), [ENSDARG00000077383](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077383) | [323752](https://www.ncbi.nlm.nih.gov/gene/323752), [353365](https://www.ncbi.nlm.nih.gov/gene/353365), [368215](https://www.ncbi.nlm.nih.gov/gene/368215) | [ZFIN:ZDB-GENE-030131-2472](https://zfin.org/ZDB-GENE-030131-2472), [ZFIN:ZDB-GENE-030707-5](https://zfin.org/ZDB-GENE-030707-5), [ZFIN:ZDB-GENE-030707-4](https://zfin.org/ZDB-GENE-030707-4) | ZDB-GENE-030131-2472,ZDB-GENE-030707-5,ZDB-GENE-030707-4 |
+| Xenopus | [ENSXETG00000018375](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018375) | [448260](https://www.ncbi.nlm.nih.gov/gene/448260) |  |  |
+| Zebrafish | [ENSDARG00000077383](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077383) | [368215](https://www.ncbi.nlm.nih.gov/gene/368215) | [ZFIN:ZDB-GENE-030707-4](https://zfin.org/ZDB-GENE-030707-4) | cytokinetic process, phagocytosis |
 

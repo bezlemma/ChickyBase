@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:768789
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003643088
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCGGCAAGGGCAACTACTGGAC
-gene_id: '452639'
+gene_id: '768789'
 gene_type: protein-coding
 images:
 - caption: FOXE1 expression
@@ -327,41 +327,37 @@ images:
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yaklichkin.FoxE1.J.HH42.jpg
 name: forkhead box E1
-ncbi_id: '452639'
+ncbi_id: '768789'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000178919
+  entrez: '2304'
+  mod: MIM:602617
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000070990
+  entrez: '110805'
+  mod: MGI:1353500
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000044169
+  entrez: '100038190'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000079266
+  entrez: '567676'
+  mod: ZFIN:ZDB-GENE-061116-1
+  phenotypes: anatomical structure morphogenesis, animal organ development, cell differentiation,
+    embryonic viscerocranium morphogenesis, growth plate cartilage chondrocyte proliferation
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGCGGGGACGAACCTGTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452639
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=768789
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452639
+  url: https://www.ncbi.nlm.nih.gov/gene/768789
 species: Gallus gallus
 symbol: FOXE1
 template_length: '873'
@@ -388,9 +384,8 @@ title: FOXE1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000178919](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000178919) | [2304](https://www.ncbi.nlm.nih.gov/gene/2304) | [MIM:602617](https://omim.org/entry/602617) |  |
+| Mouse | [ENSMUSG00000070990](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000070990) | [110805](https://www.ncbi.nlm.nih.gov/gene/110805) | [MGI:1353500](http://www.informatics.jax.org/marker/MGI:1353500) |  |
+| Xenopus | [ENSXETG00000044169](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044169) | [100038190](https://www.ncbi.nlm.nih.gov/gene/100038190) |  |  |
+| Zebrafish | [ENSDARG00000079266](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079266) | [567676](https://www.ncbi.nlm.nih.gov/gene/567676) | [ZFIN:ZDB-GENE-061116-1](https://zfin.org/ZDB-GENE-061116-1) | anatomical structure morphogenesis, animal organ development, cell differentiation, embryonic viscerocranium morphogenesis, growth plate cartilage chondrocyte proliferation |
 

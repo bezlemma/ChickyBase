@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396404
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422211
 forward_primer: AGAAGATGCTGGAGAAGGC
-gene_id: '460880'
+gene_id: '396404'
 gene_type: protein-coding
 images:
 - caption: DDR2 expression
@@ -192,13 +192,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R440.DDR2.S26.001.jpg
 name: discoidin domain receptor tyrosine kinase 2
-ncbi_id: '460880'
+ncbi_id: '396404'
 orthologs:
-- ensembl: ''
-  entrez: 3346209,5740323
-  mod: FBgn0053531,FBgn0085409
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000162733
   entrez: '4921'
   mod: MIM:191311
@@ -210,24 +205,26 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Spontaneous(1) Chemically induced(1) Targeted,
     knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: '779954'
-  mod: '5884185'
+- ensembl: ENSXETG00000004752
+  entrez: '100497889'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000051913
+- ensembl: ENSDARG00000100693
   entrez: '556380'
-  mod: ZFIN:ZDB-GENE-090316-2,ZFIN:ZDB-GENE-060503-361
-  phenotypes: ZDB-GENE-090316-2,ZDB-GENE-060503-361
+  mod: ZFIN:ZDB-GENE-090316-2
+  phenotypes: cell surface receptor protein tyrosine kinase signaling pathway, phosphorylation,
+    positive regulation of neuron projection development, positive regulation of phosphatidylinositol
+    3-kinase/protein kinase B signal transduction, protein phosphorylation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTAGTAGTCCCCGCTGTAGAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460880
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396404
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460880
+  url: https://www.ncbi.nlm.nih.gov/gene/396404
 species: Gallus gallus
 symbol: DDR2
 template_length: '955'
@@ -251,9 +248,8 @@ title: DDR2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [3346209](https://www.ncbi.nlm.nih.gov/gene/3346209), [5740323](https://www.ncbi.nlm.nih.gov/gene/5740323) | FBgn0053531, FBgn0085409 |  |
 | Human | [ENSG00000162733](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162733) | [4921](https://www.ncbi.nlm.nih.gov/gene/4921) | [MIM:191311](https://omim.org/entry/191311) | MIM:271665 |
 | Mouse | [ENSMUSG00000026674](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026674) | [18214](https://www.ncbi.nlm.nih.gov/gene/18214) | [MGI:1345277](http://www.informatics.jax.org/marker/MGI:1345277) | All phenotypic alleles (5):Spontaneous(1) Chemically induced(1) Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [779954](https://www.ncbi.nlm.nih.gov/gene/779954) | [5884185](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5884185) |  |
-| Zebrafish | [ENSDARG00000051913](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000051913) | [556380](https://www.ncbi.nlm.nih.gov/gene/556380) | [ZFIN:ZDB-GENE-090316-2](https://zfin.org/ZDB-GENE-090316-2), [ZFIN:ZDB-GENE-060503-361](https://zfin.org/ZDB-GENE-060503-361) | ZDB-GENE-090316-2,ZDB-GENE-060503-361 |
+| Xenopus | [ENSXETG00000004752](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004752) | [100497889](https://www.ncbi.nlm.nih.gov/gene/100497889) |  |  |
+| Zebrafish | [ENSDARG00000100693](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000100693) | [556380](https://www.ncbi.nlm.nih.gov/gene/556380) | [ZFIN:ZDB-GENE-090316-2](https://zfin.org/ZDB-GENE-090316-2) | cell surface receptor protein tyrosine kinase signaling pathway, phosphorylation, positive regulation of neuron projection development, positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction, protein phosphorylation |
 

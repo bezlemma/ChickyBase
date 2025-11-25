@@ -6,7 +6,6 @@ aliases:
 - myosin regulatory light chain, isoform L20-B
 cgnc_id: '49735'
 external_ids:
-  '4': stage 4
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0003514
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016459
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Bell+Antin+GEISHA+screen
@@ -21,7 +20,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205341
-gene_id: '462598'
+gene_id: '396284'
 gene_type: protein-coding
 images:
 - caption: MYL12A expression
@@ -144,40 +143,35 @@ images:
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MRLC.Bell.2004.Fig.3.jpeg
 name: myosin, light chain 12A, regulatory, non-sarcomeric
-ncbi_id: '462598'
+ncbi_id: '396284'
 orthologs:
-- ensembl: ''
-  entrez: '31554'
-  mod: FBgn0003514
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000101608
-  entrez: '10627'
-  mod: ''
+- ensembl: ENSG00000118680
+  entrez: '103910'
+  mod: MIM:609211
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000024048
+  entrez: '67268'
+  mod: MGI:1914518
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000025009
+  entrez: '448060'
   mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000025326
   entrez: '337084'
   mod: ZFIN:ZDB-GENE-030131-9028
-  phenotypes: ZDB-GENE-030131-9028
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462598
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396284
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462598
+  url: https://www.ncbi.nlm.nih.gov/gene/396284
 species: Gallus gallus
 symbol: MYL12A
 title: MYL12A
@@ -208,9 +202,8 @@ title: MYL12A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31554](https://www.ncbi.nlm.nih.gov/gene/31554) | FBgn0003514 |  |
-| Human | [ENSG00000101608](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101608) | [10627](https://www.ncbi.nlm.nih.gov/gene/10627) |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000025326](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025326) | [337084](https://www.ncbi.nlm.nih.gov/gene/337084) | [ZFIN:ZDB-GENE-030131-9028](https://zfin.org/ZDB-GENE-030131-9028) | ZDB-GENE-030131-9028 |
+| Human | [ENSG00000118680](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118680) | [103910](https://www.ncbi.nlm.nih.gov/gene/103910) | [MIM:609211](https://omim.org/entry/609211) |  |
+| Mouse | [ENSMUSG00000024048](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024048) | [67268](https://www.ncbi.nlm.nih.gov/gene/67268) | [MGI:1914518](http://www.informatics.jax.org/marker/MGI:1914518) |  |
+| Xenopus | [ENSXETG00000025009](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025009) | [448060](https://www.ncbi.nlm.nih.gov/gene/448060) |  |  |
+| Zebrafish | [ENSDARG00000025326](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025326) | [337084](https://www.ncbi.nlm.nih.gov/gene/337084) | [ZFIN:ZDB-GENE-030131-9028](https://zfin.org/ZDB-GENE-030131-9028) |  |
 

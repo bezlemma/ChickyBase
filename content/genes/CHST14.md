@@ -9,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:770193
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641286
-gene_id: '453257'
+gene_id: '770193'
 gene_type: protein-coding
 images:
 - caption: CHST14 expression
@@ -27,40 +27,36 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/010p13.116.3.20.jpg
 name: carbohydrate sulfotransferase 14
-ncbi_id: '453257'
+ncbi_id: '770193'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000169105
+  entrez: '113189'
+  mod: MIM:608429
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000074916
+  entrez: '72136'
+  mod: MGI:1919386
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000047678
+  entrez: '100496179'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000043011
+  entrez: '404732'
+  mod: ZFIN:ZDB-GENE-040401-3
+  phenotypes: carbohydrate biosynthetic process, dermatan sulfate proteoglycan metabolic
+    process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453257
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=770193
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453257
+  url: https://www.ncbi.nlm.nih.gov/gene/770193
 species: Gallus gallus
 symbol: CHST14
 title: CHST14
@@ -83,9 +79,8 @@ title: CHST14
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000169105](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169105) | [113189](https://www.ncbi.nlm.nih.gov/gene/113189) | [MIM:608429](https://omim.org/entry/608429) |  |
+| Mouse | [ENSMUSG00000074916](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000074916) | [72136](https://www.ncbi.nlm.nih.gov/gene/72136) | [MGI:1919386](http://www.informatics.jax.org/marker/MGI:1919386) |  |
+| Xenopus | [ENSXETG00000047678](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000047678) | [100496179](https://www.ncbi.nlm.nih.gov/gene/100496179) |  |  |
+| Zebrafish | [ENSDARG00000043011](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043011) | [404732](https://www.ncbi.nlm.nih.gov/gene/404732) | [ZFIN:ZDB-GENE-040401-3](https://zfin.org/ZDB-GENE-040401-3) | carbohydrate biosynthetic process, dermatan sulfate proteoglycan metabolic process |
 

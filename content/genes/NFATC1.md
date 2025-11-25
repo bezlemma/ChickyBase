@@ -1,7 +1,6 @@
 ---
 cgnc_id: '9602'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Anderson et al. 2019.
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420815
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418906
 forward_primer: CCTTCCACTGCCACTTTGAACTTAC
-gene_id: '454322'
+gene_id: '420815'
 gene_type: protein-coding
 images:
 - caption: NFATC1 expression
@@ -177,13 +176,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFATC1.Anderson.2019.Supplementary
     figure 4F.jpg
 name: nuclear factor of activated T cells 1
-ncbi_id: '454322'
+ncbi_id: '420815'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000131196
   entrez: '4772'
   mod: MIM:600489
@@ -194,24 +188,25 @@ orthologs:
   mod: MGI:102469
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 780197,444346
-  mod: '876755'
+- ensembl: ENSXETG00000000853
+  entrez: '780197'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000036168
   entrez: '568315'
   mod: ZFIN:ZDB-GENE-060503-677
-  phenotypes: ZDB-GENE-060503-677
+  phenotypes: anatomical structure morphogenesis, atrioventricular valve morphogenesis,
+    calcineurin-NFAT signaling cascade, epithelium development, lymphangiogenesis
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCGATGTCTGTTTCTCCCTTCCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454322
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420815
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454322
+  url: https://www.ncbi.nlm.nih.gov/gene/420815
 species: Gallus gallus
 symbol: NFATC1
 template_length: '1207'
@@ -238,9 +233,8 @@ title: NFATC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000131196](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000131196) | [4772](https://www.ncbi.nlm.nih.gov/gene/4772) | [MIM:600489](https://omim.org/entry/600489) |  |
 | Mouse | [ENSMUSG00000033016](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033016) | [18018](https://www.ncbi.nlm.nih.gov/gene/18018) | [MGI:102469](http://www.informatics.jax.org/marker/MGI:102469) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4) |
-| Xenopus |  | [780197](https://www.ncbi.nlm.nih.gov/gene/780197), [444346](https://www.ncbi.nlm.nih.gov/gene/444346) | [876755](http://www.xenbase.org/gene/showgene.do?method=display&geneId=876755) |  |
-| Zebrafish | [ENSDARG00000036168](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036168) | [568315](https://www.ncbi.nlm.nih.gov/gene/568315) | [ZFIN:ZDB-GENE-060503-677](https://zfin.org/ZDB-GENE-060503-677) | ZDB-GENE-060503-677 |
+| Xenopus | [ENSXETG00000000853](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000853) | [780197](https://www.ncbi.nlm.nih.gov/gene/780197) |  |  |
+| Zebrafish | [ENSDARG00000036168](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036168) | [568315](https://www.ncbi.nlm.nih.gov/gene/568315) | [ZFIN:ZDB-GENE-060503-677](https://zfin.org/ZDB-GENE-060503-677) | anatomical structure morphogenesis, atrioventricular valve morphogenesis, calcineurin-NFAT signaling cascade, epithelium development, lymphangiogenesis |
 

@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395899
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205038
-gene_id: '450805'
+gene_id: '395899'
 gene_type: protein-coding
 images:
 - caption: PRPH2 expression
@@ -56,13 +56,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PERIPHERIN.FIG2T.BRAD.2005.jpg
 name: peripherin 2
-ncbi_id: '450805'
+ncbi_id: '395899'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000112619
   entrez: '5961'
   mod: MIM:179605
@@ -74,20 +69,21 @@ orthologs:
   phenotypes: All phenotypic alleles (6):Spontaneous(1) Chemically induced(1) Targeted,
     knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100491776,379506
-  mod: '985593'
+- ensembl: ENSXETG00000000215
+  entrez: '100491776'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000014840,ENSDARG00000038018
-  entrez: 559209,58085
-  mod: ZFIN:ZDB-GENE-000616-9,ZFIN:ZDB-GENE-000616-8
-  phenotypes: ZDB-GENE-000616-9,ZDB-GENE-000616-8
+- ensembl: ENSDARG00000014840
+  entrez: '559209'
+  mod: ZFIN:ZDB-GENE-000616-9
+  phenotypes: cell adhesion, protein localization to plasma membrane, protein maturation,
+    visual perception
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450805
+  url: https://www.ncbi.nlm.nih.gov/gene/395899
 species: Gallus gallus
 symbol: PRPH2
 title: PRPH2
@@ -115,9 +111,8 @@ title: PRPH2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000112619](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112619) | [5961](https://www.ncbi.nlm.nih.gov/gene/5961) | [MIM:179605](https://omim.org/entry/179605) | MIM:613105 |
 | Mouse | [ENSMUSG00000023978](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023978) | [19133](https://www.ncbi.nlm.nih.gov/gene/19133) | [MGI:102791](http://www.informatics.jax.org/marker/MGI:102791) | All phenotypic alleles (6):Spontaneous(1) Chemically induced(1) Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100491776](https://www.ncbi.nlm.nih.gov/gene/100491776), [379506](https://www.ncbi.nlm.nih.gov/gene/379506) | [985593](http://www.xenbase.org/gene/showgene.do?method=display&geneId=985593) |  |
-| Zebrafish | [ENSDARG00000014840](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014840), [ENSDARG00000038018](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038018) | [559209](https://www.ncbi.nlm.nih.gov/gene/559209), [58085](https://www.ncbi.nlm.nih.gov/gene/58085) | [ZFIN:ZDB-GENE-000616-9](https://zfin.org/ZDB-GENE-000616-9), [ZFIN:ZDB-GENE-000616-8](https://zfin.org/ZDB-GENE-000616-8) | ZDB-GENE-000616-9,ZDB-GENE-000616-8 |
+| Xenopus | [ENSXETG00000000215](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000215) | [100491776](https://www.ncbi.nlm.nih.gov/gene/100491776) |  |  |
+| Zebrafish | [ENSDARG00000014840](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014840) | [559209](https://www.ncbi.nlm.nih.gov/gene/559209) | [ZFIN:ZDB-GENE-000616-9](https://zfin.org/ZDB-GENE-000616-9) | cell adhesion, protein localization to plasma membrane, protein maturation, visual perception |
 

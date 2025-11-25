@@ -3,13 +3,12 @@ aliases:
 - argonaute RISC catalytic component 2, AGO2
 cgnc_id: '64972'
 external_ids:
-  '25': stage 25stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/100858102
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100858102
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640870
 forward_primer: GGAAAAACACCAGTCTATGCGGAG
-gene_id: '472633'
+gene_id: '100858102'
 gene_type: protein-coding
 images:
 - caption: AGO2 expression
@@ -150,41 +149,38 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R502.AGO2.S25AA.001.jpg
 name: argonaute 2, RISC catalytic component
-ncbi_id: '472633'
+ncbi_id: '100858102'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000123908
+  entrez: '27161'
+  mod: MIM:606229
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000036698
+  entrez: '239528'
+  mod: MGI:2446632
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000023755
+  entrez: '448205'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000061268
+  entrez: '570630'
+  mod: ZFIN:ZDB-GENE-110606-6
+  phenotypes: miRNA processing, miRNA-mediated gene silencing by inhibition of translation,
+    miRNA-mediated gene silencing by mRNA destabilization, negative regulation of
+    translational initiation, nucleate erythrocyte differentiation
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCAGGGATGGAAACAGAACGAGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=472633
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100858102
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/472633
+  url: https://www.ncbi.nlm.nih.gov/gene/100858102
 species: Gallus gallus
 symbol: AGO2
 template_length: '832'
@@ -206,9 +202,8 @@ title: AGO2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000123908](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000123908) | [27161](https://www.ncbi.nlm.nih.gov/gene/27161) | [MIM:606229](https://omim.org/entry/606229) |  |
+| Mouse | [ENSMUSG00000036698](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036698) | [239528](https://www.ncbi.nlm.nih.gov/gene/239528) | [MGI:2446632](http://www.informatics.jax.org/marker/MGI:2446632) |  |
+| Xenopus | [ENSXETG00000023755](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023755) | [448205](https://www.ncbi.nlm.nih.gov/gene/448205) |  |  |
+| Zebrafish | [ENSDARG00000061268](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061268) | [570630](https://www.ncbi.nlm.nih.gov/gene/570630) | [ZFIN:ZDB-GENE-110606-6](https://zfin.org/ZDB-GENE-110606-6) | miRNA processing, miRNA-mediated gene silencing by inhibition of translation, miRNA-mediated gene silencing by mRNA destabilization, negative regulation of translational initiation, nucleate erythrocyte differentiation |
 

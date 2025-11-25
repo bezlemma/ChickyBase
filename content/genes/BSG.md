@@ -6,7 +6,6 @@ aliases:
 - neurothelin
 cgnc_id: '909'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006090
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0002080
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:770363
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001198990
 forward_primer: 5'-GGTCACAAATGGATGCTGGGAG-3'
-gene_id: '453877'
+gene_id: '770363'
 gene_type: protein-coding
 images:
 - caption: BSG expression
@@ -185,41 +184,32 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R546.BSG.S25AAAA.001.jpg
 name: basigin (Ok blood group)
-ncbi_id: '453877'
+ncbi_id: '770363'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000172270
+  entrez: '682'
+  mod: MIM:109480
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000023175
+  entrez: '12215'
+  mod: MGI:88208
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000019881
+  entrez: '337692'
+  mod: ZFIN:ZDB-GENE-030131-9638
+  phenotypes: axon guidance, dendrite self-avoidance, homophilic cell adhesion via
+    plasma membrane adhesion molecules
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGAACGGCAAAGGACACGCTAAGC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453877
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=770363
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453877
+  url: https://www.ncbi.nlm.nih.gov/gene/770363
 species: Gallus gallus
 symbol: BSG
 template_length: '758'
@@ -244,9 +234,7 @@ title: BSG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000172270](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000172270) | [682](https://www.ncbi.nlm.nih.gov/gene/682) | [MIM:109480](https://omim.org/entry/109480) |  |
+| Mouse | [ENSMUSG00000023175](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023175) | [12215](https://www.ncbi.nlm.nih.gov/gene/12215) | [MGI:88208](http://www.informatics.jax.org/marker/MGI:88208) |  |
+| Zebrafish | [ENSDARG00000019881](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019881) | [337692](https://www.ncbi.nlm.nih.gov/gene/337692) | [ZFIN:ZDB-GENE-030131-9638](https://zfin.org/ZDB-GENE-030131-9638) | axon guidance, dendrite self-avoidance, homophilic cell adhesion via plasma membrane adhesion molecules |
 

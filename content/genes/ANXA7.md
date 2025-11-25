@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423747
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277347
 forward_primer: GTGGACAAGCACCATCACCG
-gene_id: '450860'
+gene_id: '423747'
 gene_type: protein-coding
 images:
 - caption: ANXA7 expression
@@ -101,13 +101,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R498.ANXA7.S27AA.001.jpg
 name: annexin A7
-ncbi_id: '450860'
+ncbi_id: '423747'
 orthologs:
-- ensembl: ''
-  entrez: '32612'
-  mod: FBgn0030749
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138279
   entrez: '310'
   mod: MIM:186360
@@ -118,24 +113,19 @@ orthologs:
   mod: MGI:88031
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 407959,447499
-  mod: '987771'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000010645
+  entrez: '407959'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: ATTAACCCTCACTAAAGGTTAGCAATCCTGGAATACGCCTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450860
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423747
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450860
+  url: https://www.ncbi.nlm.nih.gov/gene/423747
 species: Gallus gallus
 symbol: ANXA7
 template_length: '694'
@@ -159,9 +149,7 @@ title: ANXA7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32612](https://www.ncbi.nlm.nih.gov/gene/32612) | FBgn0030749 |  |
 | Human | [ENSG00000138279](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138279) | [310](https://www.ncbi.nlm.nih.gov/gene/310) | [MIM:186360](https://omim.org/entry/186360) |  |
 | Mouse | [ENSMUSG00000021814](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021814) | [11750](https://www.ncbi.nlm.nih.gov/gene/11750) | [MGI:88031](http://www.informatics.jax.org/marker/MGI:88031) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [407959](https://www.ncbi.nlm.nih.gov/gene/407959), [447499](https://www.ncbi.nlm.nih.gov/gene/447499) | [987771](http://www.xenbase.org/gene/showgene.do?method=display&geneId=987771) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000010645](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010645) | [407959](https://www.ncbi.nlm.nih.gov/gene/407959) |  |  |
 

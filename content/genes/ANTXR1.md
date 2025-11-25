@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428199
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425758
-gene_id: '459385'
+gene_id: '428199'
 gene_type: protein-coding
 images:
 - caption: ANTXR1 expression
@@ -87,13 +87,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANTXR1.Singh.2016.Fig5.jpg
 name: anthrax toxin receptor 1
-ncbi_id: '459385'
+ncbi_id: '428199'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000169604
   entrez: '84168'
   mod: MIM:606410
@@ -105,20 +100,20 @@ orthologs:
   phenotypes: All phenotypic alleles (10):Chemically induced(2) Targeted, knock-out(3)
     Targeted, other(5)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000008198
   entrez: '100486418'
-  mod: '986529'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000074075
-  entrez: 556289,563907
-  mod: ZFIN:ZDB-GENE-091204-21,ZFIN:ZDB-GENE-090313-28,ZFIN:ZDB-GENE-090514-5,ZFIN:ZDB-GENE-110411-15
-  phenotypes: ZDB-GENE-091204-21,ZDB-GENE-090313-28,ZDB-GENE-090514-5,ZDB-GENE-110411-15
+- ensembl: ENSDARG00000025672
+  entrez: '793153'
+  mod: ZFIN:ZDB-GENE-110411-15
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459385
+  url: https://www.ncbi.nlm.nih.gov/gene/428199
 species: Gallus gallus
 symbol: ANTXR1
 title: ANTXR1
@@ -144,9 +139,8 @@ title: ANTXR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000169604](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169604) | [84168](https://www.ncbi.nlm.nih.gov/gene/84168) | [MIM:606410](https://omim.org/entry/606410) | MIM:602089 |
 | Mouse | [ENSMUSG00000033420](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033420) | [69538](https://www.ncbi.nlm.nih.gov/gene/69538) | [MGI:1916788](http://www.informatics.jax.org/marker/MGI:1916788) | All phenotypic alleles (10):Chemically induced(2) Targeted, knock-out(3) Targeted, other(5) |
-| Xenopus |  | [100486418](https://www.ncbi.nlm.nih.gov/gene/100486418) | [986529](http://www.xenbase.org/gene/showgene.do?method=display&geneId=986529) |  |
-| Zebrafish | [ENSDARG00000074075](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074075) | [556289](https://www.ncbi.nlm.nih.gov/gene/556289), [563907](https://www.ncbi.nlm.nih.gov/gene/563907) | [ZFIN:ZDB-GENE-091204-21](https://zfin.org/ZDB-GENE-091204-21), [ZFIN:ZDB-GENE-090313-28](https://zfin.org/ZDB-GENE-090313-28), [ZFIN:ZDB-GENE-090514-5](https://zfin.org/ZDB-GENE-090514-5), [ZFIN:ZDB-GENE-110411-15](https://zfin.org/ZDB-GENE-110411-15) | ZDB-GENE-091204-21,ZDB-GENE-090313-28,ZDB-GENE-090514-5,ZDB-GENE-110411-15 |
+| Xenopus | [ENSXETG00000008198](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008198) | [100486418](https://www.ncbi.nlm.nih.gov/gene/100486418) |  |  |
+| Zebrafish | [ENSDARG00000025672](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025672) | [793153](https://www.ncbi.nlm.nih.gov/gene/793153) | [ZFIN:ZDB-GENE-110411-15](https://zfin.org/ZDB-GENE-110411-15) |  |
 

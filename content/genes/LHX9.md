@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396397
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205426
-gene_id: '461969'
+gene_id: '396397'
 gene_type: protein-coding
 images:
 - caption: LHX9 expression
@@ -414,14 +414,9 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LHX9.Sun.2009.Fig.2.png
 name: LIM homeobox 9
-ncbi_id: '461969'
+ncbi_id: '396397'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000143355
   entrez: '56956'
   mod: MIM:606066
   phenotypes: ''
@@ -431,23 +426,25 @@ orthologs:
   mod: MGI:1316721
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100489035,447351,373755
-  mod: '492043'
+- ensembl: ENSXETG00000009957
+  entrez: '100489035'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000056979
   entrez: '550405'
   mod: ZFIN:ZDB-GENE-050417-210
-  phenotypes: ZDB-GENE-050417-210
+  phenotypes: dorsal spinal cord interneuron anterior axon guidance, negative regulation
+    of DNA-templated transcription, neuron differentiation, neuron fate specification,
+    regulation of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461969
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396397
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461969
+  url: https://www.ncbi.nlm.nih.gov/gene/396397
 species: Gallus gallus
 symbol: LHX9
 title: LHX9
@@ -476,9 +473,8 @@ title: LHX9
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [56956](https://www.ncbi.nlm.nih.gov/gene/56956) | [MIM:606066](https://omim.org/entry/606066) |  |
+| Human | [ENSG00000143355](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143355) | [56956](https://www.ncbi.nlm.nih.gov/gene/56956) | [MIM:606066](https://omim.org/entry/606066) |  |
 | Mouse | [ENSMUSG00000019230](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019230) | [16876](https://www.ncbi.nlm.nih.gov/gene/16876) | [MGI:1316721](http://www.informatics.jax.org/marker/MGI:1316721) | All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5) |
-| Xenopus |  | [100489035](https://www.ncbi.nlm.nih.gov/gene/100489035), [447351](https://www.ncbi.nlm.nih.gov/gene/447351), [373755](https://www.ncbi.nlm.nih.gov/gene/373755) | [492043](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492043) |  |
-| Zebrafish | [ENSDARG00000056979](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056979) | [550405](https://www.ncbi.nlm.nih.gov/gene/550405) | [ZFIN:ZDB-GENE-050417-210](https://zfin.org/ZDB-GENE-050417-210) | ZDB-GENE-050417-210 |
+| Xenopus | [ENSXETG00000009957](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009957) | [100489035](https://www.ncbi.nlm.nih.gov/gene/100489035) |  |  |
+| Zebrafish | [ENSDARG00000056979](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056979) | [550405](https://www.ncbi.nlm.nih.gov/gene/550405) | [ZFIN:ZDB-GENE-050417-210](https://zfin.org/ZDB-GENE-050417-210) | dorsal spinal cord interneuron anterior axon guidance, negative regulation of DNA-templated transcription, neuron differentiation, neuron fate specification, regulation of DNA-templated transcription |
 

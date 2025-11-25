@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418137
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416368
 forward_primer: TGGAGATTCACCCAAGATGTGC
-gene_id: '455265'
+gene_id: '418137'
 gene_type: protein-coding
 images:
 - caption: AMN1 expression
@@ -85,16 +85,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R522.AMN1.S26.001.jpg
 name: antagonist of mitotic exit network 1 homolog
-ncbi_id: '455265'
+ncbi_id: '418137'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000151743
   entrez: '196394'
-  mod: ''
+  mod: MIM:620564
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000068250
@@ -102,24 +97,24 @@ orthologs:
   mod: MGI:2442933
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000044721
   entrez: '100485350'
-  mod: '6033308'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000070478
-  entrez: 796734,751744
+  entrez: '751744'
   mod: ZFIN:ZDB-GENE-060825-13
-  phenotypes: ZDB-GENE-060825-13
+  phenotypes: SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTGCGAAGACAGACAGGCTCTAAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455265
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418137
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455265
+  url: https://www.ncbi.nlm.nih.gov/gene/418137
 species: Gallus gallus
 symbol: AMN1
 template_length: '986'
@@ -141,9 +136,8 @@ title: AMN1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000151743](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000151743) | [196394](https://www.ncbi.nlm.nih.gov/gene/196394) |  |  |
+| Human | [ENSG00000151743](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000151743) | [196394](https://www.ncbi.nlm.nih.gov/gene/196394) | [MIM:620564](https://omim.org/entry/620564) |  |
 | Mouse | [ENSMUSG00000068250](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000068250) | [232566](https://www.ncbi.nlm.nih.gov/gene/232566) | [MGI:2442933](http://www.informatics.jax.org/marker/MGI:2442933) |  |
-| Xenopus |  | [100485350](https://www.ncbi.nlm.nih.gov/gene/100485350) | [6033308](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6033308) |  |
-| Zebrafish | [ENSDARG00000070478](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070478) | [796734](https://www.ncbi.nlm.nih.gov/gene/796734), [751744](https://www.ncbi.nlm.nih.gov/gene/751744) | [ZFIN:ZDB-GENE-060825-13](https://zfin.org/ZDB-GENE-060825-13) | ZDB-GENE-060825-13 |
+| Xenopus | [ENSXETG00000044721](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044721) | [100485350](https://www.ncbi.nlm.nih.gov/gene/100485350) |  |  |
+| Zebrafish | [ENSDARG00000070478](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070478) | [751744](https://www.ncbi.nlm.nih.gov/gene/751744) | [ZFIN:ZDB-GENE-060825-13](https://zfin.org/ZDB-GENE-060825-13) | SCF-dependent proteasomal ubiquitin-dependent protein catabolic process |
 

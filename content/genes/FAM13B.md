@@ -4,12 +4,11 @@ aliases:
 - family with sequence similarity 13, member B1
 cgnc_id: '4564'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/416297
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277745
 forward_primer: TTAGCCAATGTAGCATCGC
-gene_id: '457095'
+gene_id: '416297'
 gene_type: protein-coding
 images:
 - caption: FAM13B expression
@@ -112,41 +111,31 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R410.C5ORF5.S25D.001.jpg
 name: family with sequence similarity 13, member B
-ncbi_id: '457095'
+ncbi_id: '416297'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000031003
+  entrez: '51306'
+  mod: MIM:609371
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000036501
+  entrez: '225358'
+  mod: MGI:2447834
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000003827
+  entrez: '100492110'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGATTCACTGTCTTCCTGCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457095
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416297
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457095
+  url: https://www.ncbi.nlm.nih.gov/gene/416297
 species: Gallus gallus
 symbol: FAM13B
 template_length: '1001'
@@ -167,9 +156,7 @@ title: FAM13B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000031003](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000031003) | [51306](https://www.ncbi.nlm.nih.gov/gene/51306) | [MIM:609371](https://omim.org/entry/609371) |  |
+| Mouse | [ENSMUSG00000036501](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036501) | [225358](https://www.ncbi.nlm.nih.gov/gene/225358) | [MGI:2447834](http://www.informatics.jax.org/marker/MGI:2447834) |  |
+| Xenopus | [ENSXETG00000003827](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003827) | [100492110](https://www.ncbi.nlm.nih.gov/gene/100492110) |  |  |
 

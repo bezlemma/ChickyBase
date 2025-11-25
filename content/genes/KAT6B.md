@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423734
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421609
-gene_id: '450853'
+gene_id: '423734'
 gene_type: protein-coding
 images:
 - caption: KAT6B expression
@@ -62,40 +62,32 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54xf7.125.23xs.jpg
 name: lysine acetyltransferase 6B
-ncbi_id: '450853'
+ncbi_id: '423734'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000156650
+- ensembl: ENSG00000281813
   entrez: '23522'
   mod: MIM:605880
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000047168
+  entrez: '100496520'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000055429
+- ensembl: ''
   entrez: '568932'
   mod: ZFIN:ZDB-GENE-000607-52
-  phenotypes: ZDB-GENE-000607-52
+  phenotypes: chromatin organization, epigenetic regulation of gene expression, nucleosome
+    assembly, positive regulation of macromolecule biosynthetic process, positive
+    regulation of nucleobase-containing compound metabolic process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450853
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423734
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450853
+  url: https://www.ncbi.nlm.nih.gov/gene/423734
 species: Gallus gallus
 symbol: KAT6B
 title: KAT6B
@@ -116,9 +108,7 @@ title: KAT6B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000156650](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000156650) | [23522](https://www.ncbi.nlm.nih.gov/gene/23522) | [MIM:605880](https://omim.org/entry/605880) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000055429](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055429) | [568932](https://www.ncbi.nlm.nih.gov/gene/568932) | [ZFIN:ZDB-GENE-000607-52](https://zfin.org/ZDB-GENE-000607-52) | ZDB-GENE-000607-52 |
+| Human | [ENSG00000281813](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000281813) | [23522](https://www.ncbi.nlm.nih.gov/gene/23522) | [MIM:605880](https://omim.org/entry/605880) |  |
+| Xenopus | [ENSXETG00000047168](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000047168) | [100496520](https://www.ncbi.nlm.nih.gov/gene/100496520) |  |  |
+| Zebrafish |  | [568932](https://www.ncbi.nlm.nih.gov/gene/568932) | [ZFIN:ZDB-GENE-000607-52](https://zfin.org/ZDB-GENE-000607-52) | chromatin organization, epigenetic regulation of gene expression, nucleosome assembly, positive regulation of macromolecule biosynthetic process, positive regulation of nucleobase-containing compound metabolic process |
 

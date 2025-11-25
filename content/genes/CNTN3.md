@@ -18,7 +18,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416101
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414433
-gene_id: '457893'
+gene_id: '416101'
 gene_type: protein-coding
 images:
 - caption: CNTN3 expression
@@ -71,13 +71,8 @@ images:
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yamagata.2012.Figure6.M.CNTN3-CNT5.jpg
 name: contactin 3
-ncbi_id: '457893'
+ncbi_id: '416101'
 orthologs:
-- ensembl: ''
-  entrez: '40553'
-  mod: FBgn0037240
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000113805
   entrez: '5067'
   mod: MIM:601325
@@ -88,20 +83,15 @@ orthologs:
   mod: MGI:99534
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000013647
   entrez: '100000688'
-  mod: ZFIN:ZDB-GENE-090312-57,ZFIN:ZDB-GENE-081030-10,ZFIN:ZDB-GENE-130530-645
-  phenotypes: ZDB-GENE-090312-57,ZDB-GENE-081030-10,ZDB-GENE-130530-645
+  mod: ZFIN:ZDB-GENE-090312-57
+  phenotypes: axon guidance, brain development, cell-cell adhesion
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457893
+  url: https://www.ncbi.nlm.nih.gov/gene/416101
 species: Gallus gallus
 symbol: CNTN3
 title: CNTN3
@@ -129,9 +119,7 @@ title: CNTN3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40553](https://www.ncbi.nlm.nih.gov/gene/40553) | FBgn0037240 |  |
 | Human | [ENSG00000113805](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113805) | [5067](https://www.ncbi.nlm.nih.gov/gene/5067) | [MIM:601325](https://omim.org/entry/601325) |  |
 | Mouse | [ENSMUSG00000030075](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030075) | [18488](https://www.ncbi.nlm.nih.gov/gene/18488) | [MGI:99534](http://www.informatics.jax.org/marker/MGI:99534) |  |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000013647](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013647) | [100000688](https://www.ncbi.nlm.nih.gov/gene/100000688) | [ZFIN:ZDB-GENE-090312-57](https://zfin.org/ZDB-GENE-090312-57), [ZFIN:ZDB-GENE-081030-10](https://zfin.org/ZDB-GENE-081030-10), [ZFIN:ZDB-GENE-130530-645](https://zfin.org/ZDB-GENE-130530-645) | ZDB-GENE-090312-57,ZDB-GENE-081030-10,ZDB-GENE-130530-645 |
+| Zebrafish | [ENSDARG00000013647](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013647) | [100000688](https://www.ncbi.nlm.nih.gov/gene/100000688) | [ZFIN:ZDB-GENE-090312-57](https://zfin.org/ZDB-GENE-090312-57) | axon guidance, brain development, cell-cell adhesion |
 

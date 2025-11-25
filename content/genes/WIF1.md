@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417831
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199607
 forward_primer: TACCTATTGGTGTCCGAGGGGAAG
-gene_id: '451734'
+gene_id: '417831'
 gene_type: protein-coding
 images:
 - caption: WIF1 expression
@@ -150,13 +150,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R335.WIF1.S24.01.jpg
 name: WNT inhibitory factor 1
-ncbi_id: '451734'
+ncbi_id: '417831'
 orthologs:
-- ensembl: ''
-  entrez: '31617'
-  mod: FBgn0003390
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000156076
   entrez: '11197'
   mod: MIM:605186
@@ -167,24 +162,26 @@ orthologs:
   mod: MGI:1344332
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100127197,399375
-  mod: '486514'
+- ensembl: ENSXETG00000013842
+  entrez: '100127197'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000005541
   entrez: '30476'
   mod: ZFIN:ZDB-GENE-990712-17
-  phenotypes: ZDB-GENE-990712-17
+  phenotypes: Wnt signaling pathway, habenula development, negative regulation of
+    canonical Wnt signaling pathway, regulation of canonical Wnt signaling pathway,
+    swim bladder development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGACAGGGCTGATGGCATTTACTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451734
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417831
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451734
+  url: https://www.ncbi.nlm.nih.gov/gene/417831
 species: Gallus gallus
 symbol: WIF1
 template_length: '699'
@@ -210,9 +207,8 @@ title: WIF1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31617](https://www.ncbi.nlm.nih.gov/gene/31617) | FBgn0003390 |  |
 | Human | [ENSG00000156076](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000156076) | [11197](https://www.ncbi.nlm.nih.gov/gene/11197) | [MIM:605186](https://omim.org/entry/605186) |  |
 | Mouse | [ENSMUSG00000020218](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020218) | [24117](https://www.ncbi.nlm.nih.gov/gene/24117) | [MGI:1344332](http://www.informatics.jax.org/marker/MGI:1344332) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100127197](https://www.ncbi.nlm.nih.gov/gene/100127197), [399375](https://www.ncbi.nlm.nih.gov/gene/399375) | [486514](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486514) |  |
-| Zebrafish | [ENSDARG00000005541](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005541) | [30476](https://www.ncbi.nlm.nih.gov/gene/30476) | [ZFIN:ZDB-GENE-990712-17](https://zfin.org/ZDB-GENE-990712-17) | ZDB-GENE-990712-17 |
+| Xenopus | [ENSXETG00000013842](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013842) | [100127197](https://www.ncbi.nlm.nih.gov/gene/100127197) |  |  |
+| Zebrafish | [ENSDARG00000005541](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005541) | [30476](https://www.ncbi.nlm.nih.gov/gene/30476) | [ZFIN:ZDB-GENE-990712-17](https://zfin.org/ZDB-GENE-990712-17) | Wnt signaling pathway, habenula development, negative regulation of canonical Wnt signaling pathway, regulation of canonical Wnt signaling pathway, swim bladder development |
 

@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419932
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418053
-gene_id: '453042'
+gene_id: '419932'
 gene_type: protein-coding
 images:
 - caption: BTG2 expression
@@ -355,13 +355,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-figS1-K.jpg
 name: BTG anti-proliferation factor 2
-ncbi_id: '453042'
+ncbi_id: '419932'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000159388
   entrez: '7832'
   mod: MIM:601597
@@ -372,20 +367,20 @@ orthologs:
   mod: MGI:108384
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 496422,496081
-  mod: '855417'
+- ensembl: ENSXETG00000039279
+  entrez: '496422'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000020298
   entrez: '30079'
   mod: ZFIN:ZDB-GENE-000210-15
-  phenotypes: ZDB-GENE-000210-15
+  phenotypes: negative regulation of cell population proliferation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453042
+  url: https://www.ncbi.nlm.nih.gov/gene/419932
 species: Gallus gallus
 symbol: BTG2
 title: BTG2
@@ -411,9 +406,8 @@ title: BTG2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000159388](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000159388) | [7832](https://www.ncbi.nlm.nih.gov/gene/7832) | [MIM:601597](https://omim.org/entry/601597) |  |
 | Mouse | [ENSMUSG00000020423](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020423) | [12227](https://www.ncbi.nlm.nih.gov/gene/12227) | [MGI:108384](http://www.informatics.jax.org/marker/MGI:108384) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [496422](https://www.ncbi.nlm.nih.gov/gene/496422), [496081](https://www.ncbi.nlm.nih.gov/gene/496081) | [855417](http://www.xenbase.org/gene/showgene.do?method=display&geneId=855417) |  |
-| Zebrafish | [ENSDARG00000020298](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020298) | [30079](https://www.ncbi.nlm.nih.gov/gene/30079) | [ZFIN:ZDB-GENE-000210-15](https://zfin.org/ZDB-GENE-000210-15) | ZDB-GENE-000210-15 |
+| Xenopus | [ENSXETG00000039279](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000039279) | [496422](https://www.ncbi.nlm.nih.gov/gene/496422) |  |  |
+| Zebrafish | [ENSDARG00000020298](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020298) | [30079](https://www.ncbi.nlm.nih.gov/gene/30079) | [ZFIN:ZDB-GENE-000210-15](https://zfin.org/ZDB-GENE-000210-15) | negative regulation of cell population proliferation |
 

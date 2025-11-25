@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:408047
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001315
-gene_id: '452513'
+gene_id: '408047'
 gene_type: protein-coding
 images:
 - caption: TMSB4X expression
@@ -321,7 +321,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THYMOSIN B4_HH 12
     x20.jpg
 name: thymosin beta 4 X-linked
-ncbi_id: '452513'
+ncbi_id: '408047'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -351,7 +351,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452513
+  url: https://www.ncbi.nlm.nih.gov/gene/408047
 species: Gallus gallus
 symbol: TMSB4X
 title: TMSB4X

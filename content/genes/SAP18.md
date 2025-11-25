@@ -21,7 +21,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374206
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204312
-gene_id: '456391'
+gene_id: '374206'
 gene_type: protein-coding
 images:
 - caption: SAP18 expression
@@ -56,37 +56,32 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAP18.Sheeba.2007.Fig.4.png
 name: Sin3A associated protein 18
-ncbi_id: '456391'
+ncbi_id: '374206'
 orthologs:
-- ensembl: ''
-  entrez: '41965'
-  mod: FBgn0024491
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000150459
   entrez: '10284'
   mod: MIM:602949
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000021963,ENSMUSG00000061104
-  entrez: 20220,100041953
-  mod: MGI:1277978,MGI:3704317
+- ensembl: ENSMUSG00000061104
+  entrez: '100041953'
+  mod: MGI:3704317
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 548920,734321
-  mod: '481688'
+- ensembl: ENSXETG00000009598
+  entrez: '548920'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000057854
   entrez: '393693'
   mod: ZFIN:ZDB-GENE-040426-1679
-  phenotypes: ZDB-GENE-040426-1679
+  phenotypes: negative regulation of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456391
+  url: https://www.ncbi.nlm.nih.gov/gene/374206
 species: Gallus gallus
 symbol: SAP18
 title: SAP18
@@ -114,9 +109,8 @@ title: SAP18
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41965](https://www.ncbi.nlm.nih.gov/gene/41965) | FBgn0024491 |  |
 | Human | [ENSG00000150459](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000150459) | [10284](https://www.ncbi.nlm.nih.gov/gene/10284) | [MIM:602949](https://omim.org/entry/602949) |  |
-| Mouse | [ENSMUSG00000021963](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021963), [ENSMUSG00000061104](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061104) | [20220](https://www.ncbi.nlm.nih.gov/gene/20220), [100041953](https://www.ncbi.nlm.nih.gov/gene/100041953) | [MGI:1277978](http://www.informatics.jax.org/marker/MGI:1277978), [MGI:3704317](http://www.informatics.jax.org/marker/MGI:3704317) |  |
-| Xenopus |  | [548920](https://www.ncbi.nlm.nih.gov/gene/548920), [734321](https://www.ncbi.nlm.nih.gov/gene/734321) | [481688](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481688) |  |
-| Zebrafish | [ENSDARG00000057854](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057854) | [393693](https://www.ncbi.nlm.nih.gov/gene/393693) | [ZFIN:ZDB-GENE-040426-1679](https://zfin.org/ZDB-GENE-040426-1679) | ZDB-GENE-040426-1679 |
+| Mouse | [ENSMUSG00000061104](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061104) | [100041953](https://www.ncbi.nlm.nih.gov/gene/100041953) | [MGI:3704317](http://www.informatics.jax.org/marker/MGI:3704317) |  |
+| Xenopus | [ENSXETG00000009598](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009598) | [548920](https://www.ncbi.nlm.nih.gov/gene/548920) |  |  |
+| Zebrafish | [ENSDARG00000057854](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057854) | [393693](https://www.ncbi.nlm.nih.gov/gene/393693) | [ZFIN:ZDB-GENE-040426-1679](https://zfin.org/ZDB-GENE-040426-1679) | negative regulation of DNA-templated transcription |
 

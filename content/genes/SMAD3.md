@@ -9,7 +9,6 @@ aliases:
 - mothers against DPP homolog 3, SMAD3
 cgnc_id: '5954'
 external_ids:
-  '25': stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0025800
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0042110
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0071141
@@ -24,7 +23,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395132
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0070412
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204475
-gene_id: '462153'
+gene_id: '395132'
 gene_type: protein-coding
 images:
 - caption: SMAD3 expression
@@ -148,13 +147,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SMAD3.HH25.GarciaCampmany.2007.f1.smad3.png
 name: SMAD family member 3
-ncbi_id: '462153'
+ncbi_id: '395132'
 orthologs:
-- ensembl: ''
-  entrez: '31738'
-  mod: FBgn0025800
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000166949
   entrez: '4088'
   mod: MIM:603109
@@ -165,23 +159,24 @@ orthologs:
   mod: MGI:1201674
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 493272,378633
-  mod: '481991'
+- ensembl: ENSXETG00000007804
+  entrez: '493272'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000010207,ENSDARG00000036096
-  entrez: 326283,58092
-  mod: ZFIN:ZDB-GENE-030128-4,ZFIN:ZDB-GENE-000509-3
-  phenotypes: ZDB-GENE-030128-4,ZDB-GENE-000509-3
+- ensembl: ENSDARG00000010207
+  entrez: '326283'
+  mod: ZFIN:ZDB-GENE-030128-4
+  phenotypes: BMP signaling pathway, SMAD protein signal transduction, activin receptor
+    signaling pathway, anatomical structure morphogenesis, cell differentiation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462153
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395132
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462153
+  url: https://www.ncbi.nlm.nih.gov/gene/395132
 species: Gallus gallus
 symbol: SMAD3
 title: SMAD3
@@ -212,9 +207,8 @@ title: SMAD3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31738](https://www.ncbi.nlm.nih.gov/gene/31738) | FBgn0025800 |  |
 | Human | [ENSG00000166949](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166949) | [4088](https://www.ncbi.nlm.nih.gov/gene/4088) | [MIM:603109](https://omim.org/entry/603109) | MIM:613795 |
 | Mouse | [ENSMUSG00000032402](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032402) | [17127](https://www.ncbi.nlm.nih.gov/gene/17127) | [MGI:1201674](http://www.informatics.jax.org/marker/MGI:1201674) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4) |
-| Xenopus |  | [493272](https://www.ncbi.nlm.nih.gov/gene/493272), [378633](https://www.ncbi.nlm.nih.gov/gene/378633) | [481991](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481991) |  |
-| Zebrafish | [ENSDARG00000010207](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010207), [ENSDARG00000036096](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036096) | [326283](https://www.ncbi.nlm.nih.gov/gene/326283), [58092](https://www.ncbi.nlm.nih.gov/gene/58092) | [ZFIN:ZDB-GENE-030128-4](https://zfin.org/ZDB-GENE-030128-4), [ZFIN:ZDB-GENE-000509-3](https://zfin.org/ZDB-GENE-000509-3) | ZDB-GENE-030128-4,ZDB-GENE-000509-3 |
+| Xenopus | [ENSXETG00000007804](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007804) | [493272](https://www.ncbi.nlm.nih.gov/gene/493272) |  |  |
+| Zebrafish | [ENSDARG00000010207](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010207) | [326283](https://www.ncbi.nlm.nih.gov/gene/326283) | [ZFIN:ZDB-GENE-030128-4](https://zfin.org/ZDB-GENE-030128-4) | BMP signaling pathway, SMAD protein signal transduction, activin receptor signaling pathway, anatomical structure morphogenesis, cell differentiation |
 

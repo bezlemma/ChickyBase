@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421292
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012564
 forward_primer: GCTGAAATGGCAAACACGAAATCG
-gene_id: '457131'
+gene_id: '421292'
 gene_type: protein-coding
 images:
 - caption: EPCAM expression
@@ -397,13 +397,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R462.EPCAM.S27V.001.jpg
 name: epithelial cell adhesion molecule
-ncbi_id: '457131'
+ncbi_id: '421292'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000119888
   entrez: '4072'
   mod: MIM:185535
@@ -414,24 +409,25 @@ orthologs:
   mod: MGI:106653
   phenotypes: All phenotypic alleles (1):Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 496567,379260,446810
-  mod: '986666'
+- ensembl: ENSXETG00000022614
+  entrez: '496567'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000040534
-  entrez: 336480,550255,406454
-  mod: ZFIN:ZDB-GENE-030131-8424,ZFIN:ZDB-GENE-050417-57,ZFIN:ZDB-GENE-040426-2209
-  phenotypes: ZDB-GENE-030131-8424,ZDB-GENE-050417-57,ZDB-GENE-040426-2209
+- ensembl: ENSDARG00000110073
+  entrez: '406454'
+  mod: ZFIN:ZDB-GENE-040426-2209
+  phenotypes: cell-cell adhesion, cilium organization, epiboly involved in gastrulation
+    with mouth forming second, liver development, morphogenesis of an epithelium
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAAGCAAGCACAACTGACTCCCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457131
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421292
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457131
+  url: https://www.ncbi.nlm.nih.gov/gene/421292
 species: Gallus gallus
 symbol: EPCAM
 template_length: '841'
@@ -454,9 +450,8 @@ title: EPCAM
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000119888](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000119888) | [4072](https://www.ncbi.nlm.nih.gov/gene/4072) | [MIM:185535](https://omim.org/entry/185535) | MIM:613244 |
 | Mouse | [ENSMUSG00000045394](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000045394) | [17075](https://www.ncbi.nlm.nih.gov/gene/17075) | [MGI:106653](http://www.informatics.jax.org/marker/MGI:106653) | All phenotypic alleles (1):Gene trapped(1) |
-| Xenopus |  | [496567](https://www.ncbi.nlm.nih.gov/gene/496567), [379260](https://www.ncbi.nlm.nih.gov/gene/379260), [446810](https://www.ncbi.nlm.nih.gov/gene/446810) | [986666](http://www.xenbase.org/gene/showgene.do?method=display&geneId=986666) |  |
-| Zebrafish | [ENSDARG00000040534](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040534) | [336480](https://www.ncbi.nlm.nih.gov/gene/336480), [550255](https://www.ncbi.nlm.nih.gov/gene/550255), [406454](https://www.ncbi.nlm.nih.gov/gene/406454) | [ZFIN:ZDB-GENE-030131-8424](https://zfin.org/ZDB-GENE-030131-8424), [ZFIN:ZDB-GENE-050417-57](https://zfin.org/ZDB-GENE-050417-57), [ZFIN:ZDB-GENE-040426-2209](https://zfin.org/ZDB-GENE-040426-2209) | ZDB-GENE-030131-8424,ZDB-GENE-050417-57,ZDB-GENE-040426-2209 |
+| Xenopus | [ENSXETG00000022614](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022614) | [496567](https://www.ncbi.nlm.nih.gov/gene/496567) |  |  |
+| Zebrafish | [ENSDARG00000110073](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110073) | [406454](https://www.ncbi.nlm.nih.gov/gene/406454) | [ZFIN:ZDB-GENE-040426-2209](https://zfin.org/ZDB-GENE-040426-2209) | cell-cell adhesion, cilium organization, epiboly involved in gastrulation with mouth forming second, liver development, morphogenesis of an epithelium |
 

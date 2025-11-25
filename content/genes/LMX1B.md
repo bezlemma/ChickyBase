@@ -6,7 +6,6 @@ aliases:
 - homeobox protein LMX-1
 cgnc_id: '621'
 external_ids:
-  '7': stage 7
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0052105
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
@@ -22,7 +21,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205358
   X-XIV: stage XII
-gene_id: '461907'
+gene_id: '396312'
 gene_type: protein-coding
 images:
 - caption: LMX1B expression
@@ -808,13 +807,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LMX1B.Travers.2023-Fig7-2-N.jpg
 name: LIM homeobox transcription factor 1 beta
-ncbi_id: '461907'
+ncbi_id: '396312'
 orthologs:
-- ensembl: ''
-  entrez: '39406'
-  mod: FBgn0052105
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136944
   entrez: '4010'
   mod: MIM:602575
@@ -825,23 +819,24 @@ orthologs:
   mod: MGI:1100513
   phenotypes: All phenotypic alleles (12):Targeted, knock-out(1) Targeted, other(11)
   species: Mouse
-- ensembl: ''
-  entrez: '100497942'
-  mod: '920040'
+- ensembl: ENSXETG00000000742
+  entrez: '100495130'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000068365
-  entrez: 554360,554361
-  mod: ZFIN:ZDB-GENE-050114-2,ZFIN:ZDB-GENE-050114-3
-  phenotypes: ZDB-GENE-050114-2,ZDB-GENE-050114-3
+  entrez: '554360'
+  mod: ZFIN:ZDB-GENE-050114-2
+  phenotypes: auditory receptor cell development, closure of optic fissure, fourth
+    ventricle development, glutamatergic neuron differentiation, inner ear morphogenesis
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461907
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396312
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461907
+  url: https://www.ncbi.nlm.nih.gov/gene/396312
 species: Gallus gallus
 symbol: LMX1B
 title: LMX1B
@@ -872,9 +867,8 @@ title: LMX1B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39406](https://www.ncbi.nlm.nih.gov/gene/39406) | FBgn0052105 |  |
 | Human | [ENSG00000136944](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136944) | [4010](https://www.ncbi.nlm.nih.gov/gene/4010) | [MIM:602575](https://omim.org/entry/602575) | MIM:161200 |
 | Mouse | [ENSMUSG00000038765](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038765) | [16917](https://www.ncbi.nlm.nih.gov/gene/16917) | [MGI:1100513](http://www.informatics.jax.org/marker/MGI:1100513) | All phenotypic alleles (12):Targeted, knock-out(1) Targeted, other(11) |
-| Xenopus |  | [100497942](https://www.ncbi.nlm.nih.gov/gene/100497942) | [920040](http://www.xenbase.org/gene/showgene.do?method=display&geneId=920040) |  |
-| Zebrafish | [ENSDARG00000068365](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068365) | [554360](https://www.ncbi.nlm.nih.gov/gene/554360), [554361](https://www.ncbi.nlm.nih.gov/gene/554361) | [ZFIN:ZDB-GENE-050114-2](https://zfin.org/ZDB-GENE-050114-2), [ZFIN:ZDB-GENE-050114-3](https://zfin.org/ZDB-GENE-050114-3) | ZDB-GENE-050114-2,ZDB-GENE-050114-3 |
+| Xenopus | [ENSXETG00000000742](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000742) | [100495130](https://www.ncbi.nlm.nih.gov/gene/100495130) |  |  |
+| Zebrafish | [ENSDARG00000068365](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068365) | [554360](https://www.ncbi.nlm.nih.gov/gene/554360) | [ZFIN:ZDB-GENE-050114-2](https://zfin.org/ZDB-GENE-050114-2) | auditory receptor cell development, closure of optic fissure, fourth ventricle development, glutamatergic neuron differentiation, inner ear morphogenesis |
 

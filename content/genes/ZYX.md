@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418300
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005515
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004386
-gene_id: '456631'
+gene_id: '418300'
 gene_type: protein-coding
 images:
 - caption: ZYX expression
@@ -28,40 +28,21 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54zc4.127.19.jpg
 name: zyxin
-ncbi_id: '456631'
+ncbi_id: '418300'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000159840
-  entrez: '7791'
-  mod: MIM:602002
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000029860
-  entrez: '22793'
-  mod: MGI:103072
-  phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
-  species: Mouse
-- ensembl: ''
-  entrez: 779718,100049724,100158313
-  mod: '6453997'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000075733
   entrez: '564246'
   mod: ZFIN:ZDB-GENE-070928-18
-  phenotypes: ZDB-GENE-070928-18
+  phenotypes: cell adhesion, integrin-mediated signaling pathway, transforming growth
+    factor beta receptor signaling pathway
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456631
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418300
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456631
+  url: https://www.ncbi.nlm.nih.gov/gene/418300
 species: Gallus gallus
 symbol: ZYX
 title: ZYX
@@ -85,9 +66,5 @@ title: ZYX
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000159840](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000159840) | [7791](https://www.ncbi.nlm.nih.gov/gene/7791) | [MIM:602002](https://omim.org/entry/602002) |  |
-| Mouse | [ENSMUSG00000029860](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029860) | [22793](https://www.ncbi.nlm.nih.gov/gene/22793) | [MGI:103072](http://www.informatics.jax.org/marker/MGI:103072) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [779718](https://www.ncbi.nlm.nih.gov/gene/779718), [100049724](https://www.ncbi.nlm.nih.gov/gene/100049724), [100158313](https://www.ncbi.nlm.nih.gov/gene/100158313) | [6453997](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6453997) |  |
-| Zebrafish | [ENSDARG00000075733](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075733) | [564246](https://www.ncbi.nlm.nih.gov/gene/564246) | [ZFIN:ZDB-GENE-070928-18](https://zfin.org/ZDB-GENE-070928-18) | ZDB-GENE-070928-18 |
+| Zebrafish | [ENSDARG00000075733](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075733) | [564246](https://www.ncbi.nlm.nih.gov/gene/564246) | [ZFIN:ZDB-GENE-070928-18](https://zfin.org/ZDB-GENE-070928-18) | cell adhesion, integrin-mediated signaling pathway, transforming growth factor beta receptor signaling pathway |
 

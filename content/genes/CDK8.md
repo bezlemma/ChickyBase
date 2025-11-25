@@ -3,7 +3,6 @@ aliases:
 - cyclin-dependent kinase 8
 cgnc_id: '12849'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0015618
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/39157
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428080
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425638
 forward_primer: 5’-AGAACAGGCTATGCAGGA-3’
-gene_id: '459908'
+gene_id: '428080'
 gene_type: protein-coding
 images:
 - caption: CDK8 expression
@@ -105,13 +104,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R680.CDK8.S25AAAA.001.jpg
 name: cyclin dependent kinase 8
-ncbi_id: '459908'
+ncbi_id: '428080'
 orthologs:
-- ensembl: ''
-  entrez: '39157'
-  mod: FBgn0015618
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000132964
   entrez: '1024'
   mod: MIM:603184
@@ -122,24 +116,24 @@ orthologs:
   mod: MGI:1196224
   phenotypes: All phenotypic alleles (4):Targeted, other(2) Gene trapped(2)
   species: Mouse
-- ensembl: ''
-  entrez: 394856,447409
-  mod: '962266'
+- ensembl: ENSXETG00000009787
+  entrez: '394856'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000016496
   entrez: '373868'
   mod: ZFIN:ZDB-GENE-030903-2
-  phenotypes: ZDB-GENE-030903-2
+  phenotypes: phosphorylation, protein phosphorylation
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGGGACGTTTGTAATCGCT-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459908
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428080
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459908
+  url: https://www.ncbi.nlm.nih.gov/gene/428080
 species: Gallus gallus
 symbol: CDK8
 template_length: '1043'
@@ -164,9 +158,8 @@ title: CDK8
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39157](https://www.ncbi.nlm.nih.gov/gene/39157) | FBgn0015618 |  |
 | Human | [ENSG00000132964](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000132964) | [1024](https://www.ncbi.nlm.nih.gov/gene/1024) | [MIM:603184](https://omim.org/entry/603184) |  |
 | Mouse | [ENSMUSG00000029635](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029635) | [264064](https://www.ncbi.nlm.nih.gov/gene/264064) | [MGI:1196224](http://www.informatics.jax.org/marker/MGI:1196224) | All phenotypic alleles (4):Targeted, other(2) Gene trapped(2) |
-| Xenopus |  | [394856](https://www.ncbi.nlm.nih.gov/gene/394856), [447409](https://www.ncbi.nlm.nih.gov/gene/447409) | [962266](http://www.xenbase.org/gene/showgene.do?method=display&geneId=962266) |  |
-| Zebrafish | [ENSDARG00000016496](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016496) | [373868](https://www.ncbi.nlm.nih.gov/gene/373868) | [ZFIN:ZDB-GENE-030903-2](https://zfin.org/ZDB-GENE-030903-2) | ZDB-GENE-030903-2 |
+| Xenopus | [ENSXETG00000009787](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009787) | [394856](https://www.ncbi.nlm.nih.gov/gene/394856) |  |  |
+| Zebrafish | [ENSDARG00000016496](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016496) | [373868](https://www.ncbi.nlm.nih.gov/gene/373868) | [ZFIN:ZDB-GENE-030903-2](https://zfin.org/ZDB-GENE-030903-2) | phosphorylation, protein phosphorylation |
 

@@ -3,7 +3,6 @@ aliases:
 - heparan-sulfate 6-O-sulfotransferase 3
 cgnc_id: '53245'
 external_ids:
-  '13': stage 13
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Anderson et al. 2019.
@@ -14,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428025
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640546
 forward_primer: GTTCTTTTCTGTAAACCCGCAGTC
-gene_id: '459927'
+gene_id: '428025'
 gene_type: protein-coding
 images:
 - caption: HS6ST3 expression
@@ -164,41 +163,36 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HS6ST3.Anderson.2019.Supplementary
     figure 5C.jpg
 name: heparan sulfate 6-O-sulfotransferase 3
-ncbi_id: '459927'
+ncbi_id: '428025'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000185352
+  entrez: '266722'
+  mod: MIM:609401
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000053465
+  entrez: '50787'
+  mod: MGI:1354960
   phenotypes: ''
   species: Mouse
 - ensembl: ''
-  entrez: ''
+  entrez: '100486788'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000069500
+  entrez: '569353'
+  mod: ZFIN:ZDB-GENE-070103-3
+  phenotypes: heparan sulfate proteoglycan biosynthetic process
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGATAAGCAGCAATAACACCGTTGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459927
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428025
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459927
+  url: https://www.ncbi.nlm.nih.gov/gene/428025
 species: Gallus gallus
 symbol: HS6ST3
 template_length: '1072'
@@ -225,9 +219,8 @@ title: HS6ST3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000185352](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185352) | [266722](https://www.ncbi.nlm.nih.gov/gene/266722) | [MIM:609401](https://omim.org/entry/609401) |  |
+| Mouse | [ENSMUSG00000053465](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000053465) | [50787](https://www.ncbi.nlm.nih.gov/gene/50787) | [MGI:1354960](http://www.informatics.jax.org/marker/MGI:1354960) |  |
+| Xenopus |  | [100486788](https://www.ncbi.nlm.nih.gov/gene/100486788) |  |  |
+| Zebrafish | [ENSDARG00000069500](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069500) | [569353](https://www.ncbi.nlm.nih.gov/gene/569353) | [ZFIN:ZDB-GENE-070103-3](https://zfin.org/ZDB-GENE-070103-3) | heparan sulfate proteoglycan biosynthetic process |
 

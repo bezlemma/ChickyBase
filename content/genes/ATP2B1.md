@@ -22,7 +22,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374244
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001168002
-gene_id: '456507'
+gene_id: '374244'
 gene_type: protein-coding
 images:
 - caption: ATP2B1 expression
@@ -40,13 +40,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F1.atp2b1.png
 name: ATPase plasma membrane Ca2+ transporting 1
-ncbi_id: '456507'
+ncbi_id: '374244'
 orthologs:
-- ensembl: ''
-  entrez: '43787'
-  mod: FBgn0259214
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000070961
   entrez: '490'
   mod: MIM:108731
@@ -57,20 +52,16 @@ orthologs:
   mod: MGI:104653
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100127567,446772
-  mod: '954670'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000012684,ENSDARG00000007788
-  entrez: 378746,561190
-  mod: ZFIN:ZDB-GENE-030925-29,ZFIN:ZDB-GENE-080409-1
-  phenotypes: ZDB-GENE-030925-29,ZDB-GENE-080409-1
+- ensembl: ENSDARG00000012684
+  entrez: '378746'
+  mod: ZFIN:ZDB-GENE-030925-29
+  phenotypes: bone mineralization, bone morphogenesis, calcium ion transmembrane transport,
+    calcium ion transport, inner ear receptor cell development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456507
+  url: https://www.ncbi.nlm.nih.gov/gene/374244
 species: Gallus gallus
 symbol: ATP2B1
 title: ATP2B1
@@ -100,9 +91,7 @@ title: ATP2B1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43787](https://www.ncbi.nlm.nih.gov/gene/43787) | FBgn0259214 |  |
 | Human | [ENSG00000070961](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000070961) | [490](https://www.ncbi.nlm.nih.gov/gene/490) | [MIM:108731](https://omim.org/entry/108731) |  |
 | Mouse | [ENSMUSG00000019943](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019943) | [67972](https://www.ncbi.nlm.nih.gov/gene/67972) | [MGI:104653](http://www.informatics.jax.org/marker/MGI:104653) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100127567](https://www.ncbi.nlm.nih.gov/gene/100127567), [446772](https://www.ncbi.nlm.nih.gov/gene/446772) | [954670](http://www.xenbase.org/gene/showgene.do?method=display&geneId=954670) |  |
-| Zebrafish | [ENSDARG00000012684](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012684), [ENSDARG00000007788](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007788) | [378746](https://www.ncbi.nlm.nih.gov/gene/378746), [561190](https://www.ncbi.nlm.nih.gov/gene/561190) | [ZFIN:ZDB-GENE-030925-29](https://zfin.org/ZDB-GENE-030925-29), [ZFIN:ZDB-GENE-080409-1](https://zfin.org/ZDB-GENE-080409-1) | ZDB-GENE-030925-29,ZDB-GENE-080409-1 |
+| Zebrafish | [ENSDARG00000012684](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012684) | [378746](https://www.ncbi.nlm.nih.gov/gene/378746) | [ZFIN:ZDB-GENE-030925-29](https://zfin.org/ZDB-GENE-030925-29) | bone mineralization, bone morphogenesis, calcium ion transmembrane transport, calcium ion transport, inner ear receptor cell development |
 

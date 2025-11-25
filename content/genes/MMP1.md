@@ -3,13 +3,12 @@ aliases:
 - interstitial collagenase
 cgnc_id: '50888'
 external_ids:
-  '25': stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000019061
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418982
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417176
 forward_primer: AGGCAGGGGGGTAAAAATC
-gene_id: '451774'
+gene_id: '418982'
 gene_type: protein-coding
 images:
 - caption: MMP1 expression
@@ -56,13 +55,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R431.MMP1.S25.001.jpg
 name: matrix metallopeptidase 1
-ncbi_id: '451774'
+ncbi_id: '418982'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000196611
   entrez: '4312'
   mod: MIM:120353
@@ -73,24 +67,14 @@ orthologs:
   mod: MGI:1933846
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 594916,495287
-  mod: '485008'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGTGGTCTCATCGTTGTAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451774
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418982
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451774
+  url: https://www.ncbi.nlm.nih.gov/gene/418982
 species: Gallus gallus
 symbol: MMP1
 template_length: '1005'
@@ -112,9 +96,6 @@ title: MMP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000196611](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000196611) | [4312](https://www.ncbi.nlm.nih.gov/gene/4312) | [MIM:120353](https://omim.org/entry/120353) | MIM:606963 |
 | Mouse | [ENSMUSG00000043089](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000043089) | [83995](https://www.ncbi.nlm.nih.gov/gene/83995) | [MGI:1933846](http://www.informatics.jax.org/marker/MGI:1933846) |  |
-| Xenopus |  | [594916](https://www.ncbi.nlm.nih.gov/gene/594916), [495287](https://www.ncbi.nlm.nih.gov/gene/495287) | [485008](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485008) |  |
-| Zebrafish |  |  |  |  |
 

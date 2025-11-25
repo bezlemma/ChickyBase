@@ -3,14 +3,13 @@ aliases:
 - G1/S-specific cyclin-D3
 cgnc_id: '2542'
 external_ids:
-  '25': stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000003485
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419928
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001008453
 forward_primer: GAAATGTGAGGAGGAGGTGTTCC
-gene_id: '453051'
+gene_id: '419928'
 gene_type: protein-coding
 images:
 - caption: CCND3 expression
@@ -114,13 +113,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R574.CCND3.S25AAA.001.jpg
 name: cyclin D3
-ncbi_id: '453051'
+ncbi_id: '419928'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000112576
   entrez: '896'
   mod: MIM:123834
@@ -131,24 +125,14 @@ orthologs:
   mod: MGI:88315
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000027391
-  entrez: '449996'
-  mod: ZFIN:ZDB-GENE-041010-110
-  phenotypes: ZDB-GENE-041010-110
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAGTCTTGGCGGTGCTGTATTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453051
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419928
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453051
+  url: https://www.ncbi.nlm.nih.gov/gene/419928
 species: Gallus gallus
 symbol: CCND3
 template_length: '604'
@@ -171,9 +155,6 @@ title: CCND3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000112576](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112576) | [896](https://www.ncbi.nlm.nih.gov/gene/896) | [MIM:123834](https://omim.org/entry/123834) |  |
 | Mouse | [ENSMUSG00000034165](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034165) | [12445](https://www.ncbi.nlm.nih.gov/gene/12445) | [MGI:88315](http://www.informatics.jax.org/marker/MGI:88315) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000027391](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027391) | [449996](https://www.ncbi.nlm.nih.gov/gene/449996) | [ZFIN:ZDB-GENE-041010-110](https://zfin.org/ZDB-GENE-041010-110) | ZDB-GENE-041010-110 |
 

@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395290
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204595
-gene_id: '461572'
+gene_id: '395290'
 gene_type: protein-coding
 images:
 - caption: HOXA7 expression
@@ -37,37 +37,27 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/fig2.all-2
 name: homeobox A7
-ncbi_id: '461572'
+ncbi_id: '395290'
 orthologs:
-- ensembl: ''
-  entrez: '42034'
-  mod: FBgn0003944
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000122592
   entrez: '3204'
   mod: MIM:142950
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000038236
   entrez: '15404'
   mod: MGI:96179
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 549972,398549
-  mod: '483654'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000000722
+  entrez: '101734257'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461572
+  url: https://www.ncbi.nlm.nih.gov/gene/395290
 species: Gallus gallus
 symbol: HOXA7
 title: HOXA7
@@ -98,9 +88,7 @@ title: HOXA7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42034](https://www.ncbi.nlm.nih.gov/gene/42034) | FBgn0003944 |  |
 | Human | [ENSG00000122592](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000122592) | [3204](https://www.ncbi.nlm.nih.gov/gene/3204) | [MIM:142950](https://omim.org/entry/142950) |  |
-| Mouse |  | [15404](https://www.ncbi.nlm.nih.gov/gene/15404) | [MGI:96179](http://www.informatics.jax.org/marker/MGI:96179) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [549972](https://www.ncbi.nlm.nih.gov/gene/549972), [398549](https://www.ncbi.nlm.nih.gov/gene/398549) | [483654](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483654) |  |
-| Zebrafish |  |  |  |  |
+| Mouse | [ENSMUSG00000038236](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038236) | [15404](https://www.ncbi.nlm.nih.gov/gene/15404) | [MGI:96179](http://www.informatics.jax.org/marker/MGI:96179) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
+| Xenopus | [ENSXETG00000000722](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000722) | [101734257](https://www.ncbi.nlm.nih.gov/gene/101734257) |  |  |
 

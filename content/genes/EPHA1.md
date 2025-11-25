@@ -3,8 +3,6 @@ aliases:
 - EPHA9, ephrin type-A receptor 1
 cgnc_id: '49118'
 external_ids:
-  '25': stage 25
-  '4': stage 4stage 4stage 4stage 4stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Hardy+2011+Antin+Yatskievych+Bobbs
   Comments: 'Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (acc # NM_204360).'
@@ -14,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:378782
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204360
-gene_id: '458618'
+gene_id: '378782'
 gene_type: protein-coding
 images:
 - caption: EPHA1 expression
@@ -202,14 +200,9 @@ images:
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hardy.Fig2.EPHA1.E.jpg
 name: EPH receptor A1
-ncbi_id: '458618'
+ncbi_id: '378782'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000146904
+- ensembl: ENSG00000284816
   entrez: '2041'
   mod: MIM:179610
   phenotypes: ''
@@ -219,23 +212,13 @@ orthologs:
   mod: MGI:107381
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458618
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=378782
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458618
+  url: https://www.ncbi.nlm.nih.gov/gene/378782
 species: Gallus gallus
 symbol: EPHA1
 title: EPHA1
@@ -261,9 +244,6 @@ title: EPHA1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000146904](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000146904) | [2041](https://www.ncbi.nlm.nih.gov/gene/2041) | [MIM:179610](https://omim.org/entry/179610) |  |
+| Human | [ENSG00000284816](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000284816) | [2041](https://www.ncbi.nlm.nih.gov/gene/2041) | [MIM:179610](https://omim.org/entry/179610) |  |
 | Mouse | [ENSMUSG00000029859](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029859) | [13835](https://www.ncbi.nlm.nih.gov/gene/13835) | [MGI:107381](http://www.informatics.jax.org/marker/MGI:107381) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
 

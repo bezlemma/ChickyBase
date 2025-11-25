@@ -3,7 +3,6 @@ aliases:
 - cAMP responsive element binding protein 3 like 4
 cgnc_id: '1809'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/427417
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427417
@@ -129,7 +128,7 @@ orthologs:
 - ensembl: ENSDARG00000020926
   entrez: '406853'
   mod: ZFIN:ZDB-GENE-040426-2942
-  phenotypes: ZDB-GENE-040426-2942
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAAAGATAAGGGACAAGGGACACG
 sources:
@@ -164,5 +163,5 @@ title: CREB3
 | Human | [ENSG00000107175](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107175) | [10488](https://www.ncbi.nlm.nih.gov/gene/10488) | [MIM:606443](https://omim.org/entry/606443) |  |
 | Mouse | [ENSMUSG00000028466](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028466) | [12913](https://www.ncbi.nlm.nih.gov/gene/12913) | [MGI:99946](http://www.informatics.jax.org/marker/MGI:99946) | All phenotypic alleles (1):Targeted, knock-out(1) |
 | Xenopus |  | [100127204](https://www.ncbi.nlm.nih.gov/gene/100127204), [735076](https://www.ncbi.nlm.nih.gov/gene/735076), [378549](https://www.ncbi.nlm.nih.gov/gene/378549) | [959044](http://www.xenbase.org/gene/showgene.do?method=display&geneId=959044), [6458731](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6458731) |  |
-| Zebrafish | [ENSDARG00000020926](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020926) | [406853](https://www.ncbi.nlm.nih.gov/gene/406853) | [ZFIN:ZDB-GENE-040426-2942](https://zfin.org/ZDB-GENE-040426-2942) | ZDB-GENE-040426-2942 |
+| Zebrafish | [ENSDARG00000020926](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020926) | [406853](https://www.ncbi.nlm.nih.gov/gene/406853) | [ZFIN:ZDB-GENE-040426-2942](https://zfin.org/ZDB-GENE-040426-2942) |  |
 

@@ -18,7 +18,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771523
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001170344
-gene_id: '453601'
+gene_id: '771523'
 gene_type: protein-coding
 images:
 - caption: OSR2 expression
@@ -178,13 +178,8 @@ images:
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Osr2.fig5.imageB-st35
 name: odd-skipped related transciption factor 2
-ncbi_id: '453601'
+ncbi_id: '771523'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164920
   entrez: '116039'
   mod: MIM:611297
@@ -195,20 +190,21 @@ orthologs:
   mod: MGI:1930813
   phenotypes: All phenotypic alleles (8):Targeted, other(8)
   species: Mouse
-- ensembl: ''
-  entrez: 100038196,779263,734939
-  mod: '481906'
+- ensembl: ENSXETG00000017850
+  entrez: '100038196'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000038006
   entrez: '550389'
   mod: ZFIN:ZDB-GENE-050417-183
-  phenotypes: ZDB-GENE-050417-183
+  phenotypes: kidney development, negative regulation of transcription by RNA polymerase
+    II, pattern specification process, pectoral fin development, pronephros development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453601
+  url: https://www.ncbi.nlm.nih.gov/gene/771523
 species: Gallus gallus
 symbol: OSR2
 title: OSR2
@@ -234,9 +230,8 @@ title: OSR2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164920](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164920) | [116039](https://www.ncbi.nlm.nih.gov/gene/116039) | [MIM:611297](https://omim.org/entry/611297) |  |
 | Mouse | [ENSMUSG00000022330](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022330) | [107587](https://www.ncbi.nlm.nih.gov/gene/107587) | [MGI:1930813](http://www.informatics.jax.org/marker/MGI:1930813) | All phenotypic alleles (8):Targeted, other(8) |
-| Xenopus |  | [100038196](https://www.ncbi.nlm.nih.gov/gene/100038196), [779263](https://www.ncbi.nlm.nih.gov/gene/779263), [734939](https://www.ncbi.nlm.nih.gov/gene/734939) | [481906](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481906) |  |
-| Zebrafish | [ENSDARG00000038006](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038006) | [550389](https://www.ncbi.nlm.nih.gov/gene/550389) | [ZFIN:ZDB-GENE-050417-183](https://zfin.org/ZDB-GENE-050417-183) | ZDB-GENE-050417-183 |
+| Xenopus | [ENSXETG00000017850](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017850) | [100038196](https://www.ncbi.nlm.nih.gov/gene/100038196) |  |  |
+| Zebrafish | [ENSDARG00000038006](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038006) | [550389](https://www.ncbi.nlm.nih.gov/gene/550389) | [ZFIN:ZDB-GENE-050417-183](https://zfin.org/ZDB-GENE-050417-183) | kidney development, negative regulation of transcription by RNA polymerase II, pattern specification process, pectoral fin development, pronephros development |
 

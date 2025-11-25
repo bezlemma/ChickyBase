@@ -4,14 +4,13 @@ aliases:
 - glycosyltransferase 25 domain containing 2
 cgnc_id: '3543'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000004775
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424447
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422290
 forward_primer: 5'-CGCAGTCCTACCCAGAAGAAATG-3'
-gene_id: '450247'
+gene_id: '424447'
 gene_type: protein-coding
 images:
 - caption: COLGALT2 expression
@@ -84,16 +83,11 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R622.GLT25D2.S25.001.jpg
 name: collagen beta(1-O)galactosyltransferase 2
-ncbi_id: '450247'
+ncbi_id: '424447'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000198756
   entrez: '23127'
-  mod: ''
+  mod: MIM:617533
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000032649
@@ -101,24 +95,24 @@ orthologs:
   mod: MGI:2138232
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000017443
   entrez: '100495682'
-  mod: '951225'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000014670
   entrez: '100003546'
   mod: ZFIN:ZDB-GENE-070222-1
-  phenotypes: ZDB-GENE-070222-1
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGCGCACATCGTCCTCAATAACG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450247
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424447
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450247
+  url: https://www.ncbi.nlm.nih.gov/gene/424447
 species: Gallus gallus
 symbol: COLGALT2
 template_length: '949'
@@ -141,9 +135,8 @@ title: COLGALT2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000198756](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198756) | [23127](https://www.ncbi.nlm.nih.gov/gene/23127) |  |  |
+| Human | [ENSG00000198756](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198756) | [23127](https://www.ncbi.nlm.nih.gov/gene/23127) | [MIM:617533](https://omim.org/entry/617533) |  |
 | Mouse | [ENSMUSG00000032649](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032649) | [269132](https://www.ncbi.nlm.nih.gov/gene/269132) | [MGI:2138232](http://www.informatics.jax.org/marker/MGI:2138232) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100495682](https://www.ncbi.nlm.nih.gov/gene/100495682) | [951225](http://www.xenbase.org/gene/showgene.do?method=display&geneId=951225) |  |
-| Zebrafish | [ENSDARG00000014670](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014670) | [100003546](https://www.ncbi.nlm.nih.gov/gene/100003546) | [ZFIN:ZDB-GENE-070222-1](https://zfin.org/ZDB-GENE-070222-1) | ZDB-GENE-070222-1 |
+| Xenopus | [ENSXETG00000017443](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017443) | [100495682](https://www.ncbi.nlm.nih.gov/gene/100495682) |  |  |
+| Zebrafish | [ENSDARG00000014670](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014670) | [100003546](https://www.ncbi.nlm.nih.gov/gene/100003546) | [ZFIN:ZDB-GENE-070222-1](https://zfin.org/ZDB-GENE-070222-1) |  |
 

@@ -15,7 +15,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0051015
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205133
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATATAAGGCGGCGGTTGAGCAG
-gene_id: '459286'
+gene_id: '396032'
 gene_type: protein-coding
 images:
 - caption: TNNC1 expression
@@ -200,13 +200,8 @@ images:
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TNNC1_HH 15 x25.jpg
 name: troponin C1, slow skeletal and cardiac type
-ncbi_id: '459286'
+ncbi_id: '396032'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000114854
   entrez: '7134'
   mod: MIM:191040
@@ -217,24 +212,25 @@ orthologs:
   mod: MGI:98779
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 447990,379410
-  mod: '480514'
+- ensembl: ENSXETG00000010816
+  entrez: '447990'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000011400
-  entrez: 353247,415175
-  mod: ZFIN:ZDB-GENE-030523-1,ZFIN:ZDB-GENE-040625-62
-  phenotypes: ZDB-GENE-030523-1,ZDB-GENE-040625-62
+  entrez: '353247'
+  mod: ZFIN:ZDB-GENE-030523-1
+  phenotypes: cardiac muscle contraction, cardiac ventricle development, response
+    to activity, skeletal muscle contraction
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGCAGAAGGGGTTTCAGAGATTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459286
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396032
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459286
+  url: https://www.ncbi.nlm.nih.gov/gene/396032
 species: Gallus gallus
 symbol: TNNC1
 template_length: '580'
@@ -262,9 +258,8 @@ title: TNNC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000114854](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000114854) | [7134](https://www.ncbi.nlm.nih.gov/gene/7134) | [MIM:191040](https://omim.org/entry/191040) | MIM:192600 |
 | Mouse | [ENSMUSG00000091898](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000091898) | [21924](https://www.ncbi.nlm.nih.gov/gene/21924) | [MGI:98779](http://www.informatics.jax.org/marker/MGI:98779) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [447990](https://www.ncbi.nlm.nih.gov/gene/447990), [379410](https://www.ncbi.nlm.nih.gov/gene/379410) | [480514](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480514) |  |
-| Zebrafish | [ENSDARG00000011400](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011400) | [353247](https://www.ncbi.nlm.nih.gov/gene/353247), [415175](https://www.ncbi.nlm.nih.gov/gene/415175) | [ZFIN:ZDB-GENE-030523-1](https://zfin.org/ZDB-GENE-030523-1), [ZFIN:ZDB-GENE-040625-62](https://zfin.org/ZDB-GENE-040625-62) | ZDB-GENE-030523-1,ZDB-GENE-040625-62 |
+| Xenopus | [ENSXETG00000010816](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010816) | [447990](https://www.ncbi.nlm.nih.gov/gene/447990) |  |  |
+| Zebrafish | [ENSDARG00000011400](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011400) | [353247](https://www.ncbi.nlm.nih.gov/gene/353247) | [ZFIN:ZDB-GENE-030523-1](https://zfin.org/ZDB-GENE-030523-1) | cardiac muscle contraction, cardiac ventricle development, response to activity, skeletal muscle contraction |
 

@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:431604
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642996
 forward_primer: 5'-TACTCAGCACCTCTACCACCCAAC-3'
-gene_id: '461029'
+gene_id: '431604'
 gene_type: protein-coding
 images:
 - caption: BNC2 expression
@@ -148,41 +148,31 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R539.BNC2.S26AAAAA.002.jpg
 name: basonuclin 2
-ncbi_id: '461029'
+ncbi_id: '431604'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000173068
+  entrez: '54796'
+  mod: MIM:608669
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000028487
+  entrez: '242509'
+  mod: MGI:2443805
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000018036
+  entrez: '100494907'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGTTAGCACTGTGACGATTGCGGC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461029
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=431604
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461029
+  url: https://www.ncbi.nlm.nih.gov/gene/431604
 species: Gallus gallus
 symbol: BNC2
 template_length: '1026'
@@ -205,9 +195,7 @@ title: BNC2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000173068](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000173068) | [54796](https://www.ncbi.nlm.nih.gov/gene/54796) | [MIM:608669](https://omim.org/entry/608669) |  |
+| Mouse | [ENSMUSG00000028487](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028487) | [242509](https://www.ncbi.nlm.nih.gov/gene/242509) | [MGI:2443805](http://www.informatics.jax.org/marker/MGI:2443805) |  |
+| Xenopus | [ENSXETG00000018036](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018036) | [100494907](https://www.ncbi.nlm.nih.gov/gene/100494907) |  |  |
 

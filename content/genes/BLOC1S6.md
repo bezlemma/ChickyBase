@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415447
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001007825
 forward_primer: TGTATGGTAAGACATCCAAGGCG
-gene_id: '460969'
+gene_id: '415447'
 gene_type: protein-coding
 images:
 - caption: BLOC1S6 expression
@@ -63,13 +63,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R543.BLOC1S6.S26.001.jpg
 name: biogenesis of lysosomal organelles complex 1 subunit 6
-ncbi_id: '460969'
+ncbi_id: '415447'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000104164
   entrez: '26258'
   mod: MIM:604310
@@ -80,24 +75,24 @@ orthologs:
   mod: MGI:1927580
   phenotypes: All phenotypic alleles (1):Spontaneous(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549256,734279
-  mod: '957741'
+- ensembl: ENSXETG00000022045
+  entrez: '549256'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000042933
   entrez: '791215'
   mod: ZFIN:ZDB-GENE-070112-1862
-  phenotypes: ZDB-GENE-070112-1862
+  phenotypes: intracellular transport
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGGAAGGAAAAAGCAGAACAACTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460969
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415447
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460969
+  url: https://www.ncbi.nlm.nih.gov/gene/415447
 species: Gallus gallus
 symbol: BLOC1S6
 template_length: '674'
@@ -119,9 +114,8 @@ title: BLOC1S6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000104164](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000104164) | [26258](https://www.ncbi.nlm.nih.gov/gene/26258) | [MIM:604310](https://omim.org/entry/604310) |  |
 | Mouse | [ENSMUSG00000005804](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005804) | [18457](https://www.ncbi.nlm.nih.gov/gene/18457) | [MGI:1927580](http://www.informatics.jax.org/marker/MGI:1927580) | All phenotypic alleles (1):Spontaneous(1) |
-| Xenopus |  | [549256](https://www.ncbi.nlm.nih.gov/gene/549256), [734279](https://www.ncbi.nlm.nih.gov/gene/734279) | [957741](http://www.xenbase.org/gene/showgene.do?method=display&geneId=957741) |  |
-| Zebrafish | [ENSDARG00000042933](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042933) | [791215](https://www.ncbi.nlm.nih.gov/gene/791215) | [ZFIN:ZDB-GENE-070112-1862](https://zfin.org/ZDB-GENE-070112-1862) | ZDB-GENE-070112-1862 |
+| Xenopus | [ENSXETG00000022045](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022045) | [549256](https://www.ncbi.nlm.nih.gov/gene/549256) |  |  |
+| Zebrafish | [ENSDARG00000042933](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042933) | [791215](https://www.ncbi.nlm.nih.gov/gene/791215) | [ZFIN:ZDB-GENE-070112-1862](https://zfin.org/ZDB-GENE-070112-1862) | intracellular transport |
 

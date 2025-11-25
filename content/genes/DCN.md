@@ -17,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005518
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030747
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/DCN
-gene_id: '451845'
+gene_id: '417892'
 gene_type: protein-coding
 images:
 - caption: DCN expression
@@ -168,13 +168,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Lorda-Diez.2014.Fig4.jpg
 name: decorin
-ncbi_id: '451845'
+ncbi_id: '417892'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000011465
   entrez: '1634'
   mod: MIM:125255
@@ -185,20 +180,21 @@ orthologs:
   mod: MGI:94872
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100101716,447482
-  mod: '485544'
+- ensembl: ENSXETG00000021847
+  entrez: '100101716'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000012066
   entrez: '64698'
   mod: ZFIN:ZDB-GENE-010102-1
-  phenotypes: ZDB-GENE-010102-1
+  phenotypes: cartilage development, chondroitin sulfate proteoglycan metabolic process,
+    convergent extension involved in axis elongation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451845
+  url: https://www.ncbi.nlm.nih.gov/gene/417892
 species: Gallus gallus
 symbol: DCN
 title: DCN
@@ -227,9 +223,8 @@ title: DCN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000011465](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000011465) | [1634](https://www.ncbi.nlm.nih.gov/gene/1634) | [MIM:125255](https://omim.org/entry/125255) | MIM:610048 |
 | Mouse | [ENSMUSG00000019929](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019929) | [13179](https://www.ncbi.nlm.nih.gov/gene/13179) | [MGI:94872](http://www.informatics.jax.org/marker/MGI:94872) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100101716](https://www.ncbi.nlm.nih.gov/gene/100101716), [447482](https://www.ncbi.nlm.nih.gov/gene/447482) | [485544](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485544) |  |
-| Zebrafish | [ENSDARG00000012066](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012066) | [64698](https://www.ncbi.nlm.nih.gov/gene/64698) | [ZFIN:ZDB-GENE-010102-1](https://zfin.org/ZDB-GENE-010102-1) | ZDB-GENE-010102-1 |
+| Xenopus | [ENSXETG00000021847](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021847) | [100101716](https://www.ncbi.nlm.nih.gov/gene/100101716) |  |  |
+| Zebrafish | [ENSDARG00000012066](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012066) | [64698](https://www.ncbi.nlm.nih.gov/gene/64698) | [ZFIN:ZDB-GENE-010102-1](https://zfin.org/ZDB-GENE-010102-1) | cartilage development, chondroitin sulfate proteoglycan metabolic process, convergent extension involved in axis elongation |
 

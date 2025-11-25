@@ -21,7 +21,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396241
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008199
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205304
-gene_id: '462365'
+gene_id: '396241'
 gene_type: protein-coding
 images:
 - caption: TF expression
@@ -113,37 +113,33 @@ images:
   stage: stage 39
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OVORANSFERRIN.Gentili.1994.png
 name: transferrin (ovotransferrin)
-ncbi_id: '462365'
+ncbi_id: '396241'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000012223
-  entrez: '4057'
-  mod: MIM:150210
+- ensembl: ENSG00000091513
+  entrez: '7018'
+  mod: MIM:190000
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000032496
-  entrez: '17002'
-  mod: MGI:96837
+- ensembl: ENSMUSG00000032554
+  entrez: '22041'
+  mod: MGI:98821
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000011814
+  entrez: '613079'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000016771
+  entrez: '30255'
+  mod: ZFIN:ZDB-GENE-980526-35
+  phenotypes: antibacterial humoral response, hemoglobin biosynthetic process, iron
+    ion transport, monoatomic ion transport, response to bacterium
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462365
+  url: https://www.ncbi.nlm.nih.gov/gene/396241
 species: Gallus gallus
 symbol: TF
 title: TF
@@ -172,9 +168,8 @@ title: TF
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000012223](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000012223) | [4057](https://www.ncbi.nlm.nih.gov/gene/4057) | [MIM:150210](https://omim.org/entry/150210) |  |
-| Mouse | [ENSMUSG00000032496](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032496) | [17002](https://www.ncbi.nlm.nih.gov/gene/17002) | [MGI:96837](http://www.informatics.jax.org/marker/MGI:96837) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000091513](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000091513) | [7018](https://www.ncbi.nlm.nih.gov/gene/7018) | [MIM:190000](https://omim.org/entry/190000) |  |
+| Mouse | [ENSMUSG00000032554](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032554) | [22041](https://www.ncbi.nlm.nih.gov/gene/22041) | [MGI:98821](http://www.informatics.jax.org/marker/MGI:98821) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
+| Xenopus | [ENSXETG00000011814](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011814) | [613079](https://www.ncbi.nlm.nih.gov/gene/613079) |  |  |
+| Zebrafish | [ENSDARG00000016771](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016771) | [30255](https://www.ncbi.nlm.nih.gov/gene/30255) | [ZFIN:ZDB-GENE-980526-35](https://zfin.org/ZDB-GENE-980526-35) | antibacterial humoral response, hemoglobin biosynthetic process, iron ion transport, monoatomic ion transport, response to bacterium |
 

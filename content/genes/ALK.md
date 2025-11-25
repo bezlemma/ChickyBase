@@ -5,8 +5,6 @@ aliases:
 - anaplastic lymphoma receptor tyrosine kinase
 cgnc_id: '6869'
 external_ids:
-  '25': stage 25
-  '31': stage 31
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2019+Cui+MDK+PTN
   Comments: The complete cDNA template sequence was obtained from the information
     provided in the publication as described in Cui et al. 2019.
@@ -17,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421297
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419364
 forward_primer: CCTTTCTTCTCCCATAGAGGACGAC
-gene_id: '457126'
+gene_id: '421297'
 gene_type: protein-coding
 images:
 - caption: ALK expression
@@ -504,13 +502,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig5.Allimages-7.jpg
 name: ALK receptor tyrosine kinase
-ncbi_id: '457126'
+ncbi_id: '421297'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000171094
   entrez: '238'
   mod: MIM:105590
@@ -521,24 +514,26 @@ orthologs:
   mod: MGI:103305
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000031142
   entrez: '100495071'
-  mod: '490261'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000095833
   entrez: '563509'
   mod: ZFIN:ZDB-GENE-031027-1
-  phenotypes: ZDB-GENE-031027-1
+  phenotypes: cell surface receptor protein tyrosine kinase signaling pathway, nervous
+    system development, phosphorylation, positive regulation of MAPK cascade, positive
+    regulation of neurogenesis
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCGCTGGTCATTACAGTGCTTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457126
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421297
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457126
+  url: https://www.ncbi.nlm.nih.gov/gene/421297
 species: Gallus gallus
 symbol: ALK
 template_length: '844'
@@ -565,9 +560,8 @@ title: ALK
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000171094](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171094) | [238](https://www.ncbi.nlm.nih.gov/gene/238) | [MIM:105590](https://omim.org/entry/105590) | MIM:256700 |
 | Mouse | [ENSMUSG00000055471](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000055471) | [11682](https://www.ncbi.nlm.nih.gov/gene/11682) | [MGI:103305](http://www.informatics.jax.org/marker/MGI:103305) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100495071](https://www.ncbi.nlm.nih.gov/gene/100495071) | [490261](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490261) |  |
-| Zebrafish |  | [563509](https://www.ncbi.nlm.nih.gov/gene/563509) | [ZFIN:ZDB-GENE-031027-1](https://zfin.org/ZDB-GENE-031027-1) | ZDB-GENE-031027-1 |
+| Xenopus | [ENSXETG00000031142](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031142) | [100495071](https://www.ncbi.nlm.nih.gov/gene/100495071) |  |  |
+| Zebrafish | [ENSDARG00000095833](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000095833) | [563509](https://www.ncbi.nlm.nih.gov/gene/563509) | [ZFIN:ZDB-GENE-031027-1](https://zfin.org/ZDB-GENE-031027-1) | cell surface receptor protein tyrosine kinase signaling pathway, nervous system development, phosphorylation, positive regulation of MAPK cascade, positive regulation of neurogenesis |
 

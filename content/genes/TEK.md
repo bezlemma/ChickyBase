@@ -3,7 +3,6 @@ aliases:
 - angiopoietin-1 receptor
 cgnc_id: '1295'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Moyon+2001+angiopoietin
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence was obtained from NCBI (XM_004949580). Tie-2
@@ -14,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427368
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424944
-gene_id: '462004'
+gene_id: '427368'
 gene_type: protein-coding
 images:
 - caption: TEK expression
@@ -116,13 +115,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tie-2.Moyon.2001.Fig2.jpg
 name: TEK receptor tyrosine kinase
-ncbi_id: '462004'
+ncbi_id: '427368'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000120156
   entrez: '7010'
   mod: MIM:600221
@@ -133,20 +127,21 @@ orthologs:
   mod: MGI:98664
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100492432,398263
-  mod: '483683'
+- ensembl: ENSXETG00000009382
+  entrez: '100492432'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000028663
   entrez: '30747'
   mod: ZFIN:ZDB-GENE-990415-56
-  phenotypes: ZDB-GENE-990415-56
+  phenotypes: angiogenesis, cell surface receptor protein tyrosine kinase signaling
+    pathway, endothelial cell proliferation, heart development, phosphorylation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462004
+  url: https://www.ncbi.nlm.nih.gov/gene/427368
 species: Gallus gallus
 symbol: TEK
 title: TEK
@@ -172,9 +167,8 @@ title: TEK
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000120156](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000120156) | [7010](https://www.ncbi.nlm.nih.gov/gene/7010) | [MIM:600221](https://omim.org/entry/600221) | MIM:600195 |
 | Mouse | [ENSMUSG00000006386](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000006386) | [21687](https://www.ncbi.nlm.nih.gov/gene/21687) | [MGI:98664](http://www.informatics.jax.org/marker/MGI:98664) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100492432](https://www.ncbi.nlm.nih.gov/gene/100492432), [398263](https://www.ncbi.nlm.nih.gov/gene/398263) | [483683](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483683) |  |
-| Zebrafish | [ENSDARG00000028663](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028663) | [30747](https://www.ncbi.nlm.nih.gov/gene/30747) | [ZFIN:ZDB-GENE-990415-56](https://zfin.org/ZDB-GENE-990415-56) | ZDB-GENE-990415-56 |
+| Xenopus | [ENSXETG00000009382](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009382) | [100492432](https://www.ncbi.nlm.nih.gov/gene/100492432) |  |  |
+| Zebrafish | [ENSDARG00000028663](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028663) | [30747](https://www.ncbi.nlm.nih.gov/gene/30747) | [ZFIN:ZDB-GENE-990415-56](https://zfin.org/ZDB-GENE-990415-56) | angiogenesis, cell surface receptor protein tyrosine kinase signaling pathway, endothelial cell proliferation, heart development, phosphorylation |
 

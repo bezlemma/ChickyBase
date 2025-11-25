@@ -6,10 +6,6 @@ aliases:
 - transcription factor SOX-3
 cgnc_id: '49006'
 external_ids:
-  '13': stage 13
-  '19': stage 19stage 19stage 19
-  '25': stage 25
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0060324
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: https://pubmed.ncbi.nlm.nih.gov/21762129/
@@ -23,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204195
   X-XIV: stage XIV
-gene_id: '454563'
+gene_id: '374019'
 gene_type: protein-coding
 images:
 - caption: SOX3 expression
@@ -801,13 +797,8 @@ images:
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Screenshot 2024-01-21  12.52.49.png
 name: SRY-box 3
-ncbi_id: '454563'
+ncbi_id: '374019'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134595
   entrez: '6658'
   mod: MIM:313430
@@ -818,20 +809,21 @@ orthologs:
   mod: MGI:98365
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 493228,399335
-  mod: '484814'
+- ensembl: ENSXETG00000046055
+  entrez: '493228'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000053569
   entrez: '30529'
   mod: ZFIN:ZDB-GENE-980526-333
-  phenotypes: ZDB-GENE-980526-333
+  phenotypes: brain development, central nervous system development, negative regulation
+    of transcription by RNA polymerase II, neuron differentiation, otic placode development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454563
+  url: https://www.ncbi.nlm.nih.gov/gene/374019
 species: Gallus gallus
 symbol: SOX3
 title: SOX3
@@ -860,9 +852,8 @@ title: SOX3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000134595](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134595) | [6658](https://www.ncbi.nlm.nih.gov/gene/6658) | [MIM:313430](https://omim.org/entry/313430) | MIM:313430 |
 | Mouse | [ENSMUSG00000045179](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000045179) | [20675](https://www.ncbi.nlm.nih.gov/gene/20675) | [MGI:98365](http://www.informatics.jax.org/marker/MGI:98365) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [493228](https://www.ncbi.nlm.nih.gov/gene/493228), [399335](https://www.ncbi.nlm.nih.gov/gene/399335) | [484814](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484814) |  |
-| Zebrafish | [ENSDARG00000053569](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053569) | [30529](https://www.ncbi.nlm.nih.gov/gene/30529) | [ZFIN:ZDB-GENE-980526-333](https://zfin.org/ZDB-GENE-980526-333) | ZDB-GENE-980526-333 |
+| Xenopus | [ENSXETG00000046055](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000046055) | [493228](https://www.ncbi.nlm.nih.gov/gene/493228) |  |  |
+| Zebrafish | [ENSDARG00000053569](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053569) | [30529](https://www.ncbi.nlm.nih.gov/gene/30529) | [ZFIN:ZDB-GENE-980526-333](https://zfin.org/ZDB-GENE-980526-333) | brain development, central nervous system development, negative regulation of transcription by RNA polymerase II, neuron differentiation, otic placode development |
 

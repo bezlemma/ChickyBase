@@ -5,7 +5,6 @@ aliases:
 - thrombomucin
 cgnc_id: '49459'
 external_ids:
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007155
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016324
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Afrakhte+2004+microarray
@@ -18,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395755
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001271894
-gene_id: '450354'
+gene_id: '395755'
 gene_type: protein-coding
 images:
 - caption: PODXL expression
@@ -50,7 +49,7 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3C.jpg
 name: podocalyxin like
-ncbi_id: '450354'
+ncbi_id: '395755'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -75,12 +74,12 @@ orthologs:
 - ensembl: ENSDARG00000031228
   entrez: '563365'
   mod: ZFIN:ZDB-GENE-030131-2805
-  phenotypes: ZDB-GENE-030131-2805
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450354
+  url: https://www.ncbi.nlm.nih.gov/gene/395755
 species: Gallus gallus
 symbol: PODXL
 title: PODXL
@@ -112,5 +111,5 @@ title: PODXL
 | Human |  | [5420](https://www.ncbi.nlm.nih.gov/gene/5420) | [MIM:602632](https://omim.org/entry/602632) |  |
 | Mouse | [ENSMUSG00000025608](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025608) | [27205](https://www.ncbi.nlm.nih.gov/gene/27205) | [MGI:1351317](http://www.informatics.jax.org/marker/MGI:1351317) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
 | Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000031228](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031228) | [563365](https://www.ncbi.nlm.nih.gov/gene/563365) | [ZFIN:ZDB-GENE-030131-2805](https://zfin.org/ZDB-GENE-030131-2805) | ZDB-GENE-030131-2805 |
+| Zebrafish | [ENSDARG00000031228](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031228) | [563365](https://www.ncbi.nlm.nih.gov/gene/563365) | [ZFIN:ZDB-GENE-030131-2805](https://zfin.org/ZDB-GENE-030131-2805) |  |
 

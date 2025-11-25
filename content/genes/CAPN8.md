@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428561
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426117
 forward_primer: CAGTATGGAGAGTGGGTGGATGTG
-gene_id: '461133'
+gene_id: '428561'
 gene_type: protein-coding
 images:
 - caption: CAPN8 expression
@@ -153,16 +153,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CAPN8.S26AAA.001.jpg
 name: calpain 8
-ncbi_id: '461133'
+ncbi_id: '428561'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000203697
   entrez: '388743'
-  mod: ''
+  mod: MIM:618777
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000038599
@@ -171,23 +166,23 @@ orthologs:
   phenotypes: All phenotypic alleles (10):Targeted, knock-out(3) Targeted, other(7)
   species: Mouse
 - ensembl: ''
-  entrez: 733929,398177,379139
-  mod: '920784'
+  entrez: '100497284'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000055715
+- ensembl: ENSDARG00000111228
   entrez: '337730'
   mod: ZFIN:ZDB-GENE-050522-279
-  phenotypes: ZDB-GENE-050522-279
+  phenotypes: proteolysis
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCAGTGTGTCAGGAGTCAGGTTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461133
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428561
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461133
+  url: https://www.ncbi.nlm.nih.gov/gene/428561
 species: Gallus gallus
 symbol: CAPN8
 template_length: '613'
@@ -210,9 +205,8 @@ title: CAPN8
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000203697](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000203697) | [388743](https://www.ncbi.nlm.nih.gov/gene/388743) |  |  |
+| Human | [ENSG00000203697](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000203697) | [388743](https://www.ncbi.nlm.nih.gov/gene/388743) | [MIM:618777](https://omim.org/entry/618777) |  |
 | Mouse | [ENSMUSG00000038599](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038599) | [170725](https://www.ncbi.nlm.nih.gov/gene/170725) | [MGI:2181366](http://www.informatics.jax.org/marker/MGI:2181366) | All phenotypic alleles (10):Targeted, knock-out(3) Targeted, other(7) |
-| Xenopus |  | [733929](https://www.ncbi.nlm.nih.gov/gene/733929), [398177](https://www.ncbi.nlm.nih.gov/gene/398177), [379139](https://www.ncbi.nlm.nih.gov/gene/379139) | [920784](http://www.xenbase.org/gene/showgene.do?method=display&geneId=920784) |  |
-| Zebrafish | [ENSDARG00000055715](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055715) | [337730](https://www.ncbi.nlm.nih.gov/gene/337730) | [ZFIN:ZDB-GENE-050522-279](https://zfin.org/ZDB-GENE-050522-279) | ZDB-GENE-050522-279 |
+| Xenopus |  | [100497284](https://www.ncbi.nlm.nih.gov/gene/100497284) |  |  |
+| Zebrafish | [ENSDARG00000111228](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000111228) | [337730](https://www.ncbi.nlm.nih.gov/gene/337730) | [ZFIN:ZDB-GENE-050522-279](https://zfin.org/ZDB-GENE-050522-279) | proteolysis |
 

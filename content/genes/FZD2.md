@@ -6,7 +6,6 @@ aliases:
 - frizzled homolog 2
 cgnc_id: '49028'
 external_ids:
-  '19': stage 19
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0016055
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Cauthen+2001+Wnts
@@ -20,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374061
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004930
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204222
-gene_id: '454452'
+gene_id: '374061'
 gene_type: protein-coding
 images:
 - caption: FZD2 expression
@@ -359,14 +358,9 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Frizzled-2.Cauthen.2001.jpg
 name: frizzled class receptor 2
-ncbi_id: '454452'
+ncbi_id: '374061'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000180340
   entrez: '2535'
   mod: MIM:600667
   phenotypes: ''
@@ -376,20 +370,21 @@ orthologs:
   mod: MGI:1888513
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 493345,399141
-  mod: '487021'
+- ensembl: ENSXETG00000008840
+  entrez: '493345'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000054438
   entrez: '30370'
   mod: ZFIN:ZDB-GENE-990415-224
-  phenotypes: ZDB-GENE-990415-224
+  phenotypes: Wnt signaling pathway, calcium modulating pathway, canonical Wnt signaling
+    pathway, cell migration, cell surface receptor signaling pathway, cilium assembly
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454452
+  url: https://www.ncbi.nlm.nih.gov/gene/374061
 species: Gallus gallus
 symbol: FZD2
 title: FZD2
@@ -418,9 +413,8 @@ title: FZD2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [2535](https://www.ncbi.nlm.nih.gov/gene/2535) | [MIM:600667](https://omim.org/entry/600667) |  |
+| Human | [ENSG00000180340](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000180340) | [2535](https://www.ncbi.nlm.nih.gov/gene/2535) | [MIM:600667](https://omim.org/entry/600667) |  |
 | Mouse | [ENSMUSG00000050288](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000050288) | [57265](https://www.ncbi.nlm.nih.gov/gene/57265) | [MGI:1888513](http://www.informatics.jax.org/marker/MGI:1888513) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [493345](https://www.ncbi.nlm.nih.gov/gene/493345), [399141](https://www.ncbi.nlm.nih.gov/gene/399141) | [487021](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487021) |  |
-| Zebrafish | [ENSDARG00000054438](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054438) | [30370](https://www.ncbi.nlm.nih.gov/gene/30370) | [ZFIN:ZDB-GENE-990415-224](https://zfin.org/ZDB-GENE-990415-224) | ZDB-GENE-990415-224 |
+| Xenopus | [ENSXETG00000008840](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008840) | [493345](https://www.ncbi.nlm.nih.gov/gene/493345) |  |  |
+| Zebrafish | [ENSDARG00000054438](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054438) | [30370](https://www.ncbi.nlm.nih.gov/gene/30370) | [ZFIN:ZDB-GENE-990415-224](https://zfin.org/ZDB-GENE-990415-224) | Wnt signaling pathway, calcium modulating pathway, canonical Wnt signaling pathway, cell migration, cell surface receptor signaling pathway, cilium assembly |
 

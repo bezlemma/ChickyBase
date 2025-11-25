@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373943
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0001102
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204144
-gene_id: '459464'
+gene_id: '373943'
 gene_type: protein-coding
 images:
 - caption: TBX20 expression
@@ -394,13 +394,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3G.jpg
 name: T-box 20
-ncbi_id: '459464'
+ncbi_id: '373943'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164532
   entrez: '57057'
   mod: MIM:606061
@@ -411,23 +406,24 @@ orthologs:
   mod: MGI:1888496
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 619590,378656
-  mod: '487333'
+- ensembl: ENSXETG00000013110
+  entrez: '619590'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000005150
   entrez: '57936'
   mod: ZFIN:ZDB-GENE-000427-7
-  phenotypes: ZDB-GENE-000427-7
+  phenotypes: anatomical structure morphogenesis, angiogenesis, blood vessel development,
+    cardiac muscle cell proliferation, cell fate specification
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459464
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373943
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459464
+  url: https://www.ncbi.nlm.nih.gov/gene/373943
 species: Gallus gallus
 symbol: TBX20
 title: TBX20
@@ -456,9 +452,8 @@ title: TBX20
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164532](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164532) | [57057](https://www.ncbi.nlm.nih.gov/gene/57057) | [MIM:606061](https://omim.org/entry/606061) | MIM:611363 |
 | Mouse | [ENSMUSG00000031965](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031965) | [57246](https://www.ncbi.nlm.nih.gov/gene/57246) | [MGI:1888496](http://www.informatics.jax.org/marker/MGI:1888496) | All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5) |
-| Xenopus |  | [619590](https://www.ncbi.nlm.nih.gov/gene/619590), [378656](https://www.ncbi.nlm.nih.gov/gene/378656) | [487333](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487333) |  |
-| Zebrafish | [ENSDARG00000005150](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005150) | [57936](https://www.ncbi.nlm.nih.gov/gene/57936) | [ZFIN:ZDB-GENE-000427-7](https://zfin.org/ZDB-GENE-000427-7) | ZDB-GENE-000427-7 |
+| Xenopus | [ENSXETG00000013110](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013110) | [619590](https://www.ncbi.nlm.nih.gov/gene/619590) |  |  |
+| Zebrafish | [ENSDARG00000005150](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005150) | [57936](https://www.ncbi.nlm.nih.gov/gene/57936) | [ZFIN:ZDB-GENE-000427-7](https://zfin.org/ZDB-GENE-000427-7) | anatomical structure morphogenesis, angiogenesis, blood vessel development, cardiac muscle cell proliferation, cell fate specification |
 

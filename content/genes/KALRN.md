@@ -3,13 +3,12 @@ aliases:
 - kalirin
 cgnc_id: '8925'
 external_ids:
-  '25': stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000011744
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424253
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234054
 forward_primer: TTTGCCTTGTGGTCTGGACG
-gene_id: '461323'
+gene_id: '424253'
 gene_type: protein-coding
 images:
 - caption: KALRN expression
@@ -130,13 +129,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R389.KALRN.S25.002.jpg
 name: kalirin, RhoGEF kinase
-ncbi_id: '461323'
+ncbi_id: '424253'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000160145
   entrez: '8997'
   mod: MIM:604605
@@ -148,24 +142,14 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(1)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 548783,100158344
-  mod: '1014005'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: '678652'
-  mod: ZFIN:ZDB-GENE-060421-7244,ZFIN:ZDB-GENE-100921-4
-  phenotypes: ZDB-GENE-060421-7244,ZDB-GENE-100921-4
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTAGGAGGAGGAAGAGGTGTGTGAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461323
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424253
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461323
+  url: https://www.ncbi.nlm.nih.gov/gene/424253
 species: Gallus gallus
 symbol: KALRN
 template_length: '898'
@@ -187,9 +171,6 @@ title: KALRN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000160145](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000160145) | [8997](https://www.ncbi.nlm.nih.gov/gene/8997) | [MIM:604605](https://omim.org/entry/604605) |  |
 | Mouse | [ENSMUSG00000061751](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061751) | [545156](https://www.ncbi.nlm.nih.gov/gene/545156) | [MGI:2685385](http://www.informatics.jax.org/marker/MGI:2685385) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(1) Gene trapped(1) |
-| Xenopus |  | [548783](https://www.ncbi.nlm.nih.gov/gene/548783), [100158344](https://www.ncbi.nlm.nih.gov/gene/100158344) | [1014005](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1014005) |  |
-| Zebrafish |  | [678652](https://www.ncbi.nlm.nih.gov/gene/678652) | [ZFIN:ZDB-GENE-060421-7244](https://zfin.org/ZDB-GENE-060421-7244), [ZFIN:ZDB-GENE-100921-4](https://zfin.org/ZDB-GENE-100921-4) | ZDB-GENE-060421-7244,ZDB-GENE-100921-4 |
 

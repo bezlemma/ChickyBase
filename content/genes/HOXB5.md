@@ -19,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0000980
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001025355
 forward_primer: ATAAGCAGCAGCATCCCCCG
-gene_id: '461930'
+gene_id: '425096'
 gene_type: protein-coding
 images:
 - caption: HOXB5 expression
@@ -309,41 +309,31 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXB5.Anderson.2019.Supplementary
     figure 5K.jpg
 name: homeobox B5
-ncbi_id: '461930'
+ncbi_id: '425096'
 orthologs:
-- ensembl: ''
-  entrez: '40833'
-  mod: FBgn0003339
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000120075
   entrez: '3215'
   mod: MIM:142960
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000038700
   entrez: '15413'
   mod: MGI:96186
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100113366,378578
-  mod: '1005990'
+- ensembl: ENSXETG00000021978
+  entrez: '100113366'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000013057,ENSDARG00000054030
-  entrez: 30317,58052
-  mod: ZFIN:ZDB-GENE-980526-70,ZFIN:ZDB-GENE-000823-6
-  phenotypes: ZDB-GENE-980526-70,ZDB-GENE-000823-6
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCAGAGAAAAACTCACCCCCAAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461930
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=425096
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461930
+  url: https://www.ncbi.nlm.nih.gov/gene/425096
 species: Gallus gallus
 symbol: HOXB5
 template_length: '822'
@@ -375,9 +365,7 @@ title: HOXB5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40833](https://www.ncbi.nlm.nih.gov/gene/40833) | FBgn0003339 |  |
 | Human | [ENSG00000120075](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000120075) | [3215](https://www.ncbi.nlm.nih.gov/gene/3215) | [MIM:142960](https://omim.org/entry/142960) |  |
-| Mouse |  | [15413](https://www.ncbi.nlm.nih.gov/gene/15413) | [MGI:96186](http://www.informatics.jax.org/marker/MGI:96186) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100113366](https://www.ncbi.nlm.nih.gov/gene/100113366), [378578](https://www.ncbi.nlm.nih.gov/gene/378578) | [1005990](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1005990) |  |
-| Zebrafish | [ENSDARG00000013057](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013057), [ENSDARG00000054030](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054030) | [30317](https://www.ncbi.nlm.nih.gov/gene/30317), [58052](https://www.ncbi.nlm.nih.gov/gene/58052) | [ZFIN:ZDB-GENE-980526-70](https://zfin.org/ZDB-GENE-980526-70), [ZFIN:ZDB-GENE-000823-6](https://zfin.org/ZDB-GENE-000823-6) | ZDB-GENE-980526-70,ZDB-GENE-000823-6 |
+| Mouse | [ENSMUSG00000038700](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038700) | [15413](https://www.ncbi.nlm.nih.gov/gene/15413) | [MGI:96186](http://www.informatics.jax.org/marker/MGI:96186) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
+| Xenopus | [ENSXETG00000021978](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021978) | [100113366](https://www.ncbi.nlm.nih.gov/gene/100113366) |  |  |
 

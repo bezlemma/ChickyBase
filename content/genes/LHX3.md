@@ -4,7 +4,6 @@ aliases:
 - LIM homeobox protein 3
 cgnc_id: '48967'
 external_ids:
-  '31': stage 31
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0002023
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006351
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
@@ -21,7 +20,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030335
-gene_id: '459463'
+gene_id: '373940'
 gene_type: protein-coding
 images:
 - caption: LHX3 expression
@@ -283,13 +282,8 @@ images:
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LIM3.Fischer.2009.Fig.2.png
 name: LIM homeobox 3
-ncbi_id: '459463'
+ncbi_id: '373940'
 orthologs:
-- ensembl: ''
-  entrez: '35184'
-  mod: FBgn0002023
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000107187
   entrez: '8022'
   mod: MIM:600577
@@ -301,22 +295,18 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
 - ensembl: ''
-  entrez: 100489308,397959
-  mod: '490074'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
   entrez: '30455'
   mod: ZFIN:ZDB-GENE-980526-131
-  phenotypes: ZDB-GENE-980526-131
+  phenotypes: neuron differentiation, regulation of DNA-templated transcription, regulation
+    of transcription by RNA polymerase II, ventral spinal cord interneuron specification
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459463
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373940
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459463
+  url: https://www.ncbi.nlm.nih.gov/gene/373940
 species: Gallus gallus
 symbol: LHX3
 title: LHX3
@@ -349,9 +339,7 @@ title: LHX3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35184](https://www.ncbi.nlm.nih.gov/gene/35184) | FBgn0002023 |  |
 | Human | [ENSG00000107187](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107187) | [8022](https://www.ncbi.nlm.nih.gov/gene/8022) | [MIM:600577](https://omim.org/entry/600577) | MIM:221750 |
 | Mouse | [ENSMUSG00000026934](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026934) | [16871](https://www.ncbi.nlm.nih.gov/gene/16871) | [MGI:102673](http://www.informatics.jax.org/marker/MGI:102673) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [100489308](https://www.ncbi.nlm.nih.gov/gene/100489308), [397959](https://www.ncbi.nlm.nih.gov/gene/397959) | [490074](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490074) |  |
-| Zebrafish |  | [30455](https://www.ncbi.nlm.nih.gov/gene/30455) | [ZFIN:ZDB-GENE-980526-131](https://zfin.org/ZDB-GENE-980526-131) | ZDB-GENE-980526-131 |
+| Zebrafish |  | [30455](https://www.ncbi.nlm.nih.gov/gene/30455) | [ZFIN:ZDB-GENE-980526-131](https://zfin.org/ZDB-GENE-980526-131) | neuron differentiation, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II, ventral spinal cord interneuron specification |
 

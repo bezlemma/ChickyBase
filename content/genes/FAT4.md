@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395166
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420617
 forward_primer: AAAAGAAGGTGAGCCTATTGGGAC
-gene_id: '462316'
+gene_id: '395166'
 gene_type: protein-coding
 images:
 - caption: FAT4 expression
@@ -226,13 +226,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R458.FAT4.S27AA001.jpg
 name: FAT atypical cadherin 4
-ncbi_id: '462316'
+ncbi_id: '395166'
 orthologs:
-- ensembl: ''
-  entrez: '33627'
-  mod: FBgn0001075
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000196159
   entrez: '79633'
   mod: MIM:612411
@@ -243,24 +238,26 @@ orthologs:
   mod: MGI:3045256
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100145590,733227
-  mod: '981051'
+- ensembl: ENSXETG00000036341
+  entrez: '100145590'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '100332759'
+- ensembl: ENSDARG00000105285
+  entrez: '101882648'
   mod: ZFIN:ZDB-GENE-090609-4
-  phenotypes: ZDB-GENE-090609-4
+  phenotypes: cell adhesion, cell-cell adhesion, establishment of planar polarity,
+    establishment or maintenance of cell polarity, heterophilic cell-cell adhesion
+    via plasma membrane cell adhesion molecules
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCATACTGAACACTGGTGGATTGTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462316
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395166
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462316
+  url: https://www.ncbi.nlm.nih.gov/gene/395166
 species: Gallus gallus
 symbol: FAT4
 template_length: '925'
@@ -284,9 +281,8 @@ title: FAT4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33627](https://www.ncbi.nlm.nih.gov/gene/33627) | FBgn0001075 |  |
 | Human | [ENSG00000196159](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000196159) | [79633](https://www.ncbi.nlm.nih.gov/gene/79633) | [MIM:612411](https://omim.org/entry/612411) |  |
 | Mouse | [ENSMUSG00000046743](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000046743) | [329628](https://www.ncbi.nlm.nih.gov/gene/329628) | [MGI:3045256](http://www.informatics.jax.org/marker/MGI:3045256) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100145590](https://www.ncbi.nlm.nih.gov/gene/100145590), [733227](https://www.ncbi.nlm.nih.gov/gene/733227) | [981051](http://www.xenbase.org/gene/showgene.do?method=display&geneId=981051) |  |
-| Zebrafish |  | [100332759](https://www.ncbi.nlm.nih.gov/gene/100332759) | [ZFIN:ZDB-GENE-090609-4](https://zfin.org/ZDB-GENE-090609-4) | ZDB-GENE-090609-4 |
+| Xenopus | [ENSXETG00000036341](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000036341) | [100145590](https://www.ncbi.nlm.nih.gov/gene/100145590) |  |  |
+| Zebrafish | [ENSDARG00000105285](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000105285) | [101882648](https://www.ncbi.nlm.nih.gov/gene/101882648) | [ZFIN:ZDB-GENE-090609-4](https://zfin.org/ZDB-GENE-090609-4) | cell adhesion, cell-cell adhesion, establishment of planar polarity, establishment or maintenance of cell polarity, heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules |
 

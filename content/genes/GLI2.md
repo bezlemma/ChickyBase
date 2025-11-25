@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395956
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001271901
-gene_id: '450511'
+gene_id: '395956'
 gene_type: protein-coding
 images:
 - caption: GLI2 expression
@@ -296,13 +296,8 @@ images:
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kahane.2013.Fig1_B-Gli2.jpg
 name: GLI family zinc finger 2
-ncbi_id: '450511'
+ncbi_id: '395956'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000074047
   entrez: '2736'
   mod: MIM:165230
@@ -313,20 +308,21 @@ orthologs:
   mod: MGI:95728
   phenotypes: All phenotypic alleles (14):Targeted, knock-out(2) Targeted, other(12)
   species: Mouse
-- ensembl: ''
-  entrez: 100498653,398107
-  mod: '481809'
+- ensembl: ENSXETG00000011189
+  entrez: '100498653'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000025641
-  entrez: 30154,548610
-  mod: ZFIN:ZDB-GENE-990706-8,ZFIN:ZDB-GENE-050523-1
-  phenotypes: ZDB-GENE-990706-8,ZDB-GENE-050523-1
+  entrez: '30154'
+  mod: ZFIN:ZDB-GENE-990706-8
+  phenotypes: 3'-UTR-mediated mRNA stabilization, adenohypophysis development, adenohypophysis
+    morphogenesis, axon guidance, blood circulation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450511
+  url: https://www.ncbi.nlm.nih.gov/gene/395956
 species: Gallus gallus
 symbol: GLI2
 title: GLI2
@@ -355,9 +351,8 @@ title: GLI2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000074047](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000074047) | [2736](https://www.ncbi.nlm.nih.gov/gene/2736) | [MIM:165230](https://omim.org/entry/165230) | MIM:610829 |
 | Mouse | [ENSMUSG00000048402](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048402) | [14633](https://www.ncbi.nlm.nih.gov/gene/14633) | [MGI:95728](http://www.informatics.jax.org/marker/MGI:95728) | All phenotypic alleles (14):Targeted, knock-out(2) Targeted, other(12) |
-| Xenopus |  | [100498653](https://www.ncbi.nlm.nih.gov/gene/100498653), [398107](https://www.ncbi.nlm.nih.gov/gene/398107) | [481809](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481809) |  |
-| Zebrafish | [ENSDARG00000025641](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025641) | [30154](https://www.ncbi.nlm.nih.gov/gene/30154), [548610](https://www.ncbi.nlm.nih.gov/gene/548610) | [ZFIN:ZDB-GENE-990706-8](https://zfin.org/ZDB-GENE-990706-8), [ZFIN:ZDB-GENE-050523-1](https://zfin.org/ZDB-GENE-050523-1) | ZDB-GENE-990706-8,ZDB-GENE-050523-1 |
+| Xenopus | [ENSXETG00000011189](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011189) | [100498653](https://www.ncbi.nlm.nih.gov/gene/100498653) |  |  |
+| Zebrafish | [ENSDARG00000025641](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025641) | [30154](https://www.ncbi.nlm.nih.gov/gene/30154) | [ZFIN:ZDB-GENE-990706-8](https://zfin.org/ZDB-GENE-990706-8) | 3'-UTR-mediated mRNA stabilization, adenohypophysis development, adenohypophysis morphogenesis, axon guidance, blood circulation |
 

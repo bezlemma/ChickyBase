@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423107
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421041
   X-XIV: stage XIII
-gene_id: '449473'
+gene_id: '423107'
 gene_type: protein-coding
 images:
 - caption: RASSF7 expression
@@ -51,40 +51,30 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RASSF7.Trevers.2023-Fig7-7-N.jpg
 name: Ras association domain family member 7
-ncbi_id: '449473'
+ncbi_id: '423107'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000099849
+  entrez: '8045'
+  mod: MIM:143023
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000038618
+  entrez: '66985'
+  mod: MGI:1914235
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000006038
+  entrez: '549317'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449473
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423107
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449473
+  url: https://www.ncbi.nlm.nih.gov/gene/423107
 species: Gallus gallus
 symbol: RASSF7
 title: RASSF7
@@ -108,9 +98,7 @@ title: RASSF7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000099849](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000099849) | [8045](https://www.ncbi.nlm.nih.gov/gene/8045) | [MIM:143023](https://omim.org/entry/143023) |  |
+| Mouse | [ENSMUSG00000038618](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038618) | [66985](https://www.ncbi.nlm.nih.gov/gene/66985) | [MGI:1914235](http://www.informatics.jax.org/marker/MGI:1914235) |  |
+| Xenopus | [ENSXETG00000006038](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006038) | [549317](https://www.ncbi.nlm.nih.gov/gene/549317) |  |  |
 

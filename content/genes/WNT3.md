@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374142
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001081696
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGCACAAAGGTCTTAGCGGGTTAC
-gene_id: '455198'
+gene_id: '374142'
 gene_type: protein-coding
 images:
 - caption: WNT3 expression
@@ -289,41 +289,37 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT3.Robertson.2004.4L.png
 name: Wnt family member 3
-ncbi_id: '455198'
+ncbi_id: '374142'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000277626
+  entrez: '7473'
+  mod: MIM:165330
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000000125
+  entrez: '22415'
+  mod: MGI:98955
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000039421
+  entrez: '100487954'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000038990
+  entrez: '569420'
+  mod: ZFIN:ZDB-GENE-081003-1
+  phenotypes: Wnt signaling pathway, animal organ development, canonical Wnt signaling
+    pathway, cell fate commitment, cloaca development
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCAGCAGGTCACAGCCATCAATC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455198
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374142
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455198
+  url: https://www.ncbi.nlm.nih.gov/gene/374142
 species: Gallus gallus
 symbol: WNT3
 template_length: '893'
@@ -350,9 +346,8 @@ title: WNT3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000277626](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000277626) | [7473](https://www.ncbi.nlm.nih.gov/gene/7473) | [MIM:165330](https://omim.org/entry/165330) |  |
+| Mouse | [ENSMUSG00000000125](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000125) | [22415](https://www.ncbi.nlm.nih.gov/gene/22415) | [MGI:98955](http://www.informatics.jax.org/marker/MGI:98955) |  |
+| Xenopus | [ENSXETG00000039421](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000039421) | [100487954](https://www.ncbi.nlm.nih.gov/gene/100487954) |  |  |
+| Zebrafish | [ENSDARG00000038990](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038990) | [569420](https://www.ncbi.nlm.nih.gov/gene/569420) | [ZFIN:ZDB-GENE-081003-1](https://zfin.org/ZDB-GENE-081003-1) | Wnt signaling pathway, animal organ development, canonical Wnt signaling pathway, cell fate commitment, cloaca development |
 

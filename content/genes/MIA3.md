@@ -3,13 +3,12 @@ aliases:
 - melanoma inhibitory activity family, member 3
 cgnc_id: '51470'
 external_ids:
-  '25': stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000009434
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421337
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277558
 forward_primer: TGAGGTCGGAAACAAAGAGGTTG
-gene_id: '457308'
+gene_id: '421337'
 gene_type: protein-coding
 images:
 - caption: MIA3 expression
@@ -99,7 +98,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R337.MIA3.S25.001.jpg
 name: MIA family member 3, ER export factor
-ncbi_id: '457308'
+ncbi_id: '421337'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -124,16 +123,16 @@ orthologs:
 - ensembl: ENSDARG00000008184
   entrez: '567041'
   mod: ZFIN:ZDB-GENE-041014-270
-  phenotypes: ZDB-GENE-041014-270
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTAAGGCAGTGACAATGACGGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457308
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421337
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457308
+  url: https://www.ncbi.nlm.nih.gov/gene/421337
 species: Gallus gallus
 symbol: MIA3
 template_length: '1240'
@@ -159,5 +158,5 @@ title: MIA3
 | Human | [ENSG00000154305](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000154305) | [375056](https://www.ncbi.nlm.nih.gov/gene/375056) | [MIM:613455](https://omim.org/entry/613455) |  |
 | Mouse |  | [338366](https://www.ncbi.nlm.nih.gov/gene/338366) | [MGI:2443183](http://www.informatics.jax.org/marker/MGI:2443183) |  |
 | Xenopus |  | [100379945](https://www.ncbi.nlm.nih.gov/gene/100379945) | [5897282](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5897282) |  |
-| Zebrafish | [ENSDARG00000008184](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008184) | [567041](https://www.ncbi.nlm.nih.gov/gene/567041) | [ZFIN:ZDB-GENE-041014-270](https://zfin.org/ZDB-GENE-041014-270) | ZDB-GENE-041014-270 |
+| Zebrafish | [ENSDARG00000008184](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008184) | [567041](https://www.ncbi.nlm.nih.gov/gene/567041) | [ZFIN:ZDB-GENE-041014-270](https://zfin.org/ZDB-GENE-041014-270) |  |
 

@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419844
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001008452
-gene_id: '468237'
+gene_id: '419844'
 gene_type: protein-coding
 images:
 - caption: RASSF5 expression
@@ -33,37 +33,17 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RASSF5.Anderson.2019.Supplementary
     figure 5A.jpg
 name: Ras association domain family member 5
-ncbi_id: '468237'
+ncbi_id: '419844'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000037501
+  entrez: '100487574'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000070601
-  entrez: '100150414'
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468237
+  url: https://www.ncbi.nlm.nih.gov/gene/419844
 species: Gallus gallus
 symbol: RASSF5
 title: RASSF5
@@ -89,9 +69,5 @@ title: RASSF5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000070601](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070601) | [100150414](https://www.ncbi.nlm.nih.gov/gene/100150414) |  |  |
+| Xenopus | [ENSXETG00000037501](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000037501) | [100487574](https://www.ncbi.nlm.nih.gov/gene/100487574) |  |  |
 

@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427867
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425441
 forward_primer: TTGCCAAATGACTGGTCTTCTCTC
-gene_id: '457869'
+gene_id: '427867'
 gene_type: protein-coding
 images:
 - caption: LGR5 expression
@@ -191,13 +191,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R447.LGR5.S27V.001.jpg
 name: leucine rich repeat containing G protein-coupled receptor 5
-ncbi_id: '457869'
+ncbi_id: '427867'
 orthologs:
-- ensembl: ''
-  entrez: '34819'
-  mod: FBgn0003255
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000139292
   entrez: '8549'
   mod: MIM:606667
@@ -208,24 +203,19 @@ orthologs:
   mod: MGI:1341817
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100486389,100526795
-  mod: '994090'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000032366
+  entrez: '100486389'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: ATTAACCCTCACTAAAGGAAAAGGGAGCCATCAAAACAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457869
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427867
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457869
+  url: https://www.ncbi.nlm.nih.gov/gene/427867
 species: Gallus gallus
 symbol: LGR5
 template_length: '1073'
@@ -249,9 +239,7 @@ title: LGR5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34819](https://www.ncbi.nlm.nih.gov/gene/34819) | FBgn0003255 |  |
 | Human | [ENSG00000139292](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139292) | [8549](https://www.ncbi.nlm.nih.gov/gene/8549) | [MIM:606667](https://omim.org/entry/606667) |  |
 | Mouse | [ENSMUSG00000020140](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020140) | [14160](https://www.ncbi.nlm.nih.gov/gene/14160) | [MGI:1341817](http://www.informatics.jax.org/marker/MGI:1341817) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100486389](https://www.ncbi.nlm.nih.gov/gene/100486389), [100526795](https://www.ncbi.nlm.nih.gov/gene/100526795) | [994090](http://www.xenbase.org/gene/showgene.do?method=display&geneId=994090) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000032366](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000032366) | [100486389](https://www.ncbi.nlm.nih.gov/gene/100486389) |  |  |
 

@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421479
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419527
-gene_id: '457775'
+gene_id: '421479'
 gene_type: protein-coding
 images:
 - caption: QPCT expression
@@ -63,13 +63,8 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F1.qpct.png
 name: glutaminyl-peptide cyclotransferase
-ncbi_id: '457775'
+ncbi_id: '421479'
 orthologs:
-- ensembl: ''
-  entrez: '40270'
-  mod: FBgn0036999
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000115828
   entrez: '25797'
   mod: MIM:607065
@@ -80,20 +75,20 @@ orthologs:
   mod: MGI:1917786
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 549999,447416
-  mod: '953342'
+- ensembl: ENSXETG00000013098
+  entrez: '549999'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '795685'
-  mod: ZFIN:ZDB-GENE-130827-1
-  phenotypes: ZDB-GENE-130827-1
+- ensembl: ENSDARG00000062293
+  entrez: '564655'
+  mod: ZFIN:ZDB-GENE-091118-40
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457775
+  url: https://www.ncbi.nlm.nih.gov/gene/421479
 species: Gallus gallus
 symbol: QPCT
 title: QPCT
@@ -121,9 +116,8 @@ title: QPCT
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40270](https://www.ncbi.nlm.nih.gov/gene/40270) | FBgn0036999 |  |
 | Human | [ENSG00000115828](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000115828) | [25797](https://www.ncbi.nlm.nih.gov/gene/25797) | [MIM:607065](https://omim.org/entry/607065) |  |
 | Mouse | [ENSMUSG00000024084](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024084) | [70536](https://www.ncbi.nlm.nih.gov/gene/70536) | [MGI:1917786](http://www.informatics.jax.org/marker/MGI:1917786) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [549999](https://www.ncbi.nlm.nih.gov/gene/549999), [447416](https://www.ncbi.nlm.nih.gov/gene/447416) | [953342](http://www.xenbase.org/gene/showgene.do?method=display&geneId=953342) |  |
-| Zebrafish |  | [795685](https://www.ncbi.nlm.nih.gov/gene/795685) | [ZFIN:ZDB-GENE-130827-1](https://zfin.org/ZDB-GENE-130827-1) | ZDB-GENE-130827-1 |
+| Xenopus | [ENSXETG00000013098](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013098) | [549999](https://www.ncbi.nlm.nih.gov/gene/549999) |  |  |
+| Zebrafish | [ENSDARG00000062293](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062293) | [564655](https://www.ncbi.nlm.nih.gov/gene/564655) | [ZFIN:ZDB-GENE-091118-40](https://zfin.org/ZDB-GENE-091118-40) |  |
 

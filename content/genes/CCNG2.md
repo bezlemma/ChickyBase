@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422512
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420475
 forward_primer: ACATAAGCAGCAGAGTGTCACGG
-gene_id: '451124'
+gene_id: '422512'
 gene_type: protein-coding
 images:
 - caption: CCNG2 expression
@@ -111,13 +111,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.CCNG2.S24AA.001.jpg
 name: cyclin G2
-ncbi_id: '451124'
+ncbi_id: '422512'
 orthologs:
-- ensembl: ''
-  entrez: '43724'
-  mod: FBgn0039858
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138764
   entrez: '901'
   mod: MIM:603203
@@ -128,24 +123,24 @@ orthologs:
   mod: MGI:1095734
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 549201,431934
-  mod: '920882'
+- ensembl: ENSXETG00000006402
+  entrez: '549201'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000017602
   entrez: '266794'
   mod: ZFIN:ZDB-GENE-021016-1
-  phenotypes: ZDB-GENE-021016-1
+  phenotypes: G1/S transition of mitotic cell cycle
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAAACCTTGAAGACTGGAGGGACGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451124
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422512
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451124
+  url: https://www.ncbi.nlm.nih.gov/gene/422512
 species: Gallus gallus
 symbol: CCNG2
 template_length: '607'
@@ -170,9 +165,8 @@ title: CCNG2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43724](https://www.ncbi.nlm.nih.gov/gene/43724) | FBgn0039858 |  |
 | Human | [ENSG00000138764](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138764) | [901](https://www.ncbi.nlm.nih.gov/gene/901) | [MIM:603203](https://omim.org/entry/603203) |  |
 | Mouse | [ENSMUSG00000029385](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029385) | [12452](https://www.ncbi.nlm.nih.gov/gene/12452) | [MGI:1095734](http://www.informatics.jax.org/marker/MGI:1095734) |  |
-| Xenopus |  | [549201](https://www.ncbi.nlm.nih.gov/gene/549201), [431934](https://www.ncbi.nlm.nih.gov/gene/431934) | [920882](http://www.xenbase.org/gene/showgene.do?method=display&geneId=920882) |  |
-| Zebrafish | [ENSDARG00000017602](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017602) | [266794](https://www.ncbi.nlm.nih.gov/gene/266794) | [ZFIN:ZDB-GENE-021016-1](https://zfin.org/ZDB-GENE-021016-1) | ZDB-GENE-021016-1 |
+| Xenopus | [ENSXETG00000006402](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006402) | [549201](https://www.ncbi.nlm.nih.gov/gene/549201) |  |  |
+| Zebrafish | [ENSDARG00000017602](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017602) | [266794](https://www.ncbi.nlm.nih.gov/gene/266794) | [ZFIN:ZDB-GENE-021016-1](https://zfin.org/ZDB-GENE-021016-1) | G1/S transition of mitotic cell cycle |
 

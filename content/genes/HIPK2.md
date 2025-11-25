@@ -1,7 +1,6 @@
 ---
 cgnc_id: '49057'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0035142
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Trevers et al. 2023.
@@ -13,7 +12,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416335
   X-XIV: stage XII
 forward_primer: 5’-CCCTTCCAGCAAGCTCTCAT-3’
-gene_id: '455207'
+gene_id: '374138'
 gene_type: protein-coding
 images:
 - caption: HIPK2 expression
@@ -223,13 +222,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HIPK2.Trevers.2023-Fig7-6-F.jpg
 name: homeodomain interacting protein kinase 2
-ncbi_id: '455207'
+ncbi_id: '374138'
 orthologs:
-- ensembl: ''
-  entrez: '38070'
-  mod: FBgn0035142
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000064393
   entrez: '28996'
   mod: MIM:606868
@@ -240,24 +234,26 @@ orthologs:
   mod: MGI:1314872
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(1) Targeted, other(6)
   species: Mouse
-- ensembl: ''
-  entrez: 780207,495265
-  mod: '958493'
+- ensembl: ENSXETG00000014419
+  entrez: '780207'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000042518
   entrez: '557551'
   mod: ZFIN:ZDB-GENE-031125-4
-  phenotypes: ZDB-GENE-031125-4
+  phenotypes: convergent extension, intrinsic apoptotic signaling pathway in response
+    to DNA damage by p53 class mediator, phosphorylation, positive regulation of transcription
+    by RNA polymerase II, protein phosphorylation
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTCATGCACAGTGACACAGCT-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455207
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374138
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455207
+  url: https://www.ncbi.nlm.nih.gov/gene/374138
 species: Gallus gallus
 symbol: HIPK2
 template_length: '821'
@@ -284,9 +280,8 @@ title: HIPK2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38070](https://www.ncbi.nlm.nih.gov/gene/38070) | FBgn0035142 |  |
 | Human | [ENSG00000064393](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000064393) | [28996](https://www.ncbi.nlm.nih.gov/gene/28996) | [MIM:606868](https://omim.org/entry/606868) |  |
 | Mouse | [ENSMUSG00000061436](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061436) | [15258](https://www.ncbi.nlm.nih.gov/gene/15258) | [MGI:1314872](http://www.informatics.jax.org/marker/MGI:1314872) | All phenotypic alleles (7):Targeted, knock-out(1) Targeted, other(6) |
-| Xenopus |  | [780207](https://www.ncbi.nlm.nih.gov/gene/780207), [495265](https://www.ncbi.nlm.nih.gov/gene/495265) | [958493](http://www.xenbase.org/gene/showgene.do?method=display&geneId=958493) |  |
-| Zebrafish | [ENSDARG00000042518](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042518) | [557551](https://www.ncbi.nlm.nih.gov/gene/557551) | [ZFIN:ZDB-GENE-031125-4](https://zfin.org/ZDB-GENE-031125-4) | ZDB-GENE-031125-4 |
+| Xenopus | [ENSXETG00000014419](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014419) | [780207](https://www.ncbi.nlm.nih.gov/gene/780207) |  |  |
+| Zebrafish | [ENSDARG00000042518](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042518) | [557551](https://www.ncbi.nlm.nih.gov/gene/557551) | [ZFIN:ZDB-GENE-031125-4](https://zfin.org/ZDB-GENE-031125-4) | convergent extension, intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator, phosphorylation, positive regulation of transcription by RNA polymerase II, protein phosphorylation |
 

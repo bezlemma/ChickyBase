@@ -18,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030538
 forward_primer: TCTGAGTCCTTCTTTGAGGCAGC
-gene_id: '455141'
+gene_id: '374199'
 gene_type: protein-coding
 images:
 - caption: JAK2 expression
@@ -208,13 +208,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/JAK2.Tao.2020.Fig3.jpg
 name: Janus kinase 2
-ncbi_id: '455141'
+ncbi_id: '374199'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000096968
   entrez: '3717'
   mod: MIM:147796
@@ -225,24 +220,26 @@ orthologs:
   mod: MGI:96629
   phenotypes: All phenotypic alleles (11):Targeted, knock-out(3) Targeted, other(8)
   species: Mouse
-- ensembl: ''
-  entrez: 100036599,443637
-  mod: '483711'
+- ensembl: ENSXETG00000000586
+  entrez: '100036599'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000018882,ENSDARG00000007915
-  entrez: 30298,30307
-  mod: ZFIN:ZDB-GENE-980526-123,ZFIN:ZDB-GENE-980526-481
-  phenotypes: ZDB-GENE-980526-123,ZDB-GENE-980526-481
+- ensembl: ENSDARG00000018882
+  entrez: '30298'
+  mod: ZFIN:ZDB-GENE-980526-123
+  phenotypes: cell differentiation, cell surface receptor signaling pathway via JAK-STAT,
+    cytokine-mediated signaling pathway, defense response to symbiont, growth hormone
+    receptor signaling pathway via JAK-STAT
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTTATCCTGTAGGGGGTCATACCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455141
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374199
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455141
+  url: https://www.ncbi.nlm.nih.gov/gene/374199
 species: Gallus gallus
 symbol: JAK2
 template_length: '851'
@@ -272,9 +269,8 @@ title: JAK2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000096968](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000096968) | [3717](https://www.ncbi.nlm.nih.gov/gene/3717) | [MIM:147796](https://omim.org/entry/147796) | MIM:600880 |
 | Mouse | [ENSMUSG00000024789](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024789) | [16452](https://www.ncbi.nlm.nih.gov/gene/16452) | [MGI:96629](http://www.informatics.jax.org/marker/MGI:96629) | All phenotypic alleles (11):Targeted, knock-out(3) Targeted, other(8) |
-| Xenopus |  | [100036599](https://www.ncbi.nlm.nih.gov/gene/100036599), [443637](https://www.ncbi.nlm.nih.gov/gene/443637) | [483711](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483711) |  |
-| Zebrafish | [ENSDARG00000018882](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018882), [ENSDARG00000007915](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007915) | [30298](https://www.ncbi.nlm.nih.gov/gene/30298), [30307](https://www.ncbi.nlm.nih.gov/gene/30307) | [ZFIN:ZDB-GENE-980526-123](https://zfin.org/ZDB-GENE-980526-123), [ZFIN:ZDB-GENE-980526-481](https://zfin.org/ZDB-GENE-980526-481) | ZDB-GENE-980526-123,ZDB-GENE-980526-481 |
+| Xenopus | [ENSXETG00000000586](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000586) | [100036599](https://www.ncbi.nlm.nih.gov/gene/100036599) |  |  |
+| Zebrafish | [ENSDARG00000018882](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018882) | [30298](https://www.ncbi.nlm.nih.gov/gene/30298) | [ZFIN:ZDB-GENE-980526-123](https://zfin.org/ZDB-GENE-980526-123) | cell differentiation, cell surface receptor signaling pathway via JAK-STAT, cytokine-mediated signaling pathway, defense response to symbiont, growth hormone receptor signaling pathway via JAK-STAT |
 

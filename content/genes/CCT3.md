@@ -4,14 +4,13 @@ aliases:
 - chaperonin containing TCP1, subunit 3 (gamma)
 cgnc_id: '23637'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/425644
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:425644
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423379
 forward_primer: TTCGCCTTCATCACCGACTG
-gene_id: '451598'
+gene_id: '425644'
 gene_type: protein-coding
 images:
 - caption: CCT3 expression
@@ -194,41 +193,37 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.CCT3.S25V.001.jpg
 name: chaperonin containing TCP1 subunit 3
-ncbi_id: '451598'
+ncbi_id: '425644'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000163468
+  entrez: '7203'
+  mod: MIM:600114
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000001416
+  entrez: '12462'
+  mod: MGI:104708
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000007748
+  entrez: '394965'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000016173
+  entrez: '192327'
+  mod: ZFIN:ZDB-GENE-020419-5
+  phenotypes: embryonic eye morphogenesis, negative regulation of retinal cell programmed
+    cell death, protein folding
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCCCTTCTTTTTGTGTCCCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451598
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=425644
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451598
+  url: https://www.ncbi.nlm.nih.gov/gene/425644
 species: Gallus gallus
 symbol: CCT3
 template_length: '513'
@@ -251,9 +246,8 @@ title: CCT3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000163468](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163468) | [7203](https://www.ncbi.nlm.nih.gov/gene/7203) | [MIM:600114](https://omim.org/entry/600114) |  |
+| Mouse | [ENSMUSG00000001416](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001416) | [12462](https://www.ncbi.nlm.nih.gov/gene/12462) | [MGI:104708](http://www.informatics.jax.org/marker/MGI:104708) |  |
+| Xenopus | [ENSXETG00000007748](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007748) | [394965](https://www.ncbi.nlm.nih.gov/gene/394965) |  |  |
+| Zebrafish | [ENSDARG00000016173](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016173) | [192327](https://www.ncbi.nlm.nih.gov/gene/192327) | [ZFIN:ZDB-GENE-020419-5](https://zfin.org/ZDB-GENE-020419-5) | embryonic eye morphogenesis, negative regulation of retinal cell programmed cell death, protein folding |
 

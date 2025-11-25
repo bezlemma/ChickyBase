@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420718
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030991
 forward_primer: CCTCACAGTCCTCTTTTGTTGGC
-gene_id: '455130'
+gene_id: '420718'
 gene_type: protein-coding
 images:
 - caption: CCR8 expression
@@ -162,13 +162,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.CCNR8.S24AAA.001.jpg
 name: C-C motif chemokine receptor 8
-ncbi_id: '455130'
+ncbi_id: '420718'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000179934
   entrez: '1237'
   mod: MIM:601834
@@ -179,24 +174,14 @@ orthologs:
   mod: MGI:1201402
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: '792495'
-  mod: ZFIN:ZDB-GENE-070302-1,ZFIN:ZDB-GENE-090420-1,ZFIN:ZDB-GENE-090420-2
-  phenotypes: ZDB-GENE-070302-1,ZDB-GENE-090420-1,ZDB-GENE-090420-2
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTGCGTCTTCCCATCCTTCAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455130
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420718
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455130
+  url: https://www.ncbi.nlm.nih.gov/gene/420718
 species: Gallus gallus
 symbol: CCR8
 template_length: '642'
@@ -219,9 +204,6 @@ title: CCR8
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000179934](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000179934) | [1237](https://www.ncbi.nlm.nih.gov/gene/1237) | [MIM:601834](https://omim.org/entry/601834) |  |
 | Mouse | [ENSMUSG00000042262](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042262) | [12776](https://www.ncbi.nlm.nih.gov/gene/12776) | [MGI:1201402](http://www.informatics.jax.org/marker/MGI:1201402) | All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  | [792495](https://www.ncbi.nlm.nih.gov/gene/792495) | [ZFIN:ZDB-GENE-070302-1](https://zfin.org/ZDB-GENE-070302-1), [ZFIN:ZDB-GENE-090420-1](https://zfin.org/ZDB-GENE-090420-1), [ZFIN:ZDB-GENE-090420-2](https://zfin.org/ZDB-GENE-090420-2) | ZDB-GENE-070302-1,ZDB-GENE-090420-1,ZDB-GENE-090420-2 |
 

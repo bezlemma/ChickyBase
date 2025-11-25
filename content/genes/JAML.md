@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419777
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417915
 forward_primer: TTTGGCTCTGCTTGAGGCAACTGG
-gene_id: '463578'
+gene_id: '419777'
 gene_type: protein-coding
 images:
 - caption: JAML expression
@@ -55,7 +55,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R521.AMICA1.S26.001.jpg
 name: junction adhesion molecule like
-ncbi_id: '463578'
+ncbi_id: '419777'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -86,10 +86,10 @@ reverse_primer: AATTAACCCTCACTAAAGGATGGAAGGGGAGTGGGGAATACAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463578
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419777
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463578
+  url: https://www.ncbi.nlm.nih.gov/gene/419777
 species: Gallus gallus
 symbol: JAML
 template_length: '880'

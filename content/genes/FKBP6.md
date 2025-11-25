@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417460
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415708
 forward_primer: 5’-TCTTCTCGCCGAGTTATGCC-3’
-gene_id: '453481'
+gene_id: '417460'
 gene_type: protein-coding
 images:
 - caption: FKBP6 expression
@@ -64,13 +64,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R702.FKBP6.S27.001.jpg
 name: FK506 binding protein 6
-ncbi_id: '453481'
+ncbi_id: '417460'
 orthologs:
-- ensembl: ''
-  entrez: '45360'
-  mod: FBgn0003401
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000077800
   entrez: '8468'
   mod: MIM:604839
@@ -81,24 +76,24 @@ orthologs:
   mod: MGI:2137612
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 394649,432298
-  mod: '942471'
+- ensembl: ENSXETG00000024716
+  entrez: '394649'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000030133
+- ensembl: ENSDARG00000099077
   entrez: '402839'
   mod: ZFIN:ZDB-GENE-050302-4
-  phenotypes: ZDB-GENE-050302-4
+  phenotypes: piRNA processing, spermatogenesis
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCTGATCAGGAAGTCCCGAGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453481
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417460
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453481
+  url: https://www.ncbi.nlm.nih.gov/gene/417460
 species: Gallus gallus
 symbol: FKBP6
 template_length: '502'
@@ -123,9 +118,8 @@ title: FKBP6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [45360](https://www.ncbi.nlm.nih.gov/gene/45360) | FBgn0003401 |  |
 | Human | [ENSG00000077800](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000077800) | [8468](https://www.ncbi.nlm.nih.gov/gene/8468) | [MIM:604839](https://omim.org/entry/604839) |  |
 | Mouse | [ENSMUSG00000040013](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040013) | [94244](https://www.ncbi.nlm.nih.gov/gene/94244) | [MGI:2137612](http://www.informatics.jax.org/marker/MGI:2137612) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [394649](https://www.ncbi.nlm.nih.gov/gene/394649), [432298](https://www.ncbi.nlm.nih.gov/gene/432298) | [942471](http://www.xenbase.org/gene/showgene.do?method=display&geneId=942471) |  |
-| Zebrafish | [ENSDARG00000030133](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030133) | [402839](https://www.ncbi.nlm.nih.gov/gene/402839) | [ZFIN:ZDB-GENE-050302-4](https://zfin.org/ZDB-GENE-050302-4) | ZDB-GENE-050302-4 |
+| Xenopus | [ENSXETG00000024716](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000024716) | [394649](https://www.ncbi.nlm.nih.gov/gene/394649) |  |  |
+| Zebrafish | [ENSDARG00000099077](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099077) | [402839](https://www.ncbi.nlm.nih.gov/gene/402839) | [ZFIN:ZDB-GENE-050302-4](https://zfin.org/ZDB-GENE-050302-4) | piRNA processing, spermatogenesis |
 

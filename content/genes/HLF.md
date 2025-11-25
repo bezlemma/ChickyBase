@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417395
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415649
 forward_primer: CGAAGGGTGCCACATTTTTACC
-gene_id: '454369'
+gene_id: '417395'
 gene_type: protein-coding
 images:
 - caption: HLF expression
@@ -118,13 +118,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R426.HLF.S24.001.jpg
 name: HLF, PAR bZIP transcription factor
-ncbi_id: '454369'
+ncbi_id: '417395'
 orthologs:
-- ensembl: ''
-  entrez: '45588'
-  mod: FBgn0016694
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000108924
   entrez: '3131'
   mod: MIM:142385
@@ -135,24 +130,26 @@ orthologs:
   mod: MGI:96108
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000004316
   entrez: '100489797'
-  mod: '955697'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000061011
-  entrez: 768192,557886
-  mod: ZFIN:ZDB-GENE-061013-159,ZFIN:ZDB-GENE-110420-3
-  phenotypes: ZDB-GENE-061013-159,ZDB-GENE-110420-3
+- ensembl: ENSDARG00000074752
+  entrez: '768192'
+  mod: ZFIN:ZDB-GENE-061013-159
+  phenotypes: positive regulation of transcription by RNA polymerase II, regulation
+    of DNA-templated transcription, regulation of transcription by RNA polymerase
+    II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCCAACCAACAGCCTCCTAAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454369
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417395
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454369
+  url: https://www.ncbi.nlm.nih.gov/gene/417395
 species: Gallus gallus
 symbol: HLF
 template_length: '1450'
@@ -176,9 +173,8 @@ title: HLF
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [45588](https://www.ncbi.nlm.nih.gov/gene/45588) | FBgn0016694 |  |
 | Human | [ENSG00000108924](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000108924) | [3131](https://www.ncbi.nlm.nih.gov/gene/3131) | [MIM:142385](https://omim.org/entry/142385) |  |
 | Mouse | [ENSMUSG00000003949](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000003949) | [217082](https://www.ncbi.nlm.nih.gov/gene/217082) | [MGI:96108](http://www.informatics.jax.org/marker/MGI:96108) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100489797](https://www.ncbi.nlm.nih.gov/gene/100489797) | [955697](http://www.xenbase.org/gene/showgene.do?method=display&geneId=955697) |  |
-| Zebrafish | [ENSDARG00000061011](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061011) | [768192](https://www.ncbi.nlm.nih.gov/gene/768192), [557886](https://www.ncbi.nlm.nih.gov/gene/557886) | [ZFIN:ZDB-GENE-061013-159](https://zfin.org/ZDB-GENE-061013-159), [ZFIN:ZDB-GENE-110420-3](https://zfin.org/ZDB-GENE-110420-3) | ZDB-GENE-061013-159,ZDB-GENE-110420-3 |
+| Xenopus | [ENSXETG00000004316](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004316) | [100489797](https://www.ncbi.nlm.nih.gov/gene/100489797) |  |  |
+| Zebrafish | [ENSDARG00000074752](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074752) | [768192](https://www.ncbi.nlm.nih.gov/gene/768192) | [ZFIN:ZDB-GENE-061013-159](https://zfin.org/ZDB-GENE-061013-159) | positive regulation of transcription by RNA polymerase II, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

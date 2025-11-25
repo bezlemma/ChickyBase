@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417570
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415816
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCACTACCCCTACCAAAGGATTGC
-gene_id: '453750'
+gene_id: '417570'
 gene_type: protein-coding
 images:
 - caption: FOXN1 expression
@@ -154,13 +154,8 @@ images:
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/foxn1.d13.08-3.jpg
 name: forkhead box N1
-ncbi_id: '453750'
+ncbi_id: '417570'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000109101
   entrez: '8456'
   mod: MIM:600838
@@ -172,24 +167,26 @@ orthologs:
   phenotypes: All phenotypic alleles (17):Spontaneous(6) Targeted, knock-out(2) Targeted,
     other(9)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000019351
   entrez: '100485276'
-  mod: '954871'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000011879
   entrez: '266748'
   mod: ZFIN:ZDB-GENE-021008-1
-  phenotypes: ZDB-GENE-021008-1
+  phenotypes: adaptive immune response, regulation of DNA-templated transcription,
+    regulation of T cell differentiation in thymus, regulation of transcription by
+    RNA polymerase II, thymus development
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGCCTCCCCAGAAGGAAACATTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453750
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417570
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453750
+  url: https://www.ncbi.nlm.nih.gov/gene/417570
 species: Gallus gallus
 symbol: FOXN1
 template_length: '719'
@@ -214,9 +211,8 @@ title: FOXN1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000109101](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000109101) | [8456](https://www.ncbi.nlm.nih.gov/gene/8456) | [MIM:600838](https://omim.org/entry/600838) | MIM:601705 |
 | Mouse | [ENSMUSG00000002057](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002057) | [15218](https://www.ncbi.nlm.nih.gov/gene/15218) | [MGI:102949](http://www.informatics.jax.org/marker/MGI:102949) | All phenotypic alleles (17):Spontaneous(6) Targeted, knock-out(2) Targeted, other(9) |
-| Xenopus |  | [100485276](https://www.ncbi.nlm.nih.gov/gene/100485276) | [954871](http://www.xenbase.org/gene/showgene.do?method=display&geneId=954871) |  |
-| Zebrafish | [ENSDARG00000011879](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011879) | [266748](https://www.ncbi.nlm.nih.gov/gene/266748) | [ZFIN:ZDB-GENE-021008-1](https://zfin.org/ZDB-GENE-021008-1) | ZDB-GENE-021008-1 |
+| Xenopus | [ENSXETG00000019351](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019351) | [100485276](https://www.ncbi.nlm.nih.gov/gene/100485276) |  |  |
+| Zebrafish | [ENSDARG00000011879](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011879) | [266748](https://www.ncbi.nlm.nih.gov/gene/266748) | [ZFIN:ZDB-GENE-021008-1](https://zfin.org/ZDB-GENE-021008-1) | adaptive immune response, regulation of DNA-templated transcription, regulation of T cell differentiation in thymus, regulation of transcription by RNA polymerase II, thymus development |
 

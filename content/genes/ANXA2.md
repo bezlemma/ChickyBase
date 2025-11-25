@@ -27,7 +27,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205351
 forward_primer: CAAGGGCAAAAGGTGTGAAGATAC
-gene_id: '462615'
+gene_id: '396297'
 gene_type: protein-coding
 images:
 - caption: ANXA2 expression
@@ -226,13 +226,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANXA2.Anderson.2019.Supplementary
     figure 5K.jpg
 name: annexin A2
-ncbi_id: '462615'
+ncbi_id: '396297'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000182718
   entrez: '302'
   mod: MIM:151740
@@ -243,24 +238,24 @@ orthologs:
   mod: MGI:88246
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 394517,397735,397754
-  mod: '945314'
+- ensembl: ENSXETG00000015289
+  entrez: '394517'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000003216,ENSDARG00000053625
-  entrez: 325557,799806
-  mod: ZFIN:ZDB-GENE-030131-4282,ZFIN:ZDB-GENE-030131-1089
-  phenotypes: ZDB-GENE-030131-4282,ZDB-GENE-030131-1089
+- ensembl: ENSDARG00000116775
+  entrez: '799806'
+  mod: ZFIN:ZDB-GENE-030131-1089
+  phenotypes: cell adhesion
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGGGGAATGTTAGTTTCTCTGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462615
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396297
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462615
+  url: https://www.ncbi.nlm.nih.gov/gene/396297
 species: Gallus gallus
 symbol: ANXA2
 template_length: '724'
@@ -290,9 +285,8 @@ title: ANXA2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000182718](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000182718) | [302](https://www.ncbi.nlm.nih.gov/gene/302) | [MIM:151740](https://omim.org/entry/151740) |  |
 | Mouse | [ENSMUSG00000032231](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032231) | [12306](https://www.ncbi.nlm.nih.gov/gene/12306) | [MGI:88246](http://www.informatics.jax.org/marker/MGI:88246) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [394517](https://www.ncbi.nlm.nih.gov/gene/394517), [397735](https://www.ncbi.nlm.nih.gov/gene/397735), [397754](https://www.ncbi.nlm.nih.gov/gene/397754) | [945314](http://www.xenbase.org/gene/showgene.do?method=display&geneId=945314) |  |
-| Zebrafish | [ENSDARG00000003216](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003216), [ENSDARG00000053625](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053625) | [325557](https://www.ncbi.nlm.nih.gov/gene/325557), [799806](https://www.ncbi.nlm.nih.gov/gene/799806) | [ZFIN:ZDB-GENE-030131-4282](https://zfin.org/ZDB-GENE-030131-4282), [ZFIN:ZDB-GENE-030131-1089](https://zfin.org/ZDB-GENE-030131-1089) | ZDB-GENE-030131-4282,ZDB-GENE-030131-1089 |
+| Xenopus | [ENSXETG00000015289](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015289) | [394517](https://www.ncbi.nlm.nih.gov/gene/394517) |  |  |
+| Zebrafish | [ENSDARG00000116775](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116775) | [799806](https://www.ncbi.nlm.nih.gov/gene/799806) | [ZFIN:ZDB-GENE-030131-1089](https://zfin.org/ZDB-GENE-030131-1089) | cell adhesion |
 

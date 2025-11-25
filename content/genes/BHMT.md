@@ -77,7 +77,7 @@ orthologs:
 - ensembl: ENSDARG00000013430
   entrez: '322228'
   mod: ZFIN:ZDB-GENE-030131-947
-  phenotypes: ZDB-GENE-030131-947
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -112,5 +112,5 @@ title: BHMT
 | Human | [ENSG00000145692](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145692) | [635](https://www.ncbi.nlm.nih.gov/gene/635) | [MIM:602888](https://omim.org/entry/602888) |  |
 | Mouse | [ENSMUSG00000074768](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000074768) | [12116](https://www.ncbi.nlm.nih.gov/gene/12116) | [MGI:1339972](http://www.informatics.jax.org/marker/MGI:1339972) | All phenotypic alleles (1):Targeted, other(1) |
 | Xenopus |  | [496651](https://www.ncbi.nlm.nih.gov/gene/496651), [495275](https://www.ncbi.nlm.nih.gov/gene/495275) | [1008381](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1008381) |  |
-| Zebrafish | [ENSDARG00000013430](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013430) | [322228](https://www.ncbi.nlm.nih.gov/gene/322228) | [ZFIN:ZDB-GENE-030131-947](https://zfin.org/ZDB-GENE-030131-947) | ZDB-GENE-030131-947 |
+| Zebrafish | [ENSDARG00000013430](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013430) | [322228](https://www.ncbi.nlm.nih.gov/gene/322228) | [ZFIN:ZDB-GENE-030131-947](https://zfin.org/ZDB-GENE-030131-947) |  |
 

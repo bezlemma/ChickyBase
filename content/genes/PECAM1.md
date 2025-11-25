@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771243
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234535
 forward_primer: 5’-ACTCTGCACATCAAGCCCTC-3’
-gene_id: '448851'
+gene_id: '771243'
 gene_type: protein-coding
 images:
 - caption: PECAM1 expression
@@ -71,13 +71,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R648.PECAM1.S26.001.jpg
 name: platelet and endothelial cell adhesion molecule 1
-ncbi_id: '448851'
+ncbi_id: '771243'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000261371
   entrez: '5175'
   mod: MIM:173445
@@ -88,24 +83,25 @@ orthologs:
   mod: MGI:97537
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100493686,496387
-  mod: '488101'
+- ensembl: ENSXETG00000012570
+  entrez: '100493686'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000060263
-  entrez: '569386'
-  mod: ZFIN:ZDB-GENE-130530-689
-  phenotypes: ZDB-GENE-130530-689
+- ensembl: ENSDARG00000103020
+  entrez: '100333180'
+  mod: ZFIN:ZDB-GENE-120215-145
+  phenotypes: cell surface receptor signaling pathway, cell-cell adhesion via plasma-membrane
+    adhesion molecules, immune response
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAAGCTGGTGTTCCTGATCGG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448851
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771243
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448851
+  url: https://www.ncbi.nlm.nih.gov/gene/771243
 species: Gallus gallus
 symbol: PECAM1
 template_length: '821'
@@ -128,9 +124,8 @@ title: PECAM1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000261371](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000261371) | [5175](https://www.ncbi.nlm.nih.gov/gene/5175) | [MIM:173445](https://omim.org/entry/173445) |  |
 | Mouse | [ENSMUSG00000020717](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020717) | [18613](https://www.ncbi.nlm.nih.gov/gene/18613) | [MGI:97537](http://www.informatics.jax.org/marker/MGI:97537) | All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1) |
-| Xenopus |  | [100493686](https://www.ncbi.nlm.nih.gov/gene/100493686), [496387](https://www.ncbi.nlm.nih.gov/gene/496387) | [488101](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488101) |  |
-| Zebrafish | [ENSDARG00000060263](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060263) | [569386](https://www.ncbi.nlm.nih.gov/gene/569386) | [ZFIN:ZDB-GENE-130530-689](https://zfin.org/ZDB-GENE-130530-689) | ZDB-GENE-130530-689 |
+| Xenopus | [ENSXETG00000012570](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012570) | [100493686](https://www.ncbi.nlm.nih.gov/gene/100493686) |  |  |
+| Zebrafish | [ENSDARG00000103020](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000103020) | [100333180](https://www.ncbi.nlm.nih.gov/gene/100333180) | [ZFIN:ZDB-GENE-120215-145](https://zfin.org/ZDB-GENE-120215-145) | cell surface receptor signaling pathway, cell-cell adhesion via plasma-membrane adhesion molecules, immune response |
 

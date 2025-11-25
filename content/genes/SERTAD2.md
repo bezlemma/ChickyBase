@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421276
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031037
   X-XIV: stage XII
-gene_id: '457151'
+gene_id: '421276'
 gene_type: protein-coding
 images:
 - caption: SERTAD2 expression
@@ -50,16 +50,11 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SERTAD2.Trevers.2023-Fig7-7-Q.jpg
 name: SERTA domain containing 2
-ncbi_id: '457151'
+ncbi_id: '421276'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000179833
   entrez: '9792'
-  mod: ''
+  mod: MIM:617851
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000049800
@@ -67,23 +62,23 @@ orthologs:
   mod: MGI:1931026
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100491459,734792
-  mod: '5772328'
+- ensembl: ENSXETG00000014022
+  entrez: '100491459'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000055530
-  entrez: 368888,504106
-  mod: ZFIN:ZDB-GENE-030616-569,ZFIN:ZDB-GENE-050309-236
-  phenotypes: ZDB-GENE-030616-569,ZDB-GENE-050309-236
+  entrez: '368888'
+  mod: ZFIN:ZDB-GENE-030616-569
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457151
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421276
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457151
+  url: https://www.ncbi.nlm.nih.gov/gene/421276
 species: Gallus gallus
 symbol: SERTAD2
 title: SERTAD2
@@ -107,9 +102,8 @@ title: SERTAD2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000179833](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000179833) | [9792](https://www.ncbi.nlm.nih.gov/gene/9792) |  |  |
+| Human | [ENSG00000179833](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000179833) | [9792](https://www.ncbi.nlm.nih.gov/gene/9792) | [MIM:617851](https://omim.org/entry/617851) |  |
 | Mouse | [ENSMUSG00000049800](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049800) | [58172](https://www.ncbi.nlm.nih.gov/gene/58172) | [MGI:1931026](http://www.informatics.jax.org/marker/MGI:1931026) | All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1) |
-| Xenopus |  | [100491459](https://www.ncbi.nlm.nih.gov/gene/100491459), [734792](https://www.ncbi.nlm.nih.gov/gene/734792) | [5772328](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5772328) |  |
-| Zebrafish | [ENSDARG00000055530](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055530) | [368888](https://www.ncbi.nlm.nih.gov/gene/368888), [504106](https://www.ncbi.nlm.nih.gov/gene/504106) | [ZFIN:ZDB-GENE-030616-569](https://zfin.org/ZDB-GENE-030616-569), [ZFIN:ZDB-GENE-050309-236](https://zfin.org/ZDB-GENE-050309-236) | ZDB-GENE-030616-569,ZDB-GENE-050309-236 |
+| Xenopus | [ENSXETG00000014022](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014022) | [100491459](https://www.ncbi.nlm.nih.gov/gene/100491459) |  |  |
+| Zebrafish | [ENSDARG00000055530](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055530) | [368888](https://www.ncbi.nlm.nih.gov/gene/368888) | [ZFIN:ZDB-GENE-030616-569](https://zfin.org/ZDB-GENE-030616-569) |  |
 

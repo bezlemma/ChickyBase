@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:777552
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001080896
 forward_primer: AAGACCTGAAGGCTTTTGTCGG
-gene_id: '454657'
+gene_id: '777552'
 gene_type: protein-coding
 images:
 - caption: BIN2 expression
@@ -89,7 +89,7 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.BIN2.S27AAA.001.jpg
 name: bridging integrator 2
-ncbi_id: '454657'
+ncbi_id: '777552'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -120,10 +120,10 @@ reverse_primer: ATTAACCCTCACTAAAGGAGTTTCCCCATCACCTCGTAGAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454657
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777552
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454657
+  url: https://www.ncbi.nlm.nih.gov/gene/777552
 species: Gallus gallus
 symbol: BIN2
 template_length: '529'

@@ -6,7 +6,6 @@ aliases:
 - type 1 IGF receptor
 cgnc_id: '49533'
 external_ids:
-  '19': stage 19stage 19stage 19stage 19stage 19
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0013984
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2000+Holzenberger+IGF-I+Lapointe
   Comments: The complete cDNA template sequence was obtained from the information
@@ -18,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395889
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205032
-gene_id: '450828'
+gene_id: '395889'
 gene_type: protein-coding
 images:
 - caption: IGF1R expression
@@ -185,38 +184,35 @@ images:
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1R.Holzenberger.1996.Fig6A.jpg
 name: insulin like growth factor 1 receptor
-ncbi_id: '450828'
+ncbi_id: '395889'
 orthologs:
-- ensembl: ''
-  entrez: '42549'
-  mod: FBgn0013984
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000140443
   entrez: '3480'
   mod: MIM:147370
   phenotypes: MIM:270450
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000005533
   entrez: '16001'
   mod: MGI:96433
   phenotypes: All phenotypic alleles (11):Chemically induced(1) Targeted, knock-out(4)
     Targeted, other(6)
   species: Mouse
-- ensembl: ''
-  entrez: 100329112,398022
-  mod: '484031'
+- ensembl: ENSXETG00000002112
+  entrez: '100329112'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000034434,ENSDARG00000027423
-  entrez: 245702,245701
-  mod: ZFIN:ZDB-GENE-020503-2,ZFIN:ZDB-GENE-020503-1
-  phenotypes: ZDB-GENE-020503-2,ZDB-GENE-020503-1
+- ensembl: ENSDARG00000034434
+  entrez: '245702'
+  mod: ZFIN:ZDB-GENE-020503-2
+  phenotypes: camera-type eye development, cell surface receptor protein tyrosine
+    kinase signaling pathway, chordate embryonic development, embryonic camera-type
+    eye development, fin regeneration
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450828
+  url: https://www.ncbi.nlm.nih.gov/gene/395889
 species: Gallus gallus
 symbol: IGF1R
 title: IGF1R
@@ -244,9 +240,8 @@ title: IGF1R
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42549](https://www.ncbi.nlm.nih.gov/gene/42549) | FBgn0013984 |  |
 | Human | [ENSG00000140443](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140443) | [3480](https://www.ncbi.nlm.nih.gov/gene/3480) | [MIM:147370](https://omim.org/entry/147370) | MIM:270450 |
-| Mouse |  | [16001](https://www.ncbi.nlm.nih.gov/gene/16001) | [MGI:96433](http://www.informatics.jax.org/marker/MGI:96433) | All phenotypic alleles (11):Chemically induced(1) Targeted, knock-out(4) Targeted, other(6) |
-| Xenopus |  | [100329112](https://www.ncbi.nlm.nih.gov/gene/100329112), [398022](https://www.ncbi.nlm.nih.gov/gene/398022) | [484031](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484031) |  |
-| Zebrafish | [ENSDARG00000034434](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034434), [ENSDARG00000027423](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027423) | [245702](https://www.ncbi.nlm.nih.gov/gene/245702), [245701](https://www.ncbi.nlm.nih.gov/gene/245701) | [ZFIN:ZDB-GENE-020503-2](https://zfin.org/ZDB-GENE-020503-2), [ZFIN:ZDB-GENE-020503-1](https://zfin.org/ZDB-GENE-020503-1) | ZDB-GENE-020503-2,ZDB-GENE-020503-1 |
+| Mouse | [ENSMUSG00000005533](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005533) | [16001](https://www.ncbi.nlm.nih.gov/gene/16001) | [MGI:96433](http://www.informatics.jax.org/marker/MGI:96433) | All phenotypic alleles (11):Chemically induced(1) Targeted, knock-out(4) Targeted, other(6) |
+| Xenopus | [ENSXETG00000002112](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002112) | [100329112](https://www.ncbi.nlm.nih.gov/gene/100329112) |  |  |
+| Zebrafish | [ENSDARG00000034434](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034434) | [245702](https://www.ncbi.nlm.nih.gov/gene/245702) | [ZFIN:ZDB-GENE-020503-2](https://zfin.org/ZDB-GENE-020503-2) | camera-type eye development, cell surface receptor protein tyrosine kinase signaling pathway, chordate embryonic development, embryonic camera-type eye development, fin regeneration |
 

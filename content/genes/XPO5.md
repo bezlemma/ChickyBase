@@ -3,7 +3,6 @@ aliases:
 - exportin-5, exportin 5
 cgnc_id: '7870'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0031051
   Citation: 'Carraco G, Gonçalves AN, Serra C, Andrade RP. MicroRNA processing machinery
     in the developing chick embryo. Gene Expr Patterns.  2014 Nov;16(2):114-21. Epub
@@ -18,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421450
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277652
-gene_id: '457722'
+gene_id: '421450'
 gene_type: protein-coding
 images:
 - caption: XPO5 expression
@@ -203,13 +202,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Carraco.2014-XPO5-fig3.jpg
 name: exportin 5
-ncbi_id: '457722'
+ncbi_id: '421450'
 orthologs:
-- ensembl: ''
-  entrez: '32970'
-  mod: FBgn0031051
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000124571
   entrez: '57510'
   mod: MIM:607845
@@ -220,23 +214,23 @@ orthologs:
   mod: MGI:1913789
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010883
   entrez: '394717'
-  mod: '5947327'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000078338
-  entrez: '558662'
   mod: ''
   phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000098868
+  entrez: '558662'
+  mod: ZFIN:ZDB-GENE-081107-24
+  phenotypes: intracellular protein transport, protein export from nucleus
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457722
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421450
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457722
+  url: https://www.ncbi.nlm.nih.gov/gene/421450
 species: Gallus gallus
 symbol: XPO5
 title: XPO5
@@ -263,9 +257,8 @@ title: XPO5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32970](https://www.ncbi.nlm.nih.gov/gene/32970) | FBgn0031051 |  |
 | Human | [ENSG00000124571](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000124571) | [57510](https://www.ncbi.nlm.nih.gov/gene/57510) | [MIM:607845](https://omim.org/entry/607845) |  |
 | Mouse | [ENSMUSG00000067150](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000067150) | [72322](https://www.ncbi.nlm.nih.gov/gene/72322) | [MGI:1913789](http://www.informatics.jax.org/marker/MGI:1913789) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [394717](https://www.ncbi.nlm.nih.gov/gene/394717) | [5947327](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5947327) |  |
-| Zebrafish | [ENSDARG00000078338](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078338) | [558662](https://www.ncbi.nlm.nih.gov/gene/558662) |  |  |
+| Xenopus | [ENSXETG00000010883](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010883) | [394717](https://www.ncbi.nlm.nih.gov/gene/394717) |  |  |
+| Zebrafish | [ENSDARG00000098868](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098868) | [558662](https://www.ncbi.nlm.nih.gov/gene/558662) | [ZFIN:ZDB-GENE-081107-24](https://zfin.org/ZDB-GENE-081107-24) | intracellular protein transport, protein export from nucleus |
 

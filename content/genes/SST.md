@@ -112,7 +112,7 @@ orthologs:
 - ensembl: ENSDARG00000040799
   entrez: '326018'
   mod: ZFIN:ZDB-GENE-030131-4743,ZFIN:ZDB-GENE-100910-2
-  phenotypes: ZDB-GENE-030131-4743,ZDB-GENE-100910-2
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -150,5 +150,5 @@ title: SST
 | Human | [ENSG00000157005](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000157005) | [6750](https://www.ncbi.nlm.nih.gov/gene/6750) | [MIM:182450](https://omim.org/entry/182450) |  |
 | Mouse | [ENSMUSG00000004366](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000004366) | [20604](https://www.ncbi.nlm.nih.gov/gene/20604) | [MGI:98326](http://www.informatics.jax.org/marker/MGI:98326) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
 | Xenopus |  | [100037904](https://www.ncbi.nlm.nih.gov/gene/100037904), [398676](https://www.ncbi.nlm.nih.gov/gene/398676) | [491020](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491020) |  |
-| Zebrafish | [ENSDARG00000040799](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040799) | [326018](https://www.ncbi.nlm.nih.gov/gene/326018) | [ZFIN:ZDB-GENE-030131-4743](https://zfin.org/ZDB-GENE-030131-4743), [ZFIN:ZDB-GENE-100910-2](https://zfin.org/ZDB-GENE-100910-2) | ZDB-GENE-030131-4743,ZDB-GENE-100910-2 |
+| Zebrafish | [ENSDARG00000040799](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040799) | [326018](https://www.ncbi.nlm.nih.gov/gene/326018) | [ZFIN:ZDB-GENE-030131-4743](https://zfin.org/ZDB-GENE-030131-4743), [ZFIN:ZDB-GENE-100910-2](https://zfin.org/ZDB-GENE-100910-2) |  |
 

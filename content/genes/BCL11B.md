@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423444
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641410
-gene_id: '451302'
+gene_id: '423444'
 gene_type: protein-coding
 images:
 - caption: BCL11B expression
@@ -48,7 +48,7 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53xd4.123.20.jpg
 name: B-cell CLL/lymphoma 11B
-ncbi_id: '451302'
+ncbi_id: '423444'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -73,15 +73,15 @@ orthologs:
 - ensembl: ''
   entrez: '100330974'
   mod: ZFIN:ZDB-GENE-061207-62,ZFIN:ZDB-GENE-110201-2
-  phenotypes: ZDB-GENE-061207-62,ZDB-GENE-110201-2
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451302
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423444
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451302
+  url: https://www.ncbi.nlm.nih.gov/gene/423444
 species: Gallus gallus
 symbol: BCL11B
 title: BCL11B
@@ -106,5 +106,5 @@ title: BCL11B
 | Human | [ENSG00000127152](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000127152) | [64919](https://www.ncbi.nlm.nih.gov/gene/64919) | [MIM:606558](https://omim.org/entry/606558) |  |
 | Mouse | [ENSMUSG00000048251](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048251) | [58208](https://www.ncbi.nlm.nih.gov/gene/58208) | [MGI:1929913](http://www.informatics.jax.org/marker/MGI:1929913) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4) |
 | Xenopus |  | [100486647](https://www.ncbi.nlm.nih.gov/gene/100486647) | [993641](http://www.xenbase.org/gene/showgene.do?method=display&geneId=993641) |  |
-| Zebrafish |  | [100330974](https://www.ncbi.nlm.nih.gov/gene/100330974) | [ZFIN:ZDB-GENE-061207-62](https://zfin.org/ZDB-GENE-061207-62), [ZFIN:ZDB-GENE-110201-2](https://zfin.org/ZDB-GENE-110201-2) | ZDB-GENE-061207-62,ZDB-GENE-110201-2 |
+| Zebrafish |  | [100330974](https://www.ncbi.nlm.nih.gov/gene/100330974) | [ZFIN:ZDB-GENE-061207-62](https://zfin.org/ZDB-GENE-061207-62), [ZFIN:ZDB-GENE-110201-2](https://zfin.org/ZDB-GENE-110201-2) |  |
 

@@ -3,14 +3,13 @@ aliases:
 - dystonin
 cgnc_id: '12181'
 external_ids:
-  '25': stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000016289
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421884
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419901
 forward_primer: CCCGCTTTGATGATTTTGTGG
-gene_id: '455585'
+gene_id: '421884'
 gene_type: protein-coding
 images:
 - caption: DST expression
@@ -208,41 +207,31 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R315.DST.S25.001.jpg
 name: dystonin
-ncbi_id: '455585'
+ncbi_id: '421884'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000026131
+  entrez: '13518'
+  mod: MGI:104627
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000022769
+  entrez: '100496778'
   mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+  entrez: '100333215'
+  mod: ZFIN:ZDB-GENE-030131-3399
+  phenotypes: intermediate filament cytoskeleton organization
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTTTCTCCTCCTTCTTTGCTGAGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455585
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421884
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455585
+  url: https://www.ncbi.nlm.nih.gov/gene/421884
 species: Gallus gallus
 symbol: DST
 template_length: '1358'
@@ -265,9 +254,7 @@ title: DST
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Mouse | [ENSMUSG00000026131](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026131) | [13518](https://www.ncbi.nlm.nih.gov/gene/13518) | [MGI:104627](http://www.informatics.jax.org/marker/MGI:104627) |  |
+| Xenopus | [ENSXETG00000022769](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022769) | [100496778](https://www.ncbi.nlm.nih.gov/gene/100496778) |  |  |
+| Zebrafish |  | [100333215](https://www.ncbi.nlm.nih.gov/gene/100333215) | [ZFIN:ZDB-GENE-030131-3399](https://zfin.org/ZDB-GENE-030131-3399) | intermediate filament cytoskeleton organization |
 

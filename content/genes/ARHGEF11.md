@@ -4,13 +4,12 @@ aliases:
 - Rho guanine nucleotide exchange factor (GEF) 11
 cgnc_id: '10007'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/425979
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:425979
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423659
 forward_primer: CACAGAAGGAGATTGACCG
-gene_id: '450379'
+gene_id: '425979'
 gene_type: protein-coding
 images:
 - caption: ARHGEF11 expression
@@ -96,13 +95,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R387.ARHGEF11.S25.001.jpg
 name: Rho guanine nucleotide exchange factor 11
-ncbi_id: '450379'
+ncbi_id: '425979'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000132694
   entrez: '9826'
   mod: MIM:605708
@@ -113,24 +107,26 @@ orthologs:
   mod: MGI:2441869
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000023808
   entrez: '100489979'
-  mod: '992397'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000052482
+- ensembl: ''
   entrez: '565268'
   mod: ZFIN:ZDB-GENE-070604-1
-  phenotypes: ZDB-GENE-070604-1
+  phenotypes: G protein-coupled receptor signaling pathway, determination of left/right
+    symmetry, epithelial cilium movement involved in extracellular fluid movement,
+    intracellular signal transduction, otolith development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCAGATGATGAAGAAGGCTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450379
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=425979
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450379
+  url: https://www.ncbi.nlm.nih.gov/gene/425979
 species: Gallus gallus
 symbol: ARHGEF11
 template_length: '955'
@@ -152,9 +148,8 @@ title: ARHGEF11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000132694](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000132694) | [9826](https://www.ncbi.nlm.nih.gov/gene/9826) | [MIM:605708](https://omim.org/entry/605708) |  |
 | Mouse | [ENSMUSG00000041977](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041977) | [213498](https://www.ncbi.nlm.nih.gov/gene/213498) | [MGI:2441869](http://www.informatics.jax.org/marker/MGI:2441869) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100489979](https://www.ncbi.nlm.nih.gov/gene/100489979) | [992397](http://www.xenbase.org/gene/showgene.do?method=display&geneId=992397) |  |
-| Zebrafish | [ENSDARG00000052482](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052482) | [565268](https://www.ncbi.nlm.nih.gov/gene/565268) | [ZFIN:ZDB-GENE-070604-1](https://zfin.org/ZDB-GENE-070604-1) | ZDB-GENE-070604-1 |
+| Xenopus | [ENSXETG00000023808](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023808) | [100489979](https://www.ncbi.nlm.nih.gov/gene/100489979) |  |  |
+| Zebrafish |  | [565268](https://www.ncbi.nlm.nih.gov/gene/565268) | [ZFIN:ZDB-GENE-070604-1](https://zfin.org/ZDB-GENE-070604-1) | G protein-coupled receptor signaling pathway, determination of left/right symmetry, epithelial cilium movement involved in extracellular fluid movement, intracellular signal transduction, otolith development |
 

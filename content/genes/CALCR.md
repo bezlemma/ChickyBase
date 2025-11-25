@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428425
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425985
 forward_primer: CCTCATCATCGTTGTGCCTAACC
-gene_id: '461668'
+gene_id: '428425'
 gene_type: protein-coding
 images:
 - caption: CALCR expression
@@ -91,13 +91,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CALCR.S26V.001.jpg
 name: calcitonin receptor
-ncbi_id: '461668'
+ncbi_id: '428425'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000004948
   entrez: '799'
   mod: MIM:114131
@@ -108,24 +103,26 @@ orthologs:
   mod: MGI:101950
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000031529
   entrez: '100491101'
-  mod: '952134'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000028845
-  entrez: 100334853,560268
+- ensembl: ENSDARG00000109526
+  entrez: '560268'
   mod: ZFIN:ZDB-GENE-060503-420
-  phenotypes: ZDB-GENE-060503-420
+  phenotypes: G protein-coupled receptor signaling pathway, adenylate cyclase-activating
+    G protein-coupled receptor signaling pathway, cell surface receptor signaling
+    pathway, positive regulation of cytosolic calcium ion concentration, signal transduction
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCTTGGATTCCCCACTCTTTTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461668
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428425
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461668
+  url: https://www.ncbi.nlm.nih.gov/gene/428425
 species: Gallus gallus
 symbol: CALCR
 template_length: '889'
@@ -148,9 +145,8 @@ title: CALCR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000004948](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000004948) | [799](https://www.ncbi.nlm.nih.gov/gene/799) | [MIM:114131](https://omim.org/entry/114131) | MIM:166710 |
 | Mouse | [ENSMUSG00000023964](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023964) | [12311](https://www.ncbi.nlm.nih.gov/gene/12311) | [MGI:101950](http://www.informatics.jax.org/marker/MGI:101950) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [100491101](https://www.ncbi.nlm.nih.gov/gene/100491101) | [952134](http://www.xenbase.org/gene/showgene.do?method=display&geneId=952134) |  |
-| Zebrafish | [ENSDARG00000028845](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028845) | [100334853](https://www.ncbi.nlm.nih.gov/gene/100334853), [560268](https://www.ncbi.nlm.nih.gov/gene/560268) | [ZFIN:ZDB-GENE-060503-420](https://zfin.org/ZDB-GENE-060503-420) | ZDB-GENE-060503-420 |
+| Xenopus | [ENSXETG00000031529](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031529) | [100491101](https://www.ncbi.nlm.nih.gov/gene/100491101) |  |  |
+| Zebrafish | [ENSDARG00000109526](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000109526) | [560268](https://www.ncbi.nlm.nih.gov/gene/560268) | [ZFIN:ZDB-GENE-060503-420](https://zfin.org/ZDB-GENE-060503-420) | G protein-coupled receptor signaling pathway, adenylate cyclase-activating G protein-coupled receptor signaling pathway, cell surface receptor signaling pathway, positive regulation of cytosolic calcium ion concentration, signal transduction |
 

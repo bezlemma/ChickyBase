@@ -26,7 +26,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204730
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/ANXA6
-gene_id: '449278'
+gene_id: '395481'
 gene_type: protein-coding
 images:
 - caption: ANXA6 expression
@@ -114,13 +114,8 @@ images:
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wu.2012.F1.anxa6.png
 name: annexin A6
-ncbi_id: '449278'
+ncbi_id: '395481'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000197043
   entrez: '309'
   mod: MIM:114070
@@ -131,23 +126,25 @@ orthologs:
   mod: MGI:88255
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 779574,444274
-  mod: '989740'
+- ensembl: ENSXETG00000015832
+  entrez: '779574'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: 100333447,353363
+- ensembl: ENSDARG00000013335
+  entrez: '353363'
   mod: ZFIN:ZDB-GENE-030707-3
-  phenotypes: ZDB-GENE-030707-3
+  phenotypes: apoptotic signaling pathway, calcium ion transport, mitochondrial calcium
+    ion homeostasis, negative regulation of sequestering of calcium ion, plasma membrane
+    repair
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449278
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395481
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449278
+  url: https://www.ncbi.nlm.nih.gov/gene/395481
 species: Gallus gallus
 symbol: ANXA6
 title: ANXA6
@@ -176,9 +173,8 @@ title: ANXA6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000197043](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197043) | [309](https://www.ncbi.nlm.nih.gov/gene/309) | [MIM:114070](https://omim.org/entry/114070) |  |
 | Mouse | [ENSMUSG00000018340](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018340) | [11749](https://www.ncbi.nlm.nih.gov/gene/11749) | [MGI:88255](http://www.informatics.jax.org/marker/MGI:88255) | All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2) |
-| Xenopus |  | [779574](https://www.ncbi.nlm.nih.gov/gene/779574), [444274](https://www.ncbi.nlm.nih.gov/gene/444274) | [989740](http://www.xenbase.org/gene/showgene.do?method=display&geneId=989740) |  |
-| Zebrafish |  | [100333447](https://www.ncbi.nlm.nih.gov/gene/100333447), [353363](https://www.ncbi.nlm.nih.gov/gene/353363) | [ZFIN:ZDB-GENE-030707-3](https://zfin.org/ZDB-GENE-030707-3) | ZDB-GENE-030707-3 |
+| Xenopus | [ENSXETG00000015832](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015832) | [779574](https://www.ncbi.nlm.nih.gov/gene/779574) |  |  |
+| Zebrafish | [ENSDARG00000013335](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013335) | [353363](https://www.ncbi.nlm.nih.gov/gene/353363) | [ZFIN:ZDB-GENE-030707-3](https://zfin.org/ZDB-GENE-030707-3) | apoptotic signaling pathway, calcium ion transport, mitochondrial calcium ion homeostasis, negative regulation of sequestering of calcium ion, plasma membrane repair |
 

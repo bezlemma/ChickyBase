@@ -3,7 +3,6 @@ aliases:
 - protein Wnt-2
 cgnc_id: '7121'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Fokina+Wnt
   Comments: 'Authors indicated probe was 400 bp. As insufficient information is provided
     in publication to verify exact sequence used to synthesize probe, the sequence
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417769
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416013
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATATCTGGTGGTGGTCTCTTCCCC
-gene_id: '452972'
+gene_id: '417769'
 gene_type: protein-coding
 images:
 - caption: WNT2 expression
@@ -175,13 +174,8 @@ images:
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt2.Theodosiou.2003.1U.png
 name: Wnt family member 2
-ncbi_id: '452972'
+ncbi_id: '417769'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000105989
   entrez: '7472'
   mod: MIM:147870
@@ -192,24 +186,20 @@ orthologs:
   mod: MGI:98954
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100038261,100491761,378566,378675
-  mod: 486594,960147
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000005050,ENSDARG00000041117
-  entrez: 359837,30127
-  mod: ZFIN:ZDB-GENE-030717-2,ZFIN:ZDB-GENE-980526-416
-  phenotypes: ZDB-GENE-030717-2,ZDB-GENE-980526-416
+- ensembl: ENSDARG00000005050
+  entrez: '359837'
+  mod: ZFIN:ZDB-GENE-030717-2
+  phenotypes: Wnt signaling pathway, animal organ development, canonical Wnt signaling
+    pathway, cell fate commitment, embryonic pectoral fin morphogenesis
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGCCTACATCCCTGTCCCTGATAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452972
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417769
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452972
+  url: https://www.ncbi.nlm.nih.gov/gene/417769
 species: Gallus gallus
 symbol: WNT2
 template_length: '834'
@@ -236,9 +226,7 @@ title: WNT2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000105989](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000105989) | [7472](https://www.ncbi.nlm.nih.gov/gene/7472) | [MIM:147870](https://omim.org/entry/147870) |  |
 | Mouse | [ENSMUSG00000010797](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000010797) | [22413](https://www.ncbi.nlm.nih.gov/gene/22413) | [MGI:98954](http://www.informatics.jax.org/marker/MGI:98954) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100038261](https://www.ncbi.nlm.nih.gov/gene/100038261), [100491761](https://www.ncbi.nlm.nih.gov/gene/100491761), [378566](https://www.ncbi.nlm.nih.gov/gene/378566), [378675](https://www.ncbi.nlm.nih.gov/gene/378675) | [486594](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486594), [960147](http://www.xenbase.org/gene/showgene.do?method=display&geneId=960147) |  |
-| Zebrafish | [ENSDARG00000005050](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005050), [ENSDARG00000041117](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041117) | [359837](https://www.ncbi.nlm.nih.gov/gene/359837), [30127](https://www.ncbi.nlm.nih.gov/gene/30127) | [ZFIN:ZDB-GENE-030717-2](https://zfin.org/ZDB-GENE-030717-2), [ZFIN:ZDB-GENE-980526-416](https://zfin.org/ZDB-GENE-980526-416) | ZDB-GENE-030717-2,ZDB-GENE-980526-416 |
+| Zebrafish | [ENSDARG00000005050](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005050) | [359837](https://www.ncbi.nlm.nih.gov/gene/359837) | [ZFIN:ZDB-GENE-030717-2](https://zfin.org/ZDB-GENE-030717-2) | Wnt signaling pathway, animal organ development, canonical Wnt signaling pathway, cell fate commitment, embryonic pectoral fin morphogenesis |
 

@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427515
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277629
 forward_primer: 5'-CAAGGAGTGCTTTTCGCTCTACG-3'
-gene_id: '455049'
+gene_id: '427515'
 gene_type: protein-coding
 images:
 - caption: CALML4 expression
@@ -121,16 +121,11 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R554.CALML4.S27.001.jpg
 name: calmodulin like 4
-ncbi_id: '455049'
+ncbi_id: '427515'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000129007
   entrez: '91860'
-  mod: ''
+  mod: MIM:620520
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000032246
@@ -138,24 +133,24 @@ orthologs:
   mod: MGI:1922850
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000007814
   entrez: '496530'
-  mod: '5936219'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000075800,ENSDARG00000059347
-  entrez: 560151,100321746
-  mod: ZFIN:ZDB-GENE-081022-9,ZFIN:ZDB-GENE-071009-6
-  phenotypes: ZDB-GENE-081022-9,ZDB-GENE-071009-6
+- ensembl: ENSDARG00000075800
+  entrez: '560151'
+  mod: ZFIN:ZDB-GENE-081022-9
+  phenotypes: microtubule cytoskeleton organization
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGGCTCGCATTTTGTGAGATGGG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455049
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427515
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455049
+  url: https://www.ncbi.nlm.nih.gov/gene/427515
 species: Gallus gallus
 symbol: CALML4
 template_length: '586'
@@ -178,9 +173,8 @@ title: CALML4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000129007](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000129007) | [91860](https://www.ncbi.nlm.nih.gov/gene/91860) |  |  |
+| Human | [ENSG00000129007](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000129007) | [91860](https://www.ncbi.nlm.nih.gov/gene/91860) | [MIM:620520](https://omim.org/entry/620520) |  |
 | Mouse | [ENSMUSG00000032246](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032246) | [75600](https://www.ncbi.nlm.nih.gov/gene/75600) | [MGI:1922850](http://www.informatics.jax.org/marker/MGI:1922850) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [496530](https://www.ncbi.nlm.nih.gov/gene/496530) | [5936219](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5936219) |  |
-| Zebrafish | [ENSDARG00000075800](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075800), [ENSDARG00000059347](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059347) | [560151](https://www.ncbi.nlm.nih.gov/gene/560151), [100321746](https://www.ncbi.nlm.nih.gov/gene/100321746) | [ZFIN:ZDB-GENE-081022-9](https://zfin.org/ZDB-GENE-081022-9), [ZFIN:ZDB-GENE-071009-6](https://zfin.org/ZDB-GENE-071009-6) | ZDB-GENE-081022-9,ZDB-GENE-071009-6 |
+| Xenopus | [ENSXETG00000007814](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007814) | [496530](https://www.ncbi.nlm.nih.gov/gene/496530) |  |  |
+| Zebrafish | [ENSDARG00000075800](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075800) | [560151](https://www.ncbi.nlm.nih.gov/gene/560151) | [ZFIN:ZDB-GENE-081022-9](https://zfin.org/ZDB-GENE-081022-9) | microtubule cytoskeleton organization |
 

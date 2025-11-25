@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771113
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006102.3?report=genbank&from=11340779&to=11343535
-gene_id: '449226'
+gene_id: '771113'
 gene_type: protein-coding
 images:
 - caption: TESC expression
@@ -126,13 +126,8 @@ images:
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Tesc.J.Bao.ST35-F.jpg
 name: tescalcin
-ncbi_id: '449226'
+ncbi_id: '771113'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000088992
   entrez: '54997'
   mod: MIM:611585
@@ -143,20 +138,22 @@ orthologs:
   mod: MGI:1930803
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 779877,495366
-  mod: '991110'
+- ensembl: ENSXETG00000030230
+  entrez: '779877'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000030839,ENSDARG00000028346
-  entrez: 402993,406633
-  mod: ZFIN:ZDB-GENE-040426-1903,ZFIN:ZDB-GENE-040426-2632
-  phenotypes: ZDB-GENE-040426-1903,ZDB-GENE-040426-2632
+- ensembl: ENSDARG00000028346
+  entrez: '406633'
+  mod: ZFIN:ZDB-GENE-040426-2632
+  phenotypes: cell differentiation, positive regulation of granulocyte differentiation,
+    protein localization to plasma membrane, regulation of cell adhesion mediated
+    by integrin
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449226
+  url: https://www.ncbi.nlm.nih.gov/gene/771113
 species: Gallus gallus
 symbol: TESC
 title: TESC
@@ -186,9 +183,8 @@ title: TESC
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000088992](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000088992) | [54997](https://www.ncbi.nlm.nih.gov/gene/54997) | [MIM:611585](https://omim.org/entry/611585) |  |
 | Mouse | [ENSMUSG00000029359](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029359) | [57816](https://www.ncbi.nlm.nih.gov/gene/57816) | [MGI:1930803](http://www.informatics.jax.org/marker/MGI:1930803) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [779877](https://www.ncbi.nlm.nih.gov/gene/779877), [495366](https://www.ncbi.nlm.nih.gov/gene/495366) | [991110](http://www.xenbase.org/gene/showgene.do?method=display&geneId=991110) |  |
-| Zebrafish | [ENSDARG00000030839](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030839), [ENSDARG00000028346](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028346) | [402993](https://www.ncbi.nlm.nih.gov/gene/402993), [406633](https://www.ncbi.nlm.nih.gov/gene/406633) | [ZFIN:ZDB-GENE-040426-1903](https://zfin.org/ZDB-GENE-040426-1903), [ZFIN:ZDB-GENE-040426-2632](https://zfin.org/ZDB-GENE-040426-2632) | ZDB-GENE-040426-1903,ZDB-GENE-040426-2632 |
+| Xenopus | [ENSXETG00000030230](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000030230) | [779877](https://www.ncbi.nlm.nih.gov/gene/779877) |  |  |
+| Zebrafish | [ENSDARG00000028346](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028346) | [406633](https://www.ncbi.nlm.nih.gov/gene/406633) | [ZFIN:ZDB-GENE-040426-2632](https://zfin.org/ZDB-GENE-040426-2632) | cell differentiation, positive regulation of granulocyte differentiation, protein localization to plasma membrane, regulation of cell adhesion mediated by integrin |
 

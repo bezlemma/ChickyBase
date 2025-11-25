@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396388
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003990
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205418
-gene_id: '461655'
+gene_id: '396388'
 gene_type: protein-coding
 images:
 - caption: ACHE expression
@@ -93,37 +93,33 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AChE.Sanders.2002
     for figure 1.png
 name: acetylcholinesterase (Cartwright blood group)
-ncbi_id: '461655'
+ncbi_id: '396388'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000087085
+  entrez: '43'
+  mod: MIM:100740
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000023328
+  entrez: '11423'
+  mod: MGI:87876
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000017226
+  entrez: '100490673'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000031796
+  entrez: '114549'
+  mod: ZFIN:ZDB-GENE-010906-1
+  phenotypes: acetylcholine catabolic process, cellular response to methanol, choline
+    metabolic process, enteric nervous system development, myofibril assembly
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461655
+  url: https://www.ncbi.nlm.nih.gov/gene/396388
 species: Gallus gallus
 symbol: ACHE
 title: ACHE
@@ -152,9 +148,8 @@ title: ACHE
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000087085](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000087085) | [43](https://www.ncbi.nlm.nih.gov/gene/43) | [MIM:100740](https://omim.org/entry/100740) |  |
+| Mouse | [ENSMUSG00000023328](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023328) | [11423](https://www.ncbi.nlm.nih.gov/gene/11423) | [MGI:87876](http://www.informatics.jax.org/marker/MGI:87876) |  |
+| Xenopus | [ENSXETG00000017226](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017226) | [100490673](https://www.ncbi.nlm.nih.gov/gene/100490673) |  |  |
+| Zebrafish | [ENSDARG00000031796](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031796) | [114549](https://www.ncbi.nlm.nih.gov/gene/114549) | [ZFIN:ZDB-GENE-010906-1](https://zfin.org/ZDB-GENE-010906-1) | acetylcholine catabolic process, cellular response to methanol, choline metabolic process, enteric nervous system development, myofibril assembly |
 

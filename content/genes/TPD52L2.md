@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419257
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030858
-gene_id: '455428'
+gene_id: '419257'
 gene_type: protein-coding
 images:
 - caption: TPD52L2 expression
@@ -36,37 +36,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Screen shot 2011-05-12
     at 4.15.19 PM.png
 name: tumor protein D52 like 2
-ncbi_id: '455428'
+ncbi_id: '419257'
 orthologs:
-- ensembl: ''
-  entrez: '37117'
-  mod: FBgn0034345
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000101150
   entrez: '7165'
   mod: MIM:603747
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000000827
   entrez: '66314'
   mod: MGI:1913564
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 595067,447016
-  mod: '6453984'
+- ensembl: ENSXETG00000048383
+  entrez: '595067'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000013655,ENSDARG00000027154
-  entrez: 322103,335107
-  mod: ZFIN:ZDB-GENE-030131-822,ZFIN:ZDB-GENE-030131-7047
-  phenotypes: ZDB-GENE-030131-822,ZDB-GENE-030131-7047
+- ensembl: ENSDARG00000013655
+  entrez: '322103'
+  mod: ZFIN:ZDB-GENE-030131-822
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455428
+  url: https://www.ncbi.nlm.nih.gov/gene/419257
 species: Gallus gallus
 symbol: TPD52L2
 title: TPD52L2
@@ -94,9 +89,8 @@ title: TPD52L2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [37117](https://www.ncbi.nlm.nih.gov/gene/37117) | FBgn0034345 |  |
 | Human | [ENSG00000101150](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101150) | [7165](https://www.ncbi.nlm.nih.gov/gene/7165) | [MIM:603747](https://omim.org/entry/603747) |  |
-| Mouse |  | [66314](https://www.ncbi.nlm.nih.gov/gene/66314) | [MGI:1913564](http://www.informatics.jax.org/marker/MGI:1913564) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [595067](https://www.ncbi.nlm.nih.gov/gene/595067), [447016](https://www.ncbi.nlm.nih.gov/gene/447016) | [6453984](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6453984) |  |
-| Zebrafish | [ENSDARG00000013655](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013655), [ENSDARG00000027154](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027154) | [322103](https://www.ncbi.nlm.nih.gov/gene/322103), [335107](https://www.ncbi.nlm.nih.gov/gene/335107) | [ZFIN:ZDB-GENE-030131-822](https://zfin.org/ZDB-GENE-030131-822), [ZFIN:ZDB-GENE-030131-7047](https://zfin.org/ZDB-GENE-030131-7047) | ZDB-GENE-030131-822,ZDB-GENE-030131-7047 |
+| Mouse | [ENSMUSG00000000827](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000827) | [66314](https://www.ncbi.nlm.nih.gov/gene/66314) | [MGI:1913564](http://www.informatics.jax.org/marker/MGI:1913564) | All phenotypic alleles (2):Targeted, other(2) |
+| Xenopus | [ENSXETG00000048383](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000048383) | [595067](https://www.ncbi.nlm.nih.gov/gene/595067) |  |  |
+| Zebrafish | [ENSDARG00000013655](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013655) | [322103](https://www.ncbi.nlm.nih.gov/gene/322103) | [ZFIN:ZDB-GENE-030131-822](https://zfin.org/ZDB-GENE-030131-822) |  |
 

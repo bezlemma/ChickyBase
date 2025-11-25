@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769237
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001232471
-gene_id: '462830'
+gene_id: '769237'
 gene_type: protein-coding
 images:
 - caption: ABI3BP expression
@@ -34,37 +34,17 @@ images:
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Bandyopadhyay.2008.f5.abi3bp.png
 name: ABI family member 3 binding protein
-ncbi_id: '462830'
+ncbi_id: '769237'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000154175
   entrez: '25890'
   mod: MIM:606279
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000035258
-  entrez: '320712'
-  mod: MGI:2444583
-  phenotypes: All phenotypic alleles (1):Targeted, other(1)
-  species: Mouse
-- ensembl: ''
-  entrez: '595083'
-  mod: '951328'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000071095
-  entrez: '100149890'
-  mod: ZFIN:ZDB-GENE-030131-6041
-  phenotypes: ZDB-GENE-030131-6041
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462830
+  url: https://www.ncbi.nlm.nih.gov/gene/769237
 species: Gallus gallus
 symbol: ABI3BP
 title: ABI3BP
@@ -90,9 +70,5 @@ title: ABI3BP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000154175](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000154175) | [25890](https://www.ncbi.nlm.nih.gov/gene/25890) | [MIM:606279](https://omim.org/entry/606279) |  |
-| Mouse | [ENSMUSG00000035258](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035258) | [320712](https://www.ncbi.nlm.nih.gov/gene/320712) | [MGI:2444583](http://www.informatics.jax.org/marker/MGI:2444583) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [595083](https://www.ncbi.nlm.nih.gov/gene/595083) | [951328](http://www.xenbase.org/gene/showgene.do?method=display&geneId=951328) |  |
-| Zebrafish | [ENSDARG00000071095](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071095) | [100149890](https://www.ncbi.nlm.nih.gov/gene/100149890) | [ZFIN:ZDB-GENE-030131-6041](https://zfin.org/ZDB-GENE-030131-6041) | ZDB-GENE-030131-6041 |
 

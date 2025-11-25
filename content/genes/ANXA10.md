@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:770326
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001233661
 forward_primer: CACGCACTGAAGGGGGTAAAC
-gene_id: '453914'
+gene_id: '770326'
 gene_type: protein-coding
 images:
 - caption: ANXA10 expression
@@ -75,13 +75,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R498.ANXA10.S27.001.jpg
 name: annexin A10
-ncbi_id: '453914'
+ncbi_id: '770326'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000109511
   entrez: '11199'
   mod: MIM:608008
@@ -92,24 +87,19 @@ orthologs:
   mod: MGI:1347090
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000032881
   entrez: '100125180'
-  mod: '942270'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: ATTAACCCTCACTAAAGGTCACTCCTGGCAATGAGAATCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453914
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=770326
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453914
+  url: https://www.ncbi.nlm.nih.gov/gene/770326
 species: Gallus gallus
 symbol: ANXA10
 template_length: '539'
@@ -131,9 +121,7 @@ title: ANXA10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000109511](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000109511) | [11199](https://www.ncbi.nlm.nih.gov/gene/11199) | [MIM:608008](https://omim.org/entry/608008) |  |
 | Mouse | [ENSMUSG00000031635](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031635) | [26359](https://www.ncbi.nlm.nih.gov/gene/26359) | [MGI:1347090](http://www.informatics.jax.org/marker/MGI:1347090) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100125180](https://www.ncbi.nlm.nih.gov/gene/100125180) | [942270](http://www.xenbase.org/gene/showgene.do?method=display&geneId=942270) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000032881](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000032881) | [100125180](https://www.ncbi.nlm.nih.gov/gene/100125180) |  |  |
 

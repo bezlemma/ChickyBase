@@ -1,7 +1,6 @@
 ---
 cgnc_id: '3841'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/pubmed/16949349?ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (BU340377).
@@ -13,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:770044
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001193263
 forward_primer: CTGCTCTTGTGGCTCCTGTTTC
-gene_id: '453506'
+gene_id: '770044'
 gene_type: protein-coding
 images:
 - caption: CEND1 expression
@@ -250,7 +249,7 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BM99.fig6.imageISt45
 name: cell cycle exit and neuronal differentiation 1
-ncbi_id: '453506'
+ncbi_id: '770044'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -281,10 +280,10 @@ reverse_primer: AATTAACCCTCACTAAAGGTTTGGGGGTCTCCTTCTTGTCTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453506
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=770044
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453506
+  url: https://www.ncbi.nlm.nih.gov/gene/770044
 species: Gallus gallus
 symbol: CEND1
 template_length: '229'

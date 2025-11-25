@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:429737
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_427292
-gene_id: '458963'
+gene_id: '429737'
 gene_type: protein-coding
 images:
 - caption: TCN2 expression
@@ -42,37 +42,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Transcobalamin.Trimarchi.2009
     for figure 4, panel J2.JPG
 name: transcobalamin 2
-ncbi_id: '458963'
+ncbi_id: '429737'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000185339
+  entrez: '6948'
+  mod: MIM:613441
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000020432
+  entrez: '21452'
+  mod: MGI:98534
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000019944
+  entrez: '496768'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000036481
+  entrez: '407646'
+  mod: ZFIN:ZDB-GENE-030131-4648
+  phenotypes: cobalamin transport, cobalt ion transport, monoatomic ion transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458963
+  url: https://www.ncbi.nlm.nih.gov/gene/429737
 species: Gallus gallus
 symbol: TCN2
 title: TCN2
@@ -98,9 +93,8 @@ title: TCN2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000185339](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185339) | [6948](https://www.ncbi.nlm.nih.gov/gene/6948) | [MIM:613441](https://omim.org/entry/613441) |  |
+| Mouse | [ENSMUSG00000020432](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020432) | [21452](https://www.ncbi.nlm.nih.gov/gene/21452) | [MGI:98534](http://www.informatics.jax.org/marker/MGI:98534) |  |
+| Xenopus | [ENSXETG00000019944](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019944) | [496768](https://www.ncbi.nlm.nih.gov/gene/496768) |  |  |
+| Zebrafish | [ENSDARG00000036481](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036481) | [407646](https://www.ncbi.nlm.nih.gov/gene/407646) | [ZFIN:ZDB-GENE-030131-4648](https://zfin.org/ZDB-GENE-030131-4648) | cobalamin transport, cobalt ion transport, monoatomic ion transport |
 

@@ -15,7 +15,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031029
 forward_primer: AGGATCCAGCGGCTCAATG
-gene_id: '460115'
+gene_id: '421168'
 gene_type: protein-coding
 images:
 - caption: KDM5B expression
@@ -97,13 +97,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM5b.S26.001.jpg
 name: lysine demethylase 5B
-ncbi_id: '460115'
+ncbi_id: '421168'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000117139
   entrez: '10765'
   mod: MIM:605393
@@ -114,24 +109,25 @@ orthologs:
   mod: MGI:1922855
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000007973
   entrez: '100488170'
-  mod: '856239'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000003098,ENSDARG00000057093
-  entrez: 415256,327168
-  mod: ZFIN:ZDB-GENE-030424-1,ZFIN:ZDB-GENE-030131-5379
-  phenotypes: ZDB-GENE-030424-1,ZDB-GENE-030131-5379
+- ensembl: ENSDARG00000003098
+  entrez: '415256'
+  mod: ZFIN:ZDB-GENE-030424-1
+  phenotypes: chromatin organization, chromatin remodeling, regulation of DNA-templated
+    transcription
   species: Zebrafish
 reverse_primer: TATCTGCGGTGATGTGGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460115
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421168
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460115
+  url: https://www.ncbi.nlm.nih.gov/gene/421168
 species: Gallus gallus
 symbol: KDM5B
 template_length: '1171'
@@ -157,9 +153,8 @@ title: KDM5B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000117139](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000117139) | [10765](https://www.ncbi.nlm.nih.gov/gene/10765) | [MIM:605393](https://omim.org/entry/605393) |  |
 | Mouse | [ENSMUSG00000042207](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042207) | [75605](https://www.ncbi.nlm.nih.gov/gene/75605) | [MGI:1922855](http://www.informatics.jax.org/marker/MGI:1922855) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100488170](https://www.ncbi.nlm.nih.gov/gene/100488170) | [856239](http://www.xenbase.org/gene/showgene.do?method=display&geneId=856239) |  |
-| Zebrafish | [ENSDARG00000003098](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003098), [ENSDARG00000057093](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057093) | [415256](https://www.ncbi.nlm.nih.gov/gene/415256), [327168](https://www.ncbi.nlm.nih.gov/gene/327168) | [ZFIN:ZDB-GENE-030424-1](https://zfin.org/ZDB-GENE-030424-1), [ZFIN:ZDB-GENE-030131-5379](https://zfin.org/ZDB-GENE-030131-5379) | ZDB-GENE-030424-1,ZDB-GENE-030131-5379 |
+| Xenopus | [ENSXETG00000007973](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007973) | [100488170](https://www.ncbi.nlm.nih.gov/gene/100488170) |  |  |
+| Zebrafish | [ENSDARG00000003098](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003098) | [415256](https://www.ncbi.nlm.nih.gov/gene/415256) | [ZFIN:ZDB-GENE-030424-1](https://zfin.org/ZDB-GENE-030424-1) | chromatin organization, chromatin remodeling, regulation of DNA-templated transcription |
 

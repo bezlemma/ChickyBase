@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395530
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001162399
-gene_id: '449634'
+gene_id: '395530'
 gene_type: protein-coding
 images:
 - caption: COL4A1 expression
@@ -32,13 +32,8 @@ images:
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Halfter.2008.f2.coliva1.png
 name: collagen type IV alpha 1 chain
-ncbi_id: '449634'
+ncbi_id: '395530'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000187498
   entrez: '1282'
   mod: MIM:120130
@@ -50,20 +45,21 @@ orthologs:
   phenotypes: All phenotypic alleles (15):Chemically induced(11) Radiation induced(2)
     Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100124870,373764
-  mod: '6451484'
+- ensembl: ENSXETG00000002637
+  entrez: '100124870'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000055009
   entrez: '554269'
   mod: ZFIN:ZDB-GENE-081105-114
-  phenotypes: ZDB-GENE-081105-114
+  phenotypes: innate immune response, neutrophil homeostasis, removal of superoxide
+    radicals, response to cadmium ion, response to methylmercury
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449634
+  url: https://www.ncbi.nlm.nih.gov/gene/395530
 species: Gallus gallus
 symbol: COL4A1
 title: COL4A1
@@ -89,9 +85,8 @@ title: COL4A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000187498](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000187498) | [1282](https://www.ncbi.nlm.nih.gov/gene/1282) | [MIM:120130](https://omim.org/entry/120130) | MIM:611773 |
 | Mouse | [ENSMUSG00000031502](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031502) | [12826](https://www.ncbi.nlm.nih.gov/gene/12826) | [MGI:88454](http://www.informatics.jax.org/marker/MGI:88454) | All phenotypic alleles (15):Chemically induced(11) Radiation induced(2) Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100124870](https://www.ncbi.nlm.nih.gov/gene/100124870), [373764](https://www.ncbi.nlm.nih.gov/gene/373764) | [6451484](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6451484) |  |
-| Zebrafish | [ENSDARG00000055009](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055009) | [554269](https://www.ncbi.nlm.nih.gov/gene/554269) | [ZFIN:ZDB-GENE-081105-114](https://zfin.org/ZDB-GENE-081105-114) | ZDB-GENE-081105-114 |
+| Xenopus | [ENSXETG00000002637](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002637) | [100124870](https://www.ncbi.nlm.nih.gov/gene/100124870) |  |  |
+| Zebrafish | [ENSDARG00000055009](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055009) | [554269](https://www.ncbi.nlm.nih.gov/gene/554269) | [ZFIN:ZDB-GENE-081105-114](https://zfin.org/ZDB-GENE-081105-114) | innate immune response, neutrophil homeostasis, removal of superoxide radicals, response to cadmium ion, response to methylmercury |
 

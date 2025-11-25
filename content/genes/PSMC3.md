@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423182
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031190
-gene_id: '449385'
+gene_id: '423182'
 gene_type: protein-coding
 images:
 - caption: PSMC3 expression
@@ -43,13 +43,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54wd3.125.23xs.jpg
 name: proteasome 26S subunit, ATPase 3
-ncbi_id: '449385'
+ncbi_id: '423182'
 orthologs:
-- ensembl: ''
-  entrez: '42805'
-  mod: FBgn0028684
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000165916
   entrez: '5702'
   mod: MIM:186852
@@ -60,23 +55,25 @@ orthologs:
   mod: MGI:1098754
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 448481,379370
-  mod: '1009847'
+- ensembl: ENSXETG00000007916
+  entrez: '448481'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000007141
   entrez: '321947'
   mod: ZFIN:ZDB-GENE-030131-666
-  phenotypes: ZDB-GENE-030131-666
+  phenotypes: anatomical structure morphogenesis, lens development in camera-type
+    eye, proteasome-mediated ubiquitin-dependent protein catabolic process, semicircular
+    canal fusion
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449385
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423182
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449385
+  url: https://www.ncbi.nlm.nih.gov/gene/423182
 species: Gallus gallus
 symbol: PSMC3
 title: PSMC3
@@ -101,9 +98,8 @@ title: PSMC3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42805](https://www.ncbi.nlm.nih.gov/gene/42805) | FBgn0028684 |  |
 | Human | [ENSG00000165916](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165916) | [5702](https://www.ncbi.nlm.nih.gov/gene/5702) | [MIM:186852](https://omim.org/entry/186852) |  |
 | Mouse | [ENSMUSG00000002102](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002102) | [19182](https://www.ncbi.nlm.nih.gov/gene/19182) | [MGI:1098754](http://www.informatics.jax.org/marker/MGI:1098754) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [448481](https://www.ncbi.nlm.nih.gov/gene/448481), [379370](https://www.ncbi.nlm.nih.gov/gene/379370) | [1009847](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1009847) |  |
-| Zebrafish | [ENSDARG00000007141](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007141) | [321947](https://www.ncbi.nlm.nih.gov/gene/321947) | [ZFIN:ZDB-GENE-030131-666](https://zfin.org/ZDB-GENE-030131-666) | ZDB-GENE-030131-666 |
+| Xenopus | [ENSXETG00000007916](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007916) | [448481](https://www.ncbi.nlm.nih.gov/gene/448481) |  |  |
+| Zebrafish | [ENSDARG00000007141](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007141) | [321947](https://www.ncbi.nlm.nih.gov/gene/321947) | [ZFIN:ZDB-GENE-030131-666](https://zfin.org/ZDB-GENE-030131-666) | anatomical structure morphogenesis, lens development in camera-type eye, proteasome-mediated ubiquitin-dependent protein catabolic process, semicircular canal fusion |
 

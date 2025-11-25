@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395970
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008199
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205086
-gene_id: '450551'
+gene_id: '395970'
 gene_type: protein-coding
 images:
 - caption: FTH1 expression
@@ -73,13 +73,8 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gibson.Fig1.FTH1.R.St11.jpg
 name: ferritin heavy chain 1
-ncbi_id: '450551'
+ncbi_id: '395970'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000167996
   entrez: '2495'
   mod: MIM:134770
@@ -90,20 +85,20 @@ orthologs:
   mod: MGI:95588
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 394604,399281,379267
-  mod: '5742861'
+- ensembl: ENSXETG00000044062
+  entrez: '448718'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000015551,ENSDARG00000007975
-  entrez: 58108,447823
-  mod: ZFIN:ZDB-GENE-000831-2,ZFIN:ZDB-GENE-040912-30
-  phenotypes: ZDB-GENE-000831-2,ZDB-GENE-040912-30
+- ensembl: ENSDARG00000007975
+  entrez: '447823'
+  mod: ZFIN:ZDB-GENE-040912-30
+  phenotypes: intracellular iron ion homeostasis, iron ion transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450551
+  url: https://www.ncbi.nlm.nih.gov/gene/395970
 species: Gallus gallus
 symbol: FTH1
 title: FTH1
@@ -132,9 +127,8 @@ title: FTH1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000167996](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000167996) | [2495](https://www.ncbi.nlm.nih.gov/gene/2495) | [MIM:134770](https://omim.org/entry/134770) | MIM:134770 |
 | Mouse | [ENSMUSG00000024661](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024661) | [14319](https://www.ncbi.nlm.nih.gov/gene/14319) | [MGI:95588](http://www.informatics.jax.org/marker/MGI:95588) | All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3) |
-| Xenopus |  | [394604](https://www.ncbi.nlm.nih.gov/gene/394604), [399281](https://www.ncbi.nlm.nih.gov/gene/399281), [379267](https://www.ncbi.nlm.nih.gov/gene/379267) | [5742861](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5742861) |  |
-| Zebrafish | [ENSDARG00000015551](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015551), [ENSDARG00000007975](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007975) | [58108](https://www.ncbi.nlm.nih.gov/gene/58108), [447823](https://www.ncbi.nlm.nih.gov/gene/447823) | [ZFIN:ZDB-GENE-000831-2](https://zfin.org/ZDB-GENE-000831-2), [ZFIN:ZDB-GENE-040912-30](https://zfin.org/ZDB-GENE-040912-30) | ZDB-GENE-000831-2,ZDB-GENE-040912-30 |
+| Xenopus | [ENSXETG00000044062](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044062) | [448718](https://www.ncbi.nlm.nih.gov/gene/448718) |  |  |
+| Zebrafish | [ENSDARG00000007975](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007975) | [447823](https://www.ncbi.nlm.nih.gov/gene/447823) | [ZFIN:ZDB-GENE-040912-30](https://zfin.org/ZDB-GENE-040912-30) | intracellular iron ion homeostasis, iron ion transport |
 

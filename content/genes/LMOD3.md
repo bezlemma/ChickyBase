@@ -2,12 +2,11 @@
 aliases:
 - leiomodin 3 (fetal), LMOD3-Like
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/426075
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424583
 forward_primer: ATCACCACGCTCAACATCG
-gene_id: '455156'
+gene_id: '426075'
 gene_type: pseudo
 images:
 - caption: LMOD3 expression
@@ -120,41 +119,37 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R387.LMOD3like.S25.002.jpg
 name: leiomodin 3
-ncbi_id: '455156'
+ncbi_id: '426075'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000163380
+  entrez: '56203'
+  mod: MIM:616112
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000044086
+  entrez: '320502'
+  mod: MGI:2444169
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000043756
+  entrez: '780137'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000115769
+  entrez: '100149390'
+  mod: ZFIN:ZDB-GENE-090313-353
+  phenotypes: actin filament organization, muscle contraction, myofibril assembly,
+    pointed-end actin filament capping, skeletal muscle fiber development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGCCAGCCTTTTTCATCACAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455156
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426075
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455156
+  url: https://www.ncbi.nlm.nih.gov/gene/426075
 species: Gallus gallus
 symbol: LMOD3
 template_length: '896'
@@ -175,9 +170,8 @@ title: LMOD3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000163380](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163380) | [56203](https://www.ncbi.nlm.nih.gov/gene/56203) | [MIM:616112](https://omim.org/entry/616112) |  |
+| Mouse | [ENSMUSG00000044086](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000044086) | [320502](https://www.ncbi.nlm.nih.gov/gene/320502) | [MGI:2444169](http://www.informatics.jax.org/marker/MGI:2444169) |  |
+| Xenopus | [ENSXETG00000043756](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000043756) | [780137](https://www.ncbi.nlm.nih.gov/gene/780137) |  |  |
+| Zebrafish | [ENSDARG00000115769](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115769) | [100149390](https://www.ncbi.nlm.nih.gov/gene/100149390) | [ZFIN:ZDB-GENE-090313-353](https://zfin.org/ZDB-GENE-090313-353) | actin filament organization, muscle contraction, myofibril assembly, pointed-end actin filament capping, skeletal muscle fiber development |
 

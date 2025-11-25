@@ -4,14 +4,13 @@ aliases:
 - Rho guanine nucleotide exchange factor (GEF) 7
 cgnc_id: '12644'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/418761
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418761
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640531
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/ARHGEF7
 forward_primer: CAGTAGTCTTTCTCGTTTGGAGCC
-gene_id: '462896'
+gene_id: '418761'
 gene_type: protein-coding
 images:
 - caption: ARHGEF7 expression
@@ -159,13 +158,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R414.ARHGEF7.S25.001.jpg
 name: Rho guanine nucleotide exchange factor 7
-ncbi_id: '462896'
+ncbi_id: '418761'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000102606
   entrez: '8874'
   mod: MIM:605477
@@ -176,24 +170,24 @@ orthologs:
   mod: MGI:1860493
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100145259,444424
-  mod: '962605'
+- ensembl: ENSXETG00000008213
+  entrez: '100145259'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000006299,ENSDARG00000073848
-  entrez: 553493,494081
-  mod: ZFIN:ZDB-GENE-060322-11,ZFIN:ZDB-GENE-041212-49
-  phenotypes: ZDB-GENE-060322-11,ZDB-GENE-041212-49
+- ensembl: ENSDARG00000114088
+  entrez: '553493'
+  mod: ZFIN:ZDB-GENE-060322-11
+  phenotypes: intracellular signal transduction, lamellipodium assembly
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCTGCCACCATTTCTAACACTTGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462896
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418761
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462896
+  url: https://www.ncbi.nlm.nih.gov/gene/418761
 species: Gallus gallus
 symbol: ARHGEF7
 template_length: '801'
@@ -216,9 +210,8 @@ title: ARHGEF7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000102606](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000102606) | [8874](https://www.ncbi.nlm.nih.gov/gene/8874) | [MIM:605477](https://omim.org/entry/605477) |  |
 | Mouse | [ENSMUSG00000031511](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031511) | [54126](https://www.ncbi.nlm.nih.gov/gene/54126) | [MGI:1860493](http://www.informatics.jax.org/marker/MGI:1860493) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [100145259](https://www.ncbi.nlm.nih.gov/gene/100145259), [444424](https://www.ncbi.nlm.nih.gov/gene/444424) | [962605](http://www.xenbase.org/gene/showgene.do?method=display&geneId=962605) |  |
-| Zebrafish | [ENSDARG00000006299](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006299), [ENSDARG00000073848](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000073848) | [553493](https://www.ncbi.nlm.nih.gov/gene/553493), [494081](https://www.ncbi.nlm.nih.gov/gene/494081) | [ZFIN:ZDB-GENE-060322-11](https://zfin.org/ZDB-GENE-060322-11), [ZFIN:ZDB-GENE-041212-49](https://zfin.org/ZDB-GENE-041212-49) | ZDB-GENE-060322-11,ZDB-GENE-041212-49 |
+| Xenopus | [ENSXETG00000008213](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008213) | [100145259](https://www.ncbi.nlm.nih.gov/gene/100145259) |  |  |
+| Zebrafish | [ENSDARG00000114088](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114088) | [553493](https://www.ncbi.nlm.nih.gov/gene/553493) | [ZFIN:ZDB-GENE-060322-11](https://zfin.org/ZDB-GENE-060322-11) | intracellular signal transduction, lamellipodium assembly |
 

@@ -4,7 +4,6 @@ aliases:
 - family with sequence similarity 103 member A1
 cgnc_id: '49987'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/415459
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#

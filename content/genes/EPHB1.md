@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396177
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422685
-gene_id: '459038'
+gene_id: '396177'
 gene_type: protein-coding
 images:
 - caption: EPHB1 expression
@@ -53,13 +53,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EphB1 stage H.jpg
 name: EPH receptor B1
-ncbi_id: '459038'
+ncbi_id: '396177'
 orthologs:
-- ensembl: ''
-  entrez: '43803'
-  mod: FBgn0025936
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000154928
   entrez: '2047'
   mod: MIM:600600
@@ -70,20 +65,21 @@ orthologs:
   mod: MGI:1096337
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 493336,399288
-  mod: '488625'
+- ensembl: ENSXETG00000013722
+  entrez: '493336'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000076757
   entrez: '100333537'
-  mod: ''
-  phenotypes: ''
+  mod: ZFIN:ZDB-GENE-070912-219
+  phenotypes: cell adhesion, cell surface receptor protein tyrosine kinase signaling
+    pathway, epithelium development, nervous system development, phosphorylation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459038
+  url: https://www.ncbi.nlm.nih.gov/gene/396177
 species: Gallus gallus
 symbol: EPHB1
 title: EPHB1
@@ -114,9 +110,8 @@ title: EPHB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43803](https://www.ncbi.nlm.nih.gov/gene/43803) | FBgn0025936 |  |
 | Human | [ENSG00000154928](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000154928) | [2047](https://www.ncbi.nlm.nih.gov/gene/2047) | [MIM:600600](https://omim.org/entry/600600) |  |
 | Mouse | [ENSMUSG00000032537](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032537) | [270190](https://www.ncbi.nlm.nih.gov/gene/270190) | [MGI:1096337](http://www.informatics.jax.org/marker/MGI:1096337) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [493336](https://www.ncbi.nlm.nih.gov/gene/493336), [399288](https://www.ncbi.nlm.nih.gov/gene/399288) | [488625](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488625) |  |
-| Zebrafish | [ENSDARG00000076757](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076757) | [100333537](https://www.ncbi.nlm.nih.gov/gene/100333537) |  |  |
+| Xenopus | [ENSXETG00000013722](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013722) | [493336](https://www.ncbi.nlm.nih.gov/gene/493336) |  |  |
+| Zebrafish | [ENSDARG00000076757](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076757) | [100333537](https://www.ncbi.nlm.nih.gov/gene/100333537) | [ZFIN:ZDB-GENE-070912-219](https://zfin.org/ZDB-GENE-070912-219) | cell adhesion, cell surface receptor protein tyrosine kinase signaling pathway, epithelium development, nervous system development, phosphorylation |
 

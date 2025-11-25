@@ -20,7 +20,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0032041
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204831
 forward_primer: TCATTGTCTGGTGATAGGTTGGG
-gene_id: '449932'
+gene_id: '395635'
 gene_type: protein-coding
 images:
 - caption: HDAC2 expression
@@ -295,13 +295,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zwane.2015-Hdac2-fig6.jpg
 name: histone deacetylase 2
-ncbi_id: '449932'
+ncbi_id: '395635'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000196591
   entrez: '3066'
   mod: MIM:605164
@@ -313,24 +308,25 @@ orthologs:
   phenotypes: All phenotypic alleles (10):Targeted, knock-out(3) Targeted, other(6)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 447995,399252
-  mod: '485806'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000007339
+  entrez: '447995'
   mod: ''
   phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000015427
+  entrez: '192302'
+  mod: ZFIN:ZDB-GENE-020419-32
+  phenotypes: DNA damage response, Wnt signaling pathway, brain development, cardiac
+    muscle cell proliferation, chromatin organization
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTTTGCTCCTTTGGTGTCCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449932
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395635
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449932
+  url: https://www.ncbi.nlm.nih.gov/gene/395635
 species: Gallus gallus
 symbol: HDAC2
 template_length: '648'
@@ -359,9 +355,8 @@ title: HDAC2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000196591](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000196591) | [3066](https://www.ncbi.nlm.nih.gov/gene/3066) | [MIM:605164](https://omim.org/entry/605164) |  |
 | Mouse | [ENSMUSG00000019777](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019777) | [15182](https://www.ncbi.nlm.nih.gov/gene/15182) | [MGI:1097691](http://www.informatics.jax.org/marker/MGI:1097691) | All phenotypic alleles (10):Targeted, knock-out(3) Targeted, other(6) Gene trapped(1) |
-| Xenopus |  | [447995](https://www.ncbi.nlm.nih.gov/gene/447995), [399252](https://www.ncbi.nlm.nih.gov/gene/399252) | [485806](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485806) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000007339](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007339) | [447995](https://www.ncbi.nlm.nih.gov/gene/447995) |  |  |
+| Zebrafish | [ENSDARG00000015427](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015427) | [192302](https://www.ncbi.nlm.nih.gov/gene/192302) | [ZFIN:ZDB-GENE-020419-32](https://zfin.org/ZDB-GENE-020419-32) | DNA damage response, Wnt signaling pathway, brain development, cardiac muscle cell proliferation, chromatin organization |
 

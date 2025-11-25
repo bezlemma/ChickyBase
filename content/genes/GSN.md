@@ -21,7 +21,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003779
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204934
 forward_primer: 5’-AGACCACACCAGCACAAACA-3’
-gene_id: '450317'
+gene_id: '395774'
 gene_type: protein-coding
 images:
 - caption: GSN expression
@@ -172,13 +172,8 @@ images:
   stage: stage 43
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOMOGENIN.Heller.1998.Fig.1.png
 name: gelsolin
-ncbi_id: '450317'
+ncbi_id: '395774'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000148180
   entrez: '2934'
   mod: MIM:137350
@@ -189,24 +184,25 @@ orthologs:
   mod: MGI:95851
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 549610,397895
-  mod: '489534'
+- ensembl: ENSXETG00000019813
+  entrez: '549610'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000011459,ENSDARG00000045262
-  entrez: 321099,336623
-  mod: ZFIN:ZDB-GENE-030131-9653,ZFIN:ZDB-GENE-030131-8567
-  phenotypes: ZDB-GENE-030131-9653,ZDB-GENE-030131-8567
+- ensembl: ENSDARG00000116084
+  entrez: '321099'
+  mod: ZFIN:ZDB-GENE-030131-9653
+  phenotypes: actin filament capping, actin filament severing, actin polymerization
+    or depolymerization, barbed-end actin filament capping, cell projection assembly
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAGAAGGTTGGAGGCTCAAGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450317
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395774
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450317
+  url: https://www.ncbi.nlm.nih.gov/gene/395774
 species: Gallus gallus
 symbol: GSN
 template_length: '600'
@@ -236,9 +232,8 @@ title: GSN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000148180](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148180) | [2934](https://www.ncbi.nlm.nih.gov/gene/2934) | [MIM:137350](https://omim.org/entry/137350) | MIM:105120 |
 | Mouse | [ENSMUSG00000026879](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026879) | [227753](https://www.ncbi.nlm.nih.gov/gene/227753) | [MGI:95851](http://www.informatics.jax.org/marker/MGI:95851) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [549610](https://www.ncbi.nlm.nih.gov/gene/549610), [397895](https://www.ncbi.nlm.nih.gov/gene/397895) | [489534](http://www.xenbase.org/gene/showgene.do?method=display&geneId=489534) |  |
-| Zebrafish | [ENSDARG00000011459](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011459), [ENSDARG00000045262](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045262) | [321099](https://www.ncbi.nlm.nih.gov/gene/321099), [336623](https://www.ncbi.nlm.nih.gov/gene/336623) | [ZFIN:ZDB-GENE-030131-9653](https://zfin.org/ZDB-GENE-030131-9653), [ZFIN:ZDB-GENE-030131-8567](https://zfin.org/ZDB-GENE-030131-8567) | ZDB-GENE-030131-9653,ZDB-GENE-030131-8567 |
+| Xenopus | [ENSXETG00000019813](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019813) | [549610](https://www.ncbi.nlm.nih.gov/gene/549610) |  |  |
+| Zebrafish | [ENSDARG00000116084](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116084) | [321099](https://www.ncbi.nlm.nih.gov/gene/321099) | [ZFIN:ZDB-GENE-030131-9653](https://zfin.org/ZDB-GENE-030131-9653) | actin filament capping, actin filament severing, actin polymerization or depolymerization, barbed-end actin filament capping, cell projection assembly |
 

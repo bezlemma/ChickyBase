@@ -5,10 +5,6 @@ aliases:
 - delta-like 1, DLL1, delta-like 1
 cgnc_id: '8494'
 external_ids:
-  '13': stage 13stage 13stage 13
-  '25': stage 25stage 25
-  '4': stage 4stage 4stage 4stage 4stage 4
-  '7': stage 7stage 7
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0000463
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=+2020+Stern+
     Lee+Oliveira+chick
@@ -23,7 +19,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204973
   X-XIV: stage Xstage XIIstage XIIstage XIIstage XIV
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCAGTTCCAGCCCTTGTGCTAATG
-gene_id: '450042'
+gene_id: '395820'
 gene_type: protein-coding
 images:
 - caption: DLL1 expression
@@ -919,14 +915,9 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Allimages_Lee.2020_Fig
     4-1.jpg
 name: delta like canonical Notch ligand 1
-ncbi_id: '450042'
+ncbi_id: '395820'
 orthologs:
-- ensembl: ''
-  entrez: '42313'
-  mod: FBgn0000463
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000198719
+- ensembl: ENSG00000275555
   entrez: '28514'
   mod: MIM:606582
   phenotypes: ''
@@ -937,24 +928,25 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Chemically induced(2) Targeted, knock-out(1)
     Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100101697,100337564,100485480,380588
-  mod: 479209,982850
+- ensembl: ENSXETG00000022525
+  entrez: '100101697'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000020219,ENSDARG00000010791
-  entrez: 30138,30131
-  mod: ZFIN:ZDB-GENE-990415-47,ZFIN:ZDB-GENE-980526-29
-  phenotypes: ZDB-GENE-990415-47,ZDB-GENE-980526-29
+- ensembl: ENSDARG00000020219
+  entrez: '30138'
+  mod: ZFIN:ZDB-GENE-040120-4
+  phenotypes: 2-oxoglutarate metabolic process, heart contraction, pyruvate metabolic
+    process
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTAGTCGTTGACCCCATCCTGAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450042
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395820
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450042
+  url: https://www.ncbi.nlm.nih.gov/gene/395820
 species: Gallus gallus
 symbol: DLL1
 template_length: '168'
@@ -983,9 +975,8 @@ title: DLL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42313](https://www.ncbi.nlm.nih.gov/gene/42313) | FBgn0000463 |  |
-| Human | [ENSG00000198719](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198719) | [28514](https://www.ncbi.nlm.nih.gov/gene/28514) | [MIM:606582](https://omim.org/entry/606582) |  |
+| Human | [ENSG00000275555](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000275555) | [28514](https://www.ncbi.nlm.nih.gov/gene/28514) | [MIM:606582](https://omim.org/entry/606582) |  |
 | Mouse | [ENSMUSG00000014773](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000014773) | [13388](https://www.ncbi.nlm.nih.gov/gene/13388) | [MGI:104659](http://www.informatics.jax.org/marker/MGI:104659) | All phenotypic alleles (7):Chemically induced(2) Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [100101697](https://www.ncbi.nlm.nih.gov/gene/100101697), [100337564](https://www.ncbi.nlm.nih.gov/gene/100337564), [100485480](https://www.ncbi.nlm.nih.gov/gene/100485480), [380588](https://www.ncbi.nlm.nih.gov/gene/380588) | [479209](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479209), [982850](http://www.xenbase.org/gene/showgene.do?method=display&geneId=982850) |  |
-| Zebrafish | [ENSDARG00000020219](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020219), [ENSDARG00000010791](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010791) | [30138](https://www.ncbi.nlm.nih.gov/gene/30138), [30131](https://www.ncbi.nlm.nih.gov/gene/30131) | [ZFIN:ZDB-GENE-990415-47](https://zfin.org/ZDB-GENE-990415-47), [ZFIN:ZDB-GENE-980526-29](https://zfin.org/ZDB-GENE-980526-29) | ZDB-GENE-990415-47,ZDB-GENE-980526-29 |
+| Xenopus | [ENSXETG00000022525](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022525) | [100101697](https://www.ncbi.nlm.nih.gov/gene/100101697) |  |  |
+| Zebrafish | [ENSDARG00000020219](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020219) | [30138](https://www.ncbi.nlm.nih.gov/gene/30138) | [ZFIN:ZDB-GENE-040120-4](https://zfin.org/ZDB-GENE-040120-4) | 2-oxoglutarate metabolic process, heart contraction, pyruvate metabolic process |
 

@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420047
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006335
-gene_id: '458376'
+gene_id: '420047'
 gene_type: protein-coding
 images:
 - caption: SMARCE1 expression
@@ -27,14 +27,9 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3wb3.108.16.jpg
 name: SWI/SNF related, matrix associated, actin dependent regulator of chromatin,
   subfamily e, member 1
-ncbi_id: '458376'
+ncbi_id: '420047'
 orthologs:
-- ensembl: ''
-  entrez: '31846'
-  mod: FBgn0030093
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000073584
   entrez: '6605'
   mod: MIM:603111
   phenotypes: ''
@@ -44,23 +39,24 @@ orthologs:
   mod: MGI:1927347
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 448018,379061
-  mod: '482510'
+- ensembl: ENSXETG00000021355
+  entrez: '448018'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000016871
   entrez: '322248'
   mod: ZFIN:ZDB-GENE-030131-967
-  phenotypes: ZDB-GENE-030131-967
+  phenotypes: endocardium morphogenesis, iridophore differentiation, negative regulation
+    of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458376
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420047
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458376
+  url: https://www.ncbi.nlm.nih.gov/gene/420047
 species: Gallus gallus
 symbol: SMARCE1
 title: SMARCE1
@@ -85,9 +81,8 @@ title: SMARCE1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31846](https://www.ncbi.nlm.nih.gov/gene/31846) | FBgn0030093 |  |
-| Human |  | [6605](https://www.ncbi.nlm.nih.gov/gene/6605) | [MIM:603111](https://omim.org/entry/603111) |  |
+| Human | [ENSG00000073584](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000073584) | [6605](https://www.ncbi.nlm.nih.gov/gene/6605) | [MIM:603111](https://omim.org/entry/603111) |  |
 | Mouse | [ENSMUSG00000037935](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037935) | [57376](https://www.ncbi.nlm.nih.gov/gene/57376) | [MGI:1927347](http://www.informatics.jax.org/marker/MGI:1927347) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [448018](https://www.ncbi.nlm.nih.gov/gene/448018), [379061](https://www.ncbi.nlm.nih.gov/gene/379061) | [482510](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482510) |  |
-| Zebrafish | [ENSDARG00000016871](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016871) | [322248](https://www.ncbi.nlm.nih.gov/gene/322248) | [ZFIN:ZDB-GENE-030131-967](https://zfin.org/ZDB-GENE-030131-967) | ZDB-GENE-030131-967 |
+| Xenopus | [ENSXETG00000021355](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021355) | [448018](https://www.ncbi.nlm.nih.gov/gene/448018) |  |  |
+| Zebrafish | [ENSDARG00000016871](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016871) | [322248](https://www.ncbi.nlm.nih.gov/gene/322248) | [ZFIN:ZDB-GENE-030131-967](https://zfin.org/ZDB-GENE-030131-967) | endocardium morphogenesis, iridophore differentiation, negative regulation of DNA-templated transcription |
 

@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421044
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031013
-gene_id: '459887'
+gene_id: '421044'
 gene_type: protein-coding
 images:
 - caption: LDLRAD4 expression
@@ -60,13 +60,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C2H18orf1.Singh.2016.Fig5.jpg
 name: low density lipoprotein receptor class A domain containing 4
-ncbi_id: '459887'
+ncbi_id: '421044'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000168675
   entrez: '753'
   mod: MIM:606571
@@ -77,20 +72,21 @@ orthologs:
   mod: MGI:1277150
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000019659
   entrez: '100491607'
-  mod: '953559'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000054941
   entrez: '556780'
   mod: ZFIN:ZDB-GENE-091230-3
-  phenotypes: ZDB-GENE-091230-3
+  phenotypes: negative regulation of signal transduction, negative regulation of transforming
+    growth factor beta receptor signaling pathway
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459887
+  url: https://www.ncbi.nlm.nih.gov/gene/421044
 species: Gallus gallus
 symbol: LDLRAD4
 title: LDLRAD4
@@ -116,9 +112,8 @@ title: LDLRAD4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000168675](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000168675) | [753](https://www.ncbi.nlm.nih.gov/gene/753) | [MIM:606571](https://omim.org/entry/606571) |  |
 | Mouse | [ENSMUSG00000024544](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024544) | [52662](https://www.ncbi.nlm.nih.gov/gene/52662) | [MGI:1277150](http://www.informatics.jax.org/marker/MGI:1277150) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100491607](https://www.ncbi.nlm.nih.gov/gene/100491607) | [953559](http://www.xenbase.org/gene/showgene.do?method=display&geneId=953559) |  |
-| Zebrafish |  | [556780](https://www.ncbi.nlm.nih.gov/gene/556780) | [ZFIN:ZDB-GENE-091230-3](https://zfin.org/ZDB-GENE-091230-3) | ZDB-GENE-091230-3 |
+| Xenopus | [ENSXETG00000019659](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019659) | [100491607](https://www.ncbi.nlm.nih.gov/gene/100491607) |  |  |
+| Zebrafish | [ENSDARG00000054941](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054941) | [556780](https://www.ncbi.nlm.nih.gov/gene/556780) | [ZFIN:ZDB-GENE-091230-3](https://zfin.org/ZDB-GENE-091230-3) | negative regulation of signal transduction, negative regulation of transforming growth factor beta receptor signaling pathway |
 

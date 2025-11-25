@@ -6,8 +6,6 @@ aliases:
 - transcription factor HES-1, HES-1, C-HAIRY1
 cgnc_id: '49182'
 external_ids:
-  '13': stage 13stage 13
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0001168
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006355
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
@@ -25,7 +23,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001005848
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAGCGTGCTGGGCAAATACC
-gene_id: '462185'
+gene_id: '395128'
 gene_type: protein-coding
 images:
 - caption: HES4 expression
@@ -527,41 +525,28 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/c-hairy1.Aulehla.1999.Fig6.jpg
 name: hes family bHLH transcription factor 4
-ncbi_id: '462185'
+ncbi_id: '395128'
 orthologs:
-- ensembl: ''
-  entrez: '38995'
-  mod: FBgn0001168
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000114315
-  entrez: '3280'
-  mod: MIM:139605
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000022528
-  entrez: '15205'
-  mod: MGI:104853
-  phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
-  species: Mouse
-- ensembl: ''
-  entrez: 496617,397813,379073
-  mod: '487994'
+- ensembl: ENSXETG00000001769
+  entrez: '394465'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000006514
-  entrez: '30288'
-  mod: ZFIN:ZDB-GENE-980526-144
-  phenotypes: ZDB-GENE-980526-144
+- ensembl: ENSDARG00000115775
+  entrez: '140613'
+  mod: ZFIN:ZDB-GENE-011213-1
+  phenotypes: anterior/posterior pattern specification, bone mineralization, cranial
+    skeletal system development, dorsal/ventral pattern formation, eye photoreceptor
+    cell development
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAACCACAACGGGGCTCCATAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462185
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395128
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462185
+  url: https://www.ncbi.nlm.nih.gov/gene/395128
 species: Gallus gallus
 symbol: HES4
 template_length: '685'
@@ -594,9 +579,6 @@ title: HES4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38995](https://www.ncbi.nlm.nih.gov/gene/38995) | FBgn0001168 |  |
-| Human | [ENSG00000114315](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000114315) | [3280](https://www.ncbi.nlm.nih.gov/gene/3280) | [MIM:139605](https://omim.org/entry/139605) |  |
-| Mouse | [ENSMUSG00000022528](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022528) | [15205](https://www.ncbi.nlm.nih.gov/gene/15205) | [MGI:104853](http://www.informatics.jax.org/marker/MGI:104853) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [496617](https://www.ncbi.nlm.nih.gov/gene/496617), [397813](https://www.ncbi.nlm.nih.gov/gene/397813), [379073](https://www.ncbi.nlm.nih.gov/gene/379073) | [487994](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487994) |  |
-| Zebrafish | [ENSDARG00000006514](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006514) | [30288](https://www.ncbi.nlm.nih.gov/gene/30288) | [ZFIN:ZDB-GENE-980526-144](https://zfin.org/ZDB-GENE-980526-144) | ZDB-GENE-980526-144 |
+| Xenopus | [ENSXETG00000001769](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001769) | [394465](https://www.ncbi.nlm.nih.gov/gene/394465) |  |  |
+| Zebrafish | [ENSDARG00000115775](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115775) | [140613](https://www.ncbi.nlm.nih.gov/gene/140613) | [ZFIN:ZDB-GENE-011213-1](https://zfin.org/ZDB-GENE-011213-1) | anterior/posterior pattern specification, bone mineralization, cranial skeletal system development, dorsal/ventral pattern formation, eye photoreceptor cell development |
 

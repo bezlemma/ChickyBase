@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396060
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205154
-gene_id: '459571'
+gene_id: '396060'
 gene_type: protein-coding
 images:
 - caption: PTPRA expression
@@ -46,13 +46,8 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chilton.Fig5.RPTPalpha.E-2.jpg
 name: protein tyrosine phosphatase, receptor type A
-ncbi_id: '459571'
+ncbi_id: '396060'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000132670
   entrez: '5786'
   mod: MIM:176884
@@ -63,20 +58,21 @@ orthologs:
   mod: MGI:97808
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100158513,394358
-  mod: '1012346'
+- ensembl: ENSXETG00000017982
+  entrez: '100158513'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000001769
   entrez: '140818'
   mod: ZFIN:ZDB-GENE-020107-1
-  phenotypes: ZDB-GENE-020107-1
+  phenotypes: convergent extension involved in gastrulation, dephosphorylation, fin
+    regeneration, protein dephosphorylation, regulation of protein kinase activity
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459571
+  url: https://www.ncbi.nlm.nih.gov/gene/396060
 species: Gallus gallus
 symbol: PTPRA
 title: PTPRA
@@ -103,9 +99,8 @@ title: PTPRA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000132670](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000132670) | [5786](https://www.ncbi.nlm.nih.gov/gene/5786) | [MIM:176884](https://omim.org/entry/176884) |  |
 | Mouse | [ENSMUSG00000027303](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027303) | [19262](https://www.ncbi.nlm.nih.gov/gene/19262) | [MGI:97808](http://www.informatics.jax.org/marker/MGI:97808) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100158513](https://www.ncbi.nlm.nih.gov/gene/100158513), [394358](https://www.ncbi.nlm.nih.gov/gene/394358) | [1012346](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1012346) |  |
-| Zebrafish | [ENSDARG00000001769](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000001769) | [140818](https://www.ncbi.nlm.nih.gov/gene/140818) | [ZFIN:ZDB-GENE-020107-1](https://zfin.org/ZDB-GENE-020107-1) | ZDB-GENE-020107-1 |
+| Xenopus | [ENSXETG00000017982](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017982) | [100158513](https://www.ncbi.nlm.nih.gov/gene/100158513) |  |  |
+| Zebrafish | [ENSDARG00000001769](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000001769) | [140818](https://www.ncbi.nlm.nih.gov/gene/140818) | [ZFIN:ZDB-GENE-020107-1](https://zfin.org/ZDB-GENE-020107-1) | convergent extension involved in gastrulation, dephosphorylation, fin regeneration, protein dephosphorylation, regulation of protein kinase activity |
 

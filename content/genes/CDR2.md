@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416621
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030642
 forward_primer: TTGACTTGTATCGGGCTCGTGC
-gene_id: '455034'
+gene_id: '416621'
 gene_type: protein-coding
 images:
 - caption: CDR2 expression
@@ -131,13 +131,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R604.CDR2.S27AA.001.jpg
 name: cerebellar degeneration related protein 2
-ncbi_id: '455034'
+ncbi_id: '416621'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000140743
   entrez: '1039'
   mod: MIM:117340
@@ -148,24 +143,24 @@ orthologs:
   mod: MGI:1100885
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 448123,447350
-  mod: '970805'
+- ensembl: ENSXETG00000045179
+  entrez: '448123'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000035952
   entrez: '100148175'
-  mod: ZFIN:ZDB-GENE-101203-4,ZFIN:ZDB-GENE-101203-5
-  phenotypes: ZDB-GENE-101203-4,ZDB-GENE-101203-5
+  mod: ZFIN:ZDB-GENE-101203-5
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTTCCTCCTTTCTGGGCAACAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455034
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416621
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455034
+  url: https://www.ncbi.nlm.nih.gov/gene/416621
 species: Gallus gallus
 symbol: CDR2
 template_length: '715'
@@ -189,9 +184,8 @@ title: CDR2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000140743](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140743) | [1039](https://www.ncbi.nlm.nih.gov/gene/1039) | [MIM:117340](https://omim.org/entry/117340) |  |
 | Mouse | [ENSMUSG00000030878](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030878) | [12585](https://www.ncbi.nlm.nih.gov/gene/12585) | [MGI:1100885](http://www.informatics.jax.org/marker/MGI:1100885) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [448123](https://www.ncbi.nlm.nih.gov/gene/448123), [447350](https://www.ncbi.nlm.nih.gov/gene/447350) | [970805](http://www.xenbase.org/gene/showgene.do?method=display&geneId=970805) |  |
-| Zebrafish | [ENSDARG00000035952](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035952) | [100148175](https://www.ncbi.nlm.nih.gov/gene/100148175) | [ZFIN:ZDB-GENE-101203-4](https://zfin.org/ZDB-GENE-101203-4), [ZFIN:ZDB-GENE-101203-5](https://zfin.org/ZDB-GENE-101203-5) | ZDB-GENE-101203-4,ZDB-GENE-101203-5 |
+| Xenopus | [ENSXETG00000045179](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000045179) | [448123](https://www.ncbi.nlm.nih.gov/gene/448123) |  |  |
+| Zebrafish | [ENSDARG00000035952](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035952) | [100148175](https://www.ncbi.nlm.nih.gov/gene/100148175) | [ZFIN:ZDB-GENE-101203-5](https://zfin.org/ZDB-GENE-101203-5) |  |
 

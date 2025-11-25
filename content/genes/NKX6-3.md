@@ -3,7 +3,6 @@ aliases:
 - homeobox protein Nkx-6.3
 cgnc_id: '13582'
 external_ids:
-  '25': stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=pedersen+nelson+endodermal+expression+nkx6+depends+differentially+pdx1
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (XM_428808).
@@ -14,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:431254
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_428808
 forward_primer: CCCACAGCGACTCCAAACAG
-gene_id: '448628'
+gene_id: '431254'
 gene_type: protein-coding
 images:
 - caption: NKX6-3 expression
@@ -137,41 +136,32 @@ images:
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX6.3.FIG3F.PEDERSEN.2005.jpg
 name: NK6 homeobox 3
-ncbi_id: '448628'
+ncbi_id: '431254'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
 - ensembl: ENSMUSG00000063672
   entrez: '74561'
   mod: MGI:1921811
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100489301,100101319
-  mod: '478608'
+- ensembl: ENSXETG00000041034
+  entrez: '100489301'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000060529
   entrez: '558978'
   mod: ZFIN:ZDB-GENE-070810-7
-  phenotypes: ZDB-GENE-070810-7
+  phenotypes: cell differentiation, regulation of DNA-templated transcription, regulation
+    of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTCCCAGGTGCTCAGCCACTATG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448628
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=431254
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448628
+  url: https://www.ncbi.nlm.nih.gov/gene/431254
 species: Gallus gallus
 symbol: NKX6-3
 template_length: '607'
@@ -198,9 +188,7 @@ title: NKX6-3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
 | Mouse | [ENSMUSG00000063672](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000063672) | [74561](https://www.ncbi.nlm.nih.gov/gene/74561) | [MGI:1921811](http://www.informatics.jax.org/marker/MGI:1921811) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100489301](https://www.ncbi.nlm.nih.gov/gene/100489301), [100101319](https://www.ncbi.nlm.nih.gov/gene/100101319) | [478608](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478608) |  |
-| Zebrafish | [ENSDARG00000060529](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060529) | [558978](https://www.ncbi.nlm.nih.gov/gene/558978) | [ZFIN:ZDB-GENE-070810-7](https://zfin.org/ZDB-GENE-070810-7) | ZDB-GENE-070810-7 |
+| Xenopus | [ENSXETG00000041034](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041034) | [100489301](https://www.ncbi.nlm.nih.gov/gene/100489301) |  |  |
+| Zebrafish | [ENSDARG00000060529](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060529) | [558978](https://www.ncbi.nlm.nih.gov/gene/558978) | [ZFIN:ZDB-GENE-070810-7](https://zfin.org/ZDB-GENE-070810-7) | cell differentiation, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

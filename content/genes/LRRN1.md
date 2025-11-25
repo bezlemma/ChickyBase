@@ -3,7 +3,6 @@ aliases:
 - LRCH4, leucine-rich repeat neuronal protein 1
 cgnc_id: '56905'
 external_ids:
-  '25': stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Tossell+2011+Lrrn1+Muthukrishnan+OTX2
   Comments: 'Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (acc # NM_001097539.1).'
@@ -13,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771599
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001097539
-gene_id: '377636'
+gene_id: '771599'
 gene_type: protein-coding
 images:
 - caption: LRRN1 expression
@@ -452,16 +451,11 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tossell2011B.Fig2.B.Lrrn1.jpg
 name: leucine rich repeat neuronal 1
-ncbi_id: '377636'
+ncbi_id: '771599'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000175928
   entrez: '57633'
-  mod: ''
+  mod: MIM:619623
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000034648
@@ -469,20 +463,20 @@ orthologs:
   mod: MGI:106038
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100127637,379684,735038
-  mod: '492889'
+- ensembl: ENSXETG00000005147
+  entrez: '100492182'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000060115
+- ensembl: ENSDARG00000115960
   entrez: '568527'
   mod: ZFIN:ZDB-GENE-071126-1
-  phenotypes: ZDB-GENE-071126-1
+  phenotypes: olfactory nerve formation, olfactory placode morphogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/377636
+  url: https://www.ncbi.nlm.nih.gov/gene/771599
 species: Gallus gallus
 symbol: LRRN1
 title: LRRN1
@@ -508,9 +502,8 @@ title: LRRN1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000175928](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000175928) | [57633](https://www.ncbi.nlm.nih.gov/gene/57633) |  |  |
+| Human | [ENSG00000175928](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000175928) | [57633](https://www.ncbi.nlm.nih.gov/gene/57633) | [MIM:619623](https://omim.org/entry/619623) |  |
 | Mouse | [ENSMUSG00000034648](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034648) | [16979](https://www.ncbi.nlm.nih.gov/gene/16979) | [MGI:106038](http://www.informatics.jax.org/marker/MGI:106038) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100127637](https://www.ncbi.nlm.nih.gov/gene/100127637), [379684](https://www.ncbi.nlm.nih.gov/gene/379684), [735038](https://www.ncbi.nlm.nih.gov/gene/735038) | [492889](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492889) |  |
-| Zebrafish | [ENSDARG00000060115](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060115) | [568527](https://www.ncbi.nlm.nih.gov/gene/568527) | [ZFIN:ZDB-GENE-071126-1](https://zfin.org/ZDB-GENE-071126-1) | ZDB-GENE-071126-1 |
+| Xenopus | [ENSXETG00000005147](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005147) | [100492182](https://www.ncbi.nlm.nih.gov/gene/100492182) |  |  |
+| Zebrafish | [ENSDARG00000115960](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115960) | [568527](https://www.ncbi.nlm.nih.gov/gene/568527) | [ZFIN:ZDB-GENE-071126-1](https://zfin.org/ZDB-GENE-071126-1) | olfactory nerve formation, olfactory placode morphogenesis |
 

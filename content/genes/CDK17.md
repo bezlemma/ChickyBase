@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417920
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416161
 forward_primer: 5'-TTCATTACAGAGGAACGGGACG-3'
-gene_id: '452060'
+gene_id: '417920'
 gene_type: protein-coding
 images:
 - caption: CDK17 expression
@@ -67,13 +67,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R592.CDK17.S26A.001.jpg
 name: cyclin dependent kinase 17
-ncbi_id: '452060'
+ncbi_id: '417920'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000059758
   entrez: '5128'
   mod: MIM:603440
@@ -84,24 +79,25 @@ orthologs:
   mod: MGI:97517
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100101773,379846
-  mod: '920551'
+- ensembl: ENSXETG00000001892
+  entrez: '100101773'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '100331738'
+- ensembl: ENSDARG00000114055
+  entrez: '798487'
   mod: ZFIN:ZDB-GENE-041210-15
-  phenotypes: ZDB-GENE-041210-15
+  phenotypes: phosphorylation, protein phosphorylation, regulation of cell cycle phase
+    transition
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGACCTTCACTGCCACTACTTCTTCG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452060
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417920
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452060
+  url: https://www.ncbi.nlm.nih.gov/gene/417920
 species: Gallus gallus
 symbol: CDK17
 template_length: '995'
@@ -124,9 +120,8 @@ title: CDK17
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000059758](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000059758) | [5128](https://www.ncbi.nlm.nih.gov/gene/5128) | [MIM:603440](https://omim.org/entry/603440) |  |
 | Mouse | [ENSMUSG00000020015](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020015) | [237459](https://www.ncbi.nlm.nih.gov/gene/237459) | [MGI:97517](http://www.informatics.jax.org/marker/MGI:97517) | All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1) |
-| Xenopus |  | [100101773](https://www.ncbi.nlm.nih.gov/gene/100101773), [379846](https://www.ncbi.nlm.nih.gov/gene/379846) | [920551](http://www.xenbase.org/gene/showgene.do?method=display&geneId=920551) |  |
-| Zebrafish |  | [100331738](https://www.ncbi.nlm.nih.gov/gene/100331738) | [ZFIN:ZDB-GENE-041210-15](https://zfin.org/ZDB-GENE-041210-15) | ZDB-GENE-041210-15 |
+| Xenopus | [ENSXETG00000001892](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001892) | [100101773](https://www.ncbi.nlm.nih.gov/gene/100101773) |  |  |
+| Zebrafish | [ENSDARG00000114055](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114055) | [798487](https://www.ncbi.nlm.nih.gov/gene/798487) | [ZFIN:ZDB-GENE-041210-15](https://zfin.org/ZDB-GENE-041210-15) | phosphorylation, protein phosphorylation, regulation of cell cycle phase transition |
 

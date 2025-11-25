@@ -7,7 +7,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100858734
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003643870
-gene_id: '473265'
+gene_id: '100858734'
 gene_type: protein-coding
 images:
 - caption: ZBTB39 expression
@@ -46,40 +46,36 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/klf15.143.11z.jpg
 name: zinc finger and BTB domain containing 39
-ncbi_id: '473265'
+ncbi_id: '100858734'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000166860
+  entrez: '9880'
+  mod: MIM:619384
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000044617
+  entrez: '320080'
+  mod: MGI:2443316
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000004417
+  entrez: '100498535'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000019265
+  entrez: '565015'
+  mod: ZFIN:ZDB-GENE-130822-1
+  phenotypes: negative regulation of transcription by RNA polymerase II, regulation
+    of cytokine production, regulation of immune system process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=473265
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100858734
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/473265
+  url: https://www.ncbi.nlm.nih.gov/gene/100858734
 species: Gallus gallus
 symbol: ZBTB39
 title: ZBTB39
@@ -100,9 +96,8 @@ title: ZBTB39
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000166860](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166860) | [9880](https://www.ncbi.nlm.nih.gov/gene/9880) | [MIM:619384](https://omim.org/entry/619384) |  |
+| Mouse | [ENSMUSG00000044617](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000044617) | [320080](https://www.ncbi.nlm.nih.gov/gene/320080) | [MGI:2443316](http://www.informatics.jax.org/marker/MGI:2443316) |  |
+| Xenopus | [ENSXETG00000004417](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004417) | [100498535](https://www.ncbi.nlm.nih.gov/gene/100498535) |  |  |
+| Zebrafish | [ENSDARG00000019265](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019265) | [565015](https://www.ncbi.nlm.nih.gov/gene/565015) | [ZFIN:ZDB-GENE-130822-1](https://zfin.org/ZDB-GENE-130822-1) | negative regulation of transcription by RNA polymerase II, regulation of cytokine production, regulation of immune system process |
 

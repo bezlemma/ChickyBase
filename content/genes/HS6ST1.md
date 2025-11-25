@@ -12,7 +12,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008146
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204482
 forward_primer: CCCCGTATCTCGTTACCTCAGC
-gene_id: '462175'
+gene_id: '395141'
 gene_type: protein-coding
 images:
 - caption: HS6ST1 expression
@@ -188,13 +188,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R472.HS6ST1.S27001.jpg
 name: heparan sulfate 6-O-sulfotransferase 1
-ncbi_id: '462175'
+ncbi_id: '395141'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136720
   entrez: '9394'
   mod: MIM:604846
@@ -206,24 +201,24 @@ orthologs:
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(2)
     Gene trapped(2)
   species: Mouse
-- ensembl: ''
-  entrez: 550071,373566
-  mod: '953844'
+- ensembl: ENSXETG00000035022
+  entrez: '550071'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000071501
-  entrez: 791107,553162
-  mod: ZFIN:ZDB-GENE-070103-2,ZFIN:ZDB-GENE-050524-1
-  phenotypes: ZDB-GENE-070103-2,ZDB-GENE-050524-1
+  entrez: '791107'
+  mod: ZFIN:ZDB-GENE-070103-2
+  phenotypes: heparan sulfate proteoglycan biosynthetic process
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCTTCCCGATTCTTTATCCTCTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462175
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395141
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462175
+  url: https://www.ncbi.nlm.nih.gov/gene/395141
 species: Gallus gallus
 symbol: HS6ST1
 template_length: '572'
@@ -248,9 +243,8 @@ title: HS6ST1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000136720](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136720) | [9394](https://www.ncbi.nlm.nih.gov/gene/9394) | [MIM:604846](https://omim.org/entry/604846) |  |
 | Mouse | [ENSMUSG00000045216](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000045216) | [50785](https://www.ncbi.nlm.nih.gov/gene/50785) | [MGI:1354958](http://www.informatics.jax.org/marker/MGI:1354958) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(2) Gene trapped(2) |
-| Xenopus |  | [550071](https://www.ncbi.nlm.nih.gov/gene/550071), [373566](https://www.ncbi.nlm.nih.gov/gene/373566) | [953844](http://www.xenbase.org/gene/showgene.do?method=display&geneId=953844) |  |
-| Zebrafish | [ENSDARG00000071501](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071501) | [791107](https://www.ncbi.nlm.nih.gov/gene/791107), [553162](https://www.ncbi.nlm.nih.gov/gene/553162) | [ZFIN:ZDB-GENE-070103-2](https://zfin.org/ZDB-GENE-070103-2), [ZFIN:ZDB-GENE-050524-1](https://zfin.org/ZDB-GENE-050524-1) | ZDB-GENE-070103-2,ZDB-GENE-050524-1 |
+| Xenopus | [ENSXETG00000035022](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000035022) | [550071](https://www.ncbi.nlm.nih.gov/gene/550071) |  |  |
+| Zebrafish | [ENSDARG00000071501](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071501) | [791107](https://www.ncbi.nlm.nih.gov/gene/791107) | [ZFIN:ZDB-GENE-070103-2](https://zfin.org/ZDB-GENE-070103-2) | heparan sulfate proteoglycan biosynthetic process |
 

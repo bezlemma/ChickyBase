@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422438
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420404
-gene_id: '468124'
+gene_id: '422438'
 gene_type: protein-coding
 images:
 - caption: PCDH18 expression
@@ -227,13 +227,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh18.Lin.2013.Fig3.jpg
 name: protocadherin 18
-ncbi_id: '468124'
+ncbi_id: '422438'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000189184
   entrez: '54510'
   mod: MIM:608287
@@ -244,20 +239,15 @@ orthologs:
   mod: MGI:1920423
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000011158
   entrez: '496568'
-  mod: '486208'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000052494,ENSDARG00000089805
-  entrez: 562031,572532
-  mod: ZFIN:ZDB-GENE-080804-1,ZFIN:ZDB-GENE-000607-1
-  phenotypes: ZDB-GENE-080804-1,ZDB-GENE-000607-1
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468124
+  url: https://www.ncbi.nlm.nih.gov/gene/422438
 species: Gallus gallus
 symbol: PCDH18
 title: PCDH18
@@ -283,9 +273,7 @@ title: PCDH18
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000189184](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000189184) | [54510](https://www.ncbi.nlm.nih.gov/gene/54510) | [MIM:608287](https://omim.org/entry/608287) |  |
 | Mouse | [ENSMUSG00000037892](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037892) | [73173](https://www.ncbi.nlm.nih.gov/gene/73173) | [MGI:1920423](http://www.informatics.jax.org/marker/MGI:1920423) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [496568](https://www.ncbi.nlm.nih.gov/gene/496568) | [486208](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486208) |  |
-| Zebrafish | [ENSDARG00000052494](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052494), [ENSDARG00000089805](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089805) | [562031](https://www.ncbi.nlm.nih.gov/gene/562031), [572532](https://www.ncbi.nlm.nih.gov/gene/572532) | [ZFIN:ZDB-GENE-080804-1](https://zfin.org/ZDB-GENE-080804-1), [ZFIN:ZDB-GENE-000607-1](https://zfin.org/ZDB-GENE-000607-1) | ZDB-GENE-080804-1,ZDB-GENE-000607-1 |
+| Xenopus | [ENSXETG00000011158](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011158) | [496568](https://www.ncbi.nlm.nih.gov/gene/496568) |  |  |
 

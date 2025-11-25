@@ -1,7 +1,6 @@
 ---
 cgnc_id: '314'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/419814
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
@@ -9,7 +8,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417950
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/KCTD20
 forward_primer: 5'-ACTCACTTGTGTTGGAGCGTAGC-3'
-gene_id: '452581'
+gene_id: '419814'
 gene_type: protein-coding
 images:
 - caption: KCTD20 expression
@@ -93,13 +92,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R552.KCTD20.S25.001.jpg
 name: potassium channel tetramerization domain containing 20
-ncbi_id: '452581'
+ncbi_id: '419814'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000112078
   entrez: '222658'
   mod: MIM:615932
@@ -110,24 +104,14 @@ orthologs:
   mod: MGI:1914239
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ZFIN:ZDB-GENE-100408-1
-  phenotypes: ZDB-GENE-100408-1
-  species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGAGTCCTTAGGCAGGTAATGGGC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452581
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419814
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452581
+  url: https://www.ncbi.nlm.nih.gov/gene/419814
 species: Gallus gallus
 symbol: KCTD20
 template_length: '964'
@@ -151,9 +135,6 @@ title: KCTD20
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000112078](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112078) | [222658](https://www.ncbi.nlm.nih.gov/gene/222658) | [MIM:615932](https://omim.org/entry/615932) |  |
 | Mouse | [ENSMUSG00000005936](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005936) | [66989](https://www.ncbi.nlm.nih.gov/gene/66989) | [MGI:1914239](http://www.informatics.jax.org/marker/MGI:1914239) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-100408-1](https://zfin.org/ZDB-GENE-100408-1) | ZDB-GENE-100408-1 |
 

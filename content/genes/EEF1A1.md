@@ -26,7 +26,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373963
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005525
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204157
-gene_id: '451524'
+gene_id: '373963'
 gene_type: protein-coding
 images:
 - caption: EEF1A1 expression
@@ -79,37 +79,32 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EF1ALPHA.Chambers.2006.7c4.png
 name: eukaryotic translation elongation factor 1 alpha 1
-ncbi_id: '451524'
+ncbi_id: '373963'
 orthologs:
-- ensembl: ''
-  entrez: '36271'
-  mod: FBgn0000556
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000156508
   entrez: '1915'
   mod: MIM:130590
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000037742
+  entrez: '13627'
+  mod: MGI:1096881
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 549446,386604
-  mod: '480093'
+- ensembl: ENSXETG00000022604
+  entrez: '394920'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000020850,ENSDARG00000069951,ENSDARG00000039502
-  entrez: 664756,30516,100004503,336334
-  mod: ZFIN:ZDB-GENE-050706-188,ZFIN:ZDB-GENE-990415-52,ZFIN:ZDB-GENE-050417-327,ZFIN:ZDB-GENE-030131-8278
-  phenotypes: ZDB-GENE-050706-188,ZDB-GENE-990415-52,ZDB-GENE-050417-327,ZDB-GENE-030131-8278
+- ensembl: ENSDARG00000069951
+  entrez: '100004503'
+  mod: ZFIN:ZDB-GENE-050417-327
+  phenotypes: translational elongation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451524
+  url: https://www.ncbi.nlm.nih.gov/gene/373963
 species: Gallus gallus
 symbol: EEF1A1
 title: EEF1A1
@@ -140,9 +135,8 @@ title: EEF1A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36271](https://www.ncbi.nlm.nih.gov/gene/36271) | FBgn0000556 |  |
 | Human | [ENSG00000156508](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000156508) | [1915](https://www.ncbi.nlm.nih.gov/gene/1915) | [MIM:130590](https://omim.org/entry/130590) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [549446](https://www.ncbi.nlm.nih.gov/gene/549446), [386604](https://www.ncbi.nlm.nih.gov/gene/386604) | [480093](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480093) |  |
-| Zebrafish | [ENSDARG00000020850](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020850), [ENSDARG00000069951](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069951), [ENSDARG00000039502](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039502) | [664756](https://www.ncbi.nlm.nih.gov/gene/664756), [30516](https://www.ncbi.nlm.nih.gov/gene/30516), [100004503](https://www.ncbi.nlm.nih.gov/gene/100004503), [336334](https://www.ncbi.nlm.nih.gov/gene/336334) | [ZFIN:ZDB-GENE-050706-188](https://zfin.org/ZDB-GENE-050706-188), [ZFIN:ZDB-GENE-990415-52](https://zfin.org/ZDB-GENE-990415-52), [ZFIN:ZDB-GENE-050417-327](https://zfin.org/ZDB-GENE-050417-327), [ZFIN:ZDB-GENE-030131-8278](https://zfin.org/ZDB-GENE-030131-8278) | ZDB-GENE-050706-188,ZDB-GENE-990415-52,ZDB-GENE-050417-327,ZDB-GENE-030131-8278 |
+| Mouse | [ENSMUSG00000037742](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037742) | [13627](https://www.ncbi.nlm.nih.gov/gene/13627) | [MGI:1096881](http://www.informatics.jax.org/marker/MGI:1096881) |  |
+| Xenopus | [ENSXETG00000022604](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022604) | [394920](https://www.ncbi.nlm.nih.gov/gene/394920) |  |  |
+| Zebrafish | [ENSDARG00000069951](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069951) | [100004503](https://www.ncbi.nlm.nih.gov/gene/100004503) | [ZFIN:ZDB-GENE-050417-327](https://zfin.org/ZDB-GENE-050417-327) | translational elongation |
 

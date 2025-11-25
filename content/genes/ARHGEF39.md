@@ -4,7 +4,6 @@ aliases:
 - vav-like protein C9orf100
 cgnc_id: '1869'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0035761
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/38806
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000002599
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:431661
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001195689
 forward_primer: GCTCTTGAAACCAACCTGTTAG
-gene_id: '461182'
+gene_id: '431661'
 gene_type: protein-coding
 images:
 - caption: ARHGEF39 expression
@@ -115,16 +114,11 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R414.C9ORF100.S25.001.jpg
 name: rho guanine nucleotide exchange factor 39
-ncbi_id: '461182'
+ncbi_id: '431661'
 orthologs:
-- ensembl: ''
-  entrez: '38806'
-  mod: FBgn0035761
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000137135
   entrez: '84904'
-  mod: ''
+  mod: MIM:621172
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000051517
@@ -132,24 +126,24 @@ orthologs:
   mod: MGI:3036286
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100170508,398581
-  mod: '6257689'
+- ensembl: ENSXETG00000020139
+  entrez: '100485947'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000013476
+- ensembl: ENSDARG00000114412
   entrez: '492469'
   mod: ZFIN:ZDB-GENE-041114-28
-  phenotypes: ZDB-GENE-041114-28
+  phenotypes: positive regulation of cell migration
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAACCAAAAGCCAGCCTTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461182
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=431661
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461182
+  url: https://www.ncbi.nlm.nih.gov/gene/431661
 species: Gallus gallus
 symbol: ARHGEF39
 template_length: '801'
@@ -173,9 +167,8 @@ title: ARHGEF39
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38806](https://www.ncbi.nlm.nih.gov/gene/38806) | FBgn0035761 |  |
-| Human | [ENSG00000137135](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137135) | [84904](https://www.ncbi.nlm.nih.gov/gene/84904) |  |  |
+| Human | [ENSG00000137135](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137135) | [84904](https://www.ncbi.nlm.nih.gov/gene/84904) | [MIM:621172](https://omim.org/entry/621172) |  |
 | Mouse | [ENSMUSG00000051517](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000051517) | [230098](https://www.ncbi.nlm.nih.gov/gene/230098) | [MGI:3036286](http://www.informatics.jax.org/marker/MGI:3036286) |  |
-| Xenopus |  | [100170508](https://www.ncbi.nlm.nih.gov/gene/100170508), [398581](https://www.ncbi.nlm.nih.gov/gene/398581) | [6257689](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6257689) |  |
-| Zebrafish | [ENSDARG00000013476](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013476) | [492469](https://www.ncbi.nlm.nih.gov/gene/492469) | [ZFIN:ZDB-GENE-041114-28](https://zfin.org/ZDB-GENE-041114-28) | ZDB-GENE-041114-28 |
+| Xenopus | [ENSXETG00000020139](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020139) | [100485947](https://www.ncbi.nlm.nih.gov/gene/100485947) |  |  |
+| Zebrafish | [ENSDARG00000114412](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114412) | [492469](https://www.ncbi.nlm.nih.gov/gene/492469) | [ZFIN:ZDB-GENE-041114-28](https://zfin.org/ZDB-GENE-041114-28) | positive regulation of cell migration |
 

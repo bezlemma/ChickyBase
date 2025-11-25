@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373952
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0036122
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204149
-gene_id: '459446'
+gene_id: '373952'
 gene_type: protein-coding
 images:
 - caption: NBL1 expression
@@ -376,16 +376,11 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NBL1.Singh.2016.Fig4.jpg
 name: neuroblastoma 1, DAN family BMP antagonist
-ncbi_id: '459446'
+ncbi_id: '373952'
 orthologs:
 - ensembl: ''
-  entrez: ''
+  entrez: '100532736'
   mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000158747
-  entrez: '4681'
-  mod: MIM:600613
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000041120
@@ -393,20 +388,21 @@ orthologs:
   mod: MGI:104591
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 448558,373697
-  mod: '479180'
+- ensembl: ENSXETG00000043439
+  entrez: '448558'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
   entrez: '404629'
   mod: ZFIN:ZDB-GENE-040426-2357
-  phenotypes: ZDB-GENE-040426-2357
+  phenotypes: semicircular canal development, semicircular canal formation, sequestering
+    of BMP from receptor via BMP binding
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459446
+  url: https://www.ncbi.nlm.nih.gov/gene/373952
 species: Gallus gallus
 symbol: NBL1
 title: NBL1
@@ -435,9 +431,8 @@ title: NBL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000158747](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000158747) | [4681](https://www.ncbi.nlm.nih.gov/gene/4681) | [MIM:600613](https://omim.org/entry/600613) |  |
+| Human |  | [100532736](https://www.ncbi.nlm.nih.gov/gene/100532736) |  |  |
 | Mouse | [ENSMUSG00000041120](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041120) | [17965](https://www.ncbi.nlm.nih.gov/gene/17965) | [MGI:104591](http://www.informatics.jax.org/marker/MGI:104591) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [448558](https://www.ncbi.nlm.nih.gov/gene/448558), [373697](https://www.ncbi.nlm.nih.gov/gene/373697) | [479180](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479180) |  |
-| Zebrafish |  | [404629](https://www.ncbi.nlm.nih.gov/gene/404629) | [ZFIN:ZDB-GENE-040426-2357](https://zfin.org/ZDB-GENE-040426-2357) | ZDB-GENE-040426-2357 |
+| Xenopus | [ENSXETG00000043439](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000043439) | [448558](https://www.ncbi.nlm.nih.gov/gene/448558) |  |  |
+| Zebrafish |  | [404629](https://www.ncbi.nlm.nih.gov/gene/404629) | [ZFIN:ZDB-GENE-040426-2357](https://zfin.org/ZDB-GENE-040426-2357) | semicircular canal development, semicircular canal formation, sequestering of BMP from receptor via BMP binding |
 

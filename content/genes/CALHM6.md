@@ -65,7 +65,7 @@ orthologs:
 - ensembl: ENSDARG00000041980
   entrez: '780840'
   mod: ZFIN:ZDB-GENE-061201-60
-  phenotypes: ZDB-GENE-061201-60
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -100,5 +100,5 @@ title: CALHM6
 | Human | [ENSG00000188820](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000188820) | [441168](https://www.ncbi.nlm.nih.gov/gene/441168) |  |  |
 | Mouse | [ENSMUSG00000046031](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000046031) | [215900](https://www.ncbi.nlm.nih.gov/gene/215900) | [MGI:2443082](http://www.informatics.jax.org/marker/MGI:2443082) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1) |
 | Xenopus |  | [100486743](https://www.ncbi.nlm.nih.gov/gene/100486743), [100037121](https://www.ncbi.nlm.nih.gov/gene/100037121) | [991399](http://www.xenbase.org/gene/showgene.do?method=display&geneId=991399) |  |
-| Zebrafish | [ENSDARG00000041980](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041980) | [780840](https://www.ncbi.nlm.nih.gov/gene/780840) | [ZFIN:ZDB-GENE-061201-60](https://zfin.org/ZDB-GENE-061201-60) | ZDB-GENE-061201-60 |
+| Zebrafish | [ENSDARG00000041980](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041980) | [780840](https://www.ncbi.nlm.nih.gov/gene/780840) | [ZFIN:ZDB-GENE-061201-60](https://zfin.org/ZDB-GENE-061201-60) |  |
 

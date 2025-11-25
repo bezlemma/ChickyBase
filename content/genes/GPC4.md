@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422234
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420222
-gene_id: '450080'
+gene_id: '422234'
 gene_type: protein-coding
 images:
 - caption: GPC4 expression
@@ -54,14 +54,9 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/8C.jpg
 name: glypican 4
-ncbi_id: '450080'
+ncbi_id: '422234'
 orthologs:
-- ensembl: ''
-  entrez: '39596'
-  mod: FBgn0041604
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000076716
   entrez: '2239'
   mod: MIM:300168
   phenotypes: ''
@@ -71,20 +66,21 @@ orthologs:
   mod: MGI:104902
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100126682,399356
-  mod: '976426'
+- ensembl: ENSXETG00000005400
+  entrez: '100126682'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000015472
   entrez: '118437'
   mod: ZFIN:ZDB-GENE-011119-1
-  phenotypes: ZDB-GENE-011119-1
+  phenotypes: cartilage development, cartilage morphogenesis, cell migration, cell
+    migration involved in gastrulation, convergent extension
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450080
+  url: https://www.ncbi.nlm.nih.gov/gene/422234
 species: Gallus gallus
 symbol: GPC4
 title: GPC4
@@ -112,9 +108,8 @@ Copyright © 2003 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39596](https://www.ncbi.nlm.nih.gov/gene/39596) | FBgn0041604 |  |
-| Human |  | [2239](https://www.ncbi.nlm.nih.gov/gene/2239) | [MIM:300168](https://omim.org/entry/300168) |  |
+| Human | [ENSG00000076716](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000076716) | [2239](https://www.ncbi.nlm.nih.gov/gene/2239) | [MIM:300168](https://omim.org/entry/300168) |  |
 | Mouse | [ENSMUSG00000031119](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031119) | [14735](https://www.ncbi.nlm.nih.gov/gene/14735) | [MGI:104902](http://www.informatics.jax.org/marker/MGI:104902) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100126682](https://www.ncbi.nlm.nih.gov/gene/100126682), [399356](https://www.ncbi.nlm.nih.gov/gene/399356) | [976426](http://www.xenbase.org/gene/showgene.do?method=display&geneId=976426) |  |
-| Zebrafish | [ENSDARG00000015472](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015472) | [118437](https://www.ncbi.nlm.nih.gov/gene/118437) | [ZFIN:ZDB-GENE-011119-1](https://zfin.org/ZDB-GENE-011119-1) | ZDB-GENE-011119-1 |
+| Xenopus | [ENSXETG00000005400](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005400) | [100126682](https://www.ncbi.nlm.nih.gov/gene/100126682) |  |  |
+| Zebrafish | [ENSDARG00000015472](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015472) | [118437](https://www.ncbi.nlm.nih.gov/gene/118437) | [ZFIN:ZDB-GENE-011119-1](https://zfin.org/ZDB-GENE-011119-1) | cartilage development, cartilage morphogenesis, cell migration, cell migration involved in gastrulation, convergent extension |
 

@@ -1,7 +1,6 @@
 ---
 cgnc_id: '15657'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=kumar+jordan+signals+lateral+plate+mesoderm+instruct+endoderm+pancreatic
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (XM_001234635).
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771348
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234635
 forward_primer: TACGAGGTGCCCCCCATCAG
-gene_id: '363847'
+gene_id: '771348'
 gene_type: protein-coding
 images:
 - caption: PDX1 expression
@@ -184,41 +183,38 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PDX1.FIG1C.KUMAR.2003.jpg
 name: pancreatic and duodenal homeobox 1
-ncbi_id: '363847'
+ncbi_id: '771348'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000139515
   entrez: '3651'
   mod: MIM:600733
   phenotypes: MIM:125853
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000029644
   entrez: '18609'
   mod: MGI:102851
   phenotypes: All phenotypic alleles (11):Targeted, knock-out(3) Targeted, other(8)
   species: Mouse
-- ensembl: ''
-  entrez: 100490648,100337610
-  mod: '483330'
+- ensembl: ENSXETG00000011787
+  entrez: '100490648'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000002779
   entrez: '30721'
   mod: ZFIN:ZDB-GENE-990415-122
-  phenotypes: ZDB-GENE-990415-122
+  phenotypes: determination of digestive tract left/right asymmetry, determination
+    of liver left/right asymmetry, determination of pancreatic left/right asymmetry,
+    endocrine pancreas development, eye photoreceptor cell differentiation
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGCGTCCCCCGCTTTTTGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=363847
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771348
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/363847
+  url: https://www.ncbi.nlm.nih.gov/gene/771348
 species: Gallus gallus
 symbol: PDX1
 template_length: '435'
@@ -245,9 +241,8 @@ title: PDX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000139515](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139515) | [3651](https://www.ncbi.nlm.nih.gov/gene/3651) | [MIM:600733](https://omim.org/entry/600733) | MIM:125853 |
-| Mouse |  | [18609](https://www.ncbi.nlm.nih.gov/gene/18609) | [MGI:102851](http://www.informatics.jax.org/marker/MGI:102851) | All phenotypic alleles (11):Targeted, knock-out(3) Targeted, other(8) |
-| Xenopus |  | [100490648](https://www.ncbi.nlm.nih.gov/gene/100490648), [100337610](https://www.ncbi.nlm.nih.gov/gene/100337610) | [483330](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483330) |  |
-| Zebrafish | [ENSDARG00000002779](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002779) | [30721](https://www.ncbi.nlm.nih.gov/gene/30721) | [ZFIN:ZDB-GENE-990415-122](https://zfin.org/ZDB-GENE-990415-122) | ZDB-GENE-990415-122 |
+| Mouse | [ENSMUSG00000029644](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029644) | [18609](https://www.ncbi.nlm.nih.gov/gene/18609) | [MGI:102851](http://www.informatics.jax.org/marker/MGI:102851) | All phenotypic alleles (11):Targeted, knock-out(3) Targeted, other(8) |
+| Xenopus | [ENSXETG00000011787](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011787) | [100490648](https://www.ncbi.nlm.nih.gov/gene/100490648) |  |  |
+| Zebrafish | [ENSDARG00000002779](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002779) | [30721](https://www.ncbi.nlm.nih.gov/gene/30721) | [ZFIN:ZDB-GENE-990415-122](https://zfin.org/ZDB-GENE-990415-122) | determination of digestive tract left/right asymmetry, determination of liver left/right asymmetry, determination of pancreatic left/right asymmetry, endocrine pancreas development, eye photoreceptor cell differentiation |
 

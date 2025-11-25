@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428529
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426083
 forward_primer: CAAGTGAGAGCGTGCGAGTAAAC
-gene_id: '461136'
+gene_id: '428529'
 gene_type: protein-coding
 images:
 - caption: DSG2 expression
@@ -127,13 +127,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R462.DSG2.S27V.001.jpg
 name: desmoglein 2
-ncbi_id: '461136'
+ncbi_id: '428529'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000046604
   entrez: '1829'
   mod: MIM:125671
@@ -144,24 +139,26 @@ orthologs:
   mod: MGI:1196466
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000034243
   entrez: '100495580'
-  mod: '984605'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
-  entrez: '560026'
-  mod: ZFIN:ZDB-GENE-030131-7531
-  phenotypes: ZDB-GENE-030131-7531
+  entrez: '101882022'
+  mod: ZFIN:ZDB-GENE-140723-1
+  phenotypes: cell adhesion, cell-cell junction organization, epiboly involved in
+    gastrulation with mouth forming second, homophilic cell adhesion via plasma membrane
+    adhesion molecules
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTCAGCCCTTCCAGTTGCTATG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461136
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428529
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461136
+  url: https://www.ncbi.nlm.nih.gov/gene/428529
 species: Gallus gallus
 symbol: DSG2
 template_length: '1055'
@@ -183,9 +180,8 @@ title: DSG2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000046604](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000046604) | [1829](https://www.ncbi.nlm.nih.gov/gene/1829) | [MIM:125671](https://omim.org/entry/125671) | MIM:610193 |
 | Mouse | [ENSMUSG00000044393](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000044393) | [13511](https://www.ncbi.nlm.nih.gov/gene/13511) | [MGI:1196466](http://www.informatics.jax.org/marker/MGI:1196466) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100495580](https://www.ncbi.nlm.nih.gov/gene/100495580) | [984605](http://www.xenbase.org/gene/showgene.do?method=display&geneId=984605) |  |
-| Zebrafish |  | [560026](https://www.ncbi.nlm.nih.gov/gene/560026) | [ZFIN:ZDB-GENE-030131-7531](https://zfin.org/ZDB-GENE-030131-7531) | ZDB-GENE-030131-7531 |
+| Xenopus | [ENSXETG00000034243](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034243) | [100495580](https://www.ncbi.nlm.nih.gov/gene/100495580) |  |  |
+| Zebrafish |  | [101882022](https://www.ncbi.nlm.nih.gov/gene/101882022) | [ZFIN:ZDB-GENE-140723-1](https://zfin.org/ZDB-GENE-140723-1) | cell adhesion, cell-cell junction organization, epiboly involved in gastrulation with mouth forming second, homophilic cell adhesion via plasma membrane adhesion molecules |
 

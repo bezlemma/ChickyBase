@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418179
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416410
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/LMO3
-gene_id: '455122'
+gene_id: '418179'
 gene_type: protein-coding
 images:
 - caption: LMO3 expression
@@ -193,40 +193,25 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Abellan.Fig9.lmo3.A.ST44.jpg
 name: LIM domain only 3
-ncbi_id: '455122'
+ncbi_id: '418179'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000048540
-  entrez: '55885'
-  mod: MIM:180386
-  phenotypes: ''
-  species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000030226
   entrez: '109593'
   mod: MGI:102810
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000008720
   entrez: '553774'
   mod: ZFIN:ZDB-GENE-050522-201
-  phenotypes: ZDB-GENE-050522-201
+  phenotypes: positive regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455122
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418179
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455122
+  url: https://www.ncbi.nlm.nih.gov/gene/418179
 species: Gallus gallus
 symbol: LMO3
 title: LMO3
@@ -253,9 +238,6 @@ title: LMO3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000048540](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000048540) | [55885](https://www.ncbi.nlm.nih.gov/gene/55885) | [MIM:180386](https://omim.org/entry/180386) |  |
-| Mouse |  | [109593](https://www.ncbi.nlm.nih.gov/gene/109593) | [MGI:102810](http://www.informatics.jax.org/marker/MGI:102810) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000008720](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008720) | [553774](https://www.ncbi.nlm.nih.gov/gene/553774) | [ZFIN:ZDB-GENE-050522-201](https://zfin.org/ZDB-GENE-050522-201) | ZDB-GENE-050522-201 |
+| Mouse | [ENSMUSG00000030226](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030226) | [109593](https://www.ncbi.nlm.nih.gov/gene/109593) | [MGI:102810](http://www.informatics.jax.org/marker/MGI:102810) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
+| Zebrafish | [ENSDARG00000008720](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008720) | [553774](https://www.ncbi.nlm.nih.gov/gene/553774) | [ZFIN:ZDB-GENE-050522-201](https://zfin.org/ZDB-GENE-050522-201) | positive regulation of transcription by RNA polymerase II |
 

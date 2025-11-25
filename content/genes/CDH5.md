@@ -17,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204227
 forward_primer: GCTATGATGTGTCCGTGCTCAAC
-gene_id: '454440'
+gene_id: '374068'
 gene_type: protein-coding
 images:
 - caption: CDH5 expression
@@ -343,13 +343,8 @@ images:
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VECADHERIN.neuralt.mag.Li.2013.f6.vecadherin.png
 name: cadherin 5
-ncbi_id: '454440'
+ncbi_id: '374068'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000179776
   entrez: '1003'
   mod: MIM:601120
@@ -360,24 +355,26 @@ orthologs:
   mod: MGI:105057
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(4)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000020009
   entrez: '100488458'
-  mod: '480936'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000075549
-  entrez: 100334983,445471
+  entrez: '445471'
   mod: ZFIN:ZDB-GENE-040816-1
-  phenotypes: ZDB-GENE-040816-1
+  phenotypes: adherens junction organization, anatomical structure formation involved
+    in morphogenesis, angiogenesis, angiogenic sprout fusion, blood vessel endothelial
+    cell delamination involved in blood vessel lumen ensheathment
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCTTCTTTCCTCTGCTGGGTAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454440
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374068
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454440
+  url: https://www.ncbi.nlm.nih.gov/gene/374068
 species: Gallus gallus
 symbol: CDH5
 template_length: '869'
@@ -407,9 +404,8 @@ title: CDH5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000179776](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000179776) | [1003](https://www.ncbi.nlm.nih.gov/gene/1003) | [MIM:601120](https://omim.org/entry/601120) |  |
 | Mouse | [ENSMUSG00000031871](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031871) | [12562](https://www.ncbi.nlm.nih.gov/gene/12562) | [MGI:105057](http://www.informatics.jax.org/marker/MGI:105057) | All phenotypic alleles (4):Targeted, knock-out(4) |
-| Xenopus |  | [100488458](https://www.ncbi.nlm.nih.gov/gene/100488458) | [480936](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480936) |  |
-| Zebrafish | [ENSDARG00000075549](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075549) | [100334983](https://www.ncbi.nlm.nih.gov/gene/100334983), [445471](https://www.ncbi.nlm.nih.gov/gene/445471) | [ZFIN:ZDB-GENE-040816-1](https://zfin.org/ZDB-GENE-040816-1) | ZDB-GENE-040816-1 |
+| Xenopus | [ENSXETG00000020009](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020009) | [100488458](https://www.ncbi.nlm.nih.gov/gene/100488458) |  |  |
+| Zebrafish | [ENSDARG00000075549](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075549) | [445471](https://www.ncbi.nlm.nih.gov/gene/445471) | [ZFIN:ZDB-GENE-040816-1](https://zfin.org/ZDB-GENE-040816-1) | adherens junction organization, anatomical structure formation involved in morphogenesis, angiogenesis, angiogenic sprout fusion, blood vessel endothelial cell delamination involved in blood vessel lumen ensheathment |
 

@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396337
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205378
-gene_id: '461823'
+gene_id: '396337'
 gene_type: protein-coding
 images:
 - caption: NTRK1 expression
@@ -78,13 +78,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Karlsson.Fig2.TrkA.E.jpg
 name: neurotrophic receptor tyrosine kinase 1
-ncbi_id: '461823'
+ncbi_id: '396337'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000198400
   entrez: '4914'
   mod: MIM:191315
@@ -95,20 +90,22 @@ orthologs:
   mod: MGI:97383
   phenotypes: All phenotypic alleles (12):Targeted, knock-out(3) Targeted, other(9)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000018040
   entrez: '100489637'
-  mod: '923000'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000004586
   entrez: '30546'
   mod: ZFIN:ZDB-GENE-980526-118
-  phenotypes: ZDB-GENE-980526-118
+  phenotypes: cell differentiation, cell surface receptor protein tyrosine kinase
+    signaling pathway, cell surface receptor signaling pathway, cellular response
+    to nerve growth factor stimulus, defense response to bacterium
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461823
+  url: https://www.ncbi.nlm.nih.gov/gene/396337
 species: Gallus gallus
 symbol: NTRK1
 title: NTRK1
@@ -137,9 +134,8 @@ title: NTRK1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000198400](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198400) | [4914](https://www.ncbi.nlm.nih.gov/gene/4914) | [MIM:191315](https://omim.org/entry/191315) | MIM:256800 |
 | Mouse | [ENSMUSG00000028072](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028072) | [18211](https://www.ncbi.nlm.nih.gov/gene/18211) | [MGI:97383](http://www.informatics.jax.org/marker/MGI:97383) | All phenotypic alleles (12):Targeted, knock-out(3) Targeted, other(9) |
-| Xenopus |  | [100489637](https://www.ncbi.nlm.nih.gov/gene/100489637) | [923000](http://www.xenbase.org/gene/showgene.do?method=display&geneId=923000) |  |
-| Zebrafish | [ENSDARG00000004586](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004586) | [30546](https://www.ncbi.nlm.nih.gov/gene/30546) | [ZFIN:ZDB-GENE-980526-118](https://zfin.org/ZDB-GENE-980526-118) | ZDB-GENE-980526-118 |
+| Xenopus | [ENSXETG00000018040](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018040) | [100489637](https://www.ncbi.nlm.nih.gov/gene/100489637) |  |  |
+| Zebrafish | [ENSDARG00000004586](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004586) | [30546](https://www.ncbi.nlm.nih.gov/gene/30546) | [ZFIN:ZDB-GENE-980526-118](https://zfin.org/ZDB-GENE-980526-118) | cell differentiation, cell surface receptor protein tyrosine kinase signaling pathway, cell surface receptor signaling pathway, cellular response to nerve growth factor stimulus, defense response to bacterium |
 

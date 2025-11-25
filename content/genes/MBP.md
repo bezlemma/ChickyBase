@@ -3,7 +3,6 @@ aliases:
 - myelin basic protein
 cgnc_id: '10221'
 external_ids:
-  '25': stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0061024
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0033269
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Gotoh+2011+myelin+chick
@@ -17,7 +16,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205280
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/MBP
 forward_primer: TCAAGAACATTGTCTCACCCCG
-gene_id: '467868'
+gene_id: '396217'
 gene_type: protein-coding
 images:
 - caption: MBP expression
@@ -119,13 +118,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gotoh.Fig2.MBP.H.E20-ST44.jpg
 name: myelin basic protein
-ncbi_id: '467868'
+ncbi_id: '396217'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000197971
   entrez: '4155'
   mod: MIM:159430
@@ -137,24 +131,24 @@ orthologs:
   phenotypes: All phenotypic alleles (8):Spontaneous(5) Targeted, knock-out(1) Targeted,
     other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 549346,734401
-  mod: '959615'
+- ensembl: ENSXETG00000010788
+  entrez: '549346'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000089413,ENSDARG00000036186
-  entrez: 368319,326281
-  mod: ZFIN:ZDB-GENE-030429-21,ZFIN:ZDB-GENE-030128-2
-  phenotypes: ZDB-GENE-030429-21,ZDB-GENE-030128-2
+- ensembl: ENSDARG00000089413
+  entrez: '368319'
+  mod: ZFIN:ZDB-GENE-030429-21
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCCCCTCCCACATTTCACATACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467868
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396217
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467868
+  url: https://www.ncbi.nlm.nih.gov/gene/396217
 species: Gallus gallus
 symbol: MBP
 template_length: '901'
@@ -185,9 +179,8 @@ title: MBP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000197971](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197971) | [4155](https://www.ncbi.nlm.nih.gov/gene/4155) | [MIM:159430](https://omim.org/entry/159430) |  |
 | Mouse | [ENSMUSG00000041607](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041607) | [17196](https://www.ncbi.nlm.nih.gov/gene/17196) | [MGI:96925](http://www.informatics.jax.org/marker/MGI:96925) | All phenotypic alleles (8):Spontaneous(5) Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [549346](https://www.ncbi.nlm.nih.gov/gene/549346), [734401](https://www.ncbi.nlm.nih.gov/gene/734401) | [959615](http://www.xenbase.org/gene/showgene.do?method=display&geneId=959615) |  |
-| Zebrafish | [ENSDARG00000089413](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089413), [ENSDARG00000036186](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036186) | [368319](https://www.ncbi.nlm.nih.gov/gene/368319), [326281](https://www.ncbi.nlm.nih.gov/gene/326281) | [ZFIN:ZDB-GENE-030429-21](https://zfin.org/ZDB-GENE-030429-21), [ZFIN:ZDB-GENE-030128-2](https://zfin.org/ZDB-GENE-030128-2) | ZDB-GENE-030429-21,ZDB-GENE-030128-2 |
+| Xenopus | [ENSXETG00000010788](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010788) | [549346](https://www.ncbi.nlm.nih.gov/gene/549346) |  |  |
+| Zebrafish | [ENSDARG00000089413](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089413) | [368319](https://www.ncbi.nlm.nih.gov/gene/368319) | [ZFIN:ZDB-GENE-030429-21](https://zfin.org/ZDB-GENE-030429-21) |  |
 

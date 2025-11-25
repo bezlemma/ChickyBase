@@ -4,8 +4,6 @@ aliases:
 - sine oculis homeobox homolog 3
 cgnc_id: '49119'
 external_ids:
-  '19': stage 19stage 19
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007420
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Bovolenta+1998+cSix3
@@ -20,7 +18,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204364
   X-XIV: stage XII
 forward_primer: CCCATTTCTTCCTGCCCAAC
-gene_id: '458644'
+gene_id: '378786'
 gene_type: protein-coding
 images:
 - caption: SIX3 expression
@@ -801,41 +799,37 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SIX3.Trevers.2023-Fig7-3-O.jpg
 name: SIX homeobox 3
-ncbi_id: '458644'
+ncbi_id: '378786'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000138083
+  entrez: '6496'
+  mod: MIM:603714
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000038805
+  entrez: '20473'
+  mod: MGI:102764
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000002758
+  entrez: '100493798'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000114971
+  entrez: '30635'
+  mod: ZFIN:ZDB-GENE-990415-127
+  phenotypes: brain development, eye development, optic nerve development, optic nerve
+    morphogenesis, regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTGCTGGAGCCTGTTTTTAGCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458644
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=378786
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458644
+  url: https://www.ncbi.nlm.nih.gov/gene/378786
 species: Gallus gallus
 symbol: SIX3
 template_length: '727'
@@ -865,9 +859,8 @@ title: SIX3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000138083](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138083) | [6496](https://www.ncbi.nlm.nih.gov/gene/6496) | [MIM:603714](https://omim.org/entry/603714) |  |
+| Mouse | [ENSMUSG00000038805](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038805) | [20473](https://www.ncbi.nlm.nih.gov/gene/20473) | [MGI:102764](http://www.informatics.jax.org/marker/MGI:102764) |  |
+| Xenopus | [ENSXETG00000002758](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002758) | [100493798](https://www.ncbi.nlm.nih.gov/gene/100493798) |  |  |
+| Zebrafish | [ENSDARG00000114971](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114971) | [30635](https://www.ncbi.nlm.nih.gov/gene/30635) | [ZFIN:ZDB-GENE-990415-127](https://zfin.org/ZDB-GENE-990415-127) | brain development, eye development, optic nerve development, optic nerve morphogenesis, regulation of transcription by RNA polymerase II |
 

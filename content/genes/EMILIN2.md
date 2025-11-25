@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421058
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419145
-gene_id: '459789'
+gene_id: '421058'
 gene_type: protein-coding
 images:
 - caption: EMILIN2 expression
@@ -203,14 +203,9 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2.Anderson.2019.Fig3.jpg
 name: elastin microfibril interfacer 2
-ncbi_id: '459789'
+ncbi_id: '421058'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000132205
   entrez: '84034'
   mod: MIM:608928
   phenotypes: ''
@@ -220,20 +215,20 @@ orthologs:
   mod: MGI:2389136
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100491397,447411
-  mod: '978930'
+- ensembl: ENSXETG00000001613
+  entrez: '100491397'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: 558739,571391
-  mod: ZFIN:ZDB-GENE-060503-247,ZFIN:ZDB-GENE-080416-1
-  phenotypes: ZDB-GENE-060503-247,ZDB-GENE-080416-1
+- ensembl: ENSDARG00000061196
+  entrez: '100001725'
+  mod: ZFIN:ZDB-GENE-060503-247
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459789
+  url: https://www.ncbi.nlm.nih.gov/gene/421058
 species: Gallus gallus
 symbol: EMILIN2
 title: EMILIN2
@@ -259,9 +254,8 @@ title: EMILIN2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [84034](https://www.ncbi.nlm.nih.gov/gene/84034) | [MIM:608928](https://omim.org/entry/608928) |  |
+| Human | [ENSG00000132205](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000132205) | [84034](https://www.ncbi.nlm.nih.gov/gene/84034) | [MIM:608928](https://omim.org/entry/608928) |  |
 | Mouse | [ENSMUSG00000024053](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024053) | [246707](https://www.ncbi.nlm.nih.gov/gene/246707) | [MGI:2389136](http://www.informatics.jax.org/marker/MGI:2389136) |  |
-| Xenopus |  | [100491397](https://www.ncbi.nlm.nih.gov/gene/100491397), [447411](https://www.ncbi.nlm.nih.gov/gene/447411) | [978930](http://www.xenbase.org/gene/showgene.do?method=display&geneId=978930) |  |
-| Zebrafish |  | [558739](https://www.ncbi.nlm.nih.gov/gene/558739), [571391](https://www.ncbi.nlm.nih.gov/gene/571391) | [ZFIN:ZDB-GENE-060503-247](https://zfin.org/ZDB-GENE-060503-247), [ZFIN:ZDB-GENE-080416-1](https://zfin.org/ZDB-GENE-080416-1) | ZDB-GENE-060503-247,ZDB-GENE-080416-1 |
+| Xenopus | [ENSXETG00000001613](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001613) | [100491397](https://www.ncbi.nlm.nih.gov/gene/100491397) |  |  |
+| Zebrafish | [ENSDARG00000061196](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061196) | [100001725](https://www.ncbi.nlm.nih.gov/gene/100001725) | [ZFIN:ZDB-GENE-060503-247](https://zfin.org/ZDB-GENE-060503-247) |  |
 

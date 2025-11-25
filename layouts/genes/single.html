@@ -20,9 +20,9 @@
                         <dt class="text-xs font-medium text-slate-500 uppercase">Aliases</dt>
                         <dd class="mt-1 text-sm text-slate-700">
                             {{ if .Params.aliases }}
-                                {{ delimit .Params.aliases ", " }}
+                            {{ delimit .Params.aliases ", " }}
                             {{ else }}
-                                {{ .Params.synonyms }}
+                            {{ .Params.synonyms }}
                             {{ end }}
                         </dd>
                     </div>
@@ -57,7 +57,8 @@
                     <div>
                         <dt class="text-xs font-medium text-slate-500 uppercase">RNA (RefSeq)</dt>
                         <dd class="mt-1 text-sm text-slate-700 font-mono">
-                            <a href="https://www.ncbi.nlm.nih.gov/nuccore/{{ . }}" target="_blank" class="text-primary hover:underline">{{ . }}</a>
+                            <a href="https://www.ncbi.nlm.nih.gov/nuccore/{{ . }}" target="_blank"
+                                class="text-primary hover:underline">{{ . }}</a>
                         </dd>
                     </div>
                     {{ end }}
@@ -65,7 +66,8 @@
                     <div>
                         <dt class="text-xs font-medium text-slate-500 uppercase">Protein (RefSeq)</dt>
                         <dd class="mt-1 text-sm text-slate-700 font-mono">
-                            <a href="https://www.ncbi.nlm.nih.gov/protein/{{ . }}" target="_blank" class="text-primary hover:underline">{{ . }}</a>
+                            <a href="https://www.ncbi.nlm.nih.gov/protein/{{ . }}" target="_blank"
+                                class="text-primary hover:underline">{{ . }}</a>
                         </dd>
                     </div>
                     {{ end }}
@@ -141,7 +143,7 @@
                         </a>
                     </li>
                     {{ end }}
-                    
+
                     {{ with .Params.external_ids.ensembl }}
                     <li>
                         <a href="http://www.ensembl.org/id/{{ . }}" target="_blank" rel="noopener noreferrer"
@@ -171,10 +173,11 @@
                         </a>
                     </li>
                     {{ end }}
-                    
+
                     {{ with .Params.external_ids.kegg }}
                     <li>
-                        <a href="http://www.genome.jp/dbget-bin/www_bget?{{ . }}" target="_blank" rel="noopener noreferrer"
+                        <a href="http://www.genome.jp/dbget-bin/www_bget?{{ . }}" target="_blank"
+                            rel="noopener noreferrer"
                             class="flex items-center text-sm text-primary hover:text-primary-dark transition-colors group">
                             <svg class="w-4 h-4 mr-2 text-slate-400 group-hover:text-primary" fill="none"
                                 stroke="currentColor" viewBox="0 0 24 24">
@@ -208,37 +211,37 @@
             <!-- Sources Section -->
             {{ $sources := slice }}
             {{ if .Params.sources }}
-                {{ $sources = .Params.sources }}
+            {{ $sources = .Params.sources }}
             {{ end }}
 
             {{/* Collect sources from images */}}
             {{ range .Params.images }}
-                {{ if .source }}
-                    {{ $sName := .source }}
-                    {{ $exists := false }}
-                    {{ range $sources }}
-                        {{ if eq .name $sName }}{{ $exists = true }}{{ end }}
-                    {{ end }}
-                    {{ if not $exists }}
-                        {{ $sUrl := "" }}
-                        {{ $sType := "publication" }}
-                        {{ if eq $sName "Trevers et al. 2023" }}
-                            {{ $sUrl = "https://doi.org/10.7554/eLife.73189" }}
-                        {{ else }}
-                            {{ $sUrl = printf "https://pubmed.ncbi.nlm.nih.gov/?term=%s" ($sName | urlquery) }}
-                        {{ end }}
-                        
-                        {{ $sources = $sources | append (dict "name" $sName "url" $sUrl "type" $sType) }}
-                    {{ end }}
-                {{ end }}
+            {{ if .source }}
+            {{ $sName := .source }}
+            {{ $exists := false }}
+            {{ range $sources }}
+            {{ if eq .name $sName }}{{ $exists = true }}{{ end }}
+            {{ end }}
+            {{ if not $exists }}
+            {{ $sUrl := "" }}
+            {{ $sType := "publication" }}
+            {{ if eq $sName "Trevers et al. 2023" }}
+            {{ $sUrl = "https://doi.org/10.7554/eLife.73189" }}
+            {{ else }}
+            {{ $sUrl = printf "https://pubmed.ncbi.nlm.nih.gov/?term=%s" ($sName | urlquery) }}
+            {{ end }}
+
+            {{ $sources = $sources | append (dict "name" $sName "url" $sUrl "type" $sType) }}
+            {{ end }}
+            {{ end }}
             {{ end }}
 
             {{/* Filter out NCBI Gene */}}
             {{ $finalSources := slice }}
             {{ range $sources }}
-                {{ if ne .name "NCBI Gene" }}
-                    {{ $finalSources = $finalSources | append . }}
-                {{ end }}
+            {{ if ne .name "NCBI Gene" }}
+            {{ $finalSources = $finalSources | append . }}
+            {{ end }}
             {{ end }}
 
             {{ if gt (len $finalSources) 0 }}
@@ -391,7 +394,9 @@
                 {{ with .Params.gene_ontology.molecular_function }}
                 {{ if gt (len .) 0 }}
                 <div>
-                    <h4 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 border-b border-slate-100 pb-2">Molecular Function</h4>
+                    <h4
+                        class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 border-b border-slate-100 pb-2">
+                        Molecular Function</h4>
                     <ul class="space-y-2">
                         {{ range . }}
                         <li class="text-sm text-slate-700 flex items-start">
@@ -407,7 +412,9 @@
                 {{ with .Params.gene_ontology.biological_process }}
                 {{ if gt (len .) 0 }}
                 <div>
-                    <h4 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 border-b border-slate-100 pb-2">Biological Process</h4>
+                    <h4
+                        class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 border-b border-slate-100 pb-2">
+                        Biological Process</h4>
                     <ul class="space-y-2">
                         {{ range . }}
                         <li class="text-sm text-slate-700 flex items-start">
@@ -423,7 +430,9 @@
                 {{ with .Params.gene_ontology.cellular_component }}
                 {{ if gt (len .) 0 }}
                 <div>
-                    <h4 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 border-b border-slate-100 pb-2">Cellular Component</h4>
+                    <h4
+                        class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-3 border-b border-slate-100 pb-2">
+                        Cellular Component</h4>
                     <ul class="space-y-2">
                         {{ range . }}
                         <li class="text-sm text-slate-700 flex items-start">
@@ -451,7 +460,8 @@
                         <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Species</th>
                         <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Entrez Gene</th>
                         <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Ensembl Gene</th>
-                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Genetic Phenotypes</th>
+                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Genetic Phenotypes
+                        </th>
                         <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">MOD</th>
                     </tr>
                 </thead>
@@ -461,45 +471,51 @@
                         <td class="px-4 py-2 text-sm text-slate-900 italic">{{ .species }}</td>
                         <td class="px-4 py-2 text-sm text-slate-500 font-mono">
                             {{ if .entrez }}
-                                {{ $ids := split (string .entrez) "," }}
-                                {{ range $index, $id := $ids }}
-                                    {{ $cleanId := trim $id " " }}
-                                    {{ if gt $index 0 }}, {{ end }}
-                                    <a href="https://www.ncbi.nlm.nih.gov/gene/{{ $cleanId }}" target="_blank" class="text-primary hover:underline">{{ $cleanId }}</a>
-                                {{ end }}
+                            {{ $ids := split (string .entrez) "," }}
+                            {{ range $index, $id := $ids }}
+                            {{ $cleanId := trim $id " " }}
+                            {{ if gt $index 0 }}, {{ end }}
+                            <a href="https://www.ncbi.nlm.nih.gov/gene/{{ $cleanId }}" target="_blank"
+                                class="text-primary hover:underline">{{ $cleanId }}</a>
+                            {{ end }}
                             {{ end }}
                         </td>
                         <td class="px-4 py-2 text-sm text-slate-500 font-mono">
                             {{ if .ensembl }}
-                                {{ $ids := split (string .ensembl) "," }}
-                                {{ range $index, $id := $ids }}
-                                    {{ $cleanId := trim $id " " }}
-                                    {{ if gt $index 0 }}, {{ end }}
-                                    <a href="http://www.ensembl.org/id/{{ $cleanId }}" target="_blank" class="text-primary hover:underline">{{ $cleanId }}</a>
-                                {{ end }}
+                            {{ $ids := split (string .ensembl) "," }}
+                            {{ range $index, $id := $ids }}
+                            {{ $cleanId := trim $id " " }}
+                            {{ if gt $index 0 }}, {{ end }}
+                            <a href="http://www.ensembl.org/id/{{ $cleanId }}" target="_blank"
+                                class="text-primary hover:underline">{{ $cleanId }}</a>
+                            {{ end }}
                             {{ end }}
                         </td>
                         <td class="px-4 py-2 text-sm text-slate-500">{{ .phenotypes }}</td>
                         <td class="px-4 py-2 text-sm text-slate-500 font-mono">
                             {{ if .mod }}
-                                {{ $species := .species }}
-                                {{ $ids := split (string .mod) "," }}
-                                {{ range $index, $id := $ids }}
-                                    {{ $cleanId := trim $id " " }}
-                                    {{ if gt $index 0 }}, {{ end }}
-                                    
-                                    {{ if in $cleanId "MIM:" }}
-                                        <a href="https://www.omim.org/entry/{{ replace $cleanId "MIM:" "" }}" target="_blank" class="text-primary hover:underline">{{ $cleanId }}</a>
-                                    {{ else if in $cleanId "MGI:" }}
-                                        <a href="http://www.informatics.jax.org/marker/{{ $cleanId }}" target="_blank" class="text-primary hover:underline">{{ $cleanId }}</a>
-                                    {{ else if in $cleanId "ZFIN:" }}
-                                        <a href="https://zfin.org/{{ replace $cleanId "ZFIN:" "" }}" target="_blank" class="text-primary hover:underline">{{ $cleanId }}</a>
-                                    {{ else if eq $species "Xenopus" }}
-                                        <a href="http://www.xenbase.org/gene/showgene.do?method=display&geneId={{ $cleanId }}" target="_blank" class="text-primary hover:underline">{{ $cleanId }}</a>
-                                    {{ else }}
-                                        {{ $cleanId }}
-                                    {{ end }}
-                                {{ end }}
+                            {{ $species := .species }}
+                            {{ $ids := split (string .mod) "," }}
+                            {{ range $index, $id := $ids }}
+                            {{ $cleanId := trim $id " " }}
+                            {{ if gt $index 0 }}, {{ end }}
+
+                            {{ if in $cleanId "MIM:" }}
+                            <a href="https://www.omim.org/entry/{{ replace $cleanId " MIM:" "" }}" target="_blank"
+                                class="text-primary hover:underline">{{ $cleanId }}</a>
+                            {{ else if in $cleanId "MGI:" }}
+                            <a href="http://www.informatics.jax.org/marker/{{ $cleanId }}" target="_blank"
+                                class="text-primary hover:underline">{{ $cleanId }}</a>
+                            {{ else if in $cleanId "ZFIN:" }}
+                            <a href="https://zfin.org/{{ replace $cleanId " ZFIN:" "" }}" target="_blank"
+                                class="text-primary hover:underline">{{ $cleanId }}</a>
+                            {{ else if eq $species "Xenopus" }}
+                            <a href="http://www.xenbase.org/gene/showgene.do?method=display&geneId={{ $cleanId }}"
+                                target="_blank" class="text-primary hover:underline">{{ $cleanId }}</a>
+                            {{ else }}
+                            {{ $cleanId }}
+                            {{ end }}
+                            {{ end }}
                             {{ end }}
                         </td>
                     </tr>
@@ -518,57 +534,60 @@
 
     createApp({
         setup() {
-            const geneId = "{{ .Params.gene_id }}";
-            const symbol = "{{ .Params.symbol }}";
-            const activeLocations = ref([]);
-            const activeStages = ref([]);
+            const geneId = {{ .Params.gene_id | jsonify
+    }};
+    const symbol = {{ .Params.symbol | jsonify }};
+    const activeLocations = ref([]);
+    const activeStages = ref([]);
 
-            // Prepare data from Hugo params
-            const allImages = [
-                {{ if .Params.expression_data }}
-                {{ range .Params.expression_data }}
-        {{ range .entries }}
-        {
-            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images/% s /% s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
-        locations: [{{ with .locations }}{{ range . }}"{{ . }}", {{ end }}{{ end }}{{ with .location }}"{{ . }}"{{ end }}],
-        stage: "{{ .stage_range }}",
-        source: "{{ .source | default "GEISHA" }}",
-        sourceLabel: "{{ .source_label | default "GEISHA" }}"
+    // Prepare data from Hugo params
+    const allImages = [
+        {{ if .Params.expression_data }}
+    {{ range .Params.expression_data }}
+    {{ range .entries }}
+    {
+        url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images /% s /% s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
+            locations: [{{ with .locations }} {{ range . }} {{ . | jsonify }}, {{ end }} {{ end }} {{ with .location }} {{ . | jsonify }} {{ end }}],
+    stage: {{ .stage_range | jsonify }},
+    source: {{ .source | default "GEISHA" | jsonify }},
+    sourceLabel: {{ .source_label | default "GEISHA" | jsonify }}
         },
-        {{ end }}
-        {{ end }}
-        {{ else if .Params.entries }}
-        {{ range .Params.entries }}
-        {
-            url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images/% s /% s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
-        locations: [{{ with .locations }}{{ range . }}"{{ . }}", {{ end }}{{ end }}{{ with .location }}"{{ . }}"{{ end }}],
-        stage: "Unknown"
+    {{ end }}
+    {{ end }}
+    {{ else if .Params.entries }}
+    {{ range .Params.entries }}
+    {
+        url: "{{ with .local_path }}{{ if $.Site.Params.imageBaseURL }}{{ $.Site.Params.imageBaseURL }}{{ $.Params.gene_id }}/{{ path.Base . }}{{ else }}{{ printf "images /% s /% s" $.Params.gene_id (path.Base .) | relURL }}{{ end }}{{ end }}",
+            locations: [{{ with .locations }} {{ range . }} {{ . | jsonify }}, {{ end }} {{ end }} {{ with .location }} {{ . | jsonify }} {{ end }}],
+    stage: "Unknown"
         },
-        {{ end }}
-        {{ else if .Params.images }}
-        {{ range .Params.images }}
-        {
-            url: "{{ .image_url | relURL }}",
-            locations: [{{ with .location }}"{{ . }}"{{ end }}],
-        stage: "{{ .stage | default "Unknown" }}",
-        source: "{{ .source | default "Publication" }}",
-        sourceLabel: "{{ .source_label | default "Publication" }}"
+    {{ end }}
+    {{ else if .Params.images }}
+    {{ range .Params.images }}
+    {
+        url: "{{ .image_url | relURL }}",
+            locations: [{{ with .location }} {{ . | jsonify }} {{ end }}],
+    stage: {{ .stage | default "Unknown" | jsonify }},
+    source: {{ .source | default "Publication" | jsonify }},
+    sourceLabel: {{ .source_label | default "Publication" | jsonify }}
         },
-        {{ end }}
-        {{ end }}
+    {{ end }}
+    {{ end }}
         ].filter(img => img.url); // Filter out entries without URLs
 
     // Normalize locations: split comma-separated strings and deduplicate
     allImages.forEach(img => {
         const normalized = new Set();
         img.locations.forEach(loc => {
-            loc.split(',').forEach(p => {
-                const clean = p.trim();
-                // Filter out "Not specified" (case-insensitive)
-                if (clean && clean.toLowerCase() !== 'not specified') {
-                    normalized.add(clean);
-                }
-            });
+            if (loc) {
+                loc.split(',').forEach(p => {
+                    const clean = p.trim();
+                    // Filter out "Not specified" (case-insensitive)
+                    if (clean && clean.toLowerCase() !== 'not specified') {
+                        normalized.add(clean);
+                    }
+                });
+            }
         });
         img.locations = Array.from(normalized).sort();
     });
@@ -686,4 +705,5 @@
     };
     }
 }).mount('#gene-app');
-</script>{{ end }}{{ end }}
+</script>{{ end }}
+{{ end }}

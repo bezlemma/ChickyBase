@@ -9,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426073
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423750
-gene_id: '455163'
+gene_id: '426073'
 gene_type: protein-coding
 images:
 - caption: UBA3 expression
@@ -20,13 +20,8 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54xe12.125.21.jpg
 name: ubiquitin like modifier activating enzyme 3
-ncbi_id: '455163'
+ncbi_id: '426073'
 orthologs:
-- ensembl: ''
-  entrez: '36539'
-  mod: FBgn0263697
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000144744
   entrez: '9039'
   mod: MIM:603172
@@ -38,23 +33,23 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100124303,734782
-  mod: '947290'
+- ensembl: ENSXETG00000016167
+  entrez: '100124303'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000057987
   entrez: '406776'
   mod: ZFIN:ZDB-GENE-040426-2825
-  phenotypes: ZDB-GENE-040426-2825
+  phenotypes: protein neddylation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455163
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426073
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455163
+  url: https://www.ncbi.nlm.nih.gov/gene/426073
 species: Gallus gallus
 symbol: UBA3
 title: UBA3
@@ -79,9 +74,8 @@ title: UBA3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36539](https://www.ncbi.nlm.nih.gov/gene/36539) | FBgn0263697 |  |
 | Human | [ENSG00000144744](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000144744) | [9039](https://www.ncbi.nlm.nih.gov/gene/9039) | [MIM:603172](https://omim.org/entry/603172) |  |
 | Mouse | [ENSMUSG00000030061](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030061) | [22200](https://www.ncbi.nlm.nih.gov/gene/22200) | [MGI:1341217](http://www.informatics.jax.org/marker/MGI:1341217) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [100124303](https://www.ncbi.nlm.nih.gov/gene/100124303), [734782](https://www.ncbi.nlm.nih.gov/gene/734782) | [947290](http://www.xenbase.org/gene/showgene.do?method=display&geneId=947290) |  |
-| Zebrafish | [ENSDARG00000057987](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057987) | [406776](https://www.ncbi.nlm.nih.gov/gene/406776) | [ZFIN:ZDB-GENE-040426-2825](https://zfin.org/ZDB-GENE-040426-2825) | ZDB-GENE-040426-2825 |
+| Xenopus | [ENSXETG00000016167](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016167) | [100124303](https://www.ncbi.nlm.nih.gov/gene/100124303) |  |  |
+| Zebrafish | [ENSDARG00000057987](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057987) | [406776](https://www.ncbi.nlm.nih.gov/gene/406776) | [ZFIN:ZDB-GENE-040426-2825](https://zfin.org/ZDB-GENE-040426-2825) | protein neddylation |
 

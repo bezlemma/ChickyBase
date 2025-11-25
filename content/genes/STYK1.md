@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418310
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416534
-gene_id: '456616'
+gene_id: '418310'
 gene_type: protein-coding
 images:
 - caption: STYK1 expression
@@ -38,13 +38,8 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIGURE3.YOSHIOKA.2005.jpg
 name: serine/threonine/tyrosine kinase 1
-ncbi_id: '456616'
+ncbi_id: '418310'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000060140
   entrez: '55359'
   mod: MIM:611433
@@ -55,20 +50,20 @@ orthologs:
   mod: MGI:2141396
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000016240
   entrez: '100170540'
-  mod: '979178'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000041947
-  entrez: 566467,324714
-  mod: ZFIN:ZDB-GENE-060503-428,ZFIN:ZDB-GENE-030131-3435
-  phenotypes: ZDB-GENE-060503-428,ZDB-GENE-030131-3435
+- ensembl: ENSDARG00000070950
+  entrez: '101886109'
+  mod: ZFIN:ZDB-GENE-060503-428
+  phenotypes: phosphorylation, protein phosphorylation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456616
+  url: https://www.ncbi.nlm.nih.gov/gene/418310
 species: Gallus gallus
 symbol: STYK1
 title: STYK1
@@ -94,9 +89,8 @@ title: STYK1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000060140](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000060140) | [55359](https://www.ncbi.nlm.nih.gov/gene/55359) | [MIM:611433](https://omim.org/entry/611433) |  |
 | Mouse | [ENSMUSG00000032899](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032899) | [243659](https://www.ncbi.nlm.nih.gov/gene/243659) | [MGI:2141396](http://www.informatics.jax.org/marker/MGI:2141396) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100170540](https://www.ncbi.nlm.nih.gov/gene/100170540) | [979178](http://www.xenbase.org/gene/showgene.do?method=display&geneId=979178) |  |
-| Zebrafish | [ENSDARG00000041947](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041947) | [566467](https://www.ncbi.nlm.nih.gov/gene/566467), [324714](https://www.ncbi.nlm.nih.gov/gene/324714) | [ZFIN:ZDB-GENE-060503-428](https://zfin.org/ZDB-GENE-060503-428), [ZFIN:ZDB-GENE-030131-3435](https://zfin.org/ZDB-GENE-030131-3435) | ZDB-GENE-060503-428,ZDB-GENE-030131-3435 |
+| Xenopus | [ENSXETG00000016240](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016240) | [100170540](https://www.ncbi.nlm.nih.gov/gene/100170540) |  |  |
+| Zebrafish | [ENSDARG00000070950](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070950) | [101886109](https://www.ncbi.nlm.nih.gov/gene/101886109) | [ZFIN:ZDB-GENE-060503-428](https://zfin.org/ZDB-GENE-060503-428) | phosphorylation, protein phosphorylation |
 

@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419458
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417617
 forward_primer: 5’-ATGAGCAGGGCAAGGTGTAC-3’
-gene_id: '458439'
+gene_id: '419458'
 gene_type: protein-coding
 images:
 - caption: FBLIM1 expression
@@ -52,13 +52,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R662.FBLIM1.S27.001.jpg
 name: filamin binding LIM protein 1
-ncbi_id: '458439'
+ncbi_id: '419458'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000162458
   entrez: '54751'
   mod: MIM:607747
@@ -69,24 +64,14 @@ orthologs:
   mod: MGI:1921452
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 779725,100137707
-  mod: '985569'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000071558
-  entrez: '768160'
-  mod: ZFIN:ZDB-GENE-061013-662
-  phenotypes: ZDB-GENE-061013-662
-  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTCCAGGGCTTCTTCTGCTTG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458439
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419458
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458439
+  url: https://www.ncbi.nlm.nih.gov/gene/419458
 species: Gallus gallus
 symbol: FBLIM1
 template_length: '414'
@@ -109,9 +94,6 @@ title: FBLIM1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000162458](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162458) | [54751](https://www.ncbi.nlm.nih.gov/gene/54751) | [MIM:607747](https://omim.org/entry/607747) |  |
 | Mouse | [ENSMUSG00000006219](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000006219) | [74202](https://www.ncbi.nlm.nih.gov/gene/74202) | [MGI:1921452](http://www.informatics.jax.org/marker/MGI:1921452) |  |
-| Xenopus |  | [779725](https://www.ncbi.nlm.nih.gov/gene/779725), [100137707](https://www.ncbi.nlm.nih.gov/gene/100137707) | [985569](http://www.xenbase.org/gene/showgene.do?method=display&geneId=985569) |  |
-| Zebrafish | [ENSDARG00000071558](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071558) | [768160](https://www.ncbi.nlm.nih.gov/gene/768160) | [ZFIN:ZDB-GENE-061013-662](https://zfin.org/ZDB-GENE-061013-662) | ZDB-GENE-061013-662 |
 

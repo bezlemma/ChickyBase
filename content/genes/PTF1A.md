@@ -11,7 +11,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/107052623
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
-gene_id: '509520'
+gene_id: '107052623'
 gene_type: unknown
 images:
 - caption: PTF1A expression
@@ -99,7 +99,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ptf1a.Boije.2008.Fig2.jpg
 name: pancreas associated transcription factor 1a
-ncbi_id: '509520'
+ncbi_id: '107052623'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -129,7 +129,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/509520
+  url: https://www.ncbi.nlm.nih.gov/gene/107052623
 species: Gallus gallus
 symbol: PTF1A
 title: PTF1A

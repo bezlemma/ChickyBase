@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423976
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006093.3?report=genbank&from=34861386&to=34897874
 forward_primer: CCTCTTCCATCCTTCATCACACG
-gene_id: '452771'
+gene_id: '423976'
 gene_type: protein-coding
 images:
 - caption: ALDH18A1 expression
@@ -196,41 +196,36 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R498.ALDH18A1.S26AA.001.jpg
 name: aldehyde dehydrogenase 18 family member A1
-ncbi_id: '452771'
+ncbi_id: '423976'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000059573
+  entrez: '5832'
+  mod: MIM:138250
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000025007
+  entrez: '56454'
+  mod: MGI:1888908
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000022613
+  entrez: '550060'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000099579
+  entrez: '557186'
+  mod: ZFIN:ZDB-GENE-030131-5602
+  phenotypes: L-proline biosynthetic process, amino acid biosynthetic process, phosphorylation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGACACCGTTGGCTCTTTTGACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452771
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423976
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452771
+  url: https://www.ncbi.nlm.nih.gov/gene/423976
 species: Gallus gallus
 symbol: ALDH18A1
 template_length: '742'
@@ -253,9 +248,8 @@ title: ALDH18A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000059573](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000059573) | [5832](https://www.ncbi.nlm.nih.gov/gene/5832) | [MIM:138250](https://omim.org/entry/138250) |  |
+| Mouse | [ENSMUSG00000025007](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025007) | [56454](https://www.ncbi.nlm.nih.gov/gene/56454) | [MGI:1888908](http://www.informatics.jax.org/marker/MGI:1888908) |  |
+| Xenopus | [ENSXETG00000022613](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022613) | [550060](https://www.ncbi.nlm.nih.gov/gene/550060) |  |  |
+| Zebrafish | [ENSDARG00000099579](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099579) | [557186](https://www.ncbi.nlm.nih.gov/gene/557186) | [ZFIN:ZDB-GENE-030131-5602](https://zfin.org/ZDB-GENE-030131-5602) | L-proline biosynthetic process, amino acid biosynthetic process, phosphorylation |
 

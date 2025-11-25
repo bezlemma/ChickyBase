@@ -5,9 +5,6 @@ aliases:
 - Wnt-8C
 cgnc_id: '4563'
 external_ids:
-  '25': stage 25
-  '4': stage 4stage 4
-  '7': stage 7
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0016055
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005578
   Citation: https://pubmed.ncbi.nlm.nih.gov/25063452/
@@ -23,7 +20,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005102
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205531
   X-XIV: stage Xstage XIIstage XIIstage XIIstage XIV
-gene_id: '460279'
+gene_id: '396543'
 gene_type: protein-coding
 images:
 - caption: WNT8A expression
@@ -622,13 +619,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-WNT8A-fig1.jpg
 name: Wnt family member 8A
-ncbi_id: '460279'
+ncbi_id: '396543'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000061492
   entrez: '7478'
   mod: MIM:606360
@@ -639,23 +631,24 @@ orthologs:
   mod: MGI:107924
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549962,397970
-  mod: '493705'
+- ensembl: ENSXETG00000003826
+  entrez: '549962'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000052910
   entrez: '30122'
   mod: ZFIN:ZDB-GENE-980526-332
-  phenotypes: ZDB-GENE-980526-332
+  phenotypes: Spemann organizer formation, Wnt signaling pathway, anterior/posterior
+    pattern specification, brain segmentation, canonical Wnt signaling pathway
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460279
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396543
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460279
+  url: https://www.ncbi.nlm.nih.gov/gene/396543
 species: Gallus gallus
 symbol: WNT8A
 title: WNT8A
@@ -684,9 +677,8 @@ title: WNT8A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000061492](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000061492) | [7478](https://www.ncbi.nlm.nih.gov/gene/7478) | [MIM:606360](https://omim.org/entry/606360) |  |
 | Mouse | [ENSMUSG00000012282](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000012282) | [20890](https://www.ncbi.nlm.nih.gov/gene/20890) | [MGI:107924](http://www.informatics.jax.org/marker/MGI:107924) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [549962](https://www.ncbi.nlm.nih.gov/gene/549962), [397970](https://www.ncbi.nlm.nih.gov/gene/397970) | [493705](http://www.xenbase.org/gene/showgene.do?method=display&geneId=493705) |  |
-| Zebrafish |  | [30122](https://www.ncbi.nlm.nih.gov/gene/30122) | [ZFIN:ZDB-GENE-980526-332](https://zfin.org/ZDB-GENE-980526-332) | ZDB-GENE-980526-332 |
+| Xenopus | [ENSXETG00000003826](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003826) | [549962](https://www.ncbi.nlm.nih.gov/gene/549962) |  |  |
+| Zebrafish | [ENSDARG00000052910](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052910) | [30122](https://www.ncbi.nlm.nih.gov/gene/30122) | [ZFIN:ZDB-GENE-980526-332](https://zfin.org/ZDB-GENE-980526-332) | Spemann organizer formation, Wnt signaling pathway, anterior/posterior pattern specification, brain segmentation, canonical Wnt signaling pathway |
 

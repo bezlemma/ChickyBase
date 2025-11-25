@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100857572
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641501
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/HTRA1
-gene_id: '472103'
+gene_id: '100857572'
 gene_type: protein-coding
 images:
 - caption: HTRA1 expression
@@ -361,7 +361,7 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferrer-Vaquer.Fig4.HTRA1.F.HH36.jpg
 name: HtrA serine peptidase 1
-ncbi_id: '472103'
+ncbi_id: '100857572'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -391,7 +391,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/472103
+  url: https://www.ncbi.nlm.nih.gov/gene/100857572
 species: Gallus gallus
 symbol: HTRA1
 title: HTRA1

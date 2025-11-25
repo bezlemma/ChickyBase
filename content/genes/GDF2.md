@@ -13,7 +13,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005125
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205432
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCACAAGTGAAGACCAAAGAAGAGCC
-gene_id: '460999'
+gene_id: '396412'
 gene_type: protein-coding
 images:
 - caption: GDF2 expression
@@ -66,13 +66,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R211.BMP9.S26.01.jpg
 name: growth differentiation factor 2
-ncbi_id: '460999'
+ncbi_id: '396412'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000263761
   entrez: '2658'
   mod: MIM:605120
@@ -83,24 +78,25 @@ orthologs:
   mod: MGI:1321394
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000034594
   entrez: '100485289'
-  mod: '478183'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000059173
   entrez: '563287'
   mod: ZFIN:ZDB-GENE-100107-1
-  phenotypes: ZDB-GENE-100107-1
+  phenotypes: BMP signaling pathway, angiogenesis, circulatory system development,
+    tube morphogenesis
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAAGCAGCAACAACAACCAGCCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460999
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396412
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460999
+  url: https://www.ncbi.nlm.nih.gov/gene/396412
 species: Gallus gallus
 symbol: GDF2
 template_length: '1181'
@@ -126,9 +122,8 @@ title: GDF2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000263761](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000263761) | [2658](https://www.ncbi.nlm.nih.gov/gene/2658) | [MIM:605120](https://omim.org/entry/605120) |  |
 | Mouse | [ENSMUSG00000072625](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000072625) | [12165](https://www.ncbi.nlm.nih.gov/gene/12165) | [MGI:1321394](http://www.informatics.jax.org/marker/MGI:1321394) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100485289](https://www.ncbi.nlm.nih.gov/gene/100485289) | [478183](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478183) |  |
-| Zebrafish | [ENSDARG00000059173](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059173) | [563287](https://www.ncbi.nlm.nih.gov/gene/563287) | [ZFIN:ZDB-GENE-100107-1](https://zfin.org/ZDB-GENE-100107-1) | ZDB-GENE-100107-1 |
+| Xenopus | [ENSXETG00000034594](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034594) | [100485289](https://www.ncbi.nlm.nih.gov/gene/100485289) |  |  |
+| Zebrafish | [ENSDARG00000059173](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059173) | [563287](https://www.ncbi.nlm.nih.gov/gene/563287) | [ZFIN:ZDB-GENE-100107-1](https://zfin.org/ZDB-GENE-100107-1) | BMP signaling pathway, angiogenesis, circulatory system development, tube morphogenesis |
 

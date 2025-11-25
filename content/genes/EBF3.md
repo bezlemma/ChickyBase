@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395175
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421824
-gene_id: '462287'
+gene_id: '395175'
 gene_type: protein-coding
 images:
 - caption: EBF3 expression
@@ -63,7 +63,7 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EBF3_HH12_s71.jpg
 name: early B cell factor 3
-ncbi_id: '462287'
+ncbi_id: '395175'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -93,7 +93,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462287
+  url: https://www.ncbi.nlm.nih.gov/gene/395175
 species: Gallus gallus
 symbol: EBF3
 title: EBF3

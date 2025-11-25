@@ -4,7 +4,6 @@ aliases:
 - Serpin A8
 cgnc_id: '8441'
 external_ids:
-  '25': stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Savary+Michaud+Favier+Larger
   Comments: The complete cDNA template sequence was obtained from the information
     provided in the publication as described in Savary et al. 2005. Also known as
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421543
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419584
 forward_primer: CCCCTCTGCTGATGCTTTTTACAC
-gene_id: '458269'
+gene_id: '421543'
 gene_type: protein-coding
 images:
 - caption: AGT expression
@@ -177,13 +176,8 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AGT.Savary.2005.Fig.4.png
 name: angiotensinogen
-ncbi_id: '458269'
+ncbi_id: '421543'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000135744
   entrez: '183'
   mod: MIM:106150
@@ -194,24 +188,26 @@ orthologs:
   mod: MGI:87963
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000023342
   entrez: '100127178'
-  mod: '480137'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000016412
   entrez: '322485'
   mod: ZFIN:ZDB-GENE-030131-1205
-  phenotypes: ZDB-GENE-030131-1205
+  phenotypes: blood vessel diameter maintenance, regulation of apoptotic process,
+    regulation of systemic arterial blood pressure by renin-angiotensin, response
+    to angiotensin, vasoconstriction
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTTTTTCTTCTCCCCTCTTCCTCGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458269
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421543
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458269
+  url: https://www.ncbi.nlm.nih.gov/gene/421543
 species: Gallus gallus
 symbol: AGT
 template_length: '808'
@@ -238,9 +234,8 @@ title: AGT
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000135744](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135744) | [183](https://www.ncbi.nlm.nih.gov/gene/183) | [MIM:106150](https://omim.org/entry/106150) | MIM:145500 |
 | Mouse | [ENSMUSG00000031980](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031980) | [11606](https://www.ncbi.nlm.nih.gov/gene/11606) | [MGI:87963](http://www.informatics.jax.org/marker/MGI:87963) | All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1) |
-| Xenopus |  | [100127178](https://www.ncbi.nlm.nih.gov/gene/100127178) | [480137](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480137) |  |
-| Zebrafish | [ENSDARG00000016412](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016412) | [322485](https://www.ncbi.nlm.nih.gov/gene/322485) | [ZFIN:ZDB-GENE-030131-1205](https://zfin.org/ZDB-GENE-030131-1205) | ZDB-GENE-030131-1205 |
+| Xenopus | [ENSXETG00000023342](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023342) | [100127178](https://www.ncbi.nlm.nih.gov/gene/100127178) |  |  |
+| Zebrafish | [ENSDARG00000016412](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016412) | [322485](https://www.ncbi.nlm.nih.gov/gene/322485) | [ZFIN:ZDB-GENE-030131-1205](https://zfin.org/ZDB-GENE-030131-1205) | blood vessel diameter maintenance, regulation of apoptotic process, regulation of systemic arterial blood pressure by renin-angiotensin, response to angiotensin, vasoconstriction |
 

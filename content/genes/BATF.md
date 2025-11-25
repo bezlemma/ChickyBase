@@ -1,14 +1,13 @@
 ---
 cgnc_id: '7855'
 external_ids:
-  '25': stage 25
   Comments: No specific expression detected stages 7-25.
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000010323
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423364
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421279
 forward_primer: GAAAGCGGACAAACTTCACGAG
-gene_id: '448694'
+gene_id: '423364'
 gene_type: protein-coding
 images:
 - caption: BATF expression
@@ -109,13 +108,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R296.BATF.S25.001.jpg
 name: basic leucine zipper ATF-like transcription factor
-ncbi_id: '448694'
+ncbi_id: '423364'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000156127
   entrez: '10538'
   mod: MIM:612476
@@ -126,24 +120,26 @@ orthologs:
   mod: MGI:1859147
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100492340,100036977
-  mod: '6258075'
+- ensembl: ENSXETG00000046017
+  entrez: '100492340'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000011818
   entrez: '564589'
   mod: ZFIN:ZDB-GENE-041014-291
-  phenotypes: ZDB-GENE-041014-291
+  phenotypes: DNA damage response, DNA damage response, signal transduction by p53
+    class mediator, T-helper 17 cell differentiation, T-helper 17 cell lineage commitment,
+    T-helper 2 cell differentiation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTGAGCGATGGTGGGCTGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448694
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423364
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448694
+  url: https://www.ncbi.nlm.nih.gov/gene/423364
 species: Gallus gallus
 symbol: BATF
 template_length: '484'
@@ -167,9 +163,8 @@ title: BATF
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000156127](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000156127) | [10538](https://www.ncbi.nlm.nih.gov/gene/10538) | [MIM:612476](https://omim.org/entry/612476) |  |
 | Mouse | [ENSMUSG00000034266](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034266) | [53314](https://www.ncbi.nlm.nih.gov/gene/53314) | [MGI:1859147](http://www.informatics.jax.org/marker/MGI:1859147) | All phenotypic alleles (3):Targeted, knock-out(3) |
-| Xenopus |  | [100492340](https://www.ncbi.nlm.nih.gov/gene/100492340), [100036977](https://www.ncbi.nlm.nih.gov/gene/100036977) | [6258075](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6258075) |  |
-| Zebrafish | [ENSDARG00000011818](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011818) | [564589](https://www.ncbi.nlm.nih.gov/gene/564589) | [ZFIN:ZDB-GENE-041014-291](https://zfin.org/ZDB-GENE-041014-291) | ZDB-GENE-041014-291 |
+| Xenopus | [ENSXETG00000046017](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000046017) | [100492340](https://www.ncbi.nlm.nih.gov/gene/100492340) |  |  |
+| Zebrafish | [ENSDARG00000011818](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011818) | [564589](https://www.ncbi.nlm.nih.gov/gene/564589) | [ZFIN:ZDB-GENE-041014-291](https://zfin.org/ZDB-GENE-041014-291) | DNA damage response, DNA damage response, signal transduction by p53 class mediator, T-helper 17 cell differentiation, T-helper 17 cell lineage commitment, T-helper 2 cell differentiation |
 

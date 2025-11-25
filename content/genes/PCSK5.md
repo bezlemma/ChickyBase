@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395456
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424841
-gene_id: '449255'
+gene_id: '395456'
 gene_type: protein-coding
 images:
 - caption: PCSK5 expression
@@ -52,38 +52,23 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/8d'.jpg
 name: proprotein convertase subtilisin/kexin type 5
-ncbi_id: '449255'
+ncbi_id: '395456'
 orthologs:
 - ensembl: ''
-  entrez: '32604'
-  mod: FBgn0004598
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000099139
-  entrez: '5125'
-  mod: MIM:600488
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000024713
-  entrez: '18552'
-  mod: MGI:97515
-  phenotypes: All phenotypic alleles (7):Chemically induced(1) Targeted, knock-out(3)
-    Targeted, other(3)
-  species: Mouse
-- ensembl: ''
-  entrez: 779961,446297
-  mod: '959595'
+  entrez: '100486641'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000067537
-  entrez: 571235,559556
-  mod: ZFIN:ZDB-GENE-060531-130,ZFIN:ZDB-GENE-070822-7
-  phenotypes: ZDB-GENE-060531-130,ZDB-GENE-070822-7
+- ensembl: ''
+  entrez: '100330575'
+  mod: ''
+  phenotypes: anterior lateral line development, neuromast development, peptide hormone
+    processing, proteolysis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449255
+  url: https://www.ncbi.nlm.nih.gov/gene/395456
 species: Gallus gallus
 symbol: PCSK5
 title: PCSK5
@@ -111,9 +96,6 @@ Copyright © 2003 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32604](https://www.ncbi.nlm.nih.gov/gene/32604) | FBgn0004598 |  |
-| Human | [ENSG00000099139](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000099139) | [5125](https://www.ncbi.nlm.nih.gov/gene/5125) | [MIM:600488](https://omim.org/entry/600488) |  |
-| Mouse | [ENSMUSG00000024713](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024713) | [18552](https://www.ncbi.nlm.nih.gov/gene/18552) | [MGI:97515](http://www.informatics.jax.org/marker/MGI:97515) | All phenotypic alleles (7):Chemically induced(1) Targeted, knock-out(3) Targeted, other(3) |
-| Xenopus |  | [779961](https://www.ncbi.nlm.nih.gov/gene/779961), [446297](https://www.ncbi.nlm.nih.gov/gene/446297) | [959595](http://www.xenbase.org/gene/showgene.do?method=display&geneId=959595) |  |
-| Zebrafish | [ENSDARG00000067537](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000067537) | [571235](https://www.ncbi.nlm.nih.gov/gene/571235), [559556](https://www.ncbi.nlm.nih.gov/gene/559556) | [ZFIN:ZDB-GENE-060531-130](https://zfin.org/ZDB-GENE-060531-130), [ZFIN:ZDB-GENE-070822-7](https://zfin.org/ZDB-GENE-070822-7) | ZDB-GENE-060531-130,ZDB-GENE-070822-7 |
+| Xenopus |  | [100486641](https://www.ncbi.nlm.nih.gov/gene/100486641) |  |  |
+| Zebrafish |  | [100330575](https://www.ncbi.nlm.nih.gov/gene/100330575) |  | anterior lateral line development, neuromast development, peptide hormone processing, proteolysis |
 

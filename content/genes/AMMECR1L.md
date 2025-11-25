@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424755
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422577
 forward_primer: AACTGCCAATAGCACCAAGAACC
-gene_id: '450988'
+gene_id: '424755'
 gene_type: protein-coding
 images:
 - caption: AMMECR1L expression
@@ -94,13 +94,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R522.AMMECR1L.S26.001.jpg
 name: AMMECR1 like
-ncbi_id: '450988'
+ncbi_id: '424755'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000144233
   entrez: '83607'
   mod: ''
@@ -112,23 +107,18 @@ orthologs:
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
 - ensembl: ''
-  entrez: 100158611,444134
-  mod: '5787906'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+  entrez: '100158611'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: AATTAACCCTCACTAAAGGTCGGTAACACACGCAAACAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450988
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424755
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450988
+  url: https://www.ncbi.nlm.nih.gov/gene/424755
 species: Gallus gallus
 symbol: AMMECR1L
 template_length: '981'
@@ -150,9 +140,7 @@ title: AMMECR1L
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000144233](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000144233) | [83607](https://www.ncbi.nlm.nih.gov/gene/83607) |  |  |
 | Mouse | [ENSMUSG00000041915](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041915) | [225339](https://www.ncbi.nlm.nih.gov/gene/225339) | [MGI:2442711](http://www.informatics.jax.org/marker/MGI:2442711) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100158611](https://www.ncbi.nlm.nih.gov/gene/100158611), [444134](https://www.ncbi.nlm.nih.gov/gene/444134) | [5787906](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5787906) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus |  | [100158611](https://www.ncbi.nlm.nih.gov/gene/100158611) |  |  |
 

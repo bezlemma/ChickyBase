@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396015
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205118
-gene_id: '459248'
+gene_id: '396015'
 gene_type: protein-coding
 images:
 - caption: HSD3B1 expression
@@ -32,37 +32,32 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F1.hsd3b1.png
 name: hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1
-ncbi_id: '459248'
+ncbi_id: '396015'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000203857
-  entrez: '3283'
-  mod: MIM:109715
+- ensembl: ENSG00000203859
+  entrez: '3284'
+  mod: MIM:613890
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000027869,ENSMUSG00000063730
-  entrez: 15497,15493
-  mod: MGI:109598,MGI:96234
+- ensembl: ENSMUSG00000027871
+  entrez: '15492'
+  mod: MGI:96233
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100490622,734818
-  mod: '995099'
+- ensembl: ENSXETG00000044959
+  entrez: '100490622'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000019747,ENSDARG00000069926
-  entrez: 373131,553532
-  mod: ZFIN:ZDB-GENE-030828-2,ZFIN:ZDB-GENE-081105-30
-  phenotypes: ZDB-GENE-030828-2,ZDB-GENE-081105-30
+- ensembl: ENSDARG00000115803
+  entrez: '553532'
+  mod: ZFIN:ZDB-GENE-081105-30
+  phenotypes: pigmentation, steroid biosynthetic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459248
+  url: https://www.ncbi.nlm.nih.gov/gene/396015
 species: Gallus gallus
 symbol: HSD3B1
 title: HSD3B1
@@ -88,9 +83,8 @@ title: HSD3B1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000203857](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000203857) | [3283](https://www.ncbi.nlm.nih.gov/gene/3283) | [MIM:109715](https://omim.org/entry/109715) |  |
-| Mouse | [ENSMUSG00000027869](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027869), [ENSMUSG00000063730](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000063730) | [15497](https://www.ncbi.nlm.nih.gov/gene/15497), [15493](https://www.ncbi.nlm.nih.gov/gene/15493) | [MGI:109598](http://www.informatics.jax.org/marker/MGI:109598), [MGI:96234](http://www.informatics.jax.org/marker/MGI:96234) |  |
-| Xenopus |  | [100490622](https://www.ncbi.nlm.nih.gov/gene/100490622), [734818](https://www.ncbi.nlm.nih.gov/gene/734818) | [995099](http://www.xenbase.org/gene/showgene.do?method=display&geneId=995099) |  |
-| Zebrafish | [ENSDARG00000019747](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019747), [ENSDARG00000069926](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069926) | [373131](https://www.ncbi.nlm.nih.gov/gene/373131), [553532](https://www.ncbi.nlm.nih.gov/gene/553532) | [ZFIN:ZDB-GENE-030828-2](https://zfin.org/ZDB-GENE-030828-2), [ZFIN:ZDB-GENE-081105-30](https://zfin.org/ZDB-GENE-081105-30) | ZDB-GENE-030828-2,ZDB-GENE-081105-30 |
+| Human | [ENSG00000203859](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000203859) | [3284](https://www.ncbi.nlm.nih.gov/gene/3284) | [MIM:613890](https://omim.org/entry/613890) |  |
+| Mouse | [ENSMUSG00000027871](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027871) | [15492](https://www.ncbi.nlm.nih.gov/gene/15492) | [MGI:96233](http://www.informatics.jax.org/marker/MGI:96233) |  |
+| Xenopus | [ENSXETG00000044959](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044959) | [100490622](https://www.ncbi.nlm.nih.gov/gene/100490622) |  |  |
+| Zebrafish | [ENSDARG00000115803](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115803) | [553532](https://www.ncbi.nlm.nih.gov/gene/553532) | [ZFIN:ZDB-GENE-081105-30](https://zfin.org/ZDB-GENE-081105-30) | pigmentation, steroid biosynthetic process |
 

@@ -24,7 +24,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374163
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204289
-gene_id: '455282'
+gene_id: '374163'
 gene_type: protein-coding
 images:
 - caption: HSP90B1 expression
@@ -70,13 +70,8 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/8B.jpg
 name: heat shock protein 90 beta family member 1
-ncbi_id: '455282'
+ncbi_id: '374163'
 orthologs:
-- ensembl: ''
-  entrez: '43354'
-  mod: FBgn0039562
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000166598
   entrez: '7184'
   mod: MIM:191175
@@ -87,23 +82,24 @@ orthologs:
   mod: MGI:98817
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 734089,399408
-  mod: '494759'
+- ensembl: ENSXETG00000005359
+  entrez: '734089'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000003570
+- ensembl: ENSDARG00000114206
   entrez: '386590'
   mod: ZFIN:ZDB-GENE-031002-1
-  phenotypes: ZDB-GENE-031002-1
+  phenotypes: ERAD pathway, defense response to Gram-positive bacterium, otolith tethering,
+    protein folding, response to hypoxia
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455282
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374163
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455282
+  url: https://www.ncbi.nlm.nih.gov/gene/374163
 species: Gallus gallus
 symbol: HSP90B1
 title: HSP90B1
@@ -134,9 +130,8 @@ Copyright © 2003 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43354](https://www.ncbi.nlm.nih.gov/gene/43354) | FBgn0039562 |  |
 | Human | [ENSG00000166598](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166598) | [7184](https://www.ncbi.nlm.nih.gov/gene/7184) | [MIM:191175](https://omim.org/entry/191175) |  |
 | Mouse | [ENSMUSG00000020048](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020048) | [22027](https://www.ncbi.nlm.nih.gov/gene/22027) | [MGI:98817](http://www.informatics.jax.org/marker/MGI:98817) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4) |
-| Xenopus |  | [734089](https://www.ncbi.nlm.nih.gov/gene/734089), [399408](https://www.ncbi.nlm.nih.gov/gene/399408) | [494759](http://www.xenbase.org/gene/showgene.do?method=display&geneId=494759) |  |
-| Zebrafish | [ENSDARG00000003570](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003570) | [386590](https://www.ncbi.nlm.nih.gov/gene/386590) | [ZFIN:ZDB-GENE-031002-1](https://zfin.org/ZDB-GENE-031002-1) | ZDB-GENE-031002-1 |
+| Xenopus | [ENSXETG00000005359](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005359) | [734089](https://www.ncbi.nlm.nih.gov/gene/734089) |  |  |
+| Zebrafish | [ENSDARG00000114206](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114206) | [386590](https://www.ncbi.nlm.nih.gov/gene/386590) | [ZFIN:ZDB-GENE-031002-1](https://zfin.org/ZDB-GENE-031002-1) | ERAD pathway, defense response to Gram-positive bacterium, otolith tethering, protein folding, response to hypoxia |
 

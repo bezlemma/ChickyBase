@@ -26,7 +26,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204410
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/SPARC
-gene_id: '459074'
+gene_id: '386571'
 gene_type: protein-coding
 images:
 - caption: SPARC expression
@@ -44,13 +44,8 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPARCRP1.Chambers.2006.FIg.3.png
 name: secreted protein acidic and cysteine rich
-ncbi_id: '459074'
+ncbi_id: '386571'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000113140
   entrez: '6678'
   mod: MIM:182120
@@ -61,20 +56,21 @@ orthologs:
   mod: MGI:98373
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 394973,379277
-  mod: '1009629'
+- ensembl: ENSXETG00000010707
+  entrez: '394973'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000019353
   entrez: '321357'
   mod: ZFIN:ZDB-GENE-030131-9
-  phenotypes: ZDB-GENE-030131-9
+  phenotypes: cartilage development, erythrocyte differentiation, otic vesicle formation,
+    otolith morphogenesis, pharyngeal system development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459074
+  url: https://www.ncbi.nlm.nih.gov/gene/386571
 species: Gallus gallus
 symbol: SPARC
 title: SPARC
@@ -104,9 +100,8 @@ title: SPARC
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000113140](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113140) | [6678](https://www.ncbi.nlm.nih.gov/gene/6678) | [MIM:182120](https://omim.org/entry/182120) |  |
 | Mouse | [ENSMUSG00000018593](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018593) | [20692](https://www.ncbi.nlm.nih.gov/gene/20692) | [MGI:98373](http://www.informatics.jax.org/marker/MGI:98373) | All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3) |
-| Xenopus |  | [394973](https://www.ncbi.nlm.nih.gov/gene/394973), [379277](https://www.ncbi.nlm.nih.gov/gene/379277) | [1009629](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1009629) |  |
-| Zebrafish | [ENSDARG00000019353](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019353) | [321357](https://www.ncbi.nlm.nih.gov/gene/321357) | [ZFIN:ZDB-GENE-030131-9](https://zfin.org/ZDB-GENE-030131-9) | ZDB-GENE-030131-9 |
+| Xenopus | [ENSXETG00000010707](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010707) | [394973](https://www.ncbi.nlm.nih.gov/gene/394973) |  |  |
+| Zebrafish | [ENSDARG00000019353](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019353) | [321357](https://www.ncbi.nlm.nih.gov/gene/321357) | [ZFIN:ZDB-GENE-030131-9](https://zfin.org/ZDB-GENE-030131-9) | cartilage development, erythrocyte differentiation, otic vesicle formation, otolith morphogenesis, pharyngeal system development |
 

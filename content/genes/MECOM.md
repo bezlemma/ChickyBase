@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424997
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422804
 forward_primer: 5’-TCAGTGCCTTGAAGCCAGAG-3’
-gene_id: '448690'
+gene_id: '424997'
 gene_type: protein-coding
 images:
 - caption: MECOM expression
@@ -362,13 +362,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cela.2013-Evi1-fig4.jpg
 name: MDS1 and EVI1 complex locus
-ncbi_id: '448690'
+ncbi_id: '424997'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000085276
   entrez: '2122'
   mod: MIM:165215
@@ -380,24 +375,26 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Chemically induced(1) Targeted, knock-out(2)
     Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 734157,100301954
-  mod: '980194'
+- ensembl: ENSXETG00000022839
+  entrez: '100496511'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000060808
   entrez: '497407'
   mod: ZFIN:ZDB-GENE-050208-123
-  phenotypes: ZDB-GENE-050208-123
+  phenotypes: embryonic cranial skeleton morphogenesis, embryonic neurocranium morphogenesis,
+    embryonic viscerocranium morphogenesis, endothelial to hematopoietic transition,
+    multi-ciliated epithelial cell differentiation
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCAGGGGAAGCTTTGCAGTTC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448690
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424997
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448690
+  url: https://www.ncbi.nlm.nih.gov/gene/424997
 species: Gallus gallus
 symbol: MECOM
 template_length: '753'
@@ -424,9 +421,8 @@ title: MECOM
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000085276](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000085276) | [2122](https://www.ncbi.nlm.nih.gov/gene/2122) | [MIM:165215](https://omim.org/entry/165215) | MIM:165215 |
 | Mouse | [ENSMUSG00000027684](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027684) | [14013](https://www.ncbi.nlm.nih.gov/gene/14013) | [MGI:95457](http://www.informatics.jax.org/marker/MGI:95457) | All phenotypic alleles (4):Chemically induced(1) Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [734157](https://www.ncbi.nlm.nih.gov/gene/734157), [100301954](https://www.ncbi.nlm.nih.gov/gene/100301954) | [980194](http://www.xenbase.org/gene/showgene.do?method=display&geneId=980194) |  |
-| Zebrafish | [ENSDARG00000060808](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060808) | [497407](https://www.ncbi.nlm.nih.gov/gene/497407) | [ZFIN:ZDB-GENE-050208-123](https://zfin.org/ZDB-GENE-050208-123) | ZDB-GENE-050208-123 |
+| Xenopus | [ENSXETG00000022839](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022839) | [100496511](https://www.ncbi.nlm.nih.gov/gene/100496511) |  |  |
+| Zebrafish | [ENSDARG00000060808](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060808) | [497407](https://www.ncbi.nlm.nih.gov/gene/497407) | [ZFIN:ZDB-GENE-050208-123](https://zfin.org/ZDB-GENE-050208-123) | embryonic cranial skeleton morphogenesis, embryonic neurocranium morphogenesis, embryonic viscerocranium morphogenesis, endothelial to hematopoietic transition, multi-ciliated epithelial cell differentiation |
 

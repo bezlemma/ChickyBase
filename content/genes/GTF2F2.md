@@ -9,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418843
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417039
-gene_id: '454273'
+gene_id: '418843'
 gene_type: protein-coding
 images:
 - caption: GTF2F2 expression
@@ -41,13 +41,8 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54ya4.122.21.jpg
 name: general transcription factor IIF subunit 2
-ncbi_id: '454273'
+ncbi_id: '418843'
 orthologs:
-- ensembl: ''
-  entrez: '41290'
-  mod: FBgn0010421
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000188342
   entrez: '2963'
   mod: MIM:189969
@@ -58,23 +53,24 @@ orthologs:
   mod: MGI:1915955
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 394584,398333
-  mod: '855678'
+- ensembl: ENSXETG00000036901
+  entrez: '394584'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000069910,ENSDARG00000006816
-  entrez: 415217,100148942
-  mod: ZFIN:ZDB-GENE-040625-131,ZFIN:ZDB-GENE-050417-374
-  phenotypes: ZDB-GENE-040625-131,ZDB-GENE-050417-374
+- ensembl: ENSDARG00000069910
+  entrez: '415217'
+  mod: ZFIN:ZDB-GENE-040625-131
+  phenotypes: transcription by RNA polymerase II, transcription elongation by RNA
+    polymerase II, transcription initiation at RNA polymerase II promoter
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454273
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418843
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454273
+  url: https://www.ncbi.nlm.nih.gov/gene/418843
 species: Gallus gallus
 symbol: GTF2F2
 title: GTF2F2
@@ -97,9 +93,8 @@ title: GTF2F2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41290](https://www.ncbi.nlm.nih.gov/gene/41290) | FBgn0010421 |  |
 | Human | [ENSG00000188342](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000188342) | [2963](https://www.ncbi.nlm.nih.gov/gene/2963) | [MIM:189969](https://omim.org/entry/189969) |  |
 | Mouse | [ENSMUSG00000067995](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000067995) | [68705](https://www.ncbi.nlm.nih.gov/gene/68705) | [MGI:1915955](http://www.informatics.jax.org/marker/MGI:1915955) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [394584](https://www.ncbi.nlm.nih.gov/gene/394584), [398333](https://www.ncbi.nlm.nih.gov/gene/398333) | [855678](http://www.xenbase.org/gene/showgene.do?method=display&geneId=855678) |  |
-| Zebrafish | [ENSDARG00000069910](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069910), [ENSDARG00000006816](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006816) | [415217](https://www.ncbi.nlm.nih.gov/gene/415217), [100148942](https://www.ncbi.nlm.nih.gov/gene/100148942) | [ZFIN:ZDB-GENE-040625-131](https://zfin.org/ZDB-GENE-040625-131), [ZFIN:ZDB-GENE-050417-374](https://zfin.org/ZDB-GENE-050417-374) | ZDB-GENE-040625-131,ZDB-GENE-050417-374 |
+| Xenopus | [ENSXETG00000036901](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000036901) | [394584](https://www.ncbi.nlm.nih.gov/gene/394584) |  |  |
+| Zebrafish | [ENSDARG00000069910](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069910) | [415217](https://www.ncbi.nlm.nih.gov/gene/415217) | [ZFIN:ZDB-GENE-040625-131](https://zfin.org/ZDB-GENE-040625-131) | transcription by RNA polymerase II, transcription elongation by RNA polymerase II, transcription initiation at RNA polymerase II promoter |
 

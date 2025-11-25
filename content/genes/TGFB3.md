@@ -3,7 +3,6 @@ aliases:
 - TGF beta 3
 cgnc_id: '7874'
 external_ids:
-  '25': stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0060317
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005615
   Comments: No specific expression detected stage 3-5.
@@ -14,7 +13,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008083
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205454
 forward_primer: GGGCGATGGAGAAAAATGC
-gene_id: '461042'
+gene_id: '396438'
 gene_type: protein-coding
 images:
 - caption: TGFB3 expression
@@ -224,14 +223,9 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGFB3.R204.S25.1.jpg
 name: transforming growth factor beta 3
-ncbi_id: '461042'
+ncbi_id: '396438'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000119699
   entrez: '7043'
   mod: MIM:190230
   phenotypes: MIM:107970
@@ -241,24 +235,21 @@ orthologs:
   mod: MGI:98727
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(4) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000019367
   entrez: '369195'
   mod: ZFIN:ZDB-GENE-030723-4
-  phenotypes: ZDB-GENE-030723-4
+  phenotypes: animal organ morphogenesis, heart development, hematopoietic stem cell
+    differentiation, positive regulation of cell division, regulation of cartilage
+    development
   species: Zebrafish
 reverse_primer: ATTAA CCCTCACTAAAGGATGTAGTAGAGGATGGTGAGGGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461042
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396438
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461042
+  url: https://www.ncbi.nlm.nih.gov/gene/396438
 species: Gallus gallus
 symbol: TGFB3
 template_length: '743'
@@ -286,9 +277,7 @@ title: TGFB3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [7043](https://www.ncbi.nlm.nih.gov/gene/7043) | [MIM:190230](https://omim.org/entry/190230) | MIM:107970 |
+| Human | [ENSG00000119699](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000119699) | [7043](https://www.ncbi.nlm.nih.gov/gene/7043) | [MIM:190230](https://omim.org/entry/190230) | MIM:107970 |
 | Mouse | [ENSMUSG00000021253](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021253) | [21809](https://www.ncbi.nlm.nih.gov/gene/21809) | [MGI:98727](http://www.informatics.jax.org/marker/MGI:98727) | All phenotypic alleles (5):Targeted, knock-out(4) Targeted, other(1) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000019367](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019367) | [369195](https://www.ncbi.nlm.nih.gov/gene/369195) | [ZFIN:ZDB-GENE-030723-4](https://zfin.org/ZDB-GENE-030723-4) | ZDB-GENE-030723-4 |
+| Zebrafish | [ENSDARG00000019367](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019367) | [369195](https://www.ncbi.nlm.nih.gov/gene/369195) | [ZFIN:ZDB-GENE-030723-4](https://zfin.org/ZDB-GENE-030723-4) | animal organ morphogenesis, heart development, hematopoietic stem cell differentiation, positive regulation of cell division, regulation of cartilage development |
 

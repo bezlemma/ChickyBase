@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:430698
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_428250
 forward_primer: AACTCAGTGAATCTGGGCAACTTC
-gene_id: '459781'
+gene_id: '430698'
 gene_type: protein-coding
 images:
 - caption: HOXC11 expression
@@ -229,41 +229,37 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxc-11.Nelson.1996.Fig4.jpg
 name: homeobox C11
-ncbi_id: '459781'
+ncbi_id: '430698'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000123388
   entrez: '3227'
   mod: MIM:605559
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000001656
   entrez: '109663'
   mod: MGI:96193
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
 - ensembl: ''
   entrez: '100487406'
-  mod: '486584'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000070351
-  entrez: 30403,570925
-  mod: ZFIN:ZDB-GENE-990415-111,ZFIN:ZDB-GENE-000822-3
-  phenotypes: ZDB-GENE-990415-111,ZDB-GENE-000822-3
+  entrez: '30403'
+  mod: ZFIN:ZDB-GENE-990415-111
+  phenotypes: embryonic skeletal joint morphogenesis, regulation of DNA-templated
+    transcription, regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCACCTCTTCTTCCTCGTTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459781
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=430698
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459781
+  url: https://www.ncbi.nlm.nih.gov/gene/430698
 species: Gallus gallus
 symbol: HOXC11
 template_length: '693'
@@ -290,9 +286,8 @@ title: HOXC11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000123388](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000123388) | [3227](https://www.ncbi.nlm.nih.gov/gene/3227) | [MIM:605559](https://omim.org/entry/605559) |  |
-| Mouse |  | [109663](https://www.ncbi.nlm.nih.gov/gene/109663) | [MGI:96193](http://www.informatics.jax.org/marker/MGI:96193) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100487406](https://www.ncbi.nlm.nih.gov/gene/100487406) | [486584](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486584) |  |
-| Zebrafish | [ENSDARG00000070351](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070351) | [30403](https://www.ncbi.nlm.nih.gov/gene/30403), [570925](https://www.ncbi.nlm.nih.gov/gene/570925) | [ZFIN:ZDB-GENE-990415-111](https://zfin.org/ZDB-GENE-990415-111), [ZFIN:ZDB-GENE-000822-3](https://zfin.org/ZDB-GENE-000822-3) | ZDB-GENE-990415-111,ZDB-GENE-000822-3 |
+| Mouse | [ENSMUSG00000001656](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001656) | [109663](https://www.ncbi.nlm.nih.gov/gene/109663) | [MGI:96193](http://www.informatics.jax.org/marker/MGI:96193) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
+| Xenopus |  | [100487406](https://www.ncbi.nlm.nih.gov/gene/100487406) |  |  |
+| Zebrafish | [ENSDARG00000070351](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070351) | [30403](https://www.ncbi.nlm.nih.gov/gene/30403) | [ZFIN:ZDB-GENE-990415-111](https://zfin.org/ZDB-GENE-990415-111) | embryonic skeletal joint morphogenesis, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

@@ -4,7 +4,6 @@ aliases:
 - deleted in bladder cancer protein 1 homolog
 cgnc_id: '5279'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007050
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -13,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395098
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204449
 forward_primer: 5'-CGGAGCAATCAAGGTAACAGAAAC-3'
-gene_id: '460664'
+gene_id: '395098'
 gene_type: protein-coding
 images:
 - caption: BRINP1 expression
@@ -164,13 +163,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R546.BRINP1.S25AAAAAA.001.jpg
 name: BMP/retinoic acid inducible neural specific 1
-ncbi_id: '460664'
+ncbi_id: '395098'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000078725
   entrez: '1620'
   mod: MIM:602865
@@ -181,24 +175,26 @@ orthologs:
   mod: MGI:1928478
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000036540
   entrez: '100495314'
-  mod: '1011964'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000078302
   entrez: '100334375'
   mod: ZFIN:ZDB-GENE-130530-847
-  phenotypes: ZDB-GENE-130530-847
+  phenotypes: cellular response to retinoic acid, central nervous system neuron differentiation,
+    negative regulation of mitotic cell cycle, nervous system development, positive
+    regulation of neuron differentiation
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGATCAAAGAAGGTGTCCAGGCGG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460664
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395098
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460664
+  url: https://www.ncbi.nlm.nih.gov/gene/395098
 species: Gallus gallus
 symbol: BRINP1
 template_length: '985'
@@ -223,9 +219,8 @@ title: BRINP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000078725](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000078725) | [1620](https://www.ncbi.nlm.nih.gov/gene/1620) | [MIM:602865](https://omim.org/entry/602865) |  |
 | Mouse | [ENSMUSG00000028351](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028351) | [56710](https://www.ncbi.nlm.nih.gov/gene/56710) | [MGI:1928478](http://www.informatics.jax.org/marker/MGI:1928478) |  |
-| Xenopus |  | [100495314](https://www.ncbi.nlm.nih.gov/gene/100495314) | [1011964](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1011964) |  |
-| Zebrafish | [ENSDARG00000078302](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078302) | [100334375](https://www.ncbi.nlm.nih.gov/gene/100334375) | [ZFIN:ZDB-GENE-130530-847](https://zfin.org/ZDB-GENE-130530-847) | ZDB-GENE-130530-847 |
+| Xenopus | [ENSXETG00000036540](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000036540) | [100495314](https://www.ncbi.nlm.nih.gov/gene/100495314) |  |  |
+| Zebrafish | [ENSDARG00000078302](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078302) | [100334375](https://www.ncbi.nlm.nih.gov/gene/100334375) | [ZFIN:ZDB-GENE-130530-847](https://zfin.org/ZDB-GENE-130530-847) | cellular response to retinoic acid, central nervous system neuron differentiation, negative regulation of mitotic cell cycle, nervous system development, positive regulation of neuron differentiation |
 

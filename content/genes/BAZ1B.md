@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427819
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001233716
 forward_primer: GGAGGCTTCCTTTACTTGAACCG
-gene_id: '457914'
+gene_id: '427819'
 gene_type: protein-coding
 images:
 - caption: BAZ1B expression
@@ -156,41 +156,37 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BAZ1B.S26AA.001.jpg
 name: bromodomain adjacent to zinc finger domain 1B
-ncbi_id: '457914'
+ncbi_id: '427819'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000009954
+  entrez: '9031'
+  mod: MIM:605681
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000002748
+  entrez: '22385'
+  mod: MGI:1353499
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000010334
+  entrez: '100038181'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000102832
+  entrez: '571727'
+  mod: ZFIN:ZDB-GENE-010328-16
+  phenotypes: DNA damage response, chromatin remodeling, phosphorylation, post-translational
+    protein modification
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTTGGCAATCCCATCCTGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457914
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427819
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457914
+  url: https://www.ncbi.nlm.nih.gov/gene/427819
 species: Gallus gallus
 symbol: BAZ1B
 template_length: '750'
@@ -214,9 +210,8 @@ title: BAZ1B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000009954](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000009954) | [9031](https://www.ncbi.nlm.nih.gov/gene/9031) | [MIM:605681](https://omim.org/entry/605681) |  |
+| Mouse | [ENSMUSG00000002748](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002748) | [22385](https://www.ncbi.nlm.nih.gov/gene/22385) | [MGI:1353499](http://www.informatics.jax.org/marker/MGI:1353499) |  |
+| Xenopus | [ENSXETG00000010334](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010334) | [100038181](https://www.ncbi.nlm.nih.gov/gene/100038181) |  |  |
+| Zebrafish | [ENSDARG00000102832](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000102832) | [571727](https://www.ncbi.nlm.nih.gov/gene/571727) | [ZFIN:ZDB-GENE-010328-16](https://zfin.org/ZDB-GENE-010328-16) | DNA damage response, chromatin remodeling, phosphorylation, post-translational protein modification |
 

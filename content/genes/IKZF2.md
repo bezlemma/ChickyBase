@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395309
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204607
 forward_primer: 5’-AAGTCACGTGGCAAGCAC-3’
-gene_id: '448889'
+gene_id: '395309'
 gene_type: protein-coding
 images:
 - caption: IKZF2 expression
@@ -58,13 +58,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R709.IKZF2.S26.001.jpg
 name: IKAROS family zinc finger 2
-ncbi_id: '448889'
+ncbi_id: '395309'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000030419
   entrez: '22807'
   mod: MIM:606234
@@ -75,24 +70,24 @@ orthologs:
   mod: MGI:1342541
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100144703,373693
-  mod: '1013631'
+- ensembl: ENSXETG00000003127
+  entrez: '100144703'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000069111
   entrez: '100150224'
   mod: ZFIN:ZDB-GENE-100922-169
-  phenotypes: ZDB-GENE-100922-169
+  phenotypes: regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGAACTGCGCTGCTTGTAGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448889
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395309
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448889
+  url: https://www.ncbi.nlm.nih.gov/gene/395309
 species: Gallus gallus
 symbol: IKZF2
 template_length: '507'
@@ -115,9 +110,8 @@ title: IKZF2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000030419](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000030419) | [22807](https://www.ncbi.nlm.nih.gov/gene/22807) | [MIM:606234](https://omim.org/entry/606234) |  |
 | Mouse | [ENSMUSG00000025997](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025997) | [22779](https://www.ncbi.nlm.nih.gov/gene/22779) | [MGI:1342541](http://www.informatics.jax.org/marker/MGI:1342541) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100144703](https://www.ncbi.nlm.nih.gov/gene/100144703), [373693](https://www.ncbi.nlm.nih.gov/gene/373693) | [1013631](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1013631) |  |
-| Zebrafish | [ENSDARG00000069111](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069111) | [100150224](https://www.ncbi.nlm.nih.gov/gene/100150224) | [ZFIN:ZDB-GENE-100922-169](https://zfin.org/ZDB-GENE-100922-169) | ZDB-GENE-100922-169 |
+| Xenopus | [ENSXETG00000003127](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003127) | [100144703](https://www.ncbi.nlm.nih.gov/gene/100144703) |  |  |
+| Zebrafish | [ENSDARG00000069111](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069111) | [100150224](https://www.ncbi.nlm.nih.gov/gene/100150224) | [ZFIN:ZDB-GENE-100922-169](https://zfin.org/ZDB-GENE-100922-169) | regulation of transcription by RNA polymerase II |
 

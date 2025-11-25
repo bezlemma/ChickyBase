@@ -9,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424138
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421989
-gene_id: '460524'
+gene_id: '424138'
 gene_type: protein-coding
 images:
 - caption: MTX2 expression
@@ -50,40 +50,35 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3XD7.115.4.23.jpg
 name: metaxin 2
-ncbi_id: '460524'
+ncbi_id: '424138'
 orthologs:
-- ensembl: ''
-  entrez: '40178'
-  mod: FBgn0036920
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000128654
   entrez: '10651'
   mod: MIM:608555
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000027099
   entrez: '53375'
   mod: MGI:1859652
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 447951,407750
-  mod: '943940'
+- ensembl: ENSXETG00000001802
+  entrez: '447951'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000029415
   entrez: '286741'
   mod: ZFIN:ZDB-GENE-021210-2
-  phenotypes: ZDB-GENE-021210-2
+  phenotypes: mitochondrion organization
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460524
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424138
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460524
+  url: https://www.ncbi.nlm.nih.gov/gene/424138
 species: Gallus gallus
 symbol: MTX2
 title: MTX2
@@ -106,9 +101,8 @@ title: MTX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40178](https://www.ncbi.nlm.nih.gov/gene/40178) | FBgn0036920 |  |
 | Human | [ENSG00000128654](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000128654) | [10651](https://www.ncbi.nlm.nih.gov/gene/10651) | [MIM:608555](https://omim.org/entry/608555) |  |
-| Mouse |  | [53375](https://www.ncbi.nlm.nih.gov/gene/53375) | [MGI:1859652](http://www.informatics.jax.org/marker/MGI:1859652) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [447951](https://www.ncbi.nlm.nih.gov/gene/447951), [407750](https://www.ncbi.nlm.nih.gov/gene/407750) | [943940](http://www.xenbase.org/gene/showgene.do?method=display&geneId=943940) |  |
-| Zebrafish | [ENSDARG00000029415](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029415) | [286741](https://www.ncbi.nlm.nih.gov/gene/286741) | [ZFIN:ZDB-GENE-021210-2](https://zfin.org/ZDB-GENE-021210-2) | ZDB-GENE-021210-2 |
+| Mouse | [ENSMUSG00000027099](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027099) | [53375](https://www.ncbi.nlm.nih.gov/gene/53375) | [MGI:1859652](http://www.informatics.jax.org/marker/MGI:1859652) | All phenotypic alleles (1):Targeted, other(1) |
+| Xenopus | [ENSXETG00000001802](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001802) | [447951](https://www.ncbi.nlm.nih.gov/gene/447951) |  |  |
+| Zebrafish | [ENSDARG00000029415](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029415) | [286741](https://www.ncbi.nlm.nih.gov/gene/286741) | [ZFIN:ZDB-GENE-021210-2](https://zfin.org/ZDB-GENE-021210-2) | mitochondrion organization |
 

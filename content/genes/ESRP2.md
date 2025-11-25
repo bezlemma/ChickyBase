@@ -16,7 +16,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003729
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030566
 forward_primer: 5’-ACTTCCTGCTGTCAGACTGC-3’
-gene_id: '461696'
+gene_id: '415710'
 gene_type: protein-coding
 images:
 - caption: ESRP2 expression
@@ -190,13 +190,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R658.ESRP2.S26V.001.jpg
 name: epithelial splicing regulatory protein 2
-ncbi_id: '461696'
+ncbi_id: '415710'
 orthologs:
-- ensembl: ''
-  entrez: '44095'
-  mod: FBgn0023441
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000103067
   entrez: '80004'
   mod: MIM:612960
@@ -207,24 +202,20 @@ orthologs:
   mod: MGI:1924661
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000018814
+- ensembl: ENSDARG00000115061
   entrez: '572992'
   mod: ZFIN:ZDB-GENE-030131-9824
-  phenotypes: ZDB-GENE-030131-9824
+  phenotypes: RNA splicing, cranial skeletal system development, hard palate morphogenesis,
+    mRNA processing, regulation of RNA splicing
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTGCCAGCAGTGTAAGGAAGG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461696
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415710
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461696
+  url: https://www.ncbi.nlm.nih.gov/gene/415710
 species: Gallus gallus
 symbol: ESRP2
 template_length: '999'
@@ -252,9 +243,7 @@ title: ESRP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [44095](https://www.ncbi.nlm.nih.gov/gene/44095) | FBgn0023441 |  |
 | Human | [ENSG00000103067](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000103067) | [80004](https://www.ncbi.nlm.nih.gov/gene/80004) | [MIM:612960](https://omim.org/entry/612960) |  |
 | Mouse | [ENSMUSG00000084128](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000084128) | [77411](https://www.ncbi.nlm.nih.gov/gene/77411) | [MGI:1924661](http://www.informatics.jax.org/marker/MGI:1924661) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000018814](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018814) | [572992](https://www.ncbi.nlm.nih.gov/gene/572992) | [ZFIN:ZDB-GENE-030131-9824](https://zfin.org/ZDB-GENE-030131-9824) | ZDB-GENE-030131-9824 |
+| Zebrafish | [ENSDARG00000115061](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115061) | [572992](https://www.ncbi.nlm.nih.gov/gene/572992) | [ZFIN:ZDB-GENE-030131-9824](https://zfin.org/ZDB-GENE-030131-9824) | RNA splicing, cranial skeletal system development, hard palate morphogenesis, mRNA processing, regulation of RNA splicing |
 

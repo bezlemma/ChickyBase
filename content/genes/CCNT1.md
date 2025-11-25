@@ -3,14 +3,13 @@ aliases:
 - cyclin-T1
 cgnc_id: '63915'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/100859215
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100859215
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003643378
 forward_primer: 5'-CGTTGATGGCACTGTAACTCTGG-3'
-gene_id: '473746'
+gene_id: '100859215'
 gene_type: protein-coding
 images:
 - caption: CCNT1 expression
@@ -152,41 +151,33 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R574.CCNT1.S25V.001.jpg
 name: cyclin T1
-ncbi_id: '473746'
+ncbi_id: '100859215'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000129315
+  entrez: '904'
+  mod: MIM:143055
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000011960
+  entrez: '12455'
+  mod: MGI:1328363
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000017525
+  entrez: '334465'
+  mod: ZFIN:ZDB-GENE-030131-6397
+  phenotypes: cell division, positive regulation of DNA-templated transcription, elongation,
+    positive regulation of transcription by RNA polymerase II, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTTCAGGATGATGGGGGAAGGGTTG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=473746
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100859215
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/473746
+  url: https://www.ncbi.nlm.nih.gov/gene/100859215
 species: Gallus gallus
 symbol: CCNT1
 template_length: '858'
@@ -209,9 +200,7 @@ title: CCNT1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000129315](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000129315) | [904](https://www.ncbi.nlm.nih.gov/gene/904) | [MIM:143055](https://omim.org/entry/143055) |  |
+| Mouse | [ENSMUSG00000011960](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000011960) | [12455](https://www.ncbi.nlm.nih.gov/gene/12455) | [MGI:1328363](http://www.informatics.jax.org/marker/MGI:1328363) |  |
+| Zebrafish | [ENSDARG00000017525](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017525) | [334465](https://www.ncbi.nlm.nih.gov/gene/334465) | [ZFIN:ZDB-GENE-030131-6397](https://zfin.org/ZDB-GENE-030131-6397) | cell division, positive regulation of DNA-templated transcription, elongation, positive regulation of transcription by RNA polymerase II, regulation of transcription by RNA polymerase II |
 

@@ -14,7 +14,7 @@ external_ids:
   Sequence Information: GenomicRNAPolypeptide
   X-XIV: stage XIIIstage XIII
 forward_primer: TCCTGGACTGTGCTCCCAAAG
-gene_id: '504663'
+gene_id: '101750576'
 gene_type: unknown
 images:
 - caption: GSC2 expression
@@ -250,41 +250,31 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GSX.Lemaire.1997.Fig4.jpg
 name: goosecoid homeobox 2
-ncbi_id: '504663'
+ncbi_id: '101750576'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000063515
+  entrez: '2928'
+  mod: MIM:601845
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000022738
+  entrez: '195333'
+  mod: MGI:892006
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000039496
+  entrez: '101734976'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGAAGTGCTCCCTGGTGATGACG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=504663
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=101750576
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/504663
+  url: https://www.ncbi.nlm.nih.gov/gene/101750576
 species: Gallus gallus
 symbol: GSC2
 template_length: '370'
@@ -309,9 +299,7 @@ title: GSC2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000063515](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000063515) | [2928](https://www.ncbi.nlm.nih.gov/gene/2928) | [MIM:601845](https://omim.org/entry/601845) |  |
+| Mouse | [ENSMUSG00000022738](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022738) | [195333](https://www.ncbi.nlm.nih.gov/gene/195333) | [MGI:892006](http://www.informatics.jax.org/marker/MGI:892006) |  |
+| Xenopus | [ENSXETG00000039496](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000039496) | [101734976](https://www.ncbi.nlm.nih.gov/gene/101734976) |  |  |
 

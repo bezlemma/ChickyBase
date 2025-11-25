@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422343
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234034
 forward_primer: CGGATTTGTCTTCAAGTGGGAAC
-gene_id: '450292'
+gene_id: '422343'
 gene_type: protein-coding
 images:
 - caption: AMMECR1 expression
@@ -90,41 +90,36 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R522.AMMECR1.S27AA.001.jpg
 name: Alport syndrome, mental retardation, midface hypoplasia and elliptocytosis chromosomal
   region gene 1
-ncbi_id: '450292'
+ncbi_id: '422343'
 orthologs:
-- ensembl: ''
-  entrez: '42839'
-  mod: FBgn0039136
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000101935
   entrez: '9949'
   mod: MIM:300195
   phenotypes: MIM:300194
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000042225
   entrez: '56068'
   mod: MGI:1860206
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100144747,444611
-  mod: '992101'
+- ensembl: ENSXETG00000035215
+  entrez: '100144747'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000012892
   entrez: '393553'
   mod: ZFIN:ZDB-GENE-040426-1533
-  phenotypes: ZDB-GENE-040426-1533
+  phenotypes: biological_process
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAACTGTGGATTCGCTTCAGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450292
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422343
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450292
+  url: https://www.ncbi.nlm.nih.gov/gene/422343
 species: Gallus gallus
 symbol: AMMECR1
 template_length: '925'
@@ -149,9 +144,8 @@ title: AMMECR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42839](https://www.ncbi.nlm.nih.gov/gene/42839) | FBgn0039136 |  |
 | Human | [ENSG00000101935](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101935) | [9949](https://www.ncbi.nlm.nih.gov/gene/9949) | [MIM:300195](https://omim.org/entry/300195) | MIM:300194 |
-| Mouse |  | [56068](https://www.ncbi.nlm.nih.gov/gene/56068) | [MGI:1860206](http://www.informatics.jax.org/marker/MGI:1860206) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100144747](https://www.ncbi.nlm.nih.gov/gene/100144747), [444611](https://www.ncbi.nlm.nih.gov/gene/444611) | [992101](http://www.xenbase.org/gene/showgene.do?method=display&geneId=992101) |  |
-| Zebrafish | [ENSDARG00000012892](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012892) | [393553](https://www.ncbi.nlm.nih.gov/gene/393553) | [ZFIN:ZDB-GENE-040426-1533](https://zfin.org/ZDB-GENE-040426-1533) | ZDB-GENE-040426-1533 |
+| Mouse | [ENSMUSG00000042225](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042225) | [56068](https://www.ncbi.nlm.nih.gov/gene/56068) | [MGI:1860206](http://www.informatics.jax.org/marker/MGI:1860206) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
+| Xenopus | [ENSXETG00000035215](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000035215) | [100144747](https://www.ncbi.nlm.nih.gov/gene/100144747) |  |  |
+| Zebrafish | [ENSDARG00000012892](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012892) | [393553](https://www.ncbi.nlm.nih.gov/gene/393553) | [ZFIN:ZDB-GENE-040426-1533](https://zfin.org/ZDB-GENE-040426-1533) | biological_process |
 

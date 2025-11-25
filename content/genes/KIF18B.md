@@ -12,7 +12,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030928
 forward_primer: TCTTGGTGCAGAAGGAGGC
-gene_id: '453084'
+gene_id: '419968'
 gene_type: protein-coding
 images:
 - caption: KIF18B expression
@@ -84,13 +84,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KIF12B.S27.001.jpg
 name: kinesin family member 18B
-ncbi_id: '453084'
+ncbi_id: '419968'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000186185
   entrez: '146909'
   mod: MIM:614570
@@ -101,24 +96,19 @@ orthologs:
   mod: MGI:2446979
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100490953,446732
-  mod: '5960388'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000021253
+  entrez: '100490953'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: TGAGGGACATCAGCACAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453084
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419968
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453084
+  url: https://www.ncbi.nlm.nih.gov/gene/419968
 species: Gallus gallus
 symbol: KIF18B
 template_length: '902'
@@ -144,9 +134,7 @@ title: KIF18B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000186185](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000186185) | [146909](https://www.ncbi.nlm.nih.gov/gene/146909) | [MIM:614570](https://omim.org/entry/614570) |  |
 | Mouse | [ENSMUSG00000051378](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000051378) | [70218](https://www.ncbi.nlm.nih.gov/gene/70218) | [MGI:2446979](http://www.informatics.jax.org/marker/MGI:2446979) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100490953](https://www.ncbi.nlm.nih.gov/gene/100490953), [446732](https://www.ncbi.nlm.nih.gov/gene/446732) | [5960388](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5960388) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000021253](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021253) | [100490953](https://www.ncbi.nlm.nih.gov/gene/100490953) |  |  |
 

@@ -4,7 +4,6 @@ aliases:
 - single-minded family bHLH transcription factor 2
 cgnc_id: '11985'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Havis+2012+MyoD+Duprez
   Comments: 'Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (Acc. # XM_416724.3).'
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418515
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416724
 forward_primer: CGGCGAAGACAAGGCGGG
-gene_id: '453301'
+gene_id: '418515'
 gene_type: protein-coding
 images:
 - caption: SIM2 expression
@@ -323,13 +322,8 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Havis.Fig1.cSim2.K-L.jpg
 name: SIM bHLH transcription factor 2
-ncbi_id: '453301'
+ncbi_id: '418515'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000159263
   entrez: '6493'
   mod: MIM:600892
@@ -340,24 +334,25 @@ orthologs:
   mod: MGI:98307
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100492082,373634
-  mod: '1013957'
+- ensembl: ENSXETG00000013022
+  entrez: '100492082'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
   entrez: '114450'
   mod: ZFIN:ZDB-GENE-010803-1
-  phenotypes: ZDB-GENE-010803-1
+  phenotypes: animal organ development, brain development, regulation of DNA-templated
+    transcription, regulation of transcription by RNA polymerase II, system development
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTGATTTTGGCAGCAAGGAGTTAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453301
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418515
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453301
+  url: https://www.ncbi.nlm.nih.gov/gene/418515
 species: Gallus gallus
 symbol: SIM2
 template_length: '1814'
@@ -384,9 +379,8 @@ title: SIM2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000159263](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000159263) | [6493](https://www.ncbi.nlm.nih.gov/gene/6493) | [MIM:600892](https://omim.org/entry/600892) |  |
 | Mouse | [ENSMUSG00000062713](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000062713) | [20465](https://www.ncbi.nlm.nih.gov/gene/20465) | [MGI:98307](http://www.informatics.jax.org/marker/MGI:98307) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100492082](https://www.ncbi.nlm.nih.gov/gene/100492082), [373634](https://www.ncbi.nlm.nih.gov/gene/373634) | [1013957](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1013957) |  |
-| Zebrafish |  | [114450](https://www.ncbi.nlm.nih.gov/gene/114450) | [ZFIN:ZDB-GENE-010803-1](https://zfin.org/ZDB-GENE-010803-1) | ZDB-GENE-010803-1 |
+| Xenopus | [ENSXETG00000013022](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013022) | [100492082](https://www.ncbi.nlm.nih.gov/gene/100492082) |  |  |
+| Zebrafish |  | [114450](https://www.ncbi.nlm.nih.gov/gene/114450) | [ZFIN:ZDB-GENE-010803-1](https://zfin.org/ZDB-GENE-010803-1) | animal organ development, brain development, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II, system development |
 

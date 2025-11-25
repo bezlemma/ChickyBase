@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420183
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006089.3?report=genbank&from=117438737&to=117463478
-gene_id: '457106'
+gene_id: '420183'
 gene_type: protein-coding
 images:
 - caption: RDH10 expression
@@ -281,38 +281,34 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RDH10.Anderson.2019.Supplementary
     figure 5I.jpg
 name: retinol dehydrogenase 10
-ncbi_id: '457106'
+ncbi_id: '420183'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000121039
   entrez: '157506'
   mod: MIM:607599
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000025921
   entrez: '98711'
   mod: MGI:1924238
   phenotypes: All phenotypic alleles (5):Chemically induced(2) Targeted, knock-out(1)
     Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 496504,446860,431995
-  mod: '944960'
+- ensembl: ENSXETG00000011825
+  entrez: '496504'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000058730,ENSDARG00000012369
-  entrez: 562840,378722
-  mod: ZFIN:ZDB-GENE-070112-2242,ZFIN:ZDB-GENE-030909-7
-  phenotypes: ZDB-GENE-070112-2242,ZDB-GENE-030909-7
+- ensembl: ENSDARG00000058730
+  entrez: '562840'
+  mod: ZFIN:ZDB-GENE-070112-2242
+  phenotypes: regulation of hormone levels, retinoic acid biosynthetic process, retinol
+    metabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457106
+  url: https://www.ncbi.nlm.nih.gov/gene/420183
 species: Gallus gallus
 symbol: RDH10
 title: RDH10
@@ -339,9 +335,8 @@ title: RDH10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000121039](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000121039) | [157506](https://www.ncbi.nlm.nih.gov/gene/157506) | [MIM:607599](https://omim.org/entry/607599) |  |
-| Mouse |  | [98711](https://www.ncbi.nlm.nih.gov/gene/98711) | [MGI:1924238](http://www.informatics.jax.org/marker/MGI:1924238) | All phenotypic alleles (5):Chemically induced(2) Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [496504](https://www.ncbi.nlm.nih.gov/gene/496504), [446860](https://www.ncbi.nlm.nih.gov/gene/446860), [431995](https://www.ncbi.nlm.nih.gov/gene/431995) | [944960](http://www.xenbase.org/gene/showgene.do?method=display&geneId=944960) |  |
-| Zebrafish | [ENSDARG00000058730](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058730), [ENSDARG00000012369](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012369) | [562840](https://www.ncbi.nlm.nih.gov/gene/562840), [378722](https://www.ncbi.nlm.nih.gov/gene/378722) | [ZFIN:ZDB-GENE-070112-2242](https://zfin.org/ZDB-GENE-070112-2242), [ZFIN:ZDB-GENE-030909-7](https://zfin.org/ZDB-GENE-030909-7) | ZDB-GENE-070112-2242,ZDB-GENE-030909-7 |
+| Mouse | [ENSMUSG00000025921](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025921) | [98711](https://www.ncbi.nlm.nih.gov/gene/98711) | [MGI:1924238](http://www.informatics.jax.org/marker/MGI:1924238) | All phenotypic alleles (5):Chemically induced(2) Targeted, knock-out(1) Targeted, other(2) |
+| Xenopus | [ENSXETG00000011825](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011825) | [496504](https://www.ncbi.nlm.nih.gov/gene/496504) |  |  |
+| Zebrafish | [ENSDARG00000058730](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058730) | [562840](https://www.ncbi.nlm.nih.gov/gene/562840) | [ZFIN:ZDB-GENE-070112-2242](https://zfin.org/ZDB-GENE-070112-2242) | regulation of hormone levels, retinoic acid biosynthetic process, retinol metabolic process |
 

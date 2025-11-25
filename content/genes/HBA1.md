@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416652
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0020037
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004376
-gene_id: '454745'
+gene_id: '416652'
 gene_type: protein-coding
 images:
 - caption: HBA1 expression
@@ -59,37 +59,27 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HBAA.Anderson.2019.Supplementary
     figure 5J.jpg
 name: hemoglobin subunit alpha 1
-ncbi_id: '454745'
+ncbi_id: '416652'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000188536,ENSG00000206172
-  entrez: 3040,3039
-  mod: MIM:141850,MIM:141800
+- ensembl: ENSG00000188536
+  entrez: '3040'
+  mod: MIM:141850
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: '15122'
-  mod: MGI:96015
+- ensembl: ENSMUSG00000069917
+  entrez: '110257'
+  mod: MGI:96016
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 394454,397869,100216305,379435
-  mod: 973888,478140
+- ensembl: ENSXETG00000025664
+  entrez: '394454'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000097011,ENSDARG00000089475
-  entrez: 30507,30597
-  mod: ZFIN:ZDB-GENE-980526-79,ZFIN:ZDB-GENE-980526-80
-  phenotypes: ZDB-GENE-980526-79,ZDB-GENE-980526-80
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454745
+  url: https://www.ncbi.nlm.nih.gov/gene/416652
 species: Gallus gallus
 symbol: HBA1
 title: HBA1
@@ -117,9 +107,7 @@ title: HBA1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000188536](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000188536), [ENSG00000206172](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000206172) | [3040](https://www.ncbi.nlm.nih.gov/gene/3040), [3039](https://www.ncbi.nlm.nih.gov/gene/3039) | [MIM:141850](https://omim.org/entry/141850), [MIM:141800](https://omim.org/entry/141800) |  |
-| Mouse |  | [15122](https://www.ncbi.nlm.nih.gov/gene/15122) | [MGI:96015](http://www.informatics.jax.org/marker/MGI:96015) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [394454](https://www.ncbi.nlm.nih.gov/gene/394454), [397869](https://www.ncbi.nlm.nih.gov/gene/397869), [100216305](https://www.ncbi.nlm.nih.gov/gene/100216305), [379435](https://www.ncbi.nlm.nih.gov/gene/379435) | [973888](http://www.xenbase.org/gene/showgene.do?method=display&geneId=973888), [478140](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478140) |  |
-| Zebrafish | [ENSDARG00000097011](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000097011), [ENSDARG00000089475](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089475) | [30507](https://www.ncbi.nlm.nih.gov/gene/30507), [30597](https://www.ncbi.nlm.nih.gov/gene/30597) | [ZFIN:ZDB-GENE-980526-79](https://zfin.org/ZDB-GENE-980526-79), [ZFIN:ZDB-GENE-980526-80](https://zfin.org/ZDB-GENE-980526-80) | ZDB-GENE-980526-79,ZDB-GENE-980526-80 |
+| Human | [ENSG00000188536](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000188536) | [3040](https://www.ncbi.nlm.nih.gov/gene/3040) | [MIM:141850](https://omim.org/entry/141850) |  |
+| Mouse | [ENSMUSG00000069917](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000069917) | [110257](https://www.ncbi.nlm.nih.gov/gene/110257) | [MGI:96016](http://www.informatics.jax.org/marker/MGI:96016) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
+| Xenopus | [ENSXETG00000025664](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025664) | [394454](https://www.ncbi.nlm.nih.gov/gene/394454) |  |  |
 

@@ -20,7 +20,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415307
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_413695
-gene_id: '456377'
+gene_id: '415307'
 gene_type: protein-coding
 images:
 - caption: SIN3A expression
@@ -109,13 +109,8 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SIN3A.Sheeba.2007.5.HH14.png
 name: SIN3 transcription regulator family member A
-ncbi_id: '456377'
+ncbi_id: '415307'
 orthologs:
-- ensembl: ''
-  entrez: '36382'
-  mod: FBgn0022764
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000169375
   entrez: '25942'
   mod: MIM:607776
@@ -126,20 +121,15 @@ orthologs:
   mod: MGI:107157
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100495645,398130
-  mod: '480874'
+- ensembl: ENSXETG00000015283
+  entrez: '100495645'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000079716,ENSDARG00000059812
-  entrez: 563090,323346
-  mod: ZFIN:ZDB-GENE-070620-3,ZFIN:ZDB-GENE-030131-2066
-  phenotypes: ZDB-GENE-070620-3,ZDB-GENE-030131-2066
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456377
+  url: https://www.ncbi.nlm.nih.gov/gene/415307
 species: Gallus gallus
 symbol: SIN3A
 title: SIN3A
@@ -167,9 +157,7 @@ title: SIN3A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36382](https://www.ncbi.nlm.nih.gov/gene/36382) | FBgn0022764 |  |
 | Human | [ENSG00000169375](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169375) | [25942](https://www.ncbi.nlm.nih.gov/gene/25942) | [MIM:607776](https://omim.org/entry/607776) |  |
 | Mouse | [ENSMUSG00000042557](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042557) | [20466](https://www.ncbi.nlm.nih.gov/gene/20466) | [MGI:107157](http://www.informatics.jax.org/marker/MGI:107157) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100495645](https://www.ncbi.nlm.nih.gov/gene/100495645), [398130](https://www.ncbi.nlm.nih.gov/gene/398130) | [480874](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480874) |  |
-| Zebrafish | [ENSDARG00000079716](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079716), [ENSDARG00000059812](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059812) | [563090](https://www.ncbi.nlm.nih.gov/gene/563090), [323346](https://www.ncbi.nlm.nih.gov/gene/323346) | [ZFIN:ZDB-GENE-070620-3](https://zfin.org/ZDB-GENE-070620-3), [ZFIN:ZDB-GENE-030131-2066](https://zfin.org/ZDB-GENE-030131-2066) | ZDB-GENE-070620-3,ZDB-GENE-030131-2066 |
+| Xenopus | [ENSXETG00000015283](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015283) | [100495645](https://www.ncbi.nlm.nih.gov/gene/100495645) |  |  |
 

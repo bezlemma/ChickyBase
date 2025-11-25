@@ -6,7 +6,6 @@ aliases:
 - platelet-derived growth factor A-chain
 cgnc_id: '49079'
 external_ids:
-  '19': stage 19
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Yang+2008+
     Weijer+pdgf
   Comments: The cDNA template used to generate the probe was obtained from EST - ChEST460a12
@@ -17,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374196
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204306
-gene_id: '455054'
+gene_id: '374196'
 gene_type: protein-coding
 images:
 - caption: PDGFA expression
@@ -192,13 +191,8 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yang.Fig.1.PDGFA.F-F'.jpg
 name: platelet derived growth factor subunit A
-ncbi_id: '455054'
+ncbi_id: '374196'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000197461
   entrez: '5154'
   mod: MIM:173430
@@ -209,23 +203,25 @@ orthologs:
   mod: MGI:97527
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100038202,397765
-  mod: '484494'
+- ensembl: ENSXETG00000001379
+  entrez: '100038202'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000055505,ENSDARG00000058424
-  entrez: 378480,767790
-  mod: ZFIN:ZDB-GENE-030918-2,ZFIN:ZDB-GENE-060929-124
-  phenotypes: ZDB-GENE-030918-2,ZDB-GENE-060929-124
+- ensembl: ENSDARG00000109732
+  entrez: '767790'
+  mod: ZFIN:ZDB-GENE-060929-124
+  phenotypes: angiogenesis, platelet-derived growth factor receptor signaling pathway,
+    positive regulation of ERK1 and ERK2 cascade, positive regulation of cell division,
+    positive regulation of cell migration
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455054
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374196
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455054
+  url: https://www.ncbi.nlm.nih.gov/gene/374196
 species: Gallus gallus
 symbol: PDGFA
 title: PDGFA
@@ -251,9 +247,8 @@ title: PDGFA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000197461](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197461) | [5154](https://www.ncbi.nlm.nih.gov/gene/5154) | [MIM:173430](https://omim.org/entry/173430) |  |
 | Mouse | [ENSMUSG00000025856](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025856) | [18590](https://www.ncbi.nlm.nih.gov/gene/18590) | [MGI:97527](http://www.informatics.jax.org/marker/MGI:97527) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100038202](https://www.ncbi.nlm.nih.gov/gene/100038202), [397765](https://www.ncbi.nlm.nih.gov/gene/397765) | [484494](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484494) |  |
-| Zebrafish | [ENSDARG00000055505](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055505), [ENSDARG00000058424](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058424) | [378480](https://www.ncbi.nlm.nih.gov/gene/378480), [767790](https://www.ncbi.nlm.nih.gov/gene/767790) | [ZFIN:ZDB-GENE-030918-2](https://zfin.org/ZDB-GENE-030918-2), [ZFIN:ZDB-GENE-060929-124](https://zfin.org/ZDB-GENE-060929-124) | ZDB-GENE-030918-2,ZDB-GENE-060929-124 |
+| Xenopus | [ENSXETG00000001379](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001379) | [100038202](https://www.ncbi.nlm.nih.gov/gene/100038202) |  |  |
+| Zebrafish | [ENSDARG00000109732](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000109732) | [767790](https://www.ncbi.nlm.nih.gov/gene/767790) | [ZFIN:ZDB-GENE-060929-124](https://zfin.org/ZDB-GENE-060929-124) | angiogenesis, platelet-derived growth factor receptor signaling pathway, positive regulation of ERK1 and ERK2 cascade, positive regulation of cell division, positive regulation of cell migration |
 

@@ -7,7 +7,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:430150
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_427707
 forward_primer: 5'-AAAGGTGACCCCAGACTCCAAG-3'
-gene_id: '448790'
+gene_id: '430150'
 gene_type: protein-coding
 images:
 - caption: CACNA2D2 expression
@@ -82,26 +82,37 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R554.CACNA2D2.S27AA.001.jpg
 name: calcium voltage-gated channel auxiliary subunit alpha2delta 2
-ncbi_id: '448790'
+ncbi_id: '430150'
 orthologs:
-- ensembl: ENSG00000115009
-  entrez: '6364'
-  mod: MIM:601960
+- ensembl: ENSG00000007402
+  entrez: '9254'
+  mod: MIM:607082
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000026166
-  entrez: '20297'
-  mod: MGI:1329031
+- ensembl: ENSMUSG00000010066
+  entrez: '56808'
+  mod: MGI:1929813
   phenotypes: ''
   species: Mouse
+- ensembl: ENSXETG00000000081
+  entrez: '100038148'
+  mod: ''
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000078169
+  entrez: '568759'
+  mod: ZFIN:ZDB-GENE-060503-99
+  phenotypes: calcium ion transmembrane transport, calcium ion transport, monoatomic
+    ion transmembrane transport, monoatomic ion transport
+  species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGTAGGTGAGGCTGTAGAGGAACTG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448790
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=430150
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448790
+  url: https://www.ncbi.nlm.nih.gov/gene/430150
 species: Gallus gallus
 symbol: CACNA2D2
 template_length: '842'
@@ -124,6 +135,8 @@ title: CACNA2D2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Human | [ENSG00000115009](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000115009) | [6364](https://www.ncbi.nlm.nih.gov/gene/6364) | [MIM:601960](https://omim.org/entry/601960) |  |
-| Mouse | [ENSMUSG00000026166](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026166) | [20297](https://www.ncbi.nlm.nih.gov/gene/20297) | [MGI:1329031](http://www.informatics.jax.org/marker/MGI:1329031) |  |
+| Human | [ENSG00000007402](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000007402) | [9254](https://www.ncbi.nlm.nih.gov/gene/9254) | [MIM:607082](https://omim.org/entry/607082) |  |
+| Mouse | [ENSMUSG00000010066](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000010066) | [56808](https://www.ncbi.nlm.nih.gov/gene/56808) | [MGI:1929813](http://www.informatics.jax.org/marker/MGI:1929813) |  |
+| Xenopus | [ENSXETG00000000081](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000081) | [100038148](https://www.ncbi.nlm.nih.gov/gene/100038148) |  |  |
+| Zebrafish | [ENSDARG00000078169](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078169) | [568759](https://www.ncbi.nlm.nih.gov/gene/568759) | [ZFIN:ZDB-GENE-060503-99](https://zfin.org/ZDB-GENE-060503-99) | calcium ion transmembrane transport, calcium ion transport, monoatomic ion transmembrane transport, monoatomic ion transport |
 

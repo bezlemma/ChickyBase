@@ -153,7 +153,7 @@ orthologs:
 - ensembl: ENSDARG00000014181,ENSDARG00000004843
   entrez: 569047,564127
   mod: ZFIN:ZDB-GENE-041203-1,ZFIN:ZDB-GENE-060929-624
-  phenotypes: ZDB-GENE-041203-1,ZDB-GENE-060929-624
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGATCTGGACTGTGGTTGGCTG-3’
 sources:
@@ -194,5 +194,5 @@ title: FOXP3
 | Human | [ENSG00000114861](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000114861) | [27086](https://www.ncbi.nlm.nih.gov/gene/27086) | [MIM:605515](https://omim.org/entry/605515) | MIM:613670 |
 | Mouse | [ENSMUSG00000030067](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030067) | [108655](https://www.ncbi.nlm.nih.gov/gene/108655) | [MGI:1914004](http://www.informatics.jax.org/marker/MGI:1914004) | All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(4) Gene trapped(1) |
 | Xenopus |  | [779651](https://www.ncbi.nlm.nih.gov/gene/779651), [496386](https://www.ncbi.nlm.nih.gov/gene/496386) | [961744](http://www.xenbase.org/gene/showgene.do?method=display&geneId=961744) |  |
-| Zebrafish | [ENSDARG00000014181](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014181), [ENSDARG00000004843](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004843) | [569047](https://www.ncbi.nlm.nih.gov/gene/569047), [564127](https://www.ncbi.nlm.nih.gov/gene/564127) | [ZFIN:ZDB-GENE-041203-1](https://zfin.org/ZDB-GENE-041203-1), [ZFIN:ZDB-GENE-060929-624](https://zfin.org/ZDB-GENE-060929-624) | ZDB-GENE-041203-1,ZDB-GENE-060929-624 |
+| Zebrafish | [ENSDARG00000014181](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014181), [ENSDARG00000004843](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004843) | [569047](https://www.ncbi.nlm.nih.gov/gene/569047), [564127](https://www.ncbi.nlm.nih.gov/gene/564127) | [ZFIN:ZDB-GENE-041203-1](https://zfin.org/ZDB-GENE-041203-1), [ZFIN:ZDB-GENE-060929-624](https://zfin.org/ZDB-GENE-060929-624) |  |
 

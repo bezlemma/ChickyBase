@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422285
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420265
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/CLCN5
-gene_id: '450118'
+gene_id: '422285'
 gene_type: protein-coding
 images:
 - caption: CLCN5 expression
@@ -26,13 +26,8 @@ images:
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/M10_08.jpg
 name: chloride voltage-gated channel 5
-ncbi_id: '450118'
+ncbi_id: '422285'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000171365
   entrez: '1184'
   mod: MIM:300008
@@ -43,23 +38,23 @@ orthologs:
   mod: MGI:99486
   phenotypes: All phenotypic alleles (9):Targeted, knock-out(3) Targeted, other(6)
   species: Mouse
-- ensembl: ''
-  entrez: 734069,394306
-  mod: '5957240'
+- ensembl: ENSXETG00000002095
+  entrez: '734069'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000019693
   entrez: '562336'
-  mod: ZFIN:ZDB-GENE-091113-15,ZFIN:ZDB-GENE-110407-11
-  phenotypes: ZDB-GENE-091113-15,ZDB-GENE-110407-11
+  mod: ZFIN:ZDB-GENE-091113-15
+  phenotypes: chloride transport, monoatomic ion transport, transmembrane transport
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450118
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422285
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450118
+  url: https://www.ncbi.nlm.nih.gov/gene/422285
 species: Gallus gallus
 symbol: CLCN5
 title: CLCN5
@@ -81,9 +76,8 @@ title: CLCN5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000171365](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171365) | [1184](https://www.ncbi.nlm.nih.gov/gene/1184) | [MIM:300008](https://omim.org/entry/300008) | MIM:300009 |
 | Mouse | [ENSMUSG00000004317](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000004317) | [12728](https://www.ncbi.nlm.nih.gov/gene/12728) | [MGI:99486](http://www.informatics.jax.org/marker/MGI:99486) | All phenotypic alleles (9):Targeted, knock-out(3) Targeted, other(6) |
-| Xenopus |  | [734069](https://www.ncbi.nlm.nih.gov/gene/734069), [394306](https://www.ncbi.nlm.nih.gov/gene/394306) | [5957240](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5957240) |  |
-| Zebrafish | [ENSDARG00000019693](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019693) | [562336](https://www.ncbi.nlm.nih.gov/gene/562336) | [ZFIN:ZDB-GENE-091113-15](https://zfin.org/ZDB-GENE-091113-15), [ZFIN:ZDB-GENE-110407-11](https://zfin.org/ZDB-GENE-110407-11) | ZDB-GENE-091113-15,ZDB-GENE-110407-11 |
+| Xenopus | [ENSXETG00000002095](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002095) | [734069](https://www.ncbi.nlm.nih.gov/gene/734069) |  |  |
+| Zebrafish | [ENSDARG00000019693](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019693) | [562336](https://www.ncbi.nlm.nih.gov/gene/562336) | [ZFIN:ZDB-GENE-091113-15](https://zfin.org/ZDB-GENE-091113-15) | chloride transport, monoatomic ion transport, transmembrane transport |
 

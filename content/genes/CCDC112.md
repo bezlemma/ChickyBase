@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:770644
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003643103
 forward_primer: 5'-AAGAAGACAACAACAGGCAGC-3'
-gene_id: '453131'
+gene_id: '770644'
 gene_type: protein-coding
 images:
 - caption: CCDC112 expression
@@ -92,41 +92,31 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R625.CCDC112.S26AA.001.jpg
 name: coiled-coil domain containing 112
-ncbi_id: '453131'
+ncbi_id: '770644'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSG00000164221
+  entrez: '153733'
   mod: ''
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000071855
+  entrez: '240261'
+  mod: MGI:1918800
   phenotypes: ''
   species: Mouse
 - ensembl: ''
-  entrez: ''
+  entrez: '100379711'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGCCATTTTTCCCCAAGCAGACTG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453131
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=770644
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453131
+  url: https://www.ncbi.nlm.nih.gov/gene/770644
 species: Gallus gallus
 symbol: CCDC112
 template_length: '578'
@@ -149,9 +139,7 @@ title: CCDC112
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000164221](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164221) | [153733](https://www.ncbi.nlm.nih.gov/gene/153733) |  |  |
+| Mouse | [ENSMUSG00000071855](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000071855) | [240261](https://www.ncbi.nlm.nih.gov/gene/240261) | [MGI:1918800](http://www.informatics.jax.org/marker/MGI:1918800) |  |
+| Xenopus |  | [100379711](https://www.ncbi.nlm.nih.gov/gene/100379711) |  |  |
 

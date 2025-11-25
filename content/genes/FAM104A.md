@@ -3,14 +3,13 @@ aliases:
 - protein FAM104A
 cgnc_id: '50511'
 external_ids:
-  '25': stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/417450
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417450
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030708
 forward_primer: 5’-TCTTGTGAGTGCAGGAGGTG-3’
-gene_id: '453444'
+gene_id: '417450'
 gene_type: protein-coding
 images:
 - caption: FAM104A expression
@@ -88,16 +87,11 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R660.FAM104A.S25A.001.jpg
 name: family with sequence similarity 104 member A
-ncbi_id: '453444'
+ncbi_id: '417450'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000133193
   entrez: '84923'
-  mod: ''
+  mod: MIM:621109
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000041629
@@ -105,24 +99,14 @@ orthologs:
   mod: MGI:106351
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGTGTGAACAGAGTGGCTTGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453444
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417450
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453444
+  url: https://www.ncbi.nlm.nih.gov/gene/417450
 species: Gallus gallus
 symbol: FAM104A
 template_length: '934'
@@ -145,9 +129,6 @@ title: FAM104A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000133193](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000133193) | [84923](https://www.ncbi.nlm.nih.gov/gene/84923) |  |  |
+| Human | [ENSG00000133193](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000133193) | [84923](https://www.ncbi.nlm.nih.gov/gene/84923) | [MIM:621109](https://omim.org/entry/621109) |  |
 | Mouse | [ENSMUSG00000041629](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041629) | [28081](https://www.ncbi.nlm.nih.gov/gene/28081) | [MGI:106351](http://www.informatics.jax.org/marker/MGI:106351) | All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
 

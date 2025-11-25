@@ -17,7 +17,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204891
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/ATP2A3
 forward_primer: 5’-TGGTGCTCTCTGACGACAAC-3’
-gene_id: '449820'
+gene_id: '395707'
 gene_type: protein-coding
 images:
 - caption: ATP2A3 expression
@@ -80,13 +80,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R656.ATP2A3.S26.001.jpg
 name: ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3
-ncbi_id: '449820'
+ncbi_id: '395707'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000074370
   entrez: '489'
   mod: MIM:601929
@@ -97,24 +92,25 @@ orthologs:
   mod: MGI:1194503
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 779786,495440
-  mod: '949482'
+- ensembl: ENSXETG00000031538
+  entrez: '779786'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000060978
   entrez: '568671'
   mod: ZFIN:ZDB-GENE-060531-103
-  phenotypes: ZDB-GENE-060531-103
+  phenotypes: calcium ion transmembrane transport, calcium ion transport, intracellular
+    calcium ion homeostasis, monoatomic ion transport
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTCCGAGTTACACGTTTGGGG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449820
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395707
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449820
+  url: https://www.ncbi.nlm.nih.gov/gene/395707
 species: Gallus gallus
 symbol: ATP2A3
 template_length: '855'
@@ -140,9 +136,8 @@ title: ATP2A3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000074370](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000074370) | [489](https://www.ncbi.nlm.nih.gov/gene/489) | [MIM:601929](https://omim.org/entry/601929) |  |
 | Mouse | [ENSMUSG00000020788](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020788) | [53313](https://www.ncbi.nlm.nih.gov/gene/53313) | [MGI:1194503](http://www.informatics.jax.org/marker/MGI:1194503) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [779786](https://www.ncbi.nlm.nih.gov/gene/779786), [495440](https://www.ncbi.nlm.nih.gov/gene/495440) | [949482](http://www.xenbase.org/gene/showgene.do?method=display&geneId=949482) |  |
-| Zebrafish | [ENSDARG00000060978](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060978) | [568671](https://www.ncbi.nlm.nih.gov/gene/568671) | [ZFIN:ZDB-GENE-060531-103](https://zfin.org/ZDB-GENE-060531-103) | ZDB-GENE-060531-103 |
+| Xenopus | [ENSXETG00000031538](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031538) | [779786](https://www.ncbi.nlm.nih.gov/gene/779786) |  |  |
+| Zebrafish | [ENSDARG00000060978](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060978) | [568671](https://www.ncbi.nlm.nih.gov/gene/568671) | [ZFIN:ZDB-GENE-060531-103](https://zfin.org/ZDB-GENE-060531-103) | calcium ion transmembrane transport, calcium ion transport, intracellular calcium ion homeostasis, monoatomic ion transport |
 

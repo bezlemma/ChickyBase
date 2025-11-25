@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423158
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421084
-gene_id: '463716'
+gene_id: '423158'
 gene_type: protein-coding
 images:
 - caption: PAMR1 expression
@@ -32,13 +32,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAMR1.Anderson.2019.Supplementary
     figure 5K.jpg
 name: peptidase domain containing associated with muscle regeneration 1
-ncbi_id: '463716'
+ncbi_id: '423158'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000149090
   entrez: '25891'
   mod: ''
@@ -49,20 +44,20 @@ orthologs:
   mod: MGI:2445082
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000007554
   entrez: '448349'
-  mod: '1012812'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000103184
   entrez: '560295'
-  mod: ZFIN:ZDB-GENE-100422-12
-  phenotypes: ZDB-GENE-100422-12
+  mod: ZFIN:ZDB-GENE-161017-116
+  phenotypes: proteolysis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463716
+  url: https://www.ncbi.nlm.nih.gov/gene/423158
 species: Gallus gallus
 symbol: PAMR1
 title: PAMR1
@@ -88,9 +83,8 @@ title: PAMR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000149090](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000149090) | [25891](https://www.ncbi.nlm.nih.gov/gene/25891) |  |  |
 | Mouse | [ENSMUSG00000027188](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027188) | [210622](https://www.ncbi.nlm.nih.gov/gene/210622) | [MGI:2445082](http://www.informatics.jax.org/marker/MGI:2445082) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [448349](https://www.ncbi.nlm.nih.gov/gene/448349) | [1012812](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1012812) |  |
-| Zebrafish |  | [560295](https://www.ncbi.nlm.nih.gov/gene/560295) | [ZFIN:ZDB-GENE-100422-12](https://zfin.org/ZDB-GENE-100422-12) | ZDB-GENE-100422-12 |
+| Xenopus | [ENSXETG00000007554](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007554) | [448349](https://www.ncbi.nlm.nih.gov/gene/448349) |  |  |
+| Zebrafish | [ENSDARG00000103184](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000103184) | [560295](https://www.ncbi.nlm.nih.gov/gene/560295) | [ZFIN:ZDB-GENE-161017-116](https://zfin.org/ZDB-GENE-161017-116) | proteolysis |
 

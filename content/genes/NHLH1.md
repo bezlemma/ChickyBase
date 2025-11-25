@@ -3,7 +3,6 @@ aliases:
 - helix-loop-helix protein 1
 cgnc_id: '48953'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0011277
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Notch-dependent+neurogenic+Dynamic+Ratié
   Comments: 'The sequence below was obtained from NCBI (acc # NM_204121.1) using the
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373910
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204121
 forward_primer: AACTTGCTGGGCTGAGGGTTTG
-gene_id: '459381'
+gene_id: '373910'
 gene_type: protein-coding
 images:
 - caption: NHLH1 expression
@@ -388,13 +387,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig6.allimages.HH22.jpg
 name: nescient helix-loop-helix 1
-ncbi_id: '459381'
+ncbi_id: '373910'
 orthologs:
-- ensembl: ''
-  entrez: '31397'
-  mod: FBgn0011277
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000171786
   entrez: '4807'
   mod: MIM:162360
@@ -405,24 +399,19 @@ orthologs:
   mod: MGI:98481
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100125788,495280,398086
-  mod: '989789'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000041911
+  entrez: '100125788'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: ATTAACCCTCACTAAAGGATGCGAAGAGGGCGTGTAAAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459381
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373910
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459381
+  url: https://www.ncbi.nlm.nih.gov/gene/373910
 species: Gallus gallus
 symbol: NHLH1
 template_length: '801'
@@ -451,9 +440,7 @@ title: NHLH1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31397](https://www.ncbi.nlm.nih.gov/gene/31397) | FBgn0011277 |  |
 | Human | [ENSG00000171786](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171786) | [4807](https://www.ncbi.nlm.nih.gov/gene/4807) | [MIM:162360](https://omim.org/entry/162360) |  |
 | Mouse | [ENSMUSG00000051251](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000051251) | [18071](https://www.ncbi.nlm.nih.gov/gene/18071) | [MGI:98481](http://www.informatics.jax.org/marker/MGI:98481) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100125788](https://www.ncbi.nlm.nih.gov/gene/100125788), [495280](https://www.ncbi.nlm.nih.gov/gene/495280), [398086](https://www.ncbi.nlm.nih.gov/gene/398086) | [989789](http://www.xenbase.org/gene/showgene.do?method=display&geneId=989789) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000041911](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041911) | [100125788](https://www.ncbi.nlm.nih.gov/gene/100125788) |  |  |
 

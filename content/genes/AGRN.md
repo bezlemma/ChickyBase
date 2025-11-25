@@ -4,7 +4,6 @@ aliases:
 - heparan sulfate proteoglycan
 cgnc_id: '1448'
 external_ids:
-  '19': stage 19stage 19
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007213
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005605
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Ma+1994+agrin+nervous
@@ -19,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0030548
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205527
 forward_primer: AACCCCAACTCCAGCCATTGAG
-gene_id: '460315'
+gene_id: '396538'
 gene_type: protein-coding
 images:
 - caption: AGRN expression
@@ -393,13 +392,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Agrin.Ma.1994.Fig5.jpg
 name: agrin
-ncbi_id: '460315'
+ncbi_id: '396538'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000188157
   entrez: '375790'
   mod: MIM:103320
@@ -411,24 +405,25 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(4) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000001763
   entrez: '100492176'
-  mod: '953966'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000079388
   entrez: '565373'
-  mod: ZFIN:ZDB-GENE-060922-2,ZFIN:ZDB-GENE-030131-1033
-  phenotypes: ZDB-GENE-060922-2,ZDB-GENE-030131-1033
+  mod: ZFIN:ZDB-GENE-030131-1033
+  phenotypes: anterior/posterior pattern specification, axonogenesis, cell differentiation,
+    central nervous system development, cytoskeleton organization
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGATGAAGTCCTTGCCACGATTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460315
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396538
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460315
+  url: https://www.ncbi.nlm.nih.gov/gene/396538
 species: Gallus gallus
 symbol: AGRN
 template_length: '988'
@@ -458,9 +453,8 @@ title: AGRN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000188157](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000188157) | [375790](https://www.ncbi.nlm.nih.gov/gene/375790) | [MIM:103320](https://omim.org/entry/103320) | MIM:254300 |
 | Mouse | [ENSMUSG00000041936](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041936) | [11603](https://www.ncbi.nlm.nih.gov/gene/11603) | [MGI:87961](http://www.informatics.jax.org/marker/MGI:87961) | All phenotypic alleles (7):Targeted, knock-out(4) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [100492176](https://www.ncbi.nlm.nih.gov/gene/100492176) | [953966](http://www.xenbase.org/gene/showgene.do?method=display&geneId=953966) |  |
-| Zebrafish | [ENSDARG00000079388](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079388) | [565373](https://www.ncbi.nlm.nih.gov/gene/565373) | [ZFIN:ZDB-GENE-060922-2](https://zfin.org/ZDB-GENE-060922-2), [ZFIN:ZDB-GENE-030131-1033](https://zfin.org/ZDB-GENE-030131-1033) | ZDB-GENE-060922-2,ZDB-GENE-030131-1033 |
+| Xenopus | [ENSXETG00000001763](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001763) | [100492176](https://www.ncbi.nlm.nih.gov/gene/100492176) |  |  |
+| Zebrafish | [ENSDARG00000079388](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079388) | [565373](https://www.ncbi.nlm.nih.gov/gene/565373) | [ZFIN:ZDB-GENE-030131-1033](https://zfin.org/ZDB-GENE-030131-1033) | anterior/posterior pattern specification, axonogenesis, cell differentiation, central nervous system development, cytoskeleton organization |
 

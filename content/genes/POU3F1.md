@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:430270
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031584
-gene_id: '461967'
+gene_id: '430270'
 gene_type: protein-coding
 images:
 - caption: POU3F1 expression
@@ -75,37 +75,29 @@ images:
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRN2.Caqueret.2005.Fig.5.png
 name: POU class 3 homeobox 1
-ncbi_id: '461967'
+ncbi_id: '430270'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000090125
+  entrez: '18991'
+  mod: MGI:101896
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000047666
+  entrez: '549258'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000009823
+  entrez: '30398'
+  mod: ZFIN:ZDB-GENE-980526-372
+  phenotypes: brain development, cell differentiation, nervous system development,
+    regulation of DNA-templated transcription, regulation of transcription by RNA
+    polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461967
+  url: https://www.ncbi.nlm.nih.gov/gene/430270
 species: Gallus gallus
 symbol: POU3F1
 title: POU3F1
@@ -131,9 +123,7 @@ title: POU3F1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Mouse | [ENSMUSG00000090125](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000090125) | [18991](https://www.ncbi.nlm.nih.gov/gene/18991) | [MGI:101896](http://www.informatics.jax.org/marker/MGI:101896) |  |
+| Xenopus | [ENSXETG00000047666](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000047666) | [549258](https://www.ncbi.nlm.nih.gov/gene/549258) |  |  |
+| Zebrafish | [ENSDARG00000009823](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009823) | [30398](https://www.ncbi.nlm.nih.gov/gene/30398) | [ZFIN:ZDB-GENE-980526-372](https://zfin.org/ZDB-GENE-980526-372) | brain development, cell differentiation, nervous system development, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

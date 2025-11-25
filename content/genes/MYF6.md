@@ -16,7 +16,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0070888
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030746
 forward_primer: AGCGACAGCAGCGGCGAG
-gene_id: '451910'
+gene_id: '417873'
 gene_type: protein-coding
 images:
 - caption: MYF6 expression
@@ -143,13 +143,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R317.MYF6.S26R.001.jpg
 name: myogenic factor 6
-ncbi_id: '451910'
+ncbi_id: '417873'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000111046
   entrez: '4618'
   mod: MIM:159991
@@ -160,24 +155,26 @@ orthologs:
   mod: MGI:97253
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 549914,495450,397858
-  mod: '998202'
+- ensembl: ENSXETG00000027340
+  entrez: '549914'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000029830
   entrez: '404208'
   mod: ZFIN:ZDB-GENE-040309-2
-  phenotypes: ZDB-GENE-040309-2
+  phenotypes: cell differentiation, muscle organ development, positive regulation
+    of myoblast differentiation, positive regulation of skeletal muscle fiber development,
+    regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAAAAAAAGGATGGGGGTGGTCTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451910
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417873
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451910
+  url: https://www.ncbi.nlm.nih.gov/gene/417873
 species: Gallus gallus
 symbol: MYF6
 template_length: '716'
@@ -204,9 +201,8 @@ title: MYF6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000111046](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111046) | [4618](https://www.ncbi.nlm.nih.gov/gene/4618) | [MIM:159991](https://omim.org/entry/159991) | MIM:310200 |
 | Mouse | [ENSMUSG00000035923](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035923) | [17878](https://www.ncbi.nlm.nih.gov/gene/17878) | [MGI:97253](http://www.informatics.jax.org/marker/MGI:97253) | All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3) |
-| Xenopus |  | [549914](https://www.ncbi.nlm.nih.gov/gene/549914), [495450](https://www.ncbi.nlm.nih.gov/gene/495450), [397858](https://www.ncbi.nlm.nih.gov/gene/397858) | [998202](http://www.xenbase.org/gene/showgene.do?method=display&geneId=998202) |  |
-| Zebrafish | [ENSDARG00000029830](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029830) | [404208](https://www.ncbi.nlm.nih.gov/gene/404208) | [ZFIN:ZDB-GENE-040309-2](https://zfin.org/ZDB-GENE-040309-2) | ZDB-GENE-040309-2 |
+| Xenopus | [ENSXETG00000027340](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000027340) | [549914](https://www.ncbi.nlm.nih.gov/gene/549914) |  |  |
+| Zebrafish | [ENSDARG00000029830](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029830) | [404208](https://www.ncbi.nlm.nih.gov/gene/404208) | [ZFIN:ZDB-GENE-040309-2](https://zfin.org/ZDB-GENE-040309-2) | cell differentiation, muscle organ development, positive regulation of myoblast differentiation, positive regulation of skeletal muscle fiber development, regulation of DNA-templated transcription |
 

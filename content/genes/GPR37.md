@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417748
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001081699
-gene_id: '452829'
+gene_id: '417748'
 gene_type: protein-coding
 images:
 - caption: GPR37 expression
@@ -155,37 +155,29 @@ images:
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SCGPR1.fig3.imageH.jpg
 name: G protein-coupled receptor 37
-ncbi_id: '452829'
+ncbi_id: '417748'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000170775
   entrez: '2861'
   mod: MIM:602583
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000039904
   entrez: '14763'
   mod: MGI:1313297
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(4) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: '100486656'
-  mod: '962314'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000033296
-  entrez: 322897,568430
-  mod: ZFIN:ZDB-GENE-030131-1617,ZFIN:ZDB-GENE-041210-264
-  phenotypes: ZDB-GENE-030131-1617,ZDB-GENE-041210-264
+- ensembl: ENSDARG00000074563
+  entrez: '100537916'
+  mod: ZFIN:ZDB-GENE-131120-175
+  phenotypes: G protein-coupled receptor signaling pathway, adenylate cyclase-inhibiting
+    G protein-coupled receptor signaling pathway, positive regulation of MAPK cascade,
+    signal transduction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452829
+  url: https://www.ncbi.nlm.nih.gov/gene/417748
 species: Gallus gallus
 symbol: GPR37
 title: GPR37
@@ -211,9 +203,7 @@ title: GPR37
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [2861](https://www.ncbi.nlm.nih.gov/gene/2861) | [MIM:602583](https://omim.org/entry/602583) |  |
-| Mouse |  | [14763](https://www.ncbi.nlm.nih.gov/gene/14763) | [MGI:1313297](http://www.informatics.jax.org/marker/MGI:1313297) | All phenotypic alleles (7):Targeted, knock-out(4) Targeted, other(3) |
-| Xenopus |  | [100486656](https://www.ncbi.nlm.nih.gov/gene/100486656) | [962314](http://www.xenbase.org/gene/showgene.do?method=display&geneId=962314) |  |
-| Zebrafish | [ENSDARG00000033296](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033296) | [322897](https://www.ncbi.nlm.nih.gov/gene/322897), [568430](https://www.ncbi.nlm.nih.gov/gene/568430) | [ZFIN:ZDB-GENE-030131-1617](https://zfin.org/ZDB-GENE-030131-1617), [ZFIN:ZDB-GENE-041210-264](https://zfin.org/ZDB-GENE-041210-264) | ZDB-GENE-030131-1617,ZDB-GENE-041210-264 |
+| Human | [ENSG00000170775](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170775) | [2861](https://www.ncbi.nlm.nih.gov/gene/2861) | [MIM:602583](https://omim.org/entry/602583) |  |
+| Mouse | [ENSMUSG00000039904](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039904) | [14763](https://www.ncbi.nlm.nih.gov/gene/14763) | [MGI:1313297](http://www.informatics.jax.org/marker/MGI:1313297) | All phenotypic alleles (7):Targeted, knock-out(4) Targeted, other(3) |
+| Zebrafish | [ENSDARG00000074563](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074563) | [100537916](https://www.ncbi.nlm.nih.gov/gene/100537916) | [ZFIN:ZDB-GENE-131120-175](https://zfin.org/ZDB-GENE-131120-175) | G protein-coupled receptor signaling pathway, adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway, positive regulation of MAPK cascade, signal transduction |
 

@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427829
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425403
 forward_primer: GCACCAATGCCATCGTGTC
-gene_id: '463326'
+gene_id: '427829'
 gene_type: protein-coding
 images:
 - caption: KIF12 expression
@@ -76,7 +76,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R720.KIF12.S26b.001.jpg
 name: kinesin family member 12
-ncbi_id: '463326'
+ncbi_id: '427829'
 orthologs:
 - ensembl: ''
   entrez: '47216'
@@ -107,10 +107,10 @@ reverse_primer: TGTGGAGCTGGCTGAACAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463326
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427829
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463326
+  url: https://www.ncbi.nlm.nih.gov/gene/427829
 species: Gallus gallus
 symbol: KIF12
 template_length: '867'

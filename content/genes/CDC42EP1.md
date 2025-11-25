@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418040
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_429544
 forward_primer: 5'-CGAAACCAATGGGAACGAGGTAG-3'
-gene_id: '458048'
+gene_id: '418040'
 gene_type: protein-coding
 images:
 - caption: CDC42EP1 expression
@@ -94,41 +94,26 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R583.CDC42EP1.S26AAA.001.jpg
 name: CDC42 effector protein 1
-ncbi_id: '458048'
+ncbi_id: '418040'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000128283
+  entrez: '11135'
+  mod: MIM:606084
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000049521
+  entrez: '104445'
+  mod: MGI:1929763
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGAATGGGGAAGGAGAAGGGCTGTAG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458048
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418040
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458048
+  url: https://www.ncbi.nlm.nih.gov/gene/418040
 species: Gallus gallus
 symbol: CDC42EP1
 template_length: '885'
@@ -151,9 +136,6 @@ title: CDC42EP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000128283](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000128283) | [11135](https://www.ncbi.nlm.nih.gov/gene/11135) | [MIM:606084](https://omim.org/entry/606084) |  |
+| Mouse | [ENSMUSG00000049521](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049521) | [104445](https://www.ncbi.nlm.nih.gov/gene/104445) | [MGI:1929763](http://www.informatics.jax.org/marker/MGI:1929763) |  |
 

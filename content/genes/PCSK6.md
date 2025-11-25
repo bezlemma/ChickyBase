@@ -3,7 +3,6 @@ aliases:
 - proprotein convertase PACE4
 cgnc_id: '49329'
 external_ids:
-  '4': stage 4stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Alev+Jakt+Ueda+landscape
   Comments: "Forward Primer\tGTGGAAGCCAAGAAATGGAA\r\nReverse Primer\tTCCATCTCCGATACCTCCAG"
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -13,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395454
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_413892
-gene_id: '449252'
+gene_id: '395454'
 gene_type: protein-coding
 images:
 - caption: PCSK6 expression
@@ -33,13 +32,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PCSK6.Alev.2010 for
     Figure 5, panel A13.JPG
 name: proprotein convertase subtilisin/kexin type 6
-ncbi_id: '449252'
+ncbi_id: '395454'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000140479
   entrez: '5046'
   mod: MIM:167405
@@ -50,20 +44,15 @@ orthologs:
   mod: MGI:102897
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100485543,446296
-  mod: '979057'
+- ensembl: ENSXETG00000006663
+  entrez: '100485543'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ZFIN:ZDB-GENE-100908-1
-  phenotypes: ZDB-GENE-100908-1
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449252
+  url: https://www.ncbi.nlm.nih.gov/gene/395454
 species: Gallus gallus
 symbol: PCSK6
 title: PCSK6
@@ -90,9 +79,7 @@ Reverse Primer	TCCATCTCCGATACCTCCAG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000140479](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140479) | [5046](https://www.ncbi.nlm.nih.gov/gene/5046) | [MIM:167405](https://omim.org/entry/167405) |  |
 | Mouse | [ENSMUSG00000030513](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030513) | [18553](https://www.ncbi.nlm.nih.gov/gene/18553) | [MGI:102897](http://www.informatics.jax.org/marker/MGI:102897) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100485543](https://www.ncbi.nlm.nih.gov/gene/100485543), [446296](https://www.ncbi.nlm.nih.gov/gene/446296) | [979057](http://www.xenbase.org/gene/showgene.do?method=display&geneId=979057) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-100908-1](https://zfin.org/ZDB-GENE-100908-1) | ZDB-GENE-100908-1 |
+| Xenopus | [ENSXETG00000006663](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006663) | [100485543](https://www.ncbi.nlm.nih.gov/gene/100485543) |  |  |
 

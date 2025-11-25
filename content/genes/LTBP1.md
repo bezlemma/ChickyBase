@@ -7,7 +7,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421461
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419510
 forward_primer: 5’-GCCACGGGTTCTGTGAAAAC-3’
-gene_id: '457744'
+gene_id: '421461'
 gene_type: protein-coding
 images:
 - caption: LTBP1 expression
@@ -172,13 +172,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R653.LTBP1.S26V.001.jpg
 name: latent transforming growth factor beta binding protein 1
-ncbi_id: '457744'
+ncbi_id: '421461'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000049323
   entrez: '4052'
   mod: MIM:150390
@@ -189,24 +184,25 @@ orthologs:
   mod: MGI:109151
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100488719,398322
-  mod: '488057'
+- ensembl: ENSXETG00000019349
+  entrez: '100488719'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000056922
-  entrez: '562180'
+- ensembl: ENSDARG00000111571
+  entrez: '562072'
   mod: ZFIN:ZDB-GENE-091202-8
-  phenotypes: ZDB-GENE-091202-8
+  phenotypes: bone mineralization, bone morphogenesis, collagen fibril organization,
+    cranial skeletal system development, epithelial cell differentiation
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCGCTTTTCTGTTGCGTCCAA-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457744
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421461
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457744
+  url: https://www.ncbi.nlm.nih.gov/gene/421461
 species: Gallus gallus
 symbol: LTBP1
 template_length: '748'
@@ -229,9 +225,8 @@ title: LTBP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000049323](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000049323) | [4052](https://www.ncbi.nlm.nih.gov/gene/4052) | [MIM:150390](https://omim.org/entry/150390) |  |
 | Mouse | [ENSMUSG00000001870](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001870) | [268977](https://www.ncbi.nlm.nih.gov/gene/268977) | [MGI:109151](http://www.informatics.jax.org/marker/MGI:109151) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100488719](https://www.ncbi.nlm.nih.gov/gene/100488719), [398322](https://www.ncbi.nlm.nih.gov/gene/398322) | [488057](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488057) |  |
-| Zebrafish | [ENSDARG00000056922](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056922) | [562180](https://www.ncbi.nlm.nih.gov/gene/562180) | [ZFIN:ZDB-GENE-091202-8](https://zfin.org/ZDB-GENE-091202-8) | ZDB-GENE-091202-8 |
+| Xenopus | [ENSXETG00000019349](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019349) | [100488719](https://www.ncbi.nlm.nih.gov/gene/100488719) |  |  |
+| Zebrafish | [ENSDARG00000111571](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000111571) | [562072](https://www.ncbi.nlm.nih.gov/gene/562072) | [ZFIN:ZDB-GENE-091202-8](https://zfin.org/ZDB-GENE-091202-8) | bone mineralization, bone morphogenesis, collagen fibril organization, cranial skeletal system development, epithelial cell differentiation |
 

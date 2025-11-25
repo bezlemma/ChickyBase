@@ -4,13 +4,12 @@ aliases:
 - IQ motif and WD repeats 1
 cgnc_id: '11504'
 external_ids:
-  '25': stage 25stage 25
   Comments: no specific expression detected stages 5, 7, 10.
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000015435
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418438
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416649
-gene_id: '455976'
+gene_id: '418438'
 gene_type: protein-coding
 images:
 - caption: DCAF6 expression
@@ -98,13 +97,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/13m21.99.25xs.jpg
 name: DDB1 and CUL4 associated factor 6
-ncbi_id: '455976'
+ncbi_id: '418438'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000143164
   entrez: '55827'
   mod: MIM:610494
@@ -115,23 +109,23 @@ orthologs:
   mod: MGI:1921356
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 733780,445867
-  mod: '5738808'
+- ensembl: ENSXETG00000000972
+  entrez: '733780'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000078311
   entrez: '564498'
   mod: ZFIN:ZDB-GENE-090206-2
-  phenotypes: ZDB-GENE-090206-2
+  phenotypes: positive regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455976
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418438
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455976
+  url: https://www.ncbi.nlm.nih.gov/gene/418438
 species: Gallus gallus
 symbol: DCAF6
 title: DCAF6
@@ -154,9 +148,8 @@ title: DCAF6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000143164](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143164) | [55827](https://www.ncbi.nlm.nih.gov/gene/55827) | [MIM:610494](https://omim.org/entry/610494) |  |
 | Mouse | [ENSMUSG00000026571](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026571) | [74106](https://www.ncbi.nlm.nih.gov/gene/74106) | [MGI:1921356](http://www.informatics.jax.org/marker/MGI:1921356) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [733780](https://www.ncbi.nlm.nih.gov/gene/733780), [445867](https://www.ncbi.nlm.nih.gov/gene/445867) | [5738808](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5738808) |  |
-| Zebrafish | [ENSDARG00000078311](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078311) | [564498](https://www.ncbi.nlm.nih.gov/gene/564498) | [ZFIN:ZDB-GENE-090206-2](https://zfin.org/ZDB-GENE-090206-2) | ZDB-GENE-090206-2 |
+| Xenopus | [ENSXETG00000000972](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000972) | [733780](https://www.ncbi.nlm.nih.gov/gene/733780) |  |  |
+| Zebrafish | [ENSDARG00000078311](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078311) | [564498](https://www.ncbi.nlm.nih.gov/gene/564498) | [ZFIN:ZDB-GENE-090206-2](https://zfin.org/ZDB-GENE-090206-2) | positive regulation of transcription by RNA polymerase II |
 

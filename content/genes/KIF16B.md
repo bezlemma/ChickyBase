@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421260
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419330
 forward_primer: AGCCCTTGAACAAGACCGG
-gene_id: '457162'
+gene_id: '421260'
 gene_type: protein-coding
 images:
 - caption: KIF16B expression
@@ -57,7 +57,7 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R720.KIF16B.S24.001.jpg
 name: kinesin family member 16B
-ncbi_id: '457162'
+ncbi_id: '421260'
 orthologs:
 - ensembl: ''
   entrez: '43310'
@@ -82,16 +82,16 @@ orthologs:
 - ensembl: ENSDARG00000074158
   entrez: '100334507'
   mod: ZFIN:ZDB-GENE-070424-241,ZFIN:ZDB-GENE-090313-233
-  phenotypes: ZDB-GENE-070424-241,ZDB-GENE-090313-233
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: CATTGTCTGCTGCGTGGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457162
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421260
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457162
+  url: https://www.ncbi.nlm.nih.gov/gene/421260
 species: Gallus gallus
 symbol: KIF16B
 template_length: '946'
@@ -120,5 +120,5 @@ title: KIF16B
 | Human | [ENSG00000089177](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000089177) | [55614](https://www.ncbi.nlm.nih.gov/gene/55614) |  |  |
 | Mouse | [ENSMUSG00000038844](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038844) | [16558](https://www.ncbi.nlm.nih.gov/gene/16558) | [MGI:1098240](http://www.informatics.jax.org/marker/MGI:1098240) | All phenotypic alleles (1):Targeted, other(1) |
 | Xenopus |  | [100489716](https://www.ncbi.nlm.nih.gov/gene/100489716) | [948786](http://www.xenbase.org/gene/showgene.do?method=display&geneId=948786) |  |
-| Zebrafish | [ENSDARG00000074158](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074158) | [100334507](https://www.ncbi.nlm.nih.gov/gene/100334507) | [ZFIN:ZDB-GENE-070424-241](https://zfin.org/ZDB-GENE-070424-241), [ZFIN:ZDB-GENE-090313-233](https://zfin.org/ZDB-GENE-090313-233) | ZDB-GENE-070424-241,ZDB-GENE-090313-233 |
+| Zebrafish | [ENSDARG00000074158](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074158) | [100334507](https://www.ncbi.nlm.nih.gov/gene/100334507) | [ZFIN:ZDB-GENE-070424-241](https://zfin.org/ZDB-GENE-070424-241), [ZFIN:ZDB-GENE-090313-233](https://zfin.org/ZDB-GENE-090313-233) |  |
 

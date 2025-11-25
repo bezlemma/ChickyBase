@@ -3,7 +3,6 @@ aliases:
 - MLLT4, afadin
 cgnc_id: '51504'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0259212
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/40620
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421564
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419605
 forward_primer: 5'-GCAAACTCGCCGACATCATC-3'
-gene_id: '458225'
+gene_id: '421564'
 gene_type: protein-coding
 images:
 - caption: AFDN expression
@@ -217,13 +216,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT4.S25AAA.001.jpg
 name: afadin, adherens junction formation factor
-ncbi_id: '458225'
+ncbi_id: '421564'
 orthologs:
-- ensembl: ''
-  entrez: '40620'
-  mod: FBgn0259212
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000130396
   entrez: '4301'
   mod: MIM:159559
@@ -234,24 +228,25 @@ orthologs:
   mod: MGI:1314653
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100493083,496308
-  mod: '948332'
+- ensembl: ENSXETG00000023305
+  entrez: '100493083'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000029472
   entrez: '558359'
-  mod: ZFIN:ZDB-GENE-050419-52,ZFIN:ZDB-GENE-130530-932
-  phenotypes: ZDB-GENE-050419-52,ZDB-GENE-130530-932
+  mod: ZFIN:ZDB-GENE-050419-52
+  phenotypes: cell adhesion, cell differentiation, cell junction organization, regulation
+    of protein localization, signal transduction
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGAATTCTCAGCGTCCCACCTG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458225
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421564
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458225
+  url: https://www.ncbi.nlm.nih.gov/gene/421564
 species: Gallus gallus
 symbol: AFDN
 template_length: '728'
@@ -276,9 +271,8 @@ title: AFDN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40620](https://www.ncbi.nlm.nih.gov/gene/40620) | FBgn0259212 |  |
 | Human | [ENSG00000130396](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000130396) | [4301](https://www.ncbi.nlm.nih.gov/gene/4301) | [MIM:159559](https://omim.org/entry/159559) |  |
 | Mouse | [ENSMUSG00000068036](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000068036) | [17356](https://www.ncbi.nlm.nih.gov/gene/17356) | [MGI:1314653](http://www.informatics.jax.org/marker/MGI:1314653) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100493083](https://www.ncbi.nlm.nih.gov/gene/100493083), [496308](https://www.ncbi.nlm.nih.gov/gene/496308) | [948332](http://www.xenbase.org/gene/showgene.do?method=display&geneId=948332) |  |
-| Zebrafish | [ENSDARG00000029472](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029472) | [558359](https://www.ncbi.nlm.nih.gov/gene/558359) | [ZFIN:ZDB-GENE-050419-52](https://zfin.org/ZDB-GENE-050419-52), [ZFIN:ZDB-GENE-130530-932](https://zfin.org/ZDB-GENE-130530-932) | ZDB-GENE-050419-52,ZDB-GENE-130530-932 |
+| Xenopus | [ENSXETG00000023305](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023305) | [100493083](https://www.ncbi.nlm.nih.gov/gene/100493083) |  |  |
+| Zebrafish | [ENSDARG00000029472](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029472) | [558359](https://www.ncbi.nlm.nih.gov/gene/558359) | [ZFIN:ZDB-GENE-050419-52](https://zfin.org/ZDB-GENE-050419-52) | cell adhesion, cell differentiation, cell junction organization, regulation of protein localization, signal transduction |
 

@@ -21,7 +21,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395937
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005179
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205063
-gene_id: '450488'
+gene_id: '395937'
 gene_type: protein-coding
 images:
 - caption: TSHB expression
@@ -127,13 +127,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TSHbeta.Parkinson.2010.Fig.3.png
 name: thyroid stimulating hormone beta
-ncbi_id: '450488'
+ncbi_id: '395937'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134200
   entrez: '7252'
   mod: MIM:188540
@@ -144,20 +139,20 @@ orthologs:
   mod: MGI:98848
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100496349,378680
-  mod: '485413'
+- ensembl: ENSXETG00000041131
+  entrez: '100496349'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000033726
-  entrez: 100001596,353223
-  mod: ZFIN:ZDB-GENE-030513-3
-  phenotypes: ZDB-GENE-030513-3
+- ensembl: ENSDARG00000110110
+  entrez: '100001596'
+  mod: ''
+  phenotypes: autophagy
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450488
+  url: https://www.ncbi.nlm.nih.gov/gene/395937
 species: Gallus gallus
 symbol: TSHB
 title: TSHB
@@ -187,9 +182,8 @@ title: TSHB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000134200](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134200) | [7252](https://www.ncbi.nlm.nih.gov/gene/7252) | [MIM:188540](https://omim.org/entry/188540) | MIM:275100 |
 | Mouse | [ENSMUSG00000027857](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027857) | [22094](https://www.ncbi.nlm.nih.gov/gene/22094) | [MGI:98848](http://www.informatics.jax.org/marker/MGI:98848) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100496349](https://www.ncbi.nlm.nih.gov/gene/100496349), [378680](https://www.ncbi.nlm.nih.gov/gene/378680) | [485413](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485413) |  |
-| Zebrafish | [ENSDARG00000033726](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033726) | [100001596](https://www.ncbi.nlm.nih.gov/gene/100001596), [353223](https://www.ncbi.nlm.nih.gov/gene/353223) | [ZFIN:ZDB-GENE-030513-3](https://zfin.org/ZDB-GENE-030513-3) | ZDB-GENE-030513-3 |
+| Xenopus | [ENSXETG00000041131](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041131) | [100496349](https://www.ncbi.nlm.nih.gov/gene/100496349) |  |  |
+| Zebrafish | [ENSDARG00000110110](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110110) | [100001596](https://www.ncbi.nlm.nih.gov/gene/100001596) |  | autophagy |
 

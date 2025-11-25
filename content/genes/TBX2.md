@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373990
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001235320
-gene_id: '451454'
+gene_id: '373990'
 gene_type: protein-coding
 images:
 - caption: TBX2 expression
@@ -312,37 +312,33 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tbx2.Gibson-Brown.1998.Fig1.jpg
 name: T-box 2
-ncbi_id: '451454'
+ncbi_id: '373990'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000121068
+  entrez: '6909'
+  mod: MIM:600747
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000000093
+  entrez: '21385'
+  mod: MGI:98494
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000020557
+  entrez: '619588'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000018025
+  entrez: '573084'
+  mod: ZFIN:ZDB-GENE-990917-4
+  phenotypes: anatomical structure morphogenesis, cardiac chamber development, cell
+    fate specification, embryonic heart tube development, enteric nervous system development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451454
+  url: https://www.ncbi.nlm.nih.gov/gene/373990
 species: Gallus gallus
 symbol: TBX2
 title: TBX2
@@ -368,9 +364,8 @@ title: TBX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000121068](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000121068) | [6909](https://www.ncbi.nlm.nih.gov/gene/6909) | [MIM:600747](https://omim.org/entry/600747) |  |
+| Mouse | [ENSMUSG00000000093](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000093) | [21385](https://www.ncbi.nlm.nih.gov/gene/21385) | [MGI:98494](http://www.informatics.jax.org/marker/MGI:98494) |  |
+| Xenopus | [ENSXETG00000020557](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020557) | [619588](https://www.ncbi.nlm.nih.gov/gene/619588) |  |  |
+| Zebrafish | [ENSDARG00000018025](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018025) | [573084](https://www.ncbi.nlm.nih.gov/gene/573084) | [ZFIN:ZDB-GENE-990917-4](https://zfin.org/ZDB-GENE-990917-4) | anatomical structure morphogenesis, cardiac chamber development, cell fate specification, embryonic heart tube development, enteric nervous system development |
 

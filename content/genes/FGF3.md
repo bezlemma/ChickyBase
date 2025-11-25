@@ -6,8 +6,6 @@ aliases:
 - Int-2 proto-oncogene protein
 cgnc_id: '5708'
 external_ids:
-  '25': stage 25stage 25
-  '7': stage 7stage 7
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030154
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005576
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=
@@ -21,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005104
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205327
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGAAATAACTGCTGTTGATGTCGGG
-gene_id: '462419'
+gene_id: '396267'
 gene_type: protein-coding
 images:
 - caption: FGF3 expression
@@ -381,41 +379,37 @@ images:
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Litsiou.2005.f4.fgf3.png
 name: fibroblast growth factor 3
-ncbi_id: '462419'
+ncbi_id: '396267'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000186895
   entrez: '2248'
   mod: MIM:164950
   phenotypes: MIM:610706
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000031074
   entrez: '14174'
   mod: MGI:95517
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 493516,373669
-  mod: '1018516'
+- ensembl: ENSXETG00000048681
+  entrez: '493516'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: 100334813,100334683,100329292,30549
+- ensembl: ENSDARG00000101540
+  entrez: '30549'
   mod: ZFIN:ZDB-GENE-980526-178
-  phenotypes: ZDB-GENE-980526-178
+  phenotypes: adenohypophysis development, anterior/posterior pattern specification,
+    cartilage development, cell differentiation, cell fate specification
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCCTCTCCTTCTCCTCTGGTTCTTAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462419
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396267
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462419
+  url: https://www.ncbi.nlm.nih.gov/gene/396267
 species: Gallus gallus
 symbol: FGF3
 template_length: '422'
@@ -445,9 +439,8 @@ title: FGF3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [2248](https://www.ncbi.nlm.nih.gov/gene/2248) | [MIM:164950](https://omim.org/entry/164950) | MIM:610706 |
-| Mouse |  | [14174](https://www.ncbi.nlm.nih.gov/gene/14174) | [MGI:95517](http://www.informatics.jax.org/marker/MGI:95517) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4) |
-| Xenopus |  | [493516](https://www.ncbi.nlm.nih.gov/gene/493516), [373669](https://www.ncbi.nlm.nih.gov/gene/373669) | [1018516](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1018516) |  |
-| Zebrafish |  | [100334813](https://www.ncbi.nlm.nih.gov/gene/100334813), [100334683](https://www.ncbi.nlm.nih.gov/gene/100334683), [100329292](https://www.ncbi.nlm.nih.gov/gene/100329292), [30549](https://www.ncbi.nlm.nih.gov/gene/30549) | [ZFIN:ZDB-GENE-980526-178](https://zfin.org/ZDB-GENE-980526-178) | ZDB-GENE-980526-178 |
+| Human | [ENSG00000186895](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000186895) | [2248](https://www.ncbi.nlm.nih.gov/gene/2248) | [MIM:164950](https://omim.org/entry/164950) | MIM:610706 |
+| Mouse | [ENSMUSG00000031074](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031074) | [14174](https://www.ncbi.nlm.nih.gov/gene/14174) | [MGI:95517](http://www.informatics.jax.org/marker/MGI:95517) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4) |
+| Xenopus | [ENSXETG00000048681](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000048681) | [493516](https://www.ncbi.nlm.nih.gov/gene/493516) |  |  |
+| Zebrafish | [ENSDARG00000101540](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101540) | [30549](https://www.ncbi.nlm.nih.gov/gene/30549) | [ZFIN:ZDB-GENE-980526-178](https://zfin.org/ZDB-GENE-980526-178) | adenohypophysis development, anterior/posterior pattern specification, cartilage development, cell differentiation, cell fate specification |
 

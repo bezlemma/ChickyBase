@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418910
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003674
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012827
-gene_id: '451936'
+gene_id: '418910'
 gene_type: protein-coding
 images:
 - caption: PDS5B expression
@@ -22,13 +22,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53zg12.127.23.jpg
 name: PDS5 cohesin associated factor B
-ncbi_id: '451936'
+ncbi_id: '418910'
 orthologs:
-- ensembl: ''
-  entrez: '36286'
-  mod: FBgn0260012
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000083642
   entrez: '23047'
   mod: MIM:605333
@@ -39,23 +34,23 @@ orthologs:
   mod: MGI:2140945
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100135353,495695,734718
-  mod: '6041339'
+- ensembl: ENSXETG00000017000
+  entrez: '100135353'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000061312
+- ensembl: ENSDARG00000098897
   entrez: '565592'
   mod: ZFIN:ZDB-GENE-091217-2
-  phenotypes: ZDB-GENE-091217-2
+  phenotypes: cell division, mitotic sister chromatid cohesion
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451936
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418910
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451936
+  url: https://www.ncbi.nlm.nih.gov/gene/418910
 species: Gallus gallus
 symbol: PDS5B
 title: PDS5B
@@ -83,9 +78,8 @@ title: PDS5B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36286](https://www.ncbi.nlm.nih.gov/gene/36286) | FBgn0260012 |  |
 | Human | [ENSG00000083642](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000083642) | [23047](https://www.ncbi.nlm.nih.gov/gene/23047) | [MIM:605333](https://omim.org/entry/605333) |  |
 | Mouse | [ENSMUSG00000034021](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034021) | [100710](https://www.ncbi.nlm.nih.gov/gene/100710) | [MGI:2140945](http://www.informatics.jax.org/marker/MGI:2140945) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100135353](https://www.ncbi.nlm.nih.gov/gene/100135353), [495695](https://www.ncbi.nlm.nih.gov/gene/495695), [734718](https://www.ncbi.nlm.nih.gov/gene/734718) | [6041339](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6041339) |  |
-| Zebrafish | [ENSDARG00000061312](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061312) | [565592](https://www.ncbi.nlm.nih.gov/gene/565592) | [ZFIN:ZDB-GENE-091217-2](https://zfin.org/ZDB-GENE-091217-2) | ZDB-GENE-091217-2 |
+| Xenopus | [ENSXETG00000017000](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017000) | [100135353](https://www.ncbi.nlm.nih.gov/gene/100135353) |  |  |
+| Zebrafish | [ENSDARG00000098897](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098897) | [565592](https://www.ncbi.nlm.nih.gov/gene/565592) | [ZFIN:ZDB-GENE-091217-2](https://zfin.org/ZDB-GENE-091217-2) | cell division, mitotic sister chromatid cohesion |
 

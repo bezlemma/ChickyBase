@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423856
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421724
-gene_id: '450409'
+gene_id: '423856'
 gene_type: protein-coding
 images:
 - caption: KAZALD1 expression
@@ -94,14 +94,9 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KAZALD1.Anderson.2019.Supplementary
     figure 5G2.jpg
 name: Kazal type serine peptidase inhibitor domain 1
-ncbi_id: '450409'
+ncbi_id: '423856'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000107821
   entrez: '81621'
   mod: MIM:609208
   phenotypes: ''
@@ -111,20 +106,20 @@ orthologs:
   mod: MGI:2147606
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100101767,443968
-  mod: '486703'
+- ensembl: ENSXETG00000008045
+  entrez: '100101767'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000053509
   entrez: '100000101'
   mod: ZFIN:ZDB-GENE-050208-155
-  phenotypes: ZDB-GENE-050208-155
+  phenotypes: regulation of cell growth, regulation of signal transduction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450409
+  url: https://www.ncbi.nlm.nih.gov/gene/423856
 species: Gallus gallus
 symbol: KAZALD1
 title: KAZALD1
@@ -150,9 +145,8 @@ title: KAZALD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [81621](https://www.ncbi.nlm.nih.gov/gene/81621) | [MIM:609208](https://omim.org/entry/609208) |  |
+| Human | [ENSG00000107821](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107821) | [81621](https://www.ncbi.nlm.nih.gov/gene/81621) | [MIM:609208](https://omim.org/entry/609208) |  |
 | Mouse | [ENSMUSG00000025213](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025213) | [107250](https://www.ncbi.nlm.nih.gov/gene/107250) | [MGI:2147606](http://www.informatics.jax.org/marker/MGI:2147606) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100101767](https://www.ncbi.nlm.nih.gov/gene/100101767), [443968](https://www.ncbi.nlm.nih.gov/gene/443968) | [486703](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486703) |  |
-| Zebrafish | [ENSDARG00000053509](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053509) | [100000101](https://www.ncbi.nlm.nih.gov/gene/100000101) | [ZFIN:ZDB-GENE-050208-155](https://zfin.org/ZDB-GENE-050208-155) | ZDB-GENE-050208-155 |
+| Xenopus | [ENSXETG00000008045](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008045) | [100101767](https://www.ncbi.nlm.nih.gov/gene/100101767) |  |  |
+| Zebrafish | [ENSDARG00000053509](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053509) | [100000101](https://www.ncbi.nlm.nih.gov/gene/100000101) | [ZFIN:ZDB-GENE-050208-155](https://zfin.org/ZDB-GENE-050208-155) | regulation of cell growth, regulation of signal transduction |
 

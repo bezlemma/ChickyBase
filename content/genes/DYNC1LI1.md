@@ -20,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420668
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001167737
-gene_id: '454888'
+gene_id: '420668'
 gene_type: protein-coding
 images:
 - caption: DYNC1LI1 expression
@@ -45,37 +45,34 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dyneinlightchain2.Nelson.2004.fig4.jpg
 name: dynein cytoplasmic 1 light intermediate chain 1
-ncbi_id: '454888'
+ncbi_id: '420668'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000144635
   entrez: '51143'
   mod: MIM:615890
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000032435
   entrez: '235661'
   mod: MGI:2135610
   phenotypes: All phenotypic alleles (2):Chemically induced(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 779754,398202,379847
-  mod: '490204'
+- ensembl: ENSXETG00000005364
+  entrez: '779754'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000036387
+- ensembl: ENSDARG00000098317
   entrez: '556103'
   mod: ZFIN:ZDB-GENE-030131-4108
-  phenotypes: ZDB-GENE-030131-4108
+  phenotypes: microtubule cytoskeleton organization, microtubule-based movement, opsin
+    transport, regulation of mitotic cell cycle, embryonic, regulation of mitotic
+    spindle organization
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454888
+  url: https://www.ncbi.nlm.nih.gov/gene/420668
 species: Gallus gallus
 symbol: DYNC1LI1
 title: DYNC1LI1
@@ -104,9 +101,8 @@ title: DYNC1LI1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000144635](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000144635) | [51143](https://www.ncbi.nlm.nih.gov/gene/51143) | [MIM:615890](https://omim.org/entry/615890) |  |
-| Mouse |  | [235661](https://www.ncbi.nlm.nih.gov/gene/235661) | [MGI:2135610](http://www.informatics.jax.org/marker/MGI:2135610) | All phenotypic alleles (2):Chemically induced(1) Targeted, other(1) |
-| Xenopus |  | [779754](https://www.ncbi.nlm.nih.gov/gene/779754), [398202](https://www.ncbi.nlm.nih.gov/gene/398202), [379847](https://www.ncbi.nlm.nih.gov/gene/379847) | [490204](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490204) |  |
-| Zebrafish | [ENSDARG00000036387](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036387) | [556103](https://www.ncbi.nlm.nih.gov/gene/556103) | [ZFIN:ZDB-GENE-030131-4108](https://zfin.org/ZDB-GENE-030131-4108) | ZDB-GENE-030131-4108 |
+| Mouse | [ENSMUSG00000032435](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032435) | [235661](https://www.ncbi.nlm.nih.gov/gene/235661) | [MGI:2135610](http://www.informatics.jax.org/marker/MGI:2135610) | All phenotypic alleles (2):Chemically induced(1) Targeted, other(1) |
+| Xenopus | [ENSXETG00000005364](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005364) | [779754](https://www.ncbi.nlm.nih.gov/gene/779754) |  |  |
+| Zebrafish | [ENSDARG00000098317](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098317) | [556103](https://www.ncbi.nlm.nih.gov/gene/556103) | [ZFIN:ZDB-GENE-030131-4108](https://zfin.org/ZDB-GENE-030131-4108) | microtubule cytoskeleton organization, microtubule-based movement, opsin transport, regulation of mitotic cell cycle, embryonic, regulation of mitotic spindle organization |
 

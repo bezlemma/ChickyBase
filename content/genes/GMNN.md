@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421004
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031010
-gene_id: '459313'
+gene_id: '421004'
 gene_type: protein-coding
 images:
 - caption: GMNN expression
@@ -72,13 +72,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Papanayotou.GMNN.Fig3allimages.jpg
 name: geminin, DNA replication inhibitor
-ncbi_id: '459313'
+ncbi_id: '421004'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000112312
   entrez: '51053'
   mod: MIM:602842
@@ -90,20 +85,22 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(3)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 496859,399373
-  mod: '966993'
+- ensembl: ENSXETG00000014814
+  entrez: '496859'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000035957
+- ensembl: ENSDARG00000113743
   entrez: '368320'
   mod: ZFIN:ZDB-GENE-030429-30
-  phenotypes: ZDB-GENE-030429-30
+  phenotypes: Kupffer's vesicle development, cilium assembly, determination of heart
+    left/right asymmetry, determination of liver left/right asymmetry, determination
+    of pancreatic left/right asymmetry
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459313
+  url: https://www.ncbi.nlm.nih.gov/gene/421004
 species: Gallus gallus
 symbol: GMNN
 title: GMNN
@@ -129,9 +126,8 @@ title: GMNN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000112312](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112312) | [51053](https://www.ncbi.nlm.nih.gov/gene/51053) | [MIM:602842](https://omim.org/entry/602842) |  |
 | Mouse | [ENSMUSG00000006715](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000006715) | [57441](https://www.ncbi.nlm.nih.gov/gene/57441) | [MGI:1927344](http://www.informatics.jax.org/marker/MGI:1927344) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(3) Gene trapped(1) |
-| Xenopus |  | [496859](https://www.ncbi.nlm.nih.gov/gene/496859), [399373](https://www.ncbi.nlm.nih.gov/gene/399373) | [966993](http://www.xenbase.org/gene/showgene.do?method=display&geneId=966993) |  |
-| Zebrafish | [ENSDARG00000035957](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035957) | [368320](https://www.ncbi.nlm.nih.gov/gene/368320) | [ZFIN:ZDB-GENE-030429-30](https://zfin.org/ZDB-GENE-030429-30) | ZDB-GENE-030429-30 |
+| Xenopus | [ENSXETG00000014814](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014814) | [496859](https://www.ncbi.nlm.nih.gov/gene/496859) |  |  |
+| Zebrafish | [ENSDARG00000113743](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000113743) | [368320](https://www.ncbi.nlm.nih.gov/gene/368320) | [ZFIN:ZDB-GENE-030429-30](https://zfin.org/ZDB-GENE-030429-30) | Kupffer's vesicle development, cilium assembly, determination of heart left/right asymmetry, determination of liver left/right asymmetry, determination of pancreatic left/right asymmetry |
 

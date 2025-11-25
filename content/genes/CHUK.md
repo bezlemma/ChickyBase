@@ -18,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012904
 forward_primer: 5’-ACTGTTCAGAGCCAAGACCG-3’
-gene_id: '451255'
+gene_id: '423669'
 gene_type: protein-coding
 images:
 - caption: CHUK expression
@@ -82,13 +82,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R632.CHUK.S27A.001.jpg
 name: conserved helix-loop-helix ubiquitous kinase
-ncbi_id: '451255'
+ncbi_id: '423669'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000213341
   entrez: '1147'
   mod: MIM:600664
@@ -99,24 +94,26 @@ orthologs:
   mod: MGI:99484
   phenotypes: All phenotypic alleles (11):Targeted, knock-out(4) Targeted, other(7)
   species: Mouse
-- ensembl: ''
-  entrez: 549654,444556
-  mod: '5910007'
+- ensembl: ENSXETG00000017643
+  entrez: '549654'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000011662
   entrez: '393287'
   mod: ZFIN:ZDB-GENE-040426-1069
-  phenotypes: ZDB-GENE-040426-1069
+  phenotypes: I-kappaB phosphorylation, cellular response to tumor necrosis factor,
+    central nervous system development, epiboly involved in gastrulation with mouth
+    forming second, negative regulation of apoptotic process
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGCTGTGTTGAAGGCACAAGG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451255
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423669
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451255
+  url: https://www.ncbi.nlm.nih.gov/gene/423669
 species: Gallus gallus
 symbol: CHUK
 template_length: '639'
@@ -142,9 +139,8 @@ title: CHUK
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000213341](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000213341) | [1147](https://www.ncbi.nlm.nih.gov/gene/1147) | [MIM:600664](https://omim.org/entry/600664) | MIM:613630 |
 | Mouse | [ENSMUSG00000025199](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025199) | [12675](https://www.ncbi.nlm.nih.gov/gene/12675) | [MGI:99484](http://www.informatics.jax.org/marker/MGI:99484) | All phenotypic alleles (11):Targeted, knock-out(4) Targeted, other(7) |
-| Xenopus |  | [549654](https://www.ncbi.nlm.nih.gov/gene/549654), [444556](https://www.ncbi.nlm.nih.gov/gene/444556) | [5910007](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5910007) |  |
-| Zebrafish | [ENSDARG00000011662](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011662) | [393287](https://www.ncbi.nlm.nih.gov/gene/393287) | [ZFIN:ZDB-GENE-040426-1069](https://zfin.org/ZDB-GENE-040426-1069) | ZDB-GENE-040426-1069 |
+| Xenopus | [ENSXETG00000017643](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017643) | [549654](https://www.ncbi.nlm.nih.gov/gene/549654) |  |  |
+| Zebrafish | [ENSDARG00000011662](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011662) | [393287](https://www.ncbi.nlm.nih.gov/gene/393287) | [ZFIN:ZDB-GENE-040426-1069](https://zfin.org/ZDB-GENE-040426-1069) | I-kappaB phosphorylation, cellular response to tumor necrosis factor, central nervous system development, epiboly involved in gastrulation with mouth forming second, negative regulation of apoptotic process |
 

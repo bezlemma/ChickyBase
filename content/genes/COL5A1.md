@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395568
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204790
-gene_id: '449542'
+gene_id: '395568'
 gene_type: protein-coding
 images:
 - caption: COL5A1 expression
@@ -96,13 +96,8 @@ images:
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COL5.Bandyopadhyay.2008.f3.col5.png
 name: collagen type V alpha 1 chain
-ncbi_id: '449542'
+ncbi_id: '395568'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000130635
   entrez: '1289'
   mod: MIM:120215
@@ -113,20 +108,21 @@ orthologs:
   mod: MGI:88457
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100038277,398739
-  mod: '5954566'
+- ensembl: ENSXETG00000022341
+  entrez: '100038277'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000012593
   entrez: '100334431'
   mod: ZFIN:ZDB-GENE-041105-6
-  phenotypes: ZDB-GENE-041105-6
+  phenotypes: DNA damage response, cristae formation, inner mitochondrial membrane
+    organization
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449542
+  url: https://www.ncbi.nlm.nih.gov/gene/395568
 species: Gallus gallus
 symbol: COL5A1
 title: COL5A1
@@ -152,9 +148,8 @@ title: COL5A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000130635](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000130635) | [1289](https://www.ncbi.nlm.nih.gov/gene/1289) | [MIM:120215](https://omim.org/entry/120215) | MIM:130000 |
 | Mouse | [ENSMUSG00000026837](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026837) | [12831](https://www.ncbi.nlm.nih.gov/gene/12831) | [MGI:88457](http://www.informatics.jax.org/marker/MGI:88457) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100038277](https://www.ncbi.nlm.nih.gov/gene/100038277), [398739](https://www.ncbi.nlm.nih.gov/gene/398739) | [5954566](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5954566) |  |
-| Zebrafish | [ENSDARG00000012593](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012593) | [100334431](https://www.ncbi.nlm.nih.gov/gene/100334431) | [ZFIN:ZDB-GENE-041105-6](https://zfin.org/ZDB-GENE-041105-6) | ZDB-GENE-041105-6 |
+| Xenopus | [ENSXETG00000022341](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022341) | [100038277](https://www.ncbi.nlm.nih.gov/gene/100038277) |  |  |
+| Zebrafish | [ENSDARG00000012593](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012593) | [100334431](https://www.ncbi.nlm.nih.gov/gene/100334431) | [ZFIN:ZDB-GENE-041105-6](https://zfin.org/ZDB-GENE-041105-6) | DNA damage response, cristae formation, inner mitochondrial membrane organization |
 

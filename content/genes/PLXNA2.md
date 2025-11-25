@@ -3,7 +3,6 @@ aliases:
 - plexin-A2, plexin-A2
 cgnc_id: '863'
 external_ids:
-  '4': stage 4stage 4
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0025741
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2012+Ferrario+Guthrie+Semaphorin+Chilton
   Comments: 'As insufficient information is provided in publication to verify exact
@@ -17,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419857
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417985
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/PLXNA2
-gene_id: '452651'
+gene_id: '419857'
 gene_type: protein-coding
 images:
 - caption: PLXNA2 expression
@@ -229,13 +228,8 @@ images:
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferrario2012.Fig1.F.PLEXINA2-Islet1.E6=STAGE29.jpg
 name: plexin A2
-ncbi_id: '452651'
+ncbi_id: '419857'
 orthologs:
-- ensembl: ''
-  entrez: '43832'
-  mod: FBgn0025741
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000076356
   entrez: '5362'
   mod: MIM:601054
@@ -247,20 +241,21 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Chemically induced(1) Targeted, knock-out(2)
     Targeted, other(4)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000017724
   entrez: '100144723'
-  mod: '856548'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000060372
   entrez: '561285'
   mod: ZFIN:ZDB-GENE-090311-6
-  phenotypes: ZDB-GENE-090311-6
+  phenotypes: axon guidance, eye development, morphogenesis of a branching structure,
+    optic vesicle formation, regulation of cell migration
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452651
+  url: https://www.ncbi.nlm.nih.gov/gene/419857
 species: Gallus gallus
 symbol: PLXNA2
 title: PLXNA2
@@ -289,9 +284,8 @@ title: PLXNA2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43832](https://www.ncbi.nlm.nih.gov/gene/43832) | FBgn0025741 |  |
 | Human | [ENSG00000076356](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000076356) | [5362](https://www.ncbi.nlm.nih.gov/gene/5362) | [MIM:601054](https://omim.org/entry/601054) |  |
 | Mouse | [ENSMUSG00000026640](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026640) | [18845](https://www.ncbi.nlm.nih.gov/gene/18845) | [MGI:107684](http://www.informatics.jax.org/marker/MGI:107684) | All phenotypic alleles (7):Chemically induced(1) Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [100144723](https://www.ncbi.nlm.nih.gov/gene/100144723) | [856548](http://www.xenbase.org/gene/showgene.do?method=display&geneId=856548) |  |
-| Zebrafish | [ENSDARG00000060372](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060372) | [561285](https://www.ncbi.nlm.nih.gov/gene/561285) | [ZFIN:ZDB-GENE-090311-6](https://zfin.org/ZDB-GENE-090311-6) | ZDB-GENE-090311-6 |
+| Xenopus | [ENSXETG00000017724](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017724) | [100144723](https://www.ncbi.nlm.nih.gov/gene/100144723) |  |  |
+| Zebrafish | [ENSDARG00000060372](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060372) | [561285](https://www.ncbi.nlm.nih.gov/gene/561285) | [ZFIN:ZDB-GENE-090311-6](https://zfin.org/ZDB-GENE-090311-6) | axon guidance, eye development, morphogenesis of a branching structure, optic vesicle formation, regulation of cell migration |
 

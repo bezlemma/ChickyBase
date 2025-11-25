@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428607
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004719
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031525
-gene_id: '460372'
+gene_id: '428607'
 gene_type: protein-coding
 images:
 - caption: PCMT1 expression
@@ -50,37 +50,28 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F5.pcmt1.png
 name: protein-L-isoaspartate (D-aspartate) O-methyltransferase
-ncbi_id: '460372'
+ncbi_id: '428607'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000120265
   entrez: '5110'
   mod: MIM:176851
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: '18537'
-  mod: MGI:97502
-  phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
-  species: Mouse
-- ensembl: ''
-  entrez: 595004,495685
-  mod: '959016'
+- ensembl: ENSXETG00000017500
+  entrez: '595004'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000015201
   entrez: '30751'
   mod: ZFIN:ZDB-GENE-990415-134
-  phenotypes: ZDB-GENE-990415-134
+  phenotypes: methylation, protein methylation, protein modification process, regulation
+    of calcium-mediated signaling
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460372
+  url: https://www.ncbi.nlm.nih.gov/gene/428607
 species: Gallus gallus
 symbol: PCMT1
 title: PCMT1
@@ -108,9 +99,7 @@ title: PCMT1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000120265](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000120265) | [5110](https://www.ncbi.nlm.nih.gov/gene/5110) | [MIM:176851](https://omim.org/entry/176851) |  |
-| Mouse |  | [18537](https://www.ncbi.nlm.nih.gov/gene/18537) | [MGI:97502](http://www.informatics.jax.org/marker/MGI:97502) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [595004](https://www.ncbi.nlm.nih.gov/gene/595004), [495685](https://www.ncbi.nlm.nih.gov/gene/495685) | [959016](http://www.xenbase.org/gene/showgene.do?method=display&geneId=959016) |  |
-| Zebrafish | [ENSDARG00000015201](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015201) | [30751](https://www.ncbi.nlm.nih.gov/gene/30751) | [ZFIN:ZDB-GENE-990415-134](https://zfin.org/ZDB-GENE-990415-134) | ZDB-GENE-990415-134 |
+| Xenopus | [ENSXETG00000017500](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017500) | [595004](https://www.ncbi.nlm.nih.gov/gene/595004) |  |  |
+| Zebrafish | [ENSDARG00000015201](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015201) | [30751](https://www.ncbi.nlm.nih.gov/gene/30751) | [ZFIN:ZDB-GENE-990415-134](https://zfin.org/ZDB-GENE-990415-134) | methylation, protein methylation, protein modification process, regulation of calcium-mediated signaling |
 

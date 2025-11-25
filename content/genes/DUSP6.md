@@ -1,9 +1,6 @@
 ---
 cgnc_id: '49113'
 external_ids:
-  '13': stage 13
-  '19': stage 19stage 19
-  '25': stage 25
   Citation: "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=\r\
     \nAragon+pujades+controls+erk"
   Comments: 'As insufficient information is provided in publication to verify exact
@@ -21,7 +18,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204354
   X-XIV: stage Xstage X
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGCGTCGGAAATGGCGATTAG
-gene_id: '455917'
+gene_id: '374272'
 gene_type: protein-coding
 images:
 - caption: DUSP6 expression
@@ -541,14 +538,9 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MKP3.Aragon.2009.Fig.3.png
 name: dual specificity phosphatase 6
-ncbi_id: '455917'
+ncbi_id: '374272'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000139318
   entrez: '1848'
   mod: MIM:602748
   phenotypes: ''
@@ -558,24 +550,26 @@ orthologs:
   mod: MGI:1914853
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 733815,398829
-  mod: '978215'
+- ensembl: ENSXETG00000021871
+  entrez: '733815'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000070914
+- ensembl: ENSDARG00000116888
   entrez: '353314'
   mod: ZFIN:ZDB-GENE-030613-1
-  phenotypes: ZDB-GENE-030613-1
+  phenotypes: dephosphorylation, dorsal/ventral pattern formation, negative regulation
+    of ERK1 and ERK2 cascade, negative regulation of cardiac muscle tissue regeneration,
+    phosphorylation
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAGACAGGTTTTGGCTCCAGTGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455917
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374272
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455917
+  url: https://www.ncbi.nlm.nih.gov/gene/374272
 species: Gallus gallus
 symbol: DUSP6
 template_length: '841'
@@ -604,9 +598,8 @@ Aragon+pujades+controls+erk)
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [1848](https://www.ncbi.nlm.nih.gov/gene/1848) | [MIM:602748](https://omim.org/entry/602748) |  |
+| Human | [ENSG00000139318](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139318) | [1848](https://www.ncbi.nlm.nih.gov/gene/1848) | [MIM:602748](https://omim.org/entry/602748) |  |
 | Mouse | [ENSMUSG00000019960](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019960) | [67603](https://www.ncbi.nlm.nih.gov/gene/67603) | [MGI:1914853](http://www.informatics.jax.org/marker/MGI:1914853) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [733815](https://www.ncbi.nlm.nih.gov/gene/733815), [398829](https://www.ncbi.nlm.nih.gov/gene/398829) | [978215](http://www.xenbase.org/gene/showgene.do?method=display&geneId=978215) |  |
-| Zebrafish | [ENSDARG00000070914](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070914) | [353314](https://www.ncbi.nlm.nih.gov/gene/353314) | [ZFIN:ZDB-GENE-030613-1](https://zfin.org/ZDB-GENE-030613-1) | ZDB-GENE-030613-1 |
+| Xenopus | [ENSXETG00000021871](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021871) | [733815](https://www.ncbi.nlm.nih.gov/gene/733815) |  |  |
+| Zebrafish | [ENSDARG00000116888](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116888) | [353314](https://www.ncbi.nlm.nih.gov/gene/353314) | [ZFIN:ZDB-GENE-030613-1](https://zfin.org/ZDB-GENE-030613-1) | dephosphorylation, dorsal/ventral pattern formation, negative regulation of ERK1 and ERK2 cascade, negative regulation of cardiac muscle tissue regeneration, phosphorylation |
 

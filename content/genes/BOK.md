@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395445
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204706
 forward_primer: GGAGCAAACCTGAGCACAATACC
-gene_id: '449241'
+gene_id: '395445'
 gene_type: protein-coding
 images:
 - caption: BOK expression
@@ -136,13 +136,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R570.BOK.S26AAA.001.jpg
 name: BOK, BCL2 family apoptosis regulator
-ncbi_id: '449241'
+ncbi_id: '395445'
 orthologs:
-- ensembl: ''
-  entrez: '53585'
-  mod: FBgn0029131
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000176720
   entrez: '666'
   mod: MIM:605404
@@ -153,24 +148,25 @@ orthologs:
   mod: MGI:1858494
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100491111,100271896
-  mod: '988662'
+- ensembl: ENSXETG00000031956
+  entrez: '100491111'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000052129,ENSDARG00000008807
-  entrez: 445218,394160
-  mod: ZFIN:ZDB-GENE-040801-131,ZFIN:ZDB-GENE-040426-1346
-  phenotypes: ZDB-GENE-040801-131,ZDB-GENE-040426-1346
+- ensembl: ENSDARG00000052129
+  entrez: '445218'
+  mod: ZFIN:ZDB-GENE-040801-131
+  phenotypes: apoptotic process, positive regulation of apoptotic process, regulation
+    of apoptotic process
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCCATCCAAGGGAGAATGAAGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449241
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395445
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449241
+  url: https://www.ncbi.nlm.nih.gov/gene/395445
 species: Gallus gallus
 symbol: BOK
 template_length: '647'
@@ -196,9 +192,8 @@ title: BOK
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [53585](https://www.ncbi.nlm.nih.gov/gene/53585) | FBgn0029131 |  |
 | Human | [ENSG00000176720](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000176720) | [666](https://www.ncbi.nlm.nih.gov/gene/666) | [MIM:605404](https://omim.org/entry/605404) |  |
 | Mouse | [ENSMUSG00000026278](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026278) | [51800](https://www.ncbi.nlm.nih.gov/gene/51800) | [MGI:1858494](http://www.informatics.jax.org/marker/MGI:1858494) |  |
-| Xenopus |  | [100491111](https://www.ncbi.nlm.nih.gov/gene/100491111), [100271896](https://www.ncbi.nlm.nih.gov/gene/100271896) | [988662](http://www.xenbase.org/gene/showgene.do?method=display&geneId=988662) |  |
-| Zebrafish | [ENSDARG00000052129](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052129), [ENSDARG00000008807](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008807) | [445218](https://www.ncbi.nlm.nih.gov/gene/445218), [394160](https://www.ncbi.nlm.nih.gov/gene/394160) | [ZFIN:ZDB-GENE-040801-131](https://zfin.org/ZDB-GENE-040801-131), [ZFIN:ZDB-GENE-040426-1346](https://zfin.org/ZDB-GENE-040426-1346) | ZDB-GENE-040801-131,ZDB-GENE-040426-1346 |
+| Xenopus | [ENSXETG00000031956](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031956) | [100491111](https://www.ncbi.nlm.nih.gov/gene/100491111) |  |  |
+| Zebrafish | [ENSDARG00000052129](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052129) | [445218](https://www.ncbi.nlm.nih.gov/gene/445218) | [ZFIN:ZDB-GENE-040801-131](https://zfin.org/ZDB-GENE-040801-131) | apoptotic process, positive regulation of apoptotic process, regulation of apoptotic process |
 

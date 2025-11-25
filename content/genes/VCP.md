@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427410
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001044664
-gene_id: '455755'
+gene_id: '427410'
 gene_type: protein-coding
 images:
 - caption: VCP expression
@@ -75,13 +75,8 @@ images:
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VCP.Ha.2008figure6panelD.JPG
 name: valosin containing protein
-ncbi_id: '455755'
+ncbi_id: '427410'
 orthologs:
-- ensembl: ''
-  entrez: '36040'
-  mod: FBgn0261014
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000165280
   entrez: '7415'
   mod: MIM:601023
@@ -93,20 +88,21 @@ orthologs:
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(4)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 448177,380491
-  mod: '969572'
+- ensembl: ENSXETG00000025788
+  entrez: '448177'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000020008
   entrez: '327197'
   mod: ZFIN:ZDB-GENE-030131-5408
-  phenotypes: ZDB-GENE-030131-5408
+  phenotypes: DNA damage response, DNA repair, ERAD pathway, anatomical structure
+    morphogenesis, autophagosome maturation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455755
+  url: https://www.ncbi.nlm.nih.gov/gene/427410
 species: Gallus gallus
 symbol: VCP
 title: VCP
@@ -134,9 +130,8 @@ title: VCP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36040](https://www.ncbi.nlm.nih.gov/gene/36040) | FBgn0261014 |  |
 | Human | [ENSG00000165280](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165280) | [7415](https://www.ncbi.nlm.nih.gov/gene/7415) | [MIM:601023](https://omim.org/entry/601023) | MIM:613954 |
 | Mouse | [ENSMUSG00000028452](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028452) | [269523](https://www.ncbi.nlm.nih.gov/gene/269523) | [MGI:99919](http://www.informatics.jax.org/marker/MGI:99919) | All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(4) Gene trapped(1) |
-| Xenopus |  | [448177](https://www.ncbi.nlm.nih.gov/gene/448177), [380491](https://www.ncbi.nlm.nih.gov/gene/380491) | [969572](http://www.xenbase.org/gene/showgene.do?method=display&geneId=969572) |  |
-| Zebrafish | [ENSDARG00000020008](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020008) | [327197](https://www.ncbi.nlm.nih.gov/gene/327197) | [ZFIN:ZDB-GENE-030131-5408](https://zfin.org/ZDB-GENE-030131-5408) | ZDB-GENE-030131-5408 |
+| Xenopus | [ENSXETG00000025788](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025788) | [448177](https://www.ncbi.nlm.nih.gov/gene/448177) |  |  |
+| Zebrafish | [ENSDARG00000020008](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020008) | [327197](https://www.ncbi.nlm.nih.gov/gene/327197) | [ZFIN:ZDB-GENE-030131-5408](https://zfin.org/ZDB-GENE-030131-5408) | DNA damage response, DNA repair, ERAD pathway, anatomical structure morphogenesis, autophagosome maturation |
 

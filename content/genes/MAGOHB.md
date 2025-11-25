@@ -55,7 +55,7 @@ orthologs:
 - ensembl: ENSDARG00000038635
   entrez: '100005893'
   mod: ZFIN:ZDB-GENE-041216-1
-  phenotypes: ZDB-GENE-041216-1
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -95,5 +95,5 @@ title: MAGOHB
 | Human | [ENSG00000162385](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162385) | [4116](https://www.ncbi.nlm.nih.gov/gene/4116) | [MIM:602603](https://omim.org/entry/602603) |  |
 | Mouse | [ENSMUSG00000028609](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028609) | [17149](https://www.ncbi.nlm.nih.gov/gene/17149) | [MGI:1330312](http://www.informatics.jax.org/marker/MGI:1330312) | All phenotypic alleles (6):Chemically induced(1) Targeted, other(3) Gene trapped(2) |
 | Xenopus |  | [100038130](https://www.ncbi.nlm.nih.gov/gene/100038130), [379411](https://www.ncbi.nlm.nih.gov/gene/379411) | [493539](http://www.xenbase.org/gene/showgene.do?method=display&geneId=493539) |  |
-| Zebrafish | [ENSDARG00000038635](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038635) | [100005893](https://www.ncbi.nlm.nih.gov/gene/100005893) | [ZFIN:ZDB-GENE-041216-1](https://zfin.org/ZDB-GENE-041216-1) | ZDB-GENE-041216-1 |
+| Zebrafish | [ENSDARG00000038635](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038635) | [100005893](https://www.ncbi.nlm.nih.gov/gene/100005893) | [ZFIN:ZDB-GENE-041216-1](https://zfin.org/ZDB-GENE-041216-1) |  |
 

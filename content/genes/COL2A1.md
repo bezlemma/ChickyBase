@@ -8,9 +8,6 @@ aliases:
 - type II collagen
 cgnc_id: '49161'
 external_ids:
-  '19': stage 19
-  '25': stage 25stage 25stage 25stage 25
-  '31': stage 31
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0001502
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005604
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Martinez+2018+Robo
@@ -24,7 +21,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005201
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204426
 forward_primer: 5’-TGGATGCCACCCTCAAATCC-3’
-gene_id: '460692'
+gene_id: '395069'
 gene_type: protein-coding
 images:
 - caption: COL2A1 expression
@@ -441,13 +438,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Col2a.Martinez.2018.Fig5.jpg
 name: collagen type II alpha 1 chain
-ncbi_id: '460692'
+ncbi_id: '395069'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000139219
   entrez: '1280'
   mod: MIM:120140
@@ -459,24 +451,25 @@ orthologs:
   phenotypes: All phenotypic alleles (8):Spontaneous(1) Chemically induced(1) Radiation
     induced(1) Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 394828,397738,397739
-  mod: '6258352'
+- ensembl: ENSXETG00000010655
+  entrez: '394828'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000069093,ENSDARG00000011407
-  entrez: 562496,503730
-  mod: ZFIN:ZDB-GENE-980526-192,ZFIN:ZDB-GENE-050302-9
-  phenotypes: ZDB-GENE-980526-192,ZDB-GENE-050302-9
+- ensembl: ENSDARG00000069093
+  entrez: '562496'
+  mod: ZFIN:ZDB-GENE-980526-192
+  phenotypes: axon guidance, embryonic skeletal system development, eye morphogenesis,
+    neural crest cell migration, notochord development
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTCCACGCCAAACTCCTGATC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460692
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395069
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460692
+  url: https://www.ncbi.nlm.nih.gov/gene/395069
 species: Gallus gallus
 symbol: COL2A1
 template_length: '676'
@@ -506,9 +499,8 @@ title: COL2A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000139219](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139219) | [1280](https://www.ncbi.nlm.nih.gov/gene/1280) | [MIM:120140](https://omim.org/entry/120140) | MIM:200610 |
 | Mouse | [ENSMUSG00000022483](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022483) | [12824](https://www.ncbi.nlm.nih.gov/gene/12824) | [MGI:88452](http://www.informatics.jax.org/marker/MGI:88452) | All phenotypic alleles (8):Spontaneous(1) Chemically induced(1) Radiation induced(1) Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [394828](https://www.ncbi.nlm.nih.gov/gene/394828), [397738](https://www.ncbi.nlm.nih.gov/gene/397738), [397739](https://www.ncbi.nlm.nih.gov/gene/397739) | [6258352](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6258352) |  |
-| Zebrafish | [ENSDARG00000069093](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069093), [ENSDARG00000011407](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011407) | [562496](https://www.ncbi.nlm.nih.gov/gene/562496), [503730](https://www.ncbi.nlm.nih.gov/gene/503730) | [ZFIN:ZDB-GENE-980526-192](https://zfin.org/ZDB-GENE-980526-192), [ZFIN:ZDB-GENE-050302-9](https://zfin.org/ZDB-GENE-050302-9) | ZDB-GENE-980526-192,ZDB-GENE-050302-9 |
+| Xenopus | [ENSXETG00000010655](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010655) | [394828](https://www.ncbi.nlm.nih.gov/gene/394828) |  |  |
+| Zebrafish | [ENSDARG00000069093](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069093) | [562496](https://www.ncbi.nlm.nih.gov/gene/562496) | [ZFIN:ZDB-GENE-980526-192](https://zfin.org/ZDB-GENE-980526-192) | axon guidance, embryonic skeletal system development, eye morphogenesis, neural crest cell migration, notochord development |
 

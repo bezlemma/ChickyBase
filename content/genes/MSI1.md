@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416979
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415271
-gene_id: '460958'
+gene_id: '416979'
 gene_type: protein-coding
 images:
 - caption: MSI1 expression
@@ -59,13 +59,8 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Msi-1Fig.2GSt21.jpg
 name: musashi RNA binding protein 1
-ncbi_id: '460958'
+ncbi_id: '416979'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000135097
   entrez: '4440'
   mod: MIM:603328
@@ -76,20 +71,20 @@ orthologs:
   mod: MGI:107376
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 496961,399271
-  mod: '490595'
+- ensembl: ENSXETG00000012216
+  entrez: '496961'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000010710
   entrez: '541389'
   mod: ZFIN:ZDB-GENE-050320-86
-  phenotypes: ZDB-GENE-050320-86
+  phenotypes: central nervous system development, regulation of translation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460958
+  url: https://www.ncbi.nlm.nih.gov/gene/416979
 species: Gallus gallus
 symbol: MSI1
 title: MSI1
@@ -115,9 +110,8 @@ title: MSI1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000135097](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135097) | [4440](https://www.ncbi.nlm.nih.gov/gene/4440) | [MIM:603328](https://omim.org/entry/603328) |  |
 | Mouse | [ENSMUSG00000054256](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000054256) | [17690](https://www.ncbi.nlm.nih.gov/gene/17690) | [MGI:107376](http://www.informatics.jax.org/marker/MGI:107376) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [496961](https://www.ncbi.nlm.nih.gov/gene/496961), [399271](https://www.ncbi.nlm.nih.gov/gene/399271) | [490595](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490595) |  |
-| Zebrafish | [ENSDARG00000010710](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010710) | [541389](https://www.ncbi.nlm.nih.gov/gene/541389) | [ZFIN:ZDB-GENE-050320-86](https://zfin.org/ZDB-GENE-050320-86) | ZDB-GENE-050320-86 |
+| Xenopus | [ENSXETG00000012216](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012216) | [496961](https://www.ncbi.nlm.nih.gov/gene/496961) |  |  |
+| Zebrafish | [ENSDARG00000010710](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010710) | [541389](https://www.ncbi.nlm.nih.gov/gene/541389) | [ZFIN:ZDB-GENE-050320-86](https://zfin.org/ZDB-GENE-050320-86) | central nervous system development, regulation of translation |
 

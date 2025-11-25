@@ -5,13 +5,12 @@ aliases:
 - matrix metalloproteinase 15
 cgnc_id: '674'
 external_ids:
-  '25': stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000001007
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415629
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_413995
 forward_primer: GATGACCTGAAGGGCATAC
-gene_id: '468038'
+gene_id: '415629'
 gene_type: protein-coding
 images:
 - caption: MMP15 expression
@@ -176,41 +175,36 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R441.MMP15.S25.001.jpg
 name: matrix metallopeptidase 15
-ncbi_id: '468038'
+ncbi_id: '415629'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000102996
+  entrez: '4324'
+  mod: MIM:602261
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000031790
+  entrez: '17388'
+  mod: MGI:109320
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000025032
+  entrez: '548675'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000013072
+  entrez: '100332426'
+  mod: ZFIN:ZDB-GENE-070817-6
+  phenotypes: collagen catabolic process, extracellular matrix organization, proteolysis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCGCAGAATGGATTTGGGATAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468038
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415629
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468038
+  url: https://www.ncbi.nlm.nih.gov/gene/415629
 species: Gallus gallus
 symbol: MMP15
 template_length: '752'
@@ -232,9 +226,8 @@ title: MMP15
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000102996](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000102996) | [4324](https://www.ncbi.nlm.nih.gov/gene/4324) | [MIM:602261](https://omim.org/entry/602261) |  |
+| Mouse | [ENSMUSG00000031790](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031790) | [17388](https://www.ncbi.nlm.nih.gov/gene/17388) | [MGI:109320](http://www.informatics.jax.org/marker/MGI:109320) |  |
+| Xenopus | [ENSXETG00000025032](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025032) | [548675](https://www.ncbi.nlm.nih.gov/gene/548675) |  |  |
+| Zebrafish | [ENSDARG00000013072](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013072) | [100332426](https://www.ncbi.nlm.nih.gov/gene/100332426) | [ZFIN:ZDB-GENE-070817-6](https://zfin.org/ZDB-GENE-070817-6) | collagen catabolic process, extracellular matrix organization, proteolysis |
 

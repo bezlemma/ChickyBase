@@ -4,7 +4,6 @@ aliases:
 - matrix metallopeptidase 17 (membrane-inserted)
 cgnc_id: '1761'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0033438
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/35997
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000002461
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416801
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415092
 forward_primer: AACCTGTCCTGGAGAGTTC
-gene_id: '468039'
+gene_id: '416801'
 gene_type: protein-coding
 images:
 - caption: MMP17 expression
@@ -225,13 +224,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R437.MMP17.S25VC.001.jpg
 name: matrix metallopeptidase 17
-ncbi_id: '468039'
+ncbi_id: '416801'
 orthologs:
-- ensembl: ''
-  entrez: '35997'
-  mod: FBgn0033438
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000198598
   entrez: '4326'
   mod: MIM:602285
@@ -242,24 +236,24 @@ orthologs:
   mod: MGI:1346076
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000002026
   entrez: '100125088'
-  mod: '963678'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000078915
-  entrez: 570076,100322027
-  mod: ZFIN:ZDB-GENE-070820-2,ZFIN:ZDB-GENE-081107-17
-  phenotypes: ZDB-GENE-070820-2,ZDB-GENE-081107-17
+  entrez: '570076'
+  mod: ZFIN:ZDB-GENE-070820-2
+  phenotypes: collagen catabolic process, extracellular matrix organization, proteolysis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGCATCATCTAAAGGGCTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468039
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416801
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468039
+  url: https://www.ncbi.nlm.nih.gov/gene/416801
 species: Gallus gallus
 symbol: MMP17
 template_length: '1052'
@@ -283,9 +277,8 @@ title: MMP17
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35997](https://www.ncbi.nlm.nih.gov/gene/35997) | FBgn0033438 |  |
 | Human | [ENSG00000198598](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198598) | [4326](https://www.ncbi.nlm.nih.gov/gene/4326) | [MIM:602285](https://omim.org/entry/602285) |  |
 | Mouse | [ENSMUSG00000029436](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029436) | [23948](https://www.ncbi.nlm.nih.gov/gene/23948) | [MGI:1346076](http://www.informatics.jax.org/marker/MGI:1346076) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100125088](https://www.ncbi.nlm.nih.gov/gene/100125088) | [963678](http://www.xenbase.org/gene/showgene.do?method=display&geneId=963678) |  |
-| Zebrafish | [ENSDARG00000078915](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078915) | [570076](https://www.ncbi.nlm.nih.gov/gene/570076), [100322027](https://www.ncbi.nlm.nih.gov/gene/100322027) | [ZFIN:ZDB-GENE-070820-2](https://zfin.org/ZDB-GENE-070820-2), [ZFIN:ZDB-GENE-081107-17](https://zfin.org/ZDB-GENE-081107-17) | ZDB-GENE-070820-2,ZDB-GENE-081107-17 |
+| Xenopus | [ENSXETG00000002026](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002026) | [100125088](https://www.ncbi.nlm.nih.gov/gene/100125088) |  |  |
+| Zebrafish | [ENSDARG00000078915](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078915) | [570076](https://www.ncbi.nlm.nih.gov/gene/570076) | [ZFIN:ZDB-GENE-070820-2](https://zfin.org/ZDB-GENE-070820-2) | collagen catabolic process, extracellular matrix organization, proteolysis |
 

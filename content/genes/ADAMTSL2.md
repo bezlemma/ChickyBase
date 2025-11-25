@@ -3,14 +3,13 @@ aliases:
 - ADAMTS-like protein 2
 cgnc_id: '50450'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000002955
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417147
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642304
 forward_primer: AAATGTGGTGTTTGCCAAGGAG
-gene_id: '463478'
+gene_id: '417147'
 gene_type: protein-coding
 images:
 - caption: ADAMTSL2 expression
@@ -98,36 +97,36 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.ADAMTSL2.S25.001.jpg
 name: ADAMTS like 2
-ncbi_id: '463478'
+ncbi_id: '417147'
 orthologs:
-- ensembl: ENSG00000127946
-  entrez: '3092'
-  mod: MIM:601767
+- ensembl: ENSG00000197859
+  entrez: '9719'
+  mod: MIM:612277
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000039959
-  entrez: '215114'
-  mod: MGI:1099804
+- ensembl: ENSMUSG00000036040
+  entrez: '77794'
+  mod: MGI:1925044
   phenotypes: ''
   species: Mouse
-- ensembl: ENSXETG00000005880
-  entrez: '100496371'
+- ensembl: ENSXETG00000023116
+  entrez: '101734546'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000112248
-  entrez: '793823'
-  mod: ZFIN:ZDB-GENE-010328-15
-  phenotypes: ''
+- ensembl: ENSDARG00000074033
+  entrez: '100537087'
+  mod: ZFIN:ZDB-GENE-070705-558
+  phenotypes: extracellular matrix organization
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCTGTCATCAGGGTCTGTCTGGTAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463478
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417147
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463478
+  url: https://www.ncbi.nlm.nih.gov/gene/417147
 species: Gallus gallus
 symbol: ADAMTSL2
 template_length: '755'
@@ -150,8 +149,8 @@ title: ADAMTSL2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Human | [ENSG00000127946](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000127946) | [3092](https://www.ncbi.nlm.nih.gov/gene/3092) | [MIM:601767](https://omim.org/entry/601767) |  |
-| Mouse | [ENSMUSG00000039959](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039959) | [215114](https://www.ncbi.nlm.nih.gov/gene/215114) | [MGI:1099804](http://www.informatics.jax.org/marker/MGI:1099804) |  |
-| Xenopus | [ENSXETG00000005880](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005880) | [100496371](https://www.ncbi.nlm.nih.gov/gene/100496371) |  |  |
-| Zebrafish | [ENSDARG00000112248](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000112248) | [793823](https://www.ncbi.nlm.nih.gov/gene/793823) | [ZFIN:ZDB-GENE-010328-15](https://zfin.org/ZDB-GENE-010328-15) |  |
+| Human | [ENSG00000197859](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197859) | [9719](https://www.ncbi.nlm.nih.gov/gene/9719) | [MIM:612277](https://omim.org/entry/612277) |  |
+| Mouse | [ENSMUSG00000036040](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036040) | [77794](https://www.ncbi.nlm.nih.gov/gene/77794) | [MGI:1925044](http://www.informatics.jax.org/marker/MGI:1925044) |  |
+| Xenopus | [ENSXETG00000023116](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023116) | [101734546](https://www.ncbi.nlm.nih.gov/gene/101734546) |  |  |
+| Zebrafish | [ENSDARG00000074033](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074033) | [100537087](https://www.ncbi.nlm.nih.gov/gene/100537087) | [ZFIN:ZDB-GENE-070705-558](https://zfin.org/ZDB-GENE-070705-558) | extracellular matrix organization |
 

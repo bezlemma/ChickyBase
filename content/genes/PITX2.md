@@ -7,7 +7,6 @@ aliases:
 - transcription factor Pitx2
 cgnc_id: '49517'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0020912
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007368
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
@@ -23,7 +22,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205010
   X-XIV: stage XIII
-gene_id: '450780'
+gene_id: '395862'
 gene_type: protein-coding
 images:
 - caption: PITX2 expression
@@ -777,13 +776,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PITX2.Trevers.2023-Fig7-7-I.jpg
 name: paired like homeodomain 2
-ncbi_id: '450780'
+ncbi_id: '395862'
 orthologs:
-- ensembl: ''
-  entrez: '43664'
-  mod: FBgn0020912
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164093
   entrez: '5308'
   mod: MIM:601542
@@ -794,23 +788,24 @@ orthologs:
   mod: MGI:109340
   phenotypes: All phenotypic alleles (16):Targeted, knock-out(4) Targeted, other(12)
   species: Mouse
-- ensembl: ''
-  entrez: 549981,398033,373586
-  mod: '482491'
+- ensembl: ENSXETG00000013330
+  entrez: '549981'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000036194
   entrez: '30164'
   mod: ZFIN:ZDB-GENE-990714-27
-  phenotypes: ZDB-GENE-990714-27
+  phenotypes: anatomical structure morphogenesis, animal organ morphogenesis, camera-type
+    eye development, camera-type eye morphogenesis, closure of optic fissure
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450780
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395862
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450780
+  url: https://www.ncbi.nlm.nih.gov/gene/395862
 species: Gallus gallus
 symbol: PITX2
 title: PITX2
@@ -841,9 +836,8 @@ title: PITX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43664](https://www.ncbi.nlm.nih.gov/gene/43664) | FBgn0020912 |  |
 | Human | [ENSG00000164093](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164093) | [5308](https://www.ncbi.nlm.nih.gov/gene/5308) | [MIM:601542](https://omim.org/entry/601542) | MIM:180500 |
 | Mouse | [ENSMUSG00000028023](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028023) | [18741](https://www.ncbi.nlm.nih.gov/gene/18741) | [MGI:109340](http://www.informatics.jax.org/marker/MGI:109340) | All phenotypic alleles (16):Targeted, knock-out(4) Targeted, other(12) |
-| Xenopus |  | [549981](https://www.ncbi.nlm.nih.gov/gene/549981), [398033](https://www.ncbi.nlm.nih.gov/gene/398033), [373586](https://www.ncbi.nlm.nih.gov/gene/373586) | [482491](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482491) |  |
-| Zebrafish | [ENSDARG00000036194](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036194) | [30164](https://www.ncbi.nlm.nih.gov/gene/30164) | [ZFIN:ZDB-GENE-990714-27](https://zfin.org/ZDB-GENE-990714-27) | ZDB-GENE-990714-27 |
+| Xenopus | [ENSXETG00000013330](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013330) | [549981](https://www.ncbi.nlm.nih.gov/gene/549981) |  |  |
+| Zebrafish | [ENSDARG00000036194](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036194) | [30164](https://www.ncbi.nlm.nih.gov/gene/30164) | [ZFIN:ZDB-GENE-990714-27](https://zfin.org/ZDB-GENE-990714-27) | anatomical structure morphogenesis, animal organ morphogenesis, camera-type eye development, camera-type eye morphogenesis, closure of optic fissure |
 

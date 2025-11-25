@@ -3,8 +3,6 @@ aliases:
 - homeobox protein OTX2
 cgnc_id: '14164'
 external_ids:
-  '19': stage 19
-  '4': stage 4stage 4
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Hidalgo-Sanchez+Millet+1999
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (NM_204520 ).
@@ -16,7 +14,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204520
   X-XIV: stage XII
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/OTX2
-gene_id: '462642'
+gene_id: '395191'
 gene_type: protein-coding
 images:
 - caption: OTX2 expression
@@ -1207,40 +1205,20 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OTX2.Trevers.2023-Fig7-3-D.jpg
 name: orthodenticle homeobox 2
-ncbi_id: '462642'
+ncbi_id: '395191'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000015687
+  entrez: '548931'
   mod: ''
   phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: '5015'
-  mod: MIM:600037
-  phenotypes: MIM:613986
-  species: Human
-- ensembl: ENSMUSG00000021848
-  entrez: '18424'
-  mod: MGI:97451
-  phenotypes: All phenotypic alleles (32):Targeted, knock-out(11) Targeted, other(21)
-  species: Mouse
-- ensembl: ''
-  entrez: 548931,432013,399342
-  mod: '485219'
-  phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000011235
-  entrez: '30501'
-  mod: ZFIN:ZDB-GENE-980526-406
-  phenotypes: ZDB-GENE-980526-406
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462642
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395191
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462642
+  url: https://www.ncbi.nlm.nih.gov/gene/395191
 species: Gallus gallus
 symbol: OTX2
 title: OTX2
@@ -1267,9 +1245,5 @@ title: OTX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [5015](https://www.ncbi.nlm.nih.gov/gene/5015) | [MIM:600037](https://omim.org/entry/600037) | MIM:613986 |
-| Mouse | [ENSMUSG00000021848](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021848) | [18424](https://www.ncbi.nlm.nih.gov/gene/18424) | [MGI:97451](http://www.informatics.jax.org/marker/MGI:97451) | All phenotypic alleles (32):Targeted, knock-out(11) Targeted, other(21) |
-| Xenopus |  | [548931](https://www.ncbi.nlm.nih.gov/gene/548931), [432013](https://www.ncbi.nlm.nih.gov/gene/432013), [399342](https://www.ncbi.nlm.nih.gov/gene/399342) | [485219](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485219) |  |
-| Zebrafish | [ENSDARG00000011235](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011235) | [30501](https://www.ncbi.nlm.nih.gov/gene/30501) | [ZFIN:ZDB-GENE-980526-406](https://zfin.org/ZDB-GENE-980526-406) | ZDB-GENE-980526-406 |
+| Xenopus | [ENSXETG00000015687](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015687) | [548931](https://www.ncbi.nlm.nih.gov/gene/548931) |  |  |
 

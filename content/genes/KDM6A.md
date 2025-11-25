@@ -4,7 +4,6 @@ aliases:
 - lysine (K)-specific demethylase 6A
 cgnc_id: '50790'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0260749
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/34377
@@ -13,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418556
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416762
 forward_primer: GCTGGCACTGTTCATTGGG
-gene_id: '453367'
+gene_id: '418556'
 gene_type: protein-coding
 images:
 - caption: KDM6A expression
@@ -80,13 +79,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM6A.S25.001.jpg
 name: lysine demethylase 6A
-ncbi_id: '453367'
+ncbi_id: '418556'
 orthologs:
-- ensembl: ''
-  entrez: '34377'
-  mod: FBgn0260749
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000147050
   entrez: '7403'
   mod: MIM:300128
@@ -97,24 +91,25 @@ orthologs:
   mod: MGI:1095419
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100170558,446609
-  mod: '960315'
+- ensembl: ENSXETG00000004822
+  entrez: '100170558'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000061759
   entrez: '569277'
-  mod: ZFIN:ZDB-GENE-081105-56,ZFIN:ZDB-GENE-081105-56
-  phenotypes: ZDB-GENE-081105-56,ZDB-GENE-081105-56
+  mod: ZFIN:ZDB-GENE-081105-56
+  phenotypes: brain development, chromatin organization, convergent extension, convergent
+    extension involved in gastrulation, embryonic cranial skeleton morphogenesis
   species: Zebrafish
 reverse_primer: TGCGTAGGATGCTCTGCTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453367
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418556
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453367
+  url: https://www.ncbi.nlm.nih.gov/gene/418556
 species: Gallus gallus
 symbol: KDM6A
 template_length: '803'
@@ -139,9 +134,8 @@ title: KDM6A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34377](https://www.ncbi.nlm.nih.gov/gene/34377) | FBgn0260749 |  |
 | Human | [ENSG00000147050](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000147050) | [7403](https://www.ncbi.nlm.nih.gov/gene/7403) | [MIM:300128](https://omim.org/entry/300128) |  |
 | Mouse | [ENSMUSG00000037369](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037369) | [22289](https://www.ncbi.nlm.nih.gov/gene/22289) | [MGI:1095419](http://www.informatics.jax.org/marker/MGI:1095419) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [100170558](https://www.ncbi.nlm.nih.gov/gene/100170558), [446609](https://www.ncbi.nlm.nih.gov/gene/446609) | [960315](http://www.xenbase.org/gene/showgene.do?method=display&geneId=960315) |  |
-| Zebrafish | [ENSDARG00000061759](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061759) | [569277](https://www.ncbi.nlm.nih.gov/gene/569277) | [ZFIN:ZDB-GENE-081105-56](https://zfin.org/ZDB-GENE-081105-56), [ZFIN:ZDB-GENE-081105-56](https://zfin.org/ZDB-GENE-081105-56) | ZDB-GENE-081105-56,ZDB-GENE-081105-56 |
+| Xenopus | [ENSXETG00000004822](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004822) | [100170558](https://www.ncbi.nlm.nih.gov/gene/100170558) |  |  |
+| Zebrafish | [ENSDARG00000061759](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061759) | [569277](https://www.ncbi.nlm.nih.gov/gene/569277) | [ZFIN:ZDB-GENE-081105-56](https://zfin.org/ZDB-GENE-081105-56) | brain development, chromatin organization, convergent extension, convergent extension involved in gastrulation, embryonic cranial skeleton morphogenesis |
 

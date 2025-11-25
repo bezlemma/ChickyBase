@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422231
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031117
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/STK26
-gene_id: '450083'
+gene_id: '422231'
 gene_type: protein-coding
 images:
 - caption: STK26 expression
@@ -57,40 +57,36 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Y36.93.23.jpg
 name: serine/threonine kinase 26
-ncbi_id: '450083'
+ncbi_id: '422231'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134602
   entrez: '51765'
   mod: MIM:300547
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000031112
   entrez: '70415'
   mod: MGI:1917665
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 733529,444523
-  mod: '982066'
+- ensembl: ENSXETG00000005418
+  entrez: '733529'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: 559023,100151762
+- ensembl: ENSDARG00000060390
+  entrez: '100151762'
   mod: ZFIN:ZDB-GENE-080516-5
-  phenotypes: ZDB-GENE-080516-5
+  phenotypes: intracellular signal transduction, negative regulation of cell migration,
+    phosphorylation, protein phosphorylation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450083
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422231
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450083
+  url: https://www.ncbi.nlm.nih.gov/gene/422231
 species: Gallus gallus
 symbol: STK26
 title: STK26
@@ -112,9 +108,8 @@ title: STK26
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000134602](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134602) | [51765](https://www.ncbi.nlm.nih.gov/gene/51765) | [MIM:300547](https://omim.org/entry/300547) |  |
-| Mouse |  | [70415](https://www.ncbi.nlm.nih.gov/gene/70415) | [MGI:1917665](http://www.informatics.jax.org/marker/MGI:1917665) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [733529](https://www.ncbi.nlm.nih.gov/gene/733529), [444523](https://www.ncbi.nlm.nih.gov/gene/444523) | [982066](http://www.xenbase.org/gene/showgene.do?method=display&geneId=982066) |  |
-| Zebrafish |  | [559023](https://www.ncbi.nlm.nih.gov/gene/559023), [100151762](https://www.ncbi.nlm.nih.gov/gene/100151762) | [ZFIN:ZDB-GENE-080516-5](https://zfin.org/ZDB-GENE-080516-5) | ZDB-GENE-080516-5 |
+| Mouse | [ENSMUSG00000031112](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031112) | [70415](https://www.ncbi.nlm.nih.gov/gene/70415) | [MGI:1917665](http://www.informatics.jax.org/marker/MGI:1917665) | All phenotypic alleles (3):Targeted, other(3) |
+| Xenopus | [ENSXETG00000005418](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005418) | [733529](https://www.ncbi.nlm.nih.gov/gene/733529) |  |  |
+| Zebrafish | [ENSDARG00000060390](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060390) | [100151762](https://www.ncbi.nlm.nih.gov/gene/100151762) | [ZFIN:ZDB-GENE-080516-5](https://zfin.org/ZDB-GENE-080516-5) | intracellular signal transduction, negative regulation of cell migration, phosphorylation, protein phosphorylation |
 

@@ -4,7 +4,6 @@ aliases:
 - brain-specific homeodomain protein
 cgnc_id: '4913'
 external_ids:
-  '25': stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007420
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000006515
@@ -13,7 +12,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204512
 forward_primer: ACCACCACCACCACCCCTAC
-gene_id: '462937'
+gene_id: '395183'
 gene_type: protein-coding
 images:
 - caption: BSX expression
@@ -106,13 +105,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R317.BSX.S25.004a.jpg
 name: brain specific homeobox
-ncbi_id: '462937'
+ncbi_id: '395183'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000188909
   entrez: '390259'
   mod: MIM:611074
@@ -123,24 +117,26 @@ orthologs:
   mod: MGI:2669849
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000016950
   entrez: '100124316'
-  mod: '995769'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000068976
+- ensembl: ENSDARG00000110782
   entrez: '573364'
   mod: ZFIN:ZDB-GENE-040628-4
-  phenotypes: ZDB-GENE-040628-4
+  phenotypes: brain development, cell differentiation, pineal gland development, regulation
+    of DNA-templated transcription, regulation of transcription by RNA polymerase
+    II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGATTTCCAAGCAAAGTTCAGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462937
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395183
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462937
+  url: https://www.ncbi.nlm.nih.gov/gene/395183
 species: Gallus gallus
 symbol: BSX
 template_length: '639'
@@ -165,9 +161,8 @@ title: BSX
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000188909](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000188909) | [390259](https://www.ncbi.nlm.nih.gov/gene/390259) | [MIM:611074](https://omim.org/entry/611074) |  |
 | Mouse | [ENSMUSG00000054360](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000054360) | [244813](https://www.ncbi.nlm.nih.gov/gene/244813) | [MGI:2669849](http://www.informatics.jax.org/marker/MGI:2669849) | All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5) |
-| Xenopus |  | [100124316](https://www.ncbi.nlm.nih.gov/gene/100124316) | [995769](http://www.xenbase.org/gene/showgene.do?method=display&geneId=995769) |  |
-| Zebrafish | [ENSDARG00000068976](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068976) | [573364](https://www.ncbi.nlm.nih.gov/gene/573364) | [ZFIN:ZDB-GENE-040628-4](https://zfin.org/ZDB-GENE-040628-4) | ZDB-GENE-040628-4 |
+| Xenopus | [ENSXETG00000016950](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016950) | [100124316](https://www.ncbi.nlm.nih.gov/gene/100124316) |  |  |
+| Zebrafish | [ENSDARG00000110782](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110782) | [573364](https://www.ncbi.nlm.nih.gov/gene/573364) | [ZFIN:ZDB-GENE-040628-4](https://zfin.org/ZDB-GENE-040628-4) | brain development, cell differentiation, pineal gland development, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418815
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417010
   X-XIV: stage XIII
-gene_id: '454299'
+gene_id: '418815'
 gene_type: protein-coding
 images:
 - caption: LMO7 expression
@@ -282,13 +282,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LMO7.Trevers.2023-Fig7-6-T.jpg
 name: LIM domain 7
-ncbi_id: '454299'
+ncbi_id: '418815'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136153
   entrez: '4008'
   mod: MIM:604362
@@ -299,23 +294,24 @@ orthologs:
   mod: MGI:1353586
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100216219,100190776
-  mod: '949055'
+- ensembl: ENSXETG00000004710
+  entrez: '100216219'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000004930,ENSDARG00000053535
-  entrez: 553341,558333
-  mod: ZFIN:ZDB-GENE-030219-74,ZFIN:ZDB-GENE-060825-242
-  phenotypes: ZDB-GENE-030219-74,ZDB-GENE-060825-242
+- ensembl: ENSDARG00000004930
+  entrez: '553341'
+  mod: ZFIN:ZDB-GENE-030219-74
+  phenotypes: positive regulation of macromolecule metabolic process, regulation of
+    cell adhesion, regulation of primary metabolic process, regulation of signaling
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454299
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418815
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454299
+  url: https://www.ncbi.nlm.nih.gov/gene/418815
 species: Gallus gallus
 symbol: LMO7
 title: LMO7
@@ -339,9 +335,8 @@ title: LMO7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000136153](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136153) | [4008](https://www.ncbi.nlm.nih.gov/gene/4008) | [MIM:604362](https://omim.org/entry/604362) |  |
 | Mouse | [ENSMUSG00000033060](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033060) | [380928](https://www.ncbi.nlm.nih.gov/gene/380928) | [MGI:1353586](http://www.informatics.jax.org/marker/MGI:1353586) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100216219](https://www.ncbi.nlm.nih.gov/gene/100216219), [100190776](https://www.ncbi.nlm.nih.gov/gene/100190776) | [949055](http://www.xenbase.org/gene/showgene.do?method=display&geneId=949055) |  |
-| Zebrafish | [ENSDARG00000004930](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004930), [ENSDARG00000053535](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053535) | [553341](https://www.ncbi.nlm.nih.gov/gene/553341), [558333](https://www.ncbi.nlm.nih.gov/gene/558333) | [ZFIN:ZDB-GENE-030219-74](https://zfin.org/ZDB-GENE-030219-74), [ZFIN:ZDB-GENE-060825-242](https://zfin.org/ZDB-GENE-060825-242) | ZDB-GENE-030219-74,ZDB-GENE-060825-242 |
+| Xenopus | [ENSXETG00000004710](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004710) | [100216219](https://www.ncbi.nlm.nih.gov/gene/100216219) |  |  |
+| Zebrafish | [ENSDARG00000004930](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004930) | [553341](https://www.ncbi.nlm.nih.gov/gene/553341) | [ZFIN:ZDB-GENE-030219-74](https://zfin.org/ZDB-GENE-030219-74) | positive regulation of macromolecule metabolic process, regulation of cell adhesion, regulation of primary metabolic process, regulation of signaling |
 

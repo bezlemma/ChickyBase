@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100049618
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001098611
-gene_id: '468036'
+gene_id: '777866'
 gene_type: miscRNA
 images:
 - caption: MIRLET7E expression
@@ -44,7 +44,7 @@ images:
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/let7a.11.st16limbHB.01a.jpg
 name: microRNA let-7e
-ncbi_id: '468036'
+ncbi_id: '777866'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -74,7 +74,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468036
+  url: https://www.ncbi.nlm.nih.gov/gene/777866
 species: Gallus gallus
 symbol: MIRLET7E
 title: MIRLET7E

@@ -8,7 +8,6 @@ aliases:
 - msh homeo box homolog 2
 cgnc_id: '2130'
 external_ids:
-  '25': stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0061312
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
@@ -23,7 +22,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204559
   X-XIV: stage XII
 forward_primer: CGAGGAGCACCACAAAGTCAAG
-gene_id: '461423'
+gene_id: '395245'
 gene_type: protein-coding
 images:
 - caption: MSX2 expression
@@ -660,41 +659,37 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX2.Anderson.2019.Supplementary
     figure 4A.jpg
 name: msh homeobox 2
-ncbi_id: '461423'
+ncbi_id: '395245'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000120149
   entrez: '4488'
   mod: MIM:123101
   phenotypes: MIM:604757
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000021469
   entrez: '17702'
   mod: MGI:97169
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 394987,373769
-  mod: '852973'
+- ensembl: ENSXETG00000009168
+  entrez: '394987'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000056697
-  entrez: 30531,573620
-  mod: ZFIN:ZDB-GENE-980526-492,ZFIN:ZDB-GENE-980526-322
-  phenotypes: ZDB-GENE-980526-492,ZDB-GENE-980526-322
+- ensembl: ENSDARG00000101023
+  entrez: '30531'
+  mod: ZFIN:ZDB-GENE-980526-492
+  phenotypes: embryonic morphogenesis, otic placode formation, regulation of DNA-templated
+    transcription, regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGACAGGAGTAGCATAGAGTCCAACG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461423
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395245
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461423
+  url: https://www.ncbi.nlm.nih.gov/gene/395245
 species: Gallus gallus
 symbol: MSX2
 template_length: '688'
@@ -724,9 +719,8 @@ title: MSX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000120149](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000120149) | [4488](https://www.ncbi.nlm.nih.gov/gene/4488) | [MIM:123101](https://omim.org/entry/123101) | MIM:604757 |
-| Mouse |  | [17702](https://www.ncbi.nlm.nih.gov/gene/17702) | [MGI:97169](http://www.informatics.jax.org/marker/MGI:97169) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [394987](https://www.ncbi.nlm.nih.gov/gene/394987), [373769](https://www.ncbi.nlm.nih.gov/gene/373769) | [852973](http://www.xenbase.org/gene/showgene.do?method=display&geneId=852973) |  |
-| Zebrafish | [ENSDARG00000056697](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056697) | [30531](https://www.ncbi.nlm.nih.gov/gene/30531), [573620](https://www.ncbi.nlm.nih.gov/gene/573620) | [ZFIN:ZDB-GENE-980526-492](https://zfin.org/ZDB-GENE-980526-492), [ZFIN:ZDB-GENE-980526-322](https://zfin.org/ZDB-GENE-980526-322) | ZDB-GENE-980526-492,ZDB-GENE-980526-322 |
+| Mouse | [ENSMUSG00000021469](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021469) | [17702](https://www.ncbi.nlm.nih.gov/gene/17702) | [MGI:97169](http://www.informatics.jax.org/marker/MGI:97169) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
+| Xenopus | [ENSXETG00000009168](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009168) | [394987](https://www.ncbi.nlm.nih.gov/gene/394987) |  |  |
+| Zebrafish | [ENSDARG00000101023](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101023) | [30531](https://www.ncbi.nlm.nih.gov/gene/30531) | [ZFIN:ZDB-GENE-980526-492](https://zfin.org/ZDB-GENE-980526-492) | embryonic morphogenesis, otic placode formation, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

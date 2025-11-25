@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421726
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419762
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/MAN1A1
-gene_id: '454704'
+gene_id: '421726'
 gene_type: protein-coding
 images:
 - caption: MAN1A1 expression
@@ -33,13 +33,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ray.2013.F4.man1a1.png
 name: mannosidase alpha class 1A member 1
-ncbi_id: '454704'
+ncbi_id: '421726'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000111885
   entrez: '4121'
   mod: MIM:604344
@@ -50,20 +45,20 @@ orthologs:
   mod: MGI:104677
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000022600
   entrez: '100491314'
-  mod: '998952'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000005652
   entrez: '566078'
   mod: ZFIN:ZDB-GENE-041014-321
-  phenotypes: ZDB-GENE-041014-321
+  phenotypes: ERAD pathway, carbohydrate metabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454704
+  url: https://www.ncbi.nlm.nih.gov/gene/421726
 species: Gallus gallus
 symbol: MAN1A1
 title: MAN1A1
@@ -90,9 +85,8 @@ title: MAN1A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000111885](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111885) | [4121](https://www.ncbi.nlm.nih.gov/gene/4121) | [MIM:604344](https://omim.org/entry/604344) |  |
 | Mouse | [ENSMUSG00000003746](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000003746) | [17155](https://www.ncbi.nlm.nih.gov/gene/17155) | [MGI:104677](http://www.informatics.jax.org/marker/MGI:104677) |  |
-| Xenopus |  | [100491314](https://www.ncbi.nlm.nih.gov/gene/100491314) | [998952](http://www.xenbase.org/gene/showgene.do?method=display&geneId=998952) |  |
-| Zebrafish |  | [566078](https://www.ncbi.nlm.nih.gov/gene/566078) | [ZFIN:ZDB-GENE-041014-321](https://zfin.org/ZDB-GENE-041014-321) | ZDB-GENE-041014-321 |
+| Xenopus | [ENSXETG00000022600](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022600) | [100491314](https://www.ncbi.nlm.nih.gov/gene/100491314) |  |  |
+| Zebrafish | [ENSDARG00000005652](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005652) | [566078](https://www.ncbi.nlm.nih.gov/gene/566078) | [ZFIN:ZDB-GENE-041014-321](https://zfin.org/ZDB-GENE-041014-321) | ERAD pathway, carbohydrate metabolic process |
 

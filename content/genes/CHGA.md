@@ -4,7 +4,6 @@ aliases:
 - chromogranin A (parathyroid secretory protein 1)
 cgnc_id: '8222'
 external_ids:
-  '13': stage 13stage 13
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=NOTCH+proneural+hypothalamus+neural+Ware+scaffold+building+blocks
   Comments: 'Images and probe sequence provided by Claire Anderson.  The probe was
     synthesized from cDNA clone ChEST139e12; Related article: Anderson C1, Khan MAF1,
@@ -17,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423420
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421330
-gene_id: '448839'
+gene_id: '423420'
 gene_type: protein-coding
 images:
 - caption: CHGA expression
@@ -385,7 +384,7 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CHGA_HH 24 x15.jpg
 name: chromogranin A
-ncbi_id: '448839'
+ncbi_id: '423420'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -410,12 +409,12 @@ orthologs:
 - ensembl: ENSDARG00000008829
   entrez: '450039'
   mod: ZFIN:ZDB-GENE-041010-161
-  phenotypes: ZDB-GENE-041010-161
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448839
+  url: https://www.ncbi.nlm.nih.gov/gene/423420
 species: Gallus gallus
 symbol: CHGA
 title: CHGA
@@ -445,5 +444,5 @@ title: CHGA
 | Human | [ENSG00000100604](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100604) | [1113](https://www.ncbi.nlm.nih.gov/gene/1113) | [MIM:118910](https://omim.org/entry/118910) |  |
 | Mouse | [ENSMUSG00000021194](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021194) | [12652](https://www.ncbi.nlm.nih.gov/gene/12652) | [MGI:88394](http://www.informatics.jax.org/marker/MGI:88394) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
 | Xenopus |  | [493296](https://www.ncbi.nlm.nih.gov/gene/493296), [495018](https://www.ncbi.nlm.nih.gov/gene/495018) | [960410](http://www.xenbase.org/gene/showgene.do?method=display&geneId=960410) |  |
-| Zebrafish | [ENSDARG00000008829](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008829) | [450039](https://www.ncbi.nlm.nih.gov/gene/450039) | [ZFIN:ZDB-GENE-041010-161](https://zfin.org/ZDB-GENE-041010-161) | ZDB-GENE-041010-161 |
+| Zebrafish | [ENSDARG00000008829](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008829) | [450039](https://www.ncbi.nlm.nih.gov/gene/450039) | [ZFIN:ZDB-GENE-041010-161](https://zfin.org/ZDB-GENE-041010-161) |  |
 

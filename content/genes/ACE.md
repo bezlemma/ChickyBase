@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419953
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004180
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001167732
-gene_id: '453120'
+gene_id: '419953'
 gene_type: protein-coding
 images:
 - caption: ACE expression
@@ -115,13 +115,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ACE.Savary.2005.Fig.2
     ace st18.png
 name: angiotensin I converting enzyme
-ncbi_id: '453120'
+ncbi_id: '419953'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000159640
   entrez: '1636'
   mod: MIM:106180
@@ -132,20 +127,21 @@ orthologs:
   mod: MGI:87874
   phenotypes: All phenotypic alleles (14):Targeted, knock-out(6) Targeted, other(8)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000005315
   entrez: '100144634'
-  mod: '479788'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000079166
   entrez: '565980'
   mod: ZFIN:ZDB-GENE-030131-1826
-  phenotypes: ZDB-GENE-030131-1826
+  phenotypes: angiotensin maturation, positive regulation of systemic arterial blood
+    pressure, proteolysis, regulation of intestinal epithelial structure maintenance
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453120
+  url: https://www.ncbi.nlm.nih.gov/gene/419953
 species: Gallus gallus
 symbol: ACE
 title: ACE
@@ -175,9 +171,8 @@ title: ACE
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000159640](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000159640) | [1636](https://www.ncbi.nlm.nih.gov/gene/1636) | [MIM:106180](https://omim.org/entry/106180) | MIM:104300 |
 | Mouse | [ENSMUSG00000020681](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020681) | [11421](https://www.ncbi.nlm.nih.gov/gene/11421) | [MGI:87874](http://www.informatics.jax.org/marker/MGI:87874) | All phenotypic alleles (14):Targeted, knock-out(6) Targeted, other(8) |
-| Xenopus |  | [100144634](https://www.ncbi.nlm.nih.gov/gene/100144634) | [479788](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479788) |  |
-| Zebrafish | [ENSDARG00000079166](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079166) | [565980](https://www.ncbi.nlm.nih.gov/gene/565980) | [ZFIN:ZDB-GENE-030131-1826](https://zfin.org/ZDB-GENE-030131-1826) | ZDB-GENE-030131-1826 |
+| Xenopus | [ENSXETG00000005315](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005315) | [100144634](https://www.ncbi.nlm.nih.gov/gene/100144634) |  |  |
+| Zebrafish | [ENSDARG00000079166](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079166) | [565980](https://www.ncbi.nlm.nih.gov/gene/565980) | [ZFIN:ZDB-GENE-030131-1826](https://zfin.org/ZDB-GENE-030131-1826) | angiotensin maturation, positive regulation of systemic arterial blood pressure, proteolysis, regulation of intestinal epithelial structure maintenance |
 

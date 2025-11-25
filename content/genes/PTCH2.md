@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374187
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422426
-gene_id: '455078'
+gene_id: '374187'
 gene_type: protein-coding
 images:
 - caption: PTCH2 expression
@@ -408,37 +408,24 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PTCH2.Anderson.2019.Supplementary
     figure 4H.jpg
 name: patched 2
-ncbi_id: '455078'
+ncbi_id: '374187'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000018892
+  entrez: '100492958'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000055026
+  entrez: '30181'
+  mod: ZFIN:ZDB-GENE-980526-44
+  phenotypes: camera-type eye development, cardioblast differentiation, negative regulation
+    of muscle organ development, negative regulation of smoothened signaling pathway,
+    osteoblast differentiation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455078
+  url: https://www.ncbi.nlm.nih.gov/gene/374187
 species: Gallus gallus
 symbol: PTCH2
 title: PTCH2
@@ -464,9 +451,6 @@ title: PTCH2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000018892](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018892) | [100492958](https://www.ncbi.nlm.nih.gov/gene/100492958) |  |  |
+| Zebrafish | [ENSDARG00000055026](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055026) | [30181](https://www.ncbi.nlm.nih.gov/gene/30181) | [ZFIN:ZDB-GENE-980526-44](https://zfin.org/ZDB-GENE-980526-44) | camera-type eye development, cardioblast differentiation, negative regulation of muscle organ development, negative regulation of smoothened signaling pathway, osteoblast differentiation |
 

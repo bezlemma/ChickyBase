@@ -3,8 +3,6 @@ aliases:
 - nodal homolog
 cgnc_id: '49212'
 external_ids:
-  '25': stage 25stage 25
-  '7': stage 7
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Katsu+2012+Dan+Shh+Bmp4+Caronte
   Comments: According to the authors, "Digoxigenin-labeled mRNA probes for nodal,
     shh, fgf8 were produced using the plasmid DNAs previously published ( Boettger
@@ -19,7 +17,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424385
   X-XIV: stage XIstage XIV
 forward_primer: CGGCTGGGCAGTGTTCAAC
-gene_id: '461809'
+gene_id: '395205'
 gene_type: protein-coding
 images:
 - caption: NODAL expression
@@ -463,41 +461,31 @@ images:
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.D.Nodal.Tsikolia.2012.ST7.jpg
 name: nodal growth differentiation factor
-ncbi_id: '461809'
+ncbi_id: '395205'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000156574
+  entrez: '4838'
+  mod: MIM:601265
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000037171
+  entrez: '18119'
+  mod: MGI:97359
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 549075,378543
-  mod: '487168'
+- ensembl: ENSXETG00000023748
+  entrez: '100497218'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000057096,ENSDARG00000014309
-  entrez: 799352,338101
-  mod: ZFIN:ZDB-GENE-990415-256,ZFIN:ZDB-GENE-030219-1
-  phenotypes: ZDB-GENE-990415-256,ZDB-GENE-030219-1
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCACCTGGCTGGGCTTGTAGAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461809
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395205
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461809
+  url: https://www.ncbi.nlm.nih.gov/gene/395205
 species: Gallus gallus
 symbol: NODAL
 template_length: '529'
@@ -524,9 +512,7 @@ title: NODAL
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [549075](https://www.ncbi.nlm.nih.gov/gene/549075), [378543](https://www.ncbi.nlm.nih.gov/gene/378543) | [487168](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487168) |  |
-| Zebrafish | [ENSDARG00000057096](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057096), [ENSDARG00000014309](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014309) | [799352](https://www.ncbi.nlm.nih.gov/gene/799352), [338101](https://www.ncbi.nlm.nih.gov/gene/338101) | [ZFIN:ZDB-GENE-990415-256](https://zfin.org/ZDB-GENE-990415-256), [ZFIN:ZDB-GENE-030219-1](https://zfin.org/ZDB-GENE-030219-1) | ZDB-GENE-990415-256,ZDB-GENE-030219-1 |
+| Human | [ENSG00000156574](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000156574) | [4838](https://www.ncbi.nlm.nih.gov/gene/4838) | [MIM:601265](https://omim.org/entry/601265) |  |
+| Mouse | [ENSMUSG00000037171](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037171) | [18119](https://www.ncbi.nlm.nih.gov/gene/18119) | [MGI:97359](http://www.informatics.jax.org/marker/MGI:97359) |  |
+| Xenopus | [ENSXETG00000023748](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023748) | [100497218](https://www.ncbi.nlm.nih.gov/gene/100497218) |  |  |
 

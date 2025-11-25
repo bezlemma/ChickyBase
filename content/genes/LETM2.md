@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426779
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424391
 forward_primer: GAATGTTCCACCTTCTCTGCTCC
-gene_id: '458863'
+gene_id: '426779'
 gene_type: protein-coding
 images:
 - caption: LETM2 expression
@@ -89,41 +89,36 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R539.LETM2.S27A.001.jpg
 name: leucine zipper and EF-hand containing transmembrane protein 2
-ncbi_id: '458863'
+ncbi_id: '426779'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000165046
   entrez: '137994'
-  mod: ''
+  mod: MIM:620380
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000037363
+  entrez: '270035'
+  mod: MGI:2444979
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000002394
   entrez: '549555'
-  mod: '5733327'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000077515
   entrez: '100006201'
   mod: ZFIN:ZDB-GENE-090521-4
-  phenotypes: ZDB-GENE-090521-4
+  phenotypes: mitochondrial calcium ion transmembrane transport, mitochondrion organization
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGATAATGCCCCGACCTTGAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458863
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426779
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458863
+  url: https://www.ncbi.nlm.nih.gov/gene/426779
 species: Gallus gallus
 symbol: LETM2
 template_length: '725'
@@ -145,9 +140,8 @@ title: LETM2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000165046](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165046) | [137994](https://www.ncbi.nlm.nih.gov/gene/137994) |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [549555](https://www.ncbi.nlm.nih.gov/gene/549555) | [5733327](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5733327) |  |
-| Zebrafish | [ENSDARG00000077515](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077515) | [100006201](https://www.ncbi.nlm.nih.gov/gene/100006201) | [ZFIN:ZDB-GENE-090521-4](https://zfin.org/ZDB-GENE-090521-4) | ZDB-GENE-090521-4 |
+| Human | [ENSG00000165046](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165046) | [137994](https://www.ncbi.nlm.nih.gov/gene/137994) | [MIM:620380](https://omim.org/entry/620380) |  |
+| Mouse | [ENSMUSG00000037363](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037363) | [270035](https://www.ncbi.nlm.nih.gov/gene/270035) | [MGI:2444979](http://www.informatics.jax.org/marker/MGI:2444979) |  |
+| Xenopus | [ENSXETG00000002394](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002394) | [549555](https://www.ncbi.nlm.nih.gov/gene/549555) |  |  |
+| Zebrafish | [ENSDARG00000077515](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077515) | [100006201](https://www.ncbi.nlm.nih.gov/gene/100006201) | [ZFIN:ZDB-GENE-090521-4](https://zfin.org/ZDB-GENE-090521-4) | mitochondrial calcium ion transmembrane transport, mitochondrion organization |
 

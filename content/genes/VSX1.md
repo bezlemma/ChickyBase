@@ -5,7 +5,6 @@ aliases:
 - transcription factor VSX1
 cgnc_id: '6501'
 external_ids:
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Li+Glubrecht+Mita+Godbout
@@ -20,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204769
 forward_primer: CCGCATCCAGGTTTGGTTTC
-gene_id: '449627'
+gene_id: '395537'
 gene_type: protein-coding
 images:
 - caption: VSX1 expression
@@ -115,13 +114,8 @@ images:
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chx10.1.Li.2008.E15.jpg
 name: visual system homeobox 1
-ncbi_id: '449627'
+ncbi_id: '395537'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100987
   entrez: '30813'
   mod: MIM:605020
@@ -132,24 +126,14 @@ orthologs:
   mod: MGI:1890816
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100101658,779073
-  mod: '853165'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000056292
-  entrez: '30598'
-  mod: ZFIN:ZDB-GENE-990415-205
-  phenotypes: ZDB-GENE-990415-205
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTCCCGTTTTCACACTGCTGTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449627
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395537
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449627
+  url: https://www.ncbi.nlm.nih.gov/gene/395537
 species: Gallus gallus
 symbol: VSX1
 template_length: '715'
@@ -179,9 +163,6 @@ title: VSX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000100987](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100987) | [30813](https://www.ncbi.nlm.nih.gov/gene/30813) | [MIM:605020](https://omim.org/entry/605020) | MIM:122000 |
 | Mouse | [ENSMUSG00000033080](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033080) | [114889](https://www.ncbi.nlm.nih.gov/gene/114889) | [MGI:1890816](http://www.informatics.jax.org/marker/MGI:1890816) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100101658](https://www.ncbi.nlm.nih.gov/gene/100101658), [779073](https://www.ncbi.nlm.nih.gov/gene/779073) | [853165](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853165) |  |
-| Zebrafish | [ENSDARG00000056292](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056292) | [30598](https://www.ncbi.nlm.nih.gov/gene/30598) | [ZFIN:ZDB-GENE-990415-205](https://zfin.org/ZDB-GENE-990415-205) | ZDB-GENE-990415-205 |
 

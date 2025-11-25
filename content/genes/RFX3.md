@@ -12,7 +12,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642990
   X-XIV: stage XIII
 forward_primer: GTTCAGTATGTGGAAGGAAGCGAC
-gene_id: '461630'
+gene_id: '427351'
 gene_type: protein-coding
 images:
 - caption: RFX3 expression
@@ -147,41 +147,38 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RFX3.Trevers.2023-Fig7-3-K.jpg
 name: regulatory factor X3
-ncbi_id: '461630'
+ncbi_id: '427351'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000080298
+  entrez: '5991'
+  mod: MIM:601337
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000040929
+  entrez: '19726'
+  mod: MGI:106582
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000011698
+  entrez: '779608'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000014550
+  entrez: '570989'
+  mod: ZFIN:ZDB-GENE-061103-253
+  phenotypes: DNA-templated transcription, cell differentiation, cilium-dependent
+    cell motility, endocrine pancreas development, epithelial cilium movement involved
+    in determination of left/right asymmetry
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGAGGTGGAGTAGAGGGAGAATAGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461630
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427351
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461630
+  url: https://www.ncbi.nlm.nih.gov/gene/427351
 species: Gallus gallus
 symbol: RFX3
 template_length: '1023'
@@ -206,9 +203,8 @@ title: RFX3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000080298](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000080298) | [5991](https://www.ncbi.nlm.nih.gov/gene/5991) | [MIM:601337](https://omim.org/entry/601337) |  |
+| Mouse | [ENSMUSG00000040929](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040929) | [19726](https://www.ncbi.nlm.nih.gov/gene/19726) | [MGI:106582](http://www.informatics.jax.org/marker/MGI:106582) |  |
+| Xenopus | [ENSXETG00000011698](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011698) | [779608](https://www.ncbi.nlm.nih.gov/gene/779608) |  |  |
+| Zebrafish | [ENSDARG00000014550](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014550) | [570989](https://www.ncbi.nlm.nih.gov/gene/570989) | [ZFIN:ZDB-GENE-061103-253](https://zfin.org/ZDB-GENE-061103-253) | DNA-templated transcription, cell differentiation, cilium-dependent cell motility, endocrine pancreas development, epithelial cilium movement involved in determination of left/right asymmetry |
 

@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428612
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031526
-gene_id: '460387'
+gene_id: '428612'
 gene_type: protein-coding
 images:
 - caption: OLIG2 expression
@@ -141,37 +141,33 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhu.2001.Fig1.P.jpg
 name: oligodendrocyte transcription factor 2
-ncbi_id: '460387'
+ncbi_id: '428612'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000177468
-  entrez: '167826'
-  mod: MIM:609323
+- ensembl: ENSG00000205927
+  entrez: '10215'
+  mod: MIM:606386
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000045591
-  entrez: '94222'
-  mod: MGI:2149955
+- ensembl: ENSMUSG00000039830
+  entrez: '50913'
+  mod: MGI:1355331
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: '493553'
-  mod: '919788'
+- ensembl: ENSXETG00000048534
+  entrez: '100486745'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '566728'
-  mod: ZFIN:ZDB-GENE-080903-1
-  phenotypes: ZDB-GENE-080903-1
+- ensembl: ENSDARG00000040946
+  entrez: '325288'
+  mod: ZFIN:ZDB-GENE-030131-4013
+  phenotypes: abducens nucleus development, axon development, dopaminergic neuron
+    differentiation, facial nucleus development, glial cell fate determination
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460387
+  url: https://www.ncbi.nlm.nih.gov/gene/428612
 species: Gallus gallus
 symbol: OLIG2
 title: OLIG2
@@ -200,9 +196,8 @@ title: OLIG2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000177468](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000177468) | [167826](https://www.ncbi.nlm.nih.gov/gene/167826) | [MIM:609323](https://omim.org/entry/609323) |  |
-| Mouse | [ENSMUSG00000045591](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000045591) | [94222](https://www.ncbi.nlm.nih.gov/gene/94222) | [MGI:2149955](http://www.informatics.jax.org/marker/MGI:2149955) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [493553](https://www.ncbi.nlm.nih.gov/gene/493553) | [919788](http://www.xenbase.org/gene/showgene.do?method=display&geneId=919788) |  |
-| Zebrafish |  | [566728](https://www.ncbi.nlm.nih.gov/gene/566728) | [ZFIN:ZDB-GENE-080903-1](https://zfin.org/ZDB-GENE-080903-1) | ZDB-GENE-080903-1 |
+| Human | [ENSG00000205927](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000205927) | [10215](https://www.ncbi.nlm.nih.gov/gene/10215) | [MIM:606386](https://omim.org/entry/606386) |  |
+| Mouse | [ENSMUSG00000039830](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039830) | [50913](https://www.ncbi.nlm.nih.gov/gene/50913) | [MGI:1355331](http://www.informatics.jax.org/marker/MGI:1355331) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
+| Xenopus | [ENSXETG00000048534](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000048534) | [100486745](https://www.ncbi.nlm.nih.gov/gene/100486745) |  |  |
+| Zebrafish | [ENSDARG00000040946](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040946) | [325288](https://www.ncbi.nlm.nih.gov/gene/325288) | [ZFIN:ZDB-GENE-030131-4013](https://zfin.org/ZDB-GENE-030131-4013) | abducens nucleus development, axon development, dopaminergic neuron differentiation, facial nucleus development, glial cell fate determination |
 

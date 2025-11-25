@@ -3,13 +3,12 @@ aliases:
 - proto-oncogene DBL
 cgnc_id: '4948'
 external_ids:
-  '25': stage 25stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000006562
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422253
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420239
 forward_primer: GAGGATTTTCTGCTCAAGTTACCG
-gene_id: '450111'
+gene_id: '422253'
 gene_type: protein-coding
 images:
 - caption: MCF2 expression
@@ -121,13 +120,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R391.MCF2.S25.002.jpg
 name: MCF.2 cell line derived transforming sequence
-ncbi_id: '450111'
+ncbi_id: '422253'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000101977
   entrez: '4168'
   mod: MIM:311030
@@ -138,24 +132,24 @@ orthologs:
   mod: MGI:96932
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000018322
   entrez: '100489667'
-  mod: '949775'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000056603,ENSDARG00000022895
-  entrez: 559907,557201
-  mod: ZFIN:ZDB-GENE-030616-52,ZFIN:ZDB-GENE-091118-4
-  phenotypes: ZDB-GENE-030616-52,ZDB-GENE-091118-4
+- ensembl: ENSDARG00000022895
+  entrez: '557201'
+  mod: ZFIN:ZDB-GENE-030616-52
+  phenotypes: dendrite development, intracellular signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCCATCTGCTGGTTGGCAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450111
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422253
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450111
+  url: https://www.ncbi.nlm.nih.gov/gene/422253
 species: Gallus gallus
 symbol: MCF2
 template_length: '896'
@@ -177,9 +171,8 @@ title: MCF2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000101977](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101977) | [4168](https://www.ncbi.nlm.nih.gov/gene/4168) | [MIM:311030](https://omim.org/entry/311030) |  |
 | Mouse | [ENSMUSG00000031139](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031139) | [109904](https://www.ncbi.nlm.nih.gov/gene/109904) | [MGI:96932](http://www.informatics.jax.org/marker/MGI:96932) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100489667](https://www.ncbi.nlm.nih.gov/gene/100489667) | [949775](http://www.xenbase.org/gene/showgene.do?method=display&geneId=949775) |  |
-| Zebrafish | [ENSDARG00000056603](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056603), [ENSDARG00000022895](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000022895) | [559907](https://www.ncbi.nlm.nih.gov/gene/559907), [557201](https://www.ncbi.nlm.nih.gov/gene/557201) | [ZFIN:ZDB-GENE-030616-52](https://zfin.org/ZDB-GENE-030616-52), [ZFIN:ZDB-GENE-091118-4](https://zfin.org/ZDB-GENE-091118-4) | ZDB-GENE-030616-52,ZDB-GENE-091118-4 |
+| Xenopus | [ENSXETG00000018322](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018322) | [100489667](https://www.ncbi.nlm.nih.gov/gene/100489667) |  |  |
+| Zebrafish | [ENSDARG00000022895](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000022895) | [557201](https://www.ncbi.nlm.nih.gov/gene/557201) | [ZFIN:ZDB-GENE-030616-52](https://zfin.org/ZDB-GENE-030616-52) | dendrite development, intracellular signal transduction |
 

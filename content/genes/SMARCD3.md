@@ -1,7 +1,6 @@
 ---
 cgnc_id: '9868'
 external_ids:
-  '13': stage 13
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0025463
   Comments: No specific expression detected stages 5-19.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -10,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:430336
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_427895
-gene_id: '462720'
+gene_id: '430336'
 gene_type: protein-coding
 images:
 - caption: SMARCD3 expression
@@ -57,13 +56,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SMARCD3_HH 13 x20.jpg
 name: SWI/SNF related, matrix associated, actin dependent regulator of chromatin,
   subfamily d, member 3
-ncbi_id: '462720'
+ncbi_id: '430336'
 orthologs:
-- ensembl: ''
-  entrez: '32268'
-  mod: FBgn0025463
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000082014
   entrez: '6604'
   mod: MIM:601737
@@ -74,23 +68,19 @@ orthologs:
   mod: MGI:1914243
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100495941,735086
-  mod: '494883'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000019969,ENSDARG00000038786
-  entrez: 562140,564652
-  mod: ZFIN:ZDB-GENE-080509-2,ZFIN:ZDB-GENE-070912-491
-  phenotypes: ZDB-GENE-080509-2,ZDB-GENE-070912-491
+- ensembl: ENSDARG00000019969
+  entrez: '562140'
+  mod: ZFIN:ZDB-GENE-080509-2
+  phenotypes: cardiac muscle cell differentiation, determination of left/right symmetry,
+    heart morphogenesis, regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462720
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=430336
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462720
+  url: https://www.ncbi.nlm.nih.gov/gene/430336
 species: Gallus gallus
 symbol: SMARCD3
 title: SMARCD3
@@ -116,9 +106,7 @@ title: SMARCD3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32268](https://www.ncbi.nlm.nih.gov/gene/32268) | FBgn0025463 |  |
 | Human | [ENSG00000082014](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000082014) | [6604](https://www.ncbi.nlm.nih.gov/gene/6604) | [MIM:601737](https://omim.org/entry/601737) |  |
 | Mouse | [ENSMUSG00000028949](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028949) | [66993](https://www.ncbi.nlm.nih.gov/gene/66993) | [MGI:1914243](http://www.informatics.jax.org/marker/MGI:1914243) |  |
-| Xenopus |  | [100495941](https://www.ncbi.nlm.nih.gov/gene/100495941), [735086](https://www.ncbi.nlm.nih.gov/gene/735086) | [494883](http://www.xenbase.org/gene/showgene.do?method=display&geneId=494883) |  |
-| Zebrafish | [ENSDARG00000019969](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019969), [ENSDARG00000038786](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038786) | [562140](https://www.ncbi.nlm.nih.gov/gene/562140), [564652](https://www.ncbi.nlm.nih.gov/gene/564652) | [ZFIN:ZDB-GENE-080509-2](https://zfin.org/ZDB-GENE-080509-2), [ZFIN:ZDB-GENE-070912-491](https://zfin.org/ZDB-GENE-070912-491) | ZDB-GENE-080509-2,ZDB-GENE-070912-491 |
+| Zebrafish | [ENSDARG00000019969](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019969) | [562140](https://www.ncbi.nlm.nih.gov/gene/562140) | [ZFIN:ZDB-GENE-080509-2](https://zfin.org/ZDB-GENE-080509-2) | cardiac muscle cell differentiation, determination of left/right symmetry, heart morphogenesis, regulation of transcription by RNA polymerase II |
 

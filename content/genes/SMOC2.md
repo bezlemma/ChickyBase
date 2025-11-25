@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421559
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419600
-gene_id: '458215'
+gene_id: '421559'
 gene_type: protein-coding
 images:
 - caption: SMOC2 expression
@@ -40,13 +40,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SMOC2.Anderson.2019.Fig2.jpg
 name: SPARC related modular calcium binding 2
-ncbi_id: '458215'
+ncbi_id: '421559'
 orthologs:
-- ensembl: ''
-  entrez: '36048'
-  mod: FBgn0262169
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000112562
   entrez: '64094'
   mod: MIM:607223
@@ -57,20 +52,10 @@ orthologs:
   mod: MGI:1929881
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: '266988'
-  mod: ZFIN:ZDB-GENE-021031-5
-  phenotypes: ZDB-GENE-021031-5
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458215
+  url: https://www.ncbi.nlm.nih.gov/gene/421559
 species: Gallus gallus
 symbol: SMOC2
 title: SMOC2
@@ -98,9 +83,6 @@ title: SMOC2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36048](https://www.ncbi.nlm.nih.gov/gene/36048) | FBgn0262169 |  |
 | Human | [ENSG00000112562](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112562) | [64094](https://www.ncbi.nlm.nih.gov/gene/64094) | [MIM:607223](https://omim.org/entry/607223) |  |
 | Mouse | [ENSMUSG00000023886](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023886) | [64074](https://www.ncbi.nlm.nih.gov/gene/64074) | [MGI:1929881](http://www.informatics.jax.org/marker/MGI:1929881) |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  | [266988](https://www.ncbi.nlm.nih.gov/gene/266988) | [ZFIN:ZDB-GENE-021031-5](https://zfin.org/ZDB-GENE-021031-5) | ZDB-GENE-021031-5 |
 

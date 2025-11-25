@@ -8,7 +8,6 @@ aliases:
 - calpain p94
 cgnc_id: '51929'
 external_ids:
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0071277
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0030315
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -18,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004405
 forward_primer: CAGCCAGAAAGTCCCCATCAAG
-gene_id: '449128'
+gene_id: '423233'
 gene_type: protein-coding
 images:
 - caption: CAPN3 expression
@@ -64,13 +63,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R556.CAPN3.S25.001.jpg
 name: calpain 3
-ncbi_id: '449128'
+ncbi_id: '423233'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000092529
   entrez: '825'
   mod: MIM:114240
@@ -82,24 +76,24 @@ orthologs:
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(4)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100497532,100125665
-  mod: '5875738'
+- ensembl: ENSXETG00000012304
+  entrez: '100497532'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000041864
-  entrez: 447832,100034405
-  mod: ZFIN:ZDB-GENE-040912-97,ZFIN:ZDB-GENE-041001-149
-  phenotypes: ZDB-GENE-040912-97,ZDB-GENE-041001-149
+  entrez: '447832'
+  mod: ZFIN:ZDB-GENE-040912-97
+  phenotypes: negative regulation of apoptotic process, proteolysis
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCCATTCCATTCCACCTGTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449128
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423233
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449128
+  url: https://www.ncbi.nlm.nih.gov/gene/423233
 species: Gallus gallus
 symbol: CAPN3
 template_length: '832'
@@ -125,9 +119,8 @@ title: CAPN3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000092529](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000092529) | [825](https://www.ncbi.nlm.nih.gov/gene/825) | [MIM:114240](https://omim.org/entry/114240) | MIM:253600 |
 | Mouse | [ENSMUSG00000079110](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000079110) | [12335](https://www.ncbi.nlm.nih.gov/gene/12335) | [MGI:107437](http://www.informatics.jax.org/marker/MGI:107437) | All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(4) Gene trapped(1) |
-| Xenopus |  | [100497532](https://www.ncbi.nlm.nih.gov/gene/100497532), [100125665](https://www.ncbi.nlm.nih.gov/gene/100125665) | [5875738](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5875738) |  |
-| Zebrafish | [ENSDARG00000041864](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041864) | [447832](https://www.ncbi.nlm.nih.gov/gene/447832), [100034405](https://www.ncbi.nlm.nih.gov/gene/100034405) | [ZFIN:ZDB-GENE-040912-97](https://zfin.org/ZDB-GENE-040912-97), [ZFIN:ZDB-GENE-041001-149](https://zfin.org/ZDB-GENE-041001-149) | ZDB-GENE-040912-97,ZDB-GENE-041001-149 |
+| Xenopus | [ENSXETG00000012304](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012304) | [100497532](https://www.ncbi.nlm.nih.gov/gene/100497532) |  |  |
+| Zebrafish | [ENSDARG00000041864](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041864) | [447832](https://www.ncbi.nlm.nih.gov/gene/447832) | [ZFIN:ZDB-GENE-040912-97](https://zfin.org/ZDB-GENE-040912-97) | negative regulation of apoptotic process, proteolysis |
 

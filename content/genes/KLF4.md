@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:770254
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001233583
   X-XIV: stage XII
-gene_id: '454152'
+gene_id: '770254'
 gene_type: protein-coding
 images:
 - caption: KLF4 expression
@@ -235,13 +235,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KLF4.Trevers.2023-Fig7-6-Q.jpg
 name: Kruppel like factor 4
-ncbi_id: '454152'
+ncbi_id: '770254'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136826
   entrez: '9314'
   mod: MIM:602253
@@ -252,23 +247,25 @@ orthologs:
   mod: MGI:1342287
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 550034,379518
-  mod: '1015048'
+- ensembl: ENSXETG00000005739
+  entrez: '550034'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000038792
-  entrez: 562155,65238
-  mod: ZFIN:ZDB-GENE-111014-1,ZFIN:ZDB-GENE-010129-1
-  phenotypes: ZDB-GENE-111014-1,ZDB-GENE-010129-1
+- ensembl: ENSDARG00000079922
+  entrez: '562155'
+  mod: ZFIN:ZDB-GENE-111014-1
+  phenotypes: negative regulation of cell population proliferation, positive regulation
+    of DNA-templated transcription, regulation of transcription by RNA polymerase
+    II, stem cell proliferation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454152
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=770254
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454152
+  url: https://www.ncbi.nlm.nih.gov/gene/770254
 species: Gallus gallus
 symbol: KLF4
 title: KLF4
@@ -294,9 +291,8 @@ title: KLF4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000136826](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136826) | [9314](https://www.ncbi.nlm.nih.gov/gene/9314) | [MIM:602253](https://omim.org/entry/602253) |  |
 | Mouse | [ENSMUSG00000003032](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000003032) | [16600](https://www.ncbi.nlm.nih.gov/gene/16600) | [MGI:1342287](http://www.informatics.jax.org/marker/MGI:1342287) | All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1) |
-| Xenopus |  | [550034](https://www.ncbi.nlm.nih.gov/gene/550034), [379518](https://www.ncbi.nlm.nih.gov/gene/379518) | [1015048](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1015048) |  |
-| Zebrafish | [ENSDARG00000038792](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038792) | [562155](https://www.ncbi.nlm.nih.gov/gene/562155), [65238](https://www.ncbi.nlm.nih.gov/gene/65238) | [ZFIN:ZDB-GENE-111014-1](https://zfin.org/ZDB-GENE-111014-1), [ZFIN:ZDB-GENE-010129-1](https://zfin.org/ZDB-GENE-010129-1) | ZDB-GENE-111014-1,ZDB-GENE-010129-1 |
+| Xenopus | [ENSXETG00000005739](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005739) | [550034](https://www.ncbi.nlm.nih.gov/gene/550034) |  |  |
+| Zebrafish | [ENSDARG00000079922](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079922) | [562155](https://www.ncbi.nlm.nih.gov/gene/562155) | [ZFIN:ZDB-GENE-111014-1](https://zfin.org/ZDB-GENE-111014-1) | negative regulation of cell population proliferation, positive regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II, stem cell proliferation |
 

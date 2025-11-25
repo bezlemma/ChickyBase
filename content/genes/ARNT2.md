@@ -4,13 +4,12 @@ aliases:
 - microRNA 5572
 cgnc_id: '4856'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/415481
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415481
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_413854
 forward_primer: TCAACCAGCCGCAGTCCG
-gene_id: '460825'
+gene_id: '415481'
 gene_type: protein-coding
 images:
 - caption: ARNT2 expression
@@ -100,13 +99,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R257.ARNT2.S25.001.jpg
 name: aryl hydrocarbon receptor nuclear translocator 2
-ncbi_id: '460825'
+ncbi_id: '415481'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000172379
   entrez: '9915'
   mod: MIM:606036
@@ -117,24 +111,25 @@ orthologs:
   mod: MGI:107188
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100101693,380232
-  mod: '487403'
+- ensembl: ENSXETG00000012988
+  entrez: '100101693'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000103697
   entrez: '64277'
   mod: ZFIN:ZDB-GENE-001207-3
-  phenotypes: ZDB-GENE-001207-3
+  phenotypes: animal organ development, axon guidance, brain development, cardiac
+    ventricle morphogenesis, cell-cell adhesion
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGACCGCCTTCAGCAAACCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460825
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415481
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460825
+  url: https://www.ncbi.nlm.nih.gov/gene/415481
 species: Gallus gallus
 symbol: ARNT2
 template_length: '1419'
@@ -156,9 +151,8 @@ title: ARNT2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000172379](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000172379) | [9915](https://www.ncbi.nlm.nih.gov/gene/9915) | [MIM:606036](https://omim.org/entry/606036) |  |
 | Mouse | [ENSMUSG00000015709](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000015709) | [11864](https://www.ncbi.nlm.nih.gov/gene/11864) | [MGI:107188](http://www.informatics.jax.org/marker/MGI:107188) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100101693](https://www.ncbi.nlm.nih.gov/gene/100101693), [380232](https://www.ncbi.nlm.nih.gov/gene/380232) | [487403](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487403) |  |
-| Zebrafish |  | [64277](https://www.ncbi.nlm.nih.gov/gene/64277) | [ZFIN:ZDB-GENE-001207-3](https://zfin.org/ZDB-GENE-001207-3) | ZDB-GENE-001207-3 |
+| Xenopus | [ENSXETG00000012988](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012988) | [100101693](https://www.ncbi.nlm.nih.gov/gene/100101693) |  |  |
+| Zebrafish | [ENSDARG00000103697](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000103697) | [64277](https://www.ncbi.nlm.nih.gov/gene/64277) | [ZFIN:ZDB-GENE-001207-3](https://zfin.org/ZDB-GENE-001207-3) | animal organ development, axon guidance, brain development, cardiac ventricle morphogenesis, cell-cell adhesion |
 

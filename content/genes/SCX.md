@@ -4,8 +4,6 @@ aliases:
 - scleraxis homolog B
 cgnc_id: '49042'
 external_ids:
-  '25': stage 25stage 25stage 25
-  '31': stage 31stage 31stage 31stage 31stage 31
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0071773
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Bonnin+2002+CRP2
@@ -19,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374101
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204253
-gene_id: '455656'
+gene_id: '374101'
 gene_type: protein-coding
 images:
 - caption: SCX expression
@@ -560,40 +558,36 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/scleraxis.Bonnin.2002.Fig3.jpg
 name: scleraxis bHLH transcription factor
-ncbi_id: '455656'
+ncbi_id: '374101'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000260428
+  entrez: '642658'
+  mod: MIM:609067
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000034161
+  entrez: '20289'
+  mod: MGI:102934
   phenotypes: ''
   species: Mouse
 - ensembl: ''
-  entrez: ''
+  entrez: '100490170'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000035695
+  entrez: '100034489'
+  mod: ZFIN:ZDB-GENE-060503-414
+  phenotypes: developmental process, regulation of transcription by RNA polymerase
+    II, striated muscle tissue development, tendon formation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455656
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374101
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455656
+  url: https://www.ncbi.nlm.nih.gov/gene/374101
 species: Gallus gallus
 symbol: SCX
 title: SCX
@@ -622,9 +616,8 @@ title: SCX
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000260428](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000260428) | [642658](https://www.ncbi.nlm.nih.gov/gene/642658) | [MIM:609067](https://omim.org/entry/609067) |  |
+| Mouse | [ENSMUSG00000034161](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034161) | [20289](https://www.ncbi.nlm.nih.gov/gene/20289) | [MGI:102934](http://www.informatics.jax.org/marker/MGI:102934) |  |
+| Xenopus |  | [100490170](https://www.ncbi.nlm.nih.gov/gene/100490170) |  |  |
+| Zebrafish | [ENSDARG00000035695](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035695) | [100034489](https://www.ncbi.nlm.nih.gov/gene/100034489) | [ZFIN:ZDB-GENE-060503-414](https://zfin.org/ZDB-GENE-060503-414) | developmental process, regulation of transcription by RNA polymerase II, striated muscle tissue development, tendon formation |
 

@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:429470
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_427026
-gene_id: '462326'
+gene_id: '429470'
 gene_type: protein-coding
 images:
 - caption: SCRIB expression
@@ -117,7 +117,7 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/H12.48.24som.jpg
 name: scribbled planar cell polarity protein
-ncbi_id: '462326'
+ncbi_id: '429470'
 orthologs:
 - ensembl: ''
   entrez: '44448'
@@ -142,15 +142,15 @@ orthologs:
 - ensembl: ENSDARG00000000861
   entrez: '368473'
   mod: ZFIN:ZDB-GENE-030616-572
-  phenotypes: ZDB-GENE-030616-572
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462326
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=429470
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462326
+  url: https://www.ncbi.nlm.nih.gov/gene/429470
 species: Gallus gallus
 symbol: SCRIB
 title: SCRIB
@@ -178,5 +178,5 @@ title: SCRIB
 | Human | [ENSG00000180900](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000180900) | [23513](https://www.ncbi.nlm.nih.gov/gene/23513) | [MIM:607733](https://omim.org/entry/607733) |  |
 | Mouse | [ENSMUSG00000022568](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022568) | [105782](https://www.ncbi.nlm.nih.gov/gene/105782) | [MGI:2145950](http://www.informatics.jax.org/marker/MGI:2145950) | All phenotypic alleles (3):Spontaneous(2) Chemically induced(1) |
 | Xenopus |  | [100494581](https://www.ncbi.nlm.nih.gov/gene/100494581), [100127343](https://www.ncbi.nlm.nih.gov/gene/100127343) | [1018500](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1018500) |  |
-| Zebrafish | [ENSDARG00000000861](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000000861) | [368473](https://www.ncbi.nlm.nih.gov/gene/368473) | [ZFIN:ZDB-GENE-030616-572](https://zfin.org/ZDB-GENE-030616-572) | ZDB-GENE-030616-572 |
+| Zebrafish | [ENSDARG00000000861](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000000861) | [368473](https://www.ncbi.nlm.nih.gov/gene/368473) | [ZFIN:ZDB-GENE-030616-572](https://zfin.org/ZDB-GENE-030616-572) |  |
 

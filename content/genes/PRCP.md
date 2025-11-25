@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428096
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425654
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/PRCP
-gene_id: '459783'
+gene_id: '428096'
 gene_type: protein-coding
 images:
 - caption: PRCP expression
@@ -36,13 +36,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F5.prcp.png
 name: prolylcarboxypeptidase
-ncbi_id: '459783'
+ncbi_id: '428096'
 orthologs:
-- ensembl: ''
-  entrez: '35316'
-  mod: FBgn0032864
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000137509
   entrez: '5547'
   mod: MIM:176785
@@ -53,20 +48,22 @@ orthologs:
   mod: MGI:1919711
   phenotypes: All phenotypic alleles (3):Targeted, other(1) Gene trapped(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000023175
   entrez: '780095'
-  mod: '487837'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000037883
   entrez: '436967'
   mod: ZFIN:ZDB-GENE-040718-447
-  phenotypes: ZDB-GENE-040718-447
+  phenotypes: angiogenesis involved in wound healing, negative regulation of systemic
+    arterial blood pressure, proteolysis, regulation of blood vessel endothelial cell
+    migration
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459783
+  url: https://www.ncbi.nlm.nih.gov/gene/428096
 species: Gallus gallus
 symbol: PRCP
 title: PRCP
@@ -95,9 +92,8 @@ title: PRCP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35316](https://www.ncbi.nlm.nih.gov/gene/35316) | FBgn0032864 |  |
 | Human | [ENSG00000137509](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137509) | [5547](https://www.ncbi.nlm.nih.gov/gene/5547) | [MIM:176785](https://omim.org/entry/176785) |  |
 | Mouse | [ENSMUSG00000061119](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061119) | [72461](https://www.ncbi.nlm.nih.gov/gene/72461) | [MGI:1919711](http://www.informatics.jax.org/marker/MGI:1919711) | All phenotypic alleles (3):Targeted, other(1) Gene trapped(2) |
-| Xenopus |  | [780095](https://www.ncbi.nlm.nih.gov/gene/780095) | [487837](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487837) |  |
-| Zebrafish | [ENSDARG00000037883](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037883) | [436967](https://www.ncbi.nlm.nih.gov/gene/436967) | [ZFIN:ZDB-GENE-040718-447](https://zfin.org/ZDB-GENE-040718-447) | ZDB-GENE-040718-447 |
+| Xenopus | [ENSXETG00000023175](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023175) | [780095](https://www.ncbi.nlm.nih.gov/gene/780095) |  |  |
+| Zebrafish | [ENSDARG00000037883](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037883) | [436967](https://www.ncbi.nlm.nih.gov/gene/436967) | [ZFIN:ZDB-GENE-040718-447](https://zfin.org/ZDB-GENE-040718-447) | angiogenesis involved in wound healing, negative regulation of systemic arterial blood pressure, proteolysis, regulation of blood vessel endothelial cell migration |
 

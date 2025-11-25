@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426933
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277594
 forward_primer: 5’-AACGGATGGAGCGTTGTCTT-3’
-gene_id: '459626'
+gene_id: '426933'
 gene_type: protein-coding
 images:
 - caption: FIBIN expression
@@ -107,16 +107,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R668.FIBIN.S26.001.jpg
 name: fin bud initiation factor homolog
-ncbi_id: '459626'
+ncbi_id: '426933'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000176971
   entrez: '387758'
-  mod: ''
+  mod: MIM:617085
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000074971
@@ -124,24 +119,19 @@ orthologs:
   mod: MGI:1914856
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000004609
   entrez: '100379798'
-  mod: '1006987'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000039949
-  entrez: 550571,553370
-  mod: ZFIN:ZDB-GENE-050417-423,ZFIN:ZDB-GENE-111031-2
-  phenotypes: ZDB-GENE-050417-423,ZDB-GENE-111031-2
-  species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGCATCCAAGCAGTGATGCAGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459626
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426933
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459626
+  url: https://www.ncbi.nlm.nih.gov/gene/426933
 species: Gallus gallus
 symbol: FIBIN
 template_length: '645'
@@ -164,9 +154,7 @@ title: FIBIN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [387758](https://www.ncbi.nlm.nih.gov/gene/387758) |  |  |
+| Human | [ENSG00000176971](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000176971) | [387758](https://www.ncbi.nlm.nih.gov/gene/387758) | [MIM:617085](https://omim.org/entry/617085) |  |
 | Mouse | [ENSMUSG00000074971](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000074971) | [67606](https://www.ncbi.nlm.nih.gov/gene/67606) | [MGI:1914856](http://www.informatics.jax.org/marker/MGI:1914856) |  |
-| Xenopus |  | [100379798](https://www.ncbi.nlm.nih.gov/gene/100379798) | [1006987](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1006987) |  |
-| Zebrafish | [ENSDARG00000039949](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039949) | [550571](https://www.ncbi.nlm.nih.gov/gene/550571), [553370](https://www.ncbi.nlm.nih.gov/gene/553370) | [ZFIN:ZDB-GENE-050417-423](https://zfin.org/ZDB-GENE-050417-423), [ZFIN:ZDB-GENE-111031-2](https://zfin.org/ZDB-GENE-111031-2) | ZDB-GENE-050417-423,ZDB-GENE-111031-2 |
+| Xenopus | [ENSXETG00000004609](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004609) | [100379798](https://www.ncbi.nlm.nih.gov/gene/100379798) |  |  |
 

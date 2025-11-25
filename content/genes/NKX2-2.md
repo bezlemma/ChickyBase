@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428549
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277718
-gene_id: '461093'
+gene_id: '428549'
 gene_type: protein-coding
 images:
 - caption: NKX2-2 expression
@@ -187,13 +187,8 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhu.2001.Fig1.Q.jpg
 name: NK2 homeobox 2
-ncbi_id: '461093'
+ncbi_id: '428549'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000125820
   entrez: '4821'
   mod: MIM:604612
@@ -204,20 +199,21 @@ orthologs:
   mod: MGI:97347
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100038077,373624
-  mod: '482218'
+- ensembl: ENSXETG00000023499
+  entrez: '100038077'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000053298,ENSDARG00000052550
-  entrez: 30697,493627
-  mod: ZFIN:ZDB-GENE-980526-403,ZFIN:ZDB-GENE-050217-3
-  phenotypes: ZDB-GENE-980526-403,ZDB-GENE-050217-3
+- ensembl: ENSDARG00000053298
+  entrez: '30697'
+  mod: ZFIN:ZDB-GENE-980526-403
+  phenotypes: Schwann cell development, cell differentiation, endocrine pancreas development,
+    floor plate development, floor plate formation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461093
+  url: https://www.ncbi.nlm.nih.gov/gene/428549
 species: Gallus gallus
 symbol: NKX2-2
 title: NKX2-2
@@ -243,9 +239,8 @@ title: NKX2-2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000125820](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125820) | [4821](https://www.ncbi.nlm.nih.gov/gene/4821) | [MIM:604612](https://omim.org/entry/604612) |  |
 | Mouse | [ENSMUSG00000027434](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027434) | [18088](https://www.ncbi.nlm.nih.gov/gene/18088) | [MGI:97347](http://www.informatics.jax.org/marker/MGI:97347) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100038077](https://www.ncbi.nlm.nih.gov/gene/100038077), [373624](https://www.ncbi.nlm.nih.gov/gene/373624) | [482218](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482218) |  |
-| Zebrafish | [ENSDARG00000053298](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053298), [ENSDARG00000052550](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052550) | [30697](https://www.ncbi.nlm.nih.gov/gene/30697), [493627](https://www.ncbi.nlm.nih.gov/gene/493627) | [ZFIN:ZDB-GENE-980526-403](https://zfin.org/ZDB-GENE-980526-403), [ZFIN:ZDB-GENE-050217-3](https://zfin.org/ZDB-GENE-050217-3) | ZDB-GENE-980526-403,ZDB-GENE-050217-3 |
+| Xenopus | [ENSXETG00000023499](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023499) | [100038077](https://www.ncbi.nlm.nih.gov/gene/100038077) |  |  |
+| Zebrafish | [ENSDARG00000053298](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053298) | [30697](https://www.ncbi.nlm.nih.gov/gene/30697) | [ZFIN:ZDB-GENE-980526-403](https://zfin.org/ZDB-GENE-980526-403) | Schwann cell development, cell differentiation, endocrine pancreas development, floor plate development, floor plate formation |
 

@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420197
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006346
-gene_id: '457081'
+gene_id: '420197'
 gene_type: protein-coding
 images:
 - caption: FABP5 expression
@@ -94,13 +94,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-figS1-B.jpg
 name: fatty acid binding protein 5
-ncbi_id: '457081'
+ncbi_id: '420197'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164687
   entrez: '2171'
   mod: MIM:605168
@@ -111,20 +106,10 @@ orthologs:
   mod: MGI:101790
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457081
+  url: https://www.ncbi.nlm.nih.gov/gene/420197
 species: Gallus gallus
 symbol: FABP5
 title: FABP5
@@ -150,9 +135,6 @@ title: FABP5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164687](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164687) | [2171](https://www.ncbi.nlm.nih.gov/gene/2171) | [MIM:605168](https://omim.org/entry/605168) |  |
 | Mouse | [ENSMUSG00000027533](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027533) | [16592](https://www.ncbi.nlm.nih.gov/gene/16592) | [MGI:101790](http://www.informatics.jax.org/marker/MGI:101790) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
 

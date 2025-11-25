@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769109
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001097533
-gene_id: '462297'
+gene_id: '769109'
 gene_type: protein-coding
 images:
 - caption: ARR3 expression
@@ -53,13 +53,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.BRADFORD.2005.jpg
 name: arrestin 3
-ncbi_id: '462297'
+ncbi_id: '769109'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000120500
   entrez: '407'
   mod: MIM:301770
@@ -70,20 +65,16 @@ orthologs:
   mod: MGI:2159617
   phenotypes: All phenotypic alleles (4):Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100124859,398046
-  mod: '966158'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000056511
-  entrez: 796867,436678
-  mod: ZFIN:ZDB-GENE-030616-74,ZFIN:ZDB-GENE-040718-102
-  phenotypes: ZDB-GENE-030616-74,ZDB-GENE-040718-102
+  entrez: '436678'
+  mod: ZFIN:ZDB-GENE-040718-102
+  phenotypes: G protein-coupled receptor internalization, nervous system development,
+    signal transduction, visual perception
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462297
+  url: https://www.ncbi.nlm.nih.gov/gene/769109
 species: Gallus gallus
 symbol: ARR3
 title: ARR3
@@ -109,9 +100,7 @@ title: ARR3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000120500](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000120500) | [407](https://www.ncbi.nlm.nih.gov/gene/407) | [MIM:301770](https://omim.org/entry/301770) |  |
 | Mouse | [ENSMUSG00000060890](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000060890) | [170735](https://www.ncbi.nlm.nih.gov/gene/170735) | [MGI:2159617](http://www.informatics.jax.org/marker/MGI:2159617) | All phenotypic alleles (4):Targeted, other(4) |
-| Xenopus |  | [100124859](https://www.ncbi.nlm.nih.gov/gene/100124859), [398046](https://www.ncbi.nlm.nih.gov/gene/398046) | [966158](http://www.xenbase.org/gene/showgene.do?method=display&geneId=966158) |  |
-| Zebrafish | [ENSDARG00000056511](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056511) | [796867](https://www.ncbi.nlm.nih.gov/gene/796867), [436678](https://www.ncbi.nlm.nih.gov/gene/436678) | [ZFIN:ZDB-GENE-030616-74](https://zfin.org/ZDB-GENE-030616-74), [ZFIN:ZDB-GENE-040718-102](https://zfin.org/ZDB-GENE-040718-102) | ZDB-GENE-030616-74,ZDB-GENE-040718-102 |
+| Zebrafish | [ENSDARG00000056511](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056511) | [436678](https://www.ncbi.nlm.nih.gov/gene/436678) | [ZFIN:ZDB-GENE-040718-102](https://zfin.org/ZDB-GENE-040718-102) | G protein-coupled receptor internalization, nervous system development, signal transduction, visual perception |
 

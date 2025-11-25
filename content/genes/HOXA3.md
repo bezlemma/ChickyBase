@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395231
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204548
-gene_id: '461447'
+gene_id: '395231'
 gene_type: protein-coding
 images:
 - caption: HOXA3 expression
@@ -280,13 +280,8 @@ images:
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA3.Garcia-Dominguez.2006.Fig.3.png
 name: homeobox A3
-ncbi_id: '461447'
+ncbi_id: '395231'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000105997
   entrez: '3200'
   mod: MIM:142954
@@ -297,20 +292,22 @@ orthologs:
   mod: MGI:96175
   phenotypes: All phenotypic alleles (12):Targeted, knock-out(2) Targeted, other(10)
   species: Mouse
-- ensembl: ''
-  entrez: 100151729,379985
-  mod: '482266'
+- ensembl: ENSXETG00000000717
+  entrez: '100151729'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000036231
+- ensembl: ENSDARG00000103862
   entrez: '58049'
   mod: ZFIN:ZDB-GENE-000823-3
-  phenotypes: ZDB-GENE-000823-3
+  phenotypes: anterior/posterior pattern specification, embryonic skeletal system
+    morphogenesis, parathyroid gland development, regulation of DNA-templated transcription,
+    regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461447
+  url: https://www.ncbi.nlm.nih.gov/gene/395231
 species: Gallus gallus
 symbol: HOXA3
 title: HOXA3
@@ -339,9 +336,8 @@ title: HOXA3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000105997](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000105997) | [3200](https://www.ncbi.nlm.nih.gov/gene/3200) | [MIM:142954](https://omim.org/entry/142954) |  |
 | Mouse | [ENSMUSG00000079560](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000079560) | [15400](https://www.ncbi.nlm.nih.gov/gene/15400) | [MGI:96175](http://www.informatics.jax.org/marker/MGI:96175) | All phenotypic alleles (12):Targeted, knock-out(2) Targeted, other(10) |
-| Xenopus |  | [100151729](https://www.ncbi.nlm.nih.gov/gene/100151729), [379985](https://www.ncbi.nlm.nih.gov/gene/379985) | [482266](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482266) |  |
-| Zebrafish | [ENSDARG00000036231](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036231) | [58049](https://www.ncbi.nlm.nih.gov/gene/58049) | [ZFIN:ZDB-GENE-000823-3](https://zfin.org/ZDB-GENE-000823-3) | ZDB-GENE-000823-3 |
+| Xenopus | [ENSXETG00000000717](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000717) | [100151729](https://www.ncbi.nlm.nih.gov/gene/100151729) |  |  |
+| Zebrafish | [ENSDARG00000103862](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000103862) | [58049](https://www.ncbi.nlm.nih.gov/gene/58049) | [ZFIN:ZDB-GENE-000823-3](https://zfin.org/ZDB-GENE-000823-3) | anterior/posterior pattern specification, embryonic skeletal system morphogenesis, parathyroid gland development, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

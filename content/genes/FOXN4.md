@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416898
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001083359
-gene_id: '461787'
+gene_id: '416898'
 gene_type: protein-coding
 images:
 - caption: FOXN4 expression
@@ -240,37 +240,33 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FoxN4.Boije.2008.Fig3.jpg
 name: forkhead box N4
-ncbi_id: '461787'
+ncbi_id: '416898'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000139445
+  entrez: '121643'
+  mod: MIM:609429
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000042002
+  entrez: '116810'
+  mod: MGI:2151057
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000018573
+  entrez: '100124918'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000010591
+  entrez: '30315'
+  mod: ZFIN:ZDB-GENE-990415-277
+  phenotypes: amacrine cell differentiation, atrioventricular canal development, heart
+    looping, heart valve development, nervous system development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461787
+  url: https://www.ncbi.nlm.nih.gov/gene/416898
 species: Gallus gallus
 symbol: FOXN4
 title: FOXN4
@@ -296,9 +292,8 @@ title: FOXN4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000139445](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139445) | [121643](https://www.ncbi.nlm.nih.gov/gene/121643) | [MIM:609429](https://omim.org/entry/609429) |  |
+| Mouse | [ENSMUSG00000042002](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042002) | [116810](https://www.ncbi.nlm.nih.gov/gene/116810) | [MGI:2151057](http://www.informatics.jax.org/marker/MGI:2151057) |  |
+| Xenopus | [ENSXETG00000018573](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018573) | [100124918](https://www.ncbi.nlm.nih.gov/gene/100124918) |  |  |
+| Zebrafish | [ENSDARG00000010591](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010591) | [30315](https://www.ncbi.nlm.nih.gov/gene/30315) | [ZFIN:ZDB-GENE-990415-277](https://zfin.org/ZDB-GENE-990415-277) | amacrine cell differentiation, atrioventricular canal development, heart looping, heart valve development, nervous system development |
 

@@ -5,7 +5,6 @@ aliases:
 - keratan sulfate proteoglycan keratocan
 cgnc_id: '48995'
 external_ids:
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0061303
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005578
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Chakravarti+2006+keratocan
@@ -17,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373995
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204176
-gene_id: '451457'
+gene_id: '373995'
 gene_type: protein-coding
 images:
 - caption: KERA expression
@@ -84,13 +83,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KERA.Chakravarti.2006.Fig1.jpg
 name: keratocan
-ncbi_id: '451457'
+ncbi_id: '373995'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000139330
   entrez: '11081'
   mod: MIM:603288
@@ -101,20 +95,20 @@ orthologs:
   mod: MGI:1202398
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000025479
   entrez: '100486796'
-  mod: '1012701'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000056938
   entrez: '567017'
   mod: ZFIN:ZDB-GENE-041210-165
-  phenotypes: ZDB-GENE-041210-165
+  phenotypes: visual perception
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451457
+  url: https://www.ncbi.nlm.nih.gov/gene/373995
 species: Gallus gallus
 symbol: KERA
 title: KERA
@@ -142,9 +136,8 @@ title: KERA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000139330](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139330) | [11081](https://www.ncbi.nlm.nih.gov/gene/11081) | [MIM:603288](https://omim.org/entry/603288) | MIM:217300 |
 | Mouse | [ENSMUSG00000019932](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019932) | [16545](https://www.ncbi.nlm.nih.gov/gene/16545) | [MGI:1202398](http://www.informatics.jax.org/marker/MGI:1202398) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100486796](https://www.ncbi.nlm.nih.gov/gene/100486796) | [1012701](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1012701) |  |
-| Zebrafish |  | [567017](https://www.ncbi.nlm.nih.gov/gene/567017) | [ZFIN:ZDB-GENE-041210-165](https://zfin.org/ZDB-GENE-041210-165) | ZDB-GENE-041210-165 |
+| Xenopus | [ENSXETG00000025479](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025479) | [100486796](https://www.ncbi.nlm.nih.gov/gene/100486796) |  |  |
+| Zebrafish | [ENSDARG00000056938](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056938) | [567017](https://www.ncbi.nlm.nih.gov/gene/567017) | [ZFIN:ZDB-GENE-041210-165](https://zfin.org/ZDB-GENE-041210-165) | visual perception |
 

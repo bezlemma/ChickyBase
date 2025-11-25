@@ -3,7 +3,6 @@ aliases:
 - ALS2 C-terminal-like protein
 cgnc_id: '4046'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/428401
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428401

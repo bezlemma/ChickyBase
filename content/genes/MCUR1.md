@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420837
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418928
 forward_primer: 5'-ACTGTAGCACTGGGATTCTATCG-3'
-gene_id: '454350'
+gene_id: '420837'
 gene_type: protein-coding
 images:
 - caption: MCUR1 expression
@@ -95,16 +95,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R629.CCDC90A.S26AA.001.jpg
 name: mitochondrial calcium uniporter regulator 1
-ncbi_id: '454350'
+ncbi_id: '420837'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000050393
   entrez: '63933'
-  mod: ''
+  mod: MIM:616952
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000021371
@@ -112,24 +107,19 @@ orthologs:
   mod: MGI:1923387
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 780306,100158282
-  mod: '995494'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000002272
+  entrez: '780306'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: 5'-AATTAACCCTCACTAAAGGCTCAGGTCCTCAGGTATGACAC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454350
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420837
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454350
+  url: https://www.ncbi.nlm.nih.gov/gene/420837
 species: Gallus gallus
 symbol: MCUR1
 template_length: '961'
@@ -152,9 +142,7 @@ title: MCUR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000050393](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000050393) | [63933](https://www.ncbi.nlm.nih.gov/gene/63933) |  |  |
+| Human | [ENSG00000050393](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000050393) | [63933](https://www.ncbi.nlm.nih.gov/gene/63933) | [MIM:616952](https://omim.org/entry/616952) |  |
 | Mouse | [ENSMUSG00000021371](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021371) | [76137](https://www.ncbi.nlm.nih.gov/gene/76137) | [MGI:1923387](http://www.informatics.jax.org/marker/MGI:1923387) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [780306](https://www.ncbi.nlm.nih.gov/gene/780306), [100158282](https://www.ncbi.nlm.nih.gov/gene/100158282) | [995494](http://www.xenbase.org/gene/showgene.do?method=display&geneId=995494) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000002272](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002272) | [780306](https://www.ncbi.nlm.nih.gov/gene/780306) |  |  |
 

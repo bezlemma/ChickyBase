@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423045
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031181
-gene_id: '449758'
+gene_id: '423045'
 gene_type: protein-coding
 images:
 - caption: WEE1 expression
@@ -27,38 +27,29 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-fig5-Wee1.JPG
 name: WEE1 G2 checkpoint kinase
-ncbi_id: '449758'
+ncbi_id: '423045'
 orthologs:
-- ensembl: ''
-  entrez: '33965'
-  mod: FBgn0011737
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000166483
   entrez: '7465'
   mod: MIM:193525
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000031016
   entrez: '22390'
   mod: MGI:103075
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(1)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100145524,399355
-  mod: '6492074'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000093864
   entrez: '327060'
   mod: ZFIN:ZDB-GENE-030131-5268
-  phenotypes: ZDB-GENE-030131-5268
+  phenotypes: cell division, mitotic cell cycle, negative regulation of G2/M transition
+    of mitotic cell cycle, phosphorylation, protein phosphorylation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449758
+  url: https://www.ncbi.nlm.nih.gov/gene/423045
 species: Gallus gallus
 symbol: WEE1
 title: WEE1
@@ -86,9 +77,7 @@ title: WEE1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33965](https://www.ncbi.nlm.nih.gov/gene/33965) | FBgn0011737 |  |
 | Human | [ENSG00000166483](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166483) | [7465](https://www.ncbi.nlm.nih.gov/gene/7465) | [MIM:193525](https://omim.org/entry/193525) |  |
-| Mouse |  | [22390](https://www.ncbi.nlm.nih.gov/gene/22390) | [MGI:103075](http://www.informatics.jax.org/marker/MGI:103075) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(1) Gene trapped(1) |
-| Xenopus |  | [100145524](https://www.ncbi.nlm.nih.gov/gene/100145524), [399355](https://www.ncbi.nlm.nih.gov/gene/399355) | [6492074](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6492074) |  |
-| Zebrafish | [ENSDARG00000093864](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000093864) | [327060](https://www.ncbi.nlm.nih.gov/gene/327060) | [ZFIN:ZDB-GENE-030131-5268](https://zfin.org/ZDB-GENE-030131-5268) | ZDB-GENE-030131-5268 |
+| Mouse | [ENSMUSG00000031016](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031016) | [22390](https://www.ncbi.nlm.nih.gov/gene/22390) | [MGI:103075](http://www.informatics.jax.org/marker/MGI:103075) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(1) Gene trapped(1) |
+| Zebrafish | [ENSDARG00000093864](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000093864) | [327060](https://www.ncbi.nlm.nih.gov/gene/327060) | [ZFIN:ZDB-GENE-030131-5268](https://zfin.org/ZDB-GENE-030131-5268) | cell division, mitotic cell cycle, negative regulation of G2/M transition of mitotic cell cycle, phosphorylation, protein phosphorylation |
 

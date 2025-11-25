@@ -125,7 +125,7 @@ orthologs:
 - ensembl: ENSDARG00000006389
   entrez: '30639'
   mod: ZFIN:ZDB-GENE-990603-7
-  phenotypes: ZDB-GENE-990603-7
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTGGGGCTCTGAACAAAAATCG
 sources:
@@ -161,5 +161,5 @@ title: SMAD2Z
 | Human | [ENSG00000175387](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000175387) | [4087](https://www.ncbi.nlm.nih.gov/gene/4087) | [MIM:601366](https://omim.org/entry/601366) |  |
 | Mouse |  | [17126](https://www.ncbi.nlm.nih.gov/gene/17126) | [MGI:108051](http://www.informatics.jax.org/marker/MGI:108051) | All phenotypic alleles (21):Chemically induced(1) Targeted, knock-out(11) Targeted, other(9) |
 | Xenopus |  | [496586](https://www.ncbi.nlm.nih.gov/gene/496586), [432023](https://www.ncbi.nlm.nih.gov/gene/432023) | [482929](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482929) |  |
-| Zebrafish | [ENSDARG00000006389](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006389) | [30639](https://www.ncbi.nlm.nih.gov/gene/30639) | [ZFIN:ZDB-GENE-990603-7](https://zfin.org/ZDB-GENE-990603-7) | ZDB-GENE-990603-7 |
+| Zebrafish | [ENSDARG00000006389](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006389) | [30639](https://www.ncbi.nlm.nih.gov/gene/30639) | [ZFIN:ZDB-GENE-990603-7](https://zfin.org/ZDB-GENE-990603-7) |  |
 

@@ -3,7 +3,6 @@ aliases:
 - neuropilin-1, neuropilin-1
 cgnc_id: '5395'
 external_ids:
-  '25': stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0001525
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=
@@ -18,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0019838
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204782
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/NRP1
-gene_id: '449537'
+gene_id: '395560'
 gene_type: protein-coding
 images:
 - caption: NRP1 expression
@@ -284,13 +283,8 @@ images:
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NP1.Herzog.2005.Fig.4.png
 name: neuropilin 1
-ncbi_id: '449537'
+ncbi_id: '395560'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000099250
   entrez: '8829'
   mod: MIM:602069
@@ -301,23 +295,24 @@ orthologs:
   mod: MGI:106206
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100101701,397804
-  mod: '480687'
+- ensembl: ENSXETG00000012629
+  entrez: '100101701'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000071865,ENSDARG00000027290
-  entrez: 353246,402973
-  mod: ZFIN:ZDB-GENE-030519-2,ZFIN:ZDB-GENE-040611-1
-  phenotypes: ZDB-GENE-030519-2,ZDB-GENE-040611-1
+- ensembl: ENSDARG00000102153
+  entrez: '353246'
+  mod: ZFIN:ZDB-GENE-030519-2
+  phenotypes: angiogenesis, angiogenesis involved in wound healing, axon extension,
+    axon guidance, axonal fasciculation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449537
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395560
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449537
+  url: https://www.ncbi.nlm.nih.gov/gene/395560
 species: Gallus gallus
 symbol: NRP1
 title: NRP1
@@ -347,9 +342,8 @@ title: NRP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000099250](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000099250) | [8829](https://www.ncbi.nlm.nih.gov/gene/8829) | [MIM:602069](https://omim.org/entry/602069) |  |
 | Mouse | [ENSMUSG00000025810](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025810) | [18186](https://www.ncbi.nlm.nih.gov/gene/18186) | [MGI:106206](http://www.informatics.jax.org/marker/MGI:106206) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [100101701](https://www.ncbi.nlm.nih.gov/gene/100101701), [397804](https://www.ncbi.nlm.nih.gov/gene/397804) | [480687](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480687) |  |
-| Zebrafish | [ENSDARG00000071865](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071865), [ENSDARG00000027290](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027290) | [353246](https://www.ncbi.nlm.nih.gov/gene/353246), [402973](https://www.ncbi.nlm.nih.gov/gene/402973) | [ZFIN:ZDB-GENE-030519-2](https://zfin.org/ZDB-GENE-030519-2), [ZFIN:ZDB-GENE-040611-1](https://zfin.org/ZDB-GENE-040611-1) | ZDB-GENE-030519-2,ZDB-GENE-040611-1 |
+| Xenopus | [ENSXETG00000012629](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012629) | [100101701](https://www.ncbi.nlm.nih.gov/gene/100101701) |  |  |
+| Zebrafish | [ENSDARG00000102153](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000102153) | [353246](https://www.ncbi.nlm.nih.gov/gene/353246) | [ZFIN:ZDB-GENE-030519-2](https://zfin.org/ZDB-GENE-030519-2) | angiogenesis, angiogenesis involved in wound healing, axon extension, axon guidance, axonal fasciculation |
 

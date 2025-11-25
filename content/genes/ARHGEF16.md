@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419386
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417549
 forward_primer: TGAGTCGGACGAGGATTTG
-gene_id: '463564'
+gene_id: '419386'
 gene_type: protein-coding
 images:
 - caption: ARHGEF16 expression
@@ -110,41 +110,31 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R389.ARHGEF16.S23.001.jpg
 name: Rho guanine nucleotide exchange factor 16
-ncbi_id: '463564'
+ncbi_id: '419386'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000130762
+  entrez: '27237'
+  mod: MIM:618871
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000029032
+  entrez: '230972'
+  mod: MGI:2446219
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000077114
+  entrez: '567180'
+  mod: ZFIN:ZDB-GENE-081104-446
+  phenotypes: regulation of actin cytoskeleton organization
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCAGAGGAGAGCAGGTAGAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463564
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419386
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463564
+  url: https://www.ncbi.nlm.nih.gov/gene/419386
 species: Gallus gallus
 symbol: ARHGEF16
 template_length: '855'
@@ -166,9 +156,7 @@ title: ARHGEF16
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000130762](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000130762) | [27237](https://www.ncbi.nlm.nih.gov/gene/27237) | [MIM:618871](https://omim.org/entry/618871) |  |
+| Mouse | [ENSMUSG00000029032](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029032) | [230972](https://www.ncbi.nlm.nih.gov/gene/230972) | [MGI:2446219](http://www.informatics.jax.org/marker/MGI:2446219) |  |
+| Zebrafish | [ENSDARG00000077114](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077114) | [567180](https://www.ncbi.nlm.nih.gov/gene/567180) | [ZFIN:ZDB-GENE-081104-446](https://zfin.org/ZDB-GENE-081104-446) | regulation of actin cytoskeleton organization |
 

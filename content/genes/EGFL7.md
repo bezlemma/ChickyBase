@@ -1,7 +1,6 @@
 ---
 cgnc_id: '1724'
 external_ids:
-  '4': stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Alev+Jakt+Ueda+landscape
   Comments: "The probe for EGFL7 was amplified by PCR using the following primers:\
     \ \r\nForward Primer: TACCTGCCCTACCTCACCAC\r\nReverse Primer: GTTTCTGCTCCAGTGCTTCC\r\
@@ -14,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417137
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415421
 forward_primer: CAGGACCATCTACAAGGTTGCC
-gene_id: '454525'
+gene_id: '417137'
 gene_type: protein-coding
 images:
 - caption: EGFL7 expression
@@ -243,13 +242,8 @@ images:
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EGFL7.Alev.2010.png
 name: EGF like domain multiple 7
-ncbi_id: '454525'
+ncbi_id: '417137'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000172889
   entrez: '51162'
   mod: MIM:608582
@@ -261,24 +255,24 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(1) Targeted, other(4)
     Gene trapped(2)
   species: Mouse
-- ensembl: ''
-  entrez: 780371,379835
-  mod: '491412'
+- ensembl: ENSXETG00000000762
+  entrez: '780371'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000043376
+- ensembl: ENSDARG00000100657
   entrez: '678640'
   mod: ZFIN:ZDB-GENE-040429-2
-  phenotypes: ZDB-GENE-040429-2
+  phenotypes: vasculogenesis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGTGTCACAGGGAAAGGTTTTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454525
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417137
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454525
+  url: https://www.ncbi.nlm.nih.gov/gene/417137
 species: Gallus gallus
 symbol: EGFL7
 template_length: '1071'
@@ -308,9 +302,8 @@ Base Pair Numbers 335 - 830
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000172889](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000172889) | [51162](https://www.ncbi.nlm.nih.gov/gene/51162) | [MIM:608582](https://omim.org/entry/608582) |  |
 | Mouse | [ENSMUSG00000026921](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026921) | [353156](https://www.ncbi.nlm.nih.gov/gene/353156) | [MGI:2449923](http://www.informatics.jax.org/marker/MGI:2449923) | All phenotypic alleles (7):Targeted, knock-out(1) Targeted, other(4) Gene trapped(2) |
-| Xenopus |  | [780371](https://www.ncbi.nlm.nih.gov/gene/780371), [379835](https://www.ncbi.nlm.nih.gov/gene/379835) | [491412](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491412) |  |
-| Zebrafish | [ENSDARG00000043376](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043376) | [678640](https://www.ncbi.nlm.nih.gov/gene/678640) | [ZFIN:ZDB-GENE-040429-2](https://zfin.org/ZDB-GENE-040429-2) | ZDB-GENE-040429-2 |
+| Xenopus | [ENSXETG00000000762](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000762) | [780371](https://www.ncbi.nlm.nih.gov/gene/780371) |  |  |
+| Zebrafish | [ENSDARG00000100657](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000100657) | [678640](https://www.ncbi.nlm.nih.gov/gene/678640) | [ZFIN:ZDB-GENE-040429-2](https://zfin.org/ZDB-GENE-040429-2) | vasculogenesis |
 

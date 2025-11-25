@@ -11,7 +11,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204104
 forward_primer: AGTGGAGGCGGCAGGAGAAG
-gene_id: '459351'
+gene_id: '373893'
 gene_type: protein-coding
 images:
 - caption: RAX2 expression
@@ -78,41 +78,28 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R329.RAX.S25.001.jpg
 name: retina and anterior neural fold homeobox 2
-ncbi_id: '459351'
+ncbi_id: '373893'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000031298
+  entrez: '100494721'
   mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: 100038124,397999,397998
-  mod: '492664'
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000071684,ENSDARG00000040321
-  entrez: 30472,30473
-  mod: ZFIN:ZDB-GENE-990415-236,ZFIN:ZDB-GENE-990415-237
-  phenotypes: ZDB-GENE-990415-236,ZDB-GENE-990415-237
+- ensembl: ENSDARG00000040321
+  entrez: '30473'
+  mod: ZFIN:ZDB-GENE-990415-237
+  phenotypes: camera-type eye morphogenesis, camera-type eye photoreceptor cell differentiation,
+    cell differentiation, nervous system development, positive regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTAGGGAGCAGTGGGGAGCGTTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459351
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373893
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459351
+  url: https://www.ncbi.nlm.nih.gov/gene/373893
 species: Gallus gallus
 symbol: RAX2
 template_length: '442'
@@ -137,9 +124,6 @@ title: RAX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100038124](https://www.ncbi.nlm.nih.gov/gene/100038124), [397999](https://www.ncbi.nlm.nih.gov/gene/397999), [397998](https://www.ncbi.nlm.nih.gov/gene/397998) | [492664](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492664) |  |
-| Zebrafish | [ENSDARG00000071684](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071684), [ENSDARG00000040321](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040321) | [30472](https://www.ncbi.nlm.nih.gov/gene/30472), [30473](https://www.ncbi.nlm.nih.gov/gene/30473) | [ZFIN:ZDB-GENE-990415-236](https://zfin.org/ZDB-GENE-990415-236), [ZFIN:ZDB-GENE-990415-237](https://zfin.org/ZDB-GENE-990415-237) | ZDB-GENE-990415-236,ZDB-GENE-990415-237 |
+| Xenopus | [ENSXETG00000031298](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031298) | [100494721](https://www.ncbi.nlm.nih.gov/gene/100494721) |  |  |
+| Zebrafish | [ENSDARG00000040321](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040321) | [30473](https://www.ncbi.nlm.nih.gov/gene/30473) | [ZFIN:ZDB-GENE-990415-237](https://zfin.org/ZDB-GENE-990415-237) | camera-type eye morphogenesis, camera-type eye photoreceptor cell differentiation, cell differentiation, nervous system development, positive regulation of transcription by RNA polymerase II |
 

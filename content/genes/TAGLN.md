@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396490
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205494
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/TAGLN
-gene_id: '363861'
+gene_id: '396490'
 gene_type: protein-coding
 images:
 - caption: TAGLN expression
@@ -41,13 +41,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SM22.FIG5FGH.WALDO.2005.jpg
 name: transgelin
-ncbi_id: '363861'
+ncbi_id: '396490'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000149591
   entrez: '6876'
   mod: MIM:600818
@@ -58,20 +53,20 @@ orthologs:
   mod: MGI:106012
   phenotypes: All phenotypic alleles (10):Targeted, other(10)
   species: Mouse
-- ensembl: ''
-  entrez: 594967,399014
-  mod: '489084'
+- ensembl: ENSXETG00000003757
+  entrez: '594967'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000045408
   entrez: '751758'
   mod: ZFIN:ZDB-GENE-070912-1
-  phenotypes: ZDB-GENE-070912-1
+  phenotypes: actin filament organization
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/363861
+  url: https://www.ncbi.nlm.nih.gov/gene/396490
 species: Gallus gallus
 symbol: TAGLN
 title: TAGLN
@@ -99,9 +94,8 @@ title: TAGLN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000149591](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000149591) | [6876](https://www.ncbi.nlm.nih.gov/gene/6876) | [MIM:600818](https://omim.org/entry/600818) |  |
 | Mouse | [ENSMUSG00000032085](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032085) | [21345](https://www.ncbi.nlm.nih.gov/gene/21345) | [MGI:106012](http://www.informatics.jax.org/marker/MGI:106012) | All phenotypic alleles (10):Targeted, other(10) |
-| Xenopus |  | [594967](https://www.ncbi.nlm.nih.gov/gene/594967), [399014](https://www.ncbi.nlm.nih.gov/gene/399014) | [489084](http://www.xenbase.org/gene/showgene.do?method=display&geneId=489084) |  |
-| Zebrafish |  | [751758](https://www.ncbi.nlm.nih.gov/gene/751758) | [ZFIN:ZDB-GENE-070912-1](https://zfin.org/ZDB-GENE-070912-1) | ZDB-GENE-070912-1 |
+| Xenopus | [ENSXETG00000003757](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003757) | [594967](https://www.ncbi.nlm.nih.gov/gene/594967) |  |  |
+| Zebrafish | [ENSDARG00000045408](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045408) | [751758](https://www.ncbi.nlm.nih.gov/gene/751758) | [ZFIN:ZDB-GENE-070912-1](https://zfin.org/ZDB-GENE-070912-1) | actin filament organization |
 

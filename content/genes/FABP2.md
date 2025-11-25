@@ -18,7 +18,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422678
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001007923
-gene_id: '452156'
+gene_id: '422678'
 gene_type: protein-coding
 images:
 - caption: FABP2 expression
@@ -50,13 +50,8 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig1.cIFABP.imageE
 name: fatty acid binding protein 2
-ncbi_id: '452156'
+ncbi_id: '422678'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000145384
   entrez: '2169'
   mod: MIM:134640
@@ -67,20 +62,21 @@ orthologs:
   mod: MGI:95478
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100101805,378690,496229
-  mod: '485136'
+- ensembl: ENSXETG00000004045
+  entrez: '100101805'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000006427
   entrez: '30708'
   mod: ZFIN:ZDB-GENE-991019-5
-  phenotypes: ZDB-GENE-991019-5
+  phenotypes: cholesterol homeostasis, fatty acid transport, response to lipid, triglyceride
+    homeostasis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452156
+  url: https://www.ncbi.nlm.nih.gov/gene/422678
 species: Gallus gallus
 symbol: FABP2
 title: FABP2
@@ -107,9 +103,8 @@ from cDNA clones of ...chicken IFABP ( cIFABP, MRC Geneservice, Cambridge)."  As
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000145384](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145384) | [2169](https://www.ncbi.nlm.nih.gov/gene/2169) | [MIM:134640](https://omim.org/entry/134640) |  |
 | Mouse | [ENSMUSG00000023057](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023057) | [14079](https://www.ncbi.nlm.nih.gov/gene/14079) | [MGI:95478](http://www.informatics.jax.org/marker/MGI:95478) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100101805](https://www.ncbi.nlm.nih.gov/gene/100101805), [378690](https://www.ncbi.nlm.nih.gov/gene/378690), [496229](https://www.ncbi.nlm.nih.gov/gene/496229) | [485136](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485136) |  |
-| Zebrafish | [ENSDARG00000006427](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006427) | [30708](https://www.ncbi.nlm.nih.gov/gene/30708) | [ZFIN:ZDB-GENE-991019-5](https://zfin.org/ZDB-GENE-991019-5) | ZDB-GENE-991019-5 |
+| Xenopus | [ENSXETG00000004045](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004045) | [100101805](https://www.ncbi.nlm.nih.gov/gene/100101805) |  |  |
+| Zebrafish | [ENSDARG00000006427](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006427) | [30708](https://www.ncbi.nlm.nih.gov/gene/30708) | [ZFIN:ZDB-GENE-991019-5](https://zfin.org/ZDB-GENE-991019-5) | cholesterol homeostasis, fatty acid transport, response to lipid, triglyceride homeostasis |
 

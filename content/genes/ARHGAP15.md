@@ -4,7 +4,6 @@ aliases:
 - rho-type GTPase-activating protein 15, TCF3
 cgnc_id: '9435'
 external_ids:
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0008360
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Comments: No expression detected at or before stage 7.
@@ -14,7 +13,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0030675
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001008476
 forward_primer: GAACTACAGTGCTTCTGACTC
-gene_id: '468738'
+gene_id: '424303'
 gene_type: protein-coding
 images:
 - caption: ARHGAP15 expression
@@ -68,13 +67,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R422.ARHGAP15.S25.001.jpg
 name: Rho GTPase activating protein 15
-ncbi_id: '468738'
+ncbi_id: '424303'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000075884
   entrez: '55843'
   mod: MIM:610578
@@ -85,24 +79,24 @@ orthologs:
   mod: MGI:1923367
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '6038822'
+- ensembl: ENSXETG00000037989
+  entrez: '100485536'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000062349
   entrez: '100003547'
-  mod: ZFIN:ZDB-GENE-070912-314,ZFIN:ZDB-GENE-070912-314
-  phenotypes: ZDB-GENE-070912-314,ZDB-GENE-070912-314
+  mod: ZFIN:ZDB-GENE-070912-314
+  phenotypes: signal transduction, small GTPase-mediated signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGCATAATGAAACTCTCAAGGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468738
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424303
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468738
+  url: https://www.ncbi.nlm.nih.gov/gene/424303
 species: Gallus gallus
 symbol: ARHGAP15
 template_length: '944'
@@ -129,9 +123,8 @@ title: ARHGAP15
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000075884](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000075884) | [55843](https://www.ncbi.nlm.nih.gov/gene/55843) | [MIM:610578](https://omim.org/entry/610578) |  |
 | Mouse | [ENSMUSG00000049744](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049744) | [76117](https://www.ncbi.nlm.nih.gov/gene/76117) | [MGI:1923367](http://www.informatics.jax.org/marker/MGI:1923367) |  |
-| Xenopus |  |  | [6038822](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6038822) |  |
-| Zebrafish | [ENSDARG00000062349](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062349) | [100003547](https://www.ncbi.nlm.nih.gov/gene/100003547) | [ZFIN:ZDB-GENE-070912-314](https://zfin.org/ZDB-GENE-070912-314), [ZFIN:ZDB-GENE-070912-314](https://zfin.org/ZDB-GENE-070912-314) | ZDB-GENE-070912-314,ZDB-GENE-070912-314 |
+| Xenopus | [ENSXETG00000037989](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000037989) | [100485536](https://www.ncbi.nlm.nih.gov/gene/100485536) |  |  |
+| Zebrafish | [ENSDARG00000062349](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062349) | [100003547](https://www.ncbi.nlm.nih.gov/gene/100003547) | [ZFIN:ZDB-GENE-070912-314](https://zfin.org/ZDB-GENE-070912-314) | signal transduction, small GTPase-mediated signal transduction |
 

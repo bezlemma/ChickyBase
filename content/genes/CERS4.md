@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420050
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418172
 forward_primer: GATGCATCTTTGAAAGAGCC
-gene_id: '458370'
+gene_id: '420050'
 gene_type: protein-coding
 images:
 - caption: CERS4 expression
@@ -78,13 +78,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R702.CERS4.S27AAA.001.jpg
 name: ceramide synthase 4
-ncbi_id: '458370'
+ncbi_id: '420050'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000090661
   entrez: '79603'
   mod: MIM:615334
@@ -95,24 +90,25 @@ orthologs:
   mod: MGI:1914510
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000036458
   entrez: '100379773'
-  mod: '993975'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000031387
-  entrez: '259250'
-  mod: ZFIN:ZDB-GENE-020808-1
-  phenotypes: ZDB-GENE-020808-1
+- ensembl: ENSDARG00000018619
+  entrez: '100330155'
+  mod: ZFIN:ZDB-GENE-110719-2
+  phenotypes: ceramide biosynthetic process, lipid metabolic process, sphingolipid
+    metabolic process
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGATGGACTATCTGCTCCTTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458370
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420050
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458370
+  url: https://www.ncbi.nlm.nih.gov/gene/420050
 species: Gallus gallus
 symbol: CERS4
 template_length: '480'
@@ -135,9 +131,8 @@ title: CERS4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000090661](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000090661) | [79603](https://www.ncbi.nlm.nih.gov/gene/79603) | [MIM:615334](https://omim.org/entry/615334) |  |
 | Mouse | [ENSMUSG00000008206](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000008206) | [67260](https://www.ncbi.nlm.nih.gov/gene/67260) | [MGI:1914510](http://www.informatics.jax.org/marker/MGI:1914510) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100379773](https://www.ncbi.nlm.nih.gov/gene/100379773) | [993975](http://www.xenbase.org/gene/showgene.do?method=display&geneId=993975) |  |
-| Zebrafish | [ENSDARG00000031387](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031387) | [259250](https://www.ncbi.nlm.nih.gov/gene/259250) | [ZFIN:ZDB-GENE-020808-1](https://zfin.org/ZDB-GENE-020808-1) | ZDB-GENE-020808-1 |
+| Xenopus | [ENSXETG00000036458](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000036458) | [100379773](https://www.ncbi.nlm.nih.gov/gene/100379773) |  |  |
+| Zebrafish | [ENSDARG00000018619](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018619) | [100330155](https://www.ncbi.nlm.nih.gov/gene/100330155) | [ZFIN:ZDB-GENE-110719-2](https://zfin.org/ZDB-GENE-110719-2) | ceramide biosynthetic process, lipid metabolic process, sphingolipid metabolic process |
 

@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417481
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642420
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/AUTS2
-gene_id: '453429'
+gene_id: '417481'
 gene_type: protein-coding
 images:
 - caption: AUTS2 expression
@@ -65,40 +65,36 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54ZE5.124.18A.jpg
 name: AUTS2, activator of transcription and developmental regulator
-ncbi_id: '453429'
+ncbi_id: '417481'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000158321
   entrez: '26053'
   mod: MIM:607270
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000029673
   entrez: '319974'
   mod: MGI:1919847
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000003588
   entrez: '100498056'
-  mod: '987495'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000056427
   entrez: '368890'
   mod: ZFIN:ZDB-GENE-030616-571
-  phenotypes: ZDB-GENE-030616-571
+  phenotypes: action potential initiation, chordate embryonic development, embryonic
+    viscerocranium morphogenesis, forebrain neuron development, neuron cellular homeostasis
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453429
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417481
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453429
+  url: https://www.ncbi.nlm.nih.gov/gene/417481
 species: Gallus gallus
 symbol: AUTS2
 title: AUTS2
@@ -120,9 +116,8 @@ title: AUTS2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000158321](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000158321) | [26053](https://www.ncbi.nlm.nih.gov/gene/26053) | [MIM:607270](https://omim.org/entry/607270) |  |
-| Mouse |  | [319974](https://www.ncbi.nlm.nih.gov/gene/319974) | [MGI:1919847](http://www.informatics.jax.org/marker/MGI:1919847) |  |
-| Xenopus |  | [100498056](https://www.ncbi.nlm.nih.gov/gene/100498056) | [987495](http://www.xenbase.org/gene/showgene.do?method=display&geneId=987495) |  |
-| Zebrafish |  | [368890](https://www.ncbi.nlm.nih.gov/gene/368890) | [ZFIN:ZDB-GENE-030616-571](https://zfin.org/ZDB-GENE-030616-571) | ZDB-GENE-030616-571 |
+| Mouse | [ENSMUSG00000029673](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029673) | [319974](https://www.ncbi.nlm.nih.gov/gene/319974) | [MGI:1919847](http://www.informatics.jax.org/marker/MGI:1919847) |  |
+| Xenopus | [ENSXETG00000003588](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003588) | [100498056](https://www.ncbi.nlm.nih.gov/gene/100498056) |  |  |
+| Zebrafish | [ENSDARG00000056427](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056427) | [368890](https://www.ncbi.nlm.nih.gov/gene/368890) | [ZFIN:ZDB-GENE-030616-571](https://zfin.org/ZDB-GENE-030616-571) | action potential initiation, chordate embryonic development, embryonic viscerocranium morphogenesis, forebrain neuron development, neuron cellular homeostasis |
 

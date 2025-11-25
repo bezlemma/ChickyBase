@@ -3,14 +3,13 @@ aliases:
 - microRNA mir-26a, mir-26a
 cgnc_id: '60559'
 external_ids:
-  '25': stage 25
   Comments: ubiquitous; found in an intron of CTDSL_CHICK, CTD small phosphatase-like
     protein
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/777941
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NC_006127
-gene_id: '467978'
+gene_id: '777941'
 gene_type: miscRNA
 images:
 - caption: MIR26A1 expression
@@ -21,7 +20,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/26a.16.st25.001q.jpg
 name: microRNA 26a-1
-ncbi_id: '467978'
+ncbi_id: '777941'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -51,10 +50,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467978
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777941
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467978
+  url: https://www.ncbi.nlm.nih.gov/gene/777941
 species: Gallus gallus
 symbol: MIR26A1
 title: MIR26A1

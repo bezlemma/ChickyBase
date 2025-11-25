@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:378785
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204363
-gene_id: '458643'
+gene_id: '378785'
 gene_type: protein-coding
 images:
 - caption: NPVF expression
@@ -34,37 +34,22 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chowdhury.2012.Fig2.GNHI.ALLIMAGES.jpg
 name: neuropeptide VF precursor
-ncbi_id: '458643'
+ncbi_id: '378785'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000105954
   entrez: '64111'
-  mod: ''
+  mod: MIM:616984
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000029831
   entrez: '60531'
   mod: MGI:1926488
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000036227
-  entrez: '100002108'
-  mod: ZFIN:ZDB-GENE-070424-226
-  phenotypes: ZDB-GENE-070424-226
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458643
+  url: https://www.ncbi.nlm.nih.gov/gene/378785
 species: Gallus gallus
 symbol: NPVF
 title: NPVF
@@ -90,9 +75,6 @@ title: NPVF
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000105954](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000105954) | [64111](https://www.ncbi.nlm.nih.gov/gene/64111) |  |  |
-| Mouse |  | [60531](https://www.ncbi.nlm.nih.gov/gene/60531) | [MGI:1926488](http://www.informatics.jax.org/marker/MGI:1926488) |  |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000036227](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036227) | [100002108](https://www.ncbi.nlm.nih.gov/gene/100002108) | [ZFIN:ZDB-GENE-070424-226](https://zfin.org/ZDB-GENE-070424-226) | ZDB-GENE-070424-226 |
+| Human | [ENSG00000105954](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000105954) | [64111](https://www.ncbi.nlm.nih.gov/gene/64111) | [MIM:616984](https://omim.org/entry/616984) |  |
+| Mouse | [ENSMUSG00000029831](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029831) | [60531](https://www.ncbi.nlm.nih.gov/gene/60531) | [MGI:1926488](http://www.informatics.jax.org/marker/MGI:1926488) |  |
 

@@ -4,13 +4,12 @@ aliases:
 - transmembrane protein 16H
 cgnc_id: '8151'
 external_ids:
-  '25': stage 25stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/429912
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:429912
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_427467
 forward_primer: TACGAGGACACCTTCCAGGACTAC
-gene_id: '468420'
+gene_id: '429912'
 gene_type: protein-coding
 images:
 - caption: ANO8 expression
@@ -156,41 +155,36 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R526.ANO8.S25AA.001.jpg
 name: anoctamin 8
-ncbi_id: '468420'
+ncbi_id: '429912'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000074855
+  entrez: '57719'
+  mod: MIM:610216
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000034863
+  entrez: '382014'
+  mod: MGI:2687327
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000013077
+  entrez: '100491780'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000112701
+  entrez: '562782'
+  mod: ZFIN:ZDB-GENE-121024-1
+  phenotypes: chloride transmembrane transport
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCTTGGTTTCGGGGGATTTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468420
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=429912
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468420
+  url: https://www.ncbi.nlm.nih.gov/gene/429912
 species: Gallus gallus
 symbol: ANO8
 template_length: '859'
@@ -212,9 +206,8 @@ title: ANO8
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000074855](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000074855) | [57719](https://www.ncbi.nlm.nih.gov/gene/57719) | [MIM:610216](https://omim.org/entry/610216) |  |
+| Mouse | [ENSMUSG00000034863](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034863) | [382014](https://www.ncbi.nlm.nih.gov/gene/382014) | [MGI:2687327](http://www.informatics.jax.org/marker/MGI:2687327) |  |
+| Xenopus | [ENSXETG00000013077](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013077) | [100491780](https://www.ncbi.nlm.nih.gov/gene/100491780) |  |  |
+| Zebrafish | [ENSDARG00000112701](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000112701) | [562782](https://www.ncbi.nlm.nih.gov/gene/562782) | [ZFIN:ZDB-GENE-121024-1](https://zfin.org/ZDB-GENE-121024-1) | chloride transmembrane transport |
 

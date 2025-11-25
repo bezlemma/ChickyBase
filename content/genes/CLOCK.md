@@ -5,7 +5,6 @@ aliases:
 - transcription regulation factor
 cgnc_id: '10328'
 external_ids:
-  '13': stage 13stage 13
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0023076
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006974
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005694
@@ -21,7 +20,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204174
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATTCTTCTCATCTGCTGGAAAGCG
-gene_id: '451453'
+gene_id: '373991'
 gene_type: protein-coding
 images:
 - caption: CLOCK expression
@@ -187,13 +186,8 @@ images:
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Goncalves.FIG.5.ALLIMAGES.jpg
 name: clock circadian regulator
-ncbi_id: '451453'
+ncbi_id: '373991'
 orthologs:
-- ensembl: ''
-  entrez: '38872'
-  mod: FBgn0023076
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134852
   entrez: '9575'
   mod: MIM:601851
@@ -205,24 +199,25 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Chemically induced(1) Targeted, knock-out(2)
     Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100038163,399157
-  mod: '495447'
+- ensembl: ENSXETG00000021064
+  entrez: '100038163'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000003631,ENSDARG00000011703
-  entrez: 352927,30140
-  mod: ZFIN:ZDB-GENE-030408-2,ZFIN:ZDB-GENE-990630-14
-  phenotypes: ZDB-GENE-030408-2,ZDB-GENE-990630-14
+- ensembl: ENSDARG00000011703
+  entrez: '30140'
+  mod: ZFIN:ZDB-GENE-990630-14
+  phenotypes: DNA damage response, animal organ development, circadian regulation
+    of gene expression, circadian rhythm, mesoderm development
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCCACTGTCATTTTAGTTGGTGTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451453
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373991
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451453
+  url: https://www.ncbi.nlm.nih.gov/gene/373991
 species: Gallus gallus
 symbol: CLOCK
 template_length: '920'
@@ -254,9 +249,8 @@ title: CLOCK
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38872](https://www.ncbi.nlm.nih.gov/gene/38872) | FBgn0023076 |  |
 | Human | [ENSG00000134852](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134852) | [9575](https://www.ncbi.nlm.nih.gov/gene/9575) | [MIM:601851](https://omim.org/entry/601851) |  |
 | Mouse | [ENSMUSG00000029238](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029238) | [12753](https://www.ncbi.nlm.nih.gov/gene/12753) | [MGI:99698](http://www.informatics.jax.org/marker/MGI:99698) | All phenotypic alleles (4):Chemically induced(1) Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100038163](https://www.ncbi.nlm.nih.gov/gene/100038163), [399157](https://www.ncbi.nlm.nih.gov/gene/399157) | [495447](http://www.xenbase.org/gene/showgene.do?method=display&geneId=495447) |  |
-| Zebrafish | [ENSDARG00000003631](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003631), [ENSDARG00000011703](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011703) | [352927](https://www.ncbi.nlm.nih.gov/gene/352927), [30140](https://www.ncbi.nlm.nih.gov/gene/30140) | [ZFIN:ZDB-GENE-030408-2](https://zfin.org/ZDB-GENE-030408-2), [ZFIN:ZDB-GENE-990630-14](https://zfin.org/ZDB-GENE-990630-14) | ZDB-GENE-030408-2,ZDB-GENE-990630-14 |
+| Xenopus | [ENSXETG00000021064](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021064) | [100038163](https://www.ncbi.nlm.nih.gov/gene/100038163) |  |  |
+| Zebrafish | [ENSDARG00000011703](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011703) | [30140](https://www.ncbi.nlm.nih.gov/gene/30140) | [ZFIN:ZDB-GENE-990630-14](https://zfin.org/ZDB-GENE-990630-14) | DNA damage response, animal organ development, circadian regulation of gene expression, circadian rhythm, mesoderm development |
 

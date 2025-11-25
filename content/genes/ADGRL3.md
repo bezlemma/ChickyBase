@@ -4,14 +4,13 @@ aliases:
 - latrophilin 3
 cgnc_id: '8601'
 external_ids:
-  '25': stage 25stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/422616
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422616
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420575
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/ADGRL3
 forward_primer: TGTCCCTGATGAGATGACC
-gene_id: '452083'
+gene_id: '422616'
 gene_type: protein-coding
 images:
 - caption: ADGRL3 expression
@@ -161,16 +160,11 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R391.LPHN3.S25.003.jpg
 name: adhesion G protein-coupled receptor L3
-ncbi_id: '452083'
+ncbi_id: '422616'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000150471
   entrez: '23284'
-  mod: ''
+  mod: MIM:616417
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000037605
@@ -178,24 +172,26 @@ orthologs:
   mod: MGI:2441950
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '6046037'
+- ensembl: ENSXETG00000037104
+  entrez: '100498069'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000061121
   entrez: '560631'
-  mod: ZFIN:ZDB-GENE-030131-7856,ZFIN:ZDB-GENE-130116-6
-  phenotypes: ZDB-GENE-030131-7856,ZDB-GENE-130116-6
+  mod: ZFIN:ZDB-GENE-030131-7856
+  phenotypes: G protein-coupled receptor signaling pathway, cell surface receptor
+    signaling pathway, cell-cell adhesion via plasma-membrane adhesion molecules,
+    cellular response to estrogen stimulus, cognition
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCGATGACGGAGTGATTAGTAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452083
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422616
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452083
+  url: https://www.ncbi.nlm.nih.gov/gene/422616
 species: Gallus gallus
 symbol: ADGRL3
 template_length: '908'
@@ -218,9 +214,8 @@ title: ADGRL3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000150471](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000150471) | [23284](https://www.ncbi.nlm.nih.gov/gene/23284) |  |  |
+| Human | [ENSG00000150471](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000150471) | [23284](https://www.ncbi.nlm.nih.gov/gene/23284) | [MIM:616417](https://omim.org/entry/616417) |  |
 | Mouse | [ENSMUSG00000037605](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037605) | [319387](https://www.ncbi.nlm.nih.gov/gene/319387) | [MGI:2441950](http://www.informatics.jax.org/marker/MGI:2441950) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  |  | [6046037](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6046037) |  |
-| Zebrafish | [ENSDARG00000061121](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061121) | [560631](https://www.ncbi.nlm.nih.gov/gene/560631) | [ZFIN:ZDB-GENE-030131-7856](https://zfin.org/ZDB-GENE-030131-7856), [ZFIN:ZDB-GENE-130116-6](https://zfin.org/ZDB-GENE-130116-6) | ZDB-GENE-030131-7856,ZDB-GENE-130116-6 |
+| Xenopus | [ENSXETG00000037104](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000037104) | [100498069](https://www.ncbi.nlm.nih.gov/gene/100498069) |  |  |
+| Zebrafish | [ENSDARG00000061121](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061121) | [560631](https://www.ncbi.nlm.nih.gov/gene/560631) | [ZFIN:ZDB-GENE-030131-7856](https://zfin.org/ZDB-GENE-030131-7856) | G protein-coupled receptor signaling pathway, cell surface receptor signaling pathway, cell-cell adhesion via plasma-membrane adhesion molecules, cellular response to estrogen stimulus, cognition |
 

@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395318
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004298
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204613
-gene_id: '448903'
+gene_id: '395318'
 gene_type: protein-coding
 images:
 - caption: PSMA7 expression
@@ -36,13 +36,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-fig5C-whole-PSMA7.JPG
 name: proteasome subunit alpha 7
-ncbi_id: '448903'
+ncbi_id: '395318'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000101182
   entrez: '5688'
   mod: MIM:606607
@@ -53,20 +48,15 @@ orthologs:
   mod: MGI:1347070
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 394668,394357,399109
-  mod: '974595'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000001998
+  entrez: '394668'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448903
+  url: https://www.ncbi.nlm.nih.gov/gene/395318
 species: Gallus gallus
 symbol: PSMA7
 title: PSMA7
@@ -95,9 +85,7 @@ title: PSMA7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000101182](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101182) | [5688](https://www.ncbi.nlm.nih.gov/gene/5688) | [MIM:606607](https://omim.org/entry/606607) |  |
 | Mouse | [ENSMUSG00000027566](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027566) | [26444](https://www.ncbi.nlm.nih.gov/gene/26444) | [MGI:1347070](http://www.informatics.jax.org/marker/MGI:1347070) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [394668](https://www.ncbi.nlm.nih.gov/gene/394668), [394357](https://www.ncbi.nlm.nih.gov/gene/394357), [399109](https://www.ncbi.nlm.nih.gov/gene/399109) | [974595](http://www.xenbase.org/gene/showgene.do?method=display&geneId=974595) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000001998](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001998) | [394668](https://www.ncbi.nlm.nih.gov/gene/394668) |  |  |
 

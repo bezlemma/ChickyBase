@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422358
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420329
 forward_primer: GCAGTTGCGGAAATGCTGTAAC
-gene_id: '451429'
+gene_id: '422358'
 gene_type: protein-coding
 images:
 - caption: SMARCA1 expression
@@ -126,13 +126,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R399.SMARCA.S27.001.jpg
 name: SWI/SNF related, matrix associated, actin dependent regulator of chromatin,
   subfamily a, member 1
-ncbi_id: '451429'
+ncbi_id: '422358'
 orthologs:
-- ensembl: ''
-  entrez: '36390'
-  mod: FBgn0011604
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000102038
   entrez: '6594'
   mod: MIM:300012
@@ -143,24 +138,26 @@ orthologs:
   mod: MGI:1935127
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100101797,444176
-  mod: '492010'
+- ensembl: ENSXETG00000001526
+  entrez: '100101797'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000012776
-  entrez: 559803,559803
+  entrez: '559803'
   mod: ZFIN:ZDB-GENE-070705-296
-  phenotypes: ZDB-GENE-070705-296
+  phenotypes: chromatin remodeling, heterochromatin formation, neural plate anterior/posterior
+    regionalization, positive regulation of transcription by RNA polymerase II, primitive
+    erythrocyte differentiation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGTTCTCGTTTGGGAGGCTCTATC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451429
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422358
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451429
+  url: https://www.ncbi.nlm.nih.gov/gene/422358
 species: Gallus gallus
 symbol: SMARCA1
 template_length: '860'
@@ -184,9 +181,8 @@ title: SMARCA1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36390](https://www.ncbi.nlm.nih.gov/gene/36390) | FBgn0011604 |  |
 | Human | [ENSG00000102038](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000102038) | [6594](https://www.ncbi.nlm.nih.gov/gene/6594) | [MIM:300012](https://omim.org/entry/300012) |  |
 | Mouse | [ENSMUSG00000031099](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031099) | [93761](https://www.ncbi.nlm.nih.gov/gene/93761) | [MGI:1935127](http://www.informatics.jax.org/marker/MGI:1935127) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100101797](https://www.ncbi.nlm.nih.gov/gene/100101797), [444176](https://www.ncbi.nlm.nih.gov/gene/444176) | [492010](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492010) |  |
-| Zebrafish | [ENSDARG00000012776](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012776) | [559803](https://www.ncbi.nlm.nih.gov/gene/559803), [559803](https://www.ncbi.nlm.nih.gov/gene/559803) | [ZFIN:ZDB-GENE-070705-296](https://zfin.org/ZDB-GENE-070705-296) | ZDB-GENE-070705-296 |
+| Xenopus | [ENSXETG00000001526](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001526) | [100101797](https://www.ncbi.nlm.nih.gov/gene/100101797) |  |  |
+| Zebrafish | [ENSDARG00000012776](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012776) | [559803](https://www.ncbi.nlm.nih.gov/gene/559803) | [ZFIN:ZDB-GENE-070705-296](https://zfin.org/ZDB-GENE-070705-296) | chromatin remodeling, heterochromatin formation, neural plate anterior/posterior regionalization, positive regulation of transcription by RNA polymerase II, primitive erythrocyte differentiation |
 

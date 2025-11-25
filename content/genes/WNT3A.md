@@ -6,11 +6,6 @@ aliases:
 - Wnt3a variant 3
 cgnc_id: '49296'
 external_ids:
-  '1': stage 1stage 1
-  '13': stage 13stage 13
-  '19': stage 19stage 19
-  '25': stage 25
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030509
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0009986
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Cauthen+2001+Wnts
@@ -23,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395396
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005109
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001171601
-gene_id: '448977'
+gene_id: '395396'
 gene_type: protein-coding
 images:
 - caption: WNT3A expression
@@ -502,13 +497,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt-3a.Cauthen.2001.jpg
 name: Wnt family member 3A
-ncbi_id: '448977'
+ncbi_id: '395396'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000154342
   entrez: '89780'
   mod: MIM:606359
@@ -520,20 +510,21 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Spontaneous(1) Chemically induced(1) Targeted,
     knock-out(3) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100488632,378679
-  mod: '1217287'
+- ensembl: ENSXETG00000034546
+  entrez: '100488632'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000058822
   entrez: '60632'
   mod: ZFIN:ZDB-GENE-001106-1
-  phenotypes: ZDB-GENE-001106-1
+  phenotypes: Wnt signaling pathway, animal organ development, anterior/posterior
+    pattern specification, canonical Wnt signaling pathway, cell fate commitment
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448977
+  url: https://www.ncbi.nlm.nih.gov/gene/395396
 species: Gallus gallus
 symbol: WNT3A
 title: WNT3A
@@ -562,9 +553,8 @@ title: WNT3A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000154342](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000154342) | [89780](https://www.ncbi.nlm.nih.gov/gene/89780) | [MIM:606359](https://omim.org/entry/606359) |  |
 | Mouse | [ENSMUSG00000009900](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000009900) | [22416](https://www.ncbi.nlm.nih.gov/gene/22416) | [MGI:98956](http://www.informatics.jax.org/marker/MGI:98956) | All phenotypic alleles (7):Spontaneous(1) Chemically induced(1) Targeted, knock-out(3) Targeted, other(2) |
-| Xenopus |  | [100488632](https://www.ncbi.nlm.nih.gov/gene/100488632), [378679](https://www.ncbi.nlm.nih.gov/gene/378679) | [1217287](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1217287) |  |
-| Zebrafish | [ENSDARG00000058822](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058822) | [60632](https://www.ncbi.nlm.nih.gov/gene/60632) | [ZFIN:ZDB-GENE-001106-1](https://zfin.org/ZDB-GENE-001106-1) | ZDB-GENE-001106-1 |
+| Xenopus | [ENSXETG00000034546](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034546) | [100488632](https://www.ncbi.nlm.nih.gov/gene/100488632) |  |  |
+| Zebrafish | [ENSDARG00000058822](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058822) | [60632](https://www.ncbi.nlm.nih.gov/gene/60632) | [ZFIN:ZDB-GENE-001106-1](https://zfin.org/ZDB-GENE-001106-1) | Wnt signaling pathway, animal organ development, anterior/posterior pattern specification, canonical Wnt signaling pathway, cell fate commitment |
 

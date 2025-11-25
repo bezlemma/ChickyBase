@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277733
-gene_id: '454729'
+gene_id: '421716'
 gene_type: protein-coding
 images:
 - caption: CENPW expression
@@ -40,40 +40,25 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CENPW.Anderson.2019.Supplementary
     figure 5N.jpg
 name: centromere protein W
-ncbi_id: '454729'
+ncbi_id: '421716'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000203760
+  entrez: '387103'
+  mod: MIM:611264
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000075266
+  entrez: '66311'
+  mod: MGI:1913561
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454729
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421716
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454729
+  url: https://www.ncbi.nlm.nih.gov/gene/421716
 species: Gallus gallus
 symbol: CENPW
 title: CENPW
@@ -101,9 +86,6 @@ title: CENPW
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000203760](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000203760) | [387103](https://www.ncbi.nlm.nih.gov/gene/387103) | [MIM:611264](https://omim.org/entry/611264) |  |
+| Mouse | [ENSMUSG00000075266](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000075266) | [66311](https://www.ncbi.nlm.nih.gov/gene/66311) | [MGI:1913561](http://www.informatics.jax.org/marker/MGI:1913561) |  |
 

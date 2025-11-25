@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:425791
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277584
 forward_primer: TTCCAGCAGCAACCTACTCCACC
-gene_id: '451219'
+gene_id: '425791'
 gene_type: protein-coding
 images:
 - caption: EHF expression
@@ -70,14 +70,9 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R426.EHF.S24.001.jpg
 name: ETS homologous factor
-ncbi_id: '451219'
+ncbi_id: '425791'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000135373
   entrez: '26298'
   mod: MIM:605439
   phenotypes: ''
@@ -87,24 +82,25 @@ orthologs:
   mod: MGI:1270840
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000007559
   entrez: '100493880'
-  mod: '853704'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000052115
+- ensembl: ENSDARG00000112589
   entrez: '568223'
   mod: ZFIN:ZDB-GENE-060312-7
-  phenotypes: ZDB-GENE-060312-7
+  phenotypes: cell differentiation, regulation of DNA-templated transcription, regulation
+    of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCTCATTTTCTCTCCAGCCACGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451219
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=425791
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451219
+  url: https://www.ncbi.nlm.nih.gov/gene/425791
 species: Gallus gallus
 symbol: EHF
 template_length: '857'
@@ -126,9 +122,8 @@ title: EHF
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [26298](https://www.ncbi.nlm.nih.gov/gene/26298) | [MIM:605439](https://omim.org/entry/605439) |  |
+| Human | [ENSG00000135373](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135373) | [26298](https://www.ncbi.nlm.nih.gov/gene/26298) | [MIM:605439](https://omim.org/entry/605439) |  |
 | Mouse | [ENSMUSG00000012350](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000012350) | [13661](https://www.ncbi.nlm.nih.gov/gene/13661) | [MGI:1270840](http://www.informatics.jax.org/marker/MGI:1270840) |  |
-| Xenopus |  | [100493880](https://www.ncbi.nlm.nih.gov/gene/100493880) | [853704](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853704) |  |
-| Zebrafish | [ENSDARG00000052115](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052115) | [568223](https://www.ncbi.nlm.nih.gov/gene/568223) | [ZFIN:ZDB-GENE-060312-7](https://zfin.org/ZDB-GENE-060312-7) | ZDB-GENE-060312-7 |
+| Xenopus | [ENSXETG00000007559](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007559) | [100493880](https://www.ncbi.nlm.nih.gov/gene/100493880) |  |  |
+| Zebrafish | [ENSDARG00000112589](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000112589) | [568223](https://www.ncbi.nlm.nih.gov/gene/568223) | [ZFIN:ZDB-GENE-060312-7](https://zfin.org/ZDB-GENE-060312-7) | cell differentiation, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419736
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417876
 forward_primer: CAGGGAGCAGCATTACATACACG
-gene_id: '457192'
+gene_id: '419736'
 gene_type: protein-coding
 images:
 - caption: JAM3 expression
@@ -173,13 +173,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R5R53.JAM3.S26AA.001.jpg
 name: junctional adhesion molecule 3
-ncbi_id: '457192'
+ncbi_id: '419736'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000166086
   entrez: '83700'
   mod: MIM:606871
@@ -190,24 +185,24 @@ orthologs:
   mod: MGI:1933825
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '921378'
+- ensembl: ENSXETG00000040710
+  entrez: '101734513'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000086037,ENSDARG00000061794
-  entrez: 797651,569217
-  mod: ZFIN:ZDB-GENE-070424-177,ZFIN:ZDB-GENE-030131-441
-  phenotypes: ZDB-GENE-070424-177,ZDB-GENE-030131-441
+- ensembl: ENSDARG00000114589
+  entrez: '797651'
+  mod: ZFIN:ZDB-GENE-070424-177
+  phenotypes: cell adhesion, cell migration, cell-cell adhesion
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGTTGGTCACTGGCAAGAAGAGTTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457192
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419736
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457192
+  url: https://www.ncbi.nlm.nih.gov/gene/419736
 species: Gallus gallus
 symbol: JAM3
 template_length: '951'
@@ -229,9 +224,8 @@ title: JAM3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000166086](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166086) | [83700](https://www.ncbi.nlm.nih.gov/gene/83700) | [MIM:606871](https://omim.org/entry/606871) | MIM:613730 |
 | Mouse | [ENSMUSG00000031990](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031990) | [83964](https://www.ncbi.nlm.nih.gov/gene/83964) | [MGI:1933825](http://www.informatics.jax.org/marker/MGI:1933825) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  |  | [921378](http://www.xenbase.org/gene/showgene.do?method=display&geneId=921378) |  |
-| Zebrafish | [ENSDARG00000086037](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000086037), [ENSDARG00000061794](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061794) | [797651](https://www.ncbi.nlm.nih.gov/gene/797651), [569217](https://www.ncbi.nlm.nih.gov/gene/569217) | [ZFIN:ZDB-GENE-070424-177](https://zfin.org/ZDB-GENE-070424-177), [ZFIN:ZDB-GENE-030131-441](https://zfin.org/ZDB-GENE-030131-441) | ZDB-GENE-070424-177,ZDB-GENE-030131-441 |
+| Xenopus | [ENSXETG00000040710](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000040710) | [101734513](https://www.ncbi.nlm.nih.gov/gene/101734513) |  |  |
+| Zebrafish | [ENSDARG00000114589](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114589) | [797651](https://www.ncbi.nlm.nih.gov/gene/797651) | [ZFIN:ZDB-GENE-070424-177](https://zfin.org/ZDB-GENE-070424-177) | cell adhesion, cell migration, cell-cell adhesion |
 

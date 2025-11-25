@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423088
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199595
-gene_id: '468154'
+gene_id: '423088'
 gene_type: protein-coding
 images:
 - caption: PHLDA2 expression
@@ -59,14 +59,9 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PHLDA2.Singh.2016.Fig4.jpg
 name: pleckstrin homology like domain family A member 2
-ncbi_id: '468154'
+ncbi_id: '423088'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000181649
+- ensembl: ENSG00000274538
   entrez: '7262'
   mod: MIM:602131
   phenotypes: ''
@@ -76,20 +71,20 @@ orthologs:
   mod: MGI:1202307
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(3)
   species: Mouse
-- ensembl: ''
-  entrez: 780286,100036975
-  mod: '994211'
+- ensembl: ENSXETG00000026033
+  entrez: '780286'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000042874
   entrez: '553622'
   mod: ZFIN:ZDB-GENE-050522-73
-  phenotypes: ZDB-GENE-050522-73
+  phenotypes: positive regulation of apoptotic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468154
+  url: https://www.ncbi.nlm.nih.gov/gene/423088
 species: Gallus gallus
 symbol: PHLDA2
 title: PHLDA2
@@ -115,9 +110,8 @@ title: PHLDA2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000181649](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000181649) | [7262](https://www.ncbi.nlm.nih.gov/gene/7262) | [MIM:602131](https://omim.org/entry/602131) |  |
+| Human | [ENSG00000274538](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000274538) | [7262](https://www.ncbi.nlm.nih.gov/gene/7262) | [MIM:602131](https://omim.org/entry/602131) |  |
 | Mouse | [ENSMUSG00000010760](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000010760) | [22113](https://www.ncbi.nlm.nih.gov/gene/22113) | [MGI:1202307](http://www.informatics.jax.org/marker/MGI:1202307) | All phenotypic alleles (3):Targeted, knock-out(3) |
-| Xenopus |  | [780286](https://www.ncbi.nlm.nih.gov/gene/780286), [100036975](https://www.ncbi.nlm.nih.gov/gene/100036975) | [994211](http://www.xenbase.org/gene/showgene.do?method=display&geneId=994211) |  |
-| Zebrafish | [ENSDARG00000042874](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042874) | [553622](https://www.ncbi.nlm.nih.gov/gene/553622) | [ZFIN:ZDB-GENE-050522-73](https://zfin.org/ZDB-GENE-050522-73) | ZDB-GENE-050522-73 |
+| Xenopus | [ENSXETG00000026033](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026033) | [780286](https://www.ncbi.nlm.nih.gov/gene/780286) |  |  |
+| Zebrafish | [ENSDARG00000042874](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042874) | [553622](https://www.ncbi.nlm.nih.gov/gene/553622) | [ZFIN:ZDB-GENE-050522-73](https://zfin.org/ZDB-GENE-050522-73) | positive regulation of apoptotic process |
 

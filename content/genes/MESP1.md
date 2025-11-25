@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395252
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204566
 forward_primer: GGCTCTGGATGCGGGGACAG
-gene_id: '391805'
+gene_id: '395252'
 gene_type: protein-coding
 images:
 - caption: MESP1 expression
@@ -435,7 +435,7 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cMeso-1.Buchberger.1998.Fig5.jpg
 name: mesoderm posterior bHLH transcription factor 1
-ncbi_id: '391805'
+ncbi_id: '395252'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -460,16 +460,16 @@ orthologs:
 - ensembl: ENSDARG00000068761
   entrez: 100006128,58069
   mod: ZFIN:ZDB-GENE-090817-2,ZFIN:ZDB-GENE-000406-8
-  phenotypes: ZDB-GENE-090817-2,ZDB-GENE-000406-8
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCACAAAGTCTGGCGGCAGCAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=391805
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395252
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/391805
+  url: https://www.ncbi.nlm.nih.gov/gene/395252
 species: Gallus gallus
 symbol: MESP1
 template_length: '256'
@@ -500,5 +500,5 @@ title: MESP1
 | Human | [ENSG00000188095](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000188095) | [145873](https://www.ncbi.nlm.nih.gov/gene/145873) | [MIM:605195](https://omim.org/entry/605195) |  |
 | Mouse | [ENSMUSG00000030543](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030543) | [17293](https://www.ncbi.nlm.nih.gov/gene/17293) | [MGI:1096325](http://www.informatics.jax.org/marker/MGI:1096325) |  |
 | Xenopus |  | [734031](https://www.ncbi.nlm.nih.gov/gene/734031), [397972](https://www.ncbi.nlm.nih.gov/gene/397972), [373581](https://www.ncbi.nlm.nih.gov/gene/373581) | [6467361](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6467361), [920824](http://www.xenbase.org/gene/showgene.do?method=display&geneId=920824) |  |
-| Zebrafish | [ENSDARG00000068761](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068761) | [100006128](https://www.ncbi.nlm.nih.gov/gene/100006128), [58069](https://www.ncbi.nlm.nih.gov/gene/58069) | [ZFIN:ZDB-GENE-090817-2](https://zfin.org/ZDB-GENE-090817-2), [ZFIN:ZDB-GENE-000406-8](https://zfin.org/ZDB-GENE-000406-8) | ZDB-GENE-090817-2,ZDB-GENE-000406-8 |
+| Zebrafish | [ENSDARG00000068761](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068761) | [100006128](https://www.ncbi.nlm.nih.gov/gene/100006128), [58069](https://www.ncbi.nlm.nih.gov/gene/58069) | [ZFIN:ZDB-GENE-090817-2](https://zfin.org/ZDB-GENE-090817-2), [ZFIN:ZDB-GENE-000406-8](https://zfin.org/ZDB-GENE-000406-8) |  |
 

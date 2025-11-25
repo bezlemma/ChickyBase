@@ -14,7 +14,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004519
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204778
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATACTCCAGCCCAAAACGAACAG
-gene_id: '449589'
+gene_id: '395555'
 gene_type: protein-coding
 images:
 - caption: MRE11 expression
@@ -239,13 +239,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R230.MRE11A.S27.001.jpg
 name: MRE11 homolog, double strand break repair nuclease
-ncbi_id: '449589'
+ncbi_id: '395555'
 orthologs:
-- ensembl: ''
-  entrez: '34565'
-  mod: FBgn0020270
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000020922
   entrez: '4361'
   mod: MIM:600814
@@ -256,24 +251,26 @@ orthologs:
   mod: MGI:1100512
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100135381,394308
-  mod: '957955'
+- ensembl: ENSXETG00000006417
+  entrez: '100135381'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000105014
   entrez: '406637'
   mod: ZFIN:ZDB-GENE-040426-2638
-  phenotypes: ZDB-GENE-040426-2638
+  phenotypes: DNA damage response, DNA repair, double-strand break repair, double-strand
+    break repair via homologous recombination, double-strand break repair via nonhomologous
+    end joining
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGAATGTCATCATCTGAATCACCCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449589
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395555
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449589
+  url: https://www.ncbi.nlm.nih.gov/gene/395555
 species: Gallus gallus
 symbol: MRE11
 template_length: '931'
@@ -300,9 +297,8 @@ title: MRE11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34565](https://www.ncbi.nlm.nih.gov/gene/34565) | FBgn0020270 |  |
 | Human | [ENSG00000020922](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000020922) | [4361](https://www.ncbi.nlm.nih.gov/gene/4361) | [MIM:600814](https://omim.org/entry/600814) | MIM:604391 |
 | Mouse | [ENSMUSG00000031928](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031928) | [17535](https://www.ncbi.nlm.nih.gov/gene/17535) | [MGI:1100512](http://www.informatics.jax.org/marker/MGI:1100512) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100135381](https://www.ncbi.nlm.nih.gov/gene/100135381), [394308](https://www.ncbi.nlm.nih.gov/gene/394308) | [957955](http://www.xenbase.org/gene/showgene.do?method=display&geneId=957955) |  |
-| Zebrafish |  | [406637](https://www.ncbi.nlm.nih.gov/gene/406637) | [ZFIN:ZDB-GENE-040426-2638](https://zfin.org/ZDB-GENE-040426-2638) | ZDB-GENE-040426-2638 |
+| Xenopus | [ENSXETG00000006417](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006417) | [100135381](https://www.ncbi.nlm.nih.gov/gene/100135381) |  |  |
+| Zebrafish | [ENSDARG00000105014](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000105014) | [406637](https://www.ncbi.nlm.nih.gov/gene/406637) | [ZFIN:ZDB-GENE-040426-2638](https://zfin.org/ZDB-GENE-040426-2638) | DNA damage response, DNA repair, double-strand break repair, double-strand break repair via homologous recombination, double-strand break repair via nonhomologous end joining |
 

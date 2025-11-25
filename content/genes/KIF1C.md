@@ -3,7 +3,6 @@ aliases:
 - KIF1B, kinesin-like protein KIF1B
 cgnc_id: '1966'
 external_ids:
-  '25': stage 25
   Comments: No specific expression detected stages 11-18.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/419449
@@ -89,7 +88,7 @@ orthologs:
 - ensembl: ENSDARG00000037020
   entrez: '369190'
   mod: ZFIN:ZDB-GENE-030820-1
-  phenotypes: ZDB-GENE-030820-1
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGAAACCCAAACTGCGGCAC-3'
 sources:
@@ -126,5 +125,5 @@ title: KIF1C
 | Human | [ENSG00000054523](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000054523) | [23095](https://www.ncbi.nlm.nih.gov/gene/23095) | [MIM:605995](https://omim.org/entry/605995) | MIM:118210 |
 | Mouse | [ENSMUSG00000063077](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000063077) | [16561](https://www.ncbi.nlm.nih.gov/gene/16561) | [MGI:108426](http://www.informatics.jax.org/marker/MGI:108426) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
 | Xenopus |  | [100379810](https://www.ncbi.nlm.nih.gov/gene/100379810) | [1013590](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1013590) |  |
-| Zebrafish | [ENSDARG00000037020](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037020) | [369190](https://www.ncbi.nlm.nih.gov/gene/369190) | [ZFIN:ZDB-GENE-030820-1](https://zfin.org/ZDB-GENE-030820-1) | ZDB-GENE-030820-1 |
+| Zebrafish | [ENSDARG00000037020](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037020) | [369190](https://www.ncbi.nlm.nih.gov/gene/369190) | [ZFIN:ZDB-GENE-030820-1](https://zfin.org/ZDB-GENE-030820-1) |  |
 

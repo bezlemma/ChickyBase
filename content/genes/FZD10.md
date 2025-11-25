@@ -6,7 +6,6 @@ aliases:
 - fz-10
 cgnc_id: '48941'
 external_ids:
-  '19': stage 19stage 19
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007420
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0042995
   Citation: 'Abdulmajeed Fahad Alrefaei, Andrea E Münsterberg , Grant N Wheeler. FZD10
@@ -21,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373885
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004930
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204098
-gene_id: '459342'
+gene_id: '373885'
 gene_type: protein-coding
 images:
 - caption: FZD10 expression
@@ -261,13 +260,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZD10Sienknecht2009Fig3F.gif
 name: frizzled class receptor 10
-ncbi_id: '459342'
+ncbi_id: '373885'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000111432
   entrez: '11211'
   mod: MIM:606147
@@ -278,20 +272,21 @@ orthologs:
   mod: MGI:2136761
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 448162,387604,387605
-  mod: '480378'
+- ensembl: ENSXETG00000002931
+  entrez: '448162'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000068213
-  entrez: 100332339,100332085,100333687,30366
+  entrez: '30366'
   mod: ZFIN:ZDB-GENE-990415-220
-  phenotypes: ZDB-GENE-990415-220
+  phenotypes: G protein-coupled receptor signaling pathway, Wnt signaling pathway,
+    canonical Wnt signaling pathway, cell surface receptor signaling pathway, epiboly
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459342
+  url: https://www.ncbi.nlm.nih.gov/gene/373885
 species: Gallus gallus
 symbol: FZD10
 title: FZD10
@@ -319,9 +314,8 @@ title: FZD10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000111432](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111432) | [11211](https://www.ncbi.nlm.nih.gov/gene/11211) | [MIM:606147](https://omim.org/entry/606147) |  |
 | Mouse | [ENSMUSG00000081683](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000081683) | [93897](https://www.ncbi.nlm.nih.gov/gene/93897) | [MGI:2136761](http://www.informatics.jax.org/marker/MGI:2136761) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [448162](https://www.ncbi.nlm.nih.gov/gene/448162), [387604](https://www.ncbi.nlm.nih.gov/gene/387604), [387605](https://www.ncbi.nlm.nih.gov/gene/387605) | [480378](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480378) |  |
-| Zebrafish | [ENSDARG00000068213](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068213) | [100332339](https://www.ncbi.nlm.nih.gov/gene/100332339), [100332085](https://www.ncbi.nlm.nih.gov/gene/100332085), [100333687](https://www.ncbi.nlm.nih.gov/gene/100333687), [30366](https://www.ncbi.nlm.nih.gov/gene/30366) | [ZFIN:ZDB-GENE-990415-220](https://zfin.org/ZDB-GENE-990415-220) | ZDB-GENE-990415-220 |
+| Xenopus | [ENSXETG00000002931](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002931) | [448162](https://www.ncbi.nlm.nih.gov/gene/448162) |  |  |
+| Zebrafish | [ENSDARG00000068213](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068213) | [30366](https://www.ncbi.nlm.nih.gov/gene/30366) | [ZFIN:ZDB-GENE-990415-220](https://zfin.org/ZDB-GENE-990415-220) | G protein-coupled receptor signaling pathway, Wnt signaling pathway, canonical Wnt signaling pathway, cell surface receptor signaling pathway, epiboly |
 

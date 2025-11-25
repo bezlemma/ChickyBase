@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420500
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001177357
 forward_primer: TGTTGGTTACCTAATGATGCTCGG
-gene_id: '456930'
+gene_id: '420500'
 gene_type: protein-coding
 images:
 - caption: ARHGAP21 expression
@@ -129,13 +129,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R412.ARHGAP21.S26D.001.jpg
 name: Rho GTPase activating protein 21
-ncbi_id: '456930'
+ncbi_id: '420500'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000107863
   entrez: '57584'
   mod: MIM:609870
@@ -146,24 +141,24 @@ orthologs:
   mod: MGI:1918685
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100037846,398972
-  mod: '1011027'
+- ensembl: ENSXETG00000005905
+  entrez: '100037846'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000096004,ENSDARG00000075673
-  entrez: 556095,326745
-  mod: ZFIN:ZDB-GENE-030131-4944,ZFIN:ZDB-GENE-090918-5
-  phenotypes: ZDB-GENE-030131-4944,ZDB-GENE-090918-5
+- ensembl: ENSDARG00000075673
+  entrez: '326745'
+  mod: ZFIN:ZDB-GENE-030131-4944
+  phenotypes: signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGGGAGATGGCTCTGTTTTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456930
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420500
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456930
+  url: https://www.ncbi.nlm.nih.gov/gene/420500
 species: Gallus gallus
 symbol: ARHGAP21
 template_length: '907'
@@ -185,9 +180,8 @@ title: ARHGAP21
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000107863](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107863) | [57584](https://www.ncbi.nlm.nih.gov/gene/57584) | [MIM:609870](https://omim.org/entry/609870) |  |
 | Mouse | [ENSMUSG00000036591](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036591) | [71435](https://www.ncbi.nlm.nih.gov/gene/71435) | [MGI:1918685](http://www.informatics.jax.org/marker/MGI:1918685) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100037846](https://www.ncbi.nlm.nih.gov/gene/100037846), [398972](https://www.ncbi.nlm.nih.gov/gene/398972) | [1011027](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1011027) |  |
-| Zebrafish | [ENSDARG00000096004](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000096004), [ENSDARG00000075673](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075673) | [556095](https://www.ncbi.nlm.nih.gov/gene/556095), [326745](https://www.ncbi.nlm.nih.gov/gene/326745) | [ZFIN:ZDB-GENE-030131-4944](https://zfin.org/ZDB-GENE-030131-4944), [ZFIN:ZDB-GENE-090918-5](https://zfin.org/ZDB-GENE-090918-5) | ZDB-GENE-030131-4944,ZDB-GENE-090918-5 |
+| Xenopus | [ENSXETG00000005905](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005905) | [100037846](https://www.ncbi.nlm.nih.gov/gene/100037846) |  |  |
+| Zebrafish | [ENSDARG00000075673](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075673) | [326745](https://www.ncbi.nlm.nih.gov/gene/326745) | [ZFIN:ZDB-GENE-030131-4944](https://zfin.org/ZDB-GENE-030131-4944) | signal transduction |
 

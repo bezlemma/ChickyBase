@@ -4,8 +4,6 @@ aliases:
 - paired box gene 7, PAX7, paired box gene 7
 cgnc_id: '49563'
 external_ids:
-  '25': stage 25
-  '7': stage 7stage 7
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0001147
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Otto+2006+Pax3
   Comments: Insufficient information provided in publication to verify exact sequence
@@ -18,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395942
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205065
 forward_primer: CAAAACTTCTGGTGTTCCACGC
-gene_id: '450496'
+gene_id: '395942'
 gene_type: protein-coding
 images:
 - caption: PAX7 expression
@@ -775,13 +773,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig2.jpg
 name: paired box 7
-ncbi_id: '450496'
+ncbi_id: '395942'
 orthologs:
-- ensembl: ''
-  entrez: '38004'
-  mod: FBgn0001147
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000009709
   entrez: '5081'
   mod: MIM:167410
@@ -792,21 +785,23 @@ orthologs:
   mod: MGI:97491
   phenotypes: All phenotypic alleles (11):Targeted, knock-out(3) Targeted, other(8)
   species: Mouse
-- ensembl: ''
-  entrez: 100496502,496378
-  mod: '487139'
+- ensembl: ENSXETG00000048161
+  entrez: '100496502'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000070818
-  entrez: 30587,566533
-  mod: ZFIN:ZDB-GENE-990415-201,ZFIN:ZDB-GENE-080917-54
-  phenotypes: ZDB-GENE-990415-201,ZDB-GENE-080917-54
+  entrez: '566533'
+  mod: ZFIN:ZDB-GENE-080917-54
+  phenotypes: anatomical structure morphogenesis, nervous system development, regulation
+    of DNA-templated transcription, regulation of transcription by RNA polymerase
+    II, regulation of xanthophore differentiation
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCAGTGTGTCCCGTAAGGTGATAC
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450496
+  url: https://www.ncbi.nlm.nih.gov/gene/395942
 species: Gallus gallus
 symbol: PAX7
 template_length: '900'
@@ -835,9 +830,8 @@ title: PAX7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38004](https://www.ncbi.nlm.nih.gov/gene/38004) | FBgn0001147 |  |
 | Human | [ENSG00000009709](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000009709) | [5081](https://www.ncbi.nlm.nih.gov/gene/5081) | [MIM:167410](https://omim.org/entry/167410) | MIM:268220 |
 | Mouse | [ENSMUSG00000028736](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028736) | [18509](https://www.ncbi.nlm.nih.gov/gene/18509) | [MGI:97491](http://www.informatics.jax.org/marker/MGI:97491) | All phenotypic alleles (11):Targeted, knock-out(3) Targeted, other(8) |
-| Xenopus |  | [100496502](https://www.ncbi.nlm.nih.gov/gene/100496502), [496378](https://www.ncbi.nlm.nih.gov/gene/496378) | [487139](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487139) |  |
-| Zebrafish | [ENSDARG00000070818](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070818) | [30587](https://www.ncbi.nlm.nih.gov/gene/30587), [566533](https://www.ncbi.nlm.nih.gov/gene/566533) | [ZFIN:ZDB-GENE-990415-201](https://zfin.org/ZDB-GENE-990415-201), [ZFIN:ZDB-GENE-080917-54](https://zfin.org/ZDB-GENE-080917-54) | ZDB-GENE-990415-201,ZDB-GENE-080917-54 |
+| Xenopus | [ENSXETG00000048161](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000048161) | [100496502](https://www.ncbi.nlm.nih.gov/gene/100496502) |  |  |
+| Zebrafish | [ENSDARG00000070818](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070818) | [566533](https://www.ncbi.nlm.nih.gov/gene/566533) | [ZFIN:ZDB-GENE-080917-54](https://zfin.org/ZDB-GENE-080917-54) | anatomical structure morphogenesis, nervous system development, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II, regulation of xanthophore differentiation |
 

@@ -7,7 +7,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421289
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419357
-gene_id: '457134'
+gene_id: '421289'
 gene_type: protein-coding
 images:
 - caption: FBXO11 expression
@@ -39,13 +39,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54zd9.127.23.jpg
 name: F-box protein 11
-ncbi_id: '457134'
+ncbi_id: '421289'
 orthologs:
-- ensembl: ''
-  entrez: '41209'
-  mod: FBgn0037760
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138081
   entrez: '80204'
   mod: MIM:607871
@@ -56,23 +51,23 @@ orthologs:
   mod: MGI:2147134
   phenotypes: All phenotypic alleles (6):Chemically induced(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100036658,446439
-  mod: '952928'
+- ensembl: ENSXETG00000022644
+  entrez: '100036658'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000061631,ENSDARG00000059973
-  entrez: 567742,777607
-  mod: ZFIN:ZDB-GENE-110810-2,ZFIN:ZDB-GENE-061103-70
-  phenotypes: ZDB-GENE-110810-2,ZDB-GENE-061103-70
+- ensembl: ENSDARG00000112746
+  entrez: '567742'
+  mod: ZFIN:ZDB-GENE-110810-2
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457134
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421289
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457134
+  url: https://www.ncbi.nlm.nih.gov/gene/421289
 species: Gallus gallus
 symbol: FBXO11
 title: FBXO11
@@ -95,9 +90,8 @@ title: FBXO11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41209](https://www.ncbi.nlm.nih.gov/gene/41209) | FBgn0037760 |  |
 | Human | [ENSG00000138081](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138081) | [80204](https://www.ncbi.nlm.nih.gov/gene/80204) | [MIM:607871](https://omim.org/entry/607871) |  |
 | Mouse | [ENSMUSG00000005371](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005371) | [225055](https://www.ncbi.nlm.nih.gov/gene/225055) | [MGI:2147134](http://www.informatics.jax.org/marker/MGI:2147134) | All phenotypic alleles (6):Chemically induced(2) Targeted, other(4) |
-| Xenopus |  | [100036658](https://www.ncbi.nlm.nih.gov/gene/100036658), [446439](https://www.ncbi.nlm.nih.gov/gene/446439) | [952928](http://www.xenbase.org/gene/showgene.do?method=display&geneId=952928) |  |
-| Zebrafish | [ENSDARG00000061631](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061631), [ENSDARG00000059973](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059973) | [567742](https://www.ncbi.nlm.nih.gov/gene/567742), [777607](https://www.ncbi.nlm.nih.gov/gene/777607) | [ZFIN:ZDB-GENE-110810-2](https://zfin.org/ZDB-GENE-110810-2), [ZFIN:ZDB-GENE-061103-70](https://zfin.org/ZDB-GENE-061103-70) | ZDB-GENE-110810-2,ZDB-GENE-061103-70 |
+| Xenopus | [ENSXETG00000022644](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022644) | [100036658](https://www.ncbi.nlm.nih.gov/gene/100036658) |  |  |
+| Zebrafish | [ENSDARG00000112746](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000112746) | [567742](https://www.ncbi.nlm.nih.gov/gene/567742) | [ZFIN:ZDB-GENE-110810-2](https://zfin.org/ZDB-GENE-110810-2) |  |
 

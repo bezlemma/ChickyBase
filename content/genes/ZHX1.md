@@ -3,7 +3,6 @@ aliases:
 - zinc fingers and homeoboxes protein 1
 cgnc_id: '12256'
 external_ids:
-  '4': stage 4stage 4
   Comments: no specific expression detected stages 9-23
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000016378
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#

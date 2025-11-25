@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:378781
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005131
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204359
-gene_id: '458621'
+gene_id: '378781'
 gene_type: protein-coding
 images:
 - caption: GH expression
@@ -156,16 +156,11 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.5.Allimages_Yamamoto-Shiraishi.2013.jpg
 name: growth hormone
-ncbi_id: '458621'
+ncbi_id: '378781'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000204414
+  entrez: '1444'
+  mod: MIM:603515
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000020713
@@ -173,20 +168,22 @@ orthologs:
   mod: MGI:95707
   phenotypes: All phenotypic alleles (2):Chemically induced(1) Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100492540,399154,373617
-  mod: '487881'
+- ensembl: ENSXETG00000014248
+  entrez: '100492540'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000038185
   entrez: '407639'
   mod: ZFIN:ZDB-GENE-030725-2
-  phenotypes: ZDB-GENE-030725-2
+  phenotypes: adipose tissue development, animal organ development, growth hormone
+    receptor signaling pathway, positive regulation of lipid catabolic process, positive
+    regulation of receptor signaling pathway via JAK-STAT
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458621
+  url: https://www.ncbi.nlm.nih.gov/gene/378781
 species: Gallus gallus
 symbol: GH
 title: GH
@@ -215,9 +212,8 @@ title: GH
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
+| Human | [ENSG00000204414](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000204414) | [1444](https://www.ncbi.nlm.nih.gov/gene/1444) | [MIM:603515](https://omim.org/entry/603515) |  |
 | Mouse | [ENSMUSG00000020713](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020713) | [14599](https://www.ncbi.nlm.nih.gov/gene/14599) | [MGI:95707](http://www.informatics.jax.org/marker/MGI:95707) | All phenotypic alleles (2):Chemically induced(1) Targeted, knock-out(1) |
-| Xenopus |  | [100492540](https://www.ncbi.nlm.nih.gov/gene/100492540), [399154](https://www.ncbi.nlm.nih.gov/gene/399154), [373617](https://www.ncbi.nlm.nih.gov/gene/373617) | [487881](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487881) |  |
-| Zebrafish | [ENSDARG00000038185](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038185) | [407639](https://www.ncbi.nlm.nih.gov/gene/407639) | [ZFIN:ZDB-GENE-030725-2](https://zfin.org/ZDB-GENE-030725-2) | ZDB-GENE-030725-2 |
+| Xenopus | [ENSXETG00000014248](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014248) | [100492540](https://www.ncbi.nlm.nih.gov/gene/100492540) |  |  |
+| Zebrafish | [ENSDARG00000038185](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038185) | [407639](https://www.ncbi.nlm.nih.gov/gene/407639) | [ZFIN:ZDB-GENE-030725-2](https://zfin.org/ZDB-GENE-030725-2) | adipose tissue development, animal organ development, growth hormone receptor signaling pathway, positive regulation of lipid catabolic process, positive regulation of receptor signaling pathway via JAK-STAT |
 

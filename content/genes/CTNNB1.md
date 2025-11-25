@@ -18,7 +18,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205081
   X-XIV: stage XI
 forward_primer: 5’-TGTTGTGACTTGCGCTGC-3'
-gene_id: '450523'
+gene_id: '395964'
 gene_type: protein-coding
 images:
 - caption: CTNNB1 expression
@@ -462,13 +462,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/β-Catenin.Jourdeuil.2016.Fig3.jpg
 name: catenin beta 1
-ncbi_id: '450523'
+ncbi_id: '395964'
 orthologs:
-- ensembl: ''
-  entrez: '31151'
-  mod: FBgn0000117
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000168036
   entrez: '1499'
   mod: MIM:116806
@@ -480,24 +475,25 @@ orthologs:
   phenotypes: All phenotypic alleles (16):Chemically induced(1) Targeted, knock-out(4)
     Targeted, other(11)
   species: Mouse
-- ensembl: ''
-  entrez: 549712,380441,399274
-  mod: '487199'
+- ensembl: ENSXETG00000013848
+  entrez: '549712'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000014571,ENSDARG00000023472
-  entrez: 30265,324004
-  mod: ZFIN:ZDB-GENE-980526-362,ZFIN:ZDB-GENE-040426-2575
-  phenotypes: ZDB-GENE-980526-362,ZDB-GENE-040426-2575
+- ensembl: ENSDARG00000014571
+  entrez: '30265'
+  mod: ZFIN:ZDB-GENE-980526-362
+  phenotypes: Wnt signaling pathway, animal organ development, canonical Wnt signaling
+    pathway, cell adhesion, cell-cell adhesion
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTCCGCTGTCTCGTTCCAAG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450523
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395964
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450523
+  url: https://www.ncbi.nlm.nih.gov/gene/395964
 species: Gallus gallus
 symbol: CTNNB1
 template_length: '840'
@@ -526,9 +522,8 @@ title: CTNNB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31151](https://www.ncbi.nlm.nih.gov/gene/31151) | FBgn0000117 |  |
 | Human | [ENSG00000168036](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000168036) | [1499](https://www.ncbi.nlm.nih.gov/gene/1499) | [MIM:116806](https://omim.org/entry/116806) | MIM:116806 |
 | Mouse | [ENSMUSG00000006932](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000006932) | [12387](https://www.ncbi.nlm.nih.gov/gene/12387) | [MGI:88276](http://www.informatics.jax.org/marker/MGI:88276) | All phenotypic alleles (16):Chemically induced(1) Targeted, knock-out(4) Targeted, other(11) |
-| Xenopus |  | [549712](https://www.ncbi.nlm.nih.gov/gene/549712), [380441](https://www.ncbi.nlm.nih.gov/gene/380441), [399274](https://www.ncbi.nlm.nih.gov/gene/399274) | [487199](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487199) |  |
-| Zebrafish | [ENSDARG00000014571](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014571), [ENSDARG00000023472](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023472) | [30265](https://www.ncbi.nlm.nih.gov/gene/30265), [324004](https://www.ncbi.nlm.nih.gov/gene/324004) | [ZFIN:ZDB-GENE-980526-362](https://zfin.org/ZDB-GENE-980526-362), [ZFIN:ZDB-GENE-040426-2575](https://zfin.org/ZDB-GENE-040426-2575) | ZDB-GENE-980526-362,ZDB-GENE-040426-2575 |
+| Xenopus | [ENSXETG00000013848](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013848) | [549712](https://www.ncbi.nlm.nih.gov/gene/549712) |  |  |
+| Zebrafish | [ENSDARG00000014571](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014571) | [30265](https://www.ncbi.nlm.nih.gov/gene/30265) | [ZFIN:ZDB-GENE-980526-362](https://zfin.org/ZDB-GENE-980526-362) | Wnt signaling pathway, animal organ development, canonical Wnt signaling pathway, cell adhesion, cell-cell adhesion |
 

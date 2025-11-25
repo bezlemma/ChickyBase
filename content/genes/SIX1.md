@@ -4,7 +4,6 @@ aliases:
 - sine oculis homeobox homolog 1
 cgnc_id: '54357'
 external_ids:
-  '13': stage 13
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (NM_001044685
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:693262
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001044685
 forward_primer: GGAGAACACGGAGAACAACAACG
-gene_id: '350063'
+gene_id: '693262'
 gene_type: protein-coding
 images:
 - caption: SIX1 expression
@@ -274,14 +273,9 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SIX1.Anderson.2019.Supplementary
     figure 5G2.jpg
 name: SIX homeobox 1
-ncbi_id: '350063'
+ncbi_id: '693262'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000126778
   entrez: '6495'
   mod: MIM:601205
   phenotypes: MIM:608389
@@ -292,24 +286,25 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Chemically induced(1) Targeted, knock-out(2)
     Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100101784,373734,100101702,398185
-  mod: 480716,481503
+- ensembl: ENSXETG00000016943
+  entrez: '100101702'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000039304
-  entrez: 404627,494168
-  mod: ZFIN:ZDB-GENE-040426-2308,ZFIN:ZDB-GENE-040718-155
-  phenotypes: ZDB-GENE-040426-2308,ZDB-GENE-040718-155
+- ensembl: ENSDARG00000026473
+  entrez: '404627'
+  mod: ZFIN:ZDB-GENE-040426-2308
+  phenotypes: adenohypophysis development, apoptotic process, chordate pharyngeal
+    muscle development, extraocular skeletal muscle development, inner ear development
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGAGGCAGACAGAGAGAGACGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=350063
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=693262
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/350063
+  url: https://www.ncbi.nlm.nih.gov/gene/693262
 species: Gallus gallus
 symbol: SIX1
 template_length: '944'
@@ -336,9 +331,8 @@ title: SIX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [6495](https://www.ncbi.nlm.nih.gov/gene/6495) | [MIM:601205](https://omim.org/entry/601205) | MIM:608389 |
+| Human | [ENSG00000126778](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000126778) | [6495](https://www.ncbi.nlm.nih.gov/gene/6495) | [MIM:601205](https://omim.org/entry/601205) | MIM:608389 |
 | Mouse | [ENSMUSG00000051367](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000051367) | [20471](https://www.ncbi.nlm.nih.gov/gene/20471) | [MGI:102780](http://www.informatics.jax.org/marker/MGI:102780) | All phenotypic alleles (5):Chemically induced(1) Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100101784](https://www.ncbi.nlm.nih.gov/gene/100101784), [373734](https://www.ncbi.nlm.nih.gov/gene/373734), [100101702](https://www.ncbi.nlm.nih.gov/gene/100101702), [398185](https://www.ncbi.nlm.nih.gov/gene/398185) | [480716](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480716), [481503](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481503) |  |
-| Zebrafish | [ENSDARG00000039304](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039304) | [404627](https://www.ncbi.nlm.nih.gov/gene/404627), [494168](https://www.ncbi.nlm.nih.gov/gene/494168) | [ZFIN:ZDB-GENE-040426-2308](https://zfin.org/ZDB-GENE-040426-2308), [ZFIN:ZDB-GENE-040718-155](https://zfin.org/ZDB-GENE-040718-155) | ZDB-GENE-040426-2308,ZDB-GENE-040718-155 |
+| Xenopus | [ENSXETG00000016943](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016943) | [100101702](https://www.ncbi.nlm.nih.gov/gene/100101702) |  |  |
+| Zebrafish | [ENSDARG00000026473](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026473) | [404627](https://www.ncbi.nlm.nih.gov/gene/404627) | [ZFIN:ZDB-GENE-040426-2308](https://zfin.org/ZDB-GENE-040426-2308) | adenohypophysis development, apoptotic process, chordate pharyngeal muscle development, extraocular skeletal muscle development, inner ear development |
 

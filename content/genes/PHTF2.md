@@ -13,7 +13,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006226
 forward_primer: GGGAAGGTCAAAAACCAAGTGTC
-gene_id: '452879'
+gene_id: '417728'
 gene_type: protein-coding
 images:
 - caption: PHTF2 expression
@@ -45,16 +45,11 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R441.PHTF2.S21.001.jpg
 name: putative homeodomain transcription factor 2
-ncbi_id: '452879'
+ncbi_id: '417728'
 orthologs:
-- ensembl: ''
-  entrez: '35583'
-  mod: FBgn0028579
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000006576
   entrez: '57157'
-  mod: ''
+  mod: MIM:616785
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000039987
@@ -62,24 +57,19 @@ orthologs:
   mod: MGI:1916020
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100496144,447011
-  mod: '1010977'
+- ensembl: ENSXETG00000019722
+  entrez: '100496144'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '432376'
-  mod: ZFIN:ZDB-GENE-040711-4
-  phenotypes: ZDB-GENE-040711-4
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCATCAGGAGAGCATCTATCTTACGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452879
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417728
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452879
+  url: https://www.ncbi.nlm.nih.gov/gene/417728
 species: Gallus gallus
 symbol: PHTF2
 template_length: '750'
@@ -106,9 +96,7 @@ title: PHTF2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35583](https://www.ncbi.nlm.nih.gov/gene/35583) | FBgn0028579 |  |
-| Human | [ENSG00000006576](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000006576) | [57157](https://www.ncbi.nlm.nih.gov/gene/57157) |  |  |
+| Human | [ENSG00000006576](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000006576) | [57157](https://www.ncbi.nlm.nih.gov/gene/57157) | [MIM:616785](https://omim.org/entry/616785) |  |
 | Mouse | [ENSMUSG00000039987](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039987) | [68770](https://www.ncbi.nlm.nih.gov/gene/68770) | [MGI:1916020](http://www.informatics.jax.org/marker/MGI:1916020) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [100496144](https://www.ncbi.nlm.nih.gov/gene/100496144), [447011](https://www.ncbi.nlm.nih.gov/gene/447011) | [1010977](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1010977) |  |
-| Zebrafish |  | [432376](https://www.ncbi.nlm.nih.gov/gene/432376) | [ZFIN:ZDB-GENE-040711-4](https://zfin.org/ZDB-GENE-040711-4) | ZDB-GENE-040711-4 |
+| Xenopus | [ENSXETG00000019722](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019722) | [100496144](https://www.ncbi.nlm.nih.gov/gene/100496144) |  |  |
 

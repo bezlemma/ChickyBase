@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424852
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031312
   X-XIV: stage XIII
-gene_id: '449044'
+gene_id: '424852'
 gene_type: protein-coding
 images:
 - caption: ING5 expression
@@ -52,13 +52,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ING5.Travers.2023-Fig7-2-E.jpg
 name: inhibitor of growth family member 5
-ncbi_id: '449044'
+ncbi_id: '424852'
 orthologs:
-- ensembl: ''
-  entrez: '34752'
-  mod: FBgn0032516
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000168395
   entrez: '84289'
   mod: MIM:608525
@@ -69,23 +64,24 @@ orthologs:
   mod: MGI:1922816
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 394462,495304
-  mod: '1004248'
+- ensembl: ENSXETG00000002976
+  entrez: '394462'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000022413
   entrez: '792168'
   mod: ZFIN:ZDB-GENE-031016-1
-  phenotypes: ZDB-GENE-031016-1
+  phenotypes: chromatin organization, positive regulation of apoptotic signaling pathway,
+    regulation of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449044
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424852
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449044
+  url: https://www.ncbi.nlm.nih.gov/gene/424852
 species: Gallus gallus
 symbol: ING5
 title: ING5
@@ -111,9 +107,8 @@ title: ING5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34752](https://www.ncbi.nlm.nih.gov/gene/34752) | FBgn0032516 |  |
 | Human | [ENSG00000168395](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000168395) | [84289](https://www.ncbi.nlm.nih.gov/gene/84289) | [MIM:608525](https://omim.org/entry/608525) |  |
 | Mouse | [ENSMUSG00000026283](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026283) | [66262](https://www.ncbi.nlm.nih.gov/gene/66262) | [MGI:1922816](http://www.informatics.jax.org/marker/MGI:1922816) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [394462](https://www.ncbi.nlm.nih.gov/gene/394462), [495304](https://www.ncbi.nlm.nih.gov/gene/495304) | [1004248](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1004248) |  |
-| Zebrafish | [ENSDARG00000022413](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000022413) | [792168](https://www.ncbi.nlm.nih.gov/gene/792168) | [ZFIN:ZDB-GENE-031016-1](https://zfin.org/ZDB-GENE-031016-1) | ZDB-GENE-031016-1 |
+| Xenopus | [ENSXETG00000002976](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002976) | [394462](https://www.ncbi.nlm.nih.gov/gene/394462) |  |  |
+| Zebrafish | [ENSDARG00000022413](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000022413) | [792168](https://www.ncbi.nlm.nih.gov/gene/792168) | [ZFIN:ZDB-GENE-031016-1](https://zfin.org/ZDB-GENE-031016-1) | chromatin organization, positive regulation of apoptotic signaling pathway, regulation of DNA-templated transcription |
 

@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:404771
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_213579
-gene_id: '462271'
+gene_id: '404771'
 gene_type: protein-coding
 images:
 - caption: GEM expression
@@ -42,13 +42,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GEM.Anderson.2019.Supplementary
     figure 5L.jpg
 name: GTP binding protein overexpressed in skeletal muscle
-ncbi_id: '462271'
+ncbi_id: '404771'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164949
   entrez: '2669'
   mod: MIM:600164
@@ -59,20 +54,20 @@ orthologs:
   mod: MGI:99844
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000014678
   entrez: '100038040'
-  mod: '483369'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000029112
   entrez: '560566'
   mod: ZFIN:ZDB-GENE-060825-251
-  phenotypes: ZDB-GENE-060825-251
+  phenotypes: negative regulation of high voltage-gated calcium channel activity
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462271
+  url: https://www.ncbi.nlm.nih.gov/gene/404771
 species: Gallus gallus
 symbol: GEM
 title: GEM
@@ -98,9 +93,8 @@ title: GEM
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164949](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164949) | [2669](https://www.ncbi.nlm.nih.gov/gene/2669) | [MIM:600164](https://omim.org/entry/600164) |  |
 | Mouse | [ENSMUSG00000028214](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028214) | [14579](https://www.ncbi.nlm.nih.gov/gene/14579) | [MGI:99844](http://www.informatics.jax.org/marker/MGI:99844) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100038040](https://www.ncbi.nlm.nih.gov/gene/100038040) | [483369](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483369) |  |
-| Zebrafish | [ENSDARG00000029112](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029112) | [560566](https://www.ncbi.nlm.nih.gov/gene/560566) | [ZFIN:ZDB-GENE-060825-251](https://zfin.org/ZDB-GENE-060825-251) | ZDB-GENE-060825-251 |
+| Xenopus | [ENSXETG00000014678](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014678) | [100038040](https://www.ncbi.nlm.nih.gov/gene/100038040) |  |  |
+| Zebrafish | [ENSDARG00000029112](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029112) | [560566](https://www.ncbi.nlm.nih.gov/gene/560566) | [ZFIN:ZDB-GENE-060825-251](https://zfin.org/ZDB-GENE-060825-251) | negative regulation of high voltage-gated calcium channel activity |
 

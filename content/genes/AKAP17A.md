@@ -5,7 +5,6 @@ aliases:
 - splicing factor, arginine/serine-rich 17A
 cgnc_id: '12506'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0010772
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/40699
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000016686
@@ -13,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418664
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001195550
 forward_primer: TAAAGGCGATGATGGCAAGG
-gene_id: '453704'
+gene_id: '418664'
 gene_type: protein-coding
 images:
 - caption: AKAP17A expression
@@ -163,41 +162,31 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R519.AKAP17A.S25.001.jpg
 name: A-kinase anchoring protein 17A
-ncbi_id: '453704'
+ncbi_id: '418664'
 orthologs:
-- ensembl: ''
-  entrez: '40699'
-  mod: FBgn0010772
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000197976
+- ensembl: ENSG00000292343
   entrez: '8227'
-  mod: MIM:312095
+  mod: MIM:465000
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000031078
+  entrez: '100038187'
   mod: ''
   phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: '100038187'
-  mod: '486902'
-  phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000104768
   entrez: '393655'
   mod: ZFIN:ZDB-GENE-040426-1460
-  phenotypes: ZDB-GENE-040426-1460
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGTCTGCGGTATGAAGTTTCTGACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453704
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418664
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453704
+  url: https://www.ncbi.nlm.nih.gov/gene/418664
 species: Gallus gallus
 symbol: AKAP17A
 template_length: '877'
@@ -221,9 +210,7 @@ title: AKAP17A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40699](https://www.ncbi.nlm.nih.gov/gene/40699) | FBgn0010772 |  |
-| Human | [ENSG00000197976](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197976) | [8227](https://www.ncbi.nlm.nih.gov/gene/8227) | [MIM:312095](https://omim.org/entry/312095) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100038187](https://www.ncbi.nlm.nih.gov/gene/100038187) | [486902](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486902) |  |
-| Zebrafish |  | [393655](https://www.ncbi.nlm.nih.gov/gene/393655) | [ZFIN:ZDB-GENE-040426-1460](https://zfin.org/ZDB-GENE-040426-1460) | ZDB-GENE-040426-1460 |
+| Human | [ENSG00000292343](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000292343) | [8227](https://www.ncbi.nlm.nih.gov/gene/8227) | [MIM:465000](https://omim.org/entry/465000) |  |
+| Xenopus | [ENSXETG00000031078](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031078) | [100038187](https://www.ncbi.nlm.nih.gov/gene/100038187) |  |  |
+| Zebrafish | [ENSDARG00000104768](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104768) | [393655](https://www.ncbi.nlm.nih.gov/gene/393655) | [ZFIN:ZDB-GENE-040426-1460](https://zfin.org/ZDB-GENE-040426-1460) |  |
 

@@ -4,7 +4,6 @@ aliases:
 - fibroblast growth factor receptor FREK
 cgnc_id: '49396'
 external_ids:
-  '25': stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Chen+2010+CECR2+Brand-Saberi
   Comments: 'Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (acc # AF083063).'
@@ -14,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395603
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642072
-gene_id: '449457'
+gene_id: '395603'
 gene_type: protein-coding
 images:
 - caption: FGFR4 expression
@@ -102,37 +101,34 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chen.Fig4.FREK.H.xsec.ST25.jpg
 name: fibroblast growth factor receptor 4
-ncbi_id: '449457'
+ncbi_id: '395603'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000160867
+  entrez: '2264'
+  mod: MIM:134935
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000005320
+  entrez: '14186'
+  mod: MGI:95525
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000007231
+  entrez: '549077'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000069105
+  entrez: '100000160'
+  mod: ZFIN:ZDB-GENE-980526-488
+  phenotypes: fibroblast growth factor receptor signaling pathway, phosphorylation,
+    positive regulation of ERK1 and ERK2 cascade, positive regulation of cell population
+    proliferation, protein phosphorylation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449457
+  url: https://www.ncbi.nlm.nih.gov/gene/395603
 species: Gallus gallus
 symbol: FGFR4
 title: FGFR4
@@ -158,9 +154,8 @@ title: FGFR4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000160867](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000160867) | [2264](https://www.ncbi.nlm.nih.gov/gene/2264) | [MIM:134935](https://omim.org/entry/134935) |  |
+| Mouse | [ENSMUSG00000005320](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005320) | [14186](https://www.ncbi.nlm.nih.gov/gene/14186) | [MGI:95525](http://www.informatics.jax.org/marker/MGI:95525) |  |
+| Xenopus | [ENSXETG00000007231](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007231) | [549077](https://www.ncbi.nlm.nih.gov/gene/549077) |  |  |
+| Zebrafish | [ENSDARG00000069105](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069105) | [100000160](https://www.ncbi.nlm.nih.gov/gene/100000160) | [ZFIN:ZDB-GENE-980526-488](https://zfin.org/ZDB-GENE-980526-488) | fibroblast growth factor receptor signaling pathway, phosphorylation, positive regulation of ERK1 and ERK2 cascade, positive regulation of cell population proliferation, protein phosphorylation |
 

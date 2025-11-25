@@ -4,7 +4,6 @@ aliases:
 - myeloid ecotropic viral insertion site-1a protein
 cgnc_id: '6659'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Afrakhte+2004+microarray
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Trevers et al. 2023.
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395589
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001139477
   X-XIV: stage XII
-gene_id: '449715'
+gene_id: '395589'
 gene_type: protein-coding
 images:
 - caption: MEIS1 expression
@@ -892,40 +891,20 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MEIS1.Travers.2023-Fig7-2-P.jpg
 name: Meis homeobox 1
-ncbi_id: '449715'
+ncbi_id: '395589'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000143995
+  entrez: '4211'
+  mod: MIM:601739
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449715
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395589
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449715
+  url: https://www.ncbi.nlm.nih.gov/gene/395589
 species: Gallus gallus
 symbol: MEIS1
 title: MEIS1
@@ -951,9 +930,5 @@ title: MEIS1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000143995](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143995) | [4211](https://www.ncbi.nlm.nih.gov/gene/4211) | [MIM:601739](https://omim.org/entry/601739) |  |
 

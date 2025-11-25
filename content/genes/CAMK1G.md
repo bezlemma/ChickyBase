@@ -7,7 +7,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419859
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417986
 forward_primer: CCCACCTTTCTATGAAGAGACCG
-gene_id: '452400'
+gene_id: '419859'
 gene_type: protein-coding
 images:
 - caption: CAMK1G expression
@@ -81,13 +81,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R570.CAMK1G.S26AAA.001.jpg
 name: calcium/calmodulin-dependent protein kinase IG
-ncbi_id: '452400'
+ncbi_id: '419859'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000008118
   entrez: '57172'
   mod: MIM:614994
@@ -98,24 +93,24 @@ orthologs:
   mod: MGI:2388073
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000008939
   entrez: '100494644'
-  mod: '6085001'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000044526,ENSDARG00000008788
-  entrez: 335654,393802
-  mod: ZFIN:ZDB-GENE-030131-7594,ZFIN:ZDB-GENE-040426-1694
-  phenotypes: ZDB-GENE-030131-7594,ZDB-GENE-040426-1694
+- ensembl: ENSDARG00000008788
+  entrez: '393802'
+  mod: ZFIN:ZDB-GENE-040426-1694
+  phenotypes: locomotor rhythm, phosphorylation, protein phosphorylation, signal transduction
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCCACAGTGAGATGAGTGCTTACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452400
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419859
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452400
+  url: https://www.ncbi.nlm.nih.gov/gene/419859
 species: Gallus gallus
 symbol: CAMK1G
 template_length: '715'
@@ -138,9 +133,8 @@ title: CAMK1G
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000008118](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000008118) | [57172](https://www.ncbi.nlm.nih.gov/gene/57172) | [MIM:614994](https://omim.org/entry/614994) |  |
 | Mouse | [ENSMUSG00000016179](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000016179) | [215303](https://www.ncbi.nlm.nih.gov/gene/215303) | [MGI:2388073](http://www.informatics.jax.org/marker/MGI:2388073) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [100494644](https://www.ncbi.nlm.nih.gov/gene/100494644) | [6085001](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6085001) |  |
-| Zebrafish | [ENSDARG00000044526](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044526), [ENSDARG00000008788](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008788) | [335654](https://www.ncbi.nlm.nih.gov/gene/335654), [393802](https://www.ncbi.nlm.nih.gov/gene/393802) | [ZFIN:ZDB-GENE-030131-7594](https://zfin.org/ZDB-GENE-030131-7594), [ZFIN:ZDB-GENE-040426-1694](https://zfin.org/ZDB-GENE-040426-1694) | ZDB-GENE-030131-7594,ZDB-GENE-040426-1694 |
+| Xenopus | [ENSXETG00000008939](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008939) | [100494644](https://www.ncbi.nlm.nih.gov/gene/100494644) |  |  |
+| Zebrafish | [ENSDARG00000008788](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008788) | [393802](https://www.ncbi.nlm.nih.gov/gene/393802) | [ZFIN:ZDB-GENE-040426-1694](https://zfin.org/ZDB-GENE-040426-1694) | locomotor rhythm, phosphorylation, protein phosphorylation, signal transduction |
 

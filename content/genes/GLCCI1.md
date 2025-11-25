@@ -4,14 +4,13 @@ aliases:
 - glucocorticoid induced transcript 1
 cgnc_id: '8133'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000010704
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420580
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012855
 forward_primer: 5’-TGAACGTGAGGAGAACCAGC-3’
-gene_id: '456730'
+gene_id: '420580'
 gene_type: protein-coding
 images:
 - caption: GLCCI1 expression
@@ -80,13 +79,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R660.GLCC21.S25.001.jpg
 name: glucocorticoid induced 1
-ncbi_id: '456730'
+ncbi_id: '420580'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000106415
   entrez: '113263'
   mod: MIM:614283
@@ -97,24 +91,24 @@ orthologs:
   mod: MGI:2179717
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100488419,100101317
-  mod: '5843689'
+- ensembl: ENSXETG00000007289
+  entrez: '100488419'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000008503
   entrez: '378997'
   mod: ZFIN:ZDB-GENE-031010-41
-  phenotypes: ZDB-GENE-031010-41
+  phenotypes: glomerular filtration, podocyte development
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGCAACGCTCTTCTTGTTCCG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456730
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420580
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456730
+  url: https://www.ncbi.nlm.nih.gov/gene/420580
 species: Gallus gallus
 symbol: GLCCI1
 template_length: '748'
@@ -137,9 +131,8 @@ title: GLCCI1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000106415](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000106415) | [113263](https://www.ncbi.nlm.nih.gov/gene/113263) | [MIM:614283](https://omim.org/entry/614283) |  |
 | Mouse | [ENSMUSG00000029638](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029638) | [170772](https://www.ncbi.nlm.nih.gov/gene/170772) | [MGI:2179717](http://www.informatics.jax.org/marker/MGI:2179717) |  |
-| Xenopus |  | [100488419](https://www.ncbi.nlm.nih.gov/gene/100488419), [100101317](https://www.ncbi.nlm.nih.gov/gene/100101317) | [5843689](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5843689) |  |
-| Zebrafish | [ENSDARG00000008503](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008503) | [378997](https://www.ncbi.nlm.nih.gov/gene/378997) | [ZFIN:ZDB-GENE-031010-41](https://zfin.org/ZDB-GENE-031010-41) | ZDB-GENE-031010-41 |
+| Xenopus | [ENSXETG00000007289](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007289) | [100488419](https://www.ncbi.nlm.nih.gov/gene/100488419) |  |  |
+| Zebrafish | [ENSDARG00000008503](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008503) | [378997](https://www.ncbi.nlm.nih.gov/gene/378997) | [ZFIN:ZDB-GENE-031010-41](https://zfin.org/ZDB-GENE-031010-41) | glomerular filtration, podocyte development |
 

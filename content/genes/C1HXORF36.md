@@ -126,7 +126,7 @@ orthologs:
 - ensembl: ENSDARG00000061747
   entrez: '569232'
   mod: ZFIN:ZDB-GENE-110411-223
-  phenotypes: ZDB-GENE-110411-223
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -161,5 +161,5 @@ title: C1HXORF36
 | Human | [ENSG00000147113](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000147113) | [79742](https://www.ncbi.nlm.nih.gov/gene/79742) |  |  |
 | Mouse | [ENSMUSG00000037358](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037358) | [75905](https://www.ncbi.nlm.nih.gov/gene/75905) | [MGI:1923155](http://www.informatics.jax.org/marker/MGI:1923155) |  |
 | Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000061747](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061747) | [569232](https://www.ncbi.nlm.nih.gov/gene/569232) | [ZFIN:ZDB-GENE-110411-223](https://zfin.org/ZDB-GENE-110411-223) | ZDB-GENE-110411-223 |
+| Zebrafish | [ENSDARG00000061747](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061747) | [569232](https://www.ncbi.nlm.nih.gov/gene/569232) | [ZFIN:ZDB-GENE-110411-223](https://zfin.org/ZDB-GENE-110411-223) |  |
 

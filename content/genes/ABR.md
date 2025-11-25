@@ -4,13 +4,12 @@ aliases:
 - active BCR-related, ABR
 cgnc_id: '57125'
 external_ids:
-  '25': stage 25stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000004364
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771897
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642408
 forward_primer: CTGCTATGAGAAGTGCTATGAC
-gene_id: '452438'
+gene_id: '771897'
 gene_type: protein-coding
 images:
 - caption: ABR expression
@@ -190,41 +189,31 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R389.ABR.S25.002.jpg
 name: ABR, RhoGEF and GTPase activating protein
-ncbi_id: '452438'
+ncbi_id: '771897'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000278741
+  entrez: '29'
+  mod: MIM:600365
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000017631
+  entrez: '109934'
+  mod: MGI:107771
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000008021
+  entrez: '779766'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCGTGGAGAAGTAAAGTGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452438
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771897
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452438
+  url: https://www.ncbi.nlm.nih.gov/gene/771897
 species: Gallus gallus
 symbol: ABR
 template_length: '869'
@@ -246,9 +235,7 @@ title: ABR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000278741](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000278741) | [29](https://www.ncbi.nlm.nih.gov/gene/29) | [MIM:600365](https://omim.org/entry/600365) |  |
+| Mouse | [ENSMUSG00000017631](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000017631) | [109934](https://www.ncbi.nlm.nih.gov/gene/109934) | [MGI:107771](http://www.informatics.jax.org/marker/MGI:107771) |  |
+| Xenopus | [ENSXETG00000008021](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008021) | [779766](https://www.ncbi.nlm.nih.gov/gene/779766) |  |  |
 

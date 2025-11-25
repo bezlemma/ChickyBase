@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420271
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418383
 forward_primer: GCATTGTTCTCAACTCCTACTGCG
-gene_id: '457333'
+gene_id: '420271'
 gene_type: protein-coding
 images:
 - caption: RSPO2 expression
@@ -133,13 +133,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R447.RSP02.S27C.001.jpg
 name: R-spondin 2
-ncbi_id: '457333'
+ncbi_id: '420271'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000147655
   entrez: '340419'
   mod: MIM:610575
@@ -151,24 +146,25 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(3)
     Transgenic(1)
   species: Mouse
-- ensembl: ''
-  entrez: 496854,496383
-  mod: '946234'
+- ensembl: ENSXETG00000003600
+  entrez: '496854'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000079570
   entrez: '566054'
   mod: ZFIN:ZDB-GENE-060503-667
-  phenotypes: ZDB-GENE-060503-667
+  phenotypes: Wnt signaling pathway, anal fin development, caudal fin development,
+    cranial skeletal system development, dorsal fin development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAAAAGACACCTTCCCCCAACCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457333
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420271
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457333
+  url: https://www.ncbi.nlm.nih.gov/gene/420271
 species: Gallus gallus
 symbol: RSPO2
 template_length: '792'
@@ -190,9 +186,8 @@ title: RSPO2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000147655](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000147655) | [340419](https://www.ncbi.nlm.nih.gov/gene/340419) | [MIM:610575](https://omim.org/entry/610575) |  |
 | Mouse | [ENSMUSG00000051920](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000051920) | [239405](https://www.ncbi.nlm.nih.gov/gene/239405) | [MGI:1922667](http://www.informatics.jax.org/marker/MGI:1922667) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(3) Transgenic(1) |
-| Xenopus |  | [496854](https://www.ncbi.nlm.nih.gov/gene/496854), [496383](https://www.ncbi.nlm.nih.gov/gene/496383) | [946234](http://www.xenbase.org/gene/showgene.do?method=display&geneId=946234) |  |
-| Zebrafish | [ENSDARG00000079570](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079570) | [566054](https://www.ncbi.nlm.nih.gov/gene/566054) | [ZFIN:ZDB-GENE-060503-667](https://zfin.org/ZDB-GENE-060503-667) | ZDB-GENE-060503-667 |
+| Xenopus | [ENSXETG00000003600](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003600) | [496854](https://www.ncbi.nlm.nih.gov/gene/496854) |  |  |
+| Zebrafish | [ENSDARG00000079570](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079570) | [566054](https://www.ncbi.nlm.nih.gov/gene/566054) | [ZFIN:ZDB-GENE-060503-667](https://zfin.org/ZDB-GENE-060503-667) | Wnt signaling pathway, anal fin development, caudal fin development, cranial skeletal system development, dorsal fin development |
 

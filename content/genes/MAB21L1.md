@@ -5,7 +5,6 @@ aliases:
 - protein mab-21-like 1
 cgnc_id: '12813'
 external_ids:
-  '19': stage 19
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0029003
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0043010
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
@@ -19,7 +18,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395208
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204533
-gene_id: '363850'
+gene_id: '395208'
 gene_type: protein-coding
 images:
 - caption: MAB21L1 expression
@@ -91,14 +90,9 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAB21L1.Anderson.2019.Supplementary
     figure 4J.jpg
 name: mab-21 like 1
-ncbi_id: '363850'
+ncbi_id: '395208'
 orthologs:
-- ensembl: ''
-  entrez: '44127'
-  mod: FBgn0029003
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000180660
   entrez: '4081'
   mod: MIM:601280
   phenotypes: ''
@@ -108,23 +102,23 @@ orthologs:
   mod: MGI:1333773
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 780258,443891
-  mod: '1001176'
+- ensembl: ENSXETG00000017124
+  entrez: '780258'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000055089
+- ensembl: ENSDARG00000102047
   entrez: '246091'
   mod: ZFIN:ZDB-GENE-020516-1
-  phenotypes: ZDB-GENE-020516-1
+  phenotypes: cornea development in camera-type eye
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=363850
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395208
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/363850
+  url: https://www.ncbi.nlm.nih.gov/gene/395208
 species: Gallus gallus
 symbol: MAB21L1
 title: MAB21L1
@@ -154,9 +148,8 @@ title: MAB21L1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [44127](https://www.ncbi.nlm.nih.gov/gene/44127) | FBgn0029003 |  |
-| Human |  | [4081](https://www.ncbi.nlm.nih.gov/gene/4081) | [MIM:601280](https://omim.org/entry/601280) |  |
+| Human | [ENSG00000180660](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000180660) | [4081](https://www.ncbi.nlm.nih.gov/gene/4081) | [MIM:601280](https://omim.org/entry/601280) |  |
 | Mouse | [ENSMUSG00000056947](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000056947) | [17116](https://www.ncbi.nlm.nih.gov/gene/17116) | [MGI:1333773](http://www.informatics.jax.org/marker/MGI:1333773) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [780258](https://www.ncbi.nlm.nih.gov/gene/780258), [443891](https://www.ncbi.nlm.nih.gov/gene/443891) | [1001176](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1001176) |  |
-| Zebrafish | [ENSDARG00000055089](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055089) | [246091](https://www.ncbi.nlm.nih.gov/gene/246091) | [ZFIN:ZDB-GENE-020516-1](https://zfin.org/ZDB-GENE-020516-1) | ZDB-GENE-020516-1 |
+| Xenopus | [ENSXETG00000017124](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017124) | [780258](https://www.ncbi.nlm.nih.gov/gene/780258) |  |  |
+| Zebrafish | [ENSDARG00000102047](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000102047) | [246091](https://www.ncbi.nlm.nih.gov/gene/246091) | [ZFIN:ZDB-GENE-020516-1](https://zfin.org/ZDB-GENE-020516-1) | cornea development in camera-type eye |
 

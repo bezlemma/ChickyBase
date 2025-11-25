@@ -17,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001271903
   X-XIV: stage XII
-gene_id: '455649'
+gene_id: '420769'
 gene_type: protein-coding
 images:
 - caption: GLI3 expression
@@ -611,13 +611,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI3.Travers.2023-Fig7-1-V.jpg
 name: GLI family zinc finger 3
-ncbi_id: '455649'
+ncbi_id: '420769'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000106571
   entrez: '2737'
   mod: MIM:165240
@@ -629,23 +624,25 @@ orthologs:
   phenotypes: All phenotypic alleles (21):Targeted, knock-out(3) Targeted, other(6)
     Transgenic(2) Spontaneous(4) Chemically induced(1) Radiation induced(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100101789,397837
-  mod: '484854'
+- ensembl: ENSXETG00000001856
+  entrez: '100101789'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000052131
   entrez: '403042'
   mod: ZFIN:ZDB-GENE-041111-162
-  phenotypes: ZDB-GENE-041111-162
+  phenotypes: generation of neurons, negative regulation of transcription by RNA polymerase
+    II, regulation of DNA-templated transcription, regulation of gene expression,
+    regulation of neurogenesis
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455649
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420769
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455649
+  url: https://www.ncbi.nlm.nih.gov/gene/420769
 species: Gallus gallus
 symbol: GLI3
 title: GLI3
@@ -674,9 +671,8 @@ title: GLI3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000106571](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000106571) | [2737](https://www.ncbi.nlm.nih.gov/gene/2737) | [MIM:165240](https://omim.org/entry/165240) | MIM:200990 |
 | Mouse | [ENSMUSG00000021318](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021318) | [14634](https://www.ncbi.nlm.nih.gov/gene/14634) | [MGI:95729](http://www.informatics.jax.org/marker/MGI:95729) | All phenotypic alleles (21):Targeted, knock-out(3) Targeted, other(6) Transgenic(2) Spontaneous(4) Chemically induced(1) Radiation induced(5) |
-| Xenopus |  | [100101789](https://www.ncbi.nlm.nih.gov/gene/100101789), [397837](https://www.ncbi.nlm.nih.gov/gene/397837) | [484854](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484854) |  |
-| Zebrafish | [ENSDARG00000052131](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052131) | [403042](https://www.ncbi.nlm.nih.gov/gene/403042) | [ZFIN:ZDB-GENE-041111-162](https://zfin.org/ZDB-GENE-041111-162) | ZDB-GENE-041111-162 |
+| Xenopus | [ENSXETG00000001856](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001856) | [100101789](https://www.ncbi.nlm.nih.gov/gene/100101789) |  |  |
+| Zebrafish | [ENSDARG00000052131](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052131) | [403042](https://www.ncbi.nlm.nih.gov/gene/403042) | [ZFIN:ZDB-GENE-041111-162](https://zfin.org/ZDB-GENE-041111-162) | generation of neurons, negative regulation of transcription by RNA polymerase II, regulation of DNA-templated transcription, regulation of gene expression, regulation of neurogenesis |
 

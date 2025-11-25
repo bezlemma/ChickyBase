@@ -12,7 +12,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/777883
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NW_003778003.1?report=genbank&from=32418&to=32527
-gene_id: '468022'
+gene_id: '777883'
 gene_type: miscRNA
 images:
 - caption: MIR7B expression
@@ -30,7 +30,7 @@ images:
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/7b1x.74.15.jpg
 name: microRNA 7b
-ncbi_id: '468022'
+ncbi_id: '777883'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -60,7 +60,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468022
+  url: https://www.ncbi.nlm.nih.gov/gene/777883
 species: Gallus gallus
 symbol: MIR7B
 title: MIR7B

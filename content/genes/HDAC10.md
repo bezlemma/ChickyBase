@@ -3,7 +3,6 @@ aliases:
 - histone deacetylase 10, HDAC10
 cgnc_id: '50586'
 external_ids:
-  '19': stage 19
   Comments: Images and probe sequence provided by Claire Anderson. The probe was synthesized
     from cDNA clone ChEST759f10.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417742
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415986
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAGAGCAGCACATAAACCCTATTGG
-gene_id: '452853'
+gene_id: '417742'
 gene_type: protein-coding
 images:
 - caption: HDAC10 expression
@@ -192,13 +191,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HDAC10_stage 12 x25
     dorsal.jpg
 name: histone deacetylase 10
-ncbi_id: '452853'
+ncbi_id: '417742'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100429
   entrez: '83933'
   mod: MIM:608544
@@ -209,24 +203,25 @@ orthologs:
   mod: MGI:2158340
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100497245,734402
-  mod: '5857297'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000031474
+  entrez: '100497245'
   mod: ''
   phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000086458
+  entrez: '327253'
+  mod: ZFIN:ZDB-GENE-030131-5464
+  phenotypes: homologous recombination, macroautophagy, polyamine deacetylation, regulation
+    of tubulin deacetylation, spermidine deacetylation
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGCATTGAAGCATTTTCCAGTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452853
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417742
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452853
+  url: https://www.ncbi.nlm.nih.gov/gene/417742
 species: Gallus gallus
 symbol: HDAC10
 template_length: '1024'
@@ -251,9 +246,8 @@ title: HDAC10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000100429](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100429) | [83933](https://www.ncbi.nlm.nih.gov/gene/83933) | [MIM:608544](https://omim.org/entry/608544) |  |
 | Mouse | [ENSMUSG00000062906](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000062906) | [170787](https://www.ncbi.nlm.nih.gov/gene/170787) | [MGI:2158340](http://www.informatics.jax.org/marker/MGI:2158340) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100497245](https://www.ncbi.nlm.nih.gov/gene/100497245), [734402](https://www.ncbi.nlm.nih.gov/gene/734402) | [5857297](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5857297) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000031474](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031474) | [100497245](https://www.ncbi.nlm.nih.gov/gene/100497245) |  |  |
+| Zebrafish | [ENSDARG00000086458](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000086458) | [327253](https://www.ncbi.nlm.nih.gov/gene/327253) | [ZFIN:ZDB-GENE-030131-5464](https://zfin.org/ZDB-GENE-030131-5464) | homologous recombination, macroautophagy, polyamine deacetylation, regulation of tubulin deacetylation, spermidine deacetylation |
 

@@ -14,7 +14,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003779
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004380
 forward_primer: ACAATCTCCCCTTCAACCACTC
-gene_id: '452987'
+gene_id: '417771'
 gene_type: protein-coding
 images:
 - caption: CAPZA2 expression
@@ -244,41 +244,31 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R564.CAPZA2.S27AAA.001.jpg
 name: capping actin protein of muscle Z-line alpha subunit 2
-ncbi_id: '452987'
+ncbi_id: '417771'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000198898
   entrez: '830'
   mod: MIM:601571
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000015733
   entrez: '12343'
   mod: MGI:106222
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 550008,443925
-  mod: '489167'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000021760
+  entrez: '550008'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: AATTAACCCTCACTAAAGGTTTCAACAACAGCACCTATCGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452987
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417771
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452987
+  url: https://www.ncbi.nlm.nih.gov/gene/417771
 species: Gallus gallus
 symbol: CAPZA2
 template_length: '783'
@@ -304,9 +294,7 @@ title: CAPZA2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [830](https://www.ncbi.nlm.nih.gov/gene/830) | [MIM:601571](https://omim.org/entry/601571) |  |
-| Mouse |  | [12343](https://www.ncbi.nlm.nih.gov/gene/12343) | [MGI:106222](http://www.informatics.jax.org/marker/MGI:106222) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [550008](https://www.ncbi.nlm.nih.gov/gene/550008), [443925](https://www.ncbi.nlm.nih.gov/gene/443925) | [489167](http://www.xenbase.org/gene/showgene.do?method=display&geneId=489167) |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000198898](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198898) | [830](https://www.ncbi.nlm.nih.gov/gene/830) | [MIM:601571](https://omim.org/entry/601571) |  |
+| Mouse | [ENSMUSG00000015733](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000015733) | [12343](https://www.ncbi.nlm.nih.gov/gene/12343) | [MGI:106222](http://www.informatics.jax.org/marker/MGI:106222) | All phenotypic alleles (2):Targeted, other(2) |
+| Xenopus | [ENSXETG00000021760](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021760) | [550008](https://www.ncbi.nlm.nih.gov/gene/550008) |  |  |
 

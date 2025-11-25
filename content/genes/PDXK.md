@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418549
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001278084
-gene_id: '453327'
+gene_id: '418549'
 gene_type: protein-coding
 images:
 - caption: PDXK expression
@@ -61,40 +61,36 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53zc6.124.18.10xc.jpg
 name: pyridoxal kinase
-ncbi_id: '453327'
+ncbi_id: '418549'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000160209
+  entrez: '8566'
+  mod: MIM:179020
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000032788
+  entrez: '216134'
+  mod: MGI:1351869
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000038974
+  entrez: '780170'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000088959
+  entrez: '791775'
+  mod: ZFIN:ZDB-GENE-030131-8376
+  phenotypes: phosphorylation, pyridoxal 5'-phosphate salvage, pyridoxal phosphate
+    metabolic process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453327
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418549
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453327
+  url: https://www.ncbi.nlm.nih.gov/gene/418549
 species: Gallus gallus
 symbol: PDXK
 title: PDXK
@@ -115,9 +111,8 @@ title: PDXK
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000160209](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000160209) | [8566](https://www.ncbi.nlm.nih.gov/gene/8566) | [MIM:179020](https://omim.org/entry/179020) |  |
+| Mouse | [ENSMUSG00000032788](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032788) | [216134](https://www.ncbi.nlm.nih.gov/gene/216134) | [MGI:1351869](http://www.informatics.jax.org/marker/MGI:1351869) |  |
+| Xenopus | [ENSXETG00000038974](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000038974) | [780170](https://www.ncbi.nlm.nih.gov/gene/780170) |  |  |
+| Zebrafish | [ENSDARG00000088959](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000088959) | [791775](https://www.ncbi.nlm.nih.gov/gene/791775) | [ZFIN:ZDB-GENE-030131-8376](https://zfin.org/ZDB-GENE-030131-8376) | phosphorylation, pyridoxal 5'-phosphate salvage, pyridoxal phosphate metabolic process |
 

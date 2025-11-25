@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:770168
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003643030
-gene_id: '465565'
+gene_id: '770168'
 gene_type: protein-coding
 images:
 - caption: GAS1 expression
@@ -64,37 +64,17 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kahane.2013.Fig1_Allimages-10.jpg
 name: growth arrest-specific 1
-ncbi_id: '465565'
+ncbi_id: '770168'
 orthologs:
 - ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+  entrez: '100330109'
+  mod: ZFIN:ZDB-GENE-120215-128
+  phenotypes: regulation of cell cycle
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/465565
+  url: https://www.ncbi.nlm.nih.gov/gene/770168
 species: Gallus gallus
 symbol: GAS1
 title: GAS1
@@ -120,9 +100,5 @@ title: GAS1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Zebrafish |  | [100330109](https://www.ncbi.nlm.nih.gov/gene/100330109) | [ZFIN:ZDB-GENE-120215-128](https://zfin.org/ZDB-GENE-120215-128) | regulation of cell cycle |
 

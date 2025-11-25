@@ -180,7 +180,7 @@ orthologs:
 - ensembl: ENSDARG00000030608
   entrez: '393653'
   mod: ZFIN:ZDB-GENE-040426-1504
-  phenotypes: ZDB-GENE-040426-1504
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGTCTCTGGGAGTCATCAATG
 sources:
@@ -215,5 +215,5 @@ title: RHOGL
 | Human |  |  |  |  |
 | Mouse |  |  |  |  |
 | Xenopus |  | [100216282](https://www.ncbi.nlm.nih.gov/gene/100216282), [379691](https://www.ncbi.nlm.nih.gov/gene/379691) | [493449](http://www.xenbase.org/gene/showgene.do?method=display&geneId=493449) |  |
-| Zebrafish | [ENSDARG00000030608](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030608) | [393653](https://www.ncbi.nlm.nih.gov/gene/393653) | [ZFIN:ZDB-GENE-040426-1504](https://zfin.org/ZDB-GENE-040426-1504) | ZDB-GENE-040426-1504 |
+| Zebrafish | [ENSDARG00000030608](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030608) | [393653](https://www.ncbi.nlm.nih.gov/gene/393653) | [ZFIN:ZDB-GENE-040426-1504](https://zfin.org/ZDB-GENE-040426-1504) |  |
 

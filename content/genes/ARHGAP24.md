@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422593
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420552
 forward_primer: GCAGCAGTGATAACAGTGAAAC
-gene_id: '452230'
+gene_id: '422593'
 gene_type: protein-coding
 images:
 - caption: ARHGAP24 expression
@@ -137,13 +137,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R412.ARHGAP24.S27D.001.jpg
 name: Rho GTPase activating protein 24
-ncbi_id: '452230'
+ncbi_id: '422593'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138639
   entrez: '83478'
   mod: MIM:610586
@@ -154,24 +149,26 @@ orthologs:
   mod: MGI:1922647
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000006200
   entrez: '100488856'
-  mod: '996256'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000060175
+- ensembl: ENSDARG00000100973
   entrez: '100005116'
   mod: ZFIN:ZDB-GENE-091118-20
-  phenotypes: ZDB-GENE-091118-20
+  phenotypes: negative regulation of Rac protein signal transduction, negative regulation
+    of ruffle assembly, regulation of small GTPase mediated signal transduction, signal
+    transduction, wound healing, spreading of epidermal cells
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCCTCTCAAACAGGCACCTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452230
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422593
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452230
+  url: https://www.ncbi.nlm.nih.gov/gene/422593
 species: Gallus gallus
 symbol: ARHGAP24
 template_length: '1086'
@@ -193,9 +190,8 @@ title: ARHGAP24
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000138639](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138639) | [83478](https://www.ncbi.nlm.nih.gov/gene/83478) | [MIM:610586](https://omim.org/entry/610586) |  |
 | Mouse | [ENSMUSG00000057315](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000057315) | [231532](https://www.ncbi.nlm.nih.gov/gene/231532) | [MGI:1922647](http://www.informatics.jax.org/marker/MGI:1922647) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100488856](https://www.ncbi.nlm.nih.gov/gene/100488856) | [996256](http://www.xenbase.org/gene/showgene.do?method=display&geneId=996256) |  |
-| Zebrafish | [ENSDARG00000060175](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060175) | [100005116](https://www.ncbi.nlm.nih.gov/gene/100005116) | [ZFIN:ZDB-GENE-091118-20](https://zfin.org/ZDB-GENE-091118-20) | ZDB-GENE-091118-20 |
+| Xenopus | [ENSXETG00000006200](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006200) | [100488856](https://www.ncbi.nlm.nih.gov/gene/100488856) |  |  |
+| Zebrafish | [ENSDARG00000100973](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000100973) | [100005116](https://www.ncbi.nlm.nih.gov/gene/100005116) | [ZFIN:ZDB-GENE-091118-20](https://zfin.org/ZDB-GENE-091118-20) | negative regulation of Rac protein signal transduction, negative regulation of ruffle assembly, regulation of small GTPase mediated signal transduction, signal transduction, wound healing, spreading of epidermal cells |
 

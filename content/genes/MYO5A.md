@@ -21,7 +21,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396237
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205300
-gene_id: '462388'
+gene_id: '396237'
 gene_type: protein-coding
 images:
 - caption: MYO5A expression
@@ -32,13 +32,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54zb9.127.23.jpg
 name: myosin VA
-ncbi_id: '462388'
+ncbi_id: '396237'
 orthologs:
-- ensembl: ''
-  entrez: '35680'
-  mod: FBgn0261397
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000197535
   entrez: '4644'
   mod: MIM:160777
@@ -50,23 +45,23 @@ orthologs:
   phenotypes: All phenotypic alleles (73):Spontaneous(53) Chemically induced(17) Targeted,
     other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100495365,380409
-  mod: '1004101'
+- ensembl: ENSXETG00000020736
+  entrez: '100495365'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000061635
-  entrez: 562188,565267
-  mod: ZFIN:ZDB-GENE-041027-2,ZFIN:ZDB-GENE-050411-72
-  phenotypes: ZDB-GENE-041027-2,ZDB-GENE-050411-72
+  entrez: '562188'
+  mod: ZFIN:ZDB-GENE-041027-2
+  phenotypes: actin filament organization, endocytosis, system development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462388
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396237
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462388
+  url: https://www.ncbi.nlm.nih.gov/gene/396237
 species: Gallus gallus
 symbol: MYO5A
 title: MYO5A
@@ -94,9 +89,8 @@ title: MYO5A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35680](https://www.ncbi.nlm.nih.gov/gene/35680) | FBgn0261397 |  |
 | Human | [ENSG00000197535](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197535) | [4644](https://www.ncbi.nlm.nih.gov/gene/4644) | [MIM:160777](https://omim.org/entry/160777) | MIM:214450 |
 | Mouse | [ENSMUSG00000034593](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034593) | [17918](https://www.ncbi.nlm.nih.gov/gene/17918) | [MGI:105976](http://www.informatics.jax.org/marker/MGI:105976) | All phenotypic alleles (73):Spontaneous(53) Chemically induced(17) Targeted, other(3) |
-| Xenopus |  | [100495365](https://www.ncbi.nlm.nih.gov/gene/100495365), [380409](https://www.ncbi.nlm.nih.gov/gene/380409) | [1004101](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1004101) |  |
-| Zebrafish | [ENSDARG00000061635](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061635) | [562188](https://www.ncbi.nlm.nih.gov/gene/562188), [565267](https://www.ncbi.nlm.nih.gov/gene/565267) | [ZFIN:ZDB-GENE-041027-2](https://zfin.org/ZDB-GENE-041027-2), [ZFIN:ZDB-GENE-050411-72](https://zfin.org/ZDB-GENE-050411-72) | ZDB-GENE-041027-2,ZDB-GENE-050411-72 |
+| Xenopus | [ENSXETG00000020736](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020736) | [100495365](https://www.ncbi.nlm.nih.gov/gene/100495365) |  |  |
+| Zebrafish | [ENSDARG00000061635](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061635) | [562188](https://www.ncbi.nlm.nih.gov/gene/562188) | [ZFIN:ZDB-GENE-041027-2](https://zfin.org/ZDB-GENE-041027-2) | actin filament organization, endocytosis, system development |
 

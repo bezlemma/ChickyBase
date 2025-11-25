@@ -1,7 +1,6 @@
 ---
 cgnc_id: '49009'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0264075
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Nanka+embryonic+angiogenesis+hypoxia
   Comments: Insufficient information provided in publication to verify exact sequence
@@ -14,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374026
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204200
 forward_primer: GCTTGATTTTGATGATGATGGCG
-gene_id: '454544'
+gene_id: '374026'
 gene_type: protein-coding
 images:
 - caption: ARNT expression
@@ -138,13 +137,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R365.ARNT.S25.001.jpg
 name: aryl hydrocarbon receptor nuclear translocator
-ncbi_id: '454544'
+ncbi_id: '374026'
 orthologs:
-- ensembl: ''
-  entrez: '41084'
-  mod: FBgn0264075
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000143437
   entrez: '405'
   mod: MIM:126110
@@ -155,24 +149,19 @@ orthologs:
   mod: MGI:88071
   phenotypes: All phenotypic alleles (9):Targeted, knock-out(3) Targeted, other(6)
   species: Mouse
-- ensembl: ''
-  entrez: 100144695,399025
-  mod: '855449'
+- ensembl: ENSXETG00000008942
+  entrez: '100144695'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '493634'
-  mod: ZFIN:ZDB-GENE-060126-7
-  phenotypes: ZDB-GENE-060126-7
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCTGGCAGGAATGGCTTTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454544
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374026
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454544
+  url: https://www.ncbi.nlm.nih.gov/gene/374026
 species: Gallus gallus
 symbol: ARNT
 template_length: '1659'
@@ -201,9 +190,7 @@ title: ARNT
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41084](https://www.ncbi.nlm.nih.gov/gene/41084) | FBgn0264075 |  |
 | Human | [ENSG00000143437](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143437) | [405](https://www.ncbi.nlm.nih.gov/gene/405) | [MIM:126110](https://omim.org/entry/126110) | MIM:126110 |
 | Mouse | [ENSMUSG00000015522](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000015522) | [11863](https://www.ncbi.nlm.nih.gov/gene/11863) | [MGI:88071](http://www.informatics.jax.org/marker/MGI:88071) | All phenotypic alleles (9):Targeted, knock-out(3) Targeted, other(6) |
-| Xenopus |  | [100144695](https://www.ncbi.nlm.nih.gov/gene/100144695), [399025](https://www.ncbi.nlm.nih.gov/gene/399025) | [855449](http://www.xenbase.org/gene/showgene.do?method=display&geneId=855449) |  |
-| Zebrafish |  | [493634](https://www.ncbi.nlm.nih.gov/gene/493634) | [ZFIN:ZDB-GENE-060126-7](https://zfin.org/ZDB-GENE-060126-7) | ZDB-GENE-060126-7 |
+| Xenopus | [ENSXETG00000008942](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008942) | [100144695](https://www.ncbi.nlm.nih.gov/gene/100144695) |  |  |
 

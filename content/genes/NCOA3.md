@@ -3,13 +3,12 @@ aliases:
 - nuclear receptor coactivator 3
 cgnc_id: '3378'
 external_ids:
-  '25': stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000004570
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419208
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417385
 forward_primer: TTCAAGCCATTAGTGAGGGGG
-gene_id: '455794'
+gene_id: '419208'
 gene_type: protein-coding
 images:
 - caption: NCOA3 expression
@@ -125,13 +124,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R310.NCOA3.S25.001.jpg
 name: nuclear receptor coactivator 3
-ncbi_id: '455794'
+ncbi_id: '419208'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000124151
   entrez: '8202'
   mod: MIM:601937
@@ -142,24 +136,26 @@ orthologs:
   mod: MGI:1276535
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 733554,398021
-  mod: '486617'
+- ensembl: ENSXETG00000003480
+  entrez: '733554'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000077404
-  entrez: 100333349,564519
+  entrez: '564519'
   mod: ZFIN:ZDB-GENE-051107-8
-  phenotypes: ZDB-GENE-051107-8
+  phenotypes: animal organ development, cellular response to hormone stimulus, positive
+    regulation of transcription by RNA polymerase II, regulation of DNA-templated
+    transcription, regulation of bone mineralization
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAGGGATGCTGTTAGAACGGACG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455794
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419208
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455794
+  url: https://www.ncbi.nlm.nih.gov/gene/419208
 species: Gallus gallus
 symbol: NCOA3
 template_length: '1334'
@@ -181,9 +177,8 @@ title: NCOA3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000124151](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000124151) | [8202](https://www.ncbi.nlm.nih.gov/gene/8202) | [MIM:601937](https://omim.org/entry/601937) |  |
 | Mouse | [ENSMUSG00000027678](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027678) | [17979](https://www.ncbi.nlm.nih.gov/gene/17979) | [MGI:1276535](http://www.informatics.jax.org/marker/MGI:1276535) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4) |
-| Xenopus |  | [733554](https://www.ncbi.nlm.nih.gov/gene/733554), [398021](https://www.ncbi.nlm.nih.gov/gene/398021) | [486617](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486617) |  |
-| Zebrafish | [ENSDARG00000077404](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077404) | [100333349](https://www.ncbi.nlm.nih.gov/gene/100333349), [564519](https://www.ncbi.nlm.nih.gov/gene/564519) | [ZFIN:ZDB-GENE-051107-8](https://zfin.org/ZDB-GENE-051107-8) | ZDB-GENE-051107-8 |
+| Xenopus | [ENSXETG00000003480](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003480) | [733554](https://www.ncbi.nlm.nih.gov/gene/733554) |  |  |
+| Zebrafish | [ENSDARG00000077404](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077404) | [564519](https://www.ncbi.nlm.nih.gov/gene/564519) | [ZFIN:ZDB-GENE-051107-8](https://zfin.org/ZDB-GENE-051107-8) | animal organ development, cellular response to hormone stimulus, positive regulation of transcription by RNA polymerase II, regulation of DNA-templated transcription, regulation of bone mineralization |
 

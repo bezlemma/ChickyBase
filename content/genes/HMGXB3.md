@@ -4,14 +4,13 @@ aliases:
 - HMG box domain containing 3
 cgnc_id: '50212'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000005770
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416278
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414598
 forward_primer: 5’-ACGCCGAATTGTTCACGC-3’
-gene_id: '457065'
+gene_id: '416278'
 gene_type: protein-coding
 images:
 - caption: HMGXB3 expression
@@ -65,16 +64,11 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R709.HMGXB3.S25.001.jpg
 name: HMG-box containing 3
-ncbi_id: '457065'
+ncbi_id: '416278'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000113716
   entrez: '22993'
-  mod: ''
+  mod: MIM:619800
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000024622
@@ -82,24 +76,24 @@ orthologs:
   mod: MGI:2441817
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100147705,734535
-  mod: '989731'
+- ensembl: ENSXETG00000015798
+  entrez: '100147705'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSDARG00000077823
+  entrez: '101886434'
   mod: ZFIN:ZDB-GENE-111012-1
-  phenotypes: ZDB-GENE-111012-1
+  phenotypes: cartilage development, cartilage morphogenesis, notochord development
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCACCTTAAAGCTGCACGGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457065
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416278
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457065
+  url: https://www.ncbi.nlm.nih.gov/gene/416278
 species: Gallus gallus
 symbol: HMGXB3
 template_length: '947'
@@ -122,9 +116,8 @@ title: HMGXB3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000113716](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113716) | [22993](https://www.ncbi.nlm.nih.gov/gene/22993) |  |  |
+| Human | [ENSG00000113716](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113716) | [22993](https://www.ncbi.nlm.nih.gov/gene/22993) | [MIM:619800](https://omim.org/entry/619800) |  |
 | Mouse | [ENSMUSG00000024622](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024622) | [106894](https://www.ncbi.nlm.nih.gov/gene/106894) | [MGI:2441817](http://www.informatics.jax.org/marker/MGI:2441817) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100147705](https://www.ncbi.nlm.nih.gov/gene/100147705), [734535](https://www.ncbi.nlm.nih.gov/gene/734535) | [989731](http://www.xenbase.org/gene/showgene.do?method=display&geneId=989731) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-111012-1](https://zfin.org/ZDB-GENE-111012-1) | ZDB-GENE-111012-1 |
+| Xenopus | [ENSXETG00000015798](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015798) | [100147705](https://www.ncbi.nlm.nih.gov/gene/100147705) |  |  |
+| Zebrafish | [ENSDARG00000077823](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077823) | [101886434](https://www.ncbi.nlm.nih.gov/gene/101886434) | [ZFIN:ZDB-GENE-111012-1](https://zfin.org/ZDB-GENE-111012-1) | cartilage development, cartilage morphogenesis, notochord development |
 

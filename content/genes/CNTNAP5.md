@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424231
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001048079
 forward_primer: GGAAATCAGTGAAGGCACCAATC
-gene_id: '461219'
+gene_id: '424231'
 gene_type: protein-coding
 images:
 - caption: CNTNAP5 expression
@@ -187,41 +187,31 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R476.CNTNAP5.S27V.001.jpg
 name: contactin associated protein like 5
-ncbi_id: '461219'
+ncbi_id: '424231'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000155052
   entrez: '129684'
   mod: MIM:610519
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000038048,ENSMUSG00000070695
-  entrez: 620292,636808
-  mod: MGI:3646013,MGI:3643623
+- ensembl: ENSMUSG00000070695
+  entrez: '636808'
+  mod: MGI:3643623
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: '100486299'
-  mod: '6031101'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000073920
-  entrez: 569185,571891
-  mod: ZFIN:ZDB-GENE-070705-209,ZFIN:ZDB-GENE-081105-126
-  phenotypes: ZDB-GENE-070705-209,ZDB-GENE-081105-126
+- ensembl: ENSDARG00000110839
+  entrez: '569185'
+  mod: ZFIN:ZDB-GENE-081105-126
+  phenotypes: retina homeostasis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGTTGAAGGAAGCGGCGTTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461219
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424231
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461219
+  url: https://www.ncbi.nlm.nih.gov/gene/424231
 species: Gallus gallus
 symbol: CNTNAP5
 template_length: '1079'
@@ -245,9 +235,7 @@ title: CNTNAP5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000155052](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000155052) | [129684](https://www.ncbi.nlm.nih.gov/gene/129684) | [MIM:610519](https://omim.org/entry/610519) |  |
-| Mouse | [ENSMUSG00000038048](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038048), [ENSMUSG00000070695](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000070695) | [620292](https://www.ncbi.nlm.nih.gov/gene/620292), [636808](https://www.ncbi.nlm.nih.gov/gene/636808) | [MGI:3646013](http://www.informatics.jax.org/marker/MGI:3646013), [MGI:3643623](http://www.informatics.jax.org/marker/MGI:3643623) |  |
-| Xenopus |  | [100486299](https://www.ncbi.nlm.nih.gov/gene/100486299) | [6031101](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6031101) |  |
-| Zebrafish | [ENSDARG00000073920](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000073920) | [569185](https://www.ncbi.nlm.nih.gov/gene/569185), [571891](https://www.ncbi.nlm.nih.gov/gene/571891) | [ZFIN:ZDB-GENE-070705-209](https://zfin.org/ZDB-GENE-070705-209), [ZFIN:ZDB-GENE-081105-126](https://zfin.org/ZDB-GENE-081105-126) | ZDB-GENE-070705-209,ZDB-GENE-081105-126 |
+| Mouse | [ENSMUSG00000070695](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000070695) | [636808](https://www.ncbi.nlm.nih.gov/gene/636808) | [MGI:3643623](http://www.informatics.jax.org/marker/MGI:3643623) |  |
+| Zebrafish | [ENSDARG00000110839](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110839) | [569185](https://www.ncbi.nlm.nih.gov/gene/569185) | [ZFIN:ZDB-GENE-081105-126](https://zfin.org/ZDB-GENE-081105-126) | retina homeostasis |
 

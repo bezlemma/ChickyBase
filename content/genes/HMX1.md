@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396546
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205533
-gene_id: '460278'
+gene_id: '396546'
 gene_type: protein-coding
 images:
 - caption: HMX1 expression
@@ -150,38 +150,24 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH6.Kiernan.1997.Fig6.jpg
 name: H6 family homeobox 1
-ncbi_id: '460278'
+ncbi_id: '396546'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000047665
+  entrez: '100498485'
   mod: ''
   phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000215612
-  entrez: '3166'
-  mod: MIM:142992
-  phenotypes: MIM:612109
-  species: Human
-- ensembl: ENSMUSG00000067438
-  entrez: '15371'
-  mod: MGI:107178
-  phenotypes: All phenotypic alleles (3):Spontaneous(1) Chemically induced(1) Targeted,
-    knock-out(1)
-  species: Mouse
-- ensembl: ''
-  entrez: '100498485'
-  mod: '6259138'
-  phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000095651
+- ensembl: ENSDARG00000111765
   entrez: '797503'
   mod: ZFIN:ZDB-GENE-080204-54
-  phenotypes: ZDB-GENE-080204-54
+  phenotypes: camera-type eye development, lens development in camera-type eye, negative
+    regulation of DNA-templated transcription, regulation of DNA-templated transcription,
+    regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460278
+  url: https://www.ncbi.nlm.nih.gov/gene/396546
 species: Gallus gallus
 symbol: HMX1
 title: HMX1
@@ -210,9 +196,6 @@ title: HMX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000215612](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000215612) | [3166](https://www.ncbi.nlm.nih.gov/gene/3166) | [MIM:142992](https://omim.org/entry/142992) | MIM:612109 |
-| Mouse | [ENSMUSG00000067438](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000067438) | [15371](https://www.ncbi.nlm.nih.gov/gene/15371) | [MGI:107178](http://www.informatics.jax.org/marker/MGI:107178) | All phenotypic alleles (3):Spontaneous(1) Chemically induced(1) Targeted, knock-out(1) |
-| Xenopus |  | [100498485](https://www.ncbi.nlm.nih.gov/gene/100498485) | [6259138](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6259138) |  |
-| Zebrafish | [ENSDARG00000095651](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000095651) | [797503](https://www.ncbi.nlm.nih.gov/gene/797503) | [ZFIN:ZDB-GENE-080204-54](https://zfin.org/ZDB-GENE-080204-54) | ZDB-GENE-080204-54 |
+| Xenopus | [ENSXETG00000047665](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000047665) | [100498485](https://www.ncbi.nlm.nih.gov/gene/100498485) |  |  |
+| Zebrafish | [ENSDARG00000111765](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000111765) | [797503](https://www.ncbi.nlm.nih.gov/gene/797503) | [ZFIN:ZDB-GENE-080204-54](https://zfin.org/ZDB-GENE-080204-54) | camera-type eye development, lens development in camera-type eye, negative regulation of DNA-templated transcription, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

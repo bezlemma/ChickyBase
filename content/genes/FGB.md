@@ -18,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0030674
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001167683
 forward_primer: 5’-GGGTCCTTCGTGCAGTCATA-3’
-gene_id: '459493'
+gene_id: '373926'
 gene_type: protein-coding
 images:
 - caption: FGB expression
@@ -270,14 +270,9 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FGB.Anderson.2019.Supplementary
     figure 5P.jpg
 name: fibrinogen beta chain
-ncbi_id: '459493'
+ncbi_id: '373926'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000171564
   entrez: '2244'
   mod: MIM:134830
   phenotypes: MIM:202400
@@ -287,24 +282,25 @@ orthologs:
   mod: MGI:99501
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 594921,397825
-  mod: '483215'
+- ensembl: ENSXETG00000022431
+  entrez: '594921'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000008969
-  entrez: 100333167,337315
+  entrez: '337315'
   mod: ZFIN:ZDB-GENE-030131-9261
-  phenotypes: ZDB-GENE-030131-9261
+  phenotypes: blood coagulation, blood coagulation, fibrin clot formation, cell-matrix
+    adhesion, hemostasis, platelet activation
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCCATGACCCCTTCCAGTTCA-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459493
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373926
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459493
+  url: https://www.ncbi.nlm.nih.gov/gene/373926
 species: Gallus gallus
 symbol: FGB
 template_length: '833'
@@ -334,9 +330,8 @@ title: FGB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [2244](https://www.ncbi.nlm.nih.gov/gene/2244) | [MIM:134830](https://omim.org/entry/134830) | MIM:202400 |
+| Human | [ENSG00000171564](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171564) | [2244](https://www.ncbi.nlm.nih.gov/gene/2244) | [MIM:134830](https://omim.org/entry/134830) | MIM:202400 |
 | Mouse | [ENSMUSG00000033831](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033831) | [110135](https://www.ncbi.nlm.nih.gov/gene/110135) | [MGI:99501](http://www.informatics.jax.org/marker/MGI:99501) |  |
-| Xenopus |  | [594921](https://www.ncbi.nlm.nih.gov/gene/594921), [397825](https://www.ncbi.nlm.nih.gov/gene/397825) | [483215](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483215) |  |
-| Zebrafish | [ENSDARG00000008969](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008969) | [100333167](https://www.ncbi.nlm.nih.gov/gene/100333167), [337315](https://www.ncbi.nlm.nih.gov/gene/337315) | [ZFIN:ZDB-GENE-030131-9261](https://zfin.org/ZDB-GENE-030131-9261) | ZDB-GENE-030131-9261 |
+| Xenopus | [ENSXETG00000022431](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022431) | [594921](https://www.ncbi.nlm.nih.gov/gene/594921) |  |  |
+| Zebrafish | [ENSDARG00000008969](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008969) | [337315](https://www.ncbi.nlm.nih.gov/gene/337315) | [ZFIN:ZDB-GENE-030131-9261](https://zfin.org/ZDB-GENE-030131-9261) | blood coagulation, blood coagulation, fibrin clot formation, cell-matrix adhesion, hemostasis, platelet activation |
 

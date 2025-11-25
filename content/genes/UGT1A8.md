@@ -62,7 +62,7 @@ orthologs:
 - ensembl: ENSDARG00000006220,ENSDARG00000006220
   entrez: 641488,406731
   mod: ZFIN:ZDB-GENE-040426-2762
-  phenotypes: ZDB-GENE-040426-2762
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -99,5 +99,5 @@ title: UGT1A8
 | Human | [ENSG00000241635](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000241635) | [54658](https://www.ncbi.nlm.nih.gov/gene/54658) | [MIM:191740](https://omim.org/entry/191740) | MIM:601816 |
 | Mouse |  | [394436](https://www.ncbi.nlm.nih.gov/gene/394436) | [MGI:98898](http://www.informatics.jax.org/marker/MGI:98898) | All phenotypic alleles (2):Targeted, other(2) |
 | Xenopus |  | [100489505](https://www.ncbi.nlm.nih.gov/gene/100489505) | [998848](http://www.xenbase.org/gene/showgene.do?method=display&geneId=998848) |  |
-| Zebrafish | [ENSDARG00000006220](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006220), [ENSDARG00000006220](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006220) | [641488](https://www.ncbi.nlm.nih.gov/gene/641488), [406731](https://www.ncbi.nlm.nih.gov/gene/406731) | [ZFIN:ZDB-GENE-040426-2762](https://zfin.org/ZDB-GENE-040426-2762) | ZDB-GENE-040426-2762 |
+| Zebrafish | [ENSDARG00000006220](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006220), [ENSDARG00000006220](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006220) | [641488](https://www.ncbi.nlm.nih.gov/gene/641488), [406731](https://www.ncbi.nlm.nih.gov/gene/406731) | [ZFIN:ZDB-GENE-040426-2762](https://zfin.org/ZDB-GENE-040426-2762) |  |
 

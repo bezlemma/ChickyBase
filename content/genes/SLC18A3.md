@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:404302
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_206982
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/SLC18A3
-gene_id: '456999'
+gene_id: '404302'
 gene_type: protein-coding
 images:
 - caption: SLC18A3 expression
@@ -27,37 +27,33 @@ images:
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VACHT.FIG9AB.LEE.2005.jpg
 name: solute carrier family 18 member A3
-ncbi_id: '456999'
+ncbi_id: '404302'
 orthologs:
-- ensembl: ''
-  entrez: '42795'
-  mod: FBgn0015323
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000187714
   entrez: '6572'
   mod: MIM:600336
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000100241
   entrez: '20508'
   mod: MGI:1101061
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000033967
   entrez: '780320'
-  mod: '965084'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000006356
-  entrez: 559347,394082
-  mod: ZFIN:ZDB-GENE-060929-990,ZFIN:ZDB-GENE-040426-1410
-  phenotypes: ZDB-GENE-060929-990,ZDB-GENE-040426-1410
+  entrez: '559347'
+  mod: ZFIN:ZDB-GENE-060929-990
+  phenotypes: chemical synaptic transmission, establishment of localization in cell,
+    neurotransmitter transport, serotonin transport, transmembrane transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456999
+  url: https://www.ncbi.nlm.nih.gov/gene/404302
 species: Gallus gallus
 symbol: SLC18A3
 title: SLC18A3
@@ -86,9 +82,8 @@ title: SLC18A3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42795](https://www.ncbi.nlm.nih.gov/gene/42795) | FBgn0015323 |  |
 | Human | [ENSG00000187714](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000187714) | [6572](https://www.ncbi.nlm.nih.gov/gene/6572) | [MIM:600336](https://omim.org/entry/600336) |  |
-| Mouse |  | [20508](https://www.ncbi.nlm.nih.gov/gene/20508) | [MGI:1101061](http://www.informatics.jax.org/marker/MGI:1101061) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [780320](https://www.ncbi.nlm.nih.gov/gene/780320) | [965084](http://www.xenbase.org/gene/showgene.do?method=display&geneId=965084) |  |
-| Zebrafish | [ENSDARG00000006356](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006356) | [559347](https://www.ncbi.nlm.nih.gov/gene/559347), [394082](https://www.ncbi.nlm.nih.gov/gene/394082) | [ZFIN:ZDB-GENE-060929-990](https://zfin.org/ZDB-GENE-060929-990), [ZFIN:ZDB-GENE-040426-1410](https://zfin.org/ZDB-GENE-040426-1410) | ZDB-GENE-060929-990,ZDB-GENE-040426-1410 |
+| Mouse | [ENSMUSG00000100241](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000100241) | [20508](https://www.ncbi.nlm.nih.gov/gene/20508) | [MGI:1101061](http://www.informatics.jax.org/marker/MGI:1101061) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
+| Xenopus | [ENSXETG00000033967](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033967) | [780320](https://www.ncbi.nlm.nih.gov/gene/780320) |  |  |
+| Zebrafish | [ENSDARG00000006356](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006356) | [559347](https://www.ncbi.nlm.nih.gov/gene/559347) | [ZFIN:ZDB-GENE-060929-990](https://zfin.org/ZDB-GENE-060929-990) | chemical synaptic transmission, establishment of localization in cell, neurotransmitter transport, serotonin transport, transmembrane transport |
 

@@ -9,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100858894
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642227
-gene_id: '473425'
+gene_id: '100858894'
 gene_type: protein-coding
 images:
 - caption: SMTN expression
@@ -27,7 +27,7 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DeRuiterFig. 2BC.jpg
 name: smoothelin
-ncbi_id: '473425'
+ncbi_id: '100858894'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -57,7 +57,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/473425
+  url: https://www.ncbi.nlm.nih.gov/gene/100858894
 species: Gallus gallus
 symbol: SMTN
 title: SMTN

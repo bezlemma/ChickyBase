@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428084
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001040644
 forward_primer: 5’-CTTCTGGGTGCTGCAGATCA-3’
-gene_id: '459895'
+gene_id: '428084'
 gene_type: protein-coding
 images:
 - caption: GJA3 expression
@@ -104,41 +104,37 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R641.GJA3.S26AA.001.jpg
 name: gap junction protein alpha 3
-ncbi_id: '459895'
+ncbi_id: '428084'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000121743
   entrez: '2700'
   mod: MIM:121015
   phenotypes: MIM:601885
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000048582
   entrez: '14611'
   mod: MGI:95714
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100135710,379171
-  mod: '494160'
+- ensembl: ENSXETG00000002644
+  entrez: '100135710'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000021889
+- ensembl: ENSDARG00000116798
   entrez: '387533'
   mod: ZFIN:ZDB-GENE-031217-3
-  phenotypes: ZDB-GENE-031217-3
+  phenotypes: cardiac conduction system development, cardiac muscle tissue morphogenesis,
+    cell communication, cell communication by electrical coupling, cell-cell signaling
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTGGAGCAACAGGGTAGCTTG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459895
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428084
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459895
+  url: https://www.ncbi.nlm.nih.gov/gene/428084
 species: Gallus gallus
 symbol: GJA3
 template_length: '802'
@@ -163,9 +159,8 @@ title: GJA3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000121743](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000121743) | [2700](https://www.ncbi.nlm.nih.gov/gene/2700) | [MIM:121015](https://omim.org/entry/121015) | MIM:601885 |
-| Mouse |  | [14611](https://www.ncbi.nlm.nih.gov/gene/14611) | [MGI:95714](http://www.informatics.jax.org/marker/MGI:95714) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100135710](https://www.ncbi.nlm.nih.gov/gene/100135710), [379171](https://www.ncbi.nlm.nih.gov/gene/379171) | [494160](http://www.xenbase.org/gene/showgene.do?method=display&geneId=494160) |  |
-| Zebrafish | [ENSDARG00000021889](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021889) | [387533](https://www.ncbi.nlm.nih.gov/gene/387533) | [ZFIN:ZDB-GENE-031217-3](https://zfin.org/ZDB-GENE-031217-3) | ZDB-GENE-031217-3 |
+| Mouse | [ENSMUSG00000048582](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048582) | [14611](https://www.ncbi.nlm.nih.gov/gene/14611) | [MGI:95714](http://www.informatics.jax.org/marker/MGI:95714) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
+| Xenopus | [ENSXETG00000002644](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002644) | [100135710](https://www.ncbi.nlm.nih.gov/gene/100135710) |  |  |
+| Zebrafish | [ENSDARG00000116798](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116798) | [387533](https://www.ncbi.nlm.nih.gov/gene/387533) | [ZFIN:ZDB-GENE-031217-3](https://zfin.org/ZDB-GENE-031217-3) | cardiac conduction system development, cardiac muscle tissue morphogenesis, cell communication, cell communication by electrical coupling, cell-cell signaling |
 

@@ -1,7 +1,6 @@
 ---
 cgnc_id: '49328'
 external_ids:
-  '25': stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=12382140&ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Copyright: Copyright © Springer-Verlag 2002
@@ -10,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395453
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204714
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGACAAGCGGGAAGCACATCC
-gene_id: '449259'
+gene_id: '395453'
 gene_type: protein-coding
 images:
 - caption: FGF18 expression
@@ -145,41 +144,33 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Karabagli.Fig3.Fgf18.jpg
 name: fibroblast growth factor 18
-ncbi_id: '449259'
+ncbi_id: '395453'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000156427
   entrez: '8817'
   mod: MIM:603726
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000057967
   entrez: '14172'
   mod: MGI:1277980
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: 359829,497639
-  mod: ZFIN:ZDB-GENE-030714-1,ZFIN:ZDB-GENE-050221-4
-  phenotypes: ZDB-GENE-030714-1,ZDB-GENE-050221-4
+- ensembl: ENSDARG00000043962
+  entrez: '497639'
+  mod: ZFIN:ZDB-GENE-050221-4
+  phenotypes: anterior/posterior pattern specification, fibroblast growth factor receptor
+    signaling pathway, mesoderm development, negative regulation of endodermal cell
+    fate specification, neurogenesis
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTAACTGGGGTTGGTGGGTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449259
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395453
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449259
+  url: https://www.ncbi.nlm.nih.gov/gene/395453
 species: Gallus gallus
 symbol: FGF18
 template_length: '503'
@@ -205,9 +196,7 @@ title: FGF18
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000156427](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000156427) | [8817](https://www.ncbi.nlm.nih.gov/gene/8817) | [MIM:603726](https://omim.org/entry/603726) |  |
-| Mouse |  | [14172](https://www.ncbi.nlm.nih.gov/gene/14172) | [MGI:1277980](http://www.informatics.jax.org/marker/MGI:1277980) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  | [359829](https://www.ncbi.nlm.nih.gov/gene/359829), [497639](https://www.ncbi.nlm.nih.gov/gene/497639) | [ZFIN:ZDB-GENE-030714-1](https://zfin.org/ZDB-GENE-030714-1), [ZFIN:ZDB-GENE-050221-4](https://zfin.org/ZDB-GENE-050221-4) | ZDB-GENE-030714-1,ZDB-GENE-050221-4 |
+| Mouse | [ENSMUSG00000057967](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000057967) | [14172](https://www.ncbi.nlm.nih.gov/gene/14172) | [MGI:1277980](http://www.informatics.jax.org/marker/MGI:1277980) | All phenotypic alleles (2):Targeted, other(2) |
+| Zebrafish | [ENSDARG00000043962](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043962) | [497639](https://www.ncbi.nlm.nih.gov/gene/497639) | [ZFIN:ZDB-GENE-050221-4](https://zfin.org/ZDB-GENE-050221-4) | anterior/posterior pattern specification, fibroblast growth factor receptor signaling pathway, mesoderm development, negative regulation of endodermal cell fate specification, neurogenesis |
 

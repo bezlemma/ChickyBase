@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771427
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234703
   X-XIV: stage XIIstage XII
-gene_id: '453788'
+gene_id: '771427'
 gene_type: protein-coding
 images:
 - caption: PRICKLE2 expression
@@ -102,13 +102,8 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cooper.Fig2.PK2.O.ST20.jpg
 name: prickle planar cell polarity protein 2
-ncbi_id: '453788'
+ncbi_id: '771427'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163637
   entrez: '166336'
   mod: MIM:608501
@@ -119,20 +114,21 @@ orthologs:
   mod: MGI:1925144
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000006535
   entrez: '100126208'
-  mod: '482890'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000037593
   entrez: '368250'
   mod: ZFIN:ZDB-GENE-030724-6
-  phenotypes: ZDB-GENE-030724-6
+  phenotypes: Kupffer's vesicle development, cilium assembly, melanosome transport,
+    neural retina development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453788
+  url: https://www.ncbi.nlm.nih.gov/gene/771427
 species: Gallus gallus
 symbol: PRICKLE2
 title: PRICKLE2
@@ -158,9 +154,8 @@ title: PRICKLE2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163637](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163637) | [166336](https://www.ncbi.nlm.nih.gov/gene/166336) | [MIM:608501](https://omim.org/entry/608501) | MIM:613832 |
 | Mouse | [ENSMUSG00000030020](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030020) | [243548](https://www.ncbi.nlm.nih.gov/gene/243548) | [MGI:1925144](http://www.informatics.jax.org/marker/MGI:1925144) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100126208](https://www.ncbi.nlm.nih.gov/gene/100126208) | [482890](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482890) |  |
-| Zebrafish | [ENSDARG00000037593](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037593) | [368250](https://www.ncbi.nlm.nih.gov/gene/368250) | [ZFIN:ZDB-GENE-030724-6](https://zfin.org/ZDB-GENE-030724-6) | ZDB-GENE-030724-6 |
+| Xenopus | [ENSXETG00000006535](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006535) | [100126208](https://www.ncbi.nlm.nih.gov/gene/100126208) |  |  |
+| Zebrafish | [ENSDARG00000037593](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037593) | [368250](https://www.ncbi.nlm.nih.gov/gene/368250) | [ZFIN:ZDB-GENE-030724-6](https://zfin.org/ZDB-GENE-030724-6) | Kupffer's vesicle development, cilium assembly, melanosome transport, neural retina development |
 

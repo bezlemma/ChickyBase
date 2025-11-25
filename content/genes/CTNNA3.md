@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423648
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199536
-gene_id: '451225'
+gene_id: '423648'
 gene_type: protein-coding
 images:
 - caption: CTNNA3 expression
@@ -31,13 +31,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CTNNA3_HH12+ x25
     ISH2.jpg
 name: catenin alpha 3
-ncbi_id: '451225'
+ncbi_id: '423648'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000183230
   entrez: '29119'
   mod: MIM:607667
@@ -48,23 +43,13 @@ orthologs:
   mod: MGI:2661445
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451225
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423648
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451225
+  url: https://www.ncbi.nlm.nih.gov/gene/423648
 species: Gallus gallus
 symbol: CTNNA3
 title: CTNNA3
@@ -88,9 +73,6 @@ title: CTNNA3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000183230](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000183230) | [29119](https://www.ncbi.nlm.nih.gov/gene/29119) | [MIM:607667](https://omim.org/entry/607667) |  |
 | Mouse | [ENSMUSG00000060843](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000060843) | [216033](https://www.ncbi.nlm.nih.gov/gene/216033) | [MGI:2661445](http://www.informatics.jax.org/marker/MGI:2661445) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
 

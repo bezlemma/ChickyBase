@@ -18,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205025
   X-XIV: stage Xstage XIIstage XIIstage XIIstage XIV
-gene_id: '450824'
+gene_id: '395881'
 gene_type: protein-coding
 images:
 - caption: MAFA expression
@@ -330,37 +330,33 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Allimages_Lee.2020_Fig
     3-6.jpg
 name: MAF bZIP transcription factor A
-ncbi_id: '450824'
+ncbi_id: '395881'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000182759
+  entrez: '389692'
+  mod: MIM:610303
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000047591
+  entrez: '378435'
+  mod: MGI:2673307
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000039765
+  entrez: '613050'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000044155
+  entrez: '100000492'
+  mod: ZFIN:ZDB-GENE-010605-3
+  phenotypes: regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450824
+  url: https://www.ncbi.nlm.nih.gov/gene/395881
 species: Gallus gallus
 symbol: MAFA
 title: MAFA
@@ -389,9 +385,8 @@ title: MAFA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000182759](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000182759) | [389692](https://www.ncbi.nlm.nih.gov/gene/389692) | [MIM:610303](https://omim.org/entry/610303) |  |
+| Mouse | [ENSMUSG00000047591](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000047591) | [378435](https://www.ncbi.nlm.nih.gov/gene/378435) | [MGI:2673307](http://www.informatics.jax.org/marker/MGI:2673307) |  |
+| Xenopus | [ENSXETG00000039765](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000039765) | [613050](https://www.ncbi.nlm.nih.gov/gene/613050) |  |  |
+| Zebrafish | [ENSDARG00000044155](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044155) | [100000492](https://www.ncbi.nlm.nih.gov/gene/100000492) | [ZFIN:ZDB-GENE-010605-3](https://zfin.org/ZDB-GENE-010605-3) | regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

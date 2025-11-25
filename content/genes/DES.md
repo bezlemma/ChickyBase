@@ -15,7 +15,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/395906
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=AB011672
-gene_id: '450439'
+gene_id: '395906'
 gene_type: protein-coding
 images:
 - caption: DES expression
@@ -54,37 +54,27 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Amthor.Desmin.Fig1.allimgages.jpg
 name: desmin
-ncbi_id: '450439'
+ncbi_id: '395906'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000175084
+  entrez: '1674'
+  mod: MIM:125660
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000026208
+  entrez: '13346'
+  mod: MGI:94885
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000019275
+  entrez: '394739'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450439
+  url: https://www.ncbi.nlm.nih.gov/gene/395906
 species: Gallus gallus
 symbol: DES
 title: DES
@@ -110,9 +100,7 @@ Copyright © (2002) Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000175084](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000175084) | [1674](https://www.ncbi.nlm.nih.gov/gene/1674) | [MIM:125660](https://omim.org/entry/125660) |  |
+| Mouse | [ENSMUSG00000026208](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026208) | [13346](https://www.ncbi.nlm.nih.gov/gene/13346) | [MGI:94885](http://www.informatics.jax.org/marker/MGI:94885) |  |
+| Xenopus | [ENSXETG00000019275](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019275) | [394739](https://www.ncbi.nlm.nih.gov/gene/394739) |  |  |
 

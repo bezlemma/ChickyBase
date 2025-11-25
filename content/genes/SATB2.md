@@ -4,7 +4,6 @@ aliases:
 - special AT-rich sequence binding protein
 cgnc_id: '6166'
 external_ids:
-  '25': stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=
   Comments: 'As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI (acc
@@ -17,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424063
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199110
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/SATB2
-gene_id: '462699'
+gene_id: '424063'
 gene_type: protein-coding
 images:
 - caption: SATB2 expression
@@ -148,13 +147,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SATB2.Brugmann.2010.Fig.3.png
 name: SATB homeobox 2
-ncbi_id: '462699'
+ncbi_id: '424063'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000119042
   entrez: '23314'
   mod: MIM:608148
@@ -165,20 +159,22 @@ orthologs:
   mod: MGI:2679336
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000035931
   entrez: '100494002'
-  mod: '5822251'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000061885
   entrez: '563435'
   mod: ZFIN:ZDB-GENE-070912-212
-  phenotypes: ZDB-GENE-070912-212
+  phenotypes: chromatin remodeling, epiboly involved in gastrulation with mouth forming
+    second, neural crest cell development, regulation of transcription by RNA polymerase
+    II, zygotic genome activation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462699
+  url: https://www.ncbi.nlm.nih.gov/gene/424063
 species: Gallus gallus
 symbol: SATB2
 title: SATB2
@@ -205,9 +201,8 @@ title: SATB2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000119042](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000119042) | [23314](https://www.ncbi.nlm.nih.gov/gene/23314) | [MIM:608148](https://omim.org/entry/608148) | MIM:119540 |
 | Mouse | [ENSMUSG00000038331](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038331) | [212712](https://www.ncbi.nlm.nih.gov/gene/212712) | [MGI:2679336](http://www.informatics.jax.org/marker/MGI:2679336) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [100494002](https://www.ncbi.nlm.nih.gov/gene/100494002) | [5822251](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5822251) |  |
-| Zebrafish | [ENSDARG00000061885](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061885) | [563435](https://www.ncbi.nlm.nih.gov/gene/563435) | [ZFIN:ZDB-GENE-070912-212](https://zfin.org/ZDB-GENE-070912-212) | ZDB-GENE-070912-212 |
+| Xenopus | [ENSXETG00000035931](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000035931) | [100494002](https://www.ncbi.nlm.nih.gov/gene/100494002) |  |  |
+| Zebrafish | [ENSDARG00000061885](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061885) | [563435](https://www.ncbi.nlm.nih.gov/gene/563435) | [ZFIN:ZDB-GENE-070912-212](https://zfin.org/ZDB-GENE-070912-212) | chromatin remodeling, epiboly involved in gastrulation with mouth forming second, neural crest cell development, regulation of transcription by RNA polymerase II, zygotic genome activation |
 

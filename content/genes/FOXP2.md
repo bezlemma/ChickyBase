@@ -14,7 +14,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001232343
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/FOXP2
 forward_primer: 5’-TGTGGGAGCCATTCGAAGAC-3’
-gene_id: '450931'
+gene_id: '769935'
 gene_type: protein-coding
 images:
 - caption: FOXP2 expression
@@ -109,42 +109,29 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.F.Ferran.2012.FoxP2.HH28.jpg
 name: forkhead box P2
-ncbi_id: '450931'
+ncbi_id: '769935'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000128573
-  entrez: '93986'
-  mod: MIM:605317
-  phenotypes: MIM:602081
-  species: Human
 - ensembl: ENSMUSG00000029563
   entrez: '114142'
   mod: MGI:2148705
   phenotypes: All phenotypic alleles (11):Chemically induced(3) Targeted, knock-out(3)
     Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100101742,734154
-  mod: '482682'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000005453
   entrez: '555242'
   mod: ZFIN:ZDB-GENE-041203-2
-  phenotypes: ZDB-GENE-041203-2
+  phenotypes: gamma-aminobutyric acid signaling pathway, regulation of DNA-templated
+    transcription, regulation of transcription by RNA polymerase II, response to ethanol,
+    swimming behavior
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGTGCCTGTTGTAACTGGGTCC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450931
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=769935
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450931
+  url: https://www.ncbi.nlm.nih.gov/gene/769935
 species: Gallus gallus
 symbol: FOXP2
 template_length: '911'
@@ -172,9 +159,6 @@ title: FOXP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000128573](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000128573) | [93986](https://www.ncbi.nlm.nih.gov/gene/93986) | [MIM:605317](https://omim.org/entry/605317) | MIM:602081 |
 | Mouse | [ENSMUSG00000029563](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029563) | [114142](https://www.ncbi.nlm.nih.gov/gene/114142) | [MGI:2148705](http://www.informatics.jax.org/marker/MGI:2148705) | All phenotypic alleles (11):Chemically induced(3) Targeted, knock-out(3) Targeted, other(5) |
-| Xenopus |  | [100101742](https://www.ncbi.nlm.nih.gov/gene/100101742), [734154](https://www.ncbi.nlm.nih.gov/gene/734154) | [482682](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482682) |  |
-| Zebrafish | [ENSDARG00000005453](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005453) | [555242](https://www.ncbi.nlm.nih.gov/gene/555242) | [ZFIN:ZDB-GENE-041203-2](https://zfin.org/ZDB-GENE-041203-2) | ZDB-GENE-041203-2 |
+| Zebrafish | [ENSDARG00000005453](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005453) | [555242](https://www.ncbi.nlm.nih.gov/gene/555242) | [ZFIN:ZDB-GENE-041203-2](https://zfin.org/ZDB-GENE-041203-2) | gamma-aminobutyric acid signaling pathway, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II, response to ethanol, swimming behavior |
 

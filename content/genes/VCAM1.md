@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424467
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422310
-gene_id: '450253'
+gene_id: '424467'
 gene_type: protein-coding
 images:
 - caption: VCAM1 expression
@@ -51,7 +51,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VCAM1.Anderson.2019.Supplementary
     figure 5D.jpg
 name: vascular cell adhesion molecule 1
-ncbi_id: '450253'
+ncbi_id: '424467'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -76,15 +76,15 @@ orthologs:
 - ensembl: ENSDARG00000062479
   entrez: '561971'
   mod: ZFIN:ZDB-GENE-070209-238
-  phenotypes: ZDB-GENE-070209-238
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450253
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424467
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450253
+  url: https://www.ncbi.nlm.nih.gov/gene/424467
 species: Gallus gallus
 symbol: VCAM1
 title: VCAM1
@@ -114,5 +114,5 @@ title: VCAM1
 | Human | [ENSG00000162692](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162692) | [7412](https://www.ncbi.nlm.nih.gov/gene/7412) | [MIM:192225](https://omim.org/entry/192225) |  |
 | Mouse | [ENSMUSG00000027962](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027962) | [22329](https://www.ncbi.nlm.nih.gov/gene/22329) | [MGI:98926](http://www.informatics.jax.org/marker/MGI:98926) | All phenotypic alleles (9):Targeted, knock-out(6) Targeted, other(3) |
 | Xenopus |  | [100488612](https://www.ncbi.nlm.nih.gov/gene/100488612) | [492443](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492443) |  |
-| Zebrafish | [ENSDARG00000062479](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062479) | [561971](https://www.ncbi.nlm.nih.gov/gene/561971) | [ZFIN:ZDB-GENE-070209-238](https://zfin.org/ZDB-GENE-070209-238) | ZDB-GENE-070209-238 |
+| Zebrafish | [ENSDARG00000062479](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062479) | [561971](https://www.ncbi.nlm.nih.gov/gene/561971) | [ZFIN:ZDB-GENE-070209-238](https://zfin.org/ZDB-GENE-070209-238) |  |
 

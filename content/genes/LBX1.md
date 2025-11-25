@@ -3,7 +3,6 @@ aliases:
 - transcription factor LBX1
 cgnc_id: '61460'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Alvarez+Schubert+Parkyn+cues
   Comments: "Degenerate primers\r\nCAGVHMYCGMACRDCYTTYAC and YTBYKSHRYTTDGYVCGNGC\r\
     \ndirected against the first and third helix of homeobox genes\r\nwere used for\
@@ -19,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100431103
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001178143
 forward_primer: CAAACCCCTCACCCCTTTCAG
-gene_id: '452273'
+gene_id: '100431103'
 gene_type: protein-coding
 images:
 - caption: LBX1 expression
@@ -300,7 +299,7 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LBX1.Alvarez.2003.3C.png
 name: ladybird homeobox 1
-ncbi_id: '452273'
+ncbi_id: '100431103'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -331,10 +330,10 @@ reverse_primer: AATTAACCCTCACTAAAGGCCTTCATCTCCTCCAGGTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452273
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100431103
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452273
+  url: https://www.ncbi.nlm.nih.gov/gene/100431103
 species: Gallus gallus
 symbol: LBX1
 template_length: '477'

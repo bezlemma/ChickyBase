@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426013
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423692
 forward_primer: TCTTCCGTGCCTATGTGAC
-gene_id: '455864'
+gene_id: '426013'
 gene_type: protein-coding
 images:
 - caption: PLEKHG5 expression
@@ -114,13 +114,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R410.PLEKHG5.S27D.001.jpg
 name: pleckstrin homology and RhoGEF domain containing G5
-ncbi_id: '455864'
+ncbi_id: '426013'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000171680
   entrez: '57449'
   mod: MIM:611101
@@ -131,24 +126,25 @@ orthologs:
   mod: MGI:2652860
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000001167
   entrez: '100496612'
-  mod: '6039486'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000025902
-  entrez: '562861'
-  mod: ZFIN:ZDB-GENE-060503-766,ZFIN:ZDB-GENE-090908-6
-  phenotypes: ZDB-GENE-060503-766,ZDB-GENE-090908-6
+- ensembl: ENSDARG00000101752
+  entrez: '796404'
+  mod: ZFIN:ZDB-GENE-090908-6
+  phenotypes: Rho protein signal transduction, angiogenesis, blood vessel endothelial
+    cell migration, endothelial cell migration
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGTCTGATGGTGAACCGAAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455864
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426013
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455864
+  url: https://www.ncbi.nlm.nih.gov/gene/426013
 species: Gallus gallus
 symbol: PLEKHG5
 template_length: '944'
@@ -170,9 +166,8 @@ title: PLEKHG5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000171680](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171680) | [57449](https://www.ncbi.nlm.nih.gov/gene/57449) | [MIM:611101](https://omim.org/entry/611101) | MIM:611067 |
 | Mouse | [ENSMUSG00000039713](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039713) | [269608](https://www.ncbi.nlm.nih.gov/gene/269608) | [MGI:2652860](http://www.informatics.jax.org/marker/MGI:2652860) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100496612](https://www.ncbi.nlm.nih.gov/gene/100496612) | [6039486](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6039486) |  |
-| Zebrafish | [ENSDARG00000025902](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025902) | [562861](https://www.ncbi.nlm.nih.gov/gene/562861) | [ZFIN:ZDB-GENE-060503-766](https://zfin.org/ZDB-GENE-060503-766), [ZFIN:ZDB-GENE-090908-6](https://zfin.org/ZDB-GENE-090908-6) | ZDB-GENE-060503-766,ZDB-GENE-090908-6 |
+| Xenopus | [ENSXETG00000001167](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001167) | [100496612](https://www.ncbi.nlm.nih.gov/gene/100496612) |  |  |
+| Zebrafish | [ENSDARG00000101752](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101752) | [796404](https://www.ncbi.nlm.nih.gov/gene/796404) | [ZFIN:ZDB-GENE-090908-6](https://zfin.org/ZDB-GENE-090908-6) | Rho protein signal transduction, angiogenesis, blood vessel endothelial cell migration, endothelial cell migration |
 

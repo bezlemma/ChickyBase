@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100858277
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641937
 forward_primer: CTCTGGTTGGGAAGAATGGAAAG
-gene_id: '472808'
+gene_id: '100858277'
 gene_type: protein-coding
 images:
 - caption: ADAMTS18 expression
@@ -155,41 +155,36 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R486.ADAMTS18.S26V.001.jpg
 name: ADAM metallopeptidase with thrombospondin type 1 motif 18
-ncbi_id: '472808'
+ncbi_id: '100858277'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000140873
+  entrez: '170692'
+  mod: MIM:607512
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000053399
+  entrez: '208936'
+  mod: MGI:2442600
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000012701
+  entrez: '100487298'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000001999
+  entrez: '100150128'
+  mod: ZFIN:ZDB-GENE-070815-1
+  phenotypes: angiogenesis, extracellular matrix organization, proteolysis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAACTACTTGCTGGACAGGGCTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=472808
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100858277
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/472808
+  url: https://www.ncbi.nlm.nih.gov/gene/100858277
 species: Gallus gallus
 symbol: ADAMTS18
 template_length: '822'
@@ -211,9 +206,8 @@ title: ADAMTS18
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000140873](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140873) | [170692](https://www.ncbi.nlm.nih.gov/gene/170692) | [MIM:607512](https://omim.org/entry/607512) |  |
+| Mouse | [ENSMUSG00000053399](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000053399) | [208936](https://www.ncbi.nlm.nih.gov/gene/208936) | [MGI:2442600](http://www.informatics.jax.org/marker/MGI:2442600) |  |
+| Xenopus | [ENSXETG00000012701](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012701) | [100487298](https://www.ncbi.nlm.nih.gov/gene/100487298) |  |  |
+| Zebrafish | [ENSDARG00000001999](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000001999) | [100150128](https://www.ncbi.nlm.nih.gov/gene/100150128) | [ZFIN:ZDB-GENE-070815-1](https://zfin.org/ZDB-GENE-070815-1) | angiogenesis, extracellular matrix organization, proteolysis |
 

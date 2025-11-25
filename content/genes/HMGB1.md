@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395724
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204902
-gene_id: '449845'
+gene_id: '395724'
 gene_type: protein-coding
 images:
 - caption: HMGB1 expression
@@ -77,40 +77,26 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3wa3.106.21.jpg
 name: high mobility group box 1
-ncbi_id: '449845'
+ncbi_id: '395724'
 orthologs:
-- ensembl: ''
-  entrez: '117294'
-  mod: FBgn0011764
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000189403
   entrez: '3146'
   mod: MIM:163905
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: '434174'
-  mod: MGI:3648695
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: 394834,380530
-  mod: '1001205'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000079772,ENSDARG00000030479
-  entrez: 321622,795095
-  mod: ZFIN:ZDB-GENE-030131-341,ZFIN:ZDB-GENE-030131-8480
-  phenotypes: ZDB-GENE-030131-341,ZDB-GENE-030131-8480
+- ensembl: ENSDARG00000099175
+  entrez: '321622'
+  mod: ZFIN:ZDB-GENE-030131-341
+  phenotypes: axon regeneration, chromatin remodeling, forebrain development, regeneration,
+    response to cold
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449845
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395724
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449845
+  url: https://www.ncbi.nlm.nih.gov/gene/395724
 species: Gallus gallus
 symbol: HMGB1
 title: HMGB1
@@ -139,9 +125,6 @@ title: HMGB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [117294](https://www.ncbi.nlm.nih.gov/gene/117294) | FBgn0011764 |  |
 | Human | [ENSG00000189403](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000189403) | [3146](https://www.ncbi.nlm.nih.gov/gene/3146) | [MIM:163905](https://omim.org/entry/163905) |  |
-| Mouse |  | [434174](https://www.ncbi.nlm.nih.gov/gene/434174) | [MGI:3648695](http://www.informatics.jax.org/marker/MGI:3648695) |  |
-| Xenopus |  | [394834](https://www.ncbi.nlm.nih.gov/gene/394834), [380530](https://www.ncbi.nlm.nih.gov/gene/380530) | [1001205](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1001205) |  |
-| Zebrafish | [ENSDARG00000079772](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079772), [ENSDARG00000030479](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030479) | [321622](https://www.ncbi.nlm.nih.gov/gene/321622), [795095](https://www.ncbi.nlm.nih.gov/gene/795095) | [ZFIN:ZDB-GENE-030131-341](https://zfin.org/ZDB-GENE-030131-341), [ZFIN:ZDB-GENE-030131-8480](https://zfin.org/ZDB-GENE-030131-8480) | ZDB-GENE-030131-341,ZDB-GENE-030131-8480 |
+| Zebrafish | [ENSDARG00000099175](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099175) | [321622](https://www.ncbi.nlm.nih.gov/gene/321622) | [ZFIN:ZDB-GENE-030131-341](https://zfin.org/ZDB-GENE-030131-341) | axon regeneration, chromatin remodeling, forebrain development, regeneration, response to cold |
 

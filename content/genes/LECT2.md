@@ -5,14 +5,13 @@ aliases:
 - p33
 cgnc_id: '4754'
 external_ids:
-  '19': stage 19
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030851
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000006323
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396471
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205478
 forward_primer: TTCATCCCATCAGATACCACGG
-gene_id: '461071'
+gene_id: '396471'
 gene_type: protein-coding
 images:
 - caption: LECT2 expression
@@ -51,13 +50,8 @@ images:
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R535.LECT2.S19.001.jpg
 name: leukocyte cell derived chemotaxin 2
-ncbi_id: '461071'
+ncbi_id: '396471'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000145826
   entrez: '3950'
   mod: MIM:602882
@@ -68,24 +62,20 @@ orthologs:
   mod: MGI:1278342
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000090889,ENSDARG00000033227
-  entrez: 567149,793246,567278
-  mod: ZFIN:ZDB-GENE-070127-4
-  phenotypes: ZDB-GENE-070127-4
+- ensembl: ENSDARG00000090889
+  entrez: '793246'
+  mod: ZFIN:ZDB-GENE-130530-1010
+  phenotypes: negative regulation of transcription elongation by RNA polymerase II,
+    regulation of granulocyte differentiation, translation, translational elongation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCCTTTCCCCCTTTCAAGATTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461071
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396471
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461071
+  url: https://www.ncbi.nlm.nih.gov/gene/396471
 species: Gallus gallus
 symbol: LECT2
 template_length: '605'
@@ -108,9 +98,7 @@ title: LECT2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000145826](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145826) | [3950](https://www.ncbi.nlm.nih.gov/gene/3950) | [MIM:602882](https://omim.org/entry/602882) |  |
 | Mouse | [ENSMUSG00000021539](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021539) | [16841](https://www.ncbi.nlm.nih.gov/gene/16841) | [MGI:1278342](http://www.informatics.jax.org/marker/MGI:1278342) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000090889](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000090889), [ENSDARG00000033227](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033227) | [567149](https://www.ncbi.nlm.nih.gov/gene/567149), [793246](https://www.ncbi.nlm.nih.gov/gene/793246), [567278](https://www.ncbi.nlm.nih.gov/gene/567278) | [ZFIN:ZDB-GENE-070127-4](https://zfin.org/ZDB-GENE-070127-4) | ZDB-GENE-070127-4 |
+| Zebrafish | [ENSDARG00000090889](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000090889) | [793246](https://www.ncbi.nlm.nih.gov/gene/793246) | [ZFIN:ZDB-GENE-130530-1010](https://zfin.org/ZDB-GENE-130530-1010) | negative regulation of transcription elongation by RNA polymerase II, regulation of granulocyte differentiation, translation, translational elongation |
 

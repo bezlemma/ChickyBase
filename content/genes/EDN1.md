@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420854
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418943
-gene_id: '454132'
+gene_id: '420854'
 gene_type: protein-coding
 images:
 - caption: EDN1 expression
@@ -78,13 +78,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDN1.Anderson.2019.Supplementary
     figure 4F.jpg
 name: endothelin 1
-ncbi_id: '454132'
+ncbi_id: '420854'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000078401
   entrez: '1906'
   mod: MIM:131240
@@ -95,20 +90,21 @@ orthologs:
   mod: MGI:95283
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100144700,100036806,100158354
-  mod: '491327'
+- ensembl: ENSXETG00000015440
+  entrez: '100144700'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000036912
   entrez: '58032'
   mod: ZFIN:ZDB-GENE-000920-1
-  phenotypes: ZDB-GENE-000920-1
+  phenotypes: anterior lateral line development, anterior lateral line neuromast development,
+    blood vessel diameter maintenance, bone morphogenesis, cartilage development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454132
+  url: https://www.ncbi.nlm.nih.gov/gene/420854
 species: Gallus gallus
 symbol: EDN1
 title: EDN1
@@ -134,9 +130,8 @@ title: EDN1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000078401](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000078401) | [1906](https://www.ncbi.nlm.nih.gov/gene/1906) | [MIM:131240](https://omim.org/entry/131240) | MIM:131240 |
 | Mouse | [ENSMUSG00000021367](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021367) | [13614](https://www.ncbi.nlm.nih.gov/gene/13614) | [MGI:95283](http://www.informatics.jax.org/marker/MGI:95283) | All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3) |
-| Xenopus |  | [100144700](https://www.ncbi.nlm.nih.gov/gene/100144700), [100036806](https://www.ncbi.nlm.nih.gov/gene/100036806), [100158354](https://www.ncbi.nlm.nih.gov/gene/100158354) | [491327](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491327) |  |
-| Zebrafish | [ENSDARG00000036912](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036912) | [58032](https://www.ncbi.nlm.nih.gov/gene/58032) | [ZFIN:ZDB-GENE-000920-1](https://zfin.org/ZDB-GENE-000920-1) | ZDB-GENE-000920-1 |
+| Xenopus | [ENSXETG00000015440](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015440) | [100144700](https://www.ncbi.nlm.nih.gov/gene/100144700) |  |  |
+| Zebrafish | [ENSDARG00000036912](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036912) | [58032](https://www.ncbi.nlm.nih.gov/gene/58032) | [ZFIN:ZDB-GENE-000920-1](https://zfin.org/ZDB-GENE-000920-1) | anterior lateral line development, anterior lateral line neuromast development, blood vessel diameter maintenance, bone morphogenesis, cartilage development |
 

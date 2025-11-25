@@ -3,7 +3,6 @@ aliases:
 - BTB/POZ domain-containing protein 6
 - BTB (POZ) domain containing 6
 external_ids:
-  '4': stage 4stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Alev+Jakt+Ueda+landscape
   Comments: "FORWARD PRIMER\tTGTGAGATCGACCTGCAGAC\r\nREVERSE PRIMER\tTTGTCCTCCTTGTACCCCAG"
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -13,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
 forward_primer: 5'-CGAGTTTCCGCTGACAAAGAGG-3'
-gene_id: '504610'
+gene_id: '101752037'
 gene_type: unknown
 images:
 - caption: BTBD6 expression
@@ -201,41 +200,36 @@ images:
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BTBD6.Alev.2010.5a24.png
 name: BTB domain containing 6
-ncbi_id: '504610'
+ncbi_id: '101752037'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSG00000184887
+  entrez: '90135'
   mod: ''
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000002803
+  entrez: '399566'
+  mod: MGI:3026623
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000022556
+  entrez: '779763'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000032369
+  entrez: '553533'
+  mod: ZFIN:ZDB-GENE-030829-65
+  phenotypes: cell differentiation, nervous system development, neurogenesis
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGGAGAGCATTCCTTCACTTATTGGG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=504610
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=101752037
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/504610
+  url: https://www.ncbi.nlm.nih.gov/gene/101752037
 species: Gallus gallus
 symbol: BTBD6
 template_length: '642'
@@ -261,9 +255,8 @@ REVERSE PRIMER	TTGTCCTCCTTGTACCCCAG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000184887](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000184887) | [90135](https://www.ncbi.nlm.nih.gov/gene/90135) |  |  |
+| Mouse | [ENSMUSG00000002803](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002803) | [399566](https://www.ncbi.nlm.nih.gov/gene/399566) | [MGI:3026623](http://www.informatics.jax.org/marker/MGI:3026623) |  |
+| Xenopus | [ENSXETG00000022556](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022556) | [779763](https://www.ncbi.nlm.nih.gov/gene/779763) |  |  |
+| Zebrafish | [ENSDARG00000032369](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032369) | [553533](https://www.ncbi.nlm.nih.gov/gene/553533) | [ZFIN:ZDB-GENE-030829-65](https://zfin.org/ZDB-GENE-030829-65) | cell differentiation, nervous system development, neurogenesis |
 

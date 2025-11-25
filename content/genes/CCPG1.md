@@ -3,7 +3,6 @@ aliases:
 - cell cycle progression protein 1
 cgnc_id: '53106'
 external_ids:
-  '25': stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007049
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427496
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031455
 forward_primer: 5'-AACCAGCAATCAGTCCAGTCCTAC-3'
-gene_id: '455212'
+gene_id: '427496'
 gene_type: protein-coding
 images:
 - caption: CCPG1 expression
@@ -97,13 +96,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R589.CCPG1.S25V.001.jpg
 name: cell cycle progression 1
-ncbi_id: '455212'
+ncbi_id: '427496'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000260916
   entrez: '9236'
   mod: MIM:611326
@@ -114,24 +108,24 @@ orthologs:
   mod: MGI:1196419
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000007370
   entrez: '100127608'
-  mod: '1017212'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000044962
-  entrez: '492785'
+- ensembl: ENSDARG00000104126
+  entrez: '103908643'
   mod: ZFIN:ZDB-GENE-041114-136
-  phenotypes: ZDB-GENE-041114-136
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGGCTTTTCCTCTTCCAAATGTTCCC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455212
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427496
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455212
+  url: https://www.ncbi.nlm.nih.gov/gene/427496
 species: Gallus gallus
 symbol: CCPG1
 template_length: '575'
@@ -156,9 +150,8 @@ title: CCPG1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000260916](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000260916) | [9236](https://www.ncbi.nlm.nih.gov/gene/9236) | [MIM:611326](https://omim.org/entry/611326) |  |
 | Mouse | [ENSMUSG00000034563](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034563) | [72278](https://www.ncbi.nlm.nih.gov/gene/72278) | [MGI:1196419](http://www.informatics.jax.org/marker/MGI:1196419) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100127608](https://www.ncbi.nlm.nih.gov/gene/100127608) | [1017212](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1017212) |  |
-| Zebrafish | [ENSDARG00000044962](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044962) | [492785](https://www.ncbi.nlm.nih.gov/gene/492785) | [ZFIN:ZDB-GENE-041114-136](https://zfin.org/ZDB-GENE-041114-136) | ZDB-GENE-041114-136 |
+| Xenopus | [ENSXETG00000007370](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007370) | [100127608](https://www.ncbi.nlm.nih.gov/gene/100127608) |  |  |
+| Zebrafish | [ENSDARG00000104126](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104126) | [103908643](https://www.ncbi.nlm.nih.gov/gene/103908643) | [ZFIN:ZDB-GENE-041114-136](https://zfin.org/ZDB-GENE-041114-136) |  |
 

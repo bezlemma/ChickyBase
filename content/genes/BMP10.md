@@ -1,7 +1,6 @@
 ---
 cgnc_id: '60'
 external_ids:
-  '25': stage 25
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Anderson et al. 2019.
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395177
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001278046
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATATGGTGGTATCAGAGTGTGGCTG
-gene_id: '462289'
+gene_id: '395177'
 gene_type: protein-coding
 images:
 - caption: BMP10 expression
@@ -166,13 +165,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP10.Anderson.2019.Supplementary
     figure 4B.jpg
 name: bone morphogenetic protein 10
-ncbi_id: '462289'
+ncbi_id: '395177'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163217
   entrez: '27302'
   mod: MIM:608748
@@ -183,24 +177,25 @@ orthologs:
   mod: MGI:1338820
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000047530
   entrez: '100487047'
-  mod: '478874'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000061769
   entrez: '562533'
   mod: ZFIN:ZDB-GENE-060526-211
-  phenotypes: ZDB-GENE-060526-211
+  phenotypes: BMP signaling pathway, artery development, circulatory system development,
+    tube morphogenesis
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGGTGAGACTGGTTTTAGTTGGTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462289
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395177
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462289
+  url: https://www.ncbi.nlm.nih.gov/gene/395177
 species: Gallus gallus
 symbol: BMP10
 template_length: '1078'
@@ -227,9 +222,8 @@ title: BMP10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163217](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163217) | [27302](https://www.ncbi.nlm.nih.gov/gene/27302) | [MIM:608748](https://omim.org/entry/608748) |  |
 | Mouse | [ENSMUSG00000030046](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030046) | [12154](https://www.ncbi.nlm.nih.gov/gene/12154) | [MGI:1338820](http://www.informatics.jax.org/marker/MGI:1338820) | All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5) |
-| Xenopus |  | [100487047](https://www.ncbi.nlm.nih.gov/gene/100487047) | [478874](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478874) |  |
-| Zebrafish | [ENSDARG00000061769](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061769) | [562533](https://www.ncbi.nlm.nih.gov/gene/562533) | [ZFIN:ZDB-GENE-060526-211](https://zfin.org/ZDB-GENE-060526-211) | ZDB-GENE-060526-211 |
+| Xenopus | [ENSXETG00000047530](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000047530) | [100487047](https://www.ncbi.nlm.nih.gov/gene/100487047) |  |  |
+| Zebrafish | [ENSDARG00000061769](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061769) | [562533](https://www.ncbi.nlm.nih.gov/gene/562533) | [ZFIN:ZDB-GENE-060526-211](https://zfin.org/ZDB-GENE-060526-211) | BMP signaling pathway, artery development, circulatory system development, tube morphogenesis |
 

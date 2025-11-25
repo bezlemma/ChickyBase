@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396428
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003779
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_213570
-gene_id: '460946'
+gene_id: '396428'
 gene_type: protein-coding
 images:
 - caption: TNNI3 expression
@@ -139,7 +139,7 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/vandenBerg.2007.f1.ctni.png
 name: troponin I type 3 (cardiac)
-ncbi_id: '460946'
+ncbi_id: '396428'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -169,7 +169,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460946
+  url: https://www.ncbi.nlm.nih.gov/gene/396428
 species: Gallus gallus
 symbol: TNNI3
 title: TNNI3

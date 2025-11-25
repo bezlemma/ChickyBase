@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395179
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204509
-gene_id: '462291'
+gene_id: '395179'
 gene_type: protein-coding
 images:
 - caption: ROR1 expression
@@ -73,13 +73,8 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROR1.Rodriguez-Niedenfuhr.2004.fig2H.jpg
 name: receptor tyrosine kinase like orphan receptor 1
-ncbi_id: '462291'
+ncbi_id: '395179'
 orthologs:
-- ensembl: ''
-  entrez: '34367'
-  mod: FBgn0010407
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000185483
   entrez: '4919'
   mod: MIM:602336
@@ -90,20 +85,22 @@ orthologs:
   mod: MGI:1347520
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000034676
   entrez: '100498561'
-  mod: '490891'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000015176
   entrez: '568282'
   mod: ZFIN:ZDB-GENE-030131-6104
-  phenotypes: ZDB-GENE-030131-6104
+  phenotypes: Wnt signaling pathway, cell surface receptor protein tyrosine kinase
+    signaling pathway, phosphorylation, positive regulation of canonical NF-kappaB
+    signal transduction, protein phosphorylation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462291
+  url: https://www.ncbi.nlm.nih.gov/gene/395179
 species: Gallus gallus
 symbol: ROR1
 title: ROR1
@@ -131,9 +128,8 @@ title: ROR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34367](https://www.ncbi.nlm.nih.gov/gene/34367) | FBgn0010407 |  |
 | Human | [ENSG00000185483](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185483) | [4919](https://www.ncbi.nlm.nih.gov/gene/4919) | [MIM:602336](https://omim.org/entry/602336) |  |
 | Mouse | [ENSMUSG00000035305](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035305) | [26563](https://www.ncbi.nlm.nih.gov/gene/26563) | [MGI:1347520](http://www.informatics.jax.org/marker/MGI:1347520) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100498561](https://www.ncbi.nlm.nih.gov/gene/100498561) | [490891](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490891) |  |
-| Zebrafish | [ENSDARG00000015176](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015176) | [568282](https://www.ncbi.nlm.nih.gov/gene/568282) | [ZFIN:ZDB-GENE-030131-6104](https://zfin.org/ZDB-GENE-030131-6104) | ZDB-GENE-030131-6104 |
+| Xenopus | [ENSXETG00000034676](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034676) | [100498561](https://www.ncbi.nlm.nih.gov/gene/100498561) |  |  |
+| Zebrafish | [ENSDARG00000015176](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015176) | [568282](https://www.ncbi.nlm.nih.gov/gene/568282) | [ZFIN:ZDB-GENE-030131-6104](https://zfin.org/ZDB-GENE-030131-6104) | Wnt signaling pathway, cell surface receptor protein tyrosine kinase signaling pathway, phosphorylation, positive regulation of canonical NF-kappaB signal transduction, protein phosphorylation |
 

@@ -23,7 +23,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423609
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001044653
-gene_id: '451175'
+gene_id: '423609'
 gene_type: protein-coding
 images:
 - caption: OPN4 expression
@@ -62,13 +62,8 @@ images:
   stage: stage 43
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cOpn4mimageC.jpg
 name: opsin 4
-ncbi_id: '451175'
+ncbi_id: '423609'
 orthologs:
-- ensembl: ''
-  entrez: '41889'
-  mod: FBgn0019940
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000122375
   entrez: '94233'
   mod: MIM:606665
@@ -79,20 +74,15 @@ orthologs:
   mod: MGI:1353425
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(1) Targeted, other(7)
   species: Mouse
-- ensembl: ''
-  entrez: 100491785,779067
-  mod: '484581'
+- ensembl: ENSXETG00000034251
+  entrez: '100491785'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000053929,ENSDARG00000022098
-  entrez: 566133,571624
-  mod: ZFIN:ZDB-GENE-070111-2,ZFIN:ZDB-GENE-080415-3
-  phenotypes: ZDB-GENE-070111-2,ZDB-GENE-080415-3
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451175
+  url: https://www.ncbi.nlm.nih.gov/gene/423609
 species: Gallus gallus
 symbol: OPN4
 title: OPN4
@@ -121,9 +111,7 @@ Copyright © (2007) Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41889](https://www.ncbi.nlm.nih.gov/gene/41889) | FBgn0019940 |  |
 | Human | [ENSG00000122375](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000122375) | [94233](https://www.ncbi.nlm.nih.gov/gene/94233) | [MIM:606665](https://omim.org/entry/606665) |  |
 | Mouse | [ENSMUSG00000021799](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021799) | [30044](https://www.ncbi.nlm.nih.gov/gene/30044) | [MGI:1353425](http://www.informatics.jax.org/marker/MGI:1353425) | All phenotypic alleles (8):Targeted, knock-out(1) Targeted, other(7) |
-| Xenopus |  | [100491785](https://www.ncbi.nlm.nih.gov/gene/100491785), [779067](https://www.ncbi.nlm.nih.gov/gene/779067) | [484581](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484581) |  |
-| Zebrafish | [ENSDARG00000053929](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053929), [ENSDARG00000022098](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000022098) | [566133](https://www.ncbi.nlm.nih.gov/gene/566133), [571624](https://www.ncbi.nlm.nih.gov/gene/571624) | [ZFIN:ZDB-GENE-070111-2](https://zfin.org/ZDB-GENE-070111-2), [ZFIN:ZDB-GENE-080415-3](https://zfin.org/ZDB-GENE-080415-3) | ZDB-GENE-070111-2,ZDB-GENE-080415-3 |
+| Xenopus | [ENSXETG00000034251](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034251) | [100491785](https://www.ncbi.nlm.nih.gov/gene/100491785) |  |  |
 

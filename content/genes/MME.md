@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:425031
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004412
-gene_id: '461797'
+gene_id: '425031'
 gene_type: protein-coding
 images:
 - caption: MME expression
@@ -45,13 +45,8 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MME_HH12 x25.jpg
 name: membrane metalloendopeptidase
-ncbi_id: '461797'
+ncbi_id: '425031'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000196549
   entrez: '4311'
   mod: MIM:120520
@@ -62,20 +57,10 @@ orthologs:
   mod: MGI:97004
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '1011097'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461797
+  url: https://www.ncbi.nlm.nih.gov/gene/425031
 species: Gallus gallus
 symbol: MME
 title: MME
@@ -102,9 +87,6 @@ Copyright © 2006 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000196549](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000196549) | [4311](https://www.ncbi.nlm.nih.gov/gene/4311) | [MIM:120520](https://omim.org/entry/120520) | MIM:120520 |
 | Mouse | [ENSMUSG00000027820](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027820) | [17380](https://www.ncbi.nlm.nih.gov/gene/17380) | [MGI:97004](http://www.informatics.jax.org/marker/MGI:97004) | All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1) |
-| Xenopus |  |  | [1011097](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1011097) |  |
-| Zebrafish |  |  |  |  |
 

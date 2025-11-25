@@ -5,8 +5,6 @@ aliases:
 - helix-loop-helix protein E47
 cgnc_id: '739'
 external_ids:
-  '19': stage 19
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=quinlan+graf+kiecker+forebrain
   Comments: As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI (acc#
@@ -22,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395146
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204486
 forward_primer: CCAGTCCGAGCACGCTTTCC
-gene_id: '462252'
+gene_id: '395146'
 gene_type: protein-coding
 images:
 - caption: TCF3 expression
@@ -168,13 +166,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Screen shot 2011-05-17
     at 2.54.19 PM.png
 name: transcription factor 3
-ncbi_id: '462252'
+ncbi_id: '395146'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000071564
   entrez: '6929'
   mod: MIM:147141
@@ -185,24 +178,25 @@ orthologs:
   mod: MGI:98510
   phenotypes: All phenotypic alleles (22):Targeted, knock-out(7) Targeted, other(15)
   species: Mouse
-- ensembl: ''
-  entrez: 100101779,379355
-  mod: '478264'
+- ensembl: ENSXETG00000013589
+  entrez: '100101779'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000052383,ENSDARG00000005915
-  entrez: 664768,30310
-  mod: ZFIN:ZDB-GENE-051113-64,ZFIN:ZDB-GENE-990415-51
-  phenotypes: ZDB-GENE-051113-64,ZDB-GENE-990415-51
+- ensembl: ENSDARG00000112646
+  entrez: '664768'
+  mod: ZFIN:ZDB-GENE-051113-64
+  phenotypes: regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCCGCTTTGGGGTTCAGATTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462252
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395146
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462252
+  url: https://www.ncbi.nlm.nih.gov/gene/395146
 species: Gallus gallus
 symbol: TCF3
 template_length: '1474'
@@ -229,9 +223,8 @@ title: TCF3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000071564](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000071564) | [6929](https://www.ncbi.nlm.nih.gov/gene/6929) | [MIM:147141](https://omim.org/entry/147141) | MIM:147141 |
 | Mouse | [ENSMUSG00000020167](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020167) | [21423](https://www.ncbi.nlm.nih.gov/gene/21423) | [MGI:98510](http://www.informatics.jax.org/marker/MGI:98510) | All phenotypic alleles (22):Targeted, knock-out(7) Targeted, other(15) |
-| Xenopus |  | [100101779](https://www.ncbi.nlm.nih.gov/gene/100101779), [379355](https://www.ncbi.nlm.nih.gov/gene/379355) | [478264](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478264) |  |
-| Zebrafish | [ENSDARG00000052383](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052383), [ENSDARG00000005915](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005915) | [664768](https://www.ncbi.nlm.nih.gov/gene/664768), [30310](https://www.ncbi.nlm.nih.gov/gene/30310) | [ZFIN:ZDB-GENE-051113-64](https://zfin.org/ZDB-GENE-051113-64), [ZFIN:ZDB-GENE-990415-51](https://zfin.org/ZDB-GENE-990415-51) | ZDB-GENE-051113-64,ZDB-GENE-990415-51 |
+| Xenopus | [ENSXETG00000013589](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013589) | [100101779](https://www.ncbi.nlm.nih.gov/gene/100101779) |  |  |
+| Zebrafish | [ENSDARG00000112646](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000112646) | [664768](https://www.ncbi.nlm.nih.gov/gene/664768) | [ZFIN:ZDB-GENE-051113-64](https://zfin.org/ZDB-GENE-051113-64) | regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

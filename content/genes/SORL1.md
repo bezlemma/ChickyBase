@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395998
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001232945
 forward_primer: 5’-AAAGGCTTCTTTGTGCTGCG-3’
-gene_id: '451232'
+gene_id: '395998'
 gene_type: protein-coding
 images:
 - caption: SORL1 expression
@@ -107,42 +107,38 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R640.SORL1.S26.001.jpg
 name: sortilin related receptor 1
-ncbi_id: '451232'
+ncbi_id: '395998'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000137642
   entrez: '6653'
   mod: MIM:602005
   phenotypes: MIM:104300
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000049313
   entrez: '20660'
   mod: MGI:1202296
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000016937
   entrez: '100490681'
-  mod: '995775'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000013892
   entrez: '497306'
   mod: ZFIN:ZDB-GENE-050208-22
-  phenotypes: ZDB-GENE-050208-22
+  phenotypes: endocytosis, post-Golgi vesicle-mediated transport, protein retention
+    in Golgi apparatus, protein targeting to lysosome
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAAGGCTGTCACTGTTAGGGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451232
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395998
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451232
+  url: https://www.ncbi.nlm.nih.gov/gene/395998
 species: Gallus gallus
 symbol: SORL1
 template_length: '859'
@@ -167,9 +163,8 @@ title: SORL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000137642](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137642) | [6653](https://www.ncbi.nlm.nih.gov/gene/6653) | [MIM:602005](https://omim.org/entry/602005) | MIM:104300 |
-| Mouse |  | [20660](https://www.ncbi.nlm.nih.gov/gene/20660) | [MGI:1202296](http://www.informatics.jax.org/marker/MGI:1202296) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [100490681](https://www.ncbi.nlm.nih.gov/gene/100490681) | [995775](http://www.xenbase.org/gene/showgene.do?method=display&geneId=995775) |  |
-| Zebrafish |  | [497306](https://www.ncbi.nlm.nih.gov/gene/497306) | [ZFIN:ZDB-GENE-050208-22](https://zfin.org/ZDB-GENE-050208-22) | ZDB-GENE-050208-22 |
+| Mouse | [ENSMUSG00000049313](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049313) | [20660](https://www.ncbi.nlm.nih.gov/gene/20660) | [MGI:1202296](http://www.informatics.jax.org/marker/MGI:1202296) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(2) Gene trapped(1) |
+| Xenopus | [ENSXETG00000016937](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016937) | [100490681](https://www.ncbi.nlm.nih.gov/gene/100490681) |  |  |
+| Zebrafish | [ENSDARG00000013892](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013892) | [497306](https://www.ncbi.nlm.nih.gov/gene/497306) | [ZFIN:ZDB-GENE-050208-22](https://zfin.org/ZDB-GENE-050208-22) | endocytosis, post-Golgi vesicle-mediated transport, protein retention in Golgi apparatus, protein targeting to lysosome |
 

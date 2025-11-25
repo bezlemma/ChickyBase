@@ -7,7 +7,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423656
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199533
 forward_primer: GCAGAGCAGAAAAGCAGACCG
-gene_id: '451239'
+gene_id: '423656'
 gene_type: protein-coding
 images:
 - caption: NRBF2 expression
@@ -105,16 +105,11 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R437.NRBF2.S24.001.jpg
 name: nuclear receptor binding factor 2
-ncbi_id: '451239'
+ncbi_id: '423656'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000148572
   entrez: '29982'
-  mod: ''
+  mod: MIM:616477
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000075000
@@ -122,24 +117,24 @@ orthologs:
   mod: MGI:1354950
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000007693
   entrez: '548937'
-  mod: '1008874'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000023591
   entrez: '436886'
-  mod: ZFIN:ZDB-GENE-040718-357,ZFIN:ZDB-GENE-131009-1
-  phenotypes: ZDB-GENE-040718-357,ZDB-GENE-131009-1
+  mod: ZFIN:ZDB-GENE-040718-357
+  phenotypes: autophagy
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCTCCAGGCAGTCATTTGGTTTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451239
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423656
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451239
+  url: https://www.ncbi.nlm.nih.gov/gene/423656
 species: Gallus gallus
 symbol: NRBF2
 template_length: '1093'
@@ -163,9 +158,8 @@ title: NRBF2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000148572](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148572) | [29982](https://www.ncbi.nlm.nih.gov/gene/29982) |  |  |
+| Human | [ENSG00000148572](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148572) | [29982](https://www.ncbi.nlm.nih.gov/gene/29982) | [MIM:616477](https://omim.org/entry/616477) |  |
 | Mouse | [ENSMUSG00000075000](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000075000) | [641340](https://www.ncbi.nlm.nih.gov/gene/641340) | [MGI:1354950](http://www.informatics.jax.org/marker/MGI:1354950) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [548937](https://www.ncbi.nlm.nih.gov/gene/548937) | [1008874](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1008874) |  |
-| Zebrafish | [ENSDARG00000023591](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023591) | [436886](https://www.ncbi.nlm.nih.gov/gene/436886) | [ZFIN:ZDB-GENE-040718-357](https://zfin.org/ZDB-GENE-040718-357), [ZFIN:ZDB-GENE-131009-1](https://zfin.org/ZDB-GENE-131009-1) | ZDB-GENE-040718-357,ZDB-GENE-131009-1 |
+| Xenopus | [ENSXETG00000007693](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007693) | [548937](https://www.ncbi.nlm.nih.gov/gene/548937) |  |  |
+| Zebrafish | [ENSDARG00000023591](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023591) | [436886](https://www.ncbi.nlm.nih.gov/gene/436886) | [ZFIN:ZDB-GENE-040718-357](https://zfin.org/ZDB-GENE-040718-357) | autophagy |
 

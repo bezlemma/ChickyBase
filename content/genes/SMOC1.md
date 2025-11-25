@@ -3,7 +3,6 @@ aliases:
 - SPARC-related modular calcium-binding protein 1
 cgnc_id: '7159'
 external_ids:
-  '4': stage 4stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Alev+Jakt+Ueda+landscape
   Comments: 'As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI (acc
@@ -15,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:768688
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001231760
-gene_id: '468342'
+gene_id: '768688'
 gene_type: protein-coding
 images:
 - caption: SMOC1 expression
@@ -35,13 +34,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SMOC1.Alev.2010.Fig.5
     smoc1.png
 name: SPARC related modular calcium binding 1
-ncbi_id: '468342'
+ncbi_id: '768688'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000198732
   entrez: '64093'
   mod: MIM:608488
@@ -52,20 +46,22 @@ orthologs:
   mod: MGI:1929878
   phenotypes: All phenotypic alleles (3):Transposon induced(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100145733,100233223
-  mod: '989093'
+- ensembl: ENSXETG00000030085
+  entrez: '100145733'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000088255
   entrez: '100529120'
   mod: ZFIN:ZDB-GENE-110310-7
-  phenotypes: ZDB-GENE-110310-7
+  phenotypes: extracellular matrix organization, eye development, optic cup morphogenesis
+    involved in camera-type eye development, pectoral fin morphogenesis, positive
+    regulation of BMP signaling pathway
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468342
+  url: https://www.ncbi.nlm.nih.gov/gene/768688
 species: Gallus gallus
 symbol: SMOC1
 title: SMOC1
@@ -91,9 +87,8 @@ title: SMOC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000198732](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198732) | [64093](https://www.ncbi.nlm.nih.gov/gene/64093) | [MIM:608488](https://omim.org/entry/608488) | MIM:206920 |
 | Mouse | [ENSMUSG00000021136](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021136) | [64075](https://www.ncbi.nlm.nih.gov/gene/64075) | [MGI:1929878](http://www.informatics.jax.org/marker/MGI:1929878) | All phenotypic alleles (3):Transposon induced(1) Targeted, other(2) |
-| Xenopus |  | [100145733](https://www.ncbi.nlm.nih.gov/gene/100145733), [100233223](https://www.ncbi.nlm.nih.gov/gene/100233223) | [989093](http://www.xenbase.org/gene/showgene.do?method=display&geneId=989093) |  |
-| Zebrafish |  | [100529120](https://www.ncbi.nlm.nih.gov/gene/100529120) | [ZFIN:ZDB-GENE-110310-7](https://zfin.org/ZDB-GENE-110310-7) | ZDB-GENE-110310-7 |
+| Xenopus | [ENSXETG00000030085](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000030085) | [100145733](https://www.ncbi.nlm.nih.gov/gene/100145733) |  |  |
+| Zebrafish | [ENSDARG00000088255](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000088255) | [100529120](https://www.ncbi.nlm.nih.gov/gene/100529120) | [ZFIN:ZDB-GENE-110310-7](https://zfin.org/ZDB-GENE-110310-7) | extracellular matrix organization, eye development, optic cup morphogenesis involved in camera-type eye development, pectoral fin morphogenesis, positive regulation of BMP signaling pathway |
 

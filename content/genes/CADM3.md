@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:772356
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001235504
 forward_primer: ACCTTTGCTTTGGTTTCGTGG
-gene_id: '450137'
+gene_id: '772356'
 gene_type: protein-coding
 images:
 - caption: CADM3 expression
@@ -219,7 +219,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R476.CADM3.S26V.001.jpg
 name: cell adhesion molecule 3
-ncbi_id: '450137'
+ncbi_id: '772356'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -250,10 +250,10 @@ reverse_primer: ATTAACCCTCACTAAAGGATGTAATGGGGTGCTTCTGCGAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450137
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=772356
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450137
+  url: https://www.ncbi.nlm.nih.gov/gene/772356
 species: Gallus gallus
 symbol: CADM3
 template_length: '1040'

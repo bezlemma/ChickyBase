@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423518
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421417
-gene_id: '468202'
+gene_id: '423518'
 gene_type: protein-coding
 images:
 - caption: PRKCH expression
@@ -32,13 +32,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F5.prkch.png
 name: protein kinase C eta
-ncbi_id: '468202'
+ncbi_id: '423518'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000027075
   entrez: '5583'
   mod: MIM:605437
@@ -49,20 +44,20 @@ orthologs:
   mod: MGI:97600
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100151731,444221
-  mod: '486684'
+- ensembl: ENSXETG00000014450
+  entrez: '100151731'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000018382,ENSDARG00000043243
-  entrez: 100144561,556591
-  mod: ZFIN:ZDB-GENE-080402-5,ZFIN:ZDB-GENE-041001-104
-  phenotypes: ZDB-GENE-080402-5,ZDB-GENE-041001-104
+- ensembl: ENSDARG00000018382
+  entrez: '100144561'
+  mod: ZFIN:ZDB-GENE-080402-5
+  phenotypes: intracellular signal transduction, phosphorylation, protein phosphorylation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468202
+  url: https://www.ncbi.nlm.nih.gov/gene/423518
 species: Gallus gallus
 symbol: PRKCH
 title: PRKCH
@@ -88,9 +83,8 @@ title: PRKCH
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000027075](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000027075) | [5583](https://www.ncbi.nlm.nih.gov/gene/5583) | [MIM:605437](https://omim.org/entry/605437) | MIM:601367 |
 | Mouse | [ENSMUSG00000021108](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021108) | [18755](https://www.ncbi.nlm.nih.gov/gene/18755) | [MGI:97600](http://www.informatics.jax.org/marker/MGI:97600) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100151731](https://www.ncbi.nlm.nih.gov/gene/100151731), [444221](https://www.ncbi.nlm.nih.gov/gene/444221) | [486684](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486684) |  |
-| Zebrafish | [ENSDARG00000018382](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018382), [ENSDARG00000043243](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043243) | [100144561](https://www.ncbi.nlm.nih.gov/gene/100144561), [556591](https://www.ncbi.nlm.nih.gov/gene/556591) | [ZFIN:ZDB-GENE-080402-5](https://zfin.org/ZDB-GENE-080402-5), [ZFIN:ZDB-GENE-041001-104](https://zfin.org/ZDB-GENE-041001-104) | ZDB-GENE-080402-5,ZDB-GENE-041001-104 |
+| Xenopus | [ENSXETG00000014450](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014450) | [100151731](https://www.ncbi.nlm.nih.gov/gene/100151731) |  |  |
+| Zebrafish | [ENSDARG00000018382](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018382) | [100144561](https://www.ncbi.nlm.nih.gov/gene/100144561) | [ZFIN:ZDB-GENE-080402-5](https://zfin.org/ZDB-GENE-080402-5) | intracellular signal transduction, phosphorylation, protein phosphorylation |
 

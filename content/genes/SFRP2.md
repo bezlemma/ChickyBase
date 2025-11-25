@@ -15,7 +15,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0030165
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204773
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/SFRP2
-gene_id: '449574'
+gene_id: '395546'
 gene_type: protein-coding
 images:
 - caption: SFRP2 expression
@@ -988,13 +988,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.Singh.2016.Fig1.jpg
 name: secreted frizzled related protein 2
-ncbi_id: '449574'
+ncbi_id: '395546'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000145423
   entrez: '6423'
   mod: MIM:604157
@@ -1006,20 +1001,21 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Chemically induced(2) Targeted, knock-out(4)
     Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 394659,380355
-  mod: '485146'
+- ensembl: ENSXETG00000026087
+  entrez: '394659'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000070050
   entrez: '566878'
   mod: ZFIN:ZDB-GENE-061013-293
-  phenotypes: ZDB-GENE-061013-293
+  phenotypes: Wnt signaling pathway, canonical Wnt signaling pathway, cell differentiation,
+    non-canonical Wnt signaling pathway
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449574
+  url: https://www.ncbi.nlm.nih.gov/gene/395546
 species: Gallus gallus
 symbol: SFRP2
 title: SFRP2
@@ -1049,9 +1045,8 @@ title: SFRP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000145423](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145423) | [6423](https://www.ncbi.nlm.nih.gov/gene/6423) | [MIM:604157](https://omim.org/entry/604157) |  |
 | Mouse | [ENSMUSG00000027996](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027996) | [20319](https://www.ncbi.nlm.nih.gov/gene/20319) | [MGI:108078](http://www.informatics.jax.org/marker/MGI:108078) | All phenotypic alleles (7):Chemically induced(2) Targeted, knock-out(4) Targeted, other(1) |
-| Xenopus |  | [394659](https://www.ncbi.nlm.nih.gov/gene/394659), [380355](https://www.ncbi.nlm.nih.gov/gene/380355) | [485146](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485146) |  |
-| Zebrafish |  | [566878](https://www.ncbi.nlm.nih.gov/gene/566878) | [ZFIN:ZDB-GENE-061013-293](https://zfin.org/ZDB-GENE-061013-293) | ZDB-GENE-061013-293 |
+| Xenopus | [ENSXETG00000026087](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026087) | [394659](https://www.ncbi.nlm.nih.gov/gene/394659) |  |  |
+| Zebrafish | [ENSDARG00000070050](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070050) | [566878](https://www.ncbi.nlm.nih.gov/gene/566878) | [ZFIN:ZDB-GENE-061013-293](https://zfin.org/ZDB-GENE-061013-293) | Wnt signaling pathway, canonical Wnt signaling pathway, cell differentiation, non-canonical Wnt signaling pathway |
 

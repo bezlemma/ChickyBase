@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418474
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001231434
 forward_primer: 5'-TCTCAGCGGTCAAAAGGTGTG-3'
-gene_id: '456050'
+gene_id: '418474'
 gene_type: protein-coding
 images:
 - caption: CHODL expression
@@ -126,13 +126,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R614.CHODL.S26V.001.jpg
 name: chondrolectin
-ncbi_id: '456050'
+ncbi_id: '418474'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000154645
   entrez: '140578'
   mod: MIM:607247
@@ -143,24 +138,25 @@ orthologs:
   mod: MGI:2179069
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000002052
   entrez: '100145416'
-  mod: '1010974'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000034528
   entrez: '550240'
   mod: ZFIN:ZDB-GENE-050417-36
-  phenotypes: ZDB-GENE-050417-36
+  phenotypes: axonogenesis, motor neuron axon guidance, nervous system development,
+    positive regulation of axonogenesis, synapse assembly involved in innervation
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGGCATCTGGAAACAGCAAGTCCC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456050
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418474
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456050
+  url: https://www.ncbi.nlm.nih.gov/gene/418474
 species: Gallus gallus
 symbol: CHODL
 template_length: '704'
@@ -183,9 +179,8 @@ title: CHODL
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000154645](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000154645) | [140578](https://www.ncbi.nlm.nih.gov/gene/140578) | [MIM:607247](https://omim.org/entry/607247) |  |
 | Mouse | [ENSMUSG00000022860](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022860) | [246048](https://www.ncbi.nlm.nih.gov/gene/246048) | [MGI:2179069](http://www.informatics.jax.org/marker/MGI:2179069) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100145416](https://www.ncbi.nlm.nih.gov/gene/100145416) | [1010974](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1010974) |  |
-| Zebrafish | [ENSDARG00000034528](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034528) | [550240](https://www.ncbi.nlm.nih.gov/gene/550240) | [ZFIN:ZDB-GENE-050417-36](https://zfin.org/ZDB-GENE-050417-36) | ZDB-GENE-050417-36 |
+| Xenopus | [ENSXETG00000002052](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002052) | [100145416](https://www.ncbi.nlm.nih.gov/gene/100145416) |  |  |
+| Zebrafish | [ENSDARG00000034528](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034528) | [550240](https://www.ncbi.nlm.nih.gov/gene/550240) | [ZFIN:ZDB-GENE-050417-36](https://zfin.org/ZDB-GENE-050417-36) | axonogenesis, motor neuron axon guidance, nervous system development, positive regulation of axonogenesis, synapse assembly involved in innervation |
 

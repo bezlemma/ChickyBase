@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:772325
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001235477
-gene_id: '450104'
+gene_id: '772325'
 gene_type: protein-coding
 images:
 - caption: NR6A1 expression
@@ -32,13 +32,8 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GCNF.FIG4B.ADAMS.2008.jpg
 name: nuclear receptor subfamily 6 group A member 1
-ncbi_id: '450104'
+ncbi_id: '772325'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000148200
   entrez: '2649'
   mod: MIM:602778
@@ -50,20 +45,21 @@ orthologs:
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(3)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 493367,399304
-  mod: '487591'
+- ensembl: ENSXETG00000008578
+  entrez: '493367'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000018030,ENSDARG00000014480
-  entrez: 30506,497167
-  mod: ZFIN:ZDB-GENE-991207-19,ZFIN:ZDB-GENE-040724-202
-  phenotypes: ZDB-GENE-991207-19,ZDB-GENE-040724-202
+- ensembl: ENSDARG00000101508
+  entrez: '30506'
+  mod: ZFIN:ZDB-GENE-991207-19
+  phenotypes: anterior/posterior pattern specification, cell migration, midbrain-hindbrain
+    boundary development, neurogenesis, regulation of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450104
+  url: https://www.ncbi.nlm.nih.gov/gene/772325
 species: Gallus gallus
 symbol: NR6A1
 title: NR6A1
@@ -89,9 +85,8 @@ title: NR6A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000148200](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148200) | [2649](https://www.ncbi.nlm.nih.gov/gene/2649) | [MIM:602778](https://omim.org/entry/602778) |  |
 | Mouse | [ENSMUSG00000063972](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000063972) | [14536](https://www.ncbi.nlm.nih.gov/gene/14536) | [MGI:1352459](http://www.informatics.jax.org/marker/MGI:1352459) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(3) Gene trapped(1) |
-| Xenopus |  | [493367](https://www.ncbi.nlm.nih.gov/gene/493367), [399304](https://www.ncbi.nlm.nih.gov/gene/399304) | [487591](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487591) |  |
-| Zebrafish | [ENSDARG00000018030](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018030), [ENSDARG00000014480](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014480) | [30506](https://www.ncbi.nlm.nih.gov/gene/30506), [497167](https://www.ncbi.nlm.nih.gov/gene/497167) | [ZFIN:ZDB-GENE-991207-19](https://zfin.org/ZDB-GENE-991207-19), [ZFIN:ZDB-GENE-040724-202](https://zfin.org/ZDB-GENE-040724-202) | ZDB-GENE-991207-19,ZDB-GENE-040724-202 |
+| Xenopus | [ENSXETG00000008578](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008578) | [493367](https://www.ncbi.nlm.nih.gov/gene/493367) |  |  |
+| Zebrafish | [ENSDARG00000101508](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101508) | [30506](https://www.ncbi.nlm.nih.gov/gene/30506) | [ZFIN:ZDB-GENE-991207-19](https://zfin.org/ZDB-GENE-991207-19) | anterior/posterior pattern specification, cell migration, midbrain-hindbrain boundary development, neurogenesis, regulation of DNA-templated transcription |
 

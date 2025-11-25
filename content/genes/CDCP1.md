@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420703
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418802
 forward_primer: 5'-CTTCCTTCACAATCTCGCTTCG-3'
-gene_id: '455110'
+gene_id: '420703'
 gene_type: protein-coding
 images:
 - caption: CDCP1 expression
@@ -49,13 +49,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R587.CDCP1.S26.001.jpg
 name: CUB domain containing protein 1
-ncbi_id: '455110'
+ncbi_id: '420703'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163814
   entrez: '64866'
   mod: MIM:611735
@@ -66,24 +61,24 @@ orthologs:
   mod: MGI:2442010
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000020140
   entrez: '100380031'
-  mod: '968386'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000058943
   entrez: '541520'
-  mod: ZFIN:ZDB-GENE-050327-55,ZFIN:ZDB-GENE-111027-17
-  phenotypes: ZDB-GENE-050327-55,ZDB-GENE-111027-17
+  mod: ZFIN:ZDB-GENE-050327-55
+  phenotypes: biological_process
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTCCTCCTTCCTTTCGCAGTTG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455110
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420703
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455110
+  url: https://www.ncbi.nlm.nih.gov/gene/420703
 species: Gallus gallus
 symbol: CDCP1
 template_length: '739'
@@ -106,9 +101,8 @@ title: CDCP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163814](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163814) | [64866](https://www.ncbi.nlm.nih.gov/gene/64866) | [MIM:611735](https://omim.org/entry/611735) |  |
 | Mouse | [ENSMUSG00000035498](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035498) | [109332](https://www.ncbi.nlm.nih.gov/gene/109332) | [MGI:2442010](http://www.informatics.jax.org/marker/MGI:2442010) | All phenotypic alleles (3):Targeted, knock-out(3) |
-| Xenopus |  | [100380031](https://www.ncbi.nlm.nih.gov/gene/100380031) | [968386](http://www.xenbase.org/gene/showgene.do?method=display&geneId=968386) |  |
-| Zebrafish | [ENSDARG00000058943](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058943) | [541520](https://www.ncbi.nlm.nih.gov/gene/541520) | [ZFIN:ZDB-GENE-050327-55](https://zfin.org/ZDB-GENE-050327-55), [ZFIN:ZDB-GENE-111027-17](https://zfin.org/ZDB-GENE-111027-17) | ZDB-GENE-050327-55,ZDB-GENE-111027-17 |
+| Xenopus | [ENSXETG00000020140](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020140) | [100380031](https://www.ncbi.nlm.nih.gov/gene/100380031) |  |  |
+| Zebrafish | [ENSDARG00000058943](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058943) | [541520](https://www.ncbi.nlm.nih.gov/gene/541520) | [ZFIN:ZDB-GENE-050327-55](https://zfin.org/ZDB-GENE-050327-55) | biological_process |
 

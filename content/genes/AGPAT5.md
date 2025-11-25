@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421898
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419916
-gene_id: '455652'
+gene_id: '421898'
 gene_type: protein-coding
 images:
 - caption: AGPAT5 expression
@@ -32,37 +32,33 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F5.agpat5.png
 name: 1-acylglycerol-3-phosphate O-acyltransferase 5
-ncbi_id: '455652'
+ncbi_id: '421898'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000155189
   entrez: '55326'
   mod: MIM:614796
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000031467
   entrez: '52123'
   mod: MGI:1196345
   phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
   species: Mouse
 - ensembl: ''
   entrez: '548718'
-  mod: '977227'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000063187
   entrez: '767778'
   mod: ZFIN:ZDB-GENE-060929-914
-  phenotypes: ZDB-GENE-060929-914
+  phenotypes: lipid metabolic process, phosphatidylinositol acyl-chain remodeling,
+    phospholipid biosynthetic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455652
+  url: https://www.ncbi.nlm.nih.gov/gene/421898
 species: Gallus gallus
 symbol: AGPAT5
 title: AGPAT5
@@ -88,9 +84,8 @@ title: AGPAT5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [55326](https://www.ncbi.nlm.nih.gov/gene/55326) | [MIM:614796](https://omim.org/entry/614796) |  |
-| Mouse |  | [52123](https://www.ncbi.nlm.nih.gov/gene/52123) | [MGI:1196345](http://www.informatics.jax.org/marker/MGI:1196345) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [548718](https://www.ncbi.nlm.nih.gov/gene/548718) | [977227](http://www.xenbase.org/gene/showgene.do?method=display&geneId=977227) |  |
-| Zebrafish | [ENSDARG00000063187](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063187) | [767778](https://www.ncbi.nlm.nih.gov/gene/767778) | [ZFIN:ZDB-GENE-060929-914](https://zfin.org/ZDB-GENE-060929-914) | ZDB-GENE-060929-914 |
+| Human | [ENSG00000155189](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000155189) | [55326](https://www.ncbi.nlm.nih.gov/gene/55326) | [MIM:614796](https://omim.org/entry/614796) |  |
+| Mouse | [ENSMUSG00000031467](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031467) | [52123](https://www.ncbi.nlm.nih.gov/gene/52123) | [MGI:1196345](http://www.informatics.jax.org/marker/MGI:1196345) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
+| Xenopus |  | [548718](https://www.ncbi.nlm.nih.gov/gene/548718) |  |  |
+| Zebrafish | [ENSDARG00000063187](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063187) | [767778](https://www.ncbi.nlm.nih.gov/gene/767778) | [ZFIN:ZDB-GENE-060929-914](https://zfin.org/ZDB-GENE-060929-914) | lipid metabolic process, phosphatidylinositol acyl-chain remodeling, phospholipid biosynthetic process |
 

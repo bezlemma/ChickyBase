@@ -3,7 +3,6 @@ aliases:
 - fibroblast growth factor 7
 cgnc_id: '49983'
 external_ids:
-  '19': stage 19stage 19stage 19
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Kumar+2012+Fgf5+Chapman
   Comments: The cDNA template used to generate the probe was obtained by PCR as described
     in the paper.
@@ -13,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415439
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012525
-gene_id: '460998'
+gene_id: '415439'
 gene_type: protein-coding
 images:
 - caption: FGF7 expression
@@ -171,13 +170,8 @@ images:
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kumar.2012.Fig4.FGF7.L.HH19.jpg
 name: fibroblast growth factor 7
-ncbi_id: '460998'
+ncbi_id: '415439'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000140285
   entrez: '2252'
   mod: MIM:148180
@@ -188,20 +182,22 @@ orthologs:
   mod: MGI:95521
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 496833,734697
-  mod: '488182'
+- ensembl: ENSXETG00000037937
+  entrez: '496833'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000059387
   entrez: '493181'
   mod: ZFIN:ZDB-GENE-080122-1
-  phenotypes: ZDB-GENE-080122-1
+  phenotypes: fibroblast growth factor receptor signaling pathway, lung development,
+    neurogenesis, positive regulation of MAPK cascade, positive regulation of epithelial
+    cell proliferation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460998
+  url: https://www.ncbi.nlm.nih.gov/gene/415439
 species: Gallus gallus
 symbol: FGF7
 title: FGF7
@@ -227,9 +223,8 @@ title: FGF7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000140285](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140285) | [2252](https://www.ncbi.nlm.nih.gov/gene/2252) | [MIM:148180](https://omim.org/entry/148180) |  |
 | Mouse | [ENSMUSG00000027208](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027208) | [14178](https://www.ncbi.nlm.nih.gov/gene/14178) | [MGI:95521](http://www.informatics.jax.org/marker/MGI:95521) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [496833](https://www.ncbi.nlm.nih.gov/gene/496833), [734697](https://www.ncbi.nlm.nih.gov/gene/734697) | [488182](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488182) |  |
-| Zebrafish | [ENSDARG00000059387](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059387) | [493181](https://www.ncbi.nlm.nih.gov/gene/493181) | [ZFIN:ZDB-GENE-080122-1](https://zfin.org/ZDB-GENE-080122-1) | ZDB-GENE-080122-1 |
+| Xenopus | [ENSXETG00000037937](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000037937) | [496833](https://www.ncbi.nlm.nih.gov/gene/496833) |  |  |
+| Zebrafish | [ENSDARG00000059387](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059387) | [493181](https://www.ncbi.nlm.nih.gov/gene/493181) | [ZFIN:ZDB-GENE-080122-1](https://zfin.org/ZDB-GENE-080122-1) | fibroblast growth factor receptor signaling pathway, lung development, neurogenesis, positive regulation of MAPK cascade, positive regulation of epithelial cell proliferation |
 

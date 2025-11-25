@@ -3,13 +3,12 @@ aliases:
 - type-1 angiotensin II receptor-associated protein
 cgnc_id: '3420'
 external_ids:
-  '25': stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000004623
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419491
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417646
 forward_primer: CAGGAAACATCTGGGAGTTCTTGAG
-gene_id: '458630'
+gene_id: '419491'
 gene_type: protein-coding
 images:
 - caption: AGTRAP expression
@@ -118,13 +117,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R506.AGTRAP.S25.001.jpg
 name: angiotensin II receptor associated protein
-ncbi_id: '458630'
+ncbi_id: '419491'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000177674
   entrez: '57085'
   mod: MIM:608729
@@ -135,24 +129,24 @@ orthologs:
   mod: MGI:1339977
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 548468,734546
-  mod: '482875'
+- ensembl: ENSXETG00000013094
+  entrez: '548468'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: 100333465,503881
+- ensembl: ENSDARG00000114680
+  entrez: '793937'
   mod: ZFIN:ZDB-GENE-050309-11
-  phenotypes: ZDB-GENE-050309-11
+  phenotypes: angiotensin-activated signaling pathway, regulation of blood pressure
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCTGTAGAGGGAATGAAGCATCTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458630
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419491
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458630
+  url: https://www.ncbi.nlm.nih.gov/gene/419491
 species: Gallus gallus
 symbol: AGTRAP
 template_length: '959'
@@ -174,9 +168,8 @@ title: AGTRAP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000177674](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000177674) | [57085](https://www.ncbi.nlm.nih.gov/gene/57085) | [MIM:608729](https://omim.org/entry/608729) |  |
 | Mouse | [ENSMUSG00000029007](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029007) | [11610](https://www.ncbi.nlm.nih.gov/gene/11610) | [MGI:1339977](http://www.informatics.jax.org/marker/MGI:1339977) |  |
-| Xenopus |  | [548468](https://www.ncbi.nlm.nih.gov/gene/548468), [734546](https://www.ncbi.nlm.nih.gov/gene/734546) | [482875](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482875) |  |
-| Zebrafish |  | [100333465](https://www.ncbi.nlm.nih.gov/gene/100333465), [503881](https://www.ncbi.nlm.nih.gov/gene/503881) | [ZFIN:ZDB-GENE-050309-11](https://zfin.org/ZDB-GENE-050309-11) | ZDB-GENE-050309-11 |
+| Xenopus | [ENSXETG00000013094](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013094) | [548468](https://www.ncbi.nlm.nih.gov/gene/548468) |  |  |
+| Zebrafish | [ENSDARG00000114680](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114680) | [793937](https://www.ncbi.nlm.nih.gov/gene/793937) | [ZFIN:ZDB-GENE-050309-11](https://zfin.org/ZDB-GENE-050309-11) | angiotensin-activated signaling pathway, regulation of blood pressure |
 

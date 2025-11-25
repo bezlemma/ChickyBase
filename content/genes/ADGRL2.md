@@ -4,7 +4,6 @@ aliases:
 - latrophilin 2
 cgnc_id: '6736'
 external_ids:
-  '25': stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Bell+Antin+GEISHA+screen
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence was obtained from NCBI (NM_001190477.1).  Adgrl2
@@ -17,7 +16,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001190477
 forward_primer: ATGCCAGGGATACAAGTGCC
-gene_id: '451548'
+gene_id: '424545'
 gene_type: protein-coding
 images:
 - caption: ADGRL2 expression
@@ -380,36 +379,38 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Vezain.2018_Fig 3allimages.jpg
 name: adhesion G protein-coupled receptor L2
-ncbi_id: '451548'
+ncbi_id: '424545'
 orthologs:
-- ensembl: ENSG00000197580
-  entrez: '83875'
-  mod: MIM:611740
+- ensembl: ENSG00000117114
+  entrez: '23266'
+  mod: MIM:607018
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000032066
-  entrez: '170752'
-  mod: MGI:2177469
+- ensembl: ENSMUSG00000028184
+  entrez: '99633'
+  mod: MGI:2139714
   phenotypes: ''
   species: Mouse
-- ensembl: ENSXETG00000026012
-  entrez: '100487224'
+- ensembl: ENSXETG00000031189
+  entrez: '100494313'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000055722
-  entrez: '793849'
-  mod: ZFIN:ZDB-GENE-030131-8039
-  phenotypes: ''
+- ensembl: ENSDARG00000069356
+  entrez: '57987'
+  mod: ZFIN:ZDB-GENE-000607-49
+  phenotypes: G protein-coupled receptor signaling pathway, cell surface receptor
+    signaling pathway, endothelial cell-cell adhesion, negative regulation of hippo
+    signaling, regulation of vascular permeability
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTCACAGAACTGCGAGGTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451548
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424545
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451548
+  url: https://www.ncbi.nlm.nih.gov/gene/424545
 species: Gallus gallus
 symbol: ADGRL2
 template_length: '895'
@@ -437,8 +438,8 @@ title: ADGRL2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Human | [ENSG00000197580](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197580) | [83875](https://www.ncbi.nlm.nih.gov/gene/83875) | [MIM:611740](https://omim.org/entry/611740) |  |
-| Mouse | [ENSMUSG00000032066](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032066) | [170752](https://www.ncbi.nlm.nih.gov/gene/170752) | [MGI:2177469](http://www.informatics.jax.org/marker/MGI:2177469) |  |
-| Xenopus | [ENSXETG00000026012](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026012) | [100487224](https://www.ncbi.nlm.nih.gov/gene/100487224) |  |  |
-| Zebrafish | [ENSDARG00000055722](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055722) | [793849](https://www.ncbi.nlm.nih.gov/gene/793849) | [ZFIN:ZDB-GENE-030131-8039](https://zfin.org/ZDB-GENE-030131-8039) |  |
+| Human | [ENSG00000117114](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000117114) | [23266](https://www.ncbi.nlm.nih.gov/gene/23266) | [MIM:607018](https://omim.org/entry/607018) |  |
+| Mouse | [ENSMUSG00000028184](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028184) | [99633](https://www.ncbi.nlm.nih.gov/gene/99633) | [MGI:2139714](http://www.informatics.jax.org/marker/MGI:2139714) |  |
+| Xenopus | [ENSXETG00000031189](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031189) | [100494313](https://www.ncbi.nlm.nih.gov/gene/100494313) |  |  |
+| Zebrafish | [ENSDARG00000069356](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069356) | [57987](https://www.ncbi.nlm.nih.gov/gene/57987) | [ZFIN:ZDB-GENE-000607-49](https://zfin.org/ZDB-GENE-000607-49) | G protein-coupled receptor signaling pathway, cell surface receptor signaling pathway, endothelial cell-cell adhesion, negative regulation of hippo signaling, regulation of vascular permeability |
 

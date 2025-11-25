@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416826
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001039264
 forward_primer: 5'-TGGGAGTAAAAGTGCGATGGAG-3'
-gene_id: '461493'
+gene_id: '416826'
 gene_type: protein-coding
 images:
 - caption: CDK2AP1 expression
@@ -63,41 +63,31 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R592.CDK2AP1.S26AA.001.jpg
 name: cyclin dependent kinase 2 associated protein 1
-ncbi_id: '461493'
+ncbi_id: '416826'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000111328
   entrez: '8099'
   mod: MIM:602198
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000029394
-  entrez: 100039945,13445
-  mod: MGI:3652174,MGI:1202069
+  entrez: '13445'
+  mod: MGI:1202069
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 549484,380551
-  mod: '5715099'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000005817
+  entrez: '549484'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: 5'-AATTAACCCTCACTAAAGGGATTGTGGCTGGATAGGAAGAGAAC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461493
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416826
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461493
+  url: https://www.ncbi.nlm.nih.gov/gene/416826
 species: Gallus gallus
 symbol: CDK2AP1
 template_length: '405'
@@ -120,9 +110,7 @@ title: CDK2AP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000111328](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111328) | [8099](https://www.ncbi.nlm.nih.gov/gene/8099) | [MIM:602198](https://omim.org/entry/602198) |  |
-| Mouse | [ENSMUSG00000029394](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029394) | [100039945](https://www.ncbi.nlm.nih.gov/gene/100039945), [13445](https://www.ncbi.nlm.nih.gov/gene/13445) | [MGI:3652174](http://www.informatics.jax.org/marker/MGI:3652174), [MGI:1202069](http://www.informatics.jax.org/marker/MGI:1202069) |  |
-| Xenopus |  | [549484](https://www.ncbi.nlm.nih.gov/gene/549484), [380551](https://www.ncbi.nlm.nih.gov/gene/380551) | [5715099](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5715099) |  |
-| Zebrafish |  |  |  |  |
+| Mouse | [ENSMUSG00000029394](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029394) | [13445](https://www.ncbi.nlm.nih.gov/gene/13445) | [MGI:1202069](http://www.informatics.jax.org/marker/MGI:1202069) |  |
+| Xenopus | [ENSXETG00000005817](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005817) | [549484](https://www.ncbi.nlm.nih.gov/gene/549484) |  |  |
 

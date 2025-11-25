@@ -1,13 +1,12 @@
 ---
 cgnc_id: '273'
 external_ids:
-  '25': stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000000449
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419360
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642508
 forward_primer: AATGAGCAGAAGCGTGTG
-gene_id: '454764'
+gene_id: '419360'
 gene_type: protein-coding
 images:
 - caption: ARHGEF10L expression
@@ -144,41 +143,31 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R387.ARHGEF10L.S24.002.jpg
 name: Rho guanine nucleotide exchange factor 10 like
-ncbi_id: '454764'
+ncbi_id: '419360'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000074964
+  entrez: '55160'
+  mod: MIM:612494
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000040964
+  entrez: '72754'
+  mod: MGI:1920004
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000014794
+  entrez: '100158460'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGATGTGGCAGGAGAGGATAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454764
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419360
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454764
+  url: https://www.ncbi.nlm.nih.gov/gene/419360
 species: Gallus gallus
 symbol: ARHGEF10L
 template_length: '863'
@@ -200,9 +189,7 @@ title: ARHGEF10L
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000074964](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000074964) | [55160](https://www.ncbi.nlm.nih.gov/gene/55160) | [MIM:612494](https://omim.org/entry/612494) |  |
+| Mouse | [ENSMUSG00000040964](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040964) | [72754](https://www.ncbi.nlm.nih.gov/gene/72754) | [MGI:1920004](http://www.informatics.jax.org/marker/MGI:1920004) |  |
+| Xenopus | [ENSXETG00000014794](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014794) | [100158460](https://www.ncbi.nlm.nih.gov/gene/100158460) |  |  |
 

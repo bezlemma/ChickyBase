@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395174
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204508
-gene_id: '462334'
+gene_id: '395174'
 gene_type: protein-coding
 images:
 - caption: MTF2 expression
@@ -57,13 +57,8 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PCL2.WangS.2004.Fig.2.png
 name: metal response element binding transcription factor 2
-ncbi_id: '462334'
+ncbi_id: '395174'
 orthologs:
-- ensembl: ''
-  entrez: '37069'
-  mod: FBgn0003044
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000143033
   entrez: '22823'
   mod: MIM:609882
@@ -75,23 +70,23 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(1)
     Gene trapped(2)
   species: Mouse
-- ensembl: ''
-  entrez: 550093,399117
-  mod: '1014956'
+- ensembl: ENSXETG00000023001
+  entrez: '550093'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000005590
   entrez: '692292'
   mod: ZFIN:ZDB-GENE-060512-94
-  phenotypes: ZDB-GENE-060512-94
+  phenotypes: chromatin organization, negative regulation of gene expression, epigenetic
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462334
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395174
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462334
+  url: https://www.ncbi.nlm.nih.gov/gene/395174
 species: Gallus gallus
 symbol: MTF2
 title: MTF2
@@ -119,9 +114,8 @@ title: MTF2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [37069](https://www.ncbi.nlm.nih.gov/gene/37069) | FBgn0003044 |  |
 | Human | [ENSG00000143033](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143033) | [22823](https://www.ncbi.nlm.nih.gov/gene/22823) | [MIM:609882](https://omim.org/entry/609882) |  |
 | Mouse | [ENSMUSG00000029267](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029267) | [17765](https://www.ncbi.nlm.nih.gov/gene/17765) | [MGI:105050](http://www.informatics.jax.org/marker/MGI:105050) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(1) Gene trapped(2) |
-| Xenopus |  | [550093](https://www.ncbi.nlm.nih.gov/gene/550093), [399117](https://www.ncbi.nlm.nih.gov/gene/399117) | [1014956](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1014956) |  |
-| Zebrafish |  | [692292](https://www.ncbi.nlm.nih.gov/gene/692292) | [ZFIN:ZDB-GENE-060512-94](https://zfin.org/ZDB-GENE-060512-94) | ZDB-GENE-060512-94 |
+| Xenopus | [ENSXETG00000023001](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023001) | [550093](https://www.ncbi.nlm.nih.gov/gene/550093) |  |  |
+| Zebrafish | [ENSDARG00000005590](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005590) | [692292](https://www.ncbi.nlm.nih.gov/gene/692292) | [ZFIN:ZDB-GENE-060512-94](https://zfin.org/ZDB-GENE-060512-94) | chromatin organization, negative regulation of gene expression, epigenetic |
 

@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415568
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641829
-gene_id: '460294'
+gene_id: '415568'
 gene_type: protein-coding
 images:
 - caption: TLE3 expression
@@ -391,40 +391,31 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zwane.2015-Tle3-fig8.jpg
 name: transducin like enhancer of split 3
-ncbi_id: '460294'
+ncbi_id: '415568'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000140332
+  entrez: '7090'
+  mod: MIM:600190
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000032280
+  entrez: '21887'
+  mod: MGI:104634
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000069006
+  entrez: '100007463'
+  mod: ZFIN:ZDB-GENE-990415-85
+  phenotypes: myeloid cell differentiation, negative regulation of canonical Wnt signaling
+    pathway, regulation of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460294
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415568
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460294
+  url: https://www.ncbi.nlm.nih.gov/gene/415568
 species: Gallus gallus
 symbol: TLE3
 title: TLE3
@@ -449,9 +440,7 @@ title: TLE3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000140332](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140332) | [7090](https://www.ncbi.nlm.nih.gov/gene/7090) | [MIM:600190](https://omim.org/entry/600190) |  |
+| Mouse | [ENSMUSG00000032280](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032280) | [21887](https://www.ncbi.nlm.nih.gov/gene/21887) | [MGI:104634](http://www.informatics.jax.org/marker/MGI:104634) |  |
+| Zebrafish | [ENSDARG00000069006](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069006) | [100007463](https://www.ncbi.nlm.nih.gov/gene/100007463) | [ZFIN:ZDB-GENE-990415-85](https://zfin.org/ZDB-GENE-990415-85) | myeloid cell differentiation, negative regulation of canonical Wnt signaling pathway, regulation of DNA-templated transcription |
 

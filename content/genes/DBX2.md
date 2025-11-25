@@ -18,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003700
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001276354
 forward_primer: TCAGAATAGAAGGATGAAGTGGCG
-gene_id: '468554'
+gene_id: '417801'
 gene_type: protein-coding
 images:
 - caption: DBX2 expression
@@ -206,41 +206,31 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DBX2.Davey.2006.Fig.2.png
 name: developing brain homeobox 2
-ncbi_id: '468554'
+ncbi_id: '417801'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000185610
   entrez: '440097'
-  mod: ''
+  mod: MIM:620706
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000045608
   entrez: '223843'
   mod: MGI:107445
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000030548
   entrez: '100489622'
-  mod: '481733'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '30417'
-  mod: ZFIN:ZDB-GENE-000128-13
-  phenotypes: ZDB-GENE-000128-13
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGAGGACAGATGGTGGAAACATACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468554
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417801
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468554
+  url: https://www.ncbi.nlm.nih.gov/gene/417801
 species: Gallus gallus
 symbol: DBX2
 template_length: '815'
@@ -270,9 +260,7 @@ title: DBX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000185610](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185610) | [440097](https://www.ncbi.nlm.nih.gov/gene/440097) |  |  |
-| Mouse |  | [223843](https://www.ncbi.nlm.nih.gov/gene/223843) | [MGI:107445](http://www.informatics.jax.org/marker/MGI:107445) |  |
-| Xenopus |  | [100489622](https://www.ncbi.nlm.nih.gov/gene/100489622) | [481733](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481733) |  |
-| Zebrafish |  | [30417](https://www.ncbi.nlm.nih.gov/gene/30417) | [ZFIN:ZDB-GENE-000128-13](https://zfin.org/ZDB-GENE-000128-13) | ZDB-GENE-000128-13 |
+| Human | [ENSG00000185610](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185610) | [440097](https://www.ncbi.nlm.nih.gov/gene/440097) | [MIM:620706](https://omim.org/entry/620706) |  |
+| Mouse | [ENSMUSG00000045608](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000045608) | [223843](https://www.ncbi.nlm.nih.gov/gene/223843) | [MGI:107445](http://www.informatics.jax.org/marker/MGI:107445) |  |
+| Xenopus | [ENSXETG00000030548](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000030548) | [100489622](https://www.ncbi.nlm.nih.gov/gene/100489622) |  |  |
 

@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428321
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425881
 forward_primer: 5’-ACCAAGAGCAAGGAGGTGC-3’
-gene_id: '462372'
+gene_id: '428321'
 gene_type: protein-coding
 images:
 - caption: KANK3 expression
@@ -78,41 +78,26 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R718.ANKRD47.S24AA.001.jpg
 name: KN motif and ankyrin repeat domains 3
-ncbi_id: '462372'
+ncbi_id: '428321'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000021895
   entrez: '100170188'
-  mod: '853765'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000076566
   entrez: '558407'
   mod: ZFIN:ZDB-GENE-081105-185
-  phenotypes: ZDB-GENE-081105-185
+  phenotypes: negative regulation of actin filament polymerization
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGACACTTCCTGCACTGAGGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462372
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428321
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462372
+  url: https://www.ncbi.nlm.nih.gov/gene/428321
 species: Gallus gallus
 symbol: KANK3
 template_length: '912'
@@ -134,9 +119,6 @@ title: KANK3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100170188](https://www.ncbi.nlm.nih.gov/gene/100170188) | [853765](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853765) |  |
-| Zebrafish |  | [558407](https://www.ncbi.nlm.nih.gov/gene/558407) | [ZFIN:ZDB-GENE-081105-185](https://zfin.org/ZDB-GENE-081105-185) | ZDB-GENE-081105-185 |
+| Xenopus | [ENSXETG00000021895](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021895) | [100170188](https://www.ncbi.nlm.nih.gov/gene/100170188) |  |  |
+| Zebrafish | [ENSDARG00000076566](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076566) | [558407](https://www.ncbi.nlm.nih.gov/gene/558407) | [ZFIN:ZDB-GENE-081105-185](https://zfin.org/ZDB-GENE-081105-185) | negative regulation of actin filament polymerization |
 

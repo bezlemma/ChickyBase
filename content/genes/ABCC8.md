@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423072
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421005
 forward_primer: GGCTACATCCAGAGAGAAGGAACG
-gene_id: '449750'
+gene_id: '423072'
 gene_type: protein-coding
 images:
 - caption: ABCC8 expression
@@ -146,13 +146,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R482.ABCC8.S27BB.001.jpg
 name: ATP binding cassette subfamily C member 8
-ncbi_id: '449750'
+ncbi_id: '423072'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000006071
   entrez: '6833'
   mod: MIM:600509
@@ -163,24 +158,20 @@ orthologs:
   mod: MGI:1352629
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(4) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '996922'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000051879
   entrez: '553281'
   mod: ZFIN:ZDB-GENE-050517-22
-  phenotypes: ZDB-GENE-050517-22
+  phenotypes: cellular response to glucose stimulus, potassium ion transmembrane transport,
+    potassium ion transport, response to ATP, transmembrane transport
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCAAGGCAATGAGAAACATCGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449750
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423072
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449750
+  url: https://www.ncbi.nlm.nih.gov/gene/423072
 species: Gallus gallus
 symbol: ABCC8
 template_length: '790'
@@ -202,9 +193,7 @@ title: ABCC8
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000006071](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000006071) | [6833](https://www.ncbi.nlm.nih.gov/gene/6833) | [MIM:600509](https://omim.org/entry/600509) | MIM:125853 |
 | Mouse | [ENSMUSG00000040136](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040136) | [20927](https://www.ncbi.nlm.nih.gov/gene/20927) | [MGI:1352629](http://www.informatics.jax.org/marker/MGI:1352629) | All phenotypic alleles (5):Targeted, knock-out(4) Targeted, other(1) |
-| Xenopus |  |  | [996922](http://www.xenbase.org/gene/showgene.do?method=display&geneId=996922) |  |
-| Zebrafish | [ENSDARG00000051879](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000051879) | [553281](https://www.ncbi.nlm.nih.gov/gene/553281) | [ZFIN:ZDB-GENE-050517-22](https://zfin.org/ZDB-GENE-050517-22) | ZDB-GENE-050517-22 |
+| Zebrafish | [ENSDARG00000051879](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000051879) | [553281](https://www.ncbi.nlm.nih.gov/gene/553281) | [ZFIN:ZDB-GENE-050517-22](https://zfin.org/ZDB-GENE-050517-22) | cellular response to glucose stimulus, potassium ion transmembrane transport, potassium ion transport, response to ATP, transmembrane transport |
 

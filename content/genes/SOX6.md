@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423068
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421000
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/SOX6
-gene_id: '449741'
+gene_id: '423068'
 gene_type: protein-coding
 images:
 - caption: SOX6 expression
@@ -125,13 +125,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox6.Chimal-Monroy.2003.I
     for Figure 2.PNG
 name: SRY-box 6
-ncbi_id: '449741'
+ncbi_id: '423068'
 orthologs:
-- ensembl: ''
-  entrez: '43844'
-  mod: FBgn0039938
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000110693
   entrez: '55553'
   mod: MIM:607257
@@ -142,23 +137,24 @@ orthologs:
   mod: MGI:98368
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(1) Targeted, other(6)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000016058
   entrez: '100144640'
-  mod: '483933'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000015536
   entrez: '567154'
   mod: ZFIN:ZDB-GENE-081120-6
-  phenotypes: ZDB-GENE-081120-6
+  phenotypes: adipose tissue development, cell differentiation, cell fate commitment,
+    central nervous system development, muscle cell fate specification
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449741
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423068
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449741
+  url: https://www.ncbi.nlm.nih.gov/gene/423068
 species: Gallus gallus
 symbol: SOX6
 title: SOX6
@@ -191,9 +187,8 @@ Copyright © 2003 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43844](https://www.ncbi.nlm.nih.gov/gene/43844) | FBgn0039938 |  |
 | Human | [ENSG00000110693](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000110693) | [55553](https://www.ncbi.nlm.nih.gov/gene/55553) | [MIM:607257](https://omim.org/entry/607257) |  |
 | Mouse | [ENSMUSG00000051910](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000051910) | [20679](https://www.ncbi.nlm.nih.gov/gene/20679) | [MGI:98368](http://www.informatics.jax.org/marker/MGI:98368) | All phenotypic alleles (7):Targeted, knock-out(1) Targeted, other(6) |
-| Xenopus |  | [100144640](https://www.ncbi.nlm.nih.gov/gene/100144640) | [483933](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483933) |  |
-| Zebrafish | [ENSDARG00000015536](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015536) | [567154](https://www.ncbi.nlm.nih.gov/gene/567154) | [ZFIN:ZDB-GENE-081120-6](https://zfin.org/ZDB-GENE-081120-6) | ZDB-GENE-081120-6 |
+| Xenopus | [ENSXETG00000016058](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016058) | [100144640](https://www.ncbi.nlm.nih.gov/gene/100144640) |  |  |
+| Zebrafish | [ENSDARG00000015536](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015536) | [567154](https://www.ncbi.nlm.nih.gov/gene/567154) | [ZFIN:ZDB-GENE-081120-6](https://zfin.org/ZDB-GENE-081120-6) | adipose tissue development, cell differentiation, cell fate commitment, central nervous system development, muscle cell fate specification |
 

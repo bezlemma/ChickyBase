@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423402
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421312
 forward_primer: 5’-ACTTGCCAGACATGAGGTGG-3’
-gene_id: '463202'
+gene_id: '423402'
 gene_type: protein-coding
 images:
 - caption: FOXN3 expression
@@ -56,41 +56,31 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R678.FOXN3.S26.001.jpg
 name: forkhead box N3
-ncbi_id: '463202'
+ncbi_id: '423402'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000053254
+  entrez: '1112'
+  mod: MIM:602628
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000016645
+  entrez: '549054'
   mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000012833
   entrez: '692291'
   mod: ZFIN:ZDB-GENE-060512-39
-  phenotypes: ZDB-GENE-060512-39
+  phenotypes: regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGAGCACTTGGGTGTCTGTAGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463202
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423402
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463202
+  url: https://www.ncbi.nlm.nih.gov/gene/423402
 species: Gallus gallus
 symbol: FOXN3
 template_length: '980'
@@ -113,9 +103,7 @@ title: FOXN3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000012833](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012833) | [692291](https://www.ncbi.nlm.nih.gov/gene/692291) | [ZFIN:ZDB-GENE-060512-39](https://zfin.org/ZDB-GENE-060512-39) | ZDB-GENE-060512-39 |
+| Human | [ENSG00000053254](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000053254) | [1112](https://www.ncbi.nlm.nih.gov/gene/1112) | [MIM:602628](https://omim.org/entry/602628) |  |
+| Xenopus | [ENSXETG00000016645](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016645) | [549054](https://www.ncbi.nlm.nih.gov/gene/549054) |  |  |
+| Zebrafish | [ENSDARG00000012833](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012833) | [692291](https://www.ncbi.nlm.nih.gov/gene/692291) | [ZFIN:ZDB-GENE-060512-39](https://zfin.org/ZDB-GENE-060512-39) | regulation of DNA-templated transcription |
 

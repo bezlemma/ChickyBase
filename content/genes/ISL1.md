@@ -3,7 +3,6 @@ aliases:
 - domesticus (clone 1.7 kB) islet-1
 cgnc_id: '11048'
 external_ids:
-  '19': stage 19stage 19
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0003896
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0060413
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
@@ -19,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0001102
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205414
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCATCGGCTTCAGCAAGAACG
-gene_id: '461667'
+gene_id: '396383'
 gene_type: protein-coding
 images:
 - caption: ISL1 expression
@@ -850,13 +849,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ISL1.Anderson.2019.Fig3.jpg
 name: ISL LIM homeobox 1
-ncbi_id: '461667'
+ncbi_id: '396383'
 orthologs:
-- ensembl: ''
-  entrez: '35147'
-  mod: FBgn0003896
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000016082
   entrez: '3670'
   mod: MIM:600366
@@ -867,24 +861,20 @@ orthologs:
   mod: MGI:101791
   phenotypes: All phenotypic alleles (12):Targeted, knock-out(2) Targeted, other(10)
   species: Mouse
-- ensembl: ''
-  entrez: 549474,100126604
-  mod: '481335'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000004023
   entrez: '30147'
   mod: ZFIN:ZDB-GENE-980526-112
-  phenotypes: ZDB-GENE-980526-112
+  phenotypes: GABAergic neuron differentiation, anatomical structure morphogenesis,
+    atrial cardiac muscle cell differentiation, axon extension, axonogenesis
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTCTCTCCAATAGGGTTGAGGGTAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461667
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396383
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461667
+  url: https://www.ncbi.nlm.nih.gov/gene/396383
 species: Gallus gallus
 symbol: ISL1
 template_length: '923'
@@ -916,9 +906,7 @@ title: ISL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35147](https://www.ncbi.nlm.nih.gov/gene/35147) | FBgn0003896 |  |
 | Human | [ENSG00000016082](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000016082) | [3670](https://www.ncbi.nlm.nih.gov/gene/3670) | [MIM:600366](https://omim.org/entry/600366) |  |
 | Mouse | [ENSMUSG00000042258](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042258) | [16392](https://www.ncbi.nlm.nih.gov/gene/16392) | [MGI:101791](http://www.informatics.jax.org/marker/MGI:101791) | All phenotypic alleles (12):Targeted, knock-out(2) Targeted, other(10) |
-| Xenopus |  | [549474](https://www.ncbi.nlm.nih.gov/gene/549474), [100126604](https://www.ncbi.nlm.nih.gov/gene/100126604) | [481335](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481335) |  |
-| Zebrafish | [ENSDARG00000004023](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004023) | [30147](https://www.ncbi.nlm.nih.gov/gene/30147) | [ZFIN:ZDB-GENE-980526-112](https://zfin.org/ZDB-GENE-980526-112) | ZDB-GENE-980526-112 |
+| Zebrafish | [ENSDARG00000004023](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004023) | [30147](https://www.ncbi.nlm.nih.gov/gene/30147) | [ZFIN:ZDB-GENE-980526-112](https://zfin.org/ZDB-GENE-980526-112) | GABAergic neuron differentiation, anatomical structure morphogenesis, atrial cardiac muscle cell differentiation, axon extension, axonogenesis |
 

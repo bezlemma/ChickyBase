@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374264
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204347
-gene_id: '455914'
+gene_id: '374264'
 gene_type: protein-coding
 images:
 - caption: LIX1 expression
@@ -60,13 +60,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LIX1.Anderson.2019.Supplementary
     figure 5I.jpg
 name: limb and CNS expressed 1
-ncbi_id: '455914'
+ncbi_id: '374264'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000145721
   entrez: '167410'
   mod: MIM:610466
@@ -77,20 +72,20 @@ orthologs:
   mod: MGI:1913893
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000013196
   entrez: '100497418'
-  mod: '976692'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000052154
   entrez: '558010'
   mod: ZFIN:ZDB-GENE-060526-123
-  phenotypes: ZDB-GENE-060526-123
+  phenotypes: autophagosome maturation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455914
+  url: https://www.ncbi.nlm.nih.gov/gene/374264
 species: Gallus gallus
 symbol: LIX1
 title: LIX1
@@ -116,9 +111,8 @@ title: LIX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000145721](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145721) | [167410](https://www.ncbi.nlm.nih.gov/gene/167410) | [MIM:610466](https://omim.org/entry/610466) |  |
 | Mouse | [ENSMUSG00000047786](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000047786) | [66643](https://www.ncbi.nlm.nih.gov/gene/66643) | [MGI:1913893](http://www.informatics.jax.org/marker/MGI:1913893) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100497418](https://www.ncbi.nlm.nih.gov/gene/100497418) | [976692](http://www.xenbase.org/gene/showgene.do?method=display&geneId=976692) |  |
-| Zebrafish | [ENSDARG00000052154](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052154) | [558010](https://www.ncbi.nlm.nih.gov/gene/558010) | [ZFIN:ZDB-GENE-060526-123](https://zfin.org/ZDB-GENE-060526-123) | ZDB-GENE-060526-123 |
+| Xenopus | [ENSXETG00000013196](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013196) | [100497418](https://www.ncbi.nlm.nih.gov/gene/100497418) |  |  |
+| Zebrafish | [ENSDARG00000052154](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052154) | [558010](https://www.ncbi.nlm.nih.gov/gene/558010) | [ZFIN:ZDB-GENE-060526-123](https://zfin.org/ZDB-GENE-060526-123) | autophagosome maturation |
 

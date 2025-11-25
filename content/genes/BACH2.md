@@ -4,7 +4,6 @@ aliases:
 - BTB and CNC homology 2
 cgnc_id: '11632'
 external_ids:
-  '25': stage 25stage 25
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Trevers et al. 2023.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -14,7 +13,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419833
   X-XIV: stage XII
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATTCAGGGGGCCCGGCTTTGAA
-gene_id: '455394'
+gene_id: '121106461'
 gene_type: protein-coding
 images:
 - caption: BACH2 expression
@@ -185,7 +184,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BACH2.Trevers.2023-Fig7-5-E.jpg
 name: BTB domain and CNC homolog 2
-ncbi_id: '455394'
+ncbi_id: '121106461'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -210,16 +209,16 @@ orthologs:
 - ensembl: ENSDARG00000004074
   entrez: '555350'
   mod: ZFIN:ZDB-GENE-041001-139,ZFIN:ZDB-GENE-120525-2
-  phenotypes: ZDB-GENE-041001-139,ZDB-GENE-120525-2
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTGGCTACTCTGCTCTCGCGGA
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455394
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=121106461
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455394
+  url: https://www.ncbi.nlm.nih.gov/gene/121106461
 species: Gallus gallus
 symbol: BACH2
 template_length: '1213'
@@ -248,5 +247,5 @@ title: BACH2
 | Human | [ENSG00000112182](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112182) | [60468](https://www.ncbi.nlm.nih.gov/gene/60468) | [MIM:605394](https://omim.org/entry/605394) |  |
 | Mouse |  |  |  |  |
 | Xenopus |  | [100485849](https://www.ncbi.nlm.nih.gov/gene/100485849) | [994312](http://www.xenbase.org/gene/showgene.do?method=display&geneId=994312) |  |
-| Zebrafish | [ENSDARG00000004074](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004074) | [555350](https://www.ncbi.nlm.nih.gov/gene/555350) | [ZFIN:ZDB-GENE-041001-139](https://zfin.org/ZDB-GENE-041001-139), [ZFIN:ZDB-GENE-120525-2](https://zfin.org/ZDB-GENE-120525-2) | ZDB-GENE-041001-139,ZDB-GENE-120525-2 |
+| Zebrafish | [ENSDARG00000004074](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004074) | [555350](https://www.ncbi.nlm.nih.gov/gene/555350) | [ZFIN:ZDB-GENE-041001-139](https://zfin.org/ZDB-GENE-041001-139), [ZFIN:ZDB-GENE-120525-2](https://zfin.org/ZDB-GENE-120525-2) |  |
 

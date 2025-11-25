@@ -5,9 +5,6 @@ aliases:
 - Sry-boxntranscription factor, SOX-10
 cgnc_id: '49382'
 external_ids:
-  '19': stage 19
-  '25': stage 25stage 25stage 25stage 25stage 25
-  '31': stage 31
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0060959
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0031315
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Betancur+2011+Sox10
@@ -20,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395573
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0000978
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204792
-gene_id: '449558'
+gene_id: '395573'
 gene_type: protein-coding
 images:
 - caption: SOX10 expression
@@ -695,13 +692,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox10.Betancur.2011.F6.jpg
 name: SRY-box 10
-ncbi_id: '449558'
+ncbi_id: '395573'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100146
   entrez: '6663'
   mod: MIM:602229
@@ -713,23 +705,24 @@ orthologs:
   phenotypes: All phenotypic alleles (13):Spontaneous(1) Chemically induced(1) Radiation
     induced(2) Targeted, other(9)
   species: Mouse
-- ensembl: ''
-  entrez: 100101700,398422
-  mod: '480303'
+- ensembl: ENSXETG00000006348
+  entrez: '100101700'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000077467
-  entrez: 100332806,140616
+  entrez: '140616'
   mod: ZFIN:ZDB-GENE-011207-1
-  phenotypes: ZDB-GENE-011207-1
+  phenotypes: Schwann cell development, Schwann cell differentiation, cranial skeletal
+    system development, developmental pigmentation, developmental process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449558
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395573
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449558
+  url: https://www.ncbi.nlm.nih.gov/gene/395573
 species: Gallus gallus
 symbol: SOX10
 title: SOX10
@@ -758,9 +751,8 @@ title: SOX10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000100146](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100146) | [6663](https://www.ncbi.nlm.nih.gov/gene/6663) | [MIM:602229](https://omim.org/entry/602229) | MIM:609136 |
 | Mouse | [ENSMUSG00000033006](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033006) | [20665](https://www.ncbi.nlm.nih.gov/gene/20665) | [MGI:98358](http://www.informatics.jax.org/marker/MGI:98358) | All phenotypic alleles (13):Spontaneous(1) Chemically induced(1) Radiation induced(2) Targeted, other(9) |
-| Xenopus |  | [100101700](https://www.ncbi.nlm.nih.gov/gene/100101700), [398422](https://www.ncbi.nlm.nih.gov/gene/398422) | [480303](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480303) |  |
-| Zebrafish | [ENSDARG00000077467](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077467) | [100332806](https://www.ncbi.nlm.nih.gov/gene/100332806), [140616](https://www.ncbi.nlm.nih.gov/gene/140616) | [ZFIN:ZDB-GENE-011207-1](https://zfin.org/ZDB-GENE-011207-1) | ZDB-GENE-011207-1 |
+| Xenopus | [ENSXETG00000006348](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006348) | [100101700](https://www.ncbi.nlm.nih.gov/gene/100101700) |  |  |
+| Zebrafish | [ENSDARG00000077467](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077467) | [140616](https://www.ncbi.nlm.nih.gov/gene/140616) | [ZFIN:ZDB-GENE-011207-1](https://zfin.org/ZDB-GENE-011207-1) | Schwann cell development, Schwann cell differentiation, cranial skeletal system development, developmental pigmentation, developmental process |
 

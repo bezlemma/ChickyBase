@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422546
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006443
 forward_primer: 5’-TTCAACGTGTCTGTCCAGGG-3’
-gene_id: '451067'
+gene_id: '422546'
 gene_type: protein-coding
 images:
 - caption: SLC25A4 expression
@@ -153,41 +153,38 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R651.SLC25A4.S26V.001.jpg
 name: solute carrier family 25 member 4
-ncbi_id: '451067'
+ncbi_id: '422546'
 orthologs:
-- ensembl: ''
-  entrez: '32007'
-  mod: FBgn0003360
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000151729
   entrez: '291'
   mod: MIM:103220
   phenotypes: MIM:192600
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000031633
   entrez: '11739'
   mod: MGI:1353495
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 394504,432212
-  mod: '1001645'
+- ensembl: ENSXETG00000025740
+  entrez: '394504'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000027355
   entrez: '327067'
   mod: ZFIN:ZDB-GENE-030131-5275
-  phenotypes: ZDB-GENE-030131-5275
+  phenotypes: mitochondrial ADP transmembrane transport, mitochondrial ATP transmembrane
+    transport, negative regulation of mitochondrial outer membrane permeabilization
+    involved in apoptotic signaling pathway, transmembrane transport
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAGGCTGCAGTTTGGAACTCC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451067
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422546
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451067
+  url: https://www.ncbi.nlm.nih.gov/gene/422546
 species: Gallus gallus
 symbol: SLC25A4
 template_length: '845'
@@ -212,9 +209,8 @@ title: SLC25A4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32007](https://www.ncbi.nlm.nih.gov/gene/32007) | FBgn0003360 |  |
 | Human | [ENSG00000151729](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000151729) | [291](https://www.ncbi.nlm.nih.gov/gene/291) | [MIM:103220](https://omim.org/entry/103220) | MIM:192600 |
-| Mouse |  | [11739](https://www.ncbi.nlm.nih.gov/gene/11739) | [MGI:1353495](http://www.informatics.jax.org/marker/MGI:1353495) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [394504](https://www.ncbi.nlm.nih.gov/gene/394504), [432212](https://www.ncbi.nlm.nih.gov/gene/432212) | [1001645](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1001645) |  |
-| Zebrafish | [ENSDARG00000027355](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027355) | [327067](https://www.ncbi.nlm.nih.gov/gene/327067) | [ZFIN:ZDB-GENE-030131-5275](https://zfin.org/ZDB-GENE-030131-5275) | ZDB-GENE-030131-5275 |
+| Mouse | [ENSMUSG00000031633](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031633) | [11739](https://www.ncbi.nlm.nih.gov/gene/11739) | [MGI:1353495](http://www.informatics.jax.org/marker/MGI:1353495) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
+| Xenopus | [ENSXETG00000025740](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025740) | [394504](https://www.ncbi.nlm.nih.gov/gene/394504) |  |  |
+| Zebrafish | [ENSDARG00000027355](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027355) | [327067](https://www.ncbi.nlm.nih.gov/gene/327067) | [ZFIN:ZDB-GENE-030131-5275](https://zfin.org/ZDB-GENE-030131-5275) | mitochondrial ADP transmembrane transport, mitochondrial ATP transmembrane transport, negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway, transmembrane transport |
 

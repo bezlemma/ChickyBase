@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422213
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420204
-gene_id: '450733'
+gene_id: '422213'
 gene_type: protein-coding
 images:
 - caption: SLC7A3 expression
@@ -34,13 +34,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLC7A3.Gammill.2002.Stage
     6 for fig.2, panel N.jpg
 name: solute carrier family 7 member 3
-ncbi_id: '450733'
+ncbi_id: '422213'
 orthologs:
-- ensembl: ''
-  entrez: '40510'
-  mod: FBgn0037203
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000165349
   entrez: '84889'
   mod: MIM:300443
@@ -51,20 +46,15 @@ orthologs:
   mod: MGI:1100521
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100144737,380020
-  mod: '1002484'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000020645,ENSDARG00000061566
-  entrez: 100332437,492363,100003376
-  mod: ZFIN:ZDB-GENE-041114-206,ZFIN:ZDB-GENE-120813-6
-  phenotypes: ZDB-GENE-041114-206,ZDB-GENE-120813-6
+- ensembl: ENSDARG00000061566
+  entrez: '100003376'
+  mod: ZFIN:ZDB-GENE-120813-6
+  phenotypes: amino acid transport, transmembrane transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450733
+  url: https://www.ncbi.nlm.nih.gov/gene/422213
 species: Gallus gallus
 symbol: SLC7A3
 title: SLC7A3
@@ -92,9 +82,7 @@ title: SLC7A3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40510](https://www.ncbi.nlm.nih.gov/gene/40510) | FBgn0037203 |  |
 | Human | [ENSG00000165349](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165349) | [84889](https://www.ncbi.nlm.nih.gov/gene/84889) | [MIM:300443](https://omim.org/entry/300443) |  |
 | Mouse | [ENSMUSG00000031297](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031297) | [11989](https://www.ncbi.nlm.nih.gov/gene/11989) | [MGI:1100521](http://www.informatics.jax.org/marker/MGI:1100521) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100144737](https://www.ncbi.nlm.nih.gov/gene/100144737), [380020](https://www.ncbi.nlm.nih.gov/gene/380020) | [1002484](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1002484) |  |
-| Zebrafish | [ENSDARG00000020645](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020645), [ENSDARG00000061566](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061566) | [100332437](https://www.ncbi.nlm.nih.gov/gene/100332437), [492363](https://www.ncbi.nlm.nih.gov/gene/492363), [100003376](https://www.ncbi.nlm.nih.gov/gene/100003376) | [ZFIN:ZDB-GENE-041114-206](https://zfin.org/ZDB-GENE-041114-206), [ZFIN:ZDB-GENE-120813-6](https://zfin.org/ZDB-GENE-120813-6) | ZDB-GENE-041114-206,ZDB-GENE-120813-6 |
+| Zebrafish | [ENSDARG00000061566](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061566) | [100003376](https://www.ncbi.nlm.nih.gov/gene/100003376) | [ZFIN:ZDB-GENE-120813-6](https://zfin.org/ZDB-GENE-120813-6) | amino acid transport, transmembrane transport |
 

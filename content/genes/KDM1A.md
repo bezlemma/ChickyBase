@@ -5,7 +5,6 @@ aliases:
 - lysine (K)-specific demethylase 1A
 cgnc_id: '547'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0260397
   Citation: 'Zwane TB, Nikitina NV. Spatiotemporal expression analysis of Prdm1 and
     Prdm1 binding partners in early chick embryo. Gene Expr Patterns.  2015 Jan;17(1):56-68.
@@ -22,7 +21,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417719
   X-XIV: stage XII
 forward_primer: 5’-TCGTCTGTTGGAAGCCACC-3’
-gene_id: '458185'
+gene_id: '419571'
 gene_type: protein-coding
 images:
 - caption: KDM1A expression
@@ -279,13 +278,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zwane.2015-Lsd1-fig3.jpg
 name: lysine demethylase 1A
-ncbi_id: '458185'
+ncbi_id: '419571'
 orthologs:
-- ensembl: ''
-  entrez: '40217'
-  mod: FBgn0260397
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000004487
   entrez: '23028'
   mod: MIM:609132
@@ -297,24 +291,26 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(3)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100216250,100127344
-  mod: '5816926'
+- ensembl: ENSXETG00000003698
+  entrez: '100216250'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000060679
   entrez: '558450'
   mod: ZFIN:ZDB-GENE-030131-7828
-  phenotypes: ZDB-GENE-030131-7828
+  phenotypes: DNA repair-dependent chromatin remodeling, chromatin organization, epigenetic
+    regulation of gene expression, methylation, negative regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGACAGTGGCAGGGTAGTTGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458185
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419571
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458185
+  url: https://www.ncbi.nlm.nih.gov/gene/419571
 species: Gallus gallus
 symbol: KDM1A
 template_length: '1284'
@@ -342,9 +338,8 @@ title: KDM1A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40217](https://www.ncbi.nlm.nih.gov/gene/40217) | FBgn0260397 |  |
 | Human | [ENSG00000004487](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000004487) | [23028](https://www.ncbi.nlm.nih.gov/gene/23028) | [MIM:609132](https://omim.org/entry/609132) |  |
 | Mouse | [ENSMUSG00000036940](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036940) | [99982](https://www.ncbi.nlm.nih.gov/gene/99982) | [MGI:1196256](http://www.informatics.jax.org/marker/MGI:1196256) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(3) Gene trapped(1) |
-| Xenopus |  | [100216250](https://www.ncbi.nlm.nih.gov/gene/100216250), [100127344](https://www.ncbi.nlm.nih.gov/gene/100127344) | [5816926](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5816926) |  |
-| Zebrafish | [ENSDARG00000060679](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060679) | [558450](https://www.ncbi.nlm.nih.gov/gene/558450) | [ZFIN:ZDB-GENE-030131-7828](https://zfin.org/ZDB-GENE-030131-7828) | ZDB-GENE-030131-7828 |
+| Xenopus | [ENSXETG00000003698](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003698) | [100216250](https://www.ncbi.nlm.nih.gov/gene/100216250) |  |  |
+| Zebrafish | [ENSDARG00000060679](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060679) | [558450](https://www.ncbi.nlm.nih.gov/gene/558450) | [ZFIN:ZDB-GENE-030131-7828](https://zfin.org/ZDB-GENE-030131-7828) | DNA repair-dependent chromatin remodeling, chromatin organization, epigenetic regulation of gene expression, methylation, negative regulation of transcription by RNA polymerase II |
 

@@ -3,7 +3,6 @@ aliases:
 - formin-like protein 2
 cgnc_id: '9508'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0052138
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/39561
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771739
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234980
 forward_primer: 5’-ACAGGCATGTGTACGAAGGG-3’
-gene_id: '463198'
+gene_id: '771739'
 gene_type: protein-coding
 images:
 - caption: FMNL2 expression
@@ -75,13 +74,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R672.FMNL2.S25.001.jpg
 name: formin like 2
-ncbi_id: '463198'
+ncbi_id: '771739'
 orthologs:
-- ensembl: ''
-  entrez: '39561'
-  mod: FBgn0052138
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000157827
   entrez: '114793'
   mod: MIM:616285
@@ -92,24 +86,25 @@ orthologs:
   mod: MGI:1918659
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000021703
   entrez: '100491499'
-  mod: '1004376'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000012586,ENSDARG00000075041
-  entrez: 100006456,492608
-  mod: ZFIN:ZDB-GENE-081105-70,ZFIN:ZDB-GENE-041111-182
-  phenotypes: ZDB-GENE-081105-70,ZDB-GENE-041111-182
+- ensembl: ENSDARG00000012586
+  entrez: '100006456'
+  mod: ZFIN:ZDB-GENE-081105-70
+  phenotypes: actin cytoskeleton organization, cell migration, cellular component
+    organization, cortical actin cytoskeleton organization, cytoskeleton organization
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGTCACTGCCCACACATCTCAC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463198
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771739
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463198
+  url: https://www.ncbi.nlm.nih.gov/gene/771739
 species: Gallus gallus
 symbol: FMNL2
 template_length: '763'
@@ -134,9 +129,8 @@ title: FMNL2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39561](https://www.ncbi.nlm.nih.gov/gene/39561) | FBgn0052138 |  |
 | Human | [ENSG00000157827](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000157827) | [114793](https://www.ncbi.nlm.nih.gov/gene/114793) | [MIM:616285](https://omim.org/entry/616285) |  |
 | Mouse | [ENSMUSG00000036053](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036053) | [71409](https://www.ncbi.nlm.nih.gov/gene/71409) | [MGI:1918659](http://www.informatics.jax.org/marker/MGI:1918659) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100491499](https://www.ncbi.nlm.nih.gov/gene/100491499) | [1004376](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1004376) |  |
-| Zebrafish | [ENSDARG00000012586](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012586), [ENSDARG00000075041](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075041) | [100006456](https://www.ncbi.nlm.nih.gov/gene/100006456), [492608](https://www.ncbi.nlm.nih.gov/gene/492608) | [ZFIN:ZDB-GENE-081105-70](https://zfin.org/ZDB-GENE-081105-70), [ZFIN:ZDB-GENE-041111-182](https://zfin.org/ZDB-GENE-041111-182) | ZDB-GENE-081105-70,ZDB-GENE-041111-182 |
+| Xenopus | [ENSXETG00000021703](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021703) | [100491499](https://www.ncbi.nlm.nih.gov/gene/100491499) |  |  |
+| Zebrafish | [ENSDARG00000012586](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012586) | [100006456](https://www.ncbi.nlm.nih.gov/gene/100006456) | [ZFIN:ZDB-GENE-081105-70](https://zfin.org/ZDB-GENE-081105-70) | actin cytoskeleton organization, cell migration, cellular component organization, cortical actin cytoskeleton organization, cytoskeleton organization |
 

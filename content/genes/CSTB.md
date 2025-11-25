@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418267
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001198648
 forward_primer: 5’-GATACCAGAGCAGCAAGACC-3’
-gene_id: '454526'
+gene_id: '418267'
 gene_type: protein-coding
 images:
 - caption: CSTB expression
@@ -73,14 +73,9 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R651.CSTB.S24.001.jpg
 name: cystatin B
-ncbi_id: '454526'
+ncbi_id: '418267'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000160213
   entrez: '1476'
   mod: MIM:601145
   phenotypes: MIM:254800
@@ -90,24 +85,20 @@ orthologs:
   mod: MGI:109514
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: '100170534'
-  mod: '993561'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000045352,ENSDARG00000028164
-  entrez: 768128,792225,573769
-  mod: ZFIN:ZDB-GENE-061013-189,ZFIN:ZDB-GENE-040426-1065,ZFIN:ZDB-GENE-091118-10
-  phenotypes: ZDB-GENE-061013-189,ZDB-GENE-040426-1065,ZDB-GENE-091118-10
+- ensembl: ENSDARG00000045352
+  entrez: '792225'
+  mod: ZFIN:ZDB-GENE-040426-1065
+  phenotypes: cellular response to bacterial lipoprotein, negative regulation of peptidase
+    activity
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCCAGTGCAGAAATGCTTGTCC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454526
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418267
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454526
+  url: https://www.ncbi.nlm.nih.gov/gene/418267
 species: Gallus gallus
 symbol: CSTB
 template_length: '656'
@@ -132,9 +123,7 @@ title: CSTB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [1476](https://www.ncbi.nlm.nih.gov/gene/1476) | [MIM:601145](https://omim.org/entry/601145) | MIM:254800 |
+| Human | [ENSG00000160213](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000160213) | [1476](https://www.ncbi.nlm.nih.gov/gene/1476) | [MIM:601145](https://omim.org/entry/601145) | MIM:254800 |
 | Mouse | [ENSMUSG00000005054](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005054) | [13014](https://www.ncbi.nlm.nih.gov/gene/13014) | [MGI:109514](http://www.informatics.jax.org/marker/MGI:109514) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100170534](https://www.ncbi.nlm.nih.gov/gene/100170534) | [993561](http://www.xenbase.org/gene/showgene.do?method=display&geneId=993561) |  |
-| Zebrafish | [ENSDARG00000045352](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045352), [ENSDARG00000028164](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028164) | [768128](https://www.ncbi.nlm.nih.gov/gene/768128), [792225](https://www.ncbi.nlm.nih.gov/gene/792225), [573769](https://www.ncbi.nlm.nih.gov/gene/573769) | [ZFIN:ZDB-GENE-061013-189](https://zfin.org/ZDB-GENE-061013-189), [ZFIN:ZDB-GENE-040426-1065](https://zfin.org/ZDB-GENE-040426-1065), [ZFIN:ZDB-GENE-091118-10](https://zfin.org/ZDB-GENE-091118-10) | ZDB-GENE-061013-189,ZDB-GENE-040426-1065,ZDB-GENE-091118-10 |
+| Zebrafish | [ENSDARG00000045352](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045352) | [792225](https://www.ncbi.nlm.nih.gov/gene/792225) | [ZFIN:ZDB-GENE-040426-1065](https://zfin.org/ZDB-GENE-040426-1065) | cellular response to bacterial lipoprotein, negative regulation of peptidase activity |
 

@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374102
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001462
   X-XIV: stage XIV
-gene_id: '455653'
+gene_id: '374102'
 gene_type: protein-coding
 images:
 - caption: SDC2 expression
@@ -100,13 +100,8 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SYNDECAN2.FIG1SW.FUKUMOTO.2005.jpg
 name: syndecan 2
-ncbi_id: '455653'
+ncbi_id: '374102'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000169439
   entrez: '6383'
   mod: MIM:142460
@@ -117,20 +112,22 @@ orthologs:
   mod: MGI:1349165
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549917,379912,394283
-  mod: '6457627'
+- ensembl: ENSXETG00000035467
+  entrez: '549917'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000002731
   entrez: '282667'
   mod: ZFIN:ZDB-GENE-021206-3
-  phenotypes: ZDB-GENE-021206-3
+  phenotypes: Kupffer's vesicle development, cell migration, cell migration involved
+    in heart development, digestive tract development, epiboly involved in gastrulation
+    with mouth forming second
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455653
+  url: https://www.ncbi.nlm.nih.gov/gene/374102
 species: Gallus gallus
 symbol: SDC2
 title: SDC2
@@ -156,9 +153,8 @@ title: SDC2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000169439](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169439) | [6383](https://www.ncbi.nlm.nih.gov/gene/6383) | [MIM:142460](https://omim.org/entry/142460) |  |
 | Mouse | [ENSMUSG00000022261](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022261) | [15529](https://www.ncbi.nlm.nih.gov/gene/15529) | [MGI:1349165](http://www.informatics.jax.org/marker/MGI:1349165) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [549917](https://www.ncbi.nlm.nih.gov/gene/549917), [379912](https://www.ncbi.nlm.nih.gov/gene/379912), [394283](https://www.ncbi.nlm.nih.gov/gene/394283) | [6457627](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6457627) |  |
-| Zebrafish | [ENSDARG00000002731](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002731) | [282667](https://www.ncbi.nlm.nih.gov/gene/282667) | [ZFIN:ZDB-GENE-021206-3](https://zfin.org/ZDB-GENE-021206-3) | ZDB-GENE-021206-3 |
+| Xenopus | [ENSXETG00000035467](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000035467) | [549917](https://www.ncbi.nlm.nih.gov/gene/549917) |  |  |
+| Zebrafish | [ENSDARG00000002731](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002731) | [282667](https://www.ncbi.nlm.nih.gov/gene/282667) | [ZFIN:ZDB-GENE-021206-3](https://zfin.org/ZDB-GENE-021206-3) | Kupffer's vesicle development, cell migration, cell migration involved in heart development, digestive tract development, epiboly involved in gastrulation with mouth forming second |
 

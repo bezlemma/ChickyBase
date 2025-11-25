@@ -25,7 +25,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373899
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003756
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204110
-gene_id: '459358'
+gene_id: '373899'
 gene_type: protein-coding
 images:
 - caption: PDIA3 expression
@@ -57,13 +57,8 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F4.pdia3.png
 name: protein disulfide isomerase family A member 3
-ncbi_id: '459358'
+ncbi_id: '373899'
 orthologs:
-- ensembl: ''
-  entrez: '36270'
-  mod: FBgn0033663
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000167004
   entrez: '2923'
   mod: MIM:602046
@@ -75,20 +70,20 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(1)
     Gene trapped(2)
   species: Mouse
-- ensembl: ''
-  entrez: 394954,379743
-  mod: '976327'
+- ensembl: ENSXETG00000004650
+  entrez: '394954'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000033599,ENSDARG00000014015,ENSDARG00000007354
-  entrez: 100329666,445123,405841,378851
-  mod: ZFIN:ZDB-GENE-040801-20,ZFIN:ZDB-GENE-040426-2238,ZFIN:ZDB-GENE-031002-9
-  phenotypes: ZDB-GENE-040801-20,ZDB-GENE-040426-2238,ZDB-GENE-031002-9
+- ensembl: ENSDARG00000102640
+  entrez: '378851'
+  mod: ZFIN:ZDB-GENE-031002-9
+  phenotypes: protein folding, response to endoplasmic reticulum stress
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459358
+  url: https://www.ncbi.nlm.nih.gov/gene/373899
 species: Gallus gallus
 symbol: PDIA3
 title: PDIA3
@@ -119,9 +114,8 @@ title: PDIA3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36270](https://www.ncbi.nlm.nih.gov/gene/36270) | FBgn0033663 |  |
 | Human | [ENSG00000167004](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000167004) | [2923](https://www.ncbi.nlm.nih.gov/gene/2923) | [MIM:602046](https://omim.org/entry/602046) |  |
 | Mouse | [ENSMUSG00000027248](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027248) | [14827](https://www.ncbi.nlm.nih.gov/gene/14827) | [MGI:95834](http://www.informatics.jax.org/marker/MGI:95834) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(1) Gene trapped(2) |
-| Xenopus |  | [394954](https://www.ncbi.nlm.nih.gov/gene/394954), [379743](https://www.ncbi.nlm.nih.gov/gene/379743) | [976327](http://www.xenbase.org/gene/showgene.do?method=display&geneId=976327) |  |
-| Zebrafish | [ENSDARG00000033599](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033599), [ENSDARG00000014015](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014015), [ENSDARG00000007354](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007354) | [100329666](https://www.ncbi.nlm.nih.gov/gene/100329666), [445123](https://www.ncbi.nlm.nih.gov/gene/445123), [405841](https://www.ncbi.nlm.nih.gov/gene/405841), [378851](https://www.ncbi.nlm.nih.gov/gene/378851) | [ZFIN:ZDB-GENE-040801-20](https://zfin.org/ZDB-GENE-040801-20), [ZFIN:ZDB-GENE-040426-2238](https://zfin.org/ZDB-GENE-040426-2238), [ZFIN:ZDB-GENE-031002-9](https://zfin.org/ZDB-GENE-031002-9) | ZDB-GENE-040801-20,ZDB-GENE-040426-2238,ZDB-GENE-031002-9 |
+| Xenopus | [ENSXETG00000004650](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004650) | [394954](https://www.ncbi.nlm.nih.gov/gene/394954) |  |  |
+| Zebrafish | [ENSDARG00000102640](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000102640) | [378851](https://www.ncbi.nlm.nih.gov/gene/378851) | [ZFIN:ZDB-GENE-031002-9](https://zfin.org/ZDB-GENE-031002-9) | protein folding, response to endoplasmic reticulum stress |
 

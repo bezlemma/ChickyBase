@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373920
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204129
-gene_id: '459495'
+gene_id: '373920'
 gene_type: protein-coding
 images:
 - caption: MID1 expression
@@ -254,13 +254,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-figS1-D.jpg
 name: midline 1
-ncbi_id: '459495'
+ncbi_id: '373920'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000101871
   entrez: '4281'
   mod: MIM:300552
@@ -271,20 +266,20 @@ orthologs:
   mod: MGI:1100537
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 448651,100463496
-  mod: '494583'
+- ensembl: ENSXETG00000015715
+  entrez: '448651'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000060482
   entrez: '100330952'
   mod: ZFIN:ZDB-GENE-110411-205
-  phenotypes: ZDB-GENE-110411-205
+  phenotypes: regulation of microtubule cytoskeleton organization
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459495
+  url: https://www.ncbi.nlm.nih.gov/gene/373920
 species: Gallus gallus
 symbol: MID1
 title: MID1
@@ -310,9 +305,8 @@ title: MID1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000101871](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101871) | [4281](https://www.ncbi.nlm.nih.gov/gene/4281) | [MIM:300552](https://omim.org/entry/300552) | MIM:300000 |
 | Mouse | [ENSMUSG00000035299](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035299) | [17318](https://www.ncbi.nlm.nih.gov/gene/17318) | [MGI:1100537](http://www.informatics.jax.org/marker/MGI:1100537) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [448651](https://www.ncbi.nlm.nih.gov/gene/448651), [100463496](https://www.ncbi.nlm.nih.gov/gene/100463496) | [494583](http://www.xenbase.org/gene/showgene.do?method=display&geneId=494583) |  |
-| Zebrafish | [ENSDARG00000060482](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060482) | [100330952](https://www.ncbi.nlm.nih.gov/gene/100330952) | [ZFIN:ZDB-GENE-110411-205](https://zfin.org/ZDB-GENE-110411-205) | ZDB-GENE-110411-205 |
+| Xenopus | [ENSXETG00000015715](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015715) | [448651](https://www.ncbi.nlm.nih.gov/gene/448651) |  |  |
+| Zebrafish | [ENSDARG00000060482](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060482) | [100330952](https://www.ncbi.nlm.nih.gov/gene/100330952) | [ZFIN:ZDB-GENE-110411-205](https://zfin.org/ZDB-GENE-110411-205) | regulation of microtubule cytoskeleton organization |
 

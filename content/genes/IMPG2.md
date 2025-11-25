@@ -12,7 +12,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008201
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001044639
 forward_primer: 5’-AGCTTCCATCCCATCTCCCT-3’
-gene_id: '456570'
+gene_id: '418393'
 gene_type: protein-coding
 images:
 - caption: IMPG2 expression
@@ -74,13 +74,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R634.IMPG2.S27.001.jpg
 name: interphotoreceptor matrix proteoglycan 2
-ncbi_id: '456570'
+ncbi_id: '418393'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000081148
   entrez: '50939'
   mod: MIM:607056
@@ -91,24 +86,14 @@ orthologs:
   mod: MGI:3044955
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '983981'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ZFIN:ZDB-GENE-081031-56,ZFIN:ZDB-GENE-140106-217
-  phenotypes: ZDB-GENE-081031-56,ZDB-GENE-140106-217
-  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAGCAATGGCAATACCCACGA-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456570
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418393
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456570
+  url: https://www.ncbi.nlm.nih.gov/gene/418393
 species: Gallus gallus
 symbol: IMPG2
 template_length: '902'
@@ -133,9 +118,6 @@ title: IMPG2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000081148](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000081148) | [50939](https://www.ncbi.nlm.nih.gov/gene/50939) | [MIM:607056](https://omim.org/entry/607056) | MIM:613581 |
 | Mouse | [ENSMUSG00000035270](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035270) | [224224](https://www.ncbi.nlm.nih.gov/gene/224224) | [MGI:3044955](http://www.informatics.jax.org/marker/MGI:3044955) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  |  | [983981](http://www.xenbase.org/gene/showgene.do?method=display&geneId=983981) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-081031-56](https://zfin.org/ZDB-GENE-081031-56), [ZFIN:ZDB-GENE-140106-217](https://zfin.org/ZDB-GENE-140106-217) | ZDB-GENE-081031-56,ZDB-GENE-140106-217 |
 

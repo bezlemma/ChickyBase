@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373985
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204171
 forward_primer: 5'-TGGCAAAACATACTCCCACGG-3'
-gene_id: '451479'
+gene_id: '373985'
 gene_type: protein-coding
 images:
 - caption: CHRDL1 expression
@@ -168,41 +168,31 @@ images:
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/jhfjjjgjgjgjh.jpg
 name: chordin like 1
-ncbi_id: '451479'
+ncbi_id: '373985'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000101938
   entrez: '91851'
   mod: MIM:300350
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000031283
+  entrez: '83453'
+  mod: MGI:1933172
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000012426
   entrez: '100144642'
-  mod: '484480'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: 5'-AATTAACCCTCACTAAAGGCAGTCTCTCTTTCTACTTCCCCCAG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451479
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373985
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451479
+  url: https://www.ncbi.nlm.nih.gov/gene/373985
 species: Gallus gallus
 symbol: CHRDL1
 template_length: '820'
@@ -231,9 +221,7 @@ title: CHRDL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000101938](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101938) | [91851](https://www.ncbi.nlm.nih.gov/gene/91851) | [MIM:300350](https://omim.org/entry/300350) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100144642](https://www.ncbi.nlm.nih.gov/gene/100144642) | [484480](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484480) |  |
-| Zebrafish |  |  |  |  |
+| Mouse | [ENSMUSG00000031283](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031283) | [83453](https://www.ncbi.nlm.nih.gov/gene/83453) | [MGI:1933172](http://www.informatics.jax.org/marker/MGI:1933172) |  |
+| Xenopus | [ENSXETG00000012426](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012426) | [100144642](https://www.ncbi.nlm.nih.gov/gene/100144642) |  |  |
 

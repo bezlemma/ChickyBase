@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427583
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425156
-gene_id: '454899'
+gene_id: '427583'
 gene_type: protein-coding
 images:
 - caption: FBLN2 expression
@@ -40,13 +40,8 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/8F.jpg
 name: fibulin 2
-ncbi_id: '454899'
+ncbi_id: '427583'
 orthologs:
-- ensembl: ''
-  entrez: '43777'
-  mod: FBgn0051999
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163520
   entrez: '2199'
   mod: MIM:135821
@@ -57,20 +52,16 @@ orthologs:
   mod: MGI:95488
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: '100487324'
-  mod: '959370'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000015156
   entrez: '553503'
   mod: ZFIN:ZDB-GENE-060711-1
-  phenotypes: ZDB-GENE-060711-1
+  phenotypes: epithelial cell differentiation, positive regulation of cell-substrate
+    adhesion
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454899
+  url: https://www.ncbi.nlm.nih.gov/gene/427583
 species: Gallus gallus
 symbol: FBLN2
 title: FBLN2
@@ -98,9 +89,7 @@ Copyright © 2003 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43777](https://www.ncbi.nlm.nih.gov/gene/43777) | FBgn0051999 |  |
 | Human | [ENSG00000163520](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163520) | [2199](https://www.ncbi.nlm.nih.gov/gene/2199) | [MIM:135821](https://omim.org/entry/135821) |  |
 | Mouse | [ENSMUSG00000064080](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000064080) | [14115](https://www.ncbi.nlm.nih.gov/gene/14115) | [MGI:95488](http://www.informatics.jax.org/marker/MGI:95488) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100487324](https://www.ncbi.nlm.nih.gov/gene/100487324) | [959370](http://www.xenbase.org/gene/showgene.do?method=display&geneId=959370) |  |
-| Zebrafish |  | [553503](https://www.ncbi.nlm.nih.gov/gene/553503) | [ZFIN:ZDB-GENE-060711-1](https://zfin.org/ZDB-GENE-060711-1) | ZDB-GENE-060711-1 |
+| Zebrafish | [ENSDARG00000015156](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015156) | [553503](https://www.ncbi.nlm.nih.gov/gene/553503) | [ZFIN:ZDB-GENE-060711-1](https://zfin.org/ZDB-GENE-060711-1) | epithelial cell differentiation, positive regulation of cell-substrate adhesion |
 

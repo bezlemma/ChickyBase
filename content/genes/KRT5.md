@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:407779
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001195
 forward_primer: AGCATCATCGCAGAGGTGAAGG
-gene_id: '449728'
+gene_id: '407779'
 gene_type: protein-coding
 images:
 - caption: KRT5 expression
@@ -213,13 +213,8 @@ images:
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ALPHA2Keratin.Jiang.2011.Fig.5.png
 name: keratin 5
-ncbi_id: '449728'
+ncbi_id: '407779'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000186081
   entrez: '3852'
   mod: MIM:148040
@@ -230,24 +225,19 @@ orthologs:
   mod: MGI:96702
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100489468,373584
-  mod: '920458'
+- ensembl: ENSXETG00000020429
+  entrez: '779830'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000058371
-  entrez: '797351'
-  mod: ZFIN:ZDB-GENE-991110-23
-  phenotypes: ZDB-GENE-991110-23
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGGTGGTGGTCTTGGAAACG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449728
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=407779
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449728
+  url: https://www.ncbi.nlm.nih.gov/gene/407779
 species: Gallus gallus
 symbol: KRT5
 template_length: '754'
@@ -273,9 +263,7 @@ title: KRT5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000186081](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000186081) | [3852](https://www.ncbi.nlm.nih.gov/gene/3852) | [MIM:148040](https://omim.org/entry/148040) | MIM:179850 |
 | Mouse | [ENSMUSG00000061527](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061527) | [110308](https://www.ncbi.nlm.nih.gov/gene/110308) | [MGI:96702](http://www.informatics.jax.org/marker/MGI:96702) | All phenotypic alleles (3):Targeted, knock-out(3) |
-| Xenopus |  | [100489468](https://www.ncbi.nlm.nih.gov/gene/100489468), [373584](https://www.ncbi.nlm.nih.gov/gene/373584) | [920458](http://www.xenbase.org/gene/showgene.do?method=display&geneId=920458) |  |
-| Zebrafish | [ENSDARG00000058371](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058371) | [797351](https://www.ncbi.nlm.nih.gov/gene/797351) | [ZFIN:ZDB-GENE-991110-23](https://zfin.org/ZDB-GENE-991110-23) | ZDB-GENE-991110-23 |
+| Xenopus | [ENSXETG00000020429](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020429) | [779830](https://www.ncbi.nlm.nih.gov/gene/779830) |  |  |
 

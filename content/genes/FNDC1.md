@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421589
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419627
 forward_primer: 5’-ACCACTCCCTCAACGACAAC-3’
-gene_id: '458193'
+gene_id: '421589'
 gene_type: protein-coding
 images:
 - caption: FNDC1 expression
@@ -124,7 +124,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R675.FNDC1.S26V.001.jpg
 name: fibronectin type III domain containing 1
-ncbi_id: '458193'
+ncbi_id: '421589'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -149,16 +149,16 @@ orthologs:
 - ensembl: ''
   entrez: '557836'
   mod: ZFIN:ZDB-GENE-041210-332
-  phenotypes: ZDB-GENE-041210-332
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGCGCTTCACATACTGCTTGCC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458193
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421589
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458193
+  url: https://www.ncbi.nlm.nih.gov/gene/421589
 species: Gallus gallus
 symbol: FNDC1
 template_length: '977'
@@ -185,5 +185,5 @@ title: FNDC1
 | Human | [ENSG00000164694](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164694) | [84624](https://www.ncbi.nlm.nih.gov/gene/84624) | [MIM:609991](https://omim.org/entry/609991) |  |
 | Mouse | [ENSMUSG00000071984](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000071984) | [68655](https://www.ncbi.nlm.nih.gov/gene/68655) | [MGI:1915905](http://www.informatics.jax.org/marker/MGI:1915905) | All phenotypic alleles (1):Targeted, other(1) |
 | Xenopus |  | [100489154](https://www.ncbi.nlm.nih.gov/gene/100489154) | [984125](http://www.xenbase.org/gene/showgene.do?method=display&geneId=984125) |  |
-| Zebrafish |  | [557836](https://www.ncbi.nlm.nih.gov/gene/557836) | [ZFIN:ZDB-GENE-041210-332](https://zfin.org/ZDB-GENE-041210-332) | ZDB-GENE-041210-332 |
+| Zebrafish |  | [557836](https://www.ncbi.nlm.nih.gov/gene/557836) | [ZFIN:ZDB-GENE-041210-332](https://zfin.org/ZDB-GENE-041210-332) |  |
 

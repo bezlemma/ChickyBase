@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396329
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004197
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205371
-gene_id: '461857'
+gene_id: '396329'
 gene_type: protein-coding
 images:
 - caption: CTSB expression
@@ -45,13 +45,8 @@ images:
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/catB.9B.jpg
 name: cathepsin B
-ncbi_id: '461857'
+ncbi_id: '396329'
 orthologs:
-- ensembl: ''
-  entrez: '32341'
-  mod: FBgn0030521
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164733
   entrez: '1508'
   mod: MIM:116810
@@ -62,20 +57,21 @@ orthologs:
   mod: MGI:88561
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 394833,379257
-  mod: '1000504'
+- ensembl: ENSXETG00000000671
+  entrez: '394833'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000055120
-  entrez: 406645,569298
-  mod: ZFIN:ZDB-GENE-040426-2650,ZFIN:ZDB-GENE-070323-1
-  phenotypes: ZDB-GENE-040426-2650,ZDB-GENE-070323-1
+  entrez: '406645'
+  mod: ZFIN:ZDB-GENE-040426-2650
+  phenotypes: convergent extension, dorsal/ventral pattern formation, epiboly, fin
+    regeneration, proteolysis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461857
+  url: https://www.ncbi.nlm.nih.gov/gene/396329
 species: Gallus gallus
 symbol: CTSB
 title: CTSB
@@ -106,9 +102,8 @@ title: CTSB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32341](https://www.ncbi.nlm.nih.gov/gene/32341) | FBgn0030521 |  |
 | Human | [ENSG00000164733](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164733) | [1508](https://www.ncbi.nlm.nih.gov/gene/1508) | [MIM:116810](https://omim.org/entry/116810) |  |
 | Mouse | [ENSMUSG00000021939](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021939) | [13030](https://www.ncbi.nlm.nih.gov/gene/13030) | [MGI:88561](http://www.informatics.jax.org/marker/MGI:88561) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [394833](https://www.ncbi.nlm.nih.gov/gene/394833), [379257](https://www.ncbi.nlm.nih.gov/gene/379257) | [1000504](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1000504) |  |
-| Zebrafish | [ENSDARG00000055120](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055120) | [406645](https://www.ncbi.nlm.nih.gov/gene/406645), [569298](https://www.ncbi.nlm.nih.gov/gene/569298) | [ZFIN:ZDB-GENE-040426-2650](https://zfin.org/ZDB-GENE-040426-2650), [ZFIN:ZDB-GENE-070323-1](https://zfin.org/ZDB-GENE-070323-1) | ZDB-GENE-040426-2650,ZDB-GENE-070323-1 |
+| Xenopus | [ENSXETG00000000671](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000671) | [394833](https://www.ncbi.nlm.nih.gov/gene/394833) |  |  |
+| Zebrafish | [ENSDARG00000055120](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055120) | [406645](https://www.ncbi.nlm.nih.gov/gene/406645) | [ZFIN:ZDB-GENE-040426-2650](https://zfin.org/ZDB-GENE-040426-2650) | convergent extension, dorsal/ventral pattern formation, epiboly, fin regeneration, proteolysis |
 

@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395922
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205051
 forward_primer: CTGAACAACTGATGCTGTCTGGG
-gene_id: '450469'
+gene_id: '395922'
 gene_type: protein-coding
 images:
 - caption: CENPC expression
@@ -103,7 +103,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R604.CENPC1.S26A.001.jpg
 name: centromere protein C
-ncbi_id: '450469'
+ncbi_id: '395922'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -134,10 +134,10 @@ reverse_primer: AATTAACCCTCACTAAAGGTGTCCGACGAACATTAGGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450469
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395922
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450469
+  url: https://www.ncbi.nlm.nih.gov/gene/395922
 species: Gallus gallus
 symbol: CENPC
 template_length: '986'

@@ -22,7 +22,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003723
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012521
 forward_primer: 5'-AAATGGAGGACTTGGCAGTGG-3'
-gene_id: '459496'
+gene_id: '373923'
 gene_type: protein-coding
 images:
 - caption: CELF1 expression
@@ -143,41 +143,32 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CUG-BP1.Figure3K.Brimacombe.2007.jpg
 name: CUGBP Elav-like family member 1
-ncbi_id: '459496'
+ncbi_id: '373923'
 orthologs:
-- ensembl: ''
-  entrez: '250811'
-  mod: FBgn0262475
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000149187
-  entrez: '10658'
-  mod: MIM:601074
-  phenotypes: ''
-  species: Human
 - ensembl: ENSMUSG00000005506
   entrez: '13046'
   mod: MGI:1342295
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 549906,399360,379661
-  mod: '854035'
+- ensembl: ENSXETG00000009044
+  entrez: '549906'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000005315
   entrez: '58137'
   mod: ZFIN:ZDB-GENE-000501-1
-  phenotypes: ZDB-GENE-000501-1
+  phenotypes: RNA splicing, cell migration, determination of left/right symmetry,
+    digestive tract development, embryonic liver development
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGGCTTCCCCTTCTTTTCTCTACCC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459496
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373923
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459496
+  url: https://www.ncbi.nlm.nih.gov/gene/373923
 species: Gallus gallus
 symbol: CELF1
 template_length: '850'
@@ -209,9 +200,7 @@ title: CELF1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [250811](https://www.ncbi.nlm.nih.gov/gene/250811) | FBgn0262475 |  |
-| Human | [ENSG00000149187](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000149187) | [10658](https://www.ncbi.nlm.nih.gov/gene/10658) | [MIM:601074](https://omim.org/entry/601074) |  |
 | Mouse | [ENSMUSG00000005506](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005506) | [13046](https://www.ncbi.nlm.nih.gov/gene/13046) | [MGI:1342295](http://www.informatics.jax.org/marker/MGI:1342295) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [549906](https://www.ncbi.nlm.nih.gov/gene/549906), [399360](https://www.ncbi.nlm.nih.gov/gene/399360), [379661](https://www.ncbi.nlm.nih.gov/gene/379661) | [854035](http://www.xenbase.org/gene/showgene.do?method=display&geneId=854035) |  |
-| Zebrafish | [ENSDARG00000005315](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005315) | [58137](https://www.ncbi.nlm.nih.gov/gene/58137) | [ZFIN:ZDB-GENE-000501-1](https://zfin.org/ZDB-GENE-000501-1) | ZDB-GENE-000501-1 |
+| Xenopus | [ENSXETG00000009044](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009044) | [549906](https://www.ncbi.nlm.nih.gov/gene/549906) |  |  |
+| Zebrafish | [ENSDARG00000005315](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005315) | [58137](https://www.ncbi.nlm.nih.gov/gene/58137) | [ZFIN:ZDB-GENE-000501-1](https://zfin.org/ZDB-GENE-000501-1) | RNA splicing, cell migration, determination of left/right symmetry, digestive tract development, embryonic liver development |
 

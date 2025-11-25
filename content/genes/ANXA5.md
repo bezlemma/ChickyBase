@@ -22,7 +22,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031538
 forward_primer: CATTCATCACCATCTTGGGAACTC
-gene_id: '456852'
+gene_id: '428767'
 gene_type: protein-coding
 images:
 - caption: ANXA5 expression
@@ -222,13 +222,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R498.ANXA5.S27AAA.001.jpg
 name: annexin A5
-ncbi_id: '456852'
+ncbi_id: '428767'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164111
   entrez: '308'
   mod: MIM:131230
@@ -239,24 +234,24 @@ orthologs:
   mod: MGI:106008
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 493545,398472
-  mod: '1007294'
+- ensembl: ENSXETG00000021114
+  entrez: '493545'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000016470,ENSDARG00000026406
-  entrez: 337132,557578
-  mod: ZFIN:ZDB-GENE-030131-9076,ZFIN:ZDB-GENE-080220-29
-  phenotypes: ZDB-GENE-030131-9076,ZDB-GENE-080220-29
+- ensembl: ENSDARG00000016470
+  entrez: '337132'
+  mod: ZFIN:ZDB-GENE-030131-9076
+  phenotypes: negative regulation of coagulation, regulation of cell motility
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGTCTGAGGAGGAGGGACTGTTTATC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456852
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428767
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456852
+  url: https://www.ncbi.nlm.nih.gov/gene/428767
 species: Gallus gallus
 symbol: ANXA5
 template_length: '565'
@@ -280,9 +275,8 @@ title: ANXA5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164111](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164111) | [308](https://www.ncbi.nlm.nih.gov/gene/308) | [MIM:131230](https://omim.org/entry/131230) |  |
 | Mouse | [ENSMUSG00000027712](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027712) | [11747](https://www.ncbi.nlm.nih.gov/gene/11747) | [MGI:106008](http://www.informatics.jax.org/marker/MGI:106008) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [493545](https://www.ncbi.nlm.nih.gov/gene/493545), [398472](https://www.ncbi.nlm.nih.gov/gene/398472) | [1007294](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1007294) |  |
-| Zebrafish | [ENSDARG00000016470](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016470), [ENSDARG00000026406](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026406) | [337132](https://www.ncbi.nlm.nih.gov/gene/337132), [557578](https://www.ncbi.nlm.nih.gov/gene/557578) | [ZFIN:ZDB-GENE-030131-9076](https://zfin.org/ZDB-GENE-030131-9076), [ZFIN:ZDB-GENE-080220-29](https://zfin.org/ZDB-GENE-080220-29) | ZDB-GENE-030131-9076,ZDB-GENE-080220-29 |
+| Xenopus | [ENSXETG00000021114](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021114) | [493545](https://www.ncbi.nlm.nih.gov/gene/493545) |  |  |
+| Zebrafish | [ENSDARG00000016470](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016470) | [337132](https://www.ncbi.nlm.nih.gov/gene/337132) | [ZFIN:ZDB-GENE-030131-9076](https://zfin.org/ZDB-GENE-030131-9076) | negative regulation of coagulation, regulation of cell motility |
 

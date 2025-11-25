@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420546
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418647
 forward_primer: 5'-CCCCATTTCAAACCAGAACGG-3'
-gene_id: '457008'
+gene_id: '420546'
 gene_type: protein-coding
 images:
 - caption: CDK14 expression
@@ -136,13 +136,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R592.CDK14.S26V.001.jpg
 name: cyclin dependent kinase 14
-ncbi_id: '457008'
+ncbi_id: '420546'
 orthologs:
-- ensembl: ''
-  entrez: '38433'
-  mod: FBgn0005640
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000058091
   entrez: '5218'
   mod: MIM:610679
@@ -153,24 +148,25 @@ orthologs:
   mod: MGI:894318
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100125075,444781
-  mod: '943249'
+- ensembl: ENSXETG00000003466
+  entrez: '100125075'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000074665
   entrez: '572146'
   mod: ZFIN:ZDB-GENE-080220-44
-  phenotypes: ZDB-GENE-080220-44
+  phenotypes: Wnt signaling pathway, cell division, phosphorylation, protein phosphorylation,
+    regulation of cell cycle phase transition
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTAGTGGCAAGGTGCTGTAACTGTC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457008
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420546
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457008
+  url: https://www.ncbi.nlm.nih.gov/gene/420546
 species: Gallus gallus
 symbol: CDK14
 template_length: '869'
@@ -195,9 +191,8 @@ title: CDK14
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38433](https://www.ncbi.nlm.nih.gov/gene/38433) | FBgn0005640 |  |
 | Human | [ENSG00000058091](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000058091) | [5218](https://www.ncbi.nlm.nih.gov/gene/5218) | [MIM:610679](https://omim.org/entry/610679) |  |
 | Mouse | [ENSMUSG00000028926](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028926) | [18647](https://www.ncbi.nlm.nih.gov/gene/18647) | [MGI:894318](http://www.informatics.jax.org/marker/MGI:894318) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [100125075](https://www.ncbi.nlm.nih.gov/gene/100125075), [444781](https://www.ncbi.nlm.nih.gov/gene/444781) | [943249](http://www.xenbase.org/gene/showgene.do?method=display&geneId=943249) |  |
-| Zebrafish | [ENSDARG00000074665](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074665) | [572146](https://www.ncbi.nlm.nih.gov/gene/572146) | [ZFIN:ZDB-GENE-080220-44](https://zfin.org/ZDB-GENE-080220-44) | ZDB-GENE-080220-44 |
+| Xenopus | [ENSXETG00000003466](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003466) | [100125075](https://www.ncbi.nlm.nih.gov/gene/100125075) |  |  |
+| Zebrafish | [ENSDARG00000074665](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074665) | [572146](https://www.ncbi.nlm.nih.gov/gene/572146) | [ZFIN:ZDB-GENE-080220-44](https://zfin.org/ZDB-GENE-080220-44) | Wnt signaling pathway, cell division, phosphorylation, protein phosphorylation, regulation of cell cycle phase transition |
 

@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421140
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001077586
-gene_id: '460142'
+gene_id: '421140'
 gene_type: protein-coding
 images:
 - caption: CHD7 expression
@@ -133,13 +133,8 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG 8 E.jpg
 name: chromodomain helicase DNA binding protein 7
-ncbi_id: '460142'
+ncbi_id: '421140'
 orthologs:
-- ensembl: ''
-  entrez: '33185'
-  mod: FBgn0086902
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000171316
   entrez: '55636'
   mod: MIM:608892
@@ -151,20 +146,21 @@ orthologs:
   phenotypes: All phenotypic alleles (18):Chemically induced(9) Targeted, knock-out(1)
     Targeted, other(5) Gene trapped(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100379668,443577
-  mod: '877229'
+- ensembl: ENSXETG00000026004
+  entrez: '100379668'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000075211
   entrez: '569471'
   mod: ZFIN:ZDB-GENE-070912-179
-  phenotypes: ZDB-GENE-070912-179
+  phenotypes: T cell differentiation, auditory behavior, bone mineralization, cartilage
+    development, central nervous system development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460142
+  url: https://www.ncbi.nlm.nih.gov/gene/421140
 species: Gallus gallus
 symbol: CHD7
 title: CHD7
@@ -195,9 +191,8 @@ title: CHD7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33185](https://www.ncbi.nlm.nih.gov/gene/33185) | FBgn0086902 |  |
 | Human | [ENSG00000171316](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171316) | [55636](https://www.ncbi.nlm.nih.gov/gene/55636) | [MIM:608892](https://omim.org/entry/608892) | MIM:214800 |
 | Mouse | [ENSMUSG00000041235](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041235) | [320790](https://www.ncbi.nlm.nih.gov/gene/320790) | [MGI:2444748](http://www.informatics.jax.org/marker/MGI:2444748) | All phenotypic alleles (18):Chemically induced(9) Targeted, knock-out(1) Targeted, other(5) Gene trapped(3) |
-| Xenopus |  | [100379668](https://www.ncbi.nlm.nih.gov/gene/100379668), [443577](https://www.ncbi.nlm.nih.gov/gene/443577) | [877229](http://www.xenbase.org/gene/showgene.do?method=display&geneId=877229) |  |
-| Zebrafish | [ENSDARG00000075211](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075211) | [569471](https://www.ncbi.nlm.nih.gov/gene/569471) | [ZFIN:ZDB-GENE-070912-179](https://zfin.org/ZDB-GENE-070912-179) | ZDB-GENE-070912-179 |
+| Xenopus | [ENSXETG00000026004](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026004) | [100379668](https://www.ncbi.nlm.nih.gov/gene/100379668) |  |  |
+| Zebrafish | [ENSDARG00000075211](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075211) | [569471](https://www.ncbi.nlm.nih.gov/gene/569471) | [ZFIN:ZDB-GENE-070912-179](https://zfin.org/ZDB-GENE-070912-179) | T cell differentiation, auditory behavior, bone mineralization, cartilage development, central nervous system development |
 

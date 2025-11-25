@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417891
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005518
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001276357
-gene_id: '451844'
+gene_id: '417891'
 gene_type: protein-coding
 images:
 - caption: LUM expression
@@ -132,14 +132,9 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LUM.Anderson.2019.Supplementary
     figure 5G1.jpg
 name: lumican
-ncbi_id: '451844'
+ncbi_id: '417891'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000139329
   entrez: '4060'
   mod: MIM:600616
   phenotypes: ''
@@ -149,20 +144,21 @@ orthologs:
   mod: MGI:109347
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(3)
   species: Mouse
-- ensembl: ''
-  entrez: 496415,379493
-  mod: '1004933'
+- ensembl: ENSXETG00000025478
+  entrez: '496415'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000045580
   entrez: '415149'
   mod: ZFIN:ZDB-GENE-040625-24
-  phenotypes: ZDB-GENE-040625-24
+  phenotypes: camera-type eye morphogenesis, collagen fibril organization, embryonic
+    camera-type eye morphogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451844
+  url: https://www.ncbi.nlm.nih.gov/gene/417891
 species: Gallus gallus
 symbol: LUM
 title: LUM
@@ -191,9 +187,8 @@ title: LUM
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [4060](https://www.ncbi.nlm.nih.gov/gene/4060) | [MIM:600616](https://omim.org/entry/600616) |  |
+| Human | [ENSG00000139329](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139329) | [4060](https://www.ncbi.nlm.nih.gov/gene/4060) | [MIM:600616](https://omim.org/entry/600616) |  |
 | Mouse | [ENSMUSG00000036446](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036446) | [17022](https://www.ncbi.nlm.nih.gov/gene/17022) | [MGI:109347](http://www.informatics.jax.org/marker/MGI:109347) | All phenotypic alleles (3):Targeted, knock-out(3) |
-| Xenopus |  | [496415](https://www.ncbi.nlm.nih.gov/gene/496415), [379493](https://www.ncbi.nlm.nih.gov/gene/379493) | [1004933](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1004933) |  |
-| Zebrafish |  | [415149](https://www.ncbi.nlm.nih.gov/gene/415149) | [ZFIN:ZDB-GENE-040625-24](https://zfin.org/ZDB-GENE-040625-24) | ZDB-GENE-040625-24 |
+| Xenopus | [ENSXETG00000025478](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025478) | [496415](https://www.ncbi.nlm.nih.gov/gene/496415) |  |  |
+| Zebrafish | [ENSDARG00000045580](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045580) | [415149](https://www.ncbi.nlm.nih.gov/gene/415149) | [ZFIN:ZDB-GENE-040625-24](https://zfin.org/ZDB-GENE-040625-24) | camera-type eye morphogenesis, collagen fibril organization, embryonic camera-type eye morphogenesis |
 

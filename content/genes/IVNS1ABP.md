@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426862
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424470
   X-XIV: stage XII
-gene_id: '459127'
+gene_id: '426862'
 gene_type: protein-coding
 images:
 - caption: IVNS1ABP expression
@@ -99,13 +99,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IVNS1ABP.Travers.2023-Fig7-2-G.jpg
 name: influenza virus NS1A binding protein
-ncbi_id: '459127'
+ncbi_id: '426862'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000116679
   entrez: '10625'
   mod: MIM:609209
@@ -116,23 +111,18 @@ orthologs:
   mod: MGI:2152389
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100145550,446327
-  mod: '949331'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000013946,ENSDARG00000031100
-  entrez: 334334,387591
-  mod: ZFIN:ZDB-GENE-030131-6266,ZFIN:ZDB-GENE-031222-2
-  phenotypes: ZDB-GENE-030131-6266,ZDB-GENE-031222-2
+- ensembl: ENSDARG00000031100
+  entrez: '387591'
+  mod: ZFIN:ZDB-GENE-031222-2
+  phenotypes: proteasome-mediated ubiquitin-dependent protein catabolic process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459127
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426862
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459127
+  url: https://www.ncbi.nlm.nih.gov/gene/426862
 species: Gallus gallus
 symbol: IVNS1ABP
 title: IVNS1ABP
@@ -156,9 +146,7 @@ title: IVNS1ABP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000116679](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000116679) | [10625](https://www.ncbi.nlm.nih.gov/gene/10625) | [MIM:609209](https://omim.org/entry/609209) |  |
 | Mouse | [ENSMUSG00000023150](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023150) | [117198](https://www.ncbi.nlm.nih.gov/gene/117198) | [MGI:2152389](http://www.informatics.jax.org/marker/MGI:2152389) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100145550](https://www.ncbi.nlm.nih.gov/gene/100145550), [446327](https://www.ncbi.nlm.nih.gov/gene/446327) | [949331](http://www.xenbase.org/gene/showgene.do?method=display&geneId=949331) |  |
-| Zebrafish | [ENSDARG00000013946](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013946), [ENSDARG00000031100](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031100) | [334334](https://www.ncbi.nlm.nih.gov/gene/334334), [387591](https://www.ncbi.nlm.nih.gov/gene/387591) | [ZFIN:ZDB-GENE-030131-6266](https://zfin.org/ZDB-GENE-030131-6266), [ZFIN:ZDB-GENE-031222-2](https://zfin.org/ZDB-GENE-031222-2) | ZDB-GENE-030131-6266,ZDB-GENE-031222-2 |
+| Zebrafish | [ENSDARG00000031100](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031100) | [387591](https://www.ncbi.nlm.nih.gov/gene/387591) | [ZFIN:ZDB-GENE-031222-2](https://zfin.org/ZDB-GENE-031222-2) | proteasome-mediated ubiquitin-dependent protein catabolic process |
 

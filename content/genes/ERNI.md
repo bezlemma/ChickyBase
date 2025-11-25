@@ -3,7 +3,6 @@ aliases:
 - uncharacterized protein LOC769673
 cgnc_id: '55442'
 external_ids:
-  '4': stage 4stage 4stage 4
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Acloque+Risson+2001
   Comments: 'Authors indicated the probe sequence is associated with Genbank accession
     number AF327879, and the probe was prepared by PCR with the following primers:
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769673
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001080874
   X-XIV: stage Xstage Xstage XIIIstage XIII
-gene_id: '458958'
+gene_id: '769673'
 gene_type: protein-coding
 images:
 - caption: ERNI expression
@@ -251,7 +250,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Acloque.2001-ENS-fig6.jpg
 name: early response to neural induction ERNI
-ncbi_id: '458958'
+ncbi_id: '769673'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -281,10 +280,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458958
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=769673
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458958
+  url: https://www.ncbi.nlm.nih.gov/gene/769673
 species: Gallus gallus
 symbol: ERNI
 title: ERNI

@@ -7,7 +7,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374150
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204282
-gene_id: '455151'
+gene_id: '374150'
 gene_type: protein-coding
 images:
 - caption: ID4 expression
@@ -74,7 +74,7 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/14c19.105.24nt.jpg
 name: inhibitor of DNA binding 4, HLH protein
-ncbi_id: '455151'
+ncbi_id: '374150'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -99,15 +99,15 @@ orthologs:
 - ensembl: ENSDARG00000045131
   entrez: '664761'
   mod: ZFIN:ZDB-GENE-051113-208
-  phenotypes: ZDB-GENE-051113-208
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455151
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374150
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455151
+  url: https://www.ncbi.nlm.nih.gov/gene/374150
 species: Gallus gallus
 symbol: ID4
 title: ID4
@@ -132,5 +132,5 @@ title: ID4
 | Human |  | [3400](https://www.ncbi.nlm.nih.gov/gene/3400) | [MIM:600581](https://omim.org/entry/600581) |  |
 | Mouse | [ENSMUSG00000021379](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021379) | [15904](https://www.ncbi.nlm.nih.gov/gene/15904) | [MGI:99414](http://www.informatics.jax.org/marker/MGI:99414) | All phenotypic alleles (2):Targeted, other(2) |
 | Xenopus |  | [448114](https://www.ncbi.nlm.nih.gov/gene/448114), [380396](https://www.ncbi.nlm.nih.gov/gene/380396), [100337509](https://www.ncbi.nlm.nih.gov/gene/100337509) | [876359](http://www.xenbase.org/gene/showgene.do?method=display&geneId=876359) |  |
-| Zebrafish | [ENSDARG00000045131](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045131) | [664761](https://www.ncbi.nlm.nih.gov/gene/664761) | [ZFIN:ZDB-GENE-051113-208](https://zfin.org/ZDB-GENE-051113-208) | ZDB-GENE-051113-208 |
+| Zebrafish | [ENSDARG00000045131](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045131) | [664761](https://www.ncbi.nlm.nih.gov/gene/664761) | [ZFIN:ZDB-GENE-051113-208](https://zfin.org/ZDB-GENE-051113-208) |  |
 

@@ -1,7 +1,6 @@
 ---
 cgnc_id: '11100'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0263782
   Citation: https://pubmed.ncbi.nlm.nih.gov/25063452/
   Comments: As insufficient information is provided in publication to verify exact
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395145
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204485
 forward_primer: GCAACCCTGAGGAAACTTCGTC
-gene_id: '462254'
+gene_id: '395145'
 gene_type: protein-coding
 images:
 - caption: HMGCR expression
@@ -126,13 +125,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-figS1-G.jpg
 name: 3-hydroxy-3-methylglutaryl-CoA reductase
-ncbi_id: '462254'
+ncbi_id: '395145'
 orthologs:
-- ensembl: ''
-  entrez: '42803'
-  mod: FBgn0263782
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000113161
   entrez: '3156'
   mod: MIM:142910
@@ -144,24 +138,25 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100380121,397750
-  mod: '5840592'
+- ensembl: ENSXETG00000005084
+  entrez: '100380121'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000052734,ENSDARG00000059301
-  entrez: 796384,559054,541479
-  mod: ZFIN:ZDB-GENE-040401-2,ZFIN:ZDB-GENE-051108-1
-  phenotypes: ZDB-GENE-040401-2,ZDB-GENE-051108-1
+- ensembl: ENSDARG00000052734
+  entrez: '559054'
+  mod: ZFIN:ZDB-GENE-040401-2
+  phenotypes: coenzyme A metabolic process, isoprenoid biosynthetic process, lipid
+    metabolic process, skeletal muscle tissue development, steroid biosynthetic process
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTACCAGCCATAGCAGAACCCAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462254
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395145
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462254
+  url: https://www.ncbi.nlm.nih.gov/gene/395145
 species: Gallus gallus
 symbol: HMGCR
 template_length: '975'
@@ -190,9 +185,8 @@ title: HMGCR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42803](https://www.ncbi.nlm.nih.gov/gene/42803) | FBgn0263782 |  |
 | Human | [ENSG00000113161](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113161) | [3156](https://www.ncbi.nlm.nih.gov/gene/3156) | [MIM:142910](https://omim.org/entry/142910) | MIM:142910 |
 | Mouse | [ENSMUSG00000021670](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021670) | [15357](https://www.ncbi.nlm.nih.gov/gene/15357) | [MGI:96159](http://www.informatics.jax.org/marker/MGI:96159) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [100380121](https://www.ncbi.nlm.nih.gov/gene/100380121), [397750](https://www.ncbi.nlm.nih.gov/gene/397750) | [5840592](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5840592) |  |
-| Zebrafish | [ENSDARG00000052734](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052734), [ENSDARG00000059301](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059301) | [796384](https://www.ncbi.nlm.nih.gov/gene/796384), [559054](https://www.ncbi.nlm.nih.gov/gene/559054), [541479](https://www.ncbi.nlm.nih.gov/gene/541479) | [ZFIN:ZDB-GENE-040401-2](https://zfin.org/ZDB-GENE-040401-2), [ZFIN:ZDB-GENE-051108-1](https://zfin.org/ZDB-GENE-051108-1) | ZDB-GENE-040401-2,ZDB-GENE-051108-1 |
+| Xenopus | [ENSXETG00000005084](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005084) | [100380121](https://www.ncbi.nlm.nih.gov/gene/100380121) |  |  |
+| Zebrafish | [ENSDARG00000052734](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052734) | [559054](https://www.ncbi.nlm.nih.gov/gene/559054) | [ZFIN:ZDB-GENE-040401-2](https://zfin.org/ZDB-GENE-040401-2) | coenzyme A metabolic process, isoprenoid biosynthetic process, lipid metabolic process, skeletal muscle tissue development, steroid biosynthetic process |
 

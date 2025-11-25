@@ -1,13 +1,12 @@
 ---
 cgnc_id: '209'
 external_ids:
-  '25': stage 25
   Comments: No specific expression detected stages 5, 8, and 11.
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/428275
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428275
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425835
-gene_id: '459099'
+gene_id: '428275'
 gene_type: protein-coding
 images:
 - caption: SMARCD2 expression
@@ -86,13 +85,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/10j9.99.26.jpg
 name: SWI/SNF related, matrix associated, actin dependent regulator of chromatin,
   subfamily d, member 2
-ncbi_id: '459099'
+ncbi_id: '428275'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000108604
   entrez: '6603'
   mod: MIM:601736
@@ -103,23 +97,24 @@ orthologs:
   mod: MGI:1933621
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 734143,447634
-  mod: '489102'
+- ensembl: ENSXETG00000014231
+  entrez: '734143'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000088877
   entrez: '564317'
   mod: ZFIN:ZDB-GENE-080215-1
-  phenotypes: ZDB-GENE-080215-1
+  phenotypes: hematopoietic progenitor cell differentiation, neutrophil differentiation,
+    regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459099
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428275
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459099
+  url: https://www.ncbi.nlm.nih.gov/gene/428275
 species: Gallus gallus
 symbol: SMARCD2
 title: SMARCD2
@@ -142,9 +137,8 @@ title: SMARCD2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000108604](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000108604) | [6603](https://www.ncbi.nlm.nih.gov/gene/6603) | [MIM:601736](https://omim.org/entry/601736) |  |
 | Mouse | [ENSMUSG00000078619](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000078619) | [83796](https://www.ncbi.nlm.nih.gov/gene/83796) | [MGI:1933621](http://www.informatics.jax.org/marker/MGI:1933621) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [734143](https://www.ncbi.nlm.nih.gov/gene/734143), [447634](https://www.ncbi.nlm.nih.gov/gene/447634) | [489102](http://www.xenbase.org/gene/showgene.do?method=display&geneId=489102) |  |
-| Zebrafish | [ENSDARG00000088877](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000088877) | [564317](https://www.ncbi.nlm.nih.gov/gene/564317) | [ZFIN:ZDB-GENE-080215-1](https://zfin.org/ZDB-GENE-080215-1) | ZDB-GENE-080215-1 |
+| Xenopus | [ENSXETG00000014231](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014231) | [734143](https://www.ncbi.nlm.nih.gov/gene/734143) |  |  |
+| Zebrafish | [ENSDARG00000088877](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000088877) | [564317](https://www.ncbi.nlm.nih.gov/gene/564317) | [ZFIN:ZDB-GENE-080215-1](https://zfin.org/ZDB-GENE-080215-1) | hematopoietic progenitor cell differentiation, neutrophil differentiation, regulation of transcription by RNA polymerase II |
 

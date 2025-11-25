@@ -6,7 +6,6 @@ aliases:
 - leukocyte cell derived chemotaxin 1
 cgnc_id: '12720'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0051216
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0012505
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Shukunami+Nishizaki+tenomodulin+chick
@@ -291,7 +290,7 @@ orthologs:
 - ensembl: ENSDARG00000013930
   entrez: '791772'
   mod: ZFIN:ZDB-GENE-010713-1
-  phenotypes: ZDB-GENE-010713-1
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGATGTGCGAAGGGTTTTGATTC
 sources:
@@ -333,5 +332,5 @@ title: CNMD
 | Human | [ENSG00000136110](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136110) | [11061](https://www.ncbi.nlm.nih.gov/gene/11061) | [MIM:605147](https://omim.org/entry/605147) |  |
 | Mouse | [ENSMUSG00000022025](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022025) | [16840](https://www.ncbi.nlm.nih.gov/gene/16840) | [MGI:1341171](http://www.informatics.jax.org/marker/MGI:1341171) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
 | Xenopus |  | [100037893](https://www.ncbi.nlm.nih.gov/gene/100037893), [379773](https://www.ncbi.nlm.nih.gov/gene/379773) | [489325](http://www.xenbase.org/gene/showgene.do?method=display&geneId=489325) |  |
-| Zebrafish | [ENSDARG00000013930](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013930) | [791772](https://www.ncbi.nlm.nih.gov/gene/791772) | [ZFIN:ZDB-GENE-010713-1](https://zfin.org/ZDB-GENE-010713-1) | ZDB-GENE-010713-1 |
+| Zebrafish | [ENSDARG00000013930](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013930) | [791772](https://www.ncbi.nlm.nih.gov/gene/791772) | [ZFIN:ZDB-GENE-010713-1](https://zfin.org/ZDB-GENE-010713-1) |  |
 

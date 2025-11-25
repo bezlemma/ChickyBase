@@ -4,7 +4,6 @@ aliases:
 - myogenic factor
 cgnc_id: '48999'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0071392
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=huang+stolte+ventral+axial+organs+regulate+myotomal+fgf-8+rib+development
@@ -18,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0070888
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204184
 forward_primer: CCTGAGCGTCCCGAGGTGAC
-gene_id: '454881'
+gene_id: '374004'
 gene_type: protein-coding
 images:
 - caption: MYOG expression
@@ -239,13 +238,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYOGENIN.FIG5Q.HUANG.2003.jpg
 name: myogenin
-ncbi_id: '454881'
+ncbi_id: '374004'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000122180
   entrez: '4656'
   mod: MIM:159980
@@ -256,24 +250,26 @@ orthologs:
   mod: MGI:97276
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 549479,373806,378648
-  mod: '490104'
+- ensembl: ENSXETG00000001704
+  entrez: '549479'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000009438
   entrez: '30200'
   mod: ZFIN:ZDB-GENE-980526-265
-  phenotypes: ZDB-GENE-980526-265
+  phenotypes: cell differentiation, muscle organ development, myoblast differentiation
+    involved in skeletal muscle regeneration, myoblast proliferation involved in skeletal
+    muscle regeneration, positive regulation of myoblast differentiation
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGAGGAGAGCGAGTGGAGGTTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454881
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374004
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454881
+  url: https://www.ncbi.nlm.nih.gov/gene/374004
 species: Gallus gallus
 symbol: MYOG
 template_length: '512'
@@ -303,9 +299,8 @@ title: MYOG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000122180](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000122180) | [4656](https://www.ncbi.nlm.nih.gov/gene/4656) | [MIM:159980](https://omim.org/entry/159980) |  |
 | Mouse | [ENSMUSG00000026459](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026459) | [17928](https://www.ncbi.nlm.nih.gov/gene/17928) | [MGI:97276](http://www.informatics.jax.org/marker/MGI:97276) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [549479](https://www.ncbi.nlm.nih.gov/gene/549479), [373806](https://www.ncbi.nlm.nih.gov/gene/373806), [378648](https://www.ncbi.nlm.nih.gov/gene/378648) | [490104](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490104) |  |
-| Zebrafish | [ENSDARG00000009438](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009438) | [30200](https://www.ncbi.nlm.nih.gov/gene/30200) | [ZFIN:ZDB-GENE-980526-265](https://zfin.org/ZDB-GENE-980526-265) | ZDB-GENE-980526-265 |
+| Xenopus | [ENSXETG00000001704](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001704) | [549479](https://www.ncbi.nlm.nih.gov/gene/549479) |  |  |
+| Zebrafish | [ENSDARG00000009438](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009438) | [30200](https://www.ncbi.nlm.nih.gov/gene/30200) | [ZFIN:ZDB-GENE-980526-265](https://zfin.org/ZDB-GENE-980526-265) | cell differentiation, muscle organ development, myoblast differentiation involved in skeletal muscle regeneration, myoblast proliferation involved in skeletal muscle regeneration, positive regulation of myoblast differentiation |
 

@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374193
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0051287
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204305
-gene_id: '455059'
+gene_id: '374193'
 gene_type: protein-coding
 images:
 - caption: GAPDH expression
@@ -226,37 +226,33 @@ images:
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.Lin.2012.i.GAPDH.E14.jpg
 name: glyceraldehyde-3-phosphate dehydrogenase
-ncbi_id: '455059'
+ncbi_id: '374193'
 orthologs:
-- ensembl: ''
-  entrez: 35728,32545
-  mod: FBgn0001091,FBgn0001092
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000111640
   entrez: '2597'
   mod: MIM:138400
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: '100043349'
-  mod: MGI:3650052
+- ensembl: ENSMUSG00000096438
+  entrez: '100042025'
+  mod: MGI:5434255
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 448356,380259
-  mod: '487819'
+- ensembl: ENSXETG00000033975
+  entrez: '448356'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000043457
   entrez: '317743'
   mod: ZFIN:ZDB-GENE-030115-1
-  phenotypes: ZDB-GENE-030115-1
+  phenotypes: apoptotic process, glucose metabolic process, glycolytic process, microtubule
+    cytoskeleton organization, neuron apoptotic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455059
+  url: https://www.ncbi.nlm.nih.gov/gene/374193
 species: Gallus gallus
 symbol: GAPDH
 title: GAPDH
@@ -290,9 +286,8 @@ primer was 5!-GTGGGGGAGACAGAAGGGAACAGA-3!
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35728](https://www.ncbi.nlm.nih.gov/gene/35728), [32545](https://www.ncbi.nlm.nih.gov/gene/32545) | FBgn0001091, FBgn0001092 |  |
 | Human | [ENSG00000111640](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111640) | [2597](https://www.ncbi.nlm.nih.gov/gene/2597) | [MIM:138400](https://omim.org/entry/138400) |  |
-| Mouse |  | [100043349](https://www.ncbi.nlm.nih.gov/gene/100043349) | [MGI:3650052](http://www.informatics.jax.org/marker/MGI:3650052) |  |
-| Xenopus |  | [448356](https://www.ncbi.nlm.nih.gov/gene/448356), [380259](https://www.ncbi.nlm.nih.gov/gene/380259) | [487819](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487819) |  |
-| Zebrafish | [ENSDARG00000043457](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043457) | [317743](https://www.ncbi.nlm.nih.gov/gene/317743) | [ZFIN:ZDB-GENE-030115-1](https://zfin.org/ZDB-GENE-030115-1) | ZDB-GENE-030115-1 |
+| Mouse | [ENSMUSG00000096438](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000096438) | [100042025](https://www.ncbi.nlm.nih.gov/gene/100042025) | [MGI:5434255](http://www.informatics.jax.org/marker/MGI:5434255) |  |
+| Xenopus | [ENSXETG00000033975](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033975) | [448356](https://www.ncbi.nlm.nih.gov/gene/448356) |  |  |
+| Zebrafish | [ENSDARG00000043457](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043457) | [317743](https://www.ncbi.nlm.nih.gov/gene/317743) | [ZFIN:ZDB-GENE-030115-1](https://zfin.org/ZDB-GENE-030115-1) | apoptotic process, glucose metabolic process, glycolytic process, microtubule cytoskeleton organization, neuron apoptotic process |
 

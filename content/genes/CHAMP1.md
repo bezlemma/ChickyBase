@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418733
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416932
-gene_id: '453833'
+gene_id: '418733'
 gene_type: protein-coding
 images:
 - caption: CHAMP1 expression
@@ -98,13 +98,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54yf1.121.22.jpg
 name: chromosome alignment maintaining phosphoprotein 1
-ncbi_id: '453833'
+ncbi_id: '418733'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000198824
   entrez: '283489'
   mod: MIM:616327
@@ -115,23 +110,13 @@ orthologs:
   mod: MGI:1196398
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100380176,100036948
-  mod: '1016149'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453833
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418733
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453833
+  url: https://www.ncbi.nlm.nih.gov/gene/418733
 species: Gallus gallus
 symbol: CHAMP1
 title: CHAMP1
@@ -152,9 +137,6 @@ title: CHAMP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000198824](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198824) | [283489](https://www.ncbi.nlm.nih.gov/gene/283489) | [MIM:616327](https://omim.org/entry/616327) |  |
 | Mouse | [ENSMUSG00000047710](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000047710) | [101994](https://www.ncbi.nlm.nih.gov/gene/101994) | [MGI:1196398](http://www.informatics.jax.org/marker/MGI:1196398) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100380176](https://www.ncbi.nlm.nih.gov/gene/100380176), [100036948](https://www.ncbi.nlm.nih.gov/gene/100036948) | [1016149](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1016149) |  |
-| Zebrafish |  |  |  |  |
 

@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:431414
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001044668
-gene_id: '449463'
+gene_id: '431414'
 gene_type: protein-coding
 images:
 - caption: LBX2 expression
@@ -138,37 +138,19 @@ images:
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG4.KANAMOTO.2006.jpg
 name: ladybird homeobox 2
-ncbi_id: '449463'
+ncbi_id: '431414'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000025131
   entrez: '64276'
   mod: ZFIN:ZDB-GENE-001206-2
-  phenotypes: ZDB-GENE-001206-2
+  phenotypes: embryonic axis specification, muscle cell development, muscle cell differentiation,
+    positive regulation of convergent extension involved in gastrulation, positive
+    regulation of non-canonical Wnt signaling pathway
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449463
+  url: https://www.ncbi.nlm.nih.gov/gene/431414
 species: Gallus gallus
 symbol: LBX2
 title: LBX2
@@ -194,9 +176,5 @@ title: LBX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000025131](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025131) | [64276](https://www.ncbi.nlm.nih.gov/gene/64276) | [ZFIN:ZDB-GENE-001206-2](https://zfin.org/ZDB-GENE-001206-2) | ZDB-GENE-001206-2 |
+| Zebrafish | [ENSDARG00000025131](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025131) | [64276](https://www.ncbi.nlm.nih.gov/gene/64276) | [ZFIN:ZDB-GENE-001206-2](https://zfin.org/ZDB-GENE-001206-2) | embryonic axis specification, muscle cell development, muscle cell differentiation, positive regulation of convergent extension involved in gastrulation, positive regulation of non-canonical Wnt signaling pathway |
 

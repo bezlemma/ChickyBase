@@ -4,8 +4,6 @@ aliases:
 - plasminogen activator inhibitor type 1, member 2
 cgnc_id: '3824'
 external_ids:
-  '25': stage 25stage 25stage 25
-  '4': stage 4
   Citation: http://www.ncbi.nlm.nih.gov/sites/entrez?term=Temporal%20protease%20Christ%20development%20Spatial%20Rodr%C3%ADguez-Niedenf%C3%BChr&cmd=search&db=pubmed
   Comments: 'According to the authors: The original 1392 bp clone was used as template.
     Insufficient information provided in publication to verify exact sequence used
@@ -20,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424805
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001083920
 forward_primer: 5’-AAAGGACCCTCTGAAAGCCC-3’
-gene_id: '449004'
+gene_id: '424805'
 gene_type: protein-coding
 images:
 - caption: SERPINE2 expression
@@ -313,13 +311,8 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2W.RN.2003.jpg
 name: serpin family E member 2
-ncbi_id: '449004'
+ncbi_id: '424805'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000135919
   entrez: '5270'
   mod: MIM:177010
@@ -330,24 +323,24 @@ orthologs:
   mod: MGI:101780
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 394528,446824
-  mod: '947566'
+- ensembl: ENSXETG00000028081
+  entrez: '394528'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000029353
   entrez: '393153'
   mod: ZFIN:ZDB-GENE-040426-848
-  phenotypes: ZDB-GENE-040426-848
+  phenotypes: negative regulation of plasminogen activation
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGACATTAAGACAGGACAACGCG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449004
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424805
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449004
+  url: https://www.ncbi.nlm.nih.gov/gene/424805
 species: Gallus gallus
 symbol: SERPINE2
 template_length: '822'
@@ -375,9 +368,8 @@ Copyright © 2003 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000135919](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135919) | [5270](https://www.ncbi.nlm.nih.gov/gene/5270) | [MIM:177010](https://omim.org/entry/177010) |  |
 | Mouse | [ENSMUSG00000026249](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026249) | [20720](https://www.ncbi.nlm.nih.gov/gene/20720) | [MGI:101780](http://www.informatics.jax.org/marker/MGI:101780) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [394528](https://www.ncbi.nlm.nih.gov/gene/394528), [446824](https://www.ncbi.nlm.nih.gov/gene/446824) | [947566](http://www.xenbase.org/gene/showgene.do?method=display&geneId=947566) |  |
-| Zebrafish | [ENSDARG00000029353](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029353) | [393153](https://www.ncbi.nlm.nih.gov/gene/393153) | [ZFIN:ZDB-GENE-040426-848](https://zfin.org/ZDB-GENE-040426-848) | ZDB-GENE-040426-848 |
+| Xenopus | [ENSXETG00000028081](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000028081) | [394528](https://www.ncbi.nlm.nih.gov/gene/394528) |  |  |
+| Zebrafish | [ENSDARG00000029353](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029353) | [393153](https://www.ncbi.nlm.nih.gov/gene/393153) | [ZFIN:ZDB-GENE-040426-848](https://zfin.org/ZDB-GENE-040426-848) | negative regulation of plasminogen activation |
 

@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395759
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421178
   X-XIV: stage XIIstage XIII
-gene_id: '450358'
+gene_id: '395759'
 gene_type: protein-coding
 images:
 - caption: SLC8A3 expression
@@ -353,13 +353,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SMOC1_HH 23 x15.jpg
 name: solute carrier family 8 member A3
-ncbi_id: '450358'
+ncbi_id: '395759'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100678
   entrez: '6547'
   mod: MIM:607991
@@ -370,20 +365,21 @@ orthologs:
   mod: MGI:107976
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100487508,446366
-  mod: '954536'
+- ensembl: ENSXETG00000002216
+  entrez: '100487508'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000004931
   entrez: '560561'
   mod: ZFIN:ZDB-GENE-050810-1
-  phenotypes: ZDB-GENE-050810-1
+  phenotypes: calcium ion import across plasma membrane, calcium ion transport, cell
+    communication, monoatomic ion transport, sodium ion transmembrane transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450358
+  url: https://www.ncbi.nlm.nih.gov/gene/395759
 species: Gallus gallus
 symbol: SLC8A3
 title: SLC8A3
@@ -407,9 +403,8 @@ title: SLC8A3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000100678](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100678) | [6547](https://www.ncbi.nlm.nih.gov/gene/6547) | [MIM:607991](https://omim.org/entry/607991) |  |
 | Mouse | [ENSMUSG00000079055](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000079055) | [110893](https://www.ncbi.nlm.nih.gov/gene/110893) | [MGI:107976](http://www.informatics.jax.org/marker/MGI:107976) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100487508](https://www.ncbi.nlm.nih.gov/gene/100487508), [446366](https://www.ncbi.nlm.nih.gov/gene/446366) | [954536](http://www.xenbase.org/gene/showgene.do?method=display&geneId=954536) |  |
-| Zebrafish | [ENSDARG00000004931](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004931) | [560561](https://www.ncbi.nlm.nih.gov/gene/560561) | [ZFIN:ZDB-GENE-050810-1](https://zfin.org/ZDB-GENE-050810-1) | ZDB-GENE-050810-1 |
+| Xenopus | [ENSXETG00000002216](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002216) | [100487508](https://www.ncbi.nlm.nih.gov/gene/100487508) |  |  |
+| Zebrafish | [ENSDARG00000004931](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004931) | [560561](https://www.ncbi.nlm.nih.gov/gene/560561) | [ZFIN:ZDB-GENE-050810-1](https://zfin.org/ZDB-GENE-050810-1) | calcium ion import across plasma membrane, calcium ion transport, cell communication, monoatomic ion transport, sodium ion transmembrane transport |
 

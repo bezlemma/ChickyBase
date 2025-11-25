@@ -5,7 +5,6 @@ aliases:
 - homeodomain transcription factor BARX2B, Barx2
 cgnc_id: '813'
 external_ids:
-  '25': stage 25stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Noden+Francis-West+morphogenesis+craniofacial+muscles
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe.  Sequence below was obtained from NCBI (NM_204896).
@@ -15,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395714
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204896
-gene_id: '449812'
+gene_id: '395714'
 gene_type: protein-coding
 images:
 - caption: BARX2 expression
@@ -107,13 +106,8 @@ images:
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx2.Figure12a.Noden.jpg
 name: BARX homeobox 2
-ncbi_id: '449812'
+ncbi_id: '395714'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000043039
   entrez: '8538'
   mod: MIM:604823
@@ -124,23 +118,24 @@ orthologs:
   mod: MGI:109617
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000038280
   entrez: '100488405'
-  mod: '852580'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000041098
   entrez: '100002200'
   mod: ZFIN:ZDB-GENE-081120-4
-  phenotypes: ZDB-GENE-081120-4
+  phenotypes: regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449812
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395714
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449812
+  url: https://www.ncbi.nlm.nih.gov/gene/395714
 species: Gallus gallus
 symbol: BARX2
 title: BARX2
@@ -166,9 +161,8 @@ title: BARX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000043039](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000043039) | [8538](https://www.ncbi.nlm.nih.gov/gene/8538) | [MIM:604823](https://omim.org/entry/604823) |  |
 | Mouse | [ENSMUSG00000032033](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032033) | [12023](https://www.ncbi.nlm.nih.gov/gene/12023) | [MGI:109617](http://www.informatics.jax.org/marker/MGI:109617) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100488405](https://www.ncbi.nlm.nih.gov/gene/100488405) | [852580](http://www.xenbase.org/gene/showgene.do?method=display&geneId=852580) |  |
-| Zebrafish | [ENSDARG00000041098](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041098) | [100002200](https://www.ncbi.nlm.nih.gov/gene/100002200) | [ZFIN:ZDB-GENE-081120-4](https://zfin.org/ZDB-GENE-081120-4) | ZDB-GENE-081120-4 |
+| Xenopus | [ENSXETG00000038280](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000038280) | [100488405](https://www.ncbi.nlm.nih.gov/gene/100488405) |  |  |
+| Zebrafish | [ENSDARG00000041098](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041098) | [100002200](https://www.ncbi.nlm.nih.gov/gene/100002200) | [ZFIN:ZDB-GENE-081120-4](https://zfin.org/ZDB-GENE-081120-4) | regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427781
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001110178
   X-XIV: stage XIstage XIIIstage XIV
-gene_id: '363859'
+gene_id: '427781'
 gene_type: protein-coding
 images:
 - caption: Pou5f3 expression
@@ -171,37 +171,23 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/POUV.Han.2018.Fig4.jpg
 name: POU domain class 5 transcription factor 3
-ncbi_id: '363859'
+ncbi_id: '427781'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000026475
+  entrez: '100498076'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000044774
+  entrez: '30333'
+  mod: ZFIN:ZDB-GENE-980526-485
+  phenotypes: anatomical structure morphogenesis, brain development, brain segmentation,
+    chromatin remodeling, dorsal/ventral axis specification
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/363859
+  url: https://www.ncbi.nlm.nih.gov/gene/427781
 species: Gallus gallus
 symbol: Pou5f3
 title: Pou5f3
@@ -227,9 +213,6 @@ title: Pou5f3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000026475](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026475) | [100498076](https://www.ncbi.nlm.nih.gov/gene/100498076) |  |  |
+| Zebrafish | [ENSDARG00000044774](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044774) | [30333](https://www.ncbi.nlm.nih.gov/gene/30333) | [ZFIN:ZDB-GENE-980526-485](https://zfin.org/ZDB-GENE-980526-485) | anatomical structure morphogenesis, brain development, brain segmentation, chromatin remodeling, dorsal/ventral axis specification |
 

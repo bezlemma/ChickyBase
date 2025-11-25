@@ -7,7 +7,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/777876
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006127.3?report=genbank&from=39936987&to=39937095&strand=true
-gene_id: '468016'
+gene_id: '777876'
 gene_type: miscRNA
 images:
 - caption: MIR7-1 expression
@@ -25,7 +25,7 @@ images:
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/mir7.52.30.jpg
 name: microRNA 7-1
-ncbi_id: '468016'
+ncbi_id: '777876'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -55,10 +55,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468016
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777876
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468016
+  url: https://www.ncbi.nlm.nih.gov/gene/777876
 species: Gallus gallus
 symbol: MIR7-1
 title: MIR7-1

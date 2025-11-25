@@ -1,7 +1,6 @@
 ---
 cgnc_id: '49492'
 external_ids:
-  '25': stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Wu+2002+BMP4+GDNF
@@ -16,7 +15,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204965
   X-XIV: stage XIII
 forward_primer: GCACGAGCCCTTCCTCTTCG
-gene_id: '450007'
+gene_id: '395812'
 gene_type: protein-coding
 images:
 - caption: HAND1 expression
@@ -362,41 +361,31 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HAND1.Trevers.2023-Fig7-6-D.jpg
 name: heart and neural crest derivatives expressed 1
-ncbi_id: '450007'
+ncbi_id: '395812'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000113196
+  entrez: '9421'
+  mod: MIM:602406
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000037335
+  entrez: '15110'
+  mod: MGI:103577
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000008479
+  entrez: '549497'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCGTCTCCCGTTTCCTCTTGTTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450007
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395812
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450007
+  url: https://www.ncbi.nlm.nih.gov/gene/395812
 species: Gallus gallus
 symbol: HAND1
 template_length: '449'
@@ -426,9 +415,7 @@ title: HAND1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000113196](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113196) | [9421](https://www.ncbi.nlm.nih.gov/gene/9421) | [MIM:602406](https://omim.org/entry/602406) |  |
+| Mouse | [ENSMUSG00000037335](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037335) | [15110](https://www.ncbi.nlm.nih.gov/gene/15110) | [MGI:103577](http://www.informatics.jax.org/marker/MGI:103577) |  |
+| Xenopus | [ENSXETG00000008479](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008479) | [549497](https://www.ncbi.nlm.nih.gov/gene/549497) |  |  |
 

@@ -4,7 +4,6 @@ aliases:
 - transforming growth factor-beta2
 cgnc_id: '51471'
 external_ids:
-  '25': stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007184
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0030424
   Citation: https://pubmed.ncbi.nlm.nih.gov/24769017/
@@ -18,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0001540
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640970
 forward_primer: CGGCGATGGAGAAAAATGC
-gene_id: '457328'
+gene_id: '421352'
 gene_type: protein-coding
 images:
 - caption: TGFB2 expression
@@ -700,13 +699,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tgfβ2.Lorda-Diez.2014.Fig4.jpg
 name: transforming growth factor beta 2
-ncbi_id: '457328'
+ncbi_id: '421352'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000092969
   entrez: '7042'
   mod: MIM:190220
@@ -717,24 +711,25 @@ orthologs:
   mod: MGI:98726
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100489680,373801
-  mod: '480559'
+- ensembl: ENSXETG00000015347
+  entrez: '100489680'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000027087
   entrez: '369194'
   mod: ZFIN:ZDB-GENE-030723-3
-  phenotypes: ZDB-GENE-030723-3
+  phenotypes: anatomical structure morphogenesis, heart development, positive regulation
+    of cell division, regulation of cell population proliferation, roof of mouth development
   species: Zebrafish
 reverse_primer: AATTAA CCCTCACTAAAGGATGTAGTAGAGGATGGTGAGGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457328
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421352
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457328
+  url: https://www.ncbi.nlm.nih.gov/gene/421352
 species: Gallus gallus
 symbol: TGFB2
 template_length: '775'
@@ -764,9 +759,8 @@ title: TGFB2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000092969](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000092969) | [7042](https://www.ncbi.nlm.nih.gov/gene/7042) | [MIM:190220](https://omim.org/entry/190220) |  |
 | Mouse | [ENSMUSG00000039239](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039239) | [21808](https://www.ncbi.nlm.nih.gov/gene/21808) | [MGI:98726](http://www.informatics.jax.org/marker/MGI:98726) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100489680](https://www.ncbi.nlm.nih.gov/gene/100489680), [373801](https://www.ncbi.nlm.nih.gov/gene/373801) | [480559](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480559) |  |
-| Zebrafish | [ENSDARG00000027087](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027087) | [369194](https://www.ncbi.nlm.nih.gov/gene/369194) | [ZFIN:ZDB-GENE-030723-3](https://zfin.org/ZDB-GENE-030723-3) | ZDB-GENE-030723-3 |
+| Xenopus | [ENSXETG00000015347](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015347) | [100489680](https://www.ncbi.nlm.nih.gov/gene/100489680) |  |  |
+| Zebrafish | [ENSDARG00000027087](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027087) | [369194](https://www.ncbi.nlm.nih.gov/gene/369194) | [ZFIN:ZDB-GENE-030723-3](https://zfin.org/ZDB-GENE-030723-3) | anatomical structure morphogenesis, heart development, positive regulation of cell division, regulation of cell population proliferation, roof of mouth development |
 

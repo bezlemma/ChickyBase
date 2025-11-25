@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100858074
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641470
   X-XIV: stage XIII
-gene_id: '472605'
+gene_id: '100858074'
 gene_type: protein-coding
 images:
 - caption: STOX1 expression
@@ -67,37 +67,32 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STOX1.Trevers.2023-Fig7-3-T.jpg
 name: storkhead box 1
-ncbi_id: '472605'
+ncbi_id: '100858074'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000165730
+  entrez: '219736'
+  mod: MIM:609397
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000036923
+  entrez: '216021'
+  mod: MGI:2684909
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000008837
+  entrez: '100495850'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000062593
+  entrez: '568146'
+  mod: ZFIN:ZDB-GENE-030925-2
+  phenotypes: regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/472605
+  url: https://www.ncbi.nlm.nih.gov/gene/100858074
 species: Gallus gallus
 symbol: STOX1
 title: STOX1
@@ -123,9 +118,8 @@ title: STOX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000165730](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165730) | [219736](https://www.ncbi.nlm.nih.gov/gene/219736) | [MIM:609397](https://omim.org/entry/609397) |  |
+| Mouse | [ENSMUSG00000036923](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036923) | [216021](https://www.ncbi.nlm.nih.gov/gene/216021) | [MGI:2684909](http://www.informatics.jax.org/marker/MGI:2684909) |  |
+| Xenopus | [ENSXETG00000008837](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008837) | [100495850](https://www.ncbi.nlm.nih.gov/gene/100495850) |  |  |
+| Zebrafish | [ENSDARG00000062593](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062593) | [568146](https://www.ncbi.nlm.nih.gov/gene/568146) | [ZFIN:ZDB-GENE-030925-2](https://zfin.org/ZDB-GENE-030925-2) | regulation of transcription by RNA polymerase II |
 

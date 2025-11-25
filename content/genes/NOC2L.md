@@ -4,7 +4,6 @@ aliases:
 - nucleolar complex associated 2 homolog
 cgnc_id: '50999'
 external_ids:
-  '31': stage 31stage 31stage 31
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0032925
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Zhang+2006+cNOC2+Brand-Saberi
   Comments: 'The cDNA template used to generate the cNOC2 probe was obtained from
@@ -17,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419433
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030876
-gene_id: '458460'
+gene_id: '419433'
 gene_type: protein-coding
 images:
 - caption: NOC2L expression
@@ -274,37 +273,33 @@ images:
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhang.2006.Fig3.I.jpg
 name: NOC2 like nucleolar associated transcriptional repressor
-ncbi_id: '458460'
+ncbi_id: '419433'
 orthologs:
-- ensembl: ''
-  entrez: '35386'
-  mod: FBgn0032925
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000188976
   entrez: '26155'
   mod: MIM:610770
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000095567
+  entrez: '57741'
+  mod: MGI:1931051
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000031054
   entrez: '100491054'
-  mod: '6047989'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000001754
   entrez: '58013'
   mod: ZFIN:ZDB-GENE-000607-75
-  phenotypes: ZDB-GENE-000607-75
+  phenotypes: negative regulation of transcription by RNA polymerase II, ribosomal
+    large subunit biogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458460
+  url: https://www.ncbi.nlm.nih.gov/gene/419433
 species: Gallus gallus
 symbol: NOC2L
 title: NOC2L
@@ -332,9 +327,8 @@ title: NOC2L
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35386](https://www.ncbi.nlm.nih.gov/gene/35386) | FBgn0032925 |  |
 | Human | [ENSG00000188976](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000188976) | [26155](https://www.ncbi.nlm.nih.gov/gene/26155) | [MIM:610770](https://omim.org/entry/610770) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100491054](https://www.ncbi.nlm.nih.gov/gene/100491054) | [6047989](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6047989) |  |
-| Zebrafish | [ENSDARG00000001754](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000001754) | [58013](https://www.ncbi.nlm.nih.gov/gene/58013) | [ZFIN:ZDB-GENE-000607-75](https://zfin.org/ZDB-GENE-000607-75) | ZDB-GENE-000607-75 |
+| Mouse | [ENSMUSG00000095567](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000095567) | [57741](https://www.ncbi.nlm.nih.gov/gene/57741) | [MGI:1931051](http://www.informatics.jax.org/marker/MGI:1931051) |  |
+| Xenopus | [ENSXETG00000031054](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031054) | [100491054](https://www.ncbi.nlm.nih.gov/gene/100491054) |  |  |
+| Zebrafish | [ENSDARG00000001754](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000001754) | [58013](https://www.ncbi.nlm.nih.gov/gene/58013) | [ZFIN:ZDB-GENE-000607-75](https://zfin.org/ZDB-GENE-000607-75) | negative regulation of transcription by RNA polymerase II, ribosomal large subunit biogenesis |
 

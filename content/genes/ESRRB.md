@@ -3,7 +3,6 @@ aliases:
 - steroid hormone receptor ERR2
 cgnc_id: '7889'
 external_ids:
-  '25': stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0035849
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/38912
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771938
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001235146
 forward_primer: 5’-TTCCGAGCTGTGCATCTCTG-3’
-gene_id: '452266'
+gene_id: '771938'
 gene_type: protein-coding
 images:
 - caption: ESRRB expression
@@ -68,13 +67,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R658.ESRRB.S25A.001.jpg
 name: estrogen related receptor beta
-ncbi_id: '452266'
+ncbi_id: '771938'
 orthologs:
-- ensembl: ''
-  entrez: '38912'
-  mod: FBgn0035849
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000119715
   entrez: '2103'
   mod: MIM:602167
@@ -85,24 +79,14 @@ orthologs:
   mod: MGI:1346832
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: '100494008'
-  mod: '483509'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: '407693'
-  mod: ZFIN:ZDB-GENE-040616-2
-  phenotypes: ZDB-GENE-040616-2
-  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAGAGGGTTGTCAGGGCTTTG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452266
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771938
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452266
+  url: https://www.ncbi.nlm.nih.gov/gene/771938
 species: Gallus gallus
 symbol: ESRRB
 template_length: '785'
@@ -127,9 +111,6 @@ title: ESRRB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38912](https://www.ncbi.nlm.nih.gov/gene/38912) | FBgn0035849 |  |
 | Human | [ENSG00000119715](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000119715) | [2103](https://www.ncbi.nlm.nih.gov/gene/2103) | [MIM:602167](https://omim.org/entry/602167) | MIM:608565 |
 | Mouse | [ENSMUSG00000021255](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021255) | [26380](https://www.ncbi.nlm.nih.gov/gene/26380) | [MGI:1346832](http://www.informatics.jax.org/marker/MGI:1346832) | All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2) |
-| Xenopus |  | [100494008](https://www.ncbi.nlm.nih.gov/gene/100494008) | [483509](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483509) |  |
-| Zebrafish |  | [407693](https://www.ncbi.nlm.nih.gov/gene/407693) | [ZFIN:ZDB-GENE-040616-2](https://zfin.org/ZDB-GENE-040616-2) | ZDB-GENE-040616-2 |
 

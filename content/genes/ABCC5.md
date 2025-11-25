@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424947
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422754
 forward_primer: AAACCAGCCAATCCTCACACC
-gene_id: '448631'
+gene_id: '424947'
 gene_type: protein-coding
 images:
 - caption: ABCC5 expression
@@ -202,13 +202,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R482.ABCC5.S27V.001.jpg
 name: ATP binding cassette subfamily C member 5
-ncbi_id: '448631'
+ncbi_id: '424947'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000114770
   entrez: '10057'
   mod: MIM:605251
@@ -219,24 +214,25 @@ orthologs:
   mod: MGI:1351644
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100125060,398887
-  mod: '986259'
+- ensembl: ENSXETG00000014295
+  entrez: '100125060'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000061233
   entrez: '336147'
   mod: ZFIN:ZDB-GENE-050517-17
-  phenotypes: ZDB-GENE-050517-17
+  phenotypes: erythrocyte differentiation, heme transmembrane transport, transmembrane
+    transport
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTCTCCTTCTTCACAGAGCCCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448631
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424947
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448631
+  url: https://www.ncbi.nlm.nih.gov/gene/424947
 species: Gallus gallus
 symbol: ABCC5
 template_length: '1013'
@@ -258,9 +254,8 @@ title: ABCC5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000114770](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000114770) | [10057](https://www.ncbi.nlm.nih.gov/gene/10057) | [MIM:605251](https://omim.org/entry/605251) |  |
 | Mouse | [ENSMUSG00000022822](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022822) | [27416](https://www.ncbi.nlm.nih.gov/gene/27416) | [MGI:1351644](http://www.informatics.jax.org/marker/MGI:1351644) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100125060](https://www.ncbi.nlm.nih.gov/gene/100125060), [398887](https://www.ncbi.nlm.nih.gov/gene/398887) | [986259](http://www.xenbase.org/gene/showgene.do?method=display&geneId=986259) |  |
-| Zebrafish | [ENSDARG00000061233](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061233) | [336147](https://www.ncbi.nlm.nih.gov/gene/336147) | [ZFIN:ZDB-GENE-050517-17](https://zfin.org/ZDB-GENE-050517-17) | ZDB-GENE-050517-17 |
+| Xenopus | [ENSXETG00000014295](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014295) | [100125060](https://www.ncbi.nlm.nih.gov/gene/100125060) |  |  |
+| Zebrafish | [ENSDARG00000061233](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061233) | [336147](https://www.ncbi.nlm.nih.gov/gene/336147) | [ZFIN:ZDB-GENE-050517-17](https://zfin.org/ZDB-GENE-050517-17) | erythrocyte differentiation, heme transmembrane transport, transmembrane transport |
 

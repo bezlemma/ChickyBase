@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423758
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421632
-gene_id: '450806'
+gene_id: '423758'
 gene_type: protein-coding
 images:
 - caption: GBF1 expression
@@ -21,13 +21,8 @@ images:
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3yf5.119.3.6.jpg
 name: golgi brefeldin A resistant guanine nucleotide exchange factor 1
-ncbi_id: '450806'
+ncbi_id: '423758'
 orthologs:
-- ensembl: ''
-  entrez: '36337'
-  mod: FBgn0264560
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000107862
   entrez: '8729'
   mod: MIM:603698
@@ -38,23 +33,24 @@ orthologs:
   mod: MGI:1861607
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010019
   entrez: '100380093'
-  mod: '1012127'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000027016
   entrez: '566350'
   mod: ZFIN:ZDB-GENE-081107-54
-  phenotypes: ZDB-GENE-081107-54
+  phenotypes: endomembrane system organization, endosomal transport, regulation of
+    ARF protein signal transduction
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450806
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423758
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450806
+  url: https://www.ncbi.nlm.nih.gov/gene/423758
 species: Gallus gallus
 symbol: GBF1
 title: GBF1
@@ -79,9 +75,8 @@ title: GBF1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36337](https://www.ncbi.nlm.nih.gov/gene/36337) | FBgn0264560 |  |
 | Human | [ENSG00000107862](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107862) | [8729](https://www.ncbi.nlm.nih.gov/gene/8729) | [MIM:603698](https://omim.org/entry/603698) |  |
 | Mouse | [ENSMUSG00000025224](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025224) | [107338](https://www.ncbi.nlm.nih.gov/gene/107338) | [MGI:1861607](http://www.informatics.jax.org/marker/MGI:1861607) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100380093](https://www.ncbi.nlm.nih.gov/gene/100380093) | [1012127](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1012127) |  |
-| Zebrafish | [ENSDARG00000027016](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027016) | [566350](https://www.ncbi.nlm.nih.gov/gene/566350) | [ZFIN:ZDB-GENE-081107-54](https://zfin.org/ZDB-GENE-081107-54) | ZDB-GENE-081107-54 |
+| Xenopus | [ENSXETG00000010019](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010019) | [100380093](https://www.ncbi.nlm.nih.gov/gene/100380093) |  |  |
+| Zebrafish | [ENSDARG00000027016](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027016) | [566350](https://www.ncbi.nlm.nih.gov/gene/566350) | [ZFIN:ZDB-GENE-081107-54](https://zfin.org/ZDB-GENE-081107-54) | endomembrane system organization, endosomal transport, regulation of ARF protein signal transduction |
 

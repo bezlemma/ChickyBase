@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424761
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422582
 forward_primer: GGACATAGAAGATGGGAAGGACAAG
-gene_id: '462895'
+gene_id: '424761'
 gene_type: protein-coding
 images:
 - caption: ARHGEF4 expression
@@ -152,13 +152,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R414.ARHGEF4.S26c.001.jpg
 name: Rho guanine nucleotide exchange factor 4
-ncbi_id: '462895'
+ncbi_id: '424761'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136002
   entrez: '50649'
   mod: MIM:605216
@@ -169,24 +164,24 @@ orthologs:
   mod: MGI:2442507
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000013866
   entrez: '100487089'
-  mod: '960462'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000012914
   entrez: '559017'
   mod: ZFIN:ZDB-GENE-070912-575
-  phenotypes: ZDB-GENE-070912-575
+  phenotypes: intracellular signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTGAGGTGAAAGGTGGGGAAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462895
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424761
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462895
+  url: https://www.ncbi.nlm.nih.gov/gene/424761
 species: Gallus gallus
 symbol: ARHGEF4
 template_length: '914'
@@ -208,9 +203,8 @@ title: ARHGEF4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000136002](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136002) | [50649](https://www.ncbi.nlm.nih.gov/gene/50649) | [MIM:605216](https://omim.org/entry/605216) |  |
 | Mouse | [ENSMUSG00000037509](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037509) | [226970](https://www.ncbi.nlm.nih.gov/gene/226970) | [MGI:2442507](http://www.informatics.jax.org/marker/MGI:2442507) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100487089](https://www.ncbi.nlm.nih.gov/gene/100487089) | [960462](http://www.xenbase.org/gene/showgene.do?method=display&geneId=960462) |  |
-| Zebrafish | [ENSDARG00000012914](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012914) | [559017](https://www.ncbi.nlm.nih.gov/gene/559017) | [ZFIN:ZDB-GENE-070912-575](https://zfin.org/ZDB-GENE-070912-575) | ZDB-GENE-070912-575 |
+| Xenopus | [ENSXETG00000013866](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013866) | [100487089](https://www.ncbi.nlm.nih.gov/gene/100487089) |  |  |
+| Zebrafish | [ENSDARG00000012914](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012914) | [559017](https://www.ncbi.nlm.nih.gov/gene/559017) | [ZFIN:ZDB-GENE-070912-575](https://zfin.org/ZDB-GENE-070912-575) | intracellular signal transduction |
 

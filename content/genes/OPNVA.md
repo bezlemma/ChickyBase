@@ -18,7 +18,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423974
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001105318
-gene_id: '452774'
+gene_id: '423974'
 gene_type: protein-coding
 images:
 - caption: OPNVA expression
@@ -57,37 +57,23 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cvalimageFIJst20.jpg
 name: vertebrate ancient opsin
-ncbi_id: '452774'
+ncbi_id: '423974'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000119977
-  entrez: '26123'
-  mod: MIM:613847
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000025008
-  entrez: '67590'
-  mod: MGI:1914840
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000014777
+  entrez: '100489056'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000054181
+  entrez: '560921'
+  mod: ZFIN:ZDB-GENE-040724-41
+  phenotypes: G protein-coupled receptor signaling pathway, absorption of visible
+    light, cellular response to light stimulus, phototransduction, signal transduction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452774
+  url: https://www.ncbi.nlm.nih.gov/gene/423974
 species: Gallus gallus
 symbol: OPNVA
 title: OPNVA
@@ -114,9 +100,6 @@ Copyright © (2007) Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000119977](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000119977) | [26123](https://www.ncbi.nlm.nih.gov/gene/26123) | [MIM:613847](https://omim.org/entry/613847) |  |
-| Mouse | [ENSMUSG00000025008](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025008) | [67590](https://www.ncbi.nlm.nih.gov/gene/67590) | [MGI:1914840](http://www.informatics.jax.org/marker/MGI:1914840) |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000014777](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014777) | [100489056](https://www.ncbi.nlm.nih.gov/gene/100489056) |  |  |
+| Zebrafish | [ENSDARG00000054181](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054181) | [560921](https://www.ncbi.nlm.nih.gov/gene/560921) | [ZFIN:ZDB-GENE-040724-41](https://zfin.org/ZDB-GENE-040724-41) | G protein-coupled receptor signaling pathway, absorption of visible light, cellular response to light stimulus, phototransduction, signal transduction |
 

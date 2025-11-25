@@ -5,7 +5,6 @@ aliases:
 - karyopherin alpha 4 (importin alpha 3)
 cgnc_id: '52315'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0027338
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/41158
@@ -14,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:425012
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001007963
 forward_primer: 5'-CAGCAGCAAGTTCAGGCAG-3'
-gene_id: '461727'
+gene_id: '425012'
 gene_type: protein-coding
 images:
 - caption: KPNA4 expression
@@ -90,41 +89,37 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R727.KPNA4.S25.001.jpg
 name: karyopherin subunit alpha 4
-ncbi_id: '461727'
+ncbi_id: '425012'
 orthologs:
-- ensembl: ''
-  entrez: '41158'
-  mod: FBgn0027338
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000186432
   entrez: '3840'
   mod: MIM:602970
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000027782
   entrez: '16649'
   mod: MGI:1100848
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100380091,432010
-  mod: '1011057'
+- ensembl: ENSXETG00000008720
+  entrez: '100380091'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000023190
   entrez: '327373'
   mod: ZFIN:ZDB-GENE-030131-5584
-  phenotypes: ZDB-GENE-030131-5584
+  phenotypes: NLS-bearing protein import into nucleus, animal organ development, lens
+    development in camera-type eye, protein import into nucleus, protein transport
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGACAAGTCTGGCTCCACAGC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461727
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=425012
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461727
+  url: https://www.ncbi.nlm.nih.gov/gene/425012
 species: Gallus gallus
 symbol: KPNA4
 template_length: '962'
@@ -149,9 +144,8 @@ title: KPNA4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41158](https://www.ncbi.nlm.nih.gov/gene/41158) | FBgn0027338 |  |
 | Human | [ENSG00000186432](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000186432) | [3840](https://www.ncbi.nlm.nih.gov/gene/3840) | [MIM:602970](https://omim.org/entry/602970) |  |
-| Mouse |  | [16649](https://www.ncbi.nlm.nih.gov/gene/16649) | [MGI:1100848](http://www.informatics.jax.org/marker/MGI:1100848) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100380091](https://www.ncbi.nlm.nih.gov/gene/100380091), [432010](https://www.ncbi.nlm.nih.gov/gene/432010) | [1011057](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1011057) |  |
-| Zebrafish | [ENSDARG00000023190](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023190) | [327373](https://www.ncbi.nlm.nih.gov/gene/327373) | [ZFIN:ZDB-GENE-030131-5584](https://zfin.org/ZDB-GENE-030131-5584) | ZDB-GENE-030131-5584 |
+| Mouse | [ENSMUSG00000027782](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027782) | [16649](https://www.ncbi.nlm.nih.gov/gene/16649) | [MGI:1100848](http://www.informatics.jax.org/marker/MGI:1100848) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
+| Xenopus | [ENSXETG00000008720](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008720) | [100380091](https://www.ncbi.nlm.nih.gov/gene/100380091) |  |  |
+| Zebrafish | [ENSDARG00000023190](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023190) | [327373](https://www.ncbi.nlm.nih.gov/gene/327373) | [ZFIN:ZDB-GENE-030131-5584](https://zfin.org/ZDB-GENE-030131-5584) | NLS-bearing protein import into nucleus, animal organ development, lens development in camera-type eye, protein import into nucleus, protein transport |
 

@@ -9,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424260
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422107
-gene_id: '461318'
+gene_id: '424260'
 gene_type: protein-coding
 images:
 - caption: SNX4 expression
@@ -20,13 +20,8 @@ images:
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/J09_06.jpg
 name: sorting nexin 4
-ncbi_id: '461318'
+ncbi_id: '424260'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000114520
   entrez: '8723'
   mod: MIM:605931
@@ -38,23 +33,18 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '996844'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000022659
   entrez: '323203'
   mod: ZFIN:ZDB-GENE-030131-1923
-  phenotypes: ZDB-GENE-030131-1923
+  phenotypes: positive regulation of autophagosome assembly, protein transport
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461318
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424260
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461318
+  url: https://www.ncbi.nlm.nih.gov/gene/424260
 species: Gallus gallus
 symbol: SNX4
 title: SNX4
@@ -78,9 +68,7 @@ title: SNX4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000114520](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000114520) | [8723](https://www.ncbi.nlm.nih.gov/gene/8723) | [MIM:605931](https://omim.org/entry/605931) |  |
 | Mouse | [ENSMUSG00000022808](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022808) | [69150](https://www.ncbi.nlm.nih.gov/gene/69150) | [MGI:1916400](http://www.informatics.jax.org/marker/MGI:1916400) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  |  | [996844](http://www.xenbase.org/gene/showgene.do?method=display&geneId=996844) |  |
-| Zebrafish | [ENSDARG00000022659](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000022659) | [323203](https://www.ncbi.nlm.nih.gov/gene/323203) | [ZFIN:ZDB-GENE-030131-1923](https://zfin.org/ZDB-GENE-030131-1923) | ZDB-GENE-030131-1923 |
+| Zebrafish | [ENSDARG00000022659](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000022659) | [323203](https://www.ncbi.nlm.nih.gov/gene/323203) | [ZFIN:ZDB-GENE-030131-1923](https://zfin.org/ZDB-GENE-030131-1923) | positive regulation of autophagosome assembly, protein transport |
 

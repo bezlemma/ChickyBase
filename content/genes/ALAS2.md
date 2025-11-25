@@ -226,7 +226,7 @@ orthologs:
 - ensembl: ENSDARG00000021059
   entrez: '64608'
   mod: ZFIN:ZDB-GENE-001229-2
-  phenotypes: ZDB-GENE-001229-2
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAAAAGTGATTGCCCCGTGCTCG
 sources:
@@ -266,5 +266,5 @@ title: ALAS2
 | Human | [ENSG00000023330](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000023330) | [211](https://www.ncbi.nlm.nih.gov/gene/211) | [MIM:125290](https://omim.org/entry/125290) |  |
 | Mouse | [ENSMUSG00000032786](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032786) | [11655](https://www.ncbi.nlm.nih.gov/gene/11655) | [MGI:87989](http://www.informatics.jax.org/marker/MGI:87989) | All phenotypic alleles (3):Targeted, other(3) |
 | Xenopus |  | [493434](https://www.ncbi.nlm.nih.gov/gene/493434), [444480](https://www.ncbi.nlm.nih.gov/gene/444480) | [975178](http://www.xenbase.org/gene/showgene.do?method=display&geneId=975178) |  |
-| Zebrafish | [ENSDARG00000021059](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021059) | [64608](https://www.ncbi.nlm.nih.gov/gene/64608) | [ZFIN:ZDB-GENE-001229-2](https://zfin.org/ZDB-GENE-001229-2) | ZDB-GENE-001229-2 |
+| Zebrafish | [ENSDARG00000021059](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021059) | [64608](https://www.ncbi.nlm.nih.gov/gene/64608) | [ZFIN:ZDB-GENE-001229-2](https://zfin.org/ZDB-GENE-001229-2) |  |
 

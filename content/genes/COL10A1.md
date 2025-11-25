@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100858979
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641007
-gene_id: '473510'
+gene_id: '100858979'
 gene_type: protein-coding
 images:
 - caption: COL10A1 expression
@@ -143,37 +143,27 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COL10A1.Domowicz.2009
     Fig.13 B.png
 name: collagen, type X, alpha 1
-ncbi_id: '473510'
+ncbi_id: '100858979'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000123500
+  entrez: '1300'
+  mod: MIM:120110
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000039462
+  entrez: '12813'
+  mod: MGI:88445
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000054753
+  entrez: '558919'
+  mod: ZFIN:ZDB-GENE-030131-8373
+  phenotypes: fin regeneration
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/473510
+  url: https://www.ncbi.nlm.nih.gov/gene/100858979
 species: Gallus gallus
 symbol: COL10A1
 title: COL10A1
@@ -199,9 +189,7 @@ title: COL10A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000123500](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000123500) | [1300](https://www.ncbi.nlm.nih.gov/gene/1300) | [MIM:120110](https://omim.org/entry/120110) |  |
+| Mouse | [ENSMUSG00000039462](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039462) | [12813](https://www.ncbi.nlm.nih.gov/gene/12813) | [MGI:88445](http://www.informatics.jax.org/marker/MGI:88445) |  |
+| Zebrafish | [ENSDARG00000054753](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054753) | [558919](https://www.ncbi.nlm.nih.gov/gene/558919) | [ZFIN:ZDB-GENE-030131-8373](https://zfin.org/ZDB-GENE-030131-8373) | fin regeneration |
 

@@ -4,14 +4,13 @@ aliases:
 - Ewing sarcoma breakpoint region 1
 cgnc_id: '50409'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/417022
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417022
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001039267
 forward_primer: 5’-AGCCAGCCACCATCAAGTAC-3’
-gene_id: '455180'
+gene_id: '417022'
 gene_type: protein-coding
 images:
 - caption: EWSR1 expression
@@ -86,41 +85,26 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R660.EWSR1.S25.001.jpg
 name: EWS RNA binding protein 1
-ncbi_id: '455180'
+ncbi_id: '417022'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000182944
-  entrez: '2130'
-  mod: MIM:133450
-  phenotypes: MIM:133450
-  species: Human
 - ensembl: ENSMUSG00000009079
   entrez: '14030'
   mod: MGI:99960
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 394931,734969
-  mod: '6258536'
+- ensembl: ENSXETG00000024796
+  entrez: '394931'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000020258,ENSDARG00000020465
-  entrez: 323597,322880
-  mod: ZFIN:ZDB-GENE-030131-2317,ZFIN:ZDB-GENE-030131-1600
-  phenotypes: ZDB-GENE-030131-2317,ZDB-GENE-030131-1600
-  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGACACTGAGCTGTTGTCCGAG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455180
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417022
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455180
+  url: https://www.ncbi.nlm.nih.gov/gene/417022
 species: Gallus gallus
 symbol: EWSR1
 template_length: '649'
@@ -143,9 +127,6 @@ title: EWSR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000182944](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000182944) | [2130](https://www.ncbi.nlm.nih.gov/gene/2130) | [MIM:133450](https://omim.org/entry/133450) | MIM:133450 |
 | Mouse | [ENSMUSG00000009079](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000009079) | [14030](https://www.ncbi.nlm.nih.gov/gene/14030) | [MGI:99960](http://www.informatics.jax.org/marker/MGI:99960) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [394931](https://www.ncbi.nlm.nih.gov/gene/394931), [734969](https://www.ncbi.nlm.nih.gov/gene/734969) | [6258536](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6258536) |  |
-| Zebrafish | [ENSDARG00000020258](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020258), [ENSDARG00000020465](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020465) | [323597](https://www.ncbi.nlm.nih.gov/gene/323597), [322880](https://www.ncbi.nlm.nih.gov/gene/322880) | [ZFIN:ZDB-GENE-030131-2317](https://zfin.org/ZDB-GENE-030131-2317), [ZFIN:ZDB-GENE-030131-1600](https://zfin.org/ZDB-GENE-030131-1600) | ZDB-GENE-030131-2317,ZDB-GENE-030131-1600 |
+| Xenopus | [ENSXETG00000024796](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000024796) | [394931](https://www.ncbi.nlm.nih.gov/gene/394931) |  |  |
 

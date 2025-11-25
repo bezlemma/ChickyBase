@@ -3,8 +3,6 @@ aliases:
 - protein Wnt-7b
 cgnc_id: '10609'
 external_ids:
-  '13': stage 13stage 13
-  '19': stage 19
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0004360
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0016055
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005615
@@ -20,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427937
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005109
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001037274
-gene_id: '457404'
+gene_id: '427937'
 gene_type: protein-coding
 images:
 - caption: WNT7B expression
@@ -328,13 +326,8 @@ images:
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Garda.2002-Wntb-fig3T-2.jpg
 name: Wnt family member 7B
-ncbi_id: '457404'
+ncbi_id: '427937'
 orthologs:
-- ensembl: ''
-  entrez: '35975'
-  mod: FBgn0004360
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000188064
   entrez: '7477'
   mod: MIM:601967
@@ -345,23 +338,19 @@ orthologs:
   mod: MGI:98962
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100145124,399364
-  mod: '481935'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000071107,ENSDARG00000022858
-  entrez: 100148840,563427
-  mod: ZFIN:ZDB-GENE-081006-1,ZFIN:ZDB-GENE-041210-178
-  phenotypes: ZDB-GENE-081006-1,ZDB-GENE-041210-178
+- ensembl: ENSDARG00000071107
+  entrez: '100148840'
+  mod: ZFIN:ZDB-GENE-081006-1
+  phenotypes: Wnt signaling pathway, animal organ development, canonical Wnt signaling
+    pathway, cell differentiation, cell fate commitment
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457404
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427937
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457404
+  url: https://www.ncbi.nlm.nih.gov/gene/427937
 species: Gallus gallus
 symbol: WNT7B
 title: WNT7B
@@ -392,9 +381,7 @@ title: WNT7B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35975](https://www.ncbi.nlm.nih.gov/gene/35975) | FBgn0004360 |  |
 | Human | [ENSG00000188064](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000188064) | [7477](https://www.ncbi.nlm.nih.gov/gene/7477) | [MIM:601967](https://omim.org/entry/601967) |  |
 | Mouse | [ENSMUSG00000022382](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022382) | [22422](https://www.ncbi.nlm.nih.gov/gene/22422) | [MGI:98962](http://www.informatics.jax.org/marker/MGI:98962) | All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5) |
-| Xenopus |  | [100145124](https://www.ncbi.nlm.nih.gov/gene/100145124), [399364](https://www.ncbi.nlm.nih.gov/gene/399364) | [481935](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481935) |  |
-| Zebrafish | [ENSDARG00000071107](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071107), [ENSDARG00000022858](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000022858) | [100148840](https://www.ncbi.nlm.nih.gov/gene/100148840), [563427](https://www.ncbi.nlm.nih.gov/gene/563427) | [ZFIN:ZDB-GENE-081006-1](https://zfin.org/ZDB-GENE-081006-1), [ZFIN:ZDB-GENE-041210-178](https://zfin.org/ZDB-GENE-041210-178) | ZDB-GENE-081006-1,ZDB-GENE-041210-178 |
+| Zebrafish | [ENSDARG00000071107](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071107) | [100148840](https://www.ncbi.nlm.nih.gov/gene/100148840) | [ZFIN:ZDB-GENE-081006-1](https://zfin.org/ZDB-GENE-081006-1) | Wnt signaling pathway, animal organ development, canonical Wnt signaling pathway, cell differentiation, cell fate commitment |
 

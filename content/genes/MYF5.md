@@ -4,8 +4,6 @@ aliases:
 - Myf5 homolog, Myogenic Factor 5, MYF5
 cgnc_id: '8312'
 external_ids:
-  '19': stage 19stage 19stage 19stage 19
-  '25': stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0002922
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0042693
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
@@ -21,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0070888
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030363
-gene_id: '449931'
+gene_id: '395633'
 gene_type: protein-coding
 images:
 - caption: MYF5 expression
@@ -616,13 +614,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kahane.2013.Fig3_Allimages.jpg
 name: myogenic factor 5
-ncbi_id: '449931'
+ncbi_id: '395633'
 orthologs:
-- ensembl: ''
-  entrez: '42799'
-  mod: FBgn0002922
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000111049
   entrez: '4617'
   mod: MIM:159990
@@ -633,23 +626,24 @@ orthologs:
   mod: MGI:97252
   phenotypes: All phenotypic alleles (15):Targeted, knock-out(4) Targeted, other(11)
   species: Mouse
-- ensembl: ''
-  entrez: 394529,397960
-  mod: '493549'
+- ensembl: ENSXETG00000014520
+  entrez: '394529'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000007277
   entrez: '58097'
   mod: ZFIN:ZDB-GENE-000616-6
-  phenotypes: ZDB-GENE-000616-6
+  phenotypes: cell differentiation, chordate pharyngeal muscle development, extraocular
+    skeletal muscle development, mesoderm development, muscle organ development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449931
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395633
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449931
+  url: https://www.ncbi.nlm.nih.gov/gene/395633
 species: Gallus gallus
 symbol: MYF5
 title: MYF5
@@ -681,9 +675,8 @@ title: MYF5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42799](https://www.ncbi.nlm.nih.gov/gene/42799) | FBgn0002922 |  |
 | Human | [ENSG00000111049](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111049) | [4617](https://www.ncbi.nlm.nih.gov/gene/4617) | [MIM:159990](https://omim.org/entry/159990) |  |
 | Mouse | [ENSMUSG00000000435](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000435) | [17877](https://www.ncbi.nlm.nih.gov/gene/17877) | [MGI:97252](http://www.informatics.jax.org/marker/MGI:97252) | All phenotypic alleles (15):Targeted, knock-out(4) Targeted, other(11) |
-| Xenopus |  | [394529](https://www.ncbi.nlm.nih.gov/gene/394529), [397960](https://www.ncbi.nlm.nih.gov/gene/397960) | [493549](http://www.xenbase.org/gene/showgene.do?method=display&geneId=493549) |  |
-| Zebrafish | [ENSDARG00000007277](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007277) | [58097](https://www.ncbi.nlm.nih.gov/gene/58097) | [ZFIN:ZDB-GENE-000616-6](https://zfin.org/ZDB-GENE-000616-6) | ZDB-GENE-000616-6 |
+| Xenopus | [ENSXETG00000014520](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014520) | [394529](https://www.ncbi.nlm.nih.gov/gene/394529) |  |  |
+| Zebrafish | [ENSDARG00000007277](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007277) | [58097](https://www.ncbi.nlm.nih.gov/gene/58097) | [ZFIN:ZDB-GENE-000616-6](https://zfin.org/ZDB-GENE-000616-6) | cell differentiation, chordate pharyngeal muscle development, extraocular skeletal muscle development, mesoderm development, muscle organ development |
 

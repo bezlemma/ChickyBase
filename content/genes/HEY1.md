@@ -1,8 +1,6 @@
 ---
 cgnc_id: '11739'
 external_ids:
-  '13': stage 13stage 13
-  '25': stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=NOTCH+proneural+hypothalamus+neural+Ware+scaffold+building+blocks
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (XM_015282862).
@@ -14,7 +12,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425926
   X-XIV: stage XII
 forward_primer: AACACAATCAGCAAACCTTGGC
-gene_id: '462595'
+gene_id: '428365'
 gene_type: protein-coding
 images:
 - caption: HEY1 expression
@@ -240,13 +238,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HEY1.Travers.2023-Fig7-2-B.jpg
 name: hes related family bHLH transcription factor with YRPW motif 1
-ncbi_id: '462595'
+ncbi_id: '428365'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164683
   entrez: '23462'
   mod: MIM:602953
@@ -257,24 +250,25 @@ orthologs:
   mod: MGI:1341800
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 493293,399195
-  mod: '486693'
+- ensembl: ENSXETG00000007864
+  entrez: '493293'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000070538
   entrez: '58008'
   mod: ZFIN:ZDB-GENE-000607-70
-  phenotypes: ZDB-GENE-000607-70
+  phenotypes: Notch signaling pathway, anterior/posterior pattern specification, cell
+    fate commitment, cell fate specification, circulatory system development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTGGGTGGAAGAAATAACGCAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462595
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428365
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462595
+  url: https://www.ncbi.nlm.nih.gov/gene/428365
 species: Gallus gallus
 symbol: HEY1
 template_length: '737'
@@ -301,9 +295,8 @@ title: HEY1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164683](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164683) | [23462](https://www.ncbi.nlm.nih.gov/gene/23462) | [MIM:602953](https://omim.org/entry/602953) |  |
 | Mouse | [ENSMUSG00000040289](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040289) | [15213](https://www.ncbi.nlm.nih.gov/gene/15213) | [MGI:1341800](http://www.informatics.jax.org/marker/MGI:1341800) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [493293](https://www.ncbi.nlm.nih.gov/gene/493293), [399195](https://www.ncbi.nlm.nih.gov/gene/399195) | [486693](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486693) |  |
-| Zebrafish | [ENSDARG00000070538](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070538) | [58008](https://www.ncbi.nlm.nih.gov/gene/58008) | [ZFIN:ZDB-GENE-000607-70](https://zfin.org/ZDB-GENE-000607-70) | ZDB-GENE-000607-70 |
+| Xenopus | [ENSXETG00000007864](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007864) | [493293](https://www.ncbi.nlm.nih.gov/gene/493293) |  |  |
+| Zebrafish | [ENSDARG00000070538](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070538) | [58008](https://www.ncbi.nlm.nih.gov/gene/58008) | [ZFIN:ZDB-GENE-000607-70](https://zfin.org/ZDB-GENE-000607-70) | Notch signaling pathway, anterior/posterior pattern specification, cell fate commitment, cell fate specification, circulatory system development |
 

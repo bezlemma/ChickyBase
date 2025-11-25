@@ -6,7 +6,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424314
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422160
-gene_id: '450680'
+gene_id: '424314'
 gene_type: protein-coding
 images:
 - caption: NMI expression
@@ -24,13 +24,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/4xb4.114.3.22.jpg
 name: N-myc and STAT interactor
-ncbi_id: '450680'
+ncbi_id: '424314'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000123609
   entrez: '9111'
   mod: MIM:603525
@@ -41,23 +36,23 @@ orthologs:
   mod: MGI:1928368
   phenotypes: All phenotypic alleles (5):Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 613094,495484
-  mod: '492654'
+- ensembl: ENSXETG00000004525
+  entrez: '613094'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000060456
-  entrez: 792676,335331
+- ensembl: ''
+  entrez: '792676'
   mod: ZFIN:ZDB-GENE-030131-7271
-  phenotypes: ZDB-GENE-030131-7271
+  phenotypes: mitochondrial translation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450680
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424314
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450680
+  url: https://www.ncbi.nlm.nih.gov/gene/424314
 species: Gallus gallus
 symbol: NMI
 title: NMI
@@ -80,9 +75,8 @@ title: NMI
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000123609](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000123609) | [9111](https://www.ncbi.nlm.nih.gov/gene/9111) | [MIM:603525](https://omim.org/entry/603525) |  |
 | Mouse | [ENSMUSG00000026946](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026946) | [64685](https://www.ncbi.nlm.nih.gov/gene/64685) | [MGI:1928368](http://www.informatics.jax.org/marker/MGI:1928368) | All phenotypic alleles (5):Targeted, other(5) |
-| Xenopus |  | [613094](https://www.ncbi.nlm.nih.gov/gene/613094), [495484](https://www.ncbi.nlm.nih.gov/gene/495484) | [492654](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492654) |  |
-| Zebrafish | [ENSDARG00000060456](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060456) | [792676](https://www.ncbi.nlm.nih.gov/gene/792676), [335331](https://www.ncbi.nlm.nih.gov/gene/335331) | [ZFIN:ZDB-GENE-030131-7271](https://zfin.org/ZDB-GENE-030131-7271) | ZDB-GENE-030131-7271 |
+| Xenopus | [ENSXETG00000004525](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004525) | [613094](https://www.ncbi.nlm.nih.gov/gene/613094) |  |  |
+| Zebrafish |  | [792676](https://www.ncbi.nlm.nih.gov/gene/792676) | [ZFIN:ZDB-GENE-030131-7271](https://zfin.org/ZDB-GENE-030131-7271) | mitochondrial translation |
 

@@ -4,7 +4,6 @@ aliases:
 - MTG8/ETOb
 cgnc_id: '11885'
 external_ids:
-  '19': stage 19stage 19stage 19stage 19stage 19
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=koyano-nakagawa+expression+function+mtg/eto+neurogenesis
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (NM_001303464
@@ -17,7 +16,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204744
   X-XIV: stage XII
 forward_primer: 5'-ACTAACTTCCCACTGCGACC-3'
-gene_id: '449647'
+gene_id: '395503'
 gene_type: protein-coding
 images:
 - caption: RUNX1T1 expression
@@ -230,13 +229,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RUNX1T1.Trevers.2023-Fig7-3-L.jpg
 name: RUNX1 translocation partner 1
-ncbi_id: '449647'
+ncbi_id: '395503'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000079102
   entrez: '862'
   mod: MIM:133435
@@ -247,24 +241,25 @@ orthologs:
   mod: MGI:104793
   phenotypes: All phenotypic alleles (4):Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100491944,733153
-  mod: '481237'
+- ensembl: ENSXETG00000014592
+  entrez: '100491944'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000003680
   entrez: '767809'
   mod: ZFIN:ZDB-GENE-060929-164
-  phenotypes: ZDB-GENE-060929-164
+  phenotypes: DNA-templated transcription, negative regulation of DNA-templated transcription,
+    regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGCCTTGTGCTGGCAAAACGAG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449647
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395503
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449647
+  url: https://www.ncbi.nlm.nih.gov/gene/395503
 species: Gallus gallus
 symbol: RUNX1T1
 template_length: '1111'
@@ -291,9 +286,8 @@ title: RUNX1T1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000079102](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000079102) | [862](https://www.ncbi.nlm.nih.gov/gene/862) | [MIM:133435](https://omim.org/entry/133435) |  |
 | Mouse | [ENSMUSG00000006586](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000006586) | [12395](https://www.ncbi.nlm.nih.gov/gene/12395) | [MGI:104793](http://www.informatics.jax.org/marker/MGI:104793) | All phenotypic alleles (4):Targeted, other(4) |
-| Xenopus |  | [100491944](https://www.ncbi.nlm.nih.gov/gene/100491944), [733153](https://www.ncbi.nlm.nih.gov/gene/733153) | [481237](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481237) |  |
-| Zebrafish | [ENSDARG00000003680](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003680) | [767809](https://www.ncbi.nlm.nih.gov/gene/767809) | [ZFIN:ZDB-GENE-060929-164](https://zfin.org/ZDB-GENE-060929-164) | ZDB-GENE-060929-164 |
+| Xenopus | [ENSXETG00000014592](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014592) | [100491944](https://www.ncbi.nlm.nih.gov/gene/100491944) |  |  |
+| Zebrafish | [ENSDARG00000003680](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003680) | [767809](https://www.ncbi.nlm.nih.gov/gene/767809) | [ZFIN:ZDB-GENE-060929-164](https://zfin.org/ZDB-GENE-060929-164) | DNA-templated transcription, negative regulation of DNA-templated transcription, regulation of DNA-templated transcription |
 

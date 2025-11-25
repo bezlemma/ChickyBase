@@ -10,7 +10,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/395595
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=Z49262
-gene_id: '449721'
+gene_id: '395595'
 gene_type: protein-coding
 images:
 - caption: PHOX2A expression
@@ -316,7 +316,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_6_ALLIMAGES-3.jpg
 name: paired-like homeobox 2a
-ncbi_id: '449721'
+ncbi_id: '395595'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -346,7 +346,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449721
+  url: https://www.ncbi.nlm.nih.gov/gene/395595
 species: Gallus gallus
 symbol: PHOX2A
 title: PHOX2A

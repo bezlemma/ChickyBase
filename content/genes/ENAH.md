@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374180
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204300
-gene_id: '455083'
+gene_id: '374180'
 gene_type: protein-coding
 images:
 - caption: ENAH expression
@@ -41,37 +41,18 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.MeNA.B.ST11.Kee.jpg
 name: enabled homolog (Drosophila)
-ncbi_id: '455083'
+ncbi_id: '374180'
 orthologs:
-- ensembl: ''
-  entrez: '37201'
-  mod: FBgn0000578
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000022995
-  entrez: '13800'
-  mod: MGI:108360
-  phenotypes: All phenotypic alleles (3):Targeted, other(3)
-  species: Mouse
-- ensembl: ''
-  entrez: 100144977,444086
-  mod: '993746'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: '563805'
-  mod: ZFIN:ZDB-GENE-010323-11
-  phenotypes: ZDB-GENE-010323-11
+- ensembl: ENSDARG00000099690
+  entrez: '555805'
+  mod: ZFIN:ZDB-GENE-070424-68
+  phenotypes: actin polymerization or depolymerization, axon guidance, neural tube
+    closure, positive regulation of actin filament polymerization
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455083
+  url: https://www.ncbi.nlm.nih.gov/gene/374180
 species: Gallus gallus
 symbol: ENAH
 title: ENAH
@@ -99,9 +80,5 @@ title: ENAH
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [37201](https://www.ncbi.nlm.nih.gov/gene/37201) | FBgn0000578 |  |
-| Human |  |  |  |  |
-| Mouse | [ENSMUSG00000022995](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022995) | [13800](https://www.ncbi.nlm.nih.gov/gene/13800) | [MGI:108360](http://www.informatics.jax.org/marker/MGI:108360) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [100144977](https://www.ncbi.nlm.nih.gov/gene/100144977), [444086](https://www.ncbi.nlm.nih.gov/gene/444086) | [993746](http://www.xenbase.org/gene/showgene.do?method=display&geneId=993746) |  |
-| Zebrafish |  | [563805](https://www.ncbi.nlm.nih.gov/gene/563805) | [ZFIN:ZDB-GENE-010323-11](https://zfin.org/ZDB-GENE-010323-11) | ZDB-GENE-010323-11 |
+| Zebrafish | [ENSDARG00000099690](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099690) | [555805](https://www.ncbi.nlm.nih.gov/gene/555805) | [ZFIN:ZDB-GENE-070424-68](https://zfin.org/ZDB-GENE-070424-68) | actin polymerization or depolymerization, axon guidance, neural tube closure, positive regulation of actin filament polymerization |
 

@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424703
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422532
-gene_id: '451054'
+gene_id: '424703'
 gene_type: protein-coding
 images:
 - caption: SLC35D1 expression
@@ -32,37 +32,32 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLC35D1.Roy.2013.F7.slc35d1.png
 name: solute carrier family 35 member D1
-ncbi_id: '451054'
+ncbi_id: '424703'
 orthologs:
-- ensembl: ''
-  entrez: '39943'
-  mod: FBgn0042641
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000116704
   entrez: '23169'
   mod: MIM:610804
   phenotypes: MIM:610804
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000028521
   entrez: '242585'
   mod: MGI:2140361
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100497699,494867
-  mod: '992382'
+- ensembl: ENSXETG00000043386
+  entrez: '100497699'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000027986
-  entrez: 445400,393447
-  mod: ZFIN:ZDB-GENE-040826-5,ZFIN:ZDB-GENE-040426-1213
-  phenotypes: ZDB-GENE-040826-5,ZDB-GENE-040426-1213
+- ensembl: ENSDARG00000011973
+  entrez: '445400'
+  mod: ZFIN:ZDB-GENE-040826-5
+  phenotypes: nucleotide-sugar transmembrane transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451054
+  url: https://www.ncbi.nlm.nih.gov/gene/424703
 species: Gallus gallus
 symbol: SLC35D1
 title: SLC35D1
@@ -90,9 +85,8 @@ title: SLC35D1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39943](https://www.ncbi.nlm.nih.gov/gene/39943) | FBgn0042641 |  |
 | Human | [ENSG00000116704](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000116704) | [23169](https://www.ncbi.nlm.nih.gov/gene/23169) | [MIM:610804](https://omim.org/entry/610804) | MIM:610804 |
-| Mouse |  | [242585](https://www.ncbi.nlm.nih.gov/gene/242585) | [MGI:2140361](http://www.informatics.jax.org/marker/MGI:2140361) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100497699](https://www.ncbi.nlm.nih.gov/gene/100497699), [494867](https://www.ncbi.nlm.nih.gov/gene/494867) | [992382](http://www.xenbase.org/gene/showgene.do?method=display&geneId=992382) |  |
-| Zebrafish | [ENSDARG00000027986](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027986) | [445400](https://www.ncbi.nlm.nih.gov/gene/445400), [393447](https://www.ncbi.nlm.nih.gov/gene/393447) | [ZFIN:ZDB-GENE-040826-5](https://zfin.org/ZDB-GENE-040826-5), [ZFIN:ZDB-GENE-040426-1213](https://zfin.org/ZDB-GENE-040426-1213) | ZDB-GENE-040826-5,ZDB-GENE-040426-1213 |
+| Mouse | [ENSMUSG00000028521](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028521) | [242585](https://www.ncbi.nlm.nih.gov/gene/242585) | [MGI:2140361](http://www.informatics.jax.org/marker/MGI:2140361) | All phenotypic alleles (1):Targeted, knock-out(1) |
+| Xenopus | [ENSXETG00000043386](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000043386) | [100497699](https://www.ncbi.nlm.nih.gov/gene/100497699) |  |  |
+| Zebrafish | [ENSDARG00000011973](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011973) | [445400](https://www.ncbi.nlm.nih.gov/gene/445400) | [ZFIN:ZDB-GENE-040826-5](https://zfin.org/ZDB-GENE-040826-5) | nucleotide-sugar transmembrane transport |
 

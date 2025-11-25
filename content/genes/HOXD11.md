@@ -25,7 +25,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204620
 forward_primer: TGTCGCAATCGTCTTCCTGTC
-gene_id: '448855'
+gene_id: '395328'
 gene_type: protein-coding
 images:
 - caption: HOXD11 expression
@@ -532,41 +532,37 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxd11.Yakushiji-Kaminatsui.2018.Fig6.jpg
 name: homeobox D11
-ncbi_id: '448855'
+ncbi_id: '395328'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000128713
+  entrez: '3237'
+  mod: MIM:142986
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000042499
+  entrez: '15431'
+  mod: MGI:96203
   phenotypes: ''
   species: Mouse
 - ensembl: ''
-  entrez: ''
+  entrez: '100497945'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000059267
+  entrez: '30405'
+  mod: ZFIN:ZDB-GENE-990415-117
+  phenotypes: embryonic skeletal joint morphogenesis, regulation of DNA-templated
+    transcription, regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCAGTGAGGTTGAGCATTCTGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448855
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395328
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448855
+  url: https://www.ncbi.nlm.nih.gov/gene/395328
 species: Gallus gallus
 symbol: HOXD11
 template_length: '644'
@@ -596,9 +592,8 @@ title: HOXD11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000128713](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000128713) | [3237](https://www.ncbi.nlm.nih.gov/gene/3237) | [MIM:142986](https://omim.org/entry/142986) |  |
+| Mouse | [ENSMUSG00000042499](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042499) | [15431](https://www.ncbi.nlm.nih.gov/gene/15431) | [MGI:96203](http://www.informatics.jax.org/marker/MGI:96203) |  |
+| Xenopus |  | [100497945](https://www.ncbi.nlm.nih.gov/gene/100497945) |  |  |
+| Zebrafish | [ENSDARG00000059267](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059267) | [30405](https://www.ncbi.nlm.nih.gov/gene/30405) | [ZFIN:ZDB-GENE-990415-117](https://zfin.org/ZDB-GENE-990415-117) | embryonic skeletal joint morphogenesis, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

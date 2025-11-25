@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=AADN03006296
 forward_primer: 5'- TGTGGACAGCGGACTTTTTACG -3'
-gene_id: '448815'
+gene_id: '771265'
 gene_type: pseudo
 images:
 - caption: CBLN1 expression
@@ -167,41 +167,36 @@ images:
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SER1.FIG8D.STEVENS.2003.jpg
 name: cerebellin 1 precursor
-ncbi_id: '448815'
+ncbi_id: '771265'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000102924
+  entrez: '869'
+  mod: MIM:600432
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000031654
+  entrez: '12404'
+  mod: MGI:88281
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 779761,495934
-  mod: '978377'
+- ensembl: ENSXETG00000012950
+  entrez: '779761'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000057296
-  entrez: '436793'
-  mod: ZFIN:ZDB-GENE-040718-226
-  phenotypes: ZDB-GENE-040718-226
+- ensembl: ENSDARG00000109237
+  entrez: '100007940'
+  mod: ZFIN:ZDB-GENE-070912-11
+  phenotypes: maintenance of synapse structure
   species: Zebrafish
 reverse_primer: 5'- AATTAACCCTCACTAAAGGTACTTCCTGGCGTTTAGTTGGG -3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448815
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771265
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448815
+  url: https://www.ncbi.nlm.nih.gov/gene/771265
 species: Gallus gallus
 symbol: CBLN1
 template_length: '590'
@@ -227,9 +222,8 @@ title: CBLN1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [779761](https://www.ncbi.nlm.nih.gov/gene/779761), [495934](https://www.ncbi.nlm.nih.gov/gene/495934) | [978377](http://www.xenbase.org/gene/showgene.do?method=display&geneId=978377) |  |
-| Zebrafish | [ENSDARG00000057296](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057296) | [436793](https://www.ncbi.nlm.nih.gov/gene/436793) | [ZFIN:ZDB-GENE-040718-226](https://zfin.org/ZDB-GENE-040718-226) | ZDB-GENE-040718-226 |
+| Human | [ENSG00000102924](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000102924) | [869](https://www.ncbi.nlm.nih.gov/gene/869) | [MIM:600432](https://omim.org/entry/600432) |  |
+| Mouse | [ENSMUSG00000031654](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031654) | [12404](https://www.ncbi.nlm.nih.gov/gene/12404) | [MGI:88281](http://www.informatics.jax.org/marker/MGI:88281) |  |
+| Xenopus | [ENSXETG00000012950](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012950) | [779761](https://www.ncbi.nlm.nih.gov/gene/779761) |  |  |
+| Zebrafish | [ENSDARG00000109237](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000109237) | [100007940](https://www.ncbi.nlm.nih.gov/gene/100007940) | [ZFIN:ZDB-GENE-070912-11](https://zfin.org/ZDB-GENE-070912-11) | maintenance of synapse structure |
 

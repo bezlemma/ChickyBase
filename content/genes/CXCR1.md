@@ -8,13 +8,12 @@ aliases:
 - putative C-X-C chemokine receptor type 1, CXCR1
 cgnc_id: '15413'
 external_ids:
-  '25': stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/430652
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:430652
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031591
 forward_primer: AGTGGGTTTTTGGCACCGTC
-gene_id: '463299'
+gene_id: '430652'
 gene_type: protein-coding
 images:
 - caption: CXCR1 expression
@@ -75,41 +74,26 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R431.CXCR2.S25D.001.jpg
 name: C-X-C motif chemokine receptor 1
-ncbi_id: '463299'
+ncbi_id: '430652'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000180871
-  entrez: '3579'
-  mod: MIM:146928
+- ensembl: ENSG00000163464
+  entrez: '3577'
+  mod: MIM:146929
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000026180
-  entrez: '12765'
-  mod: MGI:105303
+- ensembl: ENSMUSG00000048480
+  entrez: '227288'
+  mod: MGI:2448715
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000054975
-  entrez: '796724'
-  mod: ZFIN:ZDB-GENE-100414-1
-  phenotypes: ZDB-GENE-100414-1
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGGCAGCATTCAGCATCTTTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463299
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=430652
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463299
+  url: https://www.ncbi.nlm.nih.gov/gene/430652
 species: Gallus gallus
 symbol: CXCR1
 template_length: '954'
@@ -131,9 +115,6 @@ title: CXCR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000180871](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000180871) | [3579](https://www.ncbi.nlm.nih.gov/gene/3579) | [MIM:146928](https://omim.org/entry/146928) |  |
-| Mouse | [ENSMUSG00000026180](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026180) | [12765](https://www.ncbi.nlm.nih.gov/gene/12765) | [MGI:105303](http://www.informatics.jax.org/marker/MGI:105303) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000054975](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054975) | [796724](https://www.ncbi.nlm.nih.gov/gene/796724) | [ZFIN:ZDB-GENE-100414-1](https://zfin.org/ZDB-GENE-100414-1) | ZDB-GENE-100414-1 |
+| Human | [ENSG00000163464](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163464) | [3577](https://www.ncbi.nlm.nih.gov/gene/3577) | [MIM:146929](https://omim.org/entry/146929) |  |
+| Mouse | [ENSMUSG00000048480](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048480) | [227288](https://www.ncbi.nlm.nih.gov/gene/227288) | [MGI:2448715](http://www.informatics.jax.org/marker/MGI:2448715) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
 

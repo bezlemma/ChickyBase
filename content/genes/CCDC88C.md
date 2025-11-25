@@ -96,7 +96,7 @@ orthologs:
 - ensembl: ENSDARG00000053713
   entrez: '553231'
   mod: ZFIN:ZDB-GENE-100419-3
-  phenotypes: ZDB-GENE-100419-3
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAACAGTGGAGCTAGTTTCAG-3’
 sources:
@@ -132,5 +132,5 @@ title: CCDC88C
 | Human | [ENSG00000015133](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000015133) | [440193](https://www.ncbi.nlm.nih.gov/gene/440193) | [MIM:611204](https://omim.org/entry/611204) |  |
 | Mouse | [ENSMUSG00000021182](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021182) | [68339](https://www.ncbi.nlm.nih.gov/gene/68339) | [MGI:1915589](http://www.informatics.jax.org/marker/MGI:1915589) |  |
 | Xenopus |  | [100485260](https://www.ncbi.nlm.nih.gov/gene/100485260) | [1033685](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1033685) |  |
-| Zebrafish | [ENSDARG00000053713](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053713) | [553231](https://www.ncbi.nlm.nih.gov/gene/553231) | [ZFIN:ZDB-GENE-100419-3](https://zfin.org/ZDB-GENE-100419-3) | ZDB-GENE-100419-3 |
+| Zebrafish | [ENSDARG00000053713](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053713) | [553231](https://www.ncbi.nlm.nih.gov/gene/553231) | [ZFIN:ZDB-GENE-100419-3](https://zfin.org/ZDB-GENE-100419-3) |  |
 

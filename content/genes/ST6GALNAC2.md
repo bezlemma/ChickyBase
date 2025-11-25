@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396159
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008373
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205233
-gene_id: '459079'
+gene_id: '396159'
 gene_type: protein-coding
 images:
 - caption: ST6GALNAC2 expression
@@ -53,40 +53,35 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/X37_09_mag.jpg
 name: ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 2
-ncbi_id: '459079'
+ncbi_id: '396159'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000070731
   entrez: '10610'
   mod: MIM:610137
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000057286
   entrez: '20446'
   mod: MGI:107553
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000019506
   entrez: '395053'
-  mod: '961126'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
-  entrez: ''
+  entrez: '100001225'
   mod: ZFIN:ZDB-GENE-120104-5
-  phenotypes: ZDB-GENE-120104-5
+  phenotypes: protein O-linked glycosylation, protein glycosylation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459079
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396159
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459079
+  url: https://www.ncbi.nlm.nih.gov/gene/396159
 species: Gallus gallus
 symbol: ST6GALNAC2
 title: ST6GALNAC2
@@ -110,9 +105,8 @@ title: ST6GALNAC2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000070731](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000070731) | [10610](https://www.ncbi.nlm.nih.gov/gene/10610) | [MIM:610137](https://omim.org/entry/610137) |  |
-| Mouse |  | [20446](https://www.ncbi.nlm.nih.gov/gene/20446) | [MGI:107553](http://www.informatics.jax.org/marker/MGI:107553) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [395053](https://www.ncbi.nlm.nih.gov/gene/395053) | [961126](http://www.xenbase.org/gene/showgene.do?method=display&geneId=961126) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-120104-5](https://zfin.org/ZDB-GENE-120104-5) | ZDB-GENE-120104-5 |
+| Mouse | [ENSMUSG00000057286](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000057286) | [20446](https://www.ncbi.nlm.nih.gov/gene/20446) | [MGI:107553](http://www.informatics.jax.org/marker/MGI:107553) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
+| Xenopus | [ENSXETG00000019506](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019506) | [395053](https://www.ncbi.nlm.nih.gov/gene/395053) |  |  |
+| Zebrafish |  | [100001225](https://www.ncbi.nlm.nih.gov/gene/100001225) | [ZFIN:ZDB-GENE-120104-5](https://zfin.org/ZDB-GENE-120104-5) | protein O-linked glycosylation, protein glycosylation |
 

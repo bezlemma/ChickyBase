@@ -7,7 +7,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:425378
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423146
-gene_id: '459201'
+gene_id: '425378'
 gene_type: protein-coding
 images:
 - caption: DEDD expression
@@ -18,13 +18,8 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54we7.122.21.jpg
 name: death effector domain containing
-ncbi_id: '459201'
+ncbi_id: '425378'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000158796
   entrez: '9191'
   mod: MIM:606841
@@ -35,23 +30,25 @@ orthologs:
   mod: MGI:1333874
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100380122,495069
-  mod: '5846210'
+- ensembl: ENSXETG00000003815
+  entrez: '100380122'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000029783
   entrez: '436912'
   mod: ZFIN:ZDB-GENE-040718-386
-  phenotypes: ZDB-GENE-040718-386
+  phenotypes: apoptotic process, developmental process involved in reproduction, extrinsic
+    apoptotic signaling pathway via death domain receptors, regulation of apoptotic
+    process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459201
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=425378
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459201
+  url: https://www.ncbi.nlm.nih.gov/gene/425378
 species: Gallus gallus
 symbol: DEDD
 title: DEDD
@@ -72,9 +69,8 @@ title: DEDD
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000158796](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000158796) | [9191](https://www.ncbi.nlm.nih.gov/gene/9191) | [MIM:606841](https://omim.org/entry/606841) |  |
 | Mouse | [ENSMUSG00000013973](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000013973) | [21945](https://www.ncbi.nlm.nih.gov/gene/21945) | [MGI:1333874](http://www.informatics.jax.org/marker/MGI:1333874) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100380122](https://www.ncbi.nlm.nih.gov/gene/100380122), [495069](https://www.ncbi.nlm.nih.gov/gene/495069) | [5846210](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5846210) |  |
-| Zebrafish |  | [436912](https://www.ncbi.nlm.nih.gov/gene/436912) | [ZFIN:ZDB-GENE-040718-386](https://zfin.org/ZDB-GENE-040718-386) | ZDB-GENE-040718-386 |
+| Xenopus | [ENSXETG00000003815](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003815) | [100380122](https://www.ncbi.nlm.nih.gov/gene/100380122) |  |  |
+| Zebrafish | [ENSDARG00000029783](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029783) | [436912](https://www.ncbi.nlm.nih.gov/gene/436912) | [ZFIN:ZDB-GENE-040718-386](https://zfin.org/ZDB-GENE-040718-386) | apoptotic process, developmental process involved in reproduction, extrinsic apoptotic signaling pathway via death domain receptors, regulation of apoptotic process |
 

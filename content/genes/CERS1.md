@@ -9,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277765
 forward_primer: CCTGCTCTTCTTCACTGACTACCC
-gene_id: '458588'
+gene_id: '420118'
 gene_type: protein-coding
 images:
 - caption: CERS1 expression
@@ -129,13 +129,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R604.CERS1.S27AAA.001.jpg
 name: ceramide synthase 1
-ncbi_id: '458588'
+ncbi_id: '420118'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000223802
   entrez: '10715'
   mod: MIM:606919
@@ -146,24 +141,24 @@ orthologs:
   mod: MGI:2136690
   phenotypes: All phenotypic alleles (4):Spontaneous(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010133
   entrez: '100485129'
-  mod: '994750'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: 100333742,567933
   mod: ''
   phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000063412
+  entrez: '568169'
+  mod: ZFIN:ZDB-GENE-050208-406
+  phenotypes: ceramide biosynthetic process, sphingolipid metabolic process
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCTGCTGTGGTTTTCTTGCTGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458588
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420118
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458588
+  url: https://www.ncbi.nlm.nih.gov/gene/420118
 species: Gallus gallus
 symbol: CERS1
 template_length: '648'
@@ -185,9 +180,8 @@ title: CERS1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000223802](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000223802) | [10715](https://www.ncbi.nlm.nih.gov/gene/10715) | [MIM:606919](https://omim.org/entry/606919) |  |
 | Mouse | [ENSMUSG00000087408](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000087408) | [93898](https://www.ncbi.nlm.nih.gov/gene/93898) | [MGI:2136690](http://www.informatics.jax.org/marker/MGI:2136690) | All phenotypic alleles (4):Spontaneous(2) Targeted, other(2) |
-| Xenopus |  | [100485129](https://www.ncbi.nlm.nih.gov/gene/100485129) | [994750](http://www.xenbase.org/gene/showgene.do?method=display&geneId=994750) |  |
-| Zebrafish |  | [100333742](https://www.ncbi.nlm.nih.gov/gene/100333742), [567933](https://www.ncbi.nlm.nih.gov/gene/567933) |  |  |
+| Xenopus | [ENSXETG00000010133](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010133) | [100485129](https://www.ncbi.nlm.nih.gov/gene/100485129) |  |  |
+| Zebrafish | [ENSDARG00000063412](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063412) | [568169](https://www.ncbi.nlm.nih.gov/gene/568169) | [ZFIN:ZDB-GENE-050208-406](https://zfin.org/ZDB-GENE-050208-406) | ceramide biosynthetic process, sphingolipid metabolic process |
 

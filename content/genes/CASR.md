@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418266
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416491
 forward_primer: 5'-CATCCAGTCGTCTCTTGAGCAAC-3'
-gene_id: '454503'
+gene_id: '418266'
 gene_type: protein-coding
 images:
 - caption: CASR expression
@@ -183,13 +183,8 @@ images:
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CASR.Okabe.2004.Fig.1.png
 name: calcium sensing receptor
-ncbi_id: '454503'
+ncbi_id: '418266'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000036828
   entrez: '846'
   mod: MIM:601199
@@ -201,24 +196,26 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Chemically induced(1) Targeted, knock-out(2)
     Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: '446258'
-  mod: '6065246'
+- ensembl: ENSXETG00000011400
+  entrez: '100496505'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000013649
-  entrez: 560607,100499250
-  mod: ZFIN:ZDB-GENE-050119-8,ZFIN:ZDB-GENE-050119-8
-  phenotypes: ZDB-GENE-050119-8,ZDB-GENE-050119-8
+  entrez: '560607'
+  mod: ZFIN:ZDB-GENE-050119-8
+  phenotypes: G protein-coupled receptor signaling pathway, calcium ion homeostasis,
+    detection of calcium ion, intracellular calcium ion homeostasis, regulation of
+    calcium ion transport
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGCTCTCCCCTTTCTTGGCATACAC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454503
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418266
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454503
+  url: https://www.ncbi.nlm.nih.gov/gene/418266
 species: Gallus gallus
 symbol: CASR
 template_length: '1051'
@@ -245,9 +242,8 @@ title: CASR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000036828](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000036828) | [846](https://www.ncbi.nlm.nih.gov/gene/846) | [MIM:601199](https://omim.org/entry/601199) | MIM:612899 |
 | Mouse | [ENSMUSG00000051980](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000051980) | [12374](https://www.ncbi.nlm.nih.gov/gene/12374) | [MGI:1351351](http://www.informatics.jax.org/marker/MGI:1351351) | All phenotypic alleles (4):Chemically induced(1) Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [446258](https://www.ncbi.nlm.nih.gov/gene/446258) | [6065246](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6065246) |  |
-| Zebrafish | [ENSDARG00000013649](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013649) | [560607](https://www.ncbi.nlm.nih.gov/gene/560607), [100499250](https://www.ncbi.nlm.nih.gov/gene/100499250) | [ZFIN:ZDB-GENE-050119-8](https://zfin.org/ZDB-GENE-050119-8), [ZFIN:ZDB-GENE-050119-8](https://zfin.org/ZDB-GENE-050119-8) | ZDB-GENE-050119-8,ZDB-GENE-050119-8 |
+| Xenopus | [ENSXETG00000011400](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011400) | [100496505](https://www.ncbi.nlm.nih.gov/gene/100496505) |  |  |
+| Zebrafish | [ENSDARG00000013649](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013649) | [560607](https://www.ncbi.nlm.nih.gov/gene/560607) | [ZFIN:ZDB-GENE-050119-8](https://zfin.org/ZDB-GENE-050119-8) | G protein-coupled receptor signaling pathway, calcium ion homeostasis, detection of calcium ion, intracellular calcium ion homeostasis, regulation of calcium ion transport |
 

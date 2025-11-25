@@ -7,7 +7,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:768444
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001177322
 forward_primer: 5'-CGTAGAAGCCAACAATCCTCGTC-3'
-gene_id: '458044'
+gene_id: '768444'
 gene_type: protein-coding
 images:
 - caption: CACNA2D1 expression
@@ -69,13 +69,8 @@ images:
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R563.CACNA2D1.S7A.001.jpg
 name: calcium voltage-gated channel auxiliary subunit alpha2delta 1
-ncbi_id: '458044'
+ncbi_id: '768444'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000153956
   entrez: '781'
   mod: MIM:114204
@@ -86,24 +81,25 @@ orthologs:
   mod: MGI:88295
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000007868
   entrez: '100036724'
-  mod: '964523'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000014804
   entrez: '561434'
   mod: ZFIN:ZDB-GENE-041210-215
-  phenotypes: ZDB-GENE-041210-215
+  phenotypes: calcium ion transmembrane transport, calcium ion transport, monoatomic
+    ion transmembrane transport, monoatomic ion transport
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGCCTCACCACCATCCGTAAACAAC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458044
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=768444
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458044
+  url: https://www.ncbi.nlm.nih.gov/gene/768444
 species: Gallus gallus
 symbol: CACNA2D1
 template_length: '896'
@@ -126,9 +122,8 @@ title: CACNA2D1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000153956](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000153956) | [781](https://www.ncbi.nlm.nih.gov/gene/781) | [MIM:114204](https://omim.org/entry/114204) |  |
 | Mouse | [ENSMUSG00000040118](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040118) | [12293](https://www.ncbi.nlm.nih.gov/gene/12293) | [MGI:88295](http://www.informatics.jax.org/marker/MGI:88295) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100036724](https://www.ncbi.nlm.nih.gov/gene/100036724) | [964523](http://www.xenbase.org/gene/showgene.do?method=display&geneId=964523) |  |
-| Zebrafish | [ENSDARG00000014804](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014804) | [561434](https://www.ncbi.nlm.nih.gov/gene/561434) | [ZFIN:ZDB-GENE-041210-215](https://zfin.org/ZDB-GENE-041210-215) | ZDB-GENE-041210-215 |
+| Xenopus | [ENSXETG00000007868](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007868) | [100036724](https://www.ncbi.nlm.nih.gov/gene/100036724) |  |  |
+| Zebrafish | [ENSDARG00000014804](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014804) | [561434](https://www.ncbi.nlm.nih.gov/gene/561434) | [ZFIN:ZDB-GENE-041210-215](https://zfin.org/ZDB-GENE-041210-215) | calcium ion transmembrane transport, calcium ion transport, monoatomic ion transmembrane transport, monoatomic ion transport |
 

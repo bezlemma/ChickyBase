@@ -3,14 +3,13 @@ aliases:
 - calpain-6, calpain-6
 cgnc_id: '6059'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/422341
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422341
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420313
 forward_primer: GCTAAACCAAATCAGCCCGTC
-gene_id: '450296'
+gene_id: '422341'
 gene_type: protein-coding
 images:
 - caption: CAPN6 expression
@@ -153,13 +152,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R564.CAPN6.S25V.001.jpg
 name: calpain 6
-ncbi_id: '450296'
+ncbi_id: '422341'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000077274
   entrez: '827'
   mod: MIM:300146
@@ -170,24 +164,14 @@ orthologs:
   mod: MGI:1100850
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: '100494450'
-  mod: '992086'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCAGGTATCCAACCAGTCAGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450296
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422341
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450296
+  url: https://www.ncbi.nlm.nih.gov/gene/422341
 species: Gallus gallus
 symbol: CAPN6
 template_length: '929'
@@ -210,9 +194,6 @@ title: CAPN6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000077274](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000077274) | [827](https://www.ncbi.nlm.nih.gov/gene/827) | [MIM:300146](https://omim.org/entry/300146) |  |
 | Mouse | [ENSMUSG00000067276](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000067276) | [12338](https://www.ncbi.nlm.nih.gov/gene/12338) | [MGI:1100850](http://www.informatics.jax.org/marker/MGI:1100850) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100494450](https://www.ncbi.nlm.nih.gov/gene/100494450) | [992086](http://www.xenbase.org/gene/showgene.do?method=display&geneId=992086) |  |
-| Zebrafish |  |  |  |  |
 

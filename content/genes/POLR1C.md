@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421452
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277630
-gene_id: '457721'
+gene_id: '421452'
 gene_type: protein-coding
 images:
 - caption: POLR1C expression
@@ -50,13 +50,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54yd4.125.22head.jpg
 name: RNA polymerase I and III subunit C
-ncbi_id: '457721'
+ncbi_id: '421452'
 orthologs:
-- ensembl: ''
-  entrez: '33712'
-  mod: FBgn0031657
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000171453
   entrez: '9533'
   mod: MIM:610060
@@ -67,23 +62,24 @@ orthologs:
   mod: MGI:103288
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100379802,432333
-  mod: '1009900'
+- ensembl: ENSXETG00000010882
+  entrez: '100379802'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000039400
   entrez: '393538'
   mod: ZFIN:ZDB-GENE-040426-1495
-  phenotypes: ZDB-GENE-040426-1495
+  phenotypes: DNA-templated transcription, cartilage development, cranial skeletal
+    system development, embryonic viscerocranium morphogenesis, ribosome biogenesis
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457721
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421452
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457721
+  url: https://www.ncbi.nlm.nih.gov/gene/421452
 species: Gallus gallus
 symbol: POLR1C
 title: POLR1C
@@ -106,9 +102,8 @@ title: POLR1C
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33712](https://www.ncbi.nlm.nih.gov/gene/33712) | FBgn0031657 |  |
 | Human | [ENSG00000171453](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171453) | [9533](https://www.ncbi.nlm.nih.gov/gene/9533) | [MIM:610060](https://omim.org/entry/610060) | MIM:248390 |
 | Mouse | [ENSMUSG00000067148](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000067148) | [20016](https://www.ncbi.nlm.nih.gov/gene/20016) | [MGI:103288](http://www.informatics.jax.org/marker/MGI:103288) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100379802](https://www.ncbi.nlm.nih.gov/gene/100379802), [432333](https://www.ncbi.nlm.nih.gov/gene/432333) | [1009900](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1009900) |  |
-| Zebrafish | [ENSDARG00000039400](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039400) | [393538](https://www.ncbi.nlm.nih.gov/gene/393538) | [ZFIN:ZDB-GENE-040426-1495](https://zfin.org/ZDB-GENE-040426-1495) | ZDB-GENE-040426-1495 |
+| Xenopus | [ENSXETG00000010882](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010882) | [100379802](https://www.ncbi.nlm.nih.gov/gene/100379802) |  |  |
+| Zebrafish | [ENSDARG00000039400](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039400) | [393538](https://www.ncbi.nlm.nih.gov/gene/393538) | [ZFIN:ZDB-GENE-040426-1495](https://zfin.org/ZDB-GENE-040426-1495) | DNA-templated transcription, cartilage development, cranial skeletal system development, embryonic viscerocranium morphogenesis, ribosome biogenesis |
 

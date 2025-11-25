@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420869
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001231410
   X-XIV: stage X
-gene_id: '454141'
+gene_id: '420869'
 gene_type: protein-coding
 images:
 - caption: DSP expression
@@ -227,13 +227,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DSP_HH24 x15 right.jpg
 name: desmoplakin
-ncbi_id: '454141'
+ncbi_id: '420869'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000096696
   entrez: '1832'
   mod: MIM:125647
@@ -244,20 +239,16 @@ orthologs:
   mod: MGI:109611
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 779453,398354
-  mod: '492194'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000022309
-  entrez: 327364,322942,324023
-  mod: ZFIN:ZDB-GENE-030131-5575,ZFIN:ZDB-GENE-030131-1662,ZFIN:ZDB-GENE-030131-2743
-  phenotypes: ZDB-GENE-030131-5575,ZDB-GENE-030131-1662,ZDB-GENE-030131-2743
+  entrez: '324023'
+  mod: ZFIN:ZDB-GENE-030131-2743
+  phenotypes: camera-type eye development, cell-cell adhesion, desmosome organization,
+    establishment of skin barrier, fin regeneration
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454141
+  url: https://www.ncbi.nlm.nih.gov/gene/420869
 species: Gallus gallus
 symbol: DSP
 title: DSP
@@ -283,9 +274,7 @@ title: DSP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000096696](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000096696) | [1832](https://www.ncbi.nlm.nih.gov/gene/1832) | [MIM:125647](https://omim.org/entry/125647) | MIM:607450 |
 | Mouse | [ENSMUSG00000054889](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000054889) | [109620](https://www.ncbi.nlm.nih.gov/gene/109620) | [MGI:109611](http://www.informatics.jax.org/marker/MGI:109611) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [779453](https://www.ncbi.nlm.nih.gov/gene/779453), [398354](https://www.ncbi.nlm.nih.gov/gene/398354) | [492194](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492194) |  |
-| Zebrafish | [ENSDARG00000022309](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000022309) | [327364](https://www.ncbi.nlm.nih.gov/gene/327364), [322942](https://www.ncbi.nlm.nih.gov/gene/322942), [324023](https://www.ncbi.nlm.nih.gov/gene/324023) | [ZFIN:ZDB-GENE-030131-5575](https://zfin.org/ZDB-GENE-030131-5575), [ZFIN:ZDB-GENE-030131-1662](https://zfin.org/ZDB-GENE-030131-1662), [ZFIN:ZDB-GENE-030131-2743](https://zfin.org/ZDB-GENE-030131-2743) | ZDB-GENE-030131-5575,ZDB-GENE-030131-1662,ZDB-GENE-030131-2743 |
+| Zebrafish | [ENSDARG00000022309](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000022309) | [324023](https://www.ncbi.nlm.nih.gov/gene/324023) | [ZFIN:ZDB-GENE-030131-2743](https://zfin.org/ZDB-GENE-030131-2743) | camera-type eye development, cell-cell adhesion, desmosome organization, establishment of skin barrier, fin regeneration |
 

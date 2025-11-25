@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419878
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418005
   X-XIV: stage XII
-gene_id: '452398'
+gene_id: '419878'
 gene_type: protein-coding
 images:
 - caption: PHTF1 expression
@@ -50,13 +50,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PHTF1.Trevers.2023-Fig7-3-H.jpg
 name: putative homeodomain transcription factor 1
-ncbi_id: '452398'
+ncbi_id: '419878'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000116793
   entrez: '10745'
   mod: MIM:604950
@@ -67,23 +62,18 @@ orthologs:
   mod: MGI:1332671
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: '100144741'
-  mod: '853449'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000057708
   entrez: '564764'
   mod: ZFIN:ZDB-GENE-080204-123
-  phenotypes: ZDB-GENE-080204-123
+  phenotypes: biological_process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452398
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419878
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452398
+  url: https://www.ncbi.nlm.nih.gov/gene/419878
 species: Gallus gallus
 symbol: PHTF1
 title: PHTF1
@@ -107,9 +97,7 @@ title: PHTF1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000116793](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000116793) | [10745](https://www.ncbi.nlm.nih.gov/gene/10745) | [MIM:604950](https://omim.org/entry/604950) |  |
 | Mouse | [ENSMUSG00000058388](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000058388) | [18685](https://www.ncbi.nlm.nih.gov/gene/18685) | [MGI:1332671](http://www.informatics.jax.org/marker/MGI:1332671) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100144741](https://www.ncbi.nlm.nih.gov/gene/100144741) | [853449](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853449) |  |
-| Zebrafish | [ENSDARG00000057708](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057708) | [564764](https://www.ncbi.nlm.nih.gov/gene/564764) | [ZFIN:ZDB-GENE-080204-123](https://zfin.org/ZDB-GENE-080204-123) | ZDB-GENE-080204-123 |
+| Zebrafish | [ENSDARG00000057708](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057708) | [564764](https://www.ncbi.nlm.nih.gov/gene/564764) | [ZFIN:ZDB-GENE-080204-123](https://zfin.org/ZDB-GENE-080204-123) | biological_process |
 

@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426623
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031389
 forward_primer: AAACAGGCAGCGAGGCAATG
-gene_id: '459966'
+gene_id: '426623'
 gene_type: protein-coding
 images:
 - caption: RFXANK expression
@@ -97,13 +97,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R437.RFXANK.S22.001.jpg
 name: regulatory factor X associated ankyrin containing protein
-ncbi_id: '459966'
+ncbi_id: '426623'
 orthologs:
-- ensembl: ''
-  entrez: '34326'
-  mod: FBgn0032171
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000064490
   entrez: '8625'
   mod: MIM:603200
@@ -114,24 +109,24 @@ orthologs:
   mod: MGI:1333865
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100490142,734461
-  mod: '1004062'
+- ensembl: ENSXETG00000013042
+  entrez: '100490142'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000016730
   entrez: '100170804'
   mod: ZFIN:ZDB-GENE-050208-596
-  phenotypes: ZDB-GENE-050208-596
+  phenotypes: positive regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTCCAGGAGTGGCAGAAACCTACTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459966
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426623
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459966
+  url: https://www.ncbi.nlm.nih.gov/gene/426623
 species: Gallus gallus
 symbol: RFXANK
 template_length: '716'
@@ -155,9 +150,8 @@ title: RFXANK
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34326](https://www.ncbi.nlm.nih.gov/gene/34326) | FBgn0032171 |  |
 | Human | [ENSG00000064490](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000064490) | [8625](https://www.ncbi.nlm.nih.gov/gene/8625) | [MIM:603200](https://omim.org/entry/603200) | MIM:209920 |
 | Mouse | [ENSMUSG00000036120](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036120) | [19727](https://www.ncbi.nlm.nih.gov/gene/19727) | [MGI:1333865](http://www.informatics.jax.org/marker/MGI:1333865) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100490142](https://www.ncbi.nlm.nih.gov/gene/100490142), [734461](https://www.ncbi.nlm.nih.gov/gene/734461) | [1004062](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1004062) |  |
-| Zebrafish | [ENSDARG00000016730](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016730) | [100170804](https://www.ncbi.nlm.nih.gov/gene/100170804) | [ZFIN:ZDB-GENE-050208-596](https://zfin.org/ZDB-GENE-050208-596) | ZDB-GENE-050208-596 |
+| Xenopus | [ENSXETG00000013042](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013042) | [100490142](https://www.ncbi.nlm.nih.gov/gene/100490142) |  |  |
+| Zebrafish | [ENSDARG00000016730](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016730) | [100170804](https://www.ncbi.nlm.nih.gov/gene/100170804) | [ZFIN:ZDB-GENE-050208-596](https://zfin.org/ZDB-GENE-050208-596) | positive regulation of transcription by RNA polymerase II |
 

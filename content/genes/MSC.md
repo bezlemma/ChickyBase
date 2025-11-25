@@ -4,8 +4,6 @@ aliases:
 - musculin (activated B-cell factor-1)
 cgnc_id: '13879'
 external_ids:
-  '13': stage 13
-  '25': stage 25stage 25stage 25stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Grenier+Teillet+Cranial+muscle
   Comments: 'As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI (acc
@@ -19,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420179
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418293
-gene_id: '457099'
+gene_id: '420179'
 gene_type: protein-coding
 images:
 - caption: MSC expression
@@ -440,13 +438,8 @@ images:
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYOR.Grenier.2009.Fig.2.png
 name: musculin
-ncbi_id: '457099'
+ncbi_id: '420179'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000178860
   entrez: '9242'
   mod: MIM:603628
@@ -457,23 +450,24 @@ orthologs:
   mod: MGI:1333884
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000015977
   entrez: '100124790'
-  mod: '978232'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000045353
+- ensembl: ENSDARG00000110016
   entrez: '556396'
   mod: ZFIN:ZDB-GENE-090806-3
-  phenotypes: ZDB-GENE-090806-3
+  phenotypes: regulation of transcription by RNA polymerase II, skeletal muscle tissue
+    development, striated muscle tissue development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457099
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420179
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457099
+  url: https://www.ncbi.nlm.nih.gov/gene/420179
 species: Gallus gallus
 symbol: MSC
 title: MSC
@@ -499,9 +493,8 @@ title: MSC
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000178860](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000178860) | [9242](https://www.ncbi.nlm.nih.gov/gene/9242) | [MIM:603628](https://omim.org/entry/603628) |  |
 | Mouse | [ENSMUSG00000025930](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025930) | [17681](https://www.ncbi.nlm.nih.gov/gene/17681) | [MGI:1333884](http://www.informatics.jax.org/marker/MGI:1333884) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100124790](https://www.ncbi.nlm.nih.gov/gene/100124790) | [978232](http://www.xenbase.org/gene/showgene.do?method=display&geneId=978232) |  |
-| Zebrafish | [ENSDARG00000045353](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045353) | [556396](https://www.ncbi.nlm.nih.gov/gene/556396) | [ZFIN:ZDB-GENE-090806-3](https://zfin.org/ZDB-GENE-090806-3) | ZDB-GENE-090806-3 |
+| Xenopus | [ENSXETG00000015977](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015977) | [100124790](https://www.ncbi.nlm.nih.gov/gene/100124790) |  |  |
+| Zebrafish | [ENSDARG00000110016](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110016) | [556396](https://www.ncbi.nlm.nih.gov/gene/556396) | [ZFIN:ZDB-GENE-090806-3](https://zfin.org/ZDB-GENE-090806-3) | regulation of transcription by RNA polymerase II, skeletal muscle tissue development, striated muscle tissue development |
 

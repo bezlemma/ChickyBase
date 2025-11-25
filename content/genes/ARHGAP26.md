@@ -15,7 +15,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005096
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205194
 forward_primer: CAGTGACTTCAAGACAGAGC
-gene_id: '458853'
+gene_id: '396113'
 gene_type: protein-coding
 images:
 - caption: ARHGAP26 expression
@@ -102,13 +102,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R410.ARHGAP26.S26V.001.jpg
 name: Rho GTPase activating protein 26
-ncbi_id: '458853'
+ncbi_id: '396113'
 orthologs:
-- ensembl: ''
-  entrez: '32522'
-  mod: FBgn0030685
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000145819
   entrez: '23092'
   mod: MIM:605370
@@ -119,24 +114,19 @@ orthologs:
   mod: MGI:1918552
   phenotypes: ''
   species: Mouse
-- ensembl: ENSXETG00000000355
-  entrez: 100145296,495439
-  mod: '1011979'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000001880
+  entrez: '100145296'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: ATTAACCCTCACTAAAGGCCAAATACCACACCCAGATTAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458853
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396113
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458853
+  url: https://www.ncbi.nlm.nih.gov/gene/396113
 species: Gallus gallus
 symbol: ARHGAP26
 template_length: '936'
@@ -163,9 +153,7 @@ title: ARHGAP26
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32522](https://www.ncbi.nlm.nih.gov/gene/32522) | FBgn0030685 |  |
 | Human | [ENSG00000145819](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145819) | [23092](https://www.ncbi.nlm.nih.gov/gene/23092) | [MIM:605370](https://omim.org/entry/605370) | MIM:607785 |
 | Mouse | [ENSMUSG00000036452](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036452) | [71302](https://www.ncbi.nlm.nih.gov/gene/71302) | [MGI:1918552](http://www.informatics.jax.org/marker/MGI:1918552) |  |
-| Xenopus | [ENSXETG00000000355](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000355) | [100145296](https://www.ncbi.nlm.nih.gov/gene/100145296), [495439](https://www.ncbi.nlm.nih.gov/gene/495439) | [1011979](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1011979) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000001880](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001880) | [100145296](https://www.ncbi.nlm.nih.gov/gene/100145296) |  |  |
 

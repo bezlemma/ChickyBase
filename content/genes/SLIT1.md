@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395293
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277336
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/SLIT1
-gene_id: '461582'
+gene_id: '395293'
 gene_type: protein-coding
 images:
 - caption: SLIT1 expression
@@ -336,13 +336,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit1.Vargesson.2001.Fig6.jpg
 name: slit guidance ligand 1
-ncbi_id: '461582'
+ncbi_id: '395293'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000187122
   entrez: '6585'
   mod: MIM:603742
@@ -353,20 +348,21 @@ orthologs:
   mod: MGI:1315203
   phenotypes: All phenotypic alleles (4):Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100036682,380270
-  mod: '1007727'
+- ensembl: ENSXETG00000003405
+  entrez: '100036682'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000044954,ENSDARG00000039528
-  entrez: 100331185,556123,561685
-  mod: ZFIN:ZDB-GENE-030722-3,ZFIN:ZDB-GENE-030722-4
-  phenotypes: ZDB-GENE-030722-3,ZDB-GENE-030722-4
+- ensembl: ENSDARG00000044954
+  entrez: '556123'
+  mod: ZFIN:ZDB-GENE-030722-3
+  phenotypes: axon guidance, cranial nerve morphogenesis, negative chemotaxis, negative
+    regulation of synapse assembly, nervous system development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461582
+  url: https://www.ncbi.nlm.nih.gov/gene/395293
 species: Gallus gallus
 symbol: SLIT1
 title: SLIT1
@@ -393,9 +389,8 @@ title: SLIT1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000187122](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000187122) | [6585](https://www.ncbi.nlm.nih.gov/gene/6585) | [MIM:603742](https://omim.org/entry/603742) |  |
 | Mouse | [ENSMUSG00000025020](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025020) | [20562](https://www.ncbi.nlm.nih.gov/gene/20562) | [MGI:1315203](http://www.informatics.jax.org/marker/MGI:1315203) | All phenotypic alleles (4):Targeted, other(4) |
-| Xenopus |  | [100036682](https://www.ncbi.nlm.nih.gov/gene/100036682), [380270](https://www.ncbi.nlm.nih.gov/gene/380270) | [1007727](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1007727) |  |
-| Zebrafish | [ENSDARG00000044954](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044954), [ENSDARG00000039528](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039528) | [100331185](https://www.ncbi.nlm.nih.gov/gene/100331185), [556123](https://www.ncbi.nlm.nih.gov/gene/556123), [561685](https://www.ncbi.nlm.nih.gov/gene/561685) | [ZFIN:ZDB-GENE-030722-3](https://zfin.org/ZDB-GENE-030722-3), [ZFIN:ZDB-GENE-030722-4](https://zfin.org/ZDB-GENE-030722-4) | ZDB-GENE-030722-3,ZDB-GENE-030722-4 |
+| Xenopus | [ENSXETG00000003405](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003405) | [100036682](https://www.ncbi.nlm.nih.gov/gene/100036682) |  |  |
+| Zebrafish | [ENSDARG00000044954](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044954) | [556123](https://www.ncbi.nlm.nih.gov/gene/556123) | [ZFIN:ZDB-GENE-030722-3](https://zfin.org/ZDB-GENE-030722-3) | axon guidance, cranial nerve morphogenesis, negative chemotaxis, negative regulation of synapse assembly, nervous system development |
 

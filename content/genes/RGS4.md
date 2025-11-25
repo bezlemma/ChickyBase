@@ -4,7 +4,6 @@ aliases:
 - regulator of G-protein signalling 4
 cgnc_id: '49134'
 external_ids:
-  '31': stage 31stage 31
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0043547
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Huber+HoxB2+Rohrer+2012+Holzmann
@@ -18,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005096
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204385
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/RGS4
-gene_id: '452575'
+gene_id: '378901'
 gene_type: protein-coding
 images:
 - caption: RGS4 expression
@@ -43,13 +42,8 @@ images:
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Huber.Fig6.RGS4.C.ST31.jpg
 name: regulator of G-protein signaling 4
-ncbi_id: '452575'
+ncbi_id: '378901'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000117152
   entrez: '5999'
   mod: MIM:602516
@@ -60,20 +54,20 @@ orthologs:
   mod: MGI:108409
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 394913,394324
-  mod: '942770'
+- ensembl: ENSXETG00000010461
+  entrez: '394913'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000070047
+- ensembl: ENSDARG00000116319
   entrez: '569876'
   mod: ZFIN:ZDB-GENE-030131-9839
-  phenotypes: ZDB-GENE-030131-9839
+  phenotypes: axonogenesis, endocrine pancreas development, locomotory behavior
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452575
+  url: https://www.ncbi.nlm.nih.gov/gene/378901
 species: Gallus gallus
 symbol: RGS4
 title: RGS4
@@ -103,9 +97,8 @@ title: RGS4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000117152](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000117152) | [5999](https://www.ncbi.nlm.nih.gov/gene/5999) | [MIM:602516](https://omim.org/entry/602516) | MIM:604906 |
 | Mouse | [ENSMUSG00000038530](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038530) | [19736](https://www.ncbi.nlm.nih.gov/gene/19736) | [MGI:108409](http://www.informatics.jax.org/marker/MGI:108409) | All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5) |
-| Xenopus |  | [394913](https://www.ncbi.nlm.nih.gov/gene/394913), [394324](https://www.ncbi.nlm.nih.gov/gene/394324) | [942770](http://www.xenbase.org/gene/showgene.do?method=display&geneId=942770) |  |
-| Zebrafish | [ENSDARG00000070047](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070047) | [569876](https://www.ncbi.nlm.nih.gov/gene/569876) | [ZFIN:ZDB-GENE-030131-9839](https://zfin.org/ZDB-GENE-030131-9839) | ZDB-GENE-030131-9839 |
+| Xenopus | [ENSXETG00000010461](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010461) | [394913](https://www.ncbi.nlm.nih.gov/gene/394913) |  |  |
+| Zebrafish | [ENSDARG00000116319](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116319) | [569876](https://www.ncbi.nlm.nih.gov/gene/569876) | [ZFIN:ZDB-GENE-030131-9839](https://zfin.org/ZDB-GENE-030131-9839) | axonogenesis, endocrine pancreas development, locomotory behavior |
 

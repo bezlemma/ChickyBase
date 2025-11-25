@@ -4,9 +4,6 @@ aliases:
 - GTP-binding protein
 cgnc_id: '49447'
 external_ids:
-  '13': stage 13stage 13
-  '25': stage 25stage 25stage 25stage 25
-  '31': stage 31stage 31stage 31
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=acloque+wilkinson+analysis+sections
   Comments: As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI NM_204909.1
@@ -18,7 +15,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204909
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/RHOB
 forward_primer: GGACGAGTTCCCCGAGGTTTAC
-gene_id: '449830'
+gene_id: '395734'
 gene_type: protein-coding
 images:
 - caption: RHOB expression
@@ -327,13 +324,8 @@ images:
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RHOB.HH13.hnk.Acloque.2008.f1.rhob.png
 name: ras homolog family member B
-ncbi_id: '449830'
+ncbi_id: '395734'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000143878
   entrez: '388'
   mod: MIM:165370
@@ -344,24 +336,19 @@ orthologs:
   mod: MGI:107949
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 407883,734999,549402
-  mod: 478300,1019547
+- ensembl: ENSXETG00000026772
+  entrez: '407883'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000018328,ENSDARG00000026845,ENSDARG00000015429
-  entrez: 436718,406411,406659
-  mod: ZFIN:ZDB-GENE-040718-144,ZFIN:ZDB-GENE-040426-2150,ZFIN:ZDB-GENE-040426-2665
-  phenotypes: ZDB-GENE-040718-144,ZDB-GENE-040426-2150,ZDB-GENE-040426-2665
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGCTTCTCCCCACCCGATTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449830
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395734
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449830
+  url: https://www.ncbi.nlm.nih.gov/gene/395734
 species: Gallus gallus
 symbol: RHOB
 template_length: '760'
@@ -389,9 +376,7 @@ title: RHOB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000143878](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143878) | [388](https://www.ncbi.nlm.nih.gov/gene/388) | [MIM:165370](https://omim.org/entry/165370) |  |
 | Mouse | [ENSMUSG00000054364](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000054364) | [11852](https://www.ncbi.nlm.nih.gov/gene/11852) | [MGI:107949](http://www.informatics.jax.org/marker/MGI:107949) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [407883](https://www.ncbi.nlm.nih.gov/gene/407883), [734999](https://www.ncbi.nlm.nih.gov/gene/734999), [549402](https://www.ncbi.nlm.nih.gov/gene/549402) | [478300](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478300), [1019547](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1019547) |  |
-| Zebrafish | [ENSDARG00000018328](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018328), [ENSDARG00000026845](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026845), [ENSDARG00000015429](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015429) | [436718](https://www.ncbi.nlm.nih.gov/gene/436718), [406411](https://www.ncbi.nlm.nih.gov/gene/406411), [406659](https://www.ncbi.nlm.nih.gov/gene/406659) | [ZFIN:ZDB-GENE-040718-144](https://zfin.org/ZDB-GENE-040718-144), [ZFIN:ZDB-GENE-040426-2150](https://zfin.org/ZDB-GENE-040426-2150), [ZFIN:ZDB-GENE-040426-2665](https://zfin.org/ZDB-GENE-040426-2665) | ZDB-GENE-040718-144,ZDB-GENE-040426-2150,ZDB-GENE-040426-2665 |
+| Xenopus | [ENSXETG00000026772](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026772) | [407883](https://www.ncbi.nlm.nih.gov/gene/407883) |  |  |
 

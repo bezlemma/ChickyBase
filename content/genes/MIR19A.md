@@ -12,7 +12,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018251
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006088.3?report=genbank&from=147253550&to=147253630&strand=true
-gene_id: '467947'
+gene_id: '777936'
 gene_type: miscRNA
 images:
 - caption: MIR19A expression
@@ -23,7 +23,7 @@ images:
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/19a.6.001z.jpg
 name: microRNA 19a
-ncbi_id: '467947'
+ncbi_id: '777936'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -53,7 +53,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467947
+  url: https://www.ncbi.nlm.nih.gov/gene/777936
 species: Gallus gallus
 symbol: MIR19A
 title: MIR19A

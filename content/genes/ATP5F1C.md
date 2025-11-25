@@ -97,7 +97,7 @@ orthologs:
 - ensembl: ENSDARG00000045514
   entrez: '336957'
   mod: ZFIN:ZDB-GENE-030131-8901
-  phenotypes: ZDB-GENE-030131-8901
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
@@ -134,5 +134,5 @@ title: ATP5F1C
 | Human | [ENSG00000165629](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165629) | [509](https://www.ncbi.nlm.nih.gov/gene/509) | [MIM:108729](https://omim.org/entry/108729) |  |
 | Mouse | [ENSMUSG00000025781](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025781) | [11949](https://www.ncbi.nlm.nih.gov/gene/11949) | [MGI:1261437](http://www.informatics.jax.org/marker/MGI:1261437) | All phenotypic alleles (2):Targeted, other(2) |
 | Xenopus |  | [549161](https://www.ncbi.nlm.nih.gov/gene/549161), [380173](https://www.ncbi.nlm.nih.gov/gene/380173) | [970729](http://www.xenbase.org/gene/showgene.do?method=display&geneId=970729) |  |
-| Zebrafish | [ENSDARG00000045514](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045514) | [336957](https://www.ncbi.nlm.nih.gov/gene/336957) | [ZFIN:ZDB-GENE-030131-8901](https://zfin.org/ZDB-GENE-030131-8901) | ZDB-GENE-030131-8901 |
+| Zebrafish | [ENSDARG00000045514](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045514) | [336957](https://www.ncbi.nlm.nih.gov/gene/336957) | [ZFIN:ZDB-GENE-030131-8901](https://zfin.org/ZDB-GENE-030131-8901) |  |
 

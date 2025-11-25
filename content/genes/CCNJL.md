@@ -3,7 +3,6 @@ aliases:
 - cyclin-J-like protein
 cgnc_id: '1007'
 external_ids:
-  '4': stage 4stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Alev+Jakt+Ueda+landscape
   Comments: 'As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI (acc
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416155
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414487
 forward_primer: 5'-GAAAAGACCCTGTGAGTGATACGG-3'
-gene_id: '457569'
+gene_id: '416155'
 gene_type: protein-coding
 images:
 - caption: CCNJL expression
@@ -81,41 +80,26 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CCNJL.Alev.2010 Fig.
     5 .png
 name: cyclin J-like
-ncbi_id: '457569'
+ncbi_id: '416155'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000135083
-  entrez: '79616'
-  mod: ''
-  phenotypes: ''
-  species: Human
 - ensembl: ENSMUSG00000044707
   entrez: '380694'
   mod: MGI:2685723
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000077116
+  entrez: '100001904'
+  mod: ZFIN:ZDB-GENE-030131-9888
+  phenotypes: G1/S transition of mitotic cell cycle
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGACATTACCAGCAGTTCCTCTGTCC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457569
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416155
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457569
+  url: https://www.ncbi.nlm.nih.gov/gene/416155
 species: Gallus gallus
 symbol: CCNJL
 template_length: '926'
@@ -142,9 +126,6 @@ title: CCNJL
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000135083](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135083) | [79616](https://www.ncbi.nlm.nih.gov/gene/79616) |  |  |
 | Mouse | [ENSMUSG00000044707](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000044707) | [380694](https://www.ncbi.nlm.nih.gov/gene/380694) | [MGI:2685723](http://www.informatics.jax.org/marker/MGI:2685723) |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Zebrafish | [ENSDARG00000077116](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077116) | [100001904](https://www.ncbi.nlm.nih.gov/gene/100001904) | [ZFIN:ZDB-GENE-030131-9888](https://zfin.org/ZDB-GENE-030131-9888) | G1/S transition of mitotic cell cycle |
 

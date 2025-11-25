@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395378
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204660
 forward_primer: CCAGCGAGTTCTACAAGAGCAAAC
-gene_id: '448942'
+gene_id: '395378'
 gene_type: protein-coding
 images:
 - caption: CACNG3 expression
@@ -70,41 +70,38 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R568.CACNG3.S11.001.jpg
 name: calcium voltage-gated channel auxiliary subunit gamma 3
-ncbi_id: '448942'
+ncbi_id: '395378'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000006116
+  entrez: '10368'
+  mod: MIM:606403
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000066189
+  entrez: '54376'
+  mod: MGI:1859165
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000040408
+  entrez: '100488289'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000076401
+  entrez: '564883'
+  mod: ZFIN:ZDB-GENE-090828-1
+  phenotypes: calcium ion transmembrane transport, calcium ion transport, monoatomic
+    ion transmembrane transport, monoatomic ion transport, positive regulation of
+    synaptic transmission, glutamatergic
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCCAGCATTTCCAGTGGGACATAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448942
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395378
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448942
+  url: https://www.ncbi.nlm.nih.gov/gene/395378
 species: Gallus gallus
 symbol: CACNG3
 template_length: '865'
@@ -127,9 +124,8 @@ title: CACNG3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000006116](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000006116) | [10368](https://www.ncbi.nlm.nih.gov/gene/10368) | [MIM:606403](https://omim.org/entry/606403) |  |
+| Mouse | [ENSMUSG00000066189](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000066189) | [54376](https://www.ncbi.nlm.nih.gov/gene/54376) | [MGI:1859165](http://www.informatics.jax.org/marker/MGI:1859165) |  |
+| Xenopus | [ENSXETG00000040408](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000040408) | [100488289](https://www.ncbi.nlm.nih.gov/gene/100488289) |  |  |
+| Zebrafish | [ENSDARG00000076401](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076401) | [564883](https://www.ncbi.nlm.nih.gov/gene/564883) | [ZFIN:ZDB-GENE-090828-1](https://zfin.org/ZDB-GENE-090828-1) | calcium ion transmembrane transport, calcium ion transport, monoatomic ion transmembrane transport, monoatomic ion transport, positive regulation of synaptic transmission, glutamatergic |
 

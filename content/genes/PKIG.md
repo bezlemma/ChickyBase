@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419195
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417373
-gene_id: '455356'
+gene_id: '419195'
 gene_type: protein-coding
 images:
 - caption: PKIG expression
@@ -32,7 +32,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PKIG.Anderson.2019.Supplementary
     figure 5A.jpg
 name: protein kinase (cAMP-dependent, catalytic) inhibitor gamma
-ncbi_id: '455356'
+ncbi_id: '419195'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -62,7 +62,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455356
+  url: https://www.ncbi.nlm.nih.gov/gene/419195
 species: Gallus gallus
 symbol: PKIG
 title: PKIG

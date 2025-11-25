@@ -3,14 +3,13 @@ aliases:
 - leucine-rich repeat transmembrane protein FLRT2
 cgnc_id: '8039'
 external_ids:
-  '25': stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000010589
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428901
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641305
 forward_primer: 5’-GTTGACACAGCACGTTCAGG-3’
-gene_id: '455748'
+gene_id: '428901'
 gene_type: protein-coding
 images:
 - caption: FLRT2 expression
@@ -71,14 +70,9 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R672.FLRT2.S25AA.001.jpg
 name: fibronectin leucine rich transmembrane protein 2
-ncbi_id: '455748'
+ncbi_id: '428901'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000185070
   entrez: '23768'
   mod: MIM:604807
   phenotypes: ''
@@ -88,24 +82,25 @@ orthologs:
   mod: MGI:3603594
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 395015,394227
-  mod: '495393'
+- ensembl: ENSXETG00000011704
+  entrez: '395015'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000079355
-  entrez: '571972'
-  mod: ZFIN:ZDB-GENE-070705-267
-  phenotypes: ZDB-GENE-070705-267
+- ensembl: ENSDARG00000097299
+  entrez: '100535467'
+  mod: ZFIN:ZDB-GENE-131120-42
+  phenotypes: intracellular protein transport, protein import into nucleus, protein
+    transport
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGAATCCAGGGTTCTTGGCAGG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455748
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428901
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455748
+  url: https://www.ncbi.nlm.nih.gov/gene/428901
 species: Gallus gallus
 symbol: FLRT2
 template_length: '693'
@@ -128,9 +123,8 @@ title: FLRT2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [23768](https://www.ncbi.nlm.nih.gov/gene/23768) | [MIM:604807](https://omim.org/entry/604807) |  |
+| Human | [ENSG00000185070](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185070) | [23768](https://www.ncbi.nlm.nih.gov/gene/23768) | [MIM:604807](https://omim.org/entry/604807) |  |
 | Mouse | [ENSMUSG00000047414](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000047414) | [399558](https://www.ncbi.nlm.nih.gov/gene/399558) | [MGI:3603594](http://www.informatics.jax.org/marker/MGI:3603594) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [395015](https://www.ncbi.nlm.nih.gov/gene/395015), [394227](https://www.ncbi.nlm.nih.gov/gene/394227) | [495393](http://www.xenbase.org/gene/showgene.do?method=display&geneId=495393) |  |
-| Zebrafish | [ENSDARG00000079355](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079355) | [571972](https://www.ncbi.nlm.nih.gov/gene/571972) | [ZFIN:ZDB-GENE-070705-267](https://zfin.org/ZDB-GENE-070705-267) | ZDB-GENE-070705-267 |
+| Xenopus | [ENSXETG00000011704](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011704) | [395015](https://www.ncbi.nlm.nih.gov/gene/395015) |  |  |
+| Zebrafish | [ENSDARG00000097299](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000097299) | [100535467](https://www.ncbi.nlm.nih.gov/gene/100535467) | [ZFIN:ZDB-GENE-131120-42](https://zfin.org/ZDB-GENE-131120-42) | intracellular protein transport, protein import into nucleus, protein transport |
 

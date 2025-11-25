@@ -61,7 +61,7 @@ orthologs:
 - ensembl: ENSDARG00000017034
   entrez: '550580'
   mod: ZFIN:ZDB-GENE-050417-436
-  phenotypes: ZDB-GENE-050417-436
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -98,5 +98,5 @@ title: SQRDL
 | Human | [ENSG00000137767](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137767) | [58472](https://www.ncbi.nlm.nih.gov/gene/58472) |  |  |
 | Mouse | [ENSMUSG00000005803](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005803) | [59010](https://www.ncbi.nlm.nih.gov/gene/59010) | [MGI:1929899](http://www.informatics.jax.org/marker/MGI:1929899) |  |
 | Xenopus |  | [549710](https://www.ncbi.nlm.nih.gov/gene/549710), [379770](https://www.ncbi.nlm.nih.gov/gene/379770) | [957725](http://www.xenbase.org/gene/showgene.do?method=display&geneId=957725) |  |
-| Zebrafish | [ENSDARG00000017034](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017034) | [550580](https://www.ncbi.nlm.nih.gov/gene/550580) | [ZFIN:ZDB-GENE-050417-436](https://zfin.org/ZDB-GENE-050417-436) | ZDB-GENE-050417-436 |
+| Zebrafish | [ENSDARG00000017034](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017034) | [550580](https://www.ncbi.nlm.nih.gov/gene/550580) | [ZFIN:ZDB-GENE-050417-436](https://zfin.org/ZDB-GENE-050417-436) |  |
 

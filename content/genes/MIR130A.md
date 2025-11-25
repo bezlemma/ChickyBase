@@ -6,7 +6,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018273
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006102.3?report=genbank&from=399359&to=399441&strand=true
-gene_id: '467903'
+gene_id: '777845'
 gene_type: miscRNA
 images:
 - caption: MIR130A expression
@@ -38,7 +38,7 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/130a.43.22z.jpg
 name: microRNA 130a
-ncbi_id: '467903'
+ncbi_id: '777845'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -68,10 +68,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467903
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777845
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467903
+  url: https://www.ncbi.nlm.nih.gov/gene/777845
 species: Gallus gallus
 symbol: MIR130A
 title: MIR130A

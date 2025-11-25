@@ -21,7 +21,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395804
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204958
-gene_id: '449999'
+gene_id: '395804'
 gene_type: protein-coding
 images:
 - caption: PSMC1 expression
@@ -46,13 +46,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/26S-ATPase.Nelson.2004.fig4.jpg
 name: proteasome 26S subunit, ATPase 1
-ncbi_id: '449999'
+ncbi_id: '395804'
 orthologs:
-- ensembl: ''
-  entrez: '42828'
-  mod: FBgn0015282
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100764
   entrez: '5700'
   mod: MIM:602706
@@ -63,20 +58,21 @@ orthologs:
   mod: MGI:106054
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 733980,380240
-  mod: '950578'
+- ensembl: ENSXETG00000015703
+  entrez: '733980'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000043561,ENSDARG00000030537
-  entrez: 415181,336786
-  mod: ZFIN:ZDB-GENE-040625-69,ZFIN:ZDB-GENE-030131-8730
-  phenotypes: ZDB-GENE-040625-69,ZDB-GENE-030131-8730
+- ensembl: ENSDARG00000043561
+  entrez: '415181'
+  mod: ZFIN:ZDB-GENE-040625-69
+  phenotypes: anatomical structure morphogenesis, proteasome-mediated ubiquitin-dependent
+    protein catabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449999
+  url: https://www.ncbi.nlm.nih.gov/gene/395804
 species: Gallus gallus
 symbol: PSMC1
 title: PSMC1
@@ -107,9 +103,8 @@ title: PSMC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42828](https://www.ncbi.nlm.nih.gov/gene/42828) | FBgn0015282 |  |
 | Human | [ENSG00000100764](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100764) | [5700](https://www.ncbi.nlm.nih.gov/gene/5700) | [MIM:602706](https://omim.org/entry/602706) |  |
 | Mouse | [ENSMUSG00000021178](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021178) | [19179](https://www.ncbi.nlm.nih.gov/gene/19179) | [MGI:106054](http://www.informatics.jax.org/marker/MGI:106054) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [733980](https://www.ncbi.nlm.nih.gov/gene/733980), [380240](https://www.ncbi.nlm.nih.gov/gene/380240) | [950578](http://www.xenbase.org/gene/showgene.do?method=display&geneId=950578) |  |
-| Zebrafish | [ENSDARG00000043561](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043561), [ENSDARG00000030537](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030537) | [415181](https://www.ncbi.nlm.nih.gov/gene/415181), [336786](https://www.ncbi.nlm.nih.gov/gene/336786) | [ZFIN:ZDB-GENE-040625-69](https://zfin.org/ZDB-GENE-040625-69), [ZFIN:ZDB-GENE-030131-8730](https://zfin.org/ZDB-GENE-030131-8730) | ZDB-GENE-040625-69,ZDB-GENE-030131-8730 |
+| Xenopus | [ENSXETG00000015703](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015703) | [733980](https://www.ncbi.nlm.nih.gov/gene/733980) |  |  |
+| Zebrafish | [ENSDARG00000043561](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043561) | [415181](https://www.ncbi.nlm.nih.gov/gene/415181) | [ZFIN:ZDB-GENE-040625-69](https://zfin.org/ZDB-GENE-040625-69) | anatomical structure morphogenesis, proteasome-mediated ubiquitin-dependent protein catabolic process |
 

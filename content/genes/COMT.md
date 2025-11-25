@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416783
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415077
-gene_id: '462517'
+gene_id: '416783'
 gene_type: protein-coding
 images:
 - caption: COMT expression
@@ -44,13 +44,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F1.comt.png
 name: catechol-O-methyltransferase
-ncbi_id: '462517'
+ncbi_id: '416783'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000093010
   entrez: '1312'
   mod: MIM:116790
@@ -62,20 +57,15 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Spontaneous(1) Targeted, knock-out(3) Targeted,
     other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549911,549111,779254
-  mod: 5865480,948946
+- ensembl: ENSXETG00000033321
+  entrez: '100135405'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000015337,ENSDARG00000025679
-  entrez: 561372,565370
-  mod: ZFIN:ZDB-GENE-050913-117,ZFIN:ZDB-GENE-040724-164
-  phenotypes: ZDB-GENE-050913-117,ZDB-GENE-040724-164
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462517
+  url: https://www.ncbi.nlm.nih.gov/gene/416783
 species: Gallus gallus
 symbol: COMT
 title: COMT
@@ -100,9 +90,7 @@ title: COMT
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000093010](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000093010) | [1312](https://www.ncbi.nlm.nih.gov/gene/1312) | [MIM:116790](https://omim.org/entry/116790) | MIM:167870 |
 | Mouse | [ENSMUSG00000000326](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000326) | [12846](https://www.ncbi.nlm.nih.gov/gene/12846) | [MGI:88470](http://www.informatics.jax.org/marker/MGI:88470) | All phenotypic alleles (5):Spontaneous(1) Targeted, knock-out(3) Targeted, other(1) |
-| Xenopus |  | [549911](https://www.ncbi.nlm.nih.gov/gene/549911), [549111](https://www.ncbi.nlm.nih.gov/gene/549111), [779254](https://www.ncbi.nlm.nih.gov/gene/779254) | [5865480](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5865480), [948946](http://www.xenbase.org/gene/showgene.do?method=display&geneId=948946) |  |
-| Zebrafish | [ENSDARG00000015337](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015337), [ENSDARG00000025679](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025679) | [561372](https://www.ncbi.nlm.nih.gov/gene/561372), [565370](https://www.ncbi.nlm.nih.gov/gene/565370) | [ZFIN:ZDB-GENE-050913-117](https://zfin.org/ZDB-GENE-050913-117), [ZFIN:ZDB-GENE-040724-164](https://zfin.org/ZDB-GENE-040724-164) | ZDB-GENE-050913-117,ZDB-GENE-040724-164 |
+| Xenopus | [ENSXETG00000033321](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033321) | [100135405](https://www.ncbi.nlm.nih.gov/gene/100135405) |  |  |
 

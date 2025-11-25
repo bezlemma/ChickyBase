@@ -1,7 +1,6 @@
 ---
 cgnc_id: '3113'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0259243
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0060038
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0031588
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417438
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0030552
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001007845
-gene_id: '453248'
+gene_id: '417438'
 gene_type: protein-coding
 images:
 - caption: PRKAR1A expression
@@ -79,13 +78,8 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/12k1.100.21.jpg
 name: protein kinase cAMP-dependent type I regulatory subunit alpha
-ncbi_id: '453248'
+ncbi_id: '417438'
 orthologs:
-- ensembl: ''
-  entrez: '40305'
-  mod: FBgn0259243
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000108946
   entrez: '5573'
   mod: MIM:188830
@@ -96,23 +90,24 @@ orthologs:
   mod: MGI:104878
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 594933,432155
-  mod: '856480'
+- ensembl: ENSXETG00000041414
+  entrez: '594933'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000012094,ENSDARG00000076128
-  entrez: 550427,494533
-  mod: ZFIN:ZDB-GENE-050417-238,ZFIN:ZDB-GENE-050116-2
-  phenotypes: ZDB-GENE-050417-238,ZDB-GENE-050116-2
+- ensembl: ENSDARG00000101755
+  entrez: '550427'
+  mod: ZFIN:ZDB-GENE-050417-238
+  phenotypes: adenylate cyclase-activating G protein-coupled receptor signaling pathway,
+    regulation of protein phosphorylation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453248
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417438
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453248
+  url: https://www.ncbi.nlm.nih.gov/gene/417438
 species: Gallus gallus
 symbol: PRKAR1A
 title: PRKAR1A
@@ -139,9 +134,8 @@ title: PRKAR1A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40305](https://www.ncbi.nlm.nih.gov/gene/40305) | FBgn0259243 |  |
 | Human | [ENSG00000108946](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000108946) | [5573](https://www.ncbi.nlm.nih.gov/gene/5573) | [MIM:188830](https://omim.org/entry/188830) | MIM:101800 |
 | Mouse | [ENSMUSG00000020612](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020612) | [19084](https://www.ncbi.nlm.nih.gov/gene/19084) | [MGI:104878](http://www.informatics.jax.org/marker/MGI:104878) | All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5) |
-| Xenopus |  | [594933](https://www.ncbi.nlm.nih.gov/gene/594933), [432155](https://www.ncbi.nlm.nih.gov/gene/432155) | [856480](http://www.xenbase.org/gene/showgene.do?method=display&geneId=856480) |  |
-| Zebrafish | [ENSDARG00000012094](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012094), [ENSDARG00000076128](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076128) | [550427](https://www.ncbi.nlm.nih.gov/gene/550427), [494533](https://www.ncbi.nlm.nih.gov/gene/494533) | [ZFIN:ZDB-GENE-050417-238](https://zfin.org/ZDB-GENE-050417-238), [ZFIN:ZDB-GENE-050116-2](https://zfin.org/ZDB-GENE-050116-2) | ZDB-GENE-050417-238,ZDB-GENE-050116-2 |
+| Xenopus | [ENSXETG00000041414](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041414) | [594933](https://www.ncbi.nlm.nih.gov/gene/594933) |  |  |
+| Zebrafish | [ENSDARG00000101755](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101755) | [550427](https://www.ncbi.nlm.nih.gov/gene/550427) | [ZFIN:ZDB-GENE-050417-238](https://zfin.org/ZDB-GENE-050417-238) | adenylate cyclase-activating G protein-coupled receptor signaling pathway, regulation of protein phosphorylation |
 

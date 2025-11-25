@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417001
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415292
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/RTN4R
-gene_id: '455270'
+gene_id: '417001'
 gene_type: protein-coding
 images:
 - caption: RTN4R expression
@@ -49,13 +49,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cNgR1.fig5.imageB.jpg
 name: reticulon 4 receptor
-ncbi_id: '455270'
+ncbi_id: '417001'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000040608
   entrez: '65078'
   mod: MIM:605566
@@ -66,20 +61,21 @@ orthologs:
   mod: MGI:2136886
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(5) Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000012179
   entrez: '100485966'
-  mod: '6065291'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: 100332374,403306
+- ensembl: ENSDARG00000090035
+  entrez: '403306'
   mod: ZFIN:ZDB-GENE-040310-1
-  phenotypes: ZDB-GENE-040310-1
+  phenotypes: axon guidance, negative chemotaxis, peripheral nervous system neuron
+    axonogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455270
+  url: https://www.ncbi.nlm.nih.gov/gene/417001
 species: Gallus gallus
 symbol: RTN4R
 title: RTN4R
@@ -106,9 +102,8 @@ title: RTN4R
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000040608](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000040608) | [65078](https://www.ncbi.nlm.nih.gov/gene/65078) | [MIM:605566](https://omim.org/entry/605566) | MIM:181500 |
 | Mouse | [ENSMUSG00000043811](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000043811) | [65079](https://www.ncbi.nlm.nih.gov/gene/65079) | [MGI:2136886](http://www.informatics.jax.org/marker/MGI:2136886) | All phenotypic alleles (8):Targeted, knock-out(5) Targeted, other(3) |
-| Xenopus |  | [100485966](https://www.ncbi.nlm.nih.gov/gene/100485966) | [6065291](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6065291) |  |
-| Zebrafish |  | [100332374](https://www.ncbi.nlm.nih.gov/gene/100332374), [403306](https://www.ncbi.nlm.nih.gov/gene/403306) | [ZFIN:ZDB-GENE-040310-1](https://zfin.org/ZDB-GENE-040310-1) | ZDB-GENE-040310-1 |
+| Xenopus | [ENSXETG00000012179](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012179) | [100485966](https://www.ncbi.nlm.nih.gov/gene/100485966) |  |  |
+| Zebrafish | [ENSDARG00000090035](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000090035) | [403306](https://www.ncbi.nlm.nih.gov/gene/403306) | [ZFIN:ZDB-GENE-040310-1](https://zfin.org/ZDB-GENE-040310-1) | axon guidance, negative chemotaxis, peripheral nervous system neuron axonogenesis |
 

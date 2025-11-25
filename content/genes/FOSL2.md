@@ -4,7 +4,6 @@ aliases:
 - FOS like antigen 2, Fos-related antigen 2
 cgnc_id: '7631'
 external_ids:
-  '25': stage 25
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000010036
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
@@ -13,7 +12,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001045836
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/FOSL2
 forward_primer: CATCACAACCAGCCAAGACCTG
-gene_id: '457646'
+gene_id: '421416'
 gene_type: protein-coding
 images:
 - caption: FOSL2 expression
@@ -116,13 +115,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R255.FOSL2.S26.002.jpg
 name: FOS like 2, AP-1 transcription factor subunit
-ncbi_id: '457646'
+ncbi_id: '421416'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000075426
   entrez: '2355'
   mod: MIM:601575
@@ -133,24 +127,25 @@ orthologs:
   mod: MGI:102858
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100494449,398055
-  mod: '6258092'
+- ensembl: ENSXETG00000048154
+  entrez: '100494449'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000040623
-  entrez: 100331923,558921
+  entrez: '558921'
   mod: ZFIN:ZDB-GENE-070209-164
-  phenotypes: ZDB-GENE-070209-164
+  phenotypes: regulation of DNA-templated transcription, regulation of cardiac muscle
+    cell myoblast differentiation, regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGGTGGGAGAGTTCAAGGAATCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457646
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421416
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457646
+  url: https://www.ncbi.nlm.nih.gov/gene/421416
 species: Gallus gallus
 symbol: FOSL2
 template_length: '802'
@@ -175,9 +170,8 @@ title: FOSL2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000075426](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000075426) | [2355](https://www.ncbi.nlm.nih.gov/gene/2355) | [MIM:601575](https://omim.org/entry/601575) |  |
 | Mouse | [ENSMUSG00000029135](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029135) | [14284](https://www.ncbi.nlm.nih.gov/gene/14284) | [MGI:102858](http://www.informatics.jax.org/marker/MGI:102858) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100494449](https://www.ncbi.nlm.nih.gov/gene/100494449), [398055](https://www.ncbi.nlm.nih.gov/gene/398055) | [6258092](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6258092) |  |
-| Zebrafish | [ENSDARG00000040623](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040623) | [100331923](https://www.ncbi.nlm.nih.gov/gene/100331923), [558921](https://www.ncbi.nlm.nih.gov/gene/558921) | [ZFIN:ZDB-GENE-070209-164](https://zfin.org/ZDB-GENE-070209-164) | ZDB-GENE-070209-164 |
+| Xenopus | [ENSXETG00000048154](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000048154) | [100494449](https://www.ncbi.nlm.nih.gov/gene/100494449) |  |  |
+| Zebrafish | [ENSDARG00000040623](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040623) | [558921](https://www.ncbi.nlm.nih.gov/gene/558921) | [ZFIN:ZDB-GENE-070209-164](https://zfin.org/ZDB-GENE-070209-164) | regulation of DNA-templated transcription, regulation of cardiac muscle cell myoblast differentiation, regulation of transcription by RNA polymerase II |
 

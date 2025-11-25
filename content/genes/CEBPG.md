@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395800
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_206859
 forward_primer: TTCCTTGAGCACGCACACAGTC
-gene_id: '449996'
+gene_id: '395800'
 gene_type: protein-coding
 images:
 - caption: CEBPG expression
@@ -96,13 +96,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R604.CEBPG.S23A.001.jpg
 name: CCAAT/enhancer binding protein gamma
-ncbi_id: '449996'
+ncbi_id: '395800'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000153879
   entrez: '1054'
   mod: MIM:138972
@@ -114,23 +109,24 @@ orthologs:
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
 - ensembl: ''
-  entrez: 549197,734420
-  mod: '919757'
+  entrez: '549197'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000036073
   entrez: '140816'
   mod: ZFIN:ZDB-GENE-020111-5
-  phenotypes: ZDB-GENE-020111-5
+  phenotypes: DNA-templated transcription, regulation of DNA-templated transcription,
+    regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAATCTTGTTCTCCTACCGCCCCAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449996
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395800
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449996
+  url: https://www.ncbi.nlm.nih.gov/gene/395800
 species: Gallus gallus
 symbol: CEBPG
 template_length: '844'
@@ -153,9 +149,8 @@ title: CEBPG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000153879](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000153879) | [1054](https://www.ncbi.nlm.nih.gov/gene/1054) | [MIM:138972](https://omim.org/entry/138972) |  |
 | Mouse | [ENSMUSG00000056216](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000056216) | [12611](https://www.ncbi.nlm.nih.gov/gene/12611) | [MGI:104982](http://www.informatics.jax.org/marker/MGI:104982) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [549197](https://www.ncbi.nlm.nih.gov/gene/549197), [734420](https://www.ncbi.nlm.nih.gov/gene/734420) | [919757](http://www.xenbase.org/gene/showgene.do?method=display&geneId=919757) |  |
-| Zebrafish | [ENSDARG00000036073](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036073) | [140816](https://www.ncbi.nlm.nih.gov/gene/140816) | [ZFIN:ZDB-GENE-020111-5](https://zfin.org/ZDB-GENE-020111-5) | ZDB-GENE-020111-5 |
+| Xenopus |  | [549197](https://www.ncbi.nlm.nih.gov/gene/549197) |  |  |
+| Zebrafish | [ENSDARG00000036073](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036073) | [140816](https://www.ncbi.nlm.nih.gov/gene/140816) | [ZFIN:ZDB-GENE-020111-5](https://zfin.org/ZDB-GENE-020111-5) | DNA-templated transcription, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

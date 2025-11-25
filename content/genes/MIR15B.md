@@ -3,7 +3,6 @@ aliases:
 - MIRN15B, gga-mir-15b, microRNA mir-15b, mir-15b
 cgnc_id: '59116'
 external_ids:
-  '25': stage 25
   Comments: "this miR contained in SMC4 structural maintenance of chromosomes 4-like\
     \ 1; ENSGALG00000009553; \r\nnear mir-16-2"
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -11,7 +10,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/777827
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006096.3?report=genbank&from=21653585&to=21653675&strand=true
-gene_id: '467926'
+gene_id: '777827'
 gene_type: miscRNA
 images:
 - caption: MIR15B expression
@@ -36,7 +35,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/15b.9.st25.z.jpg
 name: microRNA 15b
-ncbi_id: '467926'
+ncbi_id: '777827'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -66,10 +65,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467926
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777827
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467926
+  url: https://www.ncbi.nlm.nih.gov/gene/777827
 species: Gallus gallus
 symbol: MIR15B
 title: MIR15B

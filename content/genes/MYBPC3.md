@@ -14,7 +14,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0001671
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205116
 forward_primer: 5’-AGTTGAGCTGACACGGGAAG-3’
-gene_id: '459240'
+gene_id: '396013'
 gene_type: protein-coding
 images:
 - caption: MYBPC3 expression
@@ -137,13 +137,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R653.MYBPC3.S26V.001.jpg
 name: myosin binding protein C, cardiac
-ncbi_id: '459240'
+ncbi_id: '396013'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134571
   entrez: '4607'
   mod: MIM:600958
@@ -154,24 +149,25 @@ orthologs:
   mod: MGI:102844
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(4) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100127177,398261
-  mod: '479642'
+- ensembl: ENSXETG00000007912
+  entrez: '100127177'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000011615
   entrez: '556489'
   mod: ZFIN:ZDB-GENE-070112-2362
-  phenotypes: ZDB-GENE-070112-2362
+  phenotypes: cardiac atrium formation, cardiac ventricle formation, heart contraction,
+    heart morphogenesis, regulation of heart rate
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGATGTAGGAGGTTGCCACTGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459240
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396013
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459240
+  url: https://www.ncbi.nlm.nih.gov/gene/396013
 species: Gallus gallus
 symbol: MYBPC3
 template_length: '917'
@@ -197,9 +193,8 @@ title: MYBPC3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000134571](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134571) | [4607](https://www.ncbi.nlm.nih.gov/gene/4607) | [MIM:600958](https://omim.org/entry/600958) | MIM:115200 |
 | Mouse | [ENSMUSG00000002100](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002100) | [17868](https://www.ncbi.nlm.nih.gov/gene/17868) | [MGI:102844](http://www.informatics.jax.org/marker/MGI:102844) | All phenotypic alleles (7):Targeted, knock-out(4) Targeted, other(3) |
-| Xenopus |  | [100127177](https://www.ncbi.nlm.nih.gov/gene/100127177), [398261](https://www.ncbi.nlm.nih.gov/gene/398261) | [479642](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479642) |  |
-| Zebrafish | [ENSDARG00000011615](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011615) | [556489](https://www.ncbi.nlm.nih.gov/gene/556489) | [ZFIN:ZDB-GENE-070112-2362](https://zfin.org/ZDB-GENE-070112-2362) | ZDB-GENE-070112-2362 |
+| Xenopus | [ENSXETG00000007912](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007912) | [100127177](https://www.ncbi.nlm.nih.gov/gene/100127177) |  |  |
+| Zebrafish | [ENSDARG00000011615](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011615) | [556489](https://www.ncbi.nlm.nih.gov/gene/556489) | [ZFIN:ZDB-GENE-070112-2362](https://zfin.org/ZDB-GENE-070112-2362) | cardiac atrium formation, cardiac ventricle formation, heart contraction, heart morphogenesis, regulation of heart rate |
 

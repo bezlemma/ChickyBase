@@ -6,7 +6,6 @@ aliases:
 - PR domain containing 1, with ZNF domain
 cgnc_id: '11462'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Citation: 'Zwane TB, Nikitina NV. Spatiotemporal expression analysis of Prdm1 and
     Prdm1 binding partners in early chick embryo. Gene Expr Patterns.  2015 Jan;17(1):56-68.
     Epub 2015 Feb 17. DOI: 10.1016/j.gep.2014.12.003.'
@@ -20,7 +19,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641038
   X-XIV: stage XIII
 forward_primer: 5’-TGGTACAGCAGCCAGTTCAG-3’
-gene_id: '453424'
+gene_id: '445340'
 gene_type: protein-coding
 images:
 - caption: PRDM1 expression
@@ -476,41 +475,38 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMI1.Travers.2023.jpg
 name: PR/SET domain 1
-ncbi_id: '453424'
+ncbi_id: '445340'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000057657
+  entrez: '639'
+  mod: MIM:603423
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000038151
+  entrez: '12142'
+  mod: MGI:99655
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000008674
+  entrez: '493207'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000002445
+  entrez: '323473'
+  mod: ZFIN:ZDB-GENE-030131-2193
+  phenotypes: cartilage development involved in endochondral bone morphogenesis, cell
+    fate commitment, cellular developmental process, cranial skeletal system development,
+    developmental pigmentation
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTTTCCCTTCTGAGCACGGTC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453424
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=445340
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453424
+  url: https://www.ncbi.nlm.nih.gov/gene/445340
 species: Gallus gallus
 symbol: PRDM1
 template_length: '743'
@@ -536,9 +532,8 @@ title: PRDM1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000057657](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000057657) | [639](https://www.ncbi.nlm.nih.gov/gene/639) | [MIM:603423](https://omim.org/entry/603423) |  |
+| Mouse | [ENSMUSG00000038151](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038151) | [12142](https://www.ncbi.nlm.nih.gov/gene/12142) | [MGI:99655](http://www.informatics.jax.org/marker/MGI:99655) |  |
+| Xenopus | [ENSXETG00000008674](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008674) | [493207](https://www.ncbi.nlm.nih.gov/gene/493207) |  |  |
+| Zebrafish | [ENSDARG00000002445](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002445) | [323473](https://www.ncbi.nlm.nih.gov/gene/323473) | [ZFIN:ZDB-GENE-030131-2193](https://zfin.org/ZDB-GENE-030131-2193) | cartilage development involved in endochondral bone morphogenesis, cell fate commitment, cellular developmental process, cranial skeletal system development, developmental pigmentation |
 

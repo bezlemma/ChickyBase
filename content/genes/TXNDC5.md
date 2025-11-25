@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420867
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006374
-gene_id: '454145'
+gene_id: '420867'
 gene_type: protein-coding
 images:
 - caption: TXNDC5 expression
@@ -51,16 +51,11 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP6.Domowicz.2009
     Fig3BMP6.png
 name: thioredoxin domain containing 5
-ncbi_id: '454145'
+ncbi_id: '420867'
 orthologs:
-- ensembl: ''
-  entrez: '32124'
-  mod: FBgn0030329
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000239264
   entrez: '81567'
-  mod: ''
+  mod: MIM:616412
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000038991
@@ -68,20 +63,20 @@ orthologs:
   mod: MGI:2145316
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 394794,380136
-  mod: '490944'
+- ensembl: ENSXETG00000020457
+  entrez: '394794'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000009342
   entrez: '406289'
   mod: ZFIN:ZDB-GENE-040426-1951
-  phenotypes: ZDB-GENE-040426-1951
+  phenotypes: protein folding
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454145
+  url: https://www.ncbi.nlm.nih.gov/gene/420867
 species: Gallus gallus
 symbol: TXNDC5
 title: TXNDC5
@@ -111,9 +106,8 @@ and was extracted using the first primer from NCBI Acc# XM_418956.3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32124](https://www.ncbi.nlm.nih.gov/gene/32124) | FBgn0030329 |  |
-| Human | [ENSG00000239264](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000239264) | [81567](https://www.ncbi.nlm.nih.gov/gene/81567) |  |  |
+| Human | [ENSG00000239264](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000239264) | [81567](https://www.ncbi.nlm.nih.gov/gene/81567) | [MIM:616412](https://omim.org/entry/616412) |  |
 | Mouse | [ENSMUSG00000038991](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038991) | [105245](https://www.ncbi.nlm.nih.gov/gene/105245) | [MGI:2145316](http://www.informatics.jax.org/marker/MGI:2145316) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [394794](https://www.ncbi.nlm.nih.gov/gene/394794), [380136](https://www.ncbi.nlm.nih.gov/gene/380136) | [490944](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490944) |  |
-| Zebrafish | [ENSDARG00000009342](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009342) | [406289](https://www.ncbi.nlm.nih.gov/gene/406289) | [ZFIN:ZDB-GENE-040426-1951](https://zfin.org/ZDB-GENE-040426-1951) | ZDB-GENE-040426-1951 |
+| Xenopus | [ENSXETG00000020457](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020457) | [394794](https://www.ncbi.nlm.nih.gov/gene/394794) |  |  |
+| Zebrafish | [ENSDARG00000009342](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009342) | [406289](https://www.ncbi.nlm.nih.gov/gene/406289) | [ZFIN:ZDB-GENE-040426-1951](https://zfin.org/ZDB-GENE-040426-1951) | protein folding |
 

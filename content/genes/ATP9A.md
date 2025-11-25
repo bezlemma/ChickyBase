@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419345
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417508
-gene_id: '454721'
+gene_id: '419345'
 gene_type: protein-coding
 images:
 - caption: ATP9A expression
@@ -136,13 +136,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ChEST125i5_HH 24
     x20 left.jpg
 name: ATPase phospholipid transporting 9A (putative)
-ncbi_id: '454721'
+ncbi_id: '419345'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000054793
   entrez: '10079'
   mod: MIM:609126
@@ -153,20 +148,15 @@ orthologs:
   mod: MGI:1330826
   phenotypes: All phenotypic alleles (4):Spontaneous(1) Targeted, other(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000012313
   entrez: '394841'
-  mod: '942214'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ZFIN:ZDB-GENE-120919-2
-  phenotypes: ZDB-GENE-120919-2
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454721
+  url: https://www.ncbi.nlm.nih.gov/gene/419345
 species: Gallus gallus
 symbol: ATP9A
 title: ATP9A
@@ -190,9 +180,7 @@ title: ATP9A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000054793](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000054793) | [10079](https://www.ncbi.nlm.nih.gov/gene/10079) | [MIM:609126](https://omim.org/entry/609126) |  |
 | Mouse | [ENSMUSG00000027546](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027546) | [11981](https://www.ncbi.nlm.nih.gov/gene/11981) | [MGI:1330826](http://www.informatics.jax.org/marker/MGI:1330826) | All phenotypic alleles (4):Spontaneous(1) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [394841](https://www.ncbi.nlm.nih.gov/gene/394841) | [942214](http://www.xenbase.org/gene/showgene.do?method=display&geneId=942214) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-120919-2](https://zfin.org/ZDB-GENE-120919-2) | ZDB-GENE-120919-2 |
+| Xenopus | [ENSXETG00000012313](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012313) | [394841](https://www.ncbi.nlm.nih.gov/gene/394841) |  |  |
 

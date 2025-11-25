@@ -21,7 +21,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031289
 forward_primer: CGCTGAACCTGTCCGACGCG
-gene_id: '451155'
+gene_id: '424673'
 gene_type: protein-coding
 images:
 - caption: JUN expression
@@ -156,13 +156,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/c-Jun.Singh.2016.Fig1.jpg
 name: Jun proto-oncogene, AP-1 transcription factor subunit
-ncbi_id: '451155'
+ncbi_id: '424673'
 orthologs:
-- ensembl: ''
-  entrez: '36057'
-  mod: FBgn0001291
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000177606
   entrez: '3725'
   mod: MIM:165160
@@ -173,24 +168,26 @@ orthologs:
   mod: MGI:96646
   phenotypes: All phenotypic alleles (11):Targeted, knock-out(3) Targeted, other(8)
   species: Mouse
-- ensembl: ''
-  entrez: 100493911,399400
-  mod: '482227'
+- ensembl: ENSXETG00000046489
+  entrez: '100493911'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000043531
   entrez: '335916'
   mod: ZFIN:ZDB-GENE-030131-7859
-  phenotypes: ZDB-GENE-030131-7859
+  phenotypes: brain development, canonical Wnt signaling pathway, positive regulation
+    of transcription by RNA polymerase II, regulation of DNA-templated transcription,
+    regulation of cell cycle
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGATGCGCTTTCGAGCACGCAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451155
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424673
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451155
+  url: https://www.ncbi.nlm.nih.gov/gene/424673
 species: Gallus gallus
 symbol: JUN
 template_length: '957'
@@ -222,9 +219,8 @@ title: JUN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36057](https://www.ncbi.nlm.nih.gov/gene/36057) | FBgn0001291 |  |
 | Human | [ENSG00000177606](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000177606) | [3725](https://www.ncbi.nlm.nih.gov/gene/3725) | [MIM:165160](https://omim.org/entry/165160) |  |
 | Mouse | [ENSMUSG00000052684](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000052684) | [16476](https://www.ncbi.nlm.nih.gov/gene/16476) | [MGI:96646](http://www.informatics.jax.org/marker/MGI:96646) | All phenotypic alleles (11):Targeted, knock-out(3) Targeted, other(8) |
-| Xenopus |  | [100493911](https://www.ncbi.nlm.nih.gov/gene/100493911), [399400](https://www.ncbi.nlm.nih.gov/gene/399400) | [482227](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482227) |  |
-| Zebrafish | [ENSDARG00000043531](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043531) | [335916](https://www.ncbi.nlm.nih.gov/gene/335916) | [ZFIN:ZDB-GENE-030131-7859](https://zfin.org/ZDB-GENE-030131-7859) | ZDB-GENE-030131-7859 |
+| Xenopus | [ENSXETG00000046489](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000046489) | [100493911](https://www.ncbi.nlm.nih.gov/gene/100493911) |  |  |
+| Zebrafish | [ENSDARG00000043531](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043531) | [335916](https://www.ncbi.nlm.nih.gov/gene/335916) | [ZFIN:ZDB-GENE-030131-7859](https://zfin.org/ZDB-GENE-030131-7859) | brain development, canonical Wnt signaling pathway, positive regulation of transcription by RNA polymerase II, regulation of DNA-templated transcription, regulation of cell cycle |
 

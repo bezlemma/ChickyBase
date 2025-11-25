@@ -1,8 +1,6 @@
 ---
 cgnc_id: '11008'
 external_ids:
-  '13': stage 13
-  '25': stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0027788
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Maroto+Dale+Petit+oscillations
   Comments: Images provided by Claire Anderson; Sequence was obtained from NCBI accession
@@ -15,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421718
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419754
 forward_primer: TGAAGCGACCTTGCGAGGAAAC
-gene_id: '454725'
+gene_id: '421718'
 gene_type: protein-coding
 images:
 - caption: HEY2 expression
@@ -372,13 +370,8 @@ images:
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HEY2_HH 13 x20.jpg
 name: hes related family bHLH transcription factor with YRPW motif 2
-ncbi_id: '454725'
+ncbi_id: '421718'
 orthologs:
-- ensembl: ''
-  entrez: '35764'
-  mod: FBgn0027788
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000135547
   entrez: '23493'
   mod: MIM:604674
@@ -389,24 +382,25 @@ orthologs:
   mod: MGI:1341884
   phenotypes: All phenotypic alleles (9):Targeted, knock-out(4) Targeted, other(5)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000035434
   entrez: '100485328'
-  mod: '485922'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000013441
   entrez: '58146'
   mod: ZFIN:ZDB-GENE-000526-1
-  phenotypes: ZDB-GENE-000526-1
+  phenotypes: Notch signaling pathway, anterior/posterior pattern specification, artery
+    development, artery morphogenesis, blood vessel development
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTGCCCCACTGCCAGCCTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454725
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421718
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454725
+  url: https://www.ncbi.nlm.nih.gov/gene/421718
 species: Gallus gallus
 symbol: HEY2
 template_length: '959'
@@ -435,9 +429,8 @@ title: HEY2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35764](https://www.ncbi.nlm.nih.gov/gene/35764) | FBgn0027788 |  |
 | Human | [ENSG00000135547](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135547) | [23493](https://www.ncbi.nlm.nih.gov/gene/23493) | [MIM:604674](https://omim.org/entry/604674) |  |
 | Mouse | [ENSMUSG00000019789](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019789) | [15214](https://www.ncbi.nlm.nih.gov/gene/15214) | [MGI:1341884](http://www.informatics.jax.org/marker/MGI:1341884) | All phenotypic alleles (9):Targeted, knock-out(4) Targeted, other(5) |
-| Xenopus |  | [100485328](https://www.ncbi.nlm.nih.gov/gene/100485328) | [485922](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485922) |  |
-| Zebrafish | [ENSDARG00000013441](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013441) | [58146](https://www.ncbi.nlm.nih.gov/gene/58146) | [ZFIN:ZDB-GENE-000526-1](https://zfin.org/ZDB-GENE-000526-1) | ZDB-GENE-000526-1 |
+| Xenopus | [ENSXETG00000035434](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000035434) | [100485328](https://www.ncbi.nlm.nih.gov/gene/100485328) |  |  |
+| Zebrafish | [ENSDARG00000013441](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013441) | [58146](https://www.ncbi.nlm.nih.gov/gene/58146) | [ZFIN:ZDB-GENE-000526-1](https://zfin.org/ZDB-GENE-000526-1) | Notch signaling pathway, anterior/posterior pattern specification, artery development, artery morphogenesis, blood vessel development |
 

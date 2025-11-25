@@ -168,7 +168,7 @@ orthologs:
 - ensembl: ENSDARG00000036840
   entrez: '406844'
   mod: ZFIN:ZDB-GENE-040426-2931
-  phenotypes: ZDB-GENE-040426-2931
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCTCCGATTTGCTGCTCTGTATC
 sources:
@@ -203,5 +203,5 @@ title: KRT15
 | Human |  | [3866](https://www.ncbi.nlm.nih.gov/gene/3866) | [MIM:148030](https://omim.org/entry/148030) |  |
 | Mouse | [ENSMUSG00000054146](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000054146) | [16665](https://www.ncbi.nlm.nih.gov/gene/16665) | [MGI:96689](http://www.informatics.jax.org/marker/MGI:96689) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
 | Xenopus |  | [100379888](https://www.ncbi.nlm.nih.gov/gene/100379888), [779065](https://www.ncbi.nlm.nih.gov/gene/779065) | [6040162](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6040162) |  |
-| Zebrafish | [ENSDARG00000036840](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036840) | [406844](https://www.ncbi.nlm.nih.gov/gene/406844) | [ZFIN:ZDB-GENE-040426-2931](https://zfin.org/ZDB-GENE-040426-2931) | ZDB-GENE-040426-2931 |
+| Zebrafish | [ENSDARG00000036840](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036840) | [406844](https://www.ncbi.nlm.nih.gov/gene/406844) | [ZFIN:ZDB-GENE-040426-2931](https://zfin.org/ZDB-GENE-040426-2931) |  |
 

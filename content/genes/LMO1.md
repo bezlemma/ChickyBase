@@ -7,7 +7,6 @@ aliases:
 - cysteine-rich protein TTG-1
 cgnc_id: '64309'
 external_ids:
-  '7': stage 7
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Trevers et al. 2023.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#

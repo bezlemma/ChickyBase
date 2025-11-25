@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374266
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003779
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204348
-gene_id: '455912'
+gene_id: '374266'
 gene_type: protein-coding
 images:
 - caption: XIRP1 expression
@@ -196,37 +196,23 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BD fig 6.jpg
 name: xin actin binding repeat containing 1
-ncbi_id: '455912'
+ncbi_id: '374266'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000034887
   entrez: '100484998'
-  mod: '6039811'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000030722
   entrez: '497637'
   mod: ZFIN:ZDB-GENE-050221-2
-  phenotypes: ZDB-GENE-050221-2
+  phenotypes: actin cytoskeleton organization, actin filament organization, glial
+    cell development, retina development in camera-type eye, retina layer formation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455912
+  url: https://www.ncbi.nlm.nih.gov/gene/374266
 species: Gallus gallus
 symbol: XIRP1
 title: XIRP1
@@ -255,9 +241,6 @@ title: XIRP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100484998](https://www.ncbi.nlm.nih.gov/gene/100484998) | [6039811](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6039811) |  |
-| Zebrafish | [ENSDARG00000030722](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030722) | [497637](https://www.ncbi.nlm.nih.gov/gene/497637) | [ZFIN:ZDB-GENE-050221-2](https://zfin.org/ZDB-GENE-050221-2) | ZDB-GENE-050221-2 |
+| Xenopus | [ENSXETG00000034887](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034887) | [100484998](https://www.ncbi.nlm.nih.gov/gene/100484998) |  |  |
+| Zebrafish | [ENSDARG00000030722](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030722) | [497637](https://www.ncbi.nlm.nih.gov/gene/497637) | [ZFIN:ZDB-GENE-050221-2](https://zfin.org/ZDB-GENE-050221-2) | actin cytoskeleton organization, actin filament organization, glial cell development, retina development in camera-type eye, retina layer formation |
 

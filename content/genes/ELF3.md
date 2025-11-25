@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421177
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419257
   X-XIV: stage XII
-gene_id: '460117'
+gene_id: '421177'
 gene_type: protein-coding
 images:
 - caption: ELF3 expression
@@ -57,13 +57,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ELF3.Trevers.2023-Fig7-5-O.jpg
 name: E74 like ETS transcription factor 3
-ncbi_id: '460117'
+ncbi_id: '421177'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163435
   entrez: '1999'
   mod: MIM:602191
@@ -74,23 +69,24 @@ orthologs:
   mod: MGI:1101781
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000031510
   entrez: '100144720'
-  mod: '853528'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000077982
   entrez: '560869'
   mod: ZFIN:ZDB-GENE-030131-8760
-  phenotypes: ZDB-GENE-030131-8760
+  phenotypes: cartilage morphogenesis, cell differentiation, fin morphogenesis, neuron
+    projection development, regulation of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460117
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421177
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460117
+  url: https://www.ncbi.nlm.nih.gov/gene/421177
 species: Gallus gallus
 symbol: ELF3
 title: ELF3
@@ -114,9 +110,8 @@ title: ELF3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163435](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163435) | [1999](https://www.ncbi.nlm.nih.gov/gene/1999) | [MIM:602191](https://omim.org/entry/602191) |  |
 | Mouse | [ENSMUSG00000003051](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000003051) | [13710](https://www.ncbi.nlm.nih.gov/gene/13710) | [MGI:1101781](http://www.informatics.jax.org/marker/MGI:1101781) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [100144720](https://www.ncbi.nlm.nih.gov/gene/100144720) | [853528](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853528) |  |
-| Zebrafish | [ENSDARG00000077982](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077982) | [560869](https://www.ncbi.nlm.nih.gov/gene/560869) | [ZFIN:ZDB-GENE-030131-8760](https://zfin.org/ZDB-GENE-030131-8760) | ZDB-GENE-030131-8760 |
+| Xenopus | [ENSXETG00000031510](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031510) | [100144720](https://www.ncbi.nlm.nih.gov/gene/100144720) |  |  |
+| Zebrafish | [ENSDARG00000077982](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077982) | [560869](https://www.ncbi.nlm.nih.gov/gene/560869) | [ZFIN:ZDB-GENE-030131-8760](https://zfin.org/ZDB-GENE-030131-8760) | cartilage morphogenesis, cell differentiation, fin morphogenesis, neuron projection development, regulation of DNA-templated transcription |
 

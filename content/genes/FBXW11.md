@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416181
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001039262
-gene_id: '457551'
+gene_id: '416181'
 gene_type: protein-coding
 images:
 - caption: FBXW11 expression
@@ -45,13 +45,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BTRC.FIG4G.AGARWALA.2005.jpg
 name: F-box and WD repeat domain containing 11
-ncbi_id: '457551'
+ncbi_id: '416181'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000072803
   entrez: '23291'
   mod: MIM:605651
@@ -62,20 +57,15 @@ orthologs:
   mod: MGI:2144023
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000017230,ENSDARG00000028543
-  entrez: 406825,334373
-  mod: ZFIN:ZDB-GENE-040426-2903,ZFIN:ZDB-GENE-030131-6305
-  phenotypes: ZDB-GENE-040426-2903,ZDB-GENE-030131-6305
+- ensembl: ENSDARG00000112841
+  entrez: '406825'
+  mod: ZFIN:ZDB-GENE-040426-2903
+  phenotypes: Wnt signaling pathway, protein ubiquitination, sprouting angiogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457551
+  url: https://www.ncbi.nlm.nih.gov/gene/416181
 species: Gallus gallus
 symbol: FBXW11
 title: FBXW11
@@ -101,9 +91,7 @@ title: FBXW11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000072803](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000072803) | [23291](https://www.ncbi.nlm.nih.gov/gene/23291) | [MIM:605651](https://omim.org/entry/605651) |  |
 | Mouse | [ENSMUSG00000020271](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020271) | [103583](https://www.ncbi.nlm.nih.gov/gene/103583) | [MGI:2144023](http://www.informatics.jax.org/marker/MGI:2144023) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000017230](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017230), [ENSDARG00000028543](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028543) | [406825](https://www.ncbi.nlm.nih.gov/gene/406825), [334373](https://www.ncbi.nlm.nih.gov/gene/334373) | [ZFIN:ZDB-GENE-040426-2903](https://zfin.org/ZDB-GENE-040426-2903), [ZFIN:ZDB-GENE-030131-6305](https://zfin.org/ZDB-GENE-030131-6305) | ZDB-GENE-040426-2903,ZDB-GENE-030131-6305 |
+| Zebrafish | [ENSDARG00000112841](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000112841) | [406825](https://www.ncbi.nlm.nih.gov/gene/406825) | [ZFIN:ZDB-GENE-040426-2903](https://zfin.org/ZDB-GENE-040426-2903) | Wnt signaling pathway, protein ubiquitination, sprouting angiogenesis |
 

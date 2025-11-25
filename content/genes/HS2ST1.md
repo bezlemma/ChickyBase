@@ -13,7 +13,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204481
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/HS2ST1
 forward_primer: TTCAGTTTGTCAGAGCACACGC
-gene_id: '462174'
+gene_id: '395140'
 gene_type: protein-coding
 images:
 - caption: HS2ST1 expression
@@ -169,13 +169,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R472.HS2ST1.S26CC.001.jpg
 name: heparan sulfate 2-O-sulfotransferase 1
-ncbi_id: '462174'
+ncbi_id: '395140'
 orthologs:
-- ensembl: ''
-  entrez: '44433'
-  mod: FBgn0024230
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000153936
   entrez: '9653'
   mod: MIM:604844
@@ -187,24 +182,26 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100145562,399095
-  mod: '5953191'
+- ensembl: ENSXETG00000013450
+  entrez: '100145562'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000062078
+- ensembl: ENSDARG00000099478
   entrez: '791188'
-  mod: ZFIN:ZDB-GENE-070112-2312,ZFIN:ZDB-GENE-100304-1
-  phenotypes: ZDB-GENE-070112-2312,ZDB-GENE-100304-1
+  mod: ZFIN:ZDB-GENE-070112-2312
+  phenotypes: epiboly involved in gastrulation with mouth forming second, heparan
+    sulfate proteoglycan biosynthetic process, regulation of canonical Wnt signaling
+    pathway, regulation of cell-cell adhesion mediated by cadherin
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGCAGTTTTCCCAACCTCAGTCAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462174
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395140
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462174
+  url: https://www.ncbi.nlm.nih.gov/gene/395140
 species: Gallus gallus
 symbol: HS2ST1
 template_length: '818'
@@ -231,9 +228,8 @@ title: HS2ST1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [44433](https://www.ncbi.nlm.nih.gov/gene/44433) | FBgn0024230 |  |
 | Human | [ENSG00000153936](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000153936) | [9653](https://www.ncbi.nlm.nih.gov/gene/9653) | [MIM:604844](https://omim.org/entry/604844) |  |
 | Mouse | [ENSMUSG00000040151](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040151) | [23908](https://www.ncbi.nlm.nih.gov/gene/23908) | [MGI:1346049](http://www.informatics.jax.org/marker/MGI:1346049) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [100145562](https://www.ncbi.nlm.nih.gov/gene/100145562), [399095](https://www.ncbi.nlm.nih.gov/gene/399095) | [5953191](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5953191) |  |
-| Zebrafish | [ENSDARG00000062078](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062078) | [791188](https://www.ncbi.nlm.nih.gov/gene/791188) | [ZFIN:ZDB-GENE-070112-2312](https://zfin.org/ZDB-GENE-070112-2312), [ZFIN:ZDB-GENE-100304-1](https://zfin.org/ZDB-GENE-100304-1) | ZDB-GENE-070112-2312,ZDB-GENE-100304-1 |
+| Xenopus | [ENSXETG00000013450](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013450) | [100145562](https://www.ncbi.nlm.nih.gov/gene/100145562) |  |  |
+| Zebrafish | [ENSDARG00000099478](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099478) | [791188](https://www.ncbi.nlm.nih.gov/gene/791188) | [ZFIN:ZDB-GENE-070112-2312](https://zfin.org/ZDB-GENE-070112-2312) | epiboly involved in gastrulation with mouth forming second, heparan sulfate proteoglycan biosynthetic process, regulation of canonical Wnt signaling pathway, regulation of cell-cell adhesion mediated by cadherin |
 

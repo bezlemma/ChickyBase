@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420463
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030969
   X-XIV: stage XIII
-gene_id: '456166'
+gene_id: '420463'
 gene_type: protein-coding
 images:
 - caption: KLF6 expression
@@ -255,13 +255,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KLF6.Trevers.2023-Fig7-6-S.jpg
 name: Kruppel like factor 6
-ncbi_id: '456166'
+ncbi_id: '420463'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000067082
   entrez: '1316'
   mod: MIM:602053
@@ -272,23 +267,24 @@ orthologs:
   mod: MGI:1346318
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 493232,446965,379949,100127627,443752
-  mod: 986302,1008747
+- ensembl: ENSXETG00000035442
+  entrez: '493232'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000029072
-  entrez: 280650,793760
-  mod: ZFIN:ZDB-GENE-021115-9,ZFIN:ZDB-GENE-070912-633
-  phenotypes: ZDB-GENE-021115-9,ZDB-GENE-070912-633
+  entrez: '280650'
+  mod: ZFIN:ZDB-GENE-021115-9
+  phenotypes: digestive tract development, erythrocyte maturation, liver development,
+    optic nerve formation, organ growth
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456166
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420463
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456166
+  url: https://www.ncbi.nlm.nih.gov/gene/420463
 species: Gallus gallus
 symbol: KLF6
 title: KLF6
@@ -314,9 +310,8 @@ title: KLF6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000067082](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000067082) | [1316](https://www.ncbi.nlm.nih.gov/gene/1316) | [MIM:602053](https://omim.org/entry/602053) | MIM:137215 |
 | Mouse | [ENSMUSG00000000078](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000078) | [23849](https://www.ncbi.nlm.nih.gov/gene/23849) | [MGI:1346318](http://www.informatics.jax.org/marker/MGI:1346318) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [493232](https://www.ncbi.nlm.nih.gov/gene/493232), [446965](https://www.ncbi.nlm.nih.gov/gene/446965), [379949](https://www.ncbi.nlm.nih.gov/gene/379949), [100127627](https://www.ncbi.nlm.nih.gov/gene/100127627), [443752](https://www.ncbi.nlm.nih.gov/gene/443752) | [986302](http://www.xenbase.org/gene/showgene.do?method=display&geneId=986302), [1008747](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1008747) |  |
-| Zebrafish | [ENSDARG00000029072](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029072) | [280650](https://www.ncbi.nlm.nih.gov/gene/280650), [793760](https://www.ncbi.nlm.nih.gov/gene/793760) | [ZFIN:ZDB-GENE-021115-9](https://zfin.org/ZDB-GENE-021115-9), [ZFIN:ZDB-GENE-070912-633](https://zfin.org/ZDB-GENE-070912-633) | ZDB-GENE-021115-9,ZDB-GENE-070912-633 |
+| Xenopus | [ENSXETG00000035442](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000035442) | [493232](https://www.ncbi.nlm.nih.gov/gene/493232) |  |  |
+| Zebrafish | [ENSDARG00000029072](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029072) | [280650](https://www.ncbi.nlm.nih.gov/gene/280650) | [ZFIN:ZDB-GENE-021115-9](https://zfin.org/ZDB-GENE-021115-9) | digestive tract development, erythrocyte maturation, liver development, optic nerve formation, organ growth |
 

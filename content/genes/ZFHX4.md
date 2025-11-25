@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395904
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425925
-gene_id: '450445'
+gene_id: '395904'
 gene_type: protein-coding
 images:
 - caption: ZFHX4 expression
@@ -66,13 +66,8 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54zah2.1223.26.10xb.jpg
 name: zinc finger homeobox 4
-ncbi_id: '450445'
+ncbi_id: '395904'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000091656
   entrez: '79776'
   mod: MIM:606940
@@ -83,23 +78,25 @@ orthologs:
   mod: MGI:2137668
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100486096,494741
-  mod: '957672'
+- ensembl: ENSXETG00000038442
+  entrez: '100486096'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000075542
   entrez: '556453'
-  mod: ZFIN:ZDB-GENE-070530-3,ZFIN:ZDB-GENE-070530-3
-  phenotypes: ZDB-GENE-070530-3,ZDB-GENE-070530-3
+  mod: ZFIN:ZDB-GENE-070530-3
+  phenotypes: neural crest cell migration, positive regulation of DNA-templated transcription,
+    regulation of DNA-templated transcription, regulation of transcription by RNA
+    polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450445
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395904
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450445
+  url: https://www.ncbi.nlm.nih.gov/gene/395904
 species: Gallus gallus
 symbol: ZFHX4
 title: ZFHX4
@@ -125,9 +122,8 @@ title: ZFHX4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000091656](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000091656) | [79776](https://www.ncbi.nlm.nih.gov/gene/79776) | [MIM:606940](https://omim.org/entry/606940) |  |
 | Mouse | [ENSMUSG00000025255](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025255) | [80892](https://www.ncbi.nlm.nih.gov/gene/80892) | [MGI:2137668](http://www.informatics.jax.org/marker/MGI:2137668) |  |
-| Xenopus |  | [100486096](https://www.ncbi.nlm.nih.gov/gene/100486096), [494741](https://www.ncbi.nlm.nih.gov/gene/494741) | [957672](http://www.xenbase.org/gene/showgene.do?method=display&geneId=957672) |  |
-| Zebrafish | [ENSDARG00000075542](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075542) | [556453](https://www.ncbi.nlm.nih.gov/gene/556453) | [ZFIN:ZDB-GENE-070530-3](https://zfin.org/ZDB-GENE-070530-3), [ZFIN:ZDB-GENE-070530-3](https://zfin.org/ZDB-GENE-070530-3) | ZDB-GENE-070530-3,ZDB-GENE-070530-3 |
+| Xenopus | [ENSXETG00000038442](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000038442) | [100486096](https://www.ncbi.nlm.nih.gov/gene/100486096) |  |  |
+| Zebrafish | [ENSDARG00000075542](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075542) | [556453](https://www.ncbi.nlm.nih.gov/gene/556453) | [ZFIN:ZDB-GENE-070530-3](https://zfin.org/ZDB-GENE-070530-3) | neural crest cell migration, positive regulation of DNA-templated transcription, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

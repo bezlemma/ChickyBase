@@ -5,7 +5,6 @@ aliases:
 - neurogenic differentiation 4
 cgnc_id: '49575'
 external_ids:
-  '25': stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0035881
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: https://pubmed.ncbi.nlm.nih.gov/23570883/?from_single_result=Vieceli+Sim%C3%B5es-Costa+2013
@@ -19,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205076
 forward_primer: TGGGGGGATGGCTTTAGTTC
-gene_id: '450504'
+gene_id: '395959'
 gene_type: protein-coding
 images:
 - caption: NEUROD4 expression
@@ -391,13 +390,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Vieceli.2013-NeuroM-Fig6.jpg
 name: neuronal differentiation 4
-ncbi_id: '450504'
+ncbi_id: '395959'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000123307
   entrez: '58158'
   mod: MIM:611635
@@ -408,24 +402,25 @@ orthologs:
   mod: MGI:108055
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100124310,397714
-  mod: '972703'
+- ensembl: ENSXETG00000004295
+  entrez: '100124310'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000003469
   entrez: '266958'
   mod: ZFIN:ZDB-GENE-030730-1
-  phenotypes: ZDB-GENE-030730-1
+  phenotypes: axon development, camera-type eye development, cell differentiation,
+    habenula development, nervous system development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCTCCAGGAATAAGGTCTGCGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450504
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395959
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450504
+  url: https://www.ncbi.nlm.nih.gov/gene/395959
 species: Gallus gallus
 symbol: NEUROD4
 template_length: '642'
@@ -455,9 +450,8 @@ title: NEUROD4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000123307](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000123307) | [58158](https://www.ncbi.nlm.nih.gov/gene/58158) | [MIM:611635](https://omim.org/entry/611635) |  |
 | Mouse | [ENSMUSG00000048015](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048015) | [11923](https://www.ncbi.nlm.nih.gov/gene/11923) | [MGI:108055](http://www.informatics.jax.org/marker/MGI:108055) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100124310](https://www.ncbi.nlm.nih.gov/gene/100124310), [397714](https://www.ncbi.nlm.nih.gov/gene/397714) | [972703](http://www.xenbase.org/gene/showgene.do?method=display&geneId=972703) |  |
-| Zebrafish | [ENSDARG00000003469](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003469) | [266958](https://www.ncbi.nlm.nih.gov/gene/266958) | [ZFIN:ZDB-GENE-030730-1](https://zfin.org/ZDB-GENE-030730-1) | ZDB-GENE-030730-1 |
+| Xenopus | [ENSXETG00000004295](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004295) | [100124310](https://www.ncbi.nlm.nih.gov/gene/100124310) |  |  |
+| Zebrafish | [ENSDARG00000003469](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003469) | [266958](https://www.ncbi.nlm.nih.gov/gene/266958) | [ZFIN:ZDB-GENE-030730-1](https://zfin.org/ZDB-GENE-030730-1) | axon development, camera-type eye development, cell differentiation, habenula development, nervous system development |
 

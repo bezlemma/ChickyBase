@@ -19,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003723
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031322
 forward_primer: AACCCCCTCAGCAGTAAGACATC
-gene_id: '461802'
+gene_id: '425033'
 gene_type: protein-coding
 images:
 - caption: MBNL1 expression
@@ -194,13 +194,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MBNL1.Vajda.2009.Fig.1.png
 name: muscleblind like splicing regulator 1
-ncbi_id: '461802'
+ncbi_id: '425033'
 orthologs:
-- ensembl: ''
-  entrez: '36945'
-  mod: FBgn0261642
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000152601
   entrez: '4154'
   mod: MIM:606516
@@ -211,24 +206,24 @@ orthologs:
   mod: MGI:1928482
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000021655
   entrez: '100498648'
-  mod: '6035556'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000052978
   entrez: '767696'
   mod: ZFIN:ZDB-GENE-060929-704
-  phenotypes: ZDB-GENE-060929-704
+  phenotypes: regulation of RNA splicing
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCTACGCTAATCAACACCTCCGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461802
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=425033
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461802
+  url: https://www.ncbi.nlm.nih.gov/gene/425033
 species: Gallus gallus
 symbol: MBNL1
 template_length: '944'
@@ -262,9 +257,8 @@ TCTGTGTAACATACTTGTG-3_ and was extracted from NCBI Acc# NM_001163324.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36945](https://www.ncbi.nlm.nih.gov/gene/36945) | FBgn0261642 |  |
 | Human | [ENSG00000152601](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000152601) | [4154](https://www.ncbi.nlm.nih.gov/gene/4154) | [MIM:606516](https://omim.org/entry/606516) |  |
 | Mouse | [ENSMUSG00000027763](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027763) | [56758](https://www.ncbi.nlm.nih.gov/gene/56758) | [MGI:1928482](http://www.informatics.jax.org/marker/MGI:1928482) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100498648](https://www.ncbi.nlm.nih.gov/gene/100498648) | [6035556](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6035556) |  |
-| Zebrafish |  | [767696](https://www.ncbi.nlm.nih.gov/gene/767696) | [ZFIN:ZDB-GENE-060929-704](https://zfin.org/ZDB-GENE-060929-704) | ZDB-GENE-060929-704 |
+| Xenopus | [ENSXETG00000021655](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021655) | [100498648](https://www.ncbi.nlm.nih.gov/gene/100498648) |  |  |
+| Zebrafish | [ENSDARG00000052978](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052978) | [767696](https://www.ncbi.nlm.nih.gov/gene/767696) | [ZFIN:ZDB-GENE-060929-704](https://zfin.org/ZDB-GENE-060929-704) | regulation of RNA splicing |
 

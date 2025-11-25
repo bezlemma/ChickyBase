@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418791
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030819
 forward_primer: TTTTCGGAGTCGTCTGTCTGGTCC
-gene_id: '453968'
+gene_id: '418791'
 gene_type: protein-coding
 images:
 - caption: ABCC4 expression
@@ -79,13 +79,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R482.ABCC4.S26A.001.jpg
 name: ATP binding cassette subfamily C member 4
-ncbi_id: '453968'
+ncbi_id: '418791'
 orthologs:
-- ensembl: ''
-  entrez: 42362,34148,35163,35366,47905,326161,41387
-  mod: FBgn0038740,FBgn0032026,FBgn0051792,FBgn0032908,FBgn0010549,FBgn0051793,FBgn0263316
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000125257
   entrez: '10257'
   mod: MIM:605250
@@ -96,24 +91,25 @@ orthologs:
   mod: MGI:2443111
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Gene trapped(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010958
   entrez: '100491006'
-  mod: '957301'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000058953
+- ensembl: ENSDARG00000115375
   entrez: '368620'
   mod: ZFIN:ZDB-GENE-030616-511
-  phenotypes: ZDB-GENE-030616-511
+  phenotypes: chloride transport, detoxification, detoxification of inorganic compound,
+    monoatomic ion transmembrane transport, monoatomic ion transport
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCTTCAGCACTTTGTCTAACACCCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453968
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418791
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453968
+  url: https://www.ncbi.nlm.nih.gov/gene/418791
 species: Gallus gallus
 symbol: ABCC4
 template_length: '1054'
@@ -137,9 +133,8 @@ title: ABCC4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42362](https://www.ncbi.nlm.nih.gov/gene/42362), [34148](https://www.ncbi.nlm.nih.gov/gene/34148), [35163](https://www.ncbi.nlm.nih.gov/gene/35163), [35366](https://www.ncbi.nlm.nih.gov/gene/35366), [47905](https://www.ncbi.nlm.nih.gov/gene/47905), [326161](https://www.ncbi.nlm.nih.gov/gene/326161), [41387](https://www.ncbi.nlm.nih.gov/gene/41387) | FBgn0038740, FBgn0032026, FBgn0051792, FBgn0032908, FBgn0010549, FBgn0051793, FBgn0263316 |  |
 | Human | [ENSG00000125257](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125257) | [10257](https://www.ncbi.nlm.nih.gov/gene/10257) | [MIM:605250](https://omim.org/entry/605250) |  |
 | Mouse | [ENSMUSG00000032849](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032849) | [239273](https://www.ncbi.nlm.nih.gov/gene/239273) | [MGI:2443111](http://www.informatics.jax.org/marker/MGI:2443111) | All phenotypic alleles (4):Targeted, knock-out(2) Gene trapped(2) |
-| Xenopus |  | [100491006](https://www.ncbi.nlm.nih.gov/gene/100491006) | [957301](http://www.xenbase.org/gene/showgene.do?method=display&geneId=957301) |  |
-| Zebrafish | [ENSDARG00000058953](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058953) | [368620](https://www.ncbi.nlm.nih.gov/gene/368620) | [ZFIN:ZDB-GENE-030616-511](https://zfin.org/ZDB-GENE-030616-511) | ZDB-GENE-030616-511 |
+| Xenopus | [ENSXETG00000010958](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010958) | [100491006](https://www.ncbi.nlm.nih.gov/gene/100491006) |  |  |
+| Zebrafish | [ENSDARG00000115375](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115375) | [368620](https://www.ncbi.nlm.nih.gov/gene/368620) | [ZFIN:ZDB-GENE-030616-511](https://zfin.org/ZDB-GENE-030616-511) | chloride transport, detoxification, detoxification of inorganic compound, monoatomic ion transmembrane transport, monoatomic ion transport |
 

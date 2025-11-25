@@ -9,7 +9,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/101750213
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
-gene_id: '504473'
+gene_id: '101750213'
 gene_type: unknown
 images:
 - caption: ATOH1 expression
@@ -69,40 +69,37 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wilson.2007.F9.cath1.png
 name: atonal homolog 1 (Drosophila)
-ncbi_id: '504473'
+ncbi_id: '101750213'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000172238
+  entrez: '474'
+  mod: MIM:601461
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000073043
+  entrez: '11921'
+  mod: MGI:104654
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000023279
+  entrez: '100488309'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000055294
+  entrez: '30303'
+  mod: ZFIN:ZDB-GENE-990415-17
+  phenotypes: auditory receptor cell fate determination, axon development, inner ear
+    auditory receptor cell differentiation, inner ear development, inner ear receptor
+    cell development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=504473
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=101750213
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/504473
+  url: https://www.ncbi.nlm.nih.gov/gene/101750213
 species: Gallus gallus
 symbol: ATOH1
 title: ATOH1
@@ -124,9 +121,8 @@ title: ATOH1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000172238](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000172238) | [474](https://www.ncbi.nlm.nih.gov/gene/474) | [MIM:601461](https://omim.org/entry/601461) |  |
+| Mouse | [ENSMUSG00000073043](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000073043) | [11921](https://www.ncbi.nlm.nih.gov/gene/11921) | [MGI:104654](http://www.informatics.jax.org/marker/MGI:104654) |  |
+| Xenopus | [ENSXETG00000023279](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023279) | [100488309](https://www.ncbi.nlm.nih.gov/gene/100488309) |  |  |
+| Zebrafish | [ENSDARG00000055294](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055294) | [30303](https://www.ncbi.nlm.nih.gov/gene/30303) | [ZFIN:ZDB-GENE-990415-17](https://zfin.org/ZDB-GENE-990415-17) | auditory receptor cell fate determination, axon development, inner ear auditory receptor cell differentiation, inner ear development, inner ear receptor cell development |
 

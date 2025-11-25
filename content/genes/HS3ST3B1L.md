@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769421
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642322
 forward_primer: GGAAAACGAAAGGCAGGACC
-gene_id: '459909'
+gene_id: '769421'
 gene_type: protein-coding
 images:
 - caption: HS3ST3B1L expression
@@ -178,41 +178,26 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R470.HS3ST3B1.S26V001.jpg
 name: heparan sulfate glucosamine 3-O-sulfotransferase 3B1-like
-ncbi_id: '459909'
+ncbi_id: '769421'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000125430
+  entrez: '9953'
+  mod: MIM:604058
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000070407
+  entrez: '54710'
+  mod: MGI:1333853
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGAAAAATGGAAGCACCGTCTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459909
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=769421
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459909
+  url: https://www.ncbi.nlm.nih.gov/gene/769421
 species: Gallus gallus
 symbol: HS3ST3B1L
 template_length: '407'
@@ -234,9 +219,6 @@ title: HS3ST3B1L
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000125430](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125430) | [9953](https://www.ncbi.nlm.nih.gov/gene/9953) | [MIM:604058](https://omim.org/entry/604058) |  |
+| Mouse | [ENSMUSG00000070407](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000070407) | [54710](https://www.ncbi.nlm.nih.gov/gene/54710) | [MGI:1333853](http://www.informatics.jax.org/marker/MGI:1333853) |  |
 

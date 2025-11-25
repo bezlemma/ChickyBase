@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427355
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424932
 forward_primer: 5’-CGGAGGGACACATTCTTG-3’
-gene_id: '461627'
+gene_id: '427355'
 gene_type: protein-coding
 images:
 - caption: FREM1 expression
@@ -104,13 +104,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R692.FREM1.S24.001.jpg
 name: FRAS1 related extracellular matrix 1
-ncbi_id: '461627'
+ncbi_id: '427355'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164946
   entrez: '158326'
   mod: MIM:608944
@@ -122,24 +117,25 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Spontaneous(1) Chemically induced(2) Targeted,
     knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: '100124853'
-  mod: '5791399'
+- ensembl: ENSXETG00000003300
+  entrez: '100488523'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: 100216326,557351
-  mod: ZFIN:ZDB-GENE-081119-1,ZFIN:ZDB-GENE-050208-783
-  phenotypes: ZDB-GENE-081119-1,ZDB-GENE-050208-783
+- ensembl: ENSDARG00000069473
+  entrez: '100216326'
+  mod: ZFIN:ZDB-GENE-081119-1
+  phenotypes: anatomical structure morphogenesis, cell adhesion, cell communication,
+    fin development, fin morphogenesis
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGGTCGGTGGCAAACAAATG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461627
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427355
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461627
+  url: https://www.ncbi.nlm.nih.gov/gene/427355
 species: Gallus gallus
 symbol: FREM1
 template_length: '773'
@@ -162,9 +158,8 @@ title: FREM1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164946](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164946) | [158326](https://www.ncbi.nlm.nih.gov/gene/158326) | [MIM:608944](https://omim.org/entry/608944) | MIM:608980 |
 | Mouse | [ENSMUSG00000059049](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000059049) | [329872](https://www.ncbi.nlm.nih.gov/gene/329872) | [MGI:2670972](http://www.informatics.jax.org/marker/MGI:2670972) | All phenotypic alleles (4):Spontaneous(1) Chemically induced(2) Targeted, knock-out(1) |
-| Xenopus |  | [100124853](https://www.ncbi.nlm.nih.gov/gene/100124853) | [5791399](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5791399) |  |
-| Zebrafish |  | [100216326](https://www.ncbi.nlm.nih.gov/gene/100216326), [557351](https://www.ncbi.nlm.nih.gov/gene/557351) | [ZFIN:ZDB-GENE-081119-1](https://zfin.org/ZDB-GENE-081119-1), [ZFIN:ZDB-GENE-050208-783](https://zfin.org/ZDB-GENE-050208-783) | ZDB-GENE-081119-1,ZDB-GENE-050208-783 |
+| Xenopus | [ENSXETG00000003300](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003300) | [100488523](https://www.ncbi.nlm.nih.gov/gene/100488523) |  |  |
+| Zebrafish | [ENSDARG00000069473](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069473) | [100216326](https://www.ncbi.nlm.nih.gov/gene/100216326) | [ZFIN:ZDB-GENE-081119-1](https://zfin.org/ZDB-GENE-081119-1) | anatomical structure morphogenesis, cell adhesion, cell communication, fin development, fin morphogenesis |
 

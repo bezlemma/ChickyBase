@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423827
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421697
 forward_primer: TGATGTGGGTGACAGGATTCG
-gene_id: '450231'
+gene_id: '423827'
 gene_type: protein-coding
 images:
 - caption: DNMBP expression
@@ -123,41 +123,37 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R402.DNMBP.S26D.001.jpg
 name: dynamin binding protein
-ncbi_id: '450231'
+ncbi_id: '423827'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000107554
   entrez: '23268'
   mod: MIM:611282
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000025195
   entrez: '71972'
   mod: MGI:1917352
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000003739
   entrez: '100498526'
-  mod: '967683'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000074121
   entrez: '100005174'
   mod: ZFIN:ZDB-GENE-101026-2
-  phenotypes: ZDB-GENE-101026-2
+  phenotypes: cell projection organization, cilium assembly, intracellular signal
+    transduction, kidney development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCCAAGATAGAGAAGTGGCGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450231
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423827
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450231
+  url: https://www.ncbi.nlm.nih.gov/gene/423827
 species: Gallus gallus
 symbol: DNMBP
 template_length: '894'
@@ -179,9 +175,8 @@ title: DNMBP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000107554](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107554) | [23268](https://www.ncbi.nlm.nih.gov/gene/23268) | [MIM:611282](https://omim.org/entry/611282) |  |
-| Mouse |  | [71972](https://www.ncbi.nlm.nih.gov/gene/71972) | [MGI:1917352](http://www.informatics.jax.org/marker/MGI:1917352) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100498526](https://www.ncbi.nlm.nih.gov/gene/100498526) | [967683](http://www.xenbase.org/gene/showgene.do?method=display&geneId=967683) |  |
-| Zebrafish | [ENSDARG00000074121](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074121) | [100005174](https://www.ncbi.nlm.nih.gov/gene/100005174) | [ZFIN:ZDB-GENE-101026-2](https://zfin.org/ZDB-GENE-101026-2) | ZDB-GENE-101026-2 |
+| Mouse | [ENSMUSG00000025195](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025195) | [71972](https://www.ncbi.nlm.nih.gov/gene/71972) | [MGI:1917352](http://www.informatics.jax.org/marker/MGI:1917352) | All phenotypic alleles (2):Targeted, other(2) |
+| Xenopus | [ENSXETG00000003739](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003739) | [100498526](https://www.ncbi.nlm.nih.gov/gene/100498526) |  |  |
+| Zebrafish | [ENSDARG00000074121](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074121) | [100005174](https://www.ncbi.nlm.nih.gov/gene/100005174) | [ZFIN:ZDB-GENE-101026-2](https://zfin.org/ZDB-GENE-101026-2) | cell projection organization, cilium assembly, intracellular signal transduction, kidney development |
 

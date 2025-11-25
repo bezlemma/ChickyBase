@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416074
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414411
   X-XIV: stage XII
-gene_id: '458079'
+gene_id: '416074'
 gene_type: protein-coding
 images:
 - caption: FEZF2 expression
@@ -50,13 +50,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FEZF2.Travers.2023-Fig7-1-S.jpg
 name: FEZ family zinc finger 2
-ncbi_id: '458079'
+ncbi_id: '416074'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000153266
   entrez: '55079'
   mod: MIM:607414
@@ -67,23 +62,24 @@ orthologs:
   mod: MGI:1859823
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 549059,735002
-  mod: '1006431'
+- ensembl: ENSXETG00000022248
+  entrez: '549059'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000070677
   entrez: '60634'
   mod: ZFIN:ZDB-GENE-001103-3
-  phenotypes: ZDB-GENE-001103-3
+  phenotypes: cell differentiation, central nervous system neuron development, commissural
+    neuron axon guidance, diencephalon development, forebrain development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458079
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416074
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458079
+  url: https://www.ncbi.nlm.nih.gov/gene/416074
 species: Gallus gallus
 symbol: FEZF2
 title: FEZF2
@@ -107,9 +103,8 @@ title: FEZF2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000153266](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000153266) | [55079](https://www.ncbi.nlm.nih.gov/gene/55079) | [MIM:607414](https://omim.org/entry/607414) |  |
 | Mouse | [ENSMUSG00000021743](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021743) | [54713](https://www.ncbi.nlm.nih.gov/gene/54713) | [MGI:1859823](http://www.informatics.jax.org/marker/MGI:1859823) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [549059](https://www.ncbi.nlm.nih.gov/gene/549059), [735002](https://www.ncbi.nlm.nih.gov/gene/735002) | [1006431](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1006431) |  |
-| Zebrafish | [ENSDARG00000070677](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070677) | [60634](https://www.ncbi.nlm.nih.gov/gene/60634) | [ZFIN:ZDB-GENE-001103-3](https://zfin.org/ZDB-GENE-001103-3) | ZDB-GENE-001103-3 |
+| Xenopus | [ENSXETG00000022248](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022248) | [549059](https://www.ncbi.nlm.nih.gov/gene/549059) |  |  |
+| Zebrafish | [ENSDARG00000070677](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070677) | [60634](https://www.ncbi.nlm.nih.gov/gene/60634) | [ZFIN:ZDB-GENE-001103-3](https://zfin.org/ZDB-GENE-001103-3) | cell differentiation, central nervous system neuron development, commissural neuron axon guidance, diencephalon development, forebrain development |
 

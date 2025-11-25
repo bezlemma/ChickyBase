@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418420
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416634
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/TAGLN3
-gene_id: '455958'
+gene_id: '418420'
 gene_type: protein-coding
 images:
 - caption: TAGLN3 expression
@@ -242,13 +242,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig6.allimages.HH22-2.jpg
 name: transgelin 3
-ncbi_id: '455958'
+ncbi_id: '418420'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000144834
   entrez: '29114'
   mod: MIM:607953
@@ -259,20 +254,15 @@ orthologs:
   mod: MGI:1926784
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSDARG00000115045
+  entrez: '797861'
+  mod: ZFIN:ZDB-GENE-030131-4199
   phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000079805,ENSDARG00000058394
-  entrez: 563096,797861
-  mod: ZFIN:ZDB-GENE-060531-53,ZFIN:ZDB-GENE-030131-4199
-  phenotypes: ZDB-GENE-060531-53,ZDB-GENE-030131-4199
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455958
+  url: https://www.ncbi.nlm.nih.gov/gene/418420
 species: Gallus gallus
 symbol: TAGLN3
 title: TAGLN3
@@ -299,9 +289,7 @@ title: TAGLN3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000144834](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000144834) | [29114](https://www.ncbi.nlm.nih.gov/gene/29114) | [MIM:607953](https://omim.org/entry/607953) |  |
 | Mouse | [ENSMUSG00000022658](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022658) | [56370](https://www.ncbi.nlm.nih.gov/gene/56370) | [MGI:1926784](http://www.informatics.jax.org/marker/MGI:1926784) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000079805](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079805), [ENSDARG00000058394](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058394) | [563096](https://www.ncbi.nlm.nih.gov/gene/563096), [797861](https://www.ncbi.nlm.nih.gov/gene/797861) | [ZFIN:ZDB-GENE-060531-53](https://zfin.org/ZDB-GENE-060531-53), [ZFIN:ZDB-GENE-030131-4199](https://zfin.org/ZDB-GENE-030131-4199) | ZDB-GENE-060531-53,ZDB-GENE-030131-4199 |
+| Zebrafish | [ENSDARG00000115045](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115045) | [797861](https://www.ncbi.nlm.nih.gov/gene/797861) | [ZFIN:ZDB-GENE-030131-4199](https://zfin.org/ZDB-GENE-030131-4199) |  |
 

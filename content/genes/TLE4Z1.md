@@ -231,7 +231,7 @@ orthologs:
 - ensembl: ENSDARG00000002787
   entrez: '30206'
   mod: ZFIN:ZDB-GENE-990415-86
-  phenotypes: ZDB-GENE-990415-86
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -267,5 +267,5 @@ title: TLE4Z1
 | Human | [ENSG00000106829](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000106829) | [7091](https://www.ncbi.nlm.nih.gov/gene/7091) | [MIM:605132](https://omim.org/entry/605132) |  |
 | Mouse | [ENSMUSG00000024642](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024642) | [21888](https://www.ncbi.nlm.nih.gov/gene/21888) | [MGI:104633](http://www.informatics.jax.org/marker/MGI:104633) | All phenotypic alleles (3):Targeted, other(1) Gene trapped(2) |
 | Xenopus |  | [100101787](https://www.ncbi.nlm.nih.gov/gene/100101787), [399397](https://www.ncbi.nlm.nih.gov/gene/399397) | [481765](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481765) |  |
-| Zebrafish | [ENSDARG00000002787](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002787) | [30206](https://www.ncbi.nlm.nih.gov/gene/30206) | [ZFIN:ZDB-GENE-990415-86](https://zfin.org/ZDB-GENE-990415-86) | ZDB-GENE-990415-86 |
+| Zebrafish | [ENSDARG00000002787](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002787) | [30206](https://www.ncbi.nlm.nih.gov/gene/30206) | [ZFIN:ZDB-GENE-990415-86](https://zfin.org/ZDB-GENE-990415-86) |  |
 

@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421466
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419515
-gene_id: '457760'
+gene_id: '421466'
 gene_type: protein-coding
 images:
 - caption: CYP1B1 expression
@@ -212,37 +212,33 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Chambers.Fig1.CYP1B1.W.Stage20.jpg
 name: cytochrome P450 family 1 subfamily B member 1
-ncbi_id: '457760'
+ncbi_id: '421466'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000138061
+  entrez: '1545'
+  mod: MIM:601771
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000024087
+  entrez: '13078'
+  mod: MGI:88590
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000038590
+  entrez: '100490477'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000113835
+  entrez: '100150054'
+  mod: ZFIN:ZDB-GENE-030902-1
+  phenotypes: estrogen metabolic process, eye development, steroid catabolic process,
+    toxin metabolic process, xenobiotic catabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457760
+  url: https://www.ncbi.nlm.nih.gov/gene/421466
 species: Gallus gallus
 symbol: CYP1B1
 title: CYP1B1
@@ -268,9 +264,8 @@ title: CYP1B1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000138061](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138061) | [1545](https://www.ncbi.nlm.nih.gov/gene/1545) | [MIM:601771](https://omim.org/entry/601771) |  |
+| Mouse | [ENSMUSG00000024087](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024087) | [13078](https://www.ncbi.nlm.nih.gov/gene/13078) | [MGI:88590](http://www.informatics.jax.org/marker/MGI:88590) |  |
+| Xenopus | [ENSXETG00000038590](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000038590) | [100490477](https://www.ncbi.nlm.nih.gov/gene/100490477) |  |  |
+| Zebrafish | [ENSDARG00000113835](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000113835) | [100150054](https://www.ncbi.nlm.nih.gov/gene/100150054) | [ZFIN:ZDB-GENE-030902-1](https://zfin.org/ZDB-GENE-030902-1) | estrogen metabolic process, eye development, steroid catabolic process, toxin metabolic process, xenobiotic catabolic process |
 

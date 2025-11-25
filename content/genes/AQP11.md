@@ -3,13 +3,12 @@ aliases:
 - aquaporin-11
 cgnc_id: '1122'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/426725
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426725
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424343
 forward_primer: AGGTTGGAGATGGCGGAATC
-gene_id: '462888'
+gene_id: '426725'
 gene_type: protein-coding
 images:
 - caption: AQP11 expression
@@ -85,13 +84,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R502.AQP11.S25.001.jpg
 name: aquaporin 11
-ncbi_id: '462888'
+ncbi_id: '426725'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000178301
   entrez: '282679'
   mod: MIM:609914
@@ -102,24 +96,19 @@ orthologs:
   mod: MGI:1913583
   phenotypes: All phenotypic alleles (3):Chemically induced(1) Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100038073,100037151
-  mod: '481473'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000042617
+- ensembl: ENSDARG00000100555
   entrez: '553476'
   mod: ZFIN:ZDB-GENE-080418-1
-  phenotypes: ZDB-GENE-080418-1
+  phenotypes: transmembrane transport
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCAGGTCAGCAAATGGCACTTATG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462888
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426725
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462888
+  url: https://www.ncbi.nlm.nih.gov/gene/426725
 species: Gallus gallus
 symbol: AQP11
 template_length: '679'
@@ -141,9 +130,7 @@ title: AQP11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000178301](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000178301) | [282679](https://www.ncbi.nlm.nih.gov/gene/282679) | [MIM:609914](https://omim.org/entry/609914) |  |
 | Mouse | [ENSMUSG00000042797](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042797) | [66333](https://www.ncbi.nlm.nih.gov/gene/66333) | [MGI:1913583](http://www.informatics.jax.org/marker/MGI:1913583) | All phenotypic alleles (3):Chemically induced(1) Targeted, knock-out(2) |
-| Xenopus |  | [100038073](https://www.ncbi.nlm.nih.gov/gene/100038073), [100037151](https://www.ncbi.nlm.nih.gov/gene/100037151) | [481473](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481473) |  |
-| Zebrafish | [ENSDARG00000042617](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042617) | [553476](https://www.ncbi.nlm.nih.gov/gene/553476) | [ZFIN:ZDB-GENE-080418-1](https://zfin.org/ZDB-GENE-080418-1) | ZDB-GENE-080418-1 |
+| Zebrafish | [ENSDARG00000100555](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000100555) | [553476](https://www.ncbi.nlm.nih.gov/gene/553476) | [ZFIN:ZDB-GENE-080418-1](https://zfin.org/ZDB-GENE-080418-1) | transmembrane transport |
 

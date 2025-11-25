@@ -4,8 +4,6 @@ aliases:
 - Wnt-11 protein
 cgnc_id: '546'
 external_ids:
-  '13': stage 13stage 13stage 13stage 13
-  '7': stage 7
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0016055
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Stark+2000+Frizzled+Mauch
@@ -20,7 +18,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204784
   X-XIV: stage XIIstage XII
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAATGAGAAAGTGGGGTCGCAC
-gene_id: '449534'
+gene_id: '395562'
 gene_type: protein-coding
 images:
 - caption: WNT11 expression
@@ -651,13 +649,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt-11.Stark.2000.Fig3.jpg
 name: Wnt family member 11
-ncbi_id: '449534'
+ncbi_id: '395562'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000085741
   entrez: '7481'
   mod: MIM:603699
@@ -668,24 +661,25 @@ orthologs:
   mod: MGI:101948
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100158655,446915,549489,399441
-  mod: 854157,5858980
+- ensembl: ENSXETG00000019408
+  entrez: '100158655'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000014796,ENSDARG00000004256
-  entrez: 30283,791595
-  mod: ZFIN:ZDB-GENE-980526-249,ZFIN:ZDB-GENE-990603-12
-  phenotypes: ZDB-GENE-980526-249,ZDB-GENE-990603-12
+- ensembl: ENSDARG00000014796
+  entrez: '30283'
+  mod: ZFIN:ZDB-GENE-980526-249
+  phenotypes: Wnt signaling pathway, animal organ development, cell migration involved
+    in gastrulation, embryonic viscerocranium morphogenesis, heart development
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGCTGTGTGTGAAAATCCATCAAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449534
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395562
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449534
+  url: https://www.ncbi.nlm.nih.gov/gene/395562
 species: Gallus gallus
 symbol: WNT11
 template_length: '860'
@@ -715,9 +709,8 @@ title: WNT11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000085741](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000085741) | [7481](https://www.ncbi.nlm.nih.gov/gene/7481) | [MIM:603699](https://omim.org/entry/603699) |  |
 | Mouse | [ENSMUSG00000015957](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000015957) | [22411](https://www.ncbi.nlm.nih.gov/gene/22411) | [MGI:101948](http://www.informatics.jax.org/marker/MGI:101948) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [100158655](https://www.ncbi.nlm.nih.gov/gene/100158655), [446915](https://www.ncbi.nlm.nih.gov/gene/446915), [549489](https://www.ncbi.nlm.nih.gov/gene/549489), [399441](https://www.ncbi.nlm.nih.gov/gene/399441) | [854157](http://www.xenbase.org/gene/showgene.do?method=display&geneId=854157), [5858980](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5858980) |  |
-| Zebrafish | [ENSDARG00000014796](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014796), [ENSDARG00000004256](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004256) | [30283](https://www.ncbi.nlm.nih.gov/gene/30283), [791595](https://www.ncbi.nlm.nih.gov/gene/791595) | [ZFIN:ZDB-GENE-980526-249](https://zfin.org/ZDB-GENE-980526-249), [ZFIN:ZDB-GENE-990603-12](https://zfin.org/ZDB-GENE-990603-12) | ZDB-GENE-980526-249,ZDB-GENE-990603-12 |
+| Xenopus | [ENSXETG00000019408](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019408) | [100158655](https://www.ncbi.nlm.nih.gov/gene/100158655) |  |  |
+| Zebrafish | [ENSDARG00000014796](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014796) | [30283](https://www.ncbi.nlm.nih.gov/gene/30283) | [ZFIN:ZDB-GENE-980526-249](https://zfin.org/ZDB-GENE-980526-249) | Wnt signaling pathway, animal organ development, cell migration involved in gastrulation, embryonic viscerocranium morphogenesis, heart development |
 

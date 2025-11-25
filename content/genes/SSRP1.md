@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396509
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001005796
-gene_id: '460193'
+gene_id: '396509'
 gene_type: protein-coding
 images:
 - caption: SSRP1 expression
@@ -90,13 +90,8 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54wd9.125.21.jpg
 name: structure specific recognition protein 1
-ncbi_id: '460193'
+ncbi_id: '396509'
 orthologs:
-- ensembl: ''
-  entrez: '37767'
-  mod: FBgn0010278
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000149136
   entrez: '6749'
   mod: MIM:604328
@@ -107,23 +102,24 @@ orthologs:
   mod: MGI:107912
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 447983,399344
-  mod: '994293'
+- ensembl: ENSXETG00000000781
+  entrez: '447983'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000016994,ENSDARG00000037397
-  entrez: 449949,386844
-  mod: ZFIN:ZDB-GENE-041008-209,ZFIN:ZDB-GENE-031118-9
-  phenotypes: ZDB-GENE-041008-209,ZDB-GENE-031118-9
+- ensembl: ENSDARG00000016994
+  entrez: '449949'
+  mod: ZFIN:ZDB-GENE-041008-209
+  phenotypes: DNA damage response, DNA repair, DNA replication, regulation of chromatin
+    organization
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460193
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396509
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460193
+  url: https://www.ncbi.nlm.nih.gov/gene/396509
 species: Gallus gallus
 symbol: SSRP1
 title: SSRP1
@@ -149,9 +145,8 @@ title: SSRP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [37767](https://www.ncbi.nlm.nih.gov/gene/37767) | FBgn0010278 |  |
 | Human | [ENSG00000149136](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000149136) | [6749](https://www.ncbi.nlm.nih.gov/gene/6749) | [MIM:604328](https://omim.org/entry/604328) |  |
 | Mouse | [ENSMUSG00000027067](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027067) | [20833](https://www.ncbi.nlm.nih.gov/gene/20833) | [MGI:107912](http://www.informatics.jax.org/marker/MGI:107912) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [447983](https://www.ncbi.nlm.nih.gov/gene/447983), [399344](https://www.ncbi.nlm.nih.gov/gene/399344) | [994293](http://www.xenbase.org/gene/showgene.do?method=display&geneId=994293) |  |
-| Zebrafish | [ENSDARG00000016994](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016994), [ENSDARG00000037397](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037397) | [449949](https://www.ncbi.nlm.nih.gov/gene/449949), [386844](https://www.ncbi.nlm.nih.gov/gene/386844) | [ZFIN:ZDB-GENE-041008-209](https://zfin.org/ZDB-GENE-041008-209), [ZFIN:ZDB-GENE-031118-9](https://zfin.org/ZDB-GENE-031118-9) | ZDB-GENE-041008-209,ZDB-GENE-031118-9 |
+| Xenopus | [ENSXETG00000000781](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000781) | [447983](https://www.ncbi.nlm.nih.gov/gene/447983) |  |  |
+| Zebrafish | [ENSDARG00000016994](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016994) | [449949](https://www.ncbi.nlm.nih.gov/gene/449949) | [ZFIN:ZDB-GENE-041008-209](https://zfin.org/ZDB-GENE-041008-209) | DNA damage response, DNA repair, DNA replication, regulation of chromatin organization |
 

@@ -22,7 +22,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396387
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277605
-gene_id: '461653'
+gene_id: '396387'
 gene_type: protein-coding
 images:
 - caption: NTN3 expression
@@ -85,37 +85,23 @@ images:
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NETRIN2.Abraira.2010.Fig.7.png
 name: netrin 1
-ncbi_id: '461653'
+ncbi_id: '396387'
 orthologs:
-- ensembl: ''
-  entrez: '32400'
-  mod: FBgn0015774
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000065320
-  entrez: '9423'
-  mod: MIM:601614
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000020902
-  entrez: '18208'
-  mod: MGI:105088
-  phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Gene trapped(2)
-  species: Mouse
-- ensembl: ''
-  entrez: 779839,373694
-  mod: '989334'
+- ensembl: ENSXETG00000020288
+  entrez: '100486076'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000033733,ENSDARG00000022531
-  entrez: 30227,30192
-  mod: ZFIN:ZDB-GENE-990415-169,ZFIN:ZDB-GENE-990415-168
-  phenotypes: ZDB-GENE-990415-169,ZDB-GENE-990415-168
+- ensembl: ENSDARG00000076748
+  entrez: '641469'
+  mod: ZFIN:ZDB-GENE-050310-2
+  phenotypes: animal organ morphogenesis, dendrite development, motor neuron axon
+    guidance, tissue development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461653
+  url: https://www.ncbi.nlm.nih.gov/gene/396387
 species: Gallus gallus
 symbol: NTN3
 title: NTN3
@@ -145,9 +131,6 @@ title: NTN3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32400](https://www.ncbi.nlm.nih.gov/gene/32400) | FBgn0015774 |  |
-| Human | [ENSG00000065320](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000065320) | [9423](https://www.ncbi.nlm.nih.gov/gene/9423) | [MIM:601614](https://omim.org/entry/601614) |  |
-| Mouse | [ENSMUSG00000020902](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020902) | [18208](https://www.ncbi.nlm.nih.gov/gene/18208) | [MGI:105088](http://www.informatics.jax.org/marker/MGI:105088) | All phenotypic alleles (3):Targeted, knock-out(1) Gene trapped(2) |
-| Xenopus |  | [779839](https://www.ncbi.nlm.nih.gov/gene/779839), [373694](https://www.ncbi.nlm.nih.gov/gene/373694) | [989334](http://www.xenbase.org/gene/showgene.do?method=display&geneId=989334) |  |
-| Zebrafish | [ENSDARG00000033733](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033733), [ENSDARG00000022531](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000022531) | [30227](https://www.ncbi.nlm.nih.gov/gene/30227), [30192](https://www.ncbi.nlm.nih.gov/gene/30192) | [ZFIN:ZDB-GENE-990415-169](https://zfin.org/ZDB-GENE-990415-169), [ZFIN:ZDB-GENE-990415-168](https://zfin.org/ZDB-GENE-990415-168) | ZDB-GENE-990415-169,ZDB-GENE-990415-168 |
+| Xenopus | [ENSXETG00000020288](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020288) | [100486076](https://www.ncbi.nlm.nih.gov/gene/100486076) |  |  |
+| Zebrafish | [ENSDARG00000076748](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076748) | [641469](https://www.ncbi.nlm.nih.gov/gene/641469) | [ZFIN:ZDB-GENE-050310-2](https://zfin.org/ZDB-GENE-050310-2) | animal organ morphogenesis, dendrite development, motor neuron axon guidance, tissue development |
 

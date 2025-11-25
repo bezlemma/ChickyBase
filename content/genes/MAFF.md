@@ -4,7 +4,6 @@ aliases:
 - nuclear b-Zip protein MafF
 cgnc_id: '9324'
 external_ids:
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0001701
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=lecoin+sii-felice+comparison+maf+gene+expression+patterns+chick+embryo+development
@@ -18,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395519
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204757
-gene_id: '449667'
+gene_id: '395519'
 gene_type: protein-coding
 images:
 - caption: MAFF expression
@@ -291,13 +290,8 @@ images:
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG8F.LECOIN.2003.jpg
 name: MAF bZIP transcription factor F
-ncbi_id: '449667'
+ncbi_id: '395519'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000185022
   entrez: '23764'
   mod: MIM:604877
@@ -308,23 +302,13 @@ orthologs:
   mod: MGI:96910
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100488557,495449
-  mod: '489963'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000028957
-  entrez: '393307'
-  mod: ZFIN:ZDB-GENE-040426-1280
-  phenotypes: ZDB-GENE-040426-1280
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449667
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395519
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449667
+  url: https://www.ncbi.nlm.nih.gov/gene/395519
 species: Gallus gallus
 symbol: MAFF
 title: MAFF
@@ -353,9 +337,6 @@ title: MAFF
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000185022](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185022) | [23764](https://www.ncbi.nlm.nih.gov/gene/23764) | [MIM:604877](https://omim.org/entry/604877) |  |
 | Mouse | [ENSMUSG00000042622](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042622) | [17133](https://www.ncbi.nlm.nih.gov/gene/17133) | [MGI:96910](http://www.informatics.jax.org/marker/MGI:96910) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [100488557](https://www.ncbi.nlm.nih.gov/gene/100488557), [495449](https://www.ncbi.nlm.nih.gov/gene/495449) | [489963](http://www.xenbase.org/gene/showgene.do?method=display&geneId=489963) |  |
-| Zebrafish | [ENSDARG00000028957](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028957) | [393307](https://www.ncbi.nlm.nih.gov/gene/393307) | [ZFIN:ZDB-GENE-040426-1280](https://zfin.org/ZDB-GENE-040426-1280) | ZDB-GENE-040426-1280 |
 

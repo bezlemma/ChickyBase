@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771550
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234813
-gene_id: '453557'
+gene_id: '771550'
 gene_type: protein-coding
 images:
 - caption: EPHA2 expression
@@ -115,40 +115,30 @@ images:
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3.MARIN.2001.jpg
 name: EPH receptor A2
-ncbi_id: '453557'
+ncbi_id: '771550'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000142627
+  entrez: '1969'
+  mod: MIM:176946
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000006445
+  entrez: '13836'
+  mod: MGI:95278
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000047004
+  entrez: '448450'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453557
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771550
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453557
+  url: https://www.ncbi.nlm.nih.gov/gene/771550
 species: Gallus gallus
 symbol: EPHA2
 title: EPHA2
@@ -174,9 +164,7 @@ title: EPHA2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000142627](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000142627) | [1969](https://www.ncbi.nlm.nih.gov/gene/1969) | [MIM:176946](https://omim.org/entry/176946) |  |
+| Mouse | [ENSMUSG00000006445](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000006445) | [13836](https://www.ncbi.nlm.nih.gov/gene/13836) | [MGI:95278](http://www.informatics.jax.org/marker/MGI:95278) |  |
+| Xenopus | [ENSXETG00000047004](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000047004) | [448450](https://www.ncbi.nlm.nih.gov/gene/448450) |  |  |
 

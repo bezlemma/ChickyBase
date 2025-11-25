@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420435
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030965
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/PRKAG2
-gene_id: '456472'
+gene_id: '420435'
 gene_type: protein-coding
 images:
 - caption: PRKAG2 expression
@@ -36,13 +36,8 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/51D.27.20.jpg
 name: protein kinase AMP-activated non-catalytic subunit gamma 2
-ncbi_id: '456472'
+ncbi_id: '420435'
 orthologs:
-- ensembl: ''
-  entrez: '42515'
-  mod: FBgn0264357
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000106617
   entrez: '51422'
   mod: MIM:602743
@@ -53,23 +48,24 @@ orthologs:
   mod: MGI:1336153
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100125135,444397
-  mod: '943597'
+- ensembl: ENSXETG00000009727
+  entrez: '100158499'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000001933
-  entrez: 568316,570761
-  mod: ZFIN:ZDB-GENE-070912-442,ZFIN:ZDB-GENE-070912-442,ZFIN:ZDB-GENE-060929-160
-  phenotypes: ZDB-GENE-070912-442,ZDB-GENE-070912-442,ZDB-GENE-060929-160
+  entrez: '568316'
+  mod: ZFIN:ZDB-GENE-070912-442
+  phenotypes: cellular response to glucose starvation, fatty acid biosynthetic process,
+    fatty acid metabolic process, lipid metabolic process, phosphorylation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456472
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420435
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456472
+  url: https://www.ncbi.nlm.nih.gov/gene/420435
 species: Gallus gallus
 symbol: PRKAG2
 title: PRKAG2
@@ -95,9 +91,8 @@ title: PRKAG2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42515](https://www.ncbi.nlm.nih.gov/gene/42515) | FBgn0264357 |  |
 | Human | [ENSG00000106617](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000106617) | [51422](https://www.ncbi.nlm.nih.gov/gene/51422) | [MIM:602743](https://omim.org/entry/602743) | MIM:600858 |
 | Mouse | [ENSMUSG00000028944](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028944) | [108099](https://www.ncbi.nlm.nih.gov/gene/108099) | [MGI:1336153](http://www.informatics.jax.org/marker/MGI:1336153) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100125135](https://www.ncbi.nlm.nih.gov/gene/100125135), [444397](https://www.ncbi.nlm.nih.gov/gene/444397) | [943597](http://www.xenbase.org/gene/showgene.do?method=display&geneId=943597) |  |
-| Zebrafish | [ENSDARG00000001933](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000001933) | [568316](https://www.ncbi.nlm.nih.gov/gene/568316), [570761](https://www.ncbi.nlm.nih.gov/gene/570761) | [ZFIN:ZDB-GENE-070912-442](https://zfin.org/ZDB-GENE-070912-442), [ZFIN:ZDB-GENE-070912-442](https://zfin.org/ZDB-GENE-070912-442), [ZFIN:ZDB-GENE-060929-160](https://zfin.org/ZDB-GENE-060929-160) | ZDB-GENE-070912-442,ZDB-GENE-070912-442,ZDB-GENE-060929-160 |
+| Xenopus | [ENSXETG00000009727](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009727) | [100158499](https://www.ncbi.nlm.nih.gov/gene/100158499) |  |  |
+| Zebrafish | [ENSDARG00000001933](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000001933) | [568316](https://www.ncbi.nlm.nih.gov/gene/568316) | [ZFIN:ZDB-GENE-070912-442](https://zfin.org/ZDB-GENE-070912-442) | cellular response to glucose starvation, fatty acid biosynthetic process, fatty acid metabolic process, lipid metabolic process, phosphorylation |
 

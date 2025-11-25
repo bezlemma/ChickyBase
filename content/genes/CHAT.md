@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395314
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004102
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204610
-gene_id: '448898'
+gene_id: '395314'
 gene_type: protein-coding
 images:
 - caption: CHAT expression
@@ -31,13 +31,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CHAT.Sanders.2002
     for figure 2 panal C.jpg
 name: choline O-acetyltransferase
-ncbi_id: '448898'
+ncbi_id: '395314'
 orthologs:
-- ensembl: ''
-  entrez: '42249'
-  mod: FBgn0000303
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000070748
   entrez: '1103'
   mod: MIM:118490
@@ -48,20 +43,21 @@ orthologs:
   mod: MGI:88392
   phenotypes: All phenotypic alleles (10):Targeted, knock-out(3) Targeted, other(7)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000005624
   entrez: '100485221'
-  mod: '984173'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000015854
   entrez: '100170938'
   mod: ZFIN:ZDB-GENE-080102-2
-  phenotypes: ZDB-GENE-080102-2
+  phenotypes: acetylcholine biosynthetic process, locomotory behavior, neuromuscular
+    synaptic transmission
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448898
+  url: https://www.ncbi.nlm.nih.gov/gene/395314
 species: Gallus gallus
 symbol: CHAT
 title: CHAT
@@ -91,9 +87,8 @@ title: CHAT
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42249](https://www.ncbi.nlm.nih.gov/gene/42249) | FBgn0000303 |  |
 | Human | [ENSG00000070748](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000070748) | [1103](https://www.ncbi.nlm.nih.gov/gene/1103) | [MIM:118490](https://omim.org/entry/118490) | MIM:254210 |
 | Mouse | [ENSMUSG00000021919](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021919) | [12647](https://www.ncbi.nlm.nih.gov/gene/12647) | [MGI:88392](http://www.informatics.jax.org/marker/MGI:88392) | All phenotypic alleles (10):Targeted, knock-out(3) Targeted, other(7) |
-| Xenopus |  | [100485221](https://www.ncbi.nlm.nih.gov/gene/100485221) | [984173](http://www.xenbase.org/gene/showgene.do?method=display&geneId=984173) |  |
-| Zebrafish | [ENSDARG00000015854](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015854) | [100170938](https://www.ncbi.nlm.nih.gov/gene/100170938) | [ZFIN:ZDB-GENE-080102-2](https://zfin.org/ZDB-GENE-080102-2) | ZDB-GENE-080102-2 |
+| Xenopus | [ENSXETG00000005624](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005624) | [100485221](https://www.ncbi.nlm.nih.gov/gene/100485221) |  |  |
+| Zebrafish | [ENSDARG00000015854](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015854) | [100170938](https://www.ncbi.nlm.nih.gov/gene/100170938) | [ZFIN:ZDB-GENE-080102-2](https://zfin.org/ZDB-GENE-080102-2) | acetylcholine biosynthetic process, locomotory behavior, neuromuscular synaptic transmission |
 

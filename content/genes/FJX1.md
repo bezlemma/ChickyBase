@@ -12,7 +12,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/100858635
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
-gene_id: '473166'
+gene_id: '100858635'
 gene_type: unknown
 images:
 - caption: FJX1 expression
@@ -207,7 +207,7 @@ images:
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Le Guen.Fig1B.FJX.ST35.jpg
 name: four jointed box 1
-ncbi_id: '473166'
+ncbi_id: '100858635'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -237,7 +237,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/473166
+  url: https://www.ncbi.nlm.nih.gov/gene/100858635
 species: Gallus gallus
 symbol: FJX1
 title: FJX1

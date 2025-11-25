@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396067
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205159
-gene_id: '459559'
+gene_id: '396067'
 gene_type: protein-coding
 images:
 - caption: MYL3 expression
@@ -87,13 +87,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYL3.Anderson.2019.Supplementary
     figure 4D.jpg
 name: myosin, light chain 3, alkali; ventricular, skeletal, slow
-ncbi_id: '459559'
+ncbi_id: '396067'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000160808
   entrez: '4634'
   mod: MIM:160790
@@ -104,20 +99,20 @@ orthologs:
   mod: MGI:97268
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 394608,398607,398606,100124786,373844
-  mod: 946569,977610
+- ensembl: ENSXETG00000003682
+  entrez: '394608'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000011519
-  entrez: 100148520,574004
-  mod: ZFIN:ZDB-GENE-050626-112
-  phenotypes: ZDB-GENE-050626-112
+- ensembl: ENSDARG00000042245
+  entrez: '393488'
+  mod: ZFIN:ZDB-GENE-040426-1593
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459559
+  url: https://www.ncbi.nlm.nih.gov/gene/396067
 species: Gallus gallus
 symbol: MYL3
 title: MYL3
@@ -145,9 +140,8 @@ title: MYL3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000160808](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000160808) | [4634](https://www.ncbi.nlm.nih.gov/gene/4634) | [MIM:160790](https://omim.org/entry/160790) | MIM:608751 |
 | Mouse | [ENSMUSG00000059741](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000059741) | [17897](https://www.ncbi.nlm.nih.gov/gene/17897) | [MGI:97268](http://www.informatics.jax.org/marker/MGI:97268) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [394608](https://www.ncbi.nlm.nih.gov/gene/394608), [398607](https://www.ncbi.nlm.nih.gov/gene/398607), [398606](https://www.ncbi.nlm.nih.gov/gene/398606), [100124786](https://www.ncbi.nlm.nih.gov/gene/100124786), [373844](https://www.ncbi.nlm.nih.gov/gene/373844) | [946569](http://www.xenbase.org/gene/showgene.do?method=display&geneId=946569), [977610](http://www.xenbase.org/gene/showgene.do?method=display&geneId=977610) |  |
-| Zebrafish | [ENSDARG00000011519](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011519) | [100148520](https://www.ncbi.nlm.nih.gov/gene/100148520), [574004](https://www.ncbi.nlm.nih.gov/gene/574004) | [ZFIN:ZDB-GENE-050626-112](https://zfin.org/ZDB-GENE-050626-112) | ZDB-GENE-050626-112 |
+| Xenopus | [ENSXETG00000003682](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003682) | [394608](https://www.ncbi.nlm.nih.gov/gene/394608) |  |  |
+| Zebrafish | [ENSDARG00000042245](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042245) | [393488](https://www.ncbi.nlm.nih.gov/gene/393488) | [ZFIN:ZDB-GENE-040426-1593](https://zfin.org/ZDB-GENE-040426-1593) |  |
 

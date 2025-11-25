@@ -3,7 +3,6 @@ aliases:
 - cyclin-C, cyclin-C
 cgnc_id: '11532'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0004597
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0000079
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016591
@@ -15,7 +14,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0019901
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001167765
 forward_primer: GCATCATTTTCTCTGAGGCTGG
-gene_id: '454922'
+gene_id: '421791'
 gene_type: protein-coding
 images:
 - caption: CCNC expression
@@ -107,13 +106,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R574.CCNC.S25AAA.001.jpg
 name: cyclin C
-ncbi_id: '454922'
+ncbi_id: '421791'
 orthologs:
-- ensembl: ''
-  entrez: '41801'
-  mod: FBgn0004597
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000112237
   entrez: '892'
   mod: MIM:123838
@@ -124,24 +118,25 @@ orthologs:
   mod: MGI:1858199
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 394762,734677
-  mod: '922005'
+- ensembl: ENSXETG00000026026
+  entrez: '394762'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000009607
   entrez: '335429'
   mod: ZFIN:ZDB-GENE-030131-7369
-  phenotypes: ZDB-GENE-030131-7369
+  phenotypes: podocyte development, positive regulation of transcription by RNA polymerase
+    II, regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCACACAGTCAACCAAGGAATCCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454922
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421791
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454922
+  url: https://www.ncbi.nlm.nih.gov/gene/421791
 species: Gallus gallus
 symbol: CCNC
 template_length: '859'
@@ -169,9 +164,8 @@ title: CCNC
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41801](https://www.ncbi.nlm.nih.gov/gene/41801) | FBgn0004597 |  |
 | Human | [ENSG00000112237](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112237) | [892](https://www.ncbi.nlm.nih.gov/gene/892) | [MIM:123838](https://omim.org/entry/123838) |  |
 | Mouse | [ENSMUSG00000028252](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028252) | [51813](https://www.ncbi.nlm.nih.gov/gene/51813) | [MGI:1858199](http://www.informatics.jax.org/marker/MGI:1858199) |  |
-| Xenopus |  | [394762](https://www.ncbi.nlm.nih.gov/gene/394762), [734677](https://www.ncbi.nlm.nih.gov/gene/734677) | [922005](http://www.xenbase.org/gene/showgene.do?method=display&geneId=922005) |  |
-| Zebrafish | [ENSDARG00000009607](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009607) | [335429](https://www.ncbi.nlm.nih.gov/gene/335429) | [ZFIN:ZDB-GENE-030131-7369](https://zfin.org/ZDB-GENE-030131-7369) | ZDB-GENE-030131-7369 |
+| Xenopus | [ENSXETG00000026026](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026026) | [394762](https://www.ncbi.nlm.nih.gov/gene/394762) |  |  |
+| Zebrafish | [ENSDARG00000009607](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009607) | [335429](https://www.ncbi.nlm.nih.gov/gene/335429) | [ZFIN:ZDB-GENE-030131-7369](https://zfin.org/ZDB-GENE-030131-7369) | podocyte development, positive regulation of transcription by RNA polymerase II, regulation of transcription by RNA polymerase II |
 

@@ -16,7 +16,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005154
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001024577
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/LINGO1
-gene_id: '456468'
+gene_id: '415344'
 gene_type: protein-coding
 images:
 - caption: LINGO1 expression
@@ -145,13 +145,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LINGO1.Anderson.2019.Supplementary
     figure 5H2.jpg
 name: leucine rich repeat and Ig domain containing 1
-ncbi_id: '456468'
+ncbi_id: '415344'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000169783
   entrez: '84894'
   mod: MIM:609791
@@ -162,20 +157,20 @@ orthologs:
   mod: MGI:1915522
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000015270
   entrez: '100101739'
-  mod: '921956'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000035899
-  entrez: 564943,447837
-  mod: ZFIN:ZDB-GENE-080327-16,ZFIN:ZDB-GENE-040912-136
-  phenotypes: ZDB-GENE-080327-16,ZDB-GENE-040912-136
+- ensembl: ENSDARG00000034165
+  entrez: '564943'
+  mod: ZFIN:ZDB-GENE-080327-16
+  phenotypes: axon regeneration, neuron development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456468
+  url: https://www.ncbi.nlm.nih.gov/gene/415344
 species: Gallus gallus
 symbol: LINGO1
 title: LINGO1
@@ -205,9 +200,8 @@ title: LINGO1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000169783](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169783) | [84894](https://www.ncbi.nlm.nih.gov/gene/84894) | [MIM:609791](https://omim.org/entry/609791) |  |
 | Mouse | [ENSMUSG00000049556](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049556) | [235402](https://www.ncbi.nlm.nih.gov/gene/235402) | [MGI:1915522](http://www.informatics.jax.org/marker/MGI:1915522) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100101739](https://www.ncbi.nlm.nih.gov/gene/100101739) | [921956](http://www.xenbase.org/gene/showgene.do?method=display&geneId=921956) |  |
-| Zebrafish | [ENSDARG00000035899](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035899) | [564943](https://www.ncbi.nlm.nih.gov/gene/564943), [447837](https://www.ncbi.nlm.nih.gov/gene/447837) | [ZFIN:ZDB-GENE-080327-16](https://zfin.org/ZDB-GENE-080327-16), [ZFIN:ZDB-GENE-040912-136](https://zfin.org/ZDB-GENE-040912-136) | ZDB-GENE-080327-16,ZDB-GENE-040912-136 |
+| Xenopus | [ENSXETG00000015270](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015270) | [100101739](https://www.ncbi.nlm.nih.gov/gene/100101739) |  |  |
+| Zebrafish | [ENSDARG00000034165](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034165) | [564943](https://www.ncbi.nlm.nih.gov/gene/564943) | [ZFIN:ZDB-GENE-080327-16](https://zfin.org/ZDB-GENE-080327-16) | axon regeneration, neuron development |
 

@@ -4,7 +4,6 @@ aliases:
 - matrix metallopeptidase 23A (pseudogene)
 cgnc_id: '50988'
 external_ids:
-  '25': stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000001392
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419407
@@ -137,7 +136,7 @@ orthologs:
 - ensembl: ENSDARG00000009825
   entrez: 100001275,550589
   mod: ZFIN:ZDB-GENE-030131-9548,ZFIN:ZDB-GENE-050417-448
-  phenotypes: ZDB-GENE-030131-9548,ZDB-GENE-050417-448
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGACATCTTCCTTCTGCCCAC
 sources:
@@ -172,5 +171,5 @@ title: MMP23B
 | Human | [ENSG00000189409](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000189409) | [8510](https://www.ncbi.nlm.nih.gov/gene/8510) | [MIM:603321](https://omim.org/entry/603321) |  |
 | Mouse | [ENSMUSG00000029061](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029061) | [26561](https://www.ncbi.nlm.nih.gov/gene/26561) | [MGI:1347361](http://www.informatics.jax.org/marker/MGI:1347361) | All phenotypic alleles (2):Targeted, knock-out(2) |
 | Xenopus |  |  | [922438](http://www.xenbase.org/gene/showgene.do?method=display&geneId=922438) |  |
-| Zebrafish | [ENSDARG00000009825](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009825) | [100001275](https://www.ncbi.nlm.nih.gov/gene/100001275), [550589](https://www.ncbi.nlm.nih.gov/gene/550589) | [ZFIN:ZDB-GENE-030131-9548](https://zfin.org/ZDB-GENE-030131-9548), [ZFIN:ZDB-GENE-050417-448](https://zfin.org/ZDB-GENE-050417-448) | ZDB-GENE-030131-9548,ZDB-GENE-050417-448 |
+| Zebrafish | [ENSDARG00000009825](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009825) | [100001275](https://www.ncbi.nlm.nih.gov/gene/100001275), [550589](https://www.ncbi.nlm.nih.gov/gene/550589) | [ZFIN:ZDB-GENE-030131-9548](https://zfin.org/ZDB-GENE-030131-9548), [ZFIN:ZDB-GENE-050417-448](https://zfin.org/ZDB-GENE-050417-448) |  |
 

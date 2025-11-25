@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427790
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001080715
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAGCAGCAGCACTTCAACTACCC
-gene_id: '456364'
+gene_id: '427790'
 gene_type: protein-coding
 images:
 - caption: MYOCD expression
@@ -285,41 +285,37 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYOCARDIN.Chen.2008.Fig.2.png
 name: myocardin
-ncbi_id: '456364'
+ncbi_id: '427790'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000141052
+  entrez: '93649'
+  mod: MIM:606127
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000020542
+  entrez: '214384'
+  mod: MGI:2137495
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000011035
+  entrez: '100498057'
   mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+  entrez: '100331725'
+  mod: ZFIN:ZDB-GENE-121214-328
+  phenotypes: cardiac muscle cell differentiation, positive regulation of transcription
+    by RNA polymerase II, smooth muscle cell differentiation
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCTTCTCCACCAGCATTTTGTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456364
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427790
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456364
+  url: https://www.ncbi.nlm.nih.gov/gene/427790
 species: Gallus gallus
 symbol: MYOCD
 template_length: '669'
@@ -346,9 +342,8 @@ title: MYOCD
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000141052](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000141052) | [93649](https://www.ncbi.nlm.nih.gov/gene/93649) | [MIM:606127](https://omim.org/entry/606127) |  |
+| Mouse | [ENSMUSG00000020542](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020542) | [214384](https://www.ncbi.nlm.nih.gov/gene/214384) | [MGI:2137495](http://www.informatics.jax.org/marker/MGI:2137495) |  |
+| Xenopus | [ENSXETG00000011035](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011035) | [100498057](https://www.ncbi.nlm.nih.gov/gene/100498057) |  |  |
+| Zebrafish |  | [100331725](https://www.ncbi.nlm.nih.gov/gene/100331725) | [ZFIN:ZDB-GENE-121214-328](https://zfin.org/ZDB-GENE-121214-328) | cardiac muscle cell differentiation, positive regulation of transcription by RNA polymerase II, smooth muscle cell differentiation |
 

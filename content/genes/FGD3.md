@@ -10,7 +10,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414331
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/FGD3
 forward_primer: GGCTCCTTTTCTGAAGATGTATGG
-gene_id: '458760'
+gene_id: '415989'
 gene_type: protein-coding
 images:
 - caption: FGD3 expression
@@ -121,16 +121,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R412.FGD3.S26D.001.jpg
 name: FYVE, RhoGEF and PH domain containing 3
-ncbi_id: '458760'
+ncbi_id: '415989'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000127084
   entrez: '89846'
-  mod: ''
+  mod: MIM:617554
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000037946
@@ -140,22 +135,22 @@ orthologs:
   species: Mouse
 - ensembl: ''
   entrez: '100490625'
-  mod: '995890'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
   entrez: '58075'
   mod: ZFIN:ZDB-GENE-000517-1
-  phenotypes: ZDB-GENE-000517-1
+  phenotypes: cytoskeleton organization, filopodium assembly
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCGCTTGGACTTGGAAGATTTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458760
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415989
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458760
+  url: https://www.ncbi.nlm.nih.gov/gene/415989
 species: Gallus gallus
 symbol: FGD3
 template_length: '865'
@@ -178,9 +173,8 @@ title: FGD3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000127084](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000127084) | [89846](https://www.ncbi.nlm.nih.gov/gene/89846) |  |  |
+| Human | [ENSG00000127084](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000127084) | [89846](https://www.ncbi.nlm.nih.gov/gene/89846) | [MIM:617554](https://omim.org/entry/617554) |  |
 | Mouse | [ENSMUSG00000037946](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037946) | [30938](https://www.ncbi.nlm.nih.gov/gene/30938) | [MGI:1353657](http://www.informatics.jax.org/marker/MGI:1353657) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100490625](https://www.ncbi.nlm.nih.gov/gene/100490625) | [995890](http://www.xenbase.org/gene/showgene.do?method=display&geneId=995890) |  |
-| Zebrafish |  | [58075](https://www.ncbi.nlm.nih.gov/gene/58075) | [ZFIN:ZDB-GENE-000517-1](https://zfin.org/ZDB-GENE-000517-1) | ZDB-GENE-000517-1 |
+| Xenopus |  | [100490625](https://www.ncbi.nlm.nih.gov/gene/100490625) |  |  |
+| Zebrafish |  | [58075](https://www.ncbi.nlm.nih.gov/gene/58075) | [ZFIN:ZDB-GENE-000517-1](https://zfin.org/ZDB-GENE-000517-1) | cytoskeleton organization, filopodium assembly |
 

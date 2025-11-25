@@ -1,7 +1,6 @@
 ---
 cgnc_id: '49063'
 external_ids:
-  '31': stage 31stage 31stage 31stage 31
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0001658
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Barlow+1999+Barx
@@ -14,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374148
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204281
-gene_id: '455162'
+gene_id: '374148'
 gene_type: protein-coding
 images:
 - caption: SOX9 expression
@@ -501,13 +500,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox-9.Barlow.1999.Fig3.jpg
 name: SRY (sex determining region Y)-box 9
-ncbi_id: '455162'
+ncbi_id: '374148'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000125398
   entrez: '6662'
   mod: MIM:608160
@@ -518,20 +512,21 @@ orthologs:
   mod: MGI:98371
   phenotypes: All phenotypic alleles (10):Targeted, knock-out(3) Targeted, other(7)
   species: Mouse
-- ensembl: ''
-  entrez: 549607,494585,399405
-  mod: '1034768'
+- ensembl: ENSXETG00000035507
+  entrez: '549607'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000003293,ENSDARG00000043923
-  entrez: 60641,60642
-  mod: ZFIN:ZDB-GENE-001103-1,ZFIN:ZDB-GENE-001103-2
-  phenotypes: ZDB-GENE-001103-1,ZDB-GENE-001103-2
+- ensembl: ENSDARG00000003293
+  entrez: '60641'
+  mod: ZFIN:ZDB-GENE-001103-1
+  phenotypes: astrocyte differentiation, cartilage development, cartilage morphogenesis,
+    cell differentiation, chondrocyte differentiation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455162
+  url: https://www.ncbi.nlm.nih.gov/gene/374148
 species: Gallus gallus
 symbol: SOX9
 title: SOX9
@@ -560,9 +555,8 @@ title: SOX9
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000125398](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125398) | [6662](https://www.ncbi.nlm.nih.gov/gene/6662) | [MIM:608160](https://omim.org/entry/608160) | MIM:114290 |
 | Mouse | [ENSMUSG00000000567](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000567) | [20682](https://www.ncbi.nlm.nih.gov/gene/20682) | [MGI:98371](http://www.informatics.jax.org/marker/MGI:98371) | All phenotypic alleles (10):Targeted, knock-out(3) Targeted, other(7) |
-| Xenopus |  | [549607](https://www.ncbi.nlm.nih.gov/gene/549607), [494585](https://www.ncbi.nlm.nih.gov/gene/494585), [399405](https://www.ncbi.nlm.nih.gov/gene/399405) | [1034768](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1034768) |  |
-| Zebrafish | [ENSDARG00000003293](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003293), [ENSDARG00000043923](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043923) | [60641](https://www.ncbi.nlm.nih.gov/gene/60641), [60642](https://www.ncbi.nlm.nih.gov/gene/60642) | [ZFIN:ZDB-GENE-001103-1](https://zfin.org/ZDB-GENE-001103-1), [ZFIN:ZDB-GENE-001103-2](https://zfin.org/ZDB-GENE-001103-2) | ZDB-GENE-001103-1,ZDB-GENE-001103-2 |
+| Xenopus | [ENSXETG00000035507](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000035507) | [549607](https://www.ncbi.nlm.nih.gov/gene/549607) |  |  |
+| Zebrafish | [ENSDARG00000003293](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003293) | [60641](https://www.ncbi.nlm.nih.gov/gene/60641) | [ZFIN:ZDB-GENE-001103-1](https://zfin.org/ZDB-GENE-001103-1) | astrocyte differentiation, cartilage development, cartilage morphogenesis, cell differentiation, chondrocyte differentiation |
 

@@ -86,7 +86,7 @@ orthologs:
 - ensembl: ENSDARG00000007836,ENSDARG00000039173
   entrez: 321453,30443
   mod: ZFIN:ZDB-GENE-030131-106,ZFIN:ZDB-GENE-980526-285
-  phenotypes: ZDB-GENE-030131-106,ZDB-GENE-980526-285
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
@@ -129,5 +129,5 @@ title: CTSV
 | Human | [ENSG00000136943](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136943) | [1515](https://www.ncbi.nlm.nih.gov/gene/1515) | [MIM:603308](https://omim.org/entry/603308) |  |
 | Mouse | [ENSMUSG00000021477](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021477) | [13039](https://www.ncbi.nlm.nih.gov/gene/13039) | [MGI:88564](http://www.informatics.jax.org/marker/MGI:88564) | All phenotypic alleles (6):Spontaneous(1) Radiation induced(1) Targeted, knock-out(3) Targeted, other(1) |
 | Xenopus |  | [548464](https://www.ncbi.nlm.nih.gov/gene/548464), [444163](https://www.ncbi.nlm.nih.gov/gene/444163), [448179](https://www.ncbi.nlm.nih.gov/gene/448179), [447313](https://www.ncbi.nlm.nih.gov/gene/447313) | [966213](http://www.xenbase.org/gene/showgene.do?method=display&geneId=966213), [5907228](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5907228) |  |
-| Zebrafish | [ENSDARG00000007836](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007836), [ENSDARG00000039173](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039173) | [321453](https://www.ncbi.nlm.nih.gov/gene/321453), [30443](https://www.ncbi.nlm.nih.gov/gene/30443) | [ZFIN:ZDB-GENE-030131-106](https://zfin.org/ZDB-GENE-030131-106), [ZFIN:ZDB-GENE-980526-285](https://zfin.org/ZDB-GENE-980526-285) | ZDB-GENE-030131-106,ZDB-GENE-980526-285 |
+| Zebrafish | [ENSDARG00000007836](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007836), [ENSDARG00000039173](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039173) | [321453](https://www.ncbi.nlm.nih.gov/gene/321453), [30443](https://www.ncbi.nlm.nih.gov/gene/30443) | [ZFIN:ZDB-GENE-030131-106](https://zfin.org/ZDB-GENE-030131-106), [ZFIN:ZDB-GENE-980526-285](https://zfin.org/ZDB-GENE-980526-285) |  |
 

@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769676
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001232447
-gene_id: '458957'
+gene_id: '769676'
 gene_type: protein-coding
 images:
 - caption: PLAGL1 expression
@@ -133,40 +133,25 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54wf3.123.20hb.jpg
 name: PLAG1 like zinc finger 1
-ncbi_id: '458957'
+ncbi_id: '769676'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000118495
+  entrez: '5325'
+  mod: MIM:603044
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000019817
+  entrez: '22634'
+  mod: MGI:1100874
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458957
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=769676
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458957
+  url: https://www.ncbi.nlm.nih.gov/gene/769676
 species: Gallus gallus
 symbol: PLAGL1
 title: PLAGL1
@@ -187,9 +172,6 @@ title: PLAGL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000118495](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118495) | [5325](https://www.ncbi.nlm.nih.gov/gene/5325) | [MIM:603044](https://omim.org/entry/603044) |  |
+| Mouse | [ENSMUSG00000019817](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019817) | [22634](https://www.ncbi.nlm.nih.gov/gene/22634) | [MGI:1100874](http://www.informatics.jax.org/marker/MGI:1100874) |  |
 

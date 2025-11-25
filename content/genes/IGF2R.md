@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395817
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204970
-gene_id: '450009'
+gene_id: '395817'
 gene_type: protein-coding
 images:
 - caption: IGF2R expression
@@ -105,14 +105,9 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/igf2r-15-12--7x.jpg
 name: insulin like growth factor 2 receptor
-ncbi_id: '450009'
+ncbi_id: '395817'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000197081
   entrez: '3482'
   mod: MIM:147280
   phenotypes: MIM:147280
@@ -122,20 +117,20 @@ orthologs:
   mod: MGI:96435
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(4) Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000021138
   entrez: '496491'
-  mod: '480956'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000006094
   entrez: '557061'
   mod: ZFIN:ZDB-GENE-041014-300
-  phenotypes: ZDB-GENE-041014-300
+  phenotypes: lysosomal transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450009
+  url: https://www.ncbi.nlm.nih.gov/gene/395817
 species: Gallus gallus
 symbol: IGF2R
 title: IGF2R
@@ -160,9 +155,8 @@ Images Provided by Susan Chapman.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [3482](https://www.ncbi.nlm.nih.gov/gene/3482) | [MIM:147280](https://omim.org/entry/147280) | MIM:147280 |
+| Human | [ENSG00000197081](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197081) | [3482](https://www.ncbi.nlm.nih.gov/gene/3482) | [MIM:147280](https://omim.org/entry/147280) | MIM:147280 |
 | Mouse | [ENSMUSG00000023830](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023830) | [16004](https://www.ncbi.nlm.nih.gov/gene/16004) | [MGI:96435](http://www.informatics.jax.org/marker/MGI:96435) | All phenotypic alleles (7):Targeted, knock-out(4) Targeted, other(3) |
-| Xenopus |  | [496491](https://www.ncbi.nlm.nih.gov/gene/496491) | [480956](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480956) |  |
-| Zebrafish | [ENSDARG00000006094](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006094) | [557061](https://www.ncbi.nlm.nih.gov/gene/557061) | [ZFIN:ZDB-GENE-041014-300](https://zfin.org/ZDB-GENE-041014-300) | ZDB-GENE-041014-300 |
+| Xenopus | [ENSXETG00000021138](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021138) | [496491](https://www.ncbi.nlm.nih.gov/gene/496491) |  |  |
+| Zebrafish | [ENSDARG00000006094](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006094) | [557061](https://www.ncbi.nlm.nih.gov/gene/557061) | [ZFIN:ZDB-GENE-041014-300](https://zfin.org/ZDB-GENE-041014-300) | lysosomal transport |
 

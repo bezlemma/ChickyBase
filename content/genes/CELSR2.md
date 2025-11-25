@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:430126
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_427684
 forward_primer: TCAACGACAACAGCCCCGAG
-gene_id: '464352'
+gene_id: '430126'
 gene_type: protein-coding
 images:
 - caption: CELSR2 expression
@@ -146,7 +146,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R570.CELSR2.S26AAA.001.jpg
 name: cadherin EGF LAG seven-pass G-type receptor 2
-ncbi_id: '464352'
+ncbi_id: '430126'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -177,10 +177,10 @@ reverse_primer: ATTAACCCTCACTAAAGGCGTAGACAGAGCCCTGGTAGGAGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=464352
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=430126
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/464352
+  url: https://www.ncbi.nlm.nih.gov/gene/430126
 species: Gallus gallus
 symbol: CELSR2
 template_length: '669'

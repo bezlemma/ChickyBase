@@ -24,7 +24,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396011
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003886
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_206952
-gene_id: '459241'
+gene_id: '396011'
 gene_type: protein-coding
 images:
 - caption: DNMT1 expression
@@ -216,37 +216,34 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DNMT1.Rengaraj.2011.Fig.8.png
 name: DNA methyltransferase 1
-ncbi_id: '459241'
+ncbi_id: '396011'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000130816
+  entrez: '1786'
+  mod: MIM:126375
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000004099
+  entrez: '13433'
+  mod: MGI:94912
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000022035
+  entrez: '100151716'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000030756
+  entrez: '30430'
+  mod: ZFIN:ZDB-GENE-990714-15
+  phenotypes: B cell differentiation, DNA methylation-dependent constitutive heterochromatin
+    formation, Kupffer's vesicle development, T cell differentiation in thymus, cartilage
+    development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459241
+  url: https://www.ncbi.nlm.nih.gov/gene/396011
 species: Gallus gallus
 symbol: DNMT1
 title: DNMT1
@@ -276,9 +273,8 @@ title: DNMT1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000130816](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000130816) | [1786](https://www.ncbi.nlm.nih.gov/gene/1786) | [MIM:126375](https://omim.org/entry/126375) |  |
+| Mouse | [ENSMUSG00000004099](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000004099) | [13433](https://www.ncbi.nlm.nih.gov/gene/13433) | [MGI:94912](http://www.informatics.jax.org/marker/MGI:94912) |  |
+| Xenopus | [ENSXETG00000022035](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022035) | [100151716](https://www.ncbi.nlm.nih.gov/gene/100151716) |  |  |
+| Zebrafish | [ENSDARG00000030756](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030756) | [30430](https://www.ncbi.nlm.nih.gov/gene/30430) | [ZFIN:ZDB-GENE-990714-15](https://zfin.org/ZDB-GENE-990714-15) | B cell differentiation, DNA methylation-dependent constitutive heterochromatin formation, Kupffer's vesicle development, T cell differentiation in thymus, cartilage development |
 

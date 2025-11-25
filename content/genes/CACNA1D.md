@@ -14,7 +14,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0046872
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205034
 forward_primer: CTCTGTCCCAAAGAAAACGCC
-gene_id: '450796'
+gene_id: '395895'
 gene_type: protein-coding
 images:
 - caption: CACNA1D expression
@@ -125,13 +125,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CACNA1D_HH12+ x25
     dorsal.jpg
 name: calcium voltage-gated channel subunit alpha1 D
-ncbi_id: '450796'
+ncbi_id: '395895'
 orthologs:
-- ensembl: ''
-  entrez: '34950'
-  mod: FBgn0001991
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000157388
   entrez: '776'
   mod: MIM:114206
@@ -143,24 +138,22 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 780391,100462912
-  mod: '876947'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000024004
-  entrez: 403310,403311
-  mod: ZFIN:ZDB-GENE-030616-135,ZFIN:ZDB-GENE-040525-3
-  phenotypes: ZDB-GENE-030616-135,ZDB-GENE-040525-3
+- ensembl: ENSDARG00000102773
+  entrez: '403310'
+  mod: ZFIN:ZDB-GENE-030616-135
+  phenotypes: calcium ion import across plasma membrane, calcium ion transmembrane
+    transport, calcium ion transport, detection of mechanical stimulus involved in
+    sensory perception, detection of mechanical stimulus involved in sensory perception
+    of sound
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGATTCGGTCCAACCCAACCAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450796
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395895
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450796
+  url: https://www.ncbi.nlm.nih.gov/gene/395895
 species: Gallus gallus
 symbol: CACNA1D
 template_length: '788'
@@ -189,9 +182,7 @@ title: CACNA1D
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34950](https://www.ncbi.nlm.nih.gov/gene/34950) | FBgn0001991 |  |
 | Human | [ENSG00000157388](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000157388) | [776](https://www.ncbi.nlm.nih.gov/gene/776) | [MIM:114206](https://omim.org/entry/114206) |  |
 | Mouse | [ENSMUSG00000015968](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000015968) | [12289](https://www.ncbi.nlm.nih.gov/gene/12289) | [MGI:88293](http://www.informatics.jax.org/marker/MGI:88293) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [780391](https://www.ncbi.nlm.nih.gov/gene/780391), [100462912](https://www.ncbi.nlm.nih.gov/gene/100462912) | [876947](http://www.xenbase.org/gene/showgene.do?method=display&geneId=876947) |  |
-| Zebrafish | [ENSDARG00000024004](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000024004) | [403310](https://www.ncbi.nlm.nih.gov/gene/403310), [403311](https://www.ncbi.nlm.nih.gov/gene/403311) | [ZFIN:ZDB-GENE-030616-135](https://zfin.org/ZDB-GENE-030616-135), [ZFIN:ZDB-GENE-040525-3](https://zfin.org/ZDB-GENE-040525-3) | ZDB-GENE-030616-135,ZDB-GENE-040525-3 |
+| Zebrafish | [ENSDARG00000102773](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000102773) | [403310](https://www.ncbi.nlm.nih.gov/gene/403310) | [ZFIN:ZDB-GENE-030616-135](https://zfin.org/ZDB-GENE-030616-135) | calcium ion import across plasma membrane, calcium ion transmembrane transport, calcium ion transport, detection of mechanical stimulus involved in sensory perception, detection of mechanical stimulus involved in sensory perception of sound |
 

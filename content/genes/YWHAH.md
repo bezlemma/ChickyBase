@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416955
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001007839
-gene_id: '460885'
+gene_id: '416955'
 gene_type: protein-coding
 images:
 - caption: YWHAH expression
@@ -19,13 +19,8 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/T35_12.jpg
 name: tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta
-ncbi_id: '460885'
+ncbi_id: '416955'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000128245
   entrez: '7533'
   mod: MIM:113508
@@ -36,23 +31,23 @@ orthologs:
   mod: MGI:109194
   phenotypes: All phenotypic alleles (1):Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549622,444832
-  mod: '949030'
+- ensembl: ENSXETG00000004205
+  entrez: '549622'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000005560
   entrez: '406443'
   mod: ZFIN:ZDB-GENE-040426-2191
-  phenotypes: ZDB-GENE-040426-2191
+  phenotypes: intracellular protein localization, signal transduction
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460885
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416955
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460885
+  url: https://www.ncbi.nlm.nih.gov/gene/416955
 species: Gallus gallus
 symbol: YWHAH
 title: YWHAH
@@ -75,9 +70,8 @@ title: YWHAH
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000128245](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000128245) | [7533](https://www.ncbi.nlm.nih.gov/gene/7533) | [MIM:113508](https://omim.org/entry/113508) |  |
 | Mouse | [ENSMUSG00000018965](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018965) | [22629](https://www.ncbi.nlm.nih.gov/gene/22629) | [MGI:109194](http://www.informatics.jax.org/marker/MGI:109194) | All phenotypic alleles (1):Gene trapped(1) |
-| Xenopus |  | [549622](https://www.ncbi.nlm.nih.gov/gene/549622), [444832](https://www.ncbi.nlm.nih.gov/gene/444832) | [949030](http://www.xenbase.org/gene/showgene.do?method=display&geneId=949030) |  |
-| Zebrafish | [ENSDARG00000005560](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005560) | [406443](https://www.ncbi.nlm.nih.gov/gene/406443) | [ZFIN:ZDB-GENE-040426-2191](https://zfin.org/ZDB-GENE-040426-2191) | ZDB-GENE-040426-2191 |
+| Xenopus | [ENSXETG00000004205](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004205) | [549622](https://www.ncbi.nlm.nih.gov/gene/549622) |  |  |
+| Zebrafish | [ENSDARG00000005560](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005560) | [406443](https://www.ncbi.nlm.nih.gov/gene/406443) | [ZFIN:ZDB-GENE-040426-2191](https://zfin.org/ZDB-GENE-040426-2191) | intracellular protein localization, signal transduction |
 

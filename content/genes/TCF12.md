@@ -20,7 +20,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0070888
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205375
   X-XIV: stage XII
-gene_id: '461836'
+gene_id: '396334'
 gene_type: protein-coding
 images:
 - caption: TCF12 expression
@@ -147,13 +147,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TCF12.Trevers.2023-Fig7-4-F.jpg
 name: transcription factor 12
-ncbi_id: '461836'
+ncbi_id: '396334'
 orthologs:
-- ensembl: ''
-  entrez: '34413'
-  mod: FBgn0000413
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000140262
   entrez: '6938'
   mod: MIM:600480
@@ -164,23 +159,24 @@ orthologs:
   mod: MGI:101877
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100188922,399451
-  mod: '5799693'
+- ensembl: ENSXETG00000016563
+  entrez: '100188922'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000004714
   entrez: '407985'
   mod: ZFIN:ZDB-GENE-040516-11
-  phenotypes: ZDB-GENE-040516-11
+  phenotypes: camera-type eye development, cell differentiation, nervous system development,
+    neuron projection development, regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461836
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396334
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461836
+  url: https://www.ncbi.nlm.nih.gov/gene/396334
 species: Gallus gallus
 symbol: TCF12
 title: TCF12
@@ -209,9 +205,8 @@ title: TCF12
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34413](https://www.ncbi.nlm.nih.gov/gene/34413) | FBgn0000413 |  |
 | Human | [ENSG00000140262](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140262) | [6938](https://www.ncbi.nlm.nih.gov/gene/6938) | [MIM:600480](https://omim.org/entry/600480) |  |
 | Mouse | [ENSMUSG00000032228](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032228) | [21406](https://www.ncbi.nlm.nih.gov/gene/21406) | [MGI:101877](http://www.informatics.jax.org/marker/MGI:101877) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100188922](https://www.ncbi.nlm.nih.gov/gene/100188922), [399451](https://www.ncbi.nlm.nih.gov/gene/399451) | [5799693](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5799693) |  |
-| Zebrafish | [ENSDARG00000004714](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004714) | [407985](https://www.ncbi.nlm.nih.gov/gene/407985) | [ZFIN:ZDB-GENE-040516-11](https://zfin.org/ZDB-GENE-040516-11) | ZDB-GENE-040516-11 |
+| Xenopus | [ENSXETG00000016563](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016563) | [100188922](https://www.ncbi.nlm.nih.gov/gene/100188922) |  |  |
+| Zebrafish | [ENSDARG00000004714](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004714) | [407985](https://www.ncbi.nlm.nih.gov/gene/407985) | [ZFIN:ZDB-GENE-040516-11](https://zfin.org/ZDB-GENE-040516-11) | camera-type eye development, cell differentiation, nervous system development, neuron projection development, regulation of transcription by RNA polymerase II |
 

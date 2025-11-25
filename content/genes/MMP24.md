@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419141
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417326
 forward_primer: GTCGTGTAAGTCTTGGTGTG
-gene_id: '456115'
+gene_id: '419141'
 gene_type: protein-coding
 images:
 - caption: MMP24 expression
@@ -78,13 +78,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R437.MMP24.S24V.001.jpg
 name: matrix metallopeptidase 24
-ncbi_id: '456115'
+ncbi_id: '419141'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000125966
   entrez: '10893'
   mod: MIM:604871
@@ -95,24 +90,24 @@ orthologs:
   mod: MGI:1341867
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100492405,446994
-  mod: '1009939'
+- ensembl: ENSXETG00000002702
+  entrez: '100492405'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000018896
   entrez: '571143'
   mod: ZFIN:ZDB-GENE-040724-262
-  phenotypes: ZDB-GENE-040724-262
+  phenotypes: collagen catabolic process, extracellular matrix organization, proteolysis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCATTCCTTTGGTCCTTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456115
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419141
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456115
+  url: https://www.ncbi.nlm.nih.gov/gene/419141
 species: Gallus gallus
 symbol: MMP24
 template_length: '957'
@@ -134,9 +129,8 @@ title: MMP24
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000125966](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125966) | [10893](https://www.ncbi.nlm.nih.gov/gene/10893) | [MIM:604871](https://omim.org/entry/604871) |  |
 | Mouse | [ENSMUSG00000027612](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027612) | [17391](https://www.ncbi.nlm.nih.gov/gene/17391) | [MGI:1341867](http://www.informatics.jax.org/marker/MGI:1341867) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100492405](https://www.ncbi.nlm.nih.gov/gene/100492405), [446994](https://www.ncbi.nlm.nih.gov/gene/446994) | [1009939](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1009939) |  |
-| Zebrafish | [ENSDARG00000018896](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018896) | [571143](https://www.ncbi.nlm.nih.gov/gene/571143) | [ZFIN:ZDB-GENE-040724-262](https://zfin.org/ZDB-GENE-040724-262) | ZDB-GENE-040724-262 |
+| Xenopus | [ENSXETG00000002702](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002702) | [100492405](https://www.ncbi.nlm.nih.gov/gene/100492405) |  |  |
+| Zebrafish | [ENSDARG00000018896](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018896) | [571143](https://www.ncbi.nlm.nih.gov/gene/571143) | [ZFIN:ZDB-GENE-040724-262](https://zfin.org/ZDB-GENE-040724-262) | collagen catabolic process, extracellular matrix organization, proteolysis |
 

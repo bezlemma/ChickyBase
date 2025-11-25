@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:776024
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001235591
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATATCCTGAAGGTGCTGGACCG
-gene_id: '458708'
+gene_id: '776024'
 gene_type: protein-coding
 images:
 - caption: LHX4 expression
@@ -159,41 +159,33 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LHX4.R168.S26.007.jpg
 name: LIM homeobox 4
-ncbi_id: '458708'
+ncbi_id: '776024'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000121454
+  entrez: '89884'
+  mod: MIM:602146
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000026468
+  entrez: '16872'
+  mod: MGI:101776
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000039458
+  entrez: '571943'
+  mod: ZFIN:ZDB-GENE-060728-1
+  phenotypes: neuron differentiation, pituitary gland development, regulation of DNA-templated
+    transcription, regulation of transcription by RNA polymerase II, ventral spinal
+    cord interneuron specification
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCCGTTTGACGCTCTTGTAGAACTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458708
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=776024
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458708
+  url: https://www.ncbi.nlm.nih.gov/gene/776024
 species: Gallus gallus
 symbol: LHX4
 template_length: '518'
@@ -216,9 +208,7 @@ title: LHX4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000121454](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000121454) | [89884](https://www.ncbi.nlm.nih.gov/gene/89884) | [MIM:602146](https://omim.org/entry/602146) |  |
+| Mouse | [ENSMUSG00000026468](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026468) | [16872](https://www.ncbi.nlm.nih.gov/gene/16872) | [MGI:101776](http://www.informatics.jax.org/marker/MGI:101776) |  |
+| Zebrafish | [ENSDARG00000039458](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039458) | [571943](https://www.ncbi.nlm.nih.gov/gene/571943) | [ZFIN:ZDB-GENE-060728-1](https://zfin.org/ZDB-GENE-060728-1) | neuron differentiation, pituitary gland development, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II, ventral spinal cord interneuron specification |
 

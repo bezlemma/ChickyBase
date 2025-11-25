@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419940
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006328
 forward_primer: 5’-CAGCTGCCTTGTACAGAGCT-3’
-gene_id: '463020'
+gene_id: '419940'
 gene_type: protein-coding
 images:
 - caption: CD79B expression
@@ -95,13 +95,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R644.CD79B.S26V.001.jpg
 name: CD79b molecule
-ncbi_id: '463020'
+ncbi_id: '419940'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000007312
   entrez: '974'
   mod: MIM:147245
@@ -113,24 +108,14 @@ orthologs:
   phenotypes: All phenotypic alleles (11):Spontaneous(1) Targeted, knock-out(4) Targeted,
     other(6)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ZFIN:ZDB-GENE-121219-1
-  phenotypes: ZDB-GENE-121219-1
-  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAGATTGCCCCTCACCAAAGG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463020
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419940
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463020
+  url: https://www.ncbi.nlm.nih.gov/gene/419940
 species: Gallus gallus
 symbol: CD79B
 template_length: '590'
@@ -153,9 +138,6 @@ title: CD79B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000007312](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000007312) | [974](https://www.ncbi.nlm.nih.gov/gene/974) | [MIM:147245](https://omim.org/entry/147245) | MIM:612692 |
 | Mouse | [ENSMUSG00000040592](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040592) | [15985](https://www.ncbi.nlm.nih.gov/gene/15985) | [MGI:96431](http://www.informatics.jax.org/marker/MGI:96431) | All phenotypic alleles (11):Spontaneous(1) Targeted, knock-out(4) Targeted, other(6) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-121219-1](https://zfin.org/ZDB-GENE-121219-1) | ZDB-GENE-121219-1 |
 

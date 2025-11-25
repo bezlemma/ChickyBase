@@ -22,7 +22,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417786
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0030246
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004381
-gene_id: '463065'
+gene_id: '417786'
 gene_type: protein-coding
 images:
 - caption: CNTN1 expression
@@ -75,13 +75,8 @@ images:
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yamagata.2012.Figure6.H.CNTN1-CNTN5.jpg
 name: contactin 1
-ncbi_id: '463065'
+ncbi_id: '417786'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000018236
   entrez: '1272'
   mod: MIM:600016
@@ -92,20 +87,20 @@ orthologs:
   mod: MGI:105980
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100487602,378666
-  mod: '491713'
+- ensembl: ENSXETG00000015810
+  entrez: '100487602'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000045685
-  entrez: 353150,541474
-  mod: ZFIN:ZDB-GENE-030427-1,ZFIN:ZDB-GENE-041210-236
-  phenotypes: ZDB-GENE-030427-1,ZDB-GENE-041210-236
+- ensembl: ''
+  entrez: '353150'
+  mod: ZFIN:ZDB-GENE-030427-1
+  phenotypes: axon guidance, brain development, cell adhesion, cell-cell adhesion
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463065
+  url: https://www.ncbi.nlm.nih.gov/gene/417786
 species: Gallus gallus
 symbol: CNTN1
 title: CNTN1
@@ -134,9 +129,8 @@ title: CNTN1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000018236](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000018236) | [1272](https://www.ncbi.nlm.nih.gov/gene/1272) | [MIM:600016](https://omim.org/entry/600016) | MIM:612540 |
 | Mouse | [ENSMUSG00000055022](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000055022) | [12805](https://www.ncbi.nlm.nih.gov/gene/12805) | [MGI:105980](http://www.informatics.jax.org/marker/MGI:105980) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100487602](https://www.ncbi.nlm.nih.gov/gene/100487602), [378666](https://www.ncbi.nlm.nih.gov/gene/378666) | [491713](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491713) |  |
-| Zebrafish | [ENSDARG00000045685](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045685) | [353150](https://www.ncbi.nlm.nih.gov/gene/353150), [541474](https://www.ncbi.nlm.nih.gov/gene/541474) | [ZFIN:ZDB-GENE-030427-1](https://zfin.org/ZDB-GENE-030427-1), [ZFIN:ZDB-GENE-041210-236](https://zfin.org/ZDB-GENE-041210-236) | ZDB-GENE-030427-1,ZDB-GENE-041210-236 |
+| Xenopus | [ENSXETG00000015810](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015810) | [100487602](https://www.ncbi.nlm.nih.gov/gene/100487602) |  |  |
+| Zebrafish |  | [353150](https://www.ncbi.nlm.nih.gov/gene/353150) | [ZFIN:ZDB-GENE-030427-1](https://zfin.org/ZDB-GENE-030427-1) | axon guidance, brain development, cell adhesion, cell-cell adhesion |
 

@@ -4,7 +4,6 @@ aliases:
 - chemokine (C-X-C motif) receptor 4
 cgnc_id: '9386'
 external_ids:
-  '25': stage 25stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=CXCR4+Vasyutina+Stebler+Raz
   Comments: 'As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI (acc
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395324
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204617
 forward_primer: TGCTTGGAGTCATCAGACATCG
-gene_id: '448842'
+gene_id: '395324'
 gene_type: protein-coding
 images:
 - caption: CXCR4 expression
@@ -384,13 +383,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CXCR4.Vasyutina.2005.Fig.4.png
 name: C-X-C motif chemokine receptor 4
-ncbi_id: '448842'
+ncbi_id: '395324'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000121966
   entrez: '7852'
   mod: MIM:162643
@@ -401,24 +395,25 @@ orthologs:
   mod: MGI:109563
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(5) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100038176,100192360,380373
-  mod: '489916'
+- ensembl: ENSXETG00000041940
+  entrez: '100038176'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000057633,ENSDARG00000041959
-  entrez: 100332872,100332777,140747,114447
-  mod: ZFIN:ZDB-GENE-020102-1,ZFIN:ZDB-GENE-010614-1
-  phenotypes: ZDB-GENE-020102-1,ZDB-GENE-010614-1
+- ensembl: ENSDARG00000057633
+  entrez: '140747'
+  mod: ZFIN:ZDB-GENE-020102-1
+  phenotypes: G protein-coupled receptor signaling pathway, Kupffer's vesicle development,
+    brain development, calcium-mediated signaling, cell chemotaxis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGACCCACAACAAAAACAACGAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448842
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395324
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448842
+  url: https://www.ncbi.nlm.nih.gov/gene/395324
 species: Gallus gallus
 symbol: CXCR4
 template_length: '728'
@@ -445,9 +440,8 @@ title: CXCR4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000121966](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000121966) | [7852](https://www.ncbi.nlm.nih.gov/gene/7852) | [MIM:162643](https://omim.org/entry/162643) | MIM:162643 |
 | Mouse | [ENSMUSG00000045382](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000045382) | [12767](https://www.ncbi.nlm.nih.gov/gene/12767) | [MGI:109563](http://www.informatics.jax.org/marker/MGI:109563) | All phenotypic alleles (8):Targeted, knock-out(5) Targeted, other(3) |
-| Xenopus |  | [100038176](https://www.ncbi.nlm.nih.gov/gene/100038176), [100192360](https://www.ncbi.nlm.nih.gov/gene/100192360), [380373](https://www.ncbi.nlm.nih.gov/gene/380373) | [489916](http://www.xenbase.org/gene/showgene.do?method=display&geneId=489916) |  |
-| Zebrafish | [ENSDARG00000057633](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057633), [ENSDARG00000041959](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041959) | [100332872](https://www.ncbi.nlm.nih.gov/gene/100332872), [100332777](https://www.ncbi.nlm.nih.gov/gene/100332777), [140747](https://www.ncbi.nlm.nih.gov/gene/140747), [114447](https://www.ncbi.nlm.nih.gov/gene/114447) | [ZFIN:ZDB-GENE-020102-1](https://zfin.org/ZDB-GENE-020102-1), [ZFIN:ZDB-GENE-010614-1](https://zfin.org/ZDB-GENE-010614-1) | ZDB-GENE-020102-1,ZDB-GENE-010614-1 |
+| Xenopus | [ENSXETG00000041940](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041940) | [100038176](https://www.ncbi.nlm.nih.gov/gene/100038176) |  |  |
+| Zebrafish | [ENSDARG00000057633](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057633) | [140747](https://www.ncbi.nlm.nih.gov/gene/140747) | [ZFIN:ZDB-GENE-020102-1](https://zfin.org/ZDB-GENE-020102-1) | G protein-coupled receptor signaling pathway, Kupffer's vesicle development, brain development, calcium-mediated signaling, cell chemotaxis |
 

@@ -3,7 +3,6 @@ aliases:
 - CDERMO-1, twist-related protein 2
 - dermo, Twist2, Dermo1
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2012+Wade+Twist2+Grem1
   Comments: The cDNA template used to generate the probe was obtained by PCR as described
     in the publication.
@@ -14,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395405
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204679
 forward_primer: GGACCAGTGAAGAGGAGTTGGAAAG
-gene_id: '313029'
+gene_id: '395405'
 gene_type: protein-coding
 images:
 - caption: TWIST2 expression
@@ -170,14 +169,9 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wade.2012.Fig6.A.Twist2.HH25.jpg
 name: twist family bHLH transcription factor 2
-ncbi_id: '313029'
+ncbi_id: '395405'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000233608
+- ensembl: ENSG00000288335
   entrez: '117581'
   mod: MIM:607556
   phenotypes: ''
@@ -187,24 +181,20 @@ orthologs:
   mod: MGI:104685
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: '100125350'
-  mod: '5878699'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000078266
   entrez: '30395'
   mod: ZFIN:ZDB-GENE-980526-235
-  phenotypes: ZDB-GENE-980526-235
+  phenotypes: cell differentiation, developmental process, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCACCCAGACAAACCACACACAAAAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=313029
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395405
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/313029
+  url: https://www.ncbi.nlm.nih.gov/gene/395405
 species: Gallus gallus
 symbol: TWIST2
 template_length: '749'
@@ -231,9 +221,7 @@ title: TWIST2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000233608](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000233608) | [117581](https://www.ncbi.nlm.nih.gov/gene/117581) | [MIM:607556](https://omim.org/entry/607556) |  |
+| Human | [ENSG00000288335](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000288335) | [117581](https://www.ncbi.nlm.nih.gov/gene/117581) | [MIM:607556](https://omim.org/entry/607556) |  |
 | Mouse | [ENSMUSG00000007805](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000007805) | [13345](https://www.ncbi.nlm.nih.gov/gene/13345) | [MGI:104685](http://www.informatics.jax.org/marker/MGI:104685) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100125350](https://www.ncbi.nlm.nih.gov/gene/100125350) | [5878699](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5878699) |  |
-| Zebrafish | [ENSDARG00000078266](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078266) | [30395](https://www.ncbi.nlm.nih.gov/gene/30395) | [ZFIN:ZDB-GENE-980526-235](https://zfin.org/ZDB-GENE-980526-235) | ZDB-GENE-980526-235 |
+| Zebrafish | [ENSDARG00000078266](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078266) | [30395](https://www.ncbi.nlm.nih.gov/gene/30395) | [ZFIN:ZDB-GENE-980526-235](https://zfin.org/ZDB-GENE-980526-235) | cell differentiation, developmental process, regulation of transcription by RNA polymerase II |
 

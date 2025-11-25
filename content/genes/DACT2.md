@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421561
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419602
-gene_id: '458204'
+gene_id: '421561'
 gene_type: protein-coding
 images:
 - caption: DACT2 expression
@@ -148,13 +148,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DPR2.Alvarez.2009
     for figure 4, panel E.png
 name: dishevelled binding antagonist of beta catenin 2
-ncbi_id: '458204'
+ncbi_id: '421561'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164488
   entrez: '168002'
   mod: MIM:608966
@@ -165,20 +160,10 @@ orthologs:
   mod: MGI:1920347
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000056986
-  entrez: '337795'
-  mod: ZFIN:ZDB-GENE-030131-9975
-  phenotypes: ZDB-GENE-030131-9975
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458204
+  url: https://www.ncbi.nlm.nih.gov/gene/421561
 species: Gallus gallus
 symbol: DACT2
 title: DACT2
@@ -204,9 +189,6 @@ title: DACT2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164488](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164488) | [168002](https://www.ncbi.nlm.nih.gov/gene/168002) | [MIM:608966](https://omim.org/entry/608966) |  |
 | Mouse | [ENSMUSG00000048826](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048826) | [240025](https://www.ncbi.nlm.nih.gov/gene/240025) | [MGI:1920347](http://www.informatics.jax.org/marker/MGI:1920347) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000056986](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056986) | [337795](https://www.ncbi.nlm.nih.gov/gene/337795) | [ZFIN:ZDB-GENE-030131-9975](https://zfin.org/ZDB-GENE-030131-9975) | ZDB-GENE-030131-9975 |
 

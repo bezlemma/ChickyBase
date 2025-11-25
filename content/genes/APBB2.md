@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422781
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420735
 forward_primer: TTATGGCAAGCAGCAGCACGAC
-gene_id: '451840'
+gene_id: '422781'
 gene_type: protein-coding
 images:
 - caption: APBB2 expression
@@ -128,13 +128,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R526.APBB2.S26AAAA.001.jpg
 name: amyloid beta precursor protein binding family B member 2
-ncbi_id: '451840'
+ncbi_id: '422781'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163697
   entrez: '323'
   mod: MIM:602710
@@ -145,24 +140,24 @@ orthologs:
   mod: MGI:108405
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000021093
   entrez: '100144693'
-  mod: '491742'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000061880
+- ensembl: ENSDARG00000099995
   entrez: '564990'
-  mod: ZFIN:ZDB-GENE-090313-73,ZFIN:ZDB-GENE-090313-73,ZFIN:ZDB-GENE-111028-3
-  phenotypes: ZDB-GENE-090313-73,ZDB-GENE-090313-73,ZDB-GENE-111028-3
+  mod: ZFIN:ZDB-GENE-090313-73
+  phenotypes: regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCCACTGAGTTGTTCCCGTAGGTATG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451840
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422781
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451840
+  url: https://www.ncbi.nlm.nih.gov/gene/422781
 species: Gallus gallus
 symbol: APBB2
 template_length: '890'
@@ -184,9 +179,8 @@ title: APBB2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163697](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163697) | [323](https://www.ncbi.nlm.nih.gov/gene/323) | [MIM:602710](https://omim.org/entry/602710) | MIM:104300 |
 | Mouse | [ENSMUSG00000029207](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029207) | [11787](https://www.ncbi.nlm.nih.gov/gene/11787) | [MGI:108405](http://www.informatics.jax.org/marker/MGI:108405) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100144693](https://www.ncbi.nlm.nih.gov/gene/100144693) | [491742](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491742) |  |
-| Zebrafish | [ENSDARG00000061880](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061880) | [564990](https://www.ncbi.nlm.nih.gov/gene/564990) | [ZFIN:ZDB-GENE-090313-73](https://zfin.org/ZDB-GENE-090313-73), [ZFIN:ZDB-GENE-090313-73](https://zfin.org/ZDB-GENE-090313-73), [ZFIN:ZDB-GENE-111028-3](https://zfin.org/ZDB-GENE-111028-3) | ZDB-GENE-090313-73,ZDB-GENE-090313-73,ZDB-GENE-111028-3 |
+| Xenopus | [ENSXETG00000021093](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021093) | [100144693](https://www.ncbi.nlm.nih.gov/gene/100144693) |  |  |
+| Zebrafish | [ENSDARG00000099995](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099995) | [564990](https://www.ncbi.nlm.nih.gov/gene/564990) | [ZFIN:ZDB-GENE-090313-73](https://zfin.org/ZDB-GENE-090313-73) | regulation of DNA-templated transcription |
 

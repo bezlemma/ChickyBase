@@ -10,7 +10,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001111323
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/FAT3
 forward_primer: AGGTTCATTGTGAGGGCTTCCG
-gene_id: '462318'
+gene_id: '395167'
 gene_type: protein-coding
 images:
 - caption: FAT3 expression
@@ -154,13 +154,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R462.FAT3.S26.001.jpg
 name: FAT atypical cadherin 3
-ncbi_id: '462318'
+ncbi_id: '395167'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000165323
   entrez: '120114'
   mod: MIM:612483
@@ -171,24 +166,26 @@ orthologs:
   mod: MGI:2444314
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '979368'
+- ensembl: ENSXETG00000017133
+  entrez: '100493675'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '569256'
-  mod: ZFIN:ZDB-GENE-060929-1254,ZFIN:ZDB-GENE-130530-969
-  phenotypes: ZDB-GENE-060929-1254,ZDB-GENE-130530-969
+- ensembl: ENSDARG00000087709
+  entrez: '568600'
+  mod: ZFIN:ZDB-GENE-130530-969
+  phenotypes: anatomical structure formation involved in morphogenesis, animal organ
+    morphogenesis, cell adhesion, cell morphogenesis involved in neuron differentiation,
+    dendrite development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGATGGCAAACTGCTGGGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462318
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395167
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462318
+  url: https://www.ncbi.nlm.nih.gov/gene/395167
 species: Gallus gallus
 symbol: FAT3
 template_length: '1009'
@@ -211,9 +208,8 @@ title: FAT3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000165323](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165323) | [120114](https://www.ncbi.nlm.nih.gov/gene/120114) | [MIM:612483](https://omim.org/entry/612483) |  |
 | Mouse | [ENSMUSG00000074505](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000074505) | [270120](https://www.ncbi.nlm.nih.gov/gene/270120) | [MGI:2444314](http://www.informatics.jax.org/marker/MGI:2444314) |  |
-| Xenopus |  |  | [979368](http://www.xenbase.org/gene/showgene.do?method=display&geneId=979368) |  |
-| Zebrafish |  | [569256](https://www.ncbi.nlm.nih.gov/gene/569256) | [ZFIN:ZDB-GENE-060929-1254](https://zfin.org/ZDB-GENE-060929-1254), [ZFIN:ZDB-GENE-130530-969](https://zfin.org/ZDB-GENE-130530-969) | ZDB-GENE-060929-1254,ZDB-GENE-130530-969 |
+| Xenopus | [ENSXETG00000017133](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017133) | [100493675](https://www.ncbi.nlm.nih.gov/gene/100493675) |  |  |
+| Zebrafish | [ENSDARG00000087709](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000087709) | [568600](https://www.ncbi.nlm.nih.gov/gene/568600) | [ZFIN:ZDB-GENE-130530-969](https://zfin.org/ZDB-GENE-130530-969) | anatomical structure formation involved in morphogenesis, animal organ morphogenesis, cell adhesion, cell morphogenesis involved in neuron differentiation, dendrite development |
 

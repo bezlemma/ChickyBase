@@ -3,7 +3,6 @@ aliases:
 - inhibitor of growth protein 1
 cgnc_id: '12642'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0038546
   Comments: No specific expression detected stages 16-21.
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/42140
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418759
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416956
 forward_primer: ATCGTCAGTCAAATGGTGGAGC
-gene_id: '453891'
+gene_id: '418759'
 gene_type: protein-coding
 images:
 - caption: ING1 expression
@@ -128,13 +127,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R344.ING1.S25.001.jpg
 name: inhibitor of growth family member 1
-ncbi_id: '453891'
+ncbi_id: '418759'
 orthologs:
-- ensembl: ''
-  entrez: '42140'
-  mod: FBgn0038546
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000153487
   entrez: '3621'
   mod: MIM:601566
@@ -146,24 +140,24 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(2)
     Gene trapped(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100037882,779040
-  mod: '960364'
+- ensembl: ENSXETG00000008212
+  entrez: '100037882'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000019116
   entrez: '678608'
   mod: ZFIN:ZDB-GENE-060421-4388
-  phenotypes: ZDB-GENE-060421-4388
+  phenotypes: chromatin organization, positive regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCGGGAGGAAAACAAAAAGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453891
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418759
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453891
+  url: https://www.ncbi.nlm.nih.gov/gene/418759
 species: Gallus gallus
 symbol: ING1
 template_length: '866'
@@ -189,9 +183,8 @@ title: ING1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42140](https://www.ncbi.nlm.nih.gov/gene/42140) | FBgn0038546 |  |
 | Human | [ENSG00000153487](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000153487) | [3621](https://www.ncbi.nlm.nih.gov/gene/3621) | [MIM:601566](https://omim.org/entry/601566) | MIM:275355 |
 | Mouse | [ENSMUSG00000045969](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000045969) | [26356](https://www.ncbi.nlm.nih.gov/gene/26356) | [MGI:1349481](http://www.informatics.jax.org/marker/MGI:1349481) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(2) Gene trapped(2) |
-| Xenopus |  | [100037882](https://www.ncbi.nlm.nih.gov/gene/100037882), [779040](https://www.ncbi.nlm.nih.gov/gene/779040) | [960364](http://www.xenbase.org/gene/showgene.do?method=display&geneId=960364) |  |
-| Zebrafish |  | [678608](https://www.ncbi.nlm.nih.gov/gene/678608) | [ZFIN:ZDB-GENE-060421-4388](https://zfin.org/ZDB-GENE-060421-4388) | ZDB-GENE-060421-4388 |
+| Xenopus | [ENSXETG00000008212](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008212) | [100037882](https://www.ncbi.nlm.nih.gov/gene/100037882) |  |  |
+| Zebrafish | [ENSDARG00000019116](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019116) | [678608](https://www.ncbi.nlm.nih.gov/gene/678608) | [ZFIN:ZDB-GENE-060421-4388](https://zfin.org/ZDB-GENE-060421-4388) | chromatin organization, positive regulation of DNA-templated transcription |
 

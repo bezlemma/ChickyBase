@@ -5,7 +5,6 @@ aliases:
 - homeobox protein Nkx-2.8
 cgnc_id: '49622'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Brand+1997+NKx2-8
   Comments: The complete cDNA template sequence was obtained from the information
     in the publication as described in Brand et al. 1997. NKX2-8 is also known as
@@ -17,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396037
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205137
 forward_primer: TGCCACCACCCCAAGCAAC
-gene_id: '459541'
+gene_id: '396037'
 gene_type: protein-coding
 images:
 - caption: NKX2-6 expression
@@ -249,13 +248,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKx2-8.Brand.1997.Fig3.jpg
 name: NK2 homeobox 6
-ncbi_id: '459541'
+ncbi_id: '396037'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000180053
   entrez: '137814'
   mod: MIM:611770
@@ -266,24 +260,25 @@ orthologs:
   mod: MGI:97351
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100038094,373736
-  mod: '486950'
+- ensembl: ENSXETG00000007764
+  entrez: '100038094'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000021232
   entrez: '30694'
   mod: ZFIN:ZDB-GENE-990415-179
-  phenotypes: ZDB-GENE-990415-179
+  phenotypes: cardiac muscle cell differentiation, cardiac muscle cell proliferation,
+    cell differentiation, embryonic heart tube development, heart looping
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTCCGCAGCACCAGAAGTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459541
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396037
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459541
+  url: https://www.ncbi.nlm.nih.gov/gene/396037
 species: Gallus gallus
 symbol: NKX2-6
 title: NKX2-6
@@ -309,9 +304,8 @@ title: NKX2-6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000180053](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000180053) | [137814](https://www.ncbi.nlm.nih.gov/gene/137814) | [MIM:611770](https://omim.org/entry/611770) | MIM:217095 |
 | Mouse | [ENSMUSG00000044186](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000044186) | [18092](https://www.ncbi.nlm.nih.gov/gene/18092) | [MGI:97351](http://www.informatics.jax.org/marker/MGI:97351) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100038094](https://www.ncbi.nlm.nih.gov/gene/100038094), [373736](https://www.ncbi.nlm.nih.gov/gene/373736) | [486950](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486950) |  |
-| Zebrafish | [ENSDARG00000021232](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021232) | [30694](https://www.ncbi.nlm.nih.gov/gene/30694) | [ZFIN:ZDB-GENE-990415-179](https://zfin.org/ZDB-GENE-990415-179) | ZDB-GENE-990415-179 |
+| Xenopus | [ENSXETG00000007764](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007764) | [100038094](https://www.ncbi.nlm.nih.gov/gene/100038094) |  |  |
+| Zebrafish | [ENSDARG00000021232](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021232) | [30694](https://www.ncbi.nlm.nih.gov/gene/30694) | [ZFIN:ZDB-GENE-990415-179](https://zfin.org/ZDB-GENE-990415-179) | cardiac muscle cell differentiation, cardiac muscle cell proliferation, cell differentiation, embryonic heart tube development, heart looping |
 

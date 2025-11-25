@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422687
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420639
-gene_id: '452206'
+gene_id: '101751638'
 gene_type: protein-coding
 images:
 - caption: ARSJ expression
@@ -49,7 +49,7 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F5.arsj.png
 name: arylsulfatase family, member J
-ncbi_id: '452206'
+ncbi_id: '101751638'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -74,12 +74,12 @@ orthologs:
 - ensembl: ''
   entrez: '559800'
   mod: ZFIN:ZDB-GENE-111215-1
-  phenotypes: ZDB-GENE-111215-1
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452206
+  url: https://www.ncbi.nlm.nih.gov/gene/101751638
 species: Gallus gallus
 symbol: ARSJ
 title: ARSJ
@@ -108,5 +108,5 @@ title: ARSJ
 | Human | [ENSG00000180801](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000180801) | [79642](https://www.ncbi.nlm.nih.gov/gene/79642) | [MIM:610010](https://omim.org/entry/610010) |  |
 | Mouse | [ENSMUSG00000046561](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000046561) | [271970](https://www.ncbi.nlm.nih.gov/gene/271970) | [MGI:2443513](http://www.informatics.jax.org/marker/MGI:2443513) |  |
 | Xenopus |  | [100494972](https://www.ncbi.nlm.nih.gov/gene/100494972) | [951841](http://www.xenbase.org/gene/showgene.do?method=display&geneId=951841) |  |
-| Zebrafish |  | [559800](https://www.ncbi.nlm.nih.gov/gene/559800) | [ZFIN:ZDB-GENE-111215-1](https://zfin.org/ZDB-GENE-111215-1) | ZDB-GENE-111215-1 |
+| Zebrafish |  | [559800](https://www.ncbi.nlm.nih.gov/gene/559800) | [ZFIN:ZDB-GENE-111215-1](https://zfin.org/ZDB-GENE-111215-1) |  |
 

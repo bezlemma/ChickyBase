@@ -7,7 +7,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277788
 forward_primer: ACAGCAGCATCTATGTCAGCCG
-gene_id: '462838'
+gene_id: '430724'
 gene_type: protein-coding
 images:
 - caption: SYNJ2BP expression
@@ -105,41 +105,36 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R490.SYNJ2BP.S26AA.001.jpg
 name: synaptojanin 2 binding protein
-ncbi_id: '462838'
+ncbi_id: '430724'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000213463
+  entrez: '55333'
+  mod: MIM:609411
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000090935
+  entrez: '24071'
+  mod: MGI:1344347
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000033493
+  entrez: '100127193'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSDARG00000028321
+  entrez: '334599'
+  mod: ZFIN:ZDB-GENE-030131-6531
   phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGACAGAGTCATCTCCTTTCCCCTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462838
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=430724
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462838
+  url: https://www.ncbi.nlm.nih.gov/gene/430724
 species: Gallus gallus
 symbol: SYNJ2BP
 template_length: '519'
@@ -160,9 +155,8 @@ title: SYNJ2BP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000213463](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000213463) | [55333](https://www.ncbi.nlm.nih.gov/gene/55333) | [MIM:609411](https://omim.org/entry/609411) |  |
+| Mouse | [ENSMUSG00000090935](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000090935) | [24071](https://www.ncbi.nlm.nih.gov/gene/24071) | [MGI:1344347](http://www.informatics.jax.org/marker/MGI:1344347) |  |
+| Xenopus | [ENSXETG00000033493](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033493) | [100127193](https://www.ncbi.nlm.nih.gov/gene/100127193) |  |  |
+| Zebrafish | [ENSDARG00000028321](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028321) | [334599](https://www.ncbi.nlm.nih.gov/gene/334599) | [ZFIN:ZDB-GENE-030131-6531](https://zfin.org/ZDB-GENE-030131-6531) |  |
 

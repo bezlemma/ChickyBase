@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417049
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030674
 forward_primer: 5'-GCCACCACCATTGTCAACATTC-3'
-gene_id: '455350'
+gene_id: '417049'
 gene_type: protein-coding
 images:
 - caption: BRD2 expression
@@ -170,14 +170,9 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R543.BRD2.S27AAA.001.jpg
 name: bromodomain containing 2
-ncbi_id: '455350'
+ncbi_id: '417049'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000204256
+- ensembl: ENSG00000215077
   entrez: '6046'
   mod: MIM:601540
   phenotypes: ''
@@ -187,24 +182,25 @@ orthologs:
   mod: MGI:99495
   phenotypes: All phenotypic alleles (6):Targeted, other(4) Gene trapped(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100038037,394399
-  mod: '481597'
+- ensembl: ENSXETG00000017067
+  entrez: '100038037'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000022280,ENSDARG00000046087
-  entrez: 30445,569354
-  mod: ZFIN:ZDB-GENE-990415-248,ZFIN:ZDB-GENE-070220-1
-  phenotypes: ZDB-GENE-990415-248,ZDB-GENE-070220-1
+- ensembl: ENSDARG00000022280
+  entrez: '30445'
+  mod: ZFIN:ZDB-GENE-990415-248
+  phenotypes: chromatin organization, chromatin remodeling, hindbrain development,
+    midbrain-hindbrain boundary development, regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGCCCTTTGTGCTTCTCCGATTTC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455350
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417049
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455350
+  url: https://www.ncbi.nlm.nih.gov/gene/417049
 species: Gallus gallus
 symbol: BRD2
 template_length: '984'
@@ -227,9 +223,8 @@ title: BRD2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000204256](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000204256) | [6046](https://www.ncbi.nlm.nih.gov/gene/6046) | [MIM:601540](https://omim.org/entry/601540) |  |
+| Human | [ENSG00000215077](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000215077) | [6046](https://www.ncbi.nlm.nih.gov/gene/6046) | [MIM:601540](https://omim.org/entry/601540) |  |
 | Mouse | [ENSMUSG00000024335](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024335) | [14312](https://www.ncbi.nlm.nih.gov/gene/14312) | [MGI:99495](http://www.informatics.jax.org/marker/MGI:99495) | All phenotypic alleles (6):Targeted, other(4) Gene trapped(2) |
-| Xenopus |  | [100038037](https://www.ncbi.nlm.nih.gov/gene/100038037), [394399](https://www.ncbi.nlm.nih.gov/gene/394399) | [481597](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481597) |  |
-| Zebrafish | [ENSDARG00000022280](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000022280), [ENSDARG00000046087](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000046087) | [30445](https://www.ncbi.nlm.nih.gov/gene/30445), [569354](https://www.ncbi.nlm.nih.gov/gene/569354) | [ZFIN:ZDB-GENE-990415-248](https://zfin.org/ZDB-GENE-990415-248), [ZFIN:ZDB-GENE-070220-1](https://zfin.org/ZDB-GENE-070220-1) | ZDB-GENE-990415-248,ZDB-GENE-070220-1 |
+| Xenopus | [ENSXETG00000017067](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017067) | [100038037](https://www.ncbi.nlm.nih.gov/gene/100038037) |  |  |
+| Zebrafish | [ENSDARG00000022280](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000022280) | [30445](https://www.ncbi.nlm.nih.gov/gene/30445) | [ZFIN:ZDB-GENE-990415-248](https://zfin.org/ZDB-GENE-990415-248) | chromatin organization, chromatin remodeling, hindbrain development, midbrain-hindbrain boundary development, regulation of DNA-templated transcription |
 

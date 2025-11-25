@@ -9,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417153
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415436
-gene_id: '454565'
+gene_id: '417153'
 gene_type: protein-coding
 images:
 - caption: REXO4 expression
@@ -27,13 +27,8 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53zd8.127.20.jpg
 name: REX4 homolog, 3'-5' exonuclease
-ncbi_id: '454565'
+ncbi_id: '417153'
 orthologs:
-- ensembl: ''
-  entrez: '39559'
-  mod: FBgn0036405
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000148300
   entrez: '57109'
   mod: MIM:602930
@@ -45,22 +40,22 @@ orthologs:
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
 - ensembl: ''
-  entrez: 448635,379197
-  mod: '6258945'
+  entrez: '448635'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000088619
-  entrez: 100333127,550315
-  mod: ZFIN:ZDB-GENE-120215-216,ZFIN:ZDB-GENE-050411-124
-  phenotypes: ZDB-GENE-120215-216,ZDB-GENE-050411-124
+  entrez: '100333127'
+  mod: ZFIN:ZDB-GENE-050411-124
+  phenotypes: DNA catabolic process, RNA processing, rRNA processing
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454565
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417153
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454565
+  url: https://www.ncbi.nlm.nih.gov/gene/417153
 species: Gallus gallus
 symbol: REXO4
 title: REXO4
@@ -83,9 +78,8 @@ title: REXO4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39559](https://www.ncbi.nlm.nih.gov/gene/39559) | FBgn0036405 |  |
 | Human | [ENSG00000148300](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148300) | [57109](https://www.ncbi.nlm.nih.gov/gene/57109) | [MIM:602930](https://omim.org/entry/602930) |  |
 | Mouse | [ENSMUSG00000052406](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000052406) | [227656](https://www.ncbi.nlm.nih.gov/gene/227656) | [MGI:2684957](http://www.informatics.jax.org/marker/MGI:2684957) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [448635](https://www.ncbi.nlm.nih.gov/gene/448635), [379197](https://www.ncbi.nlm.nih.gov/gene/379197) | [6258945](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6258945) |  |
-| Zebrafish | [ENSDARG00000088619](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000088619) | [100333127](https://www.ncbi.nlm.nih.gov/gene/100333127), [550315](https://www.ncbi.nlm.nih.gov/gene/550315) | [ZFIN:ZDB-GENE-120215-216](https://zfin.org/ZDB-GENE-120215-216), [ZFIN:ZDB-GENE-050411-124](https://zfin.org/ZDB-GENE-050411-124) | ZDB-GENE-120215-216,ZDB-GENE-050411-124 |
+| Xenopus |  | [448635](https://www.ncbi.nlm.nih.gov/gene/448635) |  |  |
+| Zebrafish | [ENSDARG00000088619](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000088619) | [100333127](https://www.ncbi.nlm.nih.gov/gene/100333127) | [ZFIN:ZDB-GENE-050411-124](https://zfin.org/ZDB-GENE-050411-124) | DNA catabolic process, RNA processing, rRNA processing |
 

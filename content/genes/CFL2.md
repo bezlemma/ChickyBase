@@ -14,7 +14,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003779
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004406
 forward_primer: 5’-CATGGCTTCTGGAGTAACAG-3’
-gene_id: '448726'
+gene_id: '423320'
 gene_type: protein-coding
 images:
 - caption: CFL2 expression
@@ -170,13 +170,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R701.CFL2.S26AAAA.001.jpg
 name: cofilin 2
-ncbi_id: '448726'
+ncbi_id: '423320'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000165410
   entrez: '1073'
   mod: MIM:601443
@@ -187,24 +182,25 @@ orthologs:
   mod: MGI:101763
   phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 496574,494995
-  mod: '1002955'
+- ensembl: ENSXETG00000012301
+  entrez: '496574'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000014106
   entrez: '403001'
   mod: ZFIN:ZDB-GENE-040426-1815
-  phenotypes: ZDB-GENE-040426-1815
+  phenotypes: actin filament depolymerization, actin filament fragmentation, actin
+    filament severing
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCAGAAATTGCCATCATGACC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448726
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423320
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448726
+  url: https://www.ncbi.nlm.nih.gov/gene/423320
 species: Gallus gallus
 symbol: CFL2
 template_length: '1247'
@@ -230,9 +226,8 @@ title: CFL2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000165410](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165410) | [1073](https://www.ncbi.nlm.nih.gov/gene/1073) | [MIM:601443](https://omim.org/entry/601443) | MIM:610687 |
 | Mouse | [ENSMUSG00000062929](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000062929) | [12632](https://www.ncbi.nlm.nih.gov/gene/12632) | [MGI:101763](http://www.informatics.jax.org/marker/MGI:101763) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [496574](https://www.ncbi.nlm.nih.gov/gene/496574), [494995](https://www.ncbi.nlm.nih.gov/gene/494995) | [1002955](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1002955) |  |
-| Zebrafish | [ENSDARG00000014106](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014106) | [403001](https://www.ncbi.nlm.nih.gov/gene/403001) | [ZFIN:ZDB-GENE-040426-1815](https://zfin.org/ZDB-GENE-040426-1815) | ZDB-GENE-040426-1815 |
+| Xenopus | [ENSXETG00000012301](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012301) | [496574](https://www.ncbi.nlm.nih.gov/gene/496574) |  |  |
+| Zebrafish | [ENSDARG00000014106](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014106) | [403001](https://www.ncbi.nlm.nih.gov/gene/403001) | [ZFIN:ZDB-GENE-040426-1815](https://zfin.org/ZDB-GENE-040426-1815) | actin filament depolymerization, actin filament fragmentation, actin filament severing |
 

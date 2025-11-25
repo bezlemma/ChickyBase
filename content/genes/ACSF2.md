@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422102
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420105
-gene_id: '449674'
+gene_id: '422102'
 gene_type: protein-coding
 images:
 - caption: ACSF2 expression
@@ -81,13 +81,8 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F4.acsf2.png
 name: acyl-CoA synthetase family member 2
-ncbi_id: '449674'
+ncbi_id: '422102'
 orthologs:
-- ensembl: ''
-  entrez: '33766'
-  mod: FBgn0031703
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000167107
   entrez: '80221'
   mod: MIM:610465
@@ -98,20 +93,20 @@ orthologs:
   mod: MGI:2388287
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000006826
   entrez: '100497121'
-  mod: '993378'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000061201
   entrez: '751707'
   mod: ZFIN:ZDB-GENE-060825-7
-  phenotypes: ZDB-GENE-060825-7
+  phenotypes: fatty acid metabolic process, lipid metabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449674
+  url: https://www.ncbi.nlm.nih.gov/gene/422102
 species: Gallus gallus
 symbol: ACSF2
 title: ACSF2
@@ -139,9 +134,8 @@ title: ACSF2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33766](https://www.ncbi.nlm.nih.gov/gene/33766) | FBgn0031703 |  |
 | Human | [ENSG00000167107](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000167107) | [80221](https://www.ncbi.nlm.nih.gov/gene/80221) | [MIM:610465](https://omim.org/entry/610465) |  |
 | Mouse | [ENSMUSG00000076435](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000076435) | [264895](https://www.ncbi.nlm.nih.gov/gene/264895) | [MGI:2388287](http://www.informatics.jax.org/marker/MGI:2388287) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100497121](https://www.ncbi.nlm.nih.gov/gene/100497121) | [993378](http://www.xenbase.org/gene/showgene.do?method=display&geneId=993378) |  |
-| Zebrafish | [ENSDARG00000061201](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061201) | [751707](https://www.ncbi.nlm.nih.gov/gene/751707) | [ZFIN:ZDB-GENE-060825-7](https://zfin.org/ZDB-GENE-060825-7) | ZDB-GENE-060825-7 |
+| Xenopus | [ENSXETG00000006826](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006826) | [100497121](https://www.ncbi.nlm.nih.gov/gene/100497121) |  |  |
+| Zebrafish | [ENSDARG00000061201](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061201) | [751707](https://www.ncbi.nlm.nih.gov/gene/751707) | [ZFIN:ZDB-GENE-060825-7](https://zfin.org/ZDB-GENE-060825-7) | fatty acid metabolic process, lipid metabolic process |
 

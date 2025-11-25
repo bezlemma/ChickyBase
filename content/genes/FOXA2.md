@@ -5,8 +5,6 @@ aliases:
 - transcription factor Foxa2, FOX2A, HNF-3b , HNF3b
 cgnc_id: '49366'
 external_ids:
-  '19': stage 19
-  '4': stage 4stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=campmany+marti+smad3+specification
   Comments: 'Images provided by Claire Anderson. As insufficient information was provided
     to verify sequence used to synthesize probe, the sequence above was obtained from
@@ -21,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395539
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204770
   X-XIV: stage XII
-gene_id: '449624'
+gene_id: '395539'
 gene_type: protein-coding
 images:
 - caption: FOXA2 expression
@@ -565,40 +563,36 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXA2_stage 14+ x25
     ventral.jpg
 name: forkhead box A2
-ncbi_id: '449624'
+ncbi_id: '395539'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000125798
+  entrez: '3170'
+  mod: MIM:600288
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000037025
+  entrez: '15376'
+  mod: MGI:1347476
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000026998
+  entrez: '395063'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000003411
+  entrez: '30126'
+  mod: ZFIN:ZDB-GENE-980526-404
+  phenotypes: anatomical structure morphogenesis, axial mesoderm morphogenesis, cell
+    differentiation, central nervous system myelin formation, endoderm development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449624
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395539
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449624
+  url: https://www.ncbi.nlm.nih.gov/gene/395539
 species: Gallus gallus
 symbol: FOXA2
 title: FOXA2
@@ -624,9 +618,8 @@ title: FOXA2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000125798](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125798) | [3170](https://www.ncbi.nlm.nih.gov/gene/3170) | [MIM:600288](https://omim.org/entry/600288) |  |
+| Mouse | [ENSMUSG00000037025](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037025) | [15376](https://www.ncbi.nlm.nih.gov/gene/15376) | [MGI:1347476](http://www.informatics.jax.org/marker/MGI:1347476) |  |
+| Xenopus | [ENSXETG00000026998](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026998) | [395063](https://www.ncbi.nlm.nih.gov/gene/395063) |  |  |
+| Zebrafish | [ENSDARG00000003411](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003411) | [30126](https://www.ncbi.nlm.nih.gov/gene/30126) | [ZFIN:ZDB-GENE-980526-404](https://zfin.org/ZDB-GENE-980526-404) | anatomical structure morphogenesis, axial mesoderm morphogenesis, cell differentiation, central nervous system myelin formation, endoderm development |
 

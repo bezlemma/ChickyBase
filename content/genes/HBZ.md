@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416650
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0020037
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004374
-gene_id: '454743'
+gene_id: '416650'
 gene_type: protein-coding
 images:
 - caption: HBZ expression
@@ -116,40 +116,35 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HBZ.Anderson.2019.Supplementary
     figure 5J.jpg
 name: hemoglobin subunit zeta
-ncbi_id: '454743'
+ncbi_id: '416650'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000130656
   entrez: '3050'
   mod: MIM:142310
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000055609
   entrez: '15126'
   mod: MGI:96019
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
 - ensembl: ''
-  entrez: 448669,734765,394454,397869
-  mod: 5888072,478140
+  entrez: '100335043'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000045142,ENSDARG00000088330,ENSDARG00000089124,ENSDARG00000089475,ENSDARG00000079078,ENSDARG00000069735,ENSDARG00000097011
-  entrez: 561790,572729,100334599,30597,497162,497166,30507
-  mod: ZFIN:ZDB-GENE-101028-1,ZFIN:ZDB-GENE-061207-39,ZFIN:ZDB-GENE-980526-80,ZFIN:ZDB-GENE-041001-43,ZFIN:ZDB-GENE-081104-38,ZFIN:ZDB-GENE-980526-79
-  phenotypes: ZDB-GENE-101028-1,ZDB-GENE-061207-39,ZDB-GENE-980526-80,ZDB-GENE-041001-43,ZDB-GENE-081104-38,ZDB-GENE-980526-79
+- ensembl: ENSDARG00000089124
+  entrez: '100334599'
+  mod: ZFIN:ZDB-GENE-061207-39
+  phenotypes: erythrocyte development, oxygen transport
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454743
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416650
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454743
+  url: https://www.ncbi.nlm.nih.gov/gene/416650
 species: Gallus gallus
 symbol: HBZ
 title: HBZ
@@ -177,9 +172,8 @@ title: HBZ
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [3050](https://www.ncbi.nlm.nih.gov/gene/3050) | [MIM:142310](https://omim.org/entry/142310) |  |
-| Mouse |  | [15126](https://www.ncbi.nlm.nih.gov/gene/15126) | [MGI:96019](http://www.informatics.jax.org/marker/MGI:96019) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [448669](https://www.ncbi.nlm.nih.gov/gene/448669), [734765](https://www.ncbi.nlm.nih.gov/gene/734765), [394454](https://www.ncbi.nlm.nih.gov/gene/394454), [397869](https://www.ncbi.nlm.nih.gov/gene/397869) | [5888072](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5888072), [478140](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478140) |  |
-| Zebrafish | [ENSDARG00000045142](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045142), [ENSDARG00000088330](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000088330), [ENSDARG00000089124](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089124), [ENSDARG00000089475](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089475), [ENSDARG00000079078](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079078), [ENSDARG00000069735](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069735), [ENSDARG00000097011](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000097011) | [561790](https://www.ncbi.nlm.nih.gov/gene/561790), [572729](https://www.ncbi.nlm.nih.gov/gene/572729), [100334599](https://www.ncbi.nlm.nih.gov/gene/100334599), [30597](https://www.ncbi.nlm.nih.gov/gene/30597), [497162](https://www.ncbi.nlm.nih.gov/gene/497162), [497166](https://www.ncbi.nlm.nih.gov/gene/497166), [30507](https://www.ncbi.nlm.nih.gov/gene/30507) | [ZFIN:ZDB-GENE-101028-1](https://zfin.org/ZDB-GENE-101028-1), [ZFIN:ZDB-GENE-061207-39](https://zfin.org/ZDB-GENE-061207-39), [ZFIN:ZDB-GENE-980526-80](https://zfin.org/ZDB-GENE-980526-80), [ZFIN:ZDB-GENE-041001-43](https://zfin.org/ZDB-GENE-041001-43), [ZFIN:ZDB-GENE-081104-38](https://zfin.org/ZDB-GENE-081104-38), [ZFIN:ZDB-GENE-980526-79](https://zfin.org/ZDB-GENE-980526-79) | ZDB-GENE-101028-1,ZDB-GENE-061207-39,ZDB-GENE-980526-80,ZDB-GENE-041001-43,ZDB-GENE-081104-38,ZDB-GENE-980526-79 |
+| Human | [ENSG00000130656](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000130656) | [3050](https://www.ncbi.nlm.nih.gov/gene/3050) | [MIM:142310](https://omim.org/entry/142310) |  |
+| Mouse | [ENSMUSG00000055609](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000055609) | [15126](https://www.ncbi.nlm.nih.gov/gene/15126) | [MGI:96019](http://www.informatics.jax.org/marker/MGI:96019) | All phenotypic alleles (1):Targeted, knock-out(1) |
+| Xenopus |  | [100335043](https://www.ncbi.nlm.nih.gov/gene/100335043) |  |  |
+| Zebrafish | [ENSDARG00000089124](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089124) | [100334599](https://www.ncbi.nlm.nih.gov/gene/100334599) | [ZFIN:ZDB-GENE-061207-39](https://zfin.org/ZDB-GENE-061207-39) | erythrocyte development, oxygen transport |
 

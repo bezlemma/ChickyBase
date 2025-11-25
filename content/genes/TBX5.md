@@ -3,7 +3,6 @@ aliases:
 - T-box transcription factor TBX5
 cgnc_id: '6251'
 external_ids:
-  '19': stage 19
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030262
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
@@ -18,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006102.3?report=genbank&from=12310083&to=12350461
-gene_id: '451487'
+gene_id: '373988'
 gene_type: protein-coding
 images:
 - caption: TBX5 expression
@@ -737,13 +736,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX5.Anderson.2019.Fig1.jpg
 name: T-box 5
-ncbi_id: '451487'
+ncbi_id: '373988'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000089225
   entrez: '6910'
   mod: MIM:601620
@@ -754,23 +748,25 @@ orthologs:
   mod: MGI:102541
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 619589,373738,373556
-  mod: '486854'
+- ensembl: ENSXETG00000017688
+  entrez: '619589'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000024894,ENSDARG00000092060
-  entrez: 30071,100004161
-  mod: ZFIN:ZDB-GENE-991124-7,ZFIN:ZDB-GENE-060601-2
-  phenotypes: ZDB-GENE-991124-7,ZDB-GENE-060601-2
+- ensembl: ENSDARG00000024894
+  entrez: '30071'
+  mod: ZFIN:ZDB-GENE-991124-7
+  phenotypes: DNA-templated transcription, anatomical structure morphogenesis, animal
+    organ morphogenesis, atrial ventricular junction remodeling, atrioventricular
+    canal development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451487
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373988
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451487
+  url: https://www.ncbi.nlm.nih.gov/gene/373988
 species: Gallus gallus
 symbol: TBX5
 title: TBX5
@@ -801,9 +797,8 @@ title: TBX5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000089225](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000089225) | [6910](https://www.ncbi.nlm.nih.gov/gene/6910) | [MIM:601620](https://omim.org/entry/601620) | MIM:142900 |
 | Mouse | [ENSMUSG00000018263](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018263) | [21388](https://www.ncbi.nlm.nih.gov/gene/21388) | [MGI:102541](http://www.informatics.jax.org/marker/MGI:102541) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [619589](https://www.ncbi.nlm.nih.gov/gene/619589), [373738](https://www.ncbi.nlm.nih.gov/gene/373738), [373556](https://www.ncbi.nlm.nih.gov/gene/373556) | [486854](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486854) |  |
-| Zebrafish | [ENSDARG00000024894](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000024894), [ENSDARG00000092060](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000092060) | [30071](https://www.ncbi.nlm.nih.gov/gene/30071), [100004161](https://www.ncbi.nlm.nih.gov/gene/100004161) | [ZFIN:ZDB-GENE-991124-7](https://zfin.org/ZDB-GENE-991124-7), [ZFIN:ZDB-GENE-060601-2](https://zfin.org/ZDB-GENE-060601-2) | ZDB-GENE-991124-7,ZDB-GENE-060601-2 |
+| Xenopus | [ENSXETG00000017688](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017688) | [619589](https://www.ncbi.nlm.nih.gov/gene/619589) |  |  |
+| Zebrafish | [ENSDARG00000024894](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000024894) | [30071](https://www.ncbi.nlm.nih.gov/gene/30071) | [ZFIN:ZDB-GENE-991124-7](https://zfin.org/ZDB-GENE-991124-7) | DNA-templated transcription, anatomical structure morphogenesis, animal organ morphogenesis, atrial ventricular junction remodeling, atrioventricular canal development |
 

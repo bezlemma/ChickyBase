@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419327
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417497
   X-XIV: stage XIII
-gene_id: '455045'
+gene_id: '419327'
 gene_type: protein-coding
 images:
 - caption: TFAP2C expression
@@ -123,13 +123,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TFAP2C.Trevers.2023-Fig7-8-B.jpg
 name: transcription factor AP-2 gamma
-ncbi_id: '455045'
+ncbi_id: '419327'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000087510
   entrez: '7022'
   mod: MIM:601602
@@ -140,20 +135,22 @@ orthologs:
   mod: MGI:106032
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 496506,398790
-  mod: '488670'
+- ensembl: ENSXETG00000012025
+  entrez: '496506'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000040606
   entrez: '494033'
   mod: ZFIN:ZDB-GENE-041212-61
-  phenotypes: ZDB-GENE-041212-61
+  phenotypes: ectodermal placode development, ectodermal placode formation, neural
+    crest cell development, neural crest cell fate specification, olfactory placode
+    development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455045
+  url: https://www.ncbi.nlm.nih.gov/gene/419327
 species: Gallus gallus
 symbol: TFAP2C
 title: TFAP2C
@@ -180,9 +177,8 @@ title: TFAP2C
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000087510](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000087510) | [7022](https://www.ncbi.nlm.nih.gov/gene/7022) | [MIM:601602](https://omim.org/entry/601602) |  |
 | Mouse | [ENSMUSG00000028640](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028640) | [21420](https://www.ncbi.nlm.nih.gov/gene/21420) | [MGI:106032](http://www.informatics.jax.org/marker/MGI:106032) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [496506](https://www.ncbi.nlm.nih.gov/gene/496506), [398790](https://www.ncbi.nlm.nih.gov/gene/398790) | [488670](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488670) |  |
-| Zebrafish | [ENSDARG00000040606](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040606) | [494033](https://www.ncbi.nlm.nih.gov/gene/494033) | [ZFIN:ZDB-GENE-041212-61](https://zfin.org/ZDB-GENE-041212-61) | ZDB-GENE-041212-61 |
+| Xenopus | [ENSXETG00000012025](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012025) | [496506](https://www.ncbi.nlm.nih.gov/gene/496506) |  |  |
+| Zebrafish | [ENSDARG00000040606](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040606) | [494033](https://www.ncbi.nlm.nih.gov/gene/494033) | [ZFIN:ZDB-GENE-041212-61](https://zfin.org/ZDB-GENE-041212-61) | ectodermal placode development, ectodermal placode formation, neural crest cell development, neural crest cell fate specification, olfactory placode development |
 

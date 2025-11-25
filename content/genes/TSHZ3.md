@@ -5,7 +5,6 @@ aliases:
 - zinc finger protein 537
 cgnc_id: '3346'
 external_ids:
-  '25': stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Paxton+2010+Schoenwolf+Chapman
   Comments: The cDNA template used to generate the probe was obtained by PCR as described
     in Paxton et al.
@@ -15,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415762
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414125
-gene_id: '461795'
+gene_id: '415762'
 gene_type: protein-coding
 images:
 - caption: TSHZ3 expression
@@ -288,13 +287,8 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paxton.Fig8.TSHZ.F.ST21.jpg
 name: teashirt zinc finger homeobox 3
-ncbi_id: '461795'
+ncbi_id: '415762'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000121297
   entrez: '57616'
   mod: MIM:614119
@@ -305,23 +299,24 @@ orthologs:
   mod: MGI:2442819
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100491887,100036808
-  mod: '852850'
+- ensembl: ENSXETG00000016288
+  entrez: '100491887'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000103361
   entrez: '565811'
-  mod: ZFIN:ZDB-GENE-100319-2,ZFIN:ZDB-GENE-100322-1
-  phenotypes: ZDB-GENE-100319-2,ZDB-GENE-100322-1
+  mod: ZFIN:ZDB-GENE-100319-2
+  phenotypes: regulation of gene expression, regulation of respiratory gaseous exchange
+    by nervous system process, regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461795
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415762
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461795
+  url: https://www.ncbi.nlm.nih.gov/gene/415762
 species: Gallus gallus
 symbol: TSHZ3
 title: TSHZ3
@@ -347,9 +342,8 @@ title: TSHZ3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000121297](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000121297) | [57616](https://www.ncbi.nlm.nih.gov/gene/57616) | [MIM:614119](https://omim.org/entry/614119) |  |
 | Mouse | [ENSMUSG00000021217](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021217) | [243931](https://www.ncbi.nlm.nih.gov/gene/243931) | [MGI:2442819](http://www.informatics.jax.org/marker/MGI:2442819) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100491887](https://www.ncbi.nlm.nih.gov/gene/100491887), [100036808](https://www.ncbi.nlm.nih.gov/gene/100036808) | [852850](http://www.xenbase.org/gene/showgene.do?method=display&geneId=852850) |  |
-| Zebrafish |  | [565811](https://www.ncbi.nlm.nih.gov/gene/565811) | [ZFIN:ZDB-GENE-100319-2](https://zfin.org/ZDB-GENE-100319-2), [ZFIN:ZDB-GENE-100322-1](https://zfin.org/ZDB-GENE-100322-1) | ZDB-GENE-100319-2,ZDB-GENE-100322-1 |
+| Xenopus | [ENSXETG00000016288](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016288) | [100491887](https://www.ncbi.nlm.nih.gov/gene/100491887) |  |  |
+| Zebrafish | [ENSDARG00000103361](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000103361) | [565811](https://www.ncbi.nlm.nih.gov/gene/565811) | [ZFIN:ZDB-GENE-100319-2](https://zfin.org/ZDB-GENE-100319-2) | regulation of gene expression, regulation of respiratory gaseous exchange by nervous system process, regulation of transcription by RNA polymerase II |
 

@@ -18,7 +18,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=L35568
-gene_id: '461669'
+gene_id: '396382'
 gene_type: protein-coding
 images:
 - caption: ISL2 expression
@@ -226,7 +226,7 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ISL2_stage 12 x20.jpg
 name: ISL LIM homeobox 2
-ncbi_id: '461669'
+ncbi_id: '396382'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -256,10 +256,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461669
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396382
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461669
+  url: https://www.ncbi.nlm.nih.gov/gene/396382
 species: Gallus gallus
 symbol: ISL2
 title: ISL2

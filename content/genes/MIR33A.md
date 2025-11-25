@@ -11,7 +11,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/777924
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NC_006088
-gene_id: '467997'
+gene_id: '777924'
 gene_type: miscRNA
 images:
 - caption: MIR33A expression
@@ -29,7 +29,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/33.16.st26z.jpg
 name: microRNA 33a
-ncbi_id: '467997'
+ncbi_id: '777924'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -59,10 +59,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467997
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777924
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467997
+  url: https://www.ncbi.nlm.nih.gov/gene/777924
 species: Gallus gallus
 symbol: MIR33A
 title: MIR33A

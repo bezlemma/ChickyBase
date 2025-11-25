@@ -3,7 +3,6 @@ aliases:
 - glial cell line-derived neurotrophic factor
 cgnc_id: '2717'
 external_ids:
-  '13': stage 13
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=burns+delalande+neural+crest+origin+intrinsic+ganglia+chicken+lung
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (XM_425018).
@@ -15,7 +14,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425018
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCCAGCAAAAAGGGAAGGAGG
-gene_id: '449541'
+gene_id: '395569'
 gene_type: protein-coding
 images:
 - caption: GDNF expression
@@ -141,13 +140,8 @@ images:
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GDNF.FIG5Oo.BURNS.2005.jpg
 name: glial cell derived neurotrophic factor
-ncbi_id: '449541'
+ncbi_id: '395569'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000168621
   entrez: '2668'
   mod: MIM:600837
@@ -158,24 +152,26 @@ orthologs:
   mod: MGI:107430
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100498061,779087,100337571
-  mod: '483794'
+- ensembl: ENSXETG00000004782
+  entrez: '100498061'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000039959
   entrez: '79379'
-  mod: ZFIN:ZDB-GENE-010226-1,ZFIN:ZDB-GENE-110609-2
-  phenotypes: ZDB-GENE-010226-1,ZDB-GENE-110609-2
+  mod: ZFIN:ZDB-GENE-010226-1
+  phenotypes: animal organ development, branching involved in ureteric bud morphogenesis,
+    diencephalon development, enteric nervous system development, glial cell-derived
+    neurotrophic factor receptor signaling pathway
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAGGACAGGTCATCGTCAAAGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449541
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395569
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449541
+  url: https://www.ncbi.nlm.nih.gov/gene/395569
 species: Gallus gallus
 symbol: GDNF
 template_length: '261'
@@ -203,9 +199,8 @@ title: GDNF
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000168621](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000168621) | [2668](https://www.ncbi.nlm.nih.gov/gene/2668) | [MIM:600837](https://omim.org/entry/600837) | MIM:209880 |
 | Mouse | [ENSMUSG00000022144](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022144) | [14573](https://www.ncbi.nlm.nih.gov/gene/14573) | [MGI:107430](http://www.informatics.jax.org/marker/MGI:107430) | All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5) |
-| Xenopus |  | [100498061](https://www.ncbi.nlm.nih.gov/gene/100498061), [779087](https://www.ncbi.nlm.nih.gov/gene/779087), [100337571](https://www.ncbi.nlm.nih.gov/gene/100337571) | [483794](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483794) |  |
-| Zebrafish | [ENSDARG00000039959](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039959) | [79379](https://www.ncbi.nlm.nih.gov/gene/79379) | [ZFIN:ZDB-GENE-010226-1](https://zfin.org/ZDB-GENE-010226-1), [ZFIN:ZDB-GENE-110609-2](https://zfin.org/ZDB-GENE-110609-2) | ZDB-GENE-010226-1,ZDB-GENE-110609-2 |
+| Xenopus | [ENSXETG00000004782](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004782) | [100498061](https://www.ncbi.nlm.nih.gov/gene/100498061) |  |  |
+| Zebrafish | [ENSDARG00000039959](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039959) | [79379](https://www.ncbi.nlm.nih.gov/gene/79379) | [ZFIN:ZDB-GENE-010226-1](https://zfin.org/ZDB-GENE-010226-1) | animal organ development, branching involved in ureteric bud morphogenesis, diencephalon development, enteric nervous system development, glial cell-derived neurotrophic factor receptor signaling pathway |
 

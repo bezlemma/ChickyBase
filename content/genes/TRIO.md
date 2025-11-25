@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420919
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419004
 forward_primer: GCAAAGCAAACCAAAGAGAGGG
-gene_id: '454046'
+gene_id: '420919'
 gene_type: protein-coding
 images:
 - caption: TRIO expression
@@ -139,13 +139,8 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kee.TRIO.jpg
 name: trio Rho guanine nucleotide exchange factor
-ncbi_id: '454046'
+ncbi_id: '420919'
 orthologs:
-- ensembl: ''
-  entrez: '43974'
-  mod: FBgn0024277
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000038382
   entrez: '7204'
   mod: MIM:601893
@@ -156,24 +151,24 @@ orthologs:
   mod: MGI:1927230
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100170157,496370
-  mod: '922515'
+- ensembl: ENSXETG00000013968
+  entrez: '100170157'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000019426,ENSDARG00000000370
-  entrez: 557667,368847
-  mod: ZFIN:ZDB-GENE-060503-334,ZFIN:ZDB-GENE-030616-399
-  phenotypes: ZDB-GENE-060503-334,ZDB-GENE-030616-399
+- ensembl: ENSDARG00000019426
+  entrez: '557667'
+  mod: ZFIN:ZDB-GENE-060503-334
+  phenotypes: axon guidance, phosphorylation, protein phosphorylation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGCCTTCCAACATACTGAGGTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454046
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420919
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454046
+  url: https://www.ncbi.nlm.nih.gov/gene/420919
 species: Gallus gallus
 symbol: TRIO
 template_length: '861'
@@ -202,9 +197,8 @@ title: TRIO
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43974](https://www.ncbi.nlm.nih.gov/gene/43974) | FBgn0024277 |  |
 | Human | [ENSG00000038382](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000038382) | [7204](https://www.ncbi.nlm.nih.gov/gene/7204) | [MIM:601893](https://omim.org/entry/601893) |  |
 | Mouse | [ENSMUSG00000022263](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022263) | [223435](https://www.ncbi.nlm.nih.gov/gene/223435) | [MGI:1927230](http://www.informatics.jax.org/marker/MGI:1927230) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100170157](https://www.ncbi.nlm.nih.gov/gene/100170157), [496370](https://www.ncbi.nlm.nih.gov/gene/496370) | [922515](http://www.xenbase.org/gene/showgene.do?method=display&geneId=922515) |  |
-| Zebrafish | [ENSDARG00000019426](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019426), [ENSDARG00000000370](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000000370) | [557667](https://www.ncbi.nlm.nih.gov/gene/557667), [368847](https://www.ncbi.nlm.nih.gov/gene/368847) | [ZFIN:ZDB-GENE-060503-334](https://zfin.org/ZDB-GENE-060503-334), [ZFIN:ZDB-GENE-030616-399](https://zfin.org/ZDB-GENE-030616-399) | ZDB-GENE-060503-334,ZDB-GENE-030616-399 |
+| Xenopus | [ENSXETG00000013968](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013968) | [100170157](https://www.ncbi.nlm.nih.gov/gene/100170157) |  |  |
+| Zebrafish | [ENSDARG00000019426](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019426) | [557667](https://www.ncbi.nlm.nih.gov/gene/557667) | [ZFIN:ZDB-GENE-060503-334](https://zfin.org/ZDB-GENE-060503-334) | axon guidance, phosphorylation, protein phosphorylation |
 

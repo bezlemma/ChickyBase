@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415591
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_413959
 forward_primer: CGTTTGGATTACCTACGAGCACAC
-gene_id: '460225'
+gene_id: '101749531'
 gene_type: protein-coding
 images:
 - caption: IQGAP3 expression
@@ -109,7 +109,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R255.IQGAP1.S26.001.jpg
 name: IQ motif containing GTPase activating protein 3
-ncbi_id: '460225'
+ncbi_id: '101749531'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -134,16 +134,16 @@ orthologs:
 - ensembl: ENSDARG00000060010,ENSDARG00000078888
   entrez: 563030,100002928
   mod: ZFIN:ZDB-GENE-030131-2878,ZFIN:ZDB-GENE-050809-24
-  phenotypes: ZDB-GENE-030131-2878,ZDB-GENE-050809-24
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCACAAGCAACCTGAAAAAAGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460225
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=101749531
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460225
+  url: https://www.ncbi.nlm.nih.gov/gene/101749531
 species: Gallus gallus
 symbol: IQGAP3
 template_length: '1420'
@@ -169,5 +169,5 @@ title: IQGAP3
 | Human | [ENSG00000140575](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140575) | [8826](https://www.ncbi.nlm.nih.gov/gene/8826) | [MIM:603379](https://omim.org/entry/603379) |  |
 | Mouse | [ENSMUSG00000030536](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030536) | [29875](https://www.ncbi.nlm.nih.gov/gene/29875) | [MGI:1352757](http://www.informatics.jax.org/marker/MGI:1352757) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
 | Xenopus |  | [100127767](https://www.ncbi.nlm.nih.gov/gene/100127767), [398589](https://www.ncbi.nlm.nih.gov/gene/398589), [100124996](https://www.ncbi.nlm.nih.gov/gene/100124996), [398588](https://www.ncbi.nlm.nih.gov/gene/398588) | [492062](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492062), [5752022](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5752022) |  |
-| Zebrafish | [ENSDARG00000060010](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060010), [ENSDARG00000078888](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078888) | [563030](https://www.ncbi.nlm.nih.gov/gene/563030), [100002928](https://www.ncbi.nlm.nih.gov/gene/100002928) | [ZFIN:ZDB-GENE-030131-2878](https://zfin.org/ZDB-GENE-030131-2878), [ZFIN:ZDB-GENE-050809-24](https://zfin.org/ZDB-GENE-050809-24) | ZDB-GENE-030131-2878,ZDB-GENE-050809-24 |
+| Zebrafish | [ENSDARG00000060010](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060010), [ENSDARG00000078888](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078888) | [563030](https://www.ncbi.nlm.nih.gov/gene/563030), [100002928](https://www.ncbi.nlm.nih.gov/gene/100002928) | [ZFIN:ZDB-GENE-030131-2878](https://zfin.org/ZDB-GENE-030131-2878), [ZFIN:ZDB-GENE-050809-24](https://zfin.org/ZDB-GENE-050809-24) |  |
 

@@ -73,7 +73,7 @@ orthologs:
 - ensembl: ENSDARG00000036754
   entrez: '492345'
   mod: ZFIN:ZDB-GENE-041114-180
-  phenotypes: ZDB-GENE-041114-180
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
@@ -111,5 +111,5 @@ title: HMGN3
 | Human | [ENSG00000118418](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118418) | [9324](https://www.ncbi.nlm.nih.gov/gene/9324) | [MIM:604502](https://omim.org/entry/604502) |  |
 | Mouse | [ENSMUSG00000066456](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000066456) | [94353](https://www.ncbi.nlm.nih.gov/gene/94353) | [MGI:2138069](http://www.informatics.jax.org/marker/MGI:2138069) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
 | Xenopus |  | [549130](https://www.ncbi.nlm.nih.gov/gene/549130), [379409](https://www.ncbi.nlm.nih.gov/gene/379409), [398265](https://www.ncbi.nlm.nih.gov/gene/398265) | [482142](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482142) |  |
-| Zebrafish | [ENSDARG00000036754](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036754) | [492345](https://www.ncbi.nlm.nih.gov/gene/492345) | [ZFIN:ZDB-GENE-041114-180](https://zfin.org/ZDB-GENE-041114-180) | ZDB-GENE-041114-180 |
+| Zebrafish | [ENSDARG00000036754](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036754) | [492345](https://www.ncbi.nlm.nih.gov/gene/492345) | [ZFIN:ZDB-GENE-041114-180](https://zfin.org/ZDB-GENE-041114-180) |  |
 

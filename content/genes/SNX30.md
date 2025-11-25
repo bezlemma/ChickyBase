@@ -3,8 +3,6 @@ aliases:
 - sorting nexin-30, Sorting nexin family member 30
 cgnc_id: '11678'
 external_ids:
-  '19': stage 19stage 19stage 19
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000015660
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
@@ -12,7 +10,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424910
 forward_primer: TCTCAGTCTACCCAATGGCACAC
-gene_id: '461588'
+gene_id: '427330'
 gene_type: protein-coding
 images:
 - caption: SNX30 expression
@@ -258,16 +256,11 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R321.SNX30.S25.001.jpg
 name: sorting nexin family member 30
-ncbi_id: '461588'
+ncbi_id: '427330'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000148158
   entrez: '401548'
-  mod: ''
+  mod: MIM:620955
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000028385
@@ -275,24 +268,25 @@ orthologs:
   mod: MGI:2443882
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 549659,734574
-  mod: '944716'
+- ensembl: ENSXETG00000002230
+  entrez: '549659'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000069601
   entrez: '550496'
   mod: ZFIN:ZDB-GENE-050417-330
-  phenotypes: ZDB-GENE-050417-330
+  phenotypes: endocytic recycling, mitophagy, piecemeal microautophagy of the nucleus,
+    positive regulation of autophagosome assembly, protein transport
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGACGGTCTTCTTTTTTCAAGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461588
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427330
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461588
+  url: https://www.ncbi.nlm.nih.gov/gene/427330
 species: Gallus gallus
 symbol: SNX30
 template_length: '936'
@@ -316,9 +310,8 @@ title: SNX30
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000148158](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148158) | [401548](https://www.ncbi.nlm.nih.gov/gene/401548) |  |  |
+| Human | [ENSG00000148158](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148158) | [401548](https://www.ncbi.nlm.nih.gov/gene/401548) | [MIM:620955](https://omim.org/entry/620955) |  |
 | Mouse | [ENSMUSG00000028385](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028385) | [209131](https://www.ncbi.nlm.nih.gov/gene/209131) | [MGI:2443882](http://www.informatics.jax.org/marker/MGI:2443882) |  |
-| Xenopus |  | [549659](https://www.ncbi.nlm.nih.gov/gene/549659), [734574](https://www.ncbi.nlm.nih.gov/gene/734574) | [944716](http://www.xenbase.org/gene/showgene.do?method=display&geneId=944716) |  |
-| Zebrafish | [ENSDARG00000069601](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069601) | [550496](https://www.ncbi.nlm.nih.gov/gene/550496) | [ZFIN:ZDB-GENE-050417-330](https://zfin.org/ZDB-GENE-050417-330) | ZDB-GENE-050417-330 |
+| Xenopus | [ENSXETG00000002230](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002230) | [549659](https://www.ncbi.nlm.nih.gov/gene/549659) |  |  |
+| Zebrafish | [ENSDARG00000069601](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069601) | [550496](https://www.ncbi.nlm.nih.gov/gene/550496) | [ZFIN:ZDB-GENE-050417-330](https://zfin.org/ZDB-GENE-050417-330) | endocytic recycling, mitophagy, piecemeal microautophagy of the nucleus, positive regulation of autophagosome assembly, protein transport |
 

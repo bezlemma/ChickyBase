@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424893
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001011692
-gene_id: '448929'
+gene_id: '424893'
 gene_type: protein-coding
 images:
 - caption: APOD expression
@@ -84,13 +84,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ApoD.Ganfornina.20053G.jpg
 name: apolipoprotein D
-ncbi_id: '448929'
+ncbi_id: '424893'
 orthologs:
-- ensembl: ''
-  entrez: '33324'
-  mod: FBgn0053126
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000189058
   entrez: '347'
   mod: MIM:107740
@@ -102,20 +97,16 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000057437,ENSDARG00000060345
-  entrez: 567972,767642
-  mod: ZFIN:ZDB-GENE-051023-8,ZFIN:ZDB-GENE-060929-148
-  phenotypes: ZDB-GENE-051023-8,ZDB-GENE-060929-148
+- ensembl: ENSDARG00000060345
+  entrez: '767642'
+  mod: ZFIN:ZDB-GENE-060929-148
+  phenotypes: brain development, lipid metabolic process, lipid transport, response
+    to reactive oxygen species, response to stress
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448929
+  url: https://www.ncbi.nlm.nih.gov/gene/424893
 species: Gallus gallus
 symbol: APOD
 title: APOD
@@ -142,9 +133,7 @@ title: APOD
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33324](https://www.ncbi.nlm.nih.gov/gene/33324) | FBgn0053126 |  |
 | Human | [ENSG00000189058](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000189058) | [347](https://www.ncbi.nlm.nih.gov/gene/347) | [MIM:107740](https://omim.org/entry/107740) |  |
 | Mouse | [ENSMUSG00000022548](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022548) | [11815](https://www.ncbi.nlm.nih.gov/gene/11815) | [MGI:88056](http://www.informatics.jax.org/marker/MGI:88056) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000057437](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057437), [ENSDARG00000060345](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060345) | [567972](https://www.ncbi.nlm.nih.gov/gene/567972), [767642](https://www.ncbi.nlm.nih.gov/gene/767642) | [ZFIN:ZDB-GENE-051023-8](https://zfin.org/ZDB-GENE-051023-8), [ZFIN:ZDB-GENE-060929-148](https://zfin.org/ZDB-GENE-060929-148) | ZDB-GENE-051023-8,ZDB-GENE-060929-148 |
+| Zebrafish | [ENSDARG00000060345](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060345) | [767642](https://www.ncbi.nlm.nih.gov/gene/767642) | [ZFIN:ZDB-GENE-060929-148](https://zfin.org/ZDB-GENE-060929-148) | brain development, lipid metabolic process, lipid transport, response to reactive oxygen species, response to stress |
 

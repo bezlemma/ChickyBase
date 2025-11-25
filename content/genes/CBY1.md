@@ -4,14 +4,13 @@ aliases:
 - chibby homolog 1
 cgnc_id: '9279'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000012218
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771364
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001278149
 forward_primer: 5'-GGAGGAAGTGAAAGAAGTGGTGG-3'
-gene_id: '462994'
+gene_id: '771364'
 gene_type: protein-coding
 images:
 - caption: CBY1 expression
@@ -81,13 +80,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R622.CBY1.S25AA.001.jpg
 name: chibby family member 1, beta catenin antagonist
-ncbi_id: '462994'
+ncbi_id: '771364'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100211
   entrez: '25776'
   mod: MIM:607757
@@ -98,24 +92,24 @@ orthologs:
   mod: MGI:1920989
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549007,398327
-  mod: '856224'
+- ensembl: ENSXETG00000006897
+  entrez: '549007'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000077409
-  entrez: 100333276,326875
+  entrez: '326875'
   mod: ZFIN:ZDB-GENE-030131-5074
-  phenotypes: ZDB-GENE-030131-5074
+  phenotypes: cilium organization
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGAAACACGAGCGTTGGTTATCAG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462994
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771364
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462994
+  url: https://www.ncbi.nlm.nih.gov/gene/771364
 species: Gallus gallus
 symbol: CBY1
 template_length: '226'
@@ -138,9 +132,8 @@ title: CBY1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000100211](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100211) | [25776](https://www.ncbi.nlm.nih.gov/gene/25776) | [MIM:607757](https://omim.org/entry/607757) |  |
 | Mouse | [ENSMUSG00000022428](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022428) | [73739](https://www.ncbi.nlm.nih.gov/gene/73739) | [MGI:1920989](http://www.informatics.jax.org/marker/MGI:1920989) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [549007](https://www.ncbi.nlm.nih.gov/gene/549007), [398327](https://www.ncbi.nlm.nih.gov/gene/398327) | [856224](http://www.xenbase.org/gene/showgene.do?method=display&geneId=856224) |  |
-| Zebrafish | [ENSDARG00000077409](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077409) | [100333276](https://www.ncbi.nlm.nih.gov/gene/100333276), [326875](https://www.ncbi.nlm.nih.gov/gene/326875) | [ZFIN:ZDB-GENE-030131-5074](https://zfin.org/ZDB-GENE-030131-5074) | ZDB-GENE-030131-5074 |
+| Xenopus | [ENSXETG00000006897](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006897) | [549007](https://www.ncbi.nlm.nih.gov/gene/549007) |  |  |
+| Zebrafish | [ENSDARG00000077409](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077409) | [326875](https://www.ncbi.nlm.nih.gov/gene/326875) | [ZFIN:ZDB-GENE-030131-5074](https://zfin.org/ZDB-GENE-030131-5074) | cilium organization |
 

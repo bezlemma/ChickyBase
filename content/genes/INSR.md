@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420133
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001233398
-gene_id: '458625'
+gene_id: '420133'
 gene_type: protein-coding
 images:
 - caption: INSR expression
@@ -50,13 +50,8 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/INSULINR.Morales.1997.Fig.1.png
 name: insulin receptor
-ncbi_id: '458625'
+ncbi_id: '420133'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000171105
   entrez: '3643'
   mod: MIM:147670
@@ -68,20 +63,21 @@ orthologs:
   phenotypes: All phenotypic alleles (8):Chemically induced(3) Targeted, knock-out(2)
     Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100492718,398006
-  mod: '920732'
+- ensembl: ENSXETG00000013518
+  entrez: '100492718'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000071524,ENSDARG00000011948
-  entrez: 245700,245699
-  mod: ZFIN:ZDB-GENE-020503-4,ZFIN:ZDB-GENE-020503-3
-  phenotypes: ZDB-GENE-020503-4,ZDB-GENE-020503-3
+- ensembl: ENSDARG00000071524
+  entrez: '245700'
+  mod: ZFIN:ZDB-GENE-020503-4
+  phenotypes: cell surface receptor protein tyrosine kinase signaling pathway, chordate
+    embryonic development, developmental growth, glucose homeostasis, glycolytic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458625
+  url: https://www.ncbi.nlm.nih.gov/gene/420133
 species: Gallus gallus
 symbol: INSR
 title: INSR
@@ -107,9 +103,8 @@ title: INSR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000171105](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171105) | [3643](https://www.ncbi.nlm.nih.gov/gene/3643) | [MIM:147670](https://omim.org/entry/147670) | MIM:610549 |
 | Mouse | [ENSMUSG00000005534](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005534) | [16337](https://www.ncbi.nlm.nih.gov/gene/16337) | [MGI:96575](http://www.informatics.jax.org/marker/MGI:96575) | All phenotypic alleles (8):Chemically induced(3) Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100492718](https://www.ncbi.nlm.nih.gov/gene/100492718), [398006](https://www.ncbi.nlm.nih.gov/gene/398006) | [920732](http://www.xenbase.org/gene/showgene.do?method=display&geneId=920732) |  |
-| Zebrafish | [ENSDARG00000071524](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071524), [ENSDARG00000011948](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011948) | [245700](https://www.ncbi.nlm.nih.gov/gene/245700), [245699](https://www.ncbi.nlm.nih.gov/gene/245699) | [ZFIN:ZDB-GENE-020503-4](https://zfin.org/ZDB-GENE-020503-4), [ZFIN:ZDB-GENE-020503-3](https://zfin.org/ZDB-GENE-020503-3) | ZDB-GENE-020503-4,ZDB-GENE-020503-3 |
+| Xenopus | [ENSXETG00000013518](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013518) | [100492718](https://www.ncbi.nlm.nih.gov/gene/100492718) |  |  |
+| Zebrafish | [ENSDARG00000071524](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071524) | [245700](https://www.ncbi.nlm.nih.gov/gene/245700) | [ZFIN:ZDB-GENE-020503-4](https://zfin.org/ZDB-GENE-020503-4) | cell surface receptor protein tyrosine kinase signaling pathway, chordate embryonic development, developmental growth, glucose homeostasis, glycolytic process |
 

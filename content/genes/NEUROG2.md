@@ -4,8 +4,6 @@ aliases:
 - atonal-like protein 4a
 cgnc_id: '49383'
 external_ids:
-  '25': stage 25stage 25
-  '31': stage 31stage 31
   Citation: https://pubmed.ncbi.nlm.nih.gov/30825428/?from_single_result=Joshi+Darr+Skromne+2019
   Comments: Authors indicated the probe was made from Ngn2 gene construct provided
     by Dr. Francois Medevielle. As insufficient information is provided in publication
@@ -17,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395577
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204796
-gene_id: '449553'
+gene_id: '395577'
 gene_type: protein-coding
 images:
 - caption: NEUROG2 expression
@@ -178,13 +176,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Joshi.2019-Ngn2-Fig3.jpg
 name: neurogenin 2
-ncbi_id: '449553'
+ncbi_id: '395577'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000178403
   entrez: '63973'
   mod: MIM:606624
@@ -195,20 +188,10 @@ orthologs:
   mod: MGI:109619
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100493110,398061,398062
-  mod: '491039'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449553
+  url: https://www.ncbi.nlm.nih.gov/gene/395577
 species: Gallus gallus
 symbol: NEUROG2
 title: NEUROG2
@@ -234,9 +217,6 @@ title: NEUROG2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000178403](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000178403) | [63973](https://www.ncbi.nlm.nih.gov/gene/63973) | [MIM:606624](https://omim.org/entry/606624) |  |
 | Mouse | [ENSMUSG00000027967](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027967) | [11924](https://www.ncbi.nlm.nih.gov/gene/11924) | [MGI:109619](http://www.informatics.jax.org/marker/MGI:109619) | All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5) |
-| Xenopus |  | [100493110](https://www.ncbi.nlm.nih.gov/gene/100493110), [398061](https://www.ncbi.nlm.nih.gov/gene/398061), [398062](https://www.ncbi.nlm.nih.gov/gene/398062) | [491039](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491039) |  |
-| Zebrafish |  |  |  |  |
 

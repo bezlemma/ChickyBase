@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416817
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415108
 forward_primer: 5'-GTTGTTTTGCTCTGCTTCGTTG-3'
-gene_id: '461530'
+gene_id: '416817'
 gene_type: protein-coding
 images:
 - caption: CCDC92 expression
@@ -78,13 +78,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R629.CCDC92.S26.001.jpg
 name: coiled-coil domain containing 92
-ncbi_id: '461530'
+ncbi_id: '416817'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000119242
   entrez: '80212'
   mod: ''
@@ -95,24 +90,24 @@ orthologs:
   mod: MGI:106485
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000032327
   entrez: '780255'
-  mod: '943647'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000041750
+- ensembl: ENSDARG00000115475
   entrez: '571995'
   mod: ZFIN:ZDB-GENE-051113-120
-  phenotypes: ZDB-GENE-051113-120
+  phenotypes: biological_process
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTTCCCTCCTTCCTGCTCAATC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461530
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416817
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461530
+  url: https://www.ncbi.nlm.nih.gov/gene/416817
 species: Gallus gallus
 symbol: CCDC92
 template_length: '1162'
@@ -135,9 +130,8 @@ title: CCDC92
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000119242](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000119242) | [80212](https://www.ncbi.nlm.nih.gov/gene/80212) |  |  |
 | Mouse | [ENSMUSG00000037979](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037979) | [215707](https://www.ncbi.nlm.nih.gov/gene/215707) | [MGI:106485](http://www.informatics.jax.org/marker/MGI:106485) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [780255](https://www.ncbi.nlm.nih.gov/gene/780255) | [943647](http://www.xenbase.org/gene/showgene.do?method=display&geneId=943647) |  |
-| Zebrafish | [ENSDARG00000041750](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041750) | [571995](https://www.ncbi.nlm.nih.gov/gene/571995) | [ZFIN:ZDB-GENE-051113-120](https://zfin.org/ZDB-GENE-051113-120) | ZDB-GENE-051113-120 |
+| Xenopus | [ENSXETG00000032327](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000032327) | [780255](https://www.ncbi.nlm.nih.gov/gene/780255) |  |  |
+| Zebrafish | [ENSDARG00000115475](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115475) | [571995](https://www.ncbi.nlm.nih.gov/gene/571995) | [ZFIN:ZDB-GENE-051113-120](https://zfin.org/ZDB-GENE-051113-120) | biological_process |
 

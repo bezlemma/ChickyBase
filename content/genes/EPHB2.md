@@ -21,7 +21,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_206951
   X-XIV: stage XIII
-gene_id: '460363'
+gene_id: '396513'
 gene_type: protein-coding
 images:
 - caption: EPHB2 expression
@@ -281,14 +281,9 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Santiago.Fig3_all_images-2.jpg
 name: EPH receptor B2
-ncbi_id: '460363'
+ncbi_id: '396513'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000133216
   entrez: '2048'
   mod: MIM:600997
   phenotypes: MIM:603688
@@ -298,23 +293,20 @@ orthologs:
   mod: MGI:99611
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: '399363'
-  mod: '5762964'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000037373
-  entrez: 562176,554232
-  mod: ZFIN:ZDB-GENE-050522-415,ZFIN:ZDB-GENE-070713-2
-  phenotypes: ZDB-GENE-050522-415,ZDB-GENE-070713-2
+  entrez: '562176'
+  mod: ZFIN:ZDB-GENE-070713-2
+  phenotypes: axon guidance, blood vessel development, cell surface receptor protein
+    tyrosine kinase signaling pathway, convergent extension, ephrin receptor signaling
+    pathway
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460363
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396513
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460363
+  url: https://www.ncbi.nlm.nih.gov/gene/396513
 species: Gallus gallus
 symbol: EPHB2
 title: EPHB2
@@ -343,9 +335,7 @@ title: EPHB2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [2048](https://www.ncbi.nlm.nih.gov/gene/2048) | [MIM:600997](https://omim.org/entry/600997) | MIM:603688 |
+| Human | [ENSG00000133216](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000133216) | [2048](https://www.ncbi.nlm.nih.gov/gene/2048) | [MIM:600997](https://omim.org/entry/600997) | MIM:603688 |
 | Mouse | [ENSMUSG00000028664](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028664) | [13844](https://www.ncbi.nlm.nih.gov/gene/13844) | [MGI:99611](http://www.informatics.jax.org/marker/MGI:99611) | All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5) |
-| Xenopus |  | [399363](https://www.ncbi.nlm.nih.gov/gene/399363) | [5762964](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5762964) |  |
-| Zebrafish | [ENSDARG00000037373](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037373) | [562176](https://www.ncbi.nlm.nih.gov/gene/562176), [554232](https://www.ncbi.nlm.nih.gov/gene/554232) | [ZFIN:ZDB-GENE-050522-415](https://zfin.org/ZDB-GENE-050522-415), [ZFIN:ZDB-GENE-070713-2](https://zfin.org/ZDB-GENE-070713-2) | ZDB-GENE-050522-415,ZDB-GENE-070713-2 |
+| Zebrafish | [ENSDARG00000037373](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037373) | [562176](https://www.ncbi.nlm.nih.gov/gene/562176) | [ZFIN:ZDB-GENE-070713-2](https://zfin.org/ZDB-GENE-070713-2) | axon guidance, blood vessel development, cell surface receptor protein tyrosine kinase signaling pathway, convergent extension, ephrin receptor signaling pathway |
 

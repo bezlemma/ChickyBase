@@ -3,7 +3,6 @@ aliases:
 - protogenin
 cgnc_id: '3210'
 external_ids:
-  '13': stage 13stage 13stage 13
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=toyoda+nakamura+protogenin+novel+immunoglobulin+superfamily+chick+embryogenesis
@@ -18,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415407
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030548
-gene_id: '461061'
+gene_id: '415407'
 gene_type: protein-coding
 images:
 - caption: PRTG expression
@@ -192,13 +191,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PROTOGENIN.FIG9H.TOYODA.2005.jpg
 name: protogenin
-ncbi_id: '461061'
+ncbi_id: '415407'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000166450
   entrez: '283659'
   mod: MIM:613261
@@ -209,20 +203,20 @@ orthologs:
   mod: MGI:2444710
   phenotypes: All phenotypic alleles (5):Targeted, other(2) Gene trapped(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000041045
   entrez: '100496178'
-  mod: '922462'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: 563834,572241
-  mod: ZFIN:ZDB-GENE-061204-4,ZFIN:ZDB-GENE-060302-1
-  phenotypes: ZDB-GENE-061204-4,ZDB-GENE-060302-1
+- ensembl: ENSDARG00000117538
+  entrez: '563834'
+  mod: ZFIN:ZDB-GENE-061204-4
+  phenotypes: cell-cell adhesion, negative regulation of neurogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461061
+  url: https://www.ncbi.nlm.nih.gov/gene/415407
 species: Gallus gallus
 symbol: PRTG
 title: PRTG
@@ -250,9 +244,8 @@ title: PRTG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000166450](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166450) | [283659](https://www.ncbi.nlm.nih.gov/gene/283659) | [MIM:613261](https://omim.org/entry/613261) |  |
 | Mouse | [ENSMUSG00000036030](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036030) | [235472](https://www.ncbi.nlm.nih.gov/gene/235472) | [MGI:2444710](http://www.informatics.jax.org/marker/MGI:2444710) | All phenotypic alleles (5):Targeted, other(2) Gene trapped(3) |
-| Xenopus |  | [100496178](https://www.ncbi.nlm.nih.gov/gene/100496178) | [922462](http://www.xenbase.org/gene/showgene.do?method=display&geneId=922462) |  |
-| Zebrafish |  | [563834](https://www.ncbi.nlm.nih.gov/gene/563834), [572241](https://www.ncbi.nlm.nih.gov/gene/572241) | [ZFIN:ZDB-GENE-061204-4](https://zfin.org/ZDB-GENE-061204-4), [ZFIN:ZDB-GENE-060302-1](https://zfin.org/ZDB-GENE-060302-1) | ZDB-GENE-061204-4,ZDB-GENE-060302-1 |
+| Xenopus | [ENSXETG00000041045](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041045) | [100496178](https://www.ncbi.nlm.nih.gov/gene/100496178) |  |  |
+| Zebrafish | [ENSDARG00000117538](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000117538) | [563834](https://www.ncbi.nlm.nih.gov/gene/563834) | [ZFIN:ZDB-GENE-061204-4](https://zfin.org/ZDB-GENE-061204-4) | cell-cell adhesion, negative regulation of neurogenesis |
 

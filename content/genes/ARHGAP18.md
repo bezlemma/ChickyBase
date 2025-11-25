@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421706
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419743
 forward_primer: CGGGAGAAAAACAAAATGACGC
-gene_id: '454752'
+gene_id: '421706'
 gene_type: protein-coding
 images:
 - caption: ARHGAP18 expression
@@ -94,13 +94,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R414.ARHGAP18.S26.001.jpg
 name: Rho GTPase activating protein 18
-ncbi_id: '454752'
+ncbi_id: '421706'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000146376
   entrez: '93663'
   mod: MIM:613351
@@ -111,24 +106,24 @@ orthologs:
   mod: MGI:1921160
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 779789,100037223
-  mod: '988159'
+- ensembl: ENSXETG00000038345
+  entrez: '779789'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000074740
   entrez: '100004252'
   mod: ZFIN:ZDB-GENE-070502-1
-  phenotypes: ZDB-GENE-070502-1
+  phenotypes: negative regulation of sprouting angiogenesis, signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGAAACCAGACCTACCAGATGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454752
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421706
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454752
+  url: https://www.ncbi.nlm.nih.gov/gene/421706
 species: Gallus gallus
 symbol: ARHGAP18
 template_length: '891'
@@ -150,9 +145,8 @@ title: ARHGAP18
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000146376](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000146376) | [93663](https://www.ncbi.nlm.nih.gov/gene/93663) | [MIM:613351](https://omim.org/entry/613351) |  |
 | Mouse | [ENSMUSG00000039031](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039031) | [73910](https://www.ncbi.nlm.nih.gov/gene/73910) | [MGI:1921160](http://www.informatics.jax.org/marker/MGI:1921160) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [779789](https://www.ncbi.nlm.nih.gov/gene/779789), [100037223](https://www.ncbi.nlm.nih.gov/gene/100037223) | [988159](http://www.xenbase.org/gene/showgene.do?method=display&geneId=988159) |  |
-| Zebrafish | [ENSDARG00000074740](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074740) | [100004252](https://www.ncbi.nlm.nih.gov/gene/100004252) | [ZFIN:ZDB-GENE-070502-1](https://zfin.org/ZDB-GENE-070502-1) | ZDB-GENE-070502-1 |
+| Xenopus | [ENSXETG00000038345](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000038345) | [779789](https://www.ncbi.nlm.nih.gov/gene/779789) |  |  |
+| Zebrafish | [ENSDARG00000074740](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074740) | [100004252](https://www.ncbi.nlm.nih.gov/gene/100004252) | [ZFIN:ZDB-GENE-070502-1](https://zfin.org/ZDB-GENE-070502-1) | negative regulation of sprouting angiogenesis, signal transduction |
 

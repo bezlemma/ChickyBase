@@ -11,7 +11,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/101751827
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
-gene_id: '509976'
+gene_id: '101751827'
 gene_type: unknown
 images:
 - caption: CDKN1C expression
@@ -43,7 +43,7 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-fig5-p57.JPG
 name: cyclin dependent kinase inhibitor 1C
-ncbi_id: '509976'
+ncbi_id: '101751827'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -73,7 +73,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/509976
+  url: https://www.ncbi.nlm.nih.gov/gene/101751827
 species: Gallus gallus
 symbol: CDKN1C
 title: CDKN1C

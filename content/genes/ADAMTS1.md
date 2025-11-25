@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418479
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416687
 forward_primer: TCTGACCATCCAAGTCCTCACG
-gene_id: '456043'
+gene_id: '418479'
 gene_type: protein-coding
 images:
 - caption: ADAMTS1 expression
@@ -245,13 +245,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R486.ADAMTS1.S26V.001.jpg
 name: ADAM metallopeptidase with thrombospondin type 1 motif 1
-ncbi_id: '456043'
+ncbi_id: '418479'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000154734
   entrez: '9510'
   mod: MIM:605174
@@ -262,24 +257,24 @@ orthologs:
   mod: MGI:109249
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100151734,495679
-  mod: '492599'
+- ensembl: ENSXETG00000013631
+  entrez: '100151734'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000103519
   entrez: '565145'
   mod: ZFIN:ZDB-GENE-070814-1
-  phenotypes: ZDB-GENE-070814-1
+  phenotypes: extracellular matrix organization, proteolysis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCTATCTTTTCCACTCCGCTTTGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456043
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418479
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456043
+  url: https://www.ncbi.nlm.nih.gov/gene/418479
 species: Gallus gallus
 symbol: ADAMTS1
 template_length: '910'
@@ -301,9 +296,8 @@ title: ADAMTS1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000154734](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000154734) | [9510](https://www.ncbi.nlm.nih.gov/gene/9510) | [MIM:605174](https://omim.org/entry/605174) |  |
 | Mouse | [ENSMUSG00000022893](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022893) | [11504](https://www.ncbi.nlm.nih.gov/gene/11504) | [MGI:109249](http://www.informatics.jax.org/marker/MGI:109249) | All phenotypic alleles (3):Targeted, knock-out(3) |
-| Xenopus |  | [100151734](https://www.ncbi.nlm.nih.gov/gene/100151734), [495679](https://www.ncbi.nlm.nih.gov/gene/495679) | [492599](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492599) |  |
-| Zebrafish |  | [565145](https://www.ncbi.nlm.nih.gov/gene/565145) | [ZFIN:ZDB-GENE-070814-1](https://zfin.org/ZDB-GENE-070814-1) | ZDB-GENE-070814-1 |
+| Xenopus | [ENSXETG00000013631](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013631) | [100151734](https://www.ncbi.nlm.nih.gov/gene/100151734) |  |  |
+| Zebrafish | [ENSDARG00000103519](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000103519) | [565145](https://www.ncbi.nlm.nih.gov/gene/565145) | [ZFIN:ZDB-GENE-070814-1](https://zfin.org/ZDB-GENE-070814-1) | extracellular matrix organization, proteolysis |
 

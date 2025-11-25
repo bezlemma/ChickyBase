@@ -24,7 +24,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396487
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205491
-gene_id: '461094'
+gene_id: '396487'
 gene_type: protein-coding
 images:
 - caption: HSPA5 expression
@@ -127,13 +127,8 @@ images:
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRP78.Bell.2004.Fig.3.png
 name: heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)
-ncbi_id: '461094'
+ncbi_id: '396487'
 orthologs:
-- ensembl: ''
-  entrez: '32133'
-  mod: FBgn0001218
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000044574
   entrez: '3309'
   mod: MIM:138120
@@ -144,23 +139,24 @@ orthologs:
   mod: MGI:95835
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100492570,379756
-  mod: '480059'
+- ensembl: ENSXETG00000016838
+  entrez: '100492570'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000004665
+- ensembl: ENSDARG00000103846
   entrez: '378848'
   mod: ZFIN:ZDB-GENE-031001-11
-  phenotypes: ZDB-GENE-031001-11
+  phenotypes: ERAD pathway, endoplasmic reticulum unfolded protein response, protein
+    folding, protein refolding, response to hypoxia
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461094
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396487
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461094
+  url: https://www.ncbi.nlm.nih.gov/gene/396487
 species: Gallus gallus
 symbol: HSPA5
 title: HSPA5
@@ -190,9 +186,8 @@ title: HSPA5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32133](https://www.ncbi.nlm.nih.gov/gene/32133) | FBgn0001218 |  |
 | Human | [ENSG00000044574](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000044574) | [3309](https://www.ncbi.nlm.nih.gov/gene/3309) | [MIM:138120](https://omim.org/entry/138120) |  |
 | Mouse | [ENSMUSG00000026864](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026864) | [14828](https://www.ncbi.nlm.nih.gov/gene/14828) | [MGI:95835](http://www.informatics.jax.org/marker/MGI:95835) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100492570](https://www.ncbi.nlm.nih.gov/gene/100492570), [379756](https://www.ncbi.nlm.nih.gov/gene/379756) | [480059](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480059) |  |
-| Zebrafish | [ENSDARG00000004665](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004665) | [378848](https://www.ncbi.nlm.nih.gov/gene/378848) | [ZFIN:ZDB-GENE-031001-11](https://zfin.org/ZDB-GENE-031001-11) | ZDB-GENE-031001-11 |
+| Xenopus | [ENSXETG00000016838](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016838) | [100492570](https://www.ncbi.nlm.nih.gov/gene/100492570) |  |  |
+| Zebrafish | [ENSDARG00000103846](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000103846) | [378848](https://www.ncbi.nlm.nih.gov/gene/378848) | [ZFIN:ZDB-GENE-031001-11](https://zfin.org/ZDB-GENE-031001-11) | ERAD pathway, endoplasmic reticulum unfolded protein response, protein folding, protein refolding, response to hypoxia |
 

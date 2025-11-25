@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424488
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001244882
 forward_primer: GTCAGGTGATGCTGTGAATC
-gene_id: '450301'
+gene_id: '424488'
 gene_type: protein-coding
 images:
 - caption: ARHGAP29 expression
@@ -99,41 +99,27 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R410.ARHGAP29.A27D.001.jpg
 name: Rho GTPase activating protein 29
-ncbi_id: '450301'
+ncbi_id: '424488'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000008222
+  entrez: '100170512'
   mod: ''
   phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: '9411'
-  mod: MIM:610496
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000039831
-  entrez: '214137'
-  mod: MGI:2443818
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: 100170512,446235
-  mod: '964889'
-  phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000017748,ENSDARG00000026329
-  entrez: 378998,564805
-  mod: ZFIN:ZDB-GENE-031010-44,ZFIN:ZDB-GENE-030131-9510
-  phenotypes: ZDB-GENE-031010-44,ZDB-GENE-030131-9510
+- ensembl: ENSDARG00000026329
+  entrez: '564805'
+  mod: ZFIN:ZDB-GENE-030131-9510
+  phenotypes: negative regulation of small GTPase mediated signal transduction, regulation
+    of small GTPase mediated signal transduction, signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCAAATGATAAAGGGTCAGGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450301
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424488
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450301
+  url: https://www.ncbi.nlm.nih.gov/gene/424488
 species: Gallus gallus
 symbol: ARHGAP29
 template_length: '981'
@@ -155,9 +141,6 @@ title: ARHGAP29
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [9411](https://www.ncbi.nlm.nih.gov/gene/9411) | [MIM:610496](https://omim.org/entry/610496) |  |
-| Mouse | [ENSMUSG00000039831](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039831) | [214137](https://www.ncbi.nlm.nih.gov/gene/214137) | [MGI:2443818](http://www.informatics.jax.org/marker/MGI:2443818) |  |
-| Xenopus |  | [100170512](https://www.ncbi.nlm.nih.gov/gene/100170512), [446235](https://www.ncbi.nlm.nih.gov/gene/446235) | [964889](http://www.xenbase.org/gene/showgene.do?method=display&geneId=964889) |  |
-| Zebrafish | [ENSDARG00000017748](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017748), [ENSDARG00000026329](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026329) | [378998](https://www.ncbi.nlm.nih.gov/gene/378998), [564805](https://www.ncbi.nlm.nih.gov/gene/564805) | [ZFIN:ZDB-GENE-031010-44](https://zfin.org/ZDB-GENE-031010-44), [ZFIN:ZDB-GENE-030131-9510](https://zfin.org/ZDB-GENE-030131-9510) | ZDB-GENE-031010-44,ZDB-GENE-030131-9510 |
+| Xenopus | [ENSXETG00000008222](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008222) | [100170512](https://www.ncbi.nlm.nih.gov/gene/100170512) |  |  |
+| Zebrafish | [ENSDARG00000026329](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026329) | [564805](https://www.ncbi.nlm.nih.gov/gene/564805) | [ZFIN:ZDB-GENE-030131-9510](https://zfin.org/ZDB-GENE-030131-9510) | negative regulation of small GTPase mediated signal transduction, regulation of small GTPase mediated signal transduction, signal transduction |
 

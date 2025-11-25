@@ -6,7 +6,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
 forward_primer: TCGGGGAGATTTTTGGCTGG
-gene_id: '504993'
+gene_id: '101750033'
 gene_type: unknown
 images:
 - caption: ANGPTL7 expression
@@ -76,41 +76,36 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R5R530.ANGPTL7.S26A.001.jpg
 name: angiopoietin like 7
-ncbi_id: '504993'
+ncbi_id: '101750033'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000171819
+  entrez: '10218'
+  mod: MIM:618517
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000028989
+  entrez: '654812'
+  mod: MGI:3605801
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000017425
+  entrez: '100124808'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000027582
+  entrez: '450053'
+  mod: ZFIN:ZDB-GENE-041010-175
+  phenotypes: blood coagulation
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTGGAATGGGAATGAGGAGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=504993
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=101750033
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/504993
+  url: https://www.ncbi.nlm.nih.gov/gene/101750033
 species: Gallus gallus
 symbol: ANGPTL7
 template_length: '832'
@@ -130,9 +125,8 @@ title: ANGPTL7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000171819](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171819) | [10218](https://www.ncbi.nlm.nih.gov/gene/10218) | [MIM:618517](https://omim.org/entry/618517) |  |
+| Mouse | [ENSMUSG00000028989](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028989) | [654812](https://www.ncbi.nlm.nih.gov/gene/654812) | [MGI:3605801](http://www.informatics.jax.org/marker/MGI:3605801) |  |
+| Xenopus | [ENSXETG00000017425](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017425) | [100124808](https://www.ncbi.nlm.nih.gov/gene/100124808) |  |  |
+| Zebrafish | [ENSDARG00000027582](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027582) | [450053](https://www.ncbi.nlm.nih.gov/gene/450053) | [ZFIN:ZDB-GENE-041010-175](https://zfin.org/ZDB-GENE-041010-175) | blood coagulation |
 

@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420322
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001024579
-gene_id: '457890'
+gene_id: '420322'
 gene_type: protein-coding
 images:
 - caption: WISP1 expression
@@ -40,14 +40,9 @@ images:
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.McBride.2003.7T.png
 name: WNT1 inducible signaling pathway protein 1
-ncbi_id: '457890'
+ncbi_id: '420322'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000104415
   entrez: '8840'
   mod: MIM:603398
   phenotypes: ''
@@ -57,20 +52,22 @@ orthologs:
   mod: MGI:1197008
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010987
   entrez: '100492186'
-  mod: '484775'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000076685,ENSDARG00000054331
-  entrez: 792714,560713
-  mod: ZFIN:ZDB-GENE-080220-16,ZFIN:ZDB-GENE-070705-178
-  phenotypes: ZDB-GENE-080220-16,ZDB-GENE-070705-178
+- ensembl: ENSDARG00000076685
+  entrez: '792714'
+  mod: ZFIN:ZDB-GENE-080220-16
+  phenotypes: cell adhesion, positive regulation of cell differentiation, regulation
+    of cell differentiation, regulation of multicellular organismal process, signal
+    transduction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457890
+  url: https://www.ncbi.nlm.nih.gov/gene/420322
 species: Gallus gallus
 symbol: WISP1
 title: WISP1
@@ -100,9 +97,8 @@ Copyright © 2003 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [8840](https://www.ncbi.nlm.nih.gov/gene/8840) | [MIM:603398](https://omim.org/entry/603398) |  |
+| Human | [ENSG00000104415](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000104415) | [8840](https://www.ncbi.nlm.nih.gov/gene/8840) | [MIM:603398](https://omim.org/entry/603398) |  |
 | Mouse | [ENSMUSG00000005124](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005124) | [22402](https://www.ncbi.nlm.nih.gov/gene/22402) | [MGI:1197008](http://www.informatics.jax.org/marker/MGI:1197008) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100492186](https://www.ncbi.nlm.nih.gov/gene/100492186) | [484775](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484775) |  |
-| Zebrafish | [ENSDARG00000076685](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076685), [ENSDARG00000054331](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054331) | [792714](https://www.ncbi.nlm.nih.gov/gene/792714), [560713](https://www.ncbi.nlm.nih.gov/gene/560713) | [ZFIN:ZDB-GENE-080220-16](https://zfin.org/ZDB-GENE-080220-16), [ZFIN:ZDB-GENE-070705-178](https://zfin.org/ZDB-GENE-070705-178) | ZDB-GENE-080220-16,ZDB-GENE-070705-178 |
+| Xenopus | [ENSXETG00000010987](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010987) | [100492186](https://www.ncbi.nlm.nih.gov/gene/100492186) |  |  |
+| Zebrafish | [ENSDARG00000076685](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076685) | [792714](https://www.ncbi.nlm.nih.gov/gene/792714) | [ZFIN:ZDB-GENE-080220-16](https://zfin.org/ZDB-GENE-080220-16) | cell adhesion, positive regulation of cell differentiation, regulation of cell differentiation, regulation of multicellular organismal process, signal transduction |
 

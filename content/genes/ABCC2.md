@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423828
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421698
 forward_primer: CCTTAGCCAGTTTTGCTGTCTACG
-gene_id: '450230'
+gene_id: '423828'
 gene_type: protein-coding
 images:
 - caption: ABCC2 expression
@@ -129,13 +129,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R482.ABCC2.S26V.001.jpg
 name: ATP binding cassette subfamily C member 2
-ncbi_id: '450230'
+ncbi_id: '423828'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000023839
   entrez: '1244'
   mod: MIM:601107
@@ -146,24 +141,24 @@ orthologs:
   mod: MGI:1352447
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '1012795'
+- ensembl: ENSXETG00000003740
+  entrez: '100485020'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000014031
-  entrez: 100332824,393561
+  entrez: '393561'
   mod: ZFIN:ZDB-GENE-040426-1523
-  phenotypes: ZDB-GENE-040426-1523
+  phenotypes: cell redox homeostasis, transmembrane transport
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCATCCCCCTGCTCTTCAATCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450230
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423828
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450230
+  url: https://www.ncbi.nlm.nih.gov/gene/423828
 species: Gallus gallus
 symbol: ABCC2
 template_length: '967'
@@ -185,9 +180,8 @@ title: ABCC2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000023839](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000023839) | [1244](https://www.ncbi.nlm.nih.gov/gene/1244) | [MIM:601107](https://omim.org/entry/601107) | MIM:237500 |
 | Mouse | [ENSMUSG00000025194](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025194) | [12780](https://www.ncbi.nlm.nih.gov/gene/12780) | [MGI:1352447](http://www.informatics.jax.org/marker/MGI:1352447) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  |  | [1012795](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1012795) |  |
-| Zebrafish | [ENSDARG00000014031](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014031) | [100332824](https://www.ncbi.nlm.nih.gov/gene/100332824), [393561](https://www.ncbi.nlm.nih.gov/gene/393561) | [ZFIN:ZDB-GENE-040426-1523](https://zfin.org/ZDB-GENE-040426-1523) | ZDB-GENE-040426-1523 |
+| Xenopus | [ENSXETG00000003740](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003740) | [100485020](https://www.ncbi.nlm.nih.gov/gene/100485020) |  |  |
+| Zebrafish | [ENSDARG00000014031](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014031) | [393561](https://www.ncbi.nlm.nih.gov/gene/393561) | [ZFIN:ZDB-GENE-040426-1523](https://zfin.org/ZDB-GENE-040426-1523) | cell redox homeostasis, transmembrane transport |
 

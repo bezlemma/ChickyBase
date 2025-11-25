@@ -3,14 +3,13 @@ aliases:
 - focadhesin
 cgnc_id: '11210'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000015071
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427233
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001195603
 forward_primer: 5’-TACCCTCTTTGGCGGTTGAC-3’
-gene_id: '462284'
+gene_id: '427233'
 gene_type: protein-coding
 images:
 - caption: FOCAD expression
@@ -120,7 +119,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R675.FODAC.S25AAA.001.jpg
 name: focadhesin
-ncbi_id: '462284'
+ncbi_id: '427233'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -145,16 +144,16 @@ orthologs:
 - ensembl: ENSDARG00000022020
   entrez: 100332101,100150998
   mod: ZFIN:ZDB-GENE-080213-1
-  phenotypes: ZDB-GENE-080213-1
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGAAGGCCTGGTGTCATTCCTG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462284
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427233
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462284
+  url: https://www.ncbi.nlm.nih.gov/gene/427233
 species: Gallus gallus
 symbol: FOCAD
 template_length: '800'
@@ -181,5 +180,5 @@ title: FOCAD
 | Human | [ENSG00000188352](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000188352) | [54914](https://www.ncbi.nlm.nih.gov/gene/54914) | [MIM:614606](https://omim.org/entry/614606) |  |
 | Mouse | [ENSMUSG00000038368](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038368) | [230393](https://www.ncbi.nlm.nih.gov/gene/230393) | [MGI:2676921](http://www.informatics.jax.org/marker/MGI:2676921) | All phenotypic alleles (2):Targeted, other(2) |
 | Xenopus |  | [549009](https://www.ncbi.nlm.nih.gov/gene/549009) | [6038576](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6038576) |  |
-| Zebrafish | [ENSDARG00000022020](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000022020) | [100332101](https://www.ncbi.nlm.nih.gov/gene/100332101), [100150998](https://www.ncbi.nlm.nih.gov/gene/100150998) | [ZFIN:ZDB-GENE-080213-1](https://zfin.org/ZDB-GENE-080213-1) | ZDB-GENE-080213-1 |
+| Zebrafish | [ENSDARG00000022020](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000022020) | [100332101](https://www.ncbi.nlm.nih.gov/gene/100332101), [100150998](https://www.ncbi.nlm.nih.gov/gene/100150998) | [ZFIN:ZDB-GENE-080213-1](https://zfin.org/ZDB-GENE-080213-1) |  |
 

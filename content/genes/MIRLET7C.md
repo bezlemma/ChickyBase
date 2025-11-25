@@ -7,7 +7,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/777928
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NC_006088
-gene_id: '468031'
+gene_id: '777928'
 gene_type: miscRNA
 images:
 - caption: MIRLET7C expression
@@ -18,7 +18,7 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/let-7c.40.24.jpg
 name: microRNA let-7c
-ncbi_id: '468031'
+ncbi_id: '777928'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -48,10 +48,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468031
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777928
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468031
+  url: https://www.ncbi.nlm.nih.gov/gene/777928
 species: Gallus gallus
 symbol: MIRLET7C
 title: MIRLET7C

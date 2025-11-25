@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416880
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415171
 forward_primer: GTGGTTGTGATGAAAGTGGCG
-gene_id: '461855'
+gene_id: '416880'
 gene_type: protein-coding
 images:
 - caption: ALDH2 expression
@@ -133,42 +133,37 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R494.ALDH2.S27B.001.jpg
 name: aldehyde dehydrogenase 2 family (mitochondrial)
-ncbi_id: '461855'
+ncbi_id: '416880'
 orthologs:
-- ensembl: ''
-  entrez: '34256'
-  mod: FBgn0012036
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000111275
   entrez: '217'
   mod: MIM:100650
   phenotypes: MIM:100650
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000029455
   entrez: '11669'
   mod: MGI:99600
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 448267,446857
-  mod: '490835'
+- ensembl: ENSXETG00000020930
+  entrez: '448267'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000028087,ENSDARG00000037094,ENSDARG00000089924
-  entrez: 368239,100332355,393462
-  mod: ZFIN:ZDB-GENE-030326-5,ZFIN:ZDB-GENE-040426-1262
-  phenotypes: ZDB-GENE-030326-5,ZDB-GENE-040426-1262
+- ensembl: ENSDARG00000089924
+  entrez: '393462'
+  mod: ZFIN:ZDB-GENE-040426-1262
+  phenotypes: aldehyde metabolic process
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGACGGTTGGCTGGACGAAATAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461855
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416880
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461855
+  url: https://www.ncbi.nlm.nih.gov/gene/416880
 species: Gallus gallus
 symbol: ALDH2
 template_length: '593'
@@ -192,9 +187,8 @@ title: ALDH2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34256](https://www.ncbi.nlm.nih.gov/gene/34256) | FBgn0012036 |  |
 | Human | [ENSG00000111275](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111275) | [217](https://www.ncbi.nlm.nih.gov/gene/217) | [MIM:100650](https://omim.org/entry/100650) | MIM:100650 |
-| Mouse |  | [11669](https://www.ncbi.nlm.nih.gov/gene/11669) | [MGI:99600](http://www.informatics.jax.org/marker/MGI:99600) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [448267](https://www.ncbi.nlm.nih.gov/gene/448267), [446857](https://www.ncbi.nlm.nih.gov/gene/446857) | [490835](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490835) |  |
-| Zebrafish | [ENSDARG00000028087](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028087), [ENSDARG00000037094](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037094), [ENSDARG00000089924](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089924) | [368239](https://www.ncbi.nlm.nih.gov/gene/368239), [100332355](https://www.ncbi.nlm.nih.gov/gene/100332355), [393462](https://www.ncbi.nlm.nih.gov/gene/393462) | [ZFIN:ZDB-GENE-030326-5](https://zfin.org/ZDB-GENE-030326-5), [ZFIN:ZDB-GENE-040426-1262](https://zfin.org/ZDB-GENE-040426-1262) | ZDB-GENE-030326-5,ZDB-GENE-040426-1262 |
+| Mouse | [ENSMUSG00000029455](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029455) | [11669](https://www.ncbi.nlm.nih.gov/gene/11669) | [MGI:99600](http://www.informatics.jax.org/marker/MGI:99600) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1) |
+| Xenopus | [ENSXETG00000020930](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020930) | [448267](https://www.ncbi.nlm.nih.gov/gene/448267) |  |  |
+| Zebrafish | [ENSDARG00000089924](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089924) | [393462](https://www.ncbi.nlm.nih.gov/gene/393462) | [ZFIN:ZDB-GENE-040426-1262](https://zfin.org/ZDB-GENE-040426-1262) | aldehyde metabolic process |
 

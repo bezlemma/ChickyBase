@@ -13,7 +13,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0030957
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001039255
 forward_primer: GAAATACAAGGCGGTGTCTATC
-gene_id: '459740'
+gene_id: '769489'
 gene_type: protein-coding
 images:
 - caption: SMARCB1 expression
@@ -172,41 +172,37 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R458.MMP11.S27.001.jpg
 name: SWI/SNF related, matrix associated, actin dependent regulator of chromatin,
   subfamily b, member 1
-ncbi_id: '459740'
+ncbi_id: '769489'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000099953
-  entrez: '4320'
-  mod: MIM:185261
+- ensembl: ENSG00000099956
+  entrez: '6598'
+  mod: MIM:601607
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000000901
-  entrez: '17385'
-  mod: MGI:97008
+- ensembl: ENSMUSG00000000902
+  entrez: '20587'
+  mod: MGI:1328366
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100493314,379501
-  mod: '479264'
+- ensembl: ENSXETG00000022368
+  entrez: '448543'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000016718,ENSDARG00000026325
-  entrez: 565793,563753
-  mod: ZFIN:ZDB-GENE-070817-2,ZFIN:ZDB-GENE-070817-3
-  phenotypes: ZDB-GENE-070817-2,ZDB-GENE-070817-3
+- ensembl: ENSDARG00000111561
+  entrez: '799716'
+  mod: ZFIN:ZDB-GENE-041114-5
+  phenotypes: chromatin remodeling, regulation of transcription by RNA polymerase
+    II
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGGCAAGTGGAATGTGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459740
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=769489
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459740
+  url: https://www.ncbi.nlm.nih.gov/gene/769489
 species: Gallus gallus
 symbol: SMARCB1
 template_length: '963'
@@ -233,9 +229,8 @@ title: SMARCB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000099953](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000099953) | [4320](https://www.ncbi.nlm.nih.gov/gene/4320) | [MIM:185261](https://omim.org/entry/185261) |  |
-| Mouse | [ENSMUSG00000000901](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000901) | [17385](https://www.ncbi.nlm.nih.gov/gene/17385) | [MGI:97008](http://www.informatics.jax.org/marker/MGI:97008) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100493314](https://www.ncbi.nlm.nih.gov/gene/100493314), [379501](https://www.ncbi.nlm.nih.gov/gene/379501) | [479264](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479264) |  |
-| Zebrafish | [ENSDARG00000016718](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016718), [ENSDARG00000026325](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026325) | [565793](https://www.ncbi.nlm.nih.gov/gene/565793), [563753](https://www.ncbi.nlm.nih.gov/gene/563753) | [ZFIN:ZDB-GENE-070817-2](https://zfin.org/ZDB-GENE-070817-2), [ZFIN:ZDB-GENE-070817-3](https://zfin.org/ZDB-GENE-070817-3) | ZDB-GENE-070817-2,ZDB-GENE-070817-3 |
+| Human | [ENSG00000099956](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000099956) | [6598](https://www.ncbi.nlm.nih.gov/gene/6598) | [MIM:601607](https://omim.org/entry/601607) |  |
+| Mouse | [ENSMUSG00000000902](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000902) | [20587](https://www.ncbi.nlm.nih.gov/gene/20587) | [MGI:1328366](http://www.informatics.jax.org/marker/MGI:1328366) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
+| Xenopus | [ENSXETG00000022368](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022368) | [448543](https://www.ncbi.nlm.nih.gov/gene/448543) |  |  |
+| Zebrafish | [ENSDARG00000111561](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000111561) | [799716](https://www.ncbi.nlm.nih.gov/gene/799716) | [ZFIN:ZDB-GENE-041114-5](https://zfin.org/ZDB-GENE-041114-5) | chromatin remodeling, regulation of transcription by RNA polymerase II |
 

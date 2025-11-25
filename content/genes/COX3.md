@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:807637
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004129
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_006921
-gene_id: '468748'
+gene_id: '63549467'
 gene_type: protein-coding
 images:
 - caption: COX3 expression
@@ -37,7 +37,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CytochromeCoxidIII.Nelson.2004.fig4.jpg
 name: cytochrome c oxidase subunit III
-ncbi_id: '468748'
+ncbi_id: '63549467'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -67,7 +67,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468748
+  url: https://www.ncbi.nlm.nih.gov/gene/63549467
 species: Gallus gallus
 symbol: COX3
 title: COX3

@@ -4,13 +4,12 @@ aliases:
 - A kinase (PRKA) anchor protein 7
 cgnc_id: '15953'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/426926
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426926
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424536
 forward_primer: CAGAGATGCCATTTGCCGAC
-gene_id: '459602'
+gene_id: '426926'
 gene_type: protein-coding
 images:
 - caption: AKAP7 expression
@@ -160,13 +159,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R519.AKAP7.S25AAA.001.jpg
 name: A-kinase anchoring protein 7
-ncbi_id: '459602'
+ncbi_id: '426926'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000118507
   entrez: '9465'
   mod: MIM:604693
@@ -177,24 +171,19 @@ orthologs:
   mod: MGI:1859150
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100379710,447759
-  mod: '962908'
+- ensembl: ENSXETG00000008240
+  entrez: '100379710'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '100034399'
-  mod: ZFIN:ZDB-GENE-040724-128
-  phenotypes: ZDB-GENE-040724-128
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCTCCTTTATTTGACTCAGCCTGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459602
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426926
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459602
+  url: https://www.ncbi.nlm.nih.gov/gene/426926
 species: Gallus gallus
 symbol: AKAP7
 template_length: '834'
@@ -216,9 +205,7 @@ title: AKAP7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000118507](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118507) | [9465](https://www.ncbi.nlm.nih.gov/gene/9465) | [MIM:604693](https://omim.org/entry/604693) |  |
 | Mouse | [ENSMUSG00000039166](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039166) | [432442](https://www.ncbi.nlm.nih.gov/gene/432442) | [MGI:1859150](http://www.informatics.jax.org/marker/MGI:1859150) |  |
-| Xenopus |  | [100379710](https://www.ncbi.nlm.nih.gov/gene/100379710), [447759](https://www.ncbi.nlm.nih.gov/gene/447759) | [962908](http://www.xenbase.org/gene/showgene.do?method=display&geneId=962908) |  |
-| Zebrafish |  | [100034399](https://www.ncbi.nlm.nih.gov/gene/100034399) | [ZFIN:ZDB-GENE-040724-128](https://zfin.org/ZDB-GENE-040724-128) | ZDB-GENE-040724-128 |
+| Xenopus | [ENSXETG00000008240](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008240) | [100379710](https://www.ncbi.nlm.nih.gov/gene/100379710) |  |  |
 

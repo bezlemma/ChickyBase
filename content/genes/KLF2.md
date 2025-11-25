@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420148
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418264
   X-XIV: stage XIII
-gene_id: '458662'
+gene_id: '420148'
 gene_type: protein-coding
 images:
 - caption: KLF2 expression
@@ -508,40 +508,27 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KLF2.Trevers.2023-Fig7-6-P.jpg
 name: Kruppel like factor 2
-ncbi_id: '458662'
+ncbi_id: '420148'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000002075
+  entrez: '549518'
   mod: ''
   phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000127528
-  entrez: '10365'
-  mod: MIM:602016
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000055148
-  entrez: '16598'
-  mod: MGI:1342772
-  phenotypes: All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3)
-  species: Mouse
-- ensembl: ''
-  entrez: 549518,380122
-  mod: '485034'
-  phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000042667,ENSDARG00000040432
-  entrez: 117508,117509
-  mod: ZFIN:ZDB-GENE-011109-1,ZFIN:ZDB-GENE-011109-2
-  phenotypes: ZDB-GENE-011109-1,ZDB-GENE-011109-2
+- ensembl: ENSDARG00000040432
+  entrez: '117509'
+  mod: ZFIN:ZDB-GENE-011109-2
+  phenotypes: heart development, negative regulation of mesodermal cell fate specification,
+    positive regulation of DNA-templated transcription, regulation of ectodermal cell
+    fate specification, regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458662
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420148
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458662
+  url: https://www.ncbi.nlm.nih.gov/gene/420148
 species: Gallus gallus
 symbol: KLF2
 title: KLF2
@@ -567,9 +554,6 @@ title: KLF2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000127528](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000127528) | [10365](https://www.ncbi.nlm.nih.gov/gene/10365) | [MIM:602016](https://omim.org/entry/602016) |  |
-| Mouse | [ENSMUSG00000055148](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000055148) | [16598](https://www.ncbi.nlm.nih.gov/gene/16598) | [MGI:1342772](http://www.informatics.jax.org/marker/MGI:1342772) | All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3) |
-| Xenopus |  | [549518](https://www.ncbi.nlm.nih.gov/gene/549518), [380122](https://www.ncbi.nlm.nih.gov/gene/380122) | [485034](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485034) |  |
-| Zebrafish | [ENSDARG00000042667](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042667), [ENSDARG00000040432](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040432) | [117508](https://www.ncbi.nlm.nih.gov/gene/117508), [117509](https://www.ncbi.nlm.nih.gov/gene/117509) | [ZFIN:ZDB-GENE-011109-1](https://zfin.org/ZDB-GENE-011109-1), [ZFIN:ZDB-GENE-011109-2](https://zfin.org/ZDB-GENE-011109-2) | ZDB-GENE-011109-1,ZDB-GENE-011109-2 |
+| Xenopus | [ENSXETG00000002075](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002075) | [549518](https://www.ncbi.nlm.nih.gov/gene/549518) |  |  |
+| Zebrafish | [ENSDARG00000040432](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040432) | [117509](https://www.ncbi.nlm.nih.gov/gene/117509) | [ZFIN:ZDB-GENE-011109-2](https://zfin.org/ZDB-GENE-011109-2) | heart development, negative regulation of mesodermal cell fate specification, positive regulation of DNA-templated transcription, regulation of ectodermal cell fate specification, regulation of transcription by RNA polymerase II |
 

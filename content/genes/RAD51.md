@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396086
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205173
-gene_id: '459615'
+gene_id: '396086'
 gene_type: protein-coding
 images:
 - caption: RAD51 expression
@@ -32,40 +32,36 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/T23_12.jpg
 name: RAD51 recombinase
-ncbi_id: '459615'
+ncbi_id: '396086'
 orthologs:
-- ensembl: ''
-  entrez: '43577'
-  mod: FBgn0003479
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000051180
   entrez: '5888'
   mod: MIM:179617
   phenotypes: MIM:114480
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000027323
   entrez: '19361'
   mod: MGI:97890
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549147,397726,380251
-  mod: '1016880'
+- ensembl: ENSXETG00000015951
+  entrez: '549147'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000041411
   entrez: '406487'
   mod: ZFIN:ZDB-GENE-040426-2286
-  phenotypes: ZDB-GENE-040426-2286
+  phenotypes: DNA damage response, DNA metabolic process, DNA recombinase assembly,
+    DNA recombination, DNA repair
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459615
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396086
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459615
+  url: https://www.ncbi.nlm.nih.gov/gene/396086
 species: Gallus gallus
 symbol: RAD51
 title: RAD51
@@ -93,9 +89,8 @@ title: RAD51
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43577](https://www.ncbi.nlm.nih.gov/gene/43577) | FBgn0003479 |  |
 | Human | [ENSG00000051180](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000051180) | [5888](https://www.ncbi.nlm.nih.gov/gene/5888) | [MIM:179617](https://omim.org/entry/179617) | MIM:114480 |
-| Mouse |  | [19361](https://www.ncbi.nlm.nih.gov/gene/19361) | [MGI:97890](http://www.informatics.jax.org/marker/MGI:97890) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [549147](https://www.ncbi.nlm.nih.gov/gene/549147), [397726](https://www.ncbi.nlm.nih.gov/gene/397726), [380251](https://www.ncbi.nlm.nih.gov/gene/380251) | [1016880](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1016880) |  |
-| Zebrafish | [ENSDARG00000041411](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041411) | [406487](https://www.ncbi.nlm.nih.gov/gene/406487) | [ZFIN:ZDB-GENE-040426-2286](https://zfin.org/ZDB-GENE-040426-2286) | ZDB-GENE-040426-2286 |
+| Mouse | [ENSMUSG00000027323](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027323) | [19361](https://www.ncbi.nlm.nih.gov/gene/19361) | [MGI:97890](http://www.informatics.jax.org/marker/MGI:97890) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
+| Xenopus | [ENSXETG00000015951](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015951) | [549147](https://www.ncbi.nlm.nih.gov/gene/549147) |  |  |
+| Zebrafish | [ENSDARG00000041411](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041411) | [406487](https://www.ncbi.nlm.nih.gov/gene/406487) | [ZFIN:ZDB-GENE-040426-2286](https://zfin.org/ZDB-GENE-040426-2286) | DNA damage response, DNA metabolic process, DNA recombinase assembly, DNA recombination, DNA repair |
 

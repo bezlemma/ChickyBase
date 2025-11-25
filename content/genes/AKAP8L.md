@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:776856
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199537
 forward_primer: AAGGAATGCGAGGGTTTTCG
-gene_id: '455194'
+gene_id: '776856'
 gene_type: protein-coding
 images:
 - caption: AKAP8L expression
@@ -187,13 +187,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R519.AKAP8L.S24.001.jpg
 name: A-kinase anchoring protein 8 like
-ncbi_id: '455194'
+ncbi_id: '776856'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000011243
   entrez: '26993'
   mod: MIM:609475
@@ -204,24 +199,19 @@ orthologs:
   mod: MGI:1860606
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 733852,100158315
-  mod: '1015471'
+- ensembl: ENSXETG00000028035
+  entrez: '733852'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '406500'
-  mod: ZFIN:ZDB-GENE-040426-2303
-  phenotypes: ZDB-GENE-040426-2303
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCACTACCAGGGATGACTTCTTGGAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455194
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=776856
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455194
+  url: https://www.ncbi.nlm.nih.gov/gene/776856
 species: Gallus gallus
 symbol: AKAP8L
 template_length: '842'
@@ -243,9 +233,7 @@ title: AKAP8L
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000011243](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000011243) | [26993](https://www.ncbi.nlm.nih.gov/gene/26993) | [MIM:609475](https://omim.org/entry/609475) |  |
 | Mouse | [ENSMUSG00000002625](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002625) | [54194](https://www.ncbi.nlm.nih.gov/gene/54194) | [MGI:1860606](http://www.informatics.jax.org/marker/MGI:1860606) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [733852](https://www.ncbi.nlm.nih.gov/gene/733852), [100158315](https://www.ncbi.nlm.nih.gov/gene/100158315) | [1015471](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1015471) |  |
-| Zebrafish |  | [406500](https://www.ncbi.nlm.nih.gov/gene/406500) | [ZFIN:ZDB-GENE-040426-2303](https://zfin.org/ZDB-GENE-040426-2303) | ZDB-GENE-040426-2303 |
+| Xenopus | [ENSXETG00000028035](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000028035) | [733852](https://www.ncbi.nlm.nih.gov/gene/733852) |  |  |
 

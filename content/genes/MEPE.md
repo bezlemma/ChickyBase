@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395256
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204569
-gene_id: '461388'
+gene_id: '395256'
 gene_type: protein-coding
 images:
 - caption: MEPE expression
@@ -74,7 +74,7 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Bardet.Fig4.OC-116.F.E19.jpg
 name: matrix extracellular phosphoglycoprotein
-ncbi_id: '461388'
+ncbi_id: '395256'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -104,7 +104,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461388
+  url: https://www.ncbi.nlm.nih.gov/gene/395256
 species: Gallus gallus
 symbol: MEPE
 title: MEPE

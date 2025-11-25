@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374029
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204202
-gene_id: '454543'
+gene_id: '374029'
 gene_type: protein-coding
 images:
 - caption: CLDN3 expression
@@ -145,13 +145,8 @@ images:
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Haddad.2011.Fig4.CLDN3.B.jpg
 name: claudin 3
-ncbi_id: '454543'
+ncbi_id: '374029'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000165215
   entrez: '1365'
   mod: MIM:602910
@@ -162,20 +157,20 @@ orthologs:
   mod: MGI:1329044
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 448229,447224
-  mod: '972425'
+- ensembl: ENSXETG00000046782
+  entrez: '549417'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000069503
-  entrez: '81587'
-  mod: ZFIN:ZDB-GENE-010328-8
-  phenotypes: ZDB-GENE-010328-8
+- ensembl: ''
+  entrez: '100333863'
+  mod: ''
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454543
+  url: https://www.ncbi.nlm.nih.gov/gene/374029
 species: Gallus gallus
 symbol: CLDN3
 title: CLDN3
@@ -201,9 +196,8 @@ title: CLDN3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000165215](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165215) | [1365](https://www.ncbi.nlm.nih.gov/gene/1365) | [MIM:602910](https://omim.org/entry/602910) |  |
 | Mouse | [ENSMUSG00000070473](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000070473) | [12739](https://www.ncbi.nlm.nih.gov/gene/12739) | [MGI:1329044](http://www.informatics.jax.org/marker/MGI:1329044) |  |
-| Xenopus |  | [448229](https://www.ncbi.nlm.nih.gov/gene/448229), [447224](https://www.ncbi.nlm.nih.gov/gene/447224) | [972425](http://www.xenbase.org/gene/showgene.do?method=display&geneId=972425) |  |
-| Zebrafish | [ENSDARG00000069503](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069503) | [81587](https://www.ncbi.nlm.nih.gov/gene/81587) | [ZFIN:ZDB-GENE-010328-8](https://zfin.org/ZDB-GENE-010328-8) | ZDB-GENE-010328-8 |
+| Xenopus | [ENSXETG00000046782](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000046782) | [549417](https://www.ncbi.nlm.nih.gov/gene/549417) |  |  |
+| Zebrafish |  | [100333863](https://www.ncbi.nlm.nih.gov/gene/100333863) |  |  |
 

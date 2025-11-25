@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100170842
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001130744
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATTGGGACAAAAGCCACCACTG
-gene_id: '453046'
+gene_id: '100170842'
 gene_type: protein-coding
 images:
 - caption: WNT11B expression
@@ -84,41 +84,27 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Picture 33.png
 name: wingless-type MMTV integration site family, member 11b
-ncbi_id: '453046'
+ncbi_id: '100170842'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000023227
+  entrez: '549489'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000004256
+  entrez: '791595'
+  mod: ZFIN:ZDB-GENE-990603-12
+  phenotypes: Kupffer's vesicle development, Wnt signaling pathway, animal organ development,
+    camera-type eye development, canonical Wnt signaling pathway
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTTCCAACAGGTCTTCACCGAAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453046
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100170842
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453046
+  url: https://www.ncbi.nlm.nih.gov/gene/100170842
 species: Gallus gallus
 symbol: WNT11B
 template_length: '560'
@@ -146,9 +132,6 @@ Copyright © 2008 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000023227](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023227) | [549489](https://www.ncbi.nlm.nih.gov/gene/549489) |  |  |
+| Zebrafish | [ENSDARG00000004256](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004256) | [791595](https://www.ncbi.nlm.nih.gov/gene/791595) | [ZFIN:ZDB-GENE-990603-12](https://zfin.org/ZDB-GENE-990603-12) | Kupffer's vesicle development, Wnt signaling pathway, animal organ development, camera-type eye development, canonical Wnt signaling pathway |
 

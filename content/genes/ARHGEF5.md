@@ -3,13 +3,12 @@ aliases:
 - Rho guanine nucleotide exchange factor (GEF) 19
 cgnc_id: '12978'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/419033
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419033
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417225
 forward_primer: CACTTTCTCCAACTAAGCCCTCC
-gene_id: '456778'
+gene_id: '419033'
 gene_type: protein-coding
 images:
 - caption: ARHGEF5 expression
@@ -84,7 +83,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R402.ARHGEF19.S25D.001.jpg
 name: Rho guanine nucleotide exchange factor 5
-ncbi_id: '456778'
+ncbi_id: '419033'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -115,10 +114,10 @@ reverse_primer: ATTAACCCTCACTAAAGGTTCAGAGCCACATCACATACACG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456778
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419033
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456778
+  url: https://www.ncbi.nlm.nih.gov/gene/419033
 species: Gallus gallus
 symbol: ARHGEF5
 template_length: '1055'

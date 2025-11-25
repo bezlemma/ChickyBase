@@ -3,7 +3,6 @@ aliases:
 - leucine-rich repeat transmembrane protein FLRT3
 cgnc_id: '6617'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Citation: "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Tomas+2011+Certal+FLRT3+Rodriguez-Leon\r\
     \n"
   Comments: Probe for flrt3 was obtained from chicken EST ChEST840j5.
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428552
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426107
-gene_id: '461103'
+gene_id: '428552'
 gene_type: protein-coding
 images:
 - caption: FLRT3 expression
@@ -357,13 +356,8 @@ images:
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tomas.Fig1.Flrt3.H.HH29.jpg
 name: fibronectin leucine rich transmembrane protein 3
-ncbi_id: '461103'
+ncbi_id: '428552'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000125848
   entrez: '23767'
   mod: MIM:604808
@@ -374,23 +368,23 @@ orthologs:
   mod: MGI:1918686
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100144692,503672
-  mod: '490900'
+- ensembl: ENSXETG00000008706
+  entrez: '100144692'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000076895
   entrez: '558864'
   mod: ZFIN:ZDB-GENE-030131-1988
-  phenotypes: ZDB-GENE-030131-1988
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461103
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428552
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461103
+  url: https://www.ncbi.nlm.nih.gov/gene/428552
 species: Gallus gallus
 symbol: FLRT3
 title: FLRT3
@@ -418,9 +412,8 @@ title: FLRT3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000125848](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125848) | [23767](https://www.ncbi.nlm.nih.gov/gene/23767) | [MIM:604808](https://omim.org/entry/604808) |  |
 | Mouse | [ENSMUSG00000051379](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000051379) | [71436](https://www.ncbi.nlm.nih.gov/gene/71436) | [MGI:1918686](http://www.informatics.jax.org/marker/MGI:1918686) | All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2) |
-| Xenopus |  | [100144692](https://www.ncbi.nlm.nih.gov/gene/100144692), [503672](https://www.ncbi.nlm.nih.gov/gene/503672) | [490900](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490900) |  |
-| Zebrafish | [ENSDARG00000076895](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076895) | [558864](https://www.ncbi.nlm.nih.gov/gene/558864) | [ZFIN:ZDB-GENE-030131-1988](https://zfin.org/ZDB-GENE-030131-1988) | ZDB-GENE-030131-1988 |
+| Xenopus | [ENSXETG00000008706](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008706) | [100144692](https://www.ncbi.nlm.nih.gov/gene/100144692) |  |  |
+| Zebrafish | [ENSDARG00000076895](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076895) | [558864](https://www.ncbi.nlm.nih.gov/gene/558864) | [ZFIN:ZDB-GENE-030131-1988](https://zfin.org/ZDB-GENE-030131-1988) |  |
 

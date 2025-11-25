@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396427
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005525
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205445
-gene_id: '460951'
+gene_id: '396427'
 gene_type: protein-coding
 images:
 - caption: TUBB1 expression
@@ -29,37 +29,28 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TUBB1.FIG5EG.AGARWALA.2005.jpg
 name: tubulin beta 1 class VI
-ncbi_id: '460951'
+ncbi_id: '396427'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000101162
   entrez: '81027'
   mod: MIM:612901
   phenotypes: MIM:613112
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000016255
   entrez: '545486'
   mod: MGI:107814
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000053066
   entrez: '558552'
   mod: ZFIN:ZDB-GENE-110408-5
-  phenotypes: ZDB-GENE-110408-5
+  phenotypes: microtubule cytoskeleton organization, microtubule-based process, mitotic
+    cell cycle
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460951
+  url: https://www.ncbi.nlm.nih.gov/gene/396427
 species: Gallus gallus
 symbol: TUBB1
 title: TUBB1
@@ -89,9 +80,7 @@ title: TUBB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000101162](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101162) | [81027](https://www.ncbi.nlm.nih.gov/gene/81027) | [MIM:612901](https://omim.org/entry/612901) | MIM:613112 |
-| Mouse |  | [545486](https://www.ncbi.nlm.nih.gov/gene/545486) | [MGI:107814](http://www.informatics.jax.org/marker/MGI:107814) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000053066](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053066) | [558552](https://www.ncbi.nlm.nih.gov/gene/558552) | [ZFIN:ZDB-GENE-110408-5](https://zfin.org/ZDB-GENE-110408-5) | ZDB-GENE-110408-5 |
+| Mouse | [ENSMUSG00000016255](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000016255) | [545486](https://www.ncbi.nlm.nih.gov/gene/545486) | [MGI:107814](http://www.informatics.jax.org/marker/MGI:107814) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
+| Zebrafish | [ENSDARG00000053066](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053066) | [558552](https://www.ncbi.nlm.nih.gov/gene/558552) | [ZFIN:ZDB-GENE-110408-5](https://zfin.org/ZDB-GENE-110408-5) | microtubule cytoskeleton organization, microtubule-based process, mitotic cell cycle |
 

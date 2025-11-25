@@ -26,7 +26,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396478
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005201
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415943
-gene_id: '461117'
+gene_id: '396478'
 gene_type: protein-coding
 images:
 - caption: LAMB1 expression
@@ -51,13 +51,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/laminin.Dias da Silva.2007.Figure3C.jpg
 name: laminin subunit beta 1
-ncbi_id: '461117'
+ncbi_id: '396478'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000091136
   entrez: '3912'
   mod: MIM:150240
@@ -68,20 +63,21 @@ orthologs:
   mod: MGI:96743
   phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000012279
   entrez: '100495516'
-  mod: '1011013'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000045524
-  entrez: 286830,556605
-  mod: ZFIN:ZDB-GENE-021226-1,ZFIN:ZDB-GENE-041210-197
-  phenotypes: ZDB-GENE-021226-1,ZDB-GENE-041210-197
+- ensembl: ENSDARG00000101209
+  entrez: '286830'
+  mod: ZFIN:ZDB-GENE-021226-1
+  phenotypes: animal organ morphogenesis, axon guidance, basement membrane assembly,
+    brain development, brain morphogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461117
+  url: https://www.ncbi.nlm.nih.gov/gene/396478
 species: Gallus gallus
 symbol: LAMB1
 title: LAMB1
@@ -112,9 +108,8 @@ Copyright © 2007 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000091136](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000091136) | [3912](https://www.ncbi.nlm.nih.gov/gene/3912) | [MIM:150240](https://omim.org/entry/150240) |  |
 | Mouse | [ENSMUSG00000002900](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002900) | [16777](https://www.ncbi.nlm.nih.gov/gene/16777) | [MGI:96743](http://www.informatics.jax.org/marker/MGI:96743) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [100495516](https://www.ncbi.nlm.nih.gov/gene/100495516) | [1011013](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1011013) |  |
-| Zebrafish | [ENSDARG00000045524](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045524) | [286830](https://www.ncbi.nlm.nih.gov/gene/286830), [556605](https://www.ncbi.nlm.nih.gov/gene/556605) | [ZFIN:ZDB-GENE-021226-1](https://zfin.org/ZDB-GENE-021226-1), [ZFIN:ZDB-GENE-041210-197](https://zfin.org/ZDB-GENE-041210-197) | ZDB-GENE-021226-1,ZDB-GENE-041210-197 |
+| Xenopus | [ENSXETG00000012279](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012279) | [100495516](https://www.ncbi.nlm.nih.gov/gene/100495516) |  |  |
+| Zebrafish | [ENSDARG00000101209](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101209) | [286830](https://www.ncbi.nlm.nih.gov/gene/286830) | [ZFIN:ZDB-GENE-021226-1](https://zfin.org/ZDB-GENE-021226-1) | animal organ morphogenesis, axon guidance, basement membrane assembly, brain development, brain morphogenesis |
 

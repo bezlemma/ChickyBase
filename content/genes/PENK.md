@@ -3,13 +3,12 @@ aliases:
 - proenkephalin-A
 cgnc_id: '11490'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/421131
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421131
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419213
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/PENK
-gene_id: '459705'
+gene_id: '421131'
 gene_type: protein-coding
 images:
 - caption: PENK expression
@@ -181,13 +180,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R317.PENK.S25R.001.jpg
 name: proenkephalin
-ncbi_id: '459705'
+ncbi_id: '421131'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000181195
   entrez: '5179'
   mod: MIM:131330
@@ -198,23 +192,24 @@ orthologs:
   mod: MGI:104629
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(4)
   species: Mouse
-- ensembl: ''
-  entrez: 548461,495184
-  mod: '942759'
+- ensembl: ENSXETG00000005657
+  entrez: '548461'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000004869
-  entrez: 368228,360136
-  mod: ZFIN:ZDB-GENE-030729-31,ZFIN:ZDB-GENE-030729-3
-  phenotypes: ZDB-GENE-030729-31,ZDB-GENE-030729-3
+  entrez: '368228'
+  mod: ZFIN:ZDB-GENE-030729-31
+  phenotypes: chemical synaptic transmission, neuropeptide signaling pathway, sensory
+    perception
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459705
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421131
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459705
+  url: https://www.ncbi.nlm.nih.gov/gene/421131
 species: Gallus gallus
 symbol: PENK
 title: PENK
@@ -236,9 +231,8 @@ title: PENK
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000181195](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000181195) | [5179](https://www.ncbi.nlm.nih.gov/gene/5179) | [MIM:131330](https://omim.org/entry/131330) |  |
 | Mouse | [ENSMUSG00000045573](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000045573) | [18619](https://www.ncbi.nlm.nih.gov/gene/18619) | [MGI:104629](http://www.informatics.jax.org/marker/MGI:104629) | All phenotypic alleles (4):Targeted, knock-out(4) |
-| Xenopus |  | [548461](https://www.ncbi.nlm.nih.gov/gene/548461), [495184](https://www.ncbi.nlm.nih.gov/gene/495184) | [942759](http://www.xenbase.org/gene/showgene.do?method=display&geneId=942759) |  |
-| Zebrafish | [ENSDARG00000004869](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004869) | [368228](https://www.ncbi.nlm.nih.gov/gene/368228), [360136](https://www.ncbi.nlm.nih.gov/gene/360136) | [ZFIN:ZDB-GENE-030729-31](https://zfin.org/ZDB-GENE-030729-31), [ZFIN:ZDB-GENE-030729-3](https://zfin.org/ZDB-GENE-030729-3) | ZDB-GENE-030729-31,ZDB-GENE-030729-3 |
+| Xenopus | [ENSXETG00000005657](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005657) | [548461](https://www.ncbi.nlm.nih.gov/gene/548461) |  |  |
+| Zebrafish | [ENSDARG00000004869](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004869) | [368228](https://www.ncbi.nlm.nih.gov/gene/368228) | [ZFIN:ZDB-GENE-030729-31](https://zfin.org/ZDB-GENE-030729-31) | chemical synaptic transmission, neuropeptide signaling pathway, sensory perception |
 

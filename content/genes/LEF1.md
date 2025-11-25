@@ -4,7 +4,6 @@ aliases:
 - lymphiod enhancer binding factor 1
 cgnc_id: '7997'
 external_ids:
-  '19': stage 19
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Antoni+craniofacial+wnt+fu
   Comments: 'As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI (acc
@@ -17,7 +16,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205013
   X-XIV: stage XIstage XIII
-gene_id: '450784'
+gene_id: '395865'
 gene_type: protein-coding
 images:
 - caption: LEF1 expression
@@ -512,13 +511,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Lef1.Geetha-Loganathan.2009
     for figure 7 stage 28.png
 name: lymphoid enhancer binding factor 1
-ncbi_id: '450784'
+ncbi_id: '395865'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138795
   entrez: '51176'
   mod: MIM:153245
@@ -529,23 +523,24 @@ orthologs:
   mod: MGI:96770
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100493178,398238
-  mod: '485516'
+- ensembl: ENSXETG00000021102
+  entrez: '100493178'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000031894
   entrez: '30701'
   mod: ZFIN:ZDB-GENE-990714-26
-  phenotypes: ZDB-GENE-990714-26
+  phenotypes: Wnt signaling pathway, canonical Wnt signaling pathway, caudal fin development,
+    cell differentiation, epithelium development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450784
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395865
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450784
+  url: https://www.ncbi.nlm.nih.gov/gene/395865
 species: Gallus gallus
 symbol: LEF1
 title: LEF1
@@ -572,9 +567,8 @@ title: LEF1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000138795](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138795) | [51176](https://www.ncbi.nlm.nih.gov/gene/51176) | [MIM:153245](https://omim.org/entry/153245) | MIM:153245 |
 | Mouse | [ENSMUSG00000027985](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027985) | [16842](https://www.ncbi.nlm.nih.gov/gene/16842) | [MGI:96770](http://www.informatics.jax.org/marker/MGI:96770) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100493178](https://www.ncbi.nlm.nih.gov/gene/100493178), [398238](https://www.ncbi.nlm.nih.gov/gene/398238) | [485516](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485516) |  |
-| Zebrafish | [ENSDARG00000031894](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031894) | [30701](https://www.ncbi.nlm.nih.gov/gene/30701) | [ZFIN:ZDB-GENE-990714-26](https://zfin.org/ZDB-GENE-990714-26) | ZDB-GENE-990714-26 |
+| Xenopus | [ENSXETG00000021102](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021102) | [100493178](https://www.ncbi.nlm.nih.gov/gene/100493178) |  |  |
+| Zebrafish | [ENSDARG00000031894](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031894) | [30701](https://www.ncbi.nlm.nih.gov/gene/30701) | [ZFIN:ZDB-GENE-990714-26](https://zfin.org/ZDB-GENE-990714-26) | Wnt signaling pathway, canonical Wnt signaling pathway, caudal fin development, cell differentiation, epithelium development |
 

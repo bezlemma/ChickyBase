@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395704
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204888
-gene_id: '449819'
+gene_id: '395704'
 gene_type: protein-coding
 images:
 - caption: FGF12 expression
@@ -35,37 +35,32 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Karabagli.Fig3.Fgf12.jpg
 name: fibroblast growth factor 12
-ncbi_id: '449819'
+ncbi_id: '395704'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000114279
   entrez: '2257'
   mod: MIM:601513
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000022523
   entrez: '14167'
   mod: MGI:109183
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100101804,444635
-  mod: '479998'
+- ensembl: ENSXETG00000002144
+  entrez: '100101804'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000027957,ENSDARG00000062542
-  entrez: 777735,751749
-  mod: ZFIN:ZDB-GENE-050221-6,ZFIN:ZDB-GENE-060825-134
-  phenotypes: ZDB-GENE-050221-6,ZDB-GENE-060825-134
+- ensembl: ENSDARG00000027957
+  entrez: '777735'
+  mod: ZFIN:ZDB-GENE-050221-6
+  phenotypes: neurogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449819
+  url: https://www.ncbi.nlm.nih.gov/gene/395704
 species: Gallus gallus
 symbol: FGF12
 title: FGF12
@@ -90,9 +85,8 @@ title: FGF12
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000114279](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000114279) | [2257](https://www.ncbi.nlm.nih.gov/gene/2257) | [MIM:601513](https://omim.org/entry/601513) |  |
-| Mouse |  | [14167](https://www.ncbi.nlm.nih.gov/gene/14167) | [MGI:109183](http://www.informatics.jax.org/marker/MGI:109183) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100101804](https://www.ncbi.nlm.nih.gov/gene/100101804), [444635](https://www.ncbi.nlm.nih.gov/gene/444635) | [479998](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479998) |  |
-| Zebrafish | [ENSDARG00000027957](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027957), [ENSDARG00000062542](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062542) | [777735](https://www.ncbi.nlm.nih.gov/gene/777735), [751749](https://www.ncbi.nlm.nih.gov/gene/751749) | [ZFIN:ZDB-GENE-050221-6](https://zfin.org/ZDB-GENE-050221-6), [ZFIN:ZDB-GENE-060825-134](https://zfin.org/ZDB-GENE-060825-134) | ZDB-GENE-050221-6,ZDB-GENE-060825-134 |
+| Mouse | [ENSMUSG00000022523](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022523) | [14167](https://www.ncbi.nlm.nih.gov/gene/14167) | [MGI:109183](http://www.informatics.jax.org/marker/MGI:109183) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
+| Xenopus | [ENSXETG00000002144](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002144) | [100101804](https://www.ncbi.nlm.nih.gov/gene/100101804) |  |  |
+| Zebrafish | [ENSDARG00000027957](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027957) | [777735](https://www.ncbi.nlm.nih.gov/gene/777735) | [ZFIN:ZDB-GENE-050221-6](https://zfin.org/ZDB-GENE-050221-6) | neurogenesis |
 

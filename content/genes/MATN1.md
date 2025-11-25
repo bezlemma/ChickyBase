@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396505
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030375
 forward_primer: TTCCTTCCTTTGTATGGAGGGC
-gene_id: '460190'
+gene_id: '396505'
 gene_type: protein-coding
 images:
 - caption: MATN1 expression
@@ -99,13 +99,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R498.MATN1.S26AAA.001.jpg
 name: matrilin 1, cartilage matrix protein
-ncbi_id: '460190'
+ncbi_id: '396505'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000162510
   entrez: '4146'
   mod: MIM:115437
@@ -116,24 +111,24 @@ orthologs:
   mod: MGI:106591
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 595001,379491
-  mod: '957558'
+- ensembl: ENSXETG00000005940
+  entrez: '595001'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000030215
   entrez: '403023'
   mod: ZFIN:ZDB-GENE-050307-3
-  phenotypes: ZDB-GENE-050307-3
+  phenotypes: cartilage development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAGCAGCAGTTTCCTGGGTTCTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460190
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396505
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460190
+  url: https://www.ncbi.nlm.nih.gov/gene/396505
 species: Gallus gallus
 symbol: MATN1
 template_length: '761'
@@ -156,9 +151,8 @@ title: MATN1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000162510](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162510) | [4146](https://www.ncbi.nlm.nih.gov/gene/4146) | [MIM:115437](https://omim.org/entry/115437) |  |
 | Mouse | [ENSMUSG00000040533](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040533) | [17180](https://www.ncbi.nlm.nih.gov/gene/17180) | [MGI:106591](http://www.informatics.jax.org/marker/MGI:106591) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [595001](https://www.ncbi.nlm.nih.gov/gene/595001), [379491](https://www.ncbi.nlm.nih.gov/gene/379491) | [957558](http://www.xenbase.org/gene/showgene.do?method=display&geneId=957558) |  |
-| Zebrafish | [ENSDARG00000030215](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030215) | [403023](https://www.ncbi.nlm.nih.gov/gene/403023) | [ZFIN:ZDB-GENE-050307-3](https://zfin.org/ZDB-GENE-050307-3) | ZDB-GENE-050307-3 |
+| Xenopus | [ENSXETG00000005940](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005940) | [595001](https://www.ncbi.nlm.nih.gov/gene/595001) |  |  |
+| Zebrafish | [ENSDARG00000030215](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030215) | [403023](https://www.ncbi.nlm.nih.gov/gene/403023) | [ZFIN:ZDB-GENE-050307-3](https://zfin.org/ZDB-GENE-050307-3) | cartilage development |
 

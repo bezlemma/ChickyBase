@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395429
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030541
-gene_id: '449209'
+gene_id: '395429'
 gene_type: protein-coding
 images:
 - caption: POSTN expression
@@ -139,13 +139,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/POSTN.Anderson.2019.Supplementary
     figure 5F.jpg
 name: periostin
-ncbi_id: '449209'
+ncbi_id: '395429'
 orthologs:
-- ensembl: ''
-  entrez: '41455'
-  mod: FBgn0260745
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000133110
   entrez: '10631'
   mod: MIM:608777
@@ -156,20 +151,20 @@ orthologs:
   mod: MGI:1926321
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000001812
   entrez: '100127174'
-  mod: '478501'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000061219,ENSDARG00000043806
-  entrez: 337176,378983
-  mod: ZFIN:ZDB-GENE-030131-9120,ZFIN:ZDB-GENE-091113-23
-  phenotypes: ZDB-GENE-030131-9120,ZDB-GENE-091113-23
+- ensembl: ENSDARG00000043806
+  entrez: '378983'
+  mod: ZFIN:ZDB-GENE-091113-23
+  phenotypes: cell adhesion, extracellular matrix organization
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449209
+  url: https://www.ncbi.nlm.nih.gov/gene/395429
 species: Gallus gallus
 symbol: POSTN
 title: POSTN
@@ -197,9 +192,8 @@ title: POSTN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41455](https://www.ncbi.nlm.nih.gov/gene/41455) | FBgn0260745 |  |
 | Human | [ENSG00000133110](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000133110) | [10631](https://www.ncbi.nlm.nih.gov/gene/10631) | [MIM:608777](https://omim.org/entry/608777) |  |
 | Mouse | [ENSMUSG00000027750](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027750) | [50706](https://www.ncbi.nlm.nih.gov/gene/50706) | [MGI:1926321](http://www.informatics.jax.org/marker/MGI:1926321) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100127174](https://www.ncbi.nlm.nih.gov/gene/100127174) | [478501](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478501) |  |
-| Zebrafish | [ENSDARG00000061219](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061219), [ENSDARG00000043806](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043806) | [337176](https://www.ncbi.nlm.nih.gov/gene/337176), [378983](https://www.ncbi.nlm.nih.gov/gene/378983) | [ZFIN:ZDB-GENE-030131-9120](https://zfin.org/ZDB-GENE-030131-9120), [ZFIN:ZDB-GENE-091113-23](https://zfin.org/ZDB-GENE-091113-23) | ZDB-GENE-030131-9120,ZDB-GENE-091113-23 |
+| Xenopus | [ENSXETG00000001812](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001812) | [100127174](https://www.ncbi.nlm.nih.gov/gene/100127174) |  |  |
+| Zebrafish | [ENSDARG00000043806](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043806) | [378983](https://www.ncbi.nlm.nih.gov/gene/378983) | [ZFIN:ZDB-GENE-091113-23](https://zfin.org/ZDB-GENE-091113-23) | cell adhesion, extracellular matrix organization |
 

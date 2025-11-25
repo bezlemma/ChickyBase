@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395531
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419556
-gene_id: '449629'
+gene_id: '395531'
 gene_type: protein-coding
 images:
 - caption: NID1 expression
@@ -112,13 +112,8 @@ images:
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NIDOGEN1.Halfter.2008.f2.nidogen1.png
 name: nidogen 1
-ncbi_id: '449629'
+ncbi_id: '395531'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000116962
   entrez: '4811'
   mod: MIM:131390
@@ -129,23 +124,23 @@ orthologs:
   mod: MGI:97342
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000016220
   entrez: '100493221'
-  mod: '1003555'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: 100330039,562690,562429
-  mod: ZFIN:ZDB-GENE-050302-58,ZFIN:ZDB-GENE-070802-3
-  phenotypes: ZDB-GENE-050302-58,ZDB-GENE-070802-3
+- ensembl: ENSDARG00000068710
+  entrez: '562690'
+  mod: ZFIN:ZDB-GENE-050302-58
+  phenotypes: cell adhesion, cell-matrix adhesion, epithelial cell differentiation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449629
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395531
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449629
+  url: https://www.ncbi.nlm.nih.gov/gene/395531
 species: Gallus gallus
 symbol: NID1
 title: NID1
@@ -171,9 +166,8 @@ title: NID1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000116962](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000116962) | [4811](https://www.ncbi.nlm.nih.gov/gene/4811) | [MIM:131390](https://omim.org/entry/131390) |  |
 | Mouse | [ENSMUSG00000005397](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005397) | [18073](https://www.ncbi.nlm.nih.gov/gene/18073) | [MGI:97342](http://www.informatics.jax.org/marker/MGI:97342) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100493221](https://www.ncbi.nlm.nih.gov/gene/100493221) | [1003555](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1003555) |  |
-| Zebrafish |  | [100330039](https://www.ncbi.nlm.nih.gov/gene/100330039), [562690](https://www.ncbi.nlm.nih.gov/gene/562690), [562429](https://www.ncbi.nlm.nih.gov/gene/562429) | [ZFIN:ZDB-GENE-050302-58](https://zfin.org/ZDB-GENE-050302-58), [ZFIN:ZDB-GENE-070802-3](https://zfin.org/ZDB-GENE-070802-3) | ZDB-GENE-050302-58,ZDB-GENE-070802-3 |
+| Xenopus | [ENSXETG00000016220](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016220) | [100493221](https://www.ncbi.nlm.nih.gov/gene/100493221) |  |  |
+| Zebrafish | [ENSDARG00000068710](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068710) | [562690](https://www.ncbi.nlm.nih.gov/gene/562690) | [ZFIN:ZDB-GENE-050302-58](https://zfin.org/ZDB-GENE-050302-58) | cell adhesion, cell-matrix adhesion, epithelial cell differentiation |
 

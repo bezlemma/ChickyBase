@@ -3,13 +3,12 @@ aliases:
 - tolloid
 cgnc_id: '49938'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/414883
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001236766
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATTCCGCAGCAGCAGCAACTG
-gene_id: '460555'
+gene_id: '414883'
 gene_type: protein-coding
 images:
 - caption: BMP1 expression
@@ -119,7 +118,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R227.BMP1.S25.01.jpg
 name: bone morphogenetic protein 1
-ncbi_id: '460555'
+ncbi_id: '414883'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -150,10 +149,10 @@ reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGCCTTGAAGCCCCTCTTGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460555
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=414883
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460555
+  url: https://www.ncbi.nlm.nih.gov/gene/414883
 species: Gallus gallus
 symbol: BMP1
 template_length: '847'

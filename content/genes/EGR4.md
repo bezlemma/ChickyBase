@@ -1,8 +1,6 @@
 ---
 cgnc_id: '12020'
 external_ids:
-  '13': stage 13stage 13
-  '25': stage 25stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Yuan+clmx1+neurulation+1999
   Comments: 'Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (Acc. # AF291747.1).'
@@ -12,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422950
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420888
-gene_id: '452324'
+gene_id: '422950'
 gene_type: protein-coding
 images:
 - caption: EGR4 expression
@@ -251,13 +249,8 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Litsiou.2005.f4.krox20.png
 name: early growth response 4
-ncbi_id: '452324'
+ncbi_id: '422950'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000135625
   entrez: '1961'
   mod: MIM:128992
@@ -268,23 +261,18 @@ orthologs:
   mod: MGI:99252
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000040986
   entrez: '100487839'
-  mod: '988080'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452324
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422950
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452324
+  url: https://www.ncbi.nlm.nih.gov/gene/422950
 species: Gallus gallus
 symbol: EGR4
 title: EGR4
@@ -310,9 +298,7 @@ title: EGR4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000135625](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135625) | [1961](https://www.ncbi.nlm.nih.gov/gene/1961) | [MIM:128992](https://omim.org/entry/128992) |  |
 | Mouse | [ENSMUSG00000071341](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000071341) | [13656](https://www.ncbi.nlm.nih.gov/gene/13656) | [MGI:99252](http://www.informatics.jax.org/marker/MGI:99252) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100487839](https://www.ncbi.nlm.nih.gov/gene/100487839) | [988080](http://www.xenbase.org/gene/showgene.do?method=display&geneId=988080) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000040986](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000040986) | [100487839](https://www.ncbi.nlm.nih.gov/gene/100487839) |  |  |
 

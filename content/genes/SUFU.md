@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374118
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204264
-gene_id: '455687'
+gene_id: '374118'
 gene_type: protein-coding
 images:
 - caption: SUFU expression
@@ -60,13 +60,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SUFU.FIG4E.AGARWALA.2005.jpg
 name: SUFU negative regulator of hedgehog signaling
-ncbi_id: '455687'
+ncbi_id: '374118'
 orthologs:
-- ensembl: ''
-  entrez: '41565'
-  mod: FBgn0005355
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000107882
   entrez: '51684'
   mod: MIM:607035
@@ -78,20 +73,22 @@ orthologs:
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(2) Targeted, other(5)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100170148,444442
-  mod: '479288'
+- ensembl: ENSXETG00000015219
+  entrez: '100170148'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000056801
   entrez: '100001615'
   mod: ZFIN:ZDB-GENE-030131-6223
-  phenotypes: ZDB-GENE-030131-6223
+  phenotypes: fin development, hemopoiesis, lens development in camera-type eye, negative
+    regulation of smoothened signaling pathway, negative regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455687
+  url: https://www.ncbi.nlm.nih.gov/gene/374118
 species: Gallus gallus
 symbol: SUFU
 title: SUFU
@@ -120,9 +117,8 @@ title: SUFU
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41565](https://www.ncbi.nlm.nih.gov/gene/41565) | FBgn0005355 |  |
 | Human | [ENSG00000107882](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107882) | [51684](https://www.ncbi.nlm.nih.gov/gene/51684) | [MIM:607035](https://omim.org/entry/607035) | MIM:155255 |
 | Mouse | [ENSMUSG00000025231](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025231) | [24069](https://www.ncbi.nlm.nih.gov/gene/24069) | [MGI:1345643](http://www.informatics.jax.org/marker/MGI:1345643) | All phenotypic alleles (8):Targeted, knock-out(2) Targeted, other(5) Gene trapped(1) |
-| Xenopus |  | [100170148](https://www.ncbi.nlm.nih.gov/gene/100170148), [444442](https://www.ncbi.nlm.nih.gov/gene/444442) | [479288](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479288) |  |
-| Zebrafish |  | [100001615](https://www.ncbi.nlm.nih.gov/gene/100001615) | [ZFIN:ZDB-GENE-030131-6223](https://zfin.org/ZDB-GENE-030131-6223) | ZDB-GENE-030131-6223 |
+| Xenopus | [ENSXETG00000015219](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015219) | [100170148](https://www.ncbi.nlm.nih.gov/gene/100170148) |  |  |
+| Zebrafish | [ENSDARG00000056801](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056801) | [100001615](https://www.ncbi.nlm.nih.gov/gene/100001615) | [ZFIN:ZDB-GENE-030131-6223](https://zfin.org/ZDB-GENE-030131-6223) | fin development, hemopoiesis, lens development in camera-type eye, negative regulation of smoothened signaling pathway, negative regulation of transcription by RNA polymerase II |
 

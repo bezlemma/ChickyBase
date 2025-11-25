@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415340
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030392
-gene_id: '456483'
+gene_id: '415340'
 gene_type: protein-coding
 images:
 - caption: OR6B1 expression
@@ -37,13 +37,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COR7.Nef.1996.Fig4.jpg
 name: olfactory receptor family 6 subfamily B member 1
-ncbi_id: '456483'
+ncbi_id: '415340'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000221813
   entrez: '135946'
   mod: ''
@@ -54,20 +49,15 @@ orthologs:
   mod: MGI:3030283
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '6045019'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000001739
+  entrez: '100486033'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456483
+  url: https://www.ncbi.nlm.nih.gov/gene/415340
 species: Gallus gallus
 symbol: OR6B1
 title: OR6B1
@@ -93,9 +83,7 @@ title: OR6B1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000221813](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000221813) | [135946](https://www.ncbi.nlm.nih.gov/gene/135946) |  |  |
 | Mouse | [ENSMUSG00000049168](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049168) | [259067](https://www.ncbi.nlm.nih.gov/gene/259067) | [MGI:3030283](http://www.informatics.jax.org/marker/MGI:3030283) |  |
-| Xenopus |  |  | [6045019](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6045019) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000001739](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001739) | [100486033](https://www.ncbi.nlm.nih.gov/gene/100486033) |  |  |
 

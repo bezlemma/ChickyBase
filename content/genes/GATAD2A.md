@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420109
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012552
 forward_primer: 5’-GCACAGCAAATCCACAAC-3’
-gene_id: '458573'
+gene_id: '420109'
 gene_type: protein-coding
 images:
 - caption: GATAD2A expression
@@ -86,13 +86,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R694.GATAD2A.S26.001.jpg
 name: GATA zinc finger domain containing 2A
-ncbi_id: '458573'
+ncbi_id: '420109'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000167491
   entrez: '54815'
   mod: MIM:614997
@@ -103,24 +98,25 @@ orthologs:
   mod: MGI:2384585
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 549596,398154
-  mod: '1015729'
+- ensembl: ENSXETG00000013053
+  entrez: '549596'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000006192
   entrez: '405852'
-  mod: ZFIN:ZDB-GENE-040426-2372,ZFIN:ZDB-GENE-120508-4
-  phenotypes: ZDB-GENE-040426-2372,ZDB-GENE-120508-4
+  mod: ZFIN:ZDB-GENE-040426-2372
+  phenotypes: negative regulation of transcription by RNA polymerase II, regulation
+    of DNA-templated transcription
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGTTCTGCAACTTGGGTGAC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458573
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420109
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458573
+  url: https://www.ncbi.nlm.nih.gov/gene/420109
 species: Gallus gallus
 symbol: GATAD2A
 template_length: '824'
@@ -143,9 +139,8 @@ title: GATAD2A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000167491](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000167491) | [54815](https://www.ncbi.nlm.nih.gov/gene/54815) | [MIM:614997](https://omim.org/entry/614997) |  |
 | Mouse | [ENSMUSG00000036180](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036180) | [234366](https://www.ncbi.nlm.nih.gov/gene/234366) | [MGI:2384585](http://www.informatics.jax.org/marker/MGI:2384585) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [549596](https://www.ncbi.nlm.nih.gov/gene/549596), [398154](https://www.ncbi.nlm.nih.gov/gene/398154) | [1015729](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1015729) |  |
-| Zebrafish | [ENSDARG00000006192](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006192) | [405852](https://www.ncbi.nlm.nih.gov/gene/405852) | [ZFIN:ZDB-GENE-040426-2372](https://zfin.org/ZDB-GENE-040426-2372), [ZFIN:ZDB-GENE-120508-4](https://zfin.org/ZDB-GENE-120508-4) | ZDB-GENE-040426-2372,ZDB-GENE-120508-4 |
+| Xenopus | [ENSXETG00000013053](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013053) | [549596](https://www.ncbi.nlm.nih.gov/gene/549596) |  |  |
+| Zebrafish | [ENSDARG00000006192](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006192) | [405852](https://www.ncbi.nlm.nih.gov/gene/405852) | [ZFIN:ZDB-GENE-040426-2372](https://zfin.org/ZDB-GENE-040426-2372) | negative regulation of transcription by RNA polymerase II, regulation of DNA-templated transcription |
 

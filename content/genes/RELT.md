@@ -4,7 +4,6 @@ aliases:
 - RELT tumor necrosis factor receptor
 cgnc_id: '13016'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0262562
   Comments: No expression detected at or before stage 5.
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/42137
@@ -13,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419067
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640622
 forward_primer: CCAGATTGAGGATGCCAACG
-gene_id: '456018'
+gene_id: '419067'
 gene_type: protein-coding
 images:
 - caption: RELT expression
@@ -135,41 +134,31 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R361.ARHGEF17.S25.001.jpg
 name: RELT, TNF receptor
-ncbi_id: '456018'
+ncbi_id: '419067'
 orthologs:
-- ensembl: ''
-  entrez: '42137'
-  mod: FBgn0262562
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000110237
-  entrez: '9828'
-  mod: ''
+- ensembl: ENSG00000054967
+  entrez: '84957'
+  mod: MIM:611211
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000032875
-  entrez: '207212'
-  mod: MGI:2673002
+- ensembl: ENSMUSG00000008318
+  entrez: '320100'
+  mod: MGI:2443373
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: '100489655'
-  mod: '6044613'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: 100333630,335662
-  mod: ZFIN:ZDB-GENE-061207-93
-  phenotypes: ZDB-GENE-061207-93
+- ensembl: ENSDARG00000099724
+  entrez: '404605'
+  mod: ZFIN:ZDB-GENE-040426-2361
+  phenotypes: apoptotic process
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAGCAGTGATGGTGAGGACAGGTAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456018
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419067
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456018
+  url: https://www.ncbi.nlm.nih.gov/gene/419067
 species: Gallus gallus
 symbol: RELT
 template_length: '813'
@@ -195,9 +184,7 @@ title: RELT
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42137](https://www.ncbi.nlm.nih.gov/gene/42137) | FBgn0262562 |  |
-| Human | [ENSG00000110237](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000110237) | [9828](https://www.ncbi.nlm.nih.gov/gene/9828) |  |  |
-| Mouse | [ENSMUSG00000032875](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032875) | [207212](https://www.ncbi.nlm.nih.gov/gene/207212) | [MGI:2673002](http://www.informatics.jax.org/marker/MGI:2673002) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100489655](https://www.ncbi.nlm.nih.gov/gene/100489655) | [6044613](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6044613) |  |
-| Zebrafish |  | [100333630](https://www.ncbi.nlm.nih.gov/gene/100333630), [335662](https://www.ncbi.nlm.nih.gov/gene/335662) | [ZFIN:ZDB-GENE-061207-93](https://zfin.org/ZDB-GENE-061207-93) | ZDB-GENE-061207-93 |
+| Human | [ENSG00000054967](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000054967) | [84957](https://www.ncbi.nlm.nih.gov/gene/84957) | [MIM:611211](https://omim.org/entry/611211) |  |
+| Mouse | [ENSMUSG00000008318](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000008318) | [320100](https://www.ncbi.nlm.nih.gov/gene/320100) | [MGI:2443373](http://www.informatics.jax.org/marker/MGI:2443373) | All phenotypic alleles (1):Targeted, knock-out(1) |
+| Zebrafish | [ENSDARG00000099724](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099724) | [404605](https://www.ncbi.nlm.nih.gov/gene/404605) | [ZFIN:ZDB-GENE-040426-2361](https://zfin.org/ZDB-GENE-040426-2361) | apoptotic process |
 

@@ -5,7 +5,6 @@ aliases:
 - frizzled family receptor 7
 cgnc_id: '49027'
 external_ids:
-  '19': stage 19
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0001085
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007199
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0045177
@@ -20,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374060
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004930
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204221
-gene_id: '454451'
+gene_id: '374060'
 gene_type: protein-coding
 images:
 - caption: FZD7 expression
@@ -339,13 +338,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Frizzled-7.Cauthen.2001.jpg
 name: frizzled class receptor 7
-ncbi_id: '454451'
+ncbi_id: '374060'
 orthologs:
-- ensembl: ''
-  entrez: '45307'
-  mod: FBgn0001085
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000155760
   entrez: '8324'
   mod: MIM:603410
@@ -356,20 +350,15 @@ orthologs:
   mod: MGI:108570
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549495,378787
-  mod: '483730'
+- ensembl: ENSXETG00000012404
+  entrez: '549495'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000027589,ENSDARG00000060004
-  entrez: 30412,30369
-  mod: ZFIN:ZDB-GENE-990415-229,ZFIN:ZDB-GENE-990415-223
-  phenotypes: ZDB-GENE-990415-229,ZDB-GENE-990415-223
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454451
+  url: https://www.ncbi.nlm.nih.gov/gene/374060
 species: Gallus gallus
 symbol: FZD7
 title: FZD7
@@ -400,9 +389,7 @@ title: FZD7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [45307](https://www.ncbi.nlm.nih.gov/gene/45307) | FBgn0001085 |  |
 | Human | [ENSG00000155760](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000155760) | [8324](https://www.ncbi.nlm.nih.gov/gene/8324) | [MIM:603410](https://omim.org/entry/603410) |  |
 | Mouse | [ENSMUSG00000041075](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041075) | [14369](https://www.ncbi.nlm.nih.gov/gene/14369) | [MGI:108570](http://www.informatics.jax.org/marker/MGI:108570) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [549495](https://www.ncbi.nlm.nih.gov/gene/549495), [378787](https://www.ncbi.nlm.nih.gov/gene/378787) | [483730](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483730) |  |
-| Zebrafish | [ENSDARG00000027589](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027589), [ENSDARG00000060004](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060004) | [30412](https://www.ncbi.nlm.nih.gov/gene/30412), [30369](https://www.ncbi.nlm.nih.gov/gene/30369) | [ZFIN:ZDB-GENE-990415-229](https://zfin.org/ZDB-GENE-990415-229), [ZFIN:ZDB-GENE-990415-223](https://zfin.org/ZDB-GENE-990415-223) | ZDB-GENE-990415-229,ZDB-GENE-990415-223 |
+| Xenopus | [ENSXETG00000012404](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012404) | [549495](https://www.ncbi.nlm.nih.gov/gene/549495) |  |  |
 

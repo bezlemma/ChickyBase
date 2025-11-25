@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396389
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005515
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205419
-gene_id: '461657'
+gene_id: '396389'
 gene_type: protein-coding
 images:
 - caption: NTN1 expression
@@ -167,37 +167,28 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hardy.2019-NTN1-fig4S1.jpg
 name: netrin 1
-ncbi_id: '461657'
+ncbi_id: '396389'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000065320
+  entrez: '9423'
+  mod: MIM:601614
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000020902
+  entrez: '18208'
+  mod: MGI:105088
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000105112
+  entrez: '30227'
+  mod: ZFIN:ZDB-GENE-990415-169
+  phenotypes: angiogenesis, animal organ morphogenesis, anterior commissure morphogenesis,
+    anterior/posterior axon guidance, axon extension involved in axon guidance
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461657
+  url: https://www.ncbi.nlm.nih.gov/gene/396389
 species: Gallus gallus
 symbol: NTN1
 title: NTN1
@@ -225,9 +216,7 @@ title: NTN1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000065320](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000065320) | [9423](https://www.ncbi.nlm.nih.gov/gene/9423) | [MIM:601614](https://omim.org/entry/601614) |  |
+| Mouse | [ENSMUSG00000020902](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020902) | [18208](https://www.ncbi.nlm.nih.gov/gene/18208) | [MGI:105088](http://www.informatics.jax.org/marker/MGI:105088) |  |
+| Zebrafish | [ENSDARG00000105112](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000105112) | [30227](https://www.ncbi.nlm.nih.gov/gene/30227) | [ZFIN:ZDB-GENE-990415-169](https://zfin.org/ZDB-GENE-990415-169) | angiogenesis, animal organ morphogenesis, anterior commissure morphogenesis, anterior/posterior axon guidance, axon extension involved in axon guidance |
 

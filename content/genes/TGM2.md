@@ -20,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396432
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0046872
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205448
-gene_id: '461038'
+gene_id: '396432'
 gene_type: protein-coding
 images:
 - caption: TGM2 expression
@@ -59,14 +59,9 @@ images:
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig2.tranglutaminase.D.jpg
 name: transglutaminase 2
-ncbi_id: '461038'
+ncbi_id: '396432'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000198959
   entrez: '7052'
   mod: MIM:190196
   phenotypes: ''
@@ -76,20 +71,22 @@ orthologs:
   mod: MGI:98731
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100170618,386605,443836
-  mod: '5940893'
+- ensembl: ENSXETG00000017323
+  entrez: '100170618'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000074094,ENSDARG00000070157
-  entrez: 100331863,100331147,100331652,100331786,323856,447909
-  mod: ZFIN:ZDB-GENE-030131-2576,ZFIN:ZDB-GENE-040912-78
-  phenotypes: ZDB-GENE-030131-2576,ZDB-GENE-040912-78
+- ensembl: ENSDARG00000074094
+  entrez: '323856'
+  mod: ZFIN:ZDB-GENE-030131-2576
+  phenotypes: nervous system development, peptide cross-linking, phospholipase C-activating
+    G protein-coupled receptor signaling pathway, positive regulation of apoptotic
+    process, proteolysis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461038
+  url: https://www.ncbi.nlm.nih.gov/gene/396432
 species: Gallus gallus
 symbol: TGM2
 title: TGM2
@@ -117,9 +114,8 @@ title: TGM2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [7052](https://www.ncbi.nlm.nih.gov/gene/7052) | [MIM:190196](https://omim.org/entry/190196) |  |
+| Human | [ENSG00000198959](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198959) | [7052](https://www.ncbi.nlm.nih.gov/gene/7052) | [MIM:190196](https://omim.org/entry/190196) |  |
 | Mouse | [ENSMUSG00000037820](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037820) | [21817](https://www.ncbi.nlm.nih.gov/gene/21817) | [MGI:98731](http://www.informatics.jax.org/marker/MGI:98731) | All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3) |
-| Xenopus |  | [100170618](https://www.ncbi.nlm.nih.gov/gene/100170618), [386605](https://www.ncbi.nlm.nih.gov/gene/386605), [443836](https://www.ncbi.nlm.nih.gov/gene/443836) | [5940893](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5940893) |  |
-| Zebrafish | [ENSDARG00000074094](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074094), [ENSDARG00000070157](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070157) | [100331863](https://www.ncbi.nlm.nih.gov/gene/100331863), [100331147](https://www.ncbi.nlm.nih.gov/gene/100331147), [100331652](https://www.ncbi.nlm.nih.gov/gene/100331652), [100331786](https://www.ncbi.nlm.nih.gov/gene/100331786), [323856](https://www.ncbi.nlm.nih.gov/gene/323856), [447909](https://www.ncbi.nlm.nih.gov/gene/447909) | [ZFIN:ZDB-GENE-030131-2576](https://zfin.org/ZDB-GENE-030131-2576), [ZFIN:ZDB-GENE-040912-78](https://zfin.org/ZDB-GENE-040912-78) | ZDB-GENE-030131-2576,ZDB-GENE-040912-78 |
+| Xenopus | [ENSXETG00000017323](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017323) | [100170618](https://www.ncbi.nlm.nih.gov/gene/100170618) |  |  |
+| Zebrafish | [ENSDARG00000074094](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074094) | [323856](https://www.ncbi.nlm.nih.gov/gene/323856) | [ZFIN:ZDB-GENE-030131-2576](https://zfin.org/ZDB-GENE-030131-2576) | nervous system development, peptide cross-linking, phospholipase C-activating G protein-coupled receptor signaling pathway, positive regulation of apoptotic process, proteolysis |
 

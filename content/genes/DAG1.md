@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100049058
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001097540
 forward_primer: 5’-TGACGAACCACATCGACAGG-3’
-gene_id: '450455'
+gene_id: '100049058'
 gene_type: protein-coding
 images:
 - caption: DAG1 expression
@@ -165,41 +165,37 @@ images:
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DAG1.Javerzat.2009.3C.png
 name: dystroglycan 1
-ncbi_id: '450455'
+ncbi_id: '100049058'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000173402
+  entrez: '1605'
+  mod: MIM:128239
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000039952
+  entrez: '13138'
+  mod: MGI:101864
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000005928
+  entrez: '549272'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000016153
+  entrez: '286829'
+  mod: ZFIN:ZDB-GENE-021223-1
+  phenotypes: T-tubule organization, axon guidance, morphogenesis of an epithelium,
+    muscle attachment, muscle cell development
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGACCGACACGTTCAGAGGTT-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450455
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100049058
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450455
+  url: https://www.ncbi.nlm.nih.gov/gene/100049058
 species: Gallus gallus
 symbol: DAG1
 template_length: '626'
@@ -226,9 +222,8 @@ title: DAG1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000173402](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000173402) | [1605](https://www.ncbi.nlm.nih.gov/gene/1605) | [MIM:128239](https://omim.org/entry/128239) |  |
+| Mouse | [ENSMUSG00000039952](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039952) | [13138](https://www.ncbi.nlm.nih.gov/gene/13138) | [MGI:101864](http://www.informatics.jax.org/marker/MGI:101864) |  |
+| Xenopus | [ENSXETG00000005928](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005928) | [549272](https://www.ncbi.nlm.nih.gov/gene/549272) |  |  |
+| Zebrafish | [ENSDARG00000016153](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016153) | [286829](https://www.ncbi.nlm.nih.gov/gene/286829) | [ZFIN:ZDB-GENE-021223-1](https://zfin.org/ZDB-GENE-021223-1) | T-tubule organization, axon guidance, morphogenesis of an epithelium, muscle attachment, muscle cell development |
 

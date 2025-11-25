@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:429029
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641638
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/TBR1
-gene_id: '449618'
+gene_id: '429029'
 gene_type: protein-coding
 images:
 - caption: TBR1 expression
@@ -853,37 +853,34 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Alonso.2020.Fig9__allimages_St40.jpg
 name: T-box, brain, 1
-ncbi_id: '449618'
+ncbi_id: '429029'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000136535
+  entrez: '10716'
+  mod: MIM:604616
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000035033
+  entrez: '21375'
+  mod: MGI:107404
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000016201
+  entrez: '780042'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000004712
+  entrez: '58042'
+  mod: ZFIN:ZDB-GENE-000323-1
+  phenotypes: anatomical structure morphogenesis, cell fate specification, commitment
+    of neuronal cell to specific neuron type in forebrain, epithelium development,
+    positive regulation of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449618
+  url: https://www.ncbi.nlm.nih.gov/gene/429029
 species: Gallus gallus
 symbol: TBR1
 title: TBR1
@@ -910,9 +907,8 @@ title: TBR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000136535](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136535) | [10716](https://www.ncbi.nlm.nih.gov/gene/10716) | [MIM:604616](https://omim.org/entry/604616) |  |
+| Mouse | [ENSMUSG00000035033](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035033) | [21375](https://www.ncbi.nlm.nih.gov/gene/21375) | [MGI:107404](http://www.informatics.jax.org/marker/MGI:107404) |  |
+| Xenopus | [ENSXETG00000016201](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016201) | [780042](https://www.ncbi.nlm.nih.gov/gene/780042) |  |  |
+| Zebrafish | [ENSDARG00000004712](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004712) | [58042](https://www.ncbi.nlm.nih.gov/gene/58042) | [ZFIN:ZDB-GENE-000323-1](https://zfin.org/ZDB-GENE-000323-1) | anatomical structure morphogenesis, cell fate specification, commitment of neuronal cell to specific neuron type in forebrain, epithelium development, positive regulation of DNA-templated transcription |
 

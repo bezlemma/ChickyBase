@@ -3,13 +3,12 @@ aliases:
 - rho-related BTB domain-containing protein 3
 cgnc_id: '10878'
 external_ids:
-  '25': stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000014675
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:431569
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_429123
 forward_primer: GGATTTTGCCTTCACAGGG
-gene_id: '460496'
+gene_id: '431569'
 gene_type: protein-coding
 images:
 - caption: RHOBTB3 expression
@@ -83,13 +82,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R404.RHOBTB3.S25D.001.jpg
 name: Rho related BTB domain containing 3
-ncbi_id: '460496'
+ncbi_id: '431569'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164292
   entrez: '22836'
   mod: MIM:607353
@@ -100,24 +94,25 @@ orthologs:
   mod: MGI:1920546
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000013364
   entrez: '100485375'
-  mod: '983320'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000090036
   entrez: '562804'
   mod: ZFIN:ZDB-GENE-091204-190
-  phenotypes: ZDB-GENE-091204-190
+  phenotypes: proteasome-mediated ubiquitin-dependent protein catabolic process, regulation
+    of proteolysis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCAGTTCCGTCTTCATCTCAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460496
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=431569
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460496
+  url: https://www.ncbi.nlm.nih.gov/gene/431569
 species: Gallus gallus
 symbol: RHOBTB3
 template_length: '900'
@@ -139,9 +134,8 @@ title: RHOBTB3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164292](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164292) | [22836](https://www.ncbi.nlm.nih.gov/gene/22836) | [MIM:607353](https://omim.org/entry/607353) |  |
 | Mouse | [ENSMUSG00000021589](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021589) | [73296](https://www.ncbi.nlm.nih.gov/gene/73296) | [MGI:1920546](http://www.informatics.jax.org/marker/MGI:1920546) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100485375](https://www.ncbi.nlm.nih.gov/gene/100485375) | [983320](http://www.xenbase.org/gene/showgene.do?method=display&geneId=983320) |  |
-| Zebrafish | [ENSDARG00000090036](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000090036) | [562804](https://www.ncbi.nlm.nih.gov/gene/562804) | [ZFIN:ZDB-GENE-091204-190](https://zfin.org/ZDB-GENE-091204-190) | ZDB-GENE-091204-190 |
+| Xenopus | [ENSXETG00000013364](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013364) | [100485375](https://www.ncbi.nlm.nih.gov/gene/100485375) |  |  |
+| Zebrafish | [ENSDARG00000090036](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000090036) | [562804](https://www.ncbi.nlm.nih.gov/gene/562804) | [ZFIN:ZDB-GENE-091204-190](https://zfin.org/ZDB-GENE-091204-190) | proteasome-mediated ubiquitin-dependent protein catabolic process, regulation of proteolysis |
 

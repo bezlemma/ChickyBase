@@ -3,13 +3,12 @@ aliases:
 - cyclic AMP-dependent transcription factor ATF-1
 cgnc_id: '4567'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/426873
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426873
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424481
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGGATTCTCAGGACTCATCAGACAGC
-gene_id: '459292'
+gene_id: '426873'
 gene_type: protein-coding
 images:
 - caption: ATF1 expression
@@ -108,41 +107,37 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R263.ATF1.S25.001.jpg
 name: activating transcription factor 1
-ncbi_id: '459292'
+ncbi_id: '426873'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000123268
   entrez: '466'
   mod: MIM:123803
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000023027
-  entrez: 11908,100040260
-  mod: MGI:1298366,MGI:3037720
+- ensembl: ENSMUSG00000080968
+  entrez: '100040260'
+  mod: MGI:3037720
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 448303,496344
-  mod: '971676'
+- ensembl: ENSXETG00000007299
+  entrez: '448303'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000044301
+- ensembl: ENSDARG00000109865
   entrez: '325609'
   mod: ZFIN:ZDB-GENE-030131-4334
-  phenotypes: ZDB-GENE-030131-4334
+  phenotypes: cAMP/PKA signal transduction, regulation of DNA-templated transcription,
+    regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAACTCGGTTCTCCAGACATTTCAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459292
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426873
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459292
+  url: https://www.ncbi.nlm.nih.gov/gene/426873
 species: Gallus gallus
 symbol: ATF1
 template_length: '613'
@@ -164,9 +159,8 @@ title: ATF1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000123268](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000123268) | [466](https://www.ncbi.nlm.nih.gov/gene/466) | [MIM:123803](https://omim.org/entry/123803) |  |
-| Mouse | [ENSMUSG00000023027](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023027) | [11908](https://www.ncbi.nlm.nih.gov/gene/11908), [100040260](https://www.ncbi.nlm.nih.gov/gene/100040260) | [MGI:1298366](http://www.informatics.jax.org/marker/MGI:1298366), [MGI:3037720](http://www.informatics.jax.org/marker/MGI:3037720) |  |
-| Xenopus |  | [448303](https://www.ncbi.nlm.nih.gov/gene/448303), [496344](https://www.ncbi.nlm.nih.gov/gene/496344) | [971676](http://www.xenbase.org/gene/showgene.do?method=display&geneId=971676) |  |
-| Zebrafish | [ENSDARG00000044301](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044301) | [325609](https://www.ncbi.nlm.nih.gov/gene/325609) | [ZFIN:ZDB-GENE-030131-4334](https://zfin.org/ZDB-GENE-030131-4334) | ZDB-GENE-030131-4334 |
+| Mouse | [ENSMUSG00000080968](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000080968) | [100040260](https://www.ncbi.nlm.nih.gov/gene/100040260) | [MGI:3037720](http://www.informatics.jax.org/marker/MGI:3037720) |  |
+| Xenopus | [ENSXETG00000007299](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007299) | [448303](https://www.ncbi.nlm.nih.gov/gene/448303) |  |  |
+| Zebrafish | [ENSDARG00000109865](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000109865) | [325609](https://www.ncbi.nlm.nih.gov/gene/325609) | [ZFIN:ZDB-GENE-030131-4334](https://zfin.org/ZDB-GENE-030131-4334) | cAMP/PKA signal transduction, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422586
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420545
-gene_id: '451102'
+gene_id: '422586'
 gene_type: protein-coding
 images:
 - caption: SPARCL1 expression
@@ -89,7 +89,7 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/QR1.Chittka.2009.5K.PNG
 name: SPARC like 1
-ncbi_id: '451102'
+ncbi_id: '422586'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -114,12 +114,12 @@ orthologs:
 - ensembl: ENSDARG00000074989
   entrez: '567331'
   mod: ZFIN:ZDB-GENE-060130-6
-  phenotypes: ZDB-GENE-060130-6
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451102
+  url: https://www.ncbi.nlm.nih.gov/gene/422586
 species: Gallus gallus
 symbol: SPARCL1
 title: SPARCL1
@@ -149,5 +149,5 @@ title: SPARCL1
 | Human | [ENSG00000152583](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000152583) | [8404](https://www.ncbi.nlm.nih.gov/gene/8404) | [MIM:606041](https://omim.org/entry/606041) |  |
 | Mouse | [ENSMUSG00000029309](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029309) | [13602](https://www.ncbi.nlm.nih.gov/gene/13602) | [MGI:108110](http://www.informatics.jax.org/marker/MGI:108110) | All phenotypic alleles (1):Targeted, knock-out(1) |
 | Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000074989](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074989) | [567331](https://www.ncbi.nlm.nih.gov/gene/567331) | [ZFIN:ZDB-GENE-060130-6](https://zfin.org/ZDB-GENE-060130-6) | ZDB-GENE-060130-6 |
+| Zebrafish | [ENSDARG00000074989](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074989) | [567331](https://www.ncbi.nlm.nih.gov/gene/567331) | [ZFIN:ZDB-GENE-060130-6](https://zfin.org/ZDB-GENE-060130-6) |  |
 

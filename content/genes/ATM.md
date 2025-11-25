@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395401
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001162400
 forward_primer: 5’-ACCCAGCTTCCAGAAAGAGC-3’
-gene_id: '449176'
+gene_id: '395401'
 gene_type: protein-coding
 images:
 - caption: ATM expression
@@ -72,13 +72,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R644.ATM.S26.001.jpg
 name: ATM serine/threonine kinase
-ncbi_id: '449176'
+ncbi_id: '395401'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000149311
   entrez: '472'
   mod: MIM:607585
@@ -89,24 +84,25 @@ orthologs:
   mod: MGI:107202
   phenotypes: All phenotypic alleles (10):Targeted, knock-out(6) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100490767,398148
-  mod: '493809'
+- ensembl: ENSXETG00000014471
+  entrez: '100490767'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000002385
-  entrez: 100331343,403064
+  entrez: '403064'
   mod: ZFIN:ZDB-GENE-040809-1
-  phenotypes: ZDB-GENE-040809-1
+  phenotypes: DNA damage checkpoint signaling, DNA damage response, DNA repair, cellular
+    response to oxygen-containing compound, double-strand break repair
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTTGTTAGCGTTTGCCAAGGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449176
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395401
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449176
+  url: https://www.ncbi.nlm.nih.gov/gene/395401
 species: Gallus gallus
 symbol: ATM
 template_length: '902'
@@ -129,9 +125,8 @@ title: ATM
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000149311](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000149311) | [472](https://www.ncbi.nlm.nih.gov/gene/472) | [MIM:607585](https://omim.org/entry/607585) | MIM:208900 |
 | Mouse | [ENSMUSG00000034218](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034218) | [11920](https://www.ncbi.nlm.nih.gov/gene/11920) | [MGI:107202](http://www.informatics.jax.org/marker/MGI:107202) | All phenotypic alleles (10):Targeted, knock-out(6) Targeted, other(4) |
-| Xenopus |  | [100490767](https://www.ncbi.nlm.nih.gov/gene/100490767), [398148](https://www.ncbi.nlm.nih.gov/gene/398148) | [493809](http://www.xenbase.org/gene/showgene.do?method=display&geneId=493809) |  |
-| Zebrafish | [ENSDARG00000002385](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002385) | [100331343](https://www.ncbi.nlm.nih.gov/gene/100331343), [403064](https://www.ncbi.nlm.nih.gov/gene/403064) | [ZFIN:ZDB-GENE-040809-1](https://zfin.org/ZDB-GENE-040809-1) | ZDB-GENE-040809-1 |
+| Xenopus | [ENSXETG00000014471](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014471) | [100490767](https://www.ncbi.nlm.nih.gov/gene/100490767) |  |  |
+| Zebrafish | [ENSDARG00000002385](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002385) | [403064](https://www.ncbi.nlm.nih.gov/gene/403064) | [ZFIN:ZDB-GENE-040809-1](https://zfin.org/ZDB-GENE-040809-1) | DNA damage checkpoint signaling, DNA damage response, DNA repair, cellular response to oxygen-containing compound, double-strand break repair |
 

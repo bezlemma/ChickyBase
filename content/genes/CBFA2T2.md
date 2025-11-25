@@ -4,7 +4,6 @@ aliases:
 - myeloid translocation gene-related protein 1
 cgnc_id: '2242'
 external_ids:
-  '7': stage 7
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=koyano-nakagawa+expression+function+mtg/eto+neurogenesis
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (NM_001011689.2
@@ -17,7 +16,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001011689
   X-XIV: stage XII
 forward_primer: GGCTCGGTTTGAATGGAGGTTAC
-gene_id: '456083'
+gene_id: '419155'
 gene_type: protein-coding
 images:
 - caption: CBFA2T2 expression
@@ -239,13 +238,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBFA2T2.Travers.2023.jpg
 name: CBFA2/RUNX1 translocation partner 2
-ncbi_id: '456083'
+ncbi_id: '419155'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000078699
   entrez: '9139'
   mod: MIM:603672
@@ -256,24 +250,19 @@ orthologs:
   mod: MGI:1333833
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100124871,379213
-  mod: '950033'
+- ensembl: ENSXETG00000021431
+  entrez: '100124871'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '767652'
-  mod: ZFIN:ZDB-GENE-070209-1
-  phenotypes: ZDB-GENE-070209-1
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCAGGACAATGAATGGAACGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456083
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419155
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456083
+  url: https://www.ncbi.nlm.nih.gov/gene/419155
 species: Gallus gallus
 symbol: CBFA2T2
 title: CBFA2T2
@@ -299,9 +288,7 @@ title: CBFA2T2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000078699](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000078699) | [9139](https://www.ncbi.nlm.nih.gov/gene/9139) | [MIM:603672](https://omim.org/entry/603672) |  |
 | Mouse | [ENSMUSG00000038533](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038533) | [12396](https://www.ncbi.nlm.nih.gov/gene/12396) | [MGI:1333833](http://www.informatics.jax.org/marker/MGI:1333833) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100124871](https://www.ncbi.nlm.nih.gov/gene/100124871), [379213](https://www.ncbi.nlm.nih.gov/gene/379213) | [950033](http://www.xenbase.org/gene/showgene.do?method=display&geneId=950033) |  |
-| Zebrafish |  | [767652](https://www.ncbi.nlm.nih.gov/gene/767652) | [ZFIN:ZDB-GENE-070209-1](https://zfin.org/ZDB-GENE-070209-1) | ZDB-GENE-070209-1 |
+| Xenopus | [ENSXETG00000021431](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021431) | [100124871](https://www.ncbi.nlm.nih.gov/gene/100124871) |  |  |
 

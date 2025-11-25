@@ -5,7 +5,6 @@ aliases:
 - paired-related homeotic gene product
 cgnc_id: '48968'
 external_ids:
-  '25': stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=holleville%20dlx5+Runx2+Monsoro-Burq
@@ -20,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001007821
-gene_id: '459462'
+gene_id: '373941'
 gene_type: protein-coding
 images:
 - caption: PRRX1 expression
@@ -167,13 +166,8 @@ images:
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Prx1.Holleville.2007.Figure3D.jpg
 name: paired related homeobox 1
-ncbi_id: '459462'
+ncbi_id: '373941'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000116132
   entrez: '5396'
   mod: MIM:167420
@@ -184,23 +178,25 @@ orthologs:
   mod: MGI:97712
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000004727
   entrez: '100494324'
-  mod: '484662'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000042027,ENSDARG00000033971
-  entrez: 337089,406431
-  mod: ZFIN:ZDB-GENE-030131-9033,ZFIN:ZDB-GENE-020905-5
-  phenotypes: ZDB-GENE-030131-9033,ZDB-GENE-020905-5
+- ensembl: ENSDARG00000033971
+  entrez: '406431'
+  mod: ZFIN:ZDB-GENE-020905-5
+  phenotypes: atrial cardiac muscle cell action potential, cranial skeletal system
+    development, epithelial to mesenchymal transition, heart looping, regulation of
+    DNA-templated transcription
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459462
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373941
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459462
+  url: https://www.ncbi.nlm.nih.gov/gene/373941
 species: Gallus gallus
 symbol: PRRX1
 title: PRRX1
@@ -231,9 +227,8 @@ Copyright © 2007 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000116132](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000116132) | [5396](https://www.ncbi.nlm.nih.gov/gene/5396) | [MIM:167420](https://omim.org/entry/167420) | MIM:202650 |
 | Mouse | [ENSMUSG00000026586](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026586) | [18933](https://www.ncbi.nlm.nih.gov/gene/18933) | [MGI:97712](http://www.informatics.jax.org/marker/MGI:97712) | All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5) |
-| Xenopus |  | [100494324](https://www.ncbi.nlm.nih.gov/gene/100494324) | [484662](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484662) |  |
-| Zebrafish | [ENSDARG00000042027](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042027), [ENSDARG00000033971](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033971) | [337089](https://www.ncbi.nlm.nih.gov/gene/337089), [406431](https://www.ncbi.nlm.nih.gov/gene/406431) | [ZFIN:ZDB-GENE-030131-9033](https://zfin.org/ZDB-GENE-030131-9033), [ZFIN:ZDB-GENE-020905-5](https://zfin.org/ZDB-GENE-020905-5) | ZDB-GENE-030131-9033,ZDB-GENE-020905-5 |
+| Xenopus | [ENSXETG00000004727](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004727) | [100494324](https://www.ncbi.nlm.nih.gov/gene/100494324) |  |  |
+| Zebrafish | [ENSDARG00000033971](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033971) | [406431](https://www.ncbi.nlm.nih.gov/gene/406431) | [ZFIN:ZDB-GENE-020905-5](https://zfin.org/ZDB-GENE-020905-5) | atrial cardiac muscle cell action potential, cranial skeletal system development, epithelial to mesenchymal transition, heart looping, regulation of DNA-templated transcription |
 

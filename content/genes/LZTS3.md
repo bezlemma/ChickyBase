@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426948
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420876
-gene_id: '451736'
+gene_id: '426948'
 gene_type: protein-coding
 images:
 - caption: LZTS3 expression
@@ -73,13 +73,8 @@ images:
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MT.Caqueret.2005.Fig.5.png
 name: leucine zipper tumor suppressor family member 3
-ncbi_id: '451736'
+ncbi_id: '426948'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000088899
   entrez: '9762'
   mod: MIM:610484
@@ -90,20 +85,20 @@ orthologs:
   mod: MGI:2656976
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000017977
   entrez: '100485228'
-  mod: '961222'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000058558,ENSDARG00000059134
-  entrez: 560221,795227
-  mod: ZFIN:ZDB-GENE-110411-249,ZFIN:ZDB-GENE-060313-2,ZFIN:ZDB-GENE-110411-249
-  phenotypes: ZDB-GENE-110411-249,ZDB-GENE-060313-2,ZDB-GENE-110411-249
+- ensembl: ENSDARG00000098751
+  entrez: '795227'
+  mod: ZFIN:ZDB-GENE-060313-2
+  phenotypes: regulation of dendritic spine morphogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451736
+  url: https://www.ncbi.nlm.nih.gov/gene/426948
 species: Gallus gallus
 symbol: LZTS3
 title: LZTS3
@@ -128,9 +123,8 @@ title: LZTS3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000088899](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000088899) | [9762](https://www.ncbi.nlm.nih.gov/gene/9762) | [MIM:610484](https://omim.org/entry/610484) |  |
 | Mouse | [ENSMUSG00000037703](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037703) | [241638](https://www.ncbi.nlm.nih.gov/gene/241638) | [MGI:2656976](http://www.informatics.jax.org/marker/MGI:2656976) |  |
-| Xenopus |  | [100485228](https://www.ncbi.nlm.nih.gov/gene/100485228) | [961222](http://www.xenbase.org/gene/showgene.do?method=display&geneId=961222) |  |
-| Zebrafish | [ENSDARG00000058558](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058558), [ENSDARG00000059134](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059134) | [560221](https://www.ncbi.nlm.nih.gov/gene/560221), [795227](https://www.ncbi.nlm.nih.gov/gene/795227) | [ZFIN:ZDB-GENE-110411-249](https://zfin.org/ZDB-GENE-110411-249), [ZFIN:ZDB-GENE-060313-2](https://zfin.org/ZDB-GENE-060313-2), [ZFIN:ZDB-GENE-110411-249](https://zfin.org/ZDB-GENE-110411-249) | ZDB-GENE-110411-249,ZDB-GENE-060313-2,ZDB-GENE-110411-249 |
+| Xenopus | [ENSXETG00000017977](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017977) | [100485228](https://www.ncbi.nlm.nih.gov/gene/100485228) |  |  |
+| Zebrafish | [ENSDARG00000098751](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098751) | [795227](https://www.ncbi.nlm.nih.gov/gene/795227) | [ZFIN:ZDB-GENE-060313-2](https://zfin.org/ZDB-GENE-060313-2) | regulation of dendritic spine morphogenesis |
 

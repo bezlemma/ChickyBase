@@ -5,13 +5,12 @@ aliases:
 - crumbs homolog 2
 cgnc_id: '50440'
 external_ids:
-  '25': stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000001169
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417104
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415389
 forward_primer: ATGAAACAGACCCCTGCCTCAC
-gene_id: '454434'
+gene_id: '417104'
 gene_type: protein-coding
 images:
 - caption: CRB2 expression
@@ -138,41 +137,27 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R279.CRB2.S25R.001.jpg
 name: crumbs 2, cell polarity complex component
-ncbi_id: '454434'
+ncbi_id: '417104'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000002514
+  entrez: '100487355'
   mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000148204
-  entrez: '286204'
-  mod: MIM:609720
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: 100487355,373552
-  mod: '989700'
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000060081,ENSDARG00000060106
-  entrez: 568520,723994
-  mod: ZFIN:ZDB-GENE-060610-1,ZFIN:ZDB-GENE-060612-1
-  phenotypes: ZDB-GENE-060610-1,ZDB-GENE-060612-1
+- ensembl: ENSDARG00000060106
+  entrez: '723994'
+  mod: ZFIN:ZDB-GENE-060612-1
+  phenotypes: apical protein localization, brain development, camera-type eye development,
+    cell differentiation, cell-cell adhesion
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTAGCCCGAAGCAAAACAGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454434
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417104
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454434
+  url: https://www.ncbi.nlm.nih.gov/gene/417104
 species: Gallus gallus
 symbol: CRB2
 template_length: '714'
@@ -194,9 +179,6 @@ title: CRB2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000148204](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148204) | [286204](https://www.ncbi.nlm.nih.gov/gene/286204) | [MIM:609720](https://omim.org/entry/609720) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100487355](https://www.ncbi.nlm.nih.gov/gene/100487355), [373552](https://www.ncbi.nlm.nih.gov/gene/373552) | [989700](http://www.xenbase.org/gene/showgene.do?method=display&geneId=989700) |  |
-| Zebrafish | [ENSDARG00000060081](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060081), [ENSDARG00000060106](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060106) | [568520](https://www.ncbi.nlm.nih.gov/gene/568520), [723994](https://www.ncbi.nlm.nih.gov/gene/723994) | [ZFIN:ZDB-GENE-060610-1](https://zfin.org/ZDB-GENE-060610-1), [ZFIN:ZDB-GENE-060612-1](https://zfin.org/ZDB-GENE-060612-1) | ZDB-GENE-060610-1,ZDB-GENE-060612-1 |
+| Xenopus | [ENSXETG00000002514](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002514) | [100487355](https://www.ncbi.nlm.nih.gov/gene/100487355) |  |  |
+| Zebrafish | [ENSDARG00000060106](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060106) | [723994](https://www.ncbi.nlm.nih.gov/gene/723994) | [ZFIN:ZDB-GENE-060612-1](https://zfin.org/ZDB-GENE-060612-1) | apical protein localization, brain development, camera-type eye development, cell differentiation, cell-cell adhesion |
 

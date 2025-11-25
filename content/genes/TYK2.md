@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:430113
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_427671
 forward_primer: CGATAGGGTGATTCTGGCTGTG
-gene_id: '464350'
+gene_id: '430113'
 gene_type: protein-coding
 images:
 - caption: TYK2 expression
@@ -325,7 +325,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TYK2.Tao.2020.Fig4.jpg
 name: tyrosine kinase 2
-ncbi_id: '464350'
+ncbi_id: '430113'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -356,10 +356,10 @@ reverse_primer: AATTAACCCTCACTAAAGGCGCTGTTGTTGTTCTGTTCAGTGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=464350
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=430113
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/464350
+  url: https://www.ncbi.nlm.nih.gov/gene/430113
 species: Gallus gallus
 symbol: TYK2
 template_length: '470'

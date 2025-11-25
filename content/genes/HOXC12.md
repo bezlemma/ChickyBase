@@ -4,14 +4,13 @@ aliases:
 - homeobox protein C12
 cgnc_id: '13573'
 external_ids:
-  '25': stage 25
   Comments: No specific expression detected at or before stage 12.
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/429400
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:429400
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426957
 forward_primer: TTTTGTGGGACCTCTGGTGAAC
-gene_id: '463276'
+gene_id: '429400'
 gene_type: protein-coding
 images:
 - caption: HOXC12 expression
@@ -71,41 +70,36 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R291.HOXC12.S25.001.jpg
 name: homeobox C12
-ncbi_id: '463276'
+ncbi_id: '429400'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000123407
+  entrez: '3228'
+  mod: MIM:142975
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000050328
+  entrez: '15421'
+  mod: MGI:96194
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000023470
+  entrez: '100487557'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000070352
+  entrez: '562600'
+  mod: ZFIN:ZDB-GENE-000822-6
+  phenotypes: regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCCTAAAGTGCTGCCTTGGTTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463276
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=429400
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463276
+  url: https://www.ncbi.nlm.nih.gov/gene/429400
 species: Gallus gallus
 symbol: HOXC12
 template_length: '529'
@@ -129,9 +123,8 @@ title: HOXC12
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000123407](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000123407) | [3228](https://www.ncbi.nlm.nih.gov/gene/3228) | [MIM:142975](https://omim.org/entry/142975) |  |
+| Mouse | [ENSMUSG00000050328](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000050328) | [15421](https://www.ncbi.nlm.nih.gov/gene/15421) | [MGI:96194](http://www.informatics.jax.org/marker/MGI:96194) |  |
+| Xenopus | [ENSXETG00000023470](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023470) | [100487557](https://www.ncbi.nlm.nih.gov/gene/100487557) |  |  |
+| Zebrafish | [ENSDARG00000070352](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070352) | [562600](https://www.ncbi.nlm.nih.gov/gene/562600) | [ZFIN:ZDB-GENE-000822-6](https://zfin.org/ZDB-GENE-000822-6) | regulation of DNA-templated transcription |
 

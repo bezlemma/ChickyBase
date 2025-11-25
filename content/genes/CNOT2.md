@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417851
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012808
   X-XIV: stage XIII
-gene_id: '451893'
+gene_id: '417851'
 gene_type: protein-coding
 images:
 - caption: CNOT2 expression
@@ -326,13 +326,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NOT2.Trevers.2023-Fig7-3-A.jpg
 name: CCR4-NOT transcription complex subunit 2
-ncbi_id: '451893'
+ncbi_id: '417851'
 orthologs:
-- ensembl: ''
-  entrez: '40683'
-  mod: FBgn0017550
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000111596
   entrez: '4848'
   mod: MIM:604909
@@ -343,20 +338,21 @@ orthologs:
   mod: MGI:1919318
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100127821,443622
-  mod: '991719'
+- ensembl: ENSXETG00000011385
+  entrez: '100127821'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000061802
   entrez: '100037372'
   mod: ZFIN:ZDB-GENE-070410-70
-  phenotypes: ZDB-GENE-070410-70
+  phenotypes: nuclear-transcribed mRNA poly(A) tail shortening, regulation of DNA-templated
+    transcription, regulation of stem cell population maintenance
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451893
+  url: https://www.ncbi.nlm.nih.gov/gene/417851
 species: Gallus gallus
 symbol: CNOT2
 title: CNOT2
@@ -384,9 +380,8 @@ title: CNOT2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40683](https://www.ncbi.nlm.nih.gov/gene/40683) | FBgn0017550 |  |
 | Human | [ENSG00000111596](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111596) | [4848](https://www.ncbi.nlm.nih.gov/gene/4848) | [MIM:604909](https://omim.org/entry/604909) |  |
 | Mouse | [ENSMUSG00000020166](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020166) | [72068](https://www.ncbi.nlm.nih.gov/gene/72068) | [MGI:1919318](http://www.informatics.jax.org/marker/MGI:1919318) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100127821](https://www.ncbi.nlm.nih.gov/gene/100127821), [443622](https://www.ncbi.nlm.nih.gov/gene/443622) | [991719](http://www.xenbase.org/gene/showgene.do?method=display&geneId=991719) |  |
-| Zebrafish | [ENSDARG00000061802](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061802) | [100037372](https://www.ncbi.nlm.nih.gov/gene/100037372) | [ZFIN:ZDB-GENE-070410-70](https://zfin.org/ZDB-GENE-070410-70) | ZDB-GENE-070410-70 |
+| Xenopus | [ENSXETG00000011385](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011385) | [100127821](https://www.ncbi.nlm.nih.gov/gene/100127821) |  |  |
+| Zebrafish | [ENSDARG00000061802](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061802) | [100037372](https://www.ncbi.nlm.nih.gov/gene/100037372) | [ZFIN:ZDB-GENE-070410-70](https://zfin.org/ZDB-GENE-070410-70) | nuclear-transcribed mRNA poly(A) tail shortening, regulation of DNA-templated transcription, regulation of stem cell population maintenance |
 

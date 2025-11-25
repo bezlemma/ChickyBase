@@ -7,10 +7,6 @@ aliases:
 - protein T, Brachyury, T protein
 cgnc_id: '8730'
 external_ids:
-  '13': stage 13stage 13
-  '25': stage 25
-  '4': stage 4stage 4
-  '7': stage 7
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0011723
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
@@ -27,7 +23,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204940
   X-XIV: stage XIII
-gene_id: '450420'
+gene_id: '395782'
 gene_type: protein-coding
 images:
 - caption: TBXT expression
@@ -431,13 +427,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liu.2003-T-fig1G.jpg
 name: T brachyury transcription factor
-ncbi_id: '450420'
+ncbi_id: '395782'
 orthologs:
-- ensembl: ''
-  entrez: '39349'
-  mod: FBgn0011723
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164458
   entrez: '6862'
   mod: MIM:601397
@@ -450,22 +441,23 @@ orthologs:
     induced(15) Targeted, other(2) Transgenic(1)
   species: Mouse
 - ensembl: ''
-  entrez: 493501,399275,432248
-  mod: '478788'
+  entrez: '493501'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000039806,ENSDARG00000009905
-  entrez: 100004296,30399
-  mod: ZFIN:ZDB-GENE-081028-48,ZFIN:ZDB-GENE-980526-437
-  phenotypes: ZDB-GENE-081028-48,ZDB-GENE-980526-437
+- ensembl: ENSDARG00000039806
+  entrez: '100004296'
+  mod: ZFIN:ZDB-GENE-081028-48
+  phenotypes: anatomical structure morphogenesis, cell fate specification, epithelium
+    development, heart morphogenesis, mesoderm formation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450420
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395782
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450420
+  url: https://www.ncbi.nlm.nih.gov/gene/395782
 species: Gallus gallus
 symbol: TBXT
 title: TBXT
@@ -496,9 +488,8 @@ title: TBXT
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39349](https://www.ncbi.nlm.nih.gov/gene/39349) | FBgn0011723 |  |
 | Human | [ENSG00000164458](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164458) | [6862](https://www.ncbi.nlm.nih.gov/gene/6862) | [MIM:601397](https://omim.org/entry/601397) | MIM:182940 |
 | Mouse | [ENSMUSG00000062327](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000062327) | [20997](https://www.ncbi.nlm.nih.gov/gene/20997) | [MGI:98472](http://www.informatics.jax.org/marker/MGI:98472) | All phenotypic alleles (40):Spontaneous(17) Chemically induced(5) Radiation induced(15) Targeted, other(2) Transgenic(1) |
-| Xenopus |  | [493501](https://www.ncbi.nlm.nih.gov/gene/493501), [399275](https://www.ncbi.nlm.nih.gov/gene/399275), [432248](https://www.ncbi.nlm.nih.gov/gene/432248) | [478788](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478788) |  |
-| Zebrafish | [ENSDARG00000039806](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039806), [ENSDARG00000009905](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009905) | [100004296](https://www.ncbi.nlm.nih.gov/gene/100004296), [30399](https://www.ncbi.nlm.nih.gov/gene/30399) | [ZFIN:ZDB-GENE-081028-48](https://zfin.org/ZDB-GENE-081028-48), [ZFIN:ZDB-GENE-980526-437](https://zfin.org/ZDB-GENE-980526-437) | ZDB-GENE-081028-48,ZDB-GENE-980526-437 |
+| Xenopus |  | [493501](https://www.ncbi.nlm.nih.gov/gene/493501) |  |  |
+| Zebrafish | [ENSDARG00000039806](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039806) | [100004296](https://www.ncbi.nlm.nih.gov/gene/100004296) | [ZFIN:ZDB-GENE-081028-48](https://zfin.org/ZDB-GENE-081028-48) | anatomical structure morphogenesis, cell fate specification, epithelium development, heart morphogenesis, mesoderm formation |
 

@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416296
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277274
 forward_primer: CCTTGTTTCAGTGACCAGAAGACC
-gene_id: '457096'
+gene_id: '416296'
 gene_type: protein-coding
 images:
 - caption: RASGEF1C expression
@@ -107,13 +107,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R402.RASGEF1C.S26D.001.jpg
 name: RasGEF domain family member 1C
-ncbi_id: '457096'
+ncbi_id: '416296'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000146090
   entrez: '255426'
   mod: ''
@@ -124,24 +119,14 @@ orthologs:
   mod: MGI:1921813
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCATCCAGCACGATAGGCAGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457096
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416296
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457096
+  url: https://www.ncbi.nlm.nih.gov/gene/416296
 species: Gallus gallus
 symbol: RASGEF1C
 template_length: '884'
@@ -163,9 +148,6 @@ title: RASGEF1C
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000146090](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000146090) | [255426](https://www.ncbi.nlm.nih.gov/gene/255426) |  |  |
 | Mouse | [ENSMUSG00000020374](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020374) | [74563](https://www.ncbi.nlm.nih.gov/gene/74563) | [MGI:1921813](http://www.informatics.jax.org/marker/MGI:1921813) |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
 

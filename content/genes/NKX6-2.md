@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395591
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199548
   X-XIV: stage XIII
-gene_id: '449720'
+gene_id: '395591'
 gene_type: protein-coding
 images:
 - caption: NKX6-2 expression
@@ -145,14 +145,9 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX6-2.Travers.2023-Fig7-2-U.jpg
 name: NK6 homeobox 2
-ncbi_id: '449720'
+ncbi_id: '395591'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000148826
   entrez: '84504'
   mod: MIM:605955
   phenotypes: ''
@@ -162,20 +157,22 @@ orthologs:
   mod: MGI:1352738
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100038084,779266
-  mod: '484526'
+- ensembl: ENSXETG00000023614
+  entrez: '100038084'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000044075
+- ensembl: ENSDARG00000104735
   entrez: '565782'
   mod: ZFIN:ZDB-GENE-070626-1
-  phenotypes: ZDB-GENE-070626-1
+  phenotypes: cell differentiation, endocrine pancreas development, pancreatic A cell
+    differentiation, regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449720
+  url: https://www.ncbi.nlm.nih.gov/gene/395591
 species: Gallus gallus
 symbol: NKX6-2
 title: NKX6-2
@@ -201,9 +198,8 @@ title: NKX6-2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [84504](https://www.ncbi.nlm.nih.gov/gene/84504) | [MIM:605955](https://omim.org/entry/605955) |  |
+| Human | [ENSG00000148826](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148826) | [84504](https://www.ncbi.nlm.nih.gov/gene/84504) | [MIM:605955](https://omim.org/entry/605955) |  |
 | Mouse | [ENSMUSG00000041309](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041309) | [14912](https://www.ncbi.nlm.nih.gov/gene/14912) | [MGI:1352738](http://www.informatics.jax.org/marker/MGI:1352738) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [100038084](https://www.ncbi.nlm.nih.gov/gene/100038084), [779266](https://www.ncbi.nlm.nih.gov/gene/779266) | [484526](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484526) |  |
-| Zebrafish | [ENSDARG00000044075](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044075) | [565782](https://www.ncbi.nlm.nih.gov/gene/565782) | [ZFIN:ZDB-GENE-070626-1](https://zfin.org/ZDB-GENE-070626-1) | ZDB-GENE-070626-1 |
+| Xenopus | [ENSXETG00000023614](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023614) | [100038084](https://www.ncbi.nlm.nih.gov/gene/100038084) |  |  |
+| Zebrafish | [ENSDARG00000104735](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104735) | [565782](https://www.ncbi.nlm.nih.gov/gene/565782) | [ZFIN:ZDB-GENE-070626-1](https://zfin.org/ZDB-GENE-070626-1) | cell differentiation, endocrine pancreas development, pancreatic A cell differentiation, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

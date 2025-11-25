@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428156
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425714
-gene_id: '459582'
+gene_id: '428156'
 gene_type: protein-coding
 images:
 - caption: FOXS1 expression
@@ -42,13 +42,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pouget.2008.f2.foxc2.png
 name: forkhead box S1
-ncbi_id: '459582'
+ncbi_id: '428156'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000179772
   entrez: '2307'
   mod: MIM:602939
@@ -59,20 +54,10 @@ orthologs:
   mod: MGI:95546
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459582
+  url: https://www.ncbi.nlm.nih.gov/gene/428156
 species: Gallus gallus
 symbol: FOXS1
 title: FOXS1
@@ -97,9 +82,6 @@ title: FOXS1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000179772](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000179772) | [2307](https://www.ncbi.nlm.nih.gov/gene/2307) | [MIM:602939](https://omim.org/entry/602939) |  |
 | Mouse | [ENSMUSG00000074676](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000074676) | [14239](https://www.ncbi.nlm.nih.gov/gene/14239) | [MGI:95546](http://www.informatics.jax.org/marker/MGI:95546) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
 

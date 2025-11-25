@@ -18,7 +18,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421295
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006396
-gene_id: '457132'
+gene_id: '421295'
 gene_type: protein-coding
 images:
 - caption: WDR43 expression
@@ -37,13 +37,8 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KIAA0007.Chambers.2006.Fig.3.png
 name: WD repeat domain 43
-ncbi_id: '457132'
+ncbi_id: '421295'
 orthologs:
-- ensembl: ''
-  entrez: '35885'
-  mod: FBgn0050349
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163811
   entrez: '23160'
   mod: MIM:616195
@@ -54,20 +49,22 @@ orthologs:
   mod: MGI:1919765
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100379767,100101293
-  mod: '991558'
+- ensembl: ENSXETG00000035654
+  entrez: '100379767'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000077264
-  entrez: 100331489,317637
+  entrez: '317637'
   mod: ZFIN:ZDB-GENE-021231-3
-  phenotypes: ZDB-GENE-021231-3
+  phenotypes: angiogenesis, embryonic viscerocranium morphogenesis, hematopoietic
+    stem cell differentiation, maturation of SSU-rRNA from tricistronic rRNA transcript
+    (SSU-rRNA, 5.8S rRNA, LSU-rRNA), ribosome biogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457132
+  url: https://www.ncbi.nlm.nih.gov/gene/421295
 species: Gallus gallus
 symbol: WDR43
 title: WDR43
@@ -95,9 +92,8 @@ title: WDR43
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35885](https://www.ncbi.nlm.nih.gov/gene/35885) | FBgn0050349 |  |
 | Human | [ENSG00000163811](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163811) | [23160](https://www.ncbi.nlm.nih.gov/gene/23160) | [MIM:616195](https://omim.org/entry/616195) |  |
 | Mouse | [ENSMUSG00000041057](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041057) | [72515](https://www.ncbi.nlm.nih.gov/gene/72515) | [MGI:1919765](http://www.informatics.jax.org/marker/MGI:1919765) |  |
-| Xenopus |  | [100379767](https://www.ncbi.nlm.nih.gov/gene/100379767), [100101293](https://www.ncbi.nlm.nih.gov/gene/100101293) | [991558](http://www.xenbase.org/gene/showgene.do?method=display&geneId=991558) |  |
-| Zebrafish | [ENSDARG00000077264](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077264) | [100331489](https://www.ncbi.nlm.nih.gov/gene/100331489), [317637](https://www.ncbi.nlm.nih.gov/gene/317637) | [ZFIN:ZDB-GENE-021231-3](https://zfin.org/ZDB-GENE-021231-3) | ZDB-GENE-021231-3 |
+| Xenopus | [ENSXETG00000035654](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000035654) | [100379767](https://www.ncbi.nlm.nih.gov/gene/100379767) |  |  |
+| Zebrafish | [ENSDARG00000077264](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077264) | [317637](https://www.ncbi.nlm.nih.gov/gene/317637) | [ZFIN:ZDB-GENE-021231-3](https://zfin.org/ZDB-GENE-021231-3) | angiogenesis, embryonic viscerocranium morphogenesis, hematopoietic stem cell differentiation, maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA), ribosome biogenesis |
 

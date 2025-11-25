@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:503512
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012612
-gene_id: '453629'
+gene_id: '503512'
 gene_type: protein-coding
 images:
 - caption: FOXL2 expression
@@ -85,37 +85,24 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Foxl2.Hudson.20053G.jpg
 name: forkhead box L2
-ncbi_id: '453629'
+ncbi_id: '503512'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000008253
+  entrez: '100486124'
   mod: ''
   phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000183770
-  entrez: '668'
-  mod: MIM:605597
-  phenotypes: MIM:110100
-  species: Human
-- ensembl: ENSMUSG00000050397
-  entrez: '26927'
-  mod: MGI:1349428
-  phenotypes: All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5)
-  species: Mouse
-- ensembl: ''
-  entrez: 100486124,100188926
-  mod: '486611'
-  phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000042180
+- ensembl: ENSDARG00000111061
   entrez: '692279'
   mod: ZFIN:ZDB-GENE-060512-241
-  phenotypes: ZDB-GENE-060512-241
+  phenotypes: anatomical structure morphogenesis, cell differentiation, fourth ventricle
+    development, maintenance of animal organ identity, midbrain-hindbrain boundary
+    development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453629
+  url: https://www.ncbi.nlm.nih.gov/gene/503512
 species: Gallus gallus
 symbol: FOXL2
 title: FOXL2
@@ -140,9 +127,6 @@ title: FOXL2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000183770](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000183770) | [668](https://www.ncbi.nlm.nih.gov/gene/668) | [MIM:605597](https://omim.org/entry/605597) | MIM:110100 |
-| Mouse | [ENSMUSG00000050397](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000050397) | [26927](https://www.ncbi.nlm.nih.gov/gene/26927) | [MGI:1349428](http://www.informatics.jax.org/marker/MGI:1349428) | All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5) |
-| Xenopus |  | [100486124](https://www.ncbi.nlm.nih.gov/gene/100486124), [100188926](https://www.ncbi.nlm.nih.gov/gene/100188926) | [486611](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486611) |  |
-| Zebrafish | [ENSDARG00000042180](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042180) | [692279](https://www.ncbi.nlm.nih.gov/gene/692279) | [ZFIN:ZDB-GENE-060512-241](https://zfin.org/ZDB-GENE-060512-241) | ZDB-GENE-060512-241 |
+| Xenopus | [ENSXETG00000008253](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008253) | [100486124](https://www.ncbi.nlm.nih.gov/gene/100486124) |  |  |
+| Zebrafish | [ENSDARG00000111061](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000111061) | [692279](https://www.ncbi.nlm.nih.gov/gene/692279) | [ZFIN:ZDB-GENE-060512-241](https://zfin.org/ZDB-GENE-060512-241) | anatomical structure morphogenesis, cell differentiation, fourth ventricle development, maintenance of animal organ identity, midbrain-hindbrain boundary development |
 

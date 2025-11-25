@@ -6,8 +6,6 @@ aliases:
 - cBMAL1
 cgnc_id: '4005'
 external_ids:
-  '13': stage 13stage 13
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0023094
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0048511
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
@@ -23,7 +21,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001463
 forward_primer: TGACTTGATTTCCAGTTCCCTTAGC
-gene_id: '455690'
+gene_id: '374115'
 gene_type: protein-coding
 images:
 - caption: ARNTL expression
@@ -280,13 +278,8 @@ images:
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Goncalves.Fig3.Bmal1.C.HH13-.jpg
 name: aryl hydrocarbon receptor nuclear translocator like
-ncbi_id: '455690'
+ncbi_id: '374115'
 orthologs:
-- ensembl: ''
-  entrez: '40162'
-  mod: FBgn0023094
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000133794
   entrez: '406'
   mod: MIM:602550
@@ -297,24 +290,19 @@ orthologs:
   mod: MGI:1096381
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100422809,497632
-  mod: '495454'
+- ensembl: ENSXETG00000024204
+  entrez: '100422809'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000006791,ENSDARG00000035732
-  entrez: 58098,352935
-  mod: ZFIN:ZDB-GENE-000509-1,ZFIN:ZDB-GENE-030408-1
-  phenotypes: ZDB-GENE-000509-1,ZDB-GENE-030408-1
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCCTTCCTATTTTTCCTGCCCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455690
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374115
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455690
+  url: https://www.ncbi.nlm.nih.gov/gene/374115
 species: Gallus gallus
 symbol: ARNTL
 template_length: '1450'
@@ -346,9 +334,7 @@ title: ARNTL
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40162](https://www.ncbi.nlm.nih.gov/gene/40162) | FBgn0023094 |  |
 | Human | [ENSG00000133794](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000133794) | [406](https://www.ncbi.nlm.nih.gov/gene/406) | [MIM:602550](https://omim.org/entry/602550) |  |
 | Mouse | [ENSMUSG00000055116](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000055116) | [11865](https://www.ncbi.nlm.nih.gov/gene/11865) | [MGI:1096381](http://www.informatics.jax.org/marker/MGI:1096381) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [100422809](https://www.ncbi.nlm.nih.gov/gene/100422809), [497632](https://www.ncbi.nlm.nih.gov/gene/497632) | [495454](http://www.xenbase.org/gene/showgene.do?method=display&geneId=495454) |  |
-| Zebrafish | [ENSDARG00000006791](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006791), [ENSDARG00000035732](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035732) | [58098](https://www.ncbi.nlm.nih.gov/gene/58098), [352935](https://www.ncbi.nlm.nih.gov/gene/352935) | [ZFIN:ZDB-GENE-000509-1](https://zfin.org/ZDB-GENE-000509-1), [ZFIN:ZDB-GENE-030408-1](https://zfin.org/ZDB-GENE-030408-1) | ZDB-GENE-000509-1,ZDB-GENE-030408-1 |
+| Xenopus | [ENSXETG00000024204](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000024204) | [100422809](https://www.ncbi.nlm.nih.gov/gene/100422809) |  |  |
 

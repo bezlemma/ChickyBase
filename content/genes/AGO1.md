@@ -4,13 +4,12 @@ aliases:
 - argonaute RISC catalytic component 1
 cgnc_id: '1607'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/428222
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428222
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425781
 forward_primer: CATCCAGTTCTACAAATCCACGC
-gene_id: '459030'
+gene_id: '428222'
 gene_type: protein-coding
 images:
 - caption: AGO1 expression
@@ -140,14 +139,9 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R500.AGO1.S25.001.jpg
 name: argonaute 1, RISC catalytic component
-ncbi_id: '459030'
+ncbi_id: '428222'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000092847
   entrez: '26523'
   mod: MIM:606228
   phenotypes: ''
@@ -157,24 +151,25 @@ orthologs:
   mod: MGI:2446630
   phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000004364
   entrez: '100302589'
-  mod: '5933498'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000092644
   entrez: '570775'
   mod: ZFIN:ZDB-GENE-110606-3
-  phenotypes: ZDB-GENE-110606-3
+  phenotypes: pre-miRNA processing, regulation of translation, regulatory ncRNA-mediated
+    gene silencing, regulatory ncRNA-mediated post-transcriptional gene silencing
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGATCCGCCTTTCACAGTCAGGAGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459030
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428222
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459030
+  url: https://www.ncbi.nlm.nih.gov/gene/428222
 species: Gallus gallus
 symbol: AGO1
 template_length: '977'
@@ -196,9 +191,8 @@ title: AGO1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [26523](https://www.ncbi.nlm.nih.gov/gene/26523) | [MIM:606228](https://omim.org/entry/606228) |  |
+| Human | [ENSG00000092847](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000092847) | [26523](https://www.ncbi.nlm.nih.gov/gene/26523) | [MIM:606228](https://omim.org/entry/606228) |  |
 | Mouse | [ENSMUSG00000041530](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041530) | [236511](https://www.ncbi.nlm.nih.gov/gene/236511) | [MGI:2446630](http://www.informatics.jax.org/marker/MGI:2446630) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [100302589](https://www.ncbi.nlm.nih.gov/gene/100302589) | [5933498](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5933498) |  |
-| Zebrafish | [ENSDARG00000092644](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000092644) | [570775](https://www.ncbi.nlm.nih.gov/gene/570775) | [ZFIN:ZDB-GENE-110606-3](https://zfin.org/ZDB-GENE-110606-3) | ZDB-GENE-110606-3 |
+| Xenopus | [ENSXETG00000004364](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004364) | [100302589](https://www.ncbi.nlm.nih.gov/gene/100302589) |  |  |
+| Zebrafish | [ENSDARG00000092644](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000092644) | [570775](https://www.ncbi.nlm.nih.gov/gene/570775) | [ZFIN:ZDB-GENE-110606-3](https://zfin.org/ZDB-GENE-110606-3) | pre-miRNA processing, regulation of translation, regulatory ncRNA-mediated gene silencing, regulatory ncRNA-mediated post-transcriptional gene silencing |
 

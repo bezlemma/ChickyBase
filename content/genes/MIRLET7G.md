@@ -6,7 +6,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018262
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006099.3?report=genbank&from=2982077&to=2982159&strand=true
-gene_id: '468034'
+gene_id: '777834'
 gene_type: miscRNA
 images:
 - caption: MIRLET7G expression
@@ -24,7 +24,7 @@ images:
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/7g.3.15.001a.jpg
 name: microRNA let-7g
-ncbi_id: '468034'
+ncbi_id: '777834'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -54,10 +54,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468034
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777834
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468034
+  url: https://www.ncbi.nlm.nih.gov/gene/777834
 species: Gallus gallus
 symbol: MIRLET7G
 title: MIRLET7G

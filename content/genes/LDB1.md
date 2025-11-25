@@ -11,7 +11,6 @@ aliases:
 - nuclear LIM interactor
 cgnc_id: '49571'
 external_ids:
-  '25': stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0016055
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000007641
@@ -20,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0030274
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205070
 forward_primer: CGTTACTTCCGCAGCATCTTTG
-gene_id: '450515'
+gene_id: '395952'
 gene_type: protein-coding
 images:
 - caption: LDB1 expression
@@ -168,13 +167,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R530.LDB1.S25AA.001.jpg
 name: LIM domain binding 1
-ncbi_id: '450515'
+ncbi_id: '395952'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000198728
   entrez: '8861'
   mod: MIM:603451
@@ -185,24 +179,25 @@ orthologs:
   mod: MGI:894762
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 407886,380241
-  mod: '493238'
+- ensembl: ENSXETG00000001714
+  entrez: '407886'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000010137
-  entrez: 30576,30579
-  mod: ZFIN:ZDB-GENE-990415-135,ZFIN:ZDB-GENE-990415-138
-  phenotypes: ZDB-GENE-990415-135,ZDB-GENE-990415-138
+- ensembl: ENSDARG00000103158
+  entrez: '30576'
+  mod: ZFIN:ZDB-GENE-990415-135
+  phenotypes: negative regulation of transcription by RNA polymerase II, nervous system
+    development, positive regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCGCCTACCACCATCACATCAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450515
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395952
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450515
+  url: https://www.ncbi.nlm.nih.gov/gene/395952
 species: Gallus gallus
 symbol: LDB1
 template_length: '650'
@@ -227,9 +222,8 @@ title: LDB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000198728](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198728) | [8861](https://www.ncbi.nlm.nih.gov/gene/8861) | [MIM:603451](https://omim.org/entry/603451) |  |
 | Mouse | [ENSMUSG00000025223](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025223) | [16825](https://www.ncbi.nlm.nih.gov/gene/16825) | [MGI:894762](http://www.informatics.jax.org/marker/MGI:894762) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [407886](https://www.ncbi.nlm.nih.gov/gene/407886), [380241](https://www.ncbi.nlm.nih.gov/gene/380241) | [493238](http://www.xenbase.org/gene/showgene.do?method=display&geneId=493238) |  |
-| Zebrafish | [ENSDARG00000010137](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010137) | [30576](https://www.ncbi.nlm.nih.gov/gene/30576), [30579](https://www.ncbi.nlm.nih.gov/gene/30579) | [ZFIN:ZDB-GENE-990415-135](https://zfin.org/ZDB-GENE-990415-135), [ZFIN:ZDB-GENE-990415-138](https://zfin.org/ZDB-GENE-990415-138) | ZDB-GENE-990415-135,ZDB-GENE-990415-138 |
+| Xenopus | [ENSXETG00000001714](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001714) | [407886](https://www.ncbi.nlm.nih.gov/gene/407886) |  |  |
+| Zebrafish | [ENSDARG00000103158](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000103158) | [30576](https://www.ncbi.nlm.nih.gov/gene/30576) | [ZFIN:ZDB-GENE-990415-135](https://zfin.org/ZDB-GENE-990415-135) | negative regulation of transcription by RNA polymerase II, nervous system development, positive regulation of transcription by RNA polymerase II |
 

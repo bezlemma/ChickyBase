@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100857708
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003643228
-gene_id: '472234'
+gene_id: '100857703'
 gene_type: miscRNA
 images:
 - caption: C2orf88 expression
@@ -52,7 +52,7 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig3.ChEST920i7.ST11-2.jpg
 name: chromosome 2 open reading frame 88
-ncbi_id: '472234'
+ncbi_id: '100857703'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -82,7 +82,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/472234
+  url: https://www.ncbi.nlm.nih.gov/gene/100857703
 species: Gallus gallus
 symbol: C2orf88
 title: C2orf88

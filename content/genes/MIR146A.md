@@ -6,7 +6,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018267
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NC_006100
-gene_id: '467918'
+gene_id: '777839'
 gene_type: miscRNA
 images:
 - caption: MIR146A expression
@@ -52,7 +52,7 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/146.44.20zz.jpg
 name: microRNA 146a
-ncbi_id: '467918'
+ncbi_id: '777839'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -82,10 +82,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467918
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777839
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467918
+  url: https://www.ncbi.nlm.nih.gov/gene/777839
 species: Gallus gallus
 symbol: MIR146A
 title: MIR146A

@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395274
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199487
-gene_id: '461595'
+gene_id: '395274'
 gene_type: protein-coding
 images:
 - caption: FAS expression
@@ -25,13 +25,8 @@ images:
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FAS.FIG1AB.SALLEE.2004.jpg
 name: Fas cell surface death receptor
-ncbi_id: '461595'
+ncbi_id: '395274'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000026103
   entrez: '355'
   mod: MIM:134637
@@ -43,20 +38,21 @@ orthologs:
   phenotypes: All phenotypic alleles (11):Spontaneous(2) Chemically induced(1) Targeted,
     knock-out(2) Targeted, other(6)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000031916
   entrez: '100124750'
-  mod: '940177'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000043586
   entrez: '768248'
   mod: ZFIN:ZDB-GENE-061019-2
-  phenotypes: ZDB-GENE-061019-2
+  phenotypes: activation-induced cell death of T cells, apoptotic process, immune
+    response, motor neuron apoptotic process, necroptotic signaling pathway
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461595
+  url: https://www.ncbi.nlm.nih.gov/gene/395274
 species: Gallus gallus
 symbol: FAS
 title: FAS
@@ -82,9 +78,8 @@ title: FAS
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000026103](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000026103) | [355](https://www.ncbi.nlm.nih.gov/gene/355) | [MIM:134637](https://omim.org/entry/134637) | MIM:601859 |
 | Mouse | [ENSMUSG00000024778](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024778) | [14102](https://www.ncbi.nlm.nih.gov/gene/14102) | [MGI:95484](http://www.informatics.jax.org/marker/MGI:95484) | All phenotypic alleles (11):Spontaneous(2) Chemically induced(1) Targeted, knock-out(2) Targeted, other(6) |
-| Xenopus |  | [100124750](https://www.ncbi.nlm.nih.gov/gene/100124750) | [940177](http://www.xenbase.org/gene/showgene.do?method=display&geneId=940177) |  |
-| Zebrafish | [ENSDARG00000043586](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043586) | [768248](https://www.ncbi.nlm.nih.gov/gene/768248) | [ZFIN:ZDB-GENE-061019-2](https://zfin.org/ZDB-GENE-061019-2) | ZDB-GENE-061019-2 |
+| Xenopus | [ENSXETG00000031916](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031916) | [100124750](https://www.ncbi.nlm.nih.gov/gene/100124750) |  |  |
+| Zebrafish | [ENSDARG00000043586](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043586) | [768248](https://www.ncbi.nlm.nih.gov/gene/768248) | [ZFIN:ZDB-GENE-061019-2](https://zfin.org/ZDB-GENE-061019-2) | activation-induced cell death of T cells, apoptotic process, immune response, motor neuron apoptotic process, necroptotic signaling pathway |
 

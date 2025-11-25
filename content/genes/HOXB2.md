@@ -3,7 +3,6 @@ aliases:
 - homeobox protein Hox-B2
 cgnc_id: '53816'
 external_ids:
-  '25': stage 25
   Citation: 'http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2012+Barak+HOX+Reshef '
   Comments: 'As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI (acc
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:429940
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642792
 forward_primer: GATGAAGCACAAGAGGCAAACACAG
-gene_id: '459788'
+gene_id: '429940'
 gene_type: protein-coding
 images:
 - caption: HOXB2 expression
@@ -214,13 +213,8 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig8.D.d.Hoxb2.ST11.Barak.jpg
 name: homeobox B2
-ncbi_id: '459788'
+ncbi_id: '429940'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000173917
   entrez: '3212'
   mod: MIM:142967
@@ -231,24 +225,25 @@ orthologs:
   mod: MGI:96183
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100038155,733446
-  mod: '478524'
+- ensembl: ENSXETG00000027353
+  entrez: '100038155'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000000175
   entrez: '30338'
   mod: ZFIN:ZDB-GENE-990415-103
-  phenotypes: ZDB-GENE-990415-103
+  phenotypes: regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGACGGGATGGGGTGATTGAATGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459788
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=429940
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459788
+  url: https://www.ncbi.nlm.nih.gov/gene/429940
 species: Gallus gallus
 symbol: HOXB2
 template_length: '537'
@@ -275,9 +270,8 @@ title: HOXB2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000173917](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000173917) | [3212](https://www.ncbi.nlm.nih.gov/gene/3212) | [MIM:142967](https://omim.org/entry/142967) |  |
 | Mouse | [ENSMUSG00000075588](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000075588) | [103889](https://www.ncbi.nlm.nih.gov/gene/103889) | [MGI:96183](http://www.informatics.jax.org/marker/MGI:96183) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100038155](https://www.ncbi.nlm.nih.gov/gene/100038155), [733446](https://www.ncbi.nlm.nih.gov/gene/733446) | [478524](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478524) |  |
-| Zebrafish | [ENSDARG00000000175](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000000175) | [30338](https://www.ncbi.nlm.nih.gov/gene/30338) | [ZFIN:ZDB-GENE-990415-103](https://zfin.org/ZDB-GENE-990415-103) | ZDB-GENE-990415-103 |
+| Xenopus | [ENSXETG00000027353](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000027353) | [100038155](https://www.ncbi.nlm.nih.gov/gene/100038155) |  |  |
+| Zebrafish | [ENSDARG00000000175](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000000175) | [30338](https://www.ncbi.nlm.nih.gov/gene/30338) | [ZFIN:ZDB-GENE-990415-103](https://zfin.org/ZDB-GENE-990415-103) | regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

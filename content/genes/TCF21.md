@@ -1,7 +1,6 @@
 ---
 cgnc_id: '10451'
 external_ids:
-  '31': stage 31stage 31
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2012+Braitsch+Yutzey+Pod1
   Comments: Images and probe sequence provided by Claire Anderson.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -10,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421697
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277711
-gene_id: '458422'
+gene_id: '421697'
 gene_type: protein-coding
 images:
 - caption: TCF21 expression
@@ -360,13 +359,8 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TCF21_HH 12 x25.jpg
 name: transcription factor 21
-ncbi_id: '458422'
+ncbi_id: '421697'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000118526
   entrez: '6943'
   mod: MIM:603306
@@ -377,23 +371,25 @@ orthologs:
   mod: MGI:1202715
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100126209,444386
-  mod: '484804'
+- ensembl: ENSXETG00000000114
+  entrez: '100126209'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000036869
   entrez: '558148'
   mod: ZFIN:ZDB-GENE-051113-88
-  phenotypes: ZDB-GENE-051113-88
+  phenotypes: Sertoli cell differentiation, artery development, branching involved
+    in ureteric bud morphogenesis, branchiomeric skeletal muscle development, bronchiole
+    development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458422
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421697
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458422
+  url: https://www.ncbi.nlm.nih.gov/gene/421697
 species: Gallus gallus
 symbol: TCF21
 title: TCF21
@@ -419,9 +415,8 @@ title: TCF21
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000118526](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118526) | [6943](https://www.ncbi.nlm.nih.gov/gene/6943) | [MIM:603306](https://omim.org/entry/603306) |  |
 | Mouse | [ENSMUSG00000045680](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000045680) | [21412](https://www.ncbi.nlm.nih.gov/gene/21412) | [MGI:1202715](http://www.informatics.jax.org/marker/MGI:1202715) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100126209](https://www.ncbi.nlm.nih.gov/gene/100126209), [444386](https://www.ncbi.nlm.nih.gov/gene/444386) | [484804](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484804) |  |
-| Zebrafish | [ENSDARG00000036869](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036869) | [558148](https://www.ncbi.nlm.nih.gov/gene/558148) | [ZFIN:ZDB-GENE-051113-88](https://zfin.org/ZDB-GENE-051113-88) | ZDB-GENE-051113-88 |
+| Xenopus | [ENSXETG00000000114](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000114) | [100126209](https://www.ncbi.nlm.nih.gov/gene/100126209) |  |  |
+| Zebrafish | [ENSDARG00000036869](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036869) | [558148](https://www.ncbi.nlm.nih.gov/gene/558148) | [ZFIN:ZDB-GENE-051113-88](https://zfin.org/ZDB-GENE-051113-88) | Sertoli cell differentiation, artery development, branching involved in ureteric bud morphogenesis, branchiomeric skeletal muscle development, bronchiole development |
 

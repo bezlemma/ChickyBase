@@ -3,7 +3,6 @@ aliases:
 - ras-GEF domain-containing family member 1B
 cgnc_id: '63405'
 external_ids:
-  '4': stage 4stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Alev+Jakt+Ueda+landscape
   Comments: "Primer Sequences from Publication: FORWARD PRIMER CCTTCCTTCTCAGTTCACGC;\r\
     \nREVERSE PRIMER\tCTTTCGATCTCCGTAGCAGC \r\n\r\nPrimers are 100% match to RASGEF1B"
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100859744
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641169
 forward_primer: CCTTCCTTCTCAGTTCACGC
-gene_id: '474275'
+gene_id: '100859744'
 gene_type: protein-coding
 images:
 - caption: RASGEF1B expression
@@ -153,41 +152,36 @@ images:
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PRKG2.Alev.2010.5a22.png
 name: RasGEF domain family member 1B
-ncbi_id: '474275'
+ncbi_id: '100859744'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000138670
+  entrez: '153020'
+  mod: MIM:614532
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000089809
+  entrez: '320292'
+  mod: MGI:2443755
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000012564
+  entrez: '549667'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000033614
+  entrez: '327572'
+  mod: ZFIN:ZDB-GENE-030131-5783
+  phenotypes: Ras protein signal transduction, small GTPase-mediated signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCTTTCGATCTCCGTAGCAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=474275
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100859744
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/474275
+  url: https://www.ncbi.nlm.nih.gov/gene/100859744
 species: Gallus gallus
 symbol: RASGEF1B
 title: RASGEF1B
@@ -216,9 +210,8 @@ Primers are 100% match to RASGEF1B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000138670](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138670) | [153020](https://www.ncbi.nlm.nih.gov/gene/153020) | [MIM:614532](https://omim.org/entry/614532) |  |
+| Mouse | [ENSMUSG00000089809](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000089809) | [320292](https://www.ncbi.nlm.nih.gov/gene/320292) | [MGI:2443755](http://www.informatics.jax.org/marker/MGI:2443755) |  |
+| Xenopus | [ENSXETG00000012564](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012564) | [549667](https://www.ncbi.nlm.nih.gov/gene/549667) |  |  |
+| Zebrafish | [ENSDARG00000033614](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033614) | [327572](https://www.ncbi.nlm.nih.gov/gene/327572) | [ZFIN:ZDB-GENE-030131-5783](https://zfin.org/ZDB-GENE-030131-5783) | Ras protein signal transduction, small GTPase-mediated signal transduction |
 

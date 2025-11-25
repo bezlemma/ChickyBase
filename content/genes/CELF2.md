@@ -23,7 +23,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003723
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204260
 forward_primer: ACCCTCCCCAAAGTAAAGGTTG
-gene_id: '455702'
+gene_id: '374111'
 gene_type: protein-coding
 images:
 - caption: CELF2 expression
@@ -190,13 +190,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ETR3.Figure3L.Brimacombe.2007.jpg
 name: CUGBP Elav-like family member 2
-ncbi_id: '455702'
+ncbi_id: '374111'
 orthologs:
-- ensembl: ''
-  entrez: '34648'
-  mod: FBgn0000114
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000048740
   entrez: '10659'
   mod: MIM:602538
@@ -207,24 +202,25 @@ orthologs:
   mod: MGI:1338822
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100125022,379280,100190783
-  mod: '963639'
+- ensembl: ENSXETG00000021992
+  entrez: '100125022'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000002131
   entrez: '373117'
   mod: ZFIN:ZDB-GENE-030826-35
-  phenotypes: ZDB-GENE-030826-35
+  phenotypes: mRNA processing, mRNA splice site recognition, regulation of alternative
+    mRNA splicing, via spliceosome
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCATTCGTCAAGCCTGTTGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455702
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374111
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455702
+  url: https://www.ncbi.nlm.nih.gov/gene/374111
 species: Gallus gallus
 symbol: CELF2
 template_length: '903'
@@ -255,9 +251,8 @@ title: CELF2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34648](https://www.ncbi.nlm.nih.gov/gene/34648) | FBgn0000114 |  |
 | Human | [ENSG00000048740](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000048740) | [10659](https://www.ncbi.nlm.nih.gov/gene/10659) | [MIM:602538](https://omim.org/entry/602538) |  |
 | Mouse | [ENSMUSG00000002107](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002107) | [14007](https://www.ncbi.nlm.nih.gov/gene/14007) | [MGI:1338822](http://www.informatics.jax.org/marker/MGI:1338822) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100125022](https://www.ncbi.nlm.nih.gov/gene/100125022), [379280](https://www.ncbi.nlm.nih.gov/gene/379280), [100190783](https://www.ncbi.nlm.nih.gov/gene/100190783) | [963639](http://www.xenbase.org/gene/showgene.do?method=display&geneId=963639) |  |
-| Zebrafish | [ENSDARG00000002131](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002131) | [373117](https://www.ncbi.nlm.nih.gov/gene/373117) | [ZFIN:ZDB-GENE-030826-35](https://zfin.org/ZDB-GENE-030826-35) | ZDB-GENE-030826-35 |
+| Xenopus | [ENSXETG00000021992](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021992) | [100125022](https://www.ncbi.nlm.nih.gov/gene/100125022) |  |  |
+| Zebrafish | [ENSDARG00000002131](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002131) | [373117](https://www.ncbi.nlm.nih.gov/gene/373117) | [ZFIN:ZDB-GENE-030826-35](https://zfin.org/ZDB-GENE-030826-35) | mRNA processing, mRNA splice site recognition, regulation of alternative mRNA splicing, via spliceosome |
 

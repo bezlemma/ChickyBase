@@ -5,7 +5,6 @@ aliases:
 - sine oculis homeobox homolog 4
 cgnc_id: '49394'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=
   Comments: As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI XM_003641442.2

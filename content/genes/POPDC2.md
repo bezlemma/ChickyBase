@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:404229
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_206865
-gene_id: '457329'
+gene_id: '404229'
 gene_type: protein-coding
 images:
 - caption: POPDC2 expression
@@ -115,13 +115,8 @@ images:
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Popdc2.Breher.2004N.jpg
 name: popeye domain containing 2
-ncbi_id: '457329'
+ncbi_id: '404229'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000121577
   entrez: '64091'
   mod: MIM:605823
@@ -132,20 +127,21 @@ orthologs:
   mod: MGI:1930150
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100489812,494649
-  mod: '958805'
+- ensembl: ENSXETG00000041522
+  entrez: '100489812'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000069922
+- ensembl: ENSDARG00000109930
   entrez: '793666'
   mod: ZFIN:ZDB-GENE-060518-2
-  phenotypes: ZDB-GENE-060518-2
+  phenotypes: cardiac conduction, heart development, heart looping, regulation of
+    membrane potential, skeletal muscle tissue development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457329
+  url: https://www.ncbi.nlm.nih.gov/gene/404229
 species: Gallus gallus
 symbol: POPDC2
 title: POPDC2
@@ -174,9 +170,8 @@ with T7 RNA polymerase.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000121577](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000121577) | [64091](https://www.ncbi.nlm.nih.gov/gene/64091) | [MIM:605823](https://omim.org/entry/605823) |  |
 | Mouse | [ENSMUSG00000022803](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022803) | [64082](https://www.ncbi.nlm.nih.gov/gene/64082) | [MGI:1930150](http://www.informatics.jax.org/marker/MGI:1930150) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [100489812](https://www.ncbi.nlm.nih.gov/gene/100489812), [494649](https://www.ncbi.nlm.nih.gov/gene/494649) | [958805](http://www.xenbase.org/gene/showgene.do?method=display&geneId=958805) |  |
-| Zebrafish | [ENSDARG00000069922](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069922) | [793666](https://www.ncbi.nlm.nih.gov/gene/793666) | [ZFIN:ZDB-GENE-060518-2](https://zfin.org/ZDB-GENE-060518-2) | ZDB-GENE-060518-2 |
+| Xenopus | [ENSXETG00000041522](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041522) | [100489812](https://www.ncbi.nlm.nih.gov/gene/100489812) |  |  |
+| Zebrafish | [ENSDARG00000109930](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000109930) | [793666](https://www.ncbi.nlm.nih.gov/gene/793666) | [ZFIN:ZDB-GENE-060518-2](https://zfin.org/ZDB-GENE-060518-2) | cardiac conduction, heart development, heart looping, regulation of membrane potential, skeletal muscle tissue development |
 

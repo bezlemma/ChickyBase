@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418789
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416984
-gene_id: '453950'
+gene_id: '418789'
 gene_type: protein-coding
 images:
 - caption: DZIP1 expression
@@ -37,13 +37,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DZIP1.FIG4I.AGARWALA.2005.jpg
 name: DAZ interacting zinc finger protein 1
-ncbi_id: '453950'
+ncbi_id: '418789'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134874
   entrez: '22873'
   mod: MIM:608671
@@ -54,20 +49,21 @@ orthologs:
   mod: MGI:1914311
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 733791,446844
-  mod: '997054'
+- ensembl: ENSXETG00000031622
+  entrez: '733791'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000000943
+- ensembl: ENSDARG00000113867
   entrez: '402875'
   mod: ZFIN:ZDB-GENE-040526-1
-  phenotypes: ZDB-GENE-040526-1
+  phenotypes: NLS-bearing protein import into nucleus, adenohypophysis development,
+    axoneme assembly, blood vessel development, cell projection organization
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453950
+  url: https://www.ncbi.nlm.nih.gov/gene/418789
 species: Gallus gallus
 symbol: DZIP1
 title: DZIP1
@@ -93,9 +89,8 @@ title: DZIP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000134874](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134874) | [22873](https://www.ncbi.nlm.nih.gov/gene/22873) | [MIM:608671](https://omim.org/entry/608671) |  |
 | Mouse | [ENSMUSG00000042156](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042156) | [66573](https://www.ncbi.nlm.nih.gov/gene/66573) | [MGI:1914311](http://www.informatics.jax.org/marker/MGI:1914311) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [733791](https://www.ncbi.nlm.nih.gov/gene/733791), [446844](https://www.ncbi.nlm.nih.gov/gene/446844) | [997054](http://www.xenbase.org/gene/showgene.do?method=display&geneId=997054) |  |
-| Zebrafish | [ENSDARG00000000943](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000000943) | [402875](https://www.ncbi.nlm.nih.gov/gene/402875) | [ZFIN:ZDB-GENE-040526-1](https://zfin.org/ZDB-GENE-040526-1) | ZDB-GENE-040526-1 |
+| Xenopus | [ENSXETG00000031622](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031622) | [733791](https://www.ncbi.nlm.nih.gov/gene/733791) |  |  |
+| Zebrafish | [ENSDARG00000113867](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000113867) | [402875](https://www.ncbi.nlm.nih.gov/gene/402875) | [ZFIN:ZDB-GENE-040526-1](https://zfin.org/ZDB-GENE-040526-1) | NLS-bearing protein import into nucleus, adenohypophysis development, axoneme assembly, blood vessel development, cell projection organization |
 

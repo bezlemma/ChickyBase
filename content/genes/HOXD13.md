@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396415
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205434
-gene_id: '460988'
+gene_id: '396415'
 gene_type: protein-coding
 images:
 - caption: HOXD13 expression
@@ -401,13 +401,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxd13.Yakushiji-Kaminatsui.2018.Fig1.jpg
 name: homeobox D13
-ncbi_id: '460988'
+ncbi_id: '396415'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000128714
   entrez: '3239'
   mod: MIM:142989
@@ -419,23 +414,18 @@ orthologs:
   phenotypes: All phenotypic alleles (15):Spontaneous(2) Targeted, knock-out(9) Targeted,
     other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100498102,399207
-  mod: '482319'
+- ensembl: ENSXETG00000007575
+  entrez: '100498102'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000059256
-  entrez: '30407'
-  mod: ZFIN:ZDB-GENE-990415-119
-  phenotypes: ZDB-GENE-990415-119
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460988
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396415
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460988
+  url: https://www.ncbi.nlm.nih.gov/gene/396415
 species: Gallus gallus
 symbol: HOXD13
 title: HOXD13
@@ -464,9 +454,7 @@ title: HOXD13
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000128714](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000128714) | [3239](https://www.ncbi.nlm.nih.gov/gene/3239) | [MIM:142989](https://omim.org/entry/142989) | MIM:113200 |
 | Mouse | [ENSMUSG00000001819](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001819) | [15433](https://www.ncbi.nlm.nih.gov/gene/15433) | [MGI:96205](http://www.informatics.jax.org/marker/MGI:96205) | All phenotypic alleles (15):Spontaneous(2) Targeted, knock-out(9) Targeted, other(4) |
-| Xenopus |  | [100498102](https://www.ncbi.nlm.nih.gov/gene/100498102), [399207](https://www.ncbi.nlm.nih.gov/gene/399207) | [482319](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482319) |  |
-| Zebrafish | [ENSDARG00000059256](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059256) | [30407](https://www.ncbi.nlm.nih.gov/gene/30407) | [ZFIN:ZDB-GENE-990415-119](https://zfin.org/ZDB-GENE-990415-119) | ZDB-GENE-990415-119 |
+| Xenopus | [ENSXETG00000007575](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007575) | [100498102](https://www.ncbi.nlm.nih.gov/gene/100498102) |  |  |
 

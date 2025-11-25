@@ -3,7 +3,6 @@ aliases:
 - alpha-2-macroglobulin receptor
 cgnc_id: '49684'
 external_ids:
-  '31': stage 31
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006897
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005905
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2019+Cui+MDK+PTN
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396170
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205242
-gene_id: '459044'
+gene_id: '396170'
 gene_type: protein-coding
 images:
 - caption: LRP1 expression
@@ -34,37 +33,33 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig5.Allimages-5.jpg
 name: LDL receptor related protein 1
-ncbi_id: '459044'
+ncbi_id: '396170'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000123384
+  entrez: '4035'
+  mod: MIM:107770
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000040249
+  entrez: '16971'
+  mod: MGI:96828
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000010934
+  entrez: '100485788'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000114175
+  entrez: '565797'
+  mod: ZFIN:ZDB-GENE-030131-7126
+  phenotypes: amyloid-beta clearance by cellular catabolic process, amyloid-beta clearance
+    by transcytosis, endocytosis, phagocytosis, receptor-mediated endocytosis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459044
+  url: https://www.ncbi.nlm.nih.gov/gene/396170
 species: Gallus gallus
 symbol: LRP1
 title: LRP1
@@ -93,9 +88,8 @@ title: LRP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000123384](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000123384) | [4035](https://www.ncbi.nlm.nih.gov/gene/4035) | [MIM:107770](https://omim.org/entry/107770) |  |
+| Mouse | [ENSMUSG00000040249](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040249) | [16971](https://www.ncbi.nlm.nih.gov/gene/16971) | [MGI:96828](http://www.informatics.jax.org/marker/MGI:96828) |  |
+| Xenopus | [ENSXETG00000010934](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010934) | [100485788](https://www.ncbi.nlm.nih.gov/gene/100485788) |  |  |
+| Zebrafish | [ENSDARG00000114175](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114175) | [565797](https://www.ncbi.nlm.nih.gov/gene/565797) | [ZFIN:ZDB-GENE-030131-7126](https://zfin.org/ZDB-GENE-030131-7126) | amyloid-beta clearance by cellular catabolic process, amyloid-beta clearance by transcytosis, endocytosis, phagocytosis, receptor-mediated endocytosis |
 

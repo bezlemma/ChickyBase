@@ -3,7 +3,6 @@ aliases:
 - BRCA2 and CDKN1A-interacting protein
 cgnc_id: '4992'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0038183
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/41690
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000006617
@@ -11,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426225
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423888
 forward_primer: AAGCAAGCAGAAGTCCAAGACG
-gene_id: '462264'
+gene_id: '426225'
 gene_type: protein-coding
 images:
 - caption: BCCIP expression
@@ -116,13 +115,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R532.BCCIP.S25AAA.001.jpg
 name: BRCA2 and CDKN1A interacting protein
-ncbi_id: '462264'
+ncbi_id: '426225'
 orthologs:
-- ensembl: ''
-  entrez: '41690'
-  mod: FBgn0038183
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000107949
   entrez: '56647'
   mod: MIM:611883
@@ -133,24 +127,25 @@ orthologs:
   mod: MGI:1913415
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 448392,444344
-  mod: '492139'
+- ensembl: ENSXETG00000025198
+  entrez: '448392'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000004948
   entrez: '541348'
   mod: ZFIN:ZDB-GENE-050320-39
-  phenotypes: ZDB-GENE-050320-39
+  phenotypes: DNA damage response, DNA repair, microtubule anchoring, microtubule
+    cytoskeleton organization, mitotic spindle assembly
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCAGTCCGCCAAGGTTTCATTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462264
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426225
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462264
+  url: https://www.ncbi.nlm.nih.gov/gene/426225
 species: Gallus gallus
 symbol: BCCIP
 template_length: '565'
@@ -174,9 +169,8 @@ title: BCCIP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41690](https://www.ncbi.nlm.nih.gov/gene/41690) | FBgn0038183 |  |
 | Human | [ENSG00000107949](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107949) | [56647](https://www.ncbi.nlm.nih.gov/gene/56647) | [MIM:611883](https://omim.org/entry/611883) |  |
 | Mouse | [ENSMUSG00000030983](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030983) | [66165](https://www.ncbi.nlm.nih.gov/gene/66165) | [MGI:1913415](http://www.informatics.jax.org/marker/MGI:1913415) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [448392](https://www.ncbi.nlm.nih.gov/gene/448392), [444344](https://www.ncbi.nlm.nih.gov/gene/444344) | [492139](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492139) |  |
-| Zebrafish | [ENSDARG00000004948](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004948) | [541348](https://www.ncbi.nlm.nih.gov/gene/541348) | [ZFIN:ZDB-GENE-050320-39](https://zfin.org/ZDB-GENE-050320-39) | ZDB-GENE-050320-39 |
+| Xenopus | [ENSXETG00000025198](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025198) | [448392](https://www.ncbi.nlm.nih.gov/gene/448392) |  |  |
+| Zebrafish | [ENSDARG00000004948](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004948) | [541348](https://www.ncbi.nlm.nih.gov/gene/541348) | [ZFIN:ZDB-GENE-050320-39](https://zfin.org/ZDB-GENE-050320-39) | DNA damage response, DNA repair, microtubule anchoring, microtubule cytoskeleton organization, mitotic spindle assembly |
 

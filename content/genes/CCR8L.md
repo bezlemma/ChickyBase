@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:776400
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001080894
 forward_primer: CTTCTGGGAAACTCCTTGGTCC
-gene_id: '457240'
+gene_id: '776400'
 gene_type: protein-coding
 images:
 - caption: CCR8L expression
@@ -132,13 +132,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.CCR8L.S26V.001.jpg
 name: C-C chemokine receptor 8 like
-ncbi_id: '457240'
+ncbi_id: '776400'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000179934
   entrez: '1237'
   mod: MIM:601834
@@ -149,24 +144,14 @@ orthologs:
   mod: MGI:1201402
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000032826
-  entrez: '792495'
-  mod: ZFIN:ZDB-GENE-090420-1,ZFIN:ZDB-GENE-090420-2,ZFIN:ZDB-GENE-070302-1
-  phenotypes: ZDB-GENE-090420-1,ZDB-GENE-090420-2,ZDB-GENE-070302-1
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGATCTGGGCATAGCAGTGGATGAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457240
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=776400
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457240
+  url: https://www.ncbi.nlm.nih.gov/gene/776400
 species: Gallus gallus
 symbol: CCR8L
 template_length: '515'
@@ -189,9 +174,6 @@ title: CCR8L
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000179934](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000179934) | [1237](https://www.ncbi.nlm.nih.gov/gene/1237) | [MIM:601834](https://omim.org/entry/601834) |  |
 | Mouse | [ENSMUSG00000042262](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042262) | [12776](https://www.ncbi.nlm.nih.gov/gene/12776) | [MGI:1201402](http://www.informatics.jax.org/marker/MGI:1201402) |  |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000032826](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032826) | [792495](https://www.ncbi.nlm.nih.gov/gene/792495) | [ZFIN:ZDB-GENE-090420-1](https://zfin.org/ZDB-GENE-090420-1), [ZFIN:ZDB-GENE-090420-2](https://zfin.org/ZDB-GENE-090420-2), [ZFIN:ZDB-GENE-070302-1](https://zfin.org/ZDB-GENE-070302-1) | ZDB-GENE-090420-1,ZDB-GENE-090420-2,ZDB-GENE-070302-1 |
 

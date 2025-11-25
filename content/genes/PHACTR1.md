@@ -21,7 +21,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395093
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003779
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204446
-gene_id: '460660'
+gene_id: '395093'
 gene_type: protein-coding
 images:
 - caption: PHACTR1 expression
@@ -137,13 +137,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure4B.Shin.2003.jpg
 name: phosphatase and actin regulator 1
-ncbi_id: '460660'
+ncbi_id: '395093'
 orthologs:
-- ensembl: ''
-  entrez: '38438'
-  mod: FBgn0052264
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000112137
   entrez: '221692'
   mod: MIM:608723
@@ -154,20 +149,20 @@ orthologs:
   mod: MGI:2659021
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100216198,444657
-  mod: '5959315'
+- ensembl: ENSXETG00000002268
+  entrez: '100216198'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '100004995'
+- ensembl: ENSDARG00000023916
+  entrez: '100334776'
   mod: ZFIN:ZDB-GENE-101230-3
-  phenotypes: ZDB-GENE-101230-3
+  phenotypes: cell motility, stress fiber assembly, vasculature development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460660
+  url: https://www.ncbi.nlm.nih.gov/gene/395093
 species: Gallus gallus
 symbol: PHACTR1
 title: PHACTR1
@@ -199,9 +194,8 @@ Copyright © 2003 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38438](https://www.ncbi.nlm.nih.gov/gene/38438) | FBgn0052264 |  |
 | Human | [ENSG00000112137](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112137) | [221692](https://www.ncbi.nlm.nih.gov/gene/221692) | [MIM:608723](https://omim.org/entry/608723) |  |
 | Mouse | [ENSMUSG00000054728](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000054728) | [218194](https://www.ncbi.nlm.nih.gov/gene/218194) | [MGI:2659021](http://www.informatics.jax.org/marker/MGI:2659021) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100216198](https://www.ncbi.nlm.nih.gov/gene/100216198), [444657](https://www.ncbi.nlm.nih.gov/gene/444657) | [5959315](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5959315) |  |
-| Zebrafish |  | [100004995](https://www.ncbi.nlm.nih.gov/gene/100004995) | [ZFIN:ZDB-GENE-101230-3](https://zfin.org/ZDB-GENE-101230-3) | ZDB-GENE-101230-3 |
+| Xenopus | [ENSXETG00000002268](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002268) | [100216198](https://www.ncbi.nlm.nih.gov/gene/100216198) |  |  |
+| Zebrafish | [ENSDARG00000023916](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023916) | [100334776](https://www.ncbi.nlm.nih.gov/gene/100334776) | [ZFIN:ZDB-GENE-101230-3](https://zfin.org/ZDB-GENE-101230-3) | cell motility, stress fiber assembly, vasculature development |
 

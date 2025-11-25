@@ -1,6 +1,5 @@
 ---
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Darnell+MicroRNA+Stanislaw+Dev
     Dyn
   Comments: this miR found in within the gene ENSGALG00000008449, a collagen alpha
@@ -11,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:777842
   Sequence Information: GenomicRNAPolypeptide
-gene_id: '467959'
+gene_id: '777842'
 gene_type: unknown
 images:
 - caption: MIR205B expression
@@ -53,7 +52,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/205b.74.25.jpg
 name: microRNA 205b
-ncbi_id: '467959'
+ncbi_id: '777842'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -83,7 +82,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467959
+  url: https://www.ncbi.nlm.nih.gov/gene/777842
 species: Gallus gallus
 symbol: MIR205B
 title: MIR205B

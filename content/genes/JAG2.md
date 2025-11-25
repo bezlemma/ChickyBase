@@ -6,7 +6,6 @@ aliases:
 - serrate-2, C-Serrate-2, Serrate-2, Jagged 2, Jag2
 cgnc_id: '57670'
 external_ids:
-  '7': stage 7
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0004197
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Hayashi+1996+C-Notch-1
   Comments: The complete cDNA template sequence was obtained from the information
@@ -19,7 +18,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:776138
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001235688
-gene_id: '458654'
+gene_id: '776138'
 gene_type: protein-coding
 images:
 - caption: JAG2 expression
@@ -151,13 +150,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C-Serrate-2.Hayashi.1996.Fig6.jpg
 name: jagged 2
-ncbi_id: '458654'
+ncbi_id: '776138'
 orthologs:
-- ensembl: ''
-  entrez: '43275'
-  mod: FBgn0004197
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000184916
   entrez: '3714'
   mod: MIM:602570
@@ -169,20 +163,21 @@ orthologs:
   phenotypes: All phenotypic alleles (6):Spontaneous(1) Targeted, knock-out(2) Targeted,
     other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000033099
   entrez: '100497180'
-  mod: '485159'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000021389
+- ensembl: ENSDARG00000112465
   entrez: '140422'
-  mod: ZFIN:ZDB-GENE-011128-3,ZFIN:ZDB-GENE-130530-549
-  phenotypes: ZDB-GENE-011128-3,ZDB-GENE-130530-549
+  mod: ZFIN:ZDB-GENE-011128-3
+  phenotypes: Notch signaling pathway, animal organ development, cell communication,
+    central nervous system development, embryonic organ development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458654
+  url: https://www.ncbi.nlm.nih.gov/gene/776138
 species: Gallus gallus
 symbol: JAG2
 title: JAG2
@@ -210,9 +205,8 @@ title: JAG2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43275](https://www.ncbi.nlm.nih.gov/gene/43275) | FBgn0004197 |  |
 | Human | [ENSG00000184916](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000184916) | [3714](https://www.ncbi.nlm.nih.gov/gene/3714) | [MIM:602570](https://omim.org/entry/602570) |  |
 | Mouse | [ENSMUSG00000002799](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002799) | [16450](https://www.ncbi.nlm.nih.gov/gene/16450) | [MGI:1098270](http://www.informatics.jax.org/marker/MGI:1098270) | All phenotypic alleles (6):Spontaneous(1) Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100497180](https://www.ncbi.nlm.nih.gov/gene/100497180) | [485159](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485159) |  |
-| Zebrafish | [ENSDARG00000021389](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021389) | [140422](https://www.ncbi.nlm.nih.gov/gene/140422) | [ZFIN:ZDB-GENE-011128-3](https://zfin.org/ZDB-GENE-011128-3), [ZFIN:ZDB-GENE-130530-549](https://zfin.org/ZDB-GENE-130530-549) | ZDB-GENE-011128-3,ZDB-GENE-130530-549 |
+| Xenopus | [ENSXETG00000033099](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033099) | [100497180](https://www.ncbi.nlm.nih.gov/gene/100497180) |  |  |
+| Zebrafish | [ENSDARG00000112465](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000112465) | [140422](https://www.ncbi.nlm.nih.gov/gene/140422) | [ZFIN:ZDB-GENE-011128-3](https://zfin.org/ZDB-GENE-011128-3) | Notch signaling pathway, animal organ development, cell communication, central nervous system development, embryonic organ development |
 

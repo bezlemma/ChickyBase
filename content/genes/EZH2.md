@@ -3,7 +3,6 @@ aliases:
 - histone-lysine N-methyltransferase EZH2
 cgnc_id: '9422'
 external_ids:
-  '25': stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0000629
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Trevers et al. 2023.
@@ -15,7 +14,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418879
   X-XIV: stage XII
 forward_primer: 5’-TGAACAGCAGCTTCCAGGAG-3’
-gene_id: '455730'
+gene_id: '420784'
 gene_type: protein-coding
 images:
 - caption: EZH2 expression
@@ -174,13 +173,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EZH2.Travers.2023-Fig7-1-R.jpg
 name: enhancer of zeste 2 polycomb repressive complex 2 subunit
-ncbi_id: '455730'
+ncbi_id: '420784'
 orthologs:
-- ensembl: ''
-  entrez: '39203'
-  mod: FBgn0000629
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000106462
   entrez: '2146'
   mod: MIM:601573
@@ -191,24 +185,25 @@ orthologs:
   mod: MGI:107940
   phenotypes: All phenotypic alleles (11):Targeted, knock-out(4) Targeted, other(7)
   species: Mouse
-- ensembl: ''
-  entrez: 550047,399174,443646
-  mod: '956214'
+- ensembl: ENSXETG00000020146
+  entrez: '550047'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000010571
   entrez: '768133'
   mod: ZFIN:ZDB-GENE-041111-259
-  phenotypes: ZDB-GENE-041111-259
+  phenotypes: chromatin organization, chromatin remodeling, digestive tract development,
+    fin regeneration, heart development
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAGGCTGACGTGGATGATCAC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455730
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420784
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455730
+  url: https://www.ncbi.nlm.nih.gov/gene/420784
 species: Gallus gallus
 symbol: EZH2
 template_length: '844'
@@ -235,9 +230,8 @@ title: EZH2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39203](https://www.ncbi.nlm.nih.gov/gene/39203) | FBgn0000629 |  |
 | Human | [ENSG00000106462](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000106462) | [2146](https://www.ncbi.nlm.nih.gov/gene/2146) | [MIM:601573](https://omim.org/entry/601573) |  |
 | Mouse | [ENSMUSG00000029687](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029687) | [14056](https://www.ncbi.nlm.nih.gov/gene/14056) | [MGI:107940](http://www.informatics.jax.org/marker/MGI:107940) | All phenotypic alleles (11):Targeted, knock-out(4) Targeted, other(7) |
-| Xenopus |  | [550047](https://www.ncbi.nlm.nih.gov/gene/550047), [399174](https://www.ncbi.nlm.nih.gov/gene/399174), [443646](https://www.ncbi.nlm.nih.gov/gene/443646) | [956214](http://www.xenbase.org/gene/showgene.do?method=display&geneId=956214) |  |
-| Zebrafish | [ENSDARG00000010571](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010571) | [768133](https://www.ncbi.nlm.nih.gov/gene/768133) | [ZFIN:ZDB-GENE-041111-259](https://zfin.org/ZDB-GENE-041111-259) | ZDB-GENE-041111-259 |
+| Xenopus | [ENSXETG00000020146](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020146) | [550047](https://www.ncbi.nlm.nih.gov/gene/550047) |  |  |
+| Zebrafish | [ENSDARG00000010571](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010571) | [768133](https://www.ncbi.nlm.nih.gov/gene/768133) | [ZFIN:ZDB-GENE-041111-259](https://zfin.org/ZDB-GENE-041111-259) | chromatin organization, chromatin remodeling, digestive tract development, fin regeneration, heart development |
 

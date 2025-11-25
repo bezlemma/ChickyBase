@@ -4,14 +4,13 @@ aliases:
 - cell division protein kinase 3
 cgnc_id: '6417'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000008462
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:429642
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001081706
 forward_primer: 5’-GCAATTGCTCCTGTACGA-3’
-gene_id: '463024'
+gene_id: '429642'
 gene_type: protein-coding
 images:
 - caption: CDK3 expression
@@ -58,41 +57,21 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R680.CDK3.S25.001.jpg
 name: cyclin dependent kinase 3
-ncbi_id: '463024'
+ncbi_id: '429642'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000250506
   entrez: '1018'
   mod: MIM:123828
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTTAGCTTGCTGGCTAACG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463024
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=429642
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463024
+  url: https://www.ncbi.nlm.nih.gov/gene/429642
 species: Gallus gallus
 symbol: CDK3
 template_length: '423'
@@ -115,9 +94,5 @@ title: CDK3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000250506](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000250506) | [1018](https://www.ncbi.nlm.nih.gov/gene/1018) | [MIM:123828](https://omim.org/entry/123828) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
 

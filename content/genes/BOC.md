@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418361
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416581
 forward_primer: 5'-TCTCGCCTCTCTGTGGAAATCC-3'
-gene_id: '456657'
+gene_id: '418361'
 gene_type: protein-coding
 images:
 - caption: BOC expression
@@ -246,13 +246,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kahane.2013.Fig1_A-Gli.jpg
 name: BOC cell adhesion associated, oncogene regulated
-ncbi_id: '456657'
+ncbi_id: '418361'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000144857
   entrez: '91653'
   mod: MIM:608708
@@ -263,24 +258,25 @@ orthologs:
   mod: MGI:2151153
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 780199,443556
-  mod: '923397'
+- ensembl: ENSXETG00000012171
+  entrez: '780199'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000074335
   entrez: '334628'
   mod: ZFIN:ZDB-GENE-030131-6560
-  phenotypes: ZDB-GENE-030131-6560
+  phenotypes: axon guidance, cell adhesion, cell-cell adhesion, nervous system development,
+    regulation of smoothened signaling pathway
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGAAGTATGGTAGGTCGCTGGAACGG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456657
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418361
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456657
+  url: https://www.ncbi.nlm.nih.gov/gene/418361
 species: Gallus gallus
 symbol: BOC
 template_length: '584'
@@ -307,9 +303,8 @@ title: BOC
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000144857](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000144857) | [91653](https://www.ncbi.nlm.nih.gov/gene/91653) | [MIM:608708](https://omim.org/entry/608708) |  |
 | Mouse | [ENSMUSG00000022687](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022687) | [117606](https://www.ncbi.nlm.nih.gov/gene/117606) | [MGI:2151153](http://www.informatics.jax.org/marker/MGI:2151153) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [780199](https://www.ncbi.nlm.nih.gov/gene/780199), [443556](https://www.ncbi.nlm.nih.gov/gene/443556) | [923397](http://www.xenbase.org/gene/showgene.do?method=display&geneId=923397) |  |
-| Zebrafish | [ENSDARG00000074335](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074335) | [334628](https://www.ncbi.nlm.nih.gov/gene/334628) | [ZFIN:ZDB-GENE-030131-6560](https://zfin.org/ZDB-GENE-030131-6560) | ZDB-GENE-030131-6560 |
+| Xenopus | [ENSXETG00000012171](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012171) | [780199](https://www.ncbi.nlm.nih.gov/gene/780199) |  |  |
+| Zebrafish | [ENSDARG00000074335](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074335) | [334628](https://www.ncbi.nlm.nih.gov/gene/334628) | [ZFIN:ZDB-GENE-030131-6560](https://zfin.org/ZDB-GENE-030131-6560) | axon guidance, cell adhesion, cell-cell adhesion, nervous system development, regulation of smoothened signaling pathway |
 

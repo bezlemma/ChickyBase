@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419308
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006293
-gene_id: '454979'
+gene_id: '419308'
 gene_type: protein-coding
 images:
 - caption: DDX27 expression
@@ -84,16 +84,11 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DEADBOX27.Bell.2004.Fig.5.png
 name: DEAD-box helicase 27
-ncbi_id: '454979'
+ncbi_id: '419308'
 orthologs:
-- ensembl: ''
-  entrez: '44087'
-  mod: FBgn0021995
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000124228
   entrez: '55661'
-  mod: ''
+  mod: MIM:616621
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000017999
@@ -101,23 +96,23 @@ orthologs:
   mod: MGI:2385884
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100101759,734505
-  mod: '923337'
+- ensembl: ENSXETG00000017231
+  entrez: '100101759'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000091831
   entrez: '378844'
   mod: ZFIN:ZDB-GENE-031001-8
-  phenotypes: ZDB-GENE-031001-8
+  phenotypes: rRNA processing
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454979
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419308
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454979
+  url: https://www.ncbi.nlm.nih.gov/gene/419308
 species: Gallus gallus
 symbol: DDX27
 title: DDX27
@@ -145,9 +140,8 @@ title: DDX27
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [44087](https://www.ncbi.nlm.nih.gov/gene/44087) | FBgn0021995 |  |
-| Human | [ENSG00000124228](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000124228) | [55661](https://www.ncbi.nlm.nih.gov/gene/55661) |  |  |
+| Human | [ENSG00000124228](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000124228) | [55661](https://www.ncbi.nlm.nih.gov/gene/55661) | [MIM:616621](https://omim.org/entry/616621) |  |
 | Mouse | [ENSMUSG00000017999](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000017999) | [228889](https://www.ncbi.nlm.nih.gov/gene/228889) | [MGI:2385884](http://www.informatics.jax.org/marker/MGI:2385884) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100101759](https://www.ncbi.nlm.nih.gov/gene/100101759), [734505](https://www.ncbi.nlm.nih.gov/gene/734505) | [923337](http://www.xenbase.org/gene/showgene.do?method=display&geneId=923337) |  |
-| Zebrafish | [ENSDARG00000091831](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000091831) | [378844](https://www.ncbi.nlm.nih.gov/gene/378844) | [ZFIN:ZDB-GENE-031001-8](https://zfin.org/ZDB-GENE-031001-8) | ZDB-GENE-031001-8 |
+| Xenopus | [ENSXETG00000017231](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017231) | [100101759](https://www.ncbi.nlm.nih.gov/gene/100101759) |  |  |
+| Zebrafish | [ENSDARG00000091831](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000091831) | [378844](https://www.ncbi.nlm.nih.gov/gene/378844) | [ZFIN:ZDB-GENE-031001-8](https://zfin.org/ZDB-GENE-031001-8) | rRNA processing |
 

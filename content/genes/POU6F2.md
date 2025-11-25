@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420763
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418861
-gene_id: '455661'
+gene_id: '420763'
 gene_type: protein-coding
 images:
 - caption: POU6F2 expression
@@ -116,7 +116,7 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R426.POU6F2.S24V.001.jpg
 name: POU class 6 homeobox 2
-ncbi_id: '455661'
+ncbi_id: '420763'
 orthologs:
 - ensembl: ''
   entrez: '35813'
@@ -141,15 +141,15 @@ orthologs:
 - ensembl: ENSDARG00000086362
   entrez: '100001518'
   mod: ZFIN:ZDB-GENE-091118-71
-  phenotypes: ZDB-GENE-091118-71
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455661
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420763
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455661
+  url: https://www.ncbi.nlm.nih.gov/gene/420763
 species: Gallus gallus
 symbol: POU6F2
 title: POU6F2
@@ -178,5 +178,5 @@ title: POU6F2
 | Human | [ENSG00000106536](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000106536) | [11281](https://www.ncbi.nlm.nih.gov/gene/11281) | [MIM:609062](https://omim.org/entry/609062) | MIM:601583 |
 | Mouse | [ENSMUSG00000009734](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000009734) | [218030](https://www.ncbi.nlm.nih.gov/gene/218030) | [MGI:2443631](http://www.informatics.jax.org/marker/MGI:2443631) | All phenotypic alleles (1):Targeted, knock-out(1) |
 | Xenopus |  | [100489745](https://www.ncbi.nlm.nih.gov/gene/100489745) | [853681](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853681) |  |
-| Zebrafish | [ENSDARG00000086362](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000086362) | [100001518](https://www.ncbi.nlm.nih.gov/gene/100001518) | [ZFIN:ZDB-GENE-091118-71](https://zfin.org/ZDB-GENE-091118-71) | ZDB-GENE-091118-71 |
+| Zebrafish | [ENSDARG00000086362](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000086362) | [100001518](https://www.ncbi.nlm.nih.gov/gene/100001518) | [ZFIN:ZDB-GENE-091118-71](https://zfin.org/ZDB-GENE-091118-71) |  |
 

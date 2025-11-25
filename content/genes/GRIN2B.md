@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417965
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416204
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/GRIN2B
-gene_id: '452192'
+gene_id: '417965'
 gene_type: protein-coding
 images:
 - caption: GRIN2B expression
@@ -59,13 +59,8 @@ images:
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tang.2007.f7.nr2b.png
 name: glutamate ionotropic receptor NMDA type subunit 2B
-ncbi_id: '452192'
+ncbi_id: '417965'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000273079
   entrez: '2904'
   mod: MIM:138252
@@ -76,20 +71,20 @@ orthologs:
   mod: MGI:95821
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100490580,100127347
-  mod: '949326'
+- ensembl: ENSXETG00000030602
+  entrez: '100490580'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000030376
-  entrez: '559976'
-  mod: ZFIN:ZDB-GENE-061207-27,ZFIN:ZDB-GENE-090821-2
-  phenotypes: ZDB-GENE-061207-27,ZDB-GENE-090821-2
+- ensembl: ''
+  entrez: '100334883'
+  mod: ''
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452192
+  url: https://www.ncbi.nlm.nih.gov/gene/417965
 species: Gallus gallus
 symbol: GRIN2B
 title: GRIN2B
@@ -116,9 +111,8 @@ title: GRIN2B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000273079](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000273079) | [2904](https://www.ncbi.nlm.nih.gov/gene/2904) | [MIM:138252](https://omim.org/entry/138252) | MIM:613970 |
 | Mouse | [ENSMUSG00000030209](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030209) | [14812](https://www.ncbi.nlm.nih.gov/gene/14812) | [MGI:95821](http://www.informatics.jax.org/marker/MGI:95821) | All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5) |
-| Xenopus |  | [100490580](https://www.ncbi.nlm.nih.gov/gene/100490580), [100127347](https://www.ncbi.nlm.nih.gov/gene/100127347) | [949326](http://www.xenbase.org/gene/showgene.do?method=display&geneId=949326) |  |
-| Zebrafish | [ENSDARG00000030376](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030376) | [559976](https://www.ncbi.nlm.nih.gov/gene/559976) | [ZFIN:ZDB-GENE-061207-27](https://zfin.org/ZDB-GENE-061207-27), [ZFIN:ZDB-GENE-090821-2](https://zfin.org/ZDB-GENE-090821-2) | ZDB-GENE-061207-27,ZDB-GENE-090821-2 |
+| Xenopus | [ENSXETG00000030602](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000030602) | [100490580](https://www.ncbi.nlm.nih.gov/gene/100490580) |  |  |
+| Zebrafish |  | [100334883](https://www.ncbi.nlm.nih.gov/gene/100334883) |  |  |
 

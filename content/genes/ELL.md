@@ -7,7 +7,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420124
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012847
-gene_id: '458616'
+gene_id: '420124'
 gene_type: protein-coding
 images:
 - caption: ELL expression
@@ -60,13 +60,8 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/4xb4.114.3.20.jpg
 name: elongation factor for RNA polymerase II
-ncbi_id: '458616'
+ncbi_id: '420124'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000105656
   entrez: '8178'
   mod: MIM:600284
@@ -77,23 +72,25 @@ orthologs:
   mod: MGI:109377
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100380194,734724
-  mod: '1013704'
+- ensembl: ENSXETG00000023213
+  entrez: '100380194'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000000568
   entrez: '325221'
   mod: ZFIN:ZDB-GENE-030131-3946
-  phenotypes: ZDB-GENE-030131-3946
+  phenotypes: positive regulation of transcription elongation by RNA polymerase II,
+    snRNA transcription by RNA polymerase II, transcription by RNA polymerase II,
+    transcription elongation by RNA polymerase II, translation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458616
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420124
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458616
+  url: https://www.ncbi.nlm.nih.gov/gene/420124
 species: Gallus gallus
 symbol: ELL
 title: ELL
@@ -114,9 +111,8 @@ title: ELL
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000105656](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000105656) | [8178](https://www.ncbi.nlm.nih.gov/gene/8178) | [MIM:600284](https://omim.org/entry/600284) |  |
 | Mouse | [ENSMUSG00000070002](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000070002) | [13716](https://www.ncbi.nlm.nih.gov/gene/13716) | [MGI:109377](http://www.informatics.jax.org/marker/MGI:109377) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100380194](https://www.ncbi.nlm.nih.gov/gene/100380194), [734724](https://www.ncbi.nlm.nih.gov/gene/734724) | [1013704](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1013704) |  |
-| Zebrafish | [ENSDARG00000000568](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000000568) | [325221](https://www.ncbi.nlm.nih.gov/gene/325221) | [ZFIN:ZDB-GENE-030131-3946](https://zfin.org/ZDB-GENE-030131-3946) | ZDB-GENE-030131-3946 |
+| Xenopus | [ENSXETG00000023213](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023213) | [100380194](https://www.ncbi.nlm.nih.gov/gene/100380194) |  |  |
+| Zebrafish | [ENSDARG00000000568](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000000568) | [325221](https://www.ncbi.nlm.nih.gov/gene/325221) | [ZFIN:ZDB-GENE-030131-3946](https://zfin.org/ZDB-GENE-030131-3946) | positive regulation of transcription elongation by RNA polymerase II, snRNA transcription by RNA polymerase II, transcription by RNA polymerase II, transcription elongation by RNA polymerase II, translation |
 

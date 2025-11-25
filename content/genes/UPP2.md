@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424326
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422171
-gene_id: '450739'
+gene_id: '424326'
 gene_type: protein-coding
 images:
 - caption: UPP2 expression
@@ -34,16 +34,11 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/UPP2.Roy.2013.F1.upp2.png
 name: uridine phosphorylase 2
-ncbi_id: '450739'
+ncbi_id: '424326'
 orthologs:
-- ensembl: ''
-  entrez: '43240'
-  mod: FBgn0039464
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000007001
   entrez: '151531'
-  mod: ''
+  mod: MIM:617340
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000026839
@@ -51,20 +46,21 @@ orthologs:
   mod: MGI:1923904
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 493536,496317
-  mod: '971536'
+- ensembl: ENSXETG00000010379
+  entrez: '493536'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000036833
   entrez: '393113'
   mod: ZFIN:ZDB-GENE-040426-830
-  phenotypes: ZDB-GENE-040426-830
+  phenotypes: UMP salvage, nucleoside catabolic process, nucleoside metabolic process,
+    nucleotide catabolic process, uridine catabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450739
+  url: https://www.ncbi.nlm.nih.gov/gene/424326
 species: Gallus gallus
 symbol: UPP2
 title: UPP2
@@ -92,9 +88,8 @@ title: UPP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43240](https://www.ncbi.nlm.nih.gov/gene/43240) | FBgn0039464 |  |
-| Human | [ENSG00000007001](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000007001) | [151531](https://www.ncbi.nlm.nih.gov/gene/151531) |  |  |
+| Human | [ENSG00000007001](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000007001) | [151531](https://www.ncbi.nlm.nih.gov/gene/151531) | [MIM:617340](https://omim.org/entry/617340) |  |
 | Mouse | [ENSMUSG00000026839](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026839) | [76654](https://www.ncbi.nlm.nih.gov/gene/76654) | [MGI:1923904](http://www.informatics.jax.org/marker/MGI:1923904) |  |
-| Xenopus |  | [493536](https://www.ncbi.nlm.nih.gov/gene/493536), [496317](https://www.ncbi.nlm.nih.gov/gene/496317) | [971536](http://www.xenbase.org/gene/showgene.do?method=display&geneId=971536) |  |
-| Zebrafish | [ENSDARG00000036833](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036833) | [393113](https://www.ncbi.nlm.nih.gov/gene/393113) | [ZFIN:ZDB-GENE-040426-830](https://zfin.org/ZDB-GENE-040426-830) | ZDB-GENE-040426-830 |
+| Xenopus | [ENSXETG00000010379](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010379) | [493536](https://www.ncbi.nlm.nih.gov/gene/493536) |  |  |
+| Zebrafish | [ENSDARG00000036833](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036833) | [393113](https://www.ncbi.nlm.nih.gov/gene/393113) | [ZFIN:ZDB-GENE-040426-830](https://zfin.org/ZDB-GENE-040426-830) | UMP salvage, nucleoside catabolic process, nucleoside metabolic process, nucleotide catabolic process, uridine catabolic process |
 

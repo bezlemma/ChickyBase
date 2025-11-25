@@ -16,7 +16,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012522
 forward_primer: ATCCAGACAGCATCATCAGGGG
-gene_id: '449199'
+gene_id: '395416'
 gene_type: protein-coding
 images:
 - caption: ABCC1 expression
@@ -149,13 +149,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R476.ABCC1.S26V.001.jpg
 name: ATP binding cassette subfamily C member 1
-ncbi_id: '449199'
+ncbi_id: '395416'
 orthologs:
-- ensembl: ''
-  entrez: '34686'
-  mod: FBgn0032456
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000103222
   entrez: '4363'
   mod: MIM:158343
@@ -166,24 +161,20 @@ orthologs:
   mod: MGI:102676
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: '100145582'
-  mod: '960170'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000059874
+- ensembl: ENSDARG00000104719
   entrez: '100002010'
   mod: ZFIN:ZDB-GENE-050517-15
-  phenotypes: ZDB-GENE-050517-15
+  phenotypes: detoxification, detoxification of cadmium ion, glutathione transmembrane
+    transport, lipid transport, transmembrane transport
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAAGGACTCCATTTTCTACGGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449199
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395416
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449199
+  url: https://www.ncbi.nlm.nih.gov/gene/395416
 species: Gallus gallus
 symbol: ABCC1
 template_length: '809'
@@ -209,9 +200,7 @@ title: ABCC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34686](https://www.ncbi.nlm.nih.gov/gene/34686) | FBgn0032456 |  |
 | Human | [ENSG00000103222](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000103222) | [4363](https://www.ncbi.nlm.nih.gov/gene/4363) | [MIM:158343](https://omim.org/entry/158343) |  |
 | Mouse | [ENSMUSG00000023088](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023088) | [17250](https://www.ncbi.nlm.nih.gov/gene/17250) | [MGI:102676](http://www.informatics.jax.org/marker/MGI:102676) | All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2) |
-| Xenopus |  | [100145582](https://www.ncbi.nlm.nih.gov/gene/100145582) | [960170](http://www.xenbase.org/gene/showgene.do?method=display&geneId=960170) |  |
-| Zebrafish | [ENSDARG00000059874](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059874) | [100002010](https://www.ncbi.nlm.nih.gov/gene/100002010) | [ZFIN:ZDB-GENE-050517-15](https://zfin.org/ZDB-GENE-050517-15) | ZDB-GENE-050517-15 |
+| Zebrafish | [ENSDARG00000104719](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104719) | [100002010](https://www.ncbi.nlm.nih.gov/gene/100002010) | [ZFIN:ZDB-GENE-050517-15](https://zfin.org/ZDB-GENE-050517-15) | detoxification, detoxification of cadmium ion, glutathione transmembrane transport, lipid transport, transmembrane transport |
 

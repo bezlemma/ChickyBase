@@ -9,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423220
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421144
-gene_id: '449109'
+gene_id: '423220'
 gene_type: protein-coding
 images:
 - caption: MGA expression
@@ -48,13 +48,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54yc7.125.xs.jpg
 name: MGA, MAX dimerization protein
-ncbi_id: '449109'
+ncbi_id: '423220'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000174197
   entrez: '23269'
   mod: MIM:616061
@@ -65,23 +60,18 @@ orthologs:
   mod: MGI:1352483
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000000051
   entrez: '100038161'
-  mod: '492359'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000078784
-  entrez: '569620'
-  mod: ZFIN:ZDB-GENE-030603-1,ZFIN:ZDB-GENE-121228-2
-  phenotypes: ZDB-GENE-030603-1,ZDB-GENE-121228-2
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449109
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423220
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449109
+  url: https://www.ncbi.nlm.nih.gov/gene/423220
 species: Gallus gallus
 symbol: MGA
 title: MGA
@@ -104,9 +94,7 @@ title: MGA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000174197](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000174197) | [23269](https://www.ncbi.nlm.nih.gov/gene/23269) | [MIM:616061](https://omim.org/entry/616061) |  |
 | Mouse | [ENSMUSG00000033943](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033943) | [29808](https://www.ncbi.nlm.nih.gov/gene/29808) | [MGI:1352483](http://www.informatics.jax.org/marker/MGI:1352483) |  |
-| Xenopus |  | [100038161](https://www.ncbi.nlm.nih.gov/gene/100038161) | [492359](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492359) |  |
-| Zebrafish | [ENSDARG00000078784](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078784) | [569620](https://www.ncbi.nlm.nih.gov/gene/569620) | [ZFIN:ZDB-GENE-030603-1](https://zfin.org/ZDB-GENE-030603-1), [ZFIN:ZDB-GENE-121228-2](https://zfin.org/ZDB-GENE-121228-2) | ZDB-GENE-030603-1,ZDB-GENE-121228-2 |
+| Xenopus | [ENSXETG00000000051](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000051) | [100038161](https://www.ncbi.nlm.nih.gov/gene/100038161) |  |  |
 

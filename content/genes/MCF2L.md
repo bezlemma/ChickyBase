@@ -3,7 +3,6 @@ aliases:
 - guanine nucleotide exchange factor DBS
 cgnc_id: '12632'
 external_ids:
-  '25': stage 25
   Citation: 'Anderson C, Khan MAF, Wong F, Solovieva T, Oliveira NMM, Baldock RA,
     Tickle C, Burt DW, Stern CD. A strategy to discover new organizers identifies
     a putative heart organizer. Nat Commun. 2016 Aug 25;7:12656. doi: 10.1038/ncomms12656.'
@@ -19,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418748
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001252063
 forward_primer: GGTTAGCAGTAGAACAGGGAGACG
-gene_id: '467870'
+gene_id: '418748'
 gene_type: protein-coding
 images:
 - caption: MCF2L expression
@@ -187,13 +186,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MCF2Lstage 24 x15
     right.jpg
 name: MCF.2 cell line derived transforming sequence like
-ncbi_id: '467870'
+ncbi_id: '418748'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000126217
   entrez: '23263'
   mod: MIM:609499
@@ -204,24 +198,24 @@ orthologs:
   mod: MGI:103263
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000001920
   entrez: '100497730'
-  mod: '6042030'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000075859
   entrez: '100148439'
-  mod: ZFIN:ZDB-GENE-090312-122,ZFIN:ZDB-GENE-081104-416
-  phenotypes: ZDB-GENE-090312-122,ZDB-GENE-081104-416
+  mod: ZFIN:ZDB-GENE-090312-122
+  phenotypes: intracellular signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGAGATTTTACAAAGGCTTCGGGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467870
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418748
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467870
+  url: https://www.ncbi.nlm.nih.gov/gene/418748
 species: Gallus gallus
 symbol: MCF2L
 template_length: '879'
@@ -247,9 +241,8 @@ title: MCF2L
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000126217](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000126217) | [23263](https://www.ncbi.nlm.nih.gov/gene/23263) | [MIM:609499](https://omim.org/entry/609499) |  |
 | Mouse | [ENSMUSG00000031442](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031442) | [17207](https://www.ncbi.nlm.nih.gov/gene/17207) | [MGI:103263](http://www.informatics.jax.org/marker/MGI:103263) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100497730](https://www.ncbi.nlm.nih.gov/gene/100497730) | [6042030](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6042030) |  |
-| Zebrafish | [ENSDARG00000075859](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075859) | [100148439](https://www.ncbi.nlm.nih.gov/gene/100148439) | [ZFIN:ZDB-GENE-090312-122](https://zfin.org/ZDB-GENE-090312-122), [ZFIN:ZDB-GENE-081104-416](https://zfin.org/ZDB-GENE-081104-416) | ZDB-GENE-090312-122,ZDB-GENE-081104-416 |
+| Xenopus | [ENSXETG00000001920](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001920) | [100497730](https://www.ncbi.nlm.nih.gov/gene/100497730) |  |  |
+| Zebrafish | [ENSDARG00000075859](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075859) | [100148439](https://www.ncbi.nlm.nih.gov/gene/100148439) | [ZFIN:ZDB-GENE-090312-122](https://zfin.org/ZDB-GENE-090312-122) | intracellular signal transduction |
 

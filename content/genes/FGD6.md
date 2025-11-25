@@ -3,13 +3,12 @@ aliases:
 - FYVE, RhoGEF and PH domain-containing protein 6
 cgnc_id: '50618'
 external_ids:
-  '25': stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000011342
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417908
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416149
 forward_primer: TGATTCCTTTGGTCCTGCTGAAC
-gene_id: '452070'
+gene_id: '417908'
 gene_type: protein-coding
 images:
 - caption: FGD6 expression
@@ -132,13 +131,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R389.FGD6.S25.000.jpg
 name: FYVE, RhoGEF and PH domain containing 6
-ncbi_id: '452070'
+ncbi_id: '417908'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000180263
   entrez: '55785'
   mod: MIM:613520
@@ -149,24 +143,24 @@ orthologs:
   mod: MGI:1261419
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100379840,414714
-  mod: '5824461'
+- ensembl: ENSXETG00000009239
+  entrez: '100379840'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000045528
   entrez: '556459'
   mod: ZFIN:ZDB-GENE-041210-200
-  phenotypes: ZDB-GENE-041210-200
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTGGCTCTGGGCTTTGTCAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452070
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417908
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452070
+  url: https://www.ncbi.nlm.nih.gov/gene/417908
 species: Gallus gallus
 symbol: FGD6
 template_length: '813'
@@ -188,9 +182,8 @@ title: FGD6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000180263](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000180263) | [55785](https://www.ncbi.nlm.nih.gov/gene/55785) | [MIM:613520](https://omim.org/entry/613520) |  |
 | Mouse | [ENSMUSG00000020021](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020021) | [13998](https://www.ncbi.nlm.nih.gov/gene/13998) | [MGI:1261419](http://www.informatics.jax.org/marker/MGI:1261419) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100379840](https://www.ncbi.nlm.nih.gov/gene/100379840), [414714](https://www.ncbi.nlm.nih.gov/gene/414714) | [5824461](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5824461) |  |
-| Zebrafish | [ENSDARG00000045528](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045528) | [556459](https://www.ncbi.nlm.nih.gov/gene/556459) | [ZFIN:ZDB-GENE-041210-200](https://zfin.org/ZDB-GENE-041210-200) | ZDB-GENE-041210-200 |
+| Xenopus | [ENSXETG00000009239](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009239) | [100379840](https://www.ncbi.nlm.nih.gov/gene/100379840) |  |  |
+| Zebrafish | [ENSDARG00000045528](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045528) | [556459](https://www.ncbi.nlm.nih.gov/gene/556459) | [ZFIN:ZDB-GENE-041210-200](https://zfin.org/ZDB-GENE-041210-200) |  |
 

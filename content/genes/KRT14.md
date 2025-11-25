@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:408039
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005198
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001311
-gene_id: '452486'
+gene_id: '408039'
 gene_type: protein-coding
 images:
 - caption: KRT14 expression
@@ -113,37 +113,17 @@ images:
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Qiao.cKer14.Fig4.X.HH6.jpg
 name: keratin 14
-ncbi_id: '452486'
+ncbi_id: '408039'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
 - ensembl: ENSMUSG00000053654
   entrez: '68239'
   mod: MGI:1915489
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452486
+  url: https://www.ncbi.nlm.nih.gov/gene/408039
 species: Gallus gallus
 symbol: KRT14
 title: KRT14
@@ -173,9 +153,5 @@ title: KRT14
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
 | Mouse | [ENSMUSG00000053654](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000053654) | [68239](https://www.ncbi.nlm.nih.gov/gene/68239) | [MGI:1915489](http://www.informatics.jax.org/marker/MGI:1915489) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
 

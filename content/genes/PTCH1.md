@@ -5,8 +5,6 @@ aliases:
 - patched protein
 cgnc_id: '49488'
 external_ids:
-  '13': stage 13stage 13
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0003892
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007224
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005887
@@ -23,7 +21,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395806
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008158
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204960
-gene_id: '450001'
+gene_id: '395806'
 gene_type: protein-coding
 images:
 - caption: PTCH1 expression
@@ -800,13 +798,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kahane.2013.Fig1_Allimages-12.jpg
 name: patched 1
-ncbi_id: '450001'
+ncbi_id: '395806'
 orthologs:
-- ensembl: ''
-  entrez: '35851'
-  mod: FBgn0003892
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000185920
   entrez: '5727'
   mod: MIM:601309
@@ -818,23 +811,25 @@ orthologs:
   phenotypes: All phenotypic alleles (14):Spontaneous(1) Targeted, knock-out(5) Targeted,
     other(8)
   species: Mouse
-- ensembl: ''
-  entrez: 100492061,398215,100492958,100191013,397836
-  mod: 488221,1033867
+- ensembl: ENSXETG00000014834
+  entrez: '100492061'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000016404
   entrez: '30189'
   mod: ZFIN:ZDB-GENE-980526-196
-  phenotypes: ZDB-GENE-980526-196
+  phenotypes: cardioblast differentiation, intramembranous ossification, negative
+    regulation of muscle organ development, negative regulation of smoothened signaling
+    pathway, osteoblast differentiation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450001
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395806
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450001
+  url: https://www.ncbi.nlm.nih.gov/gene/395806
 species: Gallus gallus
 symbol: PTCH1
 title: PTCH1
@@ -865,9 +860,8 @@ title: PTCH1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35851](https://www.ncbi.nlm.nih.gov/gene/35851) | FBgn0003892 |  |
 | Human | [ENSG00000185920](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185920) | [5727](https://www.ncbi.nlm.nih.gov/gene/5727) | [MIM:601309](https://omim.org/entry/601309) | MIM:605462 |
 | Mouse | [ENSMUSG00000021466](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021466) | [19206](https://www.ncbi.nlm.nih.gov/gene/19206) | [MGI:105373](http://www.informatics.jax.org/marker/MGI:105373) | All phenotypic alleles (14):Spontaneous(1) Targeted, knock-out(5) Targeted, other(8) |
-| Xenopus |  | [100492061](https://www.ncbi.nlm.nih.gov/gene/100492061), [398215](https://www.ncbi.nlm.nih.gov/gene/398215), [100492958](https://www.ncbi.nlm.nih.gov/gene/100492958), [100191013](https://www.ncbi.nlm.nih.gov/gene/100191013), [397836](https://www.ncbi.nlm.nih.gov/gene/397836) | [488221](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488221), [1033867](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1033867) |  |
-| Zebrafish | [ENSDARG00000016404](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016404) | [30189](https://www.ncbi.nlm.nih.gov/gene/30189) | [ZFIN:ZDB-GENE-980526-196](https://zfin.org/ZDB-GENE-980526-196) | ZDB-GENE-980526-196 |
+| Xenopus | [ENSXETG00000014834](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014834) | [100492061](https://www.ncbi.nlm.nih.gov/gene/100492061) |  |  |
+| Zebrafish | [ENSDARG00000016404](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016404) | [30189](https://www.ncbi.nlm.nih.gov/gene/30189) | [ZFIN:ZDB-GENE-980526-196](https://zfin.org/ZDB-GENE-980526-196) | cardioblast differentiation, intramembranous ossification, negative regulation of muscle organ development, negative regulation of smoothened signaling pathway, osteoblast differentiation |
 

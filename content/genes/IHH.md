@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395801
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0046872
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204957
-gene_id: '449998'
+gene_id: '395801'
 gene_type: protein-coding
 images:
 - caption: IHH expression
@@ -160,13 +160,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhang.2003.Fig6.J.IHH.jpg
 name: indian hedgehog
-ncbi_id: '449998'
+ncbi_id: '395801'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163501
   entrez: '3549'
   mod: MIM:600726
@@ -177,20 +172,21 @@ orthologs:
   mod: MGI:96533
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100145111,378540
-  mod: '484186'
+- ensembl: ENSXETG00000038561
+  entrez: '100145111'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000058815,ENSDARG00000058733
-  entrez: 30299,619520
-  mod: ZFIN:ZDB-GENE-980526-135,ZFIN:ZDB-GENE-051010-1
-  phenotypes: ZDB-GENE-980526-135,ZDB-GENE-051010-1
+- ensembl: ENSDARG00000058733
+  entrez: '619520'
+  mod: ZFIN:ZDB-GENE-051010-1
+  phenotypes: cell fate specification, cell-cell signaling, central nervous system
+    development, enteric nervous system development, gliogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449998
+  url: https://www.ncbi.nlm.nih.gov/gene/395801
 species: Gallus gallus
 symbol: IHH
 title: IHH
@@ -219,9 +215,8 @@ title: IHH
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163501](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163501) | [3549](https://www.ncbi.nlm.nih.gov/gene/3549) | [MIM:600726](https://omim.org/entry/600726) | MIM:607778 |
 | Mouse | [ENSMUSG00000006538](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000006538) | [16147](https://www.ncbi.nlm.nih.gov/gene/16147) | [MGI:96533](http://www.informatics.jax.org/marker/MGI:96533) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100145111](https://www.ncbi.nlm.nih.gov/gene/100145111), [378540](https://www.ncbi.nlm.nih.gov/gene/378540) | [484186](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484186) |  |
-| Zebrafish | [ENSDARG00000058815](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058815), [ENSDARG00000058733](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058733) | [30299](https://www.ncbi.nlm.nih.gov/gene/30299), [619520](https://www.ncbi.nlm.nih.gov/gene/619520) | [ZFIN:ZDB-GENE-980526-135](https://zfin.org/ZDB-GENE-980526-135), [ZFIN:ZDB-GENE-051010-1](https://zfin.org/ZDB-GENE-051010-1) | ZDB-GENE-980526-135,ZDB-GENE-051010-1 |
+| Xenopus | [ENSXETG00000038561](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000038561) | [100145111](https://www.ncbi.nlm.nih.gov/gene/100145111) |  |  |
+| Zebrafish | [ENSDARG00000058733](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058733) | [619520](https://www.ncbi.nlm.nih.gov/gene/619520) | [ZFIN:ZDB-GENE-051010-1](https://zfin.org/ZDB-GENE-051010-1) | cell fate specification, cell-cell signaling, central nervous system development, enteric nervous system development, gliogenesis |
 

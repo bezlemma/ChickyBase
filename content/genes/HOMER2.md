@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415458
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_413836
 forward_primer: 5’-ACCCTTATGGCTGGCGATG-3’
-gene_id: '460930'
+gene_id: '415458'
 gene_type: protein-coding
 images:
 - caption: HOMER2 expression
@@ -69,13 +69,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R709.HOMER2.S26.001.jpg
 name: homer scaffold protein 2
-ncbi_id: '460930'
+ncbi_id: '415458'
 orthologs:
-- ensembl: ''
-  entrez: '33944'
-  mod: FBgn0025777
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000103942
   entrez: '9455'
   mod: MIM:604799
@@ -86,24 +81,26 @@ orthologs:
   mod: MGI:1347354
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 548808,380401
-  mod: '1016660'
+- ensembl: ENSXETG00000016094
+  entrez: '548808'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000059349
   entrez: '553661'
   mod: ZFIN:ZDB-GENE-050522-417
-  phenotypes: ZDB-GENE-050522-417
+  phenotypes: G protein-coupled glutamate receptor signaling pathway, olfactory nerve
+    formation, olfactory placode morphogenesis, regulation of store-operated calcium
+    entry, regulation of synaptic transmission, glutamatergic
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGACGAACAGGGCAGTCACAG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460930
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415458
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460930
+  url: https://www.ncbi.nlm.nih.gov/gene/415458
 species: Gallus gallus
 symbol: HOMER2
 template_length: '1128'
@@ -128,9 +125,8 @@ title: HOMER2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33944](https://www.ncbi.nlm.nih.gov/gene/33944) | FBgn0025777 |  |
 | Human | [ENSG00000103942](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000103942) | [9455](https://www.ncbi.nlm.nih.gov/gene/9455) | [MIM:604799](https://omim.org/entry/604799) |  |
 | Mouse | [ENSMUSG00000025813](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025813) | [26557](https://www.ncbi.nlm.nih.gov/gene/26557) | [MGI:1347354](http://www.informatics.jax.org/marker/MGI:1347354) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [548808](https://www.ncbi.nlm.nih.gov/gene/548808), [380401](https://www.ncbi.nlm.nih.gov/gene/380401) | [1016660](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1016660) |  |
-| Zebrafish |  | [553661](https://www.ncbi.nlm.nih.gov/gene/553661) | [ZFIN:ZDB-GENE-050522-417](https://zfin.org/ZDB-GENE-050522-417) | ZDB-GENE-050522-417 |
+| Xenopus | [ENSXETG00000016094](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016094) | [548808](https://www.ncbi.nlm.nih.gov/gene/548808) |  |  |
+| Zebrafish | [ENSDARG00000059349](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059349) | [553661](https://www.ncbi.nlm.nih.gov/gene/553661) | [ZFIN:ZDB-GENE-050522-417](https://zfin.org/ZDB-GENE-050522-417) | G protein-coupled glutamate receptor signaling pathway, olfactory nerve formation, olfactory placode morphogenesis, regulation of store-operated calcium entry, regulation of synaptic transmission, glutamatergic |
 

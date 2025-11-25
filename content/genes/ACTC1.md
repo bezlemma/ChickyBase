@@ -4,7 +4,6 @@ aliases:
 - alpha-cardiac actin
 cgnc_id: '51944'
 external_ids:
-  '13': stage 13stage 13stage 13stage 13
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0033275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0042643
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Ruzicka+Schwartz+smooth+mark
@@ -18,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423298
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001079481
-gene_id: '449059'
+gene_id: '423298'
 gene_type: protein-coding
 images:
 - caption: ACTC1 expression
@@ -98,13 +97,8 @@ images:
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ACTAcardiac.Ruzicka.1988.Fig.6.png
 name: actin, alpha, cardiac muscle 1
-ncbi_id: '449059'
+ncbi_id: '423298'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000159251
   entrez: '70'
   mod: MIM:102540
@@ -115,20 +109,20 @@ orthologs:
   mod: MGI:87905
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 394698,379752,448346,432314
-  mod: 480346,491937
+- ensembl: ENSXETG00000012911
+  entrez: '394698'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000037840,ENSDARG00000042535
-  entrez: 58114,408256
-  mod: ZFIN:ZDB-GENE-000322-1,ZFIN:ZDB-GENE-040520-4
-  phenotypes: ZDB-GENE-000322-1,ZDB-GENE-040520-4
+- ensembl: ENSDARG00000111417
+  entrez: '570210'
+  mod: ZFIN:ZDB-GENE-040625-35
+  phenotypes: mesenchyme migration, positive regulation of gene expression
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449059
+  url: https://www.ncbi.nlm.nih.gov/gene/423298
 species: Gallus gallus
 symbol: ACTC1
 title: ACTC1
@@ -157,9 +151,8 @@ title: ACTC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000159251](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000159251) | [70](https://www.ncbi.nlm.nih.gov/gene/70) | [MIM:102540](https://omim.org/entry/102540) | MIM:612794 |
 | Mouse | [ENSMUSG00000068614](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000068614) | [11464](https://www.ncbi.nlm.nih.gov/gene/11464) | [MGI:87905](http://www.informatics.jax.org/marker/MGI:87905) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [394698](https://www.ncbi.nlm.nih.gov/gene/394698), [379752](https://www.ncbi.nlm.nih.gov/gene/379752), [448346](https://www.ncbi.nlm.nih.gov/gene/448346), [432314](https://www.ncbi.nlm.nih.gov/gene/432314) | [480346](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480346), [491937](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491937) |  |
-| Zebrafish | [ENSDARG00000037840](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037840), [ENSDARG00000042535](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042535) | [58114](https://www.ncbi.nlm.nih.gov/gene/58114), [408256](https://www.ncbi.nlm.nih.gov/gene/408256) | [ZFIN:ZDB-GENE-000322-1](https://zfin.org/ZDB-GENE-000322-1), [ZFIN:ZDB-GENE-040520-4](https://zfin.org/ZDB-GENE-040520-4) | ZDB-GENE-000322-1,ZDB-GENE-040520-4 |
+| Xenopus | [ENSXETG00000012911](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012911) | [394698](https://www.ncbi.nlm.nih.gov/gene/394698) |  |  |
+| Zebrafish | [ENSDARG00000111417](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000111417) | [570210](https://www.ncbi.nlm.nih.gov/gene/570210) | [ZFIN:ZDB-GENE-040625-35](https://zfin.org/ZDB-GENE-040625-35) | mesenchyme migration, positive regulation of gene expression |
 

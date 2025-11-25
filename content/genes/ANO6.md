@@ -4,13 +4,12 @@ aliases:
 - transmembrane protein 16F
 cgnc_id: '7334'
 external_ids:
-  '25': stage 25stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/417802
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417802
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416045
 forward_primer: TGGAGTATGAATGGGACACAGTGG
-gene_id: '451679'
+gene_id: '417802'
 gene_type: protein-coding
 images:
 - caption: ANO6 expression
@@ -99,13 +98,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R526.ANO6.S25AA.001.jpg
 name: anoctamin 6
-ncbi_id: '451679'
+ncbi_id: '417802'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000177119
   entrez: '196527'
   mod: MIM:608663
@@ -116,24 +110,25 @@ orthologs:
   mod: MGI:2145890
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000031444
   entrez: '100486935'
-  mod: '982323'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSDARG00000061544
+  entrez: '100535437'
   mod: ZFIN:ZDB-GENE-081104-64
-  phenotypes: ZDB-GENE-081104-64
+  phenotypes: calcium activated phosphatidylcholine scrambling, calcium activated
+    phosphatidylserine scrambling, chloride transmembrane transport, sprouting angiogenesis
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTGTTGATAAGAGCCAGAAGAGGAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451679
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417802
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451679
+  url: https://www.ncbi.nlm.nih.gov/gene/417802
 species: Gallus gallus
 symbol: ANO6
 template_length: '879'
@@ -155,9 +150,8 @@ title: ANO6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000177119](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000177119) | [196527](https://www.ncbi.nlm.nih.gov/gene/196527) | [MIM:608663](https://omim.org/entry/608663) | MIM:262890 |
 | Mouse | [ENSMUSG00000064210](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000064210) | [105722](https://www.ncbi.nlm.nih.gov/gene/105722) | [MGI:2145890](http://www.informatics.jax.org/marker/MGI:2145890) |  |
-| Xenopus |  | [100486935](https://www.ncbi.nlm.nih.gov/gene/100486935) | [982323](http://www.xenbase.org/gene/showgene.do?method=display&geneId=982323) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-081104-64](https://zfin.org/ZDB-GENE-081104-64) | ZDB-GENE-081104-64 |
+| Xenopus | [ENSXETG00000031444](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031444) | [100486935](https://www.ncbi.nlm.nih.gov/gene/100486935) |  |  |
+| Zebrafish | [ENSDARG00000061544](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061544) | [100535437](https://www.ncbi.nlm.nih.gov/gene/100535437) | [ZFIN:ZDB-GENE-081104-64](https://zfin.org/ZDB-GENE-081104-64) | calcium activated phosphatidylcholine scrambling, calcium activated phosphatidylserine scrambling, chloride transmembrane transport, sprouting angiogenesis |
 

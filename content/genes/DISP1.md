@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421333
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419396
-gene_id: '457312'
+gene_id: '421333'
 gene_type: protein-coding
 images:
 - caption: DISP1 expression
@@ -26,13 +26,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DISP1.FIG4C.AGARWALA.2005.jpg
 name: dispatched RND transporter family member 1
-ncbi_id: '457312'
+ncbi_id: '421333'
 orthologs:
-- ensembl: ''
-  entrez: '44274'
-  mod: FBgn0029088
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000154309
   entrez: '84976'
   mod: MIM:607502
@@ -43,20 +38,21 @@ orthologs:
   mod: MGI:1916147
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000042496
   entrez: '100496804'
-  mod: '1018539'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000044417
   entrez: '619201'
   mod: ZFIN:ZDB-GENE-030911-7
-  phenotypes: ZDB-GENE-030911-7
+  phenotypes: adenohypophysis development, animal organ morphogenesis, anterior/posterior
+    pattern specification, blood circulation, embryonic cranial skeleton morphogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457312
+  url: https://www.ncbi.nlm.nih.gov/gene/421333
 species: Gallus gallus
 symbol: DISP1
 title: DISP1
@@ -84,9 +80,8 @@ title: DISP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [44274](https://www.ncbi.nlm.nih.gov/gene/44274) | FBgn0029088 |  |
 | Human | [ENSG00000154309](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000154309) | [84976](https://www.ncbi.nlm.nih.gov/gene/84976) | [MIM:607502](https://omim.org/entry/607502) |  |
 | Mouse | [ENSMUSG00000030768](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030768) | [68897](https://www.ncbi.nlm.nih.gov/gene/68897) | [MGI:1916147](http://www.informatics.jax.org/marker/MGI:1916147) |  |
-| Xenopus |  | [100496804](https://www.ncbi.nlm.nih.gov/gene/100496804) | [1018539](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1018539) |  |
-| Zebrafish | [ENSDARG00000044417](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044417) | [619201](https://www.ncbi.nlm.nih.gov/gene/619201) | [ZFIN:ZDB-GENE-030911-7](https://zfin.org/ZDB-GENE-030911-7) | ZDB-GENE-030911-7 |
+| Xenopus | [ENSXETG00000042496](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000042496) | [100496804](https://www.ncbi.nlm.nih.gov/gene/100496804) |  |  |
+| Zebrafish | [ENSDARG00000044417](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044417) | [619201](https://www.ncbi.nlm.nih.gov/gene/619201) | [ZFIN:ZDB-GENE-030911-7](https://zfin.org/ZDB-GENE-030911-7) | adenohypophysis development, animal organ morphogenesis, anterior/posterior pattern specification, blood circulation, embryonic cranial skeleton morphogenesis |
 

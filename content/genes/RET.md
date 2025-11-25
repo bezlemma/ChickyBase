@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396107
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205190
 forward_primer: ACAGGGGAGTGGAAAAGGAATC
-gene_id: '458714'
+gene_id: '396107'
 gene_type: protein-coding
 images:
 - caption: RET expression
@@ -343,13 +343,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-figS1-O.jpg
 name: ret proto-oncogene
-ncbi_id: '458714'
+ncbi_id: '396107'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000165731
   entrez: '5979'
   mod: MIM:164761
@@ -360,24 +355,26 @@ orthologs:
   mod: MGI:97902
   phenotypes: All phenotypic alleles (42):Targeted, knock-out(5) Targeted, other(37)
   species: Mouse
-- ensembl: ''
-  entrez: 100495902,373625
-  mod: '485175'
+- ensembl: ENSXETG00000005422
+  entrez: '100495902'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000055305
   entrez: '30512'
   mod: ZFIN:ZDB-GENE-980526-307
-  phenotypes: ZDB-GENE-980526-307
+  phenotypes: branchiomeric skeletal muscle development, cell adhesion, cell surface
+    receptor protein tyrosine kinase signaling pathway, enteric nervous system development,
+    homophilic cell adhesion via plasma membrane adhesion molecules
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAGGCTCTCTCATCGGGGTTATC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458714
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396107
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458714
+  url: https://www.ncbi.nlm.nih.gov/gene/396107
 species: Gallus gallus
 symbol: RET
 template_length: '908'
@@ -404,9 +401,8 @@ title: RET
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000165731](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165731) | [5979](https://www.ncbi.nlm.nih.gov/gene/5979) | [MIM:164761](https://omim.org/entry/164761) | MIM:209880 |
 | Mouse | [ENSMUSG00000030110](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030110) | [19713](https://www.ncbi.nlm.nih.gov/gene/19713) | [MGI:97902](http://www.informatics.jax.org/marker/MGI:97902) | All phenotypic alleles (42):Targeted, knock-out(5) Targeted, other(37) |
-| Xenopus |  | [100495902](https://www.ncbi.nlm.nih.gov/gene/100495902), [373625](https://www.ncbi.nlm.nih.gov/gene/373625) | [485175](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485175) |  |
-| Zebrafish | [ENSDARG00000055305](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055305) | [30512](https://www.ncbi.nlm.nih.gov/gene/30512) | [ZFIN:ZDB-GENE-980526-307](https://zfin.org/ZDB-GENE-980526-307) | ZDB-GENE-980526-307 |
+| Xenopus | [ENSXETG00000005422](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005422) | [100495902](https://www.ncbi.nlm.nih.gov/gene/100495902) |  |  |
+| Zebrafish | [ENSDARG00000055305](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055305) | [30512](https://www.ncbi.nlm.nih.gov/gene/30512) | [ZFIN:ZDB-GENE-980526-307](https://zfin.org/ZDB-GENE-980526-307) | branchiomeric skeletal muscle development, cell adhesion, cell surface receptor protein tyrosine kinase signaling pathway, enteric nervous system development, homophilic cell adhesion via plasma membrane adhesion molecules |
 

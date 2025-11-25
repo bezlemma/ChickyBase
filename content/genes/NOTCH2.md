@@ -4,9 +4,6 @@ aliases:
 - Notch homolog 2, Notch2
 cgnc_id: '49013'
 external_ids:
-  '25': stage 25
-  '31': stage 31stage 31
-  '7': stage 7stage 7
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2019+Cui+MDK+PTN
   Comments: The complete cDNA template sequence was obtained from the information
     provided in the publication as described in Cui et al. 2019.
@@ -17,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374031
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001252033
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAAAACGATGCCACCTGTCTGG
-gene_id: '454527'
+gene_id: '374031'
 gene_type: protein-coding
 images:
 - caption: NOTCH2 expression
@@ -463,13 +460,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig5.Allimages.jpg
 name: notch 2
-ncbi_id: '454527'
+ncbi_id: '374031'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134250
   entrez: '4853'
   mod: MIM:600275
@@ -481,24 +473,26 @@ orthologs:
   phenotypes: All phenotypic alleles (16):Targeted, knock-out(5) Targeted, other(8)
     Gene trapped(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000017225
   entrez: '100486344'
-  mod: '6046916'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000043130
   entrez: '58065'
   mod: ZFIN:ZDB-GENE-000329-4
-  phenotypes: ZDB-GENE-000329-4
+  phenotypes: Notch signaling pathway, apoptotic process, cartilage development involved
+    in endochondral bone morphogenesis, cell differentiation, cellular response to
+    tumor cell
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTACCCACTAACAATGTGCGTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454527
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374031
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454527
+  url: https://www.ncbi.nlm.nih.gov/gene/374031
 species: Gallus gallus
 symbol: NOTCH2
 template_length: '826'
@@ -525,9 +519,8 @@ title: NOTCH2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000134250](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134250) | [4853](https://www.ncbi.nlm.nih.gov/gene/4853) | [MIM:600275](https://omim.org/entry/600275) | MIM:610205 |
 | Mouse | [ENSMUSG00000027878](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027878) | [18129](https://www.ncbi.nlm.nih.gov/gene/18129) | [MGI:97364](http://www.informatics.jax.org/marker/MGI:97364) | All phenotypic alleles (16):Targeted, knock-out(5) Targeted, other(8) Gene trapped(3) |
-| Xenopus |  | [100486344](https://www.ncbi.nlm.nih.gov/gene/100486344) | [6046916](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6046916) |  |
-| Zebrafish | [ENSDARG00000043130](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043130) | [58065](https://www.ncbi.nlm.nih.gov/gene/58065) | [ZFIN:ZDB-GENE-000329-4](https://zfin.org/ZDB-GENE-000329-4) | ZDB-GENE-000329-4 |
+| Xenopus | [ENSXETG00000017225](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017225) | [100486344](https://www.ncbi.nlm.nih.gov/gene/100486344) |  |  |
+| Zebrafish | [ENSDARG00000043130](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043130) | [58065](https://www.ncbi.nlm.nih.gov/gene/58065) | [ZFIN:ZDB-GENE-000329-4](https://zfin.org/ZDB-GENE-000329-4) | Notch signaling pathway, apoptotic process, cartilage development involved in endochondral bone morphogenesis, cell differentiation, cellular response to tumor cell |
 

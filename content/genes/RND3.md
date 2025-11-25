@@ -3,13 +3,12 @@ aliases:
 - rho-related GTP-binding protein RhoE
 cgnc_id: '9478'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/424312
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424312
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422158
 forward_primer: GAGCGAGCCAGAAGTTATC
-gene_id: '450657'
+gene_id: '424312'
 gene_type: protein-coding
 images:
 - caption: RND3 expression
@@ -220,13 +219,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R450.RND3.S25V.001.jpg
 name: Rho family GTPase 3
-ncbi_id: '450657'
+ncbi_id: '424312'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000115963
   entrez: '390'
   mod: MIM:602924
@@ -237,24 +231,25 @@ orthologs:
   mod: MGI:1921444
   phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 448301,431945
-  mod: '495411'
+- ensembl: ENSXETG00000047421
+  entrez: '448301'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000007396
-  entrez: 80963,436864
-  mod: ZFIN:ZDB-GENE-010319-40,ZFIN:ZDB-GENE-040718-331
-  phenotypes: ZDB-GENE-010319-40,ZDB-GENE-040718-331
+- ensembl: ENSDARG00000076799
+  entrez: '80963'
+  mod: ZFIN:ZDB-GENE-010319-40
+  phenotypes: actin filament organization, regulation of actin cytoskeleton organization,
+    signal transduction, small GTPase-mediated signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCCAGCACATTCAAGTGTTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450657
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424312
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450657
+  url: https://www.ncbi.nlm.nih.gov/gene/424312
 species: Gallus gallus
 symbol: RND3
 template_length: '844'
@@ -276,9 +271,8 @@ title: RND3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000115963](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000115963) | [390](https://www.ncbi.nlm.nih.gov/gene/390) | [MIM:602924](https://omim.org/entry/602924) |  |
 | Mouse | [ENSMUSG00000017144](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000017144) | [74194](https://www.ncbi.nlm.nih.gov/gene/74194) | [MGI:1921444](http://www.informatics.jax.org/marker/MGI:1921444) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [448301](https://www.ncbi.nlm.nih.gov/gene/448301), [431945](https://www.ncbi.nlm.nih.gov/gene/431945) | [495411](http://www.xenbase.org/gene/showgene.do?method=display&geneId=495411) |  |
-| Zebrafish | [ENSDARG00000007396](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007396) | [80963](https://www.ncbi.nlm.nih.gov/gene/80963), [436864](https://www.ncbi.nlm.nih.gov/gene/436864) | [ZFIN:ZDB-GENE-010319-40](https://zfin.org/ZDB-GENE-010319-40), [ZFIN:ZDB-GENE-040718-331](https://zfin.org/ZDB-GENE-040718-331) | ZDB-GENE-010319-40,ZDB-GENE-040718-331 |
+| Xenopus | [ENSXETG00000047421](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000047421) | [448301](https://www.ncbi.nlm.nih.gov/gene/448301) |  |  |
+| Zebrafish | [ENSDARG00000076799](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076799) | [80963](https://www.ncbi.nlm.nih.gov/gene/80963) | [ZFIN:ZDB-GENE-010319-40](https://zfin.org/ZDB-GENE-010319-40) | actin filament organization, regulation of actin cytoskeleton organization, signal transduction, small GTPase-mediated signal transduction |
 

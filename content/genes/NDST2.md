@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423738
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421613
-gene_id: '450849'
+gene_id: '423738'
 gene_type: protein-coding
 images:
 - caption: NDST2 expression
@@ -46,13 +46,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.f1.ndst2.png
 name: N-deacetylase and N-sulfotransferase 2
-ncbi_id: '450849'
+ncbi_id: '423738'
 orthologs:
-- ensembl: ''
-  entrez: '38736'
-  mod: FBgn0020251
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000166507
   entrez: '8509'
   mod: MIM:603268
@@ -63,20 +58,21 @@ orthologs:
   mod: MGI:97040
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000009997
   entrez: '100217321'
-  mod: '943996'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000086269
+- ensembl: ENSDARG00000112643
   entrez: '793524'
-  mod: ZFIN:ZDB-GENE-060810-182,ZFIN:ZDB-GENE-100430-2
-  phenotypes: ZDB-GENE-060810-182,ZDB-GENE-100430-2
+  mod: ZFIN:ZDB-GENE-060810-182
+  phenotypes: heparan sulfate proteoglycan biosynthetic process, heparin proteoglycan
+    biosynthetic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450849
+  url: https://www.ncbi.nlm.nih.gov/gene/423738
 species: Gallus gallus
 symbol: NDST2
 title: NDST2
@@ -104,9 +100,8 @@ title: NDST2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38736](https://www.ncbi.nlm.nih.gov/gene/38736) | FBgn0020251 |  |
 | Human | [ENSG00000166507](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166507) | [8509](https://www.ncbi.nlm.nih.gov/gene/8509) | [MIM:603268](https://omim.org/entry/603268) |  |
 | Mouse | [ENSMUSG00000039308](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039308) | [17423](https://www.ncbi.nlm.nih.gov/gene/17423) | [MGI:97040](http://www.informatics.jax.org/marker/MGI:97040) | All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2) |
-| Xenopus |  | [100217321](https://www.ncbi.nlm.nih.gov/gene/100217321) | [943996](http://www.xenbase.org/gene/showgene.do?method=display&geneId=943996) |  |
-| Zebrafish | [ENSDARG00000086269](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000086269) | [793524](https://www.ncbi.nlm.nih.gov/gene/793524) | [ZFIN:ZDB-GENE-060810-182](https://zfin.org/ZDB-GENE-060810-182), [ZFIN:ZDB-GENE-100430-2](https://zfin.org/ZDB-GENE-100430-2) | ZDB-GENE-060810-182,ZDB-GENE-100430-2 |
+| Xenopus | [ENSXETG00000009997](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009997) | [100217321](https://www.ncbi.nlm.nih.gov/gene/100217321) |  |  |
+| Zebrafish | [ENSDARG00000112643](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000112643) | [793524](https://www.ncbi.nlm.nih.gov/gene/793524) | [ZFIN:ZDB-GENE-060810-182](https://zfin.org/ZDB-GENE-060810-182) | heparan sulfate proteoglycan biosynthetic process, heparin proteoglycan biosynthetic process |
 

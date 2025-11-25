@@ -5,7 +5,6 @@ aliases:
 - transcription factor TBX6L, t-box 6
 cgnc_id: '4798'
 external_ids:
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=+2020+Stern+
@@ -21,7 +20,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030367
   X-XIV: stage XIII
-gene_id: '450400'
+gene_id: '395792'
 gene_type: protein-coding
 images:
 - caption: TBX6 expression
@@ -234,37 +233,23 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX6.Trevers.2023-Fig7-4-C.jpg
 name: T-box 6
-ncbi_id: '450400'
+ncbi_id: '395792'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000004260
+  entrez: '394452'
   mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000007329
   entrez: '30264'
   mod: ZFIN:ZDB-GENE-990615-5
-  phenotypes: ZDB-GENE-990615-5
+  phenotypes: Kupffer's vesicle development, Spemann organizer formation at the embryonic
+    shield, anatomical structure morphogenesis, angiogenesis, cell fate specification
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450400
+  url: https://www.ncbi.nlm.nih.gov/gene/395792
 species: Gallus gallus
 symbol: TBX6
 title: TBX6
@@ -293,9 +278,6 @@ title: TBX6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000007329](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007329) | [30264](https://www.ncbi.nlm.nih.gov/gene/30264) | [ZFIN:ZDB-GENE-990615-5](https://zfin.org/ZDB-GENE-990615-5) | ZDB-GENE-990615-5 |
+| Xenopus | [ENSXETG00000004260](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004260) | [394452](https://www.ncbi.nlm.nih.gov/gene/394452) |  |  |
+| Zebrafish | [ENSDARG00000007329](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007329) | [30264](https://www.ncbi.nlm.nih.gov/gene/30264) | [ZFIN:ZDB-GENE-990615-5](https://zfin.org/ZDB-GENE-990615-5) | Kupffer's vesicle development, Spemann organizer formation at the embryonic shield, anatomical structure morphogenesis, angiogenesis, cell fate specification |
 

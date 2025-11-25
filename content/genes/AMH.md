@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395887
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205030
 forward_primer: TGAAGATGGACCGCAACGAG
-gene_id: '450832'
+gene_id: '395887'
 gene_type: protein-coding
 images:
 - caption: AMH expression
@@ -276,41 +276,21 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AMH.Carre-Eusebe.2009.Fig.7.png
 name: anti-Mullerian hormone
-ncbi_id: '450832'
+ncbi_id: '395887'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000035043
+  entrez: '101734331'
   mod: ''
   phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000104899
-  entrez: '268'
-  mod: MIM:600957
-  phenotypes: MIM:261550
-  species: Human
-- ensembl: ENSMUSG00000035262
-  entrez: '11705'
-  mod: MGI:88006
-  phenotypes: All phenotypic alleles (10):Targeted, knock-out(1) Targeted, other(9)
-  species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '6458637'
-  phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000014357
-  entrez: '493624'
-  mod: ZFIN:ZDB-GENE-050706-192
-  phenotypes: ZDB-GENE-050706-192
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAAAGGCTCTGCTCCTGTGTCAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450832
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395887
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450832
+  url: https://www.ncbi.nlm.nih.gov/gene/395887
 species: Gallus gallus
 symbol: AMH
 template_length: '429'
@@ -339,9 +319,5 @@ This is an Open Access article distributed under the terms of the Creative Commo
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000104899](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000104899) | [268](https://www.ncbi.nlm.nih.gov/gene/268) | [MIM:600957](https://omim.org/entry/600957) | MIM:261550 |
-| Mouse | [ENSMUSG00000035262](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035262) | [11705](https://www.ncbi.nlm.nih.gov/gene/11705) | [MGI:88006](http://www.informatics.jax.org/marker/MGI:88006) | All phenotypic alleles (10):Targeted, knock-out(1) Targeted, other(9) |
-| Xenopus |  |  | [6458637](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6458637) |  |
-| Zebrafish | [ENSDARG00000014357](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014357) | [493624](https://www.ncbi.nlm.nih.gov/gene/493624) | [ZFIN:ZDB-GENE-050706-192](https://zfin.org/ZDB-GENE-050706-192) | ZDB-GENE-050706-192 |
+| Xenopus | [ENSXETG00000035043](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000035043) | [101734331](https://www.ncbi.nlm.nih.gov/gene/101734331) |  |  |
 

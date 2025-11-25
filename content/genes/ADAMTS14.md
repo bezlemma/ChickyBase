@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423712
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641474
 forward_primer: CCCAGGACCCTATGAGGATTTC
-gene_id: '450871'
+gene_id: '423712'
 gene_type: protein-coding
 images:
 - caption: ADAMTS14 expression
@@ -244,41 +244,31 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R486.ADAMTS14.S28V.001.jpg
 name: ADAM metallopeptidase with thrombospondin type 1 motif 14
-ncbi_id: '450871'
+ncbi_id: '423712'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000138316
+  entrez: '140766'
+  mod: MIM:607506
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000059901
+  entrez: '237360'
+  mod: MGI:2179942
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000023752
+  entrez: '100497380'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTGTTGTTGCCGATGAGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450871
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423712
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450871
+  url: https://www.ncbi.nlm.nih.gov/gene/423712
 species: Gallus gallus
 symbol: ADAMTS14
 template_length: '702'
@@ -300,9 +290,7 @@ title: ADAMTS14
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000138316](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138316) | [140766](https://www.ncbi.nlm.nih.gov/gene/140766) | [MIM:607506](https://omim.org/entry/607506) |  |
+| Mouse | [ENSMUSG00000059901](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000059901) | [237360](https://www.ncbi.nlm.nih.gov/gene/237360) | [MGI:2179942](http://www.informatics.jax.org/marker/MGI:2179942) |  |
+| Xenopus | [ENSXETG00000023752](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023752) | [100497380](https://www.ncbi.nlm.nih.gov/gene/100497380) |  |  |
 

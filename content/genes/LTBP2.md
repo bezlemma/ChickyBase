@@ -7,7 +7,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428888
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426444
 forward_primer: 5’-CGGGGAAGTTTTGCCACTTG-3’
-gene_id: '456213'
+gene_id: '428888'
 gene_type: protein-coding
 images:
 - caption: LTBP2 expression
@@ -131,13 +131,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R653.LTBP2.S26AA.001.jpg
 name: latent transforming growth factor beta binding protein 2
-ncbi_id: '456213'
+ncbi_id: '428888'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000119681
   entrez: '4053'
   mod: MIM:602091
@@ -148,24 +143,14 @@ orthologs:
   mod: MGI:99502
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTCCAGTTGCTGCTCTCACTG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456213
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428888
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456213
+  url: https://www.ncbi.nlm.nih.gov/gene/428888
 species: Gallus gallus
 symbol: LTBP2
 template_length: '993'
@@ -188,9 +173,6 @@ title: LTBP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000119681](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000119681) | [4053](https://www.ncbi.nlm.nih.gov/gene/4053) | [MIM:602091](https://omim.org/entry/602091) | MIM:613086 |
 | Mouse | [ENSMUSG00000002020](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002020) | [16997](https://www.ncbi.nlm.nih.gov/gene/16997) | [MGI:99502](http://www.informatics.jax.org/marker/MGI:99502) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
 

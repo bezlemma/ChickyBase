@@ -3,14 +3,13 @@ aliases:
 - mesothelin
 cgnc_id: '3982'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/416534
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416534
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414835
 forward_primer: 5'-TGCAGAAATGCCACCTTTGC-3'
-gene_id: '455421'
+gene_id: '416534'
 gene_type: protein-coding
 images:
 - caption: MSLN expression
@@ -102,13 +101,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MSLN.S25.001.jpg
 name: mesothelin
-ncbi_id: '455421'
+ncbi_id: '416534'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000102854
   entrez: '10232'
   mod: MIM:601051
@@ -120,23 +114,18 @@ orthologs:
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
 - ensembl: ''
-  entrez: '100492999'
-  mod: '484620'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+  entrez: '101733470'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: 5'-AATTAACCCTCACTAAAGGCAACGCTGAGCTTTTCACCC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455421
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416534
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455421
+  url: https://www.ncbi.nlm.nih.gov/gene/416534
 species: Gallus gallus
 symbol: MSLN
 template_length: '806'
@@ -159,9 +148,7 @@ title: MSLN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000102854](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000102854) | [10232](https://www.ncbi.nlm.nih.gov/gene/10232) | [MIM:601051](https://omim.org/entry/601051) |  |
 | Mouse | [ENSMUSG00000063011](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000063011) | [56047](https://www.ncbi.nlm.nih.gov/gene/56047) | [MGI:1888992](http://www.informatics.jax.org/marker/MGI:1888992) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100492999](https://www.ncbi.nlm.nih.gov/gene/100492999) | [484620](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484620) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus |  | [101733470](https://www.ncbi.nlm.nih.gov/gene/101733470) |  |  |
 

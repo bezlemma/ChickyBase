@@ -4,7 +4,6 @@ aliases:
 - znT-5
 cgnc_id: '10966'
 external_ids:
-  '25': stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006882
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005794
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Robb+Antin+candidate+coloboma
@@ -19,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427173
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005385
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031419
-gene_id: '460540'
+gene_id: '427173'
 gene_type: protein-coding
 images:
 - caption: SLC30A5 expression
@@ -65,13 +64,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLC30A5.HH25.Robb.2012.F3.slc30a5.png
 name: solute carrier family 30 member 5
-ncbi_id: '460540'
+ncbi_id: '427173'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000145740
   entrez: '64924'
   mod: MIM:607819
@@ -82,23 +76,24 @@ orthologs:
   mod: MGI:1916298
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 548665,100126632
-  mod: '962721'
+- ensembl: ENSXETG00000000472
+  entrez: '548665'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000051921
   entrez: '436594'
   mod: ZFIN:ZDB-GENE-040718-6
-  phenotypes: ZDB-GENE-040718-6
+  phenotypes: GPI anchor biosynthetic process, intracellular zinc ion homeostasis,
+    monoatomic cation transport, monoatomic ion transport, response to zinc ion
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460540
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427173
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460540
+  url: https://www.ncbi.nlm.nih.gov/gene/427173
 species: Gallus gallus
 symbol: SLC30A5
 title: SLC30A5
@@ -127,9 +122,8 @@ title: SLC30A5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000145740](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145740) | [64924](https://www.ncbi.nlm.nih.gov/gene/64924) | [MIM:607819](https://omim.org/entry/607819) |  |
 | Mouse | [ENSMUSG00000021629](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021629) | [69048](https://www.ncbi.nlm.nih.gov/gene/69048) | [MGI:1916298](http://www.informatics.jax.org/marker/MGI:1916298) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [548665](https://www.ncbi.nlm.nih.gov/gene/548665), [100126632](https://www.ncbi.nlm.nih.gov/gene/100126632) | [962721](http://www.xenbase.org/gene/showgene.do?method=display&geneId=962721) |  |
-| Zebrafish | [ENSDARG00000051921](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000051921) | [436594](https://www.ncbi.nlm.nih.gov/gene/436594) | [ZFIN:ZDB-GENE-040718-6](https://zfin.org/ZDB-GENE-040718-6) | ZDB-GENE-040718-6 |
+| Xenopus | [ENSXETG00000000472](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000472) | [548665](https://www.ncbi.nlm.nih.gov/gene/548665) |  |  |
+| Zebrafish | [ENSDARG00000051921](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000051921) | [436594](https://www.ncbi.nlm.nih.gov/gene/436594) | [ZFIN:ZDB-GENE-040718-6](https://zfin.org/ZDB-GENE-040718-6) | GPI anchor biosynthetic process, intracellular zinc ion homeostasis, monoatomic cation transport, monoatomic ion transport, response to zinc ion |
 

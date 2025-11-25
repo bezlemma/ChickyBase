@@ -4,9 +4,6 @@ aliases:
 - paired box gene 2
 cgnc_id: '4240'
 external_ids:
-  '19': stage 19stage 19
-  '25': stage 25stage 25
-  '4': stage 4stage 4
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0005561
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2012+FreterPax2+Ladher
     +Otic+epibranchial
@@ -19,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395574
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204793
-gene_id: '449557'
+gene_id: '395574'
 gene_type: protein-coding
 images:
 - caption: PAX2 expression
@@ -920,13 +917,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_2_ALLIMAGES.jpg
 name: paired box 2
-ncbi_id: '449557'
+ncbi_id: '395574'
 orthologs:
-- ensembl: ''
-  entrez: '43825'
-  mod: FBgn0005561
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000075891
   entrez: '5076'
   mod: MIM:167409
@@ -938,20 +930,16 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Spontaneous(1) Chemically induced(2) Targeted,
     knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 733478,379520,398347
-  mod: '486800'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000032578,ENSDARG00000028148
-  entrez: 60638,30425
-  mod: ZFIN:ZDB-GENE-001030-4,ZFIN:ZDB-GENE-990415-8
-  phenotypes: ZDB-GENE-001030-4,ZDB-GENE-990415-8
+- ensembl: ENSDARG00000032578
+  entrez: '60638'
+  mod: ZFIN:ZDB-GENE-001030-4
+  phenotypes: anterior/posterior pattern specification, camera-type eye morphogenesis,
+    hindbrain development, nervous system development, neuron differentiation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449557
+  url: https://www.ncbi.nlm.nih.gov/gene/395574
 species: Gallus gallus
 symbol: PAX2
 title: PAX2
@@ -979,9 +967,7 @@ title: PAX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43825](https://www.ncbi.nlm.nih.gov/gene/43825) | FBgn0005561 |  |
 | Human | [ENSG00000075891](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000075891) | [5076](https://www.ncbi.nlm.nih.gov/gene/5076) | [MIM:167409](https://omim.org/entry/167409) | MIM:120330 |
 | Mouse | [ENSMUSG00000004231](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000004231) | [18504](https://www.ncbi.nlm.nih.gov/gene/18504) | [MGI:97486](http://www.informatics.jax.org/marker/MGI:97486) | All phenotypic alleles (7):Spontaneous(1) Chemically induced(2) Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [733478](https://www.ncbi.nlm.nih.gov/gene/733478), [379520](https://www.ncbi.nlm.nih.gov/gene/379520), [398347](https://www.ncbi.nlm.nih.gov/gene/398347) | [486800](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486800) |  |
-| Zebrafish | [ENSDARG00000032578](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032578), [ENSDARG00000028148](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028148) | [60638](https://www.ncbi.nlm.nih.gov/gene/60638), [30425](https://www.ncbi.nlm.nih.gov/gene/30425) | [ZFIN:ZDB-GENE-001030-4](https://zfin.org/ZDB-GENE-001030-4), [ZFIN:ZDB-GENE-990415-8](https://zfin.org/ZDB-GENE-990415-8) | ZDB-GENE-001030-4,ZDB-GENE-990415-8 |
+| Zebrafish | [ENSDARG00000032578](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032578) | [60638](https://www.ncbi.nlm.nih.gov/gene/60638) | [ZFIN:ZDB-GENE-001030-4](https://zfin.org/ZDB-GENE-001030-4) | anterior/posterior pattern specification, camera-type eye morphogenesis, hindbrain development, nervous system development, neuron differentiation |
 

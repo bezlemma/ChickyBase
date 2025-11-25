@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396439
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003779
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205455
-gene_id: '461041'
+gene_id: '396439'
 gene_type: protein-coding
 images:
 - caption: TNS1 expression
@@ -26,13 +26,8 @@ images:
   stage: stage 39
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TNS.VandeWerken.1993Fig.jpg
 name: tensin 1
-ncbi_id: '461041'
+ncbi_id: '396439'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000079308
   entrez: '7145'
   mod: MIM:600076
@@ -43,20 +38,20 @@ orthologs:
   mod: MGI:104552
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000005595
   entrez: '100216306'
-  mod: '957067'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: 100334067,555362,565181
-  mod: ZFIN:ZDB-GENE-030131-6933,ZFIN:ZDB-GENE-120215-32
-  phenotypes: ZDB-GENE-030131-6933,ZDB-GENE-120215-32
+- ensembl: ENSDARG00000020845
+  entrez: '555362'
+  mod: ZFIN:ZDB-GENE-030131-6933
+  phenotypes: fibroblast migration
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461041
+  url: https://www.ncbi.nlm.nih.gov/gene/396439
 species: Gallus gallus
 symbol: TNS1
 title: TNS1
@@ -84,9 +79,8 @@ title: TNS1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000079308](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000079308) | [7145](https://www.ncbi.nlm.nih.gov/gene/7145) | [MIM:600076](https://omim.org/entry/600076) |  |
 | Mouse | [ENSMUSG00000055322](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000055322) | [21961](https://www.ncbi.nlm.nih.gov/gene/21961) | [MGI:104552](http://www.informatics.jax.org/marker/MGI:104552) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100216306](https://www.ncbi.nlm.nih.gov/gene/100216306) | [957067](http://www.xenbase.org/gene/showgene.do?method=display&geneId=957067) |  |
-| Zebrafish |  | [100334067](https://www.ncbi.nlm.nih.gov/gene/100334067), [555362](https://www.ncbi.nlm.nih.gov/gene/555362), [565181](https://www.ncbi.nlm.nih.gov/gene/565181) | [ZFIN:ZDB-GENE-030131-6933](https://zfin.org/ZDB-GENE-030131-6933), [ZFIN:ZDB-GENE-120215-32](https://zfin.org/ZDB-GENE-120215-32) | ZDB-GENE-030131-6933,ZDB-GENE-120215-32 |
+| Xenopus | [ENSXETG00000005595](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005595) | [100216306](https://www.ncbi.nlm.nih.gov/gene/100216306) |  |  |
+| Zebrafish | [ENSDARG00000020845](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020845) | [555362](https://www.ncbi.nlm.nih.gov/gene/555362) | [ZFIN:ZDB-GENE-030131-6933](https://zfin.org/ZDB-GENE-030131-6933) | fibroblast migration |
 

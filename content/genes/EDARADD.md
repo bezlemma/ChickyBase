@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:497625
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012405
-gene_id: '449095'
+gene_id: '497625'
 gene_type: protein-coding
 images:
 - caption: EDARADD expression
@@ -84,13 +84,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDARADD.Houghton.2005.Fig.5
     .png
 name: EDAR associated death domain
-ncbi_id: '449095'
+ncbi_id: '497625'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000186197
   entrez: '128178'
   mod: MIM:606603
@@ -101,20 +96,20 @@ orthologs:
   mod: MGI:1931001
   phenotypes: All phenotypic alleles (5):Spontaneous(2) Chemically induced(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000032415
   entrez: '100490133'
-  mod: '984100'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000062289
   entrez: '566761'
-  mod: ZFIN:ZDB-GENE-050114-5,ZFIN:ZDB-GENE-050114-5
-  phenotypes: ZDB-GENE-050114-5,ZDB-GENE-050114-5
+  mod: ZFIN:ZDB-GENE-050114-5
+  phenotypes: embryonic viscerocranium morphogenesis, signal transduction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449095
+  url: https://www.ncbi.nlm.nih.gov/gene/497625
 species: Gallus gallus
 symbol: EDARADD
 title: EDARADD
@@ -141,9 +136,8 @@ title: EDARADD
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000186197](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000186197) | [128178](https://www.ncbi.nlm.nih.gov/gene/128178) | [MIM:606603](https://omim.org/entry/606603) | MIM:129490 |
 | Mouse | [ENSMUSG00000095105](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000095105) | [171211](https://www.ncbi.nlm.nih.gov/gene/171211) | [MGI:1931001](http://www.informatics.jax.org/marker/MGI:1931001) | All phenotypic alleles (5):Spontaneous(2) Chemically induced(3) |
-| Xenopus |  | [100490133](https://www.ncbi.nlm.nih.gov/gene/100490133) | [984100](http://www.xenbase.org/gene/showgene.do?method=display&geneId=984100) |  |
-| Zebrafish | [ENSDARG00000062289](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062289) | [566761](https://www.ncbi.nlm.nih.gov/gene/566761) | [ZFIN:ZDB-GENE-050114-5](https://zfin.org/ZDB-GENE-050114-5), [ZFIN:ZDB-GENE-050114-5](https://zfin.org/ZDB-GENE-050114-5) | ZDB-GENE-050114-5,ZDB-GENE-050114-5 |
+| Xenopus | [ENSXETG00000032415](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000032415) | [100490133](https://www.ncbi.nlm.nih.gov/gene/100490133) |  |  |
+| Zebrafish | [ENSDARG00000062289](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062289) | [566761](https://www.ncbi.nlm.nih.gov/gene/566761) | [ZFIN:ZDB-GENE-050114-5](https://zfin.org/ZDB-GENE-050114-5) | embryonic viscerocranium morphogenesis, signal transduction |
 

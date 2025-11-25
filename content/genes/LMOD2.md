@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417751
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199715
-gene_id: '452836'
+gene_id: '417751'
 gene_type: protein-coding
 images:
 - caption: LMOD2 expression
@@ -161,13 +161,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R404.CHEST161B20.S27V.001.jpg
 name: leiomodin 2
-ncbi_id: '452836'
+ncbi_id: '417751'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000170807
   entrez: '442721'
   mod: MIM:608006
@@ -178,23 +173,24 @@ orthologs:
   mod: MGI:2135672
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000022132
   entrez: '100145340'
-  mod: '995982'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000045864,ENSDARG00000045634
-  entrez: 794654,664708,447877
-  mod: ZFIN:ZDB-GENE-041210-356,ZFIN:ZDB-GENE-040912-41
-  phenotypes: ZDB-GENE-041210-356,ZDB-GENE-040912-41
+- ensembl: ENSDARG00000045864
+  entrez: '664708'
+  mod: ZFIN:ZDB-GENE-041210-356
+  phenotypes: actin cytoskeleton organization, actin filament organization, muscle
+    contraction, myofibril assembly, pointed-end actin filament capping
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452836
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417751
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452836
+  url: https://www.ncbi.nlm.nih.gov/gene/417751
 species: Gallus gallus
 symbol: LMOD2
 title: LMOD2
@@ -217,9 +213,8 @@ title: LMOD2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000170807](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170807) | [442721](https://www.ncbi.nlm.nih.gov/gene/442721) | [MIM:608006](https://omim.org/entry/608006) |  |
 | Mouse | [ENSMUSG00000029683](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029683) | [93677](https://www.ncbi.nlm.nih.gov/gene/93677) | [MGI:2135672](http://www.informatics.jax.org/marker/MGI:2135672) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100145340](https://www.ncbi.nlm.nih.gov/gene/100145340) | [995982](http://www.xenbase.org/gene/showgene.do?method=display&geneId=995982) |  |
-| Zebrafish | [ENSDARG00000045864](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045864), [ENSDARG00000045634](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045634) | [794654](https://www.ncbi.nlm.nih.gov/gene/794654), [664708](https://www.ncbi.nlm.nih.gov/gene/664708), [447877](https://www.ncbi.nlm.nih.gov/gene/447877) | [ZFIN:ZDB-GENE-041210-356](https://zfin.org/ZDB-GENE-041210-356), [ZFIN:ZDB-GENE-040912-41](https://zfin.org/ZDB-GENE-040912-41) | ZDB-GENE-041210-356,ZDB-GENE-040912-41 |
+| Xenopus | [ENSXETG00000022132](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022132) | [100145340](https://www.ncbi.nlm.nih.gov/gene/100145340) |  |  |
+| Zebrafish | [ENSDARG00000045864](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045864) | [664708](https://www.ncbi.nlm.nih.gov/gene/664708) | [ZFIN:ZDB-GENE-041210-356](https://zfin.org/ZDB-GENE-041210-356) | actin cytoskeleton organization, actin filament organization, muscle contraction, myofibril assembly, pointed-end actin filament capping |
 

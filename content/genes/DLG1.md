@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424890
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641764
 forward_primer: GGTTTCAGTATTGCTGGTGGTGTAG
-gene_id: '448933'
+gene_id: '424890'
 gene_type: protein-coding
 images:
 - caption: DLG1 expression
@@ -158,13 +158,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R361.DLG1.S24.002.jpg
 name: discs large MAGUK scaffold protein 1
-ncbi_id: '448933'
+ncbi_id: '424890'
 orthologs:
-- ensembl: ''
-  entrez: '32083'
-  mod: FBgn0001624
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000075711
   entrez: '1739'
   mod: MIM:601014
@@ -176,24 +171,25 @@ orthologs:
   phenotypes: All phenotypic alleles (9):Targeted, knock-out(3) Targeted, other(5)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000003464
   entrez: '733937'
-  mod: '1016131'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000009677,ENSDARG00000029925
-  entrez: 114446,497648
-  mod: ZFIN:ZDB-GENE-010724-8,ZFIN:ZDB-GENE-050222-3
-  phenotypes: ZDB-GENE-010724-8,ZDB-GENE-050222-3
+- ensembl: ENSDARG00000009677
+  entrez: '114446'
+  mod: ZFIN:ZDB-GENE-010724-8
+  phenotypes: actin filament organization, cell-cell adhesion, chemical synaptic transmission,
+    cortical actin cytoskeleton organization, endothelial cell proliferation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCGTTTGCTTGGGATAACTCCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448933
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424890
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448933
+  url: https://www.ncbi.nlm.nih.gov/gene/424890
 species: Gallus gallus
 symbol: DLG1
 template_length: '953'
@@ -217,9 +213,8 @@ title: DLG1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32083](https://www.ncbi.nlm.nih.gov/gene/32083) | FBgn0001624 |  |
 | Human | [ENSG00000075711](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000075711) | [1739](https://www.ncbi.nlm.nih.gov/gene/1739) | [MIM:601014](https://omim.org/entry/601014) |  |
 | Mouse | [ENSMUSG00000022770](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022770) | [13383](https://www.ncbi.nlm.nih.gov/gene/13383) | [MGI:107231](http://www.informatics.jax.org/marker/MGI:107231) | All phenotypic alleles (9):Targeted, knock-out(3) Targeted, other(5) Gene trapped(1) |
-| Xenopus |  | [733937](https://www.ncbi.nlm.nih.gov/gene/733937) | [1016131](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1016131) |  |
-| Zebrafish | [ENSDARG00000009677](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009677), [ENSDARG00000029925](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029925) | [114446](https://www.ncbi.nlm.nih.gov/gene/114446), [497648](https://www.ncbi.nlm.nih.gov/gene/497648) | [ZFIN:ZDB-GENE-010724-8](https://zfin.org/ZDB-GENE-010724-8), [ZFIN:ZDB-GENE-050222-3](https://zfin.org/ZDB-GENE-050222-3) | ZDB-GENE-010724-8,ZDB-GENE-050222-3 |
+| Xenopus | [ENSXETG00000003464](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003464) | [733937](https://www.ncbi.nlm.nih.gov/gene/733937) |  |  |
+| Zebrafish | [ENSDARG00000009677](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009677) | [114446](https://www.ncbi.nlm.nih.gov/gene/114446) | [ZFIN:ZDB-GENE-010724-8](https://zfin.org/ZDB-GENE-010724-8) | actin filament organization, cell-cell adhesion, chemical synaptic transmission, cortical actin cytoskeleton organization, endothelial cell proliferation |
 

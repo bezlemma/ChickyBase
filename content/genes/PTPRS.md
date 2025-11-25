@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396375
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205407
-gene_id: '468222'
+gene_id: '396375'
 gene_type: protein-coding
 images:
 - caption: PTPRS expression
@@ -77,7 +77,7 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cilton.CRYPAlpha2.D-2.jpg
 name: protein tyrosine phosphatase, receptor type S
-ncbi_id: '468222'
+ncbi_id: '396375'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -107,7 +107,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468222
+  url: https://www.ncbi.nlm.nih.gov/gene/396375
 species: Gallus gallus
 symbol: PTPRS
 title: PTPRS

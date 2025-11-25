@@ -4,14 +4,13 @@ aliases:
 - transcription factor max-like protein X
 cgnc_id: '2323'
 external_ids:
-  '25': stage 25
   Comments: no specific expression detected stages 4-21; widespread.
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000003199
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420026
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030930
 forward_primer: CGACGACGAGGACAGCGATTAC
-gene_id: '458301'
+gene_id: '420026'
 gene_type: protein-coding
 images:
 - caption: MLX expression
@@ -164,41 +163,37 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R279.MLX.S25.001.jpg
 name: MLX, MAX dimerization protein
-ncbi_id: '458301'
+ncbi_id: '420026'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000108788
+  entrez: '6945'
+  mod: MIM:602976
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000017801
+  entrez: '21428'
+  mod: MGI:108398
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '970061'
+- ensembl: ENSXETG00000012035
+  entrez: '101732928'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000037891
   entrez: '554119'
   mod: ZFIN:ZDB-GENE-050522-316
-  phenotypes: ZDB-GENE-050522-316
+  phenotypes: positive regulation of transcription by RNA polymerase II, regulation
+    of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTGACAGCAGCAGCGTGTGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458301
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420026
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458301
+  url: https://www.ncbi.nlm.nih.gov/gene/420026
 species: Gallus gallus
 symbol: MLX
 template_length: '1531'
@@ -222,9 +217,8 @@ title: MLX
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  | [970061](http://www.xenbase.org/gene/showgene.do?method=display&geneId=970061) |  |
-| Zebrafish | [ENSDARG00000037891](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037891) | [554119](https://www.ncbi.nlm.nih.gov/gene/554119) | [ZFIN:ZDB-GENE-050522-316](https://zfin.org/ZDB-GENE-050522-316) | ZDB-GENE-050522-316 |
+| Human | [ENSG00000108788](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000108788) | [6945](https://www.ncbi.nlm.nih.gov/gene/6945) | [MIM:602976](https://omim.org/entry/602976) |  |
+| Mouse | [ENSMUSG00000017801](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000017801) | [21428](https://www.ncbi.nlm.nih.gov/gene/21428) | [MGI:108398](http://www.informatics.jax.org/marker/MGI:108398) |  |
+| Xenopus | [ENSXETG00000012035](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012035) | [101732928](https://www.ncbi.nlm.nih.gov/gene/101732928) |  |  |
+| Zebrafish | [ENSDARG00000037891](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037891) | [554119](https://www.ncbi.nlm.nih.gov/gene/554119) | [ZFIN:ZDB-GENE-050522-316](https://zfin.org/ZDB-GENE-050522-316) | positive regulation of transcription by RNA polymerase II, regulation of transcription by RNA polymerase II |
 

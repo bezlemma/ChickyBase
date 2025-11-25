@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422510
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420474
 forward_primer: GCAGCAGCCATCTGTCATTTACC
-gene_id: '451126'
+gene_id: '422510'
 gene_type: protein-coding
 images:
 - caption: CXCL13L2 expression
@@ -57,7 +57,7 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R458.CXCL13L2.S27A.001.jpg
 name: C-X-C motif chemokine ligand 13-like 2
-ncbi_id: '451126'
+ncbi_id: '422510'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -88,10 +88,10 @@ reverse_primer: ATTAACCCTCACTAAAGGAACCGCCGCCGCTTCTTTTTTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451126
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422510
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451126
+  url: https://www.ncbi.nlm.nih.gov/gene/422510
 species: Gallus gallus
 symbol: CXCL13L2
 template_length: '1034'

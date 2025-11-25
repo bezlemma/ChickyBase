@@ -14,7 +14,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006473
   X-XIV: stage Xstage XIIstage XIIstage XIVstage XIV
-gene_id: '449476'
+gene_id: '423111'
 gene_type: protein-coding
 images:
 - caption: RNH1 expression
@@ -227,13 +227,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Allimages_Lee.2020_Fig
     3-5.jpg
 name: ribonuclease/angiogenin inhibitor 1
-ncbi_id: '449476'
+ncbi_id: '423111'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000023191
   entrez: '6050'
   mod: MIM:173320
@@ -244,23 +239,13 @@ orthologs:
   mod: MGI:1195456
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: '569436'
-  mod: ZFIN:ZDB-GENE-030131-4718
-  phenotypes: ZDB-GENE-030131-4718
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449476
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423111
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449476
+  url: https://www.ncbi.nlm.nih.gov/gene/423111
 species: Gallus gallus
 symbol: RNH1
 title: RNH1
@@ -287,9 +272,6 @@ title: RNH1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000023191](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000023191) | [6050](https://www.ncbi.nlm.nih.gov/gene/6050) | [MIM:173320](https://omim.org/entry/173320) |  |
 | Mouse | [ENSMUSG00000038650](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038650) | [107702](https://www.ncbi.nlm.nih.gov/gene/107702) | [MGI:1195456](http://www.informatics.jax.org/marker/MGI:1195456) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  | [569436](https://www.ncbi.nlm.nih.gov/gene/569436) | [ZFIN:ZDB-GENE-030131-4718](https://zfin.org/ZDB-GENE-030131-4718) | ZDB-GENE-030131-4718 |
 

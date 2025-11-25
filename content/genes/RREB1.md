@@ -16,7 +16,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205049
   X-XIV: stage XII
-gene_id: '450467'
+gene_id: '395920'
 gene_type: protein-coding
 images:
 - caption: RREB1 expression
@@ -56,13 +56,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RREB1.Trevers.2023-Fig7-7-O.jpg
 name: ras responsive element binding protein 1
-ncbi_id: '450467'
+ncbi_id: '395920'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000124782
   entrez: '6239'
   mod: MIM:602209
@@ -73,23 +68,25 @@ orthologs:
   mod: MGI:2443664
   phenotypes: All phenotypic alleles (4):Targeted, other(4)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000015435
   entrez: '100038225'
-  mod: '492149'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000063701,ENSDARG00000042652
-  entrez: 338237,555701
-  mod: ZFIN:ZDB-GENE-030219-137,ZFIN:ZDB-GENE-070912-273
-  phenotypes: ZDB-GENE-030219-137,ZDB-GENE-070912-273
+- ensembl: ENSDARG00000042652
+  entrez: '555701'
+  mod: ZFIN:ZDB-GENE-070912-273
+  phenotypes: negative regulation of transcription by RNA polymerase II, positive
+    regulation of developmental process, regulation of glucose metabolic process,
+    regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450467
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395920
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450467
+  url: https://www.ncbi.nlm.nih.gov/gene/395920
 species: Gallus gallus
 symbol: RREB1
 title: RREB1
@@ -116,9 +113,8 @@ title: RREB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000124782](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000124782) | [6239](https://www.ncbi.nlm.nih.gov/gene/6239) | [MIM:602209](https://omim.org/entry/602209) |  |
 | Mouse | [ENSMUSG00000039087](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039087) | [68750](https://www.ncbi.nlm.nih.gov/gene/68750) | [MGI:2443664](http://www.informatics.jax.org/marker/MGI:2443664) | All phenotypic alleles (4):Targeted, other(4) |
-| Xenopus |  | [100038225](https://www.ncbi.nlm.nih.gov/gene/100038225) | [492149](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492149) |  |
-| Zebrafish | [ENSDARG00000063701](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063701), [ENSDARG00000042652](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042652) | [338237](https://www.ncbi.nlm.nih.gov/gene/338237), [555701](https://www.ncbi.nlm.nih.gov/gene/555701) | [ZFIN:ZDB-GENE-030219-137](https://zfin.org/ZDB-GENE-030219-137), [ZFIN:ZDB-GENE-070912-273](https://zfin.org/ZDB-GENE-070912-273) | ZDB-GENE-030219-137,ZDB-GENE-070912-273 |
+| Xenopus | [ENSXETG00000015435](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015435) | [100038225](https://www.ncbi.nlm.nih.gov/gene/100038225) |  |  |
+| Zebrafish | [ENSDARG00000042652](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042652) | [555701](https://www.ncbi.nlm.nih.gov/gene/555701) | [ZFIN:ZDB-GENE-070912-273](https://zfin.org/ZDB-GENE-070912-273) | negative regulation of transcription by RNA polymerase II, positive regulation of developmental process, regulation of glucose metabolic process, regulation of transcription by RNA polymerase II |
 

@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420073
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418192
-gene_id: '463589'
+gene_id: '420073'
 gene_type: protein-coding
 images:
 - caption: CACTIN expression
@@ -31,37 +31,33 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Nathan.2008.f1.cactin.png
 name: cactin, spliceosome C complex subunit
-ncbi_id: '463589'
+ncbi_id: '420073'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000105298
+  entrez: '58509'
+  mod: MIM:618536
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000034889
+  entrez: '70312'
+  mod: MGI:1917562
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000022106
+  entrez: '100487223'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000059866
+  entrez: '100126813'
+  mod: ZFIN:ZDB-GENE-060503-322
+  phenotypes: anterior/posterior axis specification, embryo, eye development, immune
+    system process, innate immune response, mRNA cis splicing, via spliceosome
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463589
+  url: https://www.ncbi.nlm.nih.gov/gene/420073
 species: Gallus gallus
 symbol: CACTIN
 title: CACTIN
@@ -87,9 +83,8 @@ title: CACTIN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000105298](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000105298) | [58509](https://www.ncbi.nlm.nih.gov/gene/58509) | [MIM:618536](https://omim.org/entry/618536) |  |
+| Mouse | [ENSMUSG00000034889](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034889) | [70312](https://www.ncbi.nlm.nih.gov/gene/70312) | [MGI:1917562](http://www.informatics.jax.org/marker/MGI:1917562) |  |
+| Xenopus | [ENSXETG00000022106](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022106) | [100487223](https://www.ncbi.nlm.nih.gov/gene/100487223) |  |  |
+| Zebrafish | [ENSDARG00000059866](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059866) | [100126813](https://www.ncbi.nlm.nih.gov/gene/100126813) | [ZFIN:ZDB-GENE-060503-322](https://zfin.org/ZDB-GENE-060503-322) | anterior/posterior axis specification, embryo, eye development, immune system process, innate immune response, mRNA cis splicing, via spliceosome |
 

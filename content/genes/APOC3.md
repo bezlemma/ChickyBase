@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100859721
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642603
-gene_id: '474252'
+gene_id: '100859721'
 gene_type: protein-coding
 images:
 - caption: APOC3 expression
@@ -55,7 +55,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/APOC3.Anderson.2019.Supplementary
     figure 5K.jpg
 name: apolipoprotein C3
-ncbi_id: '474252'
+ncbi_id: '100859721'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -85,7 +85,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/474252
+  url: https://www.ncbi.nlm.nih.gov/gene/100859721
 species: Gallus gallus
 symbol: APOC3
 title: APOC3

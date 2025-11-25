@@ -130,7 +130,7 @@ orthologs:
 - ensembl: ENSDARG00000003081,ENSDARG00000058799
   entrez: 321053,393530
   mod: ZFIN:ZDB-GENE-030131-9794,ZFIN:ZDB-GENE-040426-1531
-  phenotypes: ZDB-GENE-030131-9794,ZDB-GENE-040426-1531
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTCTTCGTCTCAGCGTCCAAC-3’
 sources:
@@ -168,5 +168,5 @@ title: MYBPH
 | Human | [ENSG00000133055](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000133055) | [4608](https://www.ncbi.nlm.nih.gov/gene/4608) | [MIM:160795](https://omim.org/entry/160795) |  |
 | Mouse | [ENSMUSG00000042451](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042451) | [53311](https://www.ncbi.nlm.nih.gov/gene/53311) | [MGI:1858196](http://www.informatics.jax.org/marker/MGI:1858196) | All phenotypic alleles (2):Targeted, other(2) |
 | Xenopus |  | [734124](https://www.ncbi.nlm.nih.gov/gene/734124), [398625](https://www.ncbi.nlm.nih.gov/gene/398625) | [1018429](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1018429) |  |
-| Zebrafish | [ENSDARG00000003081](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003081), [ENSDARG00000058799](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058799) | [321053](https://www.ncbi.nlm.nih.gov/gene/321053), [393530](https://www.ncbi.nlm.nih.gov/gene/393530) | [ZFIN:ZDB-GENE-030131-9794](https://zfin.org/ZDB-GENE-030131-9794), [ZFIN:ZDB-GENE-040426-1531](https://zfin.org/ZDB-GENE-040426-1531) | ZDB-GENE-030131-9794,ZDB-GENE-040426-1531 |
+| Zebrafish | [ENSDARG00000003081](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003081), [ENSDARG00000058799](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058799) | [321053](https://www.ncbi.nlm.nih.gov/gene/321053), [393530](https://www.ncbi.nlm.nih.gov/gene/393530) | [ZFIN:ZDB-GENE-030131-9794](https://zfin.org/ZDB-GENE-030131-9794), [ZFIN:ZDB-GENE-040426-1531](https://zfin.org/ZDB-GENE-040426-1531) |  |
 

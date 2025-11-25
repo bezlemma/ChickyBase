@@ -18,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003705
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205452
 forward_primer: 5’-TGCAGGAACAGTGAGAGCAG-3’
-gene_id: '461031'
+gene_id: '396436'
 gene_type: protein-coding
 images:
 - caption: PTH expression
@@ -103,13 +103,8 @@ images:
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PTH.Okabe.2004.Fig.1.png
 name: parathyroid hormone
-ncbi_id: '461031'
+ncbi_id: '396436'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000152266
   entrez: '5741'
   mod: MIM:168450
@@ -120,24 +115,14 @@ orthologs:
   mod: MGI:97799
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100487256,100462909
-  mod: '1018316'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000093738,ENSDARG00000091961
-  entrez: 405886,405885
-  mod: ZFIN:ZDB-GENE-040623-1,ZFIN:ZDB-GENE-040623-2
-  phenotypes: ZDB-GENE-040623-1,ZDB-GENE-040623-2
-  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTTCTACCTCCAGCGGATTGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461031
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396436
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461031
+  url: https://www.ncbi.nlm.nih.gov/gene/396436
 species: Gallus gallus
 symbol: PTH
 template_length: '656'
@@ -167,9 +152,6 @@ title: PTH
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000152266](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000152266) | [5741](https://www.ncbi.nlm.nih.gov/gene/5741) | [MIM:168450](https://omim.org/entry/168450) | MIM:146200 |
 | Mouse | [ENSMUSG00000059077](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000059077) | [19226](https://www.ncbi.nlm.nih.gov/gene/19226) | [MGI:97799](http://www.informatics.jax.org/marker/MGI:97799) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100487256](https://www.ncbi.nlm.nih.gov/gene/100487256), [100462909](https://www.ncbi.nlm.nih.gov/gene/100462909) | [1018316](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1018316) |  |
-| Zebrafish | [ENSDARG00000093738](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000093738), [ENSDARG00000091961](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000091961) | [405886](https://www.ncbi.nlm.nih.gov/gene/405886), [405885](https://www.ncbi.nlm.nih.gov/gene/405885) | [ZFIN:ZDB-GENE-040623-1](https://zfin.org/ZDB-GENE-040623-1), [ZFIN:ZDB-GENE-040623-2](https://zfin.org/ZDB-GENE-040623-2) | ZDB-GENE-040623-1,ZDB-GENE-040623-2 |
 

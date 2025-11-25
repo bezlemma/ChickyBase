@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396433
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205449
-gene_id: '461035'
+gene_id: '396433'
 gene_type: protein-coding
 images:
 - caption: TNNT2 expression
@@ -268,13 +268,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cTNT.Antin.2002.Fig2.jpg
 name: troponin T2, cardiac type
-ncbi_id: '461035'
+ncbi_id: '396433'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000118194
   entrez: '7139'
   mod: MIM:191045
@@ -285,23 +280,24 @@ orthologs:
   mod: MGI:104597
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100493699,398518
-  mod: '482613'
+- ensembl: ENSXETG00000017086
+  entrez: '100493699'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000020610
   entrez: '58071'
-  mod: ZFIN:ZDB-GENE-000626-1,ZFIN:ZDB-GENE-091106-2
-  phenotypes: ZDB-GENE-000626-1,ZDB-GENE-091106-2
+  mod: ZFIN:ZDB-GENE-000626-1
+  phenotypes: artery development, atrial cardiac muscle tissue morphogenesis, blood
+    circulation, blood vessel development, branching involved in blood vessel morphogenesis
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461035
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396433
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461035
+  url: https://www.ncbi.nlm.nih.gov/gene/396433
 species: Gallus gallus
 symbol: TNNT2
 title: TNNT2
@@ -329,9 +325,8 @@ title: TNNT2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000118194](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118194) | [7139](https://www.ncbi.nlm.nih.gov/gene/7139) | [MIM:191045](https://omim.org/entry/191045) | MIM:115195 |
 | Mouse | [ENSMUSG00000026414](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026414) | [21956](https://www.ncbi.nlm.nih.gov/gene/21956) | [MGI:104597](http://www.informatics.jax.org/marker/MGI:104597) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100493699](https://www.ncbi.nlm.nih.gov/gene/100493699), [398518](https://www.ncbi.nlm.nih.gov/gene/398518) | [482613](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482613) |  |
-| Zebrafish | [ENSDARG00000020610](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020610) | [58071](https://www.ncbi.nlm.nih.gov/gene/58071) | [ZFIN:ZDB-GENE-000626-1](https://zfin.org/ZDB-GENE-000626-1), [ZFIN:ZDB-GENE-091106-2](https://zfin.org/ZDB-GENE-091106-2) | ZDB-GENE-000626-1,ZDB-GENE-091106-2 |
+| Xenopus | [ENSXETG00000017086](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017086) | [100493699](https://www.ncbi.nlm.nih.gov/gene/100493699) |  |  |
+| Zebrafish | [ENSDARG00000020610](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020610) | [58071](https://www.ncbi.nlm.nih.gov/gene/58071) | [ZFIN:ZDB-GENE-000626-1](https://zfin.org/ZDB-GENE-000626-1) | artery development, atrial cardiac muscle tissue morphogenesis, blood circulation, blood vessel development, branching involved in blood vessel morphogenesis |
 

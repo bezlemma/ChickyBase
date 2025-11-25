@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373939
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_206863
 forward_primer: AGGAATACCACAACCAACGCC
-gene_id: '459472'
+gene_id: '373939'
 gene_type: protein-coding
 images:
 - caption: VAV3 expression
@@ -150,13 +150,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R399.VAV3.S26b.001.jpg
 name: vav 3 guanine nucleotide exchange factor
-ncbi_id: '459472'
+ncbi_id: '373939'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134215
   entrez: '10451'
   mod: MIM:605541
@@ -167,24 +162,26 @@ orthologs:
   mod: MGI:1888518
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000009944
   entrez: '100493918'
-  mod: '6075608'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000075962
   entrez: '559145'
-  mod: ZFIN:ZDB-GENE-070912-251,ZFIN:ZDB-GENE-070912-251,ZFIN:ZDB-GENE-091204-266
-  phenotypes: ZDB-GENE-070912-251,ZDB-GENE-070912-251,ZDB-GENE-091204-266
+  mod: ZFIN:ZDB-GENE-070912-251
+  phenotypes: cell migration, cell surface receptor signaling pathway, immune response-regulating
+    cell surface receptor signaling pathway, intracellular signal transduction, positive
+    regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCTGAAATCTTCTGGAAAGGTGAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459472
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373939
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459472
+  url: https://www.ncbi.nlm.nih.gov/gene/373939
 species: Gallus gallus
 symbol: VAV3
 template_length: '989'
@@ -206,9 +203,8 @@ title: VAV3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000134215](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134215) | [10451](https://www.ncbi.nlm.nih.gov/gene/10451) | [MIM:605541](https://omim.org/entry/605541) |  |
 | Mouse | [ENSMUSG00000033721](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033721) | [57257](https://www.ncbi.nlm.nih.gov/gene/57257) | [MGI:1888518](http://www.informatics.jax.org/marker/MGI:1888518) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100493918](https://www.ncbi.nlm.nih.gov/gene/100493918) | [6075608](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6075608) |  |
-| Zebrafish | [ENSDARG00000075962](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075962) | [559145](https://www.ncbi.nlm.nih.gov/gene/559145) | [ZFIN:ZDB-GENE-070912-251](https://zfin.org/ZDB-GENE-070912-251), [ZFIN:ZDB-GENE-070912-251](https://zfin.org/ZDB-GENE-070912-251), [ZFIN:ZDB-GENE-091204-266](https://zfin.org/ZDB-GENE-091204-266) | ZDB-GENE-070912-251,ZDB-GENE-070912-251,ZDB-GENE-091204-266 |
+| Xenopus | [ENSXETG00000009944](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009944) | [100493918](https://www.ncbi.nlm.nih.gov/gene/100493918) |  |  |
+| Zebrafish | [ENSDARG00000075962](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075962) | [559145](https://www.ncbi.nlm.nih.gov/gene/559145) | [ZFIN:ZDB-GENE-070912-251](https://zfin.org/ZDB-GENE-070912-251) | cell migration, cell surface receptor signaling pathway, immune response-regulating cell surface receptor signaling pathway, intracellular signal transduction, positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction |
 

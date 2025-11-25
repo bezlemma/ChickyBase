@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424037
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006514
-gene_id: '462752'
+gene_id: '100310178'
 gene_type: protein-coding
 images:
 - caption: LSS expression
@@ -31,7 +31,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-figS1-H.jpg
 name: lanosterol synthase
-ncbi_id: '462752'
+ncbi_id: '100310178'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -56,12 +56,12 @@ orthologs:
 - ensembl: ENSDARG00000061274
   entrez: '795400'
   mod: ZFIN:ZDB-GENE-050119-7
-  phenotypes: ZDB-GENE-050119-7
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462752
+  url: https://www.ncbi.nlm.nih.gov/gene/100310178
 species: Gallus gallus
 symbol: LSS
 title: LSS
@@ -91,5 +91,5 @@ title: LSS
 | Human | [ENSG00000160285](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000160285) | [4047](https://www.ncbi.nlm.nih.gov/gene/4047) | [MIM:600909](https://omim.org/entry/600909) |  |
 | Mouse |  | [16987](https://www.ncbi.nlm.nih.gov/gene/16987) | [MGI:1336155](http://www.informatics.jax.org/marker/MGI:1336155) | All phenotypic alleles (2):Targeted, other(2) |
 | Xenopus |  | [733925](https://www.ncbi.nlm.nih.gov/gene/733925) | [5786977](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5786977) |  |
-| Zebrafish | [ENSDARG00000061274](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061274) | [795400](https://www.ncbi.nlm.nih.gov/gene/795400) | [ZFIN:ZDB-GENE-050119-7](https://zfin.org/ZDB-GENE-050119-7) | ZDB-GENE-050119-7 |
+| Zebrafish | [ENSDARG00000061274](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061274) | [795400](https://www.ncbi.nlm.nih.gov/gene/795400) | [ZFIN:ZDB-GENE-050119-7](https://zfin.org/ZDB-GENE-050119-7) |  |
 

@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418962
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417154
 forward_primer: TTGCCAAGTCCAAGTCGCAC
-gene_id: '451728'
+gene_id: '418962'
 gene_type: protein-coding
 images:
 - caption: ARHGAP20 expression
@@ -110,13 +110,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R412.ARHGAP20.S27D.001.jpg
 name: Rho GTPase activating protein 20
-ncbi_id: '451728'
+ncbi_id: '418962'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000137727
   entrez: '57569'
   mod: MIM:609568
@@ -127,24 +122,14 @@ orthologs:
   mod: MGI:2445175
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: '780178'
-  mod: '1005913'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000089326
-  entrez: 562063,796434
-  mod: ZFIN:ZDB-GENE-060526-383,ZFIN:ZDB-GENE-071015-1
-  phenotypes: ZDB-GENE-060526-383,ZDB-GENE-071015-1
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAATGCTGCCTGGGATGTTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451728
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418962
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451728
+  url: https://www.ncbi.nlm.nih.gov/gene/418962
 species: Gallus gallus
 symbol: ARHGAP20
 template_length: '989'
@@ -166,9 +151,6 @@ title: ARHGAP20
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000137727](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137727) | [57569](https://www.ncbi.nlm.nih.gov/gene/57569) | [MIM:609568](https://omim.org/entry/609568) |  |
 | Mouse | [ENSMUSG00000053199](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000053199) | [244867](https://www.ncbi.nlm.nih.gov/gene/244867) | [MGI:2445175](http://www.informatics.jax.org/marker/MGI:2445175) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [780178](https://www.ncbi.nlm.nih.gov/gene/780178) | [1005913](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1005913) |  |
-| Zebrafish | [ENSDARG00000089326](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089326) | [562063](https://www.ncbi.nlm.nih.gov/gene/562063), [796434](https://www.ncbi.nlm.nih.gov/gene/796434) | [ZFIN:ZDB-GENE-060526-383](https://zfin.org/ZDB-GENE-060526-383), [ZFIN:ZDB-GENE-071015-1](https://zfin.org/ZDB-GENE-071015-1) | ZDB-GENE-060526-383,ZDB-GENE-071015-1 |
 

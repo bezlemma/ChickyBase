@@ -3,7 +3,6 @@ aliases:
 - transcription factor EB, Tfe3, Tfeb
 cgnc_id: '2479'
 external_ids:
-  '19': stage 19
   Comments: Probe sequence not yet determined, this sequence from Udel. No specific
     expression detected for stages 4-18.
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000003404
@@ -11,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419922
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030922
 forward_primer: CCATCAACACCCCCATCCATTAC
-gene_id: '453031'
+gene_id: '419922'
 gene_type: protein-coding
 images:
 - caption: TFEB expression
@@ -122,13 +121,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R335.TFEB.S24.001.jpg
 name: transcription factor EB
-ncbi_id: '453031'
+ncbi_id: '419922'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000112561
   entrez: '7942'
   mod: MIM:600744
@@ -140,24 +134,26 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000011854
   entrez: '780105'
-  mod: '982674'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000010794
   entrez: '562289'
   mod: ZFIN:ZDB-GENE-090807-3
-  phenotypes: ZDB-GENE-090807-3
+  phenotypes: central nervous system myelination, humoral immune response, positive
+    regulation of DNA-templated transcription, regulation of DNA-templated transcription,
+    regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGATTCAATAGGACATCCCCTCTCGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453031
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419922
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453031
+  url: https://www.ncbi.nlm.nih.gov/gene/419922
 species: Gallus gallus
 symbol: TFEB
 template_length: '1779'
@@ -181,9 +177,8 @@ title: TFEB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000112561](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112561) | [7942](https://www.ncbi.nlm.nih.gov/gene/7942) | [MIM:600744](https://omim.org/entry/600744) |  |
 | Mouse | [ENSMUSG00000023990](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023990) | [21425](https://www.ncbi.nlm.nih.gov/gene/21425) | [MGI:103270](http://www.informatics.jax.org/marker/MGI:103270) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [780105](https://www.ncbi.nlm.nih.gov/gene/780105) | [982674](http://www.xenbase.org/gene/showgene.do?method=display&geneId=982674) |  |
-| Zebrafish |  | [562289](https://www.ncbi.nlm.nih.gov/gene/562289) | [ZFIN:ZDB-GENE-090807-3](https://zfin.org/ZDB-GENE-090807-3) | ZDB-GENE-090807-3 |
+| Xenopus | [ENSXETG00000011854](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011854) | [780105](https://www.ncbi.nlm.nih.gov/gene/780105) |  |  |
+| Zebrafish | [ENSDARG00000010794](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010794) | [562289](https://www.ncbi.nlm.nih.gov/gene/562289) | [ZFIN:ZDB-GENE-090807-3](https://zfin.org/ZDB-GENE-090807-3) | central nervous system myelination, humoral immune response, positive regulation of DNA-templated transcription, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

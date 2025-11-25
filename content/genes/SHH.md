@@ -3,12 +3,6 @@ aliases:
 - ShhNC, sonic hedgehog protein
 cgnc_id: '49404'
 external_ids:
-  '13': stage 13stage 13stage 13
-  '19': stage 19stage 19
-  '25': stage 25
-  '31': stage 31stage 31
-  '4': stage 4stage 4
-  '7': stage 7
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0004644
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0009952
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005576
@@ -23,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395615
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204821
-gene_id: '449446'
+gene_id: '395615'
 gene_type: protein-coding
 images:
 - caption: SHH expression
@@ -2748,14 +2742,9 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Shh.Sjödal.2008.Fig2.jpg
 name: sonic hedgehog
-ncbi_id: '449446'
+ncbi_id: '395615'
 orthologs:
-- ensembl: ''
-  entrez: '42737'
-  mod: FBgn0004644
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000164690
   entrez: '6469'
   mod: MIM:600725
   phenotypes: MIM:120200
@@ -2766,23 +2755,24 @@ orthologs:
   phenotypes: All phenotypic alleles (28):Spontaneous(1) Chemically induced(8) Radiation
     induced(1) Targeted, knock-out(4) Targeted, other(14)
   species: Mouse
-- ensembl: ''
-  entrez: 100487601,398047
-  mod: '488038'
+- ensembl: ENSXETG00000045486
+  entrez: '100487601'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000038867,ENSDARG00000068567
-  entrez: 30444,30269
-  mod: ZFIN:ZDB-GENE-980526-41,ZFIN:ZDB-GENE-980526-166
-  phenotypes: ZDB-GENE-980526-41,ZDB-GENE-980526-166
+- ensembl: ENSDARG00000038867
+  entrez: '30444'
+  mod: ZFIN:ZDB-GENE-980526-41
+  phenotypes: animal organ development, cell fate commitment, cell fate specification,
+    cell-cell signaling, central nervous system development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449446
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395615
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449446
+  url: https://www.ncbi.nlm.nih.gov/gene/395615
 species: Gallus gallus
 symbol: SHH
 title: SHH
@@ -2813,9 +2803,8 @@ title: SHH
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42737](https://www.ncbi.nlm.nih.gov/gene/42737) | FBgn0004644 |  |
-| Human |  | [6469](https://www.ncbi.nlm.nih.gov/gene/6469) | [MIM:600725](https://omim.org/entry/600725) | MIM:120200 |
+| Human | [ENSG00000164690](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164690) | [6469](https://www.ncbi.nlm.nih.gov/gene/6469) | [MIM:600725](https://omim.org/entry/600725) | MIM:120200 |
 | Mouse | [ENSMUSG00000002633](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002633) | [20423](https://www.ncbi.nlm.nih.gov/gene/20423) | [MGI:98297](http://www.informatics.jax.org/marker/MGI:98297) | All phenotypic alleles (28):Spontaneous(1) Chemically induced(8) Radiation induced(1) Targeted, knock-out(4) Targeted, other(14) |
-| Xenopus |  | [100487601](https://www.ncbi.nlm.nih.gov/gene/100487601), [398047](https://www.ncbi.nlm.nih.gov/gene/398047) | [488038](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488038) |  |
-| Zebrafish | [ENSDARG00000038867](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038867), [ENSDARG00000068567](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068567) | [30444](https://www.ncbi.nlm.nih.gov/gene/30444), [30269](https://www.ncbi.nlm.nih.gov/gene/30269) | [ZFIN:ZDB-GENE-980526-41](https://zfin.org/ZDB-GENE-980526-41), [ZFIN:ZDB-GENE-980526-166](https://zfin.org/ZDB-GENE-980526-166) | ZDB-GENE-980526-41,ZDB-GENE-980526-166 |
+| Xenopus | [ENSXETG00000045486](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000045486) | [100487601](https://www.ncbi.nlm.nih.gov/gene/100487601) |  |  |
+| Zebrafish | [ENSDARG00000038867](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038867) | [30444](https://www.ncbi.nlm.nih.gov/gene/30444) | [ZFIN:ZDB-GENE-980526-41](https://zfin.org/ZDB-GENE-980526-41) | animal organ development, cell fate commitment, cell fate specification, cell-cell signaling, central nervous system development |
 

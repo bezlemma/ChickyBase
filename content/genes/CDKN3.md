@@ -3,14 +3,13 @@ aliases:
 - cyclin-dependent kinase inhibitor 3
 cgnc_id: '9281'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000012220
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423562
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001252162
 forward_primer: 5'-GCACCACTATCCTATTCCAGATGG-3'
-gene_id: '450911'
+gene_id: '423562'
 gene_type: protein-coding
 images:
 - caption: CDKN3 expression
@@ -60,41 +59,31 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R592.CDKN3.S25.001.jpg
 name: cyclin dependent kinase inhibitor 3
-ncbi_id: '450911'
+ncbi_id: '423562'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000100526
+  entrez: '1033'
+  mod: MIM:123832
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000037628
+  entrez: '72391'
+  mod: MGI:1919641
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000039130
+  entrez: '402796'
+  mod: ZFIN:ZDB-GENE-060427-2
+  phenotypes: dephosphorylation, protein dephosphorylation
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGGCCCCAACATTTTACACGCAC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450911
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423562
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450911
+  url: https://www.ncbi.nlm.nih.gov/gene/423562
 species: Gallus gallus
 symbol: CDKN3
 template_length: '447'
@@ -117,9 +106,7 @@ title: CDKN3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000100526](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100526) | [1033](https://www.ncbi.nlm.nih.gov/gene/1033) | [MIM:123832](https://omim.org/entry/123832) |  |
+| Mouse | [ENSMUSG00000037628](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037628) | [72391](https://www.ncbi.nlm.nih.gov/gene/72391) | [MGI:1919641](http://www.informatics.jax.org/marker/MGI:1919641) |  |
+| Zebrafish | [ENSDARG00000039130](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039130) | [402796](https://www.ncbi.nlm.nih.gov/gene/402796) | [ZFIN:ZDB-GENE-060427-2](https://zfin.org/ZDB-GENE-060427-2) | dephosphorylation, protein dephosphorylation |
 

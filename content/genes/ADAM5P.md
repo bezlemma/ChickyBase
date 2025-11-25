@@ -70,7 +70,7 @@ orthologs:
 - ensembl: ENSDARG00000057138
   entrez: '570656'
   mod: ZFIN:ZDB-GENE-030131-4971
-  phenotypes: ZDB-GENE-030131-4971
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCCATTGTTGTTACACACCCCG
 sources:
@@ -105,5 +105,5 @@ title: ADAM5P
 | Human |  |  |  |  |
 | Mouse |  |  |  |  |
 | Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000057138](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057138) | [570656](https://www.ncbi.nlm.nih.gov/gene/570656) | [ZFIN:ZDB-GENE-030131-4971](https://zfin.org/ZDB-GENE-030131-4971) | ZDB-GENE-030131-4971 |
+| Zebrafish | [ENSDARG00000057138](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057138) | [570656](https://www.ncbi.nlm.nih.gov/gene/570656) | [ZFIN:ZDB-GENE-030131-4971](https://zfin.org/ZDB-GENE-030131-4971) |  |
 

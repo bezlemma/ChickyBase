@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424990
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422797
-gene_id: '463053'
+gene_id: '424990'
 gene_type: protein-coding
 images:
 - caption: CLDN11 expression
@@ -73,14 +73,9 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CLDN11.Carre.2011.Fig.5
     cldn11female st36.png
 name: claudin 11
-ncbi_id: '463053'
+ncbi_id: '424990'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000013297
   entrez: '5010'
   mod: MIM:601326
   phenotypes: ''
@@ -90,20 +85,20 @@ orthologs:
   mod: MGI:106925
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000042148
   entrez: '100492817'
-  mod: '959935'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000020031,ENSDARG00000030723
-  entrez: 436897,81592
-  mod: ZFIN:ZDB-GENE-040718-369,ZFIN:ZDB-GENE-010328-13
-  phenotypes: ZDB-GENE-040718-369,ZDB-GENE-010328-13
+- ensembl: ENSDARG00000020031
+  entrez: '436897'
+  mod: ZFIN:ZDB-GENE-040718-369
+  phenotypes: bicellular tight junction assembly, cell adhesion
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463053
+  url: https://www.ncbi.nlm.nih.gov/gene/424990
 species: Gallus gallus
 symbol: CLDN11
 title: CLDN11
@@ -129,9 +124,8 @@ title: CLDN11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [5010](https://www.ncbi.nlm.nih.gov/gene/5010) | [MIM:601326](https://omim.org/entry/601326) |  |
+| Human | [ENSG00000013297](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000013297) | [5010](https://www.ncbi.nlm.nih.gov/gene/5010) | [MIM:601326](https://omim.org/entry/601326) |  |
 | Mouse | [ENSMUSG00000037625](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037625) | [18417](https://www.ncbi.nlm.nih.gov/gene/18417) | [MGI:106925](http://www.informatics.jax.org/marker/MGI:106925) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100492817](https://www.ncbi.nlm.nih.gov/gene/100492817) | [959935](http://www.xenbase.org/gene/showgene.do?method=display&geneId=959935) |  |
-| Zebrafish | [ENSDARG00000020031](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020031), [ENSDARG00000030723](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030723) | [436897](https://www.ncbi.nlm.nih.gov/gene/436897), [81592](https://www.ncbi.nlm.nih.gov/gene/81592) | [ZFIN:ZDB-GENE-040718-369](https://zfin.org/ZDB-GENE-040718-369), [ZFIN:ZDB-GENE-010328-13](https://zfin.org/ZDB-GENE-010328-13) | ZDB-GENE-040718-369,ZDB-GENE-010328-13 |
+| Xenopus | [ENSXETG00000042148](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000042148) | [100492817](https://www.ncbi.nlm.nih.gov/gene/100492817) |  |  |
+| Zebrafish | [ENSDARG00000020031](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020031) | [436897](https://www.ncbi.nlm.nih.gov/gene/436897) | [ZFIN:ZDB-GENE-040718-369](https://zfin.org/ZDB-GENE-040718-369) | bicellular tight junction assembly, cell adhesion |
 

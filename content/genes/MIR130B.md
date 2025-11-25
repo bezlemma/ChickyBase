@@ -8,7 +8,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018271
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NC_006127
-gene_id: '467904'
+gene_id: '777843'
 gene_type: miscRNA
 images:
 - caption: MIR130B expression
@@ -180,7 +180,7 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/130b.10.st22.001wing.jpg
 name: microRNA 130b
-ncbi_id: '467904'
+ncbi_id: '777843'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -210,7 +210,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467904
+  url: https://www.ncbi.nlm.nih.gov/gene/777843
 species: Gallus gallus
 symbol: MIR130B
 title: MIR130B

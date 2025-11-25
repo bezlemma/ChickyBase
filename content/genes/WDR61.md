@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415359
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001005805
-gene_id: '456504'
+gene_id: '415359'
 gene_type: protein-coding
 images:
 - caption: WDR61 expression
@@ -25,13 +25,8 @@ images:
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/K49_06.jpg
 name: WD repeat domain 61
-ncbi_id: '456504'
+ncbi_id: '415359'
 orthologs:
-- ensembl: ''
-  entrez: '41226'
-  mod: FBgn0027524
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000140395
   entrez: '80349'
   mod: MIM:609540
@@ -42,23 +37,25 @@ orthologs:
   mod: MGI:1917493
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 394466,444484
-  mod: '5751495'
+- ensembl: ENSXETG00000009511
+  entrez: '394466'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000007755
   entrez: '393827'
   mod: ZFIN:ZDB-GENE-040426-1851
-  phenotypes: ZDB-GENE-040426-1851
+  phenotypes: nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated
+    decay, rescue of stalled ribosome, transcription elongation by RNA polymerase
+    II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456504
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415359
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456504
+  url: https://www.ncbi.nlm.nih.gov/gene/415359
 species: Gallus gallus
 symbol: WDR61
 title: WDR61
@@ -86,9 +83,8 @@ title: WDR61
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41226](https://www.ncbi.nlm.nih.gov/gene/41226) | FBgn0027524 |  |
 | Human | [ENSG00000140395](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140395) | [80349](https://www.ncbi.nlm.nih.gov/gene/80349) | [MIM:609540](https://omim.org/entry/609540) |  |
 | Mouse | [ENSMUSG00000061559](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061559) | [66317](https://www.ncbi.nlm.nih.gov/gene/66317) | [MGI:1917493](http://www.informatics.jax.org/marker/MGI:1917493) |  |
-| Xenopus |  | [394466](https://www.ncbi.nlm.nih.gov/gene/394466), [444484](https://www.ncbi.nlm.nih.gov/gene/444484) | [5751495](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5751495) |  |
-| Zebrafish |  | [393827](https://www.ncbi.nlm.nih.gov/gene/393827) | [ZFIN:ZDB-GENE-040426-1851](https://zfin.org/ZDB-GENE-040426-1851) | ZDB-GENE-040426-1851 |
+| Xenopus | [ENSXETG00000009511](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009511) | [394466](https://www.ncbi.nlm.nih.gov/gene/394466) |  |  |
+| Zebrafish | [ENSDARG00000007755](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007755) | [393827](https://www.ncbi.nlm.nih.gov/gene/393827) | [ZFIN:ZDB-GENE-040426-1851](https://zfin.org/ZDB-GENE-040426-1851) | nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay, rescue of stalled ribosome, transcription elongation by RNA polymerase II |
 

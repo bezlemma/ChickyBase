@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422471
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001232914
 forward_primer: AAACAAGAGGGAAGTGCG
-gene_id: '451020'
+gene_id: '422471'
 gene_type: protein-coding
 images:
 - caption: ARHGAP10 expression
@@ -142,13 +142,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R422.ARHGAP10.S26B.001a.jpg
 name: Rho GTPase activating protein 10
-ncbi_id: '451020'
+ncbi_id: '422471'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000071205
   entrez: '79658'
   mod: MIM:609746
@@ -159,24 +154,24 @@ orthologs:
   mod: MGI:1925764
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100145146,446446
-  mod: '921746'
+- ensembl: ENSXETG00000018852
+  entrez: '100145146'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000078326
   entrez: '692277'
   mod: ZFIN:ZDB-GENE-060512-221
-  phenotypes: ZDB-GENE-060512-221
+  phenotypes: signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCAACCACGAAACCATCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451020
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422471
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451020
+  url: https://www.ncbi.nlm.nih.gov/gene/422471
 species: Gallus gallus
 symbol: ARHGAP10
 template_length: '919'
@@ -198,9 +193,8 @@ title: ARHGAP10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000071205](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000071205) | [79658](https://www.ncbi.nlm.nih.gov/gene/79658) | [MIM:609746](https://omim.org/entry/609746) |  |
 | Mouse | [ENSMUSG00000037148](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037148) | [78514](https://www.ncbi.nlm.nih.gov/gene/78514) | [MGI:1925764](http://www.informatics.jax.org/marker/MGI:1925764) |  |
-| Xenopus |  | [100145146](https://www.ncbi.nlm.nih.gov/gene/100145146), [446446](https://www.ncbi.nlm.nih.gov/gene/446446) | [921746](http://www.xenbase.org/gene/showgene.do?method=display&geneId=921746) |  |
-| Zebrafish | [ENSDARG00000078326](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078326) | [692277](https://www.ncbi.nlm.nih.gov/gene/692277) | [ZFIN:ZDB-GENE-060512-221](https://zfin.org/ZDB-GENE-060512-221) | ZDB-GENE-060512-221 |
+| Xenopus | [ENSXETG00000018852](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018852) | [100145146](https://www.ncbi.nlm.nih.gov/gene/100145146) |  |  |
+| Zebrafish | [ENSDARG00000078326](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078326) | [692277](https://www.ncbi.nlm.nih.gov/gene/692277) | [ZFIN:ZDB-GENE-060512-221](https://zfin.org/ZDB-GENE-060512-221) | signal transduction |
 

@@ -5,7 +5,6 @@ aliases:
 - mothers against DPP homolog 6
 cgnc_id: '5950'
 external_ids:
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0031589
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: https://pubmed.ncbi.nlm.nih.gov/25063452/
@@ -19,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0070411
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204248
   X-XIV: stage XIII
-gene_id: '454406'
+gene_id: '374096'
 gene_type: protein-coding
 images:
 - caption: SMAD6 expression
@@ -124,14 +123,9 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SMAD6.Trevers.2023-Fig7-7-R.jpg
 name: SMAD family member 6
-ncbi_id: '454406'
+ncbi_id: '374096'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000137834
   entrez: '4091'
   mod: MIM:602931
   phenotypes: ''
@@ -141,20 +135,17 @@ orthologs:
   mod: MGI:1336883
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: '100492635'
-  mod: '876705'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000031763,ENSDARG00000053209
-  entrez: 564395,116992,654727
-  mod: ZFIN:ZDB-GENE-011015-1,ZFIN:ZDB-GENE-050419-198
-  phenotypes: ZDB-GENE-011015-1,ZDB-GENE-050419-198
+- ensembl: ENSDARG00000031763
+  entrez: '564395'
+  mod: ZFIN:ZDB-GENE-050419-198
+  phenotypes: SMAD protein signal transduction, anatomical structure morphogenesis,
+    camera-type eye development, cell differentiation, regulation of DNA-templated
+    transcription
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454406
+  url: https://www.ncbi.nlm.nih.gov/gene/374096
 species: Gallus gallus
 symbol: SMAD6
 title: SMAD6
@@ -183,9 +174,7 @@ title: SMAD6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [4091](https://www.ncbi.nlm.nih.gov/gene/4091) | [MIM:602931](https://omim.org/entry/602931) |  |
+| Human | [ENSG00000137834](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137834) | [4091](https://www.ncbi.nlm.nih.gov/gene/4091) | [MIM:602931](https://omim.org/entry/602931) |  |
 | Mouse | [ENSMUSG00000036867](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036867) | [17130](https://www.ncbi.nlm.nih.gov/gene/17130) | [MGI:1336883](http://www.informatics.jax.org/marker/MGI:1336883) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100492635](https://www.ncbi.nlm.nih.gov/gene/100492635) | [876705](http://www.xenbase.org/gene/showgene.do?method=display&geneId=876705) |  |
-| Zebrafish | [ENSDARG00000031763](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031763), [ENSDARG00000053209](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053209) | [564395](https://www.ncbi.nlm.nih.gov/gene/564395), [116992](https://www.ncbi.nlm.nih.gov/gene/116992), [654727](https://www.ncbi.nlm.nih.gov/gene/654727) | [ZFIN:ZDB-GENE-011015-1](https://zfin.org/ZDB-GENE-011015-1), [ZFIN:ZDB-GENE-050419-198](https://zfin.org/ZDB-GENE-050419-198) | ZDB-GENE-011015-1,ZDB-GENE-050419-198 |
+| Zebrafish | [ENSDARG00000031763](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031763) | [564395](https://www.ncbi.nlm.nih.gov/gene/564395) | [ZFIN:ZDB-GENE-050419-198](https://zfin.org/ZDB-GENE-050419-198) | SMAD protein signal transduction, anatomical structure morphogenesis, camera-type eye development, cell differentiation, regulation of DNA-templated transcription |
 

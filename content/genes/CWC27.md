@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427159
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424748
-gene_id: '460721'
+gene_id: '427159'
 gene_type: protein-coding
 images:
 - caption: CWC27 expression
@@ -59,16 +59,11 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Soares1819H02.66.23.jpg
 name: CWC27 spliceosome associated protein homolog
-ncbi_id: '460721'
+ncbi_id: '427159'
 orthologs:
-- ensembl: ''
-  entrez: '39331'
-  mod: FBgn0036207
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000153015
   entrez: '10283'
-  mod: ''
+  mod: MIM:617170
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000021715
@@ -77,23 +72,23 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100145114,444628
-  mod: '942795'
+- ensembl: ENSXETG00000000459
+  entrez: '100145114'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000043727
   entrez: '394078'
   mod: ZFIN:ZDB-GENE-040426-1118
-  phenotypes: ZDB-GENE-040426-1118
+  phenotypes: protein folding, protein peptidyl-prolyl isomerization
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460721
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427159
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460721
+  url: https://www.ncbi.nlm.nih.gov/gene/427159
 species: Gallus gallus
 symbol: CWC27
 title: CWC27
@@ -119,9 +114,8 @@ title: CWC27
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39331](https://www.ncbi.nlm.nih.gov/gene/39331) | FBgn0036207 |  |
-| Human | [ENSG00000153015](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000153015) | [10283](https://www.ncbi.nlm.nih.gov/gene/10283) |  |  |
+| Human | [ENSG00000153015](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000153015) | [10283](https://www.ncbi.nlm.nih.gov/gene/10283) | [MIM:617170](https://omim.org/entry/617170) |  |
 | Mouse | [ENSMUSG00000021715](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021715) | [67285](https://www.ncbi.nlm.nih.gov/gene/67285) | [MGI:1914535](http://www.informatics.jax.org/marker/MGI:1914535) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [100145114](https://www.ncbi.nlm.nih.gov/gene/100145114), [444628](https://www.ncbi.nlm.nih.gov/gene/444628) | [942795](http://www.xenbase.org/gene/showgene.do?method=display&geneId=942795) |  |
-| Zebrafish | [ENSDARG00000043727](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043727) | [394078](https://www.ncbi.nlm.nih.gov/gene/394078) | [ZFIN:ZDB-GENE-040426-1118](https://zfin.org/ZDB-GENE-040426-1118) | ZDB-GENE-040426-1118 |
+| Xenopus | [ENSXETG00000000459](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000459) | [100145114](https://www.ncbi.nlm.nih.gov/gene/100145114) |  |  |
+| Zebrafish | [ENSDARG00000043727](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043727) | [394078](https://www.ncbi.nlm.nih.gov/gene/394078) | [ZFIN:ZDB-GENE-040426-1118](https://zfin.org/ZDB-GENE-040426-1118) | protein folding, protein peptidyl-prolyl isomerization |
 

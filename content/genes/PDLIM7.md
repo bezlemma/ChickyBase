@@ -11,7 +11,6 @@ aliases:
 - PDZ and LIM domain 7 (enigma)
 cgnc_id: '20787'
 external_ids:
-  '19': stage 19
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030154
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0030018
   Citation: http://www.ncbi.nlm.nih.gov/sites/entrez?term=krause%20Tbx5%20Zacharias%20PDZ-LIM%20development%20Simon&cmd=search&db=pubmed
@@ -32,7 +31,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005515
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001005345
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAGCACCGCCCTCAACAAAAC
-gene_id: '456675'
+gene_id: '416362'
 gene_type: protein-coding
 images:
 - caption: PDLIM7 expression
@@ -113,41 +112,32 @@ images:
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure5J.Tbx5.Krause.2004.jpg
 name: PDZ and LIM domain 7
-ncbi_id: '456675'
+ncbi_id: '416362'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000196923
   entrez: '9260'
   mod: MIM:605903
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000021493
+  entrez: '67399'
+  mod: MGI:1914649
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 595027,779123,380426
-  mod: '5860424'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000103854
   entrez: '393813'
   mod: ZFIN:ZDB-GENE-040426-2092
-  phenotypes: ZDB-GENE-040426-2092
+  phenotypes: actin cytoskeleton organization, atrial ventricular junction remodeling,
+    atrioventricular valve formation, embryonic heart tube morphogenesis, heart development
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCGAAGAAACCACCCTCATCCAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456675
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416362
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456675
+  url: https://www.ncbi.nlm.nih.gov/gene/416362
 species: Gallus gallus
 symbol: PDLIM7
 template_length: '517'
@@ -178,9 +168,7 @@ Copyright © 2004 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000196923](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000196923) | [9260](https://www.ncbi.nlm.nih.gov/gene/9260) | [MIM:605903](https://omim.org/entry/605903) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [595027](https://www.ncbi.nlm.nih.gov/gene/595027), [779123](https://www.ncbi.nlm.nih.gov/gene/779123), [380426](https://www.ncbi.nlm.nih.gov/gene/380426) | [5860424](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5860424) |  |
-| Zebrafish |  | [393813](https://www.ncbi.nlm.nih.gov/gene/393813) | [ZFIN:ZDB-GENE-040426-2092](https://zfin.org/ZDB-GENE-040426-2092) | ZDB-GENE-040426-2092 |
+| Mouse | [ENSMUSG00000021493](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021493) | [67399](https://www.ncbi.nlm.nih.gov/gene/67399) | [MGI:1914649](http://www.informatics.jax.org/marker/MGI:1914649) |  |
+| Zebrafish | [ENSDARG00000103854](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000103854) | [393813](https://www.ncbi.nlm.nih.gov/gene/393813) | [ZFIN:ZDB-GENE-040426-2092](https://zfin.org/ZDB-GENE-040426-2092) | actin cytoskeleton organization, atrial ventricular junction remodeling, atrioventricular valve formation, embryonic heart tube morphogenesis, heart development |
 

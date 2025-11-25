@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424842
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422653
 forward_primer: CGTATTGGATTTGGCTGGAACC
-gene_id: '463183'
+gene_id: '424842'
 gene_type: protein-coding
 images:
 - caption: FARP2 expression
@@ -111,16 +111,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R412.FARP2.S26D.001.jpg
 name: FERM, ARH/RhoGEF and pleckstrin domain protein 2
-ncbi_id: '463183'
+ncbi_id: '424842'
 orthologs:
-- ensembl: ''
-  entrez: '40608'
-  mod: FBgn0265082
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000006607
   entrez: '9855'
-  mod: ''
+  mod: MIM:617586
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000034066
@@ -128,24 +123,19 @@ orthologs:
   mod: MGI:2385126
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100492283,734998
-  mod: '988646'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000016429
   entrez: '567490'
   mod: ZFIN:ZDB-GENE-030131-2993
-  phenotypes: ZDB-GENE-030131-2993
+  phenotypes: cell development, signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGAGTTTTCTTCACCCCACTGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463183
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424842
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463183
+  url: https://www.ncbi.nlm.nih.gov/gene/424842
 species: Gallus gallus
 symbol: FARP2
 template_length: '811'
@@ -169,9 +159,7 @@ title: FARP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40608](https://www.ncbi.nlm.nih.gov/gene/40608) | FBgn0265082 |  |
-| Human | [ENSG00000006607](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000006607) | [9855](https://www.ncbi.nlm.nih.gov/gene/9855) |  |  |
+| Human | [ENSG00000006607](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000006607) | [9855](https://www.ncbi.nlm.nih.gov/gene/9855) | [MIM:617586](https://omim.org/entry/617586) |  |
 | Mouse | [ENSMUSG00000034066](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034066) | [227377](https://www.ncbi.nlm.nih.gov/gene/227377) | [MGI:2385126](http://www.informatics.jax.org/marker/MGI:2385126) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100492283](https://www.ncbi.nlm.nih.gov/gene/100492283), [734998](https://www.ncbi.nlm.nih.gov/gene/734998) | [988646](http://www.xenbase.org/gene/showgene.do?method=display&geneId=988646) |  |
-| Zebrafish | [ENSDARG00000016429](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016429) | [567490](https://www.ncbi.nlm.nih.gov/gene/567490) | [ZFIN:ZDB-GENE-030131-2993](https://zfin.org/ZDB-GENE-030131-2993) | ZDB-GENE-030131-2993 |
+| Zebrafish | [ENSDARG00000016429](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016429) | [567490](https://www.ncbi.nlm.nih.gov/gene/567490) | [ZFIN:ZDB-GENE-030131-2993](https://zfin.org/ZDB-GENE-030131-2993) | cell development, signal transduction |
 

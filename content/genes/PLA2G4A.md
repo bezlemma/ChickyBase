@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396394
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205423
-gene_id: '461647'
+gene_id: '396394'
 gene_type: protein-coding
 images:
 - caption: PLA2G4A expression
@@ -69,13 +69,8 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig2.PLA2G4A.L-2.jpg
 name: phospholipase A2 group IVA
-ncbi_id: '461647'
+ncbi_id: '396394'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000116711
   entrez: '5321'
   mod: MIM:600522
@@ -86,20 +81,22 @@ orthologs:
   mod: MGI:1195256
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100145731,380561
-  mod: '5838848'
+- ensembl: ENSXETG00000017371
+  entrez: '100145731'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000017141,ENSDARG00000024546
-  entrez: 559087,30554
-  mod: ZFIN:ZDB-GENE-041014-325,ZFIN:ZDB-GENE-990415-45
-  phenotypes: ZDB-GENE-041014-325,ZDB-GENE-990415-45
+- ensembl: ENSDARG00000017141
+  entrez: '559087'
+  mod: ZFIN:ZDB-GENE-041014-325
+  phenotypes: glycerophospholipid catabolic process, lipid catabolic process, lipid
+    metabolic process, phospholipid catabolic process, regulation of G1/S transition
+    of mitotic cell cycle
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461647
+  url: https://www.ncbi.nlm.nih.gov/gene/396394
 species: Gallus gallus
 symbol: PLA2G4A
 title: PLA2G4A
@@ -130,9 +127,8 @@ R, 5′-AGCAGACCTGTGACACATTC-3′.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000116711](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000116711) | [5321](https://www.ncbi.nlm.nih.gov/gene/5321) | [MIM:600522](https://omim.org/entry/600522) | MIM:600522 |
 | Mouse | [ENSMUSG00000056220](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000056220) | [18783](https://www.ncbi.nlm.nih.gov/gene/18783) | [MGI:1195256](http://www.informatics.jax.org/marker/MGI:1195256) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100145731](https://www.ncbi.nlm.nih.gov/gene/100145731), [380561](https://www.ncbi.nlm.nih.gov/gene/380561) | [5838848](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5838848) |  |
-| Zebrafish | [ENSDARG00000017141](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017141), [ENSDARG00000024546](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000024546) | [559087](https://www.ncbi.nlm.nih.gov/gene/559087), [30554](https://www.ncbi.nlm.nih.gov/gene/30554) | [ZFIN:ZDB-GENE-041014-325](https://zfin.org/ZDB-GENE-041014-325), [ZFIN:ZDB-GENE-990415-45](https://zfin.org/ZDB-GENE-990415-45) | ZDB-GENE-041014-325,ZDB-GENE-990415-45 |
+| Xenopus | [ENSXETG00000017371](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017371) | [100145731](https://www.ncbi.nlm.nih.gov/gene/100145731) |  |  |
+| Zebrafish | [ENSDARG00000017141](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017141) | [559087](https://www.ncbi.nlm.nih.gov/gene/559087) | [ZFIN:ZDB-GENE-041014-325](https://zfin.org/ZDB-GENE-041014-325) | glycerophospholipid catabolic process, lipid catabolic process, lipid metabolic process, phospholipid catabolic process, regulation of G1/S transition of mitotic cell cycle |
 

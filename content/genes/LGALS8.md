@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:430948
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001010843
 forward_primer: AACCCCCGCTTCAAATGGTC
-gene_id: '459297'
+gene_id: '430948'
 gene_type: protein-coding
 images:
 - caption: LGALS8 expression
@@ -84,13 +84,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R539.LGALS8.S26.001.jpg
 name: galectin 8
-ncbi_id: '459297'
+ncbi_id: '430948'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000116977
   entrez: '3964'
   mod: MIM:606099
@@ -101,24 +96,24 @@ orthologs:
   mod: MGI:1928481
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100216105,398442
-  mod: '494604'
+- ensembl: ENSXETG00000009015
+  entrez: '100216105'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000037613
-  entrez: 100333396,100334749
-  mod: ''
+- ensembl: ENSDARG00000037066
+  entrez: '563573'
+  mod: ZFIN:ZDB-GENE-040724-22
   phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAACATCGCCCGTGACTTCCAGTAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459297
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=430948
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459297
+  url: https://www.ncbi.nlm.nih.gov/gene/430948
 species: Gallus gallus
 symbol: LGALS8
 template_length: '726'
@@ -140,9 +135,8 @@ title: LGALS8
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000116977](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000116977) | [3964](https://www.ncbi.nlm.nih.gov/gene/3964) | [MIM:606099](https://omim.org/entry/606099) |  |
 | Mouse | [ENSMUSG00000057554](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000057554) | [56048](https://www.ncbi.nlm.nih.gov/gene/56048) | [MGI:1928481](http://www.informatics.jax.org/marker/MGI:1928481) | All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1) |
-| Xenopus |  | [100216105](https://www.ncbi.nlm.nih.gov/gene/100216105), [398442](https://www.ncbi.nlm.nih.gov/gene/398442) | [494604](http://www.xenbase.org/gene/showgene.do?method=display&geneId=494604) |  |
-| Zebrafish | [ENSDARG00000037613](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037613) | [100333396](https://www.ncbi.nlm.nih.gov/gene/100333396), [100334749](https://www.ncbi.nlm.nih.gov/gene/100334749) |  |  |
+| Xenopus | [ENSXETG00000009015](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009015) | [100216105](https://www.ncbi.nlm.nih.gov/gene/100216105) |  |  |
+| Zebrafish | [ENSDARG00000037066](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037066) | [563573](https://www.ncbi.nlm.nih.gov/gene/563573) | [ZFIN:ZDB-GENE-040724-22](https://zfin.org/ZDB-GENE-040724-22) |  |
 

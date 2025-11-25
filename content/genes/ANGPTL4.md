@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769087
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001232283
 forward_primer: CCACACCAACCAGAGCCATAATG
-gene_id: '461819'
+gene_id: '769087'
 gene_type: protein-coding
 images:
 - caption: ANGPTL4 expression
@@ -223,42 +223,38 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANTPTL4.Niki.2009
     Fig.5 angptl4 transverseliver.png
 name: angiopoietin like 4
-ncbi_id: '461819'
+ncbi_id: '769087'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000167772
   entrez: '51129'
   mod: MIM:605910
   phenotypes: MIM:605910
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000002289
   entrez: '57875'
   mod: MGI:1888999
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(3)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000021893
   entrez: '100492339'
-  mod: '481749'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000035859
   entrez: '492647'
   mod: ZFIN:ZDB-GENE-041111-222
-  phenotypes: ZDB-GENE-041111-222
+  phenotypes: apoptotic process involved in blood vessel morphogenesis, blood coagulation,
+    response to bacterium, triglyceride homeostasis
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTGCCAGCAAAGAGAAACGGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461819
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=769087
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461819
+  url: https://www.ncbi.nlm.nih.gov/gene/769087
 species: Gallus gallus
 symbol: ANGPTL4
 template_length: '848'
@@ -284,9 +280,8 @@ title: ANGPTL4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000167772](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000167772) | [51129](https://www.ncbi.nlm.nih.gov/gene/51129) | [MIM:605910](https://omim.org/entry/605910) | MIM:605910 |
-| Mouse |  | [57875](https://www.ncbi.nlm.nih.gov/gene/57875) | [MGI:1888999](http://www.informatics.jax.org/marker/MGI:1888999) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(3) Gene trapped(1) |
-| Xenopus |  | [100492339](https://www.ncbi.nlm.nih.gov/gene/100492339) | [481749](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481749) |  |
-| Zebrafish | [ENSDARG00000035859](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035859) | [492647](https://www.ncbi.nlm.nih.gov/gene/492647) | [ZFIN:ZDB-GENE-041111-222](https://zfin.org/ZDB-GENE-041111-222) | ZDB-GENE-041111-222 |
+| Mouse | [ENSMUSG00000002289](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002289) | [57875](https://www.ncbi.nlm.nih.gov/gene/57875) | [MGI:1888999](http://www.informatics.jax.org/marker/MGI:1888999) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(3) Gene trapped(1) |
+| Xenopus | [ENSXETG00000021893](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021893) | [100492339](https://www.ncbi.nlm.nih.gov/gene/100492339) |  |  |
+| Zebrafish | [ENSDARG00000035859](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035859) | [492647](https://www.ncbi.nlm.nih.gov/gene/492647) | [ZFIN:ZDB-GENE-041111-222](https://zfin.org/ZDB-GENE-041111-222) | apoptotic process involved in blood vessel morphogenesis, blood coagulation, response to bacterium, triglyceride homeostasis |
 

@@ -4,7 +4,6 @@ aliases:
 - cDlx
 cgnc_id: '48983'
 external_ids:
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030509
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Citation: Stephen T Brown 1, Juemei Wang, Andrew K Groves. Dlx gene expression during
@@ -20,7 +19,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204159
   X-XIV: stage XII
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/DLX5
-gene_id: '468735'
+gene_id: '373969'
 gene_type: protein-coding
 images:
 - caption: DLX5 expression
@@ -1267,13 +1266,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.9_all_images_2.jpg
 name: distal-less homeobox 5
-ncbi_id: '468735'
+ncbi_id: '373969'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000105880
   entrez: '1749'
   mod: MIM:600028
@@ -1284,20 +1278,21 @@ orthologs:
   mod: MGI:101926
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 447997,399265
-  mod: '853056'
+- ensembl: ENSXETG00000016572
+  entrez: '447997'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000042296
   entrez: '30569'
   mod: ZFIN:ZDB-GENE-990415-49
-  phenotypes: ZDB-GENE-990415-49
+  phenotypes: cartilage development, cell differentiation, cranial skeletal system
+    development, embryonic skeletal system development, embryonic viscerocranium morphogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468735
+  url: https://www.ncbi.nlm.nih.gov/gene/373969
 species: Gallus gallus
 symbol: DLX5
 title: DLX5
@@ -1326,9 +1321,8 @@ title: DLX5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000105880](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000105880) | [1749](https://www.ncbi.nlm.nih.gov/gene/1749) | [MIM:600028](https://omim.org/entry/600028) |  |
 | Mouse | [ENSMUSG00000029755](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029755) | [13395](https://www.ncbi.nlm.nih.gov/gene/13395) | [MGI:101926](http://www.informatics.jax.org/marker/MGI:101926) |  |
-| Xenopus |  | [447997](https://www.ncbi.nlm.nih.gov/gene/447997), [399265](https://www.ncbi.nlm.nih.gov/gene/399265) | [853056](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853056) |  |
-| Zebrafish | [ENSDARG00000042296](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042296) | [30569](https://www.ncbi.nlm.nih.gov/gene/30569) | [ZFIN:ZDB-GENE-990415-49](https://zfin.org/ZDB-GENE-990415-49) | ZDB-GENE-990415-49 |
+| Xenopus | [ENSXETG00000016572](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016572) | [447997](https://www.ncbi.nlm.nih.gov/gene/447997) |  |  |
+| Zebrafish | [ENSDARG00000042296](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042296) | [30569](https://www.ncbi.nlm.nih.gov/gene/30569) | [ZFIN:ZDB-GENE-990415-49](https://zfin.org/ZDB-GENE-990415-49) | cartilage development, cell differentiation, cranial skeletal system development, embryonic skeletal system development, embryonic viscerocranium morphogenesis |
 

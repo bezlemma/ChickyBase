@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416998
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415289
 forward_primer: 5'-AGACAATGGAGACCACGCTC-3'
-gene_id: '461051'
+gene_id: '416998'
 gene_type: protein-coding
 images:
 - caption: CARD8 expression
@@ -101,7 +101,7 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F3.loc41.png
 name: caspase recruitment domain family, member 8
-ncbi_id: '461051'
+ncbi_id: '416998'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -132,10 +132,10 @@ reverse_primer: 5'-AATTAACCCTCACTAAAGGTCAGGACAGCAGAGAAAGCC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461051
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416998
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461051
+  url: https://www.ncbi.nlm.nih.gov/gene/416998
 species: Gallus gallus
 symbol: CARD8
 template_length: '891'

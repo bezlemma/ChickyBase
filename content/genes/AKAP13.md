@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415502
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_413874
 forward_primer: ATGGCAGACTCCTCTATGC
-gene_id: '460423'
+gene_id: '415502'
 gene_type: protein-coding
 images:
 - caption: AKAP13 expression
@@ -144,13 +144,8 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R388.AKAP13.S1314.01.jpg
 name: A-kinase anchoring protein 13
-ncbi_id: '460423'
+ncbi_id: '415502'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000170776
   entrez: '11214'
   mod: MIM:604686
@@ -161,24 +156,19 @@ orthologs:
   mod: MGI:2676556
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100485001,414621
-  mod: '983147'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000007623
+  entrez: '100485001'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: ATTAACCCTCACTAAAGGTTGCTCCCACTCCTTATCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460423
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415502
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460423
+  url: https://www.ncbi.nlm.nih.gov/gene/415502
 species: Gallus gallus
 symbol: AKAP13
 template_length: '837'
@@ -200,9 +190,7 @@ title: AKAP13
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000170776](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170776) | [11214](https://www.ncbi.nlm.nih.gov/gene/11214) | [MIM:604686](https://omim.org/entry/604686) |  |
 | Mouse | [ENSMUSG00000066406](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000066406) | [75547](https://www.ncbi.nlm.nih.gov/gene/75547) | [MGI:2676556](http://www.informatics.jax.org/marker/MGI:2676556) |  |
-| Xenopus |  | [100485001](https://www.ncbi.nlm.nih.gov/gene/100485001), [414621](https://www.ncbi.nlm.nih.gov/gene/414621) | [983147](http://www.xenbase.org/gene/showgene.do?method=display&geneId=983147) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000007623](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007623) | [100485001](https://www.ncbi.nlm.nih.gov/gene/100485001) |  |  |
 

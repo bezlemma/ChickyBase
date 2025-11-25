@@ -21,7 +21,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205497
 forward_primer: 5’-GAGAATGTACAACAACTGCG-3’
-gene_id: '461098'
+gene_id: '396494'
 gene_type: protein-coding
 images:
 - caption: EGFR expression
@@ -113,41 +113,38 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2V.jpg
 name: epidermal growth factor receptor
-ncbi_id: '461098'
+ncbi_id: '396494'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000146648
+  entrez: '1956'
+  mod: MIM:131550
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000020122
+  entrez: '13649'
+  mod: MGI:95294
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000015826
+  entrez: '100492965'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000013847
+  entrez: '378478'
+  mod: ZFIN:ZDB-GENE-030918-1
+  phenotypes: ERBB signaling pathway, blood vessel lumenization, cell surface receptor
+    protein tyrosine kinase signaling pathway, epidermal growth factor receptor signaling
+    pathway, negative regulation of apoptotic process
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCAAGTTAACAACAGCAAGGG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461098
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396494
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461098
+  url: https://www.ncbi.nlm.nih.gov/gene/396494
 species: Gallus gallus
 symbol: EGFR
 template_length: '1177'
@@ -177,9 +174,8 @@ title: EGFR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000146648](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000146648) | [1956](https://www.ncbi.nlm.nih.gov/gene/1956) | [MIM:131550](https://omim.org/entry/131550) |  |
+| Mouse | [ENSMUSG00000020122](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020122) | [13649](https://www.ncbi.nlm.nih.gov/gene/13649) | [MGI:95294](http://www.informatics.jax.org/marker/MGI:95294) |  |
+| Xenopus | [ENSXETG00000015826](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015826) | [100492965](https://www.ncbi.nlm.nih.gov/gene/100492965) |  |  |
+| Zebrafish | [ENSDARG00000013847](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013847) | [378478](https://www.ncbi.nlm.nih.gov/gene/378478) | [ZFIN:ZDB-GENE-030918-1](https://zfin.org/ZDB-GENE-030918-1) | ERBB signaling pathway, blood vessel lumenization, cell surface receptor protein tyrosine kinase signaling pathway, epidermal growth factor receptor signaling pathway, negative regulation of apoptotic process |
 

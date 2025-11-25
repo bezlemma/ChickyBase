@@ -9,7 +9,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417901
 forward_primer: TGCTGTTTGACACCTCAGTTCG
-gene_id: '457249'
+gene_id: '419762'
 gene_type: protein-coding
 images:
 - caption: CADM1 expression
@@ -388,13 +388,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R476.CADM1.S26V.001.jpg
 name: cell adhesion molecule 1
-ncbi_id: '457249'
+ncbi_id: '419762'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000182985
   entrez: '23705'
   mod: MIM:605686
@@ -406,24 +401,26 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(3)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100496522,735231
-  mod: '6033348'
+- ensembl: ENSXETG00000015391
+  entrez: '100496522'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000031075
-  entrez: 562183,569931
-  mod: ZFIN:ZDB-GENE-080327-34,ZFIN:ZDB-GENE-080505-2
-  phenotypes: ZDB-GENE-080327-34,ZDB-GENE-080505-2
+  entrez: '569931'
+  mod: ZFIN:ZDB-GENE-080505-2
+  phenotypes: cell recognition, detection of stimulus, glial cell development, homophilic
+    cell adhesion via plasma membrane adhesion molecules, retina development in camera-type
+    eye
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCTTCTCGTTGCGATTTGCTATC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457249
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419762
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457249
+  url: https://www.ncbi.nlm.nih.gov/gene/419762
 species: Gallus gallus
 symbol: CADM1
 template_length: '1042'
@@ -446,9 +443,8 @@ title: CADM1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000182985](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000182985) | [23705](https://www.ncbi.nlm.nih.gov/gene/23705) | [MIM:605686](https://omim.org/entry/605686) |  |
 | Mouse | [ENSMUSG00000032076](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032076) | [54725](https://www.ncbi.nlm.nih.gov/gene/54725) | [MGI:1889272](http://www.informatics.jax.org/marker/MGI:1889272) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(3) Gene trapped(1) |
-| Xenopus |  | [100496522](https://www.ncbi.nlm.nih.gov/gene/100496522), [735231](https://www.ncbi.nlm.nih.gov/gene/735231) | [6033348](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6033348) |  |
-| Zebrafish | [ENSDARG00000031075](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031075) | [562183](https://www.ncbi.nlm.nih.gov/gene/562183), [569931](https://www.ncbi.nlm.nih.gov/gene/569931) | [ZFIN:ZDB-GENE-080327-34](https://zfin.org/ZDB-GENE-080327-34), [ZFIN:ZDB-GENE-080505-2](https://zfin.org/ZDB-GENE-080505-2) | ZDB-GENE-080327-34,ZDB-GENE-080505-2 |
+| Xenopus | [ENSXETG00000015391](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015391) | [100496522](https://www.ncbi.nlm.nih.gov/gene/100496522) |  |  |
+| Zebrafish | [ENSDARG00000031075](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031075) | [569931](https://www.ncbi.nlm.nih.gov/gene/569931) | [ZFIN:ZDB-GENE-080505-2](https://zfin.org/ZDB-GENE-080505-2) | cell recognition, detection of stimulus, glial cell development, homophilic cell adhesion via plasma membrane adhesion molecules, retina development in camera-type eye |
 

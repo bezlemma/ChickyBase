@@ -14,7 +14,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/101749861
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
-gene_id: '504623'
+gene_id: '101749861'
 gene_type: unknown
 images:
 - caption: CUX1 expression
@@ -137,7 +137,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cux1.Singh.2016.Fig1.jpg
 name: cut like homeobox 1
-ncbi_id: '504623'
+ncbi_id: '101749861'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -167,10 +167,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=504623
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=101749861
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/504623
+  url: https://www.ncbi.nlm.nih.gov/gene/101749861
 species: Gallus gallus
 symbol: CUX1
 title: CUX1

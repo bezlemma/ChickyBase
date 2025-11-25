@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396117
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205198
   X-XIV: stage XIIstage XIII
-gene_id: '458846'
+gene_id: '396117'
 gene_type: protein-coding
 images:
 - caption: GNOT2 expression
@@ -131,7 +131,7 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2_HH 14+ x25.jpg
 name: Gnot2 homeodomain protein
-ncbi_id: '458846'
+ncbi_id: '396117'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -161,10 +161,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458846
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396117
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458846
+  url: https://www.ncbi.nlm.nih.gov/gene/396117
 species: Gallus gallus
 symbol: GNOT2
 title: GNOT2

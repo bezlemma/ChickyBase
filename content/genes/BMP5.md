@@ -1,7 +1,6 @@
 ---
 cgnc_id: '49628'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Belecky-Adams+2001+morphogenetic
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (NM_205148.4).
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396053
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205148
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATTCACGCACAGGGAGGTTTAGG
-gene_id: '459509'
+gene_id: '396053'
 gene_type: protein-coding
 images:
 - caption: BMP5 expression
@@ -294,42 +293,38 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP-5.Belecky-Adams.2001.Fig2.jpg
 name: bone morphogenetic protein 5
-ncbi_id: '459509'
+ncbi_id: '396053'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000112175
   entrez: '653'
   mod: MIM:112265
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000032179
   entrez: '12160'
   mod: MGI:88181
   phenotypes: All phenotypic alleles (23):Spontaneous(5) Chemically induced(2) Radiation
     induced(12) Targeted, other(4)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000007071
   entrez: '100494976'
-  mod: '479370'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000101701
   entrez: '394026'
   mod: ZFIN:ZDB-GENE-040426-1413
-  phenotypes: ZDB-GENE-040426-1413
+  phenotypes: BMP signaling pathway, developmental process, enteric nervous system
+    development, heart development, neural crest cell development
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCGGAAAAGCACTTCACTTGCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459509
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396053
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459509
+  url: https://www.ncbi.nlm.nih.gov/gene/396053
 species: Gallus gallus
 symbol: BMP5
 template_length: '870'
@@ -356,9 +351,8 @@ title: BMP5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000112175](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112175) | [653](https://www.ncbi.nlm.nih.gov/gene/653) | [MIM:112265](https://omim.org/entry/112265) |  |
-| Mouse |  | [12160](https://www.ncbi.nlm.nih.gov/gene/12160) | [MGI:88181](http://www.informatics.jax.org/marker/MGI:88181) | All phenotypic alleles (23):Spontaneous(5) Chemically induced(2) Radiation induced(12) Targeted, other(4) |
-| Xenopus |  | [100494976](https://www.ncbi.nlm.nih.gov/gene/100494976) | [479370](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479370) |  |
-| Zebrafish |  | [394026](https://www.ncbi.nlm.nih.gov/gene/394026) | [ZFIN:ZDB-GENE-040426-1413](https://zfin.org/ZDB-GENE-040426-1413) | ZDB-GENE-040426-1413 |
+| Mouse | [ENSMUSG00000032179](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032179) | [12160](https://www.ncbi.nlm.nih.gov/gene/12160) | [MGI:88181](http://www.informatics.jax.org/marker/MGI:88181) | All phenotypic alleles (23):Spontaneous(5) Chemically induced(2) Radiation induced(12) Targeted, other(4) |
+| Xenopus | [ENSXETG00000007071](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007071) | [100494976](https://www.ncbi.nlm.nih.gov/gene/100494976) |  |  |
+| Zebrafish | [ENSDARG00000101701](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101701) | [394026](https://www.ncbi.nlm.nih.gov/gene/394026) | [ZFIN:ZDB-GENE-040426-1413](https://zfin.org/ZDB-GENE-040426-1413) | BMP signaling pathway, developmental process, enteric nervous system development, heart development, neural crest cell development |
 

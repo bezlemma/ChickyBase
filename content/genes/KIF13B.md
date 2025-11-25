@@ -3,14 +3,13 @@ aliases:
 - kinesin-like protein KIF13B
 cgnc_id: '12468'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/422026
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422026
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641072
 forward_primer: ACAAGCAGAGTGGTGACCG
-gene_id: '449344'
+gene_id: '422026'
 gene_type: protein-coding
 images:
 - caption: KIF13B expression
@@ -95,41 +94,37 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R720.KIF13B.S25.001.jpg
 name: kinesin family member 13B
-ncbi_id: '449344'
+ncbi_id: '422026'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000197892
+  entrez: '23303'
+  mod: MIM:607350
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000060012
+  entrez: '16554'
+  mod: MGI:1098265
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000000121
+  entrez: '100492799'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000079731
+  entrez: '571520'
+  mod: ZFIN:ZDB-GENE-070521-1
+  phenotypes: establishment of protein localization, microtubule-based movement, system
+    development
   species: Zebrafish
 reverse_primer: TTGCGCAACACCAAGTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449344
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422026
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449344
+  url: https://www.ncbi.nlm.nih.gov/gene/422026
 species: Gallus gallus
 symbol: KIF13B
 template_length: '946'
@@ -152,9 +147,8 @@ title: KIF13B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000197892](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197892) | [23303](https://www.ncbi.nlm.nih.gov/gene/23303) | [MIM:607350](https://omim.org/entry/607350) |  |
+| Mouse | [ENSMUSG00000060012](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000060012) | [16554](https://www.ncbi.nlm.nih.gov/gene/16554) | [MGI:1098265](http://www.informatics.jax.org/marker/MGI:1098265) |  |
+| Xenopus | [ENSXETG00000000121](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000121) | [100492799](https://www.ncbi.nlm.nih.gov/gene/100492799) |  |  |
+| Zebrafish | [ENSDARG00000079731](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079731) | [571520](https://www.ncbi.nlm.nih.gov/gene/571520) | [ZFIN:ZDB-GENE-070521-1](https://zfin.org/ZDB-GENE-070521-1) | establishment of protein localization, microtubule-based movement, system development |
 

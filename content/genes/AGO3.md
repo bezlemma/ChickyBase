@@ -5,7 +5,6 @@ aliases:
 - eukaryotic translation initiation factor 2C, 3
 cgnc_id: '14656'
 external_ids:
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006402
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016442
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000021631
@@ -14,7 +13,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0035198
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030900
 forward_primer: CTGCCACTGCCTTCTACAAAGC
-gene_id: '457720'
+gene_id: '419628'
 gene_type: protein-coding
 images:
 - caption: AGO3 expression
@@ -189,41 +188,38 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R502.AGO3.S25.001.jpg
 name: argonaute 3, RISC catalytic component
-ncbi_id: '457720'
+ncbi_id: '419628'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000126070
   entrez: '192669'
   mod: MIM:607355
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000028842
   entrez: '214150'
   mod: MGI:2446634
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100302589,100486574
-  mod: 6462751,5933498
+- ensembl: ENSXETG00000042716
+  entrez: '100486574'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000059888,ENSDARG00000063079
-  entrez: 567622,641428,568159
-  mod: ZFIN:ZDB-GENE-051107-16,ZFIN:ZDB-GENE-060503-452
-  phenotypes: ZDB-GENE-051107-16,ZDB-GENE-060503-452
+- ensembl: ENSDARG00000063079
+  entrez: '568159'
+  mod: ZFIN:ZDB-GENE-060503-452
+  phenotypes: mRNA catabolic process, miRNA-mediated gene silencing by inhibition
+    of translation, pre-miRNA processing, regulation of stem cell proliferation, regulation
+    of translation
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCTGAATAGGTGTTCTTGAGGTGCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457720
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419628
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457720
+  url: https://www.ncbi.nlm.nih.gov/gene/419628
 species: Gallus gallus
 symbol: AGO3
 template_length: '882'
@@ -248,9 +244,8 @@ title: AGO3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000126070](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000126070) | [192669](https://www.ncbi.nlm.nih.gov/gene/192669) | [MIM:607355](https://omim.org/entry/607355) |  |
-| Mouse |  | [214150](https://www.ncbi.nlm.nih.gov/gene/214150) | [MGI:2446634](http://www.informatics.jax.org/marker/MGI:2446634) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100302589](https://www.ncbi.nlm.nih.gov/gene/100302589), [100486574](https://www.ncbi.nlm.nih.gov/gene/100486574) | [6462751](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6462751), [5933498](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5933498) |  |
-| Zebrafish | [ENSDARG00000059888](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059888), [ENSDARG00000063079](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063079) | [567622](https://www.ncbi.nlm.nih.gov/gene/567622), [641428](https://www.ncbi.nlm.nih.gov/gene/641428), [568159](https://www.ncbi.nlm.nih.gov/gene/568159) | [ZFIN:ZDB-GENE-051107-16](https://zfin.org/ZDB-GENE-051107-16), [ZFIN:ZDB-GENE-060503-452](https://zfin.org/ZDB-GENE-060503-452) | ZDB-GENE-051107-16,ZDB-GENE-060503-452 |
+| Mouse | [ENSMUSG00000028842](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028842) | [214150](https://www.ncbi.nlm.nih.gov/gene/214150) | [MGI:2446634](http://www.informatics.jax.org/marker/MGI:2446634) | All phenotypic alleles (1):Targeted, other(1) |
+| Xenopus | [ENSXETG00000042716](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000042716) | [100486574](https://www.ncbi.nlm.nih.gov/gene/100486574) |  |  |
+| Zebrafish | [ENSDARG00000063079](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063079) | [568159](https://www.ncbi.nlm.nih.gov/gene/568159) | [ZFIN:ZDB-GENE-060503-452](https://zfin.org/ZDB-GENE-060503-452) | mRNA catabolic process, miRNA-mediated gene silencing by inhibition of translation, pre-miRNA processing, regulation of stem cell proliferation, regulation of translation |
 

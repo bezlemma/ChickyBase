@@ -51,7 +51,7 @@ orthologs:
 - ensembl: ENSDARG00000029689,ENSDARG00000006019
   entrez: 557518,378713
   mod: ZFIN:ZDB-GENE-030909-13,ZFIN:ZDB-GENE-130530-578
-  phenotypes: ZDB-GENE-030909-13,ZDB-GENE-130530-578
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
@@ -86,5 +86,5 @@ title: TKTL1
 | Human | [ENSG00000163931](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163931) | [7086](https://www.ncbi.nlm.nih.gov/gene/7086) | [MIM:606781](https://omim.org/entry/606781) | MIM:277730 |
 | Mouse | [ENSMUSG00000021957](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021957) | [21881](https://www.ncbi.nlm.nih.gov/gene/21881) | [MGI:105992](http://www.informatics.jax.org/marker/MGI:105992) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
 | Xenopus |  | [548583](https://www.ncbi.nlm.nih.gov/gene/548583), [398860](https://www.ncbi.nlm.nih.gov/gene/398860) | [948071](http://www.xenbase.org/gene/showgene.do?method=display&geneId=948071) |  |
-| Zebrafish | [ENSDARG00000029689](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029689), [ENSDARG00000006019](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006019) | [557518](https://www.ncbi.nlm.nih.gov/gene/557518), [378713](https://www.ncbi.nlm.nih.gov/gene/378713) | [ZFIN:ZDB-GENE-030909-13](https://zfin.org/ZDB-GENE-030909-13), [ZFIN:ZDB-GENE-130530-578](https://zfin.org/ZDB-GENE-130530-578) | ZDB-GENE-030909-13,ZDB-GENE-130530-578 |
+| Zebrafish | [ENSDARG00000029689](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029689), [ENSDARG00000006019](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006019) | [557518](https://www.ncbi.nlm.nih.gov/gene/557518), [378713](https://www.ncbi.nlm.nih.gov/gene/378713) | [ZFIN:ZDB-GENE-030909-13](https://zfin.org/ZDB-GENE-030909-13), [ZFIN:ZDB-GENE-130530-578](https://zfin.org/ZDB-GENE-130530-578) |  |
 

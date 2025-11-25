@@ -17,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005185
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205185
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/AVP
-gene_id: '458723'
+gene_id: '396101'
 gene_type: protein-coding
 images:
 - caption: AVP expression
@@ -96,13 +96,8 @@ images:
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AVT.Caqueret.2005.Fig.5.png
 name: arginine vasopressin
-ncbi_id: '458723'
+ncbi_id: '396101'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000101200
   entrez: '551'
   mod: MIM:192340
@@ -113,20 +108,21 @@ orthologs:
   mod: MGI:88121
   phenotypes: All phenotypic alleles (4):Targeted, other(4)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000043236
   entrez: '100038191'
-  mod: '478868'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000058567
-  entrez: '352922'
-  mod: ZFIN:ZDB-GENE-030407-2
-  phenotypes: ZDB-GENE-030407-2
+- ensembl: ENSDARG00000042845
+  entrez: '352920'
+  mod: ZFIN:ZDB-GENE-030407-1
+  phenotypes: intracellular signal transduction, monoatomic ion homeostasis, swimming
+    behavior
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458723
+  url: https://www.ncbi.nlm.nih.gov/gene/396101
 species: Gallus gallus
 symbol: AVP
 title: AVP
@@ -155,9 +151,8 @@ title: AVP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000101200](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101200) | [551](https://www.ncbi.nlm.nih.gov/gene/551) | [MIM:192340](https://omim.org/entry/192340) | MIM:125700 |
 | Mouse | [ENSMUSG00000037727](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037727) | [11998](https://www.ncbi.nlm.nih.gov/gene/11998) | [MGI:88121](http://www.informatics.jax.org/marker/MGI:88121) | All phenotypic alleles (4):Targeted, other(4) |
-| Xenopus |  | [100038191](https://www.ncbi.nlm.nih.gov/gene/100038191) | [478868](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478868) |  |
-| Zebrafish | [ENSDARG00000058567](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058567) | [352922](https://www.ncbi.nlm.nih.gov/gene/352922) | [ZFIN:ZDB-GENE-030407-2](https://zfin.org/ZDB-GENE-030407-2) | ZDB-GENE-030407-2 |
+| Xenopus | [ENSXETG00000043236](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000043236) | [100038191](https://www.ncbi.nlm.nih.gov/gene/100038191) |  |  |
+| Zebrafish | [ENSDARG00000042845](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042845) | [352920](https://www.ncbi.nlm.nih.gov/gene/352920) | [ZFIN:ZDB-GENE-030407-1](https://zfin.org/ZDB-GENE-030407-1) | intracellular signal transduction, monoatomic ion homeostasis, swimming behavior |
 

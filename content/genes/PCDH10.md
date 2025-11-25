@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:408048
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_214672
-gene_id: '452503'
+gene_id: '408048'
 gene_type: protein-coding
 images:
 - caption: PCDH10 expression
@@ -312,13 +312,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh10.Lin.2013.Fig3.jpg
 name: protocadherin 10
-ncbi_id: '452503'
+ncbi_id: '408048'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138650
   entrez: '57575'
   mod: MIM:608286
@@ -329,20 +324,21 @@ orthologs:
   mod: MGI:1338042
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000003663
   entrez: '779938'
-  mod: '5866460'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000054274,ENSDARG00000036121
-  entrez: 259186,360138
-  mod: ZFIN:ZDB-GENE-020731-1,ZFIN:ZDB-GENE-030721-4
-  phenotypes: ZDB-GENE-020731-1,ZDB-GENE-030721-4
+- ensembl: ENSDARG00000102824
+  entrez: '360138'
+  mod: ZFIN:ZDB-GENE-030721-4
+  phenotypes: anatomical structure morphogenesis, cell adhesion, homophilic cell adhesion
+    via plasma membrane adhesion molecules, paraxial mesoderm development, somitogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452503
+  url: https://www.ncbi.nlm.nih.gov/gene/408048
 species: Gallus gallus
 symbol: PCDH10
 title: PCDH10
@@ -368,9 +364,8 @@ title: PCDH10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000138650](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138650) | [57575](https://www.ncbi.nlm.nih.gov/gene/57575) | [MIM:608286](https://omim.org/entry/608286) |  |
 | Mouse | [ENSMUSG00000049100](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049100) | [18526](https://www.ncbi.nlm.nih.gov/gene/18526) | [MGI:1338042](http://www.informatics.jax.org/marker/MGI:1338042) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [779938](https://www.ncbi.nlm.nih.gov/gene/779938) | [5866460](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5866460) |  |
-| Zebrafish | [ENSDARG00000054274](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054274), [ENSDARG00000036121](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036121) | [259186](https://www.ncbi.nlm.nih.gov/gene/259186), [360138](https://www.ncbi.nlm.nih.gov/gene/360138) | [ZFIN:ZDB-GENE-020731-1](https://zfin.org/ZDB-GENE-020731-1), [ZFIN:ZDB-GENE-030721-4](https://zfin.org/ZDB-GENE-030721-4) | ZDB-GENE-020731-1,ZDB-GENE-030721-4 |
+| Xenopus | [ENSXETG00000003663](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003663) | [779938](https://www.ncbi.nlm.nih.gov/gene/779938) |  |  |
+| Zebrafish | [ENSDARG00000102824](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000102824) | [360138](https://www.ncbi.nlm.nih.gov/gene/360138) | [ZFIN:ZDB-GENE-030721-4](https://zfin.org/ZDB-GENE-030721-4) | anatomical structure morphogenesis, cell adhesion, homophilic cell adhesion via plasma membrane adhesion molecules, paraxial mesoderm development, somitogenesis |
 

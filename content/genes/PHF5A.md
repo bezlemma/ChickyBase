@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417991
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277376
-gene_id: '452149'
+gene_id: '417991'
 gene_type: protein-coding
 images:
 - caption: PHF5A expression
@@ -21,40 +21,35 @@ images:
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53wc3.131.5.jpg
 name: PHD finger protein 5A
-ncbi_id: '452149'
+ncbi_id: '417991'
 orthologs:
-- ensembl: ''
-  entrez: '33909'
-  mod: FBgn0031822
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100410
   entrez: '84844'
-  mod: ''
+  mod: MIM:617846
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000061360
   entrez: '68479'
   mod: MGI:2156864
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100170460,496306
-  mod: '976800'
+- ensembl: ENSXETG00000006893
+  entrez: '100170460'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000045155
+- ensembl: ENSDARG00000114593
   entrez: '286774'
   mod: ZFIN:ZDB-GENE-021219-3
-  phenotypes: ZDB-GENE-021219-3
+  phenotypes: mRNA splicing, via spliceosome
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452149
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417991
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452149
+  url: https://www.ncbi.nlm.nih.gov/gene/417991
 species: Gallus gallus
 symbol: PHF5A
 title: PHF5A
@@ -79,9 +74,8 @@ title: PHF5A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33909](https://www.ncbi.nlm.nih.gov/gene/33909) | FBgn0031822 |  |
-| Human | [ENSG00000100410](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100410) | [84844](https://www.ncbi.nlm.nih.gov/gene/84844) |  |  |
-| Mouse |  | [68479](https://www.ncbi.nlm.nih.gov/gene/68479) | [MGI:2156864](http://www.informatics.jax.org/marker/MGI:2156864) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100170460](https://www.ncbi.nlm.nih.gov/gene/100170460), [496306](https://www.ncbi.nlm.nih.gov/gene/496306) | [976800](http://www.xenbase.org/gene/showgene.do?method=display&geneId=976800) |  |
-| Zebrafish | [ENSDARG00000045155](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045155) | [286774](https://www.ncbi.nlm.nih.gov/gene/286774) | [ZFIN:ZDB-GENE-021219-3](https://zfin.org/ZDB-GENE-021219-3) | ZDB-GENE-021219-3 |
+| Human | [ENSG00000100410](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100410) | [84844](https://www.ncbi.nlm.nih.gov/gene/84844) | [MIM:617846](https://omim.org/entry/617846) |  |
+| Mouse | [ENSMUSG00000061360](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061360) | [68479](https://www.ncbi.nlm.nih.gov/gene/68479) | [MGI:2156864](http://www.informatics.jax.org/marker/MGI:2156864) | All phenotypic alleles (2):Targeted, other(2) |
+| Xenopus | [ENSXETG00000006893](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006893) | [100170460](https://www.ncbi.nlm.nih.gov/gene/100170460) |  |  |
+| Zebrafish | [ENSDARG00000114593](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114593) | [286774](https://www.ncbi.nlm.nih.gov/gene/286774) | [ZFIN:ZDB-GENE-021219-3](https://zfin.org/ZDB-GENE-021219-3) | mRNA splicing, via spliceosome |
 

@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428490
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426046
 forward_primer: GTGTTGTTTTCAGTGTGCGTGC
-gene_id: '461919'
+gene_id: '428490'
 gene_type: protein-coding
 images:
 - caption: CDH18 expression
@@ -69,41 +69,31 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R454.CDH18.S26V.001.jpg
 name: cadherin 18
-ncbi_id: '461919'
+ncbi_id: '428490'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000145526
   entrez: '1016'
   mod: MIM:603019
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000040420
+  entrez: '320865'
+  mod: MGI:1344366
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000012238
   entrez: '100488093'
-  mod: '982899'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000061371
-  entrez: '767768'
-  mod: ZFIN:ZDB-GENE-060929-316
-  phenotypes: ZDB-GENE-060929-316
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGGGTGTTCTACTTAGGGATGGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461919
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428490
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461919
+  url: https://www.ncbi.nlm.nih.gov/gene/428490
 species: Gallus gallus
 symbol: CDH18
 template_length: '1031'
@@ -125,9 +115,7 @@ title: CDH18
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000145526](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145526) | [1016](https://www.ncbi.nlm.nih.gov/gene/1016) | [MIM:603019](https://omim.org/entry/603019) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100488093](https://www.ncbi.nlm.nih.gov/gene/100488093) | [982899](http://www.xenbase.org/gene/showgene.do?method=display&geneId=982899) |  |
-| Zebrafish | [ENSDARG00000061371](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061371) | [767768](https://www.ncbi.nlm.nih.gov/gene/767768) | [ZFIN:ZDB-GENE-060929-316](https://zfin.org/ZDB-GENE-060929-316) | ZDB-GENE-060929-316 |
+| Mouse | [ENSMUSG00000040420](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040420) | [320865](https://www.ncbi.nlm.nih.gov/gene/320865) | [MGI:1344366](http://www.informatics.jax.org/marker/MGI:1344366) |  |
+| Xenopus | [ENSXETG00000012238](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012238) | [100488093](https://www.ncbi.nlm.nih.gov/gene/100488093) |  |  |
 

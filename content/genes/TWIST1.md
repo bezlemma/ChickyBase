@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395491
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204739
-gene_id: '449296'
+gene_id: '395491'
 gene_type: protein-coding
 images:
 - caption: TWIST1 expression
@@ -291,37 +291,33 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dady.Fig2.ALLIMAGES-9.jpg
 name: twist family bHLH transcription factor 1
-ncbi_id: '449296'
+ncbi_id: '395491'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000122691
+  entrez: '7291'
+  mod: MIM:601622
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000035799
+  entrez: '22160'
+  mod: MGI:98872
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000025630
+  entrez: '395054'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000076010
+  entrez: '550518'
+  mod: ZFIN:ZDB-GENE-050417-357
+  phenotypes: atrioventricular valve morphogenesis, cell differentiation, developmental
+    process, dorsal/ventral pattern formation, muscle organ development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449296
+  url: https://www.ncbi.nlm.nih.gov/gene/395491
 species: Gallus gallus
 symbol: TWIST1
 title: TWIST1
@@ -347,9 +343,8 @@ title: TWIST1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000122691](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000122691) | [7291](https://www.ncbi.nlm.nih.gov/gene/7291) | [MIM:601622](https://omim.org/entry/601622) |  |
+| Mouse | [ENSMUSG00000035799](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035799) | [22160](https://www.ncbi.nlm.nih.gov/gene/22160) | [MGI:98872](http://www.informatics.jax.org/marker/MGI:98872) |  |
+| Xenopus | [ENSXETG00000025630](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025630) | [395054](https://www.ncbi.nlm.nih.gov/gene/395054) |  |  |
+| Zebrafish | [ENSDARG00000076010](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076010) | [550518](https://www.ncbi.nlm.nih.gov/gene/550518) | [ZFIN:ZDB-GENE-050417-357](https://zfin.org/ZDB-GENE-050417-357) | atrioventricular valve morphogenesis, cell differentiation, developmental process, dorsal/ventral pattern formation, muscle organ development |
 

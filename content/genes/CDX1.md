@@ -6,8 +6,6 @@ aliases:
 - caudal-type homeodomain protein, CdxA
 cgnc_id: '4232'
 external_ids:
-  '25': stage 25stage 25
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0009952
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: 'Sophie Bel-Vialar, Nobue Itasaki, Robb Krumlauf. Initiating Hox gene
@@ -24,7 +22,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395397
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0000980
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204676
-gene_id: '448976'
+gene_id: '395397'
 gene_type: protein-coding
 images:
 - caption: CDX1 expression
@@ -242,40 +240,27 @@ images:
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Bel-Vialar.2002-cdxA-fig4A.jpg
 name: caudal type homeobox 1
-ncbi_id: '448976'
+ncbi_id: '395397'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000010282
+  entrez: '395055'
   mod: ''
   phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000113722
-  entrez: '1044'
-  mod: MIM:600746
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000024619
-  entrez: '12590'
-  mod: MGI:88360
-  phenotypes: All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3)
-  species: Mouse
-- ensembl: ''
-  entrez: 395055,397695
-  mod: '485395'
-  phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: 100004956,405762
-  mod: ZFIN:ZDB-GENE-070615-29,ZFIN:ZDB-GENE-050510-1
-  phenotypes: ZDB-GENE-070615-29,ZDB-GENE-050510-1
+- ensembl: ENSDARG00000116139
+  entrez: '100004956'
+  mod: ZFIN:ZDB-GENE-070615-29
+  phenotypes: anterior/posterior axis specification, cell differentiation, determination
+    of left/right asymmetry in diencephalon, digestive tract development, digestive
+    tract morphogenesis
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448976
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395397
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448976
+  url: https://www.ncbi.nlm.nih.gov/gene/395397
 species: Gallus gallus
 symbol: CDX1
 title: CDX1
@@ -303,9 +288,6 @@ title: CDX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000113722](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113722) | [1044](https://www.ncbi.nlm.nih.gov/gene/1044) | [MIM:600746](https://omim.org/entry/600746) |  |
-| Mouse | [ENSMUSG00000024619](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024619) | [12590](https://www.ncbi.nlm.nih.gov/gene/12590) | [MGI:88360](http://www.informatics.jax.org/marker/MGI:88360) | All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3) |
-| Xenopus |  | [395055](https://www.ncbi.nlm.nih.gov/gene/395055), [397695](https://www.ncbi.nlm.nih.gov/gene/397695) | [485395](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485395) |  |
-| Zebrafish |  | [100004956](https://www.ncbi.nlm.nih.gov/gene/100004956), [405762](https://www.ncbi.nlm.nih.gov/gene/405762) | [ZFIN:ZDB-GENE-070615-29](https://zfin.org/ZDB-GENE-070615-29), [ZFIN:ZDB-GENE-050510-1](https://zfin.org/ZDB-GENE-050510-1) | ZDB-GENE-070615-29,ZDB-GENE-050510-1 |
+| Xenopus | [ENSXETG00000010282](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010282) | [395055](https://www.ncbi.nlm.nih.gov/gene/395055) |  |  |
+| Zebrafish | [ENSDARG00000116139](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116139) | [100004956](https://www.ncbi.nlm.nih.gov/gene/100004956) | [ZFIN:ZDB-GENE-070615-29](https://zfin.org/ZDB-GENE-070615-29) | anterior/posterior axis specification, cell differentiation, determination of left/right asymmetry in diencephalon, digestive tract development, digestive tract morphogenesis |
 

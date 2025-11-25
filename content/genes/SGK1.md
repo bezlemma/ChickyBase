@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395133
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204476
-gene_id: '462156'
+gene_id: '395133'
 gene_type: protein-coding
 images:
 - caption: SGK1 expression
@@ -53,13 +53,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SGK.Trimarchi.2009
     for figure 5, panel U.JPG
 name: serum/glucocorticoid regulated kinase 1
-ncbi_id: '462156'
+ncbi_id: '395133'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000118515
   entrez: '6446'
   mod: MIM:602958
@@ -70,20 +65,21 @@ orthologs:
   mod: MGI:1340062
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 594981,399130,444618
-  mod: '1003517'
+- ensembl: ENSXETG00000000124
+  entrez: '594981'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000025522
+- ensembl: ENSDARG00000115600
   entrez: '324140'
   mod: ZFIN:ZDB-GENE-030131-2860
-  phenotypes: ZDB-GENE-030131-2860
+  phenotypes: apoptotic process, inflammatory response, intracellular signal transduction,
+    neuron projection morphogenesis, phosphorylation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462156
+  url: https://www.ncbi.nlm.nih.gov/gene/395133
 species: Gallus gallus
 symbol: SGK1
 title: SGK1
@@ -112,9 +108,8 @@ title: SGK1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000118515](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118515) | [6446](https://www.ncbi.nlm.nih.gov/gene/6446) | [MIM:602958](https://omim.org/entry/602958) |  |
 | Mouse | [ENSMUSG00000019970](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019970) | [20393](https://www.ncbi.nlm.nih.gov/gene/20393) | [MGI:1340062](http://www.informatics.jax.org/marker/MGI:1340062) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [594981](https://www.ncbi.nlm.nih.gov/gene/594981), [399130](https://www.ncbi.nlm.nih.gov/gene/399130), [444618](https://www.ncbi.nlm.nih.gov/gene/444618) | [1003517](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1003517) |  |
-| Zebrafish | [ENSDARG00000025522](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025522) | [324140](https://www.ncbi.nlm.nih.gov/gene/324140) | [ZFIN:ZDB-GENE-030131-2860](https://zfin.org/ZDB-GENE-030131-2860) | ZDB-GENE-030131-2860 |
+| Xenopus | [ENSXETG00000000124](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000124) | [594981](https://www.ncbi.nlm.nih.gov/gene/594981) |  |  |
+| Zebrafish | [ENSDARG00000115600](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115600) | [324140](https://www.ncbi.nlm.nih.gov/gene/324140) | [ZFIN:ZDB-GENE-030131-2860](https://zfin.org/ZDB-GENE-030131-2860) | apoptotic process, inflammatory response, intracellular signal transduction, neuron projection morphogenesis, phosphorylation |
 

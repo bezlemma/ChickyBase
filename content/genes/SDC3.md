@@ -5,7 +5,6 @@ aliases:
 - syndecan-3 proteoglycan
 cgnc_id: '354'
 external_ids:
-  '31': stage 31stage 31
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030154
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2019+Cui+MDK+PTN
@@ -18,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396343
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008092
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205383
-gene_id: '461776'
+gene_id: '396343'
 gene_type: protein-coding
 images:
 - caption: SDC3 expression
@@ -85,14 +84,9 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig5.Allimages-4.jpg
 name: syndecan 3
-ncbi_id: '461776'
+ncbi_id: '396343'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000162512
   entrez: '9672'
   mod: MIM:186357
   phenotypes: MIM:601665
@@ -102,20 +96,15 @@ orthologs:
   mod: MGI:1349163
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100134998,378553
-  mod: '490746'
+- ensembl: ENSXETG00000007104
+  entrez: '100134998'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000088962
-  entrez: '337077'
-  mod: ZFIN:ZDB-GENE-030131-9021
-  phenotypes: ZDB-GENE-030131-9021
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461776
+  url: https://www.ncbi.nlm.nih.gov/gene/396343
 species: Gallus gallus
 symbol: SDC3
 title: SDC3
@@ -144,9 +133,7 @@ title: SDC3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [9672](https://www.ncbi.nlm.nih.gov/gene/9672) | [MIM:186357](https://omim.org/entry/186357) | MIM:601665 |
+| Human | [ENSG00000162512](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162512) | [9672](https://www.ncbi.nlm.nih.gov/gene/9672) | [MIM:186357](https://omim.org/entry/186357) | MIM:601665 |
 | Mouse | [ENSMUSG00000025743](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025743) | [20970](https://www.ncbi.nlm.nih.gov/gene/20970) | [MGI:1349163](http://www.informatics.jax.org/marker/MGI:1349163) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100134998](https://www.ncbi.nlm.nih.gov/gene/100134998), [378553](https://www.ncbi.nlm.nih.gov/gene/378553) | [490746](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490746) |  |
-| Zebrafish | [ENSDARG00000088962](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000088962) | [337077](https://www.ncbi.nlm.nih.gov/gene/337077) | [ZFIN:ZDB-GENE-030131-9021](https://zfin.org/ZDB-GENE-030131-9021) | ZDB-GENE-030131-9021 |
+| Xenopus | [ENSXETG00000007104](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007104) | [100134998](https://www.ncbi.nlm.nih.gov/gene/100134998) |  |  |
 

@@ -4,10 +4,6 @@ aliases:
 - "paired box gene 6, Pax-6 , \r\npaired box gene 6"
 cgnc_id: '49564'
 external_ids:
-  '19': stage 19stage 19stage 19stage 19
-  '25': stage 25stage 25
-  '31': stage 31stage 31
-  '4': stage 4stage 4
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0019650
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0003322
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0000790
@@ -25,7 +21,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205066
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/PAX6
-gene_id: '450497'
+gene_id: '395943'
 gene_type: protein-coding
 images:
 - caption: PAX6 expression
@@ -946,13 +942,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-fig1.jpg
 name: paired box 6
-ncbi_id: '450497'
+ncbi_id: '395943'
 orthologs:
-- ensembl: ''
-  entrez: '43833'
-  mod: FBgn0019650
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000007372
   entrez: '5080'
   mod: MIM:607108
@@ -964,20 +955,21 @@ orthologs:
   phenotypes: All phenotypic alleles (37):Spontaneous(2) Chemically induced(24) Radiation
     induced(4) Targeted, knock-out(3) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 448447,379100,100337586
-  mod: '484087'
+- ensembl: ENSXETG00000008175
+  entrez: '448447'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000045045,ENSDARG00000045936
-  entrez: 30567,60639
-  mod: ZFIN:ZDB-GENE-990415-200,ZFIN:ZDB-GENE-001031-1
-  phenotypes: ZDB-GENE-990415-200,ZDB-GENE-001031-1
+- ensembl: ENSDARG00000103379
+  entrez: '30567'
+  mod: ZFIN:ZDB-GENE-990415-200
+  phenotypes: anatomical structure morphogenesis, anterior/posterior pattern specification,
+    brain development, camera-type eye morphogenesis, cell differentiation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450497
+  url: https://www.ncbi.nlm.nih.gov/gene/395943
 species: Gallus gallus
 symbol: PAX6
 title: PAX6
@@ -1009,9 +1001,8 @@ title: PAX6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43833](https://www.ncbi.nlm.nih.gov/gene/43833) | FBgn0019650 |  |
 | Human | [ENSG00000007372](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000007372) | [5080](https://www.ncbi.nlm.nih.gov/gene/5080) | [MIM:607108](https://omim.org/entry/607108) | MIM:106210 |
 | Mouse | [ENSMUSG00000027168](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027168) | [18508](https://www.ncbi.nlm.nih.gov/gene/18508) | [MGI:97490](http://www.informatics.jax.org/marker/MGI:97490) | All phenotypic alleles (37):Spontaneous(2) Chemically induced(24) Radiation induced(4) Targeted, knock-out(3) Targeted, other(4) |
-| Xenopus |  | [448447](https://www.ncbi.nlm.nih.gov/gene/448447), [379100](https://www.ncbi.nlm.nih.gov/gene/379100), [100337586](https://www.ncbi.nlm.nih.gov/gene/100337586) | [484087](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484087) |  |
-| Zebrafish | [ENSDARG00000045045](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045045), [ENSDARG00000045936](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045936) | [30567](https://www.ncbi.nlm.nih.gov/gene/30567), [60639](https://www.ncbi.nlm.nih.gov/gene/60639) | [ZFIN:ZDB-GENE-990415-200](https://zfin.org/ZDB-GENE-990415-200), [ZFIN:ZDB-GENE-001031-1](https://zfin.org/ZDB-GENE-001031-1) | ZDB-GENE-990415-200,ZDB-GENE-001031-1 |
+| Xenopus | [ENSXETG00000008175](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008175) | [448447](https://www.ncbi.nlm.nih.gov/gene/448447) |  |  |
+| Zebrafish | [ENSDARG00000103379](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000103379) | [30567](https://www.ncbi.nlm.nih.gov/gene/30567) | [ZFIN:ZDB-GENE-990415-200](https://zfin.org/ZDB-GENE-990415-200) | anatomical structure morphogenesis, anterior/posterior pattern specification, brain development, camera-type eye morphogenesis, cell differentiation |
 

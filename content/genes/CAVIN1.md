@@ -79,7 +79,7 @@ orthologs:
 - ensembl: ENSDARG00000059362
   entrez: '561082'
   mod: ZFIN:ZDB-GENE-030131-5509,ZFIN:ZDB-GENE-091204-151
-  phenotypes: ZDB-GENE-030131-5509,ZDB-GENE-091204-151
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
@@ -116,5 +116,5 @@ title: CAVIN1
 | Human | [ENSG00000177469](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000177469) | [284119](https://www.ncbi.nlm.nih.gov/gene/284119) | [MIM:603198](https://omim.org/entry/603198) | MIM:613327 |
 | Mouse | [ENSMUSG00000004044](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000004044) | [19285](https://www.ncbi.nlm.nih.gov/gene/19285) | [MGI:1277968](http://www.informatics.jax.org/marker/MGI:1277968) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
 | Xenopus |  | [448589](https://www.ncbi.nlm.nih.gov/gene/448589), [380268](https://www.ncbi.nlm.nih.gov/gene/380268) | [996119](http://www.xenbase.org/gene/showgene.do?method=display&geneId=996119) |  |
-| Zebrafish | [ENSDARG00000059362](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059362) | [561082](https://www.ncbi.nlm.nih.gov/gene/561082) | [ZFIN:ZDB-GENE-030131-5509](https://zfin.org/ZDB-GENE-030131-5509), [ZFIN:ZDB-GENE-091204-151](https://zfin.org/ZDB-GENE-091204-151) | ZDB-GENE-030131-5509,ZDB-GENE-091204-151 |
+| Zebrafish | [ENSDARG00000059362](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059362) | [561082](https://www.ncbi.nlm.nih.gov/gene/561082) | [ZFIN:ZDB-GENE-030131-5509](https://zfin.org/ZDB-GENE-030131-5509), [ZFIN:ZDB-GENE-091204-151](https://zfin.org/ZDB-GENE-091204-151) |  |
 

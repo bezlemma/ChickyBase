@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:724086
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001044695
-gene_id: '456882'
+gene_id: '724086'
 gene_type: protein-coding
 images:
 - caption: SIX2 expression
@@ -229,37 +229,34 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.6.Allimages_Yamamoto-Shiraishi.2013-3
     copy.jpg
 name: SIX homeobox 2
-ncbi_id: '456882'
+ncbi_id: '724086'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000170577
+  entrez: '10736'
+  mod: MIM:604994
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000024134
+  entrez: '20472'
+  mod: MGI:102778
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000026158
+  entrez: '100101784'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000058004
+  entrez: '83415'
+  mod: ZFIN:ZDB-GENE-010412-1
+  phenotypes: pronephros development, regulation of DNA-templated transcription, regulation
+    of skeletal muscle cell proliferation, regulation of transcription by RNA polymerase
+    II, skeletal muscle fiber development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456882
+  url: https://www.ncbi.nlm.nih.gov/gene/724086
 species: Gallus gallus
 symbol: SIX2
 title: SIX2
@@ -285,9 +282,8 @@ title: SIX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000170577](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170577) | [10736](https://www.ncbi.nlm.nih.gov/gene/10736) | [MIM:604994](https://omim.org/entry/604994) |  |
+| Mouse | [ENSMUSG00000024134](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024134) | [20472](https://www.ncbi.nlm.nih.gov/gene/20472) | [MGI:102778](http://www.informatics.jax.org/marker/MGI:102778) |  |
+| Xenopus | [ENSXETG00000026158](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026158) | [100101784](https://www.ncbi.nlm.nih.gov/gene/100101784) |  |  |
+| Zebrafish | [ENSDARG00000058004](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058004) | [83415](https://www.ncbi.nlm.nih.gov/gene/83415) | [ZFIN:ZDB-GENE-010412-1](https://zfin.org/ZDB-GENE-010412-1) | pronephros development, regulation of DNA-templated transcription, regulation of skeletal muscle cell proliferation, regulation of transcription by RNA polymerase II, skeletal muscle fiber development |
 

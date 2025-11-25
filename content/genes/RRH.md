@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771805
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006091.3?report=genbank&from=57711091&to=57722205&strand=true
-gene_id: '452597'
+gene_id: '771805'
 gene_type: protein-coding
 images:
 - caption: RRH expression
@@ -56,13 +56,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRRH.Bailey.2004.Fig.4.png
 name: retinal pigment epithelium-derived rhodopsin homolog
-ncbi_id: '452597'
+ncbi_id: '771805'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000180245
   entrez: '10692'
   mod: MIM:605224
@@ -73,20 +68,21 @@ orthologs:
   mod: MGI:1097709
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000024113
   entrez: '100492717'
-  mod: '6076481'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000039534
   entrez: '447916'
   mod: ZFIN:ZDB-GENE-040912-94
-  phenotypes: ZDB-GENE-040912-94
+  phenotypes: G protein-coupled receptor signaling pathway, cellular response to light
+    stimulus, phototransduction, signal transduction, visual perception
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452597
+  url: https://www.ncbi.nlm.nih.gov/gene/771805
 species: Gallus gallus
 symbol: RRH
 title: RRH
@@ -113,9 +109,8 @@ title: RRH
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000180245](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000180245) | [10692](https://www.ncbi.nlm.nih.gov/gene/10692) | [MIM:605224](https://omim.org/entry/605224) |  |
 | Mouse | [ENSMUSG00000028012](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028012) | [20132](https://www.ncbi.nlm.nih.gov/gene/20132) | [MGI:1097709](http://www.informatics.jax.org/marker/MGI:1097709) |  |
-| Xenopus |  | [100492717](https://www.ncbi.nlm.nih.gov/gene/100492717) | [6076481](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6076481) |  |
-| Zebrafish | [ENSDARG00000039534](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039534) | [447916](https://www.ncbi.nlm.nih.gov/gene/447916) | [ZFIN:ZDB-GENE-040912-94](https://zfin.org/ZDB-GENE-040912-94) | ZDB-GENE-040912-94 |
+| Xenopus | [ENSXETG00000024113](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000024113) | [100492717](https://www.ncbi.nlm.nih.gov/gene/100492717) |  |  |
+| Zebrafish | [ENSDARG00000039534](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039534) | [447916](https://www.ncbi.nlm.nih.gov/gene/447916) | [ZFIN:ZDB-GENE-040912-94](https://zfin.org/ZDB-GENE-040912-94) | G protein-coupled receptor signaling pathway, cellular response to light stimulus, phototransduction, signal transduction, visual perception |
 

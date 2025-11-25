@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:425805
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001146133
-gene_id: '450921'
+gene_id: '425805'
 gene_type: protein-coding
 images:
 - caption: NGFR expression
@@ -255,13 +255,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Anderson.2019.Supplementary
     figure 5H2.jpg
 name: nerve growth factor receptor
-ncbi_id: '450921'
+ncbi_id: '425805'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000064300
   entrez: '4804'
   mod: MIM:162010
@@ -272,20 +267,21 @@ orthologs:
   mod: MGI:97323
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 493361,432338
-  mod: '947582'
+- ensembl: ENSXETG00000046328
+  entrez: '100493992'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000089223
-  entrez: 100330017,564338,368715
-  mod: ZFIN:ZDB-GENE-070606-2,ZFIN:ZDB-GENE-050928-1
-  phenotypes: ZDB-GENE-070606-2,ZDB-GENE-050928-1
+  entrez: '564338'
+  mod: ZFIN:ZDB-GENE-070606-2
+  phenotypes: Rho protein signal transduction, apoptotic process, kidney development,
+    posterior lateral line development, posterior lateral line neuromast deposition
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450921
+  url: https://www.ncbi.nlm.nih.gov/gene/425805
 species: Gallus gallus
 symbol: NGFR
 title: NGFR
@@ -313,9 +309,8 @@ title: NGFR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000064300](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000064300) | [4804](https://www.ncbi.nlm.nih.gov/gene/4804) | [MIM:162010](https://omim.org/entry/162010) |  |
 | Mouse | [ENSMUSG00000000120](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000120) | [18053](https://www.ncbi.nlm.nih.gov/gene/18053) | [MGI:97323](http://www.informatics.jax.org/marker/MGI:97323) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [493361](https://www.ncbi.nlm.nih.gov/gene/493361), [432338](https://www.ncbi.nlm.nih.gov/gene/432338) | [947582](http://www.xenbase.org/gene/showgene.do?method=display&geneId=947582) |  |
-| Zebrafish | [ENSDARG00000089223](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089223) | [100330017](https://www.ncbi.nlm.nih.gov/gene/100330017), [564338](https://www.ncbi.nlm.nih.gov/gene/564338), [368715](https://www.ncbi.nlm.nih.gov/gene/368715) | [ZFIN:ZDB-GENE-070606-2](https://zfin.org/ZDB-GENE-070606-2), [ZFIN:ZDB-GENE-050928-1](https://zfin.org/ZDB-GENE-050928-1) | ZDB-GENE-070606-2,ZDB-GENE-050928-1 |
+| Xenopus | [ENSXETG00000046328](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000046328) | [100493992](https://www.ncbi.nlm.nih.gov/gene/100493992) |  |  |
+| Zebrafish | [ENSDARG00000089223](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089223) | [564338](https://www.ncbi.nlm.nih.gov/gene/564338) | [ZFIN:ZDB-GENE-070606-2](https://zfin.org/ZDB-GENE-070606-2) | Rho protein signal transduction, apoptotic process, kidney development, posterior lateral line development, posterior lateral line neuromast deposition |
 

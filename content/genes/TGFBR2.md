@@ -9,7 +9,6 @@ aliases:
 - transforming growth factor-beta type II receptor
 cgnc_id: '8694'
 external_ids:
-  '25': stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0032147
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005623
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -19,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205428
 forward_primer: GGAAAAGAAGGAT GATGGGGG
-gene_id: '391810'
+gene_id: '396399'
 gene_type: protein-coding
 images:
 - caption: TGFBR2 expression
@@ -197,13 +196,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R204.TGFBR2.S25.01c.jpg
 name: transforming growth factor beta receptor 2
-ncbi_id: '391810'
+ncbi_id: '396399'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163513
   entrez: '7048'
   mod: MIM:190182
@@ -214,24 +208,26 @@ orthologs:
   mod: MGI:98729
   phenotypes: All phenotypic alleles (10):Targeted, knock-out(4) Targeted, other(6)
   species: Mouse
-- ensembl: ''
-  entrez: 100487430,373815
-  mod: '876697'
+- ensembl: ENSXETG00000014480
+  entrez: '100488582'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000034541
   entrez: '30739'
   mod: ZFIN:ZDB-GENE-980526-375
-  phenotypes: ZDB-GENE-980526-375
+  phenotypes: activin receptor signaling pathway, apoptotic process, cell differentiation,
+    cell surface receptor protein serine/threonine kinase signaling pathway, cellular
+    response to growth factor stimulus
   species: Zebrafish
 reverse_primer: AATTAA CCCTCACTAAAGGTCTCCA ACACCGTTACAGCGAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=391810
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396399
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/391810
+  url: https://www.ncbi.nlm.nih.gov/gene/396399
 species: Gallus gallus
 symbol: TGFBR2
 template_length: '1026'
@@ -257,9 +253,8 @@ title: TGFBR2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163513](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163513) | [7048](https://www.ncbi.nlm.nih.gov/gene/7048) | [MIM:190182](https://omim.org/entry/190182) | MIM:190182 |
 | Mouse | [ENSMUSG00000032440](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032440) | [21813](https://www.ncbi.nlm.nih.gov/gene/21813) | [MGI:98729](http://www.informatics.jax.org/marker/MGI:98729) | All phenotypic alleles (10):Targeted, knock-out(4) Targeted, other(6) |
-| Xenopus |  | [100487430](https://www.ncbi.nlm.nih.gov/gene/100487430), [373815](https://www.ncbi.nlm.nih.gov/gene/373815) | [876697](http://www.xenbase.org/gene/showgene.do?method=display&geneId=876697) |  |
-| Zebrafish | [ENSDARG00000034541](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034541) | [30739](https://www.ncbi.nlm.nih.gov/gene/30739) | [ZFIN:ZDB-GENE-980526-375](https://zfin.org/ZDB-GENE-980526-375) | ZDB-GENE-980526-375 |
+| Xenopus | [ENSXETG00000014480](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014480) | [100488582](https://www.ncbi.nlm.nih.gov/gene/100488582) |  |  |
+| Zebrafish | [ENSDARG00000034541](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034541) | [30739](https://www.ncbi.nlm.nih.gov/gene/30739) | [ZFIN:ZDB-GENE-980526-375](https://zfin.org/ZDB-GENE-980526-375) | activin receptor signaling pathway, apoptotic process, cell differentiation, cell surface receptor protein serine/threonine kinase signaling pathway, cellular response to growth factor stimulus |
 

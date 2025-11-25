@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395921
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205050
-gene_id: '450466'
+gene_id: '395921'
 gene_type: protein-coding
 images:
 - caption: CNP expression
@@ -45,37 +45,27 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gotoh.Fig2.CNP.I.E20-ST44.jpg
 name: 2',3'-cyclic nucleotide 3' phosphodiesterase
-ncbi_id: '450466'
+ncbi_id: '395921'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000173786
+  entrez: '1267'
+  mod: MIM:123830
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000006782
+  entrez: '12799'
+  mod: MGI:88437
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000036371
+  entrez: '100492391'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450466
+  url: https://www.ncbi.nlm.nih.gov/gene/395921
 species: Gallus gallus
 symbol: CNP
 title: CNP
@@ -101,9 +91,7 @@ title: CNP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000173786](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000173786) | [1267](https://www.ncbi.nlm.nih.gov/gene/1267) | [MIM:123830](https://omim.org/entry/123830) |  |
+| Mouse | [ENSMUSG00000006782](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000006782) | [12799](https://www.ncbi.nlm.nih.gov/gene/12799) | [MGI:88437](http://www.informatics.jax.org/marker/MGI:88437) |  |
+| Xenopus | [ENSXETG00000036371](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000036371) | [100492391](https://www.ncbi.nlm.nih.gov/gene/100492391) |  |  |
 

@@ -4,7 +4,6 @@ aliases:
 - intersectin 1 (SH3 domain protein)
 cgnc_id: '11953'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0023388
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/35378
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000016006
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418506
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416715
 forward_primer: TGTGGTGGTTTGGAGAAGTTCAAG
-gene_id: '453294'
+gene_id: '418506'
 gene_type: protein-coding
 images:
 - caption: ITSN1 expression
@@ -115,13 +114,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R389.ITSN1.S25.001.jpg
 name: intersectin 1
-ncbi_id: '453294'
+ncbi_id: '418506'
 orthologs:
-- ensembl: ''
-  entrez: '35378'
-  mod: FBgn0023388
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000205726
   entrez: '6453'
   mod: MIM:602442
@@ -132,24 +126,25 @@ orthologs:
   mod: MGI:1338069
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Gene trapped(3)
   species: Mouse
-- ensembl: ''
-  entrez: 733480,394300
-  mod: '5904193'
+- ensembl: ENSXETG00000014182
+  entrez: '733480'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000000086
   entrez: '368504'
   mod: ZFIN:ZDB-GENE-030616-226
-  phenotypes: ZDB-GENE-030616-226
+  phenotypes: clathrin-dependent synaptic vesicle endocytosis, endocytosis, endosomal
+    transport, intracellular signal transduction, regulation of cell communication
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGCCTTTTTCGTTCAGTAGGTGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453294
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418506
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453294
+  url: https://www.ncbi.nlm.nih.gov/gene/418506
 species: Gallus gallus
 symbol: ITSN1
 template_length: '874'
@@ -173,9 +168,8 @@ title: ITSN1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35378](https://www.ncbi.nlm.nih.gov/gene/35378) | FBgn0023388 |  |
 | Human | [ENSG00000205726](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000205726) | [6453](https://www.ncbi.nlm.nih.gov/gene/6453) | [MIM:602442](https://omim.org/entry/602442) |  |
 | Mouse | [ENSMUSG00000022957](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022957) | [16443](https://www.ncbi.nlm.nih.gov/gene/16443) | [MGI:1338069](http://www.informatics.jax.org/marker/MGI:1338069) | All phenotypic alleles (5):Targeted, knock-out(2) Gene trapped(3) |
-| Xenopus |  | [733480](https://www.ncbi.nlm.nih.gov/gene/733480), [394300](https://www.ncbi.nlm.nih.gov/gene/394300) | [5904193](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5904193) |  |
-| Zebrafish | [ENSDARG00000000086](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000000086) | [368504](https://www.ncbi.nlm.nih.gov/gene/368504) | [ZFIN:ZDB-GENE-030616-226](https://zfin.org/ZDB-GENE-030616-226) | ZDB-GENE-030616-226 |
+| Xenopus | [ENSXETG00000014182](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014182) | [733480](https://www.ncbi.nlm.nih.gov/gene/733480) |  |  |
+| Zebrafish | [ENSDARG00000000086](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000000086) | [368504](https://www.ncbi.nlm.nih.gov/gene/368504) | [ZFIN:ZDB-GENE-030616-226](https://zfin.org/ZDB-GENE-030616-226) | clathrin-dependent synaptic vesicle endocytosis, endocytosis, endosomal transport, intracellular signal transduction, regulation of cell communication |
 

@@ -7,7 +7,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100859821
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640569
 forward_primer: CAGCCCAACATCAACGCAAC
-gene_id: '474352'
+gene_id: '100859821'
 gene_type: protein-coding
 images:
 - caption: VSTM5 expression
@@ -185,41 +185,31 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R603.VSTM5.S27.001.jpg
 name: V-set and transmembrane domain containing 5
-ncbi_id: '474352'
+ncbi_id: '100859821'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000214376
+  entrez: '387804'
+  mod: MIM:621118
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000031937
+  entrez: '69137'
+  mod: MGI:1916387
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000017117
+  entrez: '100492235'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCCAGTCATTTCAGACAGCATCATC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=474352
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100859821
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/474352
+  url: https://www.ncbi.nlm.nih.gov/gene/100859821
 species: Gallus gallus
 symbol: VSTM5
 template_length: '659'
@@ -242,9 +232,7 @@ title: VSTM5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000214376](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000214376) | [387804](https://www.ncbi.nlm.nih.gov/gene/387804) | [MIM:621118](https://omim.org/entry/621118) |  |
+| Mouse | [ENSMUSG00000031937](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031937) | [69137](https://www.ncbi.nlm.nih.gov/gene/69137) | [MGI:1916387](http://www.informatics.jax.org/marker/MGI:1916387) |  |
+| Xenopus | [ENSXETG00000017117](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017117) | [100492235](https://www.ncbi.nlm.nih.gov/gene/100492235) |  |  |
 

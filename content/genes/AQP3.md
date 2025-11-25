@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426894
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424500
 forward_primer: CCATTGCGGGAGTGATAGTCTACC
-gene_id: '462890'
+gene_id: '426894'
 gene_type: protein-coding
 images:
 - caption: AQP3 expression
@@ -108,13 +108,8 @@ images:
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R571.AQP3.S17V.001.jpg
 name: aquaporin 3 (Gill blood group)
-ncbi_id: '462890'
+ncbi_id: '426894'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000165272
   entrez: '360'
   mod: MIM:600170
@@ -126,24 +121,24 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Chemically induced(1) Targeted, knock-out(2)
     Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 549599,398098,494589
-  mod: '488013'
+- ensembl: ENSXETG00000002151
+  entrez: '549599'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000003808,ENSDARG00000069518
-  entrez: 406777,568049
-  mod: ZFIN:ZDB-GENE-040426-2826,ZFIN:ZDB-GENE-040724-66
-  phenotypes: ZDB-GENE-040426-2826,ZDB-GENE-040724-66
+- ensembl: ENSDARG00000069518
+  entrez: '568049'
+  mod: ZFIN:ZDB-GENE-040724-66
+  phenotypes: glycerol transmembrane transport, transmembrane transport, water transport
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAAGAAAGGCTGCTACAGGGAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462890
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426894
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462890
+  url: https://www.ncbi.nlm.nih.gov/gene/426894
 species: Gallus gallus
 symbol: AQP3
 template_length: '956'
@@ -166,9 +161,8 @@ title: AQP3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000165272](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165272) | [360](https://www.ncbi.nlm.nih.gov/gene/360) | [MIM:600170](https://omim.org/entry/600170) | MIM:607457 |
 | Mouse | [ENSMUSG00000028435](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028435) | [11828](https://www.ncbi.nlm.nih.gov/gene/11828) | [MGI:1333777](http://www.informatics.jax.org/marker/MGI:1333777) | All phenotypic alleles (5):Chemically induced(1) Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [549599](https://www.ncbi.nlm.nih.gov/gene/549599), [398098](https://www.ncbi.nlm.nih.gov/gene/398098), [494589](https://www.ncbi.nlm.nih.gov/gene/494589) | [488013](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488013) |  |
-| Zebrafish | [ENSDARG00000003808](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003808), [ENSDARG00000069518](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069518) | [406777](https://www.ncbi.nlm.nih.gov/gene/406777), [568049](https://www.ncbi.nlm.nih.gov/gene/568049) | [ZFIN:ZDB-GENE-040426-2826](https://zfin.org/ZDB-GENE-040426-2826), [ZFIN:ZDB-GENE-040724-66](https://zfin.org/ZDB-GENE-040724-66) | ZDB-GENE-040426-2826,ZDB-GENE-040724-66 |
+| Xenopus | [ENSXETG00000002151](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002151) | [549599](https://www.ncbi.nlm.nih.gov/gene/549599) |  |  |
+| Zebrafish | [ENSDARG00000069518](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069518) | [568049](https://www.ncbi.nlm.nih.gov/gene/568049) | [ZFIN:ZDB-GENE-040724-66](https://zfin.org/ZDB-GENE-040724-66) | glycerol transmembrane transport, transmembrane transport, water transport |
 

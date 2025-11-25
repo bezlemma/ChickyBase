@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424107
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421961
 forward_primer: TCAGCAGCATTGGGTCTCATTC
-gene_id: '460523'
+gene_id: '424107'
 gene_type: protein-coding
 images:
 - caption: RAPH1 expression
@@ -157,13 +157,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R526.RAPH1.26AAAAA.001.jpg
 name: Ras association (RalGDS/AF-6) and pleckstrin homology domains 1
-ncbi_id: '460523'
+ncbi_id: '424107'
 orthologs:
-- ensembl: ''
-  entrez: '33003'
-  mod: FBgn0261811
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000173166
   entrez: '65059'
   mod: MIM:609035
@@ -174,24 +169,19 @@ orthologs:
   mod: MGI:1924550
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100491727,779189
-  mod: '5933837'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000006301
-  entrez: '557435'
-  mod: ZFIN:ZDB-GENE-070912-156
-  phenotypes: ZDB-GENE-070912-156
+- ensembl: ENSDARG00000113884
+  entrez: '560319'
+  mod: ZFIN:ZDB-GENE-090311-54
+  phenotypes: signal transduction
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCCAGCAGCACCTCTTTATTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460523
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424107
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460523
+  url: https://www.ncbi.nlm.nih.gov/gene/424107
 species: Gallus gallus
 symbol: RAPH1
 template_length: '871'
@@ -215,9 +205,7 @@ title: RAPH1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33003](https://www.ncbi.nlm.nih.gov/gene/33003) | FBgn0261811 |  |
 | Human | [ENSG00000173166](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000173166) | [65059](https://www.ncbi.nlm.nih.gov/gene/65059) | [MIM:609035](https://omim.org/entry/609035) |  |
 | Mouse | [ENSMUSG00000026014](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026014) | [77300](https://www.ncbi.nlm.nih.gov/gene/77300) | [MGI:1924550](http://www.informatics.jax.org/marker/MGI:1924550) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100491727](https://www.ncbi.nlm.nih.gov/gene/100491727), [779189](https://www.ncbi.nlm.nih.gov/gene/779189) | [5933837](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5933837) |  |
-| Zebrafish | [ENSDARG00000006301](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006301) | [557435](https://www.ncbi.nlm.nih.gov/gene/557435) | [ZFIN:ZDB-GENE-070912-156](https://zfin.org/ZDB-GENE-070912-156) | ZDB-GENE-070912-156 |
+| Zebrafish | [ENSDARG00000113884](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000113884) | [560319](https://www.ncbi.nlm.nih.gov/gene/560319) | [ZFIN:ZDB-GENE-090311-54](https://zfin.org/ZDB-GENE-090311-54) | signal transduction |
 

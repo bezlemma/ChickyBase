@@ -4,7 +4,6 @@ aliases:
 - transcriptional regulator Id2
 cgnc_id: '12279'
 external_ids:
-  '25': stage 25stage 25stage 25
   Citation: https://pubmed.ncbi.nlm.nih.gov/25063452/
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (NM_205002).
@@ -16,7 +15,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205002
   X-XIV: stage XIII
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/ID2
-gene_id: '450029'
+gene_id: '395852'
 gene_type: protein-coding
 images:
 - caption: ID2 expression
@@ -607,13 +606,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ID2.Trevers.2023-Fig7-6-L.jpg
 name: inhibitor of DNA binding 2, HLH protein
-ncbi_id: '450029'
+ncbi_id: '395852'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000115738
   entrez: '3398'
   mod: MIM:600386
@@ -624,23 +618,25 @@ orthologs:
   mod: MGI:96397
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 394480,398111
-  mod: '481296'
+- ensembl: ENSXETG00000040416
+  entrez: '394480'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000055283,ENSDARG00000029544
-  entrez: 266599,321364
-  mod: ZFIN:ZDB-GENE-020910-1,ZFIN:ZDB-GENE-030131-15
-  phenotypes: ZDB-GENE-020910-1,ZDB-GENE-030131-15
+- ensembl: ENSDARG00000055283
+  entrez: '266599'
+  mod: ZFIN:ZDB-GENE-020910-1
+  phenotypes: BMP signaling pathway, liver development, mitotic intra-S DNA damage
+    checkpoint signaling, negative regulation of DNA-templated transcription, negative
+    regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450029
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395852
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450029
+  url: https://www.ncbi.nlm.nih.gov/gene/395852
 species: Gallus gallus
 symbol: ID2
 title: ID2
@@ -667,9 +663,8 @@ title: ID2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000115738](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000115738) | [3398](https://www.ncbi.nlm.nih.gov/gene/3398) | [MIM:600386](https://omim.org/entry/600386) |  |
 | Mouse | [ENSMUSG00000020644](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020644) | [15902](https://www.ncbi.nlm.nih.gov/gene/15902) | [MGI:96397](http://www.informatics.jax.org/marker/MGI:96397) | All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2) |
-| Xenopus |  | [394480](https://www.ncbi.nlm.nih.gov/gene/394480), [398111](https://www.ncbi.nlm.nih.gov/gene/398111) | [481296](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481296) |  |
-| Zebrafish | [ENSDARG00000055283](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055283), [ENSDARG00000029544](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029544) | [266599](https://www.ncbi.nlm.nih.gov/gene/266599), [321364](https://www.ncbi.nlm.nih.gov/gene/321364) | [ZFIN:ZDB-GENE-020910-1](https://zfin.org/ZDB-GENE-020910-1), [ZFIN:ZDB-GENE-030131-15](https://zfin.org/ZDB-GENE-030131-15) | ZDB-GENE-020910-1,ZDB-GENE-030131-15 |
+| Xenopus | [ENSXETG00000040416](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000040416) | [394480](https://www.ncbi.nlm.nih.gov/gene/394480) |  |  |
+| Zebrafish | [ENSDARG00000055283](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055283) | [266599](https://www.ncbi.nlm.nih.gov/gene/266599) | [ZFIN:ZDB-GENE-020910-1](https://zfin.org/ZDB-GENE-020910-1) | BMP signaling pathway, liver development, mitotic intra-S DNA damage checkpoint signaling, negative regulation of DNA-templated transcription, negative regulation of transcription by RNA polymerase II |
 

@@ -4,8 +4,6 @@ aliases:
 - Spi-1/PU.1 transcription factor
 cgnc_id: '6161'
 external_ids:
-  '19': stage 19stage 19stage 19stage 19stage 19stage 19stage 19stage 19stage 19stage
-    19stage 19
   Citation: http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=Isolation+characterization+homologue+factor+Coll+Kherrouche+Flourens
   Comments: 'Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (acc # NM_205023).'
@@ -15,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395879
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205023
-gene_id: '450759'
+gene_id: '395879'
 gene_type: protein-coding
 images:
 - caption: SPI1 expression
@@ -145,40 +143,36 @@ images:
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kherrouche.1998.Spi1.Fig5-ALLIMAGES.jpg
 name: Spi-1 proto-oncogene
-ncbi_id: '450759'
+ncbi_id: '395879'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000066336
   entrez: '6688'
   mod: MIM:165170
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000002111
   entrez: '20375'
   mod: MGI:98282
   phenotypes: All phenotypic alleles (18):Targeted, knock-out(8) Targeted, other(10)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000041528
   entrez: '100125218'
-  mod: '1018246'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000000767
-  entrez: 30117,751704
-  mod: ZFIN:ZDB-GENE-980526-164,ZFIN:ZDB-GENE-060825-351
-  phenotypes: ZDB-GENE-980526-164,ZDB-GENE-060825-351
+  entrez: '30117'
+  mod: ZFIN:ZDB-GENE-980526-164
+  phenotypes: cell differentiation, erythrocyte development, macrophage activation
+    involved in immune response, macrophage differentiation, myeloid cell differentiation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450759
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395879
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450759
+  url: https://www.ncbi.nlm.nih.gov/gene/395879
 species: Gallus gallus
 symbol: SPI1
 title: SPI1
@@ -204,9 +198,8 @@ title: SPI1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000066336](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000066336) | [6688](https://www.ncbi.nlm.nih.gov/gene/6688) | [MIM:165170](https://omim.org/entry/165170) |  |
-| Mouse |  | [20375](https://www.ncbi.nlm.nih.gov/gene/20375) | [MGI:98282](http://www.informatics.jax.org/marker/MGI:98282) | All phenotypic alleles (18):Targeted, knock-out(8) Targeted, other(10) |
-| Xenopus |  | [100125218](https://www.ncbi.nlm.nih.gov/gene/100125218) | [1018246](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1018246) |  |
-| Zebrafish | [ENSDARG00000000767](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000000767) | [30117](https://www.ncbi.nlm.nih.gov/gene/30117), [751704](https://www.ncbi.nlm.nih.gov/gene/751704) | [ZFIN:ZDB-GENE-980526-164](https://zfin.org/ZDB-GENE-980526-164), [ZFIN:ZDB-GENE-060825-351](https://zfin.org/ZDB-GENE-060825-351) | ZDB-GENE-980526-164,ZDB-GENE-060825-351 |
+| Mouse | [ENSMUSG00000002111](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002111) | [20375](https://www.ncbi.nlm.nih.gov/gene/20375) | [MGI:98282](http://www.informatics.jax.org/marker/MGI:98282) | All phenotypic alleles (18):Targeted, knock-out(8) Targeted, other(10) |
+| Xenopus | [ENSXETG00000041528](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041528) | [100125218](https://www.ncbi.nlm.nih.gov/gene/100125218) |  |  |
+| Zebrafish | [ENSDARG00000000767](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000000767) | [30117](https://www.ncbi.nlm.nih.gov/gene/30117) | [ZFIN:ZDB-GENE-980526-164](https://zfin.org/ZDB-GENE-980526-164) | cell differentiation, erythrocyte development, macrophage activation involved in immune response, macrophage differentiation, myeloid cell differentiation |
 

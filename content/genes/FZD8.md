@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374059
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418566
-gene_id: '454454'
+gene_id: '374059'
 gene_type: protein-coding
 images:
 - caption: FZD8 expression
@@ -160,7 +160,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZD8.Singh.2016.Fig5.jpg
 name: frizzled class receptor 8
-ncbi_id: '454454'
+ncbi_id: '374059'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -190,7 +190,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454454
+  url: https://www.ncbi.nlm.nih.gov/gene/374059
 species: Gallus gallus
 symbol: FZD8
 title: FZD8

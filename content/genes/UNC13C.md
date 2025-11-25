@@ -4,14 +4,13 @@ aliases:
 - 'LOW QUALITY PROTEIN: protein unc-13 homolog C'
 cgnc_id: '3345'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Comments: No specific expression detected for stages 3-12.
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000004527
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415413
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_413798
 forward_primer: TTGCTAAGTGTCCATCTGCTCGC
-gene_id: '461067'
+gene_id: '415413'
 gene_type: protein-coding
 images:
 - caption: UNC13C expression
@@ -107,14 +106,9 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R305.UNC13C.S25.004.jpg
 name: unc-13 homolog C
-ncbi_id: '461067'
+ncbi_id: '415413'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000137766
   entrez: '440279'
   mod: MIM:614568
   phenotypes: ''
@@ -124,24 +118,19 @@ orthologs:
   mod: MGI:2149021
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: '100489443'
-  mod: '6044556'
+- ensembl: ENSXETG00000006341
+  entrez: '100494605'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '100034491'
-  mod: ZFIN:ZDB-GENE-060503-478
-  phenotypes: ZDB-GENE-060503-478
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCTCTGAACGGCTAAGTTTTGGTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461067
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415413
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461067
+  url: https://www.ncbi.nlm.nih.gov/gene/415413
 species: Gallus gallus
 symbol: UNC13C
 template_length: '1442'
@@ -165,9 +154,7 @@ title: UNC13C
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [440279](https://www.ncbi.nlm.nih.gov/gene/440279) | [MIM:614568](https://omim.org/entry/614568) |  |
+| Human | [ENSG00000137766](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137766) | [440279](https://www.ncbi.nlm.nih.gov/gene/440279) | [MIM:614568](https://omim.org/entry/614568) |  |
 | Mouse | [ENSMUSG00000062151](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000062151) | [208898](https://www.ncbi.nlm.nih.gov/gene/208898) | [MGI:2149021](http://www.informatics.jax.org/marker/MGI:2149021) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100489443](https://www.ncbi.nlm.nih.gov/gene/100489443) | [6044556](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6044556) |  |
-| Zebrafish |  | [100034491](https://www.ncbi.nlm.nih.gov/gene/100034491) | [ZFIN:ZDB-GENE-060503-478](https://zfin.org/ZDB-GENE-060503-478) | ZDB-GENE-060503-478 |
+| Xenopus | [ENSXETG00000006341](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006341) | [100494605](https://www.ncbi.nlm.nih.gov/gene/100494605) |  |  |
 

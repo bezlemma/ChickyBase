@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:378800
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204373
-gene_id: '453067'
+gene_id: '378800'
 gene_type: protein-coding
 images:
 - caption: SOSTDC1 expression
@@ -49,13 +49,8 @@ images:
   stage: stage 39
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sos.c.jpg
 name: sclerostin domain containing 1
-ncbi_id: '453067'
+ncbi_id: '378800'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000171243
   entrez: '25928'
   mod: MIM:609675
@@ -67,20 +62,21 @@ orthologs:
   phenotypes: All phenotypic alleles (8):Spontaneous(1) Targeted, knock-out(3) Targeted,
     other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100101775,386733,398708
-  mod: '478255'
+- ensembl: ENSXETG00000022798
+  entrez: '100101775'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000068892,ENSDARG00000056021
-  entrez: 100332581,550261,564783
-  mod: ZFIN:ZDB-GENE-050417-64,ZFIN:ZDB-GENE-060503-653
-  phenotypes: ZDB-GENE-050417-64,ZDB-GENE-060503-653
+- ensembl: ENSDARG00000068892
+  entrez: '550261'
+  mod: ZFIN:ZDB-GENE-050417-64
+  phenotypes: Wnt signaling pathway, negative regulation of BMP signaling pathway,
+    negative regulation of Wnt signaling pathway
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453067
+  url: https://www.ncbi.nlm.nih.gov/gene/378800
 species: Gallus gallus
 symbol: SOSTDC1
 title: SOSTDC1
@@ -108,9 +104,8 @@ title: SOSTDC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000171243](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171243) | [25928](https://www.ncbi.nlm.nih.gov/gene/25928) | [MIM:609675](https://omim.org/entry/609675) |  |
 | Mouse | [ENSMUSG00000036169](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036169) | [66042](https://www.ncbi.nlm.nih.gov/gene/66042) | [MGI:1913292](http://www.informatics.jax.org/marker/MGI:1913292) | All phenotypic alleles (8):Spontaneous(1) Targeted, knock-out(3) Targeted, other(4) |
-| Xenopus |  | [100101775](https://www.ncbi.nlm.nih.gov/gene/100101775), [386733](https://www.ncbi.nlm.nih.gov/gene/386733), [398708](https://www.ncbi.nlm.nih.gov/gene/398708) | [478255](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478255) |  |
-| Zebrafish | [ENSDARG00000068892](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068892), [ENSDARG00000056021](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056021) | [100332581](https://www.ncbi.nlm.nih.gov/gene/100332581), [550261](https://www.ncbi.nlm.nih.gov/gene/550261), [564783](https://www.ncbi.nlm.nih.gov/gene/564783) | [ZFIN:ZDB-GENE-050417-64](https://zfin.org/ZDB-GENE-050417-64), [ZFIN:ZDB-GENE-060503-653](https://zfin.org/ZDB-GENE-060503-653) | ZDB-GENE-050417-64,ZDB-GENE-060503-653 |
+| Xenopus | [ENSXETG00000022798](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022798) | [100101775](https://www.ncbi.nlm.nih.gov/gene/100101775) |  |  |
+| Zebrafish | [ENSDARG00000068892](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068892) | [550261](https://www.ncbi.nlm.nih.gov/gene/550261) | [ZFIN:ZDB-GENE-050417-64](https://zfin.org/ZDB-GENE-050417-64) | Wnt signaling pathway, negative regulation of BMP signaling pathway, negative regulation of Wnt signaling pathway |
 

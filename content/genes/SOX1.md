@@ -4,7 +4,6 @@ aliases:
 - SRY (sex determining region Y)-box 1
 cgnc_id: '20064'
 external_ids:
-  '19': stage 19stage 19stage 19
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0029123
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006355
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
@@ -20,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374240
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204333
-gene_id: '456457'
+gene_id: '374240'
 gene_type: protein-coding
 images:
 - caption: SOX1 expression
@@ -136,7 +135,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Screenshot 2024-01-21
     at 12.52.49 PM.png
 name: SRY-box 1
-ncbi_id: '456457'
+ncbi_id: '374240'
 orthologs:
 - ensembl: ''
   entrez: '44275'
@@ -161,12 +160,12 @@ orthologs:
 - ensembl: ENSDARG00000069866,ENSDARG00000008131
   entrez: 436756,562710
   mod: ZFIN:ZDB-GENE-040718-186,ZFIN:ZDB-GENE-060322-5
-  phenotypes: ZDB-GENE-040718-186,ZDB-GENE-060322-5
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456457
+  url: https://www.ncbi.nlm.nih.gov/gene/374240
 species: Gallus gallus
 symbol: SOX1
 title: SOX1
@@ -201,5 +200,5 @@ title: SOX1
 | Human |  | [6656](https://www.ncbi.nlm.nih.gov/gene/6656) | [MIM:602148](https://omim.org/entry/602148) |  |
 | Mouse | [ENSMUSG00000096014](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000096014) | [20664](https://www.ncbi.nlm.nih.gov/gene/20664) | [MGI:98357](http://www.informatics.jax.org/marker/MGI:98357) | All phenotypic alleles (4):Targeted, other(4) |
 | Xenopus |  | [779569](https://www.ncbi.nlm.nih.gov/gene/779569), [734174](https://www.ncbi.nlm.nih.gov/gene/734174) | [1018268](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1018268) |  |
-| Zebrafish | [ENSDARG00000069866](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069866), [ENSDARG00000008131](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008131) | [436756](https://www.ncbi.nlm.nih.gov/gene/436756), [562710](https://www.ncbi.nlm.nih.gov/gene/562710) | [ZFIN:ZDB-GENE-040718-186](https://zfin.org/ZDB-GENE-040718-186), [ZFIN:ZDB-GENE-060322-5](https://zfin.org/ZDB-GENE-060322-5) | ZDB-GENE-040718-186,ZDB-GENE-060322-5 |
+| Zebrafish | [ENSDARG00000069866](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069866), [ENSDARG00000008131](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008131) | [436756](https://www.ncbi.nlm.nih.gov/gene/436756), [562710](https://www.ncbi.nlm.nih.gov/gene/562710) | [ZFIN:ZDB-GENE-040718-186](https://zfin.org/ZDB-GENE-040718-186), [ZFIN:ZDB-GENE-060322-5](https://zfin.org/ZDB-GENE-060322-5) |  |
 

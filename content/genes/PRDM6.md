@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426800
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424413
 forward_primer: 5’-CGAGTTCTTGCAAGCCCAAC-3’
-gene_id: '468198'
+gene_id: '426800'
 gene_type: protein-coding
 images:
 - caption: PRDM6 expression
@@ -127,16 +127,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R648.PRDM6.S26AAA.001.jpg
 name: PR/SET domain 6
-ncbi_id: '468198'
+ncbi_id: '426800'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000061455
   entrez: '93166'
-  mod: ''
+  mod: MIM:616982
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000069378
@@ -144,24 +139,24 @@ orthologs:
   mod: MGI:2684938
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010261
   entrez: '100494529'
-  mod: '854906'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
-  entrez: '100169948'
+  entrez: '101886516'
   mod: ZFIN:ZDB-GENE-080618-1
-  phenotypes: ZDB-GENE-080618-1
+  phenotypes: regulation of gene expression
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGACCAGCTTCTATTACGGCCG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468198
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426800
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468198
+  url: https://www.ncbi.nlm.nih.gov/gene/426800
 species: Gallus gallus
 symbol: PRDM6
 template_length: '913'
@@ -184,9 +179,8 @@ title: PRDM6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000061455](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000061455) | [93166](https://www.ncbi.nlm.nih.gov/gene/93166) |  |  |
+| Human | [ENSG00000061455](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000061455) | [93166](https://www.ncbi.nlm.nih.gov/gene/93166) | [MIM:616982](https://omim.org/entry/616982) |  |
 | Mouse | [ENSMUSG00000069378](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000069378) | [225518](https://www.ncbi.nlm.nih.gov/gene/225518) | [MGI:2684938](http://www.informatics.jax.org/marker/MGI:2684938) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100494529](https://www.ncbi.nlm.nih.gov/gene/100494529) | [854906](http://www.xenbase.org/gene/showgene.do?method=display&geneId=854906) |  |
-| Zebrafish |  | [100169948](https://www.ncbi.nlm.nih.gov/gene/100169948) | [ZFIN:ZDB-GENE-080618-1](https://zfin.org/ZDB-GENE-080618-1) | ZDB-GENE-080618-1 |
+| Xenopus | [ENSXETG00000010261](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010261) | [100494529](https://www.ncbi.nlm.nih.gov/gene/100494529) |  |  |
+| Zebrafish |  | [101886516](https://www.ncbi.nlm.nih.gov/gene/101886516) | [ZFIN:ZDB-GENE-080618-1](https://zfin.org/ZDB-GENE-080618-1) | regulation of gene expression |
 

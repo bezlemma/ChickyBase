@@ -59,7 +59,7 @@ orthologs:
 - ensembl: ENSDARG00000019976
   entrez: '553513'
   mod: ZFIN:ZDB-GENE-050913-44
-  phenotypes: ZDB-GENE-050913-44
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -96,5 +96,5 @@ title: IDI1
 | Human | [ENSG00000067064](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000067064) | [3422](https://www.ncbi.nlm.nih.gov/gene/3422) | [MIM:604055](https://omim.org/entry/604055) |  |
 | Mouse | [ENSMUSG00000058258](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000058258) | [319554](https://www.ncbi.nlm.nih.gov/gene/319554) | [MGI:2442264](http://www.informatics.jax.org/marker/MGI:2442264) | All phenotypic alleles (2):Targeted, other(2) |
 | Xenopus |  | [496783](https://www.ncbi.nlm.nih.gov/gene/496783), [494671](https://www.ncbi.nlm.nih.gov/gene/494671) | [492550](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492550) |  |
-| Zebrafish | [ENSDARG00000019976](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019976) | [553513](https://www.ncbi.nlm.nih.gov/gene/553513) | [ZFIN:ZDB-GENE-050913-44](https://zfin.org/ZDB-GENE-050913-44) | ZDB-GENE-050913-44 |
+| Zebrafish | [ENSDARG00000019976](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019976) | [553513](https://www.ncbi.nlm.nih.gov/gene/553513) | [ZFIN:ZDB-GENE-050913-44](https://zfin.org/ZDB-GENE-050913-44) |  |
 

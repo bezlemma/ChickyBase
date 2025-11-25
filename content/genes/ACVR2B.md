@@ -5,8 +5,6 @@ aliases:
 - activin receptor type 2B
 cgnc_id: '4620'
 external_ids:
-  '13': stage 13stage 13
-  '4': stage 4stage 4stage 4stage 4stage 4
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=campmany+marti+smad3+specification
   Comments: As insufficient information is provided in publication to verify exact
@@ -19,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204317
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATTGAAGAAAGGCTGCTGGTTAGATG
-gene_id: '456530'
+gene_id: '374213'
 gene_type: protein-coding
 images:
 - caption: ACVR2B expression
@@ -315,13 +313,8 @@ images:
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GarciaCampany.2007.f1.actr11.png
 name: activin A receptor type 2B
-ncbi_id: '456530'
+ncbi_id: '374213'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000114739
   entrez: '93'
   mod: MIM:602730
@@ -332,24 +325,26 @@ orthologs:
   mod: MGI:87912
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(4)
   species: Mouse
-- ensembl: ''
-  entrez: 448641,399277
-  mod: '484247'
+- ensembl: ENSXETG00000020999
+  entrez: '448641'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000044422
   entrez: '30457'
   mod: ZFIN:ZDB-GENE-980526-549
-  phenotypes: ZDB-GENE-980526-549
+  phenotypes: activin receptor signaling pathway, cartilage development, cell communication,
+    cell surface receptor protein serine/threonine kinase signaling pathway, cellular
+    response to growth factor stimulus
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCGTCTCGTTGGAAGTTGATTGCTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456530
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374213
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456530
+  url: https://www.ncbi.nlm.nih.gov/gene/374213
 species: Gallus gallus
 symbol: ACVR2B
 template_length: '906'
@@ -378,9 +373,8 @@ title: ACVR2B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000114739](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000114739) | [93](https://www.ncbi.nlm.nih.gov/gene/93) | [MIM:602730](https://omim.org/entry/602730) | MIM:613751 |
 | Mouse | [ENSMUSG00000061393](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061393) | [11481](https://www.ncbi.nlm.nih.gov/gene/11481) | [MGI:87912](http://www.informatics.jax.org/marker/MGI:87912) | All phenotypic alleles (4):Targeted, knock-out(4) |
-| Xenopus |  | [448641](https://www.ncbi.nlm.nih.gov/gene/448641), [399277](https://www.ncbi.nlm.nih.gov/gene/399277) | [484247](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484247) |  |
-| Zebrafish |  | [30457](https://www.ncbi.nlm.nih.gov/gene/30457) | [ZFIN:ZDB-GENE-980526-549](https://zfin.org/ZDB-GENE-980526-549) | ZDB-GENE-980526-549 |
+| Xenopus | [ENSXETG00000020999](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020999) | [448641](https://www.ncbi.nlm.nih.gov/gene/448641) |  |  |
+| Zebrafish | [ENSDARG00000044422](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044422) | [30457](https://www.ncbi.nlm.nih.gov/gene/30457) | [ZFIN:ZDB-GENE-980526-549](https://zfin.org/ZDB-GENE-980526-549) | activin receptor signaling pathway, cartilage development, cell communication, cell surface receptor protein serine/threonine kinase signaling pathway, cellular response to growth factor stimulus |
 

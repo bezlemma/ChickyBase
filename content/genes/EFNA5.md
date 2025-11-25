@@ -5,7 +5,6 @@ aliases:
 - LERK-7
 cgnc_id: '49648'
 external_ids:
-  '13': stage 13stage 13stage 13
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007420
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0031362
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=1998+Araujo+EphA7+limb
@@ -19,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0045499
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205184
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAACAGCACCAACCCCAGATTC
-gene_id: '458722'
+gene_id: '396100'
 gene_type: protein-coding
 images:
 - caption: EFNA5 expression
@@ -527,41 +526,38 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EFNA5 ChEST290o16_HH
     14+ x25 1307.jpg
 name: ephrin A5
-ncbi_id: '458722'
+ncbi_id: '396100'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000184349
   entrez: '1946'
   mod: MIM:601535
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000048915
   entrez: '13640'
   mod: MGI:107444
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000014869
   entrez: '549176'
-  mod: '488595'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000089790
-  entrez: 30223,64256
-  mod: ZFIN:ZDB-GENE-980526-186,ZFIN:ZDB-GENE-001128-1
-  phenotypes: ZDB-GENE-980526-186,ZDB-GENE-001128-1
+- ensembl: ENSDARG00000098625
+  entrez: '30223'
+  mod: ZFIN:ZDB-GENE-980526-186
+  phenotypes: axon guidance, ephrin receptor signaling pathway, mesoderm migration
+    involved in gastrulation, regulation of actin cytoskeleton organization, regulation
+    of cell-cell adhesion
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCAAAAGCATTGCCAGGAGGAAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458722
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396100
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458722
+  url: https://www.ncbi.nlm.nih.gov/gene/396100
 species: Gallus gallus
 symbol: EFNA5
 template_length: '570'
@@ -591,9 +587,8 @@ title: EFNA5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000184349](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000184349) | [1946](https://www.ncbi.nlm.nih.gov/gene/1946) | [MIM:601535](https://omim.org/entry/601535) |  |
-| Mouse |  | [13640](https://www.ncbi.nlm.nih.gov/gene/13640) | [MGI:107444](http://www.informatics.jax.org/marker/MGI:107444) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [549176](https://www.ncbi.nlm.nih.gov/gene/549176) | [488595](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488595) |  |
-| Zebrafish | [ENSDARG00000089790](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089790) | [30223](https://www.ncbi.nlm.nih.gov/gene/30223), [64256](https://www.ncbi.nlm.nih.gov/gene/64256) | [ZFIN:ZDB-GENE-980526-186](https://zfin.org/ZDB-GENE-980526-186), [ZFIN:ZDB-GENE-001128-1](https://zfin.org/ZDB-GENE-001128-1) | ZDB-GENE-980526-186,ZDB-GENE-001128-1 |
+| Mouse | [ENSMUSG00000048915](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048915) | [13640](https://www.ncbi.nlm.nih.gov/gene/13640) | [MGI:107444](http://www.informatics.jax.org/marker/MGI:107444) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
+| Xenopus | [ENSXETG00000014869](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014869) | [549176](https://www.ncbi.nlm.nih.gov/gene/549176) |  |  |
+| Zebrafish | [ENSDARG00000098625](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098625) | [30223](https://www.ncbi.nlm.nih.gov/gene/30223) | [ZFIN:ZDB-GENE-980526-186](https://zfin.org/ZDB-GENE-980526-186) | axon guidance, ephrin receptor signaling pathway, mesoderm migration involved in gastrulation, regulation of actin cytoskeleton organization, regulation of cell-cell adhesion |
 

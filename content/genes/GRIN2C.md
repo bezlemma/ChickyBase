@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:431090
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642367
-gene_id: '464504'
+gene_id: '431090'
 gene_type: protein-coding
 images:
 - caption: GRIN2C expression
@@ -45,37 +45,34 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tang.2007.f6.nr2c.png
 name: glutamate ionotropic receptor NMDA type subunit 2C
-ncbi_id: '464504'
+ncbi_id: '431090'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000161509
+  entrez: '2905'
+  mod: MIM:138254
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000020734
+  entrez: '14813'
+  mod: MGI:95822
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000006844
+  entrez: '100496638'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000077560
+  entrez: '100333648'
+  mod: ZFIN:ZDB-GENE-100308-2
+  phenotypes: excitatory postsynaptic potential, long-term synaptic potentiation,
+    monoatomic cation transmembrane transport, monoatomic ion transmembrane transport,
+    monoatomic ion transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/464504
+  url: https://www.ncbi.nlm.nih.gov/gene/431090
 species: Gallus gallus
 symbol: GRIN2C
 title: GRIN2C
@@ -101,9 +98,8 @@ title: GRIN2C
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000161509](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000161509) | [2905](https://www.ncbi.nlm.nih.gov/gene/2905) | [MIM:138254](https://omim.org/entry/138254) |  |
+| Mouse | [ENSMUSG00000020734](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020734) | [14813](https://www.ncbi.nlm.nih.gov/gene/14813) | [MGI:95822](http://www.informatics.jax.org/marker/MGI:95822) |  |
+| Xenopus | [ENSXETG00000006844](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006844) | [100496638](https://www.ncbi.nlm.nih.gov/gene/100496638) |  |  |
+| Zebrafish | [ENSDARG00000077560](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077560) | [100333648](https://www.ncbi.nlm.nih.gov/gene/100333648) | [ZFIN:ZDB-GENE-100308-2](https://zfin.org/ZDB-GENE-100308-2) | excitatory postsynaptic potential, long-term synaptic potentiation, monoatomic cation transmembrane transport, monoatomic ion transmembrane transport, monoatomic ion transport |
 

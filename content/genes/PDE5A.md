@@ -18,7 +18,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420631
-gene_id: '452155'
+gene_id: '422677'
 gene_type: protein-coding
 images:
 - caption: PDE5A expression
@@ -36,13 +36,8 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F1.pde5a.png
 name: phosphodiesterase 5A
-ncbi_id: '452155'
+ncbi_id: '422677'
 orthologs:
-- ensembl: ''
-  entrez: '35107'
-  mod: FBgn0085370
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138735
   entrez: '8654'
   mod: MIM:603310
@@ -53,20 +48,20 @@ orthologs:
   mod: MGI:2651499
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 780273,495103
-  mod: '479675'
+- ensembl: ENSXETG00000004046
+  entrez: '780273'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000051915
   entrez: '553270'
-  mod: ZFIN:ZDB-GENE-060824-4,ZFIN:ZDB-GENE-100414-2
-  phenotypes: ZDB-GENE-060824-4,ZDB-GENE-100414-2
+  mod: ZFIN:ZDB-GENE-060824-4
+  phenotypes: negative regulation of cAMP/PKA signal transduction, signal transduction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452155
+  url: https://www.ncbi.nlm.nih.gov/gene/422677
 species: Gallus gallus
 symbol: PDE5A
 title: PDE5A
@@ -94,9 +89,8 @@ title: PDE5A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35107](https://www.ncbi.nlm.nih.gov/gene/35107) | FBgn0085370 |  |
 | Human | [ENSG00000138735](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138735) | [8654](https://www.ncbi.nlm.nih.gov/gene/8654) | [MIM:603310](https://omim.org/entry/603310) |  |
 | Mouse | [ENSMUSG00000053965](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000053965) | [242202](https://www.ncbi.nlm.nih.gov/gene/242202) | [MGI:2651499](http://www.informatics.jax.org/marker/MGI:2651499) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [780273](https://www.ncbi.nlm.nih.gov/gene/780273), [495103](https://www.ncbi.nlm.nih.gov/gene/495103) | [479675](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479675) |  |
-| Zebrafish | [ENSDARG00000051915](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000051915) | [553270](https://www.ncbi.nlm.nih.gov/gene/553270) | [ZFIN:ZDB-GENE-060824-4](https://zfin.org/ZDB-GENE-060824-4), [ZFIN:ZDB-GENE-100414-2](https://zfin.org/ZDB-GENE-100414-2) | ZDB-GENE-060824-4,ZDB-GENE-100414-2 |
+| Xenopus | [ENSXETG00000004046](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004046) | [780273](https://www.ncbi.nlm.nih.gov/gene/780273) |  |  |
+| Zebrafish | [ENSDARG00000051915](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000051915) | [553270](https://www.ncbi.nlm.nih.gov/gene/553270) | [ZFIN:ZDB-GENE-060824-4](https://zfin.org/ZDB-GENE-060824-4) | negative regulation of cAMP/PKA signal transduction, signal transduction |
 

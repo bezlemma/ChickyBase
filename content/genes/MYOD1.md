@@ -5,8 +5,6 @@ aliases:
 - myogenic factor 1
 cgnc_id: '4667'
 external_ids:
-  '25': stage 25stage 25
-  '31': stage 31stage 31stage 31stage 31
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0071392
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: https://pubmed.ncbi.nlm.nih.gov/31225912/
@@ -20,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0070888
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204214
 forward_primer: GCCGCCGATGACTTCTATGACG
-gene_id: '454491'
+gene_id: '374048'
 gene_type: protein-coding
 images:
 - caption: MYOD1 expression
@@ -1403,13 +1401,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kahane.2013.Fig3_Allimages-2.jpg
 name: myogenic differentiation 1
-ncbi_id: '454491'
+ncbi_id: '374048'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000129152
   entrez: '4654'
   mod: MIM:159970
@@ -1421,23 +1414,25 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2)
   species: Mouse
 - ensembl: ''
-  entrez: 394569,379053,397758
-  mod: '1017497'
+  entrez: '394569'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000030110
   entrez: '30513'
   mod: ZFIN:ZDB-GENE-980526-561
-  phenotypes: ZDB-GENE-980526-561
+  phenotypes: cell differentiation, cellular response to estradiol stimulus, chordate
+    pharyngeal muscle development, extraocular skeletal muscle development, muscle
+    organ development
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTTTCTCCTCCGTATTCAAGAGCCAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454491
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374048
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454491
+  url: https://www.ncbi.nlm.nih.gov/gene/374048
 species: Gallus gallus
 symbol: MYOD1
 template_length: '1138'
@@ -1467,9 +1462,8 @@ title: MYOD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000129152](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000129152) | [4654](https://www.ncbi.nlm.nih.gov/gene/4654) | [MIM:159970](https://omim.org/entry/159970) |  |
 | Mouse | [ENSMUSG00000009471](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000009471) | [17927](https://www.ncbi.nlm.nih.gov/gene/17927) | [MGI:97275](http://www.informatics.jax.org/marker/MGI:97275) | All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2) |
-| Xenopus |  | [394569](https://www.ncbi.nlm.nih.gov/gene/394569), [379053](https://www.ncbi.nlm.nih.gov/gene/379053), [397758](https://www.ncbi.nlm.nih.gov/gene/397758) | [1017497](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1017497) |  |
-| Zebrafish | [ENSDARG00000030110](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030110) | [30513](https://www.ncbi.nlm.nih.gov/gene/30513) | [ZFIN:ZDB-GENE-980526-561](https://zfin.org/ZDB-GENE-980526-561) | ZDB-GENE-980526-561 |
+| Xenopus |  | [394569](https://www.ncbi.nlm.nih.gov/gene/394569) |  |  |
+| Zebrafish | [ENSDARG00000030110](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030110) | [30513](https://www.ncbi.nlm.nih.gov/gene/30513) | [ZFIN:ZDB-GENE-980526-561](https://zfin.org/ZDB-GENE-980526-561) | cell differentiation, cellular response to estradiol stimulus, chordate pharyngeal muscle development, extraocular skeletal muscle development, muscle organ development |
 

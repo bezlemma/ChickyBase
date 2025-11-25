@@ -22,7 +22,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205513
 forward_primer: GTCTTGGAATCCTGGCTAAGTGAC
-gene_id: '462984'
+gene_id: '396519'
 gene_type: protein-coding
 images:
 - caption: CALB1 expression
@@ -189,41 +189,36 @@ images:
   stage: stage 43
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CALBINDIN.Heller.1998.Fig.1.png
 name: calbindin 1
-ncbi_id: '462984'
+ncbi_id: '396519'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000104327
   entrez: '793'
   mod: MIM:114050
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000028222
   entrez: '12307'
   mod: MGI:88248
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 780272,447641,399307
-  mod: '951982'
+- ensembl: ENSXETG00000014607
+  entrez: '780272'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000031598
   entrez: '100001650'
   mod: ZFIN:ZDB-GENE-030131-8107
-  phenotypes: ZDB-GENE-030131-8107
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCTGTGTATGGAAGCAACGCAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462984
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396519
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462984
+  url: https://www.ncbi.nlm.nih.gov/gene/396519
 species: Gallus gallus
 symbol: CALB1
 template_length: '655'
@@ -253,9 +248,8 @@ title: CALB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000104327](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000104327) | [793](https://www.ncbi.nlm.nih.gov/gene/793) | [MIM:114050](https://omim.org/entry/114050) |  |
-| Mouse |  | [12307](https://www.ncbi.nlm.nih.gov/gene/12307) | [MGI:88248](http://www.informatics.jax.org/marker/MGI:88248) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [780272](https://www.ncbi.nlm.nih.gov/gene/780272), [447641](https://www.ncbi.nlm.nih.gov/gene/447641), [399307](https://www.ncbi.nlm.nih.gov/gene/399307) | [951982](http://www.xenbase.org/gene/showgene.do?method=display&geneId=951982) |  |
-| Zebrafish | [ENSDARG00000031598](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031598) | [100001650](https://www.ncbi.nlm.nih.gov/gene/100001650) | [ZFIN:ZDB-GENE-030131-8107](https://zfin.org/ZDB-GENE-030131-8107) | ZDB-GENE-030131-8107 |
+| Mouse | [ENSMUSG00000028222](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028222) | [12307](https://www.ncbi.nlm.nih.gov/gene/12307) | [MGI:88248](http://www.informatics.jax.org/marker/MGI:88248) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
+| Xenopus | [ENSXETG00000014607](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014607) | [780272](https://www.ncbi.nlm.nih.gov/gene/780272) |  |  |
+| Zebrafish | [ENSDARG00000031598](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031598) | [100001650](https://www.ncbi.nlm.nih.gov/gene/100001650) | [ZFIN:ZDB-GENE-030131-8107](https://zfin.org/ZDB-GENE-030131-8107) |  |
 

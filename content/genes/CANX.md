@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416288
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030620
 forward_primer: GATGACTTGGATGATGGCGTTG
-gene_id: '457076'
+gene_id: '416288'
 gene_type: protein-coding
 images:
 - caption: CANX expression
@@ -129,14 +129,9 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R556.CANX.S27V.001.jpg
 name: calnexin
-ncbi_id: '457076'
+ncbi_id: '416288'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000127022
+- ensembl: ENSG00000283777
   entrez: '821'
   mod: MIM:114217
   phenotypes: ''
@@ -147,24 +142,24 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(4) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 448161,380018,379102
-  mod: '5735139'
+- ensembl: ENSXETG00000008408
+  entrez: '448161'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000037488
   entrez: '406757'
   mod: ZFIN:ZDB-GENE-040426-2797
-  phenotypes: ZDB-GENE-040426-2797
+  phenotypes: ERAD pathway, posterior lateral line development, protein folding
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCATTTGGGTCCTCAATCTCTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457076
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416288
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457076
+  url: https://www.ncbi.nlm.nih.gov/gene/416288
 species: Gallus gallus
 symbol: CANX
 template_length: '745'
@@ -187,9 +182,8 @@ title: CANX
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000127022](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000127022) | [821](https://www.ncbi.nlm.nih.gov/gene/821) | [MIM:114217](https://omim.org/entry/114217) |  |
+| Human | [ENSG00000283777](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000283777) | [821](https://www.ncbi.nlm.nih.gov/gene/821) | [MIM:114217](https://omim.org/entry/114217) |  |
 | Mouse | [ENSMUSG00000020368](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020368) | [12330](https://www.ncbi.nlm.nih.gov/gene/12330) | [MGI:88261](http://www.informatics.jax.org/marker/MGI:88261) | All phenotypic alleles (7):Targeted, knock-out(4) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [448161](https://www.ncbi.nlm.nih.gov/gene/448161), [380018](https://www.ncbi.nlm.nih.gov/gene/380018), [379102](https://www.ncbi.nlm.nih.gov/gene/379102) | [5735139](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5735139) |  |
-| Zebrafish | [ENSDARG00000037488](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037488) | [406757](https://www.ncbi.nlm.nih.gov/gene/406757) | [ZFIN:ZDB-GENE-040426-2797](https://zfin.org/ZDB-GENE-040426-2797) | ZDB-GENE-040426-2797 |
+| Xenopus | [ENSXETG00000008408](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008408) | [448161](https://www.ncbi.nlm.nih.gov/gene/448161) |  |  |
+| Zebrafish | [ENSDARG00000037488](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037488) | [406757](https://www.ncbi.nlm.nih.gov/gene/406757) | [ZFIN:ZDB-GENE-040426-2797](https://zfin.org/ZDB-GENE-040426-2797) | ERAD pathway, posterior lateral line development, protein folding |
 

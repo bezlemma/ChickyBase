@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396281
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005179
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001174106
-gene_id: '462594'
+gene_id: '396281'
 gene_type: protein-coding
 images:
 - caption: PTHLH expression
@@ -105,13 +105,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pthrp.Singh.2016.Fig2.jpg
 name: parathyroid hormone like hormone
-ncbi_id: '462594'
+ncbi_id: '396281'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000087494
   entrez: '5744'
   mod: MIM:168470
@@ -122,20 +117,22 @@ orthologs:
   mod: MGI:97800
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: '100462910'
-  mod: '959053'
+- ensembl: ENSXETG00000001307
+  entrez: '101732645'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000031737
-  entrez: 554221,100536439
-  mod: ZFIN:ZDB-GENE-050119-9,ZFIN:ZDB-GENE-110411-206
-  phenotypes: ZDB-GENE-050119-9,ZDB-GENE-110411-206
+  entrez: '554221'
+  mod: ZFIN:ZDB-GENE-050119-9
+  phenotypes: adenylate cyclase-activating G protein-coupled receptor signaling pathway,
+    bone mineralization, dorsal aorta development, embryonic cranial skeleton morphogenesis,
+    osteoblast development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462594
+  url: https://www.ncbi.nlm.nih.gov/gene/396281
 species: Gallus gallus
 symbol: PTHLH
 title: PTHLH
@@ -164,9 +161,8 @@ title: PTHLH
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000087494](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000087494) | [5744](https://www.ncbi.nlm.nih.gov/gene/5744) | [MIM:168470](https://omim.org/entry/168470) | MIM:613382 |
 | Mouse | [ENSMUSG00000048776](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048776) | [19227](https://www.ncbi.nlm.nih.gov/gene/19227) | [MGI:97800](http://www.informatics.jax.org/marker/MGI:97800) | All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5) |
-| Xenopus |  | [100462910](https://www.ncbi.nlm.nih.gov/gene/100462910) | [959053](http://www.xenbase.org/gene/showgene.do?method=display&geneId=959053) |  |
-| Zebrafish | [ENSDARG00000031737](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031737) | [554221](https://www.ncbi.nlm.nih.gov/gene/554221), [100536439](https://www.ncbi.nlm.nih.gov/gene/100536439) | [ZFIN:ZDB-GENE-050119-9](https://zfin.org/ZDB-GENE-050119-9), [ZFIN:ZDB-GENE-110411-206](https://zfin.org/ZDB-GENE-110411-206) | ZDB-GENE-050119-9,ZDB-GENE-110411-206 |
+| Xenopus | [ENSXETG00000001307](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001307) | [101732645](https://www.ncbi.nlm.nih.gov/gene/101732645) |  |  |
+| Zebrafish | [ENSDARG00000031737](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031737) | [554221](https://www.ncbi.nlm.nih.gov/gene/554221) | [ZFIN:ZDB-GENE-050119-9](https://zfin.org/ZDB-GENE-050119-9) | adenylate cyclase-activating G protein-coupled receptor signaling pathway, bone mineralization, dorsal aorta development, embryonic cranial skeleton morphogenesis, osteoblast development |
 

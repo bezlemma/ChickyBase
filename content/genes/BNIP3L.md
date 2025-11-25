@@ -7,7 +7,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419522
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030885
 forward_primer: 5'-GCAGCACAACAACAACAACAACC-3'
-gene_id: '458244'
+gene_id: '419522'
 gene_type: protein-coding
 images:
 - caption: BNIP3L expression
@@ -115,41 +115,37 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R543.BNIP3L.S27AAAA.001.jpg
 name: BCL2 interacting protein 3 like
-ncbi_id: '458244'
+ncbi_id: '419522'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000104765
   entrez: '665'
   mod: MIM:605368
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000022051
-  entrez: 12177,100043324
-  mod: MGI:1332659,MGI:3642435
+- ensembl: ENSMUSG00000121633
+  entrez: '100043324'
+  mod: MGI:3642435
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100126677,779175
-  mod: '949759'
+- ensembl: ENSXETG00000046362
+  entrez: '100126677'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000025468,ENSDARG00000028067
-  entrez: 323563,554650
-  mod: ZFIN:ZDB-GENE-030131-2283,ZFIN:ZDB-GENE-040325-1
-  phenotypes: ZDB-GENE-030131-2283,ZDB-GENE-040325-1
+- ensembl: ENSDARG00000028067
+  entrez: '554650'
+  mod: ZFIN:ZDB-GENE-040325-1
+  phenotypes: apoptotic process, defense response to virus, heart looping, mitochondrial
+    outer membrane permeabilization, negative regulation of heart contraction
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGGTAAAGAAAGGGTGAAGTCAGGGTC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458244
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419522
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458244
+  url: https://www.ncbi.nlm.nih.gov/gene/419522
 species: Gallus gallus
 symbol: BNIP3L
 template_length: '740'
@@ -172,9 +168,8 @@ title: BNIP3L
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000104765](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000104765) | [665](https://www.ncbi.nlm.nih.gov/gene/665) | [MIM:605368](https://omim.org/entry/605368) |  |
-| Mouse | [ENSMUSG00000022051](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022051) | [12177](https://www.ncbi.nlm.nih.gov/gene/12177), [100043324](https://www.ncbi.nlm.nih.gov/gene/100043324) | [MGI:1332659](http://www.informatics.jax.org/marker/MGI:1332659), [MGI:3642435](http://www.informatics.jax.org/marker/MGI:3642435) |  |
-| Xenopus |  | [100126677](https://www.ncbi.nlm.nih.gov/gene/100126677), [779175](https://www.ncbi.nlm.nih.gov/gene/779175) | [949759](http://www.xenbase.org/gene/showgene.do?method=display&geneId=949759) |  |
-| Zebrafish | [ENSDARG00000025468](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025468), [ENSDARG00000028067](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028067) | [323563](https://www.ncbi.nlm.nih.gov/gene/323563), [554650](https://www.ncbi.nlm.nih.gov/gene/554650) | [ZFIN:ZDB-GENE-030131-2283](https://zfin.org/ZDB-GENE-030131-2283), [ZFIN:ZDB-GENE-040325-1](https://zfin.org/ZDB-GENE-040325-1) | ZDB-GENE-030131-2283,ZDB-GENE-040325-1 |
+| Mouse | [ENSMUSG00000121633](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000121633) | [100043324](https://www.ncbi.nlm.nih.gov/gene/100043324) | [MGI:3642435](http://www.informatics.jax.org/marker/MGI:3642435) |  |
+| Xenopus | [ENSXETG00000046362](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000046362) | [100126677](https://www.ncbi.nlm.nih.gov/gene/100126677) |  |  |
+| Zebrafish | [ENSDARG00000028067](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028067) | [554650](https://www.ncbi.nlm.nih.gov/gene/554650) | [ZFIN:ZDB-GENE-040325-1](https://zfin.org/ZDB-GENE-040325-1) | apoptotic process, defense response to virus, heart looping, mitochondrial outer membrane permeabilization, negative regulation of heart contraction |
 

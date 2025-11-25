@@ -21,7 +21,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396228
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004867
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205291
-gene_id: '462536'
+gene_id: '396228'
 gene_type: protein-coding
 images:
 - caption: SERPINH1 expression
@@ -53,13 +53,8 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SERPINH1.Roy.2013.F7.serpinh1.png
 name: serpin family H member 1
-ncbi_id: '462536'
+ncbi_id: '396228'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000149257
   entrez: '871'
   mod: MIM:600943
@@ -71,19 +66,19 @@ orthologs:
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
 - ensembl: ''
-  entrez: 100490491,100158395
-  mod: '1005104'
+  entrez: '100490491'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000019949
-  entrez: 100333551,30449,555328
-  mod: ZFIN:ZDB-GENE-990415-93,ZFIN:ZDB-GENE-080219-21
-  phenotypes: ZDB-GENE-990415-93,ZDB-GENE-080219-21
+- ensembl: ENSDARG00000075954
+  entrez: '555328'
+  mod: ZFIN:ZDB-GENE-080219-21
+  phenotypes: collagen fibril organization
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462536
+  url: https://www.ncbi.nlm.nih.gov/gene/396228
 species: Gallus gallus
 symbol: SERPINH1
 title: SERPINH1
@@ -112,9 +107,8 @@ title: SERPINH1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000149257](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000149257) | [871](https://www.ncbi.nlm.nih.gov/gene/871) | [MIM:600943](https://omim.org/entry/600943) | MIM:613848 |
 | Mouse | [ENSMUSG00000070436](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000070436) | [12406](https://www.ncbi.nlm.nih.gov/gene/12406) | [MGI:88283](http://www.informatics.jax.org/marker/MGI:88283) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100490491](https://www.ncbi.nlm.nih.gov/gene/100490491), [100158395](https://www.ncbi.nlm.nih.gov/gene/100158395) | [1005104](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1005104) |  |
-| Zebrafish | [ENSDARG00000019949](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019949) | [100333551](https://www.ncbi.nlm.nih.gov/gene/100333551), [30449](https://www.ncbi.nlm.nih.gov/gene/30449), [555328](https://www.ncbi.nlm.nih.gov/gene/555328) | [ZFIN:ZDB-GENE-990415-93](https://zfin.org/ZDB-GENE-990415-93), [ZFIN:ZDB-GENE-080219-21](https://zfin.org/ZDB-GENE-080219-21) | ZDB-GENE-990415-93,ZDB-GENE-080219-21 |
+| Xenopus |  | [100490491](https://www.ncbi.nlm.nih.gov/gene/100490491) |  |  |
+| Zebrafish | [ENSDARG00000075954](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075954) | [555328](https://www.ncbi.nlm.nih.gov/gene/555328) | [ZFIN:ZDB-GENE-080219-21](https://zfin.org/ZDB-GENE-080219-21) | collagen fibril organization |
 

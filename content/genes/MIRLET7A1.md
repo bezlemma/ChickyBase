@@ -3,7 +3,6 @@ aliases:
 - microRNA let-7k, let-7k
 cgnc_id: '59152'
 external_ids:
-  '25': stage 25stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Darnell+MicroRNA+Stanislaw+Dev
     Dyn
   Comments: stages 18 and under no detectable label; near let-7j
@@ -13,7 +12,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018308
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006113.3?report=genbank&from=1592118&to=1592200&strand=true
-gene_id: '468037'
+gene_id: '777867'
 gene_type: miscRNA
 images:
 - caption: MIRLET7A1 expression
@@ -45,7 +44,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/let7k.17.st25z.jpg
 name: microRNA let-7a-1
-ncbi_id: '468037'
+ncbi_id: '777867'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -75,7 +74,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468037
+  url: https://www.ncbi.nlm.nih.gov/gene/777867
 species: Gallus gallus
 symbol: MIRLET7A1
 title: MIRLET7A1

@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395533
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204765
-gene_id: '449631'
+gene_id: '395533'
 gene_type: protein-coding
 images:
 - caption: MEOX1 expression
@@ -302,13 +302,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Reijntes.2010-Fig2_all
     images.jpg
 name: mesenchyme homeobox 1
-ncbi_id: '449631'
+ncbi_id: '395533'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000005102
   entrez: '4222'
   mod: MIM:600147
@@ -320,23 +315,20 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(1)
     Gene trapped(2) Transgenic(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000007891
+- ensembl: ENSDARG00000115382
   entrez: '436723'
   mod: ZFIN:ZDB-GENE-040718-149
-  phenotypes: ZDB-GENE-040718-149
+  phenotypes: developmental pigmentation, hematopoietic stem cell differentiation,
+    hemopoiesis, muscle cell development, positive regulation of transcription by
+    RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449631
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395533
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449631
+  url: https://www.ncbi.nlm.nih.gov/gene/395533
 species: Gallus gallus
 symbol: MEOX1
 title: MEOX1
@@ -361,9 +353,7 @@ title: MEOX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000005102](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000005102) | [4222](https://www.ncbi.nlm.nih.gov/gene/4222) | [MIM:600147](https://omim.org/entry/600147) |  |
 | Mouse | [ENSMUSG00000001493](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001493) | [17285](https://www.ncbi.nlm.nih.gov/gene/17285) | [MGI:103220](http://www.informatics.jax.org/marker/MGI:103220) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(1) Gene trapped(2) Transgenic(1) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000007891](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007891) | [436723](https://www.ncbi.nlm.nih.gov/gene/436723) | [ZFIN:ZDB-GENE-040718-149](https://zfin.org/ZDB-GENE-040718-149) | ZDB-GENE-040718-149 |
+| Zebrafish | [ENSDARG00000115382](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115382) | [436723](https://www.ncbi.nlm.nih.gov/gene/436723) | [ZFIN:ZDB-GENE-040718-149](https://zfin.org/ZDB-GENE-040718-149) | developmental pigmentation, hematopoietic stem cell differentiation, hemopoiesis, muscle cell development, positive regulation of transcription by RNA polymerase II |
 

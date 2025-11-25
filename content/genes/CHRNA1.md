@@ -5,7 +5,6 @@ aliases:
 - cholinergic receptor, nicotinic, alpha 1 (muscle)
 cgnc_id: '7068'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0046716
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005892
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Fontaine+Changeux+transcripts+acetylcholine
@@ -19,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0042166
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204816
 forward_primer: 5’-AATCCGCATCCCATCAGACG-3’
-gene_id: '449460'
+gene_id: '395608'
 gene_type: protein-coding
 images:
 - caption: CHRNA1 expression
@@ -312,13 +311,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ACHRa.Fontaine.1989.Fig.7.png
 name: cholinergic receptor nicotinic alpha 1 subunit
-ncbi_id: '449460'
+ncbi_id: '395608'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138435
   entrez: '1134'
   mod: MIM:100690
@@ -330,23 +324,25 @@ orthologs:
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
 - ensembl: ''
-  entrez: 394991,444296
-  mod: '5932066'
+  entrez: '100145177'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000009021
   entrez: '30725'
   mod: ZFIN:ZDB-GENE-980526-137
-  phenotypes: ZDB-GENE-980526-137
+  phenotypes: acetylcholine receptor signaling pathway, chondrocyte intercalation
+    involved in growth plate cartilage morphogenesis, membrane depolarization, membrane
+    repolarization, monoatomic ion transmembrane transport
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAAGTTGACAGGCACAGGACC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449460
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395608
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449460
+  url: https://www.ncbi.nlm.nih.gov/gene/395608
 species: Gallus gallus
 symbol: CHRNA1
 template_length: '855'
@@ -376,9 +372,8 @@ title: CHRNA1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000138435](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138435) | [1134](https://www.ncbi.nlm.nih.gov/gene/1134) | [MIM:100690](https://omim.org/entry/100690) | MIM:253290 |
 | Mouse | [ENSMUSG00000027107](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027107) | [11435](https://www.ncbi.nlm.nih.gov/gene/11435) | [MGI:87885](http://www.informatics.jax.org/marker/MGI:87885) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [394991](https://www.ncbi.nlm.nih.gov/gene/394991), [444296](https://www.ncbi.nlm.nih.gov/gene/444296) | [5932066](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5932066) |  |
-| Zebrafish | [ENSDARG00000009021](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009021) | [30725](https://www.ncbi.nlm.nih.gov/gene/30725) | [ZFIN:ZDB-GENE-980526-137](https://zfin.org/ZDB-GENE-980526-137) | ZDB-GENE-980526-137 |
+| Xenopus |  | [100145177](https://www.ncbi.nlm.nih.gov/gene/100145177) |  |  |
+| Zebrafish | [ENSDARG00000009021](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009021) | [30725](https://www.ncbi.nlm.nih.gov/gene/30725) | [ZFIN:ZDB-GENE-980526-137](https://zfin.org/ZDB-GENE-980526-137) | acetylcholine receptor signaling pathway, chondrocyte intercalation involved in growth plate cartilage morphogenesis, membrane depolarization, membrane repolarization, monoatomic ion transmembrane transport |
 

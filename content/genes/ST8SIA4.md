@@ -1,14 +1,13 @@
 ---
 cgnc_id: '11344'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/374155
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374155
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204283
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/ST8SIA4
 forward_primer: CTTGGATGCGGAAAGAGATGTC
-gene_id: '455284'
+gene_id: '374155'
 gene_type: protein-coding
 images:
 - caption: ST8SIA4 expression
@@ -67,13 +66,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R458.ST8SIA4.S25.001.jpg
 name: ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4
-ncbi_id: '455284'
+ncbi_id: '374155'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000113532
   entrez: '7903'
   mod: MIM:602547
@@ -84,24 +78,24 @@ orthologs:
   mod: MGI:106018
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000035873
   entrez: '100036733'
-  mod: '950929'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000018699
+- ensembl: ENSDARG00000103600
   entrez: '553211'
   mod: ZFIN:ZDB-GENE-060322-10
-  phenotypes: ZDB-GENE-060322-10
+  phenotypes: N-glycan processing, oligosaccharide metabolic process, protein glycosylation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCGTTTGATGTGGACCTTGTTTGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455284
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374155
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455284
+  url: https://www.ncbi.nlm.nih.gov/gene/374155
 species: Gallus gallus
 symbol: ST8SIA4
 template_length: '567'
@@ -124,9 +118,8 @@ title: ST8SIA4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000113532](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113532) | [7903](https://www.ncbi.nlm.nih.gov/gene/7903) | [MIM:602547](https://omim.org/entry/602547) |  |
 | Mouse | [ENSMUSG00000040710](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040710) | [20452](https://www.ncbi.nlm.nih.gov/gene/20452) | [MGI:106018](http://www.informatics.jax.org/marker/MGI:106018) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100036733](https://www.ncbi.nlm.nih.gov/gene/100036733) | [950929](http://www.xenbase.org/gene/showgene.do?method=display&geneId=950929) |  |
-| Zebrafish | [ENSDARG00000018699](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018699) | [553211](https://www.ncbi.nlm.nih.gov/gene/553211) | [ZFIN:ZDB-GENE-060322-10](https://zfin.org/ZDB-GENE-060322-10) | ZDB-GENE-060322-10 |
+| Xenopus | [ENSXETG00000035873](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000035873) | [100036733](https://www.ncbi.nlm.nih.gov/gene/100036733) |  |  |
+| Zebrafish | [ENSDARG00000103600](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000103600) | [553211](https://www.ncbi.nlm.nih.gov/gene/553211) | [ZFIN:ZDB-GENE-060322-10](https://zfin.org/ZDB-GENE-060322-10) | N-glycan processing, oligosaccharide metabolic process, protein glycosylation |
 

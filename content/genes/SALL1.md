@@ -5,7 +5,6 @@ aliases:
 - spalt 1
 cgnc_id: '49323'
 external_ids:
-  '7': stage 7
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0000287
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Sweetman+Farrell+2005
   Comments: The complete cDNA template sequence was obtained from the information
@@ -21,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395446
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204707
   X-XIV: stage XII
-gene_id: '449239'
+gene_id: '395446'
 gene_type: protein-coding
 images:
 - caption: SALL1 expression
@@ -138,13 +137,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SALL1.Trevers.2023-Fig7-3-M.jpg
 name: spalt like transcription factor 1
-ncbi_id: '449239'
+ncbi_id: '395446'
 orthologs:
-- ensembl: ''
-  entrez: '34568'
-  mod: FBgn0000287
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000103449
   entrez: '6299'
   mod: MIM:602218
@@ -155,20 +149,22 @@ orthologs:
   mod: MGI:1889585
   phenotypes: All phenotypic alleles (10):Targeted, knock-out(4) Targeted, other(6)
   species: Mouse
-- ensembl: ''
-  entrez: 100036618,379679,100337600
-  mod: '491392'
+- ensembl: ENSXETG00000018417
+  entrez: '100036618'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000074319
-  entrez: 555721,170966
-  mod: ZFIN:ZDB-GENE-020228-2,ZFIN:ZDB-GENE-020228-3
-  phenotypes: ZDB-GENE-020228-2,ZDB-GENE-020228-3
+  entrez: '555721'
+  mod: ZFIN:ZDB-GENE-020228-2
+  phenotypes: embryonic pectoral fin morphogenesis, heart development, mesenchymal
+    to epithelial transition involved in metanephros morphogenesis, negative regulation
+    of transcription by RNA polymerase II, olfactory bulb development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449239
+  url: https://www.ncbi.nlm.nih.gov/gene/395446
 species: Gallus gallus
 symbol: SALL1
 title: SALL1
@@ -196,9 +192,8 @@ title: SALL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34568](https://www.ncbi.nlm.nih.gov/gene/34568) | FBgn0000287 |  |
 | Human | [ENSG00000103449](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000103449) | [6299](https://www.ncbi.nlm.nih.gov/gene/6299) | [MIM:602218](https://omim.org/entry/602218) | MIM:107480 |
 | Mouse | [ENSMUSG00000031665](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031665) | [58198](https://www.ncbi.nlm.nih.gov/gene/58198) | [MGI:1889585](http://www.informatics.jax.org/marker/MGI:1889585) | All phenotypic alleles (10):Targeted, knock-out(4) Targeted, other(6) |
-| Xenopus |  | [100036618](https://www.ncbi.nlm.nih.gov/gene/100036618), [379679](https://www.ncbi.nlm.nih.gov/gene/379679), [100337600](https://www.ncbi.nlm.nih.gov/gene/100337600) | [491392](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491392) |  |
-| Zebrafish | [ENSDARG00000074319](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074319) | [555721](https://www.ncbi.nlm.nih.gov/gene/555721), [170966](https://www.ncbi.nlm.nih.gov/gene/170966) | [ZFIN:ZDB-GENE-020228-2](https://zfin.org/ZDB-GENE-020228-2), [ZFIN:ZDB-GENE-020228-3](https://zfin.org/ZDB-GENE-020228-3) | ZDB-GENE-020228-2,ZDB-GENE-020228-3 |
+| Xenopus | [ENSXETG00000018417](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018417) | [100036618](https://www.ncbi.nlm.nih.gov/gene/100036618) |  |  |
+| Zebrafish | [ENSDARG00000074319](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074319) | [555721](https://www.ncbi.nlm.nih.gov/gene/555721) | [ZFIN:ZDB-GENE-020228-2](https://zfin.org/ZDB-GENE-020228-2) | embryonic pectoral fin morphogenesis, heart development, mesenchymal to epithelial transition involved in metanephros morphogenesis, negative regulation of transcription by RNA polymerase II, olfactory bulb development |
 

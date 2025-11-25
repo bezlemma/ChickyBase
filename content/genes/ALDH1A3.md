@@ -4,7 +4,6 @@ aliases:
 - aldehyde dehydrogenase-6
 cgnc_id: '49294'
 external_ids:
-  '4': stage 4stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Smith+2018+retinoic+Erskine
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Smith et al. 2018. RALDH3 is also known as
@@ -15,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395389
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204669
-gene_id: '448973'
+gene_id: '395389'
 gene_type: protein-coding
 images:
 - caption: ALDH1A3 expression
@@ -515,13 +514,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH3.Smith.2018.Fig5.jpg
 name: aldehyde dehydrogenase 1 family member A3
-ncbi_id: '448973'
+ncbi_id: '395389'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000184254
   entrez: '220'
   mod: MIM:600463
@@ -532,23 +526,23 @@ orthologs:
   mod: MGI:1861722
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100485844,733178
-  mod: '992884'
+- ensembl: ENSXETG00000018751
+  entrez: '100485844'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000076933
   entrez: '751785'
   mod: ZFIN:ZDB-GENE-061128-2
-  phenotypes: ZDB-GENE-061128-2
+  phenotypes: aldehyde metabolic process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448973
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395389
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448973
+  url: https://www.ncbi.nlm.nih.gov/gene/395389
 species: Gallus gallus
 symbol: ALDH1A3
 title: ALDH1A3
@@ -574,9 +568,8 @@ title: ALDH1A3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000184254](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000184254) | [220](https://www.ncbi.nlm.nih.gov/gene/220) | [MIM:600463](https://omim.org/entry/600463) |  |
 | Mouse | [ENSMUSG00000015134](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000015134) | [56847](https://www.ncbi.nlm.nih.gov/gene/56847) | [MGI:1861722](http://www.informatics.jax.org/marker/MGI:1861722) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100485844](https://www.ncbi.nlm.nih.gov/gene/100485844), [733178](https://www.ncbi.nlm.nih.gov/gene/733178) | [992884](http://www.xenbase.org/gene/showgene.do?method=display&geneId=992884) |  |
-| Zebrafish | [ENSDARG00000076933](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076933) | [751785](https://www.ncbi.nlm.nih.gov/gene/751785) | [ZFIN:ZDB-GENE-061128-2](https://zfin.org/ZDB-GENE-061128-2) | ZDB-GENE-061128-2 |
+| Xenopus | [ENSXETG00000018751](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018751) | [100485844](https://www.ncbi.nlm.nih.gov/gene/100485844) |  |  |
+| Zebrafish | [ENSDARG00000076933](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076933) | [751785](https://www.ncbi.nlm.nih.gov/gene/751785) | [ZFIN:ZDB-GENE-061128-2](https://zfin.org/ZDB-GENE-061128-2) | aldehyde metabolic process |
 

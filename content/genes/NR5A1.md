@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395960
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205077
 forward_primer: 5’-CTCAGCTGGCTCCACTTTCA-3’
-gene_id: '450535'
+gene_id: '395960'
 gene_type: protein-coding
 images:
 - caption: NR5A1 expression
@@ -203,13 +203,8 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SF1.Huber.2008.Fig.1.png
 name: nuclear receptor subfamily 5 group A member 1
-ncbi_id: '450535'
+ncbi_id: '395960'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136931
   entrez: '2516'
   mod: MIM:184757
@@ -220,24 +215,19 @@ orthologs:
   mod: MGI:1346833
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(5) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100271747,100049145
-  mod: '485360'
+- ensembl: ENSXETG00000011456
+  entrez: '100271747'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000017704,ENSDARG00000023362
-  entrez: 83916,405759
-  mod: ZFIN:ZDB-GENE-010504-1,ZFIN:ZDB-GENE-040702-6
-  phenotypes: ZDB-GENE-010504-1,ZDB-GENE-040702-6
-  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAAGTTGGGGTTGGAGGTTGG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450535
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395960
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450535
+  url: https://www.ncbi.nlm.nih.gov/gene/395960
 species: Gallus gallus
 symbol: NR5A1
 template_length: '835'
@@ -264,9 +254,7 @@ title: NR5A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000136931](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136931) | [2516](https://www.ncbi.nlm.nih.gov/gene/2516) | [MIM:184757](https://omim.org/entry/184757) | MIM:612965 |
 | Mouse | [ENSMUSG00000026751](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026751) | [26423](https://www.ncbi.nlm.nih.gov/gene/26423) | [MGI:1346833](http://www.informatics.jax.org/marker/MGI:1346833) | All phenotypic alleles (6):Targeted, knock-out(5) Targeted, other(1) |
-| Xenopus |  | [100271747](https://www.ncbi.nlm.nih.gov/gene/100271747), [100049145](https://www.ncbi.nlm.nih.gov/gene/100049145) | [485360](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485360) |  |
-| Zebrafish | [ENSDARG00000017704](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017704), [ENSDARG00000023362](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023362) | [83916](https://www.ncbi.nlm.nih.gov/gene/83916), [405759](https://www.ncbi.nlm.nih.gov/gene/405759) | [ZFIN:ZDB-GENE-010504-1](https://zfin.org/ZDB-GENE-010504-1), [ZFIN:ZDB-GENE-040702-6](https://zfin.org/ZDB-GENE-040702-6) | ZDB-GENE-010504-1,ZDB-GENE-040702-6 |
+| Xenopus | [ENSXETG00000011456](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011456) | [100271747](https://www.ncbi.nlm.nih.gov/gene/100271747) |  |  |
 

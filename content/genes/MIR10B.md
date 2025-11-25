@@ -1,6 +1,5 @@
 ---
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Darnell+MicroRNA+Stanislaw+Dev
     Dyn
   Comments: near HoxD4 in the Hox gene cluster
@@ -10,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?tgu:100230286
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NC_011468
-gene_id: '467894'
+gene_id: '777820'
 gene_type: miscRNA
 images:
 - caption: MIR10B expression
@@ -112,7 +111,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/10b.15.st25.01nt.jpg
 name: microRNA 10b
-ncbi_id: '467894'
+ncbi_id: '777820'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -142,7 +141,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467894
+  url: https://www.ncbi.nlm.nih.gov/gene/777820
 species: Gallus gallus
 symbol: MIR10B
 title: MIR10B

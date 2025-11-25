@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100858397
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277133
   X-XIV: stage XII
-gene_id: '472928'
+gene_id: '100858397'
 gene_type: protein-coding
 images:
 - caption: CNOT1 expression
@@ -135,37 +135,35 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NOT1.Travers.2023-Fig7-2-V.jpg
 name: CCR4-NOT transcription complex subunit 1
-ncbi_id: '472928'
+ncbi_id: '100858397'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000125107
+  entrez: '23019'
+  mod: MIM:604917
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000036550
+  entrez: '234594'
+  mod: MGI:2442402
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000015900
+  entrez: '100036630'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000109411
+  entrez: '448949'
+  mod: ZFIN:ZDB-GENE-040915-1
+  phenotypes: developmental growth, negative regulation of intracellular estrogen
+    receptor signaling pathway, negative regulation of retinoic acid receptor signaling
+    pathway, negative regulation of transcription by RNA polymerase II, negative regulation
+    of translation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/472928
+  url: https://www.ncbi.nlm.nih.gov/gene/100858397
 species: Gallus gallus
 symbol: CNOT1
 title: CNOT1
@@ -189,9 +187,8 @@ title: CNOT1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000125107](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125107) | [23019](https://www.ncbi.nlm.nih.gov/gene/23019) | [MIM:604917](https://omim.org/entry/604917) |  |
+| Mouse | [ENSMUSG00000036550](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036550) | [234594](https://www.ncbi.nlm.nih.gov/gene/234594) | [MGI:2442402](http://www.informatics.jax.org/marker/MGI:2442402) |  |
+| Xenopus | [ENSXETG00000015900](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015900) | [100036630](https://www.ncbi.nlm.nih.gov/gene/100036630) |  |  |
+| Zebrafish | [ENSDARG00000109411](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000109411) | [448949](https://www.ncbi.nlm.nih.gov/gene/448949) | [ZFIN:ZDB-GENE-040915-1](https://zfin.org/ZDB-GENE-040915-1) | developmental growth, negative regulation of intracellular estrogen receptor signaling pathway, negative regulation of retinoic acid receptor signaling pathway, negative regulation of transcription by RNA polymerase II, negative regulation of translation |
 

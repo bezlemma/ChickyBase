@@ -9,7 +9,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000021729
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006101.3?report=genbank&from=762081&to=762163
-gene_id: '467940'
+gene_id: '777896'
 gene_type: miscRNA
 images:
 - caption: MIR193B expression
@@ -41,7 +41,7 @@ images:
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR193BM9.5.png
 name: microRNA 193b
-ncbi_id: '467940'
+ncbi_id: '777896'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -71,7 +71,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467940
+  url: https://www.ncbi.nlm.nih.gov/gene/777896
 species: Gallus gallus
 symbol: MIR193B
 title: MIR193B

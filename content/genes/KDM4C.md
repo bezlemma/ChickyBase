@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427231
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642992
 forward_primer: TCAGCAGATGGTCACTGGC
-gene_id: '462269'
+gene_id: '427231'
 gene_type: protein-coding
 images:
 - caption: KDM4C expression
@@ -104,41 +104,37 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM4C.S27.001.jpg
 name: lysine demethylase 4C
-ncbi_id: '462269'
+ncbi_id: '427231'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000107077
+  entrez: '23081'
+  mod: MIM:605469
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000028397
+  entrez: '76804'
+  mod: MGI:1924054
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000000532
+  entrez: '100127653'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000114179
+  entrez: '570194'
+  mod: ZFIN:ZDB-GENE-070209-38
+  phenotypes: blood vessel morphogenesis, chromatin organization, chromatin remodeling,
+    pronephric glomerulus development, pronephric proximal tubule morphogenesis
   species: Zebrafish
 reverse_primer: AGGTGCACAACTTTGCTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462269
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427231
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462269
+  url: https://www.ncbi.nlm.nih.gov/gene/427231
 species: Gallus gallus
 symbol: KDM4C
 template_length: '710'
@@ -161,9 +157,8 @@ title: KDM4C
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000107077](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107077) | [23081](https://www.ncbi.nlm.nih.gov/gene/23081) | [MIM:605469](https://omim.org/entry/605469) |  |
+| Mouse | [ENSMUSG00000028397](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028397) | [76804](https://www.ncbi.nlm.nih.gov/gene/76804) | [MGI:1924054](http://www.informatics.jax.org/marker/MGI:1924054) |  |
+| Xenopus | [ENSXETG00000000532](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000532) | [100127653](https://www.ncbi.nlm.nih.gov/gene/100127653) |  |  |
+| Zebrafish | [ENSDARG00000114179](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114179) | [570194](https://www.ncbi.nlm.nih.gov/gene/570194) | [ZFIN:ZDB-GENE-070209-38](https://zfin.org/ZDB-GENE-070209-38) | blood vessel morphogenesis, chromatin organization, chromatin remodeling, pronephric glomerulus development, pronephric proximal tubule morphogenesis |
 

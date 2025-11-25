@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395123
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204469
 forward_primer: TACTTCAAGCGGGGCAAGGCTCAC
-gene_id: '462186'
+gene_id: '395123'
 gene_type: protein-coding
 images:
 - caption: AIP expression
@@ -103,13 +103,8 @@ images:
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R507.AIP.S16A.001.jpg
 name: aryl hydrocarbon receptor interacting protein
-ncbi_id: '462186'
+ncbi_id: '395123'
 orthologs:
-- ensembl: ''
-  entrez: '32144'
-  mod: FBgn0030345
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000110711
   entrez: '9049'
   mod: MIM:605555
@@ -121,24 +116,24 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(4)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000017438
   entrez: '100124770'
-  mod: '947113'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000069699
-  entrez: 100149392,334795
+- ensembl: ENSDARG00000104437
+  entrez: '334795'
   mod: ZFIN:ZDB-GENE-030131-6735
-  phenotypes: ZDB-GENE-030131-6735
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGATCCAATGGTCCAGCACTTCAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462186
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395123
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462186
+  url: https://www.ncbi.nlm.nih.gov/gene/395123
 species: Gallus gallus
 symbol: AIP
 template_length: '355'
@@ -162,9 +157,8 @@ title: AIP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32144](https://www.ncbi.nlm.nih.gov/gene/32144) | FBgn0030345 |  |
 | Human | [ENSG00000110711](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000110711) | [9049](https://www.ncbi.nlm.nih.gov/gene/9049) | [MIM:605555](https://omim.org/entry/605555) | MIM:219090 |
 | Mouse | [ENSMUSG00000024847](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024847) | [11632](https://www.ncbi.nlm.nih.gov/gene/11632) | [MGI:109622](http://www.informatics.jax.org/marker/MGI:109622) | All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(4) Gene trapped(1) |
-| Xenopus |  | [100124770](https://www.ncbi.nlm.nih.gov/gene/100124770) | [947113](http://www.xenbase.org/gene/showgene.do?method=display&geneId=947113) |  |
-| Zebrafish | [ENSDARG00000069699](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069699) | [100149392](https://www.ncbi.nlm.nih.gov/gene/100149392), [334795](https://www.ncbi.nlm.nih.gov/gene/334795) | [ZFIN:ZDB-GENE-030131-6735](https://zfin.org/ZDB-GENE-030131-6735) | ZDB-GENE-030131-6735 |
+| Xenopus | [ENSXETG00000017438](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017438) | [100124770](https://www.ncbi.nlm.nih.gov/gene/100124770) |  |  |
+| Zebrafish | [ENSDARG00000104437](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104437) | [334795](https://www.ncbi.nlm.nih.gov/gene/334795) | [ZFIN:ZDB-GENE-030131-6735](https://zfin.org/ZDB-GENE-030131-6735) |  |
 

@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416210
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414535
 forward_primer: 5'-ATGCCTTCAGACAAGATGGTGG-3'
-gene_id: '463179'
+gene_id: '416210'
 gene_type: protein-coding
 images:
 - caption: BOD1 expression
@@ -90,16 +90,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R543.BOD1.S26AA.001.jpg
 name: biorientation of chromosomes in cell division 1
-ncbi_id: '463179'
+ncbi_id: '416210'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000145919
   entrez: '91272'
-  mod: ''
+  mod: MIM:616745
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000044502
@@ -107,24 +102,24 @@ orthologs:
   mod: MGI:1916806
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ENSXETG00000013781
-  entrez: 493221,446336
-  mod: '5810099'
+- ensembl: ENSXETG00000022543
+  entrez: '493221'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000035747
+- ensembl: ENSDARG00000103922
   entrez: '767743'
   mod: ZFIN:ZDB-GENE-060810-163
-  phenotypes: ZDB-GENE-060810-163
+  phenotypes: cell division
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGCCCTTTGCTTCCCAGTTAC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463179
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416210
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463179
+  url: https://www.ncbi.nlm.nih.gov/gene/416210
 species: Gallus gallus
 symbol: BOD1
 template_length: '420'
@@ -147,9 +142,8 @@ title: BOD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000145919](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145919) | [91272](https://www.ncbi.nlm.nih.gov/gene/91272) |  |  |
+| Human | [ENSG00000145919](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145919) | [91272](https://www.ncbi.nlm.nih.gov/gene/91272) | [MIM:616745](https://omim.org/entry/616745) |  |
 | Mouse | [ENSMUSG00000044502](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000044502) | [69556](https://www.ncbi.nlm.nih.gov/gene/69556) | [MGI:1916806](http://www.informatics.jax.org/marker/MGI:1916806) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus | [ENSXETG00000013781](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013781) | [493221](https://www.ncbi.nlm.nih.gov/gene/493221), [446336](https://www.ncbi.nlm.nih.gov/gene/446336) | [5810099](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5810099) |  |
-| Zebrafish | [ENSDARG00000035747](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035747) | [767743](https://www.ncbi.nlm.nih.gov/gene/767743) | [ZFIN:ZDB-GENE-060810-163](https://zfin.org/ZDB-GENE-060810-163) | ZDB-GENE-060810-163 |
+| Xenopus | [ENSXETG00000022543](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022543) | [493221](https://www.ncbi.nlm.nih.gov/gene/493221) |  |  |
+| Zebrafish | [ENSDARG00000103922](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000103922) | [767743](https://www.ncbi.nlm.nih.gov/gene/767743) | [ZFIN:ZDB-GENE-060810-163](https://zfin.org/ZDB-GENE-060810-163) | cell division |
 

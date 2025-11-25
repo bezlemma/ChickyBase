@@ -4,7 +4,6 @@ aliases:
 - v-ets erythroblastosis virus E26 oncogene homolog
 cgnc_id: '49062'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006351
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Singh+2016+cartilage+Bandyopadhyay
@@ -18,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204280
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGCAAAAGGAGGGAAAATGGTTAGC
-gene_id: '455166'
+gene_id: '374146'
 gene_type: protein-coding
 images:
 - caption: ERG expression
@@ -179,13 +178,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ERG.Singh.2016.Fig2.jpg
 name: ERG, ETS transcription factor
-ncbi_id: '455166'
+ncbi_id: '374146'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000157554
   entrez: '2078'
   mod: MIM:165080
@@ -196,24 +190,26 @@ orthologs:
   mod: MGI:95415
   phenotypes: All phenotypic alleles (2):Chemically induced(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100216056,378618,378619
-  mod: '6085046'
+- ensembl: ENSXETG00000023717
+  entrez: '100216056'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000077304
   entrez: '494073'
   mod: ZFIN:ZDB-GENE-041212-40
-  phenotypes: ZDB-GENE-041212-40
+  phenotypes: angiogenesis, cell differentiation, hemangioblast cell differentiation,
+    regulation of DNA-templated transcription, regulation of transcription by RNA
+    polymerase II
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGATGAGGTTACGGGCAAAGCAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455166
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374146
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455166
+  url: https://www.ncbi.nlm.nih.gov/gene/374146
 species: Gallus gallus
 symbol: ERG
 template_length: '1063'
@@ -243,9 +239,8 @@ title: ERG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000157554](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000157554) | [2078](https://www.ncbi.nlm.nih.gov/gene/2078) | [MIM:165080](https://omim.org/entry/165080) |  |
 | Mouse | [ENSMUSG00000040732](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040732) | [13876](https://www.ncbi.nlm.nih.gov/gene/13876) | [MGI:95415](http://www.informatics.jax.org/marker/MGI:95415) | All phenotypic alleles (2):Chemically induced(1) Targeted, other(1) |
-| Xenopus |  | [100216056](https://www.ncbi.nlm.nih.gov/gene/100216056), [378618](https://www.ncbi.nlm.nih.gov/gene/378618), [378619](https://www.ncbi.nlm.nih.gov/gene/378619) | [6085046](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6085046) |  |
-| Zebrafish |  | [494073](https://www.ncbi.nlm.nih.gov/gene/494073) | [ZFIN:ZDB-GENE-041212-40](https://zfin.org/ZDB-GENE-041212-40) | ZDB-GENE-041212-40 |
+| Xenopus | [ENSXETG00000023717](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023717) | [100216056](https://www.ncbi.nlm.nih.gov/gene/100216056) |  |  |
+| Zebrafish | [ENSDARG00000077304](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077304) | [494073](https://www.ncbi.nlm.nih.gov/gene/494073) | [ZFIN:ZDB-GENE-041212-40](https://zfin.org/ZDB-GENE-041212-40) | angiogenesis, cell differentiation, hemangioblast cell differentiation, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

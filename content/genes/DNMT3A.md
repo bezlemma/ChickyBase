@@ -5,7 +5,6 @@ aliases:
 - DNA methyltransferase 3A
 cgnc_id: '51587'
 external_ids:
-  '7': stage 7
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0090116
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=methyltransferase3A+Mazzulla+Spengler+switch
@@ -19,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003886
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001024832
   X-XIV: stage XII
-gene_id: '456170'
+gene_id: '421991'
 gene_type: protein-coding
 images:
 - caption: DNMT3A expression
@@ -274,13 +273,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DNMT3A.Travers.2023.jpg
 name: DNA methyltransferase 3 alpha
-ncbi_id: '456170'
+ncbi_id: '421991'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000119772
   entrez: '1788'
   mod: MIM:602769
@@ -291,20 +285,22 @@ orthologs:
   mod: MGI:1261827
   phenotypes: All phenotypic alleles (9):Targeted, knock-out(3) Targeted, other(6)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000001232
   entrez: '100496503'
-  mod: '959528'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000015566,ENSDARG00000005394
-  entrez: 553189,553187
-  mod: ZFIN:ZDB-GENE-050314-3,ZFIN:ZDB-GENE-050314-5
-  phenotypes: ZDB-GENE-050314-3,ZDB-GENE-050314-5
+- ensembl: ENSDARG00000015566
+  entrez: '553189'
+  mod: ZFIN:ZDB-GENE-050314-3
+  phenotypes: methylation, negative regulation of DNA-templated transcription, regulation
+    of ATP citrate synthase activity, regulation of gene expression, response to temperature
+    stimulus
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456170
+  url: https://www.ncbi.nlm.nih.gov/gene/421991
 species: Gallus gallus
 symbol: DNMT3A
 title: DNMT3A
@@ -333,9 +329,8 @@ title: DNMT3A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000119772](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000119772) | [1788](https://www.ncbi.nlm.nih.gov/gene/1788) | [MIM:602769](https://omim.org/entry/602769) |  |
 | Mouse | [ENSMUSG00000020661](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020661) | [13435](https://www.ncbi.nlm.nih.gov/gene/13435) | [MGI:1261827](http://www.informatics.jax.org/marker/MGI:1261827) | All phenotypic alleles (9):Targeted, knock-out(3) Targeted, other(6) |
-| Xenopus |  | [100496503](https://www.ncbi.nlm.nih.gov/gene/100496503) | [959528](http://www.xenbase.org/gene/showgene.do?method=display&geneId=959528) |  |
-| Zebrafish | [ENSDARG00000015566](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015566), [ENSDARG00000005394](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005394) | [553189](https://www.ncbi.nlm.nih.gov/gene/553189), [553187](https://www.ncbi.nlm.nih.gov/gene/553187) | [ZFIN:ZDB-GENE-050314-3](https://zfin.org/ZDB-GENE-050314-3), [ZFIN:ZDB-GENE-050314-5](https://zfin.org/ZDB-GENE-050314-5) | ZDB-GENE-050314-3,ZDB-GENE-050314-5 |
+| Xenopus | [ENSXETG00000001232](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001232) | [100496503](https://www.ncbi.nlm.nih.gov/gene/100496503) |  |  |
+| Zebrafish | [ENSDARG00000015566](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015566) | [553189](https://www.ncbi.nlm.nih.gov/gene/553189) | [ZFIN:ZDB-GENE-050314-3](https://zfin.org/ZDB-GENE-050314-3) | methylation, negative regulation of DNA-templated transcription, regulation of ATP citrate synthase activity, regulation of gene expression, response to temperature stimulus |
 

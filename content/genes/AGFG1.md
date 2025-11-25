@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424793
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422611
 forward_primer: TTCCTCCAGAGCAAGCAAAGG
-gene_id: '463282'
+gene_id: '424793'
 gene_type: protein-coding
 images:
 - caption: AGFG1 expression
@@ -95,13 +95,8 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R507.1AGFG1.S18A.001.jpg
 name: ArfGAP with FG repeats 1
-ncbi_id: '463282'
+ncbi_id: '424793'
 orthologs:
-- ensembl: ''
-  entrez: '33263'
-  mod: FBgn0020304
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000173744
   entrez: '3267'
   mod: MIM:600862
@@ -112,24 +107,25 @@ orthologs:
   mod: MGI:1333754
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 548956,432032
-  mod: '5750509'
+- ensembl: ENSXETG00000014768
+  entrez: '548956'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000030020,ENSDARG00000019526
-  entrez: 327597,393560
-  mod: ZFIN:ZDB-GENE-030131-5808,ZFIN:ZDB-GENE-040426-1520
-  phenotypes: ZDB-GENE-030131-5808,ZDB-GENE-040426-1520
+- ensembl: ENSDARG00000030020
+  entrez: '327597'
+  mod: ZFIN:ZDB-GENE-030131-5808
+  phenotypes: acrosome assembly, intermediate filament organization, spermatid nucleus
+    differentiation
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCCAAATGAAGCAGGCACACTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463282
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424793
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463282
+  url: https://www.ncbi.nlm.nih.gov/gene/424793
 species: Gallus gallus
 symbol: AGFG1
 template_length: '980'
@@ -153,9 +149,8 @@ title: AGFG1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33263](https://www.ncbi.nlm.nih.gov/gene/33263) | FBgn0020304 |  |
 | Human | [ENSG00000173744](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000173744) | [3267](https://www.ncbi.nlm.nih.gov/gene/3267) | [MIM:600862](https://omim.org/entry/600862) |  |
 | Mouse | [ENSMUSG00000026159](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026159) | [15463](https://www.ncbi.nlm.nih.gov/gene/15463) | [MGI:1333754](http://www.informatics.jax.org/marker/MGI:1333754) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [548956](https://www.ncbi.nlm.nih.gov/gene/548956), [432032](https://www.ncbi.nlm.nih.gov/gene/432032) | [5750509](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5750509) |  |
-| Zebrafish | [ENSDARG00000030020](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030020), [ENSDARG00000019526](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019526) | [327597](https://www.ncbi.nlm.nih.gov/gene/327597), [393560](https://www.ncbi.nlm.nih.gov/gene/393560) | [ZFIN:ZDB-GENE-030131-5808](https://zfin.org/ZDB-GENE-030131-5808), [ZFIN:ZDB-GENE-040426-1520](https://zfin.org/ZDB-GENE-040426-1520) | ZDB-GENE-030131-5808,ZDB-GENE-040426-1520 |
+| Xenopus | [ENSXETG00000014768](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014768) | [548956](https://www.ncbi.nlm.nih.gov/gene/548956) |  |  |
+| Zebrafish | [ENSDARG00000030020](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030020) | [327597](https://www.ncbi.nlm.nih.gov/gene/327597) | [ZFIN:ZDB-GENE-030131-5808](https://zfin.org/ZDB-GENE-030131-5808) | acrosome assembly, intermediate filament organization, spermatid nucleus differentiation |
 

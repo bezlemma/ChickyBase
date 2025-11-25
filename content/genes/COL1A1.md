@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395532
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005201
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423116
-gene_id: '449630'
+gene_id: '395532'
 gene_type: protein-coding
 images:
 - caption: COL1A1 expression
@@ -42,7 +42,7 @@ images:
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/le guen.Fig1.ECol1st35.jpg
 name: collagen type I alpha 1 chain
-ncbi_id: '449630'
+ncbi_id: '395532'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -72,7 +72,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449630
+  url: https://www.ncbi.nlm.nih.gov/gene/395532
 species: Gallus gallus
 symbol: COL1A1
 title: COL1A1

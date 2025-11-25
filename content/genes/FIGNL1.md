@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420946
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640793
 forward_primer: 5’-TCCGTACCAGGCTTCCAGTA-3’
-gene_id: '453993'
+gene_id: '420946'
 gene_type: protein-coding
 images:
 - caption: FIGNL1 expression
@@ -53,13 +53,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R668.FIGNL1.S26.001.jpg
 name: fidgetin like 1
-ncbi_id: '453993'
+ncbi_id: '420946'
 orthologs:
-- ensembl: ''
-  entrez: '33544'
-  mod: FBgn0031519
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000132436
   entrez: '63979'
   mod: MIM:615383
@@ -70,24 +65,25 @@ orthologs:
   mod: MGI:1890648
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100124890,446598
-  mod: '1000358'
+- ensembl: ENSXETG00000015704
+  entrez: '100124890'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000016427
   entrez: '569539'
   mod: ZFIN:ZDB-GENE-030131-1862
-  phenotypes: ZDB-GENE-030131-1862
+  phenotypes: anatomical structure morphogenesis, microtubule cytoskeleton organization,
+    microtubule severing
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGATCACTGCTGGCTGTTGACA-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453993
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420946
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453993
+  url: https://www.ncbi.nlm.nih.gov/gene/420946
 species: Gallus gallus
 symbol: FIGNL1
 template_length: '690'
@@ -112,9 +108,8 @@ title: FIGNL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33544](https://www.ncbi.nlm.nih.gov/gene/33544) | FBgn0031519 |  |
 | Human | [ENSG00000132436](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000132436) | [63979](https://www.ncbi.nlm.nih.gov/gene/63979) | [MIM:615383](https://omim.org/entry/615383) |  |
 | Mouse | [ENSMUSG00000035455](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035455) | [60530](https://www.ncbi.nlm.nih.gov/gene/60530) | [MGI:1890648](http://www.informatics.jax.org/marker/MGI:1890648) |  |
-| Xenopus |  | [100124890](https://www.ncbi.nlm.nih.gov/gene/100124890), [446598](https://www.ncbi.nlm.nih.gov/gene/446598) | [1000358](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1000358) |  |
-| Zebrafish | [ENSDARG00000016427](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016427) | [569539](https://www.ncbi.nlm.nih.gov/gene/569539) | [ZFIN:ZDB-GENE-030131-1862](https://zfin.org/ZDB-GENE-030131-1862) | ZDB-GENE-030131-1862 |
+| Xenopus | [ENSXETG00000015704](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015704) | [100124890](https://www.ncbi.nlm.nih.gov/gene/100124890) |  |  |
+| Zebrafish | [ENSDARG00000016427](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016427) | [569539](https://www.ncbi.nlm.nih.gov/gene/569539) | [ZFIN:ZDB-GENE-030131-1862](https://zfin.org/ZDB-GENE-030131-1862) | anatomical structure morphogenesis, microtubule cytoskeleton organization, microtubule severing |
 

@@ -11,7 +11,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419673
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/AKAP12
-gene_id: '458571'
+gene_id: '421634'
 gene_type: protein-coding
 images:
 - caption: AKAP12 expression
@@ -92,7 +92,7 @@ images:
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Z10_16_dorsal_mag.jpg
 name: A-kinase anchoring protein 12
-ncbi_id: '458571'
+ncbi_id: '421634'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -117,15 +117,15 @@ orthologs:
 - ensembl: ''
   entrez: '567365'
   mod: ZFIN:ZDB-GENE-030131-9753,ZFIN:ZDB-GENE-110310-3
-  phenotypes: ZDB-GENE-030131-9753,ZDB-GENE-110310-3
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458571
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421634
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458571
+  url: https://www.ncbi.nlm.nih.gov/gene/421634
 species: Gallus gallus
 symbol: AKAP12
 title: AKAP12
@@ -152,5 +152,5 @@ title: AKAP12
 | Human | [ENSG00000131016](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000131016) | [9590](https://www.ncbi.nlm.nih.gov/gene/9590) | [MIM:604698](https://omim.org/entry/604698) |  |
 | Mouse | [ENSMUSG00000038587](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038587) | [83397](https://www.ncbi.nlm.nih.gov/gene/83397) | [MGI:1932576](http://www.informatics.jax.org/marker/MGI:1932576) | All phenotypic alleles (1):Gene trapped(1) |
 | Xenopus |  | [100127584](https://www.ncbi.nlm.nih.gov/gene/100127584), [398212](https://www.ncbi.nlm.nih.gov/gene/398212) | [6459604](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6459604) |  |
-| Zebrafish |  | [567365](https://www.ncbi.nlm.nih.gov/gene/567365) | [ZFIN:ZDB-GENE-030131-9753](https://zfin.org/ZDB-GENE-030131-9753), [ZFIN:ZDB-GENE-110310-3](https://zfin.org/ZDB-GENE-110310-3) | ZDB-GENE-030131-9753,ZDB-GENE-110310-3 |
+| Zebrafish |  | [567365](https://www.ncbi.nlm.nih.gov/gene/567365) | [ZFIN:ZDB-GENE-030131-9753](https://zfin.org/ZDB-GENE-030131-9753), [ZFIN:ZDB-GENE-110310-3](https://zfin.org/ZDB-GENE-110310-3) |  |
 

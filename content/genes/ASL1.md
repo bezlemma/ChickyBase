@@ -6,7 +6,6 @@ aliases:
 - delta1-crystallin
 cgnc_id: '49838'
 external_ids:
-  '13': stage 13stage 13
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0032076
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0042450
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005829
@@ -21,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396498
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003824
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205501
-gene_id: '461151'
+gene_id: '396498'
 gene_type: protein-coding
 images:
 - caption: ASL1 expression
@@ -53,13 +52,8 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.BAILEY.2006.jpg
 name: argininosuccinate lyase 1
-ncbi_id: '461151'
+ncbi_id: '396498'
 orthologs:
-- ensembl: ''
-  entrez: '3771738'
-  mod: FBgn0032076
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000126522
   entrez: '435'
   mod: MIM:608310
@@ -70,20 +64,21 @@ orthologs:
   mod: MGI:88084
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100127798,447450
-  mod: '987475'
+- ensembl: ENSXETG00000000846
+  entrez: '100127798'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000033361
-  entrez: 100333289,393423
+  entrez: '393423'
   mod: ZFIN:ZDB-GENE-040426-1152
-  phenotypes: ZDB-GENE-040426-1152
+  phenotypes: L-amino acid metabolic process, L-arginine biosynthetic process via
+    ornithine
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461151
+  url: https://www.ncbi.nlm.nih.gov/gene/396498
 species: Gallus gallus
 symbol: ASL1
 title: ASL1
@@ -114,9 +109,8 @@ title: ASL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [3771738](https://www.ncbi.nlm.nih.gov/gene/3771738) | FBgn0032076 |  |
 | Human | [ENSG00000126522](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000126522) | [435](https://www.ncbi.nlm.nih.gov/gene/435) | [MIM:608310](https://omim.org/entry/608310) |  |
 | Mouse | [ENSMUSG00000025533](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025533) | [109900](https://www.ncbi.nlm.nih.gov/gene/109900) | [MGI:88084](http://www.informatics.jax.org/marker/MGI:88084) |  |
-| Xenopus |  | [100127798](https://www.ncbi.nlm.nih.gov/gene/100127798), [447450](https://www.ncbi.nlm.nih.gov/gene/447450) | [987475](http://www.xenbase.org/gene/showgene.do?method=display&geneId=987475) |  |
-| Zebrafish | [ENSDARG00000033361](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033361) | [100333289](https://www.ncbi.nlm.nih.gov/gene/100333289), [393423](https://www.ncbi.nlm.nih.gov/gene/393423) | [ZFIN:ZDB-GENE-040426-1152](https://zfin.org/ZDB-GENE-040426-1152) | ZDB-GENE-040426-1152 |
+| Xenopus | [ENSXETG00000000846](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000846) | [100127798](https://www.ncbi.nlm.nih.gov/gene/100127798) |  |  |
+| Zebrafish | [ENSDARG00000033361](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033361) | [393423](https://www.ncbi.nlm.nih.gov/gene/393423) | [ZFIN:ZDB-GENE-040426-1152](https://zfin.org/ZDB-GENE-040426-1152) | L-amino acid metabolic process, L-arginine biosynthetic process via ornithine |
 

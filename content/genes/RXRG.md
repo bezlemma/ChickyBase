@@ -17,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205294
-gene_id: '462397'
+gene_id: '396231'
 gene_type: protein-coding
 images:
 - caption: RXRG expression
@@ -324,13 +324,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.1998.Fig3H.jpg
 name: retinoid X receptor gamma
-ncbi_id: '462397'
+ncbi_id: '396231'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000143171
   entrez: '6258'
   mod: MIM:180247
@@ -341,20 +336,22 @@ orthologs:
   mod: MGI:98216
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 779621,496325,100487877,378685
-  mod: 478492,478717
+- ensembl: ENSXETG00000004750
+  entrez: '779621'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000004697
-  entrez: 436617,30464
-  mod: ZFIN:ZDB-GENE-040718-34,ZFIN:ZDB-GENE-980526-36
-  phenotypes: ZDB-GENE-040718-34,ZDB-GENE-980526-36
+  entrez: '436617'
+  mod: ZFIN:ZDB-GENE-040718-34
+  phenotypes: cell differentiation, nervous system development, positive regulation
+    of transcription by RNA polymerase II, regulation of DNA-templated transcription,
+    retinoic acid receptor signaling pathway
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462397
+  url: https://www.ncbi.nlm.nih.gov/gene/396231
 species: Gallus gallus
 symbol: RXRG
 title: RXRG
@@ -384,9 +381,8 @@ title: RXRG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000143171](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143171) | [6258](https://www.ncbi.nlm.nih.gov/gene/6258) | [MIM:180247](https://omim.org/entry/180247) |  |
 | Mouse | [ENSMUSG00000015843](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000015843) | [20183](https://www.ncbi.nlm.nih.gov/gene/20183) | [MGI:98216](http://www.informatics.jax.org/marker/MGI:98216) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [779621](https://www.ncbi.nlm.nih.gov/gene/779621), [496325](https://www.ncbi.nlm.nih.gov/gene/496325), [100487877](https://www.ncbi.nlm.nih.gov/gene/100487877), [378685](https://www.ncbi.nlm.nih.gov/gene/378685) | [478492](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478492), [478717](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478717) |  |
-| Zebrafish | [ENSDARG00000004697](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004697) | [436617](https://www.ncbi.nlm.nih.gov/gene/436617), [30464](https://www.ncbi.nlm.nih.gov/gene/30464) | [ZFIN:ZDB-GENE-040718-34](https://zfin.org/ZDB-GENE-040718-34), [ZFIN:ZDB-GENE-980526-36](https://zfin.org/ZDB-GENE-980526-36) | ZDB-GENE-040718-34,ZDB-GENE-980526-36 |
+| Xenopus | [ENSXETG00000004750](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004750) | [779621](https://www.ncbi.nlm.nih.gov/gene/779621) |  |  |
+| Zebrafish | [ENSDARG00000004697](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004697) | [436617](https://www.ncbi.nlm.nih.gov/gene/436617) | [ZFIN:ZDB-GENE-040718-34](https://zfin.org/ZDB-GENE-040718-34) | cell differentiation, nervous system development, positive regulation of transcription by RNA polymerase II, regulation of DNA-templated transcription, retinoic acid receptor signaling pathway |
 

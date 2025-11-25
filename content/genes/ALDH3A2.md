@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417615
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006223
 forward_primer: TTCATAGCACCCACCATCCTCACG
-gene_id: '452440'
+gene_id: '417615'
 gene_type: protein-coding
 images:
 - caption: ALDH3A2 expression
@@ -134,13 +134,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R494.ALDH3A2.S26AAA.001.jpg
 name: aldehyde dehydrogenase 3 family member A2
-ncbi_id: '452440'
+ncbi_id: '417615'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000072210
   entrez: '224'
   mod: MIM:609523
@@ -151,24 +146,24 @@ orthologs:
   mod: MGI:1353452
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 549291,443767
-  mod: '942661'
+- ensembl: ENSXETG00000013484
+  entrez: '549291'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000074791,ENSDARG00000028259
-  entrez: 100329417,100000026,323653,447920
-  mod: ZFIN:ZDB-GENE-040718-74,ZFIN:ZDB-GENE-040912-103
-  phenotypes: ZDB-GENE-040718-74,ZDB-GENE-040912-103
+- ensembl: ENSDARG00000074791
+  entrez: '100000026'
+  mod: ZFIN:ZDB-GENE-120823-1
+  phenotypes: aldehyde metabolic process, glucose homeostasis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGACACAACAGAAGAGACCATCCCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452440
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417615
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452440
+  url: https://www.ncbi.nlm.nih.gov/gene/417615
 species: Gallus gallus
 symbol: ALDH3A2
 template_length: '954'
@@ -190,9 +185,8 @@ title: ALDH3A2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000072210](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000072210) | [224](https://www.ncbi.nlm.nih.gov/gene/224) | [MIM:609523](https://omim.org/entry/609523) | MIM:270200 |
 | Mouse | [ENSMUSG00000010025](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000010025) | [11671](https://www.ncbi.nlm.nih.gov/gene/11671) | [MGI:1353452](http://www.informatics.jax.org/marker/MGI:1353452) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [549291](https://www.ncbi.nlm.nih.gov/gene/549291), [443767](https://www.ncbi.nlm.nih.gov/gene/443767) | [942661](http://www.xenbase.org/gene/showgene.do?method=display&geneId=942661) |  |
-| Zebrafish | [ENSDARG00000074791](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074791), [ENSDARG00000028259](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028259) | [100329417](https://www.ncbi.nlm.nih.gov/gene/100329417), [100000026](https://www.ncbi.nlm.nih.gov/gene/100000026), [323653](https://www.ncbi.nlm.nih.gov/gene/323653), [447920](https://www.ncbi.nlm.nih.gov/gene/447920) | [ZFIN:ZDB-GENE-040718-74](https://zfin.org/ZDB-GENE-040718-74), [ZFIN:ZDB-GENE-040912-103](https://zfin.org/ZDB-GENE-040912-103) | ZDB-GENE-040718-74,ZDB-GENE-040912-103 |
+| Xenopus | [ENSXETG00000013484](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013484) | [549291](https://www.ncbi.nlm.nih.gov/gene/549291) |  |  |
+| Zebrafish | [ENSDARG00000074791](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074791) | [100000026](https://www.ncbi.nlm.nih.gov/gene/100000026) | [ZFIN:ZDB-GENE-120823-1](https://zfin.org/ZDB-GENE-120823-1) | aldehyde metabolic process, glucose homeostasis |
 

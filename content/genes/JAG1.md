@@ -5,8 +5,6 @@ aliases:
 - jagged 1 (Alagille syndrome)
 cgnc_id: '6856'
 external_ids:
-  '19': stage 19stage 19stage 19
-  '25': stage 25stage 25
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (XM_040668033
@@ -18,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396043
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415035
 forward_primer: GGTGAAAGGTGAGGTGGCGTC
-gene_id: '459535'
+gene_id: '396043'
 gene_type: protein-coding
 images:
 - caption: JAG1 expression
@@ -411,13 +409,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/JAG1.Anderson.2019.Supplementary
     figure 5O.jpg
 name: jagged 1
-ncbi_id: '459535'
+ncbi_id: '396043'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000101384
   entrez: '182'
   mod: MIM:601920
@@ -429,24 +422,26 @@ orthologs:
   phenotypes: All phenotypic alleles (15):Chemically induced(5) Targeted, knock-out(3)
     Targeted, other(5) Gene trapped(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100486874,399110
-  mod: '485661'
+- ensembl: ENSXETG00000002340
+  entrez: '100486874'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000013168,ENSDARG00000030289
-  entrez: 140423,140421
-  mod: ZFIN:ZDB-GENE-011128-4,ZFIN:ZDB-GENE-011128-2
-  phenotypes: ZDB-GENE-011128-4,ZDB-GENE-011128-2
+- ensembl: ENSDARG00000013168
+  entrez: '140423'
+  mod: ZFIN:ZDB-GENE-011128-4
+  phenotypes: Notch signaling pathway, auditory receptor cell development, cartilage
+    development involved in endochondral bone morphogenesis, cell communication, cranial
+    skeletal system development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGGCAGGAACACTGGTATTTATCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459535
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396043
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459535
+  url: https://www.ncbi.nlm.nih.gov/gene/396043
 species: Gallus gallus
 symbol: JAG1
 template_length: '906'
@@ -473,9 +468,8 @@ title: JAG1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000101384](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101384) | [182](https://www.ncbi.nlm.nih.gov/gene/182) | [MIM:601920](https://omim.org/entry/601920) | MIM:118450 |
 | Mouse | [ENSMUSG00000027276](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027276) | [16449](https://www.ncbi.nlm.nih.gov/gene/16449) | [MGI:1095416](http://www.informatics.jax.org/marker/MGI:1095416) | All phenotypic alleles (15):Chemically induced(5) Targeted, knock-out(3) Targeted, other(5) Gene trapped(2) |
-| Xenopus |  | [100486874](https://www.ncbi.nlm.nih.gov/gene/100486874), [399110](https://www.ncbi.nlm.nih.gov/gene/399110) | [485661](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485661) |  |
-| Zebrafish | [ENSDARG00000013168](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013168), [ENSDARG00000030289](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030289) | [140423](https://www.ncbi.nlm.nih.gov/gene/140423), [140421](https://www.ncbi.nlm.nih.gov/gene/140421) | [ZFIN:ZDB-GENE-011128-4](https://zfin.org/ZDB-GENE-011128-4), [ZFIN:ZDB-GENE-011128-2](https://zfin.org/ZDB-GENE-011128-2) | ZDB-GENE-011128-4,ZDB-GENE-011128-2 |
+| Xenopus | [ENSXETG00000002340](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002340) | [100486874](https://www.ncbi.nlm.nih.gov/gene/100486874) |  |  |
+| Zebrafish | [ENSDARG00000013168](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013168) | [140423](https://www.ncbi.nlm.nih.gov/gene/140423) | [ZFIN:ZDB-GENE-011128-4](https://zfin.org/ZDB-GENE-011128-4) | Notch signaling pathway, auditory receptor cell development, cartilage development involved in endochondral bone morphogenesis, cell communication, cranial skeletal system development |
 

@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373974
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001744
-gene_id: '451499'
+gene_id: '373974'
 gene_type: protein-coding
 images:
 - caption: IRX4 expression
@@ -252,13 +252,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IRX4.Anderson.2019.Fig1.jpg
 name: iroquois homeobox 4
-ncbi_id: '451499'
+ncbi_id: '373974'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000113430
   entrez: '50805'
   mod: MIM:606199
@@ -269,23 +264,25 @@ orthologs:
   mod: MGI:1355275
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100038068,779102,100301956
-  mod: '480569'
+- ensembl: ENSXETG00000008892
+  entrez: '100038068'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000035648,ENSDARG00000036051
-  entrez: 402999,474318
-  mod: ZFIN:ZDB-GENE-040426-1825,ZFIN:ZDB-GENE-040712-4
-  phenotypes: ZDB-GENE-040426-1825,ZDB-GENE-040712-4
+- ensembl: ENSDARG00000035648
+  entrez: '402999'
+  mod: ZFIN:ZDB-GENE-040426-1825
+  phenotypes: cell development, neuron differentiation, photoreceptor cell development,
+    posterior lateral line neuromast hair cell differentiation, posterior lateral
+    line neuromast mantle cell differentiation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451499
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373974
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451499
+  url: https://www.ncbi.nlm.nih.gov/gene/373974
 species: Gallus gallus
 symbol: IRX4
 title: IRX4
@@ -314,9 +311,8 @@ title: IRX4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000113430](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113430) | [50805](https://www.ncbi.nlm.nih.gov/gene/50805) | [MIM:606199](https://omim.org/entry/606199) |  |
 | Mouse | [ENSMUSG00000021604](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021604) | [50916](https://www.ncbi.nlm.nih.gov/gene/50916) | [MGI:1355275](http://www.informatics.jax.org/marker/MGI:1355275) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100038068](https://www.ncbi.nlm.nih.gov/gene/100038068), [779102](https://www.ncbi.nlm.nih.gov/gene/779102), [100301956](https://www.ncbi.nlm.nih.gov/gene/100301956) | [480569](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480569) |  |
-| Zebrafish | [ENSDARG00000035648](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035648), [ENSDARG00000036051](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036051) | [402999](https://www.ncbi.nlm.nih.gov/gene/402999), [474318](https://www.ncbi.nlm.nih.gov/gene/474318) | [ZFIN:ZDB-GENE-040426-1825](https://zfin.org/ZDB-GENE-040426-1825), [ZFIN:ZDB-GENE-040712-4](https://zfin.org/ZDB-GENE-040712-4) | ZDB-GENE-040426-1825,ZDB-GENE-040712-4 |
+| Xenopus | [ENSXETG00000008892](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008892) | [100038068](https://www.ncbi.nlm.nih.gov/gene/100038068) |  |  |
+| Zebrafish | [ENSDARG00000035648](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035648) | [402999](https://www.ncbi.nlm.nih.gov/gene/402999) | [ZFIN:ZDB-GENE-040426-1825](https://zfin.org/ZDB-GENE-040426-1825) | cell development, neuron differentiation, photoreceptor cell development, posterior lateral line neuromast hair cell differentiation, posterior lateral line neuromast mantle cell differentiation |
 

@@ -3,7 +3,6 @@ aliases:
 - ubiquitin carboxyl-terminal hydrolase 44
 cgnc_id: '8664'
 external_ids:
-  '4': stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Alev+Jakt+Ueda+landscape
   Comments: "The probe for USP44 was amplified by PCR using the following primers:\
     \ \r\nForward Primer: CAACACAAAACGCAGGAAGTT\r\nReverse Primer: AAGTCCGTTTGCCTGAGAAA\r\
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417913
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416154
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/USP44
-gene_id: '452054'
+gene_id: '417913'
 gene_type: protein-coding
 images:
 - caption: USP44 expression
@@ -35,13 +34,8 @@ images:
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/USP44.Alev.2010.png
 name: ubiquitin specific peptidase 44
-ncbi_id: '452054'
+ncbi_id: '417913'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136014
   entrez: '84101'
   mod: MIM:610993
@@ -52,20 +46,22 @@ orthologs:
   mod: MGI:3045318
   phenotypes: All phenotypic alleles (4):Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 779843,414600,495110
-  mod: '1014111'
+- ensembl: ENSXETG00000009237
+  entrez: '779843'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000089861
   entrez: '393227'
   mod: ZFIN:ZDB-GENE-040426-774
-  phenotypes: ZDB-GENE-040426-774
+  phenotypes: cell division, central nervous system morphogenesis, cranial skeletal
+    system development, negative regulation of ubiquitin protein ligase activity,
+    protein deubiquitination
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452054
+  url: https://www.ncbi.nlm.nih.gov/gene/417913
 species: Gallus gallus
 symbol: USP44
 title: USP44
@@ -95,9 +91,8 @@ Base Pair Numbers: 1830-2265
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000136014](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136014) | [84101](https://www.ncbi.nlm.nih.gov/gene/84101) | [MIM:610993](https://omim.org/entry/610993) |  |
 | Mouse | [ENSMUSG00000020020](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020020) | [327799](https://www.ncbi.nlm.nih.gov/gene/327799) | [MGI:3045318](http://www.informatics.jax.org/marker/MGI:3045318) | All phenotypic alleles (4):Targeted, other(4) |
-| Xenopus |  | [779843](https://www.ncbi.nlm.nih.gov/gene/779843), [414600](https://www.ncbi.nlm.nih.gov/gene/414600), [495110](https://www.ncbi.nlm.nih.gov/gene/495110) | [1014111](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1014111) |  |
-| Zebrafish | [ENSDARG00000089861](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089861) | [393227](https://www.ncbi.nlm.nih.gov/gene/393227) | [ZFIN:ZDB-GENE-040426-774](https://zfin.org/ZDB-GENE-040426-774) | ZDB-GENE-040426-774 |
+| Xenopus | [ENSXETG00000009237](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009237) | [779843](https://www.ncbi.nlm.nih.gov/gene/779843) |  |  |
+| Zebrafish | [ENSDARG00000089861](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089861) | [393227](https://www.ncbi.nlm.nih.gov/gene/393227) | [ZFIN:ZDB-GENE-040426-774](https://zfin.org/ZDB-GENE-040426-774) | cell division, central nervous system morphogenesis, cranial skeletal system development, negative regulation of ubiquitin protein ligase activity, protein deubiquitination |
 

@@ -9,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419002
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417196
-gene_id: '456837'
+gene_id: '419002'
 gene_type: protein-coding
 images:
 - caption: TAF1D expression
@@ -55,40 +55,20 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R230.SNORA8.S27.001.jpg
 name: TATA-box binding protein associated factor, RNA polymerase I subunit D
-ncbi_id: '456837'
+ncbi_id: '419002'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: '79101'
-  mod: MIM:612823
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000031939
-  entrez: '75316'
-  mod: MGI:1922566
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000026163
+  entrez: '100135149'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456837
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419002
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456837
+  url: https://www.ncbi.nlm.nih.gov/gene/419002
 species: Gallus gallus
 symbol: TAF1D
 title: TAF1D
@@ -110,9 +90,5 @@ title: TAF1D
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [79101](https://www.ncbi.nlm.nih.gov/gene/79101) | [MIM:612823](https://omim.org/entry/612823) |  |
-| Mouse | [ENSMUSG00000031939](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031939) | [75316](https://www.ncbi.nlm.nih.gov/gene/75316) | [MGI:1922566](http://www.informatics.jax.org/marker/MGI:1922566) |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000026163](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026163) | [100135149](https://www.ncbi.nlm.nih.gov/gene/100135149) |  |  |
 

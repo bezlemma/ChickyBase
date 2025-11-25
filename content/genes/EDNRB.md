@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:408082
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001127
-gene_id: '452264'
+gene_id: '408082'
 gene_type: protein-coding
 images:
 - caption: EDNRB expression
@@ -119,13 +119,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ednrb.Jourdeuil.2016.Fig3.jpg
 name: endothelin receptor type B
-ncbi_id: '452264'
+ncbi_id: '408082'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136160
   entrez: '1910'
   mod: MIM:131244
@@ -137,20 +132,21 @@ orthologs:
   phenotypes: All phenotypic alleles (41):Spontaneous(3) Chemically induced(11) Radiation
     induced(17) Targeted, knock-out(2) Targeted, other(8)
   species: Mouse
-- ensembl: ''
-  entrez: 779931,378691
-  mod: '963708'
+- ensembl: ENSXETG00000015454
+  entrez: '779931'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000053498
-  entrez: 560081,30442
-  mod: ZFIN:ZDB-GENE-081105-182,ZFIN:ZDB-GENE-980526-16
-  phenotypes: ZDB-GENE-081105-182,ZDB-GENE-980526-16
+- ensembl: ENSDARG00000112052
+  entrez: '30442'
+  mod: ZFIN:ZDB-GENE-980526-16
+  phenotypes: G protein-coupled receptor signaling pathway, blood circulation, developmental
+    pigmentation, endothelin receptor signaling pathway, enteric nervous system development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452264
+  url: https://www.ncbi.nlm.nih.gov/gene/408082
 species: Gallus gallus
 symbol: EDNRB
 title: EDNRB
@@ -176,9 +172,8 @@ title: EDNRB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000136160](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136160) | [1910](https://www.ncbi.nlm.nih.gov/gene/1910) | [MIM:131244](https://omim.org/entry/131244) | MIM:600501 |
 | Mouse | [ENSMUSG00000022122](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022122) | [13618](https://www.ncbi.nlm.nih.gov/gene/13618) | [MGI:102720](http://www.informatics.jax.org/marker/MGI:102720) | All phenotypic alleles (41):Spontaneous(3) Chemically induced(11) Radiation induced(17) Targeted, knock-out(2) Targeted, other(8) |
-| Xenopus |  | [779931](https://www.ncbi.nlm.nih.gov/gene/779931), [378691](https://www.ncbi.nlm.nih.gov/gene/378691) | [963708](http://www.xenbase.org/gene/showgene.do?method=display&geneId=963708) |  |
-| Zebrafish | [ENSDARG00000053498](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053498) | [560081](https://www.ncbi.nlm.nih.gov/gene/560081), [30442](https://www.ncbi.nlm.nih.gov/gene/30442) | [ZFIN:ZDB-GENE-081105-182](https://zfin.org/ZDB-GENE-081105-182), [ZFIN:ZDB-GENE-980526-16](https://zfin.org/ZDB-GENE-980526-16) | ZDB-GENE-081105-182,ZDB-GENE-980526-16 |
+| Xenopus | [ENSXETG00000015454](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015454) | [779931](https://www.ncbi.nlm.nih.gov/gene/779931) |  |  |
+| Zebrafish | [ENSDARG00000112052](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000112052) | [30442](https://www.ncbi.nlm.nih.gov/gene/30442) | [ZFIN:ZDB-GENE-980526-16](https://zfin.org/ZDB-GENE-980526-16) | G protein-coupled receptor signaling pathway, blood circulation, developmental pigmentation, endothelin receptor signaling pathway, enteric nervous system development |
 

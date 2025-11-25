@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419495
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417650
 forward_primer: 5’-ATCCCGTGAGCTTTGGATGG-3’
-gene_id: '458636'
+gene_id: '419495'
 gene_type: protein-coding
 images:
 - caption: FBXO2 expression
@@ -93,13 +93,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R662.FBX02.S26A.001.jpg
 name: F-box protein 2
-ncbi_id: '458636'
+ncbi_id: '419495'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000116661
   entrez: '26232'
   mod: MIM:607112
@@ -110,24 +105,25 @@ orthologs:
   mod: MGI:2446216
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '994588'
+- ensembl: ENSXETG00000036844
+  entrez: '101733128'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000099306
   entrez: '559776'
   mod: ZFIN:ZDB-GENE-080204-124
-  phenotypes: ZDB-GENE-080204-124
+  phenotypes: ERAD pathway, SCF-dependent proteasomal ubiquitin-dependent protein
+    catabolic process, glycoprotein catabolic process
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGCTTGGCTGTGGTTTGGAAG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458636
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419495
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458636
+  url: https://www.ncbi.nlm.nih.gov/gene/419495
 species: Gallus gallus
 symbol: FBXO2
 template_length: '934'
@@ -150,9 +146,8 @@ title: FBXO2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000116661](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000116661) | [26232](https://www.ncbi.nlm.nih.gov/gene/26232) | [MIM:607112](https://omim.org/entry/607112) |  |
 | Mouse | [ENSMUSG00000041556](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041556) | [230904](https://www.ncbi.nlm.nih.gov/gene/230904) | [MGI:2446216](http://www.informatics.jax.org/marker/MGI:2446216) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  |  | [994588](http://www.xenbase.org/gene/showgene.do?method=display&geneId=994588) |  |
-| Zebrafish |  | [559776](https://www.ncbi.nlm.nih.gov/gene/559776) | [ZFIN:ZDB-GENE-080204-124](https://zfin.org/ZDB-GENE-080204-124) | ZDB-GENE-080204-124 |
+| Xenopus | [ENSXETG00000036844](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000036844) | [101733128](https://www.ncbi.nlm.nih.gov/gene/101733128) |  |  |
+| Zebrafish | [ENSDARG00000099306](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099306) | [559776](https://www.ncbi.nlm.nih.gov/gene/559776) | [ZFIN:ZDB-GENE-080204-124](https://zfin.org/ZDB-GENE-080204-124) | ERAD pathway, SCF-dependent proteasomal ubiquitin-dependent protein catabolic process, glycoprotein catabolic process |
 

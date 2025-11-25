@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420332
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0070888
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030952
-gene_id: '457911'
+gene_id: '420332'
 gene_type: protein-coding
 images:
 - caption: MYC expression
@@ -83,13 +83,8 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.KHUD.2009.jpg
 name: MYC proto-oncogene, bHLH transcription factor
-ncbi_id: '457911'
+ncbi_id: '420332'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136997
   entrez: '4609'
   mod: MIM:190080
@@ -100,20 +95,23 @@ orthologs:
   mod: MGI:97250
   phenotypes: All phenotypic alleles (18):Targeted, knock-out(7) Targeted, other(11)
   species: Mouse
-- ensembl: ''
-  entrez: 395024,379052,399315
-  mod: '6052813'
+- ensembl: ENSXETG00000025372
+  entrez: '395024'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000045695,ENSDARG00000007241
-  entrez: 30686,393141
-  mod: ZFIN:ZDB-GENE-990415-162,ZFIN:ZDB-GENE-040426-780
-  phenotypes: ZDB-GENE-990415-162,ZDB-GENE-040426-780
+- ensembl: ENSDARG00000007241
+  entrez: '393141'
+  mod: ZFIN:ZDB-GENE-040426-780
+  phenotypes: definitive hemopoiesis, hematopoietic progenitor cell differentiation,
+    negative regulation of transcription by RNA polymerase II, positive regulation
+    of cell population proliferation, positive regulation of transcription by RNA
+    polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457911
+  url: https://www.ncbi.nlm.nih.gov/gene/420332
 species: Gallus gallus
 symbol: MYC
 title: MYC
@@ -143,9 +141,8 @@ Copyright © 2009 Wiley-Liss, Inc.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000136997](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136997) | [4609](https://www.ncbi.nlm.nih.gov/gene/4609) | [MIM:190080](https://omim.org/entry/190080) | MIM:113970 |
 | Mouse | [ENSMUSG00000022346](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022346) | [17869](https://www.ncbi.nlm.nih.gov/gene/17869) | [MGI:97250](http://www.informatics.jax.org/marker/MGI:97250) | All phenotypic alleles (18):Targeted, knock-out(7) Targeted, other(11) |
-| Xenopus |  | [395024](https://www.ncbi.nlm.nih.gov/gene/395024), [379052](https://www.ncbi.nlm.nih.gov/gene/379052), [399315](https://www.ncbi.nlm.nih.gov/gene/399315) | [6052813](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6052813) |  |
-| Zebrafish | [ENSDARG00000045695](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045695), [ENSDARG00000007241](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007241) | [30686](https://www.ncbi.nlm.nih.gov/gene/30686), [393141](https://www.ncbi.nlm.nih.gov/gene/393141) | [ZFIN:ZDB-GENE-990415-162](https://zfin.org/ZDB-GENE-990415-162), [ZFIN:ZDB-GENE-040426-780](https://zfin.org/ZDB-GENE-040426-780) | ZDB-GENE-990415-162,ZDB-GENE-040426-780 |
+| Xenopus | [ENSXETG00000025372](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025372) | [395024](https://www.ncbi.nlm.nih.gov/gene/395024) |  |  |
+| Zebrafish | [ENSDARG00000007241](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007241) | [393141](https://www.ncbi.nlm.nih.gov/gene/393141) | [ZFIN:ZDB-GENE-040426-780](https://zfin.org/ZDB-GENE-040426-780) | definitive hemopoiesis, hematopoietic progenitor cell differentiation, negative regulation of transcription by RNA polymerase II, positive regulation of cell population proliferation, positive regulation of transcription by RNA polymerase II |
 

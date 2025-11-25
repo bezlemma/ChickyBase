@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424936
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422743
 forward_primer: TTTGTGGAAGGTGGAAGGATTG
-gene_id: '462864'
+gene_id: '100859876'
 gene_type: protein-coding
 images:
 - caption: ALPI expression
@@ -53,41 +53,36 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R564.ALPI.S22.001.jpg
 name: alkaline phosphatase, intestinal
-ncbi_id: '462864'
+ncbi_id: '100859876'
 orthologs:
-- ensembl: ''
-  entrez: 38633,42482
-  mod: FBgn0035620,FBgn0038845
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000163295
   entrez: '248'
   mod: MIM:171740
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000079440
-  entrez: '76768'
-  mod: MGI:1924018
+- ensembl: ENSMUSG00000036500
+  entrez: '11648'
+  mod: MGI:87984
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100144722,100127270
-  mod: '854952'
+- ensembl: ENSXETG00000022768
+  entrez: '548375'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000053774,ENSDARG00000015273
-  entrez: 574009,541539
-  mod: ZFIN:ZDB-GENE-050626-142,ZFIN:ZDB-GENE-050327-78
-  phenotypes: ZDB-GENE-050626-142,ZDB-GENE-050327-78
+- ensembl: ENSDARG00000053774
+  entrez: '574009'
+  mod: ZFIN:ZDB-GENE-050626-142
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCTGGCATCATAAGGCTTGAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462864
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100859876
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462864
+  url: https://www.ncbi.nlm.nih.gov/gene/100859876
 species: Gallus gallus
 symbol: ALPI
 title: ALPI
@@ -111,9 +106,8 @@ title: ALPI
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38633](https://www.ncbi.nlm.nih.gov/gene/38633), [42482](https://www.ncbi.nlm.nih.gov/gene/42482) | FBgn0035620, FBgn0038845 |  |
-| Human |  | [248](https://www.ncbi.nlm.nih.gov/gene/248) | [MIM:171740](https://omim.org/entry/171740) |  |
-| Mouse | [ENSMUSG00000079440](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000079440) | [76768](https://www.ncbi.nlm.nih.gov/gene/76768) | [MGI:1924018](http://www.informatics.jax.org/marker/MGI:1924018) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100144722](https://www.ncbi.nlm.nih.gov/gene/100144722), [100127270](https://www.ncbi.nlm.nih.gov/gene/100127270) | [854952](http://www.xenbase.org/gene/showgene.do?method=display&geneId=854952) |  |
-| Zebrafish | [ENSDARG00000053774](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053774), [ENSDARG00000015273](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015273) | [574009](https://www.ncbi.nlm.nih.gov/gene/574009), [541539](https://www.ncbi.nlm.nih.gov/gene/541539) | [ZFIN:ZDB-GENE-050626-142](https://zfin.org/ZDB-GENE-050626-142), [ZFIN:ZDB-GENE-050327-78](https://zfin.org/ZDB-GENE-050327-78) | ZDB-GENE-050626-142,ZDB-GENE-050327-78 |
+| Human | [ENSG00000163295](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163295) | [248](https://www.ncbi.nlm.nih.gov/gene/248) | [MIM:171740](https://omim.org/entry/171740) |  |
+| Mouse | [ENSMUSG00000036500](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036500) | [11648](https://www.ncbi.nlm.nih.gov/gene/11648) | [MGI:87984](http://www.informatics.jax.org/marker/MGI:87984) | All phenotypic alleles (1):Targeted, knock-out(1) |
+| Xenopus | [ENSXETG00000022768](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022768) | [548375](https://www.ncbi.nlm.nih.gov/gene/548375) |  |  |
+| Zebrafish | [ENSDARG00000053774](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053774) | [574009](https://www.ncbi.nlm.nih.gov/gene/574009) | [ZFIN:ZDB-GENE-050626-142](https://zfin.org/ZDB-GENE-050626-142) |  |
 

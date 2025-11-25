@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395427
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204692
 forward_primer: TTCAAGGATTGGGCATACG
-gene_id: '449204'
+gene_id: '395427'
 gene_type: protein-coding
 images:
 - caption: TRPV4 expression
@@ -136,13 +136,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R402.TRPV4.S27D.002.jpg
 name: transient receptor potential cation channel subfamily V member 4
-ncbi_id: '449204'
+ncbi_id: '395427'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000111199
   entrez: '59341'
   mod: MIM:605427
@@ -153,24 +148,26 @@ orthologs:
   mod: MGI:1926945
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000018609
   entrez: '100496204'
-  mod: '998898'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000061941
   entrez: '557850'
   mod: ZFIN:ZDB-GENE-030912-7
-  phenotypes: ZDB-GENE-030912-7
+  phenotypes: actin filament organization, atrioventricular valve development, calcium
+    ion import across plasma membrane, calcium ion transmembrane transport, calcium
+    ion transport
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGCAACTTCCAGATGTGTTTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449204
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395427
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449204
+  url: https://www.ncbi.nlm.nih.gov/gene/395427
 species: Gallus gallus
 symbol: TRPV4
 template_length: '991'
@@ -192,9 +189,8 @@ title: TRPV4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000111199](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111199) | [59341](https://www.ncbi.nlm.nih.gov/gene/59341) | [MIM:605427](https://omim.org/entry/605427) | MIM:605427 |
 | Mouse | [ENSMUSG00000014158](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000014158) | [63873](https://www.ncbi.nlm.nih.gov/gene/63873) | [MGI:1926945](http://www.informatics.jax.org/marker/MGI:1926945) | All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2) |
-| Xenopus |  | [100496204](https://www.ncbi.nlm.nih.gov/gene/100496204) | [998898](http://www.xenbase.org/gene/showgene.do?method=display&geneId=998898) |  |
-| Zebrafish | [ENSDARG00000061941](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061941) | [557850](https://www.ncbi.nlm.nih.gov/gene/557850) | [ZFIN:ZDB-GENE-030912-7](https://zfin.org/ZDB-GENE-030912-7) | ZDB-GENE-030912-7 |
+| Xenopus | [ENSXETG00000018609](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018609) | [100496204](https://www.ncbi.nlm.nih.gov/gene/100496204) |  |  |
+| Zebrafish | [ENSDARG00000061941](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061941) | [557850](https://www.ncbi.nlm.nih.gov/gene/557850) | [ZFIN:ZDB-GENE-030912-7](https://zfin.org/ZDB-GENE-030912-7) | actin filament organization, atrioventricular valve development, calcium ion import across plasma membrane, calcium ion transmembrane transport, calcium ion transport |
 

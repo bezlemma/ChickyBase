@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415786
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001231969
-gene_id: '461525'
+gene_id: '415786'
 gene_type: protein-coding
 images:
 - caption: CES1L1 expression
@@ -33,13 +33,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F5.ces1.png
 name: carboxylesterase 1 like 1
-ncbi_id: '461525'
+ncbi_id: '415786'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000198848
   entrez: '1066'
   mod: MIM:114835
@@ -51,19 +46,19 @@ orthologs:
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
 - ensembl: ''
-  entrez: 100494149,100144981
-  mod: 6467124,6467139
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+  entrez: '100494149'
   mod: ''
   phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000041569
+  entrez: '566132'
+  mod: ZFIN:ZDB-GENE-061013-99
+  phenotypes: biological_process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461525
+  url: https://www.ncbi.nlm.nih.gov/gene/415786
 species: Gallus gallus
 symbol: CES1L1
 title: CES1L1
@@ -89,9 +84,8 @@ title: CES1L1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000198848](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198848) | [1066](https://www.ncbi.nlm.nih.gov/gene/1066) | [MIM:114835](https://omim.org/entry/114835) | MIM:114835 |
 | Mouse | [ENSMUSG00000056973](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000056973) | [104158](https://www.ncbi.nlm.nih.gov/gene/104158) | [MGI:2148202](http://www.informatics.jax.org/marker/MGI:2148202) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100494149](https://www.ncbi.nlm.nih.gov/gene/100494149), [100144981](https://www.ncbi.nlm.nih.gov/gene/100144981) | [6467124](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6467124), [6467139](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6467139) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus |  | [100494149](https://www.ncbi.nlm.nih.gov/gene/100494149) |  |  |
+| Zebrafish | [ENSDARG00000041569](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041569) | [566132](https://www.ncbi.nlm.nih.gov/gene/566132) | [ZFIN:ZDB-GENE-061013-99](https://zfin.org/ZDB-GENE-061013-99) | biological_process |
 

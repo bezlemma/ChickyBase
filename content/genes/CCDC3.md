@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769832
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640333
-gene_id: '451441'
+gene_id: '769832'
 gene_type: protein-coding
 images:
 - caption: CCDC3 expression
@@ -74,37 +74,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CCDC3.Anderson.2019.Supplementary
     figure 5G2.jpg
 name: coiled-coil domain containing 3
-ncbi_id: '451441'
+ncbi_id: '769832'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000151468
+  entrez: '83643'
+  mod: MIM:620579
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000026676
+  entrez: '74186'
+  mod: MGI:1921436
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000027466
+  entrez: '549857'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000026052
+  entrez: '560952'
+  mod: ZFIN:ZDB-GENE-041210-326
+  phenotypes: negative regulation of gene expression
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451441
+  url: https://www.ncbi.nlm.nih.gov/gene/769832
 species: Gallus gallus
 symbol: CCDC3
 title: CCDC3
@@ -130,9 +125,8 @@ title: CCDC3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000151468](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000151468) | [83643](https://www.ncbi.nlm.nih.gov/gene/83643) | [MIM:620579](https://omim.org/entry/620579) |  |
+| Mouse | [ENSMUSG00000026676](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026676) | [74186](https://www.ncbi.nlm.nih.gov/gene/74186) | [MGI:1921436](http://www.informatics.jax.org/marker/MGI:1921436) |  |
+| Xenopus | [ENSXETG00000027466](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000027466) | [549857](https://www.ncbi.nlm.nih.gov/gene/549857) |  |  |
+| Zebrafish | [ENSDARG00000026052](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026052) | [560952](https://www.ncbi.nlm.nih.gov/gene/560952) | [ZFIN:ZDB-GENE-041210-326](https://zfin.org/ZDB-GENE-041210-326) | negative regulation of gene expression |
 

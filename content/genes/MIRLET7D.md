@@ -3,13 +3,12 @@ aliases:
 - MIRNLET7D, gga-let-7d, microRNA 7D, let-7d
 cgnc_id: '59151'
 external_ids:
-  '25': stage 25
   Comments: no signal detected stages 4-25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018264
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NC_006113
-gene_id: '468032'
+gene_id: '777836'
 gene_type: miscRNA
 images:
 - caption: MIRLET7D expression
@@ -20,7 +19,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/let7d.18.st25.jpg
 name: microRNA let-7d
-ncbi_id: '468032'
+ncbi_id: '777836'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -50,10 +49,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468032
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777836
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468032
+  url: https://www.ncbi.nlm.nih.gov/gene/777836
 species: Gallus gallus
 symbol: MIRLET7D
 title: MIRLET7D

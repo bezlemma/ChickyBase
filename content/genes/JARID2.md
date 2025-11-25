@@ -20,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420839
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012862
-gene_id: '454351'
+gene_id: '420839'
 gene_type: protein-coding
 images:
 - caption: JARID2 expression
@@ -38,13 +38,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-fig6A-2-JARID2.jpg
 name: jumonji and AT-rich interaction domain containing 2
-ncbi_id: '454351'
+ncbi_id: '420839'
 orthologs:
-- ensembl: ''
-  entrez: '39103'
-  mod: FBgn0036004
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000008083
   entrez: '3720'
   mod: MIM:601594
@@ -55,20 +50,21 @@ orthologs:
   mod: MGI:104813
   phenotypes: All phenotypic alleles (7):Targeted, other(4) Gene trapped(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100217357,495062,495842
-  mod: '982165'
+- ensembl: ENSXETG00000015433
+  entrez: '100217357'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000062268,ENSDARG00000060925
-  entrez: 558456,100007426
-  mod: ZFIN:ZDB-GENE-060503-246,ZFIN:ZDB-GENE-061218-1
-  phenotypes: ZDB-GENE-060503-246,ZDB-GENE-061218-1
+- ensembl: ENSDARG00000062268
+  entrez: '558456'
+  mod: ZFIN:ZDB-GENE-060503-246
+  phenotypes: cell differentiation, chromatin organization, chromatin remodeling,
+    regulation of gene expression, stem cell differentiation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454351
+  url: https://www.ncbi.nlm.nih.gov/gene/420839
 species: Gallus gallus
 symbol: JARID2
 title: JARID2
@@ -99,9 +95,8 @@ title: JARID2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39103](https://www.ncbi.nlm.nih.gov/gene/39103) | FBgn0036004 |  |
 | Human | [ENSG00000008083](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000008083) | [3720](https://www.ncbi.nlm.nih.gov/gene/3720) | [MIM:601594](https://omim.org/entry/601594) |  |
 | Mouse | [ENSMUSG00000038518](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038518) | [16468](https://www.ncbi.nlm.nih.gov/gene/16468) | [MGI:104813](http://www.informatics.jax.org/marker/MGI:104813) | All phenotypic alleles (7):Targeted, other(4) Gene trapped(3) |
-| Xenopus |  | [100217357](https://www.ncbi.nlm.nih.gov/gene/100217357), [495062](https://www.ncbi.nlm.nih.gov/gene/495062), [495842](https://www.ncbi.nlm.nih.gov/gene/495842) | [982165](http://www.xenbase.org/gene/showgene.do?method=display&geneId=982165) |  |
-| Zebrafish | [ENSDARG00000062268](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062268), [ENSDARG00000060925](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060925) | [558456](https://www.ncbi.nlm.nih.gov/gene/558456), [100007426](https://www.ncbi.nlm.nih.gov/gene/100007426) | [ZFIN:ZDB-GENE-060503-246](https://zfin.org/ZDB-GENE-060503-246), [ZFIN:ZDB-GENE-061218-1](https://zfin.org/ZDB-GENE-061218-1) | ZDB-GENE-060503-246,ZDB-GENE-061218-1 |
+| Xenopus | [ENSXETG00000015433](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015433) | [100217357](https://www.ncbi.nlm.nih.gov/gene/100217357) |  |  |
+| Zebrafish | [ENSDARG00000062268](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062268) | [558456](https://www.ncbi.nlm.nih.gov/gene/558456) | [ZFIN:ZDB-GENE-060503-246](https://zfin.org/ZDB-GENE-060503-246) | cell differentiation, chromatin organization, chromatin remodeling, regulation of gene expression, stem cell differentiation |
 

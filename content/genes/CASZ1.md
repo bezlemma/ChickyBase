@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419452
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417611
 forward_primer: 5'-CTGTCCCCCCATTTTTCTTTCTG-3'
-gene_id: '458442'
+gene_id: '419452'
 gene_type: protein-coding
 images:
 - caption: CASZ1 expression
@@ -125,13 +125,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R617.CASZ1.S26AA.001.jpg
 name: castor zinc finger 1
-ncbi_id: '458442'
+ncbi_id: '419452'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000130940
   entrez: '54897'
   mod: MIM:609895
@@ -142,24 +137,25 @@ orthologs:
   mod: MGI:1196251
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100127676,100126658
-  mod: '957460'
+- ensembl: ENSXETG00000006312
+  entrez: '100127676'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000037030
   entrez: '559053'
   mod: ZFIN:ZDB-GENE-060130-108
-  phenotypes: ZDB-GENE-060130-108
+  phenotypes: positive regulation of transcription by RNA polymerase II, regulation
+    of DNA-templated transcription, regulation of neuron differentiation
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGCATTACCTGTCATCGTGCGAC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458442
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419452
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458442
+  url: https://www.ncbi.nlm.nih.gov/gene/419452
 species: Gallus gallus
 symbol: CASZ1
 template_length: '863'
@@ -184,9 +180,8 @@ title: CASZ1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000130940](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000130940) | [54897](https://www.ncbi.nlm.nih.gov/gene/54897) | [MIM:609895](https://omim.org/entry/609895) |  |
 | Mouse | [ENSMUSG00000028977](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028977) | [69743](https://www.ncbi.nlm.nih.gov/gene/69743) | [MGI:1196251](http://www.informatics.jax.org/marker/MGI:1196251) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100127676](https://www.ncbi.nlm.nih.gov/gene/100127676), [100126658](https://www.ncbi.nlm.nih.gov/gene/100126658) | [957460](http://www.xenbase.org/gene/showgene.do?method=display&geneId=957460) |  |
-| Zebrafish | [ENSDARG00000037030](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037030) | [559053](https://www.ncbi.nlm.nih.gov/gene/559053) | [ZFIN:ZDB-GENE-060130-108](https://zfin.org/ZDB-GENE-060130-108) | ZDB-GENE-060130-108 |
+| Xenopus | [ENSXETG00000006312](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006312) | [100127676](https://www.ncbi.nlm.nih.gov/gene/100127676) |  |  |
+| Zebrafish | [ENSDARG00000037030](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037030) | [559053](https://www.ncbi.nlm.nih.gov/gene/559053) | [ZFIN:ZDB-GENE-060130-108](https://zfin.org/ZDB-GENE-060130-108) | positive regulation of transcription by RNA polymerase II, regulation of DNA-templated transcription, regulation of neuron differentiation |
 

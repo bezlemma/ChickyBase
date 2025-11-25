@@ -3,14 +3,13 @@ aliases:
 - noelin-3
 cgnc_id: '3872'
 external_ids:
-  '25': stage 25
   Comments: No expression observed at or before stage 10.
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000005203
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424461
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641696
 forward_primer: CGCCAGCATCCTCAACCTC
-gene_id: '450257'
+gene_id: '424461'
 gene_type: protein-coding
 images:
 - caption: OLFM3 expression
@@ -107,13 +106,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R321.OLFM3.S25.001.jpg
 name: olfactomedin 3
-ncbi_id: '450257'
+ncbi_id: '424461'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000118733
   entrez: '118427'
   mod: MIM:607567
@@ -124,24 +118,24 @@ orthologs:
   mod: MGI:2387329
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100492273,447526
-  mod: '960615'
+- ensembl: ENSXETG00000013268
+  entrez: '100492273'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000071493,ENSDARG00000039174
-  entrez: 563182,561648
-  mod: ZFIN:ZDB-GENE-080219-11,ZFIN:ZDB-GENE-070912-606,ZFIN:ZDB-GENE-070912-606
-  phenotypes: ZDB-GENE-080219-11,ZDB-GENE-070912-606,ZDB-GENE-070912-606
+- ensembl: ENSDARG00000071493
+  entrez: '563182'
+  mod: ZFIN:ZDB-GENE-080219-11
+  phenotypes: biological_process, signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCAAGCACCCGCCCAGTATC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450257
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424461
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450257
+  url: https://www.ncbi.nlm.nih.gov/gene/424461
 species: Gallus gallus
 symbol: OLFM3
 template_length: '899'
@@ -165,9 +159,8 @@ title: OLFM3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000118733](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118733) | [118427](https://www.ncbi.nlm.nih.gov/gene/118427) | [MIM:607567](https://omim.org/entry/607567) |  |
 | Mouse | [ENSMUSG00000027965](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027965) | [229759](https://www.ncbi.nlm.nih.gov/gene/229759) | [MGI:2387329](http://www.informatics.jax.org/marker/MGI:2387329) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100492273](https://www.ncbi.nlm.nih.gov/gene/100492273), [447526](https://www.ncbi.nlm.nih.gov/gene/447526) | [960615](http://www.xenbase.org/gene/showgene.do?method=display&geneId=960615) |  |
-| Zebrafish | [ENSDARG00000071493](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071493), [ENSDARG00000039174](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039174) | [563182](https://www.ncbi.nlm.nih.gov/gene/563182), [561648](https://www.ncbi.nlm.nih.gov/gene/561648) | [ZFIN:ZDB-GENE-080219-11](https://zfin.org/ZDB-GENE-080219-11), [ZFIN:ZDB-GENE-070912-606](https://zfin.org/ZDB-GENE-070912-606), [ZFIN:ZDB-GENE-070912-606](https://zfin.org/ZDB-GENE-070912-606) | ZDB-GENE-080219-11,ZDB-GENE-070912-606,ZDB-GENE-070912-606 |
+| Xenopus | [ENSXETG00000013268](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013268) | [100492273](https://www.ncbi.nlm.nih.gov/gene/100492273) |  |  |
+| Zebrafish | [ENSDARG00000071493](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071493) | [563182](https://www.ncbi.nlm.nih.gov/gene/563182) | [ZFIN:ZDB-GENE-080219-11](https://zfin.org/ZDB-GENE-080219-11) | biological_process, signal transduction |
 

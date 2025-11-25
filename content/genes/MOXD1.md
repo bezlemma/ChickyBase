@@ -5,8 +5,6 @@ aliases:
 - monooxygenase X
 cgnc_id: '2104'
 external_ids:
-  '13': stage 13
-  '19': stage 19
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0037153
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005789
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=knecht+dbhr+dopamine+beta-hydroxylase+neural+crest
@@ -21,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395333
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005507
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204624
-gene_id: '448863'
+gene_id: '395333'
 gene_type: protein-coding
 images:
 - caption: MOXD1 expression
@@ -164,13 +162,8 @@ images:
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MOXD1_HH 13 x25 b.jpg
 name: monooxygenase DBH like 1
-ncbi_id: '448863'
+ncbi_id: '395333'
 orthologs:
-- ensembl: ''
-  entrez: '40453'
-  mod: FBgn0037153
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000079931
   entrez: '26002'
   mod: MIM:609000
@@ -181,20 +174,21 @@ orthologs:
   mod: MGI:1921582
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000011974
   entrez: '100497795'
-  mod: '988178'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000031136
   entrez: '570584'
   mod: ZFIN:ZDB-GENE-030131-9320
-  phenotypes: ZDB-GENE-030131-9320
+  phenotypes: dopamine catabolic process, norepinephrine biosynthetic process, octopamine
+    biosynthetic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448863
+  url: https://www.ncbi.nlm.nih.gov/gene/395333
 species: Gallus gallus
 symbol: MOXD1
 title: MOXD1
@@ -224,9 +218,8 @@ title: MOXD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40453](https://www.ncbi.nlm.nih.gov/gene/40453) | FBgn0037153 |  |
 | Human | [ENSG00000079931](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000079931) | [26002](https://www.ncbi.nlm.nih.gov/gene/26002) | [MIM:609000](https://omim.org/entry/609000) |  |
 | Mouse | [ENSMUSG00000020000](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020000) | [59012](https://www.ncbi.nlm.nih.gov/gene/59012) | [MGI:1921582](http://www.informatics.jax.org/marker/MGI:1921582) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [100497795](https://www.ncbi.nlm.nih.gov/gene/100497795) | [988178](http://www.xenbase.org/gene/showgene.do?method=display&geneId=988178) |  |
-| Zebrafish | [ENSDARG00000031136](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031136) | [570584](https://www.ncbi.nlm.nih.gov/gene/570584) | [ZFIN:ZDB-GENE-030131-9320](https://zfin.org/ZDB-GENE-030131-9320) | ZDB-GENE-030131-9320 |
+| Xenopus | [ENSXETG00000011974](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011974) | [100497795](https://www.ncbi.nlm.nih.gov/gene/100497795) |  |  |
+| Zebrafish | [ENSDARG00000031136](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031136) | [570584](https://www.ncbi.nlm.nih.gov/gene/570584) | [ZFIN:ZDB-GENE-030131-9320](https://zfin.org/ZDB-GENE-030131-9320) | dopamine catabolic process, norepinephrine biosynthetic process, octopamine biosynthetic process |
 

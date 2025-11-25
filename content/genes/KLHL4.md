@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422265
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420250
 forward_primer: 5'-ACCATCTCCTACCAGAAAGACGG-3'
-gene_id: '450094'
+gene_id: '422265'
 gene_type: protein-coding
 images:
 - caption: KLHL4 expression
@@ -98,13 +98,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R552.KLHL4.S27A.001.jpg
 name: kelch like family member 4
-ncbi_id: '450094'
+ncbi_id: '422265'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000102271
   entrez: '56062'
   mod: MIM:300348
@@ -115,24 +110,19 @@ orthologs:
   mod: MGI:2442829
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000015861
   entrez: '100125035'
-  mod: '988001'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '559349'
-  mod: ZFIN:ZDB-GENE-070410-63
-  phenotypes: ZDB-GENE-070410-63
-  species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGAGCCCTTCCAATGTTGACAGG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450094
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422265
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450094
+  url: https://www.ncbi.nlm.nih.gov/gene/422265
 species: Gallus gallus
 symbol: KLHL4
 template_length: '908'
@@ -155,9 +145,7 @@ title: KLHL4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000102271](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000102271) | [56062](https://www.ncbi.nlm.nih.gov/gene/56062) | [MIM:300348](https://omim.org/entry/300348) |  |
 | Mouse | [ENSMUSG00000025597](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025597) | [237010](https://www.ncbi.nlm.nih.gov/gene/237010) | [MGI:2442829](http://www.informatics.jax.org/marker/MGI:2442829) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100125035](https://www.ncbi.nlm.nih.gov/gene/100125035) | [988001](http://www.xenbase.org/gene/showgene.do?method=display&geneId=988001) |  |
-| Zebrafish |  | [559349](https://www.ncbi.nlm.nih.gov/gene/559349) | [ZFIN:ZDB-GENE-070410-63](https://zfin.org/ZDB-GENE-070410-63) | ZDB-GENE-070410-63 |
+| Xenopus | [ENSXETG00000015861](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015861) | [100125035](https://www.ncbi.nlm.nih.gov/gene/100125035) |  |  |
 

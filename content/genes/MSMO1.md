@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422423
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0000254
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006438
-gene_id: '451491'
+gene_id: '422423'
 gene_type: protein-coding
 images:
 - caption: MSMO1 expression
@@ -36,13 +36,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-figS1-I.jpg
 name: methylsterol monooxygenase 1
-ncbi_id: '451491'
+ncbi_id: '422423'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000052802
   entrez: '6307'
   mod: MIM:607545
@@ -53,20 +48,22 @@ orthologs:
   mod: MGI:1913484
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000000914
   entrez: '780270'
-  mod: '960871'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000055876
+- ensembl: ENSDARG00000115922
   entrez: '406662'
   mod: ZFIN:ZDB-GENE-040426-2670
-  phenotypes: ZDB-GENE-040426-2670
+  phenotypes: cholesterol biosynthetic process, lipid biosynthetic process, lipid
+    metabolic process, regulation of chondrocyte differentiation, steroid biosynthetic
+    process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451491
+  url: https://www.ncbi.nlm.nih.gov/gene/422423
 species: Gallus gallus
 symbol: MSMO1
 title: MSMO1
@@ -95,9 +92,8 @@ title: MSMO1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000052802](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000052802) | [6307](https://www.ncbi.nlm.nih.gov/gene/6307) | [MIM:607545](https://omim.org/entry/607545) |  |
 | Mouse | [ENSMUSG00000031604](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031604) | [66234](https://www.ncbi.nlm.nih.gov/gene/66234) | [MGI:1913484](http://www.informatics.jax.org/marker/MGI:1913484) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [780270](https://www.ncbi.nlm.nih.gov/gene/780270) | [960871](http://www.xenbase.org/gene/showgene.do?method=display&geneId=960871) |  |
-| Zebrafish | [ENSDARG00000055876](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055876) | [406662](https://www.ncbi.nlm.nih.gov/gene/406662) | [ZFIN:ZDB-GENE-040426-2670](https://zfin.org/ZDB-GENE-040426-2670) | ZDB-GENE-040426-2670 |
+| Xenopus | [ENSXETG00000000914](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000914) | [780270](https://www.ncbi.nlm.nih.gov/gene/780270) |  |  |
+| Zebrafish | [ENSDARG00000115922](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115922) | [406662](https://www.ncbi.nlm.nih.gov/gene/406662) | [ZFIN:ZDB-GENE-040426-2670](https://zfin.org/ZDB-GENE-040426-2670) | cholesterol biosynthetic process, lipid biosynthetic process, lipid metabolic process, regulation of chondrocyte differentiation, steroid biosynthetic process |
 

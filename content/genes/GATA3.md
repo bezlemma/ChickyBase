@@ -5,8 +5,6 @@ aliases:
 - NF-E1
 cgnc_id: '5080'
 external_ids:
-  '4': stage 4stage 4
-  '7': stage 7stage 7
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0001138
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0050852
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0000790
@@ -21,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419106
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0070888
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001008444
-gene_id: '456256'
+gene_id: '419106'
 gene_type: protein-coding
 images:
 - caption: GATA3 expression
@@ -303,13 +301,8 @@ images:
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GATA3.Christophorou.2009.f1.gata3.png
 name: GATA binding protein 3
-ncbi_id: '456256'
+ncbi_id: '419106'
 orthologs:
-- ensembl: ''
-  entrez: '40962'
-  mod: FBgn0001138
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000107485
   entrez: '2625'
   mod: MIM:131320
@@ -320,20 +313,21 @@ orthologs:
   mod: MGI:95663
   phenotypes: All phenotypic alleles (12):Targeted, knock-out(5) Targeted, other(7)
   species: Mouse
-- ensembl: ''
-  entrez: 448391,399445
-  mod: '485929'
+- ensembl: ENSXETG00000025398
+  entrez: '448391'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000016526
   entrez: '30458'
   mod: ZFIN:ZDB-GENE-990415-82
-  phenotypes: ZDB-GENE-990415-82
+  phenotypes: cardiac muscle tissue regeneration, cell fate commitment, ectodermal
+    placode development, ectodermal placode formation, embryonic neurocranium morphogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456256
+  url: https://www.ncbi.nlm.nih.gov/gene/419106
 species: Gallus gallus
 symbol: GATA3
 title: GATA3
@@ -364,9 +358,8 @@ title: GATA3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40962](https://www.ncbi.nlm.nih.gov/gene/40962) | FBgn0001138 |  |
 | Human | [ENSG00000107485](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107485) | [2625](https://www.ncbi.nlm.nih.gov/gene/2625) | [MIM:131320](https://omim.org/entry/131320) | MIM:146255 |
 | Mouse | [ENSMUSG00000015619](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000015619) | [14462](https://www.ncbi.nlm.nih.gov/gene/14462) | [MGI:95663](http://www.informatics.jax.org/marker/MGI:95663) | All phenotypic alleles (12):Targeted, knock-out(5) Targeted, other(7) |
-| Xenopus |  | [448391](https://www.ncbi.nlm.nih.gov/gene/448391), [399445](https://www.ncbi.nlm.nih.gov/gene/399445) | [485929](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485929) |  |
-| Zebrafish | [ENSDARG00000016526](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016526) | [30458](https://www.ncbi.nlm.nih.gov/gene/30458) | [ZFIN:ZDB-GENE-990415-82](https://zfin.org/ZDB-GENE-990415-82) | ZDB-GENE-990415-82 |
+| Xenopus | [ENSXETG00000025398](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025398) | [448391](https://www.ncbi.nlm.nih.gov/gene/448391) |  |  |
+| Zebrafish | [ENSDARG00000016526](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016526) | [30458](https://www.ncbi.nlm.nih.gov/gene/30458) | [ZFIN:ZDB-GENE-990415-82](https://zfin.org/ZDB-GENE-990415-82) | cardiac muscle tissue regeneration, cell fate commitment, ectodermal placode development, ectodermal placode formation, embryonic neurocranium morphogenesis |
 

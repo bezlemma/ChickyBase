@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421429
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001008459
 forward_primer: 5'-GATGATGACTGCCGTTCTGGTATC-3'
-gene_id: '457661'
+gene_id: '421429'
 gene_type: protein-coding
 images:
 - caption: BTBD9 expression
@@ -98,13 +98,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R552.BTBD9.S27A.001.jpg
 name: BTB domain containing 9
-ncbi_id: '457661'
+ncbi_id: '421429'
 orthologs:
-- ensembl: ''
-  entrez: '32000'
-  mod: FBgn0030228
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000183826
   entrez: '114781'
   mod: MIM:611237
@@ -115,24 +110,25 @@ orthologs:
   mod: MGI:1916625
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100145760,496252
-  mod: '947504'
+- ensembl: ENSXETG00000048481
+  entrez: '100145760'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000068983
-  entrez: 100002616,557659
+  entrez: '557659'
   mod: ZFIN:ZDB-GENE-040704-39
-  phenotypes: ZDB-GENE-040704-39
+  phenotypes: adult locomotory behavior, brain development, circadian behavior, modulation
+    of chemical synaptic transmission
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGCACCTCTGTTGTTGCCACTTCC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457661
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421429
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457661
+  url: https://www.ncbi.nlm.nih.gov/gene/421429
 species: Gallus gallus
 symbol: BTBD9
 template_length: '786'
@@ -157,9 +153,8 @@ title: BTBD9
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32000](https://www.ncbi.nlm.nih.gov/gene/32000) | FBgn0030228 |  |
 | Human | [ENSG00000183826](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000183826) | [114781](https://www.ncbi.nlm.nih.gov/gene/114781) | [MIM:611237](https://omim.org/entry/611237) | MIM:611185 |
 | Mouse | [ENSMUSG00000062202](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000062202) | [224671](https://www.ncbi.nlm.nih.gov/gene/224671) | [MGI:1916625](http://www.informatics.jax.org/marker/MGI:1916625) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100145760](https://www.ncbi.nlm.nih.gov/gene/100145760), [496252](https://www.ncbi.nlm.nih.gov/gene/496252) | [947504](http://www.xenbase.org/gene/showgene.do?method=display&geneId=947504) |  |
-| Zebrafish | [ENSDARG00000068983](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068983) | [100002616](https://www.ncbi.nlm.nih.gov/gene/100002616), [557659](https://www.ncbi.nlm.nih.gov/gene/557659) | [ZFIN:ZDB-GENE-040704-39](https://zfin.org/ZDB-GENE-040704-39) | ZDB-GENE-040704-39 |
+| Xenopus | [ENSXETG00000048481](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000048481) | [100145760](https://www.ncbi.nlm.nih.gov/gene/100145760) |  |  |
+| Zebrafish | [ENSDARG00000068983](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068983) | [557659](https://www.ncbi.nlm.nih.gov/gene/557659) | [ZFIN:ZDB-GENE-040704-39](https://zfin.org/ZDB-GENE-040704-39) | adult locomotory behavior, brain development, circadian behavior, modulation of chemical synaptic transmission |
 

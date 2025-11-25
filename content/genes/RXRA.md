@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417143
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642291
-gene_id: '454532'
+gene_id: '417143'
 gene_type: protein-coding
 images:
 - caption: RXRA expression
@@ -223,40 +223,37 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRA.Hoover.1998.Fig5.jpg
 name: retinoid X receptor alpha
-ncbi_id: '454532'
+ncbi_id: '417143'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000186350
+  entrez: '6256'
+  mod: MIM:180245
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000015846
+  entrez: '20181'
+  mod: MGI:98214
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000012733
+  entrez: '100487877'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000057737
+  entrez: '555578'
+  mod: ZFIN:ZDB-GENE-070314-2
+  phenotypes: cell differentiation, nervous system development, positive regulation
+    of transcription by RNA polymerase II, regulation of DNA-templated transcription,
+    retinoic acid receptor signaling pathway
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454532
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417143
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454532
+  url: https://www.ncbi.nlm.nih.gov/gene/417143
 species: Gallus gallus
 symbol: RXRA
 title: RXRA
@@ -282,9 +279,8 @@ title: RXRA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000186350](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000186350) | [6256](https://www.ncbi.nlm.nih.gov/gene/6256) | [MIM:180245](https://omim.org/entry/180245) |  |
+| Mouse | [ENSMUSG00000015846](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000015846) | [20181](https://www.ncbi.nlm.nih.gov/gene/20181) | [MGI:98214](http://www.informatics.jax.org/marker/MGI:98214) |  |
+| Xenopus | [ENSXETG00000012733](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012733) | [100487877](https://www.ncbi.nlm.nih.gov/gene/100487877) |  |  |
+| Zebrafish | [ENSDARG00000057737](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057737) | [555578](https://www.ncbi.nlm.nih.gov/gene/555578) | [ZFIN:ZDB-GENE-070314-2](https://zfin.org/ZDB-GENE-070314-2) | cell differentiation, nervous system development, positive regulation of transcription by RNA polymerase II, regulation of DNA-templated transcription, retinoic acid receptor signaling pathway |
 

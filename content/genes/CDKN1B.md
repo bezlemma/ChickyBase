@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374106
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204256
 forward_primer: 5'-TTCAGTGGAGCAAACACCCAAG-3'
-gene_id: '463028'
+gene_id: '374106'
 gene_type: protein-coding
 images:
 - caption: CDKN1B expression
@@ -181,13 +181,8 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-fig5-p27.JPG
 name: cyclin dependent kinase inhibitor 1B
-ncbi_id: '463028'
+ncbi_id: '374106'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000111276
   entrez: '1027'
   mod: MIM:600778
@@ -198,24 +193,21 @@ orthologs:
   mod: MGI:104565
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: '492306'
-  mod: '6492273'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000054271
-  entrez: 368329,402862
-  mod: ZFIN:ZDB-GENE-030521-13,ZFIN:ZDB-GENE-040812-3
-  phenotypes: ZDB-GENE-030521-13,ZDB-GENE-040812-3
+  entrez: '368329'
+  mod: ZFIN:ZDB-GENE-030521-13
+  phenotypes: G1/S transition of mitotic cell cycle, negative regulation of epithelial
+    cell proliferation, negative regulation of mitotic cell cycle, regulation of cell
+    cycle
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGGAGATTCGGAACAAGTGCC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463028
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374106
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463028
+  url: https://www.ncbi.nlm.nih.gov/gene/374106
 species: Gallus gallus
 symbol: CDKN1B
 template_length: '741'
@@ -242,9 +234,7 @@ title: CDKN1B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000111276](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111276) | [1027](https://www.ncbi.nlm.nih.gov/gene/1027) | [MIM:600778](https://omim.org/entry/600778) |  |
 | Mouse | [ENSMUSG00000003031](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000003031) | [12576](https://www.ncbi.nlm.nih.gov/gene/12576) | [MGI:104565](http://www.informatics.jax.org/marker/MGI:104565) |  |
-| Xenopus |  | [492306](https://www.ncbi.nlm.nih.gov/gene/492306) | [6492273](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6492273) |  |
-| Zebrafish | [ENSDARG00000054271](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054271) | [368329](https://www.ncbi.nlm.nih.gov/gene/368329), [402862](https://www.ncbi.nlm.nih.gov/gene/402862) | [ZFIN:ZDB-GENE-030521-13](https://zfin.org/ZDB-GENE-030521-13), [ZFIN:ZDB-GENE-040812-3](https://zfin.org/ZDB-GENE-040812-3) | ZDB-GENE-030521-13,ZDB-GENE-040812-3 |
+| Zebrafish | [ENSDARG00000054271](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054271) | [368329](https://www.ncbi.nlm.nih.gov/gene/368329) | [ZFIN:ZDB-GENE-030521-13](https://zfin.org/ZDB-GENE-030521-13) | G1/S transition of mitotic cell cycle, negative regulation of epithelial cell proliferation, negative regulation of mitotic cell cycle, regulation of cell cycle |
 

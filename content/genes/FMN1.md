@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:386747
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204423
 forward_primer: 5’-TACGGACACAGCGATGACAC-3’
-gene_id: '459853'
+gene_id: '386747'
 gene_type: protein-coding
 images:
 - caption: FMN1 expression
@@ -60,7 +60,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R672.FMN1.S26.001.jpg
 name: formin 1
-ncbi_id: '459853'
+ncbi_id: '386747'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -85,16 +85,16 @@ orthologs:
 - ensembl: ENSDARG00000011975
   entrez: '561077'
   mod: ZFIN:ZDB-GENE-041001-198
-  phenotypes: ZDB-GENE-041001-198
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGGATTTGCTTTCGGTGGTGGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459853
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=386747
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459853
+  url: https://www.ncbi.nlm.nih.gov/gene/386747
 species: Gallus gallus
 symbol: FMN1
 template_length: '883'
@@ -123,5 +123,5 @@ title: FMN1
 | Human | [ENSG00000248905](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000248905) | [342184](https://www.ncbi.nlm.nih.gov/gene/342184) | [MIM:136535](https://omim.org/entry/136535) |  |
 | Mouse |  |  |  |  |
 | Xenopus |  | [100170173](https://www.ncbi.nlm.nih.gov/gene/100170173) | [940124](http://www.xenbase.org/gene/showgene.do?method=display&geneId=940124) |  |
-| Zebrafish | [ENSDARG00000011975](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011975) | [561077](https://www.ncbi.nlm.nih.gov/gene/561077) | [ZFIN:ZDB-GENE-041001-198](https://zfin.org/ZDB-GENE-041001-198) | ZDB-GENE-041001-198 |
+| Zebrafish | [ENSDARG00000011975](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011975) | [561077](https://www.ncbi.nlm.nih.gov/gene/561077) | [ZFIN:ZDB-GENE-041001-198](https://zfin.org/ZDB-GENE-041001-198) |  |
 

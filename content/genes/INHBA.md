@@ -18,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005125
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205396
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCCCCCCAAAAAACTGTGCG
-gene_id: '461730'
+gene_id: '396361'
 gene_type: protein-coding
 images:
 - caption: INHBA expression
@@ -92,14 +92,9 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Inhba.Jourdeuil.2016.Fig3.jpg
 name: inhibin subunit beta A
-ncbi_id: '461730'
+ncbi_id: '396361'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000122641
   entrez: '3624'
   mod: MIM:147290
   phenotypes: ''
@@ -109,24 +104,26 @@ orthologs:
   mod: MGI:96570
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000001861
   entrez: '100038114'
-  mod: '491001'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000024759,ENSDARG00000012671
-  entrez: 553816,30072
-  mod: ZFIN:ZDB-GENE-050525-2,ZFIN:ZDB-GENE-000210-21
-  phenotypes: ZDB-GENE-050525-2,ZDB-GENE-000210-21
+- ensembl: ENSDARG00000024759
+  entrez: '553816'
+  mod: ZFIN:ZDB-GENE-050525-2
+  phenotypes: animal organ development, cell development, cell surface receptor protein
+    serine/threonine kinase signaling pathway, positive regulation of transcription
+    by RNA polymerase II, system development
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCACTCCTTTCACCTTTCAGCCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461730
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396361
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461730
+  url: https://www.ncbi.nlm.nih.gov/gene/396361
 species: Gallus gallus
 symbol: INHBA
 template_length: '687'
@@ -156,9 +153,8 @@ title: INHBA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [3624](https://www.ncbi.nlm.nih.gov/gene/3624) | [MIM:147290](https://omim.org/entry/147290) |  |
+| Human | [ENSG00000122641](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000122641) | [3624](https://www.ncbi.nlm.nih.gov/gene/3624) | [MIM:147290](https://omim.org/entry/147290) |  |
 | Mouse | [ENSMUSG00000041324](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041324) | [16323](https://www.ncbi.nlm.nih.gov/gene/16323) | [MGI:96570](http://www.informatics.jax.org/marker/MGI:96570) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [100038114](https://www.ncbi.nlm.nih.gov/gene/100038114) | [491001](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491001) |  |
-| Zebrafish | [ENSDARG00000024759](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000024759), [ENSDARG00000012671](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012671) | [553816](https://www.ncbi.nlm.nih.gov/gene/553816), [30072](https://www.ncbi.nlm.nih.gov/gene/30072) | [ZFIN:ZDB-GENE-050525-2](https://zfin.org/ZDB-GENE-050525-2), [ZFIN:ZDB-GENE-000210-21](https://zfin.org/ZDB-GENE-000210-21) | ZDB-GENE-050525-2,ZDB-GENE-000210-21 |
+| Xenopus | [ENSXETG00000001861](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001861) | [100038114](https://www.ncbi.nlm.nih.gov/gene/100038114) |  |  |
+| Zebrafish | [ENSDARG00000024759](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000024759) | [553816](https://www.ncbi.nlm.nih.gov/gene/553816) | [ZFIN:ZDB-GENE-050525-2](https://zfin.org/ZDB-GENE-050525-2) | animal organ development, cell development, cell surface receptor protein serine/threonine kinase signaling pathway, positive regulation of transcription by RNA polymerase II, system development |
 

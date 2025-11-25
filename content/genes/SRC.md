@@ -22,7 +22,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396442
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205457
-gene_id: '461015'
+gene_id: '396442'
 gene_type: protein-coding
 images:
 - caption: SRC expression
@@ -41,14 +41,9 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SRC.Kao.2009.Fig.1.png
 name: SRC proto-oncogene, non-receptor tyrosine kinase
-ncbi_id: '461015'
+ncbi_id: '396442'
 orthologs:
-- ensembl: ''
-  entrez: '48973'
-  mod: FBgn0262733
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000197122
+- ensembl: ENSG00000291971
   entrez: '6714'
   mod: MIM:190090
   phenotypes: MIM:190090
@@ -58,20 +53,22 @@ orthologs:
   mod: MGI:98397
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 496893,380430,373647
-  mod: '489819'
+- ensembl: ENSXETG00000017318
+  entrez: '496893'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000008107
   entrez: '325084'
   mod: ZFIN:ZDB-GENE-030131-3809
-  phenotypes: ZDB-GENE-030131-3809
+  phenotypes: cell adhesion, cell differentiation, epidermal growth factor receptor
+    signaling pathway, negative regulation of extrinsic apoptotic signaling pathway,
+    negative regulation of intrinsic apoptotic signaling pathway
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461015
+  url: https://www.ncbi.nlm.nih.gov/gene/396442
 species: Gallus gallus
 symbol: SRC
 title: SRC
@@ -103,9 +100,8 @@ Insufficient information provided in publication to verify exact sequence used t
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [48973](https://www.ncbi.nlm.nih.gov/gene/48973) | FBgn0262733 |  |
-| Human | [ENSG00000197122](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197122) | [6714](https://www.ncbi.nlm.nih.gov/gene/6714) | [MIM:190090](https://omim.org/entry/190090) | MIM:190090 |
+| Human | [ENSG00000291971](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000291971) | [6714](https://www.ncbi.nlm.nih.gov/gene/6714) | [MIM:190090](https://omim.org/entry/190090) | MIM:190090 |
 | Mouse | [ENSMUSG00000027646](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027646) | [20779](https://www.ncbi.nlm.nih.gov/gene/20779) | [MGI:98397](http://www.informatics.jax.org/marker/MGI:98397) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [496893](https://www.ncbi.nlm.nih.gov/gene/496893), [380430](https://www.ncbi.nlm.nih.gov/gene/380430), [373647](https://www.ncbi.nlm.nih.gov/gene/373647) | [489819](http://www.xenbase.org/gene/showgene.do?method=display&geneId=489819) |  |
-| Zebrafish | [ENSDARG00000008107](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008107) | [325084](https://www.ncbi.nlm.nih.gov/gene/325084) | [ZFIN:ZDB-GENE-030131-3809](https://zfin.org/ZDB-GENE-030131-3809) | ZDB-GENE-030131-3809 |
+| Xenopus | [ENSXETG00000017318](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017318) | [496893](https://www.ncbi.nlm.nih.gov/gene/496893) |  |  |
+| Zebrafish | [ENSDARG00000008107](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008107) | [325084](https://www.ncbi.nlm.nih.gov/gene/325084) | [ZFIN:ZDB-GENE-030131-3809](https://zfin.org/ZDB-GENE-030131-3809) | cell adhesion, cell differentiation, epidermal growth factor receptor signaling pathway, negative regulation of extrinsic apoptotic signaling pathway, negative regulation of intrinsic apoptotic signaling pathway |
 

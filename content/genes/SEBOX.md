@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417567
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415813
-gene_id: '453755'
+gene_id: '417567'
 gene_type: protein-coding
 images:
 - caption: SEBOX expression
@@ -131,7 +131,7 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R422.SEBOX.S24.001.jpg
 name: SEBOX homeobox
-ncbi_id: '453755'
+ncbi_id: '417567'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -161,10 +161,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453755
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417567
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453755
+  url: https://www.ncbi.nlm.nih.gov/gene/417567
 species: Gallus gallus
 symbol: SEBOX
 title: SEBOX

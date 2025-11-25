@@ -11,7 +11,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199550
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/AMIGO2
 forward_primer: TGGTATGCCTCTTGGTCTTTGC
-gene_id: '451686'
+gene_id: '417810'
 gene_type: protein-coding
 images:
 - caption: AMIGO2 expression
@@ -78,13 +78,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R521.AMIGO2.S27V.001.jpg
 name: adhesion molecule with Ig like domain 2
-ncbi_id: '451686'
+ncbi_id: '417810'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000139211
   entrez: '347902'
   mod: MIM:615690
@@ -95,24 +90,19 @@ orthologs:
   mod: MGI:2145995
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000030376
   entrez: '100489302'
-  mod: '6467797'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: AATTAACCCTCACTAAAGGGCAGTCACAATAAAATGGGTTGCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451686
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417810
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451686
+  url: https://www.ncbi.nlm.nih.gov/gene/417810
 species: Gallus gallus
 symbol: AMIGO2
 template_length: '635'
@@ -137,9 +127,7 @@ title: AMIGO2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000139211](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139211) | [347902](https://www.ncbi.nlm.nih.gov/gene/347902) | [MIM:615690](https://omim.org/entry/615690) |  |
 | Mouse | [ENSMUSG00000048218](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048218) | [105827](https://www.ncbi.nlm.nih.gov/gene/105827) | [MGI:2145995](http://www.informatics.jax.org/marker/MGI:2145995) |  |
-| Xenopus |  | [100489302](https://www.ncbi.nlm.nih.gov/gene/100489302) | [6467797](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6467797) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000030376](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000030376) | [100489302](https://www.ncbi.nlm.nih.gov/gene/100489302) |  |  |
 

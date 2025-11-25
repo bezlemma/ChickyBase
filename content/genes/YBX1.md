@@ -18,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204414
-gene_id: '459014'
+gene_id: '386575'
 gene_type: protein-coding
 images:
 - caption: YBX1 expression
@@ -57,7 +57,7 @@ images:
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/YBX1.Bandyopadhyay.2008.f2.ybx1.png
 name: Y-box binding protein 1
-ncbi_id: '459014'
+ncbi_id: '386575'
 orthologs:
 - ensembl: ''
   entrez: '39377'
@@ -82,15 +82,15 @@ orthologs:
 - ensembl: ENSDARG00000004757
   entrez: '795398'
   mod: ZFIN:ZDB-GENE-000629-3
-  phenotypes: ZDB-GENE-000629-3
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459014
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=386575
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459014
+  url: https://www.ncbi.nlm.nih.gov/gene/386575
 species: Gallus gallus
 symbol: YBX1
 title: YBX1
@@ -126,5 +126,5 @@ title: YBX1
 | Human | [ENSG00000065978](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000065978) | [4904](https://www.ncbi.nlm.nih.gov/gene/4904) | [MIM:154030](https://omim.org/entry/154030) |  |
 | Mouse | [ENSMUSG00000028639](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028639) | [22608](https://www.ncbi.nlm.nih.gov/gene/22608) | [MGI:99146](http://www.informatics.jax.org/marker/MGI:99146) | All phenotypic alleles (5):Targeted, knock-out(4) Gene trapped(1) |
 | Xenopus |  | [549431](https://www.ncbi.nlm.nih.gov/gene/549431), [379054](https://www.ncbi.nlm.nih.gov/gene/379054) | [480745](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480745) |  |
-| Zebrafish | [ENSDARG00000004757](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004757) | [795398](https://www.ncbi.nlm.nih.gov/gene/795398) | [ZFIN:ZDB-GENE-000629-3](https://zfin.org/ZDB-GENE-000629-3) | ZDB-GENE-000629-3 |
+| Zebrafish | [ENSDARG00000004757](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004757) | [795398](https://www.ncbi.nlm.nih.gov/gene/795398) | [ZFIN:ZDB-GENE-000629-3](https://zfin.org/ZDB-GENE-000629-3) |  |
 

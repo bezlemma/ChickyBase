@@ -3,8 +3,6 @@ aliases:
 - homeobox protein EMX2
 cgnc_id: '7069'
 external_ids:
-  '19': stage 19stage 19
-  '25': stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0000576
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Malashichev+christ+pelvic+Borkhvardt
   Comments: 'Insufficient information provided in publication to verify exact sequence
@@ -16,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423923
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421783
-gene_id: '452928'
+gene_id: '423923'
 gene_type: protein-coding
 images:
 - caption: EMX2 expression
@@ -268,13 +266,8 @@ images:
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MalashichevFig3.M.HH29.jpg
 name: empty spiracles homeobox 2
-ncbi_id: '452928'
+ncbi_id: '423923'
 orthologs:
-- ensembl: ''
-  entrez: '41697'
-  mod: FBgn0000576
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000170370
   entrez: '2018'
   mod: MIM:600035
@@ -286,23 +279,24 @@ orthologs:
   phenotypes: All phenotypic alleles (8):Chemically induced(2) Targeted, knock-out(2)
     Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100038069,444481
-  mod: '481027'
+- ensembl: ENSXETG00000046580
+  entrez: '100038069'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000039701
-  entrez: 100334611,30537
+  entrez: '30537'
   mod: ZFIN:ZDB-GENE-990415-54
-  phenotypes: ZDB-GENE-990415-54
+  phenotypes: brain development, central nervous system development, neuromast hair
+    cell morphogenesis, neuron differentiation, regulation of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452928
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423923
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452928
+  url: https://www.ncbi.nlm.nih.gov/gene/423923
 species: Gallus gallus
 symbol: EMX2
 title: EMX2
@@ -330,9 +324,8 @@ title: EMX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41697](https://www.ncbi.nlm.nih.gov/gene/41697) | FBgn0000576 |  |
 | Human | [ENSG00000170370](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170370) | [2018](https://www.ncbi.nlm.nih.gov/gene/2018) | [MIM:600035](https://omim.org/entry/600035) | MIM:269160 |
 | Mouse | [ENSMUSG00000043969](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000043969) | [13797](https://www.ncbi.nlm.nih.gov/gene/13797) | [MGI:95388](http://www.informatics.jax.org/marker/MGI:95388) | All phenotypic alleles (8):Chemically induced(2) Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [100038069](https://www.ncbi.nlm.nih.gov/gene/100038069), [444481](https://www.ncbi.nlm.nih.gov/gene/444481) | [481027](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481027) |  |
-| Zebrafish | [ENSDARG00000039701](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039701) | [100334611](https://www.ncbi.nlm.nih.gov/gene/100334611), [30537](https://www.ncbi.nlm.nih.gov/gene/30537) | [ZFIN:ZDB-GENE-990415-54](https://zfin.org/ZDB-GENE-990415-54) | ZDB-GENE-990415-54 |
+| Xenopus | [ENSXETG00000046580](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000046580) | [100038069](https://www.ncbi.nlm.nih.gov/gene/100038069) |  |  |
+| Zebrafish | [ENSDARG00000039701](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039701) | [30537](https://www.ncbi.nlm.nih.gov/gene/30537) | [ZFIN:ZDB-GENE-990415-54](https://zfin.org/ZDB-GENE-990415-54) | brain development, central nervous system development, neuromast hair cell morphogenesis, neuron differentiation, regulation of DNA-templated transcription |
 

@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424206
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422054
 forward_primer: 5'-GCAAAACGGGAGCACTTCATC-3'
-gene_id: '461259'
+gene_id: '424206'
 gene_type: protein-coding
 images:
 - caption: CFAP65 expression
@@ -100,13 +100,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R625.CCDC108.S26AA.001.jpg
 name: cilia and flagella associated protein 65
-ncbi_id: '461259'
+ncbi_id: '424206'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000181378
   entrez: '255101'
   mod: MIM:614270
@@ -117,24 +112,24 @@ orthologs:
   mod: MGI:2444274
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000013869
   entrez: '100144742'
-  mod: '1001101'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000006863
   entrez: '100333283'
   mod: ZFIN:ZDB-GENE-081104-83
-  phenotypes: ZDB-GENE-081104-83
+  phenotypes: sperm axoneme assembly
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTCCAGTTCCAAAGCCATCGG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461259
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424206
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461259
+  url: https://www.ncbi.nlm.nih.gov/gene/424206
 species: Gallus gallus
 symbol: CFAP65
 template_length: '851'
@@ -157,9 +152,8 @@ title: CFAP65
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000181378](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000181378) | [255101](https://www.ncbi.nlm.nih.gov/gene/255101) | [MIM:614270](https://omim.org/entry/614270) |  |
 | Mouse | [ENSMUSG00000047021](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000047021) | [241116](https://www.ncbi.nlm.nih.gov/gene/241116) | [MGI:2444274](http://www.informatics.jax.org/marker/MGI:2444274) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100144742](https://www.ncbi.nlm.nih.gov/gene/100144742) | [1001101](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1001101) |  |
-| Zebrafish | [ENSDARG00000006863](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006863) | [100333283](https://www.ncbi.nlm.nih.gov/gene/100333283) | [ZFIN:ZDB-GENE-081104-83](https://zfin.org/ZDB-GENE-081104-83) | ZDB-GENE-081104-83 |
+| Xenopus | [ENSXETG00000013869](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013869) | [100144742](https://www.ncbi.nlm.nih.gov/gene/100144742) |  |  |
+| Zebrafish | [ENSDARG00000006863](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006863) | [100333283](https://www.ncbi.nlm.nih.gov/gene/100333283) | [ZFIN:ZDB-GENE-081104-83](https://zfin.org/ZDB-GENE-081104-83) | sperm axoneme assembly |
 

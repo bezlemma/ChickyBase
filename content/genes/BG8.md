@@ -3,7 +3,6 @@ aliases:
 - BG protein
 - MHC B complex B-G subregion
 external_ids:
-  '25': stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=adams+gammill+transcription+factors+candidate+regulators+neural+crest+development
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (NM_001030670).
@@ -14,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417035
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030670
 forward_primer: 5'-CTGGCGAAACAAACTGAAGAAGTG-3'
-gene_id: '455201'
+gene_id: '417035'
 gene_type: protein-coding
 images:
 - caption: BG8 expression
@@ -128,41 +127,26 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.ADAMS.2008.jpg
 name: MHC B-G antigen
-ncbi_id: '455201'
+ncbi_id: '417035'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000237834
+  entrez: '4340'
+  mod: MIM:159465
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000076439
+  entrez: '17441'
+  mod: MGI:97435
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGTCCTGTGGTTACTGTGAGGCG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455201
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417035
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455201
+  url: https://www.ncbi.nlm.nih.gov/gene/417035
 species: Gallus gallus
 symbol: BG8
 template_length: '413'
@@ -189,9 +173,6 @@ title: BG8
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000237834](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000237834) | [4340](https://www.ncbi.nlm.nih.gov/gene/4340) | [MIM:159465](https://omim.org/entry/159465) |  |
+| Mouse | [ENSMUSG00000076439](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000076439) | [17441](https://www.ncbi.nlm.nih.gov/gene/17441) | [MGI:97435](http://www.informatics.jax.org/marker/MGI:97435) |  |
 

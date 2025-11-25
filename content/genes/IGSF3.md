@@ -3,14 +3,13 @@ aliases:
 - immunoglobulin superfamily member 3
 cgnc_id: '11531'
 external_ids:
-  '25': stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000015469
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418451
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416662
 forward_primer: 5'-TTCTACCCATTCCCCATCTTCGGC-3'
-gene_id: '463294'
+gene_id: '418451'
 gene_type: protein-coding
 images:
 - caption: IGSF3 expression
@@ -124,13 +123,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R644.IDSF3.S25AA.001.jpg
 name: immunoglobulin superfamily member 3
-ncbi_id: '463294'
+ncbi_id: '418451'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000143061
   entrez: '3321'
   mod: MIM:603491
@@ -141,24 +135,24 @@ orthologs:
   mod: MGI:1926158
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 496615,495320
-  mod: '483026'
+- ensembl: ENSXETG00000047805
+  entrez: '100036654'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000077002
   entrez: '557878'
   mod: ZFIN:ZDB-GENE-070912-243
-  phenotypes: ZDB-GENE-070912-243
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGCTCCCAAAAGGTGAACTGC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463294
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418451
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463294
+  url: https://www.ncbi.nlm.nih.gov/gene/418451
 species: Gallus gallus
 symbol: IGSF3
 template_length: '863'
@@ -181,9 +175,8 @@ title: IGSF3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000143061](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143061) | [3321](https://www.ncbi.nlm.nih.gov/gene/3321) | [MIM:603491](https://omim.org/entry/603491) |  |
 | Mouse | [ENSMUSG00000042035](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042035) | [78908](https://www.ncbi.nlm.nih.gov/gene/78908) | [MGI:1926158](http://www.informatics.jax.org/marker/MGI:1926158) | All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1) |
-| Xenopus |  | [496615](https://www.ncbi.nlm.nih.gov/gene/496615), [495320](https://www.ncbi.nlm.nih.gov/gene/495320) | [483026](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483026) |  |
-| Zebrafish | [ENSDARG00000077002](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077002) | [557878](https://www.ncbi.nlm.nih.gov/gene/557878) | [ZFIN:ZDB-GENE-070912-243](https://zfin.org/ZDB-GENE-070912-243) | ZDB-GENE-070912-243 |
+| Xenopus | [ENSXETG00000047805](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000047805) | [100036654](https://www.ncbi.nlm.nih.gov/gene/100036654) |  |  |
+| Zebrafish | [ENSDARG00000077002](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077002) | [557878](https://www.ncbi.nlm.nih.gov/gene/557878) | [ZFIN:ZDB-GENE-070912-243](https://zfin.org/ZDB-GENE-070912-243) |  |
 

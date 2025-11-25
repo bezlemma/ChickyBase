@@ -18,7 +18,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395215
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204538
-gene_id: '461780'
+gene_id: '395215'
 gene_type: protein-coding
 images:
 - caption: SDK2 expression
@@ -36,13 +36,8 @@ images:
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yamagata.2012.Figure7.D.CNTN2-SDK2-2.jpg
 name: sidekick cell adhesion molecule 2
-ncbi_id: '461780'
+ncbi_id: '395215'
 orthologs:
-- ensembl: ''
-  entrez: '31017'
-  mod: FBgn0021764
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000069188
   entrez: '54549'
   mod: MIM:607217
@@ -53,20 +48,21 @@ orthologs:
   mod: MGI:2443847
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100485585,100049088
-  mod: '990315'
+- ensembl: ENSXETG00000004643
+  entrez: '100485585'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000060452
   entrez: '564922'
-  mod: ZFIN:ZDB-GENE-030131-8203,ZFIN:ZDB-GENE-091008-1
-  phenotypes: ZDB-GENE-030131-8203,ZDB-GENE-091008-1
+  mod: ZFIN:ZDB-GENE-030131-8203
+  phenotypes: homophilic cell adhesion via plasma membrane adhesion molecules, synapse
+    assembly
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461780
+  url: https://www.ncbi.nlm.nih.gov/gene/395215
 species: Gallus gallus
 symbol: SDK2
 title: SDK2
@@ -96,9 +92,8 @@ title: SDK2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31017](https://www.ncbi.nlm.nih.gov/gene/31017) | FBgn0021764 |  |
 | Human | [ENSG00000069188](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000069188) | [54549](https://www.ncbi.nlm.nih.gov/gene/54549) | [MIM:607217](https://omim.org/entry/607217) |  |
 | Mouse | [ENSMUSG00000041592](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041592) | [237979](https://www.ncbi.nlm.nih.gov/gene/237979) | [MGI:2443847](http://www.informatics.jax.org/marker/MGI:2443847) |  |
-| Xenopus |  | [100485585](https://www.ncbi.nlm.nih.gov/gene/100485585), [100049088](https://www.ncbi.nlm.nih.gov/gene/100049088) | [990315](http://www.xenbase.org/gene/showgene.do?method=display&geneId=990315) |  |
-| Zebrafish | [ENSDARG00000060452](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060452) | [564922](https://www.ncbi.nlm.nih.gov/gene/564922) | [ZFIN:ZDB-GENE-030131-8203](https://zfin.org/ZDB-GENE-030131-8203), [ZFIN:ZDB-GENE-091008-1](https://zfin.org/ZDB-GENE-091008-1) | ZDB-GENE-030131-8203,ZDB-GENE-091008-1 |
+| Xenopus | [ENSXETG00000004643](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004643) | [100485585](https://www.ncbi.nlm.nih.gov/gene/100485585) |  |  |
+| Zebrafish | [ENSDARG00000060452](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060452) | [564922](https://www.ncbi.nlm.nih.gov/gene/564922) | [ZFIN:ZDB-GENE-030131-8203](https://zfin.org/ZDB-GENE-030131-8203) | homophilic cell adhesion via plasma membrane adhesion molecules, synapse assembly |
 

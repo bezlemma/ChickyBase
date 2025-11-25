@@ -57,7 +57,7 @@ orthologs:
 - ensembl: ENSDARG00000013351
   entrez: 678563,550495
   mod: ZFIN:ZDB-GENE-030131-5841,ZFIN:ZDB-GENE-050417-329
-  phenotypes: ZDB-GENE-030131-5841,ZDB-GENE-050417-329
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -92,5 +92,5 @@ title: CIRBP
 | Human | [ENSG00000099622](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000099622) | [1153](https://www.ncbi.nlm.nih.gov/gene/1153) | [MIM:602649](https://omim.org/entry/602649) |  |
 | Mouse | [ENSMUSG00000045193](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000045193) | [12696](https://www.ncbi.nlm.nih.gov/gene/12696) | [MGI:893588](http://www.informatics.jax.org/marker/MGI:893588) | All phenotypic alleles (1):Targeted, knock-out(1) |
 | Xenopus |  | [549982](https://www.ncbi.nlm.nih.gov/gene/549982), [379761](https://www.ncbi.nlm.nih.gov/gene/379761), [379484](https://www.ncbi.nlm.nih.gov/gene/379484) | [492780](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492780) |  |
-| Zebrafish | [ENSDARG00000013351](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013351) | [678563](https://www.ncbi.nlm.nih.gov/gene/678563), [550495](https://www.ncbi.nlm.nih.gov/gene/550495) | [ZFIN:ZDB-GENE-030131-5841](https://zfin.org/ZDB-GENE-030131-5841), [ZFIN:ZDB-GENE-050417-329](https://zfin.org/ZDB-GENE-050417-329) | ZDB-GENE-030131-5841,ZDB-GENE-050417-329 |
+| Zebrafish | [ENSDARG00000013351](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013351) | [678563](https://www.ncbi.nlm.nih.gov/gene/678563), [550495](https://www.ncbi.nlm.nih.gov/gene/550495) | [ZFIN:ZDB-GENE-030131-5841](https://zfin.org/ZDB-GENE-030131-5841), [ZFIN:ZDB-GENE-050417-329](https://zfin.org/ZDB-GENE-050417-329) |  |
 

@@ -6,8 +6,6 @@ aliases:
 - neural cadherin
 cgnc_id: '11259'
 external_ids:
-  '25': stage 25stage 25
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0048514
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005912
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Lin+2012+GAPDH+Redies
@@ -21,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0045294
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001615
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATTGACAACTTTCACTGCT
-gene_id: '461302'
+gene_id: '414745'
 gene_type: protein-coding
 images:
 - caption: CDH2 expression
@@ -666,13 +664,8 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.f.Ncdh.E10.jpg
 name: cadherin 2
-ncbi_id: '461302'
+ncbi_id: '414745'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000170558
   entrez: '1000'
   mod: MIM:114020
@@ -684,24 +677,26 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(3)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100151712,495284,378518
-  mod: '951658'
+- ensembl: ENSXETG00000006932
+  entrez: '100151712'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000018693
+- ensembl: ENSDARG00000117201
   entrez: '30291'
   mod: ZFIN:ZDB-GENE-990415-171
-  phenotypes: ZDB-GENE-990415-171
+  phenotypes: adherens junction organization, animal organ morphogenesis, auditory
+    receptor cell stereocilium organization, axial mesoderm structural organization,
+    axon guidance
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTAAGAGGGAATCGTAT
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461302
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=414745
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461302
+  url: https://www.ncbi.nlm.nih.gov/gene/414745
 species: Gallus gallus
 symbol: CDH2
 template_length: '1068'
@@ -731,9 +726,8 @@ title: CDH2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000170558](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170558) | [1000](https://www.ncbi.nlm.nih.gov/gene/1000) | [MIM:114020](https://omim.org/entry/114020) |  |
 | Mouse | [ENSMUSG00000024304](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024304) | [12558](https://www.ncbi.nlm.nih.gov/gene/12558) | [MGI:88355](http://www.informatics.jax.org/marker/MGI:88355) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(3) Gene trapped(1) |
-| Xenopus |  | [100151712](https://www.ncbi.nlm.nih.gov/gene/100151712), [495284](https://www.ncbi.nlm.nih.gov/gene/495284), [378518](https://www.ncbi.nlm.nih.gov/gene/378518) | [951658](http://www.xenbase.org/gene/showgene.do?method=display&geneId=951658) |  |
-| Zebrafish | [ENSDARG00000018693](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018693) | [30291](https://www.ncbi.nlm.nih.gov/gene/30291) | [ZFIN:ZDB-GENE-990415-171](https://zfin.org/ZDB-GENE-990415-171) | ZDB-GENE-990415-171 |
+| Xenopus | [ENSXETG00000006932](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006932) | [100151712](https://www.ncbi.nlm.nih.gov/gene/100151712) |  |  |
+| Zebrafish | [ENSDARG00000117201](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000117201) | [30291](https://www.ncbi.nlm.nih.gov/gene/30291) | [ZFIN:ZDB-GENE-990415-171](https://zfin.org/ZDB-GENE-990415-171) | adherens junction organization, animal organ morphogenesis, auditory receptor cell stereocilium organization, axial mesoderm structural organization, axon guidance |
 

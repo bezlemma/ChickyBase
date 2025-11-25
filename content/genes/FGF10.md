@@ -3,8 +3,6 @@ aliases:
 - FGF, fibroblast growth factor 10
 cgnc_id: '49317'
 external_ids:
-  '13': stage 13
-  '25': stage 25stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=havens+rodgers+fgfr2b+isoforms
   Comments: The complete cDNA template sequence was obtained from the information
     provided in the publication as described in Havens et al., 2006.
@@ -15,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395432
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204696
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATACCAGGTTTTACCCATCCAGTATG
-gene_id: '449229'
+gene_id: '395432'
 gene_type: protein-coding
 images:
 - caption: FGF10 expression
@@ -517,41 +515,37 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Havens.Fig5.allimages-2.jpg
 name: fibroblast growth factor 10
-ncbi_id: '449229'
+ncbi_id: '395432'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000070193
+  entrez: '2255'
+  mod: MIM:602115
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000021732
+  entrez: '14165'
+  mod: MGI:1099809
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000025130
+  entrez: '548923'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000100475
+  entrez: '751792'
+  mod: ZFIN:ZDB-GENE-060828-1
+  phenotypes: ectodermal placode development, fibroblast growth factor receptor signaling
+    pathway, liver development, neurogenesis, otic vesicle development
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTTGTGGCTCCCCTTCCATTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449229
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395432
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449229
+  url: https://www.ncbi.nlm.nih.gov/gene/395432
 species: Gallus gallus
 symbol: FGF10
 template_length: '696'
@@ -578,9 +572,8 @@ title: FGF10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000070193](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000070193) | [2255](https://www.ncbi.nlm.nih.gov/gene/2255) | [MIM:602115](https://omim.org/entry/602115) |  |
+| Mouse | [ENSMUSG00000021732](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021732) | [14165](https://www.ncbi.nlm.nih.gov/gene/14165) | [MGI:1099809](http://www.informatics.jax.org/marker/MGI:1099809) |  |
+| Xenopus | [ENSXETG00000025130](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025130) | [548923](https://www.ncbi.nlm.nih.gov/gene/548923) |  |  |
+| Zebrafish | [ENSDARG00000100475](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000100475) | [751792](https://www.ncbi.nlm.nih.gov/gene/751792) | [ZFIN:ZDB-GENE-060828-1](https://zfin.org/ZDB-GENE-060828-1) | ectodermal placode development, fibroblast growth factor receptor signaling pathway, liver development, neurogenesis, otic vesicle development |
 

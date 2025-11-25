@@ -2,7 +2,6 @@
 aliases:
 - "gga-mir-124a\r\nGI:269847387\r\nAcc#NR_031421"
 external_ids:
-  '25': stage 25stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Darnell+MicroRNA+Stanislaw+Dev
     Dyn
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#

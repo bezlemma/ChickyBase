@@ -12,7 +12,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641956
 forward_primer: GCTGATGATGATGTGGAGAC
-gene_id: '460582'
+gene_id: '414845'
 gene_type: protein-coding
 images:
 - caption: CDH3 expression
@@ -212,41 +212,26 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R385.CDH3.S24.003.jpg
 name: cadherin 3
-ncbi_id: '460582'
+ncbi_id: '414845'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000062038
+  entrez: '1001'
+  mod: MIM:114021
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000061048
+  entrez: '12560'
+  mod: MGI:88356
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCTTGGTGAACGGGGACTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460582
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=414845
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460582
+  url: https://www.ncbi.nlm.nih.gov/gene/414845
 species: Gallus gallus
 symbol: CDH3
 template_length: '808'
@@ -271,9 +256,6 @@ title: CDH3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000062038](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000062038) | [1001](https://www.ncbi.nlm.nih.gov/gene/1001) | [MIM:114021](https://omim.org/entry/114021) |  |
+| Mouse | [ENSMUSG00000061048](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061048) | [12560](https://www.ncbi.nlm.nih.gov/gene/12560) | [MGI:88356](http://www.informatics.jax.org/marker/MGI:88356) |  |
 

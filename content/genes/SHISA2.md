@@ -4,7 +4,6 @@ aliases:
 - shisa homolog 2
 cgnc_id: '12852'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov//entrez/query.fcgi?CMD=search&DB=pubmed&term=Filipe+2006+comparative+expression+mouse+chicken+shisa+homologues+development
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe.  Sequence below was obtained from NCBI (NM_204501).
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395162
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204501
   X-XIV: stage XIIstage XII
-gene_id: '320642'
+gene_id: '395162'
 gene_type: protein-coding
 images:
 - caption: SHISA2 expression
@@ -168,16 +167,11 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHISA2.Figure3J.Filipe.2006.jpg
 name: shisa family member 2
-ncbi_id: '320642'
+ncbi_id: '395162'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000180730
   entrez: '387914'
-  mod: ''
+  mod: MIM:617324
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000044461
@@ -185,20 +179,20 @@ orthologs:
   mod: MGI:2444716
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100497602,446232
-  mod: '939914'
+- ensembl: ENSXETG00000040077
+  entrez: '100497602'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000034138
-  entrez: '561042'
-  mod: ZFIN:ZDB-GENE-030925-31
-  phenotypes: ZDB-GENE-030925-31
+- ensembl: ENSDARG00000088232
+  entrez: '100537021'
+  mod: ZFIN:ZDB-GENE-170119-1
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/320642
+  url: https://www.ncbi.nlm.nih.gov/gene/395162
 species: Gallus gallus
 symbol: SHISA2
 title: SHISA2
@@ -224,9 +218,8 @@ title: SHISA2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000180730](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000180730) | [387914](https://www.ncbi.nlm.nih.gov/gene/387914) |  |  |
+| Human | [ENSG00000180730](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000180730) | [387914](https://www.ncbi.nlm.nih.gov/gene/387914) | [MIM:617324](https://omim.org/entry/617324) |  |
 | Mouse | [ENSMUSG00000044461](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000044461) | [219134](https://www.ncbi.nlm.nih.gov/gene/219134) | [MGI:2444716](http://www.informatics.jax.org/marker/MGI:2444716) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100497602](https://www.ncbi.nlm.nih.gov/gene/100497602), [446232](https://www.ncbi.nlm.nih.gov/gene/446232) | [939914](http://www.xenbase.org/gene/showgene.do?method=display&geneId=939914) |  |
-| Zebrafish | [ENSDARG00000034138](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034138) | [561042](https://www.ncbi.nlm.nih.gov/gene/561042) | [ZFIN:ZDB-GENE-030925-31](https://zfin.org/ZDB-GENE-030925-31) | ZDB-GENE-030925-31 |
+| Xenopus | [ENSXETG00000040077](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000040077) | [100497602](https://www.ncbi.nlm.nih.gov/gene/100497602) |  |  |
+| Zebrafish | [ENSDARG00000088232](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000088232) | [100537021](https://www.ncbi.nlm.nih.gov/gene/100537021) | [ZFIN:ZDB-GENE-170119-1](https://zfin.org/ZDB-GENE-170119-1) |  |
 

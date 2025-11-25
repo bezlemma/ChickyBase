@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395257
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204570
 forward_primer: GGGAACCAATCTGTCTCTCC
-gene_id: '461386'
+gene_id: '395257'
 gene_type: protein-coding
 images:
 - caption: CBFB expression
@@ -358,13 +358,8 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG7.BOLLEROT.2005.jpg
 name: core-binding factor beta subunit
-ncbi_id: '461386'
+ncbi_id: '395257'
 orthologs:
-- ensembl: ''
-  entrez: '38198'
-  mod: FBgn0013753
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000067955
   entrez: '865'
   mod: MIM:121360
@@ -375,24 +370,25 @@ orthologs:
   mod: MGI:99851
   phenotypes: All phenotypic alleles (13):Targeted, knock-out(4) Targeted, other(9)
   species: Mouse
-- ensembl: ''
-  entrez: 100270773,446882
-  mod: '1016002'
+- ensembl: ENSXETG00000020027
+  entrez: '100270773'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000040917
   entrez: '30744'
   mod: ZFIN:ZDB-GENE-980526-440
-  phenotypes: ZDB-GENE-980526-440
+  phenotypes: heart contraction, hemopoiesis, lymphoid lineage cell migration into
+    thymus, regulation of transcription by RNA polymerase II, sarcomere organization
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGCAGTTTGTAGGTCTTGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461386
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395257
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461386
+  url: https://www.ncbi.nlm.nih.gov/gene/395257
 species: Gallus gallus
 symbol: CBFB
 template_length: '957'
@@ -421,9 +417,8 @@ title: CBFB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38198](https://www.ncbi.nlm.nih.gov/gene/38198) | FBgn0013753 |  |
 | Human | [ENSG00000067955](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000067955) | [865](https://www.ncbi.nlm.nih.gov/gene/865) | [MIM:121360](https://omim.org/entry/121360) | MIM:601626 |
 | Mouse | [ENSMUSG00000031885](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031885) | [12400](https://www.ncbi.nlm.nih.gov/gene/12400) | [MGI:99851](http://www.informatics.jax.org/marker/MGI:99851) | All phenotypic alleles (13):Targeted, knock-out(4) Targeted, other(9) |
-| Xenopus |  | [100270773](https://www.ncbi.nlm.nih.gov/gene/100270773), [446882](https://www.ncbi.nlm.nih.gov/gene/446882) | [1016002](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1016002) |  |
-| Zebrafish | [ENSDARG00000040917](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040917) | [30744](https://www.ncbi.nlm.nih.gov/gene/30744) | [ZFIN:ZDB-GENE-980526-440](https://zfin.org/ZDB-GENE-980526-440) | ZDB-GENE-980526-440 |
+| Xenopus | [ENSXETG00000020027](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020027) | [100270773](https://www.ncbi.nlm.nih.gov/gene/100270773) |  |  |
+| Zebrafish | [ENSDARG00000040917](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040917) | [30744](https://www.ncbi.nlm.nih.gov/gene/30744) | [ZFIN:ZDB-GENE-980526-440](https://zfin.org/ZDB-GENE-980526-440) | heart contraction, hemopoiesis, lymphoid lineage cell migration into thymus, regulation of transcription by RNA polymerase II, sarcomere organization |
 

@@ -5,7 +5,6 @@ aliases:
 - matrix metalloproteinase-13
 cgnc_id: '49430'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=Shelton+Tbx20+regulation+cell+proliferation+extracellular+matrix+gene
   Comments: The chicken mmp13 sequence (GenBank accession number AF070478) was amplified
     from HH stage 30 cardiac outflow tract cDNA using the primers 5′-TGATGCCATAACAAAACTTCGTG-3′
@@ -18,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395683
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640587
 forward_primer: CAAAACGCCAGAGAAATGTG
-gene_id: '449905'
+gene_id: '395683'
 gene_type: protein-coding
 images:
 - caption: MMP13 expression
@@ -71,41 +70,36 @@ images:
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Mmp13.Shelton.2007.Figure1J.jpg
 name: matrix metallopeptidase 13
-ncbi_id: '449905'
+ncbi_id: '395683'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000137745
+  entrez: '4322'
+  mod: MIM:600108
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000050578
+  entrez: '17386'
+  mod: MGI:1340026
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000022215
+  entrez: '100490019'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000100794
+  entrez: '100006896'
+  mod: ZFIN:ZDB-GENE-030131-6152
+  phenotypes: collagen catabolic process, extracellular matrix organization, proteolysis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGACACTTCAGGGAGTATCAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449905
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395683
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449905
+  url: https://www.ncbi.nlm.nih.gov/gene/395683
 species: Gallus gallus
 symbol: MMP13
 template_length: '966'
@@ -134,9 +128,8 @@ Copyright © 2007 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000137745](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137745) | [4322](https://www.ncbi.nlm.nih.gov/gene/4322) | [MIM:600108](https://omim.org/entry/600108) |  |
+| Mouse | [ENSMUSG00000050578](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000050578) | [17386](https://www.ncbi.nlm.nih.gov/gene/17386) | [MGI:1340026](http://www.informatics.jax.org/marker/MGI:1340026) |  |
+| Xenopus | [ENSXETG00000022215](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022215) | [100490019](https://www.ncbi.nlm.nih.gov/gene/100490019) |  |  |
+| Zebrafish | [ENSDARG00000100794](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000100794) | [100006896](https://www.ncbi.nlm.nih.gov/gene/100006896) | [ZFIN:ZDB-GENE-030131-6152](https://zfin.org/ZDB-GENE-030131-6152) | collagen catabolic process, extracellular matrix organization, proteolysis |
 

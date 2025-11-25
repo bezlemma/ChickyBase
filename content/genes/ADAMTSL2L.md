@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424420
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422263
 forward_primer: GCTGGGAGCAAGGTGAAGAAAAG
-gene_id: '450180'
+gene_id: '424420'
 gene_type: protein-coding
 images:
 - caption: ADAMTSL2L expression
@@ -131,41 +131,26 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R502.LOC424420.S27.001.jpg
 name: ADAMTS-like protein 2-like
-ncbi_id: '450180'
+ncbi_id: '424420'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000034301
+  entrez: '100497845'
   mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000075487
   entrez: '567853'
   mod: ZFIN:ZDB-GENE-070912-265
-  phenotypes: ZDB-GENE-070912-265
+  phenotypes: extracellular matrix organization, proteolysis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCGACTCGCAGAGGTCATCGTAAAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450180
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424420
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450180
+  url: https://www.ncbi.nlm.nih.gov/gene/424420
 species: Gallus gallus
 symbol: ADAMTSL2L
 template_length: '896'
@@ -187,9 +172,6 @@ title: ADAMTSL2L
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000075487](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075487) | [567853](https://www.ncbi.nlm.nih.gov/gene/567853) | [ZFIN:ZDB-GENE-070912-265](https://zfin.org/ZDB-GENE-070912-265) | ZDB-GENE-070912-265 |
+| Xenopus | [ENSXETG00000034301](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034301) | [100497845](https://www.ncbi.nlm.nih.gov/gene/100497845) |  |  |
+| Zebrafish | [ENSDARG00000075487](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075487) | [567853](https://www.ncbi.nlm.nih.gov/gene/567853) | [ZFIN:ZDB-GENE-070912-265](https://zfin.org/ZDB-GENE-070912-265) | extracellular matrix organization, proteolysis |
 

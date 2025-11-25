@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418978
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277811
-gene_id: '451791'
+gene_id: '418978'
 gene_type: protein-coding
 images:
 - caption: PDGFD expression
@@ -39,13 +39,8 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PDGFD figure 2 MO.JPG
 name: platelet derived growth factor D
-ncbi_id: '451791'
+ncbi_id: '418978'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000170962
   entrez: '80310'
   mod: MIM:609673
@@ -56,20 +51,22 @@ orthologs:
   mod: MGI:1919035
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010500
   entrez: '100492060'
-  mod: '985910'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSDARG00000077677
+  entrez: '100535718'
   mod: ZFIN:ZDB-GENE-071217-1
-  phenotypes: ZDB-GENE-071217-1
+  phenotypes: platelet-derived growth factor receptor signaling pathway, positive
+    regulation of ERK1 and ERK2 cascade, positive regulation of cell division, positive
+    regulation of cell migration, positive regulation of cell population proliferation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451791
+  url: https://www.ncbi.nlm.nih.gov/gene/418978
 species: Gallus gallus
 symbol: PDGFD
 title: PDGFD
@@ -95,9 +92,8 @@ title: PDGFD
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000170962](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170962) | [80310](https://www.ncbi.nlm.nih.gov/gene/80310) | [MIM:609673](https://omim.org/entry/609673) |  |
 | Mouse | [ENSMUSG00000032006](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032006) | [71785](https://www.ncbi.nlm.nih.gov/gene/71785) | [MGI:1919035](http://www.informatics.jax.org/marker/MGI:1919035) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100492060](https://www.ncbi.nlm.nih.gov/gene/100492060) | [985910](http://www.xenbase.org/gene/showgene.do?method=display&geneId=985910) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-071217-1](https://zfin.org/ZDB-GENE-071217-1) | ZDB-GENE-071217-1 |
+| Xenopus | [ENSXETG00000010500](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010500) | [100492060](https://www.ncbi.nlm.nih.gov/gene/100492060) |  |  |
+| Zebrafish | [ENSDARG00000077677](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077677) | [100535718](https://www.ncbi.nlm.nih.gov/gene/100535718) | [ZFIN:ZDB-GENE-071217-1](https://zfin.org/ZDB-GENE-071217-1) | platelet-derived growth factor receptor signaling pathway, positive regulation of ERK1 and ERK2 cascade, positive regulation of cell division, positive regulation of cell migration, positive regulation of cell population proliferation |
 

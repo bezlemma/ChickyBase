@@ -51,7 +51,7 @@ orthologs:
 - ensembl: ENSDARG00000003191,ENSDARG00000003933
   entrez: 445094,335817
   mod: ZFIN:ZDB-GENE-040801-230,ZFIN:ZDB-GENE-031201-4
-  phenotypes: ZDB-GENE-040801-230,ZDB-GENE-031201-4
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
@@ -91,5 +91,5 @@ title: PKM
 | Human | [ENSG00000067225](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000067225) | [5315](https://www.ncbi.nlm.nih.gov/gene/5315) | [MIM:179050](https://omim.org/entry/179050) |  |
 | Mouse | [ENSMUSG00000032294](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032294) | [18746](https://www.ncbi.nlm.nih.gov/gene/18746) | [MGI:97591](http://www.informatics.jax.org/marker/MGI:97591) | All phenotypic alleles (3):Spontaneous(1) Other(2) |
 | Xenopus |  | [549224](https://www.ncbi.nlm.nih.gov/gene/549224), [399448](https://www.ncbi.nlm.nih.gov/gene/399448) | [485872](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485872) |  |
-| Zebrafish | [ENSDARG00000003191](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003191), [ENSDARG00000003933](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003933) | [445094](https://www.ncbi.nlm.nih.gov/gene/445094), [335817](https://www.ncbi.nlm.nih.gov/gene/335817) | [ZFIN:ZDB-GENE-040801-230](https://zfin.org/ZDB-GENE-040801-230), [ZFIN:ZDB-GENE-031201-4](https://zfin.org/ZDB-GENE-031201-4) | ZDB-GENE-040801-230,ZDB-GENE-031201-4 |
+| Zebrafish | [ENSDARG00000003191](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003191), [ENSDARG00000003933](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003933) | [445094](https://www.ncbi.nlm.nih.gov/gene/445094), [335817](https://www.ncbi.nlm.nih.gov/gene/335817) | [ZFIN:ZDB-GENE-040801-230](https://zfin.org/ZDB-GENE-040801-230), [ZFIN:ZDB-GENE-031201-4](https://zfin.org/ZDB-GENE-031201-4) |  |
 

@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395949
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004930
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414970
-gene_id: '450495'
+gene_id: '395949'
 gene_type: protein-coding
 images:
 - caption: SMO expression
@@ -65,13 +65,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SMO.FIG2E.AGLYA.2007.jpg
 name: smoothened, frizzled class receptor
-ncbi_id: '450495'
+ncbi_id: '395949'
 orthologs:
-- ensembl: ''
-  entrez: '33196'
-  mod: FBgn0003444
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000128602
   entrez: '6608'
   mod: MIM:601500
@@ -83,20 +78,22 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Chemically induced(1) Targeted, knock-out(3)
     Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100491644,100190780
-  mod: '487419'
+- ensembl: ENSXETG00000014939
+  entrez: '100491644'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000002952
   entrez: '30225'
   mod: ZFIN:ZDB-GENE-980526-89
-  phenotypes: ZDB-GENE-980526-89
+  phenotypes: G protein-coupled receptor signaling pathway, adenohypophysis development,
+    angioblast cell migration from lateral mesoderm to midline, anterior/posterior
+    pattern specification, arterial endothelial cell fate commitment
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450495
+  url: https://www.ncbi.nlm.nih.gov/gene/395949
 species: Gallus gallus
 symbol: SMO
 title: SMO
@@ -127,9 +124,8 @@ title: SMO
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33196](https://www.ncbi.nlm.nih.gov/gene/33196) | FBgn0003444 |  |
 | Human | [ENSG00000128602](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000128602) | [6608](https://www.ncbi.nlm.nih.gov/gene/6608) | [MIM:601500](https://omim.org/entry/601500) | MIM:601500 |
 | Mouse | [ENSMUSG00000001761](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001761) | [319757](https://www.ncbi.nlm.nih.gov/gene/319757) | [MGI:108075](http://www.informatics.jax.org/marker/MGI:108075) | All phenotypic alleles (7):Chemically induced(1) Targeted, knock-out(3) Targeted, other(3) |
-| Xenopus |  | [100491644](https://www.ncbi.nlm.nih.gov/gene/100491644), [100190780](https://www.ncbi.nlm.nih.gov/gene/100190780) | [487419](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487419) |  |
-| Zebrafish |  | [30225](https://www.ncbi.nlm.nih.gov/gene/30225) | [ZFIN:ZDB-GENE-980526-89](https://zfin.org/ZDB-GENE-980526-89) | ZDB-GENE-980526-89 |
+| Xenopus | [ENSXETG00000014939](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014939) | [100491644](https://www.ncbi.nlm.nih.gov/gene/100491644) |  |  |
+| Zebrafish | [ENSDARG00000002952](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002952) | [30225](https://www.ncbi.nlm.nih.gov/gene/30225) | [ZFIN:ZDB-GENE-980526-89](https://zfin.org/ZDB-GENE-980526-89) | G protein-coupled receptor signaling pathway, adenohypophysis development, angioblast cell migration from lateral mesoderm to midline, anterior/posterior pattern specification, arterial endothelial cell fate commitment |
 

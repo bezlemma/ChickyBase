@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420456
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418558
   X-XIV: stage XIII
-gene_id: '456155'
+gene_id: '420456'
 gene_type: protein-coding
 images:
 - caption: DIP2C expression
@@ -53,13 +53,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DIP2C.Trevers.2023-Fig7-5-L.jpg
 name: disco interacting protein 2 homolog C
-ncbi_id: '456155'
+ncbi_id: '420456'
 orthologs:
-- ensembl: ''
-  entrez: '252479'
-  mod: FBgn0024806
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000151240
   entrez: '22982'
   mod: MIM:611380
@@ -70,23 +65,23 @@ orthologs:
   mod: MGI:1920179
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000026921
   entrez: '780066'
-  mod: '1011925'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000062154
   entrez: '563890'
   mod: ZFIN:ZDB-GENE-031118-39
-  phenotypes: ZDB-GENE-031118-39
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456155
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420456
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456155
+  url: https://www.ncbi.nlm.nih.gov/gene/420456
 species: Gallus gallus
 symbol: DIP2C
 title: DIP2C
@@ -112,9 +107,8 @@ title: DIP2C
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [252479](https://www.ncbi.nlm.nih.gov/gene/252479) | FBgn0024806 |  |
 | Human | [ENSG00000151240](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000151240) | [22982](https://www.ncbi.nlm.nih.gov/gene/22982) | [MIM:611380](https://omim.org/entry/611380) |  |
 | Mouse | [ENSMUSG00000048264](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048264) | [208440](https://www.ncbi.nlm.nih.gov/gene/208440) | [MGI:1920179](http://www.informatics.jax.org/marker/MGI:1920179) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [780066](https://www.ncbi.nlm.nih.gov/gene/780066) | [1011925](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1011925) |  |
-| Zebrafish | [ENSDARG00000062154](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062154) | [563890](https://www.ncbi.nlm.nih.gov/gene/563890) | [ZFIN:ZDB-GENE-031118-39](https://zfin.org/ZDB-GENE-031118-39) | ZDB-GENE-031118-39 |
+| Xenopus | [ENSXETG00000026921](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026921) | [780066](https://www.ncbi.nlm.nih.gov/gene/780066) |  |  |
+| Zebrafish | [ENSDARG00000062154](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062154) | [563890](https://www.ncbi.nlm.nih.gov/gene/563890) | [ZFIN:ZDB-GENE-031118-39](https://zfin.org/ZDB-GENE-031118-39) |  |
 

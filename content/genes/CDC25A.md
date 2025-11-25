@@ -18,7 +18,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420375
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199572
-gene_id: '457813'
+gene_id: '420375'
 gene_type: protein-coding
 images:
 - caption: CDC25A expression
@@ -78,13 +78,8 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2O.2006.jpg
 name: cell division cycle 25A
-ncbi_id: '457813'
+ncbi_id: '420375'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164045
   entrez: '993'
   mod: MIM:116947
@@ -96,20 +91,22 @@ orthologs:
   phenotypes: All phenotypic alleles (9):Spontaneous(1) Targeted, knock-out(2) Targeted,
     other(5) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 733851,734734
-  mod: '5809291'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000021310
+  entrez: '733851'
   mod: ''
   phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000010792
+  entrez: '57925'
+  mod: ZFIN:ZDB-GENE-000330-5
+  phenotypes: G2/M transition of mitotic cell cycle, cell division, positive regulation
+    of G2/M transition of mitotic cell cycle, positive regulation of G2/MI transition
+    of meiotic cell cycle, positive regulation of cell cycle G2/M phase transition
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457813
+  url: https://www.ncbi.nlm.nih.gov/gene/420375
 species: Gallus gallus
 symbol: CDC25A
 title: CDC25A
@@ -136,9 +133,8 @@ Copyright © 2006 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164045](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164045) | [993](https://www.ncbi.nlm.nih.gov/gene/993) | [MIM:116947](https://omim.org/entry/116947) |  |
 | Mouse | [ENSMUSG00000032477](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032477) | [12530](https://www.ncbi.nlm.nih.gov/gene/12530) | [MGI:103198](http://www.informatics.jax.org/marker/MGI:103198) | All phenotypic alleles (9):Spontaneous(1) Targeted, knock-out(2) Targeted, other(5) Gene trapped(1) |
-| Xenopus |  | [733851](https://www.ncbi.nlm.nih.gov/gene/733851), [734734](https://www.ncbi.nlm.nih.gov/gene/734734) | [5809291](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5809291) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000021310](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021310) | [733851](https://www.ncbi.nlm.nih.gov/gene/733851) |  |  |
+| Zebrafish | [ENSDARG00000010792](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010792) | [57925](https://www.ncbi.nlm.nih.gov/gene/57925) | [ZFIN:ZDB-GENE-000330-5](https://zfin.org/ZDB-GENE-000330-5) | G2/M transition of mitotic cell cycle, cell division, positive regulation of G2/M transition of mitotic cell cycle, positive regulation of G2/MI transition of meiotic cell cycle, positive regulation of cell cycle G2/M phase transition |
 

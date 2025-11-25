@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100859045
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640614
 forward_primer: GACACCTCGGGCACCTATTATTG
-gene_id: '473576'
+gene_id: '100859045'
 gene_type: protein-coding
 images:
 - caption: APBB1 expression
@@ -143,7 +143,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R526.APBB1.S26AAA.001.jpg
 name: amyloid beta precursor protein binding family B member 1
-ncbi_id: '473576'
+ncbi_id: '100859045'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -174,10 +174,10 @@ reverse_primer: AATTAACCCTCACTAAAGGTGGCACTTGAGCATCTGCGTCAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=473576
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100859045
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/473576
+  url: https://www.ncbi.nlm.nih.gov/gene/100859045
 species: Gallus gallus
 symbol: APBB1
 template_length: '617'

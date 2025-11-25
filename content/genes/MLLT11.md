@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395847
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423391
-gene_id: '450025'
+gene_id: '395847'
 gene_type: protein-coding
 images:
 - caption: MLLT11 expression
@@ -98,7 +98,7 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/esetset.63.24aB.10x.jpg
 name: myeloid/lymphoid or mixed-lineage leukemia; translocated to, 11
-ncbi_id: '450025'
+ncbi_id: '395847'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -123,15 +123,15 @@ orthologs:
 - ensembl: ENSDARG00000061724,ENSDARG00000041243
   entrez: 768131,553292
   mod: ZFIN:ZDB-GENE-061013-224,ZFIN:ZDB-GENE-030131-2421
-  phenotypes: ZDB-GENE-061013-224,ZDB-GENE-030131-2421
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450025
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395847
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450025
+  url: https://www.ncbi.nlm.nih.gov/gene/395847
 species: Gallus gallus
 symbol: MLLT11
 title: MLLT11
@@ -159,5 +159,5 @@ title: MLLT11
 | Human | [ENSG00000143379](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143379) | [9869](https://www.ncbi.nlm.nih.gov/gene/9869) | [MIM:604396](https://omim.org/entry/604396) |  |
 | Mouse | [ENSMUSG00000015697](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000015697) | [84505](https://www.ncbi.nlm.nih.gov/gene/84505) | [MGI:1934229](http://www.informatics.jax.org/marker/MGI:1934229) | All phenotypic alleles (4):Targeted, other(4) |
 | Xenopus |  | [100490309](https://www.ncbi.nlm.nih.gov/gene/100490309), [432147](https://www.ncbi.nlm.nih.gov/gene/432147) | [853379](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853379) |  |
-| Zebrafish | [ENSDARG00000061724](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061724), [ENSDARG00000041243](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041243) | [768131](https://www.ncbi.nlm.nih.gov/gene/768131), [553292](https://www.ncbi.nlm.nih.gov/gene/553292) | [ZFIN:ZDB-GENE-061013-224](https://zfin.org/ZDB-GENE-061013-224), [ZFIN:ZDB-GENE-030131-2421](https://zfin.org/ZDB-GENE-030131-2421) | ZDB-GENE-061013-224,ZDB-GENE-030131-2421 |
+| Zebrafish | [ENSDARG00000061724](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061724), [ENSDARG00000041243](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041243) | [768131](https://www.ncbi.nlm.nih.gov/gene/768131), [553292](https://www.ncbi.nlm.nih.gov/gene/553292) | [ZFIN:ZDB-GENE-061013-224](https://zfin.org/ZDB-GENE-061013-224), [ZFIN:ZDB-GENE-030131-2421](https://zfin.org/ZDB-GENE-030131-2421) |  |
 

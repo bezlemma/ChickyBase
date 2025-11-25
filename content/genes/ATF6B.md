@@ -1,13 +1,12 @@
 ---
 cgnc_id: '1914'
 external_ids:
-  '25': stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/424365
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424365
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422208
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGCCCCCGACTGCTGGAAATGG
-gene_id: '450723'
+gene_id: '424365'
 gene_type: protein-coding
 images:
 - caption: ATF6B expression
@@ -106,13 +105,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R325.ATF6.S25.002.jpg
 name: activating transcription factor 6 beta
-ncbi_id: '450723'
+ncbi_id: '424365'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000118217
   entrez: '22926'
   mod: MIM:605537
@@ -124,24 +118,25 @@ orthologs:
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(1)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100498199,496056
-  mod: '983813'
+- ensembl: ENSXETG00000004747
+  entrez: '100498199'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000012656
   entrez: '558071'
   mod: ZFIN:ZDB-GENE-041014-328
-  phenotypes: ZDB-GENE-041014-328
+  phenotypes: endoplasmic reticulum unfolded protein response, regulation of DNA-templated
+    transcription, regulation of transcription by RNA polymerase II, response to hypoxia
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTCAGGGCGTGGGGTGTCTCTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450723
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424365
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450723
+  url: https://www.ncbi.nlm.nih.gov/gene/424365
 species: Gallus gallus
 symbol: ATF6B
 template_length: '1184'
@@ -163,9 +158,8 @@ title: ATF6B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000118217](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118217) | [22926](https://www.ncbi.nlm.nih.gov/gene/22926) | [MIM:605537](https://omim.org/entry/605537) |  |
 | Mouse | [ENSMUSG00000026663](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026663) | [226641](https://www.ncbi.nlm.nih.gov/gene/226641) | [MGI:1926157](http://www.informatics.jax.org/marker/MGI:1926157) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(1) Gene trapped(1) |
-| Xenopus |  | [100498199](https://www.ncbi.nlm.nih.gov/gene/100498199), [496056](https://www.ncbi.nlm.nih.gov/gene/496056) | [983813](http://www.xenbase.org/gene/showgene.do?method=display&geneId=983813) |  |
-| Zebrafish |  | [558071](https://www.ncbi.nlm.nih.gov/gene/558071) | [ZFIN:ZDB-GENE-041014-328](https://zfin.org/ZDB-GENE-041014-328) | ZDB-GENE-041014-328 |
+| Xenopus | [ENSXETG00000004747](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004747) | [100498199](https://www.ncbi.nlm.nih.gov/gene/100498199) |  |  |
+| Zebrafish | [ENSDARG00000012656](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012656) | [558071](https://www.ncbi.nlm.nih.gov/gene/558071) | [ZFIN:ZDB-GENE-041014-328](https://zfin.org/ZDB-GENE-041014-328) | endoplasmic reticulum unfolded protein response, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II, response to hypoxia |
 

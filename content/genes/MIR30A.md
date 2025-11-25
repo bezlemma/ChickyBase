@@ -8,7 +8,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018319
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NC_006091
-gene_id: '467989'
+gene_id: '777808'
 gene_type: miscRNA
 images:
 - caption: MIR30A expression
@@ -124,7 +124,7 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/30a-5p.30.23z.jpg
 name: microRNA 30a
-ncbi_id: '467989'
+ncbi_id: '777808'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -154,7 +154,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467989
+  url: https://www.ncbi.nlm.nih.gov/gene/777808
 species: Gallus gallus
 symbol: MIR30A
 title: MIR30A

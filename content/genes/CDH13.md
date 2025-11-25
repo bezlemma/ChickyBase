@@ -14,7 +14,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001760
 forward_primer: ACAAGAGAACATCCCTATTGGCAG
-gene_id: '460584'
+gene_id: '414849'
 gene_type: protein-coding
 images:
 - caption: CDH13 expression
@@ -195,13 +195,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R450.CDH13.S24VA.001.jpg
 name: cadherin 13
-ncbi_id: '460584'
+ncbi_id: '414849'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000140945
   entrez: '1012'
   mod: MIM:601364
@@ -212,24 +207,26 @@ orthologs:
   mod: MGI:99551
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100125193,495024
-  mod: '5752188'
+- ensembl: ENSXETG00000006627
+  entrez: '100125193'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000014215
+- ensembl: ENSDARG00000115508
   entrez: '558732'
   mod: ZFIN:ZDB-GENE-060503-286
-  phenotypes: ZDB-GENE-060503-286
+  phenotypes: adherens junction organization, apoptotic process involved in blood
+    vessel morphogenesis, calcium-dependent cell-cell adhesion via plasma membrane
+    cell adhesion molecules, cell adhesion, cell migration
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGAAAAATCCCTCCCCTCCTAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460584
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=414849
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460584
+  url: https://www.ncbi.nlm.nih.gov/gene/414849
 species: Gallus gallus
 symbol: CDH13
 template_length: '818'
@@ -254,9 +251,8 @@ title: CDH13
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000140945](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140945) | [1012](https://www.ncbi.nlm.nih.gov/gene/1012) | [MIM:601364](https://omim.org/entry/601364) |  |
 | Mouse | [ENSMUSG00000031841](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031841) | [12554](https://www.ncbi.nlm.nih.gov/gene/12554) | [MGI:99551](http://www.informatics.jax.org/marker/MGI:99551) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100125193](https://www.ncbi.nlm.nih.gov/gene/100125193), [495024](https://www.ncbi.nlm.nih.gov/gene/495024) | [5752188](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5752188) |  |
-| Zebrafish | [ENSDARG00000014215](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014215) | [558732](https://www.ncbi.nlm.nih.gov/gene/558732) | [ZFIN:ZDB-GENE-060503-286](https://zfin.org/ZDB-GENE-060503-286) | ZDB-GENE-060503-286 |
+| Xenopus | [ENSXETG00000006627](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006627) | [100125193](https://www.ncbi.nlm.nih.gov/gene/100125193) |  |  |
+| Zebrafish | [ENSDARG00000115508](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115508) | [558732](https://www.ncbi.nlm.nih.gov/gene/558732) | [ZFIN:ZDB-GENE-060503-286](https://zfin.org/ZDB-GENE-060503-286) | adherens junction organization, apoptotic process involved in blood vessel morphogenesis, calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules, cell adhesion, cell migration |
 

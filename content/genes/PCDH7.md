@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422797
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420748
-gene_id: '451925'
+gene_id: '422797'
 gene_type: protein-coding
 images:
 - caption: PCDH7 expression
@@ -234,13 +234,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh7.Lin.2013.Fig3.jpg
 name: protocadherin 7
-ncbi_id: '451925'
+ncbi_id: '422797'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000169851
   entrez: '5099'
   mod: MIM:602988
@@ -251,20 +246,21 @@ orthologs:
   mod: MGI:1860487
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100124985,100337580
-  mod: '1007356'
+- ensembl: ENSXETG00000022281
+  entrez: '100124985'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000060610
   entrez: '555504'
-  mod: ZFIN:ZDB-GENE-081104-299,ZFIN:ZDB-GENE-120206-1,ZFIN:ZDB-GENE-081104-299
-  phenotypes: ZDB-GENE-081104-299,ZDB-GENE-120206-1,ZDB-GENE-081104-299
+  mod: ZFIN:ZDB-GENE-081104-299
+  phenotypes: anatomical structure morphogenesis, cell adhesion, homophilic cell adhesion
+    via plasma membrane adhesion molecules
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451925
+  url: https://www.ncbi.nlm.nih.gov/gene/422797
 species: Gallus gallus
 symbol: PCDH7
 title: PCDH7
@@ -290,9 +286,8 @@ title: PCDH7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000169851](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169851) | [5099](https://www.ncbi.nlm.nih.gov/gene/5099) | [MIM:602988](https://omim.org/entry/602988) |  |
 | Mouse | [ENSMUSG00000029108](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029108) | [54216](https://www.ncbi.nlm.nih.gov/gene/54216) | [MGI:1860487](http://www.informatics.jax.org/marker/MGI:1860487) |  |
-| Xenopus |  | [100124985](https://www.ncbi.nlm.nih.gov/gene/100124985), [100337580](https://www.ncbi.nlm.nih.gov/gene/100337580) | [1007356](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1007356) |  |
-| Zebrafish | [ENSDARG00000060610](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060610) | [555504](https://www.ncbi.nlm.nih.gov/gene/555504) | [ZFIN:ZDB-GENE-081104-299](https://zfin.org/ZDB-GENE-081104-299), [ZFIN:ZDB-GENE-120206-1](https://zfin.org/ZDB-GENE-120206-1), [ZFIN:ZDB-GENE-081104-299](https://zfin.org/ZDB-GENE-081104-299) | ZDB-GENE-081104-299,ZDB-GENE-120206-1,ZDB-GENE-081104-299 |
+| Xenopus | [ENSXETG00000022281](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022281) | [100124985](https://www.ncbi.nlm.nih.gov/gene/100124985) |  |  |
+| Zebrafish | [ENSDARG00000060610](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060610) | [555504](https://www.ncbi.nlm.nih.gov/gene/555504) | [ZFIN:ZDB-GENE-081104-299](https://zfin.org/ZDB-GENE-081104-299) | anatomical structure morphogenesis, cell adhesion, homophilic cell adhesion via plasma membrane adhesion molecules |
 

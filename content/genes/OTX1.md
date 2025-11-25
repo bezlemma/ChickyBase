@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100858585
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640907
-gene_id: '473116'
+gene_id: '100858585'
 gene_type: protein-coding
 images:
 - caption: OTX1 expression
@@ -30,7 +30,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OTX1.Smith.2018.Fig1.jpg
 name: orthodenticle homeobox 1
-ncbi_id: '473116'
+ncbi_id: '100858585'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -60,7 +60,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/473116
+  url: https://www.ncbi.nlm.nih.gov/gene/100858585
 species: Gallus gallus
 symbol: OTX1
 title: OTX1

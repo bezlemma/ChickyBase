@@ -71,7 +71,7 @@ orthologs:
 - ensembl: ENSDARG00000045144
   entrez: '563335'
   mod: ZFIN:ZDB-GENE-070410-131
-  phenotypes: ZDB-GENE-070410-131
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -108,5 +108,5 @@ title: HBM
 | Human |  |  |  |  |
 | Mouse |  |  |  |  |
 | Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000045144](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045144) | [563335](https://www.ncbi.nlm.nih.gov/gene/563335) | [ZFIN:ZDB-GENE-070410-131](https://zfin.org/ZDB-GENE-070410-131) | ZDB-GENE-070410-131 |
+| Zebrafish | [ENSDARG00000045144](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045144) | [563335](https://www.ncbi.nlm.nih.gov/gene/563335) | [ZFIN:ZDB-GENE-070410-131](https://zfin.org/ZDB-GENE-070410-131) |  |
 

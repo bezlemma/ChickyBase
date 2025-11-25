@@ -3,7 +3,6 @@ aliases:
 - fibroblast growth factor 6
 cgnc_id: '12987'
 external_ids:
-  '19': stage 19stage 19stage 19stage 19stage 19
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Kumar+2012+Fgf5+Chapman
   Comments: The cDNA template used to generate the probe was obtained by PCR as described
     in the paper.
@@ -13,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:768907
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001232070
-gene_id: '453403'
+gene_id: '768907'
 gene_type: protein-coding
 images:
 - caption: FGF6 expression
@@ -122,13 +121,8 @@ images:
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kumar.2012.Fig3.K.HH19.jpg
 name: fibroblast growth factor 6
-ncbi_id: '453403'
+ncbi_id: '768907'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000111241
   entrez: '2251'
   mod: MIM:134921
@@ -139,20 +133,15 @@ orthologs:
   mod: MGI:95520
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000049430
   entrez: '100217326'
-  mod: '1018158'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000045856,ENSDARG00000009351
-  entrez: 494455,30560
-  mod: ZFIN:ZDB-GENE-050201-5,ZFIN:ZDB-GENE-980526-559
-  phenotypes: ZDB-GENE-050201-5,ZDB-GENE-980526-559
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453403
+  url: https://www.ncbi.nlm.nih.gov/gene/768907
 species: Gallus gallus
 symbol: FGF6
 title: FGF6
@@ -178,9 +167,7 @@ title: FGF6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000111241](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111241) | [2251](https://www.ncbi.nlm.nih.gov/gene/2251) | [MIM:134921](https://omim.org/entry/134921) |  |
 | Mouse | [ENSMUSG00000000183](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000183) | [14177](https://www.ncbi.nlm.nih.gov/gene/14177) | [MGI:95520](http://www.informatics.jax.org/marker/MGI:95520) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100217326](https://www.ncbi.nlm.nih.gov/gene/100217326) | [1018158](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1018158) |  |
-| Zebrafish | [ENSDARG00000045856](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045856), [ENSDARG00000009351](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009351) | [494455](https://www.ncbi.nlm.nih.gov/gene/494455), [30560](https://www.ncbi.nlm.nih.gov/gene/30560) | [ZFIN:ZDB-GENE-050201-5](https://zfin.org/ZDB-GENE-050201-5), [ZFIN:ZDB-GENE-980526-559](https://zfin.org/ZDB-GENE-980526-559) | ZDB-GENE-050201-5,ZDB-GENE-980526-559 |
+| Xenopus | [ENSXETG00000049430](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000049430) | [100217326](https://www.ncbi.nlm.nih.gov/gene/100217326) |  |  |
 

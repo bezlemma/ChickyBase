@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417169
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415452
-gene_id: '454590'
+gene_id: '417169'
 gene_type: protein-coding
 images:
 - caption: TTF1 expression
@@ -32,37 +32,17 @@ images:
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TTIF.Okabe.2004.Fig.1.png
 name: transcription termination factor 1
-ncbi_id: '454590'
+ncbi_id: '417169'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000125482
-  entrez: '7270'
-  mod: MIM:600777
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000026803
-  entrez: '22130'
-  mod: MGI:105044
-  phenotypes: All phenotypic alleles (1):Targeted, other(1)
-  species: Mouse
-- ensembl: ''
-  entrez: '100493119'
-  mod: '953699'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000093999,ENSDARG00000091967,ENSDARG00000093403
-  entrez: 100334190,100151278,100000911,334973,449954
-  mod: ZFIN:ZDB-GENE-030131-6913,ZFIN:ZDB-GENE-041008-214
-  phenotypes: ZDB-GENE-030131-6913,ZDB-GENE-041008-214
+- ensembl: ENSDARG00000093999
+  entrez: '100334190'
+  mod: ZFIN:ZDB-GENE-100921-87
+  phenotypes: termination of RNA polymerase I transcription
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454590
+  url: https://www.ncbi.nlm.nih.gov/gene/417169
 species: Gallus gallus
 symbol: TTF1
 title: TTF1
@@ -88,9 +68,5 @@ title: TTF1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000125482](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125482) | [7270](https://www.ncbi.nlm.nih.gov/gene/7270) | [MIM:600777](https://omim.org/entry/600777) |  |
-| Mouse | [ENSMUSG00000026803](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026803) | [22130](https://www.ncbi.nlm.nih.gov/gene/22130) | [MGI:105044](http://www.informatics.jax.org/marker/MGI:105044) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100493119](https://www.ncbi.nlm.nih.gov/gene/100493119) | [953699](http://www.xenbase.org/gene/showgene.do?method=display&geneId=953699) |  |
-| Zebrafish | [ENSDARG00000093999](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000093999), [ENSDARG00000091967](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000091967), [ENSDARG00000093403](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000093403) | [100334190](https://www.ncbi.nlm.nih.gov/gene/100334190), [100151278](https://www.ncbi.nlm.nih.gov/gene/100151278), [100000911](https://www.ncbi.nlm.nih.gov/gene/100000911), [334973](https://www.ncbi.nlm.nih.gov/gene/334973), [449954](https://www.ncbi.nlm.nih.gov/gene/449954) | [ZFIN:ZDB-GENE-030131-6913](https://zfin.org/ZDB-GENE-030131-6913), [ZFIN:ZDB-GENE-041008-214](https://zfin.org/ZDB-GENE-041008-214) | ZDB-GENE-030131-6913,ZDB-GENE-041008-214 |
+| Zebrafish | [ENSDARG00000093999](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000093999) | [100334190](https://www.ncbi.nlm.nih.gov/gene/100334190) | [ZFIN:ZDB-GENE-100921-87](https://zfin.org/ZDB-GENE-100921-87) | termination of RNA polymerase I transcription |
 

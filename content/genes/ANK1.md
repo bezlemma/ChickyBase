@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396311
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424401
 forward_primer: GCCAATGTCAATGCTCAGTCG
-gene_id: '461910'
+gene_id: '396311'
 gene_type: protein-coding
 images:
 - caption: ANK1 expression
@@ -93,41 +93,31 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.ANK1.S26.001.jpg
 name: ankyrin 1
-ncbi_id: '461910'
+ncbi_id: '396311'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000029534
+  entrez: '286'
+  mod: MIM:612641
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000031543
+  entrez: '11733'
+  mod: MGI:88024
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000116496
+  entrez: '797662'
+  mod: ZFIN:ZDB-GENE-091113-6
+  phenotypes: signal transduction
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCATCACCCGAATGTGGTTCTTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461910
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396311
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461910
+  url: https://www.ncbi.nlm.nih.gov/gene/396311
 species: Gallus gallus
 symbol: ANK1
 template_length: '858'
@@ -149,9 +139,7 @@ title: ANK1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000029534](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000029534) | [286](https://www.ncbi.nlm.nih.gov/gene/286) | [MIM:612641](https://omim.org/entry/612641) |  |
+| Mouse | [ENSMUSG00000031543](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031543) | [11733](https://www.ncbi.nlm.nih.gov/gene/11733) | [MGI:88024](http://www.informatics.jax.org/marker/MGI:88024) |  |
+| Zebrafish | [ENSDARG00000116496](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116496) | [797662](https://www.ncbi.nlm.nih.gov/gene/797662) | [ZFIN:ZDB-GENE-091113-6](https://zfin.org/ZDB-GENE-091113-6) | signal transduction |
 

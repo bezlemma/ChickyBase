@@ -4,7 +4,6 @@ aliases:
 - kin of IRRE like 3
 cgnc_id: '764'
 external_ids:
-  '4': stage 4stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Alev+Jakt+Ueda+landscape
   Comments: 'Images and probe sequence provided by Claire Anderson. The probe was
     synthesized from cDNA clone ChEST883d8. Related paper: Anderson C, Khan MAF, Wong
@@ -18,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419719
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642607
-gene_id: '457199'
+gene_id: '419719'
 gene_type: protein-coding
 images:
 - caption: KIRREL3 expression
@@ -239,37 +238,27 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KIRREL3stage 24 x15
     right.jpg
 name: kirre like nephrin family adhesion molecule 3
-ncbi_id: '457199'
+ncbi_id: '419719'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000149571
+  entrez: '84623'
+  mod: MIM:607761
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000032036
+  entrez: '67703'
+  mod: MGI:1914953
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000075806
+  entrez: '571887'
+  mod: ZFIN:ZDB-GENE-091117-44
+  phenotypes: cell-cell adhesion, synapse assembly
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457199
+  url: https://www.ncbi.nlm.nih.gov/gene/419719
 species: Gallus gallus
 symbol: KIRREL3
 title: KIRREL3
@@ -295,9 +284,7 @@ title: KIRREL3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000149571](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000149571) | [84623](https://www.ncbi.nlm.nih.gov/gene/84623) | [MIM:607761](https://omim.org/entry/607761) |  |
+| Mouse | [ENSMUSG00000032036](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032036) | [67703](https://www.ncbi.nlm.nih.gov/gene/67703) | [MGI:1914953](http://www.informatics.jax.org/marker/MGI:1914953) |  |
+| Zebrafish | [ENSDARG00000075806](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075806) | [571887](https://www.ncbi.nlm.nih.gov/gene/571887) | [ZFIN:ZDB-GENE-091117-44](https://zfin.org/ZDB-GENE-091117-44) | cell-cell adhesion, synapse assembly |
 

@@ -3,7 +3,6 @@ aliases:
 - protein CREG1
 cgnc_id: '13786'
 external_ids:
-  '7': stage 7
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0040008
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005576
   Comments: The complete cDNA template sequence was obtained from the information
@@ -15,7 +14,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0010181
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640464
   X-XIV: stage XIII
-gene_id: '452247'
+gene_id: '768680'
 gene_type: protein-coding
 images:
 - caption: CREG1 expression
@@ -54,40 +53,35 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CREG1.Trevers.2023-Fig7-5-J.jpg
 name: cellular repressor of E1A stimulated genes 1
-ncbi_id: '452247'
+ncbi_id: '768680'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000143162
+  entrez: '8804'
+  mod: MIM:618055
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000040713
+  entrez: '433375'
+  mod: MGI:1344382
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000023010
+  entrez: '734028'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000105154
+  entrez: '791208'
+  mod: ZFIN:ZDB-GENE-070112-2042
+  phenotypes: stress granule assembly
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452247
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=768680
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452247
+  url: https://www.ncbi.nlm.nih.gov/gene/768680
 species: Gallus gallus
 symbol: CREG1
 title: CREG1
@@ -114,9 +108,8 @@ title: CREG1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000143162](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143162) | [8804](https://www.ncbi.nlm.nih.gov/gene/8804) | [MIM:618055](https://omim.org/entry/618055) |  |
+| Mouse | [ENSMUSG00000040713](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040713) | [433375](https://www.ncbi.nlm.nih.gov/gene/433375) | [MGI:1344382](http://www.informatics.jax.org/marker/MGI:1344382) |  |
+| Xenopus | [ENSXETG00000023010](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023010) | [734028](https://www.ncbi.nlm.nih.gov/gene/734028) |  |  |
+| Zebrafish | [ENSDARG00000105154](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000105154) | [791208](https://www.ncbi.nlm.nih.gov/gene/791208) | [ZFIN:ZDB-GENE-070112-2042](https://zfin.org/ZDB-GENE-070112-2042) | stress granule assembly |
 

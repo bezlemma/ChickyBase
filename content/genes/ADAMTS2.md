@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416291
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414611
 forward_primer: GAAACAGATGTGGGGATGAGGTC
-gene_id: '462842'
+gene_id: '416291'
 gene_type: protein-coding
 images:
 - caption: ADAMTS2 expression
@@ -126,13 +126,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R486.ADAMTS2.S26C.001.jpg
 name: ADAM metallopeptidase with thrombospondin type 1 motif 2
-ncbi_id: '462842'
+ncbi_id: '416291'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000087116
   entrez: '9509'
   mod: MIM:604539
@@ -143,24 +138,25 @@ orthologs:
   mod: MGI:1347356
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100492431,100498276
-  mod: 492341,490471
+- ensembl: ENSXETG00000003829
+  entrez: '100492431'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000075930
   entrez: '571682'
   mod: ZFIN:ZDB-GENE-070816-3
-  phenotypes: ZDB-GENE-070816-3
+  phenotypes: cranial skeletal system development, extracellular matrix organization,
+    proteolysis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCGCAAACACCGCACTTATC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462842
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416291
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462842
+  url: https://www.ncbi.nlm.nih.gov/gene/416291
 species: Gallus gallus
 symbol: ADAMTS2
 template_length: '883'
@@ -182,9 +178,8 @@ title: ADAMTS2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000087116](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000087116) | [9509](https://www.ncbi.nlm.nih.gov/gene/9509) | [MIM:604539](https://omim.org/entry/604539) | MIM:225410 |
 | Mouse | [ENSMUSG00000036545](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036545) | [216725](https://www.ncbi.nlm.nih.gov/gene/216725) | [MGI:1347356](http://www.informatics.jax.org/marker/MGI:1347356) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100492431](https://www.ncbi.nlm.nih.gov/gene/100492431), [100498276](https://www.ncbi.nlm.nih.gov/gene/100498276) | [492341](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492341), [490471](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490471) |  |
-| Zebrafish | [ENSDARG00000075930](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075930) | [571682](https://www.ncbi.nlm.nih.gov/gene/571682) | [ZFIN:ZDB-GENE-070816-3](https://zfin.org/ZDB-GENE-070816-3) | ZDB-GENE-070816-3 |
+| Xenopus | [ENSXETG00000003829](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003829) | [100492431](https://www.ncbi.nlm.nih.gov/gene/100492431) |  |  |
+| Zebrafish | [ENSDARG00000075930](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075930) | [571682](https://www.ncbi.nlm.nih.gov/gene/571682) | [ZFIN:ZDB-GENE-070816-3](https://zfin.org/ZDB-GENE-070816-3) | cranial skeletal system development, extracellular matrix organization, proteolysis |
 

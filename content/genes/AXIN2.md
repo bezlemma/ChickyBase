@@ -20,7 +20,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395152
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204491
-gene_id: '462278'
+gene_id: '395152'
 gene_type: protein-coding
 images:
 - caption: AXIN2 expression
@@ -1031,13 +1031,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Axin2.Eckei.2016.Fig8.jpg
 name: axin 2
-ncbi_id: '462278'
+ncbi_id: '395152'
 orthologs:
-- ensembl: ''
-  entrez: '43565'
-  mod: FBgn0026597
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000168646
   entrez: '8313'
   mod: MIM:604025
@@ -1048,20 +1043,16 @@ orthologs:
   mod: MGI:1270862
   phenotypes: All phenotypic alleles (3):Chemically induced(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100486504,447702
-  mod: '493519'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000014147
+- ensembl: ENSDARG00000100149
   entrez: '58080'
   mod: ZFIN:ZDB-GENE-000403-2
-  phenotypes: ZDB-GENE-000403-2
+  phenotypes: Wnt signaling pathway, cell development, dorsal/ventral axis specification,
+    dorsal/ventral pattern formation, heart development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462278
+  url: https://www.ncbi.nlm.nih.gov/gene/395152
 species: Gallus gallus
 symbol: AXIN2
 title: AXIN2
@@ -1090,9 +1081,7 @@ This is an open access article distributed under the terms of the Creative Commo
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43565](https://www.ncbi.nlm.nih.gov/gene/43565) | FBgn0026597 |  |
 | Human | [ENSG00000168646](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000168646) | [8313](https://www.ncbi.nlm.nih.gov/gene/8313) | [MIM:604025](https://omim.org/entry/604025) | MIM:114500 |
 | Mouse | [ENSMUSG00000000142](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000142) | [12006](https://www.ncbi.nlm.nih.gov/gene/12006) | [MGI:1270862](http://www.informatics.jax.org/marker/MGI:1270862) | All phenotypic alleles (3):Chemically induced(1) Targeted, other(2) |
-| Xenopus |  | [100486504](https://www.ncbi.nlm.nih.gov/gene/100486504), [447702](https://www.ncbi.nlm.nih.gov/gene/447702) | [493519](http://www.xenbase.org/gene/showgene.do?method=display&geneId=493519) |  |
-| Zebrafish | [ENSDARG00000014147](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014147) | [58080](https://www.ncbi.nlm.nih.gov/gene/58080) | [ZFIN:ZDB-GENE-000403-2](https://zfin.org/ZDB-GENE-000403-2) | ZDB-GENE-000403-2 |
+| Zebrafish | [ENSDARG00000100149](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000100149) | [58080](https://www.ncbi.nlm.nih.gov/gene/58080) | [ZFIN:ZDB-GENE-000403-2](https://zfin.org/ZDB-GENE-000403-2) | Wnt signaling pathway, cell development, dorsal/ventral axis specification, dorsal/ventral pattern formation, heart development |
 

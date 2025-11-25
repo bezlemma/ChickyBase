@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374208
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004725
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204314
-gene_id: '456394'
+gene_id: '374208'
 gene_type: protein-coding
 images:
 - caption: PTPRG expression
@@ -308,37 +308,33 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2.jpg
 name: protein tyrosine phosphatase, receptor type G
-ncbi_id: '456394'
+ncbi_id: '374208'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000144724
   entrez: '5793'
   mod: MIM:176886
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000021745
+- ensembl: ENSMUSG00000121513
   entrez: '19270'
   mod: MGI:97814
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000033844
   entrez: '100488629'
-  mod: '991515'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000045006
-  entrez: 561197,100526684
-  mod: ZFIN:ZDB-GENE-101101-4,ZFIN:ZDB-GENE-101101-5
-  phenotypes: ZDB-GENE-101101-4,ZDB-GENE-101101-5
+  entrez: '561197'
+  mod: ZFIN:ZDB-GENE-101101-4
+  phenotypes: dephosphorylation, neuron projection development, protein dephosphorylation,
+    signal transduction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456394
+  url: https://www.ncbi.nlm.nih.gov/gene/374208
 species: Gallus gallus
 symbol: PTPRG
 title: PTPRG
@@ -366,9 +362,8 @@ title: PTPRG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000144724](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000144724) | [5793](https://www.ncbi.nlm.nih.gov/gene/5793) | [MIM:176886](https://omim.org/entry/176886) |  |
-| Mouse | [ENSMUSG00000021745](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021745) | [19270](https://www.ncbi.nlm.nih.gov/gene/19270) | [MGI:97814](http://www.informatics.jax.org/marker/MGI:97814) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100488629](https://www.ncbi.nlm.nih.gov/gene/100488629) | [991515](http://www.xenbase.org/gene/showgene.do?method=display&geneId=991515) |  |
-| Zebrafish | [ENSDARG00000045006](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045006) | [561197](https://www.ncbi.nlm.nih.gov/gene/561197), [100526684](https://www.ncbi.nlm.nih.gov/gene/100526684) | [ZFIN:ZDB-GENE-101101-4](https://zfin.org/ZDB-GENE-101101-4), [ZFIN:ZDB-GENE-101101-5](https://zfin.org/ZDB-GENE-101101-5) | ZDB-GENE-101101-4,ZDB-GENE-101101-5 |
+| Mouse | [ENSMUSG00000121513](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000121513) | [19270](https://www.ncbi.nlm.nih.gov/gene/19270) | [MGI:97814](http://www.informatics.jax.org/marker/MGI:97814) | All phenotypic alleles (2):Targeted, knock-out(2) |
+| Xenopus | [ENSXETG00000033844](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033844) | [100488629](https://www.ncbi.nlm.nih.gov/gene/100488629) |  |  |
+| Zebrafish | [ENSDARG00000045006](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045006) | [561197](https://www.ncbi.nlm.nih.gov/gene/561197) | [ZFIN:ZDB-GENE-101101-4](https://zfin.org/ZDB-GENE-101101-4) | dephosphorylation, neuron projection development, protein dephosphorylation, signal transduction |
 

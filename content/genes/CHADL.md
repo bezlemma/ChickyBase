@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417998
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001252276
 forward_primer: 5'-CCACCACACAAACTGCGAGAAC-3'
-gene_id: '452145'
+gene_id: '417998'
 gene_type: protein-coding
 images:
 - caption: CHADL expression
@@ -89,41 +89,38 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R614.CHADL.S26.001.jpg
 name: chondroadherin-like
-ncbi_id: '452145'
+ncbi_id: '417998'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000100399
+  entrez: '150356'
+  mod: MIM:616236
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000063765
+  entrez: '214685'
+  mod: MGI:3036284
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000022982
+  entrez: '100491048'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000075903
+  entrez: '100330176'
+  mod: ZFIN:ZDB-GENE-121205-5
+  phenotypes: epiboly involved in gastrulation with mouth forming second, inflammatory
+    response, leukotriene biosynthetic process, neutrophil chemotaxis, peptide catabolic
+    process
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGAGCAAAGGCTCTGGGGGAAATC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452145
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417998
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452145
+  url: https://www.ncbi.nlm.nih.gov/gene/417998
 species: Gallus gallus
 symbol: CHADL
 template_length: '700'
@@ -146,9 +143,8 @@ title: CHADL
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000100399](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100399) | [150356](https://www.ncbi.nlm.nih.gov/gene/150356) | [MIM:616236](https://omim.org/entry/616236) |  |
+| Mouse | [ENSMUSG00000063765](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000063765) | [214685](https://www.ncbi.nlm.nih.gov/gene/214685) | [MGI:3036284](http://www.informatics.jax.org/marker/MGI:3036284) |  |
+| Xenopus | [ENSXETG00000022982](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022982) | [100491048](https://www.ncbi.nlm.nih.gov/gene/100491048) |  |  |
+| Zebrafish | [ENSDARG00000075903](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075903) | [100330176](https://www.ncbi.nlm.nih.gov/gene/100330176) | [ZFIN:ZDB-GENE-121205-5](https://zfin.org/ZDB-GENE-121205-5) | epiboly involved in gastrulation with mouth forming second, inflammatory response, leukotriene biosynthetic process, neutrophil chemotaxis, peptide catabolic process |
 

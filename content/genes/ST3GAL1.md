@@ -25,7 +25,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396140
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003836
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205217
-gene_id: '468365'
+gene_id: '396140'
 gene_type: protein-coding
 images:
 - caption: ST3GAL1 expression
@@ -43,13 +43,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3D'.jpg
 name: ST3 beta-galactoside alpha-2,3-sialyltransferase 1
-ncbi_id: '468365'
+ncbi_id: '396140'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000008513
   entrez: '6482'
   mod: MIM:607187
@@ -60,20 +55,15 @@ orthologs:
   mod: MGI:98304
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010989
   entrez: '100329190'
-  mod: '961930'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000079310
-  entrez: '553280'
-  mod: ZFIN:ZDB-GENE-060321-1,ZFIN:ZDB-GENE-060321-2
-  phenotypes: ZDB-GENE-060321-1,ZDB-GENE-060321-2
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468365
+  url: https://www.ncbi.nlm.nih.gov/gene/396140
 species: Gallus gallus
 symbol: ST3GAL1
 title: ST3GAL1
@@ -102,9 +92,7 @@ title: ST3GAL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000008513](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000008513) | [6482](https://www.ncbi.nlm.nih.gov/gene/6482) | [MIM:607187](https://omim.org/entry/607187) |  |
 | Mouse | [ENSMUSG00000013846](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000013846) | [20442](https://www.ncbi.nlm.nih.gov/gene/20442) | [MGI:98304](http://www.informatics.jax.org/marker/MGI:98304) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100329190](https://www.ncbi.nlm.nih.gov/gene/100329190) | [961930](http://www.xenbase.org/gene/showgene.do?method=display&geneId=961930) |  |
-| Zebrafish | [ENSDARG00000079310](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079310) | [553280](https://www.ncbi.nlm.nih.gov/gene/553280) | [ZFIN:ZDB-GENE-060321-1](https://zfin.org/ZDB-GENE-060321-1), [ZFIN:ZDB-GENE-060321-2](https://zfin.org/ZDB-GENE-060321-2) | ZDB-GENE-060321-1,ZDB-GENE-060321-2 |
+| Xenopus | [ENSXETG00000010989](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010989) | [100329190](https://www.ncbi.nlm.nih.gov/gene/100329190) |  |  |
 

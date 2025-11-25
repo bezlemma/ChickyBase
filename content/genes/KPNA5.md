@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421738
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419770
 forward_primer: 5'-CGCTGCGATGGACATCATG-3'
-gene_id: '454849'
+gene_id: '421738'
 gene_type: protein-coding
 images:
 - caption: KPNA5 expression
@@ -101,41 +101,27 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R727.KPNA5.S26AA.001.jpg
 name: karyopherin subunit alpha 5
-ncbi_id: '454849'
+ncbi_id: '421738'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000196911
   entrez: '3841'
   mod: MIM:604545
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000042030
   entrez: '553205'
   mod: ZFIN:ZDB-GENE-050522-22
-  phenotypes: ZDB-GENE-050522-22
+  phenotypes: NLS-bearing protein import into nucleus, animal organ development, protein
+    import into nucleus, protein transport
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGAGACAGGGTAACGCTGAGC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454849
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421738
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454849
+  url: https://www.ncbi.nlm.nih.gov/gene/421738
 species: Gallus gallus
 symbol: KPNA5
 template_length: '1038'
@@ -158,9 +144,6 @@ title: KPNA5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000196911](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000196911) | [3841](https://www.ncbi.nlm.nih.gov/gene/3841) | [MIM:604545](https://omim.org/entry/604545) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000042030](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042030) | [553205](https://www.ncbi.nlm.nih.gov/gene/553205) | [ZFIN:ZDB-GENE-050522-22](https://zfin.org/ZDB-GENE-050522-22) | ZDB-GENE-050522-22 |
+| Zebrafish | [ENSDARG00000042030](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042030) | [553205](https://www.ncbi.nlm.nih.gov/gene/553205) | [ZFIN:ZDB-GENE-050522-22](https://zfin.org/ZDB-GENE-050522-22) | NLS-bearing protein import into nucleus, animal organ development, protein import into nucleus, protein transport |
 

@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427504
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425076
 forward_primer: 5'-TGAGAGGGAGAGAGAAAATGGATG-3'
-gene_id: '454681'
+gene_id: '427504'
 gene_type: protein-coding
 images:
 - caption: BNC1 expression
@@ -86,13 +86,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R539.BNC1.S27.001.jpg
 name: basonuclin 1
-ncbi_id: '454681'
+ncbi_id: '427504'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000169594
   entrez: '646'
   mod: MIM:601930
@@ -103,24 +98,24 @@ orthologs:
   mod: MGI:1097164
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000016084
   entrez: '100492394'
-  mod: '1217654'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000074397
-  entrez: 568786,325002
+- ensembl: ENSDARG00000100757
+  entrez: '568786'
   mod: ZFIN:ZDB-GENE-030131-3725
-  phenotypes: ZDB-GENE-030131-3725
+  phenotypes: regulation of transcription by RNA polymerase I
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGCACACACACACACACACACACACC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454681
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427504
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454681
+  url: https://www.ncbi.nlm.nih.gov/gene/427504
 species: Gallus gallus
 symbol: BNC1
 template_length: '962'
@@ -143,9 +138,8 @@ title: BNC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000169594](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169594) | [646](https://www.ncbi.nlm.nih.gov/gene/646) | [MIM:601930](https://omim.org/entry/601930) |  |
 | Mouse | [ENSMUSG00000025105](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025105) | [12173](https://www.ncbi.nlm.nih.gov/gene/12173) | [MGI:1097164](http://www.informatics.jax.org/marker/MGI:1097164) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100492394](https://www.ncbi.nlm.nih.gov/gene/100492394) | [1217654](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1217654) |  |
-| Zebrafish | [ENSDARG00000074397](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074397) | [568786](https://www.ncbi.nlm.nih.gov/gene/568786), [325002](https://www.ncbi.nlm.nih.gov/gene/325002) | [ZFIN:ZDB-GENE-030131-3725](https://zfin.org/ZDB-GENE-030131-3725) | ZDB-GENE-030131-3725 |
+| Xenopus | [ENSXETG00000016084](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016084) | [100492394](https://www.ncbi.nlm.nih.gov/gene/100492394) |  |  |
+| Zebrafish | [ENSDARG00000100757](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000100757) | [568786](https://www.ncbi.nlm.nih.gov/gene/568786) | [ZFIN:ZDB-GENE-030131-3725](https://zfin.org/ZDB-GENE-030131-3725) | regulation of transcription by RNA polymerase I |
 

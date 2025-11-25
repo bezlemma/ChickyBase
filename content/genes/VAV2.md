@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373938
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204142
 forward_primer: CAAAGAGAGGCTGCTGATTTACG
-gene_id: '459474'
+gene_id: '373938'
 gene_type: protein-coding
 images:
 - caption: VAV2 expression
@@ -121,13 +121,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R399.VAV2.S27c.001.jpg
 name: vav guanine nucleotide exchange factor 2
-ncbi_id: '459474'
+ncbi_id: '373938'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000160293
   entrez: '7410'
   mod: MIM:600428
@@ -138,24 +133,26 @@ orthologs:
   mod: MGI:102718
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 733982,379646
-  mod: '6067165'
+- ensembl: ENSXETG00000019578
+  entrez: '733982'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000044718
+- ensembl: ENSDARG00000114652
   entrez: '556413'
   mod: ZFIN:ZDB-GENE-091204-420
-  phenotypes: ZDB-GENE-091204-420
+  phenotypes: cell migration, fin morphogenesis, immune response-regulating cell surface
+    receptor signaling pathway, intracellular signal transduction, positive regulation
+    of phosphatidylinositol 3-kinase/protein kinase B signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAAGTCCTGGTCTGCTGAAGAACCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459474
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373938
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459474
+  url: https://www.ncbi.nlm.nih.gov/gene/373938
 species: Gallus gallus
 symbol: VAV2
 template_length: '903'
@@ -177,9 +174,8 @@ title: VAV2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000160293](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000160293) | [7410](https://www.ncbi.nlm.nih.gov/gene/7410) | [MIM:600428](https://omim.org/entry/600428) |  |
 | Mouse | [ENSMUSG00000009621](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000009621) | [22325](https://www.ncbi.nlm.nih.gov/gene/22325) | [MGI:102718](http://www.informatics.jax.org/marker/MGI:102718) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [733982](https://www.ncbi.nlm.nih.gov/gene/733982), [379646](https://www.ncbi.nlm.nih.gov/gene/379646) | [6067165](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6067165) |  |
-| Zebrafish | [ENSDARG00000044718](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044718) | [556413](https://www.ncbi.nlm.nih.gov/gene/556413) | [ZFIN:ZDB-GENE-091204-420](https://zfin.org/ZDB-GENE-091204-420) | ZDB-GENE-091204-420 |
+| Xenopus | [ENSXETG00000019578](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019578) | [733982](https://www.ncbi.nlm.nih.gov/gene/733982) |  |  |
+| Zebrafish | [ENSDARG00000114652](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114652) | [556413](https://www.ncbi.nlm.nih.gov/gene/556413) | [ZFIN:ZDB-GENE-091204-420](https://zfin.org/ZDB-GENE-091204-420) | cell migration, fin morphogenesis, immune response-regulating cell surface receptor signaling pathway, intracellular signal transduction, positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction |
 

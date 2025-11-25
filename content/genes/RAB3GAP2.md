@@ -1,7 +1,6 @@
 ---
 cgnc_id: '7231'
 external_ids:
-  '25': stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0027505
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/34626
@@ -10,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421343
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001163800
 forward_primer: 5’-TTGCACTTGAGCAGAAACGC-3’
-gene_id: '457318'
+gene_id: '421343'
 gene_type: protein-coding
 images:
 - caption: RAB3GAP2 expression
@@ -95,41 +94,37 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R651.RAB3GAP2.S25A.001.jpg
 name: RAB3 GTPase activating non-catalytic protein subunit 2
-ncbi_id: '457318'
+ncbi_id: '421343'
 orthologs:
-- ensembl: ''
-  entrez: '34626'
-  mod: FBgn0027505
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000118873
   entrez: '25782'
   mod: MIM:609275
   phenotypes: MIM:212720
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000039318
+  entrez: '98732'
+  mod: MGI:1916043
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000002728
   entrez: '100145752'
-  mod: '987873'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000044136
   entrez: '368905'
   mod: ZFIN:ZDB-GENE-030616-610
-  phenotypes: ZDB-GENE-030616-610
+  phenotypes: establishment of protein localization to endoplasmic reticulum membrane,
+    macroautophagy, synaptic signaling
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTTCTGGAATTGTGGGGTGGG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457318
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421343
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457318
+  url: https://www.ncbi.nlm.nih.gov/gene/421343
 species: Gallus gallus
 symbol: RAB3GAP2
 template_length: '880'
@@ -154,9 +149,8 @@ title: RAB3GAP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34626](https://www.ncbi.nlm.nih.gov/gene/34626) | FBgn0027505 |  |
 | Human | [ENSG00000118873](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118873) | [25782](https://www.ncbi.nlm.nih.gov/gene/25782) | [MIM:609275](https://omim.org/entry/609275) | MIM:212720 |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100145752](https://www.ncbi.nlm.nih.gov/gene/100145752) | [987873](http://www.xenbase.org/gene/showgene.do?method=display&geneId=987873) |  |
-| Zebrafish | [ENSDARG00000044136](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044136) | [368905](https://www.ncbi.nlm.nih.gov/gene/368905) | [ZFIN:ZDB-GENE-030616-610](https://zfin.org/ZDB-GENE-030616-610) | ZDB-GENE-030616-610 |
+| Mouse | [ENSMUSG00000039318](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039318) | [98732](https://www.ncbi.nlm.nih.gov/gene/98732) | [MGI:1916043](http://www.informatics.jax.org/marker/MGI:1916043) |  |
+| Xenopus | [ENSXETG00000002728](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002728) | [100145752](https://www.ncbi.nlm.nih.gov/gene/100145752) |  |  |
+| Zebrafish | [ENSDARG00000044136](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044136) | [368905](https://www.ncbi.nlm.nih.gov/gene/368905) | [ZFIN:ZDB-GENE-030616-610](https://zfin.org/ZDB-GENE-030616-610) | establishment of protein localization to endoplasmic reticulum membrane, macroautophagy, synaptic signaling |
 

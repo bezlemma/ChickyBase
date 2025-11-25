@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417731
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199482
 forward_primer: 5'-GGAACCTGTGAAAGAACTGACCG-3'
-gene_id: '462933'
+gene_id: '417731'
 gene_type: protein-coding
 images:
 - caption: BRD1 expression
@@ -109,41 +109,36 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R546.BRD1.S24A.001.jpg
 name: bromodomain containing 1
-ncbi_id: '462933'
+ncbi_id: '417731'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100425
   entrez: '23774'
   mod: MIM:604589
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000022387
+  entrez: '223770'
+  mod: MGI:1924161
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 733743,444273
-  mod: '949376'
+- ensembl: ENSXETG00000014519
+  entrez: '733743'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000013596
-  entrez: 100332143,569574,100009661
-  mod: ZFIN:ZDB-GENE-041008-168,ZFIN:ZDB-GENE-070209-98
-  phenotypes: ZDB-GENE-041008-168,ZDB-GENE-070209-98
+- ensembl: ENSDARG00000116694
+  entrez: '569574'
+  mod: ZFIN:ZDB-GENE-041008-168
+  phenotypes: regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGCCAAGAGAAAGGCTGTGGTGACTC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462933
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417731
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462933
+  url: https://www.ncbi.nlm.nih.gov/gene/417731
 species: Gallus gallus
 symbol: BRD1
 template_length: '1000'
@@ -166,9 +161,8 @@ title: BRD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000100425](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100425) | [23774](https://www.ncbi.nlm.nih.gov/gene/23774) | [MIM:604589](https://omim.org/entry/604589) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [733743](https://www.ncbi.nlm.nih.gov/gene/733743), [444273](https://www.ncbi.nlm.nih.gov/gene/444273) | [949376](http://www.xenbase.org/gene/showgene.do?method=display&geneId=949376) |  |
-| Zebrafish | [ENSDARG00000013596](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013596) | [100332143](https://www.ncbi.nlm.nih.gov/gene/100332143), [569574](https://www.ncbi.nlm.nih.gov/gene/569574), [100009661](https://www.ncbi.nlm.nih.gov/gene/100009661) | [ZFIN:ZDB-GENE-041008-168](https://zfin.org/ZDB-GENE-041008-168), [ZFIN:ZDB-GENE-070209-98](https://zfin.org/ZDB-GENE-070209-98) | ZDB-GENE-041008-168,ZDB-GENE-070209-98 |
+| Mouse | [ENSMUSG00000022387](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022387) | [223770](https://www.ncbi.nlm.nih.gov/gene/223770) | [MGI:1924161](http://www.informatics.jax.org/marker/MGI:1924161) |  |
+| Xenopus | [ENSXETG00000014519](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014519) | [733743](https://www.ncbi.nlm.nih.gov/gene/733743) |  |  |
+| Zebrafish | [ENSDARG00000116694](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116694) | [569574](https://www.ncbi.nlm.nih.gov/gene/569574) | [ZFIN:ZDB-GENE-041008-168](https://zfin.org/ZDB-GENE-041008-168) | regulation of transcription by RNA polymerase II |
 

@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:429941
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001044667
-gene_id: '350065'
+gene_id: '429941'
 gene_type: protein-coding
 images:
 - caption: ISLR2 expression
@@ -104,37 +104,32 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SST273.FIG2H.GIJEMA.2006.jpg
 name: immunoglobulin superfamily containing leucine rich repeat 2
-ncbi_id: '350065'
+ncbi_id: '429941'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000167178
+  entrez: '57611'
+  mod: MIM:614179
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000051243
+  entrez: '320563'
+  mod: MGI:2444277
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000016565
+  entrez: '100145445'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000109523
+  entrez: '541396'
+  mod: ZFIN:ZDB-GENE-050320-95
+  phenotypes: retinal ganglion cell axon guidance
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/350065
+  url: https://www.ncbi.nlm.nih.gov/gene/429941
 species: Gallus gallus
 symbol: ISLR2
 title: ISLR2
@@ -160,9 +155,8 @@ title: ISLR2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000167178](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000167178) | [57611](https://www.ncbi.nlm.nih.gov/gene/57611) | [MIM:614179](https://omim.org/entry/614179) |  |
+| Mouse | [ENSMUSG00000051243](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000051243) | [320563](https://www.ncbi.nlm.nih.gov/gene/320563) | [MGI:2444277](http://www.informatics.jax.org/marker/MGI:2444277) |  |
+| Xenopus | [ENSXETG00000016565](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016565) | [100145445](https://www.ncbi.nlm.nih.gov/gene/100145445) |  |  |
+| Zebrafish | [ENSDARG00000109523](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000109523) | [541396](https://www.ncbi.nlm.nih.gov/gene/541396) | [ZFIN:ZDB-GENE-050320-95](https://zfin.org/ZDB-GENE-050320-95) | retinal ganglion cell axon guidance |
 

@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418056
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0020037
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001167752
-gene_id: '458104'
+gene_id: '418056'
 gene_type: protein-coding
 images:
 - caption: MB expression
@@ -69,13 +69,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MB.Anderson.2019.Supplementary
     figure 4C.jpg
 name: myoglobin
-ncbi_id: '458104'
+ncbi_id: '418056'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000198125
   entrez: '4151'
   mod: MIM:160000
@@ -86,20 +81,16 @@ orthologs:
   mod: MGI:96922
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000031952
   entrez: '393558'
   mod: ZFIN:ZDB-GENE-040426-1430
-  phenotypes: ZDB-GENE-040426-1430
+  phenotypes: digestive tract development, oxygen transport, removal of superoxide
+    radicals, response to activity, response to hypoxia
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458104
+  url: https://www.ncbi.nlm.nih.gov/gene/418056
 species: Gallus gallus
 symbol: MB
 title: MB
@@ -127,9 +118,7 @@ title: MB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000198125](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198125) | [4151](https://www.ncbi.nlm.nih.gov/gene/4151) | [MIM:160000](https://omim.org/entry/160000) |  |
 | Mouse | [ENSMUSG00000018893](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018893) | [17189](https://www.ncbi.nlm.nih.gov/gene/17189) | [MGI:96922](http://www.informatics.jax.org/marker/MGI:96922) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000031952](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031952) | [393558](https://www.ncbi.nlm.nih.gov/gene/393558) | [ZFIN:ZDB-GENE-040426-1430](https://zfin.org/ZDB-GENE-040426-1430) | ZDB-GENE-040426-1430 |
+| Zebrafish | [ENSDARG00000031952](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031952) | [393558](https://www.ncbi.nlm.nih.gov/gene/393558) | [ZFIN:ZDB-GENE-040426-1430](https://zfin.org/ZDB-GENE-040426-1430) | digestive tract development, oxygen transport, removal of superoxide radicals, response to activity, response to hypoxia |
 

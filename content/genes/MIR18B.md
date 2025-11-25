@@ -11,7 +11,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018324
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NC_006102
-gene_id: '467938'
+gene_id: '777813'
 gene_type: miscRNA
 images:
 - caption: MIR18B expression
@@ -120,7 +120,7 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/18b.8.03x.jpg
 name: microRNA 18b
-ncbi_id: '467938'
+ncbi_id: '777813'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -150,7 +150,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467938
+  url: https://www.ncbi.nlm.nih.gov/gene/777813
 species: Gallus gallus
 symbol: MIR18B
 title: MIR18B

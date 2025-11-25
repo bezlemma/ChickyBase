@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418065
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416301
 forward_primer: 5’-CGCAGACAATCTTGCCTTC-3’
-gene_id: '458085'
+gene_id: '418065'
 gene_type: protein-coding
 images:
 - caption: PRDM4 expression
@@ -79,13 +79,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R702.PRDM4.S26.001.jpg
 name: PR/SET domain 4
-ncbi_id: '458085'
+ncbi_id: '418065'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000110851
   entrez: '11108'
   mod: MIM:605780
@@ -96,24 +91,24 @@ orthologs:
   mod: MGI:1920093
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 779710,379872
-  mod: '958480'
+- ensembl: ENSXETG00000036431
+  entrez: '779710'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000017366
   entrez: '100000537'
   mod: ZFIN:ZDB-GENE-041210-131
-  phenotypes: ZDB-GENE-041210-131
+  phenotypes: regulation of gene expression, transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAATCGCACTTGTGTGGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458085
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418065
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458085
+  url: https://www.ncbi.nlm.nih.gov/gene/418065
 species: Gallus gallus
 symbol: PRDM4
 template_length: '827'
@@ -136,9 +131,8 @@ title: PRDM4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000110851](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000110851) | [11108](https://www.ncbi.nlm.nih.gov/gene/11108) | [MIM:605780](https://omim.org/entry/605780) |  |
 | Mouse | [ENSMUSG00000035529](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035529) | [72843](https://www.ncbi.nlm.nih.gov/gene/72843) | [MGI:1920093](http://www.informatics.jax.org/marker/MGI:1920093) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [779710](https://www.ncbi.nlm.nih.gov/gene/779710), [379872](https://www.ncbi.nlm.nih.gov/gene/379872) | [958480](http://www.xenbase.org/gene/showgene.do?method=display&geneId=958480) |  |
-| Zebrafish | [ENSDARG00000017366](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017366) | [100000537](https://www.ncbi.nlm.nih.gov/gene/100000537) | [ZFIN:ZDB-GENE-041210-131](https://zfin.org/ZDB-GENE-041210-131) | ZDB-GENE-041210-131 |
+| Xenopus | [ENSXETG00000036431](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000036431) | [779710](https://www.ncbi.nlm.nih.gov/gene/779710) |  |  |
+| Zebrafish | [ENSDARG00000017366](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017366) | [100000537](https://www.ncbi.nlm.nih.gov/gene/100000537) | [ZFIN:ZDB-GENE-041210-131](https://zfin.org/ZDB-GENE-041210-131) | regulation of gene expression, transcription by RNA polymerase II |
 

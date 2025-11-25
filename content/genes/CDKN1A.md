@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:378914
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204396
-gene_id: '452522'
+gene_id: '378914'
 gene_type: protein-coding
 images:
 - caption: CDKN1A expression
@@ -40,7 +40,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-p21cip1-Fig2.jpg
 name: cyclin dependent kinase inhibitor 1A
-ncbi_id: '452522'
+ncbi_id: '378914'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -70,7 +70,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452522
+  url: https://www.ncbi.nlm.nih.gov/gene/378914
 species: Gallus gallus
 symbol: CDKN1A
 title: CDKN1A

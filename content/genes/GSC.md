@@ -3,7 +3,6 @@ aliases:
 - homeobox protein goosecoid, Goosecoid
 cgnc_id: '8338'
 external_ids:
-  '4': stage 4stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Lemaire+goosecoid+1997+gastrulation
@@ -17,7 +16,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205331
   X-XIV: stage XII
-gene_id: '462405'
+gene_id: '396273'
 gene_type: protein-coding
 images:
 - caption: GSC expression
@@ -477,13 +476,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GSC.Lemaire.1997.Fig4.jpg
 name: goosecoid homeobox
-ncbi_id: '462405'
+ncbi_id: '396273'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000133937
   entrez: '145258'
   mod: MIM:138890
@@ -494,23 +488,24 @@ orthologs:
   mod: MGI:95841
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549458,397748,397752
-  mod: '486770'
+- ensembl: ENSXETG00000023328
+  entrez: '549458'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000059073
+- ensembl: ENSDARG00000115937
   entrez: '30212'
   mod: ZFIN:ZDB-GENE-980528-2060
-  phenotypes: ZDB-GENE-980528-2060
+  phenotypes: animal organ development, anterior/posterior axis specification, brain
+    development, dorsal/ventral axis specification, dorsal/ventral pattern formation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462405
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396273
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462405
+  url: https://www.ncbi.nlm.nih.gov/gene/396273
 species: Gallus gallus
 symbol: GSC
 title: GSC
@@ -539,9 +534,8 @@ title: GSC
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000133937](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000133937) | [145258](https://www.ncbi.nlm.nih.gov/gene/145258) | [MIM:138890](https://omim.org/entry/138890) |  |
 | Mouse | [ENSMUSG00000021095](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021095) | [14836](https://www.ncbi.nlm.nih.gov/gene/14836) | [MGI:95841](http://www.informatics.jax.org/marker/MGI:95841) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [549458](https://www.ncbi.nlm.nih.gov/gene/549458), [397748](https://www.ncbi.nlm.nih.gov/gene/397748), [397752](https://www.ncbi.nlm.nih.gov/gene/397752) | [486770](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486770) |  |
-| Zebrafish | [ENSDARG00000059073](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059073) | [30212](https://www.ncbi.nlm.nih.gov/gene/30212) | [ZFIN:ZDB-GENE-980528-2060](https://zfin.org/ZDB-GENE-980528-2060) | ZDB-GENE-980528-2060 |
+| Xenopus | [ENSXETG00000023328](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023328) | [549458](https://www.ncbi.nlm.nih.gov/gene/549458) |  |  |
+| Zebrafish | [ENSDARG00000115937](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115937) | [30212](https://www.ncbi.nlm.nih.gov/gene/30212) | [ZFIN:ZDB-GENE-980528-2060](https://zfin.org/ZDB-GENE-980528-2060) | animal organ development, anterior/posterior axis specification, brain development, dorsal/ventral axis specification, dorsal/ventral pattern formation |
 

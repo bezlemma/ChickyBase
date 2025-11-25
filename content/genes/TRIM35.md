@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771180
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234475
-gene_id: '449203'
+gene_id: '771180'
 gene_type: protein-coding
 images:
 - caption: TRIM35 expression
@@ -40,16 +40,11 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3WB8.116.1.20.jpg
 name: tripartite motif containing 35
-ncbi_id: '449203'
+ncbi_id: '771180'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000104228
   entrez: '23087'
-  mod: ''
+  mod: MIM:617007
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000022043
@@ -57,23 +52,13 @@ orthologs:
   mod: MGI:1914104
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000035009
-  entrez: '334253'
-  mod: ZFIN:ZDB-GENE-030131-6185
-  phenotypes: ZDB-GENE-030131-6185
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449203
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771180
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449203
+  url: https://www.ncbi.nlm.nih.gov/gene/771180
 species: Gallus gallus
 symbol: TRIM35
 title: TRIM35
@@ -96,9 +81,6 @@ title: TRIM35
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000104228](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000104228) | [23087](https://www.ncbi.nlm.nih.gov/gene/23087) |  |  |
+| Human | [ENSG00000104228](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000104228) | [23087](https://www.ncbi.nlm.nih.gov/gene/23087) | [MIM:617007](https://omim.org/entry/617007) |  |
 | Mouse | [ENSMUSG00000022043](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022043) | [66854](https://www.ncbi.nlm.nih.gov/gene/66854) | [MGI:1914104](http://www.informatics.jax.org/marker/MGI:1914104) |  |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000035009](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035009) | [334253](https://www.ncbi.nlm.nih.gov/gene/334253) | [ZFIN:ZDB-GENE-030131-6185](https://zfin.org/ZDB-GENE-030131-6185) | ZDB-GENE-030131-6185 |
 

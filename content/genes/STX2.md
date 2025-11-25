@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:378895
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001079713
-gene_id: '452965'
+gene_id: '378895'
 gene_type: protein-coding
 images:
 - caption: STX2 expression
@@ -51,7 +51,7 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/epimorphin.fig1.imageF
 name: syntaxin 2
-ncbi_id: '452965'
+ncbi_id: '378895'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -77,12 +77,12 @@ orthologs:
 - ensembl: ''
   entrez: 100147996,445167,100536636
   mod: ZFIN:ZDB-GENE-040801-80,ZFIN:ZDB-GENE-091204-424
-  phenotypes: ZDB-GENE-040801-80,ZDB-GENE-091204-424
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452965
+  url: https://www.ncbi.nlm.nih.gov/gene/378895
 species: Gallus gallus
 symbol: STX2
 title: STX2
@@ -111,5 +111,5 @@ title: STX2
 | Human | [ENSG00000111450](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111450) | [2054](https://www.ncbi.nlm.nih.gov/gene/2054) | [MIM:132350](https://omim.org/entry/132350) |  |
 | Mouse | [ENSMUSG00000029428](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029428) | [13852](https://www.ncbi.nlm.nih.gov/gene/13852) | [MGI:108059](http://www.informatics.jax.org/marker/MGI:108059) | All phenotypic alleles (5):Chemically induced(1) Targeted, knock-out(1) Targeted, other(3) |
 | Xenopus |  | [780101](https://www.ncbi.nlm.nih.gov/gene/780101), [446698](https://www.ncbi.nlm.nih.gov/gene/446698) | [962072](http://www.xenbase.org/gene/showgene.do?method=display&geneId=962072) |  |
-| Zebrafish |  | [100147996](https://www.ncbi.nlm.nih.gov/gene/100147996), [445167](https://www.ncbi.nlm.nih.gov/gene/445167), [100536636](https://www.ncbi.nlm.nih.gov/gene/100536636) | [ZFIN:ZDB-GENE-040801-80](https://zfin.org/ZDB-GENE-040801-80), [ZFIN:ZDB-GENE-091204-424](https://zfin.org/ZDB-GENE-091204-424) | ZDB-GENE-040801-80,ZDB-GENE-091204-424 |
+| Zebrafish |  | [100147996](https://www.ncbi.nlm.nih.gov/gene/100147996), [445167](https://www.ncbi.nlm.nih.gov/gene/445167), [100536636](https://www.ncbi.nlm.nih.gov/gene/100536636) | [ZFIN:ZDB-GENE-040801-80](https://zfin.org/ZDB-GENE-040801-80), [ZFIN:ZDB-GENE-091204-424](https://zfin.org/ZDB-GENE-091204-424) |  |
 

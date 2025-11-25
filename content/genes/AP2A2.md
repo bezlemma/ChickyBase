@@ -20,7 +20,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423102
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012896
-gene_id: '449468'
+gene_id: '423102'
 gene_type: protein-coding
 images:
 - caption: AP2A2 expression
@@ -55,14 +55,9 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AP2a.Grenier.2009.Fig.3.png
 name: adaptor related protein complex 2 subunit alpha 2
-ncbi_id: '449468'
+ncbi_id: '423102'
 orthologs:
-- ensembl: ''
-  entrez: '33211'
-  mod: FBgn0264855
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000183020
+- ensembl: ENSG00000280759
   entrez: '161'
   mod: MIM:607242
   phenotypes: ''
@@ -72,20 +67,15 @@ orthologs:
   mod: MGI:101920
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 407867,734352,100038257
-  mod: 486023,923182
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000054320
-  entrez: '558153'
+- ensembl: ENSXETG00000025765
+  entrez: '407867'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449468
+  url: https://www.ncbi.nlm.nih.gov/gene/423102
 species: Gallus gallus
 symbol: AP2A2
 title: AP2A2
@@ -113,9 +103,7 @@ title: AP2A2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33211](https://www.ncbi.nlm.nih.gov/gene/33211) | FBgn0264855 |  |
-| Human | [ENSG00000183020](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000183020) | [161](https://www.ncbi.nlm.nih.gov/gene/161) | [MIM:607242](https://omim.org/entry/607242) |  |
+| Human | [ENSG00000280759](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000280759) | [161](https://www.ncbi.nlm.nih.gov/gene/161) | [MIM:607242](https://omim.org/entry/607242) |  |
 | Mouse | [ENSMUSG00000002957](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002957) | [11772](https://www.ncbi.nlm.nih.gov/gene/11772) | [MGI:101920](http://www.informatics.jax.org/marker/MGI:101920) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [407867](https://www.ncbi.nlm.nih.gov/gene/407867), [734352](https://www.ncbi.nlm.nih.gov/gene/734352), [100038257](https://www.ncbi.nlm.nih.gov/gene/100038257) | [486023](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486023), [923182](http://www.xenbase.org/gene/showgene.do?method=display&geneId=923182) |  |
-| Zebrafish | [ENSDARG00000054320](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054320) | [558153](https://www.ncbi.nlm.nih.gov/gene/558153) |  |  |
+| Xenopus | [ENSXETG00000025765](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025765) | [407867](https://www.ncbi.nlm.nih.gov/gene/407867) |  |  |
 

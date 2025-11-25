@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374242
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204335
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/DCX
-gene_id: '456503'
+gene_id: '374242'
 gene_type: protein-coding
 images:
 - caption: DCX expression
@@ -156,13 +156,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DCX.CapesDavis.2005.Fig.3
     dcx st44.png
 name: doublecortin
-ncbi_id: '456503'
+ncbi_id: '374242'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000077279
   entrez: '1641'
   mod: MIM:300121
@@ -173,23 +168,18 @@ orthologs:
   mod: MGI:1277171
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000012418
   entrez: '100493401'
-  mod: '992091'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456503
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374242
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456503
+  url: https://www.ncbi.nlm.nih.gov/gene/374242
 species: Gallus gallus
 symbol: DCX
 title: DCX
@@ -215,9 +205,7 @@ title: DCX
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000077279](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000077279) | [1641](https://www.ncbi.nlm.nih.gov/gene/1641) | [MIM:300121](https://omim.org/entry/300121) | MIM:300067 |
 | Mouse | [ENSMUSG00000031285](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031285) | [13193](https://www.ncbi.nlm.nih.gov/gene/13193) | [MGI:1277171](http://www.informatics.jax.org/marker/MGI:1277171) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [100493401](https://www.ncbi.nlm.nih.gov/gene/100493401) | [992091](http://www.xenbase.org/gene/showgene.do?method=display&geneId=992091) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000012418](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012418) | [100493401](https://www.ncbi.nlm.nih.gov/gene/100493401) |  |  |
 

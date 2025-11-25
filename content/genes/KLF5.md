@@ -3,7 +3,6 @@ aliases:
 - Krueppel-like factor 5
 cgnc_id: '12707'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Antin+KLF
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (XM_417013).
@@ -14,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418818
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417013
   X-XIV: stage XIII
-gene_id: '454296'
+gene_id: '418818'
 gene_type: protein-coding
 images:
 - caption: KLF5 expression
@@ -307,13 +306,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KLF5.Trevers.2023-Fig7-6-R.jpg
 name: Kruppel like factor 5
-ncbi_id: '454296'
+ncbi_id: '418818'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000102554
   entrez: '688'
   mod: MIM:602903
@@ -325,23 +319,23 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(4)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100489339,735138
-  mod: '490586'
+- ensembl: ENSXETG00000004715
+  entrez: '100489339'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000015506
   entrez: '100006043'
-  mod: ZFIN:ZDB-GENE-080424-4,ZFIN:ZDB-GENE-090312-167
-  phenotypes: ZDB-GENE-080424-4,ZDB-GENE-090312-167
+  mod: ZFIN:ZDB-GENE-090312-167
+  phenotypes: digestive tract development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454296
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418818
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454296
+  url: https://www.ncbi.nlm.nih.gov/gene/418818
 species: Gallus gallus
 symbol: KLF5
 title: KLF5
@@ -367,9 +361,8 @@ title: KLF5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000102554](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000102554) | [688](https://www.ncbi.nlm.nih.gov/gene/688) | [MIM:602903](https://omim.org/entry/602903) |  |
 | Mouse | [ENSMUSG00000005148](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005148) | [12224](https://www.ncbi.nlm.nih.gov/gene/12224) | [MGI:1338056](http://www.informatics.jax.org/marker/MGI:1338056) | All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(4) Gene trapped(1) |
-| Xenopus |  | [100489339](https://www.ncbi.nlm.nih.gov/gene/100489339), [735138](https://www.ncbi.nlm.nih.gov/gene/735138) | [490586](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490586) |  |
-| Zebrafish | [ENSDARG00000015506](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015506) | [100006043](https://www.ncbi.nlm.nih.gov/gene/100006043) | [ZFIN:ZDB-GENE-080424-4](https://zfin.org/ZDB-GENE-080424-4), [ZFIN:ZDB-GENE-090312-167](https://zfin.org/ZDB-GENE-090312-167) | ZDB-GENE-080424-4,ZDB-GENE-090312-167 |
+| Xenopus | [ENSXETG00000004715](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004715) | [100489339](https://www.ncbi.nlm.nih.gov/gene/100489339) |  |  |
+| Zebrafish | [ENSDARG00000015506](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015506) | [100006043](https://www.ncbi.nlm.nih.gov/gene/100006043) | [ZFIN:ZDB-GENE-090312-167](https://zfin.org/ZDB-GENE-090312-167) | digestive tract development |
 

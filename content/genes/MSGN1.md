@@ -5,7 +5,6 @@ aliases:
 - protein cMespo
 cgnc_id: '12331'
 external_ids:
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030154
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -15,7 +14,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204684
 forward_primer: 5'-TGGGACTGGAAGAACACAGC-3'
-gene_id: '449196'
+gene_id: '395419'
 gene_type: protein-coding
 images:
 - caption: MSGN1 expression
@@ -105,13 +104,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MSGN1.S25.001.jpg
 name: mesogenin 1
-ncbi_id: '449196'
+ncbi_id: '395419'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000151379
   entrez: '343930'
   mod: MIM:612209
@@ -122,24 +116,26 @@ orthologs:
   mod: MGI:1860483
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 733924,399133,100216477
-  mod: '972084'
+- ensembl: ENSXETG00000015571
+  entrez: '733924'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000070546
   entrez: '360135'
   mod: ZFIN:ZDB-GENE-030722-1
-  phenotypes: ZDB-GENE-030722-1
+  phenotypes: cell differentiation, mesoderm development, mesoderm formation, paraxial
+    mesodermal cell differentiation, regulation of transcription by RNA polymerase
+    II
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTCACCTTCCAGCATCACGTC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449196
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395419
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449196
+  url: https://www.ncbi.nlm.nih.gov/gene/395419
 species: Gallus gallus
 symbol: MSGN1
 template_length: '618'
@@ -165,9 +161,8 @@ title: MSGN1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000151379](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000151379) | [343930](https://www.ncbi.nlm.nih.gov/gene/343930) | [MIM:612209](https://omim.org/entry/612209) |  |
 | Mouse | [ENSMUSG00000047002](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000047002) | [56184](https://www.ncbi.nlm.nih.gov/gene/56184) | [MGI:1860483](http://www.informatics.jax.org/marker/MGI:1860483) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [733924](https://www.ncbi.nlm.nih.gov/gene/733924), [399133](https://www.ncbi.nlm.nih.gov/gene/399133), [100216477](https://www.ncbi.nlm.nih.gov/gene/100216477) | [972084](http://www.xenbase.org/gene/showgene.do?method=display&geneId=972084) |  |
-| Zebrafish |  | [360135](https://www.ncbi.nlm.nih.gov/gene/360135) | [ZFIN:ZDB-GENE-030722-1](https://zfin.org/ZDB-GENE-030722-1) | ZDB-GENE-030722-1 |
+| Xenopus | [ENSXETG00000015571](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015571) | [733924](https://www.ncbi.nlm.nih.gov/gene/733924) |  |  |
+| Zebrafish | [ENSDARG00000070546](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070546) | [360135](https://www.ncbi.nlm.nih.gov/gene/360135) | [ZFIN:ZDB-GENE-030722-1](https://zfin.org/ZDB-GENE-030722-1) | cell differentiation, mesoderm development, mesoderm formation, paraxial mesodermal cell differentiation, regulation of transcription by RNA polymerase II |
 

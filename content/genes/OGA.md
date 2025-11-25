@@ -60,7 +60,7 @@ orthologs:
 - ensembl: ENSDARG00000074686
   entrez: '324487'
   mod: ZFIN:ZDB-GENE-030131-3208
-  phenotypes: ZDB-GENE-030131-3208
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
@@ -95,5 +95,5 @@ title: OGA
 | Human | [ENSG00000198408](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198408) | [10724](https://www.ncbi.nlm.nih.gov/gene/10724) | [MIM:604039](https://omim.org/entry/604039) |  |
 | Mouse | [ENSMUSG00000025220](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025220) | [76055](https://www.ncbi.nlm.nih.gov/gene/76055) | [MGI:1932139](http://www.informatics.jax.org/marker/MGI:1932139) |  |
 | Xenopus |  | [100145437](https://www.ncbi.nlm.nih.gov/gene/100145437) | [1004478](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1004478) |  |
-| Zebrafish | [ENSDARG00000074686](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074686) | [324487](https://www.ncbi.nlm.nih.gov/gene/324487) | [ZFIN:ZDB-GENE-030131-3208](https://zfin.org/ZDB-GENE-030131-3208) | ZDB-GENE-030131-3208 |
+| Zebrafish | [ENSDARG00000074686](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074686) | [324487](https://www.ncbi.nlm.nih.gov/gene/324487) | [ZFIN:ZDB-GENE-030131-3208](https://zfin.org/ZDB-GENE-030131-3208) |  |
 

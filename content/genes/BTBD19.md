@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100858105
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006095.3?report=genbank&from=19690663&to=19695943
 forward_primer: GTTCCTCTACACTAACAGCGTCACC
-gene_id: '472636'
+gene_id: '100858105'
 gene_type: protein-coding
 images:
 - caption: BTBD19 expression
@@ -146,41 +146,26 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R567.BTBD19.S27.001.jpg
 name: BTB domain containing 19
-ncbi_id: '472636'
+ncbi_id: '100858105'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSG00000222009
+  entrez: '149478'
   mod: ''
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000033283
+  entrez: '100493227'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTTTGGCTCTCCAGCGTTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=472636
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100858105
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/472636
+  url: https://www.ncbi.nlm.nih.gov/gene/100858105
 species: Gallus gallus
 symbol: BTBD19
 template_length: '459'
@@ -204,9 +189,6 @@ title: BTBD19
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000222009](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000222009) | [149478](https://www.ncbi.nlm.nih.gov/gene/149478) |  |  |
+| Xenopus | [ENSXETG00000033283](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033283) | [100493227](https://www.ncbi.nlm.nih.gov/gene/100493227) |  |  |
 

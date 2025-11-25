@@ -4,7 +4,6 @@ aliases:
 - pre-B-cell leukemia homeobox 1
 cgnc_id: '49353'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0000611
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Huber+HoxB2+Rohrer+2012+Holzmann
   Comments: 'Insufficient information provided in publication to verify exact sequence
@@ -17,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395505
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204746
 forward_primer: GGACCAGAGTTTGGACGAGGC
-gene_id: '449645'
+gene_id: '395505'
 gene_type: protein-coding
 images:
 - caption: PBX1 expression
@@ -119,13 +118,8 @@ images:
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FigS5.Huber.D.PBX1..ST29.jpg
 name: PBX homeobox 1
-ncbi_id: '449645'
+ncbi_id: '395505'
 orthologs:
-- ensembl: ''
-  entrez: '32567'
-  mod: FBgn0000611
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000185630
   entrez: '5087'
   mod: MIM:176310
@@ -136,24 +130,25 @@ orthologs:
   mod: MGI:97495
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100216094,399184
-  mod: '1217591'
+- ensembl: ENSXETG00000010464
+  entrez: '100216094'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000089610,ENSDARG00000089550
-  entrez: 58138,570960
-  mod: ZFIN:ZDB-GENE-000405-1,ZFIN:ZDB-GENE-070424-11
-  phenotypes: ZDB-GENE-000405-1,ZDB-GENE-070424-11
+- ensembl: ENSDARG00000101131
+  entrez: '570960'
+  mod: ZFIN:ZDB-GENE-070424-11
+  phenotypes: animal organ morphogenesis, brain development, embryonic organ development,
+    eye development, neuron development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTGGGAGTTGAGGGTGAGTTAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449645
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395505
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449645
+  url: https://www.ncbi.nlm.nih.gov/gene/395505
 species: Gallus gallus
 symbol: PBX1
 template_length: '828'
@@ -182,9 +177,8 @@ title: PBX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32567](https://www.ncbi.nlm.nih.gov/gene/32567) | FBgn0000611 |  |
 | Human | [ENSG00000185630](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185630) | [5087](https://www.ncbi.nlm.nih.gov/gene/5087) | [MIM:176310](https://omim.org/entry/176310) | MIM:176310 |
 | Mouse | [ENSMUSG00000052534](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000052534) | [18514](https://www.ncbi.nlm.nih.gov/gene/18514) | [MGI:97495](http://www.informatics.jax.org/marker/MGI:97495) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4) |
-| Xenopus |  | [100216094](https://www.ncbi.nlm.nih.gov/gene/100216094), [399184](https://www.ncbi.nlm.nih.gov/gene/399184) | [1217591](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1217591) |  |
-| Zebrafish | [ENSDARG00000089610](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089610), [ENSDARG00000089550](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089550) | [58138](https://www.ncbi.nlm.nih.gov/gene/58138), [570960](https://www.ncbi.nlm.nih.gov/gene/570960) | [ZFIN:ZDB-GENE-000405-1](https://zfin.org/ZDB-GENE-000405-1), [ZFIN:ZDB-GENE-070424-11](https://zfin.org/ZDB-GENE-070424-11) | ZDB-GENE-000405-1,ZDB-GENE-070424-11 |
+| Xenopus | [ENSXETG00000010464](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010464) | [100216094](https://www.ncbi.nlm.nih.gov/gene/100216094) |  |  |
+| Zebrafish | [ENSDARG00000101131](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101131) | [570960](https://www.ncbi.nlm.nih.gov/gene/570960) | [ZFIN:ZDB-GENE-070424-11](https://zfin.org/ZDB-GENE-070424-11) | animal organ morphogenesis, brain development, embryonic organ development, eye development, neuron development |
 

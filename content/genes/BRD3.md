@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427757
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425330
 forward_primer: 5'-CGATAATGCCTGTGGTTCCTCCTAC-3'
-gene_id: '456435'
+gene_id: '427757'
 gene_type: protein-coding
 images:
 - caption: BRD3 expression
@@ -116,13 +116,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R546.BRD3.S23AAA.001.jpg
 name: bromodomain containing 3
-ncbi_id: '456435'
+ncbi_id: '427757'
 orthologs:
-- ensembl: ''
-  entrez: '31722'
-  mod: FBgn0004656
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000169925
   entrez: '8019'
   mod: MIM:601541
@@ -134,24 +129,25 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 733891,100036838
-  mod: '492564'
+- ensembl: ENSXETG00000019589
+  entrez: '733891'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000006527
-  entrez: 327108,327372
-  mod: ZFIN:ZDB-GENE-030131-5316,ZFIN:ZDB-GENE-030131-6141
-  phenotypes: ZDB-GENE-030131-5316,ZDB-GENE-030131-6141
+  entrez: '327372'
+  mod: ZFIN:ZDB-GENE-030131-6141
+  phenotypes: chromatin organization, chromatin remodeling, regulation of DNA-templated
+    transcription, thrombocyte differentiation
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGGGTTTGCTTCGGTGGTTG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456435
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427757
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456435
+  url: https://www.ncbi.nlm.nih.gov/gene/427757
 species: Gallus gallus
 symbol: BRD3
 template_length: '919'
@@ -178,9 +174,8 @@ title: BRD3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31722](https://www.ncbi.nlm.nih.gov/gene/31722) | FBgn0004656 |  |
 | Human | [ENSG00000169925](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169925) | [8019](https://www.ncbi.nlm.nih.gov/gene/8019) | [MIM:601541](https://omim.org/entry/601541) |  |
 | Mouse | [ENSMUSG00000026918](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026918) | [67382](https://www.ncbi.nlm.nih.gov/gene/67382) | [MGI:1914632](http://www.informatics.jax.org/marker/MGI:1914632) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [733891](https://www.ncbi.nlm.nih.gov/gene/733891), [100036838](https://www.ncbi.nlm.nih.gov/gene/100036838) | [492564](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492564) |  |
-| Zebrafish | [ENSDARG00000006527](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006527) | [327108](https://www.ncbi.nlm.nih.gov/gene/327108), [327372](https://www.ncbi.nlm.nih.gov/gene/327372) | [ZFIN:ZDB-GENE-030131-5316](https://zfin.org/ZDB-GENE-030131-5316), [ZFIN:ZDB-GENE-030131-6141](https://zfin.org/ZDB-GENE-030131-6141) | ZDB-GENE-030131-5316,ZDB-GENE-030131-6141 |
+| Xenopus | [ENSXETG00000019589](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019589) | [733891](https://www.ncbi.nlm.nih.gov/gene/733891) |  |  |
+| Zebrafish | [ENSDARG00000006527](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006527) | [327372](https://www.ncbi.nlm.nih.gov/gene/327372) | [ZFIN:ZDB-GENE-030131-6141](https://zfin.org/ZDB-GENE-030131-6141) | chromatin organization, chromatin remodeling, regulation of DNA-templated transcription, thrombocyte differentiation |
 

@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:429028
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426585
 forward_primer: 5’-AGCTCACACTCTGCAAGGAC-3’
-gene_id: '449616'
+gene_id: '429028'
 gene_type: protein-coding
 images:
 - caption: FIGN expression
@@ -57,14 +57,9 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R668.FIGN.S26.001.jpg
 name: fidgetin, microtubule severing factor
-ncbi_id: '449616'
+ncbi_id: '429028'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000182263
   entrez: '55137'
   mod: MIM:605295
   phenotypes: ''
@@ -75,24 +70,24 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Spontaneous(1) Targeted, knock-out(2) Targeted,
     other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000013165
   entrez: '100488151'
-  mod: '1011105'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000008662
   entrez: '553599'
   mod: ZFIN:ZDB-GENE-050522-339
-  phenotypes: ZDB-GENE-050522-339
+  phenotypes: anatomical structure morphogenesis, cell division, microtubule severing
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGCTGCCACACTTCGCTAATGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449616
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=429028
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449616
+  url: https://www.ncbi.nlm.nih.gov/gene/429028
 species: Gallus gallus
 symbol: FIGN
 template_length: '733'
@@ -115,9 +110,8 @@ title: FIGN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [55137](https://www.ncbi.nlm.nih.gov/gene/55137) | [MIM:605295](https://omim.org/entry/605295) |  |
+| Human | [ENSG00000182263](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000182263) | [55137](https://www.ncbi.nlm.nih.gov/gene/55137) | [MIM:605295](https://omim.org/entry/605295) |  |
 | Mouse | [ENSMUSG00000075324](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000075324) | [60344](https://www.ncbi.nlm.nih.gov/gene/60344) | [MGI:1890647](http://www.informatics.jax.org/marker/MGI:1890647) | All phenotypic alleles (4):Spontaneous(1) Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100488151](https://www.ncbi.nlm.nih.gov/gene/100488151) | [1011105](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1011105) |  |
-| Zebrafish | [ENSDARG00000008662](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008662) | [553599](https://www.ncbi.nlm.nih.gov/gene/553599) | [ZFIN:ZDB-GENE-050522-339](https://zfin.org/ZDB-GENE-050522-339) | ZDB-GENE-050522-339 |
+| Xenopus | [ENSXETG00000013165](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013165) | [100488151](https://www.ncbi.nlm.nih.gov/gene/100488151) |  |  |
+| Zebrafish | [ENSDARG00000008662](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008662) | [553599](https://www.ncbi.nlm.nih.gov/gene/553599) | [ZFIN:ZDB-GENE-050522-339](https://zfin.org/ZDB-GENE-050522-339) | anatomical structure morphogenesis, cell division, microtubule severing |
 

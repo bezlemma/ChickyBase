@@ -23,7 +23,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205249
 forward_primer: GCTCTGCCCACCATTTCCTACC
-gene_id: '459039'
+gene_id: '396178'
 gene_type: protein-coding
 images:
 - caption: HOXD12 expression
@@ -286,13 +286,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxd12.Yakushiji-Kaminatsui.2018.Fig1.jpg
 name: homeobox D12
-ncbi_id: '459039'
+ncbi_id: '396178'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000170178
   entrez: '3238'
   mod: MIM:142988
@@ -303,24 +298,19 @@ orthologs:
   mod: MGI:96204
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000059263
   entrez: '100006598'
   mod: ZFIN:ZDB-GENE-990415-118
-  phenotypes: ZDB-GENE-990415-118
+  phenotypes: regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGCGTCTTCTTCGCTCTGCCTAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459039
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396178
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459039
+  url: https://www.ncbi.nlm.nih.gov/gene/396178
 species: Gallus gallus
 symbol: HOXD12
 template_length: '864'
@@ -350,9 +340,7 @@ title: HOXD12
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000170178](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170178) | [3238](https://www.ncbi.nlm.nih.gov/gene/3238) | [MIM:142988](https://omim.org/entry/142988) |  |
 | Mouse | [ENSMUSG00000001823](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001823) | [15432](https://www.ncbi.nlm.nih.gov/gene/15432) | [MGI:96204](http://www.informatics.jax.org/marker/MGI:96204) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000059263](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059263) | [100006598](https://www.ncbi.nlm.nih.gov/gene/100006598) | [ZFIN:ZDB-GENE-990415-118](https://zfin.org/ZDB-GENE-990415-118) | ZDB-GENE-990415-118 |
+| Zebrafish | [ENSDARG00000059263](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059263) | [100006598](https://www.ncbi.nlm.nih.gov/gene/100006598) | [ZFIN:ZDB-GENE-990415-118](https://zfin.org/ZDB-GENE-990415-118) | regulation of DNA-templated transcription |
 

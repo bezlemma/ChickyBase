@@ -12,7 +12,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018325
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006091.3?report=genbank&from=3946630&to=3946710&strand=true
-gene_id: '467892'
+gene_id: '777814'
 gene_type: miscRNA
 images:
 - caption: MIR106A expression
@@ -115,7 +115,7 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/10b.21.23a1.10x.jpg
 name: microRNA 106a
-ncbi_id: '467892'
+ncbi_id: '777814'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -145,7 +145,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467892
+  url: https://www.ncbi.nlm.nih.gov/gene/777814
 species: Gallus gallus
 symbol: MIR106A
 title: MIR106A

@@ -7,7 +7,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415448
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030550
-gene_id: '460961'
+gene_id: '415448'
 gene_type: protein-coding
 images:
 - caption: ITGB1BP3 expression
@@ -100,40 +100,26 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ITGB1BP3_stage 16
     x25.jpg
 name: integrin beta 1 binding protein 3
-ncbi_id: '460961'
+ncbi_id: '415448'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000022049
+  entrez: '493441'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000101844
   entrez: '386710'
   mod: ZFIN:ZDB-GENE-031113-14
-  phenotypes: ZDB-GENE-031113-14
+  phenotypes: basement membrane assembly, cell-substrate junction assembly, integrin-mediated
+    signaling pathway, muscle organ development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460961
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415448
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460961
+  url: https://www.ncbi.nlm.nih.gov/gene/415448
 species: Gallus gallus
 symbol: ITGB1BP3
 title: ITGB1BP3
@@ -157,9 +143,6 @@ title: ITGB1BP3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  | [386710](https://www.ncbi.nlm.nih.gov/gene/386710) | [ZFIN:ZDB-GENE-031113-14](https://zfin.org/ZDB-GENE-031113-14) | ZDB-GENE-031113-14 |
+| Xenopus | [ENSXETG00000022049](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022049) | [493441](https://www.ncbi.nlm.nih.gov/gene/493441) |  |  |
+| Zebrafish | [ENSDARG00000101844](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101844) | [386710](https://www.ncbi.nlm.nih.gov/gene/386710) | [ZFIN:ZDB-GENE-031113-14](https://zfin.org/ZDB-GENE-031113-14) | basement membrane assembly, cell-substrate junction assembly, integrin-mediated signaling pathway, muscle organ development |
 

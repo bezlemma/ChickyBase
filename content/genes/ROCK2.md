@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419954
 forward_primer: 5'-GACATTGAGGATGACAAGGGAGAC-3'
-gene_id: '455084'
+gene_id: '374182'
 gene_type: protein-coding
 images:
 - caption: ROCK2 expression
@@ -102,13 +102,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R583.ROCK2.S27AAA.001.jpg
 name: Rho associated coiled-coil containing protein kinase 2
-ncbi_id: '455084'
+ncbi_id: '374182'
 orthologs:
-- ensembl: ''
-  entrez: '43916'
-  mod: FBgn0026181
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134318
   entrez: '9475'
   mod: MIM:604002
@@ -119,24 +114,26 @@ orthologs:
   mod: MGI:107926
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100493965,394289
-  mod: '959450'
+- ensembl: ENSXETG00000023782
+  entrez: '100493965'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000004877,ENSDARG00000017500
-  entrez: 321070,317747
-  mod: ZFIN:ZDB-GENE-060125-2,ZFIN:ZDB-GENE-030115-3
-  phenotypes: ZDB-GENE-060125-2,ZDB-GENE-030115-3
+- ensembl: ENSDARG00000017500
+  entrez: '317747'
+  mod: ZFIN:ZDB-GENE-030115-3
+  phenotypes: Rho protein signal transduction, Wnt signaling pathway, Wnt signaling
+    pathway, planar cell polarity pathway, actin cytoskeleton organization, actomyosin
+    structure organization
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTTCACTTCTTCTTCCAGGCTCG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455084
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374182
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455084
+  url: https://www.ncbi.nlm.nih.gov/gene/374182
 species: Gallus gallus
 symbol: ROCK2
 template_length: '803'
@@ -160,9 +157,8 @@ title: ROCK2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43916](https://www.ncbi.nlm.nih.gov/gene/43916) | FBgn0026181 |  |
 | Human | [ENSG00000134318](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134318) | [9475](https://www.ncbi.nlm.nih.gov/gene/9475) | [MIM:604002](https://omim.org/entry/604002) |  |
 | Mouse | [ENSMUSG00000020580](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020580) | [19878](https://www.ncbi.nlm.nih.gov/gene/19878) | [MGI:107926](http://www.informatics.jax.org/marker/MGI:107926) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100493965](https://www.ncbi.nlm.nih.gov/gene/100493965), [394289](https://www.ncbi.nlm.nih.gov/gene/394289) | [959450](http://www.xenbase.org/gene/showgene.do?method=display&geneId=959450) |  |
-| Zebrafish | [ENSDARG00000004877](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004877), [ENSDARG00000017500](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017500) | [321070](https://www.ncbi.nlm.nih.gov/gene/321070), [317747](https://www.ncbi.nlm.nih.gov/gene/317747) | [ZFIN:ZDB-GENE-060125-2](https://zfin.org/ZDB-GENE-060125-2), [ZFIN:ZDB-GENE-030115-3](https://zfin.org/ZDB-GENE-030115-3) | ZDB-GENE-060125-2,ZDB-GENE-030115-3 |
+| Xenopus | [ENSXETG00000023782](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023782) | [100493965](https://www.ncbi.nlm.nih.gov/gene/100493965) |  |  |
+| Zebrafish | [ENSDARG00000017500](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017500) | [317747](https://www.ncbi.nlm.nih.gov/gene/317747) | [ZFIN:ZDB-GENE-030115-3](https://zfin.org/ZDB-GENE-030115-3) | Rho protein signal transduction, Wnt signaling pathway, Wnt signaling pathway, planar cell polarity pathway, actin cytoskeleton organization, actomyosin structure organization |
 

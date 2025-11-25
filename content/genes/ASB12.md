@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422313
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277670
-gene_id: '450263'
+gene_id: '422313'
 gene_type: protein-coding
 images:
 - caption: ASB12 expression
@@ -61,13 +61,8 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54yd2.125.20.jpg
 name: ankyrin repeat and SOCS box containing 12
-ncbi_id: '450263'
+ncbi_id: '422313'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000198881
   entrez: '142689'
   mod: MIM:300891
@@ -78,23 +73,23 @@ orthologs:
   mod: MGI:1917642
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 394543,447084
-  mod: '5924778'
+- ensembl: ENSXETG00000047059
+  entrez: '734082'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000037558,ENSDARG00000017086
-  entrez: 100334395,445507,322927
-  mod: ZFIN:ZDB-GENE-040822-25,ZFIN:ZDB-GENE-030131-1647
-  phenotypes: ZDB-GENE-040822-25,ZDB-GENE-030131-1647
+- ensembl: ENSDARG00000116721
+  entrez: '445507'
+  mod: ZFIN:ZDB-GENE-040822-25
+  phenotypes: protein ubiquitination
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450263
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422313
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450263
+  url: https://www.ncbi.nlm.nih.gov/gene/422313
 species: Gallus gallus
 symbol: ASB12
 title: ASB12
@@ -115,9 +110,8 @@ title: ASB12
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000198881](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198881) | [142689](https://www.ncbi.nlm.nih.gov/gene/142689) | [MIM:300891](https://omim.org/entry/300891) |  |
 | Mouse | [ENSMUSG00000031204](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031204) | [70392](https://www.ncbi.nlm.nih.gov/gene/70392) | [MGI:1917642](http://www.informatics.jax.org/marker/MGI:1917642) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [394543](https://www.ncbi.nlm.nih.gov/gene/394543), [447084](https://www.ncbi.nlm.nih.gov/gene/447084) | [5924778](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5924778) |  |
-| Zebrafish | [ENSDARG00000037558](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037558), [ENSDARG00000017086](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017086) | [100334395](https://www.ncbi.nlm.nih.gov/gene/100334395), [445507](https://www.ncbi.nlm.nih.gov/gene/445507), [322927](https://www.ncbi.nlm.nih.gov/gene/322927) | [ZFIN:ZDB-GENE-040822-25](https://zfin.org/ZDB-GENE-040822-25), [ZFIN:ZDB-GENE-030131-1647](https://zfin.org/ZDB-GENE-030131-1647) | ZDB-GENE-040822-25,ZDB-GENE-030131-1647 |
+| Xenopus | [ENSXETG00000047059](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000047059) | [734082](https://www.ncbi.nlm.nih.gov/gene/734082) |  |  |
+| Zebrafish | [ENSDARG00000116721](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116721) | [445507](https://www.ncbi.nlm.nih.gov/gene/445507) | [ZFIN:ZDB-GENE-040822-25](https://zfin.org/ZDB-GENE-040822-25) | protein ubiquitination |
 

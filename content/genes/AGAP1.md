@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424024
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421880
 forward_primer: GCAGTGCCTGGAACTTTCTCTTG
-gene_id: '462779'
+gene_id: '424024'
 gene_type: protein-coding
 images:
 - caption: AGAP1 expression
@@ -188,13 +188,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R502.AGAP1.S27AA.001.jpg
 name: ArfGAP with GTPase domain, ankyrin repeat and PH domain 1
-ncbi_id: '462779'
+ncbi_id: '424024'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000157985
   entrez: '116987'
   mod: MIM:608651
@@ -205,24 +200,24 @@ orthologs:
   mod: MGI:2653690
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100485248,431967
-  mod: '981022'
+- ensembl: ENSXETG00000003280
+  entrez: '100485248'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000062123
+- ensembl: ENSDARG00000113863
   entrez: '100148154'
   mod: ZFIN:ZDB-GENE-130405-1
-  phenotypes: ZDB-GENE-130405-1
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAACCTGACAAACTCTGTGCTTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462779
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424024
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462779
+  url: https://www.ncbi.nlm.nih.gov/gene/424024
 species: Gallus gallus
 symbol: AGAP1
 template_length: '923'
@@ -244,9 +239,8 @@ title: AGAP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000157985](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000157985) | [116987](https://www.ncbi.nlm.nih.gov/gene/116987) | [MIM:608651](https://omim.org/entry/608651) |  |
 | Mouse | [ENSMUSG00000055013](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000055013) | [347722](https://www.ncbi.nlm.nih.gov/gene/347722) | [MGI:2653690](http://www.informatics.jax.org/marker/MGI:2653690) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100485248](https://www.ncbi.nlm.nih.gov/gene/100485248), [431967](https://www.ncbi.nlm.nih.gov/gene/431967) | [981022](http://www.xenbase.org/gene/showgene.do?method=display&geneId=981022) |  |
-| Zebrafish | [ENSDARG00000062123](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062123) | [100148154](https://www.ncbi.nlm.nih.gov/gene/100148154) | [ZFIN:ZDB-GENE-130405-1](https://zfin.org/ZDB-GENE-130405-1) | ZDB-GENE-130405-1 |
+| Xenopus | [ENSXETG00000003280](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003280) | [100485248](https://www.ncbi.nlm.nih.gov/gene/100485248) |  |  |
+| Zebrafish | [ENSDARG00000113863](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000113863) | [100148154](https://www.ncbi.nlm.nih.gov/gene/100148154) | [ZFIN:ZDB-GENE-130405-1](https://zfin.org/ZDB-GENE-130405-1) |  |
 

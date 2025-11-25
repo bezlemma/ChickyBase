@@ -9,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423258
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031197
-gene_id: '449075'
+gene_id: '423258'
 gene_type: protein-coding
 images:
 - caption: SRSF5 expression
@@ -62,40 +62,20 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3WE7.116.1.24A.jpg
 name: serine and arginine rich splicing factor 5
-ncbi_id: '449075'
+ncbi_id: '423258'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000100650
+  entrez: '6430'
+  mod: MIM:600914
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449075
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423258
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449075
+  url: https://www.ncbi.nlm.nih.gov/gene/423258
 species: Gallus gallus
 symbol: SRSF5
 title: SRSF5
@@ -118,9 +98,5 @@ title: SRSF5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000100650](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100650) | [6430](https://www.ncbi.nlm.nih.gov/gene/6430) | [MIM:600914](https://omim.org/entry/600914) |  |
 

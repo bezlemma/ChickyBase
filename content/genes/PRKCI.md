@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424991
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031319
-gene_id: '448685'
+gene_id: '424991'
 gene_type: protein-coding
 images:
 - caption: PRKCI expression
@@ -43,13 +43,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R208.PKC10TA.S23.001.jpg
 name: protein kinase C iota
-ncbi_id: '448685'
+ncbi_id: '424991'
 orthologs:
-- ensembl: ''
-  entrez: '47594'
-  mod: FBgn0261854
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163558
   entrez: '5584'
   mod: MIM:600539
@@ -60,23 +55,24 @@ orthologs:
   mod: MGI:99260
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 503517,399287
-  mod: '481944'
+- ensembl: ENSXETG00000009210
+  entrez: '503517'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000021225
   entrez: '117507'
   mod: ZFIN:ZDB-GENE-011105-1
-  phenotypes: ZDB-GENE-011105-1
+  phenotypes: adherens junction maintenance, adherens junction organization, brain
+    development, cell projection assembly, cell-cell junction maintenance
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448685
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424991
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448685
+  url: https://www.ncbi.nlm.nih.gov/gene/424991
 species: Gallus gallus
 symbol: PRKCI
 title: PRKCI
@@ -100,9 +96,8 @@ title: PRKCI
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [47594](https://www.ncbi.nlm.nih.gov/gene/47594) | FBgn0261854 |  |
 | Human | [ENSG00000163558](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163558) | [5584](https://www.ncbi.nlm.nih.gov/gene/5584) | [MIM:600539](https://omim.org/entry/600539) |  |
 | Mouse | [ENSMUSG00000037643](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037643) | [18759](https://www.ncbi.nlm.nih.gov/gene/18759) | [MGI:99260](http://www.informatics.jax.org/marker/MGI:99260) | All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2) |
-| Xenopus |  | [503517](https://www.ncbi.nlm.nih.gov/gene/503517), [399287](https://www.ncbi.nlm.nih.gov/gene/399287) | [481944](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481944) |  |
-| Zebrafish | [ENSDARG00000021225](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021225) | [117507](https://www.ncbi.nlm.nih.gov/gene/117507) | [ZFIN:ZDB-GENE-011105-1](https://zfin.org/ZDB-GENE-011105-1) | ZDB-GENE-011105-1 |
+| Xenopus | [ENSXETG00000009210](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009210) | [503517](https://www.ncbi.nlm.nih.gov/gene/503517) |  |  |
+| Zebrafish | [ENSDARG00000021225](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021225) | [117507](https://www.ncbi.nlm.nih.gov/gene/117507) | [ZFIN:ZDB-GENE-011105-1](https://zfin.org/ZDB-GENE-011105-1) | adherens junction maintenance, adherens junction organization, brain development, cell projection assembly, cell-cell junction maintenance |
 

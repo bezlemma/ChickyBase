@@ -6,7 +6,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424353
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422196
-gene_id: '450699'
+gene_id: '424353'
 gene_type: protein-coding
 images:
 - caption: ZBTB41 expression
@@ -24,13 +24,8 @@ images:
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53wd8.131.7xs.jpg
 name: zinc finger and BTB domain containing 41
-ncbi_id: '450699'
+ncbi_id: '424353'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000177888
   entrez: '360023'
   mod: ''
@@ -41,23 +36,23 @@ orthologs:
   mod: MGI:2444487
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000009952
   entrez: '100144660'
-  mod: '877333'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
   mod: ''
   phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000054984
+  entrez: '573743'
+  mod: ZFIN:ZDB-GENE-130530-649
+  phenotypes: regulation of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450699
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424353
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450699
+  url: https://www.ncbi.nlm.nih.gov/gene/424353
 species: Gallus gallus
 symbol: ZBTB41
 title: ZBTB41
@@ -80,9 +75,8 @@ title: ZBTB41
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000177888](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000177888) | [360023](https://www.ncbi.nlm.nih.gov/gene/360023) |  |  |
 | Mouse | [ENSMUSG00000033964](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033964) | [226470](https://www.ncbi.nlm.nih.gov/gene/226470) | [MGI:2444487](http://www.informatics.jax.org/marker/MGI:2444487) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100144660](https://www.ncbi.nlm.nih.gov/gene/100144660) | [877333](http://www.xenbase.org/gene/showgene.do?method=display&geneId=877333) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000009952](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009952) | [100144660](https://www.ncbi.nlm.nih.gov/gene/100144660) |  |  |
+| Zebrafish | [ENSDARG00000054984](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054984) | [573743](https://www.ncbi.nlm.nih.gov/gene/573743) | [ZFIN:ZDB-GENE-130530-649](https://zfin.org/ZDB-GENE-130530-649) | regulation of DNA-templated transcription |
 

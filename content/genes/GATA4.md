@@ -3,8 +3,6 @@ aliases:
 - GATA-4, transcription factor GATA-4
 cgnc_id: '12483'
 external_ids:
-  '13': stage 13
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0003290
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Wittler+2008+progenitors
@@ -18,7 +16,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0001076
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420041
   X-XIV: stage XII
-gene_id: '461643'
+gene_id: '396392'
 gene_type: protein-coding
 images:
 - caption: GATA4 expression
@@ -621,14 +619,9 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GATA4.Trevers.2023-Fig7-5-U.jpg
 name: GATA binding protein 4
-ncbi_id: '461643'
+ncbi_id: '396392'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000136574
+- ensembl: ENSG00000285109
   entrez: '2626'
   mod: MIM:600576
   phenotypes: MIM:607941
@@ -638,23 +631,25 @@ orthologs:
   mod: MGI:95664
   phenotypes: All phenotypic alleles (12):Targeted, knock-out(4) Targeted, other(8)
   species: Mouse
-- ensembl: ''
-  entrez: 549703,443781,399302
-  mod: '487457'
+- ensembl: ENSXETG00000000673
+  entrez: '549703'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000035759
+- ensembl: ENSDARG00000098952
   entrez: '30483'
   mod: ZFIN:ZDB-GENE-980526-476
-  phenotypes: ZDB-GENE-980526-476
+  phenotypes: cardiac muscle tissue regeneration, cardioblast migration to the midline
+    involved in heart field formation, cell fate commitment, embryonic heart tube
+    development, heart development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461643
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396392
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461643
+  url: https://www.ncbi.nlm.nih.gov/gene/396392
 species: Gallus gallus
 symbol: GATA4
 title: GATA4
@@ -683,9 +678,8 @@ title: GATA4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000136574](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136574) | [2626](https://www.ncbi.nlm.nih.gov/gene/2626) | [MIM:600576](https://omim.org/entry/600576) | MIM:607941 |
+| Human | [ENSG00000285109](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000285109) | [2626](https://www.ncbi.nlm.nih.gov/gene/2626) | [MIM:600576](https://omim.org/entry/600576) | MIM:607941 |
 | Mouse | [ENSMUSG00000021944](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021944) | [14463](https://www.ncbi.nlm.nih.gov/gene/14463) | [MGI:95664](http://www.informatics.jax.org/marker/MGI:95664) | All phenotypic alleles (12):Targeted, knock-out(4) Targeted, other(8) |
-| Xenopus |  | [549703](https://www.ncbi.nlm.nih.gov/gene/549703), [443781](https://www.ncbi.nlm.nih.gov/gene/443781), [399302](https://www.ncbi.nlm.nih.gov/gene/399302) | [487457](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487457) |  |
-| Zebrafish | [ENSDARG00000035759](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035759) | [30483](https://www.ncbi.nlm.nih.gov/gene/30483) | [ZFIN:ZDB-GENE-980526-476](https://zfin.org/ZDB-GENE-980526-476) | ZDB-GENE-980526-476 |
+| Xenopus | [ENSXETG00000000673](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000673) | [549703](https://www.ncbi.nlm.nih.gov/gene/549703) |  |  |
+| Zebrafish | [ENSDARG00000098952](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098952) | [30483](https://www.ncbi.nlm.nih.gov/gene/30483) | [ZFIN:ZDB-GENE-980526-476](https://zfin.org/ZDB-GENE-980526-476) | cardiac muscle tissue regeneration, cardioblast migration to the midline involved in heart field formation, cell fate commitment, embryonic heart tube development, heart development |
 

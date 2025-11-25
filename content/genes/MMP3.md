@@ -3,14 +3,13 @@ aliases:
 - stromelysin-1-like, MMP3
 cgnc_id: '53261'
 external_ids:
-  '25': stage 25
   Comments: No expression detected stages 3-10
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000026297
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428086
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425644
 forward_primer: AGCATTCAGCATTTGGAGC
-gene_id: '459897'
+gene_id: '428086'
 gene_type: protein-coding
 images:
 - caption: MMP3 expression
@@ -77,41 +76,31 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R431.MMP3.S25.001.jpg
 name: matrix metallopeptidase 3
-ncbi_id: '459897'
+ncbi_id: '428086'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000149968
+  entrez: '4314'
+  mod: MIM:185250
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000043613
+  entrez: '17392'
+  mod: MGI:97010
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000036861
+  entrez: '100494588'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCTTTAGCAGGCGTGTTAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459897
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428086
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459897
+  url: https://www.ncbi.nlm.nih.gov/gene/428086
 species: Gallus gallus
 symbol: MMP3
 template_length: '1010'
@@ -135,9 +124,7 @@ title: MMP3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000149968](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000149968) | [4314](https://www.ncbi.nlm.nih.gov/gene/4314) | [MIM:185250](https://omim.org/entry/185250) |  |
+| Mouse | [ENSMUSG00000043613](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000043613) | [17392](https://www.ncbi.nlm.nih.gov/gene/17392) | [MGI:97010](http://www.informatics.jax.org/marker/MGI:97010) |  |
+| Xenopus | [ENSXETG00000036861](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000036861) | [100494588](https://www.ncbi.nlm.nih.gov/gene/100494588) |  |  |
 

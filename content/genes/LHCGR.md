@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395776
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0038106
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204936
-gene_id: '450319'
+gene_id: '395776'
 gene_type: protein-coding
 images:
 - caption: LHCGR expression
@@ -62,13 +62,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R715.LHCGR.S26.001.jpg
 name: luteinizing hormone/choriogonadotropin receptor
-ncbi_id: '450319'
+ncbi_id: '395776'
 orthologs:
-- ensembl: ''
-  entrez: '42133'
-  mod: FBgn0016650
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138039
   entrez: '3973'
   mod: MIM:152790
@@ -79,23 +74,25 @@ orthologs:
   mod: MGI:96783
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100493814,378624
-  mod: '986650'
+- ensembl: ENSXETG00000022663
+  entrez: '100493814'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000026081
   entrez: '402920'
   mod: ZFIN:ZDB-GENE-040806-3
-  phenotypes: ZDB-GENE-040806-3
+  phenotypes: G protein-coupled receptor signaling pathway, adenylate cyclase-activating
+    G protein-coupled receptor signaling pathway, female gonad development, hormone-mediated
+    signaling pathway, luteinizing hormone signaling pathway
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450319
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395776
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450319
+  url: https://www.ncbi.nlm.nih.gov/gene/395776
 species: Gallus gallus
 symbol: LHCGR
 title: LHCGR
@@ -122,9 +119,8 @@ title: LHCGR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42133](https://www.ncbi.nlm.nih.gov/gene/42133) | FBgn0016650 |  |
 | Human | [ENSG00000138039](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138039) | [3973](https://www.ncbi.nlm.nih.gov/gene/3973) | [MIM:152790](https://omim.org/entry/152790) | MIM:176410 |
 | Mouse | [ENSMUSG00000024107](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024107) | [16867](https://www.ncbi.nlm.nih.gov/gene/16867) | [MGI:96783](http://www.informatics.jax.org/marker/MGI:96783) | All phenotypic alleles (3):Targeted, knock-out(3) |
-| Xenopus |  | [100493814](https://www.ncbi.nlm.nih.gov/gene/100493814), [378624](https://www.ncbi.nlm.nih.gov/gene/378624) | [986650](http://www.xenbase.org/gene/showgene.do?method=display&geneId=986650) |  |
-| Zebrafish | [ENSDARG00000026081](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026081) | [402920](https://www.ncbi.nlm.nih.gov/gene/402920) | [ZFIN:ZDB-GENE-040806-3](https://zfin.org/ZDB-GENE-040806-3) | ZDB-GENE-040806-3 |
+| Xenopus | [ENSXETG00000022663](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022663) | [100493814](https://www.ncbi.nlm.nih.gov/gene/100493814) |  |  |
+| Zebrafish | [ENSDARG00000026081](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026081) | [402920](https://www.ncbi.nlm.nih.gov/gene/402920) | [ZFIN:ZDB-GENE-040806-3](https://zfin.org/ZDB-GENE-040806-3) | G protein-coupled receptor signaling pathway, adenylate cyclase-activating G protein-coupled receptor signaling pathway, female gonad development, hormone-mediated signaling pathway, luteinizing hormone signaling pathway |
 

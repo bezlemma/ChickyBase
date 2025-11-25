@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417794
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416037
 forward_primer: CAATGGTCTTACATCTGCTGTTCG
-gene_id: '452937'
+gene_id: '417794'
 gene_type: protein-coding
 images:
 - caption: ADAMTS20 expression
@@ -161,13 +161,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R490.ADAMTS20.S26AAA.001.jpg
 name: ADAM metallopeptidase with thrombospondin type 1 motif 20
-ncbi_id: '452937'
+ncbi_id: '417794'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000173157
   entrez: '80070'
   mod: MIM:611681
@@ -179,24 +174,19 @@ orthologs:
   phenotypes: All phenotypic alleles (17):Spontaneous(11) Chemically induced(5) Targeted,
     other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000006802
   entrez: '100489781'
-  mod: '949935'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: ATTAACCCTCACTAAAGGCACTTTTGCCAATACTGTGCCAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452937
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417794
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452937
+  url: https://www.ncbi.nlm.nih.gov/gene/417794
 species: Gallus gallus
 symbol: ADAMTS20
 template_length: '845'
@@ -218,9 +208,7 @@ title: ADAMTS20
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000173157](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000173157) | [80070](https://www.ncbi.nlm.nih.gov/gene/80070) | [MIM:611681](https://omim.org/entry/611681) |  |
 | Mouse | [ENSMUSG00000022449](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022449) | [223838](https://www.ncbi.nlm.nih.gov/gene/223838) | [MGI:2660628](http://www.informatics.jax.org/marker/MGI:2660628) | All phenotypic alleles (17):Spontaneous(11) Chemically induced(5) Targeted, other(1) |
-| Xenopus |  | [100489781](https://www.ncbi.nlm.nih.gov/gene/100489781) | [949935](http://www.xenbase.org/gene/showgene.do?method=display&geneId=949935) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000006802](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006802) | [100489781](https://www.ncbi.nlm.nih.gov/gene/100489781) |  |  |
 

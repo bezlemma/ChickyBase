@@ -4,7 +4,6 @@ aliases:
 - cyclin-A
 cgnc_id: '9005'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0000404
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007067
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
@@ -16,7 +15,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0019901
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205244
 forward_primer: CAATGTGCCAGACTATGTCAGCG
-gene_id: '459052'
+gene_id: '396172'
 gene_type: protein-coding
 images:
 - caption: CCNA2 expression
@@ -171,13 +170,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R574.CCNA2.S25AAAA.001.jpg
 name: cyclin A2
-ncbi_id: '459052'
+ncbi_id: '396172'
 orthologs:
-- ensembl: ''
-  entrez: '39340'
-  mod: FBgn0000404
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000145386
   entrez: '890'
   mod: MIM:123835
@@ -188,24 +182,25 @@ orthologs:
   mod: MGI:108069
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 448454,734775
-  mod: '923015'
+- ensembl: ENSXETG00000001016
+  entrez: '448454'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000011094
   entrez: '192295'
   mod: ZFIN:ZDB-GENE-020418-1
-  phenotypes: ZDB-GENE-020418-1
+  phenotypes: G1/S transition of mitotic cell cycle, cell division, mitotic cell cycle
+    phase transition, retina development in camera-type eye
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGGTGCGTCAATAAGCGATACTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459052
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396172
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459052
+  url: https://www.ncbi.nlm.nih.gov/gene/396172
 species: Gallus gallus
 symbol: CCNA2
 template_length: '759'
@@ -233,9 +228,8 @@ title: CCNA2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39340](https://www.ncbi.nlm.nih.gov/gene/39340) | FBgn0000404 |  |
 | Human | [ENSG00000145386](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145386) | [890](https://www.ncbi.nlm.nih.gov/gene/890) | [MIM:123835](https://omim.org/entry/123835) |  |
 | Mouse | [ENSMUSG00000027715](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027715) | [12428](https://www.ncbi.nlm.nih.gov/gene/12428) | [MGI:108069](http://www.informatics.jax.org/marker/MGI:108069) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [448454](https://www.ncbi.nlm.nih.gov/gene/448454), [734775](https://www.ncbi.nlm.nih.gov/gene/734775) | [923015](http://www.xenbase.org/gene/showgene.do?method=display&geneId=923015) |  |
-| Zebrafish |  | [192295](https://www.ncbi.nlm.nih.gov/gene/192295) | [ZFIN:ZDB-GENE-020418-1](https://zfin.org/ZDB-GENE-020418-1) | ZDB-GENE-020418-1 |
+| Xenopus | [ENSXETG00000001016](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001016) | [448454](https://www.ncbi.nlm.nih.gov/gene/448454) |  |  |
+| Zebrafish | [ENSDARG00000011094](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011094) | [192295](https://www.ncbi.nlm.nih.gov/gene/192295) | [ZFIN:ZDB-GENE-020418-1](https://zfin.org/ZDB-GENE-020418-1) | G1/S transition of mitotic cell cycle, cell division, mitotic cell cycle phase transition, retina development in camera-type eye |
 

@@ -5,8 +5,6 @@ aliases:
 - domesticus (clone 2.3 kB) lim-1
 cgnc_id: '4028'
 external_ids:
-  '19': stage 19
-  '25': stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0026411
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0072050
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
@@ -24,7 +22,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205413
   X-XIV: stage XIIIstage XIII
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCCGATACCCCACTCTCAGAAATAAC
-gene_id: '461671'
+gene_id: '396381'
 gene_type: protein-coding
 images:
 - caption: LHX1 expression
@@ -863,41 +861,37 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fleming.2013.Allimages-3.jpg
 name: LIM homeobox 1
-ncbi_id: '461671'
+ncbi_id: '396381'
 orthologs:
-- ensembl: ''
-  entrez: '31813'
-  mod: FBgn0026411
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000273706
+- ensembl: ENSG00000274577
   entrez: '3975'
   mod: MIM:601999
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000018698
   entrez: '16869'
   mod: MGI:99783
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(1) Targeted, other(7)
   species: Mouse
-- ensembl: ''
-  entrez: 100101708,399323
-  mod: '482481'
+- ensembl: ENSXETG00000008963
+  entrez: '100101708'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000014018,ENSDARG00000007944
-  entrez: 30463,30454
-  mod: ZFIN:ZDB-GENE-980526-347,ZFIN:ZDB-GENE-980526-116
-  phenotypes: ZDB-GENE-980526-347,ZDB-GENE-980526-116
+- ensembl: ENSDARG00000014018
+  entrez: '30463'
+  mod: ZFIN:ZDB-GENE-980526-347
+  phenotypes: S-shaped body morphogenesis, anatomical structure morphogenesis, anterior/posterior
+    axis specification, cell-cell signaling, cerebellar Purkinje cell differentiation
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCCGAAACACCGAAAGAAGTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461671
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396381
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461671
+  url: https://www.ncbi.nlm.nih.gov/gene/396381
 species: Gallus gallus
 symbol: LHX1
 template_length: '612'
@@ -930,9 +924,8 @@ title: LHX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31813](https://www.ncbi.nlm.nih.gov/gene/31813) | FBgn0026411 |  |
-| Human | [ENSG00000273706](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000273706) | [3975](https://www.ncbi.nlm.nih.gov/gene/3975) | [MIM:601999](https://omim.org/entry/601999) |  |
-| Mouse |  | [16869](https://www.ncbi.nlm.nih.gov/gene/16869) | [MGI:99783](http://www.informatics.jax.org/marker/MGI:99783) | All phenotypic alleles (8):Targeted, knock-out(1) Targeted, other(7) |
-| Xenopus |  | [100101708](https://www.ncbi.nlm.nih.gov/gene/100101708), [399323](https://www.ncbi.nlm.nih.gov/gene/399323) | [482481](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482481) |  |
-| Zebrafish | [ENSDARG00000014018](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014018), [ENSDARG00000007944](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007944) | [30463](https://www.ncbi.nlm.nih.gov/gene/30463), [30454](https://www.ncbi.nlm.nih.gov/gene/30454) | [ZFIN:ZDB-GENE-980526-347](https://zfin.org/ZDB-GENE-980526-347), [ZFIN:ZDB-GENE-980526-116](https://zfin.org/ZDB-GENE-980526-116) | ZDB-GENE-980526-347,ZDB-GENE-980526-116 |
+| Human | [ENSG00000274577](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000274577) | [3975](https://www.ncbi.nlm.nih.gov/gene/3975) | [MIM:601999](https://omim.org/entry/601999) |  |
+| Mouse | [ENSMUSG00000018698](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018698) | [16869](https://www.ncbi.nlm.nih.gov/gene/16869) | [MGI:99783](http://www.informatics.jax.org/marker/MGI:99783) | All phenotypic alleles (8):Targeted, knock-out(1) Targeted, other(7) |
+| Xenopus | [ENSXETG00000008963](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008963) | [100101708](https://www.ncbi.nlm.nih.gov/gene/100101708) |  |  |
+| Zebrafish | [ENSDARG00000014018](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014018) | [30463](https://www.ncbi.nlm.nih.gov/gene/30463) | [ZFIN:ZDB-GENE-980526-347](https://zfin.org/ZDB-GENE-980526-347) | S-shaped body morphogenesis, anatomical structure morphogenesis, anterior/posterior axis specification, cell-cell signaling, cerebellar Purkinje cell differentiation |
 

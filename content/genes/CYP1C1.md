@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428832
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001233594
-gene_id: '456401'
+gene_id: '428832'
 gene_type: protein-coding
 images:
 - caption: CYP1C1 expression
@@ -67,7 +67,7 @@ images:
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wilson.2007.F4.cyp1b1.png
 name: cytochrome P450 family 1 subfamily C polypeptide 1
-ncbi_id: '456401'
+ncbi_id: '428832'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -92,12 +92,12 @@ orthologs:
 - ensembl: ENSDARG00000068934
   entrez: '100150054'
   mod: ZFIN:ZDB-GENE-030902-1
-  phenotypes: ZDB-GENE-030902-1
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456401
+  url: https://www.ncbi.nlm.nih.gov/gene/428832
 species: Gallus gallus
 symbol: CYP1C1
 title: CYP1C1
@@ -128,5 +128,5 @@ This is an open access article distributed under the terms of the Creative Commo
 | Human | [ENSG00000138061](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138061) | [1545](https://www.ncbi.nlm.nih.gov/gene/1545) | [MIM:601771](https://omim.org/entry/601771) | MIM:231300 |
 | Mouse | [ENSMUSG00000024087](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024087) | [13078](https://www.ncbi.nlm.nih.gov/gene/13078) | [MGI:88590](http://www.informatics.jax.org/marker/MGI:88590) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
 | Xenopus |  | [100490477](https://www.ncbi.nlm.nih.gov/gene/100490477) | [951459](http://www.xenbase.org/gene/showgene.do?method=display&geneId=951459) |  |
-| Zebrafish | [ENSDARG00000068934](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068934) | [100150054](https://www.ncbi.nlm.nih.gov/gene/100150054) | [ZFIN:ZDB-GENE-030902-1](https://zfin.org/ZDB-GENE-030902-1) | ZDB-GENE-030902-1 |
+| Zebrafish | [ENSDARG00000068934](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068934) | [100150054](https://www.ncbi.nlm.nih.gov/gene/100150054) | [ZFIN:ZDB-GENE-030902-1](https://zfin.org/ZDB-GENE-030902-1) |  |
 

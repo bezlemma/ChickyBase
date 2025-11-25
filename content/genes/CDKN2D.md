@@ -124,7 +124,7 @@ orthologs:
 - ensembl: ''
   entrez: '555797'
   mod: ZFIN:ZDB-GENE-081104-145
-  phenotypes: ZDB-GENE-081104-145
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGAAAGTGTCCAGGAAACCCGCTCTG-3'
 sources:
@@ -160,5 +160,5 @@ title: CDKN2D
 | Human | [ENSG00000123080](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000123080) | [1031](https://www.ncbi.nlm.nih.gov/gene/1031) | [MIM:603369](https://omim.org/entry/603369) |  |
 | Mouse | [ENSMUSG00000028551](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028551) | [12580](https://www.ncbi.nlm.nih.gov/gene/12580) | [MGI:105388](http://www.informatics.jax.org/marker/MGI:105388) | All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1) |
 | Xenopus |  | [100144705](https://www.ncbi.nlm.nih.gov/gene/100144705) | [479531](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479531) |  |
-| Zebrafish |  | [555797](https://www.ncbi.nlm.nih.gov/gene/555797) | [ZFIN:ZDB-GENE-081104-145](https://zfin.org/ZDB-GENE-081104-145) | ZDB-GENE-081104-145 |
+| Zebrafish |  | [555797](https://www.ncbi.nlm.nih.gov/gene/555797) | [ZFIN:ZDB-GENE-081104-145](https://zfin.org/ZDB-GENE-081104-145) |  |
 

@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418943
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001080103
-gene_id: '451680'
+gene_id: '418943'
 gene_type: protein-coding
 images:
 - caption: TNFRSF19 expression
@@ -191,13 +191,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TNFRS19_HH 24 x15.jpg
 name: TNF receptor superfamily member 19
-ncbi_id: '451680'
+ncbi_id: '418943'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000127863
   entrez: '55504'
   mod: MIM:606122
@@ -209,20 +204,22 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000009704
   entrez: '100485234'
-  mod: '483769'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000041869
   entrez: '559725'
   mod: ZFIN:ZDB-GENE-030131-6760
-  phenotypes: ZDB-GENE-030131-6760
+  phenotypes: establishment of endothelial blood-brain barrier, positive regulation
+    of JNK cascade, positive regulation of canonical NF-kappaB signal transduction,
+    posterior lateral line development, posterior lateral line neuromast deposition
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451680
+  url: https://www.ncbi.nlm.nih.gov/gene/418943
 species: Gallus gallus
 symbol: TNFRSF19
 title: TNFRSF19
@@ -250,9 +247,8 @@ Copyright © 2007 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000127863](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000127863) | [55504](https://www.ncbi.nlm.nih.gov/gene/55504) | [MIM:606122](https://omim.org/entry/606122) |  |
 | Mouse | [ENSMUSG00000060548](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000060548) | [29820](https://www.ncbi.nlm.nih.gov/gene/29820) | [MGI:1352474](http://www.informatics.jax.org/marker/MGI:1352474) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [100485234](https://www.ncbi.nlm.nih.gov/gene/100485234) | [483769](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483769) |  |
-| Zebrafish | [ENSDARG00000041869](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041869) | [559725](https://www.ncbi.nlm.nih.gov/gene/559725) | [ZFIN:ZDB-GENE-030131-6760](https://zfin.org/ZDB-GENE-030131-6760) | ZDB-GENE-030131-6760 |
+| Xenopus | [ENSXETG00000009704](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009704) | [100485234](https://www.ncbi.nlm.nih.gov/gene/100485234) |  |  |
+| Zebrafish | [ENSDARG00000041869](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041869) | [559725](https://www.ncbi.nlm.nih.gov/gene/559725) | [ZFIN:ZDB-GENE-030131-6760](https://zfin.org/ZDB-GENE-030131-6760) | establishment of endothelial blood-brain barrier, positive regulation of JNK cascade, positive regulation of canonical NF-kappaB signal transduction, posterior lateral line development, posterior lateral line neuromast deposition |
 

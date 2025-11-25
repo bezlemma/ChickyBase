@@ -20,7 +20,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0033829
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204947
 forward_primer: ACAAAAGCAGGAGTCCAACGC
-gene_id: '450430'
+gene_id: '395789'
 gene_type: protein-coding
 images:
 - caption: RFNG expression
@@ -87,13 +87,8 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tossell.Fig1.K.RFNG.ST12.jpg
 name: RFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase
-ncbi_id: '450430'
+ncbi_id: '395789'
 orthologs:
-- ensembl: ''
-  entrez: '40314'
-  mod: FBgn0011591
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000169733
   entrez: '5986'
   mod: MIM:602578
@@ -104,24 +99,25 @@ orthologs:
   mod: MGI:894275
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100486895,394282
-  mod: '483388'
+- ensembl: ENSXETG00000019657
+  entrez: '100486895'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000019746
   entrez: '414848'
   mod: ZFIN:ZDB-GENE-030131-5418
-  phenotypes: ZDB-GENE-030131-5418
+  phenotypes: Notch signaling pathway, brain segmentation, cell differentiation, fourth
+    ventricle development, hindbrain development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAGGAGGCTGAAAACAAGAACCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450430
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395789
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450430
+  url: https://www.ncbi.nlm.nih.gov/gene/395789
 species: Gallus gallus
 symbol: RFNG
 template_length: '921'
@@ -154,9 +150,8 @@ Copyright © 2003 Elsevier Science B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40314](https://www.ncbi.nlm.nih.gov/gene/40314) | FBgn0011591 |  |
 | Human | [ENSG00000169733](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169733) | [5986](https://www.ncbi.nlm.nih.gov/gene/5986) | [MIM:602578](https://omim.org/entry/602578) |  |
 | Mouse | [ENSMUSG00000025158](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025158) | [19719](https://www.ncbi.nlm.nih.gov/gene/19719) | [MGI:894275](http://www.informatics.jax.org/marker/MGI:894275) | All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1) |
-| Xenopus |  | [100486895](https://www.ncbi.nlm.nih.gov/gene/100486895), [394282](https://www.ncbi.nlm.nih.gov/gene/394282) | [483388](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483388) |  |
-| Zebrafish | [ENSDARG00000019746](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019746) | [414848](https://www.ncbi.nlm.nih.gov/gene/414848) | [ZFIN:ZDB-GENE-030131-5418](https://zfin.org/ZDB-GENE-030131-5418) | ZDB-GENE-030131-5418 |
+| Xenopus | [ENSXETG00000019657](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019657) | [100486895](https://www.ncbi.nlm.nih.gov/gene/100486895) |  |  |
+| Zebrafish | [ENSDARG00000019746](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019746) | [414848](https://www.ncbi.nlm.nih.gov/gene/414848) | [ZFIN:ZDB-GENE-030131-5418](https://zfin.org/ZDB-GENE-030131-5418) | Notch signaling pathway, brain segmentation, cell differentiation, fourth ventricle development, hindbrain development |
 

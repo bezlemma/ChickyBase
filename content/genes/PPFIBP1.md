@@ -11,7 +11,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030771
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/PPFIBP1
-gene_id: '454582'
+gene_id: '418219'
 gene_type: protein-coding
 images:
 - caption: PPFIBP1 expression
@@ -36,13 +36,8 @@ images:
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/A10.28.17tail.jpg
 name: PPFIA binding protein 1
-ncbi_id: '454582'
+ncbi_id: '418219'
 orthologs:
-- ensembl: ''
-  entrez: '39524'
-  mod: FBgn0036376
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000110841
   entrez: '8496'
   mod: MIM:603141
@@ -53,23 +48,18 @@ orthologs:
   mod: MGI:1914783
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100493576,398525
-  mod: '1014145'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000020236
-  entrez: 100329686,561961
+- ensembl: ENSDARG00000100057
+  entrez: '561961'
   mod: ZFIN:ZDB-GENE-060503-47
-  phenotypes: ZDB-GENE-060503-47
+  phenotypes: neuromuscular junction development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454582
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418219
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454582
+  url: https://www.ncbi.nlm.nih.gov/gene/418219
 species: Gallus gallus
 symbol: PPFIBP1
 title: PPFIBP1
@@ -94,9 +84,7 @@ title: PPFIBP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39524](https://www.ncbi.nlm.nih.gov/gene/39524) | FBgn0036376 |  |
 | Human | [ENSG00000110841](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000110841) | [8496](https://www.ncbi.nlm.nih.gov/gene/8496) | [MIM:603141](https://omim.org/entry/603141) |  |
 | Mouse | [ENSMUSG00000016487](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000016487) | [67533](https://www.ncbi.nlm.nih.gov/gene/67533) | [MGI:1914783](http://www.informatics.jax.org/marker/MGI:1914783) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100493576](https://www.ncbi.nlm.nih.gov/gene/100493576), [398525](https://www.ncbi.nlm.nih.gov/gene/398525) | [1014145](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1014145) |  |
-| Zebrafish | [ENSDARG00000020236](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020236) | [100329686](https://www.ncbi.nlm.nih.gov/gene/100329686), [561961](https://www.ncbi.nlm.nih.gov/gene/561961) | [ZFIN:ZDB-GENE-060503-47](https://zfin.org/ZDB-GENE-060503-47) | ZDB-GENE-060503-47 |
+| Zebrafish | [ENSDARG00000100057](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000100057) | [561961](https://www.ncbi.nlm.nih.gov/gene/561961) | [ZFIN:ZDB-GENE-060503-47](https://zfin.org/ZDB-GENE-060503-47) | neuromuscular junction development |
 

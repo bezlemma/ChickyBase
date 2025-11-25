@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395266
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004181
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204578
-gene_id: '461617'
+gene_id: '395266'
 gene_type: protein-coding
 images:
 - caption: CPZ expression
@@ -110,13 +110,8 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Moeller.Fig.3.CPZ.C.HH21.jpg
 name: carboxypeptidase Z
-ncbi_id: '461617'
+ncbi_id: '395266'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000109625
   entrez: '8532'
   mod: MIM:603105
@@ -127,20 +122,20 @@ orthologs:
   mod: MGI:88487
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000015417
   entrez: '100170588'
-  mod: '994182'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000075521
   entrez: '557534'
   mod: ZFIN:ZDB-GENE-090313-267
-  phenotypes: ZDB-GENE-090313-267
+  phenotypes: peptide metabolic process, protein processing, proteolysis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461617
+  url: https://www.ncbi.nlm.nih.gov/gene/395266
 species: Gallus gallus
 symbol: CPZ
 title: CPZ
@@ -168,9 +163,8 @@ title: CPZ
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000109625](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000109625) | [8532](https://www.ncbi.nlm.nih.gov/gene/8532) | [MIM:603105](https://omim.org/entry/603105) |  |
 | Mouse | [ENSMUSG00000036596](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036596) | [242939](https://www.ncbi.nlm.nih.gov/gene/242939) | [MGI:88487](http://www.informatics.jax.org/marker/MGI:88487) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100170588](https://www.ncbi.nlm.nih.gov/gene/100170588) | [994182](http://www.xenbase.org/gene/showgene.do?method=display&geneId=994182) |  |
-| Zebrafish | [ENSDARG00000075521](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075521) | [557534](https://www.ncbi.nlm.nih.gov/gene/557534) | [ZFIN:ZDB-GENE-090313-267](https://zfin.org/ZDB-GENE-090313-267) | ZDB-GENE-090313-267 |
+| Xenopus | [ENSXETG00000015417](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015417) | [100170588](https://www.ncbi.nlm.nih.gov/gene/100170588) |  |  |
+| Zebrafish | [ENSDARG00000075521](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075521) | [557534](https://www.ncbi.nlm.nih.gov/gene/557534) | [ZFIN:ZDB-GENE-090313-267](https://zfin.org/ZDB-GENE-090313-267) | peptide metabolic process, protein processing, proteolysis |
 

@@ -21,7 +21,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003708
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205326
   X-XIV: stage XIII
-gene_id: '462417'
+gene_id: '396266'
 gene_type: protein-coding
 images:
 - caption: RARB expression
@@ -193,13 +193,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARB.Trevers.2023-Fig7-7-M.jpg
 name: retinoic acid receptor beta
-ncbi_id: '462417'
+ncbi_id: '396266'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000077092
   entrez: '5915'
   mod: MIM:180220
@@ -210,23 +205,25 @@ orthologs:
   mod: MGI:97857
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100488600,100049144,100485387,397983
-  mod: 481008,484126
+- ensembl: ENSXETG00000007272
+  entrez: '100488600'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000034117
   entrez: '30606'
   mod: ZFIN:ZDB-GENE-980526-531
-  phenotypes: ZDB-GENE-980526-531
+  phenotypes: cell differentiation, liver development, negative regulation of transcription
+    by RNA polymerase II, pharyngeal system development, positive regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462417
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396266
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462417
+  url: https://www.ncbi.nlm.nih.gov/gene/396266
 species: Gallus gallus
 symbol: RARB
 title: RARB
@@ -255,9 +252,8 @@ title: RARB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000077092](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000077092) | [5915](https://www.ncbi.nlm.nih.gov/gene/5915) | [MIM:180220](https://omim.org/entry/180220) |  |
 | Mouse | [ENSMUSG00000017491](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000017491) | [218772](https://www.ncbi.nlm.nih.gov/gene/218772) | [MGI:97857](http://www.informatics.jax.org/marker/MGI:97857) | All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2) |
-| Xenopus |  | [100488600](https://www.ncbi.nlm.nih.gov/gene/100488600), [100049144](https://www.ncbi.nlm.nih.gov/gene/100049144), [100485387](https://www.ncbi.nlm.nih.gov/gene/100485387), [397983](https://www.ncbi.nlm.nih.gov/gene/397983) | [481008](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481008), [484126](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484126) |  |
-| Zebrafish | [ENSDARG00000034117](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034117) | [30606](https://www.ncbi.nlm.nih.gov/gene/30606) | [ZFIN:ZDB-GENE-980526-531](https://zfin.org/ZDB-GENE-980526-531) | ZDB-GENE-980526-531 |
+| Xenopus | [ENSXETG00000007272](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007272) | [100488600](https://www.ncbi.nlm.nih.gov/gene/100488600) |  |  |
+| Zebrafish | [ENSDARG00000034117](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034117) | [30606](https://www.ncbi.nlm.nih.gov/gene/30606) | [ZFIN:ZDB-GENE-980526-531](https://zfin.org/ZDB-GENE-980526-531) | cell differentiation, liver development, negative regulation of transcription by RNA polymerase II, pharyngeal system development, positive regulation of transcription by RNA polymerase II |
 

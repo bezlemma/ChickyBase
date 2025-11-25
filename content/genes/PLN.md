@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396378
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0042030
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205410
-gene_id: '461682'
+gene_id: '396378'
 gene_type: protein-coding
 images:
 - caption: PLN expression
@@ -61,7 +61,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLN.Anderson.2019.Fig2.jpg
 name: phospholamban
-ncbi_id: '461682'
+ncbi_id: '396378'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -91,7 +91,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461682
+  url: https://www.ncbi.nlm.nih.gov/gene/396378
 species: Gallus gallus
 symbol: PLN
 title: PLN

@@ -12,7 +12,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421631
   X-XIV: stage XIII
 forward_primer: AAGTGGAGGAAACGGGAGAGGAAC
-gene_id: '450803'
+gene_id: '423756'
 gene_type: protein-coding
 images:
 - caption: PITX3 expression
@@ -218,41 +218,37 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PITX3.Trevers.2023-Fig7-7-J.jpg
 name: paired like homeodomain 3
-ncbi_id: '450803'
+ncbi_id: '423756'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000107859
+  entrez: '5309'
+  mod: MIM:602669
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000025229
+  entrez: '18742'
+  mod: MGI:1100498
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100496690,398183
-  mod: '486161'
+- ensembl: ENSXETG00000036002
+  entrez: '100496690'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000070069
   entrez: '402974'
   mod: ZFIN:ZDB-GENE-041229-4
-  phenotypes: ZDB-GENE-041229-4
+  phenotypes: adenohypophysis development, anatomical structure morphogenesis, camera-type
+    eye development, diencephalon development, endocrine system development
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGATGCCAGTCAGTCAAGACAATG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450803
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423756
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450803
+  url: https://www.ncbi.nlm.nih.gov/gene/423756
 species: Gallus gallus
 symbol: PITX3
 template_length: '1095'
@@ -277,9 +273,8 @@ title: PITX3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100496690](https://www.ncbi.nlm.nih.gov/gene/100496690), [398183](https://www.ncbi.nlm.nih.gov/gene/398183) | [486161](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486161) |  |
-| Zebrafish | [ENSDARG00000070069](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070069) | [402974](https://www.ncbi.nlm.nih.gov/gene/402974) | [ZFIN:ZDB-GENE-041229-4](https://zfin.org/ZDB-GENE-041229-4) | ZDB-GENE-041229-4 |
+| Human | [ENSG00000107859](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107859) | [5309](https://www.ncbi.nlm.nih.gov/gene/5309) | [MIM:602669](https://omim.org/entry/602669) |  |
+| Mouse | [ENSMUSG00000025229](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025229) | [18742](https://www.ncbi.nlm.nih.gov/gene/18742) | [MGI:1100498](http://www.informatics.jax.org/marker/MGI:1100498) |  |
+| Xenopus | [ENSXETG00000036002](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000036002) | [100496690](https://www.ncbi.nlm.nih.gov/gene/100496690) |  |  |
+| Zebrafish | [ENSDARG00000070069](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070069) | [402974](https://www.ncbi.nlm.nih.gov/gene/402974) | [ZFIN:ZDB-GENE-041229-4](https://zfin.org/ZDB-GENE-041229-4) | adenohypophysis development, anatomical structure morphogenesis, camera-type eye development, diencephalon development, endocrine system development |
 

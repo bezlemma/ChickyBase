@@ -1,7 +1,6 @@
 ---
 cgnc_id: '50944'
 external_ids:
-  '25': stage 25
   Comments: no specific expression detected (ambiguous) after stage 9, possibly tail
     at st 21
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -10,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419210
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417387
 forward_primer: ACTCCAGTGGTAAAAGACCGTGAC
-gene_id: '455773'
+gene_id: '419210'
 gene_type: protein-coding
 images:
 - caption: PREX1 expression
@@ -195,13 +194,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R431.PREX1.S25.001.jpg
 name: phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 1
-ncbi_id: '455773'
+ncbi_id: '419210'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000124126
   entrez: '57580'
   mod: MIM:606905
@@ -212,24 +206,25 @@ orthologs:
   mod: MGI:3040696
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100488039,399069
-  mod: '982961'
+- ensembl: ENSXETG00000024001
+  entrez: '100488039'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000075793
   entrez: '570984'
   mod: ZFIN:ZDB-GENE-030131-1428
-  phenotypes: ZDB-GENE-030131-1428
+  phenotypes: G protein-coupled receptor signaling pathway, intracellular signal transduction,
+    negative regulation of TOR signaling, nodal signaling pathway
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGATGCTCCAGGTGGGTGTTATCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455773
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419210
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455773
+  url: https://www.ncbi.nlm.nih.gov/gene/419210
 species: Gallus gallus
 symbol: PREX1
 template_length: '951'
@@ -254,9 +249,8 @@ title: PREX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000124126](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000124126) | [57580](https://www.ncbi.nlm.nih.gov/gene/57580) | [MIM:606905](https://omim.org/entry/606905) |  |
 | Mouse | [ENSMUSG00000039621](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039621) | [277360](https://www.ncbi.nlm.nih.gov/gene/277360) | [MGI:3040696](http://www.informatics.jax.org/marker/MGI:3040696) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100488039](https://www.ncbi.nlm.nih.gov/gene/100488039), [399069](https://www.ncbi.nlm.nih.gov/gene/399069) | [982961](http://www.xenbase.org/gene/showgene.do?method=display&geneId=982961) |  |
-| Zebrafish | [ENSDARG00000075793](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075793) | [570984](https://www.ncbi.nlm.nih.gov/gene/570984) | [ZFIN:ZDB-GENE-030131-1428](https://zfin.org/ZDB-GENE-030131-1428) | ZDB-GENE-030131-1428 |
+| Xenopus | [ENSXETG00000024001](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000024001) | [100488039](https://www.ncbi.nlm.nih.gov/gene/100488039) |  |  |
+| Zebrafish | [ENSDARG00000075793](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075793) | [570984](https://www.ncbi.nlm.nih.gov/gene/570984) | [ZFIN:ZDB-GENE-030131-1428](https://zfin.org/ZDB-GENE-030131-1428) | G protein-coupled receptor signaling pathway, intracellular signal transduction, negative regulation of TOR signaling, nodal signaling pathway |
 

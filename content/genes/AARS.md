@@ -58,7 +58,7 @@ orthologs:
 - ensembl: ENSDARG00000069142
   entrez: '324940'
   mod: ZFIN:ZDB-GENE-030131-3663
-  phenotypes: ZDB-GENE-030131-3663
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -94,5 +94,5 @@ title: AARS
 | Human | [ENSG00000090861](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000090861) | [16](https://www.ncbi.nlm.nih.gov/gene/16) | [MIM:601065](https://omim.org/entry/601065) | MIM:613287 |
 | Mouse |  | [234734](https://www.ncbi.nlm.nih.gov/gene/234734) | [MGI:2384560](http://www.informatics.jax.org/marker/MGI:2384560) | All phenotypic alleles (1):Spontaneous(1) |
 | Xenopus |  | [100492308](https://www.ncbi.nlm.nih.gov/gene/100492308), [100158432](https://www.ncbi.nlm.nih.gov/gene/100158432) | [963522](http://www.xenbase.org/gene/showgene.do?method=display&geneId=963522) |  |
-| Zebrafish | [ENSDARG00000069142](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069142) | [324940](https://www.ncbi.nlm.nih.gov/gene/324940) | [ZFIN:ZDB-GENE-030131-3663](https://zfin.org/ZDB-GENE-030131-3663) | ZDB-GENE-030131-3663 |
+| Zebrafish | [ENSDARG00000069142](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069142) | [324940](https://www.ncbi.nlm.nih.gov/gene/324940) | [ZFIN:ZDB-GENE-030131-3663](https://zfin.org/ZDB-GENE-030131-3663) |  |
 

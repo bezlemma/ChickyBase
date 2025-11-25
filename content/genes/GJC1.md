@@ -98,7 +98,7 @@ orthologs:
 - ensembl: ENSDARG00000007099
   entrez: 564307,654497,30276
   mod: ZFIN:ZDB-GENE-060127-1,ZFIN:ZDB-GENE-990415-38
-  phenotypes: ZDB-GENE-060127-1,ZDB-GENE-990415-38
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTGCTGCACACAAACACGG-3’
 sources:
@@ -137,5 +137,5 @@ title: GJC1
 | Human | [ENSG00000182963](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000182963) | [10052](https://www.ncbi.nlm.nih.gov/gene/10052) | [MIM:608655](https://omim.org/entry/608655) |  |
 | Mouse | [ENSMUSG00000034520](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034520) | [14615](https://www.ncbi.nlm.nih.gov/gene/14615) | [MGI:95718](http://www.informatics.jax.org/marker/MGI:95718) | All phenotypic alleles (8):Targeted, knock-out(1) Targeted, other(7) |
 | Xenopus |  | [100491606](https://www.ncbi.nlm.nih.gov/gene/100491606), [379137](https://www.ncbi.nlm.nih.gov/gene/379137) | [491088](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491088) |  |
-| Zebrafish | [ENSDARG00000007099](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007099) | [564307](https://www.ncbi.nlm.nih.gov/gene/564307), [654497](https://www.ncbi.nlm.nih.gov/gene/654497), [30276](https://www.ncbi.nlm.nih.gov/gene/30276) | [ZFIN:ZDB-GENE-060127-1](https://zfin.org/ZDB-GENE-060127-1), [ZFIN:ZDB-GENE-990415-38](https://zfin.org/ZDB-GENE-990415-38) | ZDB-GENE-060127-1,ZDB-GENE-990415-38 |
+| Zebrafish | [ENSDARG00000007099](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007099) | [564307](https://www.ncbi.nlm.nih.gov/gene/564307), [654497](https://www.ncbi.nlm.nih.gov/gene/654497), [30276](https://www.ncbi.nlm.nih.gov/gene/30276) | [ZFIN:ZDB-GENE-060127-1](https://zfin.org/ZDB-GENE-060127-1), [ZFIN:ZDB-GENE-990415-38](https://zfin.org/ZDB-GENE-990415-38) |  |
 

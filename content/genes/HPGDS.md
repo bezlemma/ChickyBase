@@ -23,7 +23,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395863
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205011
-gene_id: '450779'
+gene_id: '395863'
 gene_type: protein-coding
 images:
 - caption: HPGDS expression
@@ -68,13 +68,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HPGDS.Anderson.2019.Supplementary
     figure 4A.jpg
 name: hematopoietic prostaglandin D synthase
-ncbi_id: '450779'
+ncbi_id: '395863'
 orthologs:
-- ensembl: ''
-  entrez: '36927'
-  mod: FBgn0010226
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163106
   entrez: '27306'
   mod: MIM:602598
@@ -85,20 +80,15 @@ orthologs:
   mod: MGI:1859384
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 448666,379417,398969
-  mod: '944777'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000019215
+  entrez: '448666'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450779
+  url: https://www.ncbi.nlm.nih.gov/gene/395863
 species: Gallus gallus
 symbol: HPGDS
 title: HPGDS
@@ -129,9 +119,7 @@ title: HPGDS
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36927](https://www.ncbi.nlm.nih.gov/gene/36927) | FBgn0010226 |  |
 | Human | [ENSG00000163106](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163106) | [27306](https://www.ncbi.nlm.nih.gov/gene/27306) | [MIM:602598](https://omim.org/entry/602598) |  |
 | Mouse | [ENSMUSG00000029919](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029919) | [54486](https://www.ncbi.nlm.nih.gov/gene/54486) | [MGI:1859384](http://www.informatics.jax.org/marker/MGI:1859384) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [448666](https://www.ncbi.nlm.nih.gov/gene/448666), [379417](https://www.ncbi.nlm.nih.gov/gene/379417), [398969](https://www.ncbi.nlm.nih.gov/gene/398969) | [944777](http://www.xenbase.org/gene/showgene.do?method=display&geneId=944777) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000019215](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019215) | [448666](https://www.ncbi.nlm.nih.gov/gene/448666) |  |  |
 

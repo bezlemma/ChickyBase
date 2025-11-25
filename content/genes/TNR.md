@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396213
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205276
-gene_id: '462558'
+gene_id: '396213'
 gene_type: protein-coding
 images:
 - caption: TNR expression
@@ -37,13 +37,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TNR.Anderson.2019.Supplementary
     figure 5Q.jpg
 name: tenascin R
-ncbi_id: '462558'
+ncbi_id: '396213'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000116147
   entrez: '7143'
   mod: MIM:601995
@@ -54,20 +49,20 @@ orthologs:
   mod: MGI:99516
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000009195
   entrez: '100135076'
-  mod: '948285'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000020771
   entrez: '369191'
   mod: ZFIN:ZDB-GENE-030804-1
-  phenotypes: ZDB-GENE-030804-1
+  phenotypes: axon guidance, nervous system development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462558
+  url: https://www.ncbi.nlm.nih.gov/gene/396213
 species: Gallus gallus
 symbol: TNR
 title: TNR
@@ -95,9 +90,8 @@ title: TNR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000116147](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000116147) | [7143](https://www.ncbi.nlm.nih.gov/gene/7143) | [MIM:601995](https://omim.org/entry/601995) |  |
 | Mouse | [ENSMUSG00000015829](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000015829) | [21960](https://www.ncbi.nlm.nih.gov/gene/21960) | [MGI:99516](http://www.informatics.jax.org/marker/MGI:99516) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100135076](https://www.ncbi.nlm.nih.gov/gene/100135076) | [948285](http://www.xenbase.org/gene/showgene.do?method=display&geneId=948285) |  |
-| Zebrafish | [ENSDARG00000020771](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020771) | [369191](https://www.ncbi.nlm.nih.gov/gene/369191) | [ZFIN:ZDB-GENE-030804-1](https://zfin.org/ZDB-GENE-030804-1) | ZDB-GENE-030804-1 |
+| Xenopus | [ENSXETG00000009195](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009195) | [100135076](https://www.ncbi.nlm.nih.gov/gene/100135076) |  |  |
+| Zebrafish | [ENSDARG00000020771](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020771) | [369191](https://www.ncbi.nlm.nih.gov/gene/369191) | [ZFIN:ZDB-GENE-030804-1](https://zfin.org/ZDB-GENE-030804-1) | axon guidance, nervous system development |
 

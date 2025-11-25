@@ -4,8 +4,6 @@ aliases:
 - atonal-like protein 4c, neurogenin 1
 cgnc_id: '49434'
 external_ids:
-  '31': stage 31
-  '7': stage 7stage 7
   Citation: 'Abdulmajeed Fahad Alrefaei, Andrea E Münsterberg , Grant N Wheeler. FZD10
     regulates cell proliferation and mediates Wnt1 induced neurogenesis in the developing
     spinal cord. PLoS One 2020 Jun 12;15(6):e0219721. DOI: 10.1371/journal.pone.0219721.'
@@ -18,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395699
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204883
-gene_id: '449910'
+gene_id: '395699'
 gene_type: protein-coding
 images:
 - caption: NEUROG1 expression
@@ -326,13 +324,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Alrefaei.2020.Fig.1.allimages.jpg
 name: neurogenin 1
-ncbi_id: '449910'
+ncbi_id: '395699'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000181965
   entrez: '4762'
   mod: MIM:601726
@@ -343,20 +336,21 @@ orthologs:
   mod: MGI:107754
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000007898
   entrez: '100144651'
-  mod: '491451'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000056130
   entrez: '30239'
   mod: ZFIN:ZDB-GENE-990415-174
-  phenotypes: ZDB-GENE-990415-174
+  phenotypes: anterior lateral line nerve development, axon development, axon regeneration,
+    axonal fasciculation, cell differentiation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449910
+  url: https://www.ncbi.nlm.nih.gov/gene/395699
 species: Gallus gallus
 symbol: NEUROG1
 title: NEUROG1
@@ -381,9 +375,8 @@ title: NEUROG1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000181965](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000181965) | [4762](https://www.ncbi.nlm.nih.gov/gene/4762) | [MIM:601726](https://omim.org/entry/601726) |  |
 | Mouse | [ENSMUSG00000048904](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048904) | [18014](https://www.ncbi.nlm.nih.gov/gene/18014) | [MGI:107754](http://www.informatics.jax.org/marker/MGI:107754) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100144651](https://www.ncbi.nlm.nih.gov/gene/100144651) | [491451](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491451) |  |
-| Zebrafish | [ENSDARG00000056130](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056130) | [30239](https://www.ncbi.nlm.nih.gov/gene/30239) | [ZFIN:ZDB-GENE-990415-174](https://zfin.org/ZDB-GENE-990415-174) | ZDB-GENE-990415-174 |
+| Xenopus | [ENSXETG00000007898](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007898) | [100144651](https://www.ncbi.nlm.nih.gov/gene/100144651) |  |  |
+| Zebrafish | [ENSDARG00000056130](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056130) | [30239](https://www.ncbi.nlm.nih.gov/gene/30239) | [ZFIN:ZDB-GENE-990415-174](https://zfin.org/ZDB-GENE-990415-174) | anterior lateral line nerve development, axon development, axon regeneration, axonal fasciculation, cell differentiation |
 

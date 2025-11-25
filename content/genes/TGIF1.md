@@ -17,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205379
   X-XIV: stage XII
-gene_id: '461812'
+gene_id: '396339'
 gene_type: protein-coding
 images:
 - caption: TGIF1 expression
@@ -56,13 +56,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGIF1.Trevers.2023-Fig7-4-G.jpg
 name: TGFB induced factor homeobox 1
-ncbi_id: '461812'
+ncbi_id: '396339'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000177426
   entrez: '7050'
   mod: MIM:602630
@@ -73,23 +68,25 @@ orthologs:
   mod: MGI:1194497
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(4) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 395014,380112
-  mod: '853020'
+- ensembl: ENSXETG00000046401
+  entrez: '395014'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000059337
   entrez: '321756'
   mod: ZFIN:ZDB-GENE-030131-475
-  phenotypes: ZDB-GENE-030131-475
+  phenotypes: brain morphogenesis, forebrain anterior/posterior pattern specification,
+    negative regulation of transcription by RNA polymerase II, photoreceptor cell
+    differentiation, regulation of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461812
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396339
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461812
+  url: https://www.ncbi.nlm.nih.gov/gene/396339
 species: Gallus gallus
 symbol: TGIF1
 title: TGIF1
@@ -116,9 +113,8 @@ title: TGIF1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000177426](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000177426) | [7050](https://www.ncbi.nlm.nih.gov/gene/7050) | [MIM:602630](https://omim.org/entry/602630) | MIM:142946 |
 | Mouse | [ENSMUSG00000047407](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000047407) | [21815](https://www.ncbi.nlm.nih.gov/gene/21815) | [MGI:1194497](http://www.informatics.jax.org/marker/MGI:1194497) | All phenotypic alleles (8):Targeted, knock-out(4) Targeted, other(4) |
-| Xenopus |  | [395014](https://www.ncbi.nlm.nih.gov/gene/395014), [380112](https://www.ncbi.nlm.nih.gov/gene/380112) | [853020](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853020) |  |
-| Zebrafish | [ENSDARG00000059337](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059337) | [321756](https://www.ncbi.nlm.nih.gov/gene/321756) | [ZFIN:ZDB-GENE-030131-475](https://zfin.org/ZDB-GENE-030131-475) | ZDB-GENE-030131-475 |
+| Xenopus | [ENSXETG00000046401](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000046401) | [395014](https://www.ncbi.nlm.nih.gov/gene/395014) |  |  |
+| Zebrafish | [ENSDARG00000059337](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059337) | [321756](https://www.ncbi.nlm.nih.gov/gene/321756) | [ZFIN:ZDB-GENE-030131-475](https://zfin.org/ZDB-GENE-030131-475) | brain morphogenesis, forebrain anterior/posterior pattern specification, negative regulation of transcription by RNA polymerase II, photoreceptor cell differentiation, regulation of DNA-templated transcription |
 

@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424168
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422014
-gene_id: '460591'
+gene_id: '424168'
 gene_type: protein-coding
 images:
 - caption: LRP2 expression
@@ -44,13 +44,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MEG.FIG4C.AGLYA.2007.jpg
 name: LDL receptor related protein 2
-ncbi_id: '460591'
+ncbi_id: '424168'
 orthologs:
-- ensembl: ''
-  entrez: '8674055'
-  mod: FBgn0261260
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000081479
   entrez: '4036'
   mod: MIM:600073
@@ -62,23 +57,24 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Chemically induced(1) Targeted, knock-out(2)
     Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100489914,100126618
-  mod: '486051'
+- ensembl: ENSXETG00000016214
+  entrez: '100489914'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000060649
+- ensembl: ENSDARG00000102506
   entrez: '568184'
-  mod: ZFIN:ZDB-GENE-050119-2,ZFIN:ZDB-GENE-111115-1
-  phenotypes: ZDB-GENE-050119-2,ZDB-GENE-111115-1
+  mod: ZFIN:ZDB-GENE-050119-2
+  phenotypes: endocytosis, glomerular filtration, heart development, metal ion transport,
+    receptor-mediated endocytosis
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460591
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424168
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460591
+  url: https://www.ncbi.nlm.nih.gov/gene/424168
 species: Gallus gallus
 symbol: LRP2
 title: LRP2
@@ -106,9 +102,8 @@ title: LRP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [8674055](https://www.ncbi.nlm.nih.gov/gene/8674055) | FBgn0261260 |  |
 | Human | [ENSG00000081479](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000081479) | [4036](https://www.ncbi.nlm.nih.gov/gene/4036) | [MIM:600073](https://omim.org/entry/600073) | MIM:222448 |
 | Mouse | [ENSMUSG00000027070](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027070) | [14725](https://www.ncbi.nlm.nih.gov/gene/14725) | [MGI:95794](http://www.informatics.jax.org/marker/MGI:95794) | All phenotypic alleles (4):Chemically induced(1) Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100489914](https://www.ncbi.nlm.nih.gov/gene/100489914), [100126618](https://www.ncbi.nlm.nih.gov/gene/100126618) | [486051](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486051) |  |
-| Zebrafish | [ENSDARG00000060649](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060649) | [568184](https://www.ncbi.nlm.nih.gov/gene/568184) | [ZFIN:ZDB-GENE-050119-2](https://zfin.org/ZDB-GENE-050119-2), [ZFIN:ZDB-GENE-111115-1](https://zfin.org/ZDB-GENE-111115-1) | ZDB-GENE-050119-2,ZDB-GENE-111115-1 |
+| Xenopus | [ENSXETG00000016214](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016214) | [100489914](https://www.ncbi.nlm.nih.gov/gene/100489914) |  |  |
+| Zebrafish | [ENSDARG00000102506](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000102506) | [568184](https://www.ncbi.nlm.nih.gov/gene/568184) | [ZFIN:ZDB-GENE-050119-2](https://zfin.org/ZDB-GENE-050119-2) | endocytosis, glomerular filtration, heart development, metal ion transport, receptor-mediated endocytosis |
 

@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:776034
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001198666
-gene_id: '458736'
+gene_id: '776034'
 gene_type: protein-coding
 images:
 - caption: SP8 expression
@@ -51,37 +51,34 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SP8.Buchtova.2010.Supp.Fig.2.png
 name: Sp8 transcription factor
-ncbi_id: '458736'
+ncbi_id: '776034'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000164651
+  entrez: '221833'
+  mod: MIM:608306
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000048562
+  entrez: '320145'
+  mod: MGI:2443471
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000040083
+  entrez: '100492429'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000056666
+  entrez: '324931'
+  mod: ZFIN:ZDB-GENE-030131-3654
+  phenotypes: embryonic limb morphogenesis, embryonic pectoral fin morphogenesis,
+    positive regulation of fibroblast growth factor receptor signaling pathway, regulation
+    of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458736
+  url: https://www.ncbi.nlm.nih.gov/gene/776034
 species: Gallus gallus
 symbol: SP8
 title: SP8
@@ -110,9 +107,8 @@ title: SP8
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000164651](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164651) | [221833](https://www.ncbi.nlm.nih.gov/gene/221833) | [MIM:608306](https://omim.org/entry/608306) |  |
+| Mouse | [ENSMUSG00000048562](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048562) | [320145](https://www.ncbi.nlm.nih.gov/gene/320145) | [MGI:2443471](http://www.informatics.jax.org/marker/MGI:2443471) |  |
+| Xenopus | [ENSXETG00000040083](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000040083) | [100492429](https://www.ncbi.nlm.nih.gov/gene/100492429) |  |  |
+| Zebrafish | [ENSDARG00000056666](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056666) | [324931](https://www.ncbi.nlm.nih.gov/gene/324931) | [ZFIN:ZDB-GENE-030131-3654](https://zfin.org/ZDB-GENE-030131-3654) | embryonic limb morphogenesis, embryonic pectoral fin morphogenesis, positive regulation of fibroblast growth factor receptor signaling pathway, regulation of transcription by RNA polymerase II |
 

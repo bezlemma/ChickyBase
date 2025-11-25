@@ -6,8 +6,6 @@ aliases:
 - stromal cell-derived factor-1 beta
 cgnc_id: '4705'
 external_ids:
-  '25': stage 25stage 25
-  '31': stage 31stage 31stage 31stage 31
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Ojeda+2013+CXCL12
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Ojeda et al. 2013.
@@ -18,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395180
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204510
 forward_primer: CGGAGGAGAAGCCTGTCAGC
-gene_id: '462303'
+gene_id: '395180'
 gene_type: protein-coding
 images:
 - caption: CXCL12 expression
@@ -711,13 +709,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CXCL12.Ojeda.2013.Fig4.jpg
 name: C-X-C motif chemokine ligand 12
-ncbi_id: '462303'
+ncbi_id: '395180'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000107562
   entrez: '6387'
   mod: MIM:600835
@@ -728,24 +721,19 @@ orthologs:
   mod: MGI:103556
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(1) Targeted, other(6)
   species: Mouse
-- ensembl: ''
-  entrez: 548481,399030
-  mod: '919852'
+- ensembl: ENSXETG00000003570
+  entrez: '548481'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000037116,ENSDARG00000055100
-  entrez: 352944,799354
-  mod: ZFIN:ZDB-GENE-030318-1,ZFIN:ZDB-GENE-030721-1
-  phenotypes: ZDB-GENE-030318-1,ZDB-GENE-030721-1
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAAAAGAGGATGAGTTGGGGACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462303
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395180
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462303
+  url: https://www.ncbi.nlm.nih.gov/gene/395180
 species: Gallus gallus
 symbol: CXCL12
 template_length: '473'
@@ -772,9 +760,7 @@ title: CXCL12
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000107562](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107562) | [6387](https://www.ncbi.nlm.nih.gov/gene/6387) | [MIM:600835](https://omim.org/entry/600835) | MIM:609423 |
 | Mouse | [ENSMUSG00000061353](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061353) | [20315](https://www.ncbi.nlm.nih.gov/gene/20315) | [MGI:103556](http://www.informatics.jax.org/marker/MGI:103556) | All phenotypic alleles (7):Targeted, knock-out(1) Targeted, other(6) |
-| Xenopus |  | [548481](https://www.ncbi.nlm.nih.gov/gene/548481), [399030](https://www.ncbi.nlm.nih.gov/gene/399030) | [919852](http://www.xenbase.org/gene/showgene.do?method=display&geneId=919852) |  |
-| Zebrafish | [ENSDARG00000037116](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037116), [ENSDARG00000055100](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055100) | [352944](https://www.ncbi.nlm.nih.gov/gene/352944), [799354](https://www.ncbi.nlm.nih.gov/gene/799354) | [ZFIN:ZDB-GENE-030318-1](https://zfin.org/ZDB-GENE-030318-1), [ZFIN:ZDB-GENE-030721-1](https://zfin.org/ZDB-GENE-030721-1) | ZDB-GENE-030318-1,ZDB-GENE-030721-1 |
+| Xenopus | [ENSXETG00000003570](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003570) | [548481](https://www.ncbi.nlm.nih.gov/gene/548481) |  |  |
 

@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:777244
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641797
 forward_primer: AAGCAGCGGAGGAGCAGGAC
-gene_id: '462726'
+gene_id: '777244'
 gene_type: protein-coding
 images:
 - caption: SHOX2 expression
@@ -300,41 +300,37 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHOX2.Anderson.2019.Fig3.jpg
 name: short stature homeobox 2
-ncbi_id: '462726'
+ncbi_id: '777244'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000168779
+  entrez: '6474'
+  mod: MIM:602504
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000027833
+  entrez: '20429'
+  mod: MGI:1201673
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000014058
+  entrez: '100101703'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000075713
+  entrez: '394171'
+  mod: ZFIN:ZDB-GENE-040426-1457
+  phenotypes: heart development, regulation of DNA-templated transcription, regulation
+    of heart contraction, regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGACCCCACGAGCACACTTGCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462726
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777244
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462726
+  url: https://www.ncbi.nlm.nih.gov/gene/777244
 species: Gallus gallus
 symbol: SHOX2
 template_length: '307'
@@ -361,9 +357,8 @@ title: SHOX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000168779](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000168779) | [6474](https://www.ncbi.nlm.nih.gov/gene/6474) | [MIM:602504](https://omim.org/entry/602504) |  |
+| Mouse | [ENSMUSG00000027833](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027833) | [20429](https://www.ncbi.nlm.nih.gov/gene/20429) | [MGI:1201673](http://www.informatics.jax.org/marker/MGI:1201673) |  |
+| Xenopus | [ENSXETG00000014058](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014058) | [100101703](https://www.ncbi.nlm.nih.gov/gene/100101703) |  |  |
+| Zebrafish | [ENSDARG00000075713](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075713) | [394171](https://www.ncbi.nlm.nih.gov/gene/394171) | [ZFIN:ZDB-GENE-040426-1457](https://zfin.org/ZDB-GENE-040426-1457) | heart development, regulation of DNA-templated transcription, regulation of heart contraction, regulation of transcription by RNA polymerase II |
 

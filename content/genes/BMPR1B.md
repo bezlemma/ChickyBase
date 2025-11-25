@@ -9,7 +9,6 @@ aliases:
 - receptor protein kinase
 cgnc_id: '49616'
 external_ids:
-  '31': stage 31
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0051216
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Sela-Donenfeld+2002+BMP4
@@ -23,7 +22,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205132
 forward_primer: 5'-TGTCAGTGCCACCACCATTGTC-3'
-gene_id: '363845'
+gene_id: '396030'
 gene_type: protein-coding
 images:
 - caption: BMPR1B expression
@@ -470,13 +469,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMPR1B.Sela-Donenfeld.2002.Fig7.jpg
 name: bone morphogenetic protein receptor type 1B
-ncbi_id: '363845'
+ncbi_id: '396030'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138696
   entrez: '658'
   mod: MIM:603248
@@ -488,24 +482,26 @@ orthologs:
   phenotypes: All phenotypic alleles (3):Transposon induced(1) Targeted, knock-out(1)
     Transgenic(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000019220
   entrez: '780089'
-  mod: '483454'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000005600
-  entrez: 100149664,30742
-  mod: ZFIN:ZDB-GENE-090610-1,ZFIN:ZDB-GENE-991208-8
-  phenotypes: ZDB-GENE-090610-1,ZDB-GENE-991208-8
+- ensembl: ENSDARG00000104100
+  entrez: '30742'
+  mod: ZFIN:ZDB-GENE-991208-8
+  phenotypes: BMP signaling pathway, cell differentiation, cell surface receptor protein
+    serine/threonine kinase signaling pathway, cellular response to growth factor
+    stimulus, determination of dorsal identity
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGCCGTTCTTTTTCACCAGGATGTTC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=363845
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396030
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/363845
+  url: https://www.ncbi.nlm.nih.gov/gene/396030
 species: Gallus gallus
 symbol: BMPR1B
 template_length: '938'
@@ -535,9 +531,8 @@ title: BMPR1B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000138696](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138696) | [658](https://www.ncbi.nlm.nih.gov/gene/658) | [MIM:603248](https://omim.org/entry/603248) | MIM:112600 |
 | Mouse | [ENSMUSG00000052430](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000052430) | [12167](https://www.ncbi.nlm.nih.gov/gene/12167) | [MGI:107191](http://www.informatics.jax.org/marker/MGI:107191) | All phenotypic alleles (3):Transposon induced(1) Targeted, knock-out(1) Transgenic(1) |
-| Xenopus |  | [780089](https://www.ncbi.nlm.nih.gov/gene/780089) | [483454](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483454) |  |
-| Zebrafish | [ENSDARG00000005600](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005600) | [100149664](https://www.ncbi.nlm.nih.gov/gene/100149664), [30742](https://www.ncbi.nlm.nih.gov/gene/30742) | [ZFIN:ZDB-GENE-090610-1](https://zfin.org/ZDB-GENE-090610-1), [ZFIN:ZDB-GENE-991208-8](https://zfin.org/ZDB-GENE-991208-8) | ZDB-GENE-090610-1,ZDB-GENE-991208-8 |
+| Xenopus | [ENSXETG00000019220](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019220) | [780089](https://www.ncbi.nlm.nih.gov/gene/780089) |  |  |
+| Zebrafish | [ENSDARG00000104100](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104100) | [30742](https://www.ncbi.nlm.nih.gov/gene/30742) | [ZFIN:ZDB-GENE-991208-8](https://zfin.org/ZDB-GENE-991208-8) | BMP signaling pathway, cell differentiation, cell surface receptor protein serine/threonine kinase signaling pathway, cellular response to growth factor stimulus, determination of dorsal identity |
 

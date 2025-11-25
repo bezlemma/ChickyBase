@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421756
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419786
 forward_primer: 5’-TCCCAGCTTTGTCTTTGC-3’
-gene_id: '454820'
+gene_id: '421756'
 gene_type: protein-coding
 images:
 - caption: CDK19 expression
@@ -56,13 +56,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R679.CDK19.S24.001.jpg
 name: cyclin dependent kinase 19
-ncbi_id: '454820'
+ncbi_id: '421756'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000155111
   entrez: '23097'
   mod: MIM:614720
@@ -73,24 +68,24 @@ orthologs:
   mod: MGI:1925584
   phenotypes: All phenotypic alleles (1):Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100135368,380415
-  mod: '989175'
+- ensembl: ENSXETG00000021324
+  entrez: '100135368'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000043858
   entrez: '100149670'
   mod: ZFIN:ZDB-GENE-040724-19
-  phenotypes: ZDB-GENE-040724-19
+  phenotypes: phosphorylation, protein phosphorylation
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGATGAGAGATGCGTGCATG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454820
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421756
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454820
+  url: https://www.ncbi.nlm.nih.gov/gene/421756
 species: Gallus gallus
 symbol: CDK19
 template_length: '811'
@@ -113,9 +108,8 @@ title: CDK19
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000155111](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000155111) | [23097](https://www.ncbi.nlm.nih.gov/gene/23097) | [MIM:614720](https://omim.org/entry/614720) |  |
 | Mouse | [ENSMUSG00000038481](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038481) | [78334](https://www.ncbi.nlm.nih.gov/gene/78334) | [MGI:1925584](http://www.informatics.jax.org/marker/MGI:1925584) | All phenotypic alleles (1):Gene trapped(1) |
-| Xenopus |  | [100135368](https://www.ncbi.nlm.nih.gov/gene/100135368), [380415](https://www.ncbi.nlm.nih.gov/gene/380415) | [989175](http://www.xenbase.org/gene/showgene.do?method=display&geneId=989175) |  |
-| Zebrafish | [ENSDARG00000043858](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043858) | [100149670](https://www.ncbi.nlm.nih.gov/gene/100149670) | [ZFIN:ZDB-GENE-040724-19](https://zfin.org/ZDB-GENE-040724-19) | ZDB-GENE-040724-19 |
+| Xenopus | [ENSXETG00000021324](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021324) | [100135368](https://www.ncbi.nlm.nih.gov/gene/100135368) |  |  |
+| Zebrafish | [ENSDARG00000043858](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043858) | [100149670](https://www.ncbi.nlm.nih.gov/gene/100149670) | [ZFIN:ZDB-GENE-040724-19](https://zfin.org/ZDB-GENE-040724-19) | phosphorylation, protein phosphorylation |
 

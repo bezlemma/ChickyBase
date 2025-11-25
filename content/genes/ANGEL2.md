@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421363
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031047
 forward_primer: GACAAAGAAGAGGAGACTCAGTGCC
-gene_id: '457283'
+gene_id: '421363'
 gene_type: protein-coding
 images:
 - caption: ANGEL2 expression
@@ -152,16 +152,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R527.ANGEL2.S26AAA.001.jpg
 name: angel homolog 2
-ncbi_id: '457283'
+ncbi_id: '421363'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000174606
   entrez: '90806'
-  mod: ''
+  mod: MIM:619001
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000026634
@@ -169,24 +164,24 @@ orthologs:
   mod: MGI:1196310
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100379750,779387
-  mod: '985561'
+- ensembl: ENSXETG00000014357
+  entrez: '100379750'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000016743
   entrez: '562704'
   mod: ZFIN:ZDB-GENE-030131-6498
-  phenotypes: ZDB-GENE-030131-6498
+  phenotypes: 3'-UTR-mediated mRNA stabilization
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTACAACGGAGACCCAGGAACAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457283
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421363
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457283
+  url: https://www.ncbi.nlm.nih.gov/gene/421363
 species: Gallus gallus
 symbol: ANGEL2
 template_length: '822'
@@ -208,9 +203,8 @@ title: ANGEL2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000174606](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000174606) | [90806](https://www.ncbi.nlm.nih.gov/gene/90806) |  |  |
+| Human | [ENSG00000174606](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000174606) | [90806](https://www.ncbi.nlm.nih.gov/gene/90806) | [MIM:619001](https://omim.org/entry/619001) |  |
 | Mouse | [ENSMUSG00000026634](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026634) | [52477](https://www.ncbi.nlm.nih.gov/gene/52477) | [MGI:1196310](http://www.informatics.jax.org/marker/MGI:1196310) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [100379750](https://www.ncbi.nlm.nih.gov/gene/100379750), [779387](https://www.ncbi.nlm.nih.gov/gene/779387) | [985561](http://www.xenbase.org/gene/showgene.do?method=display&geneId=985561) |  |
-| Zebrafish | [ENSDARG00000016743](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016743) | [562704](https://www.ncbi.nlm.nih.gov/gene/562704) | [ZFIN:ZDB-GENE-030131-6498](https://zfin.org/ZDB-GENE-030131-6498) | ZDB-GENE-030131-6498 |
+| Xenopus | [ENSXETG00000014357](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014357) | [100379750](https://www.ncbi.nlm.nih.gov/gene/100379750) |  |  |
+| Zebrafish | [ENSDARG00000016743](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016743) | [562704](https://www.ncbi.nlm.nih.gov/gene/562704) | [ZFIN:ZDB-GENE-030131-6498](https://zfin.org/ZDB-GENE-030131-6498) | 3'-UTR-mediated mRNA stabilization |
 

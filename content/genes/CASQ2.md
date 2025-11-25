@@ -17,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204526
 forward_primer: TGAAGAAGATGACCCAGATGGC
-gene_id: '462688'
+gene_id: '395198'
 gene_type: protein-coding
 images:
 - caption: CASQ2 expression
@@ -114,13 +114,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R556.CASQ2.S26V.001.jpg
 name: calsequestrin 2
-ncbi_id: '462688'
+ncbi_id: '395198'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000118729
   entrez: '845'
   mod: MIM:114251
@@ -131,24 +126,25 @@ orthologs:
   mod: MGI:1309469
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 394741,398424
-  mod: '6074555'
+- ensembl: ENSXETG00000046235
+  entrez: '394741'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000008982
   entrez: '114410'
   mod: ZFIN:ZDB-GENE-010724-12
-  phenotypes: ZDB-GENE-010724-12
+  phenotypes: regulation of cardiac muscle contraction by regulation of the release
+    of sequestered calcium ion
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCAGGTTCCCTACAGATTCCTATTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462688
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395198
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462688
+  url: https://www.ncbi.nlm.nih.gov/gene/395198
 species: Gallus gallus
 symbol: CASQ2
 template_length: '675'
@@ -173,9 +169,8 @@ title: CASQ2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000118729](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118729) | [845](https://www.ncbi.nlm.nih.gov/gene/845) | [MIM:114251](https://omim.org/entry/114251) | MIM:611938 |
 | Mouse | [ENSMUSG00000027861](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027861) | [12373](https://www.ncbi.nlm.nih.gov/gene/12373) | [MGI:1309469](http://www.informatics.jax.org/marker/MGI:1309469) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [394741](https://www.ncbi.nlm.nih.gov/gene/394741), [398424](https://www.ncbi.nlm.nih.gov/gene/398424) | [6074555](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6074555) |  |
-| Zebrafish | [ENSDARG00000008982](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008982) | [114410](https://www.ncbi.nlm.nih.gov/gene/114410) | [ZFIN:ZDB-GENE-010724-12](https://zfin.org/ZDB-GENE-010724-12) | ZDB-GENE-010724-12 |
+| Xenopus | [ENSXETG00000046235](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000046235) | [394741](https://www.ncbi.nlm.nih.gov/gene/394741) |  |  |
+| Zebrafish | [ENSDARG00000008982](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008982) | [114410](https://www.ncbi.nlm.nih.gov/gene/114410) | [ZFIN:ZDB-GENE-010724-12](https://zfin.org/ZDB-GENE-010724-12) | regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion |
 

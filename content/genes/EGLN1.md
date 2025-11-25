@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:768374
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001231253
-gene_id: '458532'
+gene_id: '768374'
 gene_type: protein-coding
 images:
 - caption: EGLN1 expression
@@ -164,37 +164,32 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PHD2.Barber.2016.Fig5.jpg
 name: egl-9 family hypoxia inducible factor 1
-ncbi_id: '458532'
+ncbi_id: '768374'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000135766
+  entrez: '54583'
+  mod: MIM:606425
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000031987
+  entrez: '112405'
+  mod: MGI:1932286
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000021414
+  entrez: '548714'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000038996
+  entrez: '100329385'
+  mod: ZFIN:ZDB-GENE-110408-34
+  phenotypes: cellular response to hypoxia, regulation of neuron apoptotic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458532
+  url: https://www.ncbi.nlm.nih.gov/gene/768374
 species: Gallus gallus
 symbol: EGLN1
 title: EGLN1
@@ -220,9 +215,8 @@ title: EGLN1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000135766](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135766) | [54583](https://www.ncbi.nlm.nih.gov/gene/54583) | [MIM:606425](https://omim.org/entry/606425) |  |
+| Mouse | [ENSMUSG00000031987](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031987) | [112405](https://www.ncbi.nlm.nih.gov/gene/112405) | [MGI:1932286](http://www.informatics.jax.org/marker/MGI:1932286) |  |
+| Xenopus | [ENSXETG00000021414](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021414) | [548714](https://www.ncbi.nlm.nih.gov/gene/548714) |  |  |
+| Zebrafish | [ENSDARG00000038996](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038996) | [100329385](https://www.ncbi.nlm.nih.gov/gene/100329385) | [ZFIN:ZDB-GENE-110408-34](https://zfin.org/ZDB-GENE-110408-34) | cellular response to hypoxia, regulation of neuron apoptotic process |
 

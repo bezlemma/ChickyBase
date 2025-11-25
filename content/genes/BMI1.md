@@ -24,7 +24,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001007988
   X-XIV: stage XII
 forward_primer: TGGCTCTAATGAAGACAGGGGAG
-gene_id: '456454'
+gene_id: '493647'
 gene_type: protein-coding
 images:
 - caption: BMI1 expression
@@ -233,41 +233,38 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMI1.Travers.2023'.jpg
 name: BMI1 proto-oncogene, polycomb ring finger
-ncbi_id: '456454'
+ncbi_id: '493647'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSG00000269897
+  entrez: '100532731'
   mod: ''
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000026739
+  entrez: '12151'
+  mod: MGI:88174
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000007387
+  entrez: '548749'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000013076
+  entrez: '394249'
+  mod: ZFIN:ZDB-GENE-040116-4
+  phenotypes: cerebellum development, chromatin organization, negative regulation
+    of gene expression, epigenetic, negative regulation of transcription by RNA polymerase
+    II
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGCTGGAGATGTGTGGGAACTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456454
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=493647
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456454
+  url: https://www.ncbi.nlm.nih.gov/gene/493647
 species: Gallus gallus
 symbol: BMI1
 template_length: '551'
@@ -297,9 +294,8 @@ title: BMI1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000269897](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000269897) | [100532731](https://www.ncbi.nlm.nih.gov/gene/100532731) |  |  |
+| Mouse | [ENSMUSG00000026739](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026739) | [12151](https://www.ncbi.nlm.nih.gov/gene/12151) | [MGI:88174](http://www.informatics.jax.org/marker/MGI:88174) |  |
+| Xenopus | [ENSXETG00000007387](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007387) | [548749](https://www.ncbi.nlm.nih.gov/gene/548749) |  |  |
+| Zebrafish | [ENSDARG00000013076](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013076) | [394249](https://www.ncbi.nlm.nih.gov/gene/394249) | [ZFIN:ZDB-GENE-040116-4](https://zfin.org/ZDB-GENE-040116-4) | cerebellum development, chromatin organization, negative regulation of gene expression, epigenetic, negative regulation of transcription by RNA polymerase II |
 

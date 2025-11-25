@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771636
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234891
-gene_id: '453265'
+gene_id: '771636'
 gene_type: protein-coding
 images:
 - caption: NKX1-1 expression
@@ -149,37 +149,23 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.Bertrand.2000.4whole.png
 name: NK1 homeobox 1
-ncbi_id: '453265'
+ncbi_id: '771636'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000235608
-  entrez: '54729'
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: '672284'
-  mod: MGI:109346
-  phenotypes: All phenotypic alleles (1):Targeted, other(1)
-  species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000003881
   entrez: '100493120'
-  mod: '488878'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000012697
+- ensembl: ENSDARG00000099427
   entrez: '407077'
   mod: ZFIN:ZDB-GENE-040615-2
-  phenotypes: ZDB-GENE-040615-2
+  phenotypes: cell differentiation, regulation of DNA-templated transcription, regulation
+    of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453265
+  url: https://www.ncbi.nlm.nih.gov/gene/771636
 species: Gallus gallus
 symbol: NKX1-1
 title: NKX1-1
@@ -208,9 +194,6 @@ title: NKX1-1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000235608](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000235608) | [54729](https://www.ncbi.nlm.nih.gov/gene/54729) |  |  |
-| Mouse |  | [672284](https://www.ncbi.nlm.nih.gov/gene/672284) | [MGI:109346](http://www.informatics.jax.org/marker/MGI:109346) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100493120](https://www.ncbi.nlm.nih.gov/gene/100493120) | [488878](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488878) |  |
-| Zebrafish | [ENSDARG00000012697](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012697) | [407077](https://www.ncbi.nlm.nih.gov/gene/407077) | [ZFIN:ZDB-GENE-040615-2](https://zfin.org/ZDB-GENE-040615-2) | ZDB-GENE-040615-2 |
+| Xenopus | [ENSXETG00000003881](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003881) | [100493120](https://www.ncbi.nlm.nih.gov/gene/100493120) |  |  |
+| Zebrafish | [ENSDARG00000099427](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099427) | [407077](https://www.ncbi.nlm.nih.gov/gene/407077) | [ZFIN:ZDB-GENE-040615-2](https://zfin.org/ZDB-GENE-040615-2) | cell differentiation, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

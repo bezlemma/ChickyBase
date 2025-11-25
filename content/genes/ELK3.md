@@ -3,7 +3,6 @@ aliases:
 - ETS domain-containing protein Elk-3
 cgnc_id: '8690'
 external_ids:
-  '13': stage 13
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Rogers+2013+Elk3+Bronner
   Comments: 'The sequence below was obtained from NCBI (acc # NM_001030749.1 - Showing
     407 bp region from base 1 to 407) using the information provided in the publication.'
@@ -13,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417919
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030749
-gene_id: '452051'
+gene_id: '417919'
 gene_type: protein-coding
 images:
 - caption: ELK3 expression
@@ -198,13 +197,8 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig1.Rogers.F.HH20.jpg
 name: ELK3, ETS transcription factor
-ncbi_id: '452051'
+ncbi_id: '417919'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000111145
   entrez: '2004'
   mod: MIM:600247
@@ -215,23 +209,25 @@ orthologs:
   mod: MGI:101762
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 780055,380571
-  mod: '853036'
+- ensembl: ENSXETG00000001891
+  entrez: '780055'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000018688
   entrez: '557074'
   mod: ZFIN:ZDB-GENE-030716-2
-  phenotypes: ZDB-GENE-030716-2
+  phenotypes: cell differentiation, negative regulation of DNA-templated transcription,
+    regulation of DNA-templated transcription, regulation of transcription by RNA
+    polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452051
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417919
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452051
+  url: https://www.ncbi.nlm.nih.gov/gene/417919
 species: Gallus gallus
 symbol: ELK3
 title: ELK3
@@ -257,9 +253,8 @@ title: ELK3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000111145](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111145) | [2004](https://www.ncbi.nlm.nih.gov/gene/2004) | [MIM:600247](https://omim.org/entry/600247) |  |
 | Mouse | [ENSMUSG00000008398](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000008398) | [13713](https://www.ncbi.nlm.nih.gov/gene/13713) | [MGI:101762](http://www.informatics.jax.org/marker/MGI:101762) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [780055](https://www.ncbi.nlm.nih.gov/gene/780055), [380571](https://www.ncbi.nlm.nih.gov/gene/380571) | [853036](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853036) |  |
-| Zebrafish | [ENSDARG00000018688](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018688) | [557074](https://www.ncbi.nlm.nih.gov/gene/557074) | [ZFIN:ZDB-GENE-030716-2](https://zfin.org/ZDB-GENE-030716-2) | ZDB-GENE-030716-2 |
+| Xenopus | [ENSXETG00000001891](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001891) | [780055](https://www.ncbi.nlm.nih.gov/gene/780055) |  |  |
+| Zebrafish | [ENSDARG00000018688](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018688) | [557074](https://www.ncbi.nlm.nih.gov/gene/557074) | [ZFIN:ZDB-GENE-030716-2](https://zfin.org/ZDB-GENE-030716-2) | cell differentiation, negative regulation of DNA-templated transcription, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

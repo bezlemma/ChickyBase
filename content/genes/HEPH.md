@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422168
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420165
 forward_primer: GCTGCCATCTATGAAGTCCGTC
-gene_id: '450640'
+gene_id: '422168'
 gene_type: protein-coding
 images:
 - caption: HEPH expression
@@ -285,13 +285,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R612.HEPH.S26.001.jpg
 name: hephaestin
-ncbi_id: '450640'
+ncbi_id: '422168'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000089472
   entrez: '9843'
   mod: MIM:300167
@@ -303,24 +298,14 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Chemically induced(1) Radiation induced(1)
     Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGTCCCTTTGTTGTCAGGTTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450640
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422168
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450640
+  url: https://www.ncbi.nlm.nih.gov/gene/422168
 species: Gallus gallus
 symbol: HEPH
 template_length: '1013'
@@ -343,9 +328,6 @@ title: HEPH
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000089472](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000089472) | [9843](https://www.ncbi.nlm.nih.gov/gene/9843) | [MIM:300167](https://omim.org/entry/300167) |  |
 | Mouse | [ENSMUSG00000031209](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031209) | [15203](https://www.ncbi.nlm.nih.gov/gene/15203) | [MGI:1332240](http://www.informatics.jax.org/marker/MGI:1332240) | All phenotypic alleles (4):Chemically induced(1) Radiation induced(1) Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
 

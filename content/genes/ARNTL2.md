@@ -5,7 +5,6 @@ aliases:
 - transcription factor BMAL2
 cgnc_id: '10520'
 external_ids:
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0048511
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Comments: No specific expression detected at or before stage 8.
@@ -15,7 +14,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204133
 forward_primer: TGAACTCAGTGACATCCAATGGGC
-gene_id: '459489'
+gene_id: '373925'
 gene_type: protein-coding
 images:
 - caption: ARNTL2 expression
@@ -47,13 +46,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R307.ARNTL2.S25.001.jpg
 name: aryl hydrocarbon receptor nuclear translocator-like 2
-ncbi_id: '459489'
+ncbi_id: '373925'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000029153
   entrez: '56938'
   mod: MIM:614517
@@ -64,24 +58,26 @@ orthologs:
   mod: MGI:2684845
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000046520
   entrez: '100124875'
-  mod: '6456788'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000041381
   entrez: '58099'
   mod: ZFIN:ZDB-GENE-000509-2
-  phenotypes: ZDB-GENE-000509-2
+  phenotypes: animal organ development, circadian rhythm, photoperiodism, regulation
+    of DNA-templated transcription, regulation of transcription by RNA polymerase
+    II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAAAGAGCAAGGAATCAAAAACCTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459489
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373925
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459489
+  url: https://www.ncbi.nlm.nih.gov/gene/373925
 species: Gallus gallus
 symbol: ARNTL2
 template_length: '542'
@@ -108,9 +104,8 @@ title: ARNTL2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000029153](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000029153) | [56938](https://www.ncbi.nlm.nih.gov/gene/56938) | [MIM:614517](https://omim.org/entry/614517) |  |
 | Mouse | [ENSMUSG00000040187](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040187) | [272322](https://www.ncbi.nlm.nih.gov/gene/272322) | [MGI:2684845](http://www.informatics.jax.org/marker/MGI:2684845) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100124875](https://www.ncbi.nlm.nih.gov/gene/100124875) | [6456788](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6456788) |  |
-| Zebrafish |  | [58099](https://www.ncbi.nlm.nih.gov/gene/58099) | [ZFIN:ZDB-GENE-000509-2](https://zfin.org/ZDB-GENE-000509-2) | ZDB-GENE-000509-2 |
+| Xenopus | [ENSXETG00000046520](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000046520) | [100124875](https://www.ncbi.nlm.nih.gov/gene/100124875) |  |  |
+| Zebrafish | [ENSDARG00000041381](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041381) | [58099](https://www.ncbi.nlm.nih.gov/gene/58099) | [ZFIN:ZDB-GENE-000509-2](https://zfin.org/ZDB-GENE-000509-2) | animal organ development, circadian rhythm, photoperiodism, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

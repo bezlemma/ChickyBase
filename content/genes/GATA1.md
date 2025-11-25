@@ -22,7 +22,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396450
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005515
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205464
-gene_id: '461025'
+gene_id: '107050548'
 gene_type: protein-coding
 images:
 - caption: GATA1 expression
@@ -209,7 +209,7 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.GATA1.B.ST13.Kee.jpg
 name: GATA binding protein 1 (globin transcription factor 1)
-ncbi_id: '461025'
+ncbi_id: '107050548'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -239,7 +239,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461025
+  url: https://www.ncbi.nlm.nih.gov/gene/107050548
 species: Gallus gallus
 symbol: GATA1
 title: GATA1

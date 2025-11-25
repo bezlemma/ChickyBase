@@ -5,7 +5,6 @@ aliases:
 - spinal cord-derived growth factor
 cgnc_id: '7129'
 external_ids:
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007171
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0009986
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Yang+2008+
@@ -20,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008083
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204721
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGGTTCCAGTAGTGTGCCAAGTAGAC
-gene_id: '449271'
+gene_id: '395469'
 gene_type: protein-coding
 images:
 - caption: PDGFC expression
@@ -119,14 +118,9 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yang.Fig.1.PDGFC.Q-ALL.jpg
 name: platelet derived growth factor C
-ncbi_id: '449271'
+ncbi_id: '395469'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000145431
   entrez: '56034'
   mod: MIM:608452
   phenotypes: ''
@@ -137,24 +131,26 @@ orthologs:
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(4)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000019550
   entrez: '100494492'
-  mod: '985687'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000077588
+- ensembl: ENSDARG00000112095
   entrez: '560564'
   mod: ZFIN:ZDB-GENE-071217-2
-  phenotypes: ZDB-GENE-071217-2
+  phenotypes: platelet-derived growth factor receptor signaling pathway, positive
+    regulation of ERK1 and ERK2 cascade, positive regulation of cell division, positive
+    regulation of cell migration, positive regulation of cell population proliferation
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCTCATTGATGCCTTTCTCCCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449271
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395469
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449271
+  url: https://www.ncbi.nlm.nih.gov/gene/395469
 species: Gallus gallus
 symbol: PDGFC
 template_length: '893'
@@ -184,9 +180,8 @@ title: PDGFC
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [56034](https://www.ncbi.nlm.nih.gov/gene/56034) | [MIM:608452](https://omim.org/entry/608452) |  |
+| Human | [ENSG00000145431](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145431) | [56034](https://www.ncbi.nlm.nih.gov/gene/56034) | [MIM:608452](https://omim.org/entry/608452) |  |
 | Mouse | [ENSMUSG00000028019](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028019) | [54635](https://www.ncbi.nlm.nih.gov/gene/54635) | [MGI:1859631](http://www.informatics.jax.org/marker/MGI:1859631) | All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(4) Gene trapped(1) |
-| Xenopus |  | [100494492](https://www.ncbi.nlm.nih.gov/gene/100494492) | [985687](http://www.xenbase.org/gene/showgene.do?method=display&geneId=985687) |  |
-| Zebrafish | [ENSDARG00000077588](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077588) | [560564](https://www.ncbi.nlm.nih.gov/gene/560564) | [ZFIN:ZDB-GENE-071217-2](https://zfin.org/ZDB-GENE-071217-2) | ZDB-GENE-071217-2 |
+| Xenopus | [ENSXETG00000019550](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019550) | [100494492](https://www.ncbi.nlm.nih.gov/gene/100494492) |  |  |
+| Zebrafish | [ENSDARG00000112095](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000112095) | [560564](https://www.ncbi.nlm.nih.gov/gene/560564) | [ZFIN:ZDB-GENE-071217-2](https://zfin.org/ZDB-GENE-071217-2) | platelet-derived growth factor receptor signaling pathway, positive regulation of ERK1 and ERK2 cascade, positive regulation of cell division, positive regulation of cell migration, positive regulation of cell population proliferation |
 

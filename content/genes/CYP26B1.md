@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428809
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426366
-gene_id: '456437'
+gene_id: '428809'
 gene_type: protein-coding
 images:
 - caption: CYP26B1 expression
@@ -88,7 +88,7 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Rejntjes.Fig3.Cyp26A1_allimages-2.jpg
 name: cytochrome P450 family 26 subfamily B member 1
-ncbi_id: '456437'
+ncbi_id: '428809'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -113,12 +113,12 @@ orthologs:
 - ensembl: ENSDARG00000077121
   entrez: '324188'
   mod: ZFIN:ZDB-GENE-030131-2908
-  phenotypes: ZDB-GENE-030131-2908
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456437
+  url: https://www.ncbi.nlm.nih.gov/gene/428809
 species: Gallus gallus
 symbol: CYP26B1
 title: CYP26B1
@@ -147,5 +147,5 @@ title: CYP26B1
 | Human | [ENSG00000003137](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000003137) | [56603](https://www.ncbi.nlm.nih.gov/gene/56603) | [MIM:605207](https://omim.org/entry/605207) |  |
 | Mouse | [ENSMUSG00000063415](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000063415) | [232174](https://www.ncbi.nlm.nih.gov/gene/232174) | [MGI:2176159](http://www.informatics.jax.org/marker/MGI:2176159) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
 | Xenopus |  | [780112](https://www.ncbi.nlm.nih.gov/gene/780112), [100170648](https://www.ncbi.nlm.nih.gov/gene/100170648) | [991499](http://www.xenbase.org/gene/showgene.do?method=display&geneId=991499) |  |
-| Zebrafish | [ENSDARG00000077121](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077121) | [324188](https://www.ncbi.nlm.nih.gov/gene/324188) | [ZFIN:ZDB-GENE-030131-2908](https://zfin.org/ZDB-GENE-030131-2908) | ZDB-GENE-030131-2908 |
+| Zebrafish | [ENSDARG00000077121](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077121) | [324188](https://www.ncbi.nlm.nih.gov/gene/324188) | [ZFIN:ZDB-GENE-030131-2908](https://zfin.org/ZDB-GENE-030131-2908) |  |
 

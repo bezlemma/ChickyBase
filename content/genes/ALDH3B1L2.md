@@ -74,7 +74,7 @@ orthologs:
 - ensembl: ENSDARG00000013839
   entrez: '282559'
   mod: ZFIN:ZDB-GENE-021120-3
-  phenotypes: ZDB-GENE-021120-3
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGAATCCACAGCGACAGATGAC
 sources:
@@ -111,5 +111,5 @@ title: ALDH3B1L2
 | Human | [ENSG00000006534](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000006534) | [221](https://www.ncbi.nlm.nih.gov/gene/221) | [MIM:600466](https://omim.org/entry/600466) |  |
 | Mouse | [ENSMUSG00000024885](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024885) | [67689](https://www.ncbi.nlm.nih.gov/gene/67689) | [MGI:1914939](http://www.informatics.jax.org/marker/MGI:1914939) | All phenotypic alleles (5):Targeted, other(4) Gene trapped(1) |
 | Xenopus |  | [548883](https://www.ncbi.nlm.nih.gov/gene/548883), [447062](https://www.ncbi.nlm.nih.gov/gene/447062) | [5749634](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5749634) |  |
-| Zebrafish | [ENSDARG00000013839](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013839) | [282559](https://www.ncbi.nlm.nih.gov/gene/282559) | [ZFIN:ZDB-GENE-021120-3](https://zfin.org/ZDB-GENE-021120-3) | ZDB-GENE-021120-3 |
+| Zebrafish | [ENSDARG00000013839](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013839) | [282559](https://www.ncbi.nlm.nih.gov/gene/282559) | [ZFIN:ZDB-GENE-021120-3](https://zfin.org/ZDB-GENE-021120-3) |  |
 

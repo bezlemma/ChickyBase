@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421551
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001007905
-gene_id: '458258'
+gene_id: '421551'
 gene_type: protein-coding
 images:
 - caption: PSMB1 expression
@@ -34,13 +34,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-fig5C-whole-PSMB1.JPG
 name: proteasome subunit beta 1
-ncbi_id: '458258'
+ncbi_id: '421551'
 orthologs:
-- ensembl: ''
-  entrez: '39855'
-  mod: FBgn0002284
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000008018
   entrez: '5689'
   mod: MIM:602017
@@ -51,20 +46,21 @@ orthologs:
   mod: MGI:104884
   phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 394589,380127
-  mod: '970602'
+- ensembl: ENSXETG00000008557
+  entrez: '394589'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000009640
   entrez: '445413'
   mod: ZFIN:ZDB-GENE-040618-2
-  phenotypes: ZDB-GENE-040618-2
+  phenotypes: brain development, cellular response to ethanol, proteolysis involved
+    in protein catabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458258
+  url: https://www.ncbi.nlm.nih.gov/gene/421551
 species: Gallus gallus
 symbol: PSMB1
 title: PSMB1
@@ -92,9 +88,8 @@ title: PSMB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39855](https://www.ncbi.nlm.nih.gov/gene/39855) | FBgn0002284 |  |
 | Human | [ENSG00000008018](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000008018) | [5689](https://www.ncbi.nlm.nih.gov/gene/5689) | [MIM:602017](https://omim.org/entry/602017) |  |
 | Mouse | [ENSMUSG00000014769](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000014769) | [19170](https://www.ncbi.nlm.nih.gov/gene/19170) | [MGI:104884](http://www.informatics.jax.org/marker/MGI:104884) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [394589](https://www.ncbi.nlm.nih.gov/gene/394589), [380127](https://www.ncbi.nlm.nih.gov/gene/380127) | [970602](http://www.xenbase.org/gene/showgene.do?method=display&geneId=970602) |  |
-| Zebrafish | [ENSDARG00000009640](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009640) | [445413](https://www.ncbi.nlm.nih.gov/gene/445413) | [ZFIN:ZDB-GENE-040618-2](https://zfin.org/ZDB-GENE-040618-2) | ZDB-GENE-040618-2 |
+| Xenopus | [ENSXETG00000008557](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008557) | [394589](https://www.ncbi.nlm.nih.gov/gene/394589) |  |  |
+| Zebrafish | [ENSDARG00000009640](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009640) | [445413](https://www.ncbi.nlm.nih.gov/gene/445413) | [ZFIN:ZDB-GENE-040618-2](https://zfin.org/ZDB-GENE-040618-2) | brain development, cellular response to ethanol, proteolysis involved in protein catabolic process |
 

@@ -3,7 +3,6 @@ aliases:
 - FHF-2, fibroblast growth factor 13
 cgnc_id: '4908'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=ShowDetailView&TermToSearch=12382140&ordinalpos=2&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Copyright: Copyright © Springer-Verlag 2002
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:414831
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001743
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCGGTGTGATTTCTGCCTTTTCG
-gene_id: '460976'
+gene_id: '414831'
 gene_type: protein-coding
 images:
 - caption: FGF13 expression
@@ -143,13 +142,8 @@ images:
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Karabagli.Fig2.Fgf13.jpg
 name: fibroblast growth factor 13
-ncbi_id: '460976'
+ncbi_id: '414831'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000129682
   entrez: '2258'
   mod: MIM:300070
@@ -160,24 +154,24 @@ orthologs:
   mod: MGI:109178
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 780024,446334
-  mod: '484331'
+- ensembl: ENSXETG00000037165
+  entrez: '780024'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000056633,ENSDARG00000035056
-  entrez: 403003,492758
-  mod: ZFIN:ZDB-GENE-040426-1793,ZFIN:ZDB-GENE-041114-101
-  phenotypes: ZDB-GENE-040426-1793,ZDB-GENE-041114-101
+- ensembl: ENSDARG00000035056
+  entrez: '492758'
+  mod: ZFIN:ZDB-GENE-041114-101
+  phenotypes: neurogenesis
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGGATTTACCCCCATTTAGCACTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460976
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=414831
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460976
+  url: https://www.ncbi.nlm.nih.gov/gene/414831
 species: Gallus gallus
 symbol: FGF13
 template_length: '710'
@@ -203,9 +197,8 @@ title: FGF13
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000129682](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000129682) | [2258](https://www.ncbi.nlm.nih.gov/gene/2258) | [MIM:300070](https://omim.org/entry/300070) |  |
 | Mouse | [ENSMUSG00000031137](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031137) | [14168](https://www.ncbi.nlm.nih.gov/gene/14168) | [MGI:109178](http://www.informatics.jax.org/marker/MGI:109178) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [780024](https://www.ncbi.nlm.nih.gov/gene/780024), [446334](https://www.ncbi.nlm.nih.gov/gene/446334) | [484331](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484331) |  |
-| Zebrafish | [ENSDARG00000056633](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056633), [ENSDARG00000035056](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035056) | [403003](https://www.ncbi.nlm.nih.gov/gene/403003), [492758](https://www.ncbi.nlm.nih.gov/gene/492758) | [ZFIN:ZDB-GENE-040426-1793](https://zfin.org/ZDB-GENE-040426-1793), [ZFIN:ZDB-GENE-041114-101](https://zfin.org/ZDB-GENE-041114-101) | ZDB-GENE-040426-1793,ZDB-GENE-041114-101 |
+| Xenopus | [ENSXETG00000037165](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000037165) | [780024](https://www.ncbi.nlm.nih.gov/gene/780024) |  |  |
+| Zebrafish | [ENSDARG00000035056](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035056) | [492758](https://www.ncbi.nlm.nih.gov/gene/492758) | [ZFIN:ZDB-GENE-041114-101](https://zfin.org/ZDB-GENE-041114-101) | neurogenesis |
 

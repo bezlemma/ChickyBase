@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417295
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415568
-gene_id: '453935'
+gene_id: '417295'
 gene_type: protein-coding
 images:
 - caption: UAP1L1 expression
@@ -30,37 +30,32 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/UAP1L1.Roy.2013.F7.uap1l1.png
 name: UDP-N-acetylglucosamine pyrophosphorylase 1 like 1
-ncbi_id: '453935'
+ncbi_id: '417295'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000197355
   entrez: '91373'
   mod: ''
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000026956
   entrez: '227620'
   mod: MGI:2443318
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 548680,494771
-  mod: '1002717'
+- ensembl: ENSXETG00000041715
+  entrez: '548680'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000013082
   entrez: '393264'
   mod: ZFIN:ZDB-GENE-040426-1056
-  phenotypes: ZDB-GENE-040426-1056
+  phenotypes: UDP-N-acetylglucosamine biosynthetic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453935
+  url: https://www.ncbi.nlm.nih.gov/gene/417295
 species: Gallus gallus
 symbol: UAP1L1
 title: UAP1L1
@@ -86,9 +81,8 @@ title: UAP1L1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000197355](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197355) | [91373](https://www.ncbi.nlm.nih.gov/gene/91373) |  |  |
-| Mouse |  | [227620](https://www.ncbi.nlm.nih.gov/gene/227620) | [MGI:2443318](http://www.informatics.jax.org/marker/MGI:2443318) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [548680](https://www.ncbi.nlm.nih.gov/gene/548680), [494771](https://www.ncbi.nlm.nih.gov/gene/494771) | [1002717](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1002717) |  |
-| Zebrafish | [ENSDARG00000013082](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013082) | [393264](https://www.ncbi.nlm.nih.gov/gene/393264) | [ZFIN:ZDB-GENE-040426-1056](https://zfin.org/ZDB-GENE-040426-1056) | ZDB-GENE-040426-1056 |
+| Mouse | [ENSMUSG00000026956](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026956) | [227620](https://www.ncbi.nlm.nih.gov/gene/227620) | [MGI:2443318](http://www.informatics.jax.org/marker/MGI:2443318) | All phenotypic alleles (1):Targeted, knock-out(1) |
+| Xenopus | [ENSXETG00000041715](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041715) | [548680](https://www.ncbi.nlm.nih.gov/gene/548680) |  |  |
+| Zebrafish | [ENSDARG00000013082](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013082) | [393264](https://www.ncbi.nlm.nih.gov/gene/393264) | [ZFIN:ZDB-GENE-040426-1056](https://zfin.org/ZDB-GENE-040426-1056) | UDP-N-acetylglucosamine biosynthetic process |
 

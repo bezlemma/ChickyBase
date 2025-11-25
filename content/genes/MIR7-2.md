@@ -7,7 +7,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018258
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006097.3?report=genbank&from=12627267&to=12627365&strand=true
-gene_id: '468017'
+gene_id: '777830'
 gene_type: miscRNA
 images:
 - caption: MIR7-2 expression
@@ -25,7 +25,7 @@ images:
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/mir7.52.30.jpg
 name: microRNA 7-2
-ncbi_id: '468017'
+ncbi_id: '777830'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -55,10 +55,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468017
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777830
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468017
+  url: https://www.ncbi.nlm.nih.gov/gene/777830
 species: Gallus gallus
 symbol: MIR7-2
 title: MIR7-2

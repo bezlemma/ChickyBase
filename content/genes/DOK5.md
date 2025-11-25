@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419336
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417502
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/DOK5
-gene_id: '455012'
+gene_id: '419336'
 gene_type: protein-coding
 images:
 - caption: DOK5 expression
@@ -53,13 +53,8 @@ images:
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DOK5_HH16 x25-d.jpg
 name: docking protein 5
-ncbi_id: '455012'
+ncbi_id: '419336'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000101134
   entrez: '55816'
   mod: MIM:608334
@@ -70,20 +65,15 @@ orthologs:
   mod: MGI:1924079
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000015723
   entrez: '100496159'
-  mod: '986680'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455012
+  url: https://www.ncbi.nlm.nih.gov/gene/419336
 species: Gallus gallus
 symbol: DOK5
 title: DOK5
@@ -108,9 +98,7 @@ title: DOK5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000101134](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101134) | [55816](https://www.ncbi.nlm.nih.gov/gene/55816) | [MIM:608334](https://omim.org/entry/608334) |  |
 | Mouse | [ENSMUSG00000027560](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027560) | [76829](https://www.ncbi.nlm.nih.gov/gene/76829) | [MGI:1924079](http://www.informatics.jax.org/marker/MGI:1924079) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100496159](https://www.ncbi.nlm.nih.gov/gene/100496159) | [986680](http://www.xenbase.org/gene/showgene.do?method=display&geneId=986680) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000015723](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015723) | [100496159](https://www.ncbi.nlm.nih.gov/gene/100496159) |  |  |
 

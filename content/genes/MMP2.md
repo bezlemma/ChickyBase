@@ -19,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004222
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204420
 forward_primer: GATGGATTCCTCTGGTGTTC
-gene_id: '459017'
+gene_id: '386583'
 gene_type: protein-coding
 images:
 - caption: MMP2 expression
@@ -475,13 +475,8 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MMP-2.Linask.20053E.jpg
 name: matrix metallopeptidase 2
-ncbi_id: '459017'
+ncbi_id: '386583'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000087245
   entrez: '4313'
   mod: MIM:120360
@@ -492,24 +487,25 @@ orthologs:
   mod: MGI:97009
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 548506,380389
-  mod: '482840'
+- ensembl: ENSXETG00000002801
+  entrez: '548506'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000017676
   entrez: '337179'
   mod: ZFIN:ZDB-GENE-030131-9123
-  phenotypes: ZDB-GENE-030131-9123
+  phenotypes: collagen catabolic process, extracellular matrix organization, glial
+    cell development, hematopoietic stem cell migration, lymph vessel development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGTGAGTTTCTTTGGATAGCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459017
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=386583
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459017
+  url: https://www.ncbi.nlm.nih.gov/gene/386583
 species: Gallus gallus
 symbol: MMP2
 template_length: '930'
@@ -539,9 +535,8 @@ title: MMP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000087245](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000087245) | [4313](https://www.ncbi.nlm.nih.gov/gene/4313) | [MIM:120360](https://omim.org/entry/120360) | MIM:259600 |
 | Mouse | [ENSMUSG00000031740](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031740) | [17390](https://www.ncbi.nlm.nih.gov/gene/17390) | [MGI:97009](http://www.informatics.jax.org/marker/MGI:97009) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [548506](https://www.ncbi.nlm.nih.gov/gene/548506), [380389](https://www.ncbi.nlm.nih.gov/gene/380389) | [482840](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482840) |  |
-| Zebrafish | [ENSDARG00000017676](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017676) | [337179](https://www.ncbi.nlm.nih.gov/gene/337179) | [ZFIN:ZDB-GENE-030131-9123](https://zfin.org/ZDB-GENE-030131-9123) | ZDB-GENE-030131-9123 |
+| Xenopus | [ENSXETG00000002801](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002801) | [548506](https://www.ncbi.nlm.nih.gov/gene/548506) |  |  |
+| Zebrafish | [ENSDARG00000017676](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017676) | [337179](https://www.ncbi.nlm.nih.gov/gene/337179) | [ZFIN:ZDB-GENE-030131-9123](https://zfin.org/ZDB-GENE-030131-9123) | collagen catabolic process, extracellular matrix organization, glial cell development, hematopoietic stem cell migration, lymph vessel development |
 

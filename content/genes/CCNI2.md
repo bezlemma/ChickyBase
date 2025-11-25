@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771567
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234829
 forward_primer: 5'-GACAATGCGAAATGCCTTCAAC-3'
-gene_id: '453524'
+gene_id: '771567'
 gene_type: protein-coding
 images:
 - caption: CCNI2 expression
@@ -94,41 +94,26 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R632.CCNI2.S26A.001.jpg
 name: cyclin I family member 2
-ncbi_id: '453524'
+ncbi_id: '771567'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000034722
+  entrez: '100125081'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000033046
+  entrez: '100330479'
+  mod: ZFIN:ZDB-GENE-081106-2
+  phenotypes: G1/S transition of mitotic cell cycle
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGACAGAGGAGGAAAAGCAGAACG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453524
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771567
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453524
+  url: https://www.ncbi.nlm.nih.gov/gene/771567
 species: Gallus gallus
 symbol: CCNI2
 template_length: '1172'
@@ -151,9 +136,6 @@ title: CCNI2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000034722](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034722) | [100125081](https://www.ncbi.nlm.nih.gov/gene/100125081) |  |  |
+| Zebrafish | [ENSDARG00000033046](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033046) | [100330479](https://www.ncbi.nlm.nih.gov/gene/100330479) | [ZFIN:ZDB-GENE-081106-2](https://zfin.org/ZDB-GENE-081106-2) | G1/S transition of mitotic cell cycle |
 

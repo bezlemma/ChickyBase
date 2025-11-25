@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422233
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012573
 forward_primer: TGAATGTGGTTTGGCACCTTCTAC
-gene_id: '450081'
+gene_id: '422233'
 gene_type: protein-coding
 images:
 - caption: MBNL3 expression
@@ -125,41 +125,36 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R526.MBNL3.S26AAA.001.jpg
 name: muscleblind like splicing regulator 3
-ncbi_id: '450081'
+ncbi_id: '422233'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000076770
+  entrez: '55796'
+  mod: MIM:300413
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000036109
+  entrez: '171170'
+  mod: MGI:2444912
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000005409
+  entrez: '100496456'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000016085
+  entrez: '567027'
+  mod: ZFIN:ZDB-GENE-081002-3
+  phenotypes: regulation of RNA splicing
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCTGTTCTTTGTTGAGGCACTGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450081
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422233
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450081
+  url: https://www.ncbi.nlm.nih.gov/gene/422233
 species: Gallus gallus
 symbol: MBNL3
 template_length: '941'
@@ -181,9 +176,8 @@ title: MBNL3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000076770](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000076770) | [55796](https://www.ncbi.nlm.nih.gov/gene/55796) | [MIM:300413](https://omim.org/entry/300413) |  |
+| Mouse | [ENSMUSG00000036109](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036109) | [171170](https://www.ncbi.nlm.nih.gov/gene/171170) | [MGI:2444912](http://www.informatics.jax.org/marker/MGI:2444912) |  |
+| Xenopus | [ENSXETG00000005409](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005409) | [100496456](https://www.ncbi.nlm.nih.gov/gene/100496456) |  |  |
+| Zebrafish | [ENSDARG00000016085](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016085) | [567027](https://www.ncbi.nlm.nih.gov/gene/567027) | [ZFIN:ZDB-GENE-081002-3](https://zfin.org/ZDB-GENE-081002-3) | regulation of RNA splicing |
 

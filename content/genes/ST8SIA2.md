@@ -3,8 +3,6 @@ aliases:
 - SIAT8B, alpha-2,8-sialyltransferase 8B
 cgnc_id: '5194'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25stage 25
-  '4': stage 4stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Alev+Jakt+Ueda+landscape
   Comments: "FORWARD PRIMER\tTTCGTCTCCAGCTGTTGTTG\r\nREVERSE PRIMER\tATAGAGATGGATGCGGTTGC"
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -15,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:414336
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001604
 forward_primer: TCGTCTCCAGCTGTTGTTG
-gene_id: '459532'
+gene_id: '414336'
 gene_type: protein-coding
 images:
 - caption: ST8SIA2 expression
@@ -285,13 +283,8 @@ images:
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ST8SIA2.Alev.2010.5a16.png
 name: ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2
-ncbi_id: '459532'
+ncbi_id: '414336'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000140557
   entrez: '8128'
   mod: MIM:602546
@@ -302,24 +295,24 @@ orthologs:
   mod: MGI:106020
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 779791,397702
-  mod: '960441'
+- ensembl: ENSXETG00000024127
+  entrez: '779791'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000018788
   entrez: '555134'
   mod: ZFIN:ZDB-GENE-020919-4
-  phenotypes: ZDB-GENE-020919-4
+  phenotypes: N-glycan processing, oligosaccharide metabolic process, protein glycosylation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGATAGAGATGGATGCGGTTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459532
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=414336
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459532
+  url: https://www.ncbi.nlm.nih.gov/gene/414336
 species: Gallus gallus
 symbol: ST8SIA2
 title: ST8SIA2
@@ -346,9 +339,8 @@ REVERSE PRIMER	ATAGAGATGGATGCGGTTGC
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000140557](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140557) | [8128](https://www.ncbi.nlm.nih.gov/gene/8128) | [MIM:602546](https://omim.org/entry/602546) |  |
 | Mouse | [ENSMUSG00000025789](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025789) | [20450](https://www.ncbi.nlm.nih.gov/gene/20450) | [MGI:106020](http://www.informatics.jax.org/marker/MGI:106020) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [779791](https://www.ncbi.nlm.nih.gov/gene/779791), [397702](https://www.ncbi.nlm.nih.gov/gene/397702) | [960441](http://www.xenbase.org/gene/showgene.do?method=display&geneId=960441) |  |
-| Zebrafish | [ENSDARG00000018788](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018788) | [555134](https://www.ncbi.nlm.nih.gov/gene/555134) | [ZFIN:ZDB-GENE-020919-4](https://zfin.org/ZDB-GENE-020919-4) | ZDB-GENE-020919-4 |
+| Xenopus | [ENSXETG00000024127](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000024127) | [779791](https://www.ncbi.nlm.nih.gov/gene/779791) |  |  |
+| Zebrafish | [ENSDARG00000018788](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018788) | [555134](https://www.ncbi.nlm.nih.gov/gene/555134) | [ZFIN:ZDB-GENE-020919-4](https://zfin.org/ZDB-GENE-020919-4) | N-glycan processing, oligosaccharide metabolic process, protein glycosylation |
 

@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374209
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204315
-gene_id: '456395'
+gene_id: '374209'
 gene_type: protein-coding
 images:
 - caption: ITGB3 expression
@@ -167,13 +167,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/β3-integrin.Pietri.2003.Fig2.jpg
 name: integrin subunit beta 3
-ncbi_id: '456395'
+ncbi_id: '374209'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000259207
   entrez: '3690'
   mod: MIM:173470
@@ -184,20 +179,21 @@ orthologs:
   mod: MGI:96612
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(2) Targeted, other(6)
   species: Mouse
-- ensembl: ''
-  entrez: 100498495,397699
-  mod: '1009963'
+- ensembl: ENSXETG00000019163
+  entrez: '100498495'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000045070
-  entrez: 100001836,564266
-  mod: ZFIN:ZDB-GENE-071207-2,ZFIN:ZDB-GENE-071207-1
-  phenotypes: ZDB-GENE-071207-2,ZDB-GENE-071207-1
+  entrez: '100001836'
+  mod: ZFIN:ZDB-GENE-071207-2
+  phenotypes: cell adhesion, cell adhesion mediated by integrin, cell migration, cell-matrix
+    adhesion, integrin-mediated signaling pathway
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456395
+  url: https://www.ncbi.nlm.nih.gov/gene/374209
 species: Gallus gallus
 symbol: ITGB3
 title: ITGB3
@@ -223,9 +219,8 @@ title: ITGB3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000259207](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000259207) | [3690](https://www.ncbi.nlm.nih.gov/gene/3690) | [MIM:173470](https://omim.org/entry/173470) | MIM:173470 |
 | Mouse | [ENSMUSG00000020689](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020689) | [16416](https://www.ncbi.nlm.nih.gov/gene/16416) | [MGI:96612](http://www.informatics.jax.org/marker/MGI:96612) | All phenotypic alleles (8):Targeted, knock-out(2) Targeted, other(6) |
-| Xenopus |  | [100498495](https://www.ncbi.nlm.nih.gov/gene/100498495), [397699](https://www.ncbi.nlm.nih.gov/gene/397699) | [1009963](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1009963) |  |
-| Zebrafish | [ENSDARG00000045070](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045070) | [100001836](https://www.ncbi.nlm.nih.gov/gene/100001836), [564266](https://www.ncbi.nlm.nih.gov/gene/564266) | [ZFIN:ZDB-GENE-071207-2](https://zfin.org/ZDB-GENE-071207-2), [ZFIN:ZDB-GENE-071207-1](https://zfin.org/ZDB-GENE-071207-1) | ZDB-GENE-071207-2,ZDB-GENE-071207-1 |
+| Xenopus | [ENSXETG00000019163](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019163) | [100498495](https://www.ncbi.nlm.nih.gov/gene/100498495) |  |  |
+| Zebrafish | [ENSDARG00000045070](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045070) | [100001836](https://www.ncbi.nlm.nih.gov/gene/100001836) | [ZFIN:ZDB-GENE-071207-2](https://zfin.org/ZDB-GENE-071207-2) | cell adhesion, cell adhesion mediated by integrin, cell migration, cell-matrix adhesion, integrin-mediated signaling pathway |
 

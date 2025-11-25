@@ -6,9 +6,6 @@ aliases:
 - heparin-binding growth factor 4
 cgnc_id: '5707'
 external_ids:
-  '13': stage 13
-  '25': stage 25
-  '4': stage 4stage 4stage 4stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030154
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005576
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2012+BMP+Kumar+Chapman
@@ -22,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428857
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005104
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031546
-gene_id: '456309'
+gene_id: '428857'
 gene_type: protein-coding
 images:
 - caption: FGF4 expression
@@ -419,14 +416,9 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig4.allimages.Kumar.2012B-3.jpg
 name: fibroblast growth factor 4
-ncbi_id: '456309'
+ncbi_id: '428857'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000075388
   entrez: '2249'
   mod: MIM:164980
   phenotypes: ''
@@ -436,23 +428,25 @@ orthologs:
   mod: MGI:95518
   phenotypes: All phenotypic alleles (9):Targeted, knock-out(5) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100217325,378587,378586
-  mod: '480495'
+- ensembl: ENSXETG00000037755
+  entrez: '100217325'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000068095
-  entrez: 100333464,100329362,100334627,570435
+- ensembl: ENSDARG00000105230
+  entrez: '570435'
   mod: ZFIN:ZDB-GENE-001006-1
-  phenotypes: ZDB-GENE-001006-1
+  phenotypes: Kupffer's vesicle development, Spemann organizer formation at the embryonic
+    shield, cilium assembly, determination of left/right symmetry, fibroblast growth
+    factor receptor signaling pathway
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456309
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428857
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456309
+  url: https://www.ncbi.nlm.nih.gov/gene/428857
 species: Gallus gallus
 symbol: FGF4
 title: FGF4
@@ -481,9 +475,8 @@ title: FGF4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [2249](https://www.ncbi.nlm.nih.gov/gene/2249) | [MIM:164980](https://omim.org/entry/164980) |  |
+| Human | [ENSG00000075388](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000075388) | [2249](https://www.ncbi.nlm.nih.gov/gene/2249) | [MIM:164980](https://omim.org/entry/164980) |  |
 | Mouse | [ENSMUSG00000050917](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000050917) | [14175](https://www.ncbi.nlm.nih.gov/gene/14175) | [MGI:95518](http://www.informatics.jax.org/marker/MGI:95518) | All phenotypic alleles (9):Targeted, knock-out(5) Targeted, other(4) |
-| Xenopus |  | [100217325](https://www.ncbi.nlm.nih.gov/gene/100217325), [378587](https://www.ncbi.nlm.nih.gov/gene/378587), [378586](https://www.ncbi.nlm.nih.gov/gene/378586) | [480495](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480495) |  |
-| Zebrafish | [ENSDARG00000068095](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068095) | [100333464](https://www.ncbi.nlm.nih.gov/gene/100333464), [100329362](https://www.ncbi.nlm.nih.gov/gene/100329362), [100334627](https://www.ncbi.nlm.nih.gov/gene/100334627), [570435](https://www.ncbi.nlm.nih.gov/gene/570435) | [ZFIN:ZDB-GENE-001006-1](https://zfin.org/ZDB-GENE-001006-1) | ZDB-GENE-001006-1 |
+| Xenopus | [ENSXETG00000037755](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000037755) | [100217325](https://www.ncbi.nlm.nih.gov/gene/100217325) |  |  |
+| Zebrafish | [ENSDARG00000105230](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000105230) | [570435](https://www.ncbi.nlm.nih.gov/gene/570435) | [ZFIN:ZDB-GENE-001006-1](https://zfin.org/ZDB-GENE-001006-1) | Kupffer's vesicle development, Spemann organizer formation at the embryonic shield, cilium assembly, determination of left/right symmetry, fibroblast growth factor receptor signaling pathway |
 

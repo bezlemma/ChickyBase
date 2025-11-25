@@ -9,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424220
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422069
-gene_id: '461227'
+gene_id: '424220'
 gene_type: protein-coding
 images:
 - caption: IGFBP5 expression
@@ -98,13 +98,8 @@ images:
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/igfbp5-14-24s-3-4xhead.jpg
 name: insulin like growth factor binding protein 5
-ncbi_id: '461227'
+ncbi_id: '424220'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000115461
   entrez: '3488'
   mod: MIM:146734
@@ -115,20 +110,20 @@ orthologs:
   mod: MGI:96440
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 548796,399201
-  mod: '485072'
+- ensembl: ENSXETG00000044058
+  entrez: '548796'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000025348,ENSDARG00000039264
-  entrez: 403039,795084
-  mod: ZFIN:ZDB-GENE-040319-2,ZFIN:ZDB-GENE-070620-8
-  phenotypes: ZDB-GENE-040319-2,ZDB-GENE-070620-8
+- ensembl: ENSDARG00000111203
+  entrez: '795084'
+  mod: ZFIN:ZDB-GENE-070620-8
+  phenotypes: regulation of insulin-like growth factor receptor signaling pathway
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461227
+  url: https://www.ncbi.nlm.nih.gov/gene/424220
 species: Gallus gallus
 symbol: IGFBP5
 title: IGFBP5
@@ -152,9 +147,8 @@ title: IGFBP5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000115461](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000115461) | [3488](https://www.ncbi.nlm.nih.gov/gene/3488) | [MIM:146734](https://omim.org/entry/146734) |  |
 | Mouse | [ENSMUSG00000026185](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026185) | [16011](https://www.ncbi.nlm.nih.gov/gene/16011) | [MGI:96440](http://www.informatics.jax.org/marker/MGI:96440) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [548796](https://www.ncbi.nlm.nih.gov/gene/548796), [399201](https://www.ncbi.nlm.nih.gov/gene/399201) | [485072](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485072) |  |
-| Zebrafish | [ENSDARG00000025348](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025348), [ENSDARG00000039264](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039264) | [403039](https://www.ncbi.nlm.nih.gov/gene/403039), [795084](https://www.ncbi.nlm.nih.gov/gene/795084) | [ZFIN:ZDB-GENE-040319-2](https://zfin.org/ZDB-GENE-040319-2), [ZFIN:ZDB-GENE-070620-8](https://zfin.org/ZDB-GENE-070620-8) | ZDB-GENE-040319-2,ZDB-GENE-070620-8 |
+| Xenopus | [ENSXETG00000044058](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044058) | [548796](https://www.ncbi.nlm.nih.gov/gene/548796) |  |  |
+| Zebrafish | [ENSDARG00000111203](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000111203) | [795084](https://www.ncbi.nlm.nih.gov/gene/795084) | [ZFIN:ZDB-GENE-070620-8](https://zfin.org/ZDB-GENE-070620-8) | regulation of insulin-like growth factor receptor signaling pathway |
 

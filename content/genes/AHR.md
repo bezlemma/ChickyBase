@@ -3,7 +3,6 @@ aliases:
 - aryl hydrocarbon receptor
 cgnc_id: '8232'
 external_ids:
-  '25': stage 25
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Trevers et al. 2023.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -109,7 +108,7 @@ orthologs:
 - ensembl: ENSDARG00000023537,ENSDARG00000020046
   entrez: 554265,246224
   mod: ZFIN:ZDB-GENE-050922-1,ZFIN:ZDB-GENE-020531-2
-  phenotypes: ZDB-GENE-050922-1,ZDB-GENE-020531-2
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGACGGGTTGAAGATGTGTGGCAG
 sources:
@@ -146,5 +145,5 @@ title: AHR
 | Human | [ENSG00000106546](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000106546) | [196](https://www.ncbi.nlm.nih.gov/gene/196) | [MIM:600253](https://omim.org/entry/600253) |  |
 | Mouse | [ENSMUSG00000019256](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019256) | [11622](https://www.ncbi.nlm.nih.gov/gene/11622) | [MGI:105043](http://www.informatics.jax.org/marker/MGI:105043) | All phenotypic alleles (14):Other(4) Targeted, knock-out(2) Targeted, other(8) |
 | Xenopus |  | [613065](https://www.ncbi.nlm.nih.gov/gene/613065), [398659](https://www.ncbi.nlm.nih.gov/gene/398659) | [983106](http://www.xenbase.org/gene/showgene.do?method=display&geneId=983106) |  |
-| Zebrafish | [ENSDARG00000023537](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023537), [ENSDARG00000020046](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020046) | [554265](https://www.ncbi.nlm.nih.gov/gene/554265), [246224](https://www.ncbi.nlm.nih.gov/gene/246224) | [ZFIN:ZDB-GENE-050922-1](https://zfin.org/ZDB-GENE-050922-1), [ZFIN:ZDB-GENE-020531-2](https://zfin.org/ZDB-GENE-020531-2) | ZDB-GENE-050922-1,ZDB-GENE-020531-2 |
+| Zebrafish | [ENSDARG00000023537](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023537), [ENSDARG00000020046](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020046) | [554265](https://www.ncbi.nlm.nih.gov/gene/554265), [246224](https://www.ncbi.nlm.nih.gov/gene/246224) | [ZFIN:ZDB-GENE-050922-1](https://zfin.org/ZDB-GENE-050922-1), [ZFIN:ZDB-GENE-020531-2](https://zfin.org/ZDB-GENE-020531-2) |  |
 

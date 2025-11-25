@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:770863
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001232891
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/GPC3
-gene_id: '463244'
+gene_id: '770863'
 gene_type: protein-coding
 images:
 - caption: GPC3 expression
@@ -65,13 +65,8 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig1.C.Glypican-3.St14.jpg
 name: glypican 3
-ncbi_id: '463244'
+ncbi_id: '770863'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000147257
   entrez: '2719'
   mod: MIM:300037
@@ -83,20 +78,22 @@ orthologs:
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000032333
   entrez: '100135027'
-  mod: '982086'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000032199
   entrez: '387365'
   mod: ZFIN:ZDB-GENE-031212-1
-  phenotypes: ZDB-GENE-031212-1
+  phenotypes: cell migration, cell migration involved in gastrulation, coronary vasculature
+    development, negative regulation of canonical Wnt signaling pathway, negative
+    regulation of smoothened signaling pathway
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463244
+  url: https://www.ncbi.nlm.nih.gov/gene/770863
 species: Gallus gallus
 symbol: GPC3
 title: GPC3
@@ -123,9 +120,8 @@ title: GPC3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000147257](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000147257) | [2719](https://www.ncbi.nlm.nih.gov/gene/2719) | [MIM:300037](https://omim.org/entry/300037) | MIM:312870 |
 | Mouse | [ENSMUSG00000055653](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000055653) | [14734](https://www.ncbi.nlm.nih.gov/gene/14734) | [MGI:104903](http://www.informatics.jax.org/marker/MGI:104903) | All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [100135027](https://www.ncbi.nlm.nih.gov/gene/100135027) | [982086](http://www.xenbase.org/gene/showgene.do?method=display&geneId=982086) |  |
-| Zebrafish | [ENSDARG00000032199](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032199) | [387365](https://www.ncbi.nlm.nih.gov/gene/387365) | [ZFIN:ZDB-GENE-031212-1](https://zfin.org/ZDB-GENE-031212-1) | ZDB-GENE-031212-1 |
+| Xenopus | [ENSXETG00000032333](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000032333) | [100135027](https://www.ncbi.nlm.nih.gov/gene/100135027) |  |  |
+| Zebrafish | [ENSDARG00000032199](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032199) | [387365](https://www.ncbi.nlm.nih.gov/gene/387365) | [ZFIN:ZDB-GENE-031212-1](https://zfin.org/ZDB-GENE-031212-1) | cell migration, cell migration involved in gastrulation, coronary vasculature development, negative regulation of canonical Wnt signaling pathway, negative regulation of smoothened signaling pathway |
 

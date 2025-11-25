@@ -3,7 +3,6 @@ aliases:
 - protein AF-10
 cgnc_id: '5995'
 external_ids:
-  '25': stage 25
   Comments: No specific expression detected stages 15-21.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/420509
@@ -11,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418610
 forward_primer: 5'-AGTACAGCAGCACCATCACC-3'
-gene_id: '456947'
+gene_id: '420509'
 gene_type: protein-coding
 images:
 - caption: MLLT10 expression
@@ -112,13 +111,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT10.S25.001.jpg
 name: MLLT10, histone lysine methyltransferase DOT1L cofactor
-ncbi_id: '456947'
+ncbi_id: '420509'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000078403
   entrez: '8028'
   mod: MIM:602409
@@ -129,24 +123,26 @@ orthologs:
   mod: MGI:1329038
   phenotypes: All phenotypic alleles (4):Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100036598,494767
-  mod: '6408099'
+- ensembl: ENSXETG00000007391
+  entrez: '100036598'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000045401
   entrez: '492342'
   mod: ZFIN:ZDB-GENE-041114-176
-  phenotypes: ZDB-GENE-041114-176
+  phenotypes: canonical Wnt signaling pathway, intestinal epithelial structure maintenance,
+    regulation of DNA-templated transcription, regulation of transcription by RNA
+    polymerase II
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGAAAGAAACCCTCCTGCTCCG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456947
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420509
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456947
+  url: https://www.ncbi.nlm.nih.gov/gene/420509
 species: Gallus gallus
 symbol: MLLT10
 template_length: '628'
@@ -171,9 +167,8 @@ title: MLLT10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000078403](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000078403) | [8028](https://www.ncbi.nlm.nih.gov/gene/8028) | [MIM:602409](https://omim.org/entry/602409) | MIM:601626 |
 | Mouse | [ENSMUSG00000026743](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026743) | [17354](https://www.ncbi.nlm.nih.gov/gene/17354) | [MGI:1329038](http://www.informatics.jax.org/marker/MGI:1329038) | All phenotypic alleles (4):Targeted, other(4) |
-| Xenopus |  | [100036598](https://www.ncbi.nlm.nih.gov/gene/100036598), [494767](https://www.ncbi.nlm.nih.gov/gene/494767) | [6408099](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6408099) |  |
-| Zebrafish | [ENSDARG00000045401](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045401) | [492342](https://www.ncbi.nlm.nih.gov/gene/492342) | [ZFIN:ZDB-GENE-041114-176](https://zfin.org/ZDB-GENE-041114-176) | ZDB-GENE-041114-176 |
+| Xenopus | [ENSXETG00000007391](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007391) | [100036598](https://www.ncbi.nlm.nih.gov/gene/100036598) |  |  |
+| Zebrafish | [ENSDARG00000045401](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045401) | [492342](https://www.ncbi.nlm.nih.gov/gene/492342) | [ZFIN:ZDB-GENE-041114-176](https://zfin.org/ZDB-GENE-041114-176) | canonical Wnt signaling pathway, intestinal epithelial structure maintenance, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

@@ -6,7 +6,6 @@ aliases:
 - angiopoietin-2C
 cgnc_id: '49399'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=Davey+Burt+Analysis+talpid3+embryos+Hedgehog+development+vasculature
   Comments: "According to authors the probe was, \"Ang2a (UMIST ChEST 603481051F1)\"\
     \ As information provided was insufficient to verify exact sequence used to synthesize\
@@ -21,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395610
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204817
 forward_primer: CAAATGCTAACAGGAGGGTGGTG
-gene_id: '449445'
+gene_id: '395610'
 gene_type: protein-coding
 images:
 - caption: ANGPT2 expression
@@ -275,13 +274,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ang2a.Davey.2007.Figure3IJ.jpg
 name: angiopoietin 2
-ncbi_id: '449445'
+ncbi_id: '395610'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000091879
   entrez: '285'
   mod: MIM:601922
@@ -292,24 +286,24 @@ orthologs:
   mod: MGI:1202890
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: '100495122'
-  mod: '487764'
+- ensembl: ENSXETG00000004379
+  entrez: '100485272'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000053906
-  entrez: 100332825,114408,101101687
-  mod: ZFIN:ZDB-GENE-010817-2,ZFIN:ZDB-GENE-121101-1
-  phenotypes: ZDB-GENE-010817-2,ZDB-GENE-121101-1
+- ensembl: ENSDARG00000014946
+  entrez: '101101687'
+  mod: ZFIN:ZDB-GENE-121101-1
+  phenotypes: Tie signaling pathway, angiogenesis, blood coagulation
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGACACAAACTGGAAGAAATGGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449445
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395610
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449445
+  url: https://www.ncbi.nlm.nih.gov/gene/395610
 species: Gallus gallus
 symbol: ANGPT2
 template_length: '845'
@@ -339,9 +333,8 @@ Note: images on the right are talpid mutant embryos.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000091879](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000091879) | [285](https://www.ncbi.nlm.nih.gov/gene/285) | [MIM:601922](https://omim.org/entry/601922) |  |
 | Mouse | [ENSMUSG00000031465](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031465) | [11601](https://www.ncbi.nlm.nih.gov/gene/11601) | [MGI:1202890](http://www.informatics.jax.org/marker/MGI:1202890) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [100495122](https://www.ncbi.nlm.nih.gov/gene/100495122) | [487764](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487764) |  |
-| Zebrafish | [ENSDARG00000053906](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053906) | [100332825](https://www.ncbi.nlm.nih.gov/gene/100332825), [114408](https://www.ncbi.nlm.nih.gov/gene/114408), [101101687](https://www.ncbi.nlm.nih.gov/gene/101101687) | [ZFIN:ZDB-GENE-010817-2](https://zfin.org/ZDB-GENE-010817-2), [ZFIN:ZDB-GENE-121101-1](https://zfin.org/ZDB-GENE-121101-1) | ZDB-GENE-010817-2,ZDB-GENE-121101-1 |
+| Xenopus | [ENSXETG00000004379](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004379) | [100485272](https://www.ncbi.nlm.nih.gov/gene/100485272) |  |  |
+| Zebrafish | [ENSDARG00000014946](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014946) | [101101687](https://www.ncbi.nlm.nih.gov/gene/101101687) | [ZFIN:ZDB-GENE-121101-1](https://zfin.org/ZDB-GENE-121101-1) | Tie signaling pathway, angiogenesis, blood coagulation |
 

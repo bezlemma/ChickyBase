@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100858542
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642848
-gene_id: '473073'
+gene_id: '100858542'
 gene_type: protein-coding
 images:
 - caption: AES expression
@@ -158,37 +158,32 @@ images:
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Grg5.Houghton.2003.Fig3C'.jpg
 name: amino-terminal enhancer of split
-ncbi_id: '473073'
+ncbi_id: '100858542'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000104964
+  entrez: '166'
+  mod: MIM:600188
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000054452
+  entrez: '14797'
+  mod: MGI:95806
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000014365
+  entrez: '733921'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000115836
+  entrez: '393395'
+  mod: ZFIN:ZDB-GENE-040426-1409
+  phenotypes: dorsal/ventral axis specification, regulation of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/473073
+  url: https://www.ncbi.nlm.nih.gov/gene/100858542
 species: Gallus gallus
 symbol: AES
 title: AES
@@ -214,9 +209,8 @@ title: AES
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000104964](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000104964) | [166](https://www.ncbi.nlm.nih.gov/gene/166) | [MIM:600188](https://omim.org/entry/600188) |  |
+| Mouse | [ENSMUSG00000054452](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000054452) | [14797](https://www.ncbi.nlm.nih.gov/gene/14797) | [MGI:95806](http://www.informatics.jax.org/marker/MGI:95806) |  |
+| Xenopus | [ENSXETG00000014365](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014365) | [733921](https://www.ncbi.nlm.nih.gov/gene/733921) |  |  |
+| Zebrafish | [ENSDARG00000115836](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115836) | [393395](https://www.ncbi.nlm.nih.gov/gene/393395) | [ZFIN:ZDB-GENE-040426-1409](https://zfin.org/ZDB-GENE-040426-1409) | dorsal/ventral axis specification, regulation of DNA-templated transcription |
 

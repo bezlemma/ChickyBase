@@ -7,7 +7,6 @@ aliases:
 - retina-expressed kinase
 cgnc_id: '6554'
 external_ids:
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007155
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/395336
@@ -216,7 +215,7 @@ orthologs:
 - ensembl: ENSDARG00000005356
   entrez: '30709'
   mod: ZFIN:ZDB-GENE-990714-13
-  phenotypes: ZDB-GENE-990714-13
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTGAGGAGTGTCTGAAGAGGCAAG
 sources:
@@ -254,5 +253,5 @@ title: TYRO3
 | Human |  | [7301](https://www.ncbi.nlm.nih.gov/gene/7301) | [MIM:600341](https://omim.org/entry/600341) |  |
 | Mouse | [ENSMUSG00000027298](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027298) | [22174](https://www.ncbi.nlm.nih.gov/gene/22174) | [MGI:104294](http://www.informatics.jax.org/marker/MGI:104294) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
 | Xenopus |  | [780188](https://www.ncbi.nlm.nih.gov/gene/780188), [398301](https://www.ncbi.nlm.nih.gov/gene/398301) | [922143](http://www.xenbase.org/gene/showgene.do?method=display&geneId=922143) |  |
-| Zebrafish | [ENSDARG00000005356](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005356) | [30709](https://www.ncbi.nlm.nih.gov/gene/30709) | [ZFIN:ZDB-GENE-990714-13](https://zfin.org/ZDB-GENE-990714-13) | ZDB-GENE-990714-13 |
+| Zebrafish | [ENSDARG00000005356](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005356) | [30709](https://www.ncbi.nlm.nih.gov/gene/30709) | [ZFIN:ZDB-GENE-990714-13](https://zfin.org/ZDB-GENE-990714-13) |  |
 

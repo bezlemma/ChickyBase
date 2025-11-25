@@ -7,7 +7,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418174
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416405
 forward_primer: 5’-TGATCTCCAGTGCTGATGGC-3’
-gene_id: '455116'
+gene_id: '418174'
 gene_type: protein-coding
 images:
 - caption: EPS8 expression
@@ -114,13 +114,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R656.EPS8.S26AA.001.jpg
 name: epidermal growth factor receptor pathway substrate 8
-ncbi_id: '455116'
+ncbi_id: '418174'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000151491
   entrez: '2059'
   mod: MIM:600206
@@ -131,24 +126,25 @@ orthologs:
   mod: MGI:104684
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 779963,414529
-  mod: '996935'
+- ensembl: ENSXETG00000022526
+  entrez: '779963'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000018440
+- ensembl: ENSDARG00000102128
   entrez: '393212'
   mod: ZFIN:ZDB-GENE-040426-871
-  phenotypes: ZDB-GENE-040426-871
+  phenotypes: Rho protein signal transduction, phosphorylation, positive regulation
+    of ruffle assembly, regulation of Rho protein signal transduction
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGACTGAATGCGTACCCATCGG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455116
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418174
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455116
+  url: https://www.ncbi.nlm.nih.gov/gene/418174
 species: Gallus gallus
 symbol: EPS8
 template_length: '881'
@@ -171,9 +167,8 @@ title: EPS8
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000151491](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000151491) | [2059](https://www.ncbi.nlm.nih.gov/gene/2059) | [MIM:600206](https://omim.org/entry/600206) |  |
 | Mouse | [ENSMUSG00000015766](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000015766) | [13860](https://www.ncbi.nlm.nih.gov/gene/13860) | [MGI:104684](http://www.informatics.jax.org/marker/MGI:104684) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [779963](https://www.ncbi.nlm.nih.gov/gene/779963), [414529](https://www.ncbi.nlm.nih.gov/gene/414529) | [996935](http://www.xenbase.org/gene/showgene.do?method=display&geneId=996935) |  |
-| Zebrafish | [ENSDARG00000018440](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018440) | [393212](https://www.ncbi.nlm.nih.gov/gene/393212) | [ZFIN:ZDB-GENE-040426-871](https://zfin.org/ZDB-GENE-040426-871) | ZDB-GENE-040426-871 |
+| Xenopus | [ENSXETG00000022526](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022526) | [779963](https://www.ncbi.nlm.nih.gov/gene/779963) |  |  |
+| Zebrafish | [ENSDARG00000102128](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000102128) | [393212](https://www.ncbi.nlm.nih.gov/gene/393212) | [ZFIN:ZDB-GENE-040426-871](https://zfin.org/ZDB-GENE-040426-871) | Rho protein signal transduction, phosphorylation, positive regulation of ruffle assembly, regulation of Rho protein signal transduction |
 

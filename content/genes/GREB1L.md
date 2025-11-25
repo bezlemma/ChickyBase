@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421064
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419152
-gene_id: '459795'
+gene_id: '421064'
 gene_type: protein-coding
 images:
 - caption: GREB1L expression
@@ -110,16 +110,11 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D03.48.23ntd.jpg
 name: GREB1 like retinoic acid receptor coactivator
-ncbi_id: '459795'
+ncbi_id: '421064'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000141449
   entrez: '80000'
-  mod: ''
+  mod: MIM:617782
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000042942
@@ -127,23 +122,23 @@ orthologs:
   mod: MGI:3576497
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000003149
   entrez: '100170499'
-  mod: '5965355'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000039196
   entrez: '100005373'
   mod: ZFIN:ZDB-GENE-030131-4022
-  phenotypes: ZDB-GENE-030131-4022
+  phenotypes: kidney development, morphogenesis of an epithelium, pronephros development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459795
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421064
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459795
+  url: https://www.ncbi.nlm.nih.gov/gene/421064
 species: Gallus gallus
 symbol: GREB1L
 title: GREB1L
@@ -165,9 +160,8 @@ title: GREB1L
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000141449](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000141449) | [80000](https://www.ncbi.nlm.nih.gov/gene/80000) |  |  |
+| Human | [ENSG00000141449](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000141449) | [80000](https://www.ncbi.nlm.nih.gov/gene/80000) | [MIM:617782](https://omim.org/entry/617782) |  |
 | Mouse | [ENSMUSG00000042942](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042942) | [381157](https://www.ncbi.nlm.nih.gov/gene/381157) | [MGI:3576497](http://www.informatics.jax.org/marker/MGI:3576497) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100170499](https://www.ncbi.nlm.nih.gov/gene/100170499) | [5965355](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5965355) |  |
-| Zebrafish | [ENSDARG00000039196](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039196) | [100005373](https://www.ncbi.nlm.nih.gov/gene/100005373) | [ZFIN:ZDB-GENE-030131-4022](https://zfin.org/ZDB-GENE-030131-4022) | ZDB-GENE-030131-4022 |
+| Xenopus | [ENSXETG00000003149](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003149) | [100170499](https://www.ncbi.nlm.nih.gov/gene/100170499) |  |  |
+| Zebrafish | [ENSDARG00000039196](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039196) | [100005373](https://www.ncbi.nlm.nih.gov/gene/100005373) | [ZFIN:ZDB-GENE-030131-4022](https://zfin.org/ZDB-GENE-030131-4022) | kidney development, morphogenesis of an epithelium, pronephros development |
 

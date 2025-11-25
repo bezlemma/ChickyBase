@@ -4,14 +4,13 @@ aliases:
 - follistatin-like 3 (secreted glycoprotein)
 cgnc_id: '17259'
 external_ids:
-  '25': stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/770427
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:770427
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001233760
 forward_primer: 5’-TGGTGACCTGCCATCCATG-3’
-gene_id: '463207'
+gene_id: '770427'
 gene_type: protein-coding
 images:
 - caption: FSTL3 expression
@@ -81,13 +80,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R692.FSTL3.S25AAA.001.jpg
 name: follistatin like 3
-ncbi_id: '463207'
+ncbi_id: '770427'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000070404
   entrez: '10272'
   mod: MIM:605343
@@ -98,24 +92,25 @@ orthologs:
   mod: MGI:1890391
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 548587,779248
-  mod: '876425'
+- ensembl: ENSXETG00000022970
+  entrez: '548587'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000025670
   entrez: '557352'
   mod: ZFIN:ZDB-GENE-050913-111
-  phenotypes: ZDB-GENE-050913-111
+  phenotypes: cell differentiation, negative regulation of activin receptor signaling
+    pathway, regulation of BMP signaling pathway
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGAGTTCTCCTCCGCGTTGTC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463207
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=770427
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463207
+  url: https://www.ncbi.nlm.nih.gov/gene/770427
 species: Gallus gallus
 symbol: FSTL3
 template_length: '513'
@@ -138,9 +133,8 @@ title: FSTL3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000070404](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000070404) | [10272](https://www.ncbi.nlm.nih.gov/gene/10272) | [MIM:605343](https://omim.org/entry/605343) |  |
 | Mouse | [ENSMUSG00000020325](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020325) | [83554](https://www.ncbi.nlm.nih.gov/gene/83554) | [MGI:1890391](http://www.informatics.jax.org/marker/MGI:1890391) | All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1) |
-| Xenopus |  | [548587](https://www.ncbi.nlm.nih.gov/gene/548587), [779248](https://www.ncbi.nlm.nih.gov/gene/779248) | [876425](http://www.xenbase.org/gene/showgene.do?method=display&geneId=876425) |  |
-| Zebrafish | [ENSDARG00000025670](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025670) | [557352](https://www.ncbi.nlm.nih.gov/gene/557352) | [ZFIN:ZDB-GENE-050913-111](https://zfin.org/ZDB-GENE-050913-111) | ZDB-GENE-050913-111 |
+| Xenopus | [ENSXETG00000022970](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022970) | [548587](https://www.ncbi.nlm.nih.gov/gene/548587) |  |  |
+| Zebrafish | [ENSDARG00000025670](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025670) | [557352](https://www.ncbi.nlm.nih.gov/gene/557352) | [ZFIN:ZDB-GENE-050913-111](https://zfin.org/ZDB-GENE-050913-111) | cell differentiation, negative regulation of activin receptor signaling pathway, regulation of BMP signaling pathway |
 

@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395210
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005125
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204535
-gene_id: '461772'
+gene_id: '395210'
 gene_type: protein-coding
 images:
 - caption: SPP1 expression
@@ -91,7 +91,7 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kimura.Fig2.OPN.B.St14.jpg
 name: secreted phosphoprotein 1
-ncbi_id: '461772'
+ncbi_id: '395210'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -121,7 +121,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461772
+  url: https://www.ncbi.nlm.nih.gov/gene/395210
 species: Gallus gallus
 symbol: SPP1
 title: SPP1

@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417793
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416036
   X-XIV: stage XIIstage XII
-gene_id: '452936'
+gene_id: '417793'
 gene_type: protein-coding
 images:
 - caption: PRICKLE1 expression
@@ -123,13 +123,8 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cooper.Fig2.PK1.P-R.HH20.jpg
 name: prickle planar cell polarity protein 1
-ncbi_id: '452936'
+ncbi_id: '417793'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000139174
   entrez: '144165'
   mod: MIM:608500
@@ -140,20 +135,22 @@ orthologs:
   mod: MGI:1916034
   phenotypes: All phenotypic alleles (6):Chemically induced(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 549693,398256,398264
-  mod: '486940'
+- ensembl: ENSXETG00000006797
+  entrez: '549693'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000045694,ENSDARG00000040649
-  entrez: 556148,368249
-  mod: ZFIN:ZDB-GENE-030131-2152,ZFIN:ZDB-GENE-030724-5
-  phenotypes: ZDB-GENE-030131-2152,ZDB-GENE-030724-5
+- ensembl: ENSDARG00000040649
+  entrez: '368249'
+  mod: ZFIN:ZDB-GENE-030724-5
+  phenotypes: Kupffer's vesicle development, Wnt signaling pathway, cell migration
+    in hindbrain, cell migration involved in gastrulation, convergent extension involved
+    in gastrulation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452936
+  url: https://www.ncbi.nlm.nih.gov/gene/417793
 species: Gallus gallus
 symbol: PRICKLE1
 title: PRICKLE1
@@ -179,9 +176,8 @@ title: PRICKLE1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000139174](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139174) | [144165](https://www.ncbi.nlm.nih.gov/gene/144165) | [MIM:608500](https://omim.org/entry/608500) | MIM:612437 |
 | Mouse | [ENSMUSG00000036158](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036158) | [106042](https://www.ncbi.nlm.nih.gov/gene/106042) | [MGI:1916034](http://www.informatics.jax.org/marker/MGI:1916034) | All phenotypic alleles (6):Chemically induced(2) Targeted, other(4) |
-| Xenopus |  | [549693](https://www.ncbi.nlm.nih.gov/gene/549693), [398256](https://www.ncbi.nlm.nih.gov/gene/398256), [398264](https://www.ncbi.nlm.nih.gov/gene/398264) | [486940](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486940) |  |
-| Zebrafish | [ENSDARG00000045694](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045694), [ENSDARG00000040649](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040649) | [556148](https://www.ncbi.nlm.nih.gov/gene/556148), [368249](https://www.ncbi.nlm.nih.gov/gene/368249) | [ZFIN:ZDB-GENE-030131-2152](https://zfin.org/ZDB-GENE-030131-2152), [ZFIN:ZDB-GENE-030724-5](https://zfin.org/ZDB-GENE-030724-5) | ZDB-GENE-030131-2152,ZDB-GENE-030724-5 |
+| Xenopus | [ENSXETG00000006797](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006797) | [549693](https://www.ncbi.nlm.nih.gov/gene/549693) |  |  |
+| Zebrafish | [ENSDARG00000040649](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040649) | [368249](https://www.ncbi.nlm.nih.gov/gene/368249) | [ZFIN:ZDB-GENE-030724-5](https://zfin.org/ZDB-GENE-030724-5) | Kupffer's vesicle development, Wnt signaling pathway, cell migration in hindbrain, cell migration involved in gastrulation, convergent extension involved in gastrulation |
 

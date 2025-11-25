@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428253
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001128828
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/NCAM1
-gene_id: '462874'
+gene_id: '428253'
 gene_type: protein-coding
 images:
 - caption: NCAM1 expression
@@ -53,37 +53,32 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-figS1-N.jpg
 name: neural cell adhesion molecule 1
-ncbi_id: '462874'
+ncbi_id: '428253'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000170209
-  entrez: '255239'
-  mod: MIM:608774
+- ensembl: ENSG00000149294
+  entrez: '4684'
+  mod: MIM:116930
   phenotypes: MIM:608774
   species: Human
-- ensembl: ENSMUSG00000032257
-  entrez: '244859'
-  mod: MGI:3045301
+- ensembl: ENSMUSG00000039542
+  entrez: '17967'
+  mod: MGI:97281
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: '100493231'
-  mod: '961576'
+- ensembl: ENSXETG00000011665
+  entrez: '100038291'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000056921
-  entrez: '100170831'
-  mod: ZFIN:ZDB-GENE-071015-4
-  phenotypes: ZDB-GENE-071015-4
+- ensembl: ENSDARG00000056181
+  entrez: '30447'
+  mod: ZFIN:ZDB-GENE-990415-31
+  phenotypes: cell adhesion, posterior commissure morphogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462874
+  url: https://www.ncbi.nlm.nih.gov/gene/428253
 species: Gallus gallus
 symbol: NCAM1
 title: NCAM1
@@ -112,9 +107,8 @@ title: NCAM1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000170209](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170209) | [255239](https://www.ncbi.nlm.nih.gov/gene/255239) | [MIM:608774](https://omim.org/entry/608774) | MIM:608774 |
-| Mouse | [ENSMUSG00000032257](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032257) | [244859](https://www.ncbi.nlm.nih.gov/gene/244859) | [MGI:3045301](http://www.informatics.jax.org/marker/MGI:3045301) |  |
-| Xenopus |  | [100493231](https://www.ncbi.nlm.nih.gov/gene/100493231) | [961576](http://www.xenbase.org/gene/showgene.do?method=display&geneId=961576) |  |
-| Zebrafish | [ENSDARG00000056921](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056921) | [100170831](https://www.ncbi.nlm.nih.gov/gene/100170831) | [ZFIN:ZDB-GENE-071015-4](https://zfin.org/ZDB-GENE-071015-4) | ZDB-GENE-071015-4 |
+| Human | [ENSG00000149294](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000149294) | [4684](https://www.ncbi.nlm.nih.gov/gene/4684) | [MIM:116930](https://omim.org/entry/116930) | MIM:608774 |
+| Mouse | [ENSMUSG00000039542](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039542) | [17967](https://www.ncbi.nlm.nih.gov/gene/17967) | [MGI:97281](http://www.informatics.jax.org/marker/MGI:97281) |  |
+| Xenopus | [ENSXETG00000011665](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011665) | [100038291](https://www.ncbi.nlm.nih.gov/gene/100038291) |  |  |
+| Zebrafish | [ENSDARG00000056181](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056181) | [30447](https://www.ncbi.nlm.nih.gov/gene/30447) | [ZFIN:ZDB-GENE-990415-31](https://zfin.org/ZDB-GENE-990415-31) | cell adhesion, posterior commissure morphogenesis |
 

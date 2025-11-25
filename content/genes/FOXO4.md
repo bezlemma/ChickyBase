@@ -4,14 +4,13 @@ aliases:
 - 'LOW QUALITY PROTEIN: forkhead box protein O4'
 cgnc_id: '4215'
 external_ids:
-  '25': stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/428703
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428703
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426261
 forward_primer: 5’-TCTGTTCTGATTCACATGGG-3’
-gene_id: '456927'
+gene_id: '428703'
 gene_type: protein-coding
 images:
 - caption: FOXO4 expression
@@ -73,13 +72,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R678.FOXO4.S25AA.001.jpg
 name: forkhead box O4
-ncbi_id: '456927'
+ncbi_id: '428703'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000184481
   entrez: '4303'
   mod: MIM:300033
@@ -91,24 +85,26 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(1)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100492831,100301976
-  mod: '480654'
+- ensembl: ENSXETG00000020899
+  entrez: '100492831'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000055792
   entrez: '563719'
-  mod: ZFIN:ZDB-GENE-110228-3
-  phenotypes: ZDB-GENE-110228-3
+  mod: ZFIN:ZDB-GENE-150311-1
+  phenotypes: intracellular oxygen homeostasis, lymph vessel development, regulation
+    of DNA-templated transcription, regulation of transcription by RNA polymerase
+    II, response to hypoxia
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGAGCCTGTAATGGTTCAGAAG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456927
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428703
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456927
+  url: https://www.ncbi.nlm.nih.gov/gene/428703
 species: Gallus gallus
 symbol: FOXO4
 template_length: '438'
@@ -131,9 +127,8 @@ title: FOXO4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000184481](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000184481) | [4303](https://www.ncbi.nlm.nih.gov/gene/4303) | [MIM:300033](https://omim.org/entry/300033) |  |
 | Mouse | [ENSMUSG00000042903](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042903) | [54601](https://www.ncbi.nlm.nih.gov/gene/54601) | [MGI:1891915](http://www.informatics.jax.org/marker/MGI:1891915) | All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(1) Gene trapped(1) |
-| Xenopus |  | [100492831](https://www.ncbi.nlm.nih.gov/gene/100492831), [100301976](https://www.ncbi.nlm.nih.gov/gene/100301976) | [480654](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480654) |  |
-| Zebrafish |  | [563719](https://www.ncbi.nlm.nih.gov/gene/563719) | [ZFIN:ZDB-GENE-110228-3](https://zfin.org/ZDB-GENE-110228-3) | ZDB-GENE-110228-3 |
+| Xenopus | [ENSXETG00000020899](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020899) | [100492831](https://www.ncbi.nlm.nih.gov/gene/100492831) |  |  |
+| Zebrafish | [ENSDARG00000055792](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055792) | [563719](https://www.ncbi.nlm.nih.gov/gene/563719) | [ZFIN:ZDB-GENE-150311-1](https://zfin.org/ZDB-GENE-150311-1) | intracellular oxygen homeostasis, lymph vessel development, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II, response to hypoxia |
 

@@ -20,7 +20,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420911
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006379
-gene_id: '454037'
+gene_id: '420911'
 gene_type: protein-coding
 images:
 - caption: DROSHA expression
@@ -214,13 +214,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Carraco.2014-DROSHA-fig1.jpg
 name: drosha ribonuclease III
-ncbi_id: '454037'
+ncbi_id: '420911'
 orthologs:
-- ensembl: ''
-  entrez: '35747'
-  mod: FBgn0026722
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000113360
   entrez: '29102'
   mod: MIM:608828
@@ -231,23 +226,24 @@ orthologs:
   mod: MGI:1261425
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100135003,733193
-  mod: '494684'
+- ensembl: ENSXETG00000016701
+  entrez: '100135003'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000055563
   entrez: '567505'
   mod: ZFIN:ZDB-GENE-070209-23
-  phenotypes: ZDB-GENE-070209-23
+  phenotypes: RNA processing, angiogenesis, blood vessel morphogenesis, miRNA processing,
+    pre-miRNA processing
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454037
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420911
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454037
+  url: https://www.ncbi.nlm.nih.gov/gene/420911
 species: Gallus gallus
 symbol: DROSHA
 title: DROSHA
@@ -274,9 +270,8 @@ title: DROSHA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35747](https://www.ncbi.nlm.nih.gov/gene/35747) | FBgn0026722 |  |
 | Human | [ENSG00000113360](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113360) | [29102](https://www.ncbi.nlm.nih.gov/gene/29102) | [MIM:608828](https://omim.org/entry/608828) |  |
 | Mouse | [ENSMUSG00000022191](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022191) | [14000](https://www.ncbi.nlm.nih.gov/gene/14000) | [MGI:1261425](http://www.informatics.jax.org/marker/MGI:1261425) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100135003](https://www.ncbi.nlm.nih.gov/gene/100135003), [733193](https://www.ncbi.nlm.nih.gov/gene/733193) | [494684](http://www.xenbase.org/gene/showgene.do?method=display&geneId=494684) |  |
-| Zebrafish | [ENSDARG00000055563](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055563) | [567505](https://www.ncbi.nlm.nih.gov/gene/567505) | [ZFIN:ZDB-GENE-070209-23](https://zfin.org/ZDB-GENE-070209-23) | ZDB-GENE-070209-23 |
+| Xenopus | [ENSXETG00000016701](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016701) | [100135003](https://www.ncbi.nlm.nih.gov/gene/100135003) |  |  |
+| Zebrafish | [ENSDARG00000055563](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055563) | [567505](https://www.ncbi.nlm.nih.gov/gene/567505) | [ZFIN:ZDB-GENE-070209-23](https://zfin.org/ZDB-GENE-070209-23) | RNA processing, angiogenesis, blood vessel morphogenesis, miRNA processing, pre-miRNA processing |
 

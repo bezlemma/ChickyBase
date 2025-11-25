@@ -3,7 +3,6 @@ aliases:
 - CYCB3, G2/mitotic-specific cyclin-B3
 cgnc_id: '49683'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007049
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -13,7 +12,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0019901
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205239
 forward_primer: CAAGAAGAGGTCAGCGTTTGGG
-gene_id: '463099'
+gene_id: '396167'
 gene_type: protein-coding
 images:
 - caption: CCNB3 expression
@@ -198,41 +197,27 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R574.CCBN3.S25AAAA.001.jpg
 name: cyclin B3
-ncbi_id: '463099'
+ncbi_id: '396167'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000022597
+  entrez: '100494711'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000034855
+  entrez: '767751'
+  mod: ZFIN:ZDB-GENE-060929-684
+  phenotypes: G1/S transition of mitotic cell cycle, cell division, mitotic cell cycle
+    phase transition
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTAGGGGATGGGGATGTTGATGTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463099
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396167
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463099
+  url: https://www.ncbi.nlm.nih.gov/gene/396167
 species: Gallus gallus
 symbol: CCNB3
 title: CCNB3
@@ -257,9 +242,6 @@ title: CCNB3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000022597](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022597) | [100494711](https://www.ncbi.nlm.nih.gov/gene/100494711) |  |  |
+| Zebrafish | [ENSDARG00000034855](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034855) | [767751](https://www.ncbi.nlm.nih.gov/gene/767751) | [ZFIN:ZDB-GENE-060929-684](https://zfin.org/ZDB-GENE-060929-684) | G1/S transition of mitotic cell cycle, cell division, mitotic cell cycle phase transition |
 

@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420596
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418698
 forward_primer: TAAATAGGCAGGAGGGAGCGTG
-gene_id: '456768'
+gene_id: '420596'
 gene_type: protein-coding
 images:
 - caption: AGR2 expression
@@ -177,13 +177,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R506.AGR2.S26.001.jpg
 name: anterior gradient 2, protein disulphide isomerase family member
-ncbi_id: '456768'
+ncbi_id: '420596'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000106541
   entrez: '10551'
   mod: MIM:606358
@@ -194,24 +189,25 @@ orthologs:
   mod: MGI:1344405
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 549381,379407
-  mod: '971547'
+- ensembl: ENSXETG00000025625
+  entrez: '549381'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000070480
-  entrez: 100329406,335616
+  entrez: '335616'
   mod: ZFIN:ZDB-GENE-050417-214
-  phenotypes: ZDB-GENE-050417-214
+  phenotypes: intestinal epithelial cell differentiation, positive regulation of cell-substrate
+    adhesion
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAGGTGAAAACCAGGCTTAGTTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456768
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420596
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456768
+  url: https://www.ncbi.nlm.nih.gov/gene/420596
 species: Gallus gallus
 symbol: AGR2
 template_length: '654'
@@ -233,9 +229,8 @@ title: AGR2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000106541](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000106541) | [10551](https://www.ncbi.nlm.nih.gov/gene/10551) | [MIM:606358](https://omim.org/entry/606358) |  |
 | Mouse | [ENSMUSG00000020581](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020581) | [23795](https://www.ncbi.nlm.nih.gov/gene/23795) | [MGI:1344405](http://www.informatics.jax.org/marker/MGI:1344405) | All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5) |
-| Xenopus |  | [549381](https://www.ncbi.nlm.nih.gov/gene/549381), [379407](https://www.ncbi.nlm.nih.gov/gene/379407) | [971547](http://www.xenbase.org/gene/showgene.do?method=display&geneId=971547) |  |
-| Zebrafish | [ENSDARG00000070480](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070480) | [100329406](https://www.ncbi.nlm.nih.gov/gene/100329406), [335616](https://www.ncbi.nlm.nih.gov/gene/335616) | [ZFIN:ZDB-GENE-050417-214](https://zfin.org/ZDB-GENE-050417-214) | ZDB-GENE-050417-214 |
+| Xenopus | [ENSXETG00000025625](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025625) | [549381](https://www.ncbi.nlm.nih.gov/gene/549381) |  |  |
+| Zebrafish | [ENSDARG00000070480](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070480) | [335616](https://www.ncbi.nlm.nih.gov/gene/335616) | [ZFIN:ZDB-GENE-050417-214](https://zfin.org/ZDB-GENE-050417-214) | intestinal epithelial cell differentiation, positive regulation of cell-substrate adhesion |
 

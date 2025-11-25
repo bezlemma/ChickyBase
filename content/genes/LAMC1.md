@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424442
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234658
-gene_id: '450217'
+gene_id: '424442'
 gene_type: protein-coding
 images:
 - caption: LAMC1 expression
@@ -84,37 +84,33 @@ images:
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LAMININy1.Halfter.2008.f1.lamininy1.png
 name: laminin subunit gamma 1
-ncbi_id: '450217'
+ncbi_id: '424442'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000135862
+  entrez: '3915'
+  mod: MIM:150290
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000026478
+  entrez: '226519'
+  mod: MGI:99914
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000012525
+  entrez: '100036631'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000036279
+  entrez: '286832'
+  mod: ZFIN:ZDB-GENE-021226-3
+  phenotypes: animal organ morphogenesis, axon guidance, brain development, brain
+    morphogenesis, cell adhesion
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450217
+  url: https://www.ncbi.nlm.nih.gov/gene/424442
 species: Gallus gallus
 symbol: LAMC1
 title: LAMC1
@@ -140,9 +136,8 @@ title: LAMC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000135862](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135862) | [3915](https://www.ncbi.nlm.nih.gov/gene/3915) | [MIM:150290](https://omim.org/entry/150290) |  |
+| Mouse | [ENSMUSG00000026478](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026478) | [226519](https://www.ncbi.nlm.nih.gov/gene/226519) | [MGI:99914](http://www.informatics.jax.org/marker/MGI:99914) |  |
+| Xenopus | [ENSXETG00000012525](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012525) | [100036631](https://www.ncbi.nlm.nih.gov/gene/100036631) |  |  |
+| Zebrafish | [ENSDARG00000036279](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036279) | [286832](https://www.ncbi.nlm.nih.gov/gene/286832) | [ZFIN:ZDB-GENE-021226-3](https://zfin.org/ZDB-GENE-021226-3) | animal organ morphogenesis, axon guidance, brain development, brain morphogenesis, cell adhesion |
 

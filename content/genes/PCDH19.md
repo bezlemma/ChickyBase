@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422263
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001098607
-gene_id: '450092'
+gene_id: '422263'
 gene_type: protein-coding
 images:
 - caption: PCDH19 expression
@@ -282,13 +282,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh19.Lin.2013.Fig5.jpg
 name: protocadherin 19
-ncbi_id: '450092'
+ncbi_id: '422263'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000165194
   entrez: '57526'
   mod: MIM:300460
@@ -299,20 +294,21 @@ orthologs:
   mod: MGI:2685563
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000031488
   entrez: '100494505'
-  mod: '1113171'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000034344
   entrez: '555688'
   mod: ZFIN:ZDB-GENE-030131-4218
-  phenotypes: ZDB-GENE-030131-4218
+  phenotypes: anatomical structure morphogenesis, brain morphogenesis, cell adhesion,
+    cell-cell adhesion, excitatory postsynaptic potential
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450092
+  url: https://www.ncbi.nlm.nih.gov/gene/422263
 species: Gallus gallus
 symbol: PCDH19
 title: PCDH19
@@ -338,9 +334,8 @@ title: PCDH19
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000165194](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165194) | [57526](https://www.ncbi.nlm.nih.gov/gene/57526) | [MIM:300460](https://omim.org/entry/300460) | MIM:300088 |
 | Mouse | [ENSMUSG00000051323](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000051323) | [279653](https://www.ncbi.nlm.nih.gov/gene/279653) | [MGI:2685563](http://www.informatics.jax.org/marker/MGI:2685563) |  |
-| Xenopus |  | [100494505](https://www.ncbi.nlm.nih.gov/gene/100494505) | [1113171](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1113171) |  |
-| Zebrafish |  | [555688](https://www.ncbi.nlm.nih.gov/gene/555688) | [ZFIN:ZDB-GENE-030131-4218](https://zfin.org/ZDB-GENE-030131-4218) | ZDB-GENE-030131-4218 |
+| Xenopus | [ENSXETG00000031488](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031488) | [100494505](https://www.ncbi.nlm.nih.gov/gene/100494505) |  |  |
+| Zebrafish | [ENSDARG00000034344](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034344) | [555688](https://www.ncbi.nlm.nih.gov/gene/555688) | [ZFIN:ZDB-GENE-030131-4218](https://zfin.org/ZDB-GENE-030131-4218) | anatomical structure morphogenesis, brain morphogenesis, cell adhesion, cell-cell adhesion, excitatory postsynaptic potential |
 

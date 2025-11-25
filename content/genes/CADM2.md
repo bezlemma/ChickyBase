@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418463
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416672
 forward_primer: ACCTGACCACGCTCTAATAGGAGG
-gene_id: '456033'
+gene_id: '418463'
 gene_type: protein-coding
 images:
 - caption: CADM2 expression
@@ -108,13 +108,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R476.CADM2.S26.001.jpg
 name: cell adhesion molecule 2
-ncbi_id: '456033'
+ncbi_id: '418463'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000175161
   entrez: '253559'
   mod: MIM:609938
@@ -125,24 +120,24 @@ orthologs:
   mod: MGI:2442722
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000026489
   entrez: '448238'
-  mod: '998535'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000062633
-  entrez: 571698,793954
-  mod: ZFIN:ZDB-GENE-080506-3,ZFIN:ZDB-GENE-040426-1614
-  phenotypes: ZDB-GENE-080506-3,ZDB-GENE-040426-1614
+- ensembl: ENSDARG00000009930
+  entrez: '793954'
+  mod: ZFIN:ZDB-GENE-040426-1614
+  phenotypes: homophilic cell adhesion via plasma membrane adhesion molecules
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTTCCACCAAATCCAAGCACAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456033
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418463
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456033
+  url: https://www.ncbi.nlm.nih.gov/gene/418463
 species: Gallus gallus
 symbol: CADM2
 template_length: '788'
@@ -164,9 +159,8 @@ title: CADM2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000175161](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000175161) | [253559](https://www.ncbi.nlm.nih.gov/gene/253559) | [MIM:609938](https://omim.org/entry/609938) |  |
 | Mouse | [ENSMUSG00000064115](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000064115) | [239857](https://www.ncbi.nlm.nih.gov/gene/239857) | [MGI:2442722](http://www.informatics.jax.org/marker/MGI:2442722) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [448238](https://www.ncbi.nlm.nih.gov/gene/448238) | [998535](http://www.xenbase.org/gene/showgene.do?method=display&geneId=998535) |  |
-| Zebrafish | [ENSDARG00000062633](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062633) | [571698](https://www.ncbi.nlm.nih.gov/gene/571698), [793954](https://www.ncbi.nlm.nih.gov/gene/793954) | [ZFIN:ZDB-GENE-080506-3](https://zfin.org/ZDB-GENE-080506-3), [ZFIN:ZDB-GENE-040426-1614](https://zfin.org/ZDB-GENE-040426-1614) | ZDB-GENE-080506-3,ZDB-GENE-040426-1614 |
+| Xenopus | [ENSXETG00000026489](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026489) | [448238](https://www.ncbi.nlm.nih.gov/gene/448238) |  |  |
+| Zebrafish | [ENSDARG00000009930](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009930) | [793954](https://www.ncbi.nlm.nih.gov/gene/793954) | [ZFIN:ZDB-GENE-040426-1614](https://zfin.org/ZDB-GENE-040426-1614) | homophilic cell adhesion via plasma membrane adhesion molecules |
 

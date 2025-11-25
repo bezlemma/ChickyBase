@@ -4,7 +4,6 @@ aliases:
 - CDC5 cell division cycle 5-like
 cgnc_id: '12520'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0035136
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/38062
@@ -13,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422052
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420058
 forward_primer: 5'-TACAAACTCAGCCTCCAGCACTC-3'
-gene_id: '449372'
+gene_id: '422052'
 gene_type: protein-coding
 images:
 - caption: CDC5L expression
@@ -70,13 +69,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R622.CDC5L.S25.001.jpg
 name: cell division cycle 5 like
-ncbi_id: '449372'
+ncbi_id: '422052'
 orthologs:
-- ensembl: ''
-  entrez: '38062'
-  mod: FBgn0035136
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000096401
   entrez: '988'
   mod: MIM:602868
@@ -87,24 +81,25 @@ orthologs:
   mod: MGI:1918952
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 493564,443636
-  mod: '983550'
+- ensembl: ENSXETG00000007885
+  entrez: '493564'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000043797
   entrez: '394059'
   mod: ZFIN:ZDB-GENE-040426-821
-  phenotypes: ZDB-GENE-040426-821
+  phenotypes: RNA splicing, cell division, mRNA processing, mRNA splicing, via spliceosome,
+    regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGGCCTTTCCCCTTCTTACCAGTAGG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449372
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422052
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449372
+  url: https://www.ncbi.nlm.nih.gov/gene/422052
 species: Gallus gallus
 symbol: CDC5L
 template_length: '823'
@@ -129,9 +124,8 @@ title: CDC5L
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38062](https://www.ncbi.nlm.nih.gov/gene/38062) | FBgn0035136 |  |
 | Human | [ENSG00000096401](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000096401) | [988](https://www.ncbi.nlm.nih.gov/gene/988) | [MIM:602868](https://omim.org/entry/602868) |  |
 | Mouse | [ENSMUSG00000023932](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023932) | [71702](https://www.ncbi.nlm.nih.gov/gene/71702) | [MGI:1918952](http://www.informatics.jax.org/marker/MGI:1918952) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [493564](https://www.ncbi.nlm.nih.gov/gene/493564), [443636](https://www.ncbi.nlm.nih.gov/gene/443636) | [983550](http://www.xenbase.org/gene/showgene.do?method=display&geneId=983550) |  |
-| Zebrafish | [ENSDARG00000043797](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043797) | [394059](https://www.ncbi.nlm.nih.gov/gene/394059) | [ZFIN:ZDB-GENE-040426-821](https://zfin.org/ZDB-GENE-040426-821) | ZDB-GENE-040426-821 |
+| Xenopus | [ENSXETG00000007885](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007885) | [493564](https://www.ncbi.nlm.nih.gov/gene/493564) |  |  |
+| Zebrafish | [ENSDARG00000043797](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043797) | [394059](https://www.ncbi.nlm.nih.gov/gene/394059) | [ZFIN:ZDB-GENE-040426-821](https://zfin.org/ZDB-GENE-040426-821) | RNA splicing, cell division, mRNA processing, mRNA splicing, via spliceosome, regulation of DNA-templated transcription |
 

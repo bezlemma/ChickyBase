@@ -3,7 +3,6 @@ aliases:
 - homeobox protein EMX1
 cgnc_id: '12028'
 external_ids:
-  '19': stage 19stage 19
   Citation: http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=Halilgic%20Retinoids%20dorsal%20properties%20forebrain%20anterior%20Ghyselinck
   Comments: 'Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (acc # XM_001232150.1).
@@ -15,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:768977
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001232150
-gene_id: '453487'
+gene_id: '768977'
 gene_type: protein-coding
 images:
 - caption: EMX1 expression
@@ -103,40 +102,36 @@ images:
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Halilagic.Fig6.EMX1.C.ST19-20.jpg
 name: empty spiracles homeobox 1
-ncbi_id: '453487'
+ncbi_id: '768977'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000135638
+  entrez: '2016'
+  mod: MIM:600034
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000033726
+  entrez: '13796'
+  mod: MGI:95387
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000048254
+  entrez: '448058'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000039569
+  entrez: '378964'
+  mod: ZFIN:ZDB-GENE-031007-7
+  phenotypes: brain development, central nervous system development, neuron differentiation,
+    pronephric distal tubule development, regulation of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453487
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=768977
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453487
+  url: https://www.ncbi.nlm.nih.gov/gene/768977
 species: Gallus gallus
 symbol: EMX1
 title: EMX1
@@ -164,9 +159,8 @@ Copyright © 2007 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000135638](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135638) | [2016](https://www.ncbi.nlm.nih.gov/gene/2016) | [MIM:600034](https://omim.org/entry/600034) |  |
+| Mouse | [ENSMUSG00000033726](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033726) | [13796](https://www.ncbi.nlm.nih.gov/gene/13796) | [MGI:95387](http://www.informatics.jax.org/marker/MGI:95387) |  |
+| Xenopus | [ENSXETG00000048254](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000048254) | [448058](https://www.ncbi.nlm.nih.gov/gene/448058) |  |  |
+| Zebrafish | [ENSDARG00000039569](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039569) | [378964](https://www.ncbi.nlm.nih.gov/gene/378964) | [ZFIN:ZDB-GENE-031007-7](https://zfin.org/ZDB-GENE-031007-7) | brain development, central nervous system development, neuron differentiation, pronephric distal tubule development, regulation of DNA-templated transcription |
 

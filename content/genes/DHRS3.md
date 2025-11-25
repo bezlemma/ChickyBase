@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419480
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277910
-gene_id: '458599'
+gene_id: '419480'
 gene_type: protein-coding
 images:
 - caption: DHRS3 expression
@@ -37,13 +37,8 @@ images:
   stage: stage 39
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DHRS3G.jpg
 name: dehydrogenase/reductase 3
-ncbi_id: '458599'
+ncbi_id: '419480'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000162496
   entrez: '9249'
   mod: MIM:612830
@@ -54,20 +49,21 @@ orthologs:
   mod: MGI:1315215
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 493258,444269
-  mod: '955323'
+- ensembl: ENSXETG00000001388
+  entrez: '493258'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000044803,ENSDARG00000044982
-  entrez: 450050,445083
-  mod: ZFIN:ZDB-GENE-041010-172,ZFIN:ZDB-GENE-040801-217
-  phenotypes: ZDB-GENE-041010-172,ZDB-GENE-040801-217
+- ensembl: ENSDARG00000044803
+  entrez: '450050'
+  mod: ZFIN:ZDB-GENE-041010-172
+  phenotypes: regulation of retinoic acid receptor signaling pathway, retinoid metabolic
+    process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458599
+  url: https://www.ncbi.nlm.nih.gov/gene/419480
 species: Gallus gallus
 symbol: DHRS3
 title: DHRS3
@@ -92,9 +88,8 @@ title: DHRS3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000162496](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162496) | [9249](https://www.ncbi.nlm.nih.gov/gene/9249) | [MIM:612830](https://omim.org/entry/612830) |  |
 | Mouse | [ENSMUSG00000066026](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000066026) | [20148](https://www.ncbi.nlm.nih.gov/gene/20148) | [MGI:1315215](http://www.informatics.jax.org/marker/MGI:1315215) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [493258](https://www.ncbi.nlm.nih.gov/gene/493258), [444269](https://www.ncbi.nlm.nih.gov/gene/444269) | [955323](http://www.xenbase.org/gene/showgene.do?method=display&geneId=955323) |  |
-| Zebrafish | [ENSDARG00000044803](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044803), [ENSDARG00000044982](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044982) | [450050](https://www.ncbi.nlm.nih.gov/gene/450050), [445083](https://www.ncbi.nlm.nih.gov/gene/445083) | [ZFIN:ZDB-GENE-041010-172](https://zfin.org/ZDB-GENE-041010-172), [ZFIN:ZDB-GENE-040801-217](https://zfin.org/ZDB-GENE-040801-217) | ZDB-GENE-041010-172,ZDB-GENE-040801-217 |
+| Xenopus | [ENSXETG00000001388](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001388) | [493258](https://www.ncbi.nlm.nih.gov/gene/493258) |  |  |
+| Zebrafish | [ENSDARG00000044803](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044803) | [450050](https://www.ncbi.nlm.nih.gov/gene/450050) | [ZFIN:ZDB-GENE-041010-172](https://zfin.org/ZDB-GENE-041010-172) | regulation of retinoic acid receptor signaling pathway, retinoid metabolic process |
 

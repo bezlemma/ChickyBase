@@ -5,7 +5,6 @@ aliases:
 - MN-cadherin, cadherin 20, type 2
 cgnc_id: '9773'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007156
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Jiankai+Wang+Cadherin+cochlea+chicken
@@ -20,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204134
 forward_primer: CCAGATTTCCACAGAAGCACTACC
-gene_id: '459492'
+gene_id: '373927'
 gene_type: protein-coding
 images:
 - caption: CDH20 expression
@@ -172,13 +171,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cad20.Figure2J.Jiankai.2007.jpg
 name: cadherin 20, type 2
-ncbi_id: '459492'
+ncbi_id: '373927'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000101542
   entrez: '28316'
   mod: MIM:605807
@@ -189,24 +183,19 @@ orthologs:
   mod: MGI:1346069
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100498629,100192361
-  mod: '1011619'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000005857
+  entrez: '100498629'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: ATTAACCCTCACTAAAGGGCCGTGTTGTCTTGATTGTCCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459492
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373927
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459492
+  url: https://www.ncbi.nlm.nih.gov/gene/373927
 species: Gallus gallus
 symbol: CDH20
 template_length: '844'
@@ -236,9 +225,7 @@ title: CDH20
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000101542](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101542) | [28316](https://www.ncbi.nlm.nih.gov/gene/28316) | [MIM:605807](https://omim.org/entry/605807) |  |
 | Mouse | [ENSMUSG00000050840](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000050840) | [23836](https://www.ncbi.nlm.nih.gov/gene/23836) | [MGI:1346069](http://www.informatics.jax.org/marker/MGI:1346069) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100498629](https://www.ncbi.nlm.nih.gov/gene/100498629), [100192361](https://www.ncbi.nlm.nih.gov/gene/100192361) | [1011619](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1011619) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000005857](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005857) | [100498629](https://www.ncbi.nlm.nih.gov/gene/100498629) |  |  |
 

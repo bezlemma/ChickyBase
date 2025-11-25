@@ -3,7 +3,6 @@ aliases:
 - anti-dorsalizing morphogenetic protein
 cgnc_id: '49407'
 external_ids:
-  '4': stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=+2020+Stern+
     Lee+Oliveira+chick
   Comments: Insufficient information provided in publication to verify exact sequence
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395622
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204822
   X-XIV: stage Xstage XIIstage XIVstage XIVstage XIV
-gene_id: '363860'
+gene_id: '395622'
 gene_type: protein-coding
 images:
 - caption: ADMP expression
@@ -74,37 +73,24 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Allimages_Lee.2020_Fig
     3-2.jpg
 name: anti-dorsalizing morphogenetic protein
-ncbi_id: '363860'
+ncbi_id: '395622'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000008743
+  entrez: '733983'
   mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: 733983,398053
-  mod: '485378'
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000025372
-  entrez: 100333700,140619
+  entrez: '140619'
   mod: ZFIN:ZDB-GENE-011214-1
-  phenotypes: ZDB-GENE-011214-1
+  phenotypes: Spemann organizer formation at the embryonic shield, cell surface receptor
+    protein serine/threonine kinase signaling pathway, circulatory system development,
+    determination of ventral identity, dorsal/ventral pattern formation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/363860
+  url: https://www.ncbi.nlm.nih.gov/gene/395622
 species: Gallus gallus
 symbol: ADMP
 title: ADMP
@@ -130,9 +116,6 @@ title: ADMP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [733983](https://www.ncbi.nlm.nih.gov/gene/733983), [398053](https://www.ncbi.nlm.nih.gov/gene/398053) | [485378](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485378) |  |
-| Zebrafish | [ENSDARG00000025372](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025372) | [100333700](https://www.ncbi.nlm.nih.gov/gene/100333700), [140619](https://www.ncbi.nlm.nih.gov/gene/140619) | [ZFIN:ZDB-GENE-011214-1](https://zfin.org/ZDB-GENE-011214-1) | ZDB-GENE-011214-1 |
+| Xenopus | [ENSXETG00000008743](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008743) | [733983](https://www.ncbi.nlm.nih.gov/gene/733983) |  |  |
+| Zebrafish | [ENSDARG00000025372](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025372) | [140619](https://www.ncbi.nlm.nih.gov/gene/140619) | [ZFIN:ZDB-GENE-011214-1](https://zfin.org/ZDB-GENE-011214-1) | Spemann organizer formation at the embryonic shield, cell surface receptor protein serine/threonine kinase signaling pathway, circulatory system development, determination of ventral identity, dorsal/ventral pattern formation |
 

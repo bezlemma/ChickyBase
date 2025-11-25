@@ -14,7 +14,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001039300
 forward_primer: GGGAACAACAGGCTTGGTTTG
-gene_id: '452203'
+gene_id: '422688'
 gene_type: protein-coding
 images:
 - caption: CAMK2D expression
@@ -47,13 +47,8 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R558.CAMK2D.S18AAA.001.jpg
 name: calcium/calmodulin dependent protein kinase II delta
-ncbi_id: '452203'
+ncbi_id: '422688'
 orthologs:
-- ensembl: ''
-  entrez: '43828'
-  mod: FBgn0264607
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000145349
   entrez: '817'
   mod: MIM:607708
@@ -64,24 +59,25 @@ orthologs:
   mod: MGI:1341265
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100135023,399160
-  mod: '868292'
+- ensembl: ENSXETG00000015547
+  entrez: '100135023'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000014273,ENSDARG00000043010
-  entrez: 436815,445208
-  mod: ZFIN:ZDB-GENE-040718-277,ZFIN:ZDB-GENE-040801-121
-  phenotypes: ZDB-GENE-040718-277,ZDB-GENE-040801-121
+- ensembl: ENSDARG00000043010
+  entrez: '445208'
+  mod: ZFIN:ZDB-GENE-040801-121
+  phenotypes: phosphorylation, protein phosphorylation, regulation of neuronal synaptic
+    plasticity, regulation of protein localization to plasma membrane
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCGTGAGGATTGAGGATAATGGTGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452203
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422688
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452203
+  url: https://www.ncbi.nlm.nih.gov/gene/422688
 species: Gallus gallus
 symbol: CAMK2D
 template_length: '759'
@@ -107,9 +103,8 @@ title: CAMK2D
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43828](https://www.ncbi.nlm.nih.gov/gene/43828) | FBgn0264607 |  |
 | Human | [ENSG00000145349](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145349) | [817](https://www.ncbi.nlm.nih.gov/gene/817) | [MIM:607708](https://omim.org/entry/607708) |  |
 | Mouse | [ENSMUSG00000053819](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000053819) | [108058](https://www.ncbi.nlm.nih.gov/gene/108058) | [MGI:1341265](http://www.informatics.jax.org/marker/MGI:1341265) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100135023](https://www.ncbi.nlm.nih.gov/gene/100135023), [399160](https://www.ncbi.nlm.nih.gov/gene/399160) | [868292](http://www.xenbase.org/gene/showgene.do?method=display&geneId=868292) |  |
-| Zebrafish | [ENSDARG00000014273](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014273), [ENSDARG00000043010](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043010) | [436815](https://www.ncbi.nlm.nih.gov/gene/436815), [445208](https://www.ncbi.nlm.nih.gov/gene/445208) | [ZFIN:ZDB-GENE-040718-277](https://zfin.org/ZDB-GENE-040718-277), [ZFIN:ZDB-GENE-040801-121](https://zfin.org/ZDB-GENE-040801-121) | ZDB-GENE-040718-277,ZDB-GENE-040801-121 |
+| Xenopus | [ENSXETG00000015547](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015547) | [100135023](https://www.ncbi.nlm.nih.gov/gene/100135023) |  |  |
+| Zebrafish | [ENSDARG00000043010](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043010) | [445208](https://www.ncbi.nlm.nih.gov/gene/445208) | [ZFIN:ZDB-GENE-040801-121](https://zfin.org/ZDB-GENE-040801-121) | phosphorylation, protein phosphorylation, regulation of neuronal synaptic plasticity, regulation of protein localization to plasma membrane |
 

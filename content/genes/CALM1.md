@@ -13,7 +13,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001110364
 forward_primer: 5'-TAATGGTTGGTGGTCCTGTCCC-3'
-gene_id: '460335'
+gene_id: '396523'
 gene_type: protein-coding
 images:
 - caption: CALM1 expression
@@ -194,41 +194,21 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R554.CALM1.S27B.001.jpg
 name: calmodulin 1
-ncbi_id: '460335'
+ncbi_id: '396523'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000160014
+  entrez: '808'
+  mod: MIM:114183
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGCATAGAAACGCTTCCCTCCTACTG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460335
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396523
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460335
+  url: https://www.ncbi.nlm.nih.gov/gene/396523
 species: Gallus gallus
 symbol: CALM1
 template_length: '829'
@@ -252,9 +232,5 @@ title: CALM1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000160014](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000160014) | [808](https://www.ncbi.nlm.nih.gov/gene/808) | [MIM:114183](https://omim.org/entry/114183) |  |
 

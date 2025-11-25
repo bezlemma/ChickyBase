@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771481
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641194
 forward_primer: GCTGTGTCGGAAAAGATGGTTATG
-gene_id: '453839'
+gene_id: '771481'
 gene_type: protein-coding
 images:
 - caption: BBS7 expression
@@ -84,41 +84,37 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BBS7.S27AAA.001.jpg
 name: Bardet-Biedl syndrome 7
-ncbi_id: '453839'
+ncbi_id: '771481'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000138686
+  entrez: '55212'
+  mod: MIM:607590
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000037325
+  entrez: '71492'
+  mod: MGI:1918742
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000031279
+  entrez: '100125216'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000059911
+  entrez: '557491'
+  mod: ZFIN:ZDB-GENE-030219-90
+  phenotypes: Kupffer's vesicle development, cell projection organization, cilium
+    assembly, determination of left/right symmetry, digestive tract morphogenesis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGATGCTGCGGTATTCTGGCAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453839
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771481
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453839
+  url: https://www.ncbi.nlm.nih.gov/gene/771481
 species: Gallus gallus
 symbol: BBS7
 template_length: '1063'
@@ -140,9 +136,8 @@ title: BBS7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000138686](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138686) | [55212](https://www.ncbi.nlm.nih.gov/gene/55212) | [MIM:607590](https://omim.org/entry/607590) |  |
+| Mouse | [ENSMUSG00000037325](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037325) | [71492](https://www.ncbi.nlm.nih.gov/gene/71492) | [MGI:1918742](http://www.informatics.jax.org/marker/MGI:1918742) |  |
+| Xenopus | [ENSXETG00000031279](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031279) | [100125216](https://www.ncbi.nlm.nih.gov/gene/100125216) |  |  |
+| Zebrafish | [ENSDARG00000059911](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059911) | [557491](https://www.ncbi.nlm.nih.gov/gene/557491) | [ZFIN:ZDB-GENE-030219-90](https://zfin.org/ZDB-GENE-030219-90) | Kupffer's vesicle development, cell projection organization, cilium assembly, determination of left/right symmetry, digestive tract morphogenesis |
 

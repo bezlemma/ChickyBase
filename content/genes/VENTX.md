@@ -2,12 +2,11 @@
 aliases:
 - VENT homeobox homolog
 external_ids:
-  '25': stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/101750857
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
 forward_primer: GGCTCTCCTCAGGCTCCAAATC
-gene_id: '504481'
+gene_id: '107053700'
 gene_type: unknown
 images:
 - caption: VENTX expression
@@ -39,7 +38,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/350.VENTX.S25.002.jpg
 name: VENT homeobox
-ncbi_id: '504481'
+ncbi_id: '107053700'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -70,10 +69,10 @@ reverse_primer: AATTAACCCTCACTAAAGCCAGAACTCCAGCAGGCAGATG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=504481
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=107053700
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/504481
+  url: https://www.ncbi.nlm.nih.gov/gene/107053700
 species: Gallus gallus
 symbol: VENTX
 template_length: '700'

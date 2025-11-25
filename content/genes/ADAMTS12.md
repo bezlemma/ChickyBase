@@ -1,7 +1,6 @@
 ---
 cgnc_id: '2393'
 external_ids:
-  '31': stage 31stage 31stage 31stage 31
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Carré+Couty+gonad+reveals
   Comments: 'As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI (acc
@@ -13,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427428
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642975
 forward_primer: GTGTAACATTAGCCCCTGTCGG
-gene_id: '455834'
+gene_id: '427428'
 gene_type: protein-coding
 images:
 - caption: ADAMTS12 expression
@@ -233,41 +232,36 @@ images:
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADAMTS12.Carre.2011.Fig.5.png
 name: ADAM metallopeptidase with thrombospondin type 1 motif 12
-ncbi_id: '455834'
+ncbi_id: '427428'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000151388
+  entrez: '81792'
+  mod: MIM:606184
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000047497
+  entrez: '239337'
+  mod: MGI:2146046
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000009863
+  entrez: '100380018'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000067549
+  entrez: '100003937'
+  mod: ZFIN:ZDB-GENE-070705-471
+  phenotypes: extracellular matrix organization, proteolysis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGATTCTCCTGCCCACCATCTTGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455834
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427428
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455834
+  url: https://www.ncbi.nlm.nih.gov/gene/427428
 species: Gallus gallus
 symbol: ADAMTS12
 template_length: '905'
@@ -294,9 +288,8 @@ title: ADAMTS12
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000151388](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000151388) | [81792](https://www.ncbi.nlm.nih.gov/gene/81792) | [MIM:606184](https://omim.org/entry/606184) |  |
+| Mouse | [ENSMUSG00000047497](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000047497) | [239337](https://www.ncbi.nlm.nih.gov/gene/239337) | [MGI:2146046](http://www.informatics.jax.org/marker/MGI:2146046) |  |
+| Xenopus | [ENSXETG00000009863](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009863) | [100380018](https://www.ncbi.nlm.nih.gov/gene/100380018) |  |  |
+| Zebrafish | [ENSDARG00000067549](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000067549) | [100003937](https://www.ncbi.nlm.nih.gov/gene/100003937) | [ZFIN:ZDB-GENE-070705-471](https://zfin.org/ZDB-GENE-070705-471) | extracellular matrix organization, proteolysis |
 

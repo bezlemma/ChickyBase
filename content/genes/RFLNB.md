@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417623
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415867
 forward_primer: 5’-ACCCTGGATTACAACTGCCG-3’
-gene_id: '452453'
+gene_id: '417623'
 gene_type: protein-coding
 images:
 - caption: RFLNB expression
@@ -114,13 +114,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R668.FAM101B.S26A.002.jpg
 name: refilin B
-ncbi_id: '452453'
+ncbi_id: '417623'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000183688
   entrez: '359845'
   mod: MIM:615928
@@ -131,24 +126,26 @@ orthologs:
   mod: MGI:1923816
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 493421,447162
-  mod: '962745'
+- ensembl: ENSXETG00000022429
+  entrez: '493421'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000093931
   entrez: '100286814'
   mod: ZFIN:ZDB-GENE-090409-1
-  phenotypes: ZDB-GENE-090409-1
+  phenotypes: actin filament bundle organization, negative regulation of bone mineralization
+    involved in bone maturation, negative regulation of chondrocyte development, regulation
+    of chondrocyte development, skeletal system morphogenesis
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAACTGCCCTCATCTCTGCAC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452453
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417623
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452453
+  url: https://www.ncbi.nlm.nih.gov/gene/417623
 species: Gallus gallus
 symbol: RFLNB
 template_length: '452'
@@ -171,9 +168,8 @@ title: RFLNB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000183688](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000183688) | [359845](https://www.ncbi.nlm.nih.gov/gene/359845) | [MIM:615928](https://omim.org/entry/615928) |  |
 | Mouse | [ENSMUSG00000020846](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020846) | [76566](https://www.ncbi.nlm.nih.gov/gene/76566) | [MGI:1923816](http://www.informatics.jax.org/marker/MGI:1923816) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [493421](https://www.ncbi.nlm.nih.gov/gene/493421), [447162](https://www.ncbi.nlm.nih.gov/gene/447162) | [962745](http://www.xenbase.org/gene/showgene.do?method=display&geneId=962745) |  |
-| Zebrafish | [ENSDARG00000093931](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000093931) | [100286814](https://www.ncbi.nlm.nih.gov/gene/100286814) | [ZFIN:ZDB-GENE-090409-1](https://zfin.org/ZDB-GENE-090409-1) | ZDB-GENE-090409-1 |
+| Xenopus | [ENSXETG00000022429](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022429) | [493421](https://www.ncbi.nlm.nih.gov/gene/493421) |  |  |
+| Zebrafish | [ENSDARG00000093931](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000093931) | [100286814](https://www.ncbi.nlm.nih.gov/gene/100286814) | [ZFIN:ZDB-GENE-090409-1](https://zfin.org/ZDB-GENE-090409-1) | actin filament bundle organization, negative regulation of bone mineralization involved in bone maturation, negative regulation of chondrocyte development, regulation of chondrocyte development, skeletal system morphogenesis |
 

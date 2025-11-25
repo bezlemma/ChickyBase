@@ -8,7 +8,6 @@ aliases:
 - like-glycosyltransferase
 cgnc_id: '50664'
 external_ids:
-  '25': stage 25stage 25stage 25
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0000139
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000012559
@@ -17,7 +16,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0016757
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004383
 forward_primer: 5’-CCCTGGCAAATCAGCAGAGA-3’
-gene_id: '458090'
+gene_id: '418062'
 gene_type: protein-coding
 images:
 - caption: LARGE1 expression
@@ -80,13 +79,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R632.LARGE1.S25AA.001.jpg
 name: LARGE xylosyl- and glucuronyltransferase 1
-ncbi_id: '458090'
+ncbi_id: '418062'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000133424
   entrez: '9215'
   mod: MIM:603590
@@ -97,24 +91,25 @@ orthologs:
   mod: MGI:1342270
   phenotypes: All phenotypic alleles (4):Spontaneous(2) Chemically induced(1) Transgenic(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100498555,734944
-  mod: '6250445'
+- ensembl: ENSXETG00000047181
+  entrez: '100498555'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000005126
   entrez: '446213'
   mod: ZFIN:ZDB-GENE-061204-1
-  phenotypes: ZDB-GENE-061204-1
+  phenotypes: protein O-linked glycosylation via mannose, protein glycosylation, skeletal
+    muscle organ development, skeletal muscle tissue regeneration
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCTTTGTCACCTGCACAGTGC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458090
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418062
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458090
+  url: https://www.ncbi.nlm.nih.gov/gene/418062
 species: Gallus gallus
 symbol: LARGE1
 template_length: '943'
@@ -139,9 +134,8 @@ title: LARGE1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000133424](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000133424) | [9215](https://www.ncbi.nlm.nih.gov/gene/9215) | [MIM:603590](https://omim.org/entry/603590) | MIM:613154 |
 | Mouse | [ENSMUSG00000004383](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000004383) | [16795](https://www.ncbi.nlm.nih.gov/gene/16795) | [MGI:1342270](http://www.informatics.jax.org/marker/MGI:1342270) | All phenotypic alleles (4):Spontaneous(2) Chemically induced(1) Transgenic(1) |
-| Xenopus |  | [100498555](https://www.ncbi.nlm.nih.gov/gene/100498555), [734944](https://www.ncbi.nlm.nih.gov/gene/734944) | [6250445](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6250445) |  |
-| Zebrafish | [ENSDARG00000005126](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005126) | [446213](https://www.ncbi.nlm.nih.gov/gene/446213) | [ZFIN:ZDB-GENE-061204-1](https://zfin.org/ZDB-GENE-061204-1) | ZDB-GENE-061204-1 |
+| Xenopus | [ENSXETG00000047181](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000047181) | [100498555](https://www.ncbi.nlm.nih.gov/gene/100498555) |  |  |
+| Zebrafish | [ENSDARG00000005126](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005126) | [446213](https://www.ncbi.nlm.nih.gov/gene/446213) | [ZFIN:ZDB-GENE-061204-1](https://zfin.org/ZDB-GENE-061204-1) | protein O-linked glycosylation via mannose, protein glycosylation, skeletal muscle organ development, skeletal muscle tissue regeneration |
 

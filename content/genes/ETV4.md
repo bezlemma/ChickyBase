@@ -4,7 +4,6 @@ aliases:
 - ets domain protein
 cgnc_id: '807'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Betancur+2011+Sox10
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (XM_015299450).
@@ -16,7 +15,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418106
   X-XIV: stage XII
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGCCGCTCTCTTCGCTACTATTATG
-gene_id: '450366'
+gene_id: '395747'
 gene_type: protein-coding
 images:
 - caption: ETV4 expression
@@ -515,7 +514,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ETV4.Travers.2023-Fig7-1-O.jpg
 name: ETS variant 4
-ncbi_id: '450366'
+ncbi_id: '395747'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -540,16 +539,16 @@ orthologs:
 - ensembl: ENSDARG00000018303
   entrez: '30700'
   mod: ZFIN:ZDB-GENE-990415-71
-  phenotypes: ZDB-GENE-990415-71
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTGCCCTGTGCTGGTTTTAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450366
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395747
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450366
+  url: https://www.ncbi.nlm.nih.gov/gene/395747
 species: Gallus gallus
 symbol: ETV4
 template_length: '1054'
@@ -580,5 +579,5 @@ title: ETV4
 | Human | [ENSG00000175832](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000175832) | [2118](https://www.ncbi.nlm.nih.gov/gene/2118) | [MIM:600711](https://omim.org/entry/600711) |  |
 | Mouse | [ENSMUSG00000017724](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000017724) | [18612](https://www.ncbi.nlm.nih.gov/gene/18612) | [MGI:99423](http://www.informatics.jax.org/marker/MGI:99423) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
 | Xenopus |  | [100486339](https://www.ncbi.nlm.nih.gov/gene/100486339), [399135](https://www.ncbi.nlm.nih.gov/gene/399135) | [6051132](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6051132) |  |
-| Zebrafish | [ENSDARG00000018303](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018303) | [30700](https://www.ncbi.nlm.nih.gov/gene/30700) | [ZFIN:ZDB-GENE-990415-71](https://zfin.org/ZDB-GENE-990415-71) | ZDB-GENE-990415-71 |
+| Zebrafish | [ENSDARG00000018303](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018303) | [30700](https://www.ncbi.nlm.nih.gov/gene/30700) | [ZFIN:ZDB-GENE-990415-71](https://zfin.org/ZDB-GENE-990415-71) |  |
 

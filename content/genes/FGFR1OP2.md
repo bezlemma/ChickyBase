@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418214
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0042803
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001007855
-gene_id: '454585'
+gene_id: '418214'
 gene_type: protein-coding
 images:
 - caption: FGFR1OP2 expression
@@ -38,13 +38,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FGFR1.Chang.2004.Sup.Fig.1.png
 name: FGFR1 oncogene partner 2
-ncbi_id: '454585'
+ncbi_id: '418214'
 orthologs:
-- ensembl: ''
-  entrez: '33971'
-  mod: FBgn0031871
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000111790
   entrez: '26127'
   mod: MIM:608858
@@ -55,20 +50,20 @@ orthologs:
   mod: MGI:1914779
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 448596,379088
-  mod: '975390'
+- ensembl: ENSXETG00000016502
+  entrez: '448596'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000009657
   entrez: '335511'
   mod: ZFIN:ZDB-GENE-030131-7451
-  phenotypes: ZDB-GENE-030131-7451
+  phenotypes: response to wounding
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454585
+  url: https://www.ncbi.nlm.nih.gov/gene/418214
 species: Gallus gallus
 symbol: FGFR1OP2
 title: FGFR1OP2
@@ -99,9 +94,8 @@ title: FGFR1OP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33971](https://www.ncbi.nlm.nih.gov/gene/33971) | FBgn0031871 |  |
 | Human | [ENSG00000111790](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111790) | [26127](https://www.ncbi.nlm.nih.gov/gene/26127) | [MIM:608858](https://omim.org/entry/608858) |  |
 | Mouse | [ENSMUSG00000040242](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040242) | [67529](https://www.ncbi.nlm.nih.gov/gene/67529) | [MGI:1914779](http://www.informatics.jax.org/marker/MGI:1914779) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [448596](https://www.ncbi.nlm.nih.gov/gene/448596), [379088](https://www.ncbi.nlm.nih.gov/gene/379088) | [975390](http://www.xenbase.org/gene/showgene.do?method=display&geneId=975390) |  |
-| Zebrafish | [ENSDARG00000009657](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009657) | [335511](https://www.ncbi.nlm.nih.gov/gene/335511) | [ZFIN:ZDB-GENE-030131-7451](https://zfin.org/ZDB-GENE-030131-7451) | ZDB-GENE-030131-7451 |
+| Xenopus | [ENSXETG00000016502](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016502) | [448596](https://www.ncbi.nlm.nih.gov/gene/448596) |  |  |
+| Zebrafish | [ENSDARG00000009657](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009657) | [335511](https://www.ncbi.nlm.nih.gov/gene/335511) | [ZFIN:ZDB-GENE-030131-7451](https://zfin.org/ZDB-GENE-030131-7451) | response to wounding |
 

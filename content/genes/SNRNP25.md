@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:425933
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006101.3?report=genbank&from=11971381&to=11974552
-gene_id: '450484'
+gene_id: '425933'
 gene_type: protein-coding
 images:
 - caption: SNRNP25 expression
@@ -85,40 +85,35 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53zd10.127.22xs.jpg
 name: small nuclear ribonucleoprotein U11/U12 subunit 25
-ncbi_id: '450484'
+ncbi_id: '425933'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSG00000161981
+  entrez: '79622'
   mod: ''
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000040767
+  entrez: '78372'
+  mod: MGI:1925622
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000001143
+  entrez: '549456'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000020363
+  entrez: '550385'
+  mod: ZFIN:ZDB-GENE-050417-179
+  phenotypes: mRNA splicing, via spliceosome
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450484
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=425933
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450484
+  url: https://www.ncbi.nlm.nih.gov/gene/425933
 species: Gallus gallus
 symbol: SNRNP25
 title: SNRNP25
@@ -140,9 +135,8 @@ title: SNRNP25
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000161981](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000161981) | [79622](https://www.ncbi.nlm.nih.gov/gene/79622) |  |  |
+| Mouse | [ENSMUSG00000040767](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040767) | [78372](https://www.ncbi.nlm.nih.gov/gene/78372) | [MGI:1925622](http://www.informatics.jax.org/marker/MGI:1925622) |  |
+| Xenopus | [ENSXETG00000001143](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001143) | [549456](https://www.ncbi.nlm.nih.gov/gene/549456) |  |  |
+| Zebrafish | [ENSDARG00000020363](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020363) | [550385](https://www.ncbi.nlm.nih.gov/gene/550385) | [ZFIN:ZDB-GENE-050417-179](https://zfin.org/ZDB-GENE-050417-179) | mRNA splicing, via spliceosome |
 

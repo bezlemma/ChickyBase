@@ -9,7 +9,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415476
 forward_primer: AAGGTAGAGTCAAGTCCCAGTCCG
-gene_id: '461902'
+gene_id: '396314'
 gene_type: protein-coding
 images:
 - caption: PRRX2 expression
@@ -109,41 +109,31 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R329.PRRX2.S26.002.jpg
 name: paired related homeobox 2
-ncbi_id: '461902'
+ncbi_id: '396314'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000167157
+  entrez: '51450'
+  mod: MIM:604675
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000039476
+  entrez: '20204'
+  mod: MGI:98218
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000014169
+  entrez: '100488907'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTTTTCTGCTCATCTCGCAACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461902
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396314
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461902
+  url: https://www.ncbi.nlm.nih.gov/gene/396314
 species: Gallus gallus
 symbol: PRRX2
 template_length: '773'
@@ -168,9 +158,7 @@ title: PRRX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000167157](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000167157) | [51450](https://www.ncbi.nlm.nih.gov/gene/51450) | [MIM:604675](https://omim.org/entry/604675) |  |
+| Mouse | [ENSMUSG00000039476](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039476) | [20204](https://www.ncbi.nlm.nih.gov/gene/20204) | [MGI:98218](http://www.informatics.jax.org/marker/MGI:98218) |  |
+| Xenopus | [ENSXETG00000014169](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014169) | [100488907](https://www.ncbi.nlm.nih.gov/gene/100488907) |  |  |
 

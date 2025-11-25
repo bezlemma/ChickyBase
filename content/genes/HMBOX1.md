@@ -5,7 +5,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422024
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277716
-gene_id: '449438'
+gene_id: '422024'
 gene_type: protein-coding
 images:
 - caption: HMBOX1 expression
@@ -123,16 +123,11 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54za1.125.23xs.jpg
 name: homeobox containing 1
-ncbi_id: '449438'
+ncbi_id: '422024'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000147421
   entrez: '79618'
-  mod: ''
+  mod: MIM:618610
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000021972
@@ -140,23 +135,24 @@ orthologs:
   mod: MGI:2445066
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 446787,446988
-  mod: '992372'
+- ensembl: ENSXETG00000048448
+  entrez: '101734753'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000027082,ENSDARG00000018913
-  entrez: 571508,100317353
-  mod: ZFIN:ZDB-GENE-050913-89,ZFIN:ZDB-GENE-090908-4
-  phenotypes: ZDB-GENE-050913-89,ZDB-GENE-090908-4
+- ensembl: ENSDARG00000109287
+  entrez: '100317353'
+  mod: ZFIN:ZDB-GENE-090908-4
+  phenotypes: positive regulation of DNA-templated transcription, telomere maintenance
+    via telomerase
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449438
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422024
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449438
+  url: https://www.ncbi.nlm.nih.gov/gene/422024
 species: Gallus gallus
 symbol: HMBOX1
 title: HMBOX1
@@ -177,9 +173,8 @@ title: HMBOX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000147421](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000147421) | [79618](https://www.ncbi.nlm.nih.gov/gene/79618) |  |  |
+| Human | [ENSG00000147421](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000147421) | [79618](https://www.ncbi.nlm.nih.gov/gene/79618) | [MIM:618610](https://omim.org/entry/618610) |  |
 | Mouse | [ENSMUSG00000021972](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021972) | [219150](https://www.ncbi.nlm.nih.gov/gene/219150) | [MGI:2445066](http://www.informatics.jax.org/marker/MGI:2445066) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [446787](https://www.ncbi.nlm.nih.gov/gene/446787), [446988](https://www.ncbi.nlm.nih.gov/gene/446988) | [992372](http://www.xenbase.org/gene/showgene.do?method=display&geneId=992372) |  |
-| Zebrafish | [ENSDARG00000027082](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027082), [ENSDARG00000018913](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018913) | [571508](https://www.ncbi.nlm.nih.gov/gene/571508), [100317353](https://www.ncbi.nlm.nih.gov/gene/100317353) | [ZFIN:ZDB-GENE-050913-89](https://zfin.org/ZDB-GENE-050913-89), [ZFIN:ZDB-GENE-090908-4](https://zfin.org/ZDB-GENE-090908-4) | ZDB-GENE-050913-89,ZDB-GENE-090908-4 |
+| Xenopus | [ENSXETG00000048448](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000048448) | [101734753](https://www.ncbi.nlm.nih.gov/gene/101734753) |  |  |
+| Zebrafish | [ENSDARG00000109287](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000109287) | [100317353](https://www.ncbi.nlm.nih.gov/gene/100317353) | [ZFIN:ZDB-GENE-090908-4](https://zfin.org/ZDB-GENE-090908-4) | positive regulation of DNA-templated transcription, telomere maintenance via telomerase |
 

@@ -8,10 +8,6 @@ aliases:
 - fibroblast growth factor receptor 1-IIIc
 cgnc_id: '49847'
 external_ids:
-  '13': stage 13
-  '25': stage 25
-  '31': stage 31
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0003347
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016023
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Abzhanov+2007+Cordero+Fgf8
@@ -28,7 +24,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205510
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGATCCTGAAGCACTCGGGAA
-gene_id: '460369'
+gene_id: '396516'
 gene_type: protein-coding
 images:
 - caption: FGFR1 expression
@@ -1271,13 +1267,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FgfR1-Abzhanov.2007-fig3.jpg
 name: fibroblast growth factor receptor 1
-ncbi_id: '460369'
+ncbi_id: '396516'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000077782
   entrez: '2260'
   mod: MIM:136350
@@ -1289,24 +1280,25 @@ orthologs:
   phenotypes: All phenotypic alleles (35):Chemically induced(1) Targeted, knock-out(13)
     Targeted, other(21)
   species: Mouse
-- ensembl: ''
-  entrez: 548648,399444,394418
-  mod: '1018553'
+- ensembl: ENSXETG00000016775
+  entrez: '548648'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000011027,ENSDARG00000011190
-  entrez: 30705,567905
-  mod: ZFIN:ZDB-GENE-980526-255,ZFIN:ZDB-GENE-060503-14
-  phenotypes: ZDB-GENE-980526-255,ZDB-GENE-060503-14
+- ensembl: ENSDARG00000011027
+  entrez: '30705'
+  mod: ZFIN:ZDB-GENE-980526-255
+  phenotypes: anatomical structure homeostasis, brain development, cardiac muscle
+    tissue development, cartilage development, cell migration in hindbrain
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGCTCAGTAGCTTTTGCCAGA
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460369
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396516
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460369
+  url: https://www.ncbi.nlm.nih.gov/gene/396516
 species: Gallus gallus
 symbol: FGFR1
 template_length: '147'
@@ -1337,9 +1329,8 @@ title: FGFR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000077782](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000077782) | [2260](https://www.ncbi.nlm.nih.gov/gene/2260) | [MIM:136350](https://omim.org/entry/136350) | MIM:207410 |
 | Mouse | [ENSMUSG00000031565](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031565) | [14182](https://www.ncbi.nlm.nih.gov/gene/14182) | [MGI:95522](http://www.informatics.jax.org/marker/MGI:95522) | All phenotypic alleles (35):Chemically induced(1) Targeted, knock-out(13) Targeted, other(21) |
-| Xenopus |  | [548648](https://www.ncbi.nlm.nih.gov/gene/548648), [399444](https://www.ncbi.nlm.nih.gov/gene/399444), [394418](https://www.ncbi.nlm.nih.gov/gene/394418) | [1018553](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1018553) |  |
-| Zebrafish | [ENSDARG00000011027](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011027), [ENSDARG00000011190](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011190) | [30705](https://www.ncbi.nlm.nih.gov/gene/30705), [567905](https://www.ncbi.nlm.nih.gov/gene/567905) | [ZFIN:ZDB-GENE-980526-255](https://zfin.org/ZDB-GENE-980526-255), [ZFIN:ZDB-GENE-060503-14](https://zfin.org/ZDB-GENE-060503-14) | ZDB-GENE-980526-255,ZDB-GENE-060503-14 |
+| Xenopus | [ENSXETG00000016775](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016775) | [548648](https://www.ncbi.nlm.nih.gov/gene/548648) |  |  |
+| Zebrafish | [ENSDARG00000011027](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011027) | [30705](https://www.ncbi.nlm.nih.gov/gene/30705) | [ZFIN:ZDB-GENE-980526-255](https://zfin.org/ZDB-GENE-980526-255) | anatomical structure homeostasis, brain development, cardiac muscle tissue development, cartilage development, cell migration in hindbrain |
 

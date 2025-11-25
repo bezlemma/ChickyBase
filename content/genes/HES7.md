@@ -130,7 +130,7 @@ orthologs:
 - ensembl: ENSDARG00000054560,ENSDARG00000032963
   entrez: 359836,402914,678530
   mod: ZFIN:ZDB-GENE-030707-2,ZFIN:ZDB-GENE-040824-5,ZFIN:ZDB-GENE-070627-1
-  phenotypes: ZDB-GENE-030707-2,ZDB-GENE-040824-5,ZDB-GENE-070627-1
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
@@ -162,5 +162,5 @@ title: HES7
 | Human |  |  |  |  |
 | Mouse |  |  |  |  |
 | Xenopus |  | [733755](https://www.ncbi.nlm.nih.gov/gene/733755), [398151](https://www.ncbi.nlm.nih.gov/gene/398151), [733286](https://www.ncbi.nlm.nih.gov/gene/733286) | [876634](http://www.xenbase.org/gene/showgene.do?method=display&geneId=876634) |  |
-| Zebrafish | [ENSDARG00000054560](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054560), [ENSDARG00000032963](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032963) | [359836](https://www.ncbi.nlm.nih.gov/gene/359836), [402914](https://www.ncbi.nlm.nih.gov/gene/402914), [678530](https://www.ncbi.nlm.nih.gov/gene/678530) | [ZFIN:ZDB-GENE-030707-2](https://zfin.org/ZDB-GENE-030707-2), [ZFIN:ZDB-GENE-040824-5](https://zfin.org/ZDB-GENE-040824-5), [ZFIN:ZDB-GENE-070627-1](https://zfin.org/ZDB-GENE-070627-1) | ZDB-GENE-030707-2,ZDB-GENE-040824-5,ZDB-GENE-070627-1 |
+| Zebrafish | [ENSDARG00000054560](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054560), [ENSDARG00000032963](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032963) | [359836](https://www.ncbi.nlm.nih.gov/gene/359836), [402914](https://www.ncbi.nlm.nih.gov/gene/402914), [678530](https://www.ncbi.nlm.nih.gov/gene/678530) | [ZFIN:ZDB-GENE-030707-2](https://zfin.org/ZDB-GENE-030707-2), [ZFIN:ZDB-GENE-040824-5](https://zfin.org/ZDB-GENE-040824-5), [ZFIN:ZDB-GENE-070627-1](https://zfin.org/ZDB-GENE-070627-1) |  |
 

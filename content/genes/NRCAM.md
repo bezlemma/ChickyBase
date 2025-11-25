@@ -19,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0030506
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205266
 forward_primer: 5'-ATGAATGGACGTCCGTTG-3'
-gene_id: '462473'
+gene_id: '396202'
 gene_type: protein-coding
 images:
 - caption: NRCAM expression
@@ -97,13 +97,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R736.NRCAM.S27.001.jpg
 name: neuronal cell adhesion molecule
-ncbi_id: '462473'
+ncbi_id: '396202'
 orthologs:
-- ensembl: ''
-  entrez: '31792'
-  mod: FBgn0264975
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000091129
   entrez: '4897'
   mod: MIM:601581
@@ -115,24 +110,25 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Chemically induced(1) Targeted, knock-out(2)
     Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100216214,443913
-  mod: '489768'
+- ensembl: ENSXETG00000015769
+  entrez: '100216214'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000006396
-  entrez: 556537,393466
-  mod: ZFIN:ZDB-GENE-041210-235,ZFIN:ZDB-GENE-040426-1542
-  phenotypes: ZDB-GENE-041210-235,ZDB-GENE-040426-1542
+  entrez: '556537'
+  mod: ZFIN:ZDB-GENE-041210-235
+  phenotypes: axon development, axon guidance, brain development, cell adhesion, cell-cell
+    adhesion
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTTCTTTGCTGCCTGCTAC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462473
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396202
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462473
+  url: https://www.ncbi.nlm.nih.gov/gene/396202
 species: Gallus gallus
 symbol: NRCAM
 template_length: '908'
@@ -160,9 +156,8 @@ title: NRCAM
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31792](https://www.ncbi.nlm.nih.gov/gene/31792) | FBgn0264975 |  |
 | Human | [ENSG00000091129](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000091129) | [4897](https://www.ncbi.nlm.nih.gov/gene/4897) | [MIM:601581](https://omim.org/entry/601581) |  |
 | Mouse | [ENSMUSG00000020598](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020598) | [319504](https://www.ncbi.nlm.nih.gov/gene/319504) | [MGI:104750](http://www.informatics.jax.org/marker/MGI:104750) | All phenotypic alleles (7):Chemically induced(1) Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [100216214](https://www.ncbi.nlm.nih.gov/gene/100216214), [443913](https://www.ncbi.nlm.nih.gov/gene/443913) | [489768](http://www.xenbase.org/gene/showgene.do?method=display&geneId=489768) |  |
-| Zebrafish | [ENSDARG00000006396](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006396) | [556537](https://www.ncbi.nlm.nih.gov/gene/556537), [393466](https://www.ncbi.nlm.nih.gov/gene/393466) | [ZFIN:ZDB-GENE-041210-235](https://zfin.org/ZDB-GENE-041210-235), [ZFIN:ZDB-GENE-040426-1542](https://zfin.org/ZDB-GENE-040426-1542) | ZDB-GENE-041210-235,ZDB-GENE-040426-1542 |
+| Xenopus | [ENSXETG00000015769](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015769) | [100216214](https://www.ncbi.nlm.nih.gov/gene/100216214) |  |  |
+| Zebrafish | [ENSDARG00000006396](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006396) | [556537](https://www.ncbi.nlm.nih.gov/gene/556537) | [ZFIN:ZDB-GENE-041210-235](https://zfin.org/ZDB-GENE-041210-235) | axon development, axon guidance, brain development, cell adhesion, cell-cell adhesion |
 

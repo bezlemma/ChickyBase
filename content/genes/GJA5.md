@@ -5,7 +5,6 @@ aliases:
 - cx42
 cgnc_id: '49840'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007154
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005922
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Chau+Fogarty+cardiac+plays
@@ -21,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396502
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205504
 forward_primer: 5’-CACCCTGTCAACTGCTACGT-3’
-gene_id: '460201'
+gene_id: '396502'
 gene_type: protein-coding
 images:
 - caption: GJA5 expression
@@ -444,13 +443,8 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GJA5_HH14 x20.jpg
 name: gap junction protein alpha 5
-ncbi_id: '460201'
+ncbi_id: '396502'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000265107
   entrez: '2702'
   mod: MIM:121013
@@ -461,24 +455,19 @@ orthologs:
   mod: MGI:95716
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(4) Targeted, other(4)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000045198
   entrez: '100489536'
-  mod: '490480'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000040065,ENSDARG00000069450
-  entrez: 404729,570445
-  mod: ZFIN:ZDB-GENE-040407-3,ZFIN:ZDB-GENE-050616-11
-  phenotypes: ZDB-GENE-040407-3,ZDB-GENE-050616-11
-  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGGAACAGGAGGACGCTGAAA-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460201
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396502
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460201
+  url: https://www.ncbi.nlm.nih.gov/gene/396502
 species: Gallus gallus
 symbol: GJA5
 template_length: '632'
@@ -507,9 +496,7 @@ title: GJA5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000265107](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000265107) | [2702](https://www.ncbi.nlm.nih.gov/gene/2702) | [MIM:121013](https://omim.org/entry/121013) | MIM:608583 |
 | Mouse | [ENSMUSG00000057123](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000057123) | [14613](https://www.ncbi.nlm.nih.gov/gene/14613) | [MGI:95716](http://www.informatics.jax.org/marker/MGI:95716) | All phenotypic alleles (8):Targeted, knock-out(4) Targeted, other(4) |
-| Xenopus |  | [100489536](https://www.ncbi.nlm.nih.gov/gene/100489536) | [490480](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490480) |  |
-| Zebrafish | [ENSDARG00000040065](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040065), [ENSDARG00000069450](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069450) | [404729](https://www.ncbi.nlm.nih.gov/gene/404729), [570445](https://www.ncbi.nlm.nih.gov/gene/570445) | [ZFIN:ZDB-GENE-040407-3](https://zfin.org/ZDB-GENE-040407-3), [ZFIN:ZDB-GENE-050616-11](https://zfin.org/ZDB-GENE-050616-11) | ZDB-GENE-040407-3,ZDB-GENE-050616-11 |
+| Xenopus | [ENSXETG00000045198](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000045198) | [100489536](https://www.ncbi.nlm.nih.gov/gene/100489536) |  |  |
 

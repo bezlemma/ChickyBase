@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396368
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0031683
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205403
-gene_id: '461704'
+gene_id: '396368'
 gene_type: protein-coding
 images:
 - caption: GNAI1 expression
@@ -37,13 +37,8 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/7D.jpg
 name: G protein subunit alpha i1
-ncbi_id: '461704'
+ncbi_id: '396368'
 orthologs:
-- ensembl: ''
-  entrez: '38765'
-  mod: FBgn0001104
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000127955
   entrez: '2770'
   mod: MIM:139310
@@ -54,20 +49,21 @@ orthologs:
   mod: MGI:95771
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100038283,380034,399463
-  mod: '942093'
+- ensembl: ENSXETG00000025696
+  entrez: '100038283'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000021647
   entrez: '393946'
   mod: ZFIN:ZDB-GENE-040426-1310
-  phenotypes: ZDB-GENE-040426-1310
+  phenotypes: G protein-coupled receptor signaling pathway, adenylate cyclase-modulating
+    G protein-coupled receptor signaling pathway, cell division, signal transduction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461704
+  url: https://www.ncbi.nlm.nih.gov/gene/396368
 species: Gallus gallus
 symbol: GNAI1
 title: GNAI1
@@ -98,9 +94,8 @@ Copyright © 2003 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38765](https://www.ncbi.nlm.nih.gov/gene/38765) | FBgn0001104 |  |
 | Human | [ENSG00000127955](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000127955) | [2770](https://www.ncbi.nlm.nih.gov/gene/2770) | [MIM:139310](https://omim.org/entry/139310) |  |
 | Mouse | [ENSMUSG00000057614](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000057614) | [14677](https://www.ncbi.nlm.nih.gov/gene/14677) | [MGI:95771](http://www.informatics.jax.org/marker/MGI:95771) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100038283](https://www.ncbi.nlm.nih.gov/gene/100038283), [380034](https://www.ncbi.nlm.nih.gov/gene/380034), [399463](https://www.ncbi.nlm.nih.gov/gene/399463) | [942093](http://www.xenbase.org/gene/showgene.do?method=display&geneId=942093) |  |
-| Zebrafish | [ENSDARG00000021647](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021647) | [393946](https://www.ncbi.nlm.nih.gov/gene/393946) | [ZFIN:ZDB-GENE-040426-1310](https://zfin.org/ZDB-GENE-040426-1310) | ZDB-GENE-040426-1310 |
+| Xenopus | [ENSXETG00000025696](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025696) | [100038283](https://www.ncbi.nlm.nih.gov/gene/100038283) |  |  |
+| Zebrafish | [ENSDARG00000021647](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021647) | [393946](https://www.ncbi.nlm.nih.gov/gene/393946) | [ZFIN:ZDB-GENE-040426-1310](https://zfin.org/ZDB-GENE-040426-1310) | G protein-coupled receptor signaling pathway, adenylate cyclase-modulating G protein-coupled receptor signaling pathway, cell division, signal transduction |
 

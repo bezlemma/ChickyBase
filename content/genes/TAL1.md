@@ -6,7 +6,6 @@ aliases:
 - stem cell protein
 cgnc_id: '16227'
 external_ids:
-  '25': stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030221
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0033193
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
@@ -20,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0070888
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205352
-gene_id: '462614'
+gene_id: '396298'
 gene_type: protein-coding
 images:
 - caption: TAL1 expression
@@ -293,13 +292,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TAL1.Anderson.2019.Supplementary
     figure 5F.jpg
 name: TAL bHLH transcription factor 1, erythroid differentiation factor
-ncbi_id: '462614'
+ncbi_id: '396298'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000162367
   entrez: '6886'
   mod: MIM:187040
@@ -310,23 +304,24 @@ orthologs:
   mod: MGI:98480
   phenotypes: All phenotypic alleles (9):Targeted, knock-out(2) Targeted, other(7)
   species: Mouse
-- ensembl: ''
-  entrez: 100196924,398028
-  mod: '479826'
+- ensembl: ENSXETG00000041260
+  entrez: '100196924'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000019930
   entrez: '30766'
   mod: ZFIN:ZDB-GENE-980526-501
-  phenotypes: ZDB-GENE-980526-501
+  phenotypes: angiogenesis, artery morphogenesis, blood vessel development, cell differentiation,
+    definitive hemopoiesis
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462614
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396298
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462614
+  url: https://www.ncbi.nlm.nih.gov/gene/396298
 species: Gallus gallus
 symbol: TAL1
 title: TAL1
@@ -356,9 +351,8 @@ title: TAL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000162367](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162367) | [6886](https://www.ncbi.nlm.nih.gov/gene/6886) | [MIM:187040](https://omim.org/entry/187040) | MIM:187040 |
 | Mouse | [ENSMUSG00000028717](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028717) | [21349](https://www.ncbi.nlm.nih.gov/gene/21349) | [MGI:98480](http://www.informatics.jax.org/marker/MGI:98480) | All phenotypic alleles (9):Targeted, knock-out(2) Targeted, other(7) |
-| Xenopus |  | [100196924](https://www.ncbi.nlm.nih.gov/gene/100196924), [398028](https://www.ncbi.nlm.nih.gov/gene/398028) | [479826](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479826) |  |
-| Zebrafish | [ENSDARG00000019930](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019930) | [30766](https://www.ncbi.nlm.nih.gov/gene/30766) | [ZFIN:ZDB-GENE-980526-501](https://zfin.org/ZDB-GENE-980526-501) | ZDB-GENE-980526-501 |
+| Xenopus | [ENSXETG00000041260](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041260) | [100196924](https://www.ncbi.nlm.nih.gov/gene/100196924) |  |  |
+| Zebrafish | [ENSDARG00000019930](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019930) | [30766](https://www.ncbi.nlm.nih.gov/gene/30766) | [ZFIN:ZDB-GENE-980526-501](https://zfin.org/ZDB-GENE-980526-501) | angiogenesis, artery morphogenesis, blood vessel development, cell differentiation, definitive hemopoiesis |
 

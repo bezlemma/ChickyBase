@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422428
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420396
-gene_id: '451497'
+gene_id: '422428'
 gene_type: protein-coding
 images:
 - caption: PALLD expression
@@ -34,13 +34,8 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PALLD.Gammill.2002.2B.png
 name: palladin, cytoskeletal associated protein
-ncbi_id: '451497'
+ncbi_id: '422428'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000129116
   entrez: '23022'
   mod: MIM:608092
@@ -51,20 +46,20 @@ orthologs:
   mod: MGI:1919583
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000033874
   entrez: '100144658'
-  mod: '854909'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000040009
   entrez: '557660'
   mod: ZFIN:ZDB-GENE-041014-252
-  phenotypes: ZDB-GENE-041014-252
+  phenotypes: cell-cell adhesion
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451497
+  url: https://www.ncbi.nlm.nih.gov/gene/422428
 species: Gallus gallus
 symbol: PALLD
 title: PALLD
@@ -90,9 +85,8 @@ title: PALLD
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000129116](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000129116) | [23022](https://www.ncbi.nlm.nih.gov/gene/23022) | [MIM:608092](https://omim.org/entry/608092) | MIM:260350 |
 | Mouse | [ENSMUSG00000058056](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000058056) | [72333](https://www.ncbi.nlm.nih.gov/gene/72333) | [MGI:1919583](http://www.informatics.jax.org/marker/MGI:1919583) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100144658](https://www.ncbi.nlm.nih.gov/gene/100144658) | [854909](http://www.xenbase.org/gene/showgene.do?method=display&geneId=854909) |  |
-| Zebrafish |  | [557660](https://www.ncbi.nlm.nih.gov/gene/557660) | [ZFIN:ZDB-GENE-041014-252](https://zfin.org/ZDB-GENE-041014-252) | ZDB-GENE-041014-252 |
+| Xenopus | [ENSXETG00000033874](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033874) | [100144658](https://www.ncbi.nlm.nih.gov/gene/100144658) |  |  |
+| Zebrafish | [ENSDARG00000040009](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040009) | [557660](https://www.ncbi.nlm.nih.gov/gene/557660) | [ZFIN:ZDB-GENE-041014-252](https://zfin.org/ZDB-GENE-041014-252) | cell-cell adhesion |
 

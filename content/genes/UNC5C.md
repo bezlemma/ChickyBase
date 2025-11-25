@@ -8,7 +8,6 @@ aliases:
 - unc-5 homolog 3
 cgnc_id: '9280'
 external_ids:
-  '25': stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0034013
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
@@ -22,7 +21,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395101
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204451
-gene_id: '462130'
+gene_id: '395101'
 gene_type: protein-coding
 images:
 - caption: UNC5C expression
@@ -47,13 +46,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Guan.2008.f5.cunc5h3.png
 name: unc-5 netrin receptor C
-ncbi_id: '462130'
+ncbi_id: '395101'
 orthologs:
-- ensembl: ''
-  entrez: '36703'
-  mod: FBgn0034013
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000182168
   entrez: '8633'
   mod: MIM:603610
@@ -64,20 +58,20 @@ orthologs:
   mod: MGI:1095412
   phenotypes: All phenotypic alleles (7):Spontaneous(1) Targeted, other(4) Transgenic(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000019221
   entrez: '100485730'
-  mod: '921627'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
   entrez: '557316'
   mod: ZFIN:ZDB-GENE-030131-9196
-  phenotypes: ZDB-GENE-030131-9196
+  phenotypes: axon guidance, netrin-activated signaling pathway, signal transduction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462130
+  url: https://www.ncbi.nlm.nih.gov/gene/395101
 species: Gallus gallus
 symbol: UNC5C
 title: UNC5C
@@ -107,9 +101,8 @@ title: UNC5C
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36703](https://www.ncbi.nlm.nih.gov/gene/36703) | FBgn0034013 |  |
 | Human | [ENSG00000182168](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000182168) | [8633](https://www.ncbi.nlm.nih.gov/gene/8633) | [MIM:603610](https://omim.org/entry/603610) |  |
 | Mouse | [ENSMUSG00000059921](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000059921) | [22253](https://www.ncbi.nlm.nih.gov/gene/22253) | [MGI:1095412](http://www.informatics.jax.org/marker/MGI:1095412) | All phenotypic alleles (7):Spontaneous(1) Targeted, other(4) Transgenic(2) |
-| Xenopus |  | [100485730](https://www.ncbi.nlm.nih.gov/gene/100485730) | [921627](http://www.xenbase.org/gene/showgene.do?method=display&geneId=921627) |  |
-| Zebrafish |  | [557316](https://www.ncbi.nlm.nih.gov/gene/557316) | [ZFIN:ZDB-GENE-030131-9196](https://zfin.org/ZDB-GENE-030131-9196) | ZDB-GENE-030131-9196 |
+| Xenopus | [ENSXETG00000019221](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019221) | [100485730](https://www.ncbi.nlm.nih.gov/gene/100485730) |  |  |
+| Zebrafish |  | [557316](https://www.ncbi.nlm.nih.gov/gene/557316) | [ZFIN:ZDB-GENE-030131-9196](https://zfin.org/ZDB-GENE-030131-9196) | axon guidance, netrin-activated signaling pathway, signal transduction |
 

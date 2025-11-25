@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418923
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417117
-gene_id: '451912'
+gene_id: '418923'
 gene_type: protein-coding
 images:
 - caption: MTUS2 expression
@@ -95,16 +95,11 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CAZIP.DuPuy.2009
     for Figure 5, panel I2.JPG
 name: microtubule associated scaffold protein 2
-ncbi_id: '451912'
+ncbi_id: '418923'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000132938
   entrez: '23281'
-  mod: ''
+  mod: MIM:619358
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000029651
@@ -112,20 +107,10 @@ orthologs:
   mod: MGI:1915388
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: '100490135'
-  mod: '6048928'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ZFIN:ZDB-GENE-091204-75
-  phenotypes: ZDB-GENE-091204-75
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451912
+  url: https://www.ncbi.nlm.nih.gov/gene/418923
 species: Gallus gallus
 symbol: MTUS2
 title: MTUS2
@@ -151,9 +136,6 @@ title: MTUS2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000132938](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000132938) | [23281](https://www.ncbi.nlm.nih.gov/gene/23281) |  |  |
+| Human | [ENSG00000132938](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000132938) | [23281](https://www.ncbi.nlm.nih.gov/gene/23281) | [MIM:619358](https://omim.org/entry/619358) |  |
 | Mouse | [ENSMUSG00000029651](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029651) | [77521](https://www.ncbi.nlm.nih.gov/gene/77521) | [MGI:1915388](http://www.informatics.jax.org/marker/MGI:1915388) |  |
-| Xenopus |  | [100490135](https://www.ncbi.nlm.nih.gov/gene/100490135) | [6048928](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6048928) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-091204-75](https://zfin.org/ZDB-GENE-091204-75) | ZDB-GENE-091204-75 |
 

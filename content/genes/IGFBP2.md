@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396315
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0031994
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205359
-gene_id: '461900'
+gene_id: '396315'
 gene_type: protein-coding
 images:
 - caption: IGFBP2 expression
@@ -80,13 +80,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-figS1-L.jpg
 name: insulin like growth factor binding protein 2
-ncbi_id: '461900'
+ncbi_id: '396315'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000115457
   entrez: '3485'
   mod: MIM:146731
@@ -97,20 +92,22 @@ orthologs:
   mod: MGI:96437
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(3) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100101720,495038
-  mod: '487298'
+- ensembl: ENSXETG00000033133
+  entrez: '100101720'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000052470,ENSDARG00000031422
-  entrez: 794176,798920
-  mod: ZFIN:ZDB-GENE-000125-12,ZFIN:ZDB-GENE-090107-3
-  phenotypes: ZDB-GENE-000125-12,ZDB-GENE-090107-3
+- ensembl: ENSDARG00000031422
+  entrez: '798920'
+  mod: ZFIN:ZDB-GENE-090107-3
+  phenotypes: angiogenesis, negative regulation of DNA replication, negative regulation
+    of cell population proliferation, negative regulation of developmental growth,
+    regulation of insulin-like growth factor receptor signaling pathway
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461900
+  url: https://www.ncbi.nlm.nih.gov/gene/396315
 species: Gallus gallus
 symbol: IGFBP2
 title: IGFBP2
@@ -139,9 +136,8 @@ title: IGFBP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000115457](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000115457) | [3485](https://www.ncbi.nlm.nih.gov/gene/3485) | [MIM:146731](https://omim.org/entry/146731) |  |
 | Mouse | [ENSMUSG00000039323](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039323) | [16008](https://www.ncbi.nlm.nih.gov/gene/16008) | [MGI:96437](http://www.informatics.jax.org/marker/MGI:96437) | All phenotypic alleles (4):Targeted, knock-out(3) Gene trapped(1) |
-| Xenopus |  | [100101720](https://www.ncbi.nlm.nih.gov/gene/100101720), [495038](https://www.ncbi.nlm.nih.gov/gene/495038) | [487298](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487298) |  |
-| Zebrafish | [ENSDARG00000052470](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052470), [ENSDARG00000031422](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031422) | [794176](https://www.ncbi.nlm.nih.gov/gene/794176), [798920](https://www.ncbi.nlm.nih.gov/gene/798920) | [ZFIN:ZDB-GENE-000125-12](https://zfin.org/ZDB-GENE-000125-12), [ZFIN:ZDB-GENE-090107-3](https://zfin.org/ZDB-GENE-090107-3) | ZDB-GENE-000125-12,ZDB-GENE-090107-3 |
+| Xenopus | [ENSXETG00000033133](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033133) | [100101720](https://www.ncbi.nlm.nih.gov/gene/100101720) |  |  |
+| Zebrafish | [ENSDARG00000031422](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031422) | [798920](https://www.ncbi.nlm.nih.gov/gene/798920) | [ZFIN:ZDB-GENE-090107-3](https://zfin.org/ZDB-GENE-090107-3) | angiogenesis, negative regulation of DNA replication, negative regulation of cell population proliferation, negative regulation of developmental growth, regulation of insulin-like growth factor receptor signaling pathway |
 

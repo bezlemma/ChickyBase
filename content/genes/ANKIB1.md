@@ -6,7 +6,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420550
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418652
-gene_id: '456995'
+gene_id: '420550'
 gene_type: protein-coding
 images:
 - caption: ANKIB1 expression
@@ -59,16 +59,11 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54wd10.125.trunk.jpg
 name: ankyrin repeat and IBR domain containing 1
-ncbi_id: '456995'
+ncbi_id: '420550'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000001629
   entrez: '54467'
-  mod: ''
+  mod: MIM:620069
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000040351
@@ -76,23 +71,23 @@ orthologs:
   mod: MGI:1918047
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000033950
   entrez: '100145487'
-  mod: '1002082'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000076829
-  entrez: 561277,566524
-  mod: ZFIN:ZDB-GENE-060503-156,ZFIN:ZDB-GENE-100920-6
-  phenotypes: ZDB-GENE-060503-156,ZDB-GENE-100920-6
+  entrez: '561277'
+  mod: ZFIN:ZDB-GENE-100920-6
+  phenotypes: protein ubiquitination, ubiquitin-dependent protein catabolic process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456995
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420550
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456995
+  url: https://www.ncbi.nlm.nih.gov/gene/420550
 species: Gallus gallus
 symbol: ANKIB1
 title: ANKIB1
@@ -115,9 +110,8 @@ title: ANKIB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000001629](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000001629) | [54467](https://www.ncbi.nlm.nih.gov/gene/54467) |  |  |
+| Human | [ENSG00000001629](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000001629) | [54467](https://www.ncbi.nlm.nih.gov/gene/54467) | [MIM:620069](https://omim.org/entry/620069) |  |
 | Mouse | [ENSMUSG00000040351](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040351) | [70797](https://www.ncbi.nlm.nih.gov/gene/70797) | [MGI:1918047](http://www.informatics.jax.org/marker/MGI:1918047) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100145487](https://www.ncbi.nlm.nih.gov/gene/100145487) | [1002082](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1002082) |  |
-| Zebrafish | [ENSDARG00000076829](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076829) | [561277](https://www.ncbi.nlm.nih.gov/gene/561277), [566524](https://www.ncbi.nlm.nih.gov/gene/566524) | [ZFIN:ZDB-GENE-060503-156](https://zfin.org/ZDB-GENE-060503-156), [ZFIN:ZDB-GENE-100920-6](https://zfin.org/ZDB-GENE-100920-6) | ZDB-GENE-060503-156,ZDB-GENE-100920-6 |
+| Xenopus | [ENSXETG00000033950](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033950) | [100145487](https://www.ncbi.nlm.nih.gov/gene/100145487) |  |  |
+| Zebrafish | [ENSDARG00000076829](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076829) | [561277](https://www.ncbi.nlm.nih.gov/gene/561277) | [ZFIN:ZDB-GENE-100920-6](https://zfin.org/ZDB-GENE-100920-6) | protein ubiquitination, ubiquitin-dependent protein catabolic process |
 

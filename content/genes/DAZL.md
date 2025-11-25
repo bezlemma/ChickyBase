@@ -20,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374054
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003723
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204218
-gene_id: '454466'
+gene_id: '374054'
 gene_type: protein-coding
 images:
 - caption: DAZL expression
@@ -172,37 +172,33 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DAZL.Elis.2008.Fig.10.png
 name: deleted in azoospermia like
-ncbi_id: '454466'
+ncbi_id: '374054'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000092345
-  entrez: '1618'
-  mod: MIM:601486
+- ensembl: ENSG00000205944
+  entrez: '57055'
+  mod: MIM:400026
   phenotypes: MIM:601486
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000010592
+  entrez: '13164'
+  mod: MGI:1342328
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 394676,398041
-  mod: '1006217'
+- ensembl: ENSXETG00000025199
+  entrez: '394676'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000036214
   entrez: '58039'
   mod: ZFIN:ZDB-GENE-000405-6
-  phenotypes: ZDB-GENE-000405-6
+  phenotypes: 3'-UTR-mediated mRNA stabilization, cell differentiation, germ-line
+    cyst formation, negative regulation of miRNA-mediated gene silencing, oogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454466
+  url: https://www.ncbi.nlm.nih.gov/gene/374054
 species: Gallus gallus
 symbol: DAZL
 title: DAZL
@@ -233,9 +229,8 @@ title: DAZL
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000092345](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000092345) | [1618](https://www.ncbi.nlm.nih.gov/gene/1618) | [MIM:601486](https://omim.org/entry/601486) | MIM:601486 |
-| Mouse |  |  |  |  |
-| Xenopus |  | [394676](https://www.ncbi.nlm.nih.gov/gene/394676), [398041](https://www.ncbi.nlm.nih.gov/gene/398041) | [1006217](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1006217) |  |
-| Zebrafish | [ENSDARG00000036214](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036214) | [58039](https://www.ncbi.nlm.nih.gov/gene/58039) | [ZFIN:ZDB-GENE-000405-6](https://zfin.org/ZDB-GENE-000405-6) | ZDB-GENE-000405-6 |
+| Human | [ENSG00000205944](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000205944) | [57055](https://www.ncbi.nlm.nih.gov/gene/57055) | [MIM:400026](https://omim.org/entry/400026) | MIM:601486 |
+| Mouse | [ENSMUSG00000010592](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000010592) | [13164](https://www.ncbi.nlm.nih.gov/gene/13164) | [MGI:1342328](http://www.informatics.jax.org/marker/MGI:1342328) |  |
+| Xenopus | [ENSXETG00000025199](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025199) | [394676](https://www.ncbi.nlm.nih.gov/gene/394676) |  |  |
+| Zebrafish | [ENSDARG00000036214](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036214) | [58039](https://www.ncbi.nlm.nih.gov/gene/58039) | [ZFIN:ZDB-GENE-000405-6](https://zfin.org/ZDB-GENE-000405-6) | 3'-UTR-mediated mRNA stabilization, cell differentiation, germ-line cyst formation, negative regulation of miRNA-mediated gene silencing, oogenesis |
 

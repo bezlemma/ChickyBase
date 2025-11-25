@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396393
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0050544
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205422
-gene_id: '461642'
+gene_id: '396393'
 gene_type: protein-coding
 images:
 - caption: EXFABP expression
@@ -72,7 +72,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EXFABP.Anderson.2019.Supplementary
     figure 5D.jpg
 name: extracellular fatty acid-binding protein
-ncbi_id: '461642'
+ncbi_id: '396393'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -102,7 +102,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461642
+  url: https://www.ncbi.nlm.nih.gov/gene/396393
 species: Gallus gallus
 symbol: EXFABP
 title: EXFABP

@@ -4,7 +4,6 @@ aliases:
 - a-actin
 cgnc_id: '8420'
 external_ids:
-  '25': stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0048741
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005884
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Ruzicka+Schwartz+smooth+mark
@@ -19,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031063
 forward_primer: GAACACGGCATCATCACAAACTG
-gene_id: '458251'
+gene_id: '421534'
 gene_type: protein-coding
 images:
 - caption: ACTA1 expression
@@ -201,13 +200,8 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ACTAskel.Ruzicka.1988.Fig.7.png
 name: actin, alpha 1, skeletal muscle
-ncbi_id: '458251'
+ncbi_id: '421534'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000143632
   entrez: '58'
   mod: MIM:102610
@@ -218,24 +212,24 @@ orthologs:
   mod: MGI:87902
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 448346,432314,394698,379752
-  mod: 491937,480346
+- ensembl: ENSXETG00000002714
+  entrez: '394673'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000055618,ENSDARG00000036371
-  entrez: 407658,550445
-  mod: ZFIN:ZDB-GENE-030131-55,ZFIN:ZDB-GENE-050417-267
-  phenotypes: ZDB-GENE-030131-55,ZDB-GENE-050417-267
+- ensembl: ENSDARG00000055618
+  entrez: '407658'
+  mod: ZFIN:ZDB-GENE-030131-55
+  phenotypes: embryonic heart tube development, skeletal muscle fiber development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGATCTGCTGGAAGGTGGACAGGGAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458251
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421534
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458251
+  url: https://www.ncbi.nlm.nih.gov/gene/421534
 species: Gallus gallus
 symbol: ACTA1
 template_length: '851'
@@ -265,9 +259,8 @@ title: ACTA1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000143632](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143632) | [58](https://www.ncbi.nlm.nih.gov/gene/58) | [MIM:102610](https://omim.org/entry/102610) | MIM:102610 |
 | Mouse | [ENSMUSG00000031972](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031972) | [11459](https://www.ncbi.nlm.nih.gov/gene/11459) | [MGI:87902](http://www.informatics.jax.org/marker/MGI:87902) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [448346](https://www.ncbi.nlm.nih.gov/gene/448346), [432314](https://www.ncbi.nlm.nih.gov/gene/432314), [394698](https://www.ncbi.nlm.nih.gov/gene/394698), [379752](https://www.ncbi.nlm.nih.gov/gene/379752) | [491937](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491937), [480346](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480346) |  |
-| Zebrafish | [ENSDARG00000055618](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055618), [ENSDARG00000036371](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036371) | [407658](https://www.ncbi.nlm.nih.gov/gene/407658), [550445](https://www.ncbi.nlm.nih.gov/gene/550445) | [ZFIN:ZDB-GENE-030131-55](https://zfin.org/ZDB-GENE-030131-55), [ZFIN:ZDB-GENE-050417-267](https://zfin.org/ZDB-GENE-050417-267) | ZDB-GENE-030131-55,ZDB-GENE-050417-267 |
+| Xenopus | [ENSXETG00000002714](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002714) | [394673](https://www.ncbi.nlm.nih.gov/gene/394673) |  |  |
+| Zebrafish | [ENSDARG00000055618](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055618) | [407658](https://www.ncbi.nlm.nih.gov/gene/407658) | [ZFIN:ZDB-GENE-030131-55](https://zfin.org/ZDB-GENE-030131-55) | embryonic heart tube development, skeletal muscle fiber development |
 

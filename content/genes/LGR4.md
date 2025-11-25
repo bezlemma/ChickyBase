@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428605
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426162
 forward_primer: AGATGACTCCTTCGTGTCG
-gene_id: '463341'
+gene_id: '428605'
 gene_type: protein-coding
 images:
 - caption: LGR4 expression
@@ -165,13 +165,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R447.LGR4.S27.001.jpg
 name: leucine rich repeat containing G protein-coupled receptor 4
-ncbi_id: '463341'
+ncbi_id: '428605'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000205213
   entrez: '55366'
   mod: MIM:606666
@@ -183,24 +178,25 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(1) Targeted, other(3)
     Gene trapped(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100144922,734948
-  mod: '5959107'
+- ensembl: ENSXETG00000030403
+  entrez: '100144922'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000060542
   entrez: '558825'
   mod: ZFIN:ZDB-GENE-111013-1
-  phenotypes: ZDB-GENE-111013-1
+  phenotypes: G protein-coupled receptor signaling pathway, Wnt signaling pathway,
+    bone mineralization, bone remodeling, cell differentiation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCAAGTTCCTTCCAACAACG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463341
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428605
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463341
+  url: https://www.ncbi.nlm.nih.gov/gene/428605
 species: Gallus gallus
 symbol: LGR4
 template_length: '921'
@@ -222,9 +218,8 @@ title: LGR4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000205213](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000205213) | [55366](https://www.ncbi.nlm.nih.gov/gene/55366) | [MIM:606666](https://omim.org/entry/606666) | MIM:181500 |
 | Mouse | [ENSMUSG00000050199](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000050199) | [107515](https://www.ncbi.nlm.nih.gov/gene/107515) | [MGI:1891468](http://www.informatics.jax.org/marker/MGI:1891468) | All phenotypic alleles (7):Targeted, knock-out(1) Targeted, other(3) Gene trapped(3) |
-| Xenopus |  | [100144922](https://www.ncbi.nlm.nih.gov/gene/100144922), [734948](https://www.ncbi.nlm.nih.gov/gene/734948) | [5959107](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5959107) |  |
-| Zebrafish | [ENSDARG00000060542](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060542) | [558825](https://www.ncbi.nlm.nih.gov/gene/558825) | [ZFIN:ZDB-GENE-111013-1](https://zfin.org/ZDB-GENE-111013-1) | ZDB-GENE-111013-1 |
+| Xenopus | [ENSXETG00000030403](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000030403) | [100144922](https://www.ncbi.nlm.nih.gov/gene/100144922) |  |  |
+| Zebrafish | [ENSDARG00000060542](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060542) | [558825](https://www.ncbi.nlm.nih.gov/gene/558825) | [ZFIN:ZDB-GENE-111013-1](https://zfin.org/ZDB-GENE-111013-1) | G protein-coupled receptor signaling pathway, Wnt signaling pathway, bone mineralization, bone remodeling, cell differentiation |
 

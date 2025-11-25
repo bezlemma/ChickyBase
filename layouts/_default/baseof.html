@@ -5,9 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <link rel="icon" href="{{ " favicon.svg" | relURL }}" type="image/svg+xml">
 
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
     <script>
         tailwind.config = {
             theme: {
@@ -54,9 +55,11 @@
                     <div class="hidden sm:ml-6 sm:flex sm:space-x-8">
                         <a href="{{ "" | relURL }}"
                             class="border-transparent text-slate-500 hover:border-primary hover:text-slate-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">Home</a>
-                        <a href="{{ "genes/" | relURL }}"
+                        <a href="{{ " genes/" | relURL }}"
                             class="border-transparent text-slate-500 hover:border-primary hover:text-slate-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">Browse
                             Genes</a>
+                        <a href="{{ " about/" | relURL }}"
+                            class="border-transparent text-slate-500 hover:border-primary hover:text-slate-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">About</a>
                     </div>
                 </div>
                 <!-- Search Icon -->
@@ -98,8 +101,8 @@
     </div>
 
     <!-- Pagefind CSS/JS (Loaded dynamically) -->
-    <link href="{{ "pagefind/pagefind-ui.css" | relURL }}" rel="stylesheet">
-    <script src="{{ "pagefind/pagefind-ui.js" | relURL }}"></script>
+    <link href="{{ " pagefind/pagefind-ui.css" | relURL }}" rel="stylesheet">
+    <script src="{{ " pagefind/pagefind-ui.js" | relURL }}"></script>
     <script>
         window.addEventListener('DOMContentLoaded', (event) => {
             let pagefindInitialized = false;

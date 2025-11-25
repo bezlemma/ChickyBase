@@ -2,13 +2,12 @@
 aliases:
 - tripartite motif-containing protein 54
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/107053153
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
 forward_primer: 5’-TCACGCAGATGGAGGAGATC-3’
-gene_id: '509500'
+gene_id: '107053153'
 gene_type: unknown
 images:
 - caption: TRIM54 expression
@@ -96,36 +95,41 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R692.TRIM54.S25.001.jpg
 name: tripartite motif containing 54
-ncbi_id: '509500'
+ncbi_id: '107053153'
 orthologs:
-- ensembl: ENSG00000143171
-  entrez: '6258'
-  mod: MIM:180247
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ''
+  entrez: ''
+  mod: ''
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000015843
-  entrez: '20183'
-  mod: MGI:98216
+- ensembl: ''
+  entrez: ''
+  mod: ''
   phenotypes: ''
   species: Mouse
-- ensembl: ENSXETG00000004750
-  entrez: '779621'
+- ensembl: ''
+  entrez: ''
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000004697
-  entrez: '436617'
-  mod: ZFIN:ZDB-GENE-040718-34
+- ensembl: ''
+  entrez: ''
+  mod: ''
   phenotypes: ''
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGTTGGTGGTGTCAATGCTG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=509500
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=107053153
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/509500
+  url: https://www.ncbi.nlm.nih.gov/gene/107053153
 species: Gallus gallus
 symbol: TRIM54
 template_length: '476'
@@ -146,8 +150,9 @@ title: TRIM54
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Human | [ENSG00000143171](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143171) | [6258](https://www.ncbi.nlm.nih.gov/gene/6258) | [MIM:180247](https://omim.org/entry/180247) |  |
-| Mouse | [ENSMUSG00000015843](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000015843) | [20183](https://www.ncbi.nlm.nih.gov/gene/20183) | [MGI:98216](http://www.informatics.jax.org/marker/MGI:98216) |  |
-| Xenopus | [ENSXETG00000004750](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004750) | [779621](https://www.ncbi.nlm.nih.gov/gene/779621) |  |  |
-| Zebrafish | [ENSDARG00000004697](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004697) | [436617](https://www.ncbi.nlm.nih.gov/gene/436617) | [ZFIN:ZDB-GENE-040718-34](https://zfin.org/ZDB-GENE-040718-34) |  |
+| Fruit Fly |  |  |  |  |
+| Human |  |  |  |  |
+| Mouse |  |  |  |  |
+| Xenopus |  |  |  |  |
+| Zebrafish |  |  |  |  |
 

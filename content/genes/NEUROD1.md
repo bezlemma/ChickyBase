@@ -3,8 +3,6 @@ aliases:
 - NEUROD, neurogenic differentiation factor 1
 cgnc_id: '6765'
 external_ids:
-  '13': stage 13stage 13
-  '31': stage 31stage 31
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030154
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Yan+2004+neuroD+Chx10+Visinin
@@ -17,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395754
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204920
-gene_id: '450364'
+gene_id: '395754'
 gene_type: protein-coding
 images:
 - caption: NEUROD1 expression
@@ -302,13 +300,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yan.2004.Fig8.AandB.jpg
 name: neuronal differentiation 1
-ncbi_id: '450364'
+ncbi_id: '395754'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000162992
   entrez: '4760'
   mod: MIM:601724
@@ -319,23 +312,24 @@ orthologs:
   mod: MGI:1339708
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100038290,444022,378541
-  mod: '963756'
+- ensembl: ENSXETG00000014068
+  entrez: '100038290'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000019566
   entrez: '30169'
   mod: ZFIN:ZDB-GENE-990415-172
-  phenotypes: ZDB-GENE-990415-172
+  phenotypes: axon development, camera-type eye photoreceptor cell development, cell
+    differentiation, endocrine pancreas development, inner ear receptor cell development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450364
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395754
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450364
+  url: https://www.ncbi.nlm.nih.gov/gene/395754
 species: Gallus gallus
 symbol: NEUROD1
 title: NEUROD1
@@ -364,9 +358,8 @@ title: NEUROD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000162992](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162992) | [4760](https://www.ncbi.nlm.nih.gov/gene/4760) | [MIM:601724](https://omim.org/entry/601724) | MIM:125853 |
 | Mouse | [ENSMUSG00000034701](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034701) | [18012](https://www.ncbi.nlm.nih.gov/gene/18012) | [MGI:1339708](http://www.informatics.jax.org/marker/MGI:1339708) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100038290](https://www.ncbi.nlm.nih.gov/gene/100038290), [444022](https://www.ncbi.nlm.nih.gov/gene/444022), [378541](https://www.ncbi.nlm.nih.gov/gene/378541) | [963756](http://www.xenbase.org/gene/showgene.do?method=display&geneId=963756) |  |
-| Zebrafish | [ENSDARG00000019566](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019566) | [30169](https://www.ncbi.nlm.nih.gov/gene/30169) | [ZFIN:ZDB-GENE-990415-172](https://zfin.org/ZDB-GENE-990415-172) | ZDB-GENE-990415-172 |
+| Xenopus | [ENSXETG00000014068](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014068) | [100038290](https://www.ncbi.nlm.nih.gov/gene/100038290) |  |  |
+| Zebrafish | [ENSDARG00000019566](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019566) | [30169](https://www.ncbi.nlm.nih.gov/gene/30169) | [ZFIN:ZDB-GENE-990415-172](https://zfin.org/ZDB-GENE-990415-172) | axon development, camera-type eye photoreceptor cell development, cell differentiation, endocrine pancreas development, inner ear receptor cell development |
 

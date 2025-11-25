@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415395
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_413780
 forward_primer: ATCAGCCAGAAAACCAGGTGCC
-gene_id: '455882'
+gene_id: '415395'
 gene_type: protein-coding
 images:
 - caption: THSD4 expression
@@ -113,13 +113,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R494.THSD4.S26A.001.jpg
 name: thrombospondin type 1 domain containing 4
-ncbi_id: '455882'
+ncbi_id: '415395'
 orthologs:
-- ensembl: ''
-  entrez: '34435'
-  mod: FBgn0032252
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000187720
   entrez: '79875'
   mod: MIM:614476
@@ -130,24 +125,24 @@ orthologs:
   mod: MGI:2672033
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000016384
   entrez: '100493458'
-  mod: '6035026'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000055439
   entrez: '556634'
   mod: ZFIN:ZDB-GENE-070816-2
-  phenotypes: ZDB-GENE-070816-2
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCAGCAAACCACTCCACTTTACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455882
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415395
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455882
+  url: https://www.ncbi.nlm.nih.gov/gene/415395
 species: Gallus gallus
 symbol: THSD4
 template_length: '775'
@@ -171,9 +166,8 @@ title: THSD4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34435](https://www.ncbi.nlm.nih.gov/gene/34435) | FBgn0032252 |  |
 | Human | [ENSG00000187720](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000187720) | [79875](https://www.ncbi.nlm.nih.gov/gene/79875) | [MIM:614476](https://omim.org/entry/614476) |  |
 | Mouse | [ENSMUSG00000032289](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032289) | [207596](https://www.ncbi.nlm.nih.gov/gene/207596) | [MGI:2672033](http://www.informatics.jax.org/marker/MGI:2672033) |  |
-| Xenopus |  | [100493458](https://www.ncbi.nlm.nih.gov/gene/100493458) | [6035026](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6035026) |  |
-| Zebrafish | [ENSDARG00000055439](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055439) | [556634](https://www.ncbi.nlm.nih.gov/gene/556634) | [ZFIN:ZDB-GENE-070816-2](https://zfin.org/ZDB-GENE-070816-2) | ZDB-GENE-070816-2 |
+| Xenopus | [ENSXETG00000016384](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016384) | [100493458](https://www.ncbi.nlm.nih.gov/gene/100493458) |  |  |
+| Zebrafish | [ENSDARG00000055439](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055439) | [556634](https://www.ncbi.nlm.nih.gov/gene/556634) | [ZFIN:ZDB-GENE-070816-2](https://zfin.org/ZDB-GENE-070816-2) |  |
 

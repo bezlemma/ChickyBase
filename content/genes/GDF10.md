@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423776
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421648
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGGATTCAGAGATGGTTCTTGCTGC
-gene_id: '450761'
+gene_id: '423776'
 gene_type: protein-coding
 images:
 - caption: GDF10 expression
@@ -85,13 +85,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R240.GDF10.S26.001.jpg
 name: growth differentiation factor 10
-ncbi_id: '450761'
+ncbi_id: '423776'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000266524
   entrez: '2662'
   mod: MIM:601361
@@ -102,24 +97,25 @@ orthologs:
   mod: MGI:95684
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100485598,398614
-  mod: '5998697'
+- ensembl: ENSXETG00000011959
+  entrez: '100485598'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000095378
   entrez: '563003'
-  mod: ZFIN:ZDB-GENE-090312-17,ZFIN:ZDB-GENE-090312-17,ZFIN:ZDB-GENE-120316-1
-  phenotypes: ZDB-GENE-090312-17,ZDB-GENE-090312-17,ZDB-GENE-120316-1
+  mod: ZFIN:ZDB-GENE-090312-17
+  phenotypes: cell surface receptor protein serine/threonine kinase signaling pathway,
+    positive regulation of osteoblast differentiation
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGATTGTAGCGTGATTTGACGGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450761
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423776
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450761
+  url: https://www.ncbi.nlm.nih.gov/gene/423776
 species: Gallus gallus
 symbol: GDF10
 template_length: '886'
@@ -143,9 +139,8 @@ title: GDF10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000266524](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000266524) | [2662](https://www.ncbi.nlm.nih.gov/gene/2662) | [MIM:601361](https://omim.org/entry/601361) |  |
 | Mouse | [ENSMUSG00000021943](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021943) | [14560](https://www.ncbi.nlm.nih.gov/gene/14560) | [MGI:95684](http://www.informatics.jax.org/marker/MGI:95684) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100485598](https://www.ncbi.nlm.nih.gov/gene/100485598), [398614](https://www.ncbi.nlm.nih.gov/gene/398614) | [5998697](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5998697) |  |
-| Zebrafish | [ENSDARG00000095378](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000095378) | [563003](https://www.ncbi.nlm.nih.gov/gene/563003) | [ZFIN:ZDB-GENE-090312-17](https://zfin.org/ZDB-GENE-090312-17), [ZFIN:ZDB-GENE-090312-17](https://zfin.org/ZDB-GENE-090312-17), [ZFIN:ZDB-GENE-120316-1](https://zfin.org/ZDB-GENE-120316-1) | ZDB-GENE-090312-17,ZDB-GENE-090312-17,ZDB-GENE-120316-1 |
+| Xenopus | [ENSXETG00000011959](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011959) | [100485598](https://www.ncbi.nlm.nih.gov/gene/100485598) |  |  |
+| Zebrafish | [ENSDARG00000095378](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000095378) | [563003](https://www.ncbi.nlm.nih.gov/gene/563003) | [ZFIN:ZDB-GENE-090312-17](https://zfin.org/ZDB-GENE-090312-17) | cell surface receptor protein serine/threonine kinase signaling pathway, positive regulation of osteoblast differentiation |
 

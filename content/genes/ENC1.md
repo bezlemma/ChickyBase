@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427203
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424790
   X-XIV: stage XII
-gene_id: '462308'
+gene_id: '427203'
 gene_type: protein-coding
 images:
 - caption: ENC1 expression
@@ -53,13 +53,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ENC1.Travers.2023-Fig7-1-L.jpg
 name: ectodermal-neural cortex 1
-ncbi_id: '462308'
+ncbi_id: '427203'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000171617
   entrez: '8507'
   mod: MIM:605173
@@ -70,23 +65,24 @@ orthologs:
   mod: MGI:109610
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ENSXETG00000000465
-  entrez: 493391,379372
-  mod: '5914612'
+- ensembl: ENSXETG00000005074
+  entrez: '100271761'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000035398
   entrez: '559101'
   mod: ZFIN:ZDB-GENE-060531-140
-  phenotypes: ZDB-GENE-060531-140
+  phenotypes: proteolysis involved in protein catabolic process, regulation of primary
+    metabolic process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462308
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427203
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462308
+  url: https://www.ncbi.nlm.nih.gov/gene/427203
 species: Gallus gallus
 symbol: ENC1
 title: ENC1
@@ -110,9 +106,8 @@ title: ENC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000171617](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171617) | [8507](https://www.ncbi.nlm.nih.gov/gene/8507) | [MIM:605173](https://omim.org/entry/605173) |  |
 | Mouse | [ENSMUSG00000041773](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041773) | [13803](https://www.ncbi.nlm.nih.gov/gene/13803) | [MGI:109610](http://www.informatics.jax.org/marker/MGI:109610) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus | [ENSXETG00000000465](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000465) | [493391](https://www.ncbi.nlm.nih.gov/gene/493391), [379372](https://www.ncbi.nlm.nih.gov/gene/379372) | [5914612](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5914612) |  |
-| Zebrafish | [ENSDARG00000035398](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035398) | [559101](https://www.ncbi.nlm.nih.gov/gene/559101) | [ZFIN:ZDB-GENE-060531-140](https://zfin.org/ZDB-GENE-060531-140) | ZDB-GENE-060531-140 |
+| Xenopus | [ENSXETG00000005074](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005074) | [100271761](https://www.ncbi.nlm.nih.gov/gene/100271761) |  |  |
+| Zebrafish | [ENSDARG00000035398](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035398) | [559101](https://www.ncbi.nlm.nih.gov/gene/559101) | [ZFIN:ZDB-GENE-060531-140](https://zfin.org/ZDB-GENE-060531-140) | proteolysis involved in protein catabolic process, regulation of primary metabolic process |
 

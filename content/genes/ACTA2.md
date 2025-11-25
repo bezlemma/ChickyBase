@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423787
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031229
-gene_id: '450787'
+gene_id: '423787'
 gene_type: protein-coding
 images:
 - caption: ACTA2 expression
@@ -270,37 +270,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ACTA2.Anderson.2019.Supplementary
     figure 5A.jpg
 name: actin, alpha 2, smooth muscle, aorta
-ncbi_id: '450787'
+ncbi_id: '423787'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000107796
   entrez: '59'
   mod: MIM:102620
   phenotypes: MIM:611788
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000035783
+  entrez: '11475'
+  mod: MGI:87909
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 496696,431847
-  mod: '493936'
+- ensembl: ENSXETG00000021417
+  entrez: '448346'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000045180
-  entrez: '322509'
-  mod: ZFIN:ZDB-GENE-030131-1229
-  phenotypes: ZDB-GENE-030131-1229
+- ensembl: ENSDARG00000036371
+  entrez: '550445'
+  mod: ZFIN:ZDB-GENE-050417-267
+  phenotypes: skeletal muscle fiber development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450787
+  url: https://www.ncbi.nlm.nih.gov/gene/423787
 species: Gallus gallus
 symbol: ACTA2
 title: ACTA2
@@ -328,9 +323,8 @@ title: ACTA2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000107796](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107796) | [59](https://www.ncbi.nlm.nih.gov/gene/59) | [MIM:102620](https://omim.org/entry/102620) | MIM:611788 |
-| Mouse |  |  |  |  |
-| Xenopus |  | [496696](https://www.ncbi.nlm.nih.gov/gene/496696), [431847](https://www.ncbi.nlm.nih.gov/gene/431847) | [493936](http://www.xenbase.org/gene/showgene.do?method=display&geneId=493936) |  |
-| Zebrafish | [ENSDARG00000045180](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045180) | [322509](https://www.ncbi.nlm.nih.gov/gene/322509) | [ZFIN:ZDB-GENE-030131-1229](https://zfin.org/ZDB-GENE-030131-1229) | ZDB-GENE-030131-1229 |
+| Mouse | [ENSMUSG00000035783](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035783) | [11475](https://www.ncbi.nlm.nih.gov/gene/11475) | [MGI:87909](http://www.informatics.jax.org/marker/MGI:87909) |  |
+| Xenopus | [ENSXETG00000021417](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021417) | [448346](https://www.ncbi.nlm.nih.gov/gene/448346) |  |  |
+| Zebrafish | [ENSDARG00000036371](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036371) | [550445](https://www.ncbi.nlm.nih.gov/gene/550445) | [ZFIN:ZDB-GENE-050417-267](https://zfin.org/ZDB-GENE-050417-267) | skeletal muscle fiber development |
 

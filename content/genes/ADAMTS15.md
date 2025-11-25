@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419733
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417874
 forward_primer: CAAGCCTTCAAACCCATCCAG
-gene_id: '462841'
+gene_id: '419733'
 gene_type: protein-coding
 images:
 - caption: ADAMTS15 expression
@@ -178,13 +178,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R486.ADAMTS15.S26V.001.jpg
 name: ADAM metallopeptidase with thrombospondin type 1 motif, 15
-ncbi_id: '462841'
+ncbi_id: '419733'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000166106
   entrez: '170689'
   mod: MIM:607509
@@ -195,24 +190,19 @@ orthologs:
   mod: MGI:2449569
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000021839
   entrez: '100489270'
-  mod: '6051207'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000029124,ENSDARG00000033544
-  entrez: 569571,100002059
-  mod: ZFIN:ZDB-GENE-060526-203,ZFIN:ZDB-GENE-060526-203,ZFIN:ZDB-GENE-070814-5
-  phenotypes: ZDB-GENE-060526-203,ZDB-GENE-060526-203,ZDB-GENE-070814-5
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCATCGTCGTGTCAGTAAATCCAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462841
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419733
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462841
+  url: https://www.ncbi.nlm.nih.gov/gene/419733
 species: Gallus gallus
 symbol: ADAMTS15
 template_length: '977'
@@ -234,9 +224,7 @@ title: ADAMTS15
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000166106](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166106) | [170689](https://www.ncbi.nlm.nih.gov/gene/170689) | [MIM:607509](https://omim.org/entry/607509) |  |
 | Mouse | [ENSMUSG00000033453](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033453) | [235130](https://www.ncbi.nlm.nih.gov/gene/235130) | [MGI:2449569](http://www.informatics.jax.org/marker/MGI:2449569) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100489270](https://www.ncbi.nlm.nih.gov/gene/100489270) | [6051207](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6051207) |  |
-| Zebrafish | [ENSDARG00000029124](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029124), [ENSDARG00000033544](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033544) | [569571](https://www.ncbi.nlm.nih.gov/gene/569571), [100002059](https://www.ncbi.nlm.nih.gov/gene/100002059) | [ZFIN:ZDB-GENE-060526-203](https://zfin.org/ZDB-GENE-060526-203), [ZFIN:ZDB-GENE-060526-203](https://zfin.org/ZDB-GENE-060526-203), [ZFIN:ZDB-GENE-070814-5](https://zfin.org/ZDB-GENE-070814-5) | ZDB-GENE-060526-203,ZDB-GENE-060526-203,ZDB-GENE-070814-5 |
+| Xenopus | [ENSXETG00000021839](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021839) | [100489270](https://www.ncbi.nlm.nih.gov/gene/100489270) |  |  |
 

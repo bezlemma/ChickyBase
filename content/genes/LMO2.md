@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374129
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204271
-gene_id: '455716'
+gene_id: '374129'
 gene_type: protein-coding
 images:
 - caption: LMO2 expression
@@ -260,13 +260,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LMO2.Anderson.2019.Supplementary
     figure 5K.jpg
 name: LIM domain only 2
-ncbi_id: '455716'
+ncbi_id: '374129'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000135363
   entrez: '4005'
   mod: MIM:180385
@@ -277,20 +272,21 @@ orthologs:
   mod: MGI:102811
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 496679,394388
-  mod: '479143'
+- ensembl: ENSXETG00000042510
+  entrez: '496679'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000095019
   entrez: '30332'
   mod: ZFIN:ZDB-GENE-980526-419
-  phenotypes: ZDB-GENE-980526-419
+  phenotypes: blood vessel development, embryonic hemopoiesis, endothelial cell proliferation,
+    erythrocyte development, erythrocyte differentiation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455716
+  url: https://www.ncbi.nlm.nih.gov/gene/374129
 species: Gallus gallus
 symbol: LMO2
 title: LMO2
@@ -316,9 +312,8 @@ title: LMO2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000135363](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135363) | [4005](https://www.ncbi.nlm.nih.gov/gene/4005) | [MIM:180385](https://omim.org/entry/180385) | MIM:180385 |
 | Mouse | [ENSMUSG00000032698](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032698) | [16909](https://www.ncbi.nlm.nih.gov/gene/16909) | [MGI:102811](http://www.informatics.jax.org/marker/MGI:102811) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [496679](https://www.ncbi.nlm.nih.gov/gene/496679), [394388](https://www.ncbi.nlm.nih.gov/gene/394388) | [479143](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479143) |  |
-| Zebrafish | [ENSDARG00000095019](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000095019) | [30332](https://www.ncbi.nlm.nih.gov/gene/30332) | [ZFIN:ZDB-GENE-980526-419](https://zfin.org/ZDB-GENE-980526-419) | ZDB-GENE-980526-419 |
+| Xenopus | [ENSXETG00000042510](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000042510) | [496679](https://www.ncbi.nlm.nih.gov/gene/496679) |  |  |
+| Zebrafish | [ENSDARG00000095019](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000095019) | [30332](https://www.ncbi.nlm.nih.gov/gene/30332) | [ZFIN:ZDB-GENE-980526-419](https://zfin.org/ZDB-GENE-980526-419) | blood vessel development, embryonic hemopoiesis, endothelial cell proliferation, erythrocyte development, erythrocyte differentiation |
 

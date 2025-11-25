@@ -5,7 +5,6 @@ aliases:
 - neuroAB
 cgnc_id: '4265'
 external_ids:
-  '25': stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=bardet+puelles+ferran+between
   Comments: "CQBhlhb4F2: 5′-TGGGCAAGTCGGCAGAGAG-3′.\r\nCQBhlhb4R: 5′-TCAAGGCTTGTCGCTGCAGT-3′."
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395165
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204504
 forward_primer: GTGCTTCACAGGGGACCGATG
-gene_id: '462322'
+gene_id: '395165'
 gene_type: protein-coding
 images:
 - caption: BHLHE23 expression
@@ -103,13 +102,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BHLHB4.Merchan.2011.8o.png
 name: basic helix-loop-helix family member e23
-ncbi_id: '462322'
+ncbi_id: '395165'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000125533
   entrez: '128408'
   mod: MIM:609331
@@ -120,24 +114,20 @@ orthologs:
   mod: MGI:2153710
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '1018549'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000037588
   entrez: '559796'
   mod: ZFIN:ZDB-GENE-050913-22
-  phenotypes: ZDB-GENE-050913-22
+  phenotypes: axon development, positive regulation of transcription by RNA polymerase
+    II, sensory organ development
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGATTCAAAGTGGGTTCTCAAAGAGCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462322
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395165
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462322
+  url: https://www.ncbi.nlm.nih.gov/gene/395165
 species: Gallus gallus
 symbol: BHLHE23
 template_length: '1563'
@@ -165,9 +155,7 @@ CQBhlhb4R: 5′-TCAAGGCTTGTCGCTGCAGT-3′.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000125533](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125533) | [128408](https://www.ncbi.nlm.nih.gov/gene/128408) | [MIM:609331](https://omim.org/entry/609331) |  |
 | Mouse | [ENSMUSG00000045493](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000045493) | [140489](https://www.ncbi.nlm.nih.gov/gene/140489) | [MGI:2153710](http://www.informatics.jax.org/marker/MGI:2153710) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  |  | [1018549](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1018549) |  |
-| Zebrafish | [ENSDARG00000037588](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037588) | [559796](https://www.ncbi.nlm.nih.gov/gene/559796) | [ZFIN:ZDB-GENE-050913-22](https://zfin.org/ZDB-GENE-050913-22) | ZDB-GENE-050913-22 |
+| Zebrafish | [ENSDARG00000037588](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037588) | [559796](https://www.ncbi.nlm.nih.gov/gene/559796) | [ZFIN:ZDB-GENE-050913-22](https://zfin.org/ZDB-GENE-050913-22) | axon development, positive regulation of transcription by RNA polymerase II, sensory organ development |
 

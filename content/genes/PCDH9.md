@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418800
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001231263
-gene_id: '468125'
+gene_id: '418800'
 gene_type: protein-coding
 images:
 - caption: PCDH9 expression
@@ -219,37 +219,32 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh9.Lin.2013.Fig3.jpg
 name: protocadherin 9
-ncbi_id: '468125'
+ncbi_id: '418800'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000184226
   entrez: '5101'
   mod: MIM:603581
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000055421
   entrez: '211712'
   mod: MGI:1306801
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000021181
   entrez: '100489504'
-  mod: '980875'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000063264
   entrez: '100004118'
-  mod: ZFIN:ZDB-GENE-091015-1
-  phenotypes: ZDB-GENE-091015-1
+  mod: ''
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468125
+  url: https://www.ncbi.nlm.nih.gov/gene/418800
 species: Gallus gallus
 symbol: PCDH9
 title: PCDH9
@@ -275,9 +270,8 @@ title: PCDH9
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000184226](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000184226) | [5101](https://www.ncbi.nlm.nih.gov/gene/5101) | [MIM:603581](https://omim.org/entry/603581) |  |
-| Mouse |  | [211712](https://www.ncbi.nlm.nih.gov/gene/211712) | [MGI:1306801](http://www.informatics.jax.org/marker/MGI:1306801) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100489504](https://www.ncbi.nlm.nih.gov/gene/100489504) | [980875](http://www.xenbase.org/gene/showgene.do?method=display&geneId=980875) |  |
-| Zebrafish |  | [100004118](https://www.ncbi.nlm.nih.gov/gene/100004118) | [ZFIN:ZDB-GENE-091015-1](https://zfin.org/ZDB-GENE-091015-1) | ZDB-GENE-091015-1 |
+| Mouse | [ENSMUSG00000055421](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000055421) | [211712](https://www.ncbi.nlm.nih.gov/gene/211712) | [MGI:1306801](http://www.informatics.jax.org/marker/MGI:1306801) | All phenotypic alleles (1):Targeted, knock-out(1) |
+| Xenopus | [ENSXETG00000021181](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021181) | [100489504](https://www.ncbi.nlm.nih.gov/gene/100489504) |  |  |
+| Zebrafish | [ENSDARG00000063264](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063264) | [100004118](https://www.ncbi.nlm.nih.gov/gene/100004118) |  |  |
 

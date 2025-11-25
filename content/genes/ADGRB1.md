@@ -4,14 +4,13 @@ aliases:
 - brain-specific angiogenesis inhibitor 1
 cgnc_id: '66159'
 external_ids:
-  '25': stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/100859755
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100859755
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640860
 forward_primer: 5'-GGGAGGATTGGCTTGATTTCG-3'
-gene_id: '474286'
+gene_id: '100859755'
 gene_type: protein-coding
 images:
 - caption: ADGRB1 expression
@@ -95,41 +94,31 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R580.BAI1.S25AA.001.jpg
 name: adhesion G protein-coupled receptor B1
-ncbi_id: '474286'
+ncbi_id: '100859755'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000181790
+  entrez: '575'
+  mod: MIM:602682
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000034730
+  entrez: '107831'
+  mod: MGI:1933736
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000019150
+  entrez: '100492219'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTCATTGGGAAGGGGCTTACAG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=474286
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100859755
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/474286
+  url: https://www.ncbi.nlm.nih.gov/gene/100859755
 species: Gallus gallus
 symbol: ADGRB1
 template_length: '977'
@@ -152,9 +141,7 @@ title: ADGRB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000181790](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000181790) | [575](https://www.ncbi.nlm.nih.gov/gene/575) | [MIM:602682](https://omim.org/entry/602682) |  |
+| Mouse | [ENSMUSG00000034730](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034730) | [107831](https://www.ncbi.nlm.nih.gov/gene/107831) | [MGI:1933736](http://www.informatics.jax.org/marker/MGI:1933736) |  |
+| Xenopus | [ENSXETG00000019150](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019150) | [100492219](https://www.ncbi.nlm.nih.gov/gene/100492219) |  |  |
 

@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427669
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425243
 forward_primer: CTTCCCGCAAGCCATCATC
-gene_id: '456902'
+gene_id: '427669'
 gene_type: protein-coding
 images:
 - caption: HS3ST6 expression
@@ -241,16 +241,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R482.HS3ST6.S26V.001.jpg
 name: heparan sulfate-glucosamine 3-sulfotransferase 6
-ncbi_id: '456902'
+ncbi_id: '427669'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000162040
+- ensembl: ENSG00000276333
   entrez: '64711'
-  mod: ''
+  mod: MIM:619210
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000039628
@@ -258,24 +253,24 @@ orthologs:
   mod: MGI:3580487
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000007214
   entrez: '100489739'
-  mod: '966706'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000059948
   entrez: '797517'
   mod: ZFIN:ZDB-GENE-090312-176
-  phenotypes: ZDB-GENE-090312-176
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGTTTGTCCGTCACCACCCTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456902
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427669
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456902
+  url: https://www.ncbi.nlm.nih.gov/gene/427669
 species: Gallus gallus
 symbol: HS3ST6
 template_length: '567'
@@ -297,9 +292,8 @@ title: HS3ST6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000162040](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162040) | [64711](https://www.ncbi.nlm.nih.gov/gene/64711) |  |  |
+| Human | [ENSG00000276333](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000276333) | [64711](https://www.ncbi.nlm.nih.gov/gene/64711) | [MIM:619210](https://omim.org/entry/619210) |  |
 | Mouse | [ENSMUSG00000039628](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039628) | [328779](https://www.ncbi.nlm.nih.gov/gene/328779) | [MGI:3580487](http://www.informatics.jax.org/marker/MGI:3580487) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [100489739](https://www.ncbi.nlm.nih.gov/gene/100489739) | [966706](http://www.xenbase.org/gene/showgene.do?method=display&geneId=966706) |  |
-| Zebrafish | [ENSDARG00000059948](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059948) | [797517](https://www.ncbi.nlm.nih.gov/gene/797517) | [ZFIN:ZDB-GENE-090312-176](https://zfin.org/ZDB-GENE-090312-176) | ZDB-GENE-090312-176 |
+| Xenopus | [ENSXETG00000007214](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007214) | [100489739](https://www.ncbi.nlm.nih.gov/gene/100489739) |  |  |
+| Zebrafish | [ENSDARG00000059948](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059948) | [797517](https://www.ncbi.nlm.nih.gov/gene/797517) | [ZFIN:ZDB-GENE-090312-176](https://zfin.org/ZDB-GENE-090312-176) |  |
 

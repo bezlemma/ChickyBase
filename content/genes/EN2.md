@@ -5,8 +5,6 @@ aliases:
 - homeobox protein en-2
 cgnc_id: '63707'
 external_ids:
-  '19': stage 19
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007411
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0030175
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Chambers+discrete+display+novel
@@ -24,7 +22,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100859435
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003700
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001267719
-gene_id: '473966'
+gene_id: '100859435'
 gene_type: protein-coding
 images:
 - caption: EN2 expression
@@ -126,37 +124,34 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EN1.Chambers.2006.3a'.png
 name: engrailed homeobox 2
-ncbi_id: '473966'
+ncbi_id: '100859435'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000164778
+  entrez: '2020'
+  mod: MIM:131310
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000039095
+  entrez: '13799'
+  mod: MGI:95390
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000040218
+  entrez: '100498251'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000115233
+  entrez: '30243'
+  mod: ZFIN:ZDB-GENE-980526-167
+  phenotypes: anterior/posterior pattern specification, apoptotic process involved
+    in morphogenesis, axonogenesis involved in innervation, cell fate specification,
+    midbrain development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/473966
+  url: https://www.ncbi.nlm.nih.gov/gene/100859435
 species: Gallus gallus
 symbol: EN2
 title: EN2
@@ -185,9 +180,8 @@ title: EN2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000164778](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164778) | [2020](https://www.ncbi.nlm.nih.gov/gene/2020) | [MIM:131310](https://omim.org/entry/131310) |  |
+| Mouse | [ENSMUSG00000039095](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039095) | [13799](https://www.ncbi.nlm.nih.gov/gene/13799) | [MGI:95390](http://www.informatics.jax.org/marker/MGI:95390) |  |
+| Xenopus | [ENSXETG00000040218](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000040218) | [100498251](https://www.ncbi.nlm.nih.gov/gene/100498251) |  |  |
+| Zebrafish | [ENSDARG00000115233](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115233) | [30243](https://www.ncbi.nlm.nih.gov/gene/30243) | [ZFIN:ZDB-GENE-980526-167](https://zfin.org/ZDB-GENE-980526-167) | anterior/posterior pattern specification, apoptotic process involved in morphogenesis, axonogenesis involved in innervation, cell fate specification, midbrain development |
 

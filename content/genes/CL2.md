@@ -12,7 +12,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0016892
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001011690
 forward_primer: GGAGAGACCCGCTATGAGAAGTTC
-gene_id: '452106'
+gene_id: '422633'
 gene_type: protein-coding
 images:
 - caption: CL2 expression
@@ -122,7 +122,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R5R530.CL2.S26B.001.jpg
 name: liver ribonuclease A
-ncbi_id: '452106'
+ncbi_id: '422633'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -153,10 +153,10 @@ reverse_primer: AATTAACCCTCACTAAAGGTGCCCCCCATTTCAAGACTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452106
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422633
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452106
+  url: https://www.ncbi.nlm.nih.gov/gene/422633
 species: Gallus gallus
 symbol: CL2
 template_length: '392'

@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396204
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008083
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205268
-gene_id: '462477'
+gene_id: '396204'
 gene_type: protein-coding
 images:
 - caption: CCN3 expression
@@ -212,13 +212,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NOV.Katsube.2001.Fig3.jpg
 name: nephroblastoma overexpressed
-ncbi_id: '462477'
+ncbi_id: '396204'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136999
   entrez: '4856'
   mod: MIM:164958
@@ -229,20 +224,15 @@ orthologs:
   mod: MGI:109185
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100494006,373662
-  mod: '1013045'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000003135
+  entrez: '100494006'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462477
+  url: https://www.ncbi.nlm.nih.gov/gene/396204
 species: Gallus gallus
 symbol: CCN3
 title: CCN3
@@ -271,9 +261,7 @@ title: CCN3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000136999](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136999) | [4856](https://www.ncbi.nlm.nih.gov/gene/4856) | [MIM:164958](https://omim.org/entry/164958) |  |
 | Mouse | [ENSMUSG00000037362](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037362) | [18133](https://www.ncbi.nlm.nih.gov/gene/18133) | [MGI:109185](http://www.informatics.jax.org/marker/MGI:109185) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100494006](https://www.ncbi.nlm.nih.gov/gene/100494006), [373662](https://www.ncbi.nlm.nih.gov/gene/373662) | [1013045](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1013045) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000003135](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003135) | [100494006](https://www.ncbi.nlm.nih.gov/gene/100494006) |  |  |
 

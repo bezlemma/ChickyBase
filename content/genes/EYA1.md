@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395718
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003723
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418290
-gene_id: '449806'
+gene_id: '395718'
 gene_type: protein-coding
 images:
 - caption: EYA1 expression
@@ -50,13 +50,8 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Christophorou.Fig2.EYA1.A-a-a.jpg
 name: EYA transcriptional coactivator and phosphatase 1
-ncbi_id: '449806'
+ncbi_id: '395718'
 orthologs:
-- ensembl: ''
-  entrez: '33916'
-  mod: FBgn0000320
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000104313
   entrez: '2138'
   mod: MIM:601653
@@ -68,20 +63,22 @@ orthologs:
   phenotypes: All phenotypic alleles (3):Spontaneous(1) Targeted, knock-out(1) Targeted,
     other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 779594,399175
-  mod: '479278'
+- ensembl: ENSXETG00000015955
+  entrez: '779594'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000014259
+- ensembl: ENSDARG00000116267
   entrez: '30436'
   mod: ZFIN:ZDB-GENE-990712-18
-  phenotypes: ZDB-GENE-990712-18
+  phenotypes: adenohypophysis development, cell differentiation, ear morphogenesis,
+    inner ear morphogenesis, negative regulation of extrinsic apoptotic signaling
+    pathway in absence of ligand
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449806
+  url: https://www.ncbi.nlm.nih.gov/gene/395718
 species: Gallus gallus
 symbol: EYA1
 title: EYA1
@@ -112,9 +109,8 @@ title: EYA1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33916](https://www.ncbi.nlm.nih.gov/gene/33916) | FBgn0000320 |  |
 | Human | [ENSG00000104313](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000104313) | [2138](https://www.ncbi.nlm.nih.gov/gene/2138) | [MIM:601653](https://omim.org/entry/601653) | MIM:601653 |
 | Mouse | [ENSMUSG00000025932](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025932) | [14048](https://www.ncbi.nlm.nih.gov/gene/14048) | [MGI:109344](http://www.informatics.jax.org/marker/MGI:109344) | All phenotypic alleles (3):Spontaneous(1) Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [779594](https://www.ncbi.nlm.nih.gov/gene/779594), [399175](https://www.ncbi.nlm.nih.gov/gene/399175) | [479278](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479278) |  |
-| Zebrafish | [ENSDARG00000014259](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014259) | [30436](https://www.ncbi.nlm.nih.gov/gene/30436) | [ZFIN:ZDB-GENE-990712-18](https://zfin.org/ZDB-GENE-990712-18) | ZDB-GENE-990712-18 |
+| Xenopus | [ENSXETG00000015955](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015955) | [779594](https://www.ncbi.nlm.nih.gov/gene/779594) |  |  |
+| Zebrafish | [ENSDARG00000116267](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116267) | [30436](https://www.ncbi.nlm.nih.gov/gene/30436) | [ZFIN:ZDB-GENE-990712-18](https://zfin.org/ZDB-GENE-990712-18) | adenohypophysis development, cell differentiation, ear morphogenesis, inner ear morphogenesis, negative regulation of extrinsic apoptotic signaling pathway in absence of ligand |
 

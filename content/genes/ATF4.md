@@ -3,14 +3,13 @@ aliases:
 - cyclic AMP-dependent transcription factor ATF-4
 cgnc_id: '9204'
 external_ids:
-  '25': stage 25
   Comments: stages 13, 14, 15 negative
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000012135
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395693
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204880
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGTTGTGGTCCTGGTCGTGCGT
-gene_id: '449911'
+gene_id: '395693'
 gene_type: protein-coding
 images:
 - caption: ATF4 expression
@@ -124,13 +123,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R327.ATF4.S25.001.jpg
 name: activating transcription factor 4
-ncbi_id: '449911'
+ncbi_id: '395693'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000128272
   entrez: '468'
   mod: MIM:604064
@@ -141,24 +135,25 @@ orthologs:
   mod: MGI:88096
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(4) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 448005,398804,734165
-  mod: '983840'
+- ensembl: ENSXETG00000024806
+  entrez: '448005'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000039515,ENSDARG00000038141
-  entrez: 406514,556410
-  mod: ZFIN:ZDB-GENE-040426-2340,ZFIN:ZDB-GENE-070928-23
-  phenotypes: ZDB-GENE-040426-2340,ZDB-GENE-070928-23
+- ensembl: ENSDARG00000114163
+  entrez: '556410'
+  mod: ZFIN:ZDB-GENE-070928-23
+  phenotypes: regulation of DNA-templated transcription, regulation of apoptotic process,
+    regulation of transcription by RNA polymerase II, rhythmic process
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGCGGCATCTGTAGGGAACGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449911
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395693
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449911
+  url: https://www.ncbi.nlm.nih.gov/gene/395693
 species: Gallus gallus
 symbol: ATF4
 template_length: '1049'
@@ -182,9 +177,8 @@ title: ATF4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000128272](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000128272) | [468](https://www.ncbi.nlm.nih.gov/gene/468) | [MIM:604064](https://omim.org/entry/604064) |  |
 | Mouse | [ENSMUSG00000042406](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042406) | [11911](https://www.ncbi.nlm.nih.gov/gene/11911) | [MGI:88096](http://www.informatics.jax.org/marker/MGI:88096) | All phenotypic alleles (5):Targeted, knock-out(4) Targeted, other(1) |
-| Xenopus |  | [448005](https://www.ncbi.nlm.nih.gov/gene/448005), [398804](https://www.ncbi.nlm.nih.gov/gene/398804), [734165](https://www.ncbi.nlm.nih.gov/gene/734165) | [983840](http://www.xenbase.org/gene/showgene.do?method=display&geneId=983840) |  |
-| Zebrafish | [ENSDARG00000039515](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039515), [ENSDARG00000038141](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038141) | [406514](https://www.ncbi.nlm.nih.gov/gene/406514), [556410](https://www.ncbi.nlm.nih.gov/gene/556410) | [ZFIN:ZDB-GENE-040426-2340](https://zfin.org/ZDB-GENE-040426-2340), [ZFIN:ZDB-GENE-070928-23](https://zfin.org/ZDB-GENE-070928-23) | ZDB-GENE-040426-2340,ZDB-GENE-070928-23 |
+| Xenopus | [ENSXETG00000024806](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000024806) | [448005](https://www.ncbi.nlm.nih.gov/gene/448005) |  |  |
+| Zebrafish | [ENSDARG00000114163](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114163) | [556410](https://www.ncbi.nlm.nih.gov/gene/556410) | [ZFIN:ZDB-GENE-070928-23](https://zfin.org/ZDB-GENE-070928-23) | regulation of DNA-templated transcription, regulation of apoptotic process, regulation of transcription by RNA polymerase II, rhythmic process |
 

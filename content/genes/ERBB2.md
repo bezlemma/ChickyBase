@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426130
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001044661
-gene_id: '463159'
+gene_id: '426130'
 gene_type: protein-coding
 images:
 - caption: ERBB2 expression
@@ -35,13 +35,8 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ERBB2 figure 5.JPG
 name: erb-b2 receptor tyrosine kinase 2
-ncbi_id: '463159'
+ncbi_id: '426130'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000141736
   entrez: '2064'
   mod: MIM:164870
@@ -52,20 +47,21 @@ orthologs:
   mod: MGI:95410
   phenotypes: All phenotypic alleles (19):Targeted, knock-out(5) Targeted, other(14)
   species: Mouse
-- ensembl: ''
-  entrez: 100492078,724075
-  mod: '5938587'
+- ensembl: ENSXETG00000015145
+  entrez: '100492078'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000026294
   entrez: '386966'
   mod: ZFIN:ZDB-GENE-031118-121
-  phenotypes: ZDB-GENE-031118-121
+  phenotypes: ERBB signaling pathway, Schwann cell development, Schwann cell differentiation,
+    axonal fasciculation, cardiac myofibril assembly
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463159
+  url: https://www.ncbi.nlm.nih.gov/gene/426130
 species: Gallus gallus
 symbol: ERBB2
 title: ERBB2
@@ -91,9 +87,8 @@ title: ERBB2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000141736](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000141736) | [2064](https://www.ncbi.nlm.nih.gov/gene/2064) | [MIM:164870](https://omim.org/entry/164870) | MIM:211980 |
 | Mouse | [ENSMUSG00000062312](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000062312) | [13866](https://www.ncbi.nlm.nih.gov/gene/13866) | [MGI:95410](http://www.informatics.jax.org/marker/MGI:95410) | All phenotypic alleles (19):Targeted, knock-out(5) Targeted, other(14) |
-| Xenopus |  | [100492078](https://www.ncbi.nlm.nih.gov/gene/100492078), [724075](https://www.ncbi.nlm.nih.gov/gene/724075) | [5938587](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5938587) |  |
-| Zebrafish | [ENSDARG00000026294](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026294) | [386966](https://www.ncbi.nlm.nih.gov/gene/386966) | [ZFIN:ZDB-GENE-031118-121](https://zfin.org/ZDB-GENE-031118-121) | ZDB-GENE-031118-121 |
+| Xenopus | [ENSXETG00000015145](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015145) | [100492078](https://www.ncbi.nlm.nih.gov/gene/100492078) |  |  |
+| Zebrafish | [ENSDARG00000026294](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026294) | [386966](https://www.ncbi.nlm.nih.gov/gene/386966) | [ZFIN:ZDB-GENE-031118-121](https://zfin.org/ZDB-GENE-031118-121) | ERBB signaling pathway, Schwann cell development, Schwann cell differentiation, axonal fasciculation, cardiac myofibril assembly |
 

@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396335
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0019894
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205376
-gene_id: '461830'
+gene_id: '396335'
 gene_type: protein-coding
 images:
 - caption: KTN1 expression
@@ -34,37 +34,22 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KINECTIN.FIG1I.ADAMS.2008.jpg
 name: kinectin 1
-ncbi_id: '461830'
+ncbi_id: '396335'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000126777
-  entrez: '3895'
-  mod: MIM:600381
-  phenotypes: ''
-  species: Human
 - ensembl: ENSMUSG00000021843
   entrez: '16709'
   mod: MGI:109153
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100125787,100158371
-  mod: '983761'
+- ensembl: ENSXETG00000015700
+  entrez: '100125787'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000032802
-  entrez: '368207'
-  mod: ZFIN:ZDB-GENE-030408-4
-  phenotypes: ZDB-GENE-030408-4
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461830
+  url: https://www.ncbi.nlm.nih.gov/gene/396335
 species: Gallus gallus
 symbol: KTN1
 title: KTN1
@@ -93,9 +78,6 @@ title: KTN1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000126777](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000126777) | [3895](https://www.ncbi.nlm.nih.gov/gene/3895) | [MIM:600381](https://omim.org/entry/600381) |  |
 | Mouse | [ENSMUSG00000021843](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021843) | [16709](https://www.ncbi.nlm.nih.gov/gene/16709) | [MGI:109153](http://www.informatics.jax.org/marker/MGI:109153) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100125787](https://www.ncbi.nlm.nih.gov/gene/100125787), [100158371](https://www.ncbi.nlm.nih.gov/gene/100158371) | [983761](http://www.xenbase.org/gene/showgene.do?method=display&geneId=983761) |  |
-| Zebrafish | [ENSDARG00000032802](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032802) | [368207](https://www.ncbi.nlm.nih.gov/gene/368207) | [ZFIN:ZDB-GENE-030408-4](https://zfin.org/ZDB-GENE-030408-4) | ZDB-GENE-030408-4 |
+| Xenopus | [ENSXETG00000015700](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015700) | [100125787](https://www.ncbi.nlm.nih.gov/gene/100125787) |  |  |
 

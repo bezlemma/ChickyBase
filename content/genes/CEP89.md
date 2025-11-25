@@ -4,13 +4,12 @@ aliases:
 - coiled-coil domain containing 123
 cgnc_id: '3528'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/415769
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415769
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414131
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGAGCGCGTTCTCAGCCACGA
-gene_id: '461778'
+gene_id: '415769'
 gene_type: protein-coding
 images:
 - caption: CEP89 expression
@@ -97,14 +96,9 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R299.CCDC123.S25.001.jpg
 name: centrosomal protein 89
-ncbi_id: '461778'
+ncbi_id: '415769'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000121289
   entrez: '84902'
   mod: MIM:615470
   phenotypes: ''
@@ -114,24 +108,25 @@ orthologs:
   mod: MGI:1919390
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000018269
   entrez: '100494656'
-  mod: '1003478'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000005092
   entrez: '393852'
   mod: ZFIN:ZDB-GENE-040426-1210
-  phenotypes: ZDB-GENE-040426-1210
+  phenotypes: cell projection organization, chemical synaptic transmission, cilium
+    assembly, mitochondrion organization
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGACCAGCCTGGCCTGAGTTTGT
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461778
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415769
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461778
+  url: https://www.ncbi.nlm.nih.gov/gene/415769
 species: Gallus gallus
 symbol: CEP89
 template_length: '1345'
@@ -153,9 +148,8 @@ title: CEP89
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [84902](https://www.ncbi.nlm.nih.gov/gene/84902) | [MIM:615470](https://omim.org/entry/615470) |  |
+| Human | [ENSG00000121289](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000121289) | [84902](https://www.ncbi.nlm.nih.gov/gene/84902) | [MIM:615470](https://omim.org/entry/615470) |  |
 | Mouse | [ENSMUSG00000023072](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023072) | [72140](https://www.ncbi.nlm.nih.gov/gene/72140) | [MGI:1919390](http://www.informatics.jax.org/marker/MGI:1919390) |  |
-| Xenopus |  | [100494656](https://www.ncbi.nlm.nih.gov/gene/100494656) | [1003478](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1003478) |  |
-| Zebrafish | [ENSDARG00000005092](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005092) | [393852](https://www.ncbi.nlm.nih.gov/gene/393852) | [ZFIN:ZDB-GENE-040426-1210](https://zfin.org/ZDB-GENE-040426-1210) | ZDB-GENE-040426-1210 |
+| Xenopus | [ENSXETG00000018269](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018269) | [100494656](https://www.ncbi.nlm.nih.gov/gene/100494656) |  |  |
+| Zebrafish | [ENSDARG00000005092](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005092) | [393852](https://www.ncbi.nlm.nih.gov/gene/393852) | [ZFIN:ZDB-GENE-040426-1210](https://zfin.org/ZDB-GENE-040426-1210) | cell projection organization, chemical synaptic transmission, cilium assembly, mitochondrion organization |
 

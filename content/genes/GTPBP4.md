@@ -7,7 +7,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420458
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006354
-gene_id: '456152'
+gene_id: '420458'
 gene_type: protein-coding
 images:
 - caption: GTPBP4 expression
@@ -18,16 +18,11 @@ images:
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/I16_05.jpg
 name: GTP binding protein 4
-ncbi_id: '456152'
+ncbi_id: '420458'
 orthologs:
-- ensembl: ''
-  entrez: '35963'
-  mod: FBgn0028473
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000107937
   entrez: '23560'
-  mod: ''
+  mod: MIM:619169
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000021149
@@ -35,23 +30,23 @@ orthologs:
   mod: MGI:1916487
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 496593,100126644
-  mod: '962818'
+- ensembl: ENSXETG00000018097
+  entrez: '496593'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000018961
   entrez: '334050'
   mod: ZFIN:ZDB-GENE-030131-5982
-  phenotypes: ZDB-GENE-030131-5982
+  phenotypes: ribosomal large subunit biogenesis, ribosome biogenesis
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456152
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420458
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456152
+  url: https://www.ncbi.nlm.nih.gov/gene/420458
 species: Gallus gallus
 symbol: GTPBP4
 title: GTPBP4
@@ -74,9 +69,8 @@ title: GTPBP4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35963](https://www.ncbi.nlm.nih.gov/gene/35963) | FBgn0028473 |  |
-| Human |  | [23560](https://www.ncbi.nlm.nih.gov/gene/23560) |  |  |
+| Human | [ENSG00000107937](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107937) | [23560](https://www.ncbi.nlm.nih.gov/gene/23560) | [MIM:619169](https://omim.org/entry/619169) |  |
 | Mouse | [ENSMUSG00000021149](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021149) | [69237](https://www.ncbi.nlm.nih.gov/gene/69237) | [MGI:1916487](http://www.informatics.jax.org/marker/MGI:1916487) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [496593](https://www.ncbi.nlm.nih.gov/gene/496593), [100126644](https://www.ncbi.nlm.nih.gov/gene/100126644) | [962818](http://www.xenbase.org/gene/showgene.do?method=display&geneId=962818) |  |
-| Zebrafish | [ENSDARG00000018961](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018961) | [334050](https://www.ncbi.nlm.nih.gov/gene/334050) | [ZFIN:ZDB-GENE-030131-5982](https://zfin.org/ZDB-GENE-030131-5982) | ZDB-GENE-030131-5982 |
+| Xenopus | [ENSXETG00000018097](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018097) | [496593](https://www.ncbi.nlm.nih.gov/gene/496593) |  |  |
+| Zebrafish | [ENSDARG00000018961](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018961) | [334050](https://www.ncbi.nlm.nih.gov/gene/334050) | [ZFIN:ZDB-GENE-030131-5982](https://zfin.org/ZDB-GENE-030131-5982) | ribosomal large subunit biogenesis, ribosome biogenesis |
 

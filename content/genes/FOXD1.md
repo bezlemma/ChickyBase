@@ -4,7 +4,6 @@ aliases:
 - winged helix protein CWH-4
 cgnc_id: '49653'
 external_ids:
-  '25': stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007411
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Takahashi+Shintani+CBF1+topographical
@@ -19,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205192
 forward_primer: 5’-CCCGCATCTCTAACTGTTAAGGG-3’
-gene_id: '458717'
+gene_id: '396109'
 gene_type: protein-coding
 images:
 - caption: FOXD1 expression
@@ -129,7 +128,7 @@ images:
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBF2.Takahashi.2003.Fig.3.png
 name: forkhead box D1
-ncbi_id: '458717'
+ncbi_id: '396109'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -160,10 +159,10 @@ reverse_primer: 5’-ATTAACCCTCACTAAAGGTCCCTCAAGCCTTCTCTGTTC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458717
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396109
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458717
+  url: https://www.ncbi.nlm.nih.gov/gene/396109
 species: Gallus gallus
 symbol: FOXD1
 template_length: '428'

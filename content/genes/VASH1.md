@@ -3,7 +3,6 @@ aliases:
 - vasohibin-1
 cgnc_id: '7890'
 external_ids:
-  '31': stage 31
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=expression+pattern+Vasohibin
     during+chick+development+nimmagadda
   Comments: 'Sequence below was obtained using the EST name: 603960967F1; cloneID:
@@ -15,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423369
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641364
-gene_id: '448712'
+gene_id: '423369'
 gene_type: protein-coding
 images:
 - caption: VASH1 expression
@@ -144,37 +143,33 @@ images:
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VASH.FIG3Q.NIMMAGADDA.2007.jpg
 name: vasohibin 1
-ncbi_id: '448712'
+ncbi_id: '423369'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000071246
+  entrez: '22846'
+  mod: MIM:609011
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000021256
+  entrez: '238328'
+  mod: MGI:2442543
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000013214
+  entrez: '100216209'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000092716
+  entrez: '100001748'
+  mod: ZFIN:ZDB-GENE-111020-11
+  phenotypes: lymph vessel development, proteolysis, regulation of angiogenesis, regulation
+    of sprouting angiogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448712
+  url: https://www.ncbi.nlm.nih.gov/gene/423369
 species: Gallus gallus
 symbol: VASH1
 title: VASH1
@@ -200,9 +195,8 @@ title: VASH1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000071246](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000071246) | [22846](https://www.ncbi.nlm.nih.gov/gene/22846) | [MIM:609011](https://omim.org/entry/609011) |  |
+| Mouse | [ENSMUSG00000021256](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021256) | [238328](https://www.ncbi.nlm.nih.gov/gene/238328) | [MGI:2442543](http://www.informatics.jax.org/marker/MGI:2442543) |  |
+| Xenopus | [ENSXETG00000013214](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013214) | [100216209](https://www.ncbi.nlm.nih.gov/gene/100216209) |  |  |
+| Zebrafish | [ENSDARG00000092716](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000092716) | [100001748](https://www.ncbi.nlm.nih.gov/gene/100001748) | [ZFIN:ZDB-GENE-111020-11](https://zfin.org/ZDB-GENE-111020-11) | lymph vessel development, proteolysis, regulation of angiogenesis, regulation of sprouting angiogenesis |
 

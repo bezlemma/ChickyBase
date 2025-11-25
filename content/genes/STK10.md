@@ -3,7 +3,6 @@ aliases:
 - serine/threonine-protein kinase 10
 cgnc_id: '2029'
 external_ids:
-  '4': stage 4stage 4
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0035001
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007049
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005886
@@ -18,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416204
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414529
-gene_id: '457424'
+gene_id: '416204'
 gene_type: protein-coding
 images:
 - caption: STK10 expression
@@ -36,13 +35,8 @@ images:
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STK10.Alev.2010.5a5.png
 name: serine/threonine kinase 10
-ncbi_id: '457424'
+ncbi_id: '416204'
 orthologs:
-- ensembl: ''
-  entrez: '37893'
-  mod: FBgn0035001
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000072786
   entrez: '6793'
   mod: MIM:603919
@@ -53,20 +47,21 @@ orthologs:
   mod: MGI:1099439
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 780079,373731,431827
-  mod: '494455'
+- ensembl: ENSXETG00000014423
+  entrez: '780079'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000101894
   entrez: '394108'
   mod: ZFIN:ZDB-GENE-040426-1136
-  phenotypes: ZDB-GENE-040426-1136
+  phenotypes: intracellular signal transduction, phosphorylation, protein autophosphorylation,
+    protein phosphorylation, regulation of lymphocyte migration
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457424
+  url: https://www.ncbi.nlm.nih.gov/gene/416204
 species: Gallus gallus
 symbol: STK10
 title: STK10
@@ -98,9 +93,8 @@ REVERSE PRIMER	TGGAATCCTTCAGGGAGATG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [37893](https://www.ncbi.nlm.nih.gov/gene/37893) | FBgn0035001 |  |
 | Human | [ENSG00000072786](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000072786) | [6793](https://www.ncbi.nlm.nih.gov/gene/6793) | [MIM:603919](https://omim.org/entry/603919) |  |
 | Mouse | [ENSMUSG00000020272](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020272) | [20868](https://www.ncbi.nlm.nih.gov/gene/20868) | [MGI:1099439](http://www.informatics.jax.org/marker/MGI:1099439) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [780079](https://www.ncbi.nlm.nih.gov/gene/780079), [373731](https://www.ncbi.nlm.nih.gov/gene/373731), [431827](https://www.ncbi.nlm.nih.gov/gene/431827) | [494455](http://www.xenbase.org/gene/showgene.do?method=display&geneId=494455) |  |
-| Zebrafish |  | [394108](https://www.ncbi.nlm.nih.gov/gene/394108) | [ZFIN:ZDB-GENE-040426-1136](https://zfin.org/ZDB-GENE-040426-1136) | ZDB-GENE-040426-1136 |
+| Xenopus | [ENSXETG00000014423](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014423) | [780079](https://www.ncbi.nlm.nih.gov/gene/780079) |  |  |
+| Zebrafish | [ENSDARG00000101894](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101894) | [394108](https://www.ncbi.nlm.nih.gov/gene/394108) | [ZFIN:ZDB-GENE-040426-1136](https://zfin.org/ZDB-GENE-040426-1136) | intracellular signal transduction, phosphorylation, protein autophosphorylation, protein phosphorylation, regulation of lymphocyte migration |
 

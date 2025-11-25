@@ -5,8 +5,6 @@ aliases:
 - frizzled homolog 9
 cgnc_id: '538'
 external_ids:
-  '19': stage 19
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0016055
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Sienknecht+2008+wnt+Fekete
@@ -20,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373886
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004930
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001276283
-gene_id: '459341'
+gene_id: '373886'
 gene_type: protein-coding
 images:
 - caption: FZD9 expression
@@ -244,37 +242,33 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZD9.Sienknecht.2009
     for figure 1 .png
 name: frizzled class receptor 9
-ncbi_id: '459341'
+ncbi_id: '373886'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000188763
+  entrez: '8326'
+  mod: MIM:601766
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000049551
+  entrez: '14371'
+  mod: MGI:1313278
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000049461
+  entrez: '100487936'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000035185
+  entrez: '557447'
+  mod: ZFIN:ZDB-GENE-060531-77
+  phenotypes: canonical Wnt signaling pathway, cell surface receptor signaling pathway,
+    non-canonical Wnt signaling pathway
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459341
+  url: https://www.ncbi.nlm.nih.gov/gene/373886
 species: Gallus gallus
 symbol: FZD9
 title: FZD9
@@ -303,9 +297,8 @@ title: FZD9
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000188763](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000188763) | [8326](https://www.ncbi.nlm.nih.gov/gene/8326) | [MIM:601766](https://omim.org/entry/601766) |  |
+| Mouse | [ENSMUSG00000049551](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049551) | [14371](https://www.ncbi.nlm.nih.gov/gene/14371) | [MGI:1313278](http://www.informatics.jax.org/marker/MGI:1313278) |  |
+| Xenopus | [ENSXETG00000049461](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000049461) | [100487936](https://www.ncbi.nlm.nih.gov/gene/100487936) |  |  |
+| Zebrafish | [ENSDARG00000035185](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035185) | [557447](https://www.ncbi.nlm.nih.gov/gene/557447) | [ZFIN:ZDB-GENE-060531-77](https://zfin.org/ZDB-GENE-060531-77) | canonical Wnt signaling pathway, cell surface receptor signaling pathway, non-canonical Wnt signaling pathway |
 

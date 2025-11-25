@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418042
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416278
 forward_primer: 5'-TGTGCGCTTCTGGTTTGC-3'
-gene_id: '458047'
+gene_id: '418042'
 gene_type: protein-coding
 images:
 - caption: MFNG expression
@@ -71,13 +71,8 @@ images:
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tossell.Fig1.L.MFNG.ST12.jpg
 name: MFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase
-ncbi_id: '458047'
+ncbi_id: '418042'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100060
   entrez: '4242'
   mod: MIM:602577
@@ -88,24 +83,19 @@ orthologs:
   mod: MGI:1095404
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(4) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000042925
   entrez: '493633'
   mod: ZFIN:ZDB-GENE-041130-1
-  phenotypes: ZDB-GENE-041130-1
+  phenotypes: pattern specification process, regulation of Notch signaling pathway
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGCCAAGGCACACTTTCAGCG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458047
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418042
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458047
+  url: https://www.ncbi.nlm.nih.gov/gene/418042
 species: Gallus gallus
 symbol: MFNG
 template_length: '802'
@@ -131,9 +121,7 @@ title: MFNG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000100060](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100060) | [4242](https://www.ncbi.nlm.nih.gov/gene/4242) | [MIM:602577](https://omim.org/entry/602577) |  |
 | Mouse | [ENSMUSG00000018169](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018169) | [17305](https://www.ncbi.nlm.nih.gov/gene/17305) | [MGI:1095404](http://www.informatics.jax.org/marker/MGI:1095404) | All phenotypic alleles (8):Targeted, knock-out(4) Targeted, other(4) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000042925](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042925) | [493633](https://www.ncbi.nlm.nih.gov/gene/493633) | [ZFIN:ZDB-GENE-041130-1](https://zfin.org/ZDB-GENE-041130-1) | ZDB-GENE-041130-1 |
+| Zebrafish | [ENSDARG00000042925](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042925) | [493633](https://www.ncbi.nlm.nih.gov/gene/493633) | [ZFIN:ZDB-GENE-041130-1](https://zfin.org/ZDB-GENE-041130-1) | pattern specification process, regulation of Notch signaling pathway |
 

@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417228
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199166
 forward_primer: 5’-GCGGTTGTTTGTGAGCAGAG-3’
-gene_id: '454028'
+gene_id: '417228'
 gene_type: protein-coding
 images:
 - caption: FAM102A expression
@@ -61,13 +61,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R668.FAM102A.S26.001.jpg
 name: family with sequence similarity 102 member A
-ncbi_id: '454028'
+ncbi_id: '417228'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000167106
   entrez: '399665'
   mod: MIM:610891
@@ -78,24 +73,24 @@ orthologs:
   mod: MGI:2138935
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100036602,444316
-  mod: '5892602'
+- ensembl: ENSXETG00000023071
+  entrez: '100036602'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000016866
   entrez: '767674'
-  mod: ZFIN:ZDB-GENE-060929-412,ZFIN:ZDB-GENE-081104-233
-  phenotypes: ZDB-GENE-060929-412,ZDB-GENE-081104-233
+  mod: ZFIN:ZDB-GENE-060929-412
+  phenotypes: biological_process
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAGTGAGGGATGCAGAAGAGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454028
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417228
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454028
+  url: https://www.ncbi.nlm.nih.gov/gene/417228
 species: Gallus gallus
 symbol: FAM102A
 template_length: '414'
@@ -118,9 +113,8 @@ title: FAM102A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000167106](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000167106) | [399665](https://www.ncbi.nlm.nih.gov/gene/399665) | [MIM:610891](https://omim.org/entry/610891) |  |
 | Mouse | [ENSMUSG00000039157](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039157) | [98952](https://www.ncbi.nlm.nih.gov/gene/98952) | [MGI:2138935](http://www.informatics.jax.org/marker/MGI:2138935) |  |
-| Xenopus |  | [100036602](https://www.ncbi.nlm.nih.gov/gene/100036602), [444316](https://www.ncbi.nlm.nih.gov/gene/444316) | [5892602](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5892602) |  |
-| Zebrafish | [ENSDARG00000016866](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016866) | [767674](https://www.ncbi.nlm.nih.gov/gene/767674) | [ZFIN:ZDB-GENE-060929-412](https://zfin.org/ZDB-GENE-060929-412), [ZFIN:ZDB-GENE-081104-233](https://zfin.org/ZDB-GENE-081104-233) | ZDB-GENE-060929-412,ZDB-GENE-081104-233 |
+| Xenopus | [ENSXETG00000023071](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023071) | [100036602](https://www.ncbi.nlm.nih.gov/gene/100036602) |  |  |
+| Zebrafish | [ENSDARG00000016866](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016866) | [767674](https://www.ncbi.nlm.nih.gov/gene/767674) | [ZFIN:ZDB-GENE-060929-412](https://zfin.org/ZDB-GENE-060929-412) | biological_process |
 

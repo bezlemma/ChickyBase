@@ -3,7 +3,6 @@ aliases:
 - sensory organ homeobox protein SOHo
 cgnc_id: '49762'
 external_ids:
-  '13': stage 13stage 13stage 13
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2012+FreterPax2+Ladher
     +Otic+epibranchial
   Comments: Insufficient information provided in publication to verify exact sequence
@@ -297,7 +296,7 @@ orthologs:
 - ensembl: ENSDARG00000007941
   entrez: '751654'
   mod: ZFIN:ZDB-GENE-060825-142
-  phenotypes: ZDB-GENE-060825-142
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -332,5 +331,5 @@ title: SOHO-1
 | Human |  |  |  |  |
 | Mouse |  |  |  |  |
 | Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000007941](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007941) | [751654](https://www.ncbi.nlm.nih.gov/gene/751654) | [ZFIN:ZDB-GENE-060825-142](https://zfin.org/ZDB-GENE-060825-142) | ZDB-GENE-060825-142 |
+| Zebrafish | [ENSDARG00000007941](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007941) | [751654](https://www.ncbi.nlm.nih.gov/gene/751654) | [ZFIN:ZDB-GENE-060825-142](https://zfin.org/ZDB-GENE-060825-142) |  |
 

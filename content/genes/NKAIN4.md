@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419240
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642483
   X-XIV: stage Xstage XIIstage XIIstage XIVstage XIV
-gene_id: '455442'
+gene_id: '419240'
 gene_type: protein-coding
 images:
 - caption: NKAIN4 expression
@@ -65,13 +65,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Allimages_Lee.2020_Fig
     3-7.jpg
 name: Na+/K+ transporting ATPase interacting 4
-ncbi_id: '455442'
+ncbi_id: '419240'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000101198
   entrez: '128414'
   mod: MIM:612873
@@ -82,20 +77,20 @@ orthologs:
   mod: MGI:1915372
   phenotypes: All phenotypic alleles (1):Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 448628,733195
-  mod: '6458894'
+- ensembl: ENSXETG00000044261
+  entrez: '448628'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000062699
   entrez: '100002876'
   mod: ZFIN:ZDB-GENE-080204-60
-  phenotypes: ZDB-GENE-080204-60
+  phenotypes: regulation of sodium ion transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455442
+  url: https://www.ncbi.nlm.nih.gov/gene/419240
 species: Gallus gallus
 symbol: NKAIN4
 title: NKAIN4
@@ -121,9 +116,8 @@ title: NKAIN4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000101198](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101198) | [128414](https://www.ncbi.nlm.nih.gov/gene/128414) | [MIM:612873](https://omim.org/entry/612873) |  |
 | Mouse | [ENSMUSG00000027574](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027574) | [58237](https://www.ncbi.nlm.nih.gov/gene/58237) | [MGI:1915372](http://www.informatics.jax.org/marker/MGI:1915372) | All phenotypic alleles (1):Gene trapped(1) |
-| Xenopus |  | [448628](https://www.ncbi.nlm.nih.gov/gene/448628), [733195](https://www.ncbi.nlm.nih.gov/gene/733195) | [6458894](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6458894) |  |
-| Zebrafish | [ENSDARG00000062699](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062699) | [100002876](https://www.ncbi.nlm.nih.gov/gene/100002876) | [ZFIN:ZDB-GENE-080204-60](https://zfin.org/ZDB-GENE-080204-60) | ZDB-GENE-080204-60 |
+| Xenopus | [ENSXETG00000044261](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044261) | [448628](https://www.ncbi.nlm.nih.gov/gene/448628) |  |  |
+| Zebrafish | [ENSDARG00000062699](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062699) | [100002876](https://www.ncbi.nlm.nih.gov/gene/100002876) | [ZFIN:ZDB-GENE-080204-60](https://zfin.org/ZDB-GENE-080204-60) | regulation of sodium ion transport |
 

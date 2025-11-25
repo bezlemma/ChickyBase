@@ -16,7 +16,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030542
 forward_primer: GACAGGGCAAAGAGGGCTTCG
-gene_id: '449228'
+gene_id: '395433'
 gene_type: protein-coding
 images:
 - caption: NPAS2 expression
@@ -56,13 +56,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R437.NPAS2.S24.001.jpg
 name: neuronal PAS domain protein 2
-ncbi_id: '449228'
+ncbi_id: '395433'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000170485
   entrez: '4862'
   mod: MIM:603347
@@ -73,24 +68,19 @@ orthologs:
   mod: MGI:109232
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '985238'
+- ensembl: ENSXETG00000021769
+  entrez: '101731519'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000016536
-  entrez: '352934'
-  mod: ZFIN:ZDB-GENE-030408-3
-  phenotypes: ZDB-GENE-030408-3
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGGGACAGAGAGGTGGAGGGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449228
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395433
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449228
+  url: https://www.ncbi.nlm.nih.gov/gene/395433
 species: Gallus gallus
 symbol: NPAS2
 template_length: '1900'
@@ -117,9 +107,7 @@ title: NPAS2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000170485](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170485) | [4862](https://www.ncbi.nlm.nih.gov/gene/4862) | [MIM:603347](https://omim.org/entry/603347) |  |
 | Mouse | [ENSMUSG00000026077](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026077) | [18143](https://www.ncbi.nlm.nih.gov/gene/18143) | [MGI:109232](http://www.informatics.jax.org/marker/MGI:109232) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  |  | [985238](http://www.xenbase.org/gene/showgene.do?method=display&geneId=985238) |  |
-| Zebrafish | [ENSDARG00000016536](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016536) | [352934](https://www.ncbi.nlm.nih.gov/gene/352934) | [ZFIN:ZDB-GENE-030408-3](https://zfin.org/ZDB-GENE-030408-3) | ZDB-GENE-030408-3 |
+| Xenopus | [ENSXETG00000021769](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021769) | [101731519](https://www.ncbi.nlm.nih.gov/gene/101731519) |  |  |
 

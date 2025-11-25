@@ -17,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008270
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205208
   X-XIV: stage XII
-gene_id: '458889'
+gene_id: '396128'
 gene_type: protein-coding
 images:
 - caption: CSRP2 expression
@@ -189,13 +189,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CSRP2.Trevers.2023-Fig7-5-K.jpg
 name: cysteine and glycine rich protein 2
-ncbi_id: '458889'
+ncbi_id: '396128'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000175183
   entrez: '1466'
   mod: MIM:601871
@@ -206,20 +201,20 @@ orthologs:
   mod: MGI:1202907
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(4)
   species: Mouse
-- ensembl: ''
-  entrez: 549369,447266,447493
-  mod: '943912'
+- ensembl: ENSXETG00000014318
+  entrez: '549369'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000011961
   entrez: '393871'
   mod: ZFIN:ZDB-GENE-040426-1863
-  phenotypes: ZDB-GENE-040426-1863
+  phenotypes: cell differentiation, muscle tissue development, sarcomere organization
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458889
+  url: https://www.ncbi.nlm.nih.gov/gene/396128
 species: Gallus gallus
 symbol: CSRP2
 title: CSRP2
@@ -248,9 +243,8 @@ title: CSRP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000175183](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000175183) | [1466](https://www.ncbi.nlm.nih.gov/gene/1466) | [MIM:601871](https://omim.org/entry/601871) |  |
 | Mouse | [ENSMUSG00000020186](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020186) | [13008](https://www.ncbi.nlm.nih.gov/gene/13008) | [MGI:1202907](http://www.informatics.jax.org/marker/MGI:1202907) | All phenotypic alleles (4):Targeted, knock-out(4) |
-| Xenopus |  | [549369](https://www.ncbi.nlm.nih.gov/gene/549369), [447266](https://www.ncbi.nlm.nih.gov/gene/447266), [447493](https://www.ncbi.nlm.nih.gov/gene/447493) | [943912](http://www.xenbase.org/gene/showgene.do?method=display&geneId=943912) |  |
-| Zebrafish | [ENSDARG00000011961](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011961) | [393871](https://www.ncbi.nlm.nih.gov/gene/393871) | [ZFIN:ZDB-GENE-040426-1863](https://zfin.org/ZDB-GENE-040426-1863) | ZDB-GENE-040426-1863 |
+| Xenopus | [ENSXETG00000014318](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014318) | [549369](https://www.ncbi.nlm.nih.gov/gene/549369) |  |  |
+| Zebrafish | [ENSDARG00000011961](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011961) | [393871](https://www.ncbi.nlm.nih.gov/gene/393871) | [ZFIN:ZDB-GENE-040426-1863](https://zfin.org/ZDB-GENE-040426-1863) | cell differentiation, muscle tissue development, sarcomere organization |
 

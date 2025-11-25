@@ -12,7 +12,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/101748691
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
-gene_id: '510188'
+gene_id: '101748691'
 gene_type: unknown
 images:
 - caption: FOXI2 expression
@@ -205,7 +205,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_6_ALLIMAGES-2.jpg
 name: forkhead box I2
-ncbi_id: '510188'
+ncbi_id: '101748691'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -235,7 +235,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/510188
+  url: https://www.ncbi.nlm.nih.gov/gene/101748691
 species: Gallus gallus
 symbol: FOXI2
 title: FOXI2

@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771058
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642583
 forward_primer: 5'-TGGTGACTTTCTTCCGAGCAAG-3'
-gene_id: '449633'
+gene_id: '771058'
 gene_type: protein-coding
 images:
 - caption: BMP8A expression
@@ -80,41 +80,32 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R539.BMP8B.S27A.001.jpg
 name: bone morphogenetic protein 8a
-ncbi_id: '449633'
+ncbi_id: '771058'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000116985
+  entrez: '656'
+  mod: MIM:602284
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000010940
+  entrez: '100494880'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000035677
+  entrez: '561963'
+  mod: ZFIN:ZDB-GENE-030912-13
+  phenotypes: BMP signaling pathway, developmental process, lipid metabolic process,
+    positive regulation of defense response to virus by host
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGGGCTGAGAGTGTTTTTGTGTAGGG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449633
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771058
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449633
+  url: https://www.ncbi.nlm.nih.gov/gene/771058
 species: Gallus gallus
 symbol: BMP8A
 template_length: '822'
@@ -137,9 +128,7 @@ title: BMP8A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000116985](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000116985) | [656](https://www.ncbi.nlm.nih.gov/gene/656) | [MIM:602284](https://omim.org/entry/602284) |  |
+| Xenopus | [ENSXETG00000010940](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010940) | [100494880](https://www.ncbi.nlm.nih.gov/gene/100494880) |  |  |
+| Zebrafish | [ENSDARG00000035677](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035677) | [561963](https://www.ncbi.nlm.nih.gov/gene/561963) | [ZFIN:ZDB-GENE-030912-13](https://zfin.org/ZDB-GENE-030912-13) | BMP signaling pathway, developmental process, lipid metabolic process, positive regulation of defense response to virus by host |
 

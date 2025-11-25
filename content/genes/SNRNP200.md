@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:503574
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012701
-gene_id: '453644'
+gene_id: '503574'
 gene_type: protein-coding
 images:
 - caption: SNRNP200 expression
@@ -19,7 +19,7 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/U16_08.jpg
 name: small nuclear ribonucleoprotein U5 200kDa subunit
-ncbi_id: '453644'
+ncbi_id: '503574'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -49,10 +49,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453644
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=503574
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453644
+  url: https://www.ncbi.nlm.nih.gov/gene/503574
 species: Gallus gallus
 symbol: SNRNP200
 title: SNRNP200

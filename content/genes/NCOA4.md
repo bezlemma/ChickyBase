@@ -5,7 +5,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423615
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006495
-gene_id: '451187'
+gene_id: '423615'
 gene_type: protein-coding
 images:
 - caption: NCOA4 expression
@@ -52,40 +52,36 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54ZB8.123.21.jpg
 name: nuclear receptor coactivator 4
-ncbi_id: '451187'
+ncbi_id: '423615'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000266412
   entrez: '8031'
   mod: MIM:601984
   phenotypes: MIM:188550
   species: Human
 - ensembl: ENSMUSG00000056234
-  entrez: 627557,27057
-  mod: MGI:3648259,MGI:1350932
+  entrez: '27057'
+  mod: MGI:1350932
   phenotypes: ''
   species: Mouse
 - ensembl: ''
-  entrez: 100497661,734285
-  mod: '1008637'
+  entrez: '100497661'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000021439
   entrez: '394104'
   mod: ZFIN:ZDB-GENE-040426-689
-  phenotypes: ZDB-GENE-040426-689
+  phenotypes: erythrocyte differentiation, intracellular iron ion homeostasis, response
+    to hormone
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451187
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423615
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451187
+  url: https://www.ncbi.nlm.nih.gov/gene/423615
 species: Gallus gallus
 symbol: NCOA4
 title: NCOA4
@@ -106,9 +102,8 @@ title: NCOA4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000266412](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000266412) | [8031](https://www.ncbi.nlm.nih.gov/gene/8031) | [MIM:601984](https://omim.org/entry/601984) | MIM:188550 |
-| Mouse | [ENSMUSG00000056234](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000056234) | [627557](https://www.ncbi.nlm.nih.gov/gene/627557), [27057](https://www.ncbi.nlm.nih.gov/gene/27057) | [MGI:3648259](http://www.informatics.jax.org/marker/MGI:3648259), [MGI:1350932](http://www.informatics.jax.org/marker/MGI:1350932) |  |
-| Xenopus |  | [100497661](https://www.ncbi.nlm.nih.gov/gene/100497661), [734285](https://www.ncbi.nlm.nih.gov/gene/734285) | [1008637](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1008637) |  |
-| Zebrafish | [ENSDARG00000021439](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021439) | [394104](https://www.ncbi.nlm.nih.gov/gene/394104) | [ZFIN:ZDB-GENE-040426-689](https://zfin.org/ZDB-GENE-040426-689) | ZDB-GENE-040426-689 |
+| Mouse | [ENSMUSG00000056234](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000056234) | [27057](https://www.ncbi.nlm.nih.gov/gene/27057) | [MGI:1350932](http://www.informatics.jax.org/marker/MGI:1350932) |  |
+| Xenopus |  | [100497661](https://www.ncbi.nlm.nih.gov/gene/100497661) |  |  |
+| Zebrafish | [ENSDARG00000021439](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021439) | [394104](https://www.ncbi.nlm.nih.gov/gene/394104) | [ZFIN:ZDB-GENE-040426-689](https://zfin.org/ZDB-GENE-040426-689) | erythrocyte differentiation, intracellular iron ion homeostasis, response to hormone |
 

@@ -5,7 +5,6 @@ aliases:
 - zinc finger protein of the cerebellum 1, Zic1
 cgnc_id: '49043'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007610
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Citation: https://pubmed.ncbi.nlm.nih.gov/31997540/
@@ -18,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374103
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204254
-gene_id: '350064'
+gene_id: '374103'
 gene_type: protein-coding
 images:
 - caption: ZIC1 expression
@@ -882,13 +881,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Screenshot 2024-02-06
     at 8.52.19.png
 name: Zic family member 1
-ncbi_id: '350064'
+ncbi_id: '374103'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000152977
   entrez: '7545'
   mod: MIM:600470
@@ -899,20 +893,22 @@ orthologs:
   mod: MGI:106683
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100038076,399124
-  mod: '481981'
+- ensembl: ENSXETG00000015467
+  entrez: '100493456'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000015567
   entrez: '30096'
   mod: ZFIN:ZDB-GENE-000208-4
-  phenotypes: ZDB-GENE-000208-4
+  phenotypes: brain development, cell proliferation in hindbrain, central nervous
+    system development, embryonic retina morphogenesis in camera-type eye, forebrain
+    morphogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/350064
+  url: https://www.ncbi.nlm.nih.gov/gene/374103
 species: Gallus gallus
 symbol: ZIC1
 title: ZIC1
@@ -941,9 +937,8 @@ title: ZIC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000152977](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000152977) | [7545](https://www.ncbi.nlm.nih.gov/gene/7545) | [MIM:600470](https://omim.org/entry/600470) |  |
 | Mouse | [ENSMUSG00000032368](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032368) | [22771](https://www.ncbi.nlm.nih.gov/gene/22771) | [MGI:106683](http://www.informatics.jax.org/marker/MGI:106683) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100038076](https://www.ncbi.nlm.nih.gov/gene/100038076), [399124](https://www.ncbi.nlm.nih.gov/gene/399124) | [481981](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481981) |  |
-| Zebrafish | [ENSDARG00000015567](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015567) | [30096](https://www.ncbi.nlm.nih.gov/gene/30096) | [ZFIN:ZDB-GENE-000208-4](https://zfin.org/ZDB-GENE-000208-4) | ZDB-GENE-000208-4 |
+| Xenopus | [ENSXETG00000015467](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015467) | [100493456](https://www.ncbi.nlm.nih.gov/gene/100493456) |  |  |
+| Zebrafish | [ENSDARG00000015567](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015567) | [30096](https://www.ncbi.nlm.nih.gov/gene/30096) | [ZFIN:ZDB-GENE-000208-4](https://zfin.org/ZDB-GENE-000208-4) | brain development, cell proliferation in hindbrain, central nervous system development, embryonic retina morphogenesis in camera-type eye, forebrain morphogenesis |
 

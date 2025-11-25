@@ -3,7 +3,6 @@ aliases:
 - cadherin-11, cadherin-11
 cgnc_id: '50082'
 external_ids:
-  '31': stage 31stage 31
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007156
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Citation: https://pubmed.ncbi.nlm.nih.gov/24769017/
@@ -17,7 +16,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004371
 forward_primer: TCCAAAGTTCATCAGCAATGGG
-gene_id: '461481'
+gene_id: '415797'
 gene_type: protein-coding
 images:
 - caption: CDH11 expression
@@ -409,14 +408,9 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cadherin-11.Lorda-Diez.2014.Fig4.jpg
 name: cadherin 11
-ncbi_id: '461481'
+ncbi_id: '415797'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000140937
   entrez: '1009'
   mod: MIM:600023
   phenotypes: ''
@@ -426,24 +420,26 @@ orthologs:
   mod: MGI:99217
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 548575,100337621
-  mod: '483598'
+- ensembl: ENSXETG00000020467
+  entrez: '548575'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000021442
   entrez: '30461'
   mod: ZFIN:ZDB-GENE-980526-170
-  phenotypes: ZDB-GENE-980526-170
+  phenotypes: adherens junction organization, calcium-dependent cell-cell adhesion
+    via plasma membrane cell adhesion molecules, cell adhesion, cell migration, cell
+    morphogenesis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCTCCTCCTCCTTCATCATCGTAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461481
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415797
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461481
+  url: https://www.ncbi.nlm.nih.gov/gene/415797
 species: Gallus gallus
 symbol: CDH11
 template_length: '932'
@@ -473,9 +469,8 @@ title: CDH11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [1009](https://www.ncbi.nlm.nih.gov/gene/1009) | [MIM:600023](https://omim.org/entry/600023) |  |
+| Human | [ENSG00000140937](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140937) | [1009](https://www.ncbi.nlm.nih.gov/gene/1009) | [MIM:600023](https://omim.org/entry/600023) |  |
 | Mouse | [ENSMUSG00000031673](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031673) | [12552](https://www.ncbi.nlm.nih.gov/gene/12552) | [MGI:99217](http://www.informatics.jax.org/marker/MGI:99217) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [548575](https://www.ncbi.nlm.nih.gov/gene/548575), [100337621](https://www.ncbi.nlm.nih.gov/gene/100337621) | [483598](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483598) |  |
-| Zebrafish | [ENSDARG00000021442](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021442) | [30461](https://www.ncbi.nlm.nih.gov/gene/30461) | [ZFIN:ZDB-GENE-980526-170](https://zfin.org/ZDB-GENE-980526-170) | ZDB-GENE-980526-170 |
+| Xenopus | [ENSXETG00000020467](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020467) | [548575](https://www.ncbi.nlm.nih.gov/gene/548575) |  |  |
+| Zebrafish | [ENSDARG00000021442](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021442) | [30461](https://www.ncbi.nlm.nih.gov/gene/30461) | [ZFIN:ZDB-GENE-980526-170](https://zfin.org/ZDB-GENE-980526-170) | adherens junction organization, calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules, cell adhesion, cell migration, cell morphogenesis |
 

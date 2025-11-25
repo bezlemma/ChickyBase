@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419969
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418091
-gene_id: '453099'
+gene_id: '419969'
 gene_type: protein-coding
 images:
 - caption: GFAP expression
@@ -158,13 +158,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFAP.Domowicz.2011
     for figure 7.png
 name: glial fibrillary acidic protein
-ncbi_id: '453099'
+ncbi_id: '419969'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000131095
   entrez: '2670'
   mod: MIM:137780
@@ -175,20 +170,16 @@ orthologs:
   mod: MGI:95697
   phenotypes: All phenotypic alleles (13):Targeted, knock-out(4) Targeted, other(9)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000025301
   entrez: '30646'
   mod: ZFIN:ZDB-GENE-990914-3
-  phenotypes: ZDB-GENE-990914-3
+  phenotypes: intermediate filament organization, regulation of chaperone-mediated
+    autophagy
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453099
+  url: https://www.ncbi.nlm.nih.gov/gene/419969
 species: Gallus gallus
 symbol: GFAP
 title: GFAP
@@ -214,9 +205,7 @@ title: GFAP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000131095](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000131095) | [2670](https://www.ncbi.nlm.nih.gov/gene/2670) | [MIM:137780](https://omim.org/entry/137780) | MIM:203450 |
 | Mouse | [ENSMUSG00000020932](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020932) | [14580](https://www.ncbi.nlm.nih.gov/gene/14580) | [MGI:95697](http://www.informatics.jax.org/marker/MGI:95697) | All phenotypic alleles (13):Targeted, knock-out(4) Targeted, other(9) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000025301](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025301) | [30646](https://www.ncbi.nlm.nih.gov/gene/30646) | [ZFIN:ZDB-GENE-990914-3](https://zfin.org/ZDB-GENE-990914-3) | ZDB-GENE-990914-3 |
+| Zebrafish | [ENSDARG00000025301](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025301) | [30646](https://www.ncbi.nlm.nih.gov/gene/30646) | [ZFIN:ZDB-GENE-990914-3](https://zfin.org/ZDB-GENE-990914-3) | intermediate filament organization, regulation of chaperone-mediated autophagy |
 

@@ -3,14 +3,13 @@ aliases:
 - membrane-associated transporter protein
 cgnc_id: '2405'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/431665
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:431665
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001083364
 forward_primer: 5’-AGCAACGGACATGGGCAATA-3’
-gene_id: '461191'
+gene_id: '431665'
 gene_type: protein-coding
 images:
 - caption: SLC45A2 expression
@@ -97,13 +96,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R640.SLCA542.S25.001.jpg
 name: solute carrier family 45 member 2
-ncbi_id: '461191'
+ncbi_id: '431665'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164175
   entrez: '51151'
   mod: MIM:606202
@@ -115,24 +109,25 @@ orthologs:
   phenotypes: All phenotypic alleles (15):Spontaneous(5) Chemically induced(7) Targeted,
     other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 496798,734429
-  mod: '947684'
+- ensembl: ENSXETG00000002556
+  entrez: '496798'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000002593
   entrez: '558311'
   mod: ZFIN:ZDB-GENE-050208-97
-  phenotypes: ZDB-GENE-050208-97
+  phenotypes: developmental pigmentation, melanocyte differentiation, pigmentation,
+    response to light stimulus
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCAAGCCAATCAACCCAGTGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461191
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=431665
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461191
+  url: https://www.ncbi.nlm.nih.gov/gene/431665
 species: Gallus gallus
 symbol: SLC45A2
 template_length: '836'
@@ -155,9 +150,8 @@ title: SLC45A2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164175](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164175) | [51151](https://www.ncbi.nlm.nih.gov/gene/51151) | [MIM:606202](https://omim.org/entry/606202) | MIM:606574 |
 | Mouse | [ENSMUSG00000022243](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022243) | [22293](https://www.ncbi.nlm.nih.gov/gene/22293) | [MGI:2153040](http://www.informatics.jax.org/marker/MGI:2153040) | All phenotypic alleles (15):Spontaneous(5) Chemically induced(7) Targeted, other(3) |
-| Xenopus |  | [496798](https://www.ncbi.nlm.nih.gov/gene/496798), [734429](https://www.ncbi.nlm.nih.gov/gene/734429) | [947684](http://www.xenbase.org/gene/showgene.do?method=display&geneId=947684) |  |
-| Zebrafish | [ENSDARG00000002593](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002593) | [558311](https://www.ncbi.nlm.nih.gov/gene/558311) | [ZFIN:ZDB-GENE-050208-97](https://zfin.org/ZDB-GENE-050208-97) | ZDB-GENE-050208-97 |
+| Xenopus | [ENSXETG00000002556](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002556) | [496798](https://www.ncbi.nlm.nih.gov/gene/496798) |  |  |
+| Zebrafish | [ENSDARG00000002593](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002593) | [558311](https://www.ncbi.nlm.nih.gov/gene/558311) | [ZFIN:ZDB-GENE-050208-97](https://zfin.org/ZDB-GENE-050208-97) | developmental pigmentation, melanocyte differentiation, pigmentation, response to light stimulus |
 

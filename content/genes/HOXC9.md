@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:425723
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277282
-gene_id: '451307'
+gene_id: '425723'
 gene_type: protein-coding
 images:
 - caption: HOXC9 expression
@@ -90,40 +90,37 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxc-9.Nelson.1996.Fig3.jpg
 name: homeobox C9
-ncbi_id: '451307'
+ncbi_id: '425723'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000180806
+  entrez: '3225'
+  mod: MIM:142971
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000036139
   entrez: '15427'
   mod: MGI:96199
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 550010,100381079
-  mod: '482329'
+- ensembl: ENSXETG00000044877
+  entrez: '550010'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000092809
   entrez: '58043'
   mod: ZFIN:ZDB-GENE-000328-5
-  phenotypes: ZDB-GENE-000328-5
+  phenotypes: DNA-templated transcription, anterior/posterior pattern specification,
+    embryonic skeletal system morphogenesis, negative regulation of vasculogenesis,
+    positive regulation of lymphangiogenesis
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451307
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=425723
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451307
+  url: https://www.ncbi.nlm.nih.gov/gene/425723
 species: Gallus gallus
 symbol: HOXC9
 title: HOXC9
@@ -149,9 +146,8 @@ title: HOXC9
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  | [15427](https://www.ncbi.nlm.nih.gov/gene/15427) | [MGI:96199](http://www.informatics.jax.org/marker/MGI:96199) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [550010](https://www.ncbi.nlm.nih.gov/gene/550010), [100381079](https://www.ncbi.nlm.nih.gov/gene/100381079) | [482329](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482329) |  |
-| Zebrafish | [ENSDARG00000092809](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000092809) | [58043](https://www.ncbi.nlm.nih.gov/gene/58043) | [ZFIN:ZDB-GENE-000328-5](https://zfin.org/ZDB-GENE-000328-5) | ZDB-GENE-000328-5 |
+| Human | [ENSG00000180806](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000180806) | [3225](https://www.ncbi.nlm.nih.gov/gene/3225) | [MIM:142971](https://omim.org/entry/142971) |  |
+| Mouse | [ENSMUSG00000036139](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036139) | [15427](https://www.ncbi.nlm.nih.gov/gene/15427) | [MGI:96199](http://www.informatics.jax.org/marker/MGI:96199) | All phenotypic alleles (2):Targeted, knock-out(2) |
+| Xenopus | [ENSXETG00000044877](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044877) | [550010](https://www.ncbi.nlm.nih.gov/gene/550010) |  |  |
+| Zebrafish | [ENSDARG00000092809](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000092809) | [58043](https://www.ncbi.nlm.nih.gov/gene/58043) | [ZFIN:ZDB-GENE-000328-5](https://zfin.org/ZDB-GENE-000328-5) | DNA-templated transcription, anterior/posterior pattern specification, embryonic skeletal system morphogenesis, negative regulation of vasculogenesis, positive regulation of lymphangiogenesis |
 

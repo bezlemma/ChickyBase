@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423513
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277548
 forward_primer: TTTCCTGACTCGGACGGACAAG
-gene_id: '451647'
+gene_id: '423513'
 gene_type: protein-coding
 images:
 - caption: RHOJ expression
@@ -106,13 +106,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R402.RHOJ.S26D.001.jpg
 name: ras homolog family member J
-ncbi_id: '451647'
+ncbi_id: '423513'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000126785
   entrez: '57381'
   mod: MIM:607653
@@ -123,24 +118,25 @@ orthologs:
   mod: MGI:1931551
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100125013,444554
-  mod: '957539'
+- ensembl: ENSXETG00000048799
+  entrez: '100125013'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000020250
   entrez: '556371'
   mod: ZFIN:ZDB-GENE-040724-272
-  phenotypes: ZDB-GENE-040724-272
+  phenotypes: actin cytoskeleton organization, actin filament organization, endocytosis,
+    establishment of cell polarity, signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGTGCTCCAATCTCCTTCGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451647
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423513
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451647
+  url: https://www.ncbi.nlm.nih.gov/gene/423513
 species: Gallus gallus
 symbol: RHOJ
 template_length: '803'
@@ -162,9 +158,8 @@ title: RHOJ
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000126785](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000126785) | [57381](https://www.ncbi.nlm.nih.gov/gene/57381) | [MIM:607653](https://omim.org/entry/607653) |  |
 | Mouse | [ENSMUSG00000046768](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000046768) | [80837](https://www.ncbi.nlm.nih.gov/gene/80837) | [MGI:1931551](http://www.informatics.jax.org/marker/MGI:1931551) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100125013](https://www.ncbi.nlm.nih.gov/gene/100125013), [444554](https://www.ncbi.nlm.nih.gov/gene/444554) | [957539](http://www.xenbase.org/gene/showgene.do?method=display&geneId=957539) |  |
-| Zebrafish |  | [556371](https://www.ncbi.nlm.nih.gov/gene/556371) | [ZFIN:ZDB-GENE-040724-272](https://zfin.org/ZDB-GENE-040724-272) | ZDB-GENE-040724-272 |
+| Xenopus | [ENSXETG00000048799](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000048799) | [100125013](https://www.ncbi.nlm.nih.gov/gene/100125013) |  |  |
+| Zebrafish | [ENSDARG00000020250](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020250) | [556371](https://www.ncbi.nlm.nih.gov/gene/556371) | [ZFIN:ZDB-GENE-040724-272](https://zfin.org/ZDB-GENE-040724-272) | actin cytoskeleton organization, actin filament organization, endocytosis, establishment of cell polarity, signal transduction |
 

@@ -14,7 +14,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0016892
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205259
 forward_primer: CCGAAGACATCGTTCCCAAAC
-gene_id: '459003'
+gene_id: '396194'
 gene_type: protein-coding
 images:
 - caption: RNASE6 expression
@@ -67,7 +67,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R527.ANG.S26AA.001.jpg
 name: ribonuclease A family member k6
-ncbi_id: '459003'
+ncbi_id: '396194'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -98,10 +98,10 @@ reverse_primer: AATTAACCCTCACTAAAGGAAAGCAGCAAAGAGAGTGGTGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459003
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396194
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459003
+  url: https://www.ncbi.nlm.nih.gov/gene/396194
 species: Gallus gallus
 symbol: RNASE6
 template_length: '590'

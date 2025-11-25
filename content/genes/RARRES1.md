@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395209
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204534
-gene_id: '461815'
+gene_id: '395209'
 gene_type: protein-coding
 images:
 - caption: RARRES1 expression
@@ -29,13 +29,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARRES1.Anderson.2019.Supplementary
     figure 4F.jpg
 name: retinoic acid receptor responder 1
-ncbi_id: '461815'
+ncbi_id: '395209'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000118849
   entrez: '5918'
   mod: MIM:605090
@@ -46,20 +41,15 @@ orthologs:
   mod: MGI:1924461
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100158540,398803
-  mod: '1011085'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000014097
+  entrez: '100158540'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461815
+  url: https://www.ncbi.nlm.nih.gov/gene/395209
 species: Gallus gallus
 symbol: RARRES1
 title: RARRES1
@@ -87,9 +77,7 @@ title: RARRES1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000118849](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118849) | [5918](https://www.ncbi.nlm.nih.gov/gene/5918) | [MIM:605090](https://omim.org/entry/605090) |  |
 | Mouse | [ENSMUSG00000049404](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049404) | [109222](https://www.ncbi.nlm.nih.gov/gene/109222) | [MGI:1924461](http://www.informatics.jax.org/marker/MGI:1924461) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100158540](https://www.ncbi.nlm.nih.gov/gene/100158540), [398803](https://www.ncbi.nlm.nih.gov/gene/398803) | [1011085](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1011085) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000014097](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014097) | [100158540](https://www.ncbi.nlm.nih.gov/gene/100158540) |  |  |
 

@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771101
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234405
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCCAATGAGAAAACTGGGAGGC
-gene_id: '449213'
+gene_id: '771101'
 gene_type: protein-coding
 images:
 - caption: HEYL expression
@@ -92,14 +92,9 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R307.HEYL.S24.001.jpg
 name: hes related family bHLH transcription factor with YRPW motif-like
-ncbi_id: '449213'
+ncbi_id: '771101'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000163909
   entrez: '26508'
   mod: MIM:609034
   phenotypes: ''
@@ -109,23 +104,19 @@ orthologs:
   mod: MGI:1860511
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000055798
   entrez: '335134'
   mod: ZFIN:ZDB-GENE-030131-7074
-  phenotypes: ZDB-GENE-030131-7074
+  phenotypes: Notch signaling pathway, anterior/posterior pattern specification, cell
+    fate commitment, regulation of DNA-templated transcription, regulation of neurogenesis
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449213
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771101
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449213
+  url: https://www.ncbi.nlm.nih.gov/gene/771101
 species: Gallus gallus
 symbol: HEYL
 title: HEYL
@@ -146,9 +137,7 @@ title: HEYL
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [26508](https://www.ncbi.nlm.nih.gov/gene/26508) | [MIM:609034](https://omim.org/entry/609034) |  |
+| Human | [ENSG00000163909](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163909) | [26508](https://www.ncbi.nlm.nih.gov/gene/26508) | [MIM:609034](https://omim.org/entry/609034) |  |
 | Mouse | [ENSMUSG00000032744](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032744) | [56198](https://www.ncbi.nlm.nih.gov/gene/56198) | [MGI:1860511](http://www.informatics.jax.org/marker/MGI:1860511) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000055798](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055798) | [335134](https://www.ncbi.nlm.nih.gov/gene/335134) | [ZFIN:ZDB-GENE-030131-7074](https://zfin.org/ZDB-GENE-030131-7074) | ZDB-GENE-030131-7074 |
+| Zebrafish | [ENSDARG00000055798](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055798) | [335134](https://www.ncbi.nlm.nih.gov/gene/335134) | [ZFIN:ZDB-GENE-030131-7074](https://zfin.org/ZDB-GENE-030131-7074) | Notch signaling pathway, anterior/posterior pattern specification, cell fate commitment, regulation of DNA-templated transcription, regulation of neurogenesis |
 

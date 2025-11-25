@@ -3,14 +3,13 @@ aliases:
 - F-actin-capping protein subunit alpha-3
 cgnc_id: '9917'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000013125
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427929
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001278118
 forward_primer: 5'-CCTCATTTGCGGACTGATGC-3'
-gene_id: '457474'
+gene_id: '427929'
 gene_type: protein-coding
 images:
 - caption: CAPZA3 expression
@@ -60,13 +59,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R617.CAPZA3.S25.001.jpg
 name: capping actin protein of muscle Z-line subunit alpha 3
-ncbi_id: '457474'
+ncbi_id: '427929'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000177938
   entrez: '93661'
   mod: MIM:608722
@@ -77,24 +71,14 @@ orthologs:
   mod: MGI:106221
   phenotypes: All phenotypic alleles (1):Chemically induced(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGCCCAGGCTTTTTTTGAACACAC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457474
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427929
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457474
+  url: https://www.ncbi.nlm.nih.gov/gene/427929
 species: Gallus gallus
 symbol: CAPZA3
 template_length: '399'
@@ -117,9 +101,6 @@ title: CAPZA3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000177938](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000177938) | [93661](https://www.ncbi.nlm.nih.gov/gene/93661) | [MIM:608722](https://omim.org/entry/608722) |  |
 | Mouse | [ENSMUSG00000041791](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041791) | [12344](https://www.ncbi.nlm.nih.gov/gene/12344) | [MGI:106221](http://www.informatics.jax.org/marker/MGI:106221) | All phenotypic alleles (1):Chemically induced(1) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
 

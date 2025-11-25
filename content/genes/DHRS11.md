@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395172
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0016491
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204507
-gene_id: '462338'
+gene_id: '395172'
 gene_type: protein-coding
 images:
 - caption: DHRS11 expression
@@ -62,13 +62,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/B43.48.22.jpg
 name: dehydrogenase/reductase 11
-ncbi_id: '462338'
+ncbi_id: '395172'
 orthologs:
-- ensembl: ''
-  entrez: 33856,39528
-  mod: FBgn0031775,FBgn0036380
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000278535
   entrez: '79154'
   mod: MIM:616159
@@ -79,23 +74,18 @@ orthologs:
   mod: MGI:2652816
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ENSXETG00000023966
-  entrez: 496708,495296
-  mod: '6048419'
+- ensembl: ENSDARG00000112531
+  entrez: '791578'
+  mod: ZFIN:ZDB-GENE-060929-324
   phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000046090,ENSDARG00000031299
-  entrez: 791578,791770
-  mod: ZFIN:ZDB-GENE-060929-324,ZFIN:ZDB-GENE-040625-155
-  phenotypes: ZDB-GENE-060929-324,ZDB-GENE-040625-155
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462338
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395172
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462338
+  url: https://www.ncbi.nlm.nih.gov/gene/395172
 species: Gallus gallus
 symbol: DHRS11
 title: DHRS11
@@ -121,9 +111,7 @@ title: DHRS11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33856](https://www.ncbi.nlm.nih.gov/gene/33856), [39528](https://www.ncbi.nlm.nih.gov/gene/39528) | FBgn0031775, FBgn0036380 |  |
 | Human | [ENSG00000278535](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000278535) | [79154](https://www.ncbi.nlm.nih.gov/gene/79154) | [MIM:616159](https://omim.org/entry/616159) |  |
 | Mouse | [ENSMUSG00000034449](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034449) | [192970](https://www.ncbi.nlm.nih.gov/gene/192970) | [MGI:2652816](http://www.informatics.jax.org/marker/MGI:2652816) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus | [ENSXETG00000023966](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023966) | [496708](https://www.ncbi.nlm.nih.gov/gene/496708), [495296](https://www.ncbi.nlm.nih.gov/gene/495296) | [6048419](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6048419) |  |
-| Zebrafish | [ENSDARG00000046090](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000046090), [ENSDARG00000031299](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031299) | [791578](https://www.ncbi.nlm.nih.gov/gene/791578), [791770](https://www.ncbi.nlm.nih.gov/gene/791770) | [ZFIN:ZDB-GENE-060929-324](https://zfin.org/ZDB-GENE-060929-324), [ZFIN:ZDB-GENE-040625-155](https://zfin.org/ZDB-GENE-040625-155) | ZDB-GENE-060929-324,ZDB-GENE-040625-155 |
+| Zebrafish | [ENSDARG00000112531](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000112531) | [791578](https://www.ncbi.nlm.nih.gov/gene/791578) | [ZFIN:ZDB-GENE-060929-324](https://zfin.org/ZDB-GENE-060929-324) |  |
 

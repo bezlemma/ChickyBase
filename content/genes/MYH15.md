@@ -19,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204766
 forward_primer: CAGTGGACAACTTGGATGACGG
-gene_id: '449632'
+gene_id: '395534'
 gene_type: protein-coding
 images:
 - caption: MYH15 expression
@@ -357,41 +357,37 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VMHC1.Anderson.2019.Fig3.jpg
 name: myosin, heavy chain 15
-ncbi_id: '449632'
+ncbi_id: '395534'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000197616
+  entrez: '4624'
+  mod: MIM:160710
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000040752
+  entrez: '17888'
+  mod: MGI:97255
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '6048376'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000048130
+  entrez: '100216059'
   mod: ''
   phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000090637
+  entrez: '386711'
+  mod: ZFIN:ZDB-GENE-031112-1
+  phenotypes: atrial cardiac myofibril assembly, cardiac atrium development, cardiac
+    atrium morphogenesis, cardiac ventricle morphogenesis, heart contraction
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCCTTGAAGAACACCTTAGTATGCCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449632
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395534
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449632
+  url: https://www.ncbi.nlm.nih.gov/gene/395534
 species: Gallus gallus
 symbol: MYH15
 template_length: '1347'
@@ -421,9 +417,8 @@ title: MYH15
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  | [6048376](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6048376) |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000197616](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197616) | [4624](https://www.ncbi.nlm.nih.gov/gene/4624) | [MIM:160710](https://omim.org/entry/160710) |  |
+| Mouse | [ENSMUSG00000040752](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040752) | [17888](https://www.ncbi.nlm.nih.gov/gene/17888) | [MGI:97255](http://www.informatics.jax.org/marker/MGI:97255) |  |
+| Xenopus | [ENSXETG00000048130](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000048130) | [100216059](https://www.ncbi.nlm.nih.gov/gene/100216059) |  |  |
+| Zebrafish | [ENSDARG00000090637](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000090637) | [386711](https://www.ncbi.nlm.nih.gov/gene/386711) | [ZFIN:ZDB-GENE-031112-1](https://zfin.org/ZDB-GENE-031112-1) | atrial cardiac myofibril assembly, cardiac atrium development, cardiac atrium morphogenesis, cardiac ventricle morphogenesis, heart contraction |
 

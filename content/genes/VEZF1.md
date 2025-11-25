@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417664
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001037827
 forward_primer: TTCTGCCCTTACCGATAACGC
-gene_id: '452501'
+gene_id: '417664'
 gene_type: protein-coding
 images:
 - caption: VEZF1 expression
@@ -94,14 +94,9 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R335.VEZF1.S24.001.jpg
 name: vascular endothelial zinc finger 1
-ncbi_id: '452501'
+ncbi_id: '417664'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000136451
   entrez: '7716'
   mod: MIM:606747
   phenotypes: ''
@@ -111,24 +106,25 @@ orthologs:
   mod: MGI:1313291
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 448632,446624,779374
-  mod: '481522'
+- ensembl: ENSXETG00000008951
+  entrez: '448632'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000061030
-  entrez: 567023,556915
-  mod: ZFIN:ZDB-GENE-040108-4,ZFIN:ZDB-GENE-060825-121
-  phenotypes: ZDB-GENE-040108-4,ZDB-GENE-060825-121
+- ensembl: ENSDARG00000008247
+  entrez: '567023'
+  mod: ZFIN:ZDB-GENE-040108-4
+  phenotypes: positive regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGCTGCTTCTGATTGCTGGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452501
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417664
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452501
+  url: https://www.ncbi.nlm.nih.gov/gene/417664
 species: Gallus gallus
 symbol: VEZF1
 template_length: '889'
@@ -150,9 +146,8 @@ title: VEZF1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [7716](https://www.ncbi.nlm.nih.gov/gene/7716) | [MIM:606747](https://omim.org/entry/606747) |  |
+| Human | [ENSG00000136451](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136451) | [7716](https://www.ncbi.nlm.nih.gov/gene/7716) | [MIM:606747](https://omim.org/entry/606747) |  |
 | Mouse | [ENSMUSG00000018377](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018377) | [22344](https://www.ncbi.nlm.nih.gov/gene/22344) | [MGI:1313291](http://www.informatics.jax.org/marker/MGI:1313291) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [448632](https://www.ncbi.nlm.nih.gov/gene/448632), [446624](https://www.ncbi.nlm.nih.gov/gene/446624), [779374](https://www.ncbi.nlm.nih.gov/gene/779374) | [481522](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481522) |  |
-| Zebrafish | [ENSDARG00000061030](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061030) | [567023](https://www.ncbi.nlm.nih.gov/gene/567023), [556915](https://www.ncbi.nlm.nih.gov/gene/556915) | [ZFIN:ZDB-GENE-040108-4](https://zfin.org/ZDB-GENE-040108-4), [ZFIN:ZDB-GENE-060825-121](https://zfin.org/ZDB-GENE-060825-121) | ZDB-GENE-040108-4,ZDB-GENE-060825-121 |
+| Xenopus | [ENSXETG00000008951](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008951) | [448632](https://www.ncbi.nlm.nih.gov/gene/448632) |  |  |
+| Zebrafish | [ENSDARG00000008247](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008247) | [567023](https://www.ncbi.nlm.nih.gov/gene/567023) | [ZFIN:ZDB-GENE-040108-4](https://zfin.org/ZDB-GENE-040108-4) | positive regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

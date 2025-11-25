@@ -3,13 +3,12 @@ aliases:
 - matrilin-2
 cgnc_id: '10792'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/426584
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426584
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424219
 forward_primer: CTCCCTGTAGGACATTTTACCCG
-gene_id: '459764'
+gene_id: '426584'
 gene_type: protein-coding
 images:
 - caption: MATN2 expression
@@ -206,41 +205,23 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R440.MATN2.S25V.001.jpg
 name: matrilin 2
-ncbi_id: '459764'
+ncbi_id: '426584'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: 595001,379491
-  mod: '957558'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000030215
-  entrez: '403023'
-  mod: ZFIN:ZDB-GENE-050307-3
-  phenotypes: ZDB-GENE-050307-3
+- ensembl: ENSDARG00000069245
+  entrez: '445503'
+  mod: ZFIN:ZDB-GENE-040822-21
+  phenotypes: anterior/posterior pattern specification, embryonic skeletal system
+    morphogenesis, regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCTTCCCATCCGCATCAAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459764
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426584
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459764
+  url: https://www.ncbi.nlm.nih.gov/gene/426584
 species: Gallus gallus
 symbol: MATN2
 template_length: '862'
@@ -262,9 +243,5 @@ title: MATN2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [595001](https://www.ncbi.nlm.nih.gov/gene/595001), [379491](https://www.ncbi.nlm.nih.gov/gene/379491) | [957558](http://www.xenbase.org/gene/showgene.do?method=display&geneId=957558) |  |
-| Zebrafish | [ENSDARG00000030215](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030215) | [403023](https://www.ncbi.nlm.nih.gov/gene/403023) | [ZFIN:ZDB-GENE-050307-3](https://zfin.org/ZDB-GENE-050307-3) | ZDB-GENE-050307-3 |
+| Zebrafish | [ENSDARG00000069245](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069245) | [445503](https://www.ncbi.nlm.nih.gov/gene/445503) | [ZFIN:ZDB-GENE-040822-21](https://zfin.org/ZDB-GENE-040822-21) | anterior/posterior pattern specification, embryonic skeletal system morphogenesis, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

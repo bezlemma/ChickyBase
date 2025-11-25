@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426068
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423746
 forward_primer: CAAGGACGGCATCTTCGTTTTC
-gene_id: '455128'
+gene_id: '426068'
 gene_type: protein-coding
 images:
 - caption: CELSR1 expression
@@ -280,41 +280,37 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/c-fmi1.Formstone.20053G.jpg
 name: cadherin EGF LAG seven-pass G-type receptor 1
-ncbi_id: '455128'
+ncbi_id: '426068'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000075275
+  entrez: '9620'
+  mod: MIM:604523
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000016028
+  entrez: '12614'
+  mod: MGI:1100883
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000023306
   entrez: '100038051'
-  mod: '853454'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000069185
-  entrez: '368436'
-  mod: ZFIN:ZDB-GENE-030616-78
-  phenotypes: ZDB-GENE-030616-78
+- ensembl: ENSDARG00000058259
+  entrez: '556520'
+  mod: ZFIN:ZDB-GENE-050823-4
+  phenotypes: G protein-coupled receptor signaling pathway, anatomical structure morphogenesis,
+    axonogenesis, cell adhesion, cell migration involved in gastrulation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCACAGGTGTAGTTTCCAATGAGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455128
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426068
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455128
+  url: https://www.ncbi.nlm.nih.gov/gene/426068
 species: Gallus gallus
 symbol: CELSR1
 template_length: '1025'
@@ -340,9 +336,8 @@ title: CELSR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100038051](https://www.ncbi.nlm.nih.gov/gene/100038051) | [853454](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853454) |  |
-| Zebrafish | [ENSDARG00000069185](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069185) | [368436](https://www.ncbi.nlm.nih.gov/gene/368436) | [ZFIN:ZDB-GENE-030616-78](https://zfin.org/ZDB-GENE-030616-78) | ZDB-GENE-030616-78 |
+| Human | [ENSG00000075275](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000075275) | [9620](https://www.ncbi.nlm.nih.gov/gene/9620) | [MIM:604523](https://omim.org/entry/604523) |  |
+| Mouse | [ENSMUSG00000016028](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000016028) | [12614](https://www.ncbi.nlm.nih.gov/gene/12614) | [MGI:1100883](http://www.informatics.jax.org/marker/MGI:1100883) |  |
+| Xenopus | [ENSXETG00000023306](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023306) | [100038051](https://www.ncbi.nlm.nih.gov/gene/100038051) |  |  |
+| Zebrafish | [ENSDARG00000058259](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058259) | [556520](https://www.ncbi.nlm.nih.gov/gene/556520) | [ZFIN:ZDB-GENE-050823-4](https://zfin.org/ZDB-GENE-050823-4) | G protein-coupled receptor signaling pathway, anatomical structure morphogenesis, axonogenesis, cell adhesion, cell migration involved in gastrulation |
 

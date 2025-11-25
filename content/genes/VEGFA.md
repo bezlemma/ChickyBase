@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395909
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0042056
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001110355
-gene_id: '450442'
+gene_id: '395909'
 gene_type: protein-coding
 images:
 - caption: VEGFA expression
@@ -163,13 +163,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VEGF-A.Ivnitski-Steele.2004.Fig3.jpg
 name: vascular endothelial growth factor A
-ncbi_id: '450442'
+ncbi_id: '395909'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000112715
   entrez: '7422'
   mod: MIM:192240
@@ -180,23 +175,19 @@ orthologs:
   mod: MGI:103178
   phenotypes: All phenotypic alleles (12):Targeted, knock-out(4) Targeted, other(8)
   species: Mouse
-- ensembl: ''
-  entrez: 100038089,100037058,373589
-  mod: '485743'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000034700
-  entrez: 558154,30682
-  mod: ZFIN:ZDB-GENE-030131-4605,ZFIN:ZDB-GENE-990415-273
-  phenotypes: ZDB-GENE-030131-4605,ZDB-GENE-990415-273
+  entrez: '558154'
+  mod: ZFIN:ZDB-GENE-030131-4605
+  phenotypes: angiogenesis, animal organ development, cell differentiation, induction
+    of positive chemotaxis, positive regulation of mast cell chemotaxis
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450442
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395909
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450442
+  url: https://www.ncbi.nlm.nih.gov/gene/395909
 species: Gallus gallus
 symbol: VEGFA
 title: VEGFA
@@ -225,9 +216,7 @@ title: VEGFA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000112715](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112715) | [7422](https://www.ncbi.nlm.nih.gov/gene/7422) | [MIM:192240](https://omim.org/entry/192240) | MIM:125853 |
 | Mouse | [ENSMUSG00000023951](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023951) | [22339](https://www.ncbi.nlm.nih.gov/gene/22339) | [MGI:103178](http://www.informatics.jax.org/marker/MGI:103178) | All phenotypic alleles (12):Targeted, knock-out(4) Targeted, other(8) |
-| Xenopus |  | [100038089](https://www.ncbi.nlm.nih.gov/gene/100038089), [100037058](https://www.ncbi.nlm.nih.gov/gene/100037058), [373589](https://www.ncbi.nlm.nih.gov/gene/373589) | [485743](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485743) |  |
-| Zebrafish | [ENSDARG00000034700](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034700) | [558154](https://www.ncbi.nlm.nih.gov/gene/558154), [30682](https://www.ncbi.nlm.nih.gov/gene/30682) | [ZFIN:ZDB-GENE-030131-4605](https://zfin.org/ZDB-GENE-030131-4605), [ZFIN:ZDB-GENE-990415-273](https://zfin.org/ZDB-GENE-990415-273) | ZDB-GENE-030131-4605,ZDB-GENE-990415-273 |
+| Zebrafish | [ENSDARG00000034700](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034700) | [558154](https://www.ncbi.nlm.nih.gov/gene/558154) | [ZFIN:ZDB-GENE-030131-4605](https://zfin.org/ZDB-GENE-030131-4605) | angiogenesis, animal organ development, cell differentiation, induction of positive chemotaxis, positive regulation of mast cell chemotaxis |
 

@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100858174
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641471
-gene_id: '472705'
+gene_id: '100858174'
 gene_type: protein-coding
 images:
 - caption: NEUROG3 expression
@@ -111,7 +111,7 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGN3.Ma.2008.Fig.2.png
 name: neurogenin 3
-ncbi_id: '472705'
+ncbi_id: '100858174'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -141,7 +141,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/472705
+  url: https://www.ncbi.nlm.nih.gov/gene/100858174
 species: Gallus gallus
 symbol: NEUROG3
 title: NEUROG3

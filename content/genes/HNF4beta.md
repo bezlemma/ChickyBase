@@ -4,14 +4,13 @@ aliases:
 - nuclear receptor
 cgnc_id: '50093'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000005708
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415820
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030576
 forward_primer: 5’-ATGGGCGCTGTTCAATGC-3’
-gene_id: '459200'
+gene_id: '415820'
 gene_type: protein-coding
 images:
 - caption: HNF4beta expression
@@ -85,41 +84,21 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R711.HNF4BETA.S25AAA.001.jpg
 name: hepatic nuclear factor 4 beta
-ncbi_id: '459200'
+ncbi_id: '415820'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000016389
+  entrez: '100486037'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAGCTCATGTTGCCTGGGAG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459200
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415820
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459200
+  url: https://www.ncbi.nlm.nih.gov/gene/415820
 species: Gallus gallus
 symbol: HNF4beta
 template_length: '1122'
@@ -142,9 +121,5 @@ title: HNF4beta
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000016389](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016389) | [100486037](https://www.ncbi.nlm.nih.gov/gene/100486037) |  |  |
 

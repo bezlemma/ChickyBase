@@ -3,8 +3,6 @@ aliases:
 - extracellular sulfatase Sulf-1
 cgnc_id: '8558'
 external_ids:
-  '4': stage 4stage 4
-  '7': stage 7
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Bell+Antin+GEISHA+screen
   Comments: 'As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI (acc
@@ -15,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426312
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640824
-gene_id: '460189'
+gene_id: '426312'
 gene_type: protein-coding
 images:
 - caption: SULF1 expression
@@ -479,40 +477,36 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kahane.2013.Fig1_Allimages-13.jpg
 name: sulfatase 1
-ncbi_id: '460189'
+ncbi_id: '426312'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000137573
+  entrez: '23213'
+  mod: MIM:610012
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000016918
+  entrez: '240725'
+  mod: MGI:2138563
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000015231
+  entrez: '100038259'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000038428
+  entrez: '337298'
+  mod: ZFIN:ZDB-GENE-030131-9242
+  phenotypes: blood circulation, bone development, chondrocyte development, embryonic
+    skeletal system development, epithelial structure maintenance
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460189
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426312
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460189
+  url: https://www.ncbi.nlm.nih.gov/gene/426312
 species: Gallus gallus
 symbol: SULF1
 title: SULF1
@@ -538,9 +532,8 @@ title: SULF1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000137573](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137573) | [23213](https://www.ncbi.nlm.nih.gov/gene/23213) | [MIM:610012](https://omim.org/entry/610012) |  |
+| Mouse | [ENSMUSG00000016918](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000016918) | [240725](https://www.ncbi.nlm.nih.gov/gene/240725) | [MGI:2138563](http://www.informatics.jax.org/marker/MGI:2138563) |  |
+| Xenopus | [ENSXETG00000015231](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015231) | [100038259](https://www.ncbi.nlm.nih.gov/gene/100038259) |  |  |
+| Zebrafish | [ENSDARG00000038428](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038428) | [337298](https://www.ncbi.nlm.nih.gov/gene/337298) | [ZFIN:ZDB-GENE-030131-9242](https://zfin.org/ZDB-GENE-030131-9242) | blood circulation, bone development, chondrocyte development, embryonic skeletal system development, epithelial structure maintenance |
 

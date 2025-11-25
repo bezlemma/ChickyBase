@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395387
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204667
 forward_primer: CGACCAGGACAAGAAATACG
-gene_id: '448971'
+gene_id: '395387'
 gene_type: protein-coding
 images:
 - caption: MMP9 expression
@@ -180,13 +180,8 @@ images:
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Mmp9.Shelton.2007.Figure1H.jpg
 name: matrix metallopeptidase 9
-ncbi_id: '448971'
+ncbi_id: '395387'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100985
   entrez: '4318'
   mod: MIM:120361
@@ -198,23 +193,24 @@ orthologs:
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(6)
   species: Mouse
 - ensembl: ''
-  entrez: 448591,379663
-  mod: '876294'
+  entrez: '100494738'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000042816
   entrez: '406397'
   mod: ZFIN:ZDB-GENE-040426-2132
-  phenotypes: ZDB-GENE-040426-2132
+  phenotypes: collagen catabolic process, collagen fibril organization, epithelium
+    development, extracellular matrix organization, fin morphogenesis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAAGGGGGACACCAGTAAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448971
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395387
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448971
+  url: https://www.ncbi.nlm.nih.gov/gene/395387
 species: Gallus gallus
 symbol: MMP9
 template_length: '964'
@@ -243,9 +239,8 @@ Copyright © 2007 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000100985](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100985) | [4318](https://www.ncbi.nlm.nih.gov/gene/4318) | [MIM:120361](https://omim.org/entry/120361) | MIM:603932 |
 | Mouse | [ENSMUSG00000017737](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000017737) | [17395](https://www.ncbi.nlm.nih.gov/gene/17395) | [MGI:97011](http://www.informatics.jax.org/marker/MGI:97011) | All phenotypic alleles (6):Targeted, knock-out(6) |
-| Xenopus |  | [448591](https://www.ncbi.nlm.nih.gov/gene/448591), [379663](https://www.ncbi.nlm.nih.gov/gene/379663) | [876294](http://www.xenbase.org/gene/showgene.do?method=display&geneId=876294) |  |
-| Zebrafish | [ENSDARG00000042816](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042816) | [406397](https://www.ncbi.nlm.nih.gov/gene/406397) | [ZFIN:ZDB-GENE-040426-2132](https://zfin.org/ZDB-GENE-040426-2132) | ZDB-GENE-040426-2132 |
+| Xenopus |  | [100494738](https://www.ncbi.nlm.nih.gov/gene/100494738) |  |  |
+| Zebrafish | [ENSDARG00000042816](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042816) | [406397](https://www.ncbi.nlm.nih.gov/gene/406397) | [ZFIN:ZDB-GENE-040426-2132](https://zfin.org/ZDB-GENE-040426-2132) | collagen catabolic process, collagen fibril organization, epithelium development, extracellular matrix organization, fin morphogenesis |
 

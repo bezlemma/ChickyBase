@@ -11,7 +11,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001197050
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/CLSTN1
 forward_primer: TTCTTCCGAGGCAATCTGGCAG
-gene_id: '448909'
+gene_id: '395372'
 gene_type: protein-coding
 images:
 - caption: CLSTN1 expression
@@ -225,13 +225,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R462.CLSTN1.S27.001.jpg
 name: calsyntenin 1
-ncbi_id: '448909'
+ncbi_id: '395372'
 orthologs:
-- ensembl: ''
-  entrez: '43824'
-  mod: FBgn0039928
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000171603
   entrez: '22883'
   mod: MIM:611321
@@ -242,24 +237,25 @@ orthologs:
   mod: MGI:1929895
   phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000000775
   entrez: '100145668'
-  mod: '6037891'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000031720
   entrez: '777737'
   mod: ZFIN:ZDB-GENE-040426-1064
-  phenotypes: ZDB-GENE-040426-1064
+  phenotypes: axon arborization, axonal transport, cell adhesion, endocytic recycling,
+    establishment or maintenance of microtubule cytoskeleton polarity
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAGCGTGTTCAATGGGGTTAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448909
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395372
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448909
+  url: https://www.ncbi.nlm.nih.gov/gene/395372
 species: Gallus gallus
 symbol: CLSTN1
 template_length: '867'
@@ -284,9 +280,8 @@ title: CLSTN1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43824](https://www.ncbi.nlm.nih.gov/gene/43824) | FBgn0039928 |  |
 | Human | [ENSG00000171603](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171603) | [22883](https://www.ncbi.nlm.nih.gov/gene/22883) | [MIM:611321](https://omim.org/entry/611321) |  |
 | Mouse | [ENSMUSG00000039953](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039953) | [65945](https://www.ncbi.nlm.nih.gov/gene/65945) | [MGI:1929895](http://www.informatics.jax.org/marker/MGI:1929895) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [100145668](https://www.ncbi.nlm.nih.gov/gene/100145668) | [6037891](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6037891) |  |
-| Zebrafish | [ENSDARG00000031720](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031720) | [777737](https://www.ncbi.nlm.nih.gov/gene/777737) | [ZFIN:ZDB-GENE-040426-1064](https://zfin.org/ZDB-GENE-040426-1064) | ZDB-GENE-040426-1064 |
+| Xenopus | [ENSXETG00000000775](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000775) | [100145668](https://www.ncbi.nlm.nih.gov/gene/100145668) |  |  |
+| Zebrafish | [ENSDARG00000031720](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031720) | [777737](https://www.ncbi.nlm.nih.gov/gene/777737) | [ZFIN:ZDB-GENE-040426-1064](https://zfin.org/ZDB-GENE-040426-1064) | axon arborization, axonal transport, cell adhesion, endocytic recycling, establishment or maintenance of microtubule cytoskeleton polarity |
 

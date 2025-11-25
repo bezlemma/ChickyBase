@@ -6,7 +6,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?tgu:100223811
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_002190125
-gene_id: '467922'
+gene_id: '777943'
 gene_type: miscRNA
 images:
 - caption: MIR148A expression
@@ -17,7 +17,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/148a.6.20.1.jpg
 name: microRNA 148a
-ncbi_id: '467922'
+ncbi_id: '777943'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -47,10 +47,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467922
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777943
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467922
+  url: https://www.ncbi.nlm.nih.gov/gene/777943
 species: Gallus gallus
 symbol: MIR148A
 title: MIR148A

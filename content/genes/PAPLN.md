@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428873
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426430
 forward_primer: TGAAGGGGAAGGATGTCTCAATAG
-gene_id: '456257'
+gene_id: '428873'
 gene_type: protein-coding
 images:
 - caption: PAPLN expression
@@ -111,16 +111,11 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R490.PAPLN.S27V.001.jpg
 name: papilin, proteoglycan like sulfated glycoprotein
-ncbi_id: '456257'
+ncbi_id: '428873'
 orthologs:
-- ensembl: ''
-  entrez: '43872'
-  mod: FBgn0003137
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100767
   entrez: '89932'
-  mod: ''
+  mod: MIM:617785
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000021223
@@ -128,24 +123,24 @@ orthologs:
   mod: MGI:2386139
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000001002
   entrez: '100489537'
-  mod: '855686'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000027867,ENSDARG00000042186
-  entrez: 562930,553586
-  mod: ZFIN:ZDB-GENE-030131-6023,ZFIN:ZDB-GENE-070815-4
-  phenotypes: ZDB-GENE-030131-6023,ZDB-GENE-070815-4
+- ensembl: ENSDARG00000027867
+  entrez: '562930'
+  mod: ZFIN:ZDB-GENE-070815-4
+  phenotypes: extracellular matrix organization
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTAACTGAATCTGCCGCCGAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456257
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428873
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456257
+  url: https://www.ncbi.nlm.nih.gov/gene/428873
 species: Gallus gallus
 symbol: PAPLN
 template_length: '946'
@@ -169,9 +164,8 @@ title: PAPLN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43872](https://www.ncbi.nlm.nih.gov/gene/43872) | FBgn0003137 |  |
-| Human | [ENSG00000100767](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100767) | [89932](https://www.ncbi.nlm.nih.gov/gene/89932) |  |  |
+| Human | [ENSG00000100767](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100767) | [89932](https://www.ncbi.nlm.nih.gov/gene/89932) | [MIM:617785](https://omim.org/entry/617785) |  |
 | Mouse | [ENSMUSG00000021223](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021223) | [170721](https://www.ncbi.nlm.nih.gov/gene/170721) | [MGI:2386139](http://www.informatics.jax.org/marker/MGI:2386139) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100489537](https://www.ncbi.nlm.nih.gov/gene/100489537) | [855686](http://www.xenbase.org/gene/showgene.do?method=display&geneId=855686) |  |
-| Zebrafish | [ENSDARG00000027867](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027867), [ENSDARG00000042186](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042186) | [562930](https://www.ncbi.nlm.nih.gov/gene/562930), [553586](https://www.ncbi.nlm.nih.gov/gene/553586) | [ZFIN:ZDB-GENE-030131-6023](https://zfin.org/ZDB-GENE-030131-6023), [ZFIN:ZDB-GENE-070815-4](https://zfin.org/ZDB-GENE-070815-4) | ZDB-GENE-030131-6023,ZDB-GENE-070815-4 |
+| Xenopus | [ENSXETG00000001002](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001002) | [100489537](https://www.ncbi.nlm.nih.gov/gene/100489537) |  |  |
+| Zebrafish | [ENSDARG00000027867](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027867) | [562930](https://www.ncbi.nlm.nih.gov/gene/562930) | [ZFIN:ZDB-GENE-070815-4](https://zfin.org/ZDB-GENE-070815-4) | extracellular matrix organization |
 

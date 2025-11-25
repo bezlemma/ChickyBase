@@ -3,7 +3,6 @@ aliases:
 - KLF1, Krueppel-like factor 1
 cgnc_id: '52220'
 external_ids:
-  '13': stage 13
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Antin+KLF
   Comments: 'Authors indicated they used EST pgp1n.pk003.f7 as a probe. This is GenBank
     acc # BI391117.1.'

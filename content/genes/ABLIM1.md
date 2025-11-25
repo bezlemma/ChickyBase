@@ -7,7 +7,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423911
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001159363
-gene_id: '452950'
+gene_id: '423911'
 gene_type: protein-coding
 images:
 - caption: ABLIM1 expression
@@ -27,40 +27,35 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53zf11.127.21.jpg
 name: actin binding LIM protein 1
-ncbi_id: '452950'
+ncbi_id: '423911'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000099204
+  entrez: '3983'
+  mod: MIM:602330
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000025085
+  entrez: '226251'
+  mod: MGI:1194500
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000040148
+  entrez: '100170541'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000060149
+  entrez: '100003558'
+  mod: ZFIN:ZDB-GENE-080219-41
+  phenotypes: cilium assembly, cytoskeleton organization, lamellipodium assembly
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452950
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423911
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452950
+  url: https://www.ncbi.nlm.nih.gov/gene/423911
 species: Gallus gallus
 symbol: ABLIM1
 title: ABLIM1
@@ -81,9 +76,8 @@ title: ABLIM1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000099204](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000099204) | [3983](https://www.ncbi.nlm.nih.gov/gene/3983) | [MIM:602330](https://omim.org/entry/602330) |  |
+| Mouse | [ENSMUSG00000025085](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025085) | [226251](https://www.ncbi.nlm.nih.gov/gene/226251) | [MGI:1194500](http://www.informatics.jax.org/marker/MGI:1194500) |  |
+| Xenopus | [ENSXETG00000040148](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000040148) | [100170541](https://www.ncbi.nlm.nih.gov/gene/100170541) |  |  |
+| Zebrafish | [ENSDARG00000060149](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060149) | [100003558](https://www.ncbi.nlm.nih.gov/gene/100003558) | [ZFIN:ZDB-GENE-080219-41](https://zfin.org/ZDB-GENE-080219-41) | cilium assembly, cytoskeleton organization, lamellipodium assembly |
 

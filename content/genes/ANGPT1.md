@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395129
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199447
 forward_primer: TACAGCACCGAGAAGATGGCAG
-gene_id: '462184'
+gene_id: '395129'
 gene_type: protein-coding
 images:
 - caption: ANGPT1 expression
@@ -281,13 +281,8 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANGPT1_stage 12 x25.jpg
 name: angiopoietin 1
-ncbi_id: '462184'
+ncbi_id: '395129'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000154188
   entrez: '284'
   mod: MIM:601667
@@ -298,24 +293,25 @@ orthologs:
   mod: MGI:108448
   phenotypes: All phenotypic alleles (4):Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100492672,444230
-  mod: '488129'
+- ensembl: ENSXETG00000003598
+  entrez: '100492672'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000030364
   entrez: '114407'
   mod: ZFIN:ZDB-GENE-010817-1
-  phenotypes: ZDB-GENE-010817-1
+  phenotypes: Tie signaling pathway, angiogenesis, blood coagulation, blood vessel
+    development, brain development
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGGGGAACTTGGTCTATGTGTTTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462184
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395129
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462184
+  url: https://www.ncbi.nlm.nih.gov/gene/395129
 species: Gallus gallus
 symbol: ANGPT1
 template_length: '936'
@@ -342,9 +338,8 @@ title: ANGPT1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000154188](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000154188) | [284](https://www.ncbi.nlm.nih.gov/gene/284) | [MIM:601667](https://omim.org/entry/601667) |  |
 | Mouse | [ENSMUSG00000022309](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022309) | [11600](https://www.ncbi.nlm.nih.gov/gene/11600) | [MGI:108448](http://www.informatics.jax.org/marker/MGI:108448) | All phenotypic alleles (4):Targeted, other(4) |
-| Xenopus |  | [100492672](https://www.ncbi.nlm.nih.gov/gene/100492672), [444230](https://www.ncbi.nlm.nih.gov/gene/444230) | [488129](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488129) |  |
-| Zebrafish | [ENSDARG00000030364](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030364) | [114407](https://www.ncbi.nlm.nih.gov/gene/114407) | [ZFIN:ZDB-GENE-010817-1](https://zfin.org/ZDB-GENE-010817-1) | ZDB-GENE-010817-1 |
+| Xenopus | [ENSXETG00000003598](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003598) | [100492672](https://www.ncbi.nlm.nih.gov/gene/100492672) |  |  |
+| Zebrafish | [ENSDARG00000030364](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030364) | [114407](https://www.ncbi.nlm.nih.gov/gene/114407) | [ZFIN:ZDB-GENE-010817-1](https://zfin.org/ZDB-GENE-010817-1) | Tie signaling pathway, angiogenesis, blood coagulation, blood vessel development, brain development |
 

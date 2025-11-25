@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418527
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416736
-gene_id: '453319'
+gene_id: '418527'
 gene_type: protein-coding
 images:
 - caption: FAM3B expression
@@ -54,14 +54,9 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FAM3B.Anderson.2019.Supplementary
     figure 5E.jpg
 name: family with sequence similarity 3 member B
-ncbi_id: '453319'
+ncbi_id: '418527'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000183844
   entrez: '54097'
   mod: MIM:608617
   phenotypes: ''
@@ -71,20 +66,15 @@ orthologs:
   mod: MGI:1270150
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000005180
   entrez: '548744'
-  mod: '1017246'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453319
+  url: https://www.ncbi.nlm.nih.gov/gene/418527
 species: Gallus gallus
 symbol: FAM3B
 title: FAM3B
@@ -110,9 +100,7 @@ title: FAM3B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [54097](https://www.ncbi.nlm.nih.gov/gene/54097) | [MIM:608617](https://omim.org/entry/608617) |  |
+| Human | [ENSG00000183844](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000183844) | [54097](https://www.ncbi.nlm.nih.gov/gene/54097) | [MIM:608617](https://omim.org/entry/608617) |  |
 | Mouse | [ENSMUSG00000022938](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022938) | [52793](https://www.ncbi.nlm.nih.gov/gene/52793) | [MGI:1270150](http://www.informatics.jax.org/marker/MGI:1270150) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [548744](https://www.ncbi.nlm.nih.gov/gene/548744) | [1017246](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1017246) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000005180](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005180) | [548744](https://www.ncbi.nlm.nih.gov/gene/548744) |  |  |
 

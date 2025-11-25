@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419960
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006331
 forward_primer: 5'-CTCTGGTCCCCTTTTGAATCG-3'
-gene_id: '453079'
+gene_id: '419960'
 gene_type: protein-coding
 images:
 - caption: CDC27 expression
@@ -74,13 +74,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R583.CDC27.S26AA.001.jpg
 name: cell division cycle 27
-ncbi_id: '453079'
+ncbi_id: '419960'
 orthologs:
-- ensembl: ''
-  entrez: '38798'
-  mod: FBgn0012058
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000004897
   entrez: '996'
   mod: MIM:116946
@@ -91,24 +86,25 @@ orthologs:
   mod: MGI:102685
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 779925,443994
-  mod: '972657'
+- ensembl: ENSXETG00000003238
+  entrez: '779925'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000056258
   entrez: '30450'
   mod: ZFIN:ZDB-GENE-990706-2
-  phenotypes: ZDB-GENE-990706-2
+  phenotypes: anaphase-promoting complex-dependent catabolic process, cell division,
+    metaphase/anaphase transition of mitotic cell cycle, protein ubiquitination
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGAAACCTGCTGCTGCCTTCTGTAGC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453079
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419960
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453079
+  url: https://www.ncbi.nlm.nih.gov/gene/419960
 species: Gallus gallus
 symbol: CDC27
 template_length: '947'
@@ -133,9 +129,8 @@ title: CDC27
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38798](https://www.ncbi.nlm.nih.gov/gene/38798) | FBgn0012058 |  |
 | Human | [ENSG00000004897](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000004897) | [996](https://www.ncbi.nlm.nih.gov/gene/996) | [MIM:116946](https://omim.org/entry/116946) |  |
 | Mouse | [ENSMUSG00000020687](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020687) | [217232](https://www.ncbi.nlm.nih.gov/gene/217232) | [MGI:102685](http://www.informatics.jax.org/marker/MGI:102685) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [779925](https://www.ncbi.nlm.nih.gov/gene/779925), [443994](https://www.ncbi.nlm.nih.gov/gene/443994) | [972657](http://www.xenbase.org/gene/showgene.do?method=display&geneId=972657) |  |
-| Zebrafish | [ENSDARG00000056258](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056258) | [30450](https://www.ncbi.nlm.nih.gov/gene/30450) | [ZFIN:ZDB-GENE-990706-2](https://zfin.org/ZDB-GENE-990706-2) | ZDB-GENE-990706-2 |
+| Xenopus | [ENSXETG00000003238](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003238) | [779925](https://www.ncbi.nlm.nih.gov/gene/779925) |  |  |
+| Zebrafish | [ENSDARG00000056258](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056258) | [30450](https://www.ncbi.nlm.nih.gov/gene/30450) | [ZFIN:ZDB-GENE-990706-2](https://zfin.org/ZDB-GENE-990706-2) | anaphase-promoting complex-dependent catabolic process, cell division, metaphase/anaphase transition of mitotic cell cycle, protein ubiquitination |
 

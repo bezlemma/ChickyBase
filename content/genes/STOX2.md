@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769288
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001232531
   X-XIV: stage XIII
-gene_id: '468372'
+gene_id: '769288'
 gene_type: protein-coding
 images:
 - caption: STOX2 expression
@@ -51,16 +51,11 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STOX2.Trevers.2023-Fig7-3-U.jpg
 name: storkhead box 2
-ncbi_id: '468372'
+ncbi_id: '769288'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000173320
   entrez: '56977'
-  mod: ''
+  mod: MIM:617359
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000038143
@@ -68,23 +63,23 @@ orthologs:
   mod: MGI:1918319
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100485979,446673
-  mod: '5852838'
+- ensembl: ENSXETG00000001533
+  entrez: '100485979'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000070162
   entrez: '571741'
-  mod: ZFIN:ZDB-GENE-090313-101,ZFIN:ZDB-GENE-130524-1
-  phenotypes: ZDB-GENE-090313-101,ZDB-GENE-130524-1
+  mod: ZFIN:ZDB-GENE-090313-101
+  phenotypes: regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468372
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=769288
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468372
+  url: https://www.ncbi.nlm.nih.gov/gene/769288
 species: Gallus gallus
 symbol: STOX2
 title: STOX2
@@ -108,9 +103,8 @@ title: STOX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [56977](https://www.ncbi.nlm.nih.gov/gene/56977) |  |  |
+| Human | [ENSG00000173320](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000173320) | [56977](https://www.ncbi.nlm.nih.gov/gene/56977) | [MIM:617359](https://omim.org/entry/617359) |  |
 | Mouse | [ENSMUSG00000038143](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038143) | [71069](https://www.ncbi.nlm.nih.gov/gene/71069) | [MGI:1918319](http://www.informatics.jax.org/marker/MGI:1918319) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100485979](https://www.ncbi.nlm.nih.gov/gene/100485979), [446673](https://www.ncbi.nlm.nih.gov/gene/446673) | [5852838](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5852838) |  |
-| Zebrafish | [ENSDARG00000070162](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070162) | [571741](https://www.ncbi.nlm.nih.gov/gene/571741) | [ZFIN:ZDB-GENE-090313-101](https://zfin.org/ZDB-GENE-090313-101), [ZFIN:ZDB-GENE-130524-1](https://zfin.org/ZDB-GENE-130524-1) | ZDB-GENE-090313-101,ZDB-GENE-130524-1 |
+| Xenopus | [ENSXETG00000001533](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001533) | [100485979](https://www.ncbi.nlm.nih.gov/gene/100485979) |  |  |
+| Zebrafish | [ENSDARG00000070162](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070162) | [571741](https://www.ncbi.nlm.nih.gov/gene/571741) | [ZFIN:ZDB-GENE-090313-101](https://zfin.org/ZDB-GENE-090313-101) | regulation of transcription by RNA polymerase II |
 

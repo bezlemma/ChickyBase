@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396353
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205391
-gene_id: '461747'
+gene_id: '396353'
 gene_type: protein-coding
 images:
 - caption: NREP expression
@@ -53,7 +53,7 @@ images:
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/P311.HH38.Bandyopadhyay.2008.f2.p311.png
 name: neuronal regeneration related protein
-ncbi_id: '461747'
+ncbi_id: '396353'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -83,7 +83,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461747
+  url: https://www.ncbi.nlm.nih.gov/gene/396353
 species: Gallus gallus
 symbol: NREP
 title: NREP

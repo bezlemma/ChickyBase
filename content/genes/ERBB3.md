@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:693245
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001044669
 forward_primer: 5’-AAGATCCAGAAGAAGCGGGC-3’
-gene_id: '463160'
+gene_id: '693245'
 gene_type: protein-coding
 images:
 - caption: ERBB3 expression
@@ -170,41 +170,31 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R658.ERBB3.S26V.001.jpg
 name: erb-b2 receptor tyrosine kinase 3
-ncbi_id: '463160'
+ncbi_id: '693245'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000065361
+  entrez: '2065'
+  mod: MIM:190151
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000018166
+  entrez: '13867'
+  mod: MGI:95411
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000009463
+  entrez: '100493384'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTGTAGACGTCGATGGTGCAG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463160
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=693245
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463160
+  url: https://www.ncbi.nlm.nih.gov/gene/693245
 species: Gallus gallus
 symbol: ERBB3
 template_length: '817'
@@ -227,9 +217,7 @@ title: ERBB3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000065361](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000065361) | [2065](https://www.ncbi.nlm.nih.gov/gene/2065) | [MIM:190151](https://omim.org/entry/190151) |  |
+| Mouse | [ENSMUSG00000018166](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018166) | [13867](https://www.ncbi.nlm.nih.gov/gene/13867) | [MGI:95411](http://www.informatics.jax.org/marker/MGI:95411) |  |
+| Xenopus | [ENSXETG00000009463](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009463) | [100493384](https://www.ncbi.nlm.nih.gov/gene/100493384) |  |  |
 

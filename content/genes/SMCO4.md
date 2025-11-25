@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:772206
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001164340
 forward_primer: TGCTCCCCCATTTTGGTGAAC
-gene_id: '450567'
+gene_id: '772206'
 gene_type: protein-coding
 images:
 - caption: SMCO4 expression
@@ -311,7 +311,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R603.SMCO4.S26.001.jpg
 name: single-pass membrane protein with coiled-coil domains 4
-ncbi_id: '450567'
+ncbi_id: '772206'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -342,10 +342,10 @@ reverse_primer: AATTAACCCTCACTAAAGGGGCAGAGAGTTTCTTTTGGCTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450567
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=772206
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450567
+  url: https://www.ncbi.nlm.nih.gov/gene/772206
 species: Gallus gallus
 symbol: SMCO4
 template_length: '290'

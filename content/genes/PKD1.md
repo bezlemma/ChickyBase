@@ -4,14 +4,13 @@ aliases:
 - polycystic kidney disease 1 (autosomal dominant)
 cgnc_id: '50282'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000005714
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416553
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414854
 forward_primer: 5’-TGTCCAGCGTTGTGGTCTAC-3’
-gene_id: '455588'
+gene_id: '416553'
 gene_type: protein-coding
 images:
 - caption: PKD1 expression
@@ -51,13 +50,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R634.PKD1.S25.001.jpg
 name: polycystin 1, transient receptor potential channel interacting
-ncbi_id: '455588'
+ncbi_id: '416553'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000008710
   entrez: '5310'
   mod: MIM:601313
@@ -69,24 +63,25 @@ orthologs:
   phenotypes: All phenotypic alleles (27):Chemically induced(1) Targeted, knock-out(14)
     Targeted, other(12)
   species: Mouse
-- ensembl: ''
-  entrez: 100494429,733339
-  mod: '483408'
+- ensembl: ENSXETG00000015945
+  entrez: '100494429'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000033029
-  entrez: '565697'
-  mod: ZFIN:ZDB-GENE-100707-2,ZFIN:ZDB-GENE-100707-1
-  phenotypes: ZDB-GENE-100707-2,ZDB-GENE-100707-1
+- ensembl: ENSDARG00000030417
+  entrez: '100149562'
+  mod: ZFIN:ZDB-GENE-100707-1
+  phenotypes: calcium ion transport, liver development, lymphangiogenesis, pronephros
+    development, regulation of collagen biosynthetic process
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGATAGAGGGCTTCCAGCAGGA-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455588
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416553
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455588
+  url: https://www.ncbi.nlm.nih.gov/gene/416553
 species: Gallus gallus
 symbol: PKD1
 template_length: '887'
@@ -109,9 +104,8 @@ title: PKD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000008710](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000008710) | [5310](https://www.ncbi.nlm.nih.gov/gene/5310) | [MIM:601313](https://omim.org/entry/601313) | MIM:173900 |
 | Mouse | [ENSMUSG00000032855](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032855) | [18763](https://www.ncbi.nlm.nih.gov/gene/18763) | [MGI:97603](http://www.informatics.jax.org/marker/MGI:97603) | All phenotypic alleles (27):Chemically induced(1) Targeted, knock-out(14) Targeted, other(12) |
-| Xenopus |  | [100494429](https://www.ncbi.nlm.nih.gov/gene/100494429), [733339](https://www.ncbi.nlm.nih.gov/gene/733339) | [483408](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483408) |  |
-| Zebrafish | [ENSDARG00000033029](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033029) | [565697](https://www.ncbi.nlm.nih.gov/gene/565697) | [ZFIN:ZDB-GENE-100707-2](https://zfin.org/ZDB-GENE-100707-2), [ZFIN:ZDB-GENE-100707-1](https://zfin.org/ZDB-GENE-100707-1) | ZDB-GENE-100707-2,ZDB-GENE-100707-1 |
+| Xenopus | [ENSXETG00000015945](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015945) | [100494429](https://www.ncbi.nlm.nih.gov/gene/100494429) |  |  |
+| Zebrafish | [ENSDARG00000030417](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030417) | [100149562](https://www.ncbi.nlm.nih.gov/gene/100149562) | [ZFIN:ZDB-GENE-100707-1](https://zfin.org/ZDB-GENE-100707-1) | calcium ion transport, liver development, lymphangiogenesis, pronephros development, regulation of collagen biosynthetic process |
 

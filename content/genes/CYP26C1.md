@@ -3,7 +3,6 @@ aliases:
 - cytochrome P450 26C1
 cgnc_id: '52055'
 external_ids:
-  '13': stage 13stage 13
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Nathan+Monovich+Harel+splanchnic
   Comments: As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI NC_006093.3
@@ -14,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423806
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421678
-gene_id: '450192'
+gene_id: '423806'
 gene_type: protein-coding
 images:
 - caption: CYP26C1 expression
@@ -338,13 +337,8 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Nathan.2008.f1.cyp26c1.png
 name: cytochrome P450 family 26 subfamily C member 1
-ncbi_id: '450192'
+ncbi_id: '423806'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000187553
   entrez: '340665'
   mod: MIM:608428
@@ -355,20 +349,21 @@ orthologs:
   mod: MGI:2679699
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100489980,735026
-  mod: '1219114'
+- ensembl: ENSXETG00000027748
+  entrez: '100489980'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000056029
   entrez: '554036'
   mod: ZFIN:ZDB-GENE-050714-2
-  phenotypes: ZDB-GENE-050714-2
+  phenotypes: atrial cardiac muscle cell development, central nervous system development,
+    hindbrain development, outflow tract morphogenesis, pectoral fin development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450192
+  url: https://www.ncbi.nlm.nih.gov/gene/423806
 species: Gallus gallus
 symbol: CYP26C1
 title: CYP26C1
@@ -394,9 +389,8 @@ title: CYP26C1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000187553](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000187553) | [340665](https://www.ncbi.nlm.nih.gov/gene/340665) | [MIM:608428](https://omim.org/entry/608428) |  |
 | Mouse | [ENSMUSG00000062432](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000062432) | [546726](https://www.ncbi.nlm.nih.gov/gene/546726) | [MGI:2679699](http://www.informatics.jax.org/marker/MGI:2679699) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100489980](https://www.ncbi.nlm.nih.gov/gene/100489980), [735026](https://www.ncbi.nlm.nih.gov/gene/735026) | [1219114](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1219114) |  |
-| Zebrafish | [ENSDARG00000056029](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056029) | [554036](https://www.ncbi.nlm.nih.gov/gene/554036) | [ZFIN:ZDB-GENE-050714-2](https://zfin.org/ZDB-GENE-050714-2) | ZDB-GENE-050714-2 |
+| Xenopus | [ENSXETG00000027748](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000027748) | [100489980](https://www.ncbi.nlm.nih.gov/gene/100489980) |  |  |
+| Zebrafish | [ENSDARG00000056029](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056029) | [554036](https://www.ncbi.nlm.nih.gov/gene/554036) | [ZFIN:ZDB-GENE-050714-2](https://zfin.org/ZDB-GENE-050714-2) | atrial cardiac muscle cell development, central nervous system development, hindbrain development, outflow tract morphogenesis, pectoral fin development |
 

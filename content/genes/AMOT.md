@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422336
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420309
 forward_primer: AAATGCCCCCCCTTTCAAC
-gene_id: '450307'
+gene_id: '422336'
 gene_type: protein-coding
 images:
 - caption: AMOT expression
@@ -145,13 +145,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R522.AMOT.S26AA.001.jpg
 name: angiomotin
-ncbi_id: '450307'
+ncbi_id: '422336'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000126016
   entrez: '154796'
   mod: MIM:300410
@@ -162,24 +157,26 @@ orthologs:
   mod: MGI:108440
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000012859
   entrez: '100144927'
-  mod: '992096'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000078335
   entrez: '563421'
   mod: ZFIN:ZDB-GENE-030131-7487
-  phenotypes: ZDB-GENE-030131-7487
+  phenotypes: actin cytoskeleton organization, angiogenesis, blood vessel development,
+    blood vessel endothelial cell migration, establishment of cell polarity involved
+    in ameboidal cell migration
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAAATGCCCCGAGTCCTGAGGTTTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450307
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422336
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450307
+  url: https://www.ncbi.nlm.nih.gov/gene/422336
 species: Gallus gallus
 symbol: AMOT
 template_length: '663'
@@ -201,9 +198,8 @@ title: AMOT
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000126016](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000126016) | [154796](https://www.ncbi.nlm.nih.gov/gene/154796) | [MIM:300410](https://omim.org/entry/300410) |  |
 | Mouse | [ENSMUSG00000041688](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041688) | [27494](https://www.ncbi.nlm.nih.gov/gene/27494) | [MGI:108440](http://www.informatics.jax.org/marker/MGI:108440) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100144927](https://www.ncbi.nlm.nih.gov/gene/100144927) | [992096](http://www.xenbase.org/gene/showgene.do?method=display&geneId=992096) |  |
-| Zebrafish | [ENSDARG00000078335](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078335) | [563421](https://www.ncbi.nlm.nih.gov/gene/563421) | [ZFIN:ZDB-GENE-030131-7487](https://zfin.org/ZDB-GENE-030131-7487) | ZDB-GENE-030131-7487 |
+| Xenopus | [ENSXETG00000012859](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012859) | [100144927](https://www.ncbi.nlm.nih.gov/gene/100144927) |  |  |
+| Zebrafish | [ENSDARG00000078335](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078335) | [563421](https://www.ncbi.nlm.nih.gov/gene/563421) | [ZFIN:ZDB-GENE-030131-7487](https://zfin.org/ZDB-GENE-030131-7487) | actin cytoskeleton organization, angiogenesis, blood vessel development, blood vessel endothelial cell migration, establishment of cell polarity involved in ameboidal cell migration |
 

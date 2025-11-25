@@ -4,7 +4,6 @@ aliases:
 - bone morphogenetic protein 3 (osteogenic)
 cgnc_id: '8280'
 external_ids:
-  '31': stage 31stage 31
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Gamer+2008+Rosen+BMP3
   Comments: 'The cDNA template for the BMP3 antisense probe was obtained from cDNA
     clone ChEST497i16  as described in Gamer et al. Thus the sequence below was obtained
@@ -17,7 +16,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001034819
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/BMP3
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGTCTGGAGGCTGTTCTCATCGTG
-gene_id: '451103'
+gene_id: '422581'
 gene_type: protein-coding
 images:
 - caption: BMP3 expression
@@ -193,13 +192,8 @@ images:
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP3.Gamer.2010.Fig.1.png
 name: bone morphogenetic protein 3
-ncbi_id: '451103'
+ncbi_id: '422581'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000152785
   entrez: '651'
   mod: MIM:112263
@@ -210,24 +204,26 @@ orthologs:
   mod: MGI:88179
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100497890,399354
-  mod: '483483'
+- ensembl: ENSXETG00000021538
+  entrez: '100497890'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000109238
   entrez: '777717'
   mod: ZFIN:ZDB-GENE-030131-7192
-  phenotypes: ZDB-GENE-030131-7192
+  phenotypes: cell differentiation, cell surface receptor protein serine/threonine
+    kinase signaling pathway, embryonic cranial skeleton morphogenesis, osteoblast
+    differentiation
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGGCACAATACCGTGGCTCATTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451103
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422581
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451103
+  url: https://www.ncbi.nlm.nih.gov/gene/422581
 species: Gallus gallus
 symbol: BMP3
 template_length: '670'
@@ -255,9 +251,8 @@ title: BMP3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000152785](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000152785) | [651](https://www.ncbi.nlm.nih.gov/gene/651) | [MIM:112263](https://omim.org/entry/112263) |  |
 | Mouse | [ENSMUSG00000029335](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029335) | [110075](https://www.ncbi.nlm.nih.gov/gene/110075) | [MGI:88179](http://www.informatics.jax.org/marker/MGI:88179) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100497890](https://www.ncbi.nlm.nih.gov/gene/100497890), [399354](https://www.ncbi.nlm.nih.gov/gene/399354) | [483483](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483483) |  |
-| Zebrafish |  | [777717](https://www.ncbi.nlm.nih.gov/gene/777717) | [ZFIN:ZDB-GENE-030131-7192](https://zfin.org/ZDB-GENE-030131-7192) | ZDB-GENE-030131-7192 |
+| Xenopus | [ENSXETG00000021538](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021538) | [100497890](https://www.ncbi.nlm.nih.gov/gene/100497890) |  |  |
+| Zebrafish | [ENSDARG00000109238](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000109238) | [777717](https://www.ncbi.nlm.nih.gov/gene/777717) | [ZFIN:ZDB-GENE-030131-7192](https://zfin.org/ZDB-GENE-030131-7192) | cell differentiation, cell surface receptor protein serine/threonine kinase signaling pathway, embryonic cranial skeleton morphogenesis, osteoblast differentiation |
 

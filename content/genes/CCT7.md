@@ -17,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031541
 forward_primer: 5'-CATAAGTCTGGAGCCAAAGTCGTC-3'
-gene_id: '456438'
+gene_id: '428806'
 gene_type: protein-coding
 images:
 - caption: CCT7 expression
@@ -138,13 +138,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R589.CCT7.S27V.001.jpg
 name: chaperonin containing TCP1 subunit 7
-ncbi_id: '456438'
+ncbi_id: '428806'
 orthologs:
-- ensembl: ''
-  entrez: '41054'
-  mod: FBgn0037632
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000135624
   entrez: '10574'
   mod: MIM:605140
@@ -155,24 +150,24 @@ orthologs:
   mod: MGI:107184
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 407957,446872
-  mod: '988119'
+- ensembl: ENSXETG00000011778
+  entrez: '407957'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000007385
   entrez: '192324'
   mod: ZFIN:ZDB-GENE-020419-7
-  phenotypes: ZDB-GENE-020419-7
+  phenotypes: protein folding
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGGCGAGGGTTCTTGATGGTTTC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456438
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428806
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456438
+  url: https://www.ncbi.nlm.nih.gov/gene/428806
 species: Gallus gallus
 symbol: CCT7
 template_length: '729'
@@ -200,9 +195,8 @@ title: CCT7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41054](https://www.ncbi.nlm.nih.gov/gene/41054) | FBgn0037632 |  |
 | Human | [ENSG00000135624](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135624) | [10574](https://www.ncbi.nlm.nih.gov/gene/10574) | [MIM:605140](https://omim.org/entry/605140) |  |
 | Mouse | [ENSMUSG00000030007](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030007) | [12468](https://www.ncbi.nlm.nih.gov/gene/12468) | [MGI:107184](http://www.informatics.jax.org/marker/MGI:107184) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [407957](https://www.ncbi.nlm.nih.gov/gene/407957), [446872](https://www.ncbi.nlm.nih.gov/gene/446872) | [988119](http://www.xenbase.org/gene/showgene.do?method=display&geneId=988119) |  |
-| Zebrafish | [ENSDARG00000007385](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007385) | [192324](https://www.ncbi.nlm.nih.gov/gene/192324) | [ZFIN:ZDB-GENE-020419-7](https://zfin.org/ZDB-GENE-020419-7) | ZDB-GENE-020419-7 |
+| Xenopus | [ENSXETG00000011778](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011778) | [407957](https://www.ncbi.nlm.nih.gov/gene/407957) |  |  |
+| Zebrafish | [ENSDARG00000007385](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007385) | [192324](https://www.ncbi.nlm.nih.gov/gene/192324) | [ZFIN:ZDB-GENE-020419-7](https://zfin.org/ZDB-GENE-020419-7) | protein folding |
 

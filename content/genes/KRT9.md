@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420041
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418163
 forward_primer: ATGGAGGAGGTGAGCCAACAAGTC
-gene_id: '458333'
+gene_id: '420041'
 gene_type: protein-coding
 images:
 - caption: KRT9 expression
@@ -123,7 +123,7 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R472.LDC420041.S27.001.jpg
 name: keratin 9
-ncbi_id: '458333'
+ncbi_id: '420041'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -154,10 +154,10 @@ reverse_primer: ATTAACCCTCACTAAAGGTCATTTGAGATGCTGTCAGGTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458333
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420041
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458333
+  url: https://www.ncbi.nlm.nih.gov/gene/420041
 species: Gallus gallus
 symbol: KRT9
 template_length: '767'

@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421053
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419140
 forward_primer: GTTCCTGAAGAAGGTGGTTG
-gene_id: '459914'
+gene_id: '421053'
 gene_type: protein-coding
 images:
 - caption: ARHGAP28 expression
@@ -159,13 +159,8 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F6.arhgap28.png
 name: Rho GTPase activating protein 28
-ncbi_id: '459914'
+ncbi_id: '421053'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000088756
   entrez: '79822'
   mod: MIM:610592
@@ -176,24 +171,26 @@ orthologs:
   mod: MGI:2147003
   phenotypes: All phenotypic alleles (4):Targeted, other(4)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000004957
   entrez: '100488165'
-  mod: '1013084'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000005872
+- ensembl: ''
   entrez: '492794'
   mod: ZFIN:ZDB-GENE-041114-147
-  phenotypes: ZDB-GENE-041114-147
+  phenotypes: negative regulation of stress fiber assembly, regulation of actin filament
+    polymerization, regulation of small GTPase mediated signal transduction, signal
+    transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGCATAACTGATGTGCGGTATTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459914
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421053
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459914
+  url: https://www.ncbi.nlm.nih.gov/gene/421053
 species: Gallus gallus
 symbol: ARHGAP28
 template_length: '841'
@@ -220,9 +217,8 @@ title: ARHGAP28
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000088756](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000088756) | [79822](https://www.ncbi.nlm.nih.gov/gene/79822) | [MIM:610592](https://omim.org/entry/610592) |  |
 | Mouse | [ENSMUSG00000024043](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024043) | [268970](https://www.ncbi.nlm.nih.gov/gene/268970) | [MGI:2147003](http://www.informatics.jax.org/marker/MGI:2147003) | All phenotypic alleles (4):Targeted, other(4) |
-| Xenopus |  | [100488165](https://www.ncbi.nlm.nih.gov/gene/100488165) | [1013084](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1013084) |  |
-| Zebrafish | [ENSDARG00000005872](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005872) | [492794](https://www.ncbi.nlm.nih.gov/gene/492794) | [ZFIN:ZDB-GENE-041114-147](https://zfin.org/ZDB-GENE-041114-147) | ZDB-GENE-041114-147 |
+| Xenopus | [ENSXETG00000004957](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004957) | [100488165](https://www.ncbi.nlm.nih.gov/gene/100488165) |  |  |
+| Zebrafish |  | [492794](https://www.ncbi.nlm.nih.gov/gene/492794) | [ZFIN:ZDB-GENE-041114-147](https://zfin.org/ZDB-GENE-041114-147) | negative regulation of stress fiber assembly, regulation of actin filament polymerization, regulation of small GTPase mediated signal transduction, signal transduction |
 

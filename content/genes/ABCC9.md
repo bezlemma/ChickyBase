@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418200
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640404
 forward_primer: GCCTCACAGCAGCCAAAAATCTAC
-gene_id: '454669'
+gene_id: '418200'
 gene_type: protein-coding
 images:
 - caption: ABCC9 expression
@@ -161,41 +161,38 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R482.ABCC9.S26V.001.jpg
 name: ATP binding cassette subfamily C member 9
-ncbi_id: '454669'
+ncbi_id: '418200'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000069431
+  entrez: '10060'
+  mod: MIM:601439
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000030249
+  entrez: '20928'
+  mod: MGI:1352630
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000000896
+  entrez: '101733439'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000015985
+  entrez: '561160'
+  mod: ZFIN:ZDB-GENE-050517-23
+  phenotypes: potassium ion transmembrane transport, potassium ion transport, regulation
+    of heart contraction, regulation of potassium:proton exchanging ATPase activity,
+    response to ATP
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAAAGACAGGGATGACTTGCCGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454669
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418200
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454669
+  url: https://www.ncbi.nlm.nih.gov/gene/418200
 species: Gallus gallus
 symbol: ABCC9
 template_length: '889'
@@ -217,9 +214,8 @@ title: ABCC9
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000069431](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000069431) | [10060](https://www.ncbi.nlm.nih.gov/gene/10060) | [MIM:601439](https://omim.org/entry/601439) |  |
+| Mouse | [ENSMUSG00000030249](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030249) | [20928](https://www.ncbi.nlm.nih.gov/gene/20928) | [MGI:1352630](http://www.informatics.jax.org/marker/MGI:1352630) |  |
+| Xenopus | [ENSXETG00000000896](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000896) | [101733439](https://www.ncbi.nlm.nih.gov/gene/101733439) |  |  |
+| Zebrafish | [ENSDARG00000015985](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015985) | [561160](https://www.ncbi.nlm.nih.gov/gene/561160) | [ZFIN:ZDB-GENE-050517-23](https://zfin.org/ZDB-GENE-050517-23) | potassium ion transmembrane transport, potassium ion transport, regulation of heart contraction, regulation of potassium:proton exchanging ATPase activity, response to ATP |
 

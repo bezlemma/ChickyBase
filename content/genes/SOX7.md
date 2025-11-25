@@ -4,7 +4,6 @@ aliases:
 - SRY (sex determining region Y)-box 7
 cgnc_id: '12471'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Hagedorn+Javerzat+Franco+global
   Comments: "Briefly, for SOX7 PCR products were amplified with indicated chicken-specific\
     \ primers and cloned:\r\nF: TGCTTAGGTAAAGGATTTCG, \r\nR: GAAAATCATAGCCACGCTAC\
@@ -19,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771337
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234627
 forward_primer: TGCTGGGAGAGATGGACCGTAATG
-gene_id: '454089'
+gene_id: '771337'
 gene_type: protein-coding
 images:
 - caption: SOX7 expression
@@ -102,13 +101,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX7.Javerzat.2009.3E-F.png
 name: SRY-box 7
-ncbi_id: '454089'
+ncbi_id: '771337'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000171056
   entrez: '83595'
   mod: MIM:612202
@@ -119,24 +113,25 @@ orthologs:
   mod: MGI:98369
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 549080,378665
-  mod: '488066'
+- ensembl: ENSXETG00000000693
+  entrez: '549080'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000030125
   entrez: '394203'
   mod: ZFIN:ZDB-GENE-040109-4
-  phenotypes: ZDB-GENE-040109-4
+  phenotypes: artery development, blood vessel development, cell differentiation,
+    positive regulation of transcription by RNA polymerase II, vasculogenesis
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTGTTTGGGGATGGGGGAAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454089
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771337
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454089
+  url: https://www.ncbi.nlm.nih.gov/gene/771337
 species: Gallus gallus
 symbol: SOX7
 template_length: '755'
@@ -165,9 +160,8 @@ R: GAAAATCATAGCCACGCTAC and probe sequence was extracted from NCBI Acc#XM_001234
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000171056](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171056) | [83595](https://www.ncbi.nlm.nih.gov/gene/83595) | [MIM:612202](https://omim.org/entry/612202) |  |
 | Mouse | [ENSMUSG00000063060](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000063060) | [20680](https://www.ncbi.nlm.nih.gov/gene/20680) | [MGI:98369](http://www.informatics.jax.org/marker/MGI:98369) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [549080](https://www.ncbi.nlm.nih.gov/gene/549080), [378665](https://www.ncbi.nlm.nih.gov/gene/378665) | [488066](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488066) |  |
-| Zebrafish | [ENSDARG00000030125](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030125) | [394203](https://www.ncbi.nlm.nih.gov/gene/394203) | [ZFIN:ZDB-GENE-040109-4](https://zfin.org/ZDB-GENE-040109-4) | ZDB-GENE-040109-4 |
+| Xenopus | [ENSXETG00000000693](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000693) | [549080](https://www.ncbi.nlm.nih.gov/gene/549080) |  |  |
+| Zebrafish | [ENSDARG00000030125](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030125) | [394203](https://www.ncbi.nlm.nih.gov/gene/394203) | [ZFIN:ZDB-GENE-040109-4](https://zfin.org/ZDB-GENE-040109-4) | artery development, blood vessel development, cell differentiation, positive regulation of transcription by RNA polymerase II, vasculogenesis |
 

@@ -8,9 +8,6 @@ aliases:
 - msh homeobox 1-like protein
 cgnc_id: '11159'
 external_ids:
-  '25': stage 25
-  '31': stage 31
-  '7': stage 7stage 7
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030509
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
@@ -24,7 +21,7 @@ external_ids:
   Molecular Function: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205488
   X-XIV: stage XIII
-gene_id: '461090'
+gene_id: '396484'
 gene_type: protein-coding
 images:
 - caption: MSX1 expression
@@ -808,13 +805,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.Trevers.2023-Fig7-7-A.jpg
 name: msh homeobox 1
-ncbi_id: '461090'
+ncbi_id: '396484'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163132
   entrez: '4487'
   mod: MIM:142983
@@ -825,20 +817,21 @@ orthologs:
   mod: MGI:97168
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 394692,100125666,399464
-  mod: '490377'
+- ensembl: ENSXETG00000044104
+  entrez: '394692'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000007641
+- ensembl: ENSDARG00000116118
   entrez: '30527'
   mod: ZFIN:ZDB-GENE-980526-312
-  phenotypes: ZDB-GENE-980526-312
+  phenotypes: embryonic morphogenesis, otic placode formation, regulation of DNA-templated
+    transcription, regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461090
+  url: https://www.ncbi.nlm.nih.gov/gene/396484
 species: Gallus gallus
 symbol: MSX1
 title: MSX1
@@ -867,9 +860,8 @@ title: MSX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163132](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163132) | [4487](https://www.ncbi.nlm.nih.gov/gene/4487) | [MIM:142983](https://omim.org/entry/142983) | MIM:608874 |
 | Mouse | [ENSMUSG00000048450](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048450) | [17701](https://www.ncbi.nlm.nih.gov/gene/17701) | [MGI:97168](http://www.informatics.jax.org/marker/MGI:97168) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [394692](https://www.ncbi.nlm.nih.gov/gene/394692), [100125666](https://www.ncbi.nlm.nih.gov/gene/100125666), [399464](https://www.ncbi.nlm.nih.gov/gene/399464) | [490377](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490377) |  |
-| Zebrafish | [ENSDARG00000007641](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007641) | [30527](https://www.ncbi.nlm.nih.gov/gene/30527) | [ZFIN:ZDB-GENE-980526-312](https://zfin.org/ZDB-GENE-980526-312) | ZDB-GENE-980526-312 |
+| Xenopus | [ENSXETG00000044104](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044104) | [394692](https://www.ncbi.nlm.nih.gov/gene/394692) |  |  |
+| Zebrafish | [ENSDARG00000116118](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116118) | [30527](https://www.ncbi.nlm.nih.gov/gene/30527) | [ZFIN:ZDB-GENE-980526-312](https://zfin.org/ZDB-GENE-980526-312) | embryonic morphogenesis, otic placode formation, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

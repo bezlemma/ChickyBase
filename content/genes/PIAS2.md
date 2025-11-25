@@ -3,7 +3,6 @@ aliases:
 - E3 SUMO-protein ligase PIAS2
 cgnc_id: '50239'
 external_ids:
-  '19': stage 19stage 19stage 19
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=activator+antagonized+Dominguez+Hebenstreit
   Comments: No specific expression detected at stage 16.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -12,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416383
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030626
-gene_id: '456644'
+gene_id: '416383'
 gene_type: protein-coding
 images:
 - caption: PIAS2 expression
@@ -60,13 +59,8 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PIASXbeta.Garcia-Dominguez.2006.Fig.3.png
 name: protein inhibitor of activated STAT 2
-ncbi_id: '456644'
+ncbi_id: '416383'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000078043
   entrez: '9063'
   mod: MIM:603567
@@ -77,23 +71,24 @@ orthologs:
   mod: MGI:1096566
   phenotypes: All phenotypic alleles (2):Targeted, other(1) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 779910,432031
-  mod: '988473'
+- ensembl: ENSXETG00000021519
+  entrez: '779910'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000092979
   entrez: '564149'
   mod: ZFIN:ZDB-GENE-060424-1
-  phenotypes: ZDB-GENE-060424-1
+  phenotypes: protein sumoylation, regulation of macromolecule metabolic process,
+    regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456644
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416383
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456644
+  url: https://www.ncbi.nlm.nih.gov/gene/416383
 species: Gallus gallus
 symbol: PIAS2
 title: PIAS2
@@ -119,9 +114,8 @@ title: PIAS2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000078043](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000078043) | [9063](https://www.ncbi.nlm.nih.gov/gene/9063) | [MIM:603567](https://omim.org/entry/603567) |  |
 | Mouse | [ENSMUSG00000025423](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025423) | [17344](https://www.ncbi.nlm.nih.gov/gene/17344) | [MGI:1096566](http://www.informatics.jax.org/marker/MGI:1096566) | All phenotypic alleles (2):Targeted, other(1) Gene trapped(1) |
-| Xenopus |  | [779910](https://www.ncbi.nlm.nih.gov/gene/779910), [432031](https://www.ncbi.nlm.nih.gov/gene/432031) | [988473](http://www.xenbase.org/gene/showgene.do?method=display&geneId=988473) |  |
-| Zebrafish | [ENSDARG00000092979](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000092979) | [564149](https://www.ncbi.nlm.nih.gov/gene/564149) | [ZFIN:ZDB-GENE-060424-1](https://zfin.org/ZDB-GENE-060424-1) | ZDB-GENE-060424-1 |
+| Xenopus | [ENSXETG00000021519](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021519) | [779910](https://www.ncbi.nlm.nih.gov/gene/779910) |  |  |
+| Zebrafish | [ENSDARG00000092979](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000092979) | [564149](https://www.ncbi.nlm.nih.gov/gene/564149) | [ZFIN:ZDB-GENE-060424-1](https://zfin.org/ZDB-GENE-060424-1) | protein sumoylation, regulation of macromolecule metabolic process, regulation of transcription by RNA polymerase II |
 

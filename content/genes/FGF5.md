@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:770457
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001233790
-gene_id: '452088'
+gene_id: '770457'
 gene_type: protein-coding
 images:
 - caption: FGF5 expression
@@ -121,13 +121,8 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kumar.2012.Fig2.FGF5.N.jpg
 name: fibroblast growth factor 5
-ncbi_id: '452088'
+ncbi_id: '770457'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138675
   entrez: '2250'
   mod: MIM:165190
@@ -139,20 +134,22 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Spontaneous(2) Chemically induced(1) Targeted,
     knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000047496
   entrez: '100486176'
-  mod: '482345'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000035377
   entrez: '494454'
   mod: ZFIN:ZDB-GENE-050201-6
-  phenotypes: ZDB-GENE-050201-6
+  phenotypes: cranial ganglion development, fibroblast growth factor receptor signaling
+    pathway, neurogenesis, positive regulation of MAPK cascade, positive regulation
+    of cell population proliferation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452088
+  url: https://www.ncbi.nlm.nih.gov/gene/770457
 species: Gallus gallus
 symbol: FGF5
 title: FGF5
@@ -178,9 +175,8 @@ title: FGF5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000138675](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138675) | [2250](https://www.ncbi.nlm.nih.gov/gene/2250) | [MIM:165190](https://omim.org/entry/165190) |  |
 | Mouse | [ENSMUSG00000029337](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029337) | [14176](https://www.ncbi.nlm.nih.gov/gene/14176) | [MGI:95519](http://www.informatics.jax.org/marker/MGI:95519) | All phenotypic alleles (5):Spontaneous(2) Chemically induced(1) Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100486176](https://www.ncbi.nlm.nih.gov/gene/100486176) | [482345](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482345) |  |
-| Zebrafish | [ENSDARG00000035377](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035377) | [494454](https://www.ncbi.nlm.nih.gov/gene/494454) | [ZFIN:ZDB-GENE-050201-6](https://zfin.org/ZDB-GENE-050201-6) | ZDB-GENE-050201-6 |
+| Xenopus | [ENSXETG00000047496](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000047496) | [100486176](https://www.ncbi.nlm.nih.gov/gene/100486176) |  |  |
+| Zebrafish | [ENSDARG00000035377](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035377) | [494454](https://www.ncbi.nlm.nih.gov/gene/494454) | [ZFIN:ZDB-GENE-050201-6](https://zfin.org/ZDB-GENE-050201-6) | cranial ganglion development, fibroblast growth factor receptor signaling pathway, neurogenesis, positive regulation of MAPK cascade, positive regulation of cell population proliferation |
 

@@ -3,14 +3,13 @@ aliases:
 - G1/S-specific cyclin-E2
 cgnc_id: '11934'
 external_ids:
-  '25': stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000015985
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420231
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030945
 forward_primer: 5'-CGCCTCACAAAGAATCAGTAACC-3'
-gene_id: '457407'
+gene_id: '420231'
 gene_type: protein-coding
 images:
 - caption: CCNE2 expression
@@ -99,13 +98,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R629.CCNE2.S25AA.001.jpg
 name: cyclin E2
-ncbi_id: '457407'
+ncbi_id: '420231'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000175305
   entrez: '9134'
   mod: MIM:603775
@@ -116,24 +110,25 @@ orthologs:
   mod: MGI:1329034
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 549021,380219
-  mod: '923042'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000006660
+  entrez: '549021'
   mod: ''
   phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000098529
+  entrez: '415165'
+  mod: ZFIN:ZDB-GENE-030131-9689
+  phenotypes: G1/S transition of mitotic cell cycle, cell division, positive regulation
+    of G1/S transition of mitotic cell cycle
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGCTGCTATCAGTTCCATCCG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457407
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420231
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457407
+  url: https://www.ncbi.nlm.nih.gov/gene/420231
 species: Gallus gallus
 symbol: CCNE2
 template_length: '1142'
@@ -156,9 +151,8 @@ title: CCNE2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000175305](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000175305) | [9134](https://www.ncbi.nlm.nih.gov/gene/9134) | [MIM:603775](https://omim.org/entry/603775) |  |
 | Mouse | [ENSMUSG00000028212](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028212) | [12448](https://www.ncbi.nlm.nih.gov/gene/12448) | [MGI:1329034](http://www.informatics.jax.org/marker/MGI:1329034) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [549021](https://www.ncbi.nlm.nih.gov/gene/549021), [380219](https://www.ncbi.nlm.nih.gov/gene/380219) | [923042](http://www.xenbase.org/gene/showgene.do?method=display&geneId=923042) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000006660](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006660) | [549021](https://www.ncbi.nlm.nih.gov/gene/549021) |  |  |
+| Zebrafish | [ENSDARG00000098529](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098529) | [415165](https://www.ncbi.nlm.nih.gov/gene/415165) | [ZFIN:ZDB-GENE-030131-9689](https://zfin.org/ZDB-GENE-030131-9689) | G1/S transition of mitotic cell cycle, cell division, positive regulation of G1/S transition of mitotic cell cycle |
 

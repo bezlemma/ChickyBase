@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419995
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418117
 forward_primer: 5'-AAGATGGAGCCCTGAAACGG-3'
-gene_id: '452882'
+gene_id: '419995'
 gene_type: protein-coding
 images:
 - caption: MLLT6 expression
@@ -82,13 +82,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MLLT6.S24.002.jpg
 name: MLLT6, PHD finger containing
-ncbi_id: '452882'
+ncbi_id: '419995'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000275023
   entrez: '4302'
   mod: MIM:600328
@@ -99,24 +94,19 @@ orthologs:
   mod: MGI:1935145
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000014744
   entrez: '549549'
-  mod: '1016789'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: 5'-AATTAACCCTCACTAAAGGACGAAATCCTGGGAGCACTG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452882
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419995
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452882
+  url: https://www.ncbi.nlm.nih.gov/gene/419995
 species: Gallus gallus
 symbol: MLLT6
 template_length: '808'
@@ -141,9 +131,7 @@ title: MLLT6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000275023](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000275023) | [4302](https://www.ncbi.nlm.nih.gov/gene/4302) | [MIM:600328](https://omim.org/entry/600328) |  |
 | Mouse | [ENSMUSG00000038437](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038437) | [246198](https://www.ncbi.nlm.nih.gov/gene/246198) | [MGI:1935145](http://www.informatics.jax.org/marker/MGI:1935145) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [549549](https://www.ncbi.nlm.nih.gov/gene/549549) | [1016789](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1016789) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000014744](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014744) | [549549](https://www.ncbi.nlm.nih.gov/gene/549549) |  |  |
 

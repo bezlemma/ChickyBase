@@ -18,7 +18,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205142
   X-XIV: stage XII
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGCCAGCAAGAAGCCCAACTAC
-gene_id: '459517'
+gene_id: '396047'
 gene_type: protein-coding
 images:
 - caption: SNAI1 expression
@@ -351,41 +351,21 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SNAI1.Trevers.2023-Fig7-3-P.jpg
 name: snail family transcriptional repressor 1
-ncbi_id: '459517'
+ncbi_id: '396047'
 orthologs:
-- ensembl: ''
-  entrez: '34906'
-  mod: FBgn0001983
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000027366
+  entrez: '394880'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCGACCCAAAGATGTCCAGATGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459517
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396047
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459517
+  url: https://www.ncbi.nlm.nih.gov/gene/396047
 species: Gallus gallus
 symbol: SNAI1
 template_length: '832'
@@ -414,9 +394,5 @@ title: SNAI1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34906](https://www.ncbi.nlm.nih.gov/gene/34906) | FBgn0001983 |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000027366](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000027366) | [394880](https://www.ncbi.nlm.nih.gov/gene/394880) |  |  |
 

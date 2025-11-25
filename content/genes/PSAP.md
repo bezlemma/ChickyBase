@@ -2,7 +2,6 @@
 aliases:
 - prosaposin
 external_ids:
-  '13': stage 13
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0000416
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006665
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005764
@@ -12,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395602
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204811
-gene_id: '449454'
+gene_id: '395602'
 gene_type: protein-coding
 images:
 - caption: PSAP expression
@@ -100,13 +99,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C05.83.23mb.jpg
 name: prosaposin
-ncbi_id: '449454'
+ncbi_id: '395602'
 orthologs:
-- ensembl: ''
-  entrez: '43662'
-  mod: FBgn0000416
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000197746
   entrez: '5660'
   mod: MIM:176801
@@ -117,23 +111,25 @@ orthologs:
   mod: MGI:97783
   phenotypes: All phenotypic alleles (9):Targeted, knock-out(4) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 550039,447436
-  mod: '1007544'
+- ensembl: ENSXETG00000017158
+  entrez: '550039'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000013968
   entrez: '140811'
   mod: ZFIN:ZDB-GENE-020108-1
-  phenotypes: ZDB-GENE-020108-1
+  phenotypes: adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,
+    lipid metabolic process, regulation of lipid metabolic process, sphingolipid metabolic
+    process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449454
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395602
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449454
+  url: https://www.ncbi.nlm.nih.gov/gene/395602
 species: Gallus gallus
 symbol: PSAP
 title: PSAP
@@ -160,9 +156,8 @@ title: PSAP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43662](https://www.ncbi.nlm.nih.gov/gene/43662) | FBgn0000416 |  |
 | Human | [ENSG00000197746](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197746) | [5660](https://www.ncbi.nlm.nih.gov/gene/5660) | [MIM:176801](https://omim.org/entry/176801) | MIM:611721 |
 | Mouse | [ENSMUSG00000004207](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000004207) | [19156](https://www.ncbi.nlm.nih.gov/gene/19156) | [MGI:97783](http://www.informatics.jax.org/marker/MGI:97783) | All phenotypic alleles (9):Targeted, knock-out(4) Targeted, other(5) |
-| Xenopus |  | [550039](https://www.ncbi.nlm.nih.gov/gene/550039), [447436](https://www.ncbi.nlm.nih.gov/gene/447436) | [1007544](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1007544) |  |
-| Zebrafish | [ENSDARG00000013968](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013968) | [140811](https://www.ncbi.nlm.nih.gov/gene/140811) | [ZFIN:ZDB-GENE-020108-1](https://zfin.org/ZDB-GENE-020108-1) | ZDB-GENE-020108-1 |
+| Xenopus | [ENSXETG00000017158](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017158) | [550039](https://www.ncbi.nlm.nih.gov/gene/550039) |  |  |
+| Zebrafish | [ENSDARG00000013968](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013968) | [140811](https://www.ncbi.nlm.nih.gov/gene/140811) | [ZFIN:ZDB-GENE-020108-1](https://zfin.org/ZDB-GENE-020108-1) | adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway, lipid metabolic process, regulation of lipid metabolic process, sphingolipid metabolic process |
 

@@ -5,7 +5,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418538
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416748
-gene_id: '453343'
+gene_id: '418538'
 gene_type: protein-coding
 images:
 - caption: PDE9A expression
@@ -30,13 +30,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54zb12.127.23.jpg
 name: phosphodiesterase 9A
-ncbi_id: '453343'
+ncbi_id: '418538'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000160191
   entrez: '5152'
   mod: MIM:602973
@@ -47,23 +42,24 @@ orthologs:
   mod: MGI:1277179
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100488870,734701
-  mod: '5917011'
+- ensembl: ENSXETG00000003933
+  entrez: '100493061'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000074439,ENSDARG00000076650
-  entrez: 571737,564389,799942
+- ensembl: ENSDARG00000060280
+  entrez: '799942'
   mod: ZFIN:ZDB-GENE-130920-1
-  phenotypes: ZDB-GENE-130920-1
+  phenotypes: cGMP catabolic process, negative regulation of cAMP/PKA signal transduction,
+    signal transduction
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453343
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418538
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453343
+  url: https://www.ncbi.nlm.nih.gov/gene/418538
 species: Gallus gallus
 symbol: PDE9A
 title: PDE9A
@@ -84,9 +80,8 @@ title: PDE9A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000160191](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000160191) | [5152](https://www.ncbi.nlm.nih.gov/gene/5152) | [MIM:602973](https://omim.org/entry/602973) |  |
 | Mouse | [ENSMUSG00000041119](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041119) | [18585](https://www.ncbi.nlm.nih.gov/gene/18585) | [MGI:1277179](http://www.informatics.jax.org/marker/MGI:1277179) |  |
-| Xenopus |  | [100488870](https://www.ncbi.nlm.nih.gov/gene/100488870), [734701](https://www.ncbi.nlm.nih.gov/gene/734701) | [5917011](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5917011) |  |
-| Zebrafish | [ENSDARG00000074439](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074439), [ENSDARG00000076650](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076650) | [571737](https://www.ncbi.nlm.nih.gov/gene/571737), [564389](https://www.ncbi.nlm.nih.gov/gene/564389), [799942](https://www.ncbi.nlm.nih.gov/gene/799942) | [ZFIN:ZDB-GENE-130920-1](https://zfin.org/ZDB-GENE-130920-1) | ZDB-GENE-130920-1 |
+| Xenopus | [ENSXETG00000003933](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003933) | [100493061](https://www.ncbi.nlm.nih.gov/gene/100493061) |  |  |
+| Zebrafish | [ENSDARG00000060280](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060280) | [799942](https://www.ncbi.nlm.nih.gov/gene/799942) | [ZFIN:ZDB-GENE-130920-1](https://zfin.org/ZDB-GENE-130920-1) | cGMP catabolic process, negative regulation of cAMP/PKA signal transduction, signal transduction |
 

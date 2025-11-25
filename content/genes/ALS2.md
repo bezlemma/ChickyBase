@@ -3,13 +3,12 @@ aliases:
 - alsin
 cgnc_id: '6377'
 external_ids:
-  '25': stage 25stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000008415
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424085
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421940
 forward_primer: GATTCTTTGCGGAAGCCAGAC
-gene_id: '462645'
+gene_id: '424085'
 gene_type: protein-coding
 images:
 - caption: ALS2 expression
@@ -106,13 +105,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R521.ALS2.S25A.001.jpg
 name: amyotrophic lateral sclerosis 2 (juvenile)
-ncbi_id: '462645'
+ncbi_id: '424085'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000003393
   entrez: '57679'
   mod: MIM:606352
@@ -123,24 +117,24 @@ orthologs:
   mod: MGI:1921268
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000012406
   entrez: '779575'
-  mod: '922618'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000076924
-  entrez: 557014,100318899
-  mod: ZFIN:ZDB-GENE-070402-2,ZFIN:ZDB-GENE-080929-1
-  phenotypes: ZDB-GENE-070402-2,ZDB-GENE-080929-1
+  entrez: '100318899'
+  mod: ZFIN:ZDB-GENE-080929-1
+  phenotypes: endosomal transport
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCCAGTCCCCATCATTTTGTTAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462645
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424085
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462645
+  url: https://www.ncbi.nlm.nih.gov/gene/424085
 species: Gallus gallus
 symbol: ALS2
 template_length: '921'
@@ -162,9 +156,8 @@ title: ALS2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000003393](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000003393) | [57679](https://www.ncbi.nlm.nih.gov/gene/57679) | [MIM:606352](https://omim.org/entry/606352) | MIM:205100 |
 | Mouse | [ENSMUSG00000026024](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026024) | [74018](https://www.ncbi.nlm.nih.gov/gene/74018) | [MGI:1921268](http://www.informatics.jax.org/marker/MGI:1921268) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4) |
-| Xenopus |  | [779575](https://www.ncbi.nlm.nih.gov/gene/779575) | [922618](http://www.xenbase.org/gene/showgene.do?method=display&geneId=922618) |  |
-| Zebrafish | [ENSDARG00000076924](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076924) | [557014](https://www.ncbi.nlm.nih.gov/gene/557014), [100318899](https://www.ncbi.nlm.nih.gov/gene/100318899) | [ZFIN:ZDB-GENE-070402-2](https://zfin.org/ZDB-GENE-070402-2), [ZFIN:ZDB-GENE-080929-1](https://zfin.org/ZDB-GENE-080929-1) | ZDB-GENE-070402-2,ZDB-GENE-080929-1 |
+| Xenopus | [ENSXETG00000012406](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012406) | [779575](https://www.ncbi.nlm.nih.gov/gene/779575) |  |  |
+| Zebrafish | [ENSDARG00000076924](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076924) | [100318899](https://www.ncbi.nlm.nih.gov/gene/100318899) | [ZFIN:ZDB-GENE-080929-1](https://zfin.org/ZDB-GENE-080929-1) | endosomal transport |
 

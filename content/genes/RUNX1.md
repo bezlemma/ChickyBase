@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396152
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205227
 forward_primer: GATGGCTGGAAACGATGAG
-gene_id: '458843'
+gene_id: '396152'
 gene_type: protein-coding
 images:
 - caption: RUNX1 expression
@@ -307,7 +307,7 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/fig3.allimages.jaffredo-7
 name: runt-related transcription factor 1
-ncbi_id: '458843'
+ncbi_id: '396152'
 orthologs:
 - ensembl: ''
   entrez: '33059'
@@ -332,16 +332,16 @@ orthologs:
 - ensembl: ''
   entrez: '58126'
   mod: ZFIN:ZDB-GENE-000605-1
-  phenotypes: ZDB-GENE-000605-1
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTATGGGATACCTACGGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458843
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396152
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458843
+  url: https://www.ncbi.nlm.nih.gov/gene/396152
 species: Gallus gallus
 symbol: RUNX1
 template_length: '945'
@@ -374,5 +374,5 @@ title: RUNX1
 | Human |  |  |  |  |
 | Mouse | [ENSMUSG00000022952](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022952) | [12394](https://www.ncbi.nlm.nih.gov/gene/12394) | [MGI:99852](http://www.informatics.jax.org/marker/MGI:99852) | All phenotypic alleles (43):Targeted, knock-out(5) Targeted, other(38) |
 | Xenopus |  | [100485449](https://www.ncbi.nlm.nih.gov/gene/100485449), [379657](https://www.ncbi.nlm.nih.gov/gene/379657) | [483163](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483163) |  |
-| Zebrafish |  | [58126](https://www.ncbi.nlm.nih.gov/gene/58126) | [ZFIN:ZDB-GENE-000605-1](https://zfin.org/ZDB-GENE-000605-1) | ZDB-GENE-000605-1 |
+| Zebrafish |  | [58126](https://www.ncbi.nlm.nih.gov/gene/58126) | [ZFIN:ZDB-GENE-000605-1](https://zfin.org/ZDB-GENE-000605-1) |  |
 

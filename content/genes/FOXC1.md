@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395856
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205006
-gene_id: '450033'
+gene_id: '395856'
 gene_type: protein-coding
 images:
 - caption: FOXC1 expression
@@ -77,37 +77,18 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXC1_HH 14 x25 1009.jpg
 name: forkhead box C1
-ncbi_id: '450033'
+ncbi_id: '395856'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000055398
+  entrez: '79375'
+  mod: ZFIN:ZDB-GENE-010302-2
+  phenotypes: anatomical structure morphogenesis, blood vessel development, camera-type
+    eye development, cartilage development, cell differentiation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450033
+  url: https://www.ncbi.nlm.nih.gov/gene/395856
 species: Gallus gallus
 symbol: FOXC1
 title: FOXC1
@@ -133,9 +114,5 @@ title: FOXC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Zebrafish | [ENSDARG00000055398](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055398) | [79375](https://www.ncbi.nlm.nih.gov/gene/79375) | [ZFIN:ZDB-GENE-010302-2](https://zfin.org/ZDB-GENE-010302-2) | anatomical structure morphogenesis, blood vessel development, camera-type eye development, cartilage development, cell differentiation |
 

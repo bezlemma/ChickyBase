@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395084
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204440
-gene_id: '460742'
+gene_id: '395084'
 gene_type: protein-coding
 images:
 - caption: ALC expression
@@ -87,7 +87,7 @@ images:
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ALC.fig2.imageF.st35
 name: ALC protein
-ncbi_id: '460742'
+ncbi_id: '395084'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -117,7 +117,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460742
+  url: https://www.ncbi.nlm.nih.gov/gene/395084
 species: Gallus gallus
 symbol: ALC
 title: ALC

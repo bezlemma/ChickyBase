@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:723789
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001044692
-gene_id: '450003'
+gene_id: '723789'
 gene_type: protein-coding
 images:
 - caption: DACT1 expression
@@ -148,13 +148,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DPR1.Alvarez.2009
     for figure 2, panel E.png
 name: dishevelled binding antagonist of beta catenin 1
-ncbi_id: '450003'
+ncbi_id: '723789'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000165617
   entrez: '51339'
   mod: MIM:607861
@@ -165,20 +160,22 @@ orthologs:
   mod: MGI:1891740
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 493325,399186,398315
-  mod: '478638'
+- ensembl: ENSXETG00000011962
+  entrez: '493325'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000039675
+- ensembl: ENSDARG00000101635
   entrez: '405799'
   mod: ZFIN:ZDB-GENE-040623-3
-  phenotypes: ZDB-GENE-040623-3
+  phenotypes: Wnt signaling pathway, negative regulation of JNK cascade, negative
+    regulation of canonical Wnt signaling pathway, regulation of Wnt signaling pathway,
+    planar cell polarity pathway
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450003
+  url: https://www.ncbi.nlm.nih.gov/gene/723789
 species: Gallus gallus
 symbol: DACT1
 title: DACT1
@@ -204,9 +201,8 @@ title: DACT1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000165617](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165617) | [51339](https://www.ncbi.nlm.nih.gov/gene/51339) | [MIM:607861](https://omim.org/entry/607861) |  |
 | Mouse | [ENSMUSG00000044548](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000044548) | [59036](https://www.ncbi.nlm.nih.gov/gene/59036) | [MGI:1891740](http://www.informatics.jax.org/marker/MGI:1891740) | All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5) |
-| Xenopus |  | [493325](https://www.ncbi.nlm.nih.gov/gene/493325), [399186](https://www.ncbi.nlm.nih.gov/gene/399186), [398315](https://www.ncbi.nlm.nih.gov/gene/398315) | [478638](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478638) |  |
-| Zebrafish | [ENSDARG00000039675](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039675) | [405799](https://www.ncbi.nlm.nih.gov/gene/405799) | [ZFIN:ZDB-GENE-040623-3](https://zfin.org/ZDB-GENE-040623-3) | ZDB-GENE-040623-3 |
+| Xenopus | [ENSXETG00000011962](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011962) | [493325](https://www.ncbi.nlm.nih.gov/gene/493325) |  |  |
+| Zebrafish | [ENSDARG00000101635](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101635) | [405799](https://www.ncbi.nlm.nih.gov/gene/405799) | [ZFIN:ZDB-GENE-040623-3](https://zfin.org/ZDB-GENE-040623-3) | Wnt signaling pathway, negative regulation of JNK cascade, negative regulation of canonical Wnt signaling pathway, regulation of Wnt signaling pathway, planar cell polarity pathway |
 

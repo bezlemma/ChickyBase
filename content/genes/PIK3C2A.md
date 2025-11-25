@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423070
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421003
-gene_id: '449752'
+gene_id: '423070'
 gene_type: protein-coding
 images:
 - caption: PIK3C2A expression
@@ -30,13 +30,8 @@ images:
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/pi3kc2a.fig5bd.smith.2005.copy.jpg
 name: phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha
-ncbi_id: '449752'
+ncbi_id: '423070'
 orthologs:
-- ensembl: ''
-  entrez: '39329'
-  mod: FBgn0015278
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000011405
   entrez: '5286'
   mod: MIM:603601
@@ -47,20 +42,22 @@ orthologs:
   mod: MGI:1203729
   phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100038240,100380949
-  mod: '484562'
+- ensembl: ENSXETG00000016008
+  entrez: '100038240'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000060841
+- ensembl: ENSDARG00000109612
   entrez: '571356'
   mod: ZFIN:ZDB-GENE-030328-39
-  phenotypes: ZDB-GENE-030328-39
+  phenotypes: angiogenesis, cell migration, lipid metabolic process, phosphatidylinositol
+    3-kinase/protein kinase B signal transduction, phosphatidylinositol phosphate
+    biosynthetic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449752
+  url: https://www.ncbi.nlm.nih.gov/gene/423070
 species: Gallus gallus
 symbol: PIK3C2A
 title: PIK3C2A
@@ -88,9 +85,8 @@ title: PIK3C2A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39329](https://www.ncbi.nlm.nih.gov/gene/39329) | FBgn0015278 |  |
 | Human | [ENSG00000011405](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000011405) | [5286](https://www.ncbi.nlm.nih.gov/gene/5286) | [MIM:603601](https://omim.org/entry/603601) |  |
 | Mouse | [ENSMUSG00000030660](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030660) | [18704](https://www.ncbi.nlm.nih.gov/gene/18704) | [MGI:1203729](http://www.informatics.jax.org/marker/MGI:1203729) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [100038240](https://www.ncbi.nlm.nih.gov/gene/100038240), [100380949](https://www.ncbi.nlm.nih.gov/gene/100380949) | [484562](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484562) |  |
-| Zebrafish | [ENSDARG00000060841](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060841) | [571356](https://www.ncbi.nlm.nih.gov/gene/571356) | [ZFIN:ZDB-GENE-030328-39](https://zfin.org/ZDB-GENE-030328-39) | ZDB-GENE-030328-39 |
+| Xenopus | [ENSXETG00000016008](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016008) | [100038240](https://www.ncbi.nlm.nih.gov/gene/100038240) |  |  |
+| Zebrafish | [ENSDARG00000109612](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000109612) | [571356](https://www.ncbi.nlm.nih.gov/gene/571356) | [ZFIN:ZDB-GENE-030328-39](https://zfin.org/ZDB-GENE-030328-39) | angiogenesis, cell migration, lipid metabolic process, phosphatidylinositol 3-kinase/protein kinase B signal transduction, phosphatidylinositol phosphate biosynthetic process |
 

@@ -21,7 +21,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395526
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204761
-gene_id: '449608'
+gene_id: '395526'
 gene_type: protein-coding
 images:
 - caption: SOX14 expression
@@ -67,13 +67,8 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX14.FIG3E.HARGRAVE.2000.jpg
 name: SRY-box 14
-ncbi_id: '449608'
+ncbi_id: '395526'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000168875
   entrez: '8403'
   mod: MIM:604747
@@ -84,20 +79,22 @@ orthologs:
   mod: MGI:98362
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100101715,100337614
-  mod: '485369'
+- ensembl: ENSXETG00000034566
+  entrez: '100101715'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000070929
   entrez: '557661'
   mod: ZFIN:ZDB-GENE-051113-268
-  phenotypes: ZDB-GENE-051113-268
+  phenotypes: brain development, hypothalamus development, negative regulation of
+    transcription by RNA polymerase II, neuron differentiation, positive regulation
+    of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449608
+  url: https://www.ncbi.nlm.nih.gov/gene/395526
 species: Gallus gallus
 symbol: SOX14
 title: SOX14
@@ -127,9 +124,8 @@ Copyright © 2000 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000168875](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000168875) | [8403](https://www.ncbi.nlm.nih.gov/gene/8403) | [MIM:604747](https://omim.org/entry/604747) |  |
 | Mouse | [ENSMUSG00000053747](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000053747) | [20669](https://www.ncbi.nlm.nih.gov/gene/20669) | [MGI:98362](http://www.informatics.jax.org/marker/MGI:98362) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100101715](https://www.ncbi.nlm.nih.gov/gene/100101715), [100337614](https://www.ncbi.nlm.nih.gov/gene/100337614) | [485369](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485369) |  |
-| Zebrafish | [ENSDARG00000070929](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070929) | [557661](https://www.ncbi.nlm.nih.gov/gene/557661) | [ZFIN:ZDB-GENE-051113-268](https://zfin.org/ZDB-GENE-051113-268) | ZDB-GENE-051113-268 |
+| Xenopus | [ENSXETG00000034566](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034566) | [100101715](https://www.ncbi.nlm.nih.gov/gene/100101715) |  |  |
+| Zebrafish | [ENSDARG00000070929](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070929) | [557661](https://www.ncbi.nlm.nih.gov/gene/557661) | [ZFIN:ZDB-GENE-051113-268](https://zfin.org/ZDB-GENE-051113-268) | brain development, hypothalamus development, negative regulation of transcription by RNA polymerase II, neuron differentiation, positive regulation of transcription by RNA polymerase II |
 

@@ -20,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:429089
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0050840
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031563
-gene_id: '449578'
+gene_id: '429089'
 gene_type: protein-coding
 images:
 - caption: CYR61 expression
@@ -38,13 +38,8 @@ images:
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYR61.Javerzat.2009.3A.png
 name: cysteine rich angiogenic inducer 61
-ncbi_id: '449578'
+ncbi_id: '429089'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000142871
   entrez: '3491'
   mod: MIM:602369
@@ -55,20 +50,22 @@ orthologs:
   mod: MGI:88613
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 448140,379598
-  mod: '482633'
+- ensembl: ENSXETG00000003094
+  entrez: '448140'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000023062
   entrez: '403033'
   mod: ZFIN:ZDB-GENE-040426-3
-  phenotypes: ZDB-GENE-040426-3
+  phenotypes: cell adhesion, fin regeneration, positive regulation of biosynthetic
+    process, positive regulation of cell differentiation, positive regulation of cell
+    migration
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449578
+  url: https://www.ncbi.nlm.nih.gov/gene/429089
 species: Gallus gallus
 symbol: CYR61
 title: CYR61
@@ -97,9 +94,8 @@ title: CYR61
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000142871](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000142871) | [3491](https://www.ncbi.nlm.nih.gov/gene/3491) | [MIM:602369](https://omim.org/entry/602369) |  |
 | Mouse | [ENSMUSG00000028195](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028195) | [16007](https://www.ncbi.nlm.nih.gov/gene/16007) | [MGI:88613](http://www.informatics.jax.org/marker/MGI:88613) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [448140](https://www.ncbi.nlm.nih.gov/gene/448140), [379598](https://www.ncbi.nlm.nih.gov/gene/379598) | [482633](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482633) |  |
-| Zebrafish | [ENSDARG00000023062](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023062) | [403033](https://www.ncbi.nlm.nih.gov/gene/403033) | [ZFIN:ZDB-GENE-040426-3](https://zfin.org/ZDB-GENE-040426-3) | ZDB-GENE-040426-3 |
+| Xenopus | [ENSXETG00000003094](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003094) | [448140](https://www.ncbi.nlm.nih.gov/gene/448140) |  |  |
+| Zebrafish | [ENSDARG00000023062](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023062) | [403033](https://www.ncbi.nlm.nih.gov/gene/403033) | [ZFIN:ZDB-GENE-040426-3](https://zfin.org/ZDB-GENE-040426-3) | cell adhesion, fin regeneration, positive regulation of biosynthetic process, positive regulation of cell differentiation, positive regulation of cell migration |
 

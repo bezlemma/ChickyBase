@@ -4,7 +4,6 @@ aliases:
 - calcyphosine like
 cgnc_id: '10069'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0038088
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/41579
@@ -141,7 +140,7 @@ orthologs:
 - ensembl: ENSDARG00000003414,ENSDARG00000039341
   entrez: 550473,550371
   mod: ZFIN:ZDB-GENE-050417-298,ZFIN:ZDB-GENE-030131-7291
-  phenotypes: ZDB-GENE-050417-298,ZDB-GENE-030131-7291
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGATTGTGCCATTTCCCCACGC
 sources:
@@ -179,5 +178,5 @@ title: CAPS
 | Human | [ENSG00000152611](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000152611) | [133690](https://www.ncbi.nlm.nih.gov/gene/133690) |  |  |
 | Mouse | [ENSMUSG00000039676](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039676) | [75568](https://www.ncbi.nlm.nih.gov/gene/75568) | [MGI:1922818](http://www.informatics.jax.org/marker/MGI:1922818) | All phenotypic alleles (5):Chemically induced(2) Targeted, other(3) |
 | Xenopus |  | [549278](https://www.ncbi.nlm.nih.gov/gene/549278) | [962395](http://www.xenbase.org/gene/showgene.do?method=display&geneId=962395) |  |
-| Zebrafish | [ENSDARG00000003414](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003414), [ENSDARG00000039341](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039341) | [550473](https://www.ncbi.nlm.nih.gov/gene/550473), [550371](https://www.ncbi.nlm.nih.gov/gene/550371) | [ZFIN:ZDB-GENE-050417-298](https://zfin.org/ZDB-GENE-050417-298), [ZFIN:ZDB-GENE-030131-7291](https://zfin.org/ZDB-GENE-030131-7291) | ZDB-GENE-050417-298,ZDB-GENE-030131-7291 |
+| Zebrafish | [ENSDARG00000003414](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003414), [ENSDARG00000039341](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039341) | [550473](https://www.ncbi.nlm.nih.gov/gene/550473), [550371](https://www.ncbi.nlm.nih.gov/gene/550371) | [ZFIN:ZDB-GENE-050417-298](https://zfin.org/ZDB-GENE-050417-298), [ZFIN:ZDB-GENE-030131-7291](https://zfin.org/ZDB-GENE-030131-7291) |  |
 

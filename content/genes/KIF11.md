@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423809
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031230
 forward_primer: ATTCCAGCCGTTCCCACTC
-gene_id: '450195'
+gene_id: '423809'
 gene_type: protein-coding
 images:
 - caption: KIF11 expression
@@ -106,13 +106,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R720.KIF11.S26001.jpg
 name: kinesin family member 11
-ncbi_id: '450195'
+ncbi_id: '423809'
 orthologs:
-- ensembl: ''
-  entrez: '38135'
-  mod: FBgn0004378
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138160
   entrez: '3832'
   mod: MIM:148760
@@ -124,24 +119,25 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 548870,379112,397908
-  mod: '978998'
+- ensembl: ENSXETG00000012213
+  entrez: '548870'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000010948
   entrez: '195818'
   mod: ZFIN:ZDB-GENE-020426-1
-  phenotypes: ZDB-GENE-020426-1
+  phenotypes: angiogenesis, cell division, microtubule-based movement, mitotic spindle
+    assembly, neurogenesis
   species: Zebrafish
 reverse_primer: GCAACTTGCTAGCTGTGCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450195
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423809
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450195
+  url: https://www.ncbi.nlm.nih.gov/gene/423809
 species: Gallus gallus
 symbol: KIF11
 template_length: '807'
@@ -166,9 +162,8 @@ title: KIF11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38135](https://www.ncbi.nlm.nih.gov/gene/38135) | FBgn0004378 |  |
 | Human | [ENSG00000138160](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138160) | [3832](https://www.ncbi.nlm.nih.gov/gene/3832) | [MIM:148760](https://omim.org/entry/148760) |  |
 | Mouse | [ENSMUSG00000012443](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000012443) | [16551](https://www.ncbi.nlm.nih.gov/gene/16551) | [MGI:1098231](http://www.informatics.jax.org/marker/MGI:1098231) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [548870](https://www.ncbi.nlm.nih.gov/gene/548870), [379112](https://www.ncbi.nlm.nih.gov/gene/379112), [397908](https://www.ncbi.nlm.nih.gov/gene/397908) | [978998](http://www.xenbase.org/gene/showgene.do?method=display&geneId=978998) |  |
-| Zebrafish | [ENSDARG00000010948](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010948) | [195818](https://www.ncbi.nlm.nih.gov/gene/195818) | [ZFIN:ZDB-GENE-020426-1](https://zfin.org/ZDB-GENE-020426-1) | ZDB-GENE-020426-1 |
+| Xenopus | [ENSXETG00000012213](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012213) | [548870](https://www.ncbi.nlm.nih.gov/gene/548870) |  |  |
+| Zebrafish | [ENSDARG00000010948](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010948) | [195818](https://www.ncbi.nlm.nih.gov/gene/195818) | [ZFIN:ZDB-GENE-020426-1](https://zfin.org/ZDB-GENE-020426-1) | angiogenesis, cell division, microtubule-based movement, mitotic spindle assembly, neurogenesis |
 

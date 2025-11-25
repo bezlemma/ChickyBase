@@ -10,7 +10,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018296
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006108.3?report=genbank&from=3266632&to=3266740&strand=true
-gene_id: '467998'
+gene_id: '777855'
 gene_type: miscRNA
 images:
 - caption: MIR34A expression
@@ -35,7 +35,7 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/34a.20.st22PAZPA.jpg
 name: microRNA 34a
-ncbi_id: '467998'
+ncbi_id: '777855'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -65,7 +65,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467998
+  url: https://www.ncbi.nlm.nih.gov/gene/777855
 species: Gallus gallus
 symbol: MIR34A
 title: MIR34A

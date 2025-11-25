@@ -5,7 +5,6 @@ aliases:
 - Na(+)/K(+) ATPase alpha-1 subunit
 cgnc_id: '49857'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006754
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -14,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396530
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205521
-gene_id: '460306'
+gene_id: '396530'
 gene_type: protein-coding
 images:
 - caption: ATP1A1 expression
@@ -125,13 +124,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/m15.120.80'.25xs.jpg
 name: ATPase Na+/K+ transporting subunit alpha 1
-ncbi_id: '460306'
+ncbi_id: '396530'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163399
   entrez: '476'
   mod: MIM:182310
@@ -143,23 +137,25 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(1)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 395044,398583,399285
-  mod: '484830'
+- ensembl: ENSXETG00000020366
+  entrez: '395044'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000002791,ENSDARG00000001870,ENSDARG00000019856,ENSDARG00000007739,ENSDARG00000039131
-  entrez: 64612,64615,64616,64613,64614,245703
-  mod: ZFIN:ZDB-GENE-001212-1,ZFIN:ZDB-GENE-001212-4,ZFIN:ZDB-GENE-001212-5,ZFIN:ZDB-GENE-001212-2,ZFIN:ZDB-GENE-001212-3,ZFIN:ZDB-GENE-020501-1
-  phenotypes: ZDB-GENE-001212-1,ZDB-GENE-001212-4,ZDB-GENE-001212-5,ZDB-GENE-001212-2,ZDB-GENE-001212-3,ZDB-GENE-020501-1
+- ensembl: ENSDARG00000019856
+  entrez: '64616'
+  mod: ZFIN:ZDB-GENE-001212-5
+  phenotypes: intracellular potassium ion homeostasis, intracellular sodium ion homeostasis,
+    monoatomic ion transport, potassium ion import across plasma membrane, potassium
+    ion transport
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460306
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396530
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460306
+  url: https://www.ncbi.nlm.nih.gov/gene/396530
 species: Gallus gallus
 symbol: ATP1A1
 title: ATP1A1
@@ -184,9 +180,8 @@ title: ATP1A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163399](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163399) | [476](https://www.ncbi.nlm.nih.gov/gene/476) | [MIM:182310](https://omim.org/entry/182310) |  |
 | Mouse | [ENSMUSG00000033161](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033161) | [11928](https://www.ncbi.nlm.nih.gov/gene/11928) | [MGI:88105](http://www.informatics.jax.org/marker/MGI:88105) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(1) Gene trapped(1) |
-| Xenopus |  | [395044](https://www.ncbi.nlm.nih.gov/gene/395044), [398583](https://www.ncbi.nlm.nih.gov/gene/398583), [399285](https://www.ncbi.nlm.nih.gov/gene/399285) | [484830](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484830) |  |
-| Zebrafish | [ENSDARG00000002791](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002791), [ENSDARG00000001870](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000001870), [ENSDARG00000019856](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019856), [ENSDARG00000007739](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007739), [ENSDARG00000039131](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039131) | [64612](https://www.ncbi.nlm.nih.gov/gene/64612), [64615](https://www.ncbi.nlm.nih.gov/gene/64615), [64616](https://www.ncbi.nlm.nih.gov/gene/64616), [64613](https://www.ncbi.nlm.nih.gov/gene/64613), [64614](https://www.ncbi.nlm.nih.gov/gene/64614), [245703](https://www.ncbi.nlm.nih.gov/gene/245703) | [ZFIN:ZDB-GENE-001212-1](https://zfin.org/ZDB-GENE-001212-1), [ZFIN:ZDB-GENE-001212-4](https://zfin.org/ZDB-GENE-001212-4), [ZFIN:ZDB-GENE-001212-5](https://zfin.org/ZDB-GENE-001212-5), [ZFIN:ZDB-GENE-001212-2](https://zfin.org/ZDB-GENE-001212-2), [ZFIN:ZDB-GENE-001212-3](https://zfin.org/ZDB-GENE-001212-3), [ZFIN:ZDB-GENE-020501-1](https://zfin.org/ZDB-GENE-020501-1) | ZDB-GENE-001212-1,ZDB-GENE-001212-4,ZDB-GENE-001212-5,ZDB-GENE-001212-2,ZDB-GENE-001212-3,ZDB-GENE-020501-1 |
+| Xenopus | [ENSXETG00000020366](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020366) | [395044](https://www.ncbi.nlm.nih.gov/gene/395044) |  |  |
+| Zebrafish | [ENSDARG00000019856](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019856) | [64616](https://www.ncbi.nlm.nih.gov/gene/64616) | [ZFIN:ZDB-GENE-001212-5](https://zfin.org/ZDB-GENE-001212-5) | intracellular potassium ion homeostasis, intracellular sodium ion homeostasis, monoatomic ion transport, potassium ion import across plasma membrane, potassium ion transport |
 

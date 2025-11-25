@@ -3,7 +3,6 @@ aliases:
 - alpha-aminoadipic semialdehyde dehydrogenase
 cgnc_id: '6235'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0036857
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/40097
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000008229
@@ -11,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426812
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424422
 forward_primer: AGGTGCTCCCACAACATCTCTCAC
-gene_id: '459115'
+gene_id: '426812'
 gene_type: protein-coding
 images:
 - caption: ALDH7A1 expression
@@ -131,41 +130,36 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R494.ALDH7A1.S25BB.001.jpg
 name: aldehyde dehydrogenase 7 family member A1
-ncbi_id: '459115'
+ncbi_id: '426812'
 orthologs:
-- ensembl: ''
-  entrez: '40097'
-  mod: FBgn0036857
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164904
   entrez: '501'
   mod: MIM:107323
   phenotypes: MIM:266100
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000053644
   entrez: '110695'
   mod: MGI:108186
   phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549131,447522
-  mod: '492000'
+- ensembl: ENSXETG00000005191
+  entrez: '549131'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000018426
   entrez: '334197'
   mod: ZFIN:ZDB-GENE-030131-6129
-  phenotypes: ZDB-GENE-030131-6129
+  phenotypes: camera-type eye development, cartilage development, pectoral fin development
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCTTCCCAAATCCCTGGTAAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459115
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426812
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459115
+  url: https://www.ncbi.nlm.nih.gov/gene/426812
 species: Gallus gallus
 symbol: ALDH7A1
 template_length: '745'
@@ -189,9 +183,8 @@ title: ALDH7A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40097](https://www.ncbi.nlm.nih.gov/gene/40097) | FBgn0036857 |  |
 | Human | [ENSG00000164904](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164904) | [501](https://www.ncbi.nlm.nih.gov/gene/501) | [MIM:107323](https://omim.org/entry/107323) | MIM:266100 |
-| Mouse |  | [110695](https://www.ncbi.nlm.nih.gov/gene/110695) | [MGI:108186](http://www.informatics.jax.org/marker/MGI:108186) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [549131](https://www.ncbi.nlm.nih.gov/gene/549131), [447522](https://www.ncbi.nlm.nih.gov/gene/447522) | [492000](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492000) |  |
-| Zebrafish | [ENSDARG00000018426](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018426) | [334197](https://www.ncbi.nlm.nih.gov/gene/334197) | [ZFIN:ZDB-GENE-030131-6129](https://zfin.org/ZDB-GENE-030131-6129) | ZDB-GENE-030131-6129 |
+| Mouse | [ENSMUSG00000053644](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000053644) | [110695](https://www.ncbi.nlm.nih.gov/gene/110695) | [MGI:108186](http://www.informatics.jax.org/marker/MGI:108186) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
+| Xenopus | [ENSXETG00000005191](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005191) | [549131](https://www.ncbi.nlm.nih.gov/gene/549131) |  |  |
+| Zebrafish | [ENSDARG00000018426](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018426) | [334197](https://www.ncbi.nlm.nih.gov/gene/334197) | [ZFIN:ZDB-GENE-030131-6129](https://zfin.org/ZDB-GENE-030131-6129) | camera-type eye development, cartilage development, pectoral fin development |
 

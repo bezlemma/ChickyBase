@@ -3,7 +3,6 @@ aliases:
 - epidermal growth factor receptor substrate 15
 cgnc_id: '52229'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic: http://www.ncbi.nlm.nih.gov/nuccore/NC_006095.3?report=genbank&from=22959143&to=23001635&strand=true
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000010543
@@ -11,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424633
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006095.3?report=genbank&from=22959143&to=23001635&strand=true
 forward_primer: 5’-AAGACAGGACTGCCTTCTGC-3’
-gene_id: '451347'
+gene_id: '424633'
 gene_type: protein-coding
 images:
 - caption: EPS15 expression
@@ -109,13 +108,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R656.EPS15.S25.001.jpg
 name: epidermal growth factor receptor pathway substrate 15
-ncbi_id: '451347'
+ncbi_id: '424633'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000085832
   entrez: '2060'
   mod: MIM:600051
@@ -126,24 +120,24 @@ orthologs:
   mod: MGI:104583
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000002833
   entrez: '100145116'
-  mod: '6070904'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000078216
-  entrez: 100332643,795505
+  entrez: '795505'
   mod: ZFIN:ZDB-GENE-081104-264
-  phenotypes: ZDB-GENE-081104-264
+  phenotypes: endocytosis, endosomal transport
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGACAGTTGCAGCTGGAGTCTC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451347
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424633
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451347
+  url: https://www.ncbi.nlm.nih.gov/gene/424633
 species: Gallus gallus
 symbol: EPS15
 template_length: '989'
@@ -167,9 +161,8 @@ title: EPS15
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000085832](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000085832) | [2060](https://www.ncbi.nlm.nih.gov/gene/2060) | [MIM:600051](https://omim.org/entry/600051) |  |
 | Mouse | [ENSMUSG00000028552](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028552) | [13858](https://www.ncbi.nlm.nih.gov/gene/13858) | [MGI:104583](http://www.informatics.jax.org/marker/MGI:104583) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [100145116](https://www.ncbi.nlm.nih.gov/gene/100145116) | [6070904](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6070904) |  |
-| Zebrafish | [ENSDARG00000078216](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078216) | [100332643](https://www.ncbi.nlm.nih.gov/gene/100332643), [795505](https://www.ncbi.nlm.nih.gov/gene/795505) | [ZFIN:ZDB-GENE-081104-264](https://zfin.org/ZDB-GENE-081104-264) | ZDB-GENE-081104-264 |
+| Xenopus | [ENSXETG00000002833](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002833) | [100145116](https://www.ncbi.nlm.nih.gov/gene/100145116) |  |  |
+| Zebrafish | [ENSDARG00000078216](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078216) | [795505](https://www.ncbi.nlm.nih.gov/gene/795505) | [ZFIN:ZDB-GENE-081104-264](https://zfin.org/ZDB-GENE-081104-264) | endocytosis, endosomal transport |
 

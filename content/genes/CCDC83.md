@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:425232
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423016
 forward_primer: 5'-GGAGAACTGCTTTCCTTAGATACG-3'
-gene_id: '458800'
+gene_id: '425232'
 gene_type: protein-coding
 images:
 - caption: CCDC83 expression
@@ -72,13 +72,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R625.CCDC83.S26.001.jpg
 name: coiled-coil domain containing 83
-ncbi_id: '458800'
+ncbi_id: '425232'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000150676
   entrez: '220047'
   mod: ''
@@ -89,24 +84,25 @@ orthologs:
   mod: MGI:1918255
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000010700
+  entrez: '100490826'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000077179
   entrez: '100004068'
   mod: ZFIN:ZDB-GENE-130723-1
-  phenotypes: ZDB-GENE-130723-1
+  phenotypes: cilium assembly, intraciliary transport, kidney development, regulation
+    of melanosome transport, vesicle-mediated transport
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGAACACAGAGATGAGCCCTACG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458800
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=425232
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458800
+  url: https://www.ncbi.nlm.nih.gov/gene/425232
 species: Gallus gallus
 symbol: CCDC83
 template_length: '1062'
@@ -129,9 +125,8 @@ title: CCDC83
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000150676](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000150676) | [220047](https://www.ncbi.nlm.nih.gov/gene/220047) |  |  |
 | Mouse | [ENSMUSG00000030617](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030617) | [75338](https://www.ncbi.nlm.nih.gov/gene/75338) | [MGI:1918255](http://www.informatics.jax.org/marker/MGI:1918255) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  | [100004068](https://www.ncbi.nlm.nih.gov/gene/100004068) | [ZFIN:ZDB-GENE-130723-1](https://zfin.org/ZDB-GENE-130723-1) | ZDB-GENE-130723-1 |
+| Xenopus | [ENSXETG00000010700](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010700) | [100490826](https://www.ncbi.nlm.nih.gov/gene/100490826) |  |  |
+| Zebrafish | [ENSDARG00000077179](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077179) | [100004068](https://www.ncbi.nlm.nih.gov/gene/100004068) | [ZFIN:ZDB-GENE-130723-1](https://zfin.org/ZDB-GENE-130723-1) | cilium assembly, intraciliary transport, kidney development, regulation of melanosome transport, vesicle-mediated transport |
 

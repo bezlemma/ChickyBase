@@ -5,7 +5,6 @@ aliases:
 - achaete-scute complex-like 1
 cgnc_id: '49152'
 external_ids:
-  '31': stage 31stage 31
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=NOTCH+proneural+hypothalamus+neural+Ware+scaffold+building+blocks
   Comments: 'Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (Acc. # NM_204412.1).'
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:386573
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204412
 forward_primer: CCCCCGACCCGTTCCAGAG
-gene_id: '459012'
+gene_id: '386573'
 gene_type: protein-coding
 images:
 - caption: ASCL1 expression
@@ -400,7 +399,7 @@ images:
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/afefefqefqfwefqf.jpg
 name: achaete-scute family bHLH transcription factor 1
-ncbi_id: '459012'
+ncbi_id: '386573'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -431,10 +430,10 @@ reverse_primer: AATTAACCCTCACTAAAGGCAAAAGGCAGCATACAAAACCAGAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459012
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=386573
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459012
+  url: https://www.ncbi.nlm.nih.gov/gene/386573
 species: Gallus gallus
 symbol: ASCL1
 template_length: '496'

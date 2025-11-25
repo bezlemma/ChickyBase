@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395997
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205105
-gene_id: '451233'
+gene_id: '395997'
 gene_type: protein-coding
 images:
 - caption: EPHA5 expression
@@ -71,37 +71,32 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EphA5.Iwamasa.1999.Fig2.jpg
 name: EPH receptor A5
-ncbi_id: '451233'
+ncbi_id: '395997'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000145242
   entrez: '2044'
   mod: MIM:600004
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000029245
   entrez: '13839'
   mod: MGI:99654
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100216124,379148,779062,100488002
-  mod: 988386,1015802
+- ensembl: ENSXETG00000034200
+  entrez: '100488002'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000020080,ENSDARG00000011600
-  entrez: 30311,64270
-  mod: ZFIN:ZDB-GENE-990415-58,ZFIN:ZDB-GENE-030826-6
-  phenotypes: ZDB-GENE-990415-58,ZDB-GENE-030826-6
+- ensembl: ENSDARG00000058284
+  entrez: '797595'
+  mod: ''
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451233
+  url: https://www.ncbi.nlm.nih.gov/gene/395997
 species: Gallus gallus
 symbol: EPHA5
 title: EPHA5
@@ -130,9 +125,8 @@ title: EPHA5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000145242](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145242) | [2044](https://www.ncbi.nlm.nih.gov/gene/2044) | [MIM:600004](https://omim.org/entry/600004) |  |
-| Mouse |  | [13839](https://www.ncbi.nlm.nih.gov/gene/13839) | [MGI:99654](http://www.informatics.jax.org/marker/MGI:99654) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100216124](https://www.ncbi.nlm.nih.gov/gene/100216124), [379148](https://www.ncbi.nlm.nih.gov/gene/379148), [779062](https://www.ncbi.nlm.nih.gov/gene/779062), [100488002](https://www.ncbi.nlm.nih.gov/gene/100488002) | [988386](http://www.xenbase.org/gene/showgene.do?method=display&geneId=988386), [1015802](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1015802) |  |
-| Zebrafish | [ENSDARG00000020080](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020080), [ENSDARG00000011600](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011600) | [30311](https://www.ncbi.nlm.nih.gov/gene/30311), [64270](https://www.ncbi.nlm.nih.gov/gene/64270) | [ZFIN:ZDB-GENE-990415-58](https://zfin.org/ZDB-GENE-990415-58), [ZFIN:ZDB-GENE-030826-6](https://zfin.org/ZDB-GENE-030826-6) | ZDB-GENE-990415-58,ZDB-GENE-030826-6 |
+| Mouse | [ENSMUSG00000029245](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029245) | [13839](https://www.ncbi.nlm.nih.gov/gene/13839) | [MGI:99654](http://www.informatics.jax.org/marker/MGI:99654) | All phenotypic alleles (1):Targeted, other(1) |
+| Xenopus | [ENSXETG00000034200](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034200) | [100488002](https://www.ncbi.nlm.nih.gov/gene/100488002) |  |  |
+| Zebrafish | [ENSDARG00000058284](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058284) | [797595](https://www.ncbi.nlm.nih.gov/gene/797595) |  |  |
 

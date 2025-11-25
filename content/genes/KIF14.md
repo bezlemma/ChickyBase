@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424347
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422190
 forward_primer: ACTTGGCATCAGGTGGTGG
-gene_id: '450712'
+gene_id: '424347'
 gene_type: protein-coding
 images:
 - caption: KIF14 expression
@@ -105,13 +105,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R720.KIF14.S26.001.jpg
 name: kinesin family member 14
-ncbi_id: '450712'
+ncbi_id: '424347'
 orthologs:
-- ensembl: ''
-  entrez: '35293'
-  mod: FBgn0004374
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000118193
   entrez: '9928'
   mod: MIM:611279
@@ -122,24 +117,25 @@ orthologs:
   mod: MGI:1098226
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: '100145032'
-  mod: '5889658'
+- ensembl: ENSXETG00000000312
+  entrez: '100493263'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000062187
+- ensembl: ENSDARG00000112389
   entrez: '562052'
   mod: ZFIN:ZDB-GENE-030131-5759
-  phenotypes: ZDB-GENE-030131-5759
+  phenotypes: brain development, kidney development, microtubule-based movement, negative
+    regulation of apoptotic process, system development
   species: Zebrafish
 reverse_primer: ATCCTTCTCAGCGCTGTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450712
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424347
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450712
+  url: https://www.ncbi.nlm.nih.gov/gene/424347
 species: Gallus gallus
 symbol: KIF14
 template_length: '722'
@@ -164,9 +160,8 @@ title: KIF14
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35293](https://www.ncbi.nlm.nih.gov/gene/35293) | FBgn0004374 |  |
 | Human | [ENSG00000118193](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118193) | [9928](https://www.ncbi.nlm.nih.gov/gene/9928) | [MIM:611279](https://omim.org/entry/611279) |  |
 | Mouse | [ENSMUSG00000041498](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041498) | [381293](https://www.ncbi.nlm.nih.gov/gene/381293) | [MGI:1098226](http://www.informatics.jax.org/marker/MGI:1098226) |  |
-| Xenopus |  | [100145032](https://www.ncbi.nlm.nih.gov/gene/100145032) | [5889658](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5889658) |  |
-| Zebrafish | [ENSDARG00000062187](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062187) | [562052](https://www.ncbi.nlm.nih.gov/gene/562052) | [ZFIN:ZDB-GENE-030131-5759](https://zfin.org/ZDB-GENE-030131-5759) | ZDB-GENE-030131-5759 |
+| Xenopus | [ENSXETG00000000312](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000312) | [100493263](https://www.ncbi.nlm.nih.gov/gene/100493263) |  |  |
+| Zebrafish | [ENSDARG00000112389](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000112389) | [562052](https://www.ncbi.nlm.nih.gov/gene/562052) | [ZFIN:ZDB-GENE-030131-5759](https://zfin.org/ZDB-GENE-030131-5759) | brain development, kidney development, microtubule-based movement, negative regulation of apoptotic process, system development |
 

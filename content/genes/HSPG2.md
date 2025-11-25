@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:429806
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001876
 forward_primer: 5’-TGCTGACGGTGGCATCTAC-3’
-gene_id: '460181'
+gene_id: '429806'
 gene_type: protein-coding
 images:
 - caption: HSPG2 expression
@@ -103,13 +103,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R702.HSPG2.S27.001.jpg
 name: heparan sulfate proteoglycan 2
-ncbi_id: '460181'
+ncbi_id: '429806'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000142798
   entrez: '3339'
   mod: MIM:142461
@@ -120,24 +115,25 @@ orthologs:
   mod: MGI:96257
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000017911
   entrez: '100494785'
-  mod: '6465356'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000076564
   entrez: '565429'
   mod: ZFIN:ZDB-GENE-080807-4
-  phenotypes: ZDB-GENE-080807-4
+  phenotypes: angiogenesis, blood vessel endothelial cell migration, cell differentiation,
+    circulatory system development, embryonic viscerocranium morphogenesis
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTGTGCAATGGCGTTGTGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460181
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=429806
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460181
+  url: https://www.ncbi.nlm.nih.gov/gene/429806
 species: Gallus gallus
 symbol: HSPG2
 template_length: '986'
@@ -160,9 +156,8 @@ title: HSPG2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000142798](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000142798) | [3339](https://www.ncbi.nlm.nih.gov/gene/3339) | [MIM:142461](https://omim.org/entry/142461) | MIM:224410 |
 | Mouse | [ENSMUSG00000028763](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028763) | [15530](https://www.ncbi.nlm.nih.gov/gene/15530) | [MGI:96257](http://www.informatics.jax.org/marker/MGI:96257) | All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5) |
-| Xenopus |  | [100494785](https://www.ncbi.nlm.nih.gov/gene/100494785) | [6465356](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6465356) |  |
-| Zebrafish | [ENSDARG00000076564](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076564) | [565429](https://www.ncbi.nlm.nih.gov/gene/565429) | [ZFIN:ZDB-GENE-080807-4](https://zfin.org/ZDB-GENE-080807-4) | ZDB-GENE-080807-4 |
+| Xenopus | [ENSXETG00000017911](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017911) | [100494785](https://www.ncbi.nlm.nih.gov/gene/100494785) |  |  |
+| Zebrafish | [ENSDARG00000076564](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076564) | [565429](https://www.ncbi.nlm.nih.gov/gene/565429) | [ZFIN:ZDB-GENE-080807-4](https://zfin.org/ZDB-GENE-080807-4) | angiogenesis, blood vessel endothelial cell migration, cell differentiation, circulatory system development, embryonic viscerocranium morphogenesis |
 

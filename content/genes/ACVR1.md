@@ -7,8 +7,6 @@ aliases:
 - type I TGF B receptor
 cgnc_id: '9529'
 external_ids:
-  '19': stage 19
-  '25': stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0003317
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030509
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005887
@@ -256,7 +254,7 @@ orthologs:
 - ensembl: ENSDARG00000014986
   entrez: '30615'
   mod: ZFIN:ZDB-GENE-990415-9
-  phenotypes: ZDB-GENE-990415-9
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGGCTGTTAGTCTTGCTGATGGATTC
 sources:
@@ -300,5 +298,5 @@ title: ACVR1
 | Human | [ENSG00000115170](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000115170) | [90](https://www.ncbi.nlm.nih.gov/gene/90) | [MIM:102576](https://omim.org/entry/102576) | MIM:135100 |
 | Mouse | [ENSMUSG00000026836](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026836) | [11477](https://www.ncbi.nlm.nih.gov/gene/11477) | [MGI:87911](http://www.informatics.jax.org/marker/MGI:87911) | All phenotypic alleles (7):Targeted, knock-out(4) Targeted, other(3) |
 | Xenopus |  | [550111](https://www.ncbi.nlm.nih.gov/gene/550111), [399083](https://www.ncbi.nlm.nih.gov/gene/399083), [399103](https://www.ncbi.nlm.nih.gov/gene/399103) | [478849](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478849) |  |
-| Zebrafish | [ENSDARG00000014986](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014986) | [30615](https://www.ncbi.nlm.nih.gov/gene/30615) | [ZFIN:ZDB-GENE-990415-9](https://zfin.org/ZDB-GENE-990415-9) | ZDB-GENE-990415-9 |
+| Zebrafish | [ENSDARG00000014986](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014986) | [30615](https://www.ncbi.nlm.nih.gov/gene/30615) | [ZFIN:ZDB-GENE-990415-9](https://zfin.org/ZDB-GENE-990415-9) |  |
 

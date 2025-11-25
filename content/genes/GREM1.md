@@ -5,7 +5,6 @@ aliases:
 - gremlin 1 homolog, cysteine knot superfamily
 cgnc_id: '49499'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0001658
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0009986
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Ohyama+2001+BMP
@@ -18,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395826
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005125
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204978
-gene_id: '450044'
+gene_id: '395826'
 gene_type: protein-coding
 images:
 - caption: GREM1 expression
@@ -527,38 +526,33 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig2.jpg
 name: gremlin 1, DAN family BMP antagonist
-ncbi_id: '450044'
+ncbi_id: '395826'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000276886
   entrez: '26585'
   mod: MIM:603054
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000074934
   entrez: '23892'
   mod: MGI:1344337
   phenotypes: All phenotypic alleles (8):Spontaneous(1) Radiation induced(1) Targeted,
     knock-out(1) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100101711,399094
-  mod: '484542'
+- ensembl: ENSXETG00000018095
+  entrez: '100101711'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000070612,ENSDARG00000029546
-  entrez: 100332287,100005728,405778,100271673
-  mod: ZFIN:ZDB-GENE-040625-1,ZFIN:ZDB-GENE-090218-21
-  phenotypes: ZDB-GENE-040625-1,ZDB-GENE-090218-21
+- ensembl: ENSDARG00000104618
+  entrez: '100005728'
+  mod: ZFIN:ZDB-GENE-090218-21
+  phenotypes: sequestering of BMP from receptor via BMP binding
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450044
+  url: https://www.ncbi.nlm.nih.gov/gene/395826
 species: Gallus gallus
 symbol: GREM1
 title: GREM1
@@ -587,9 +581,8 @@ title: GREM1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [26585](https://www.ncbi.nlm.nih.gov/gene/26585) | [MIM:603054](https://omim.org/entry/603054) |  |
-| Mouse |  | [23892](https://www.ncbi.nlm.nih.gov/gene/23892) | [MGI:1344337](http://www.informatics.jax.org/marker/MGI:1344337) | All phenotypic alleles (8):Spontaneous(1) Radiation induced(1) Targeted, knock-out(1) Targeted, other(5) |
-| Xenopus |  | [100101711](https://www.ncbi.nlm.nih.gov/gene/100101711), [399094](https://www.ncbi.nlm.nih.gov/gene/399094) | [484542](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484542) |  |
-| Zebrafish | [ENSDARG00000070612](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070612), [ENSDARG00000029546](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029546) | [100332287](https://www.ncbi.nlm.nih.gov/gene/100332287), [100005728](https://www.ncbi.nlm.nih.gov/gene/100005728), [405778](https://www.ncbi.nlm.nih.gov/gene/405778), [100271673](https://www.ncbi.nlm.nih.gov/gene/100271673) | [ZFIN:ZDB-GENE-040625-1](https://zfin.org/ZDB-GENE-040625-1), [ZFIN:ZDB-GENE-090218-21](https://zfin.org/ZDB-GENE-090218-21) | ZDB-GENE-040625-1,ZDB-GENE-090218-21 |
+| Human | [ENSG00000276886](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000276886) | [26585](https://www.ncbi.nlm.nih.gov/gene/26585) | [MIM:603054](https://omim.org/entry/603054) |  |
+| Mouse | [ENSMUSG00000074934](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000074934) | [23892](https://www.ncbi.nlm.nih.gov/gene/23892) | [MGI:1344337](http://www.informatics.jax.org/marker/MGI:1344337) | All phenotypic alleles (8):Spontaneous(1) Radiation induced(1) Targeted, knock-out(1) Targeted, other(5) |
+| Xenopus | [ENSXETG00000018095](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018095) | [100101711](https://www.ncbi.nlm.nih.gov/gene/100101711) |  |  |
+| Zebrafish | [ENSDARG00000104618](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104618) | [100005728](https://www.ncbi.nlm.nih.gov/gene/100005728) | [ZFIN:ZDB-GENE-090218-21](https://zfin.org/ZDB-GENE-090218-21) | sequestering of BMP from receptor via BMP binding |
 

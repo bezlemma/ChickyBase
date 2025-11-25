@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427871
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425445
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGTGCAGGCCTTCAACCCTCCG
-gene_id: '457876'
+gene_id: '427871'
 gene_type: protein-coding
 images:
 - caption: ALX1 expression
@@ -223,13 +223,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ALX1.png
 name: ALX homeobox 1
-ncbi_id: '457876'
+ncbi_id: '427871'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000180318
   entrez: '8092'
   mod: MIM:601527
@@ -240,24 +235,26 @@ orthologs:
   mod: MGI:104621
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100489661,373650
-  mod: '853094'
+- ensembl: ENSXETG00000021397
+  entrez: '100489661'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000062824
+- ensembl: ENSDARG00000110530
   entrez: '565176'
-  mod: ZFIN:ZDB-GENE-050419-191,ZFIN:ZDB-GENE-050419-191
-  phenotypes: ZDB-GENE-050419-191,ZDB-GENE-050419-191
+  mod: ZFIN:ZDB-GENE-050419-191
+  phenotypes: camera-type eye morphogenesis, embryonic cranial skeleton morphogenesis,
+    embryonic neurocranium morphogenesis, embryonic skeletal system morphogenesis,
+    negative regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAAAAGCAGCAAGCTGGCTCAGAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457876
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427871
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457876
+  url: https://www.ncbi.nlm.nih.gov/gene/427871
 species: Gallus gallus
 symbol: ALX1
 template_length: '1387'
@@ -284,9 +281,8 @@ title: ALX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000180318](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000180318) | [8092](https://www.ncbi.nlm.nih.gov/gene/8092) | [MIM:601527](https://omim.org/entry/601527) | MIM:613456 |
 | Mouse | [ENSMUSG00000036602](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036602) | [216285](https://www.ncbi.nlm.nih.gov/gene/216285) | [MGI:104621](http://www.informatics.jax.org/marker/MGI:104621) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100489661](https://www.ncbi.nlm.nih.gov/gene/100489661), [373650](https://www.ncbi.nlm.nih.gov/gene/373650) | [853094](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853094) |  |
-| Zebrafish | [ENSDARG00000062824](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062824) | [565176](https://www.ncbi.nlm.nih.gov/gene/565176) | [ZFIN:ZDB-GENE-050419-191](https://zfin.org/ZDB-GENE-050419-191), [ZFIN:ZDB-GENE-050419-191](https://zfin.org/ZDB-GENE-050419-191) | ZDB-GENE-050419-191,ZDB-GENE-050419-191 |
+| Xenopus | [ENSXETG00000021397](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021397) | [100489661](https://www.ncbi.nlm.nih.gov/gene/100489661) |  |  |
+| Zebrafish | [ENSDARG00000110530](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110530) | [565176](https://www.ncbi.nlm.nih.gov/gene/565176) | [ZFIN:ZDB-GENE-050419-191](https://zfin.org/ZDB-GENE-050419-191) | camera-type eye morphogenesis, embryonic cranial skeleton morphogenesis, embryonic neurocranium morphogenesis, embryonic skeletal system morphogenesis, negative regulation of DNA-templated transcription |
 

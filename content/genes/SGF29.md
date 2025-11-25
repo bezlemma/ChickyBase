@@ -17,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0035064
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031298
 forward_primer: 5'-GCGAGCACAACCTCATCAAC-3'
-gene_id: '450977'
+gene_id: '424726'
 gene_type: protein-coding
 images:
 - caption: SGF29 expression
@@ -123,13 +123,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R625.CCDC101.S26AAA.001.jpg
 name: SAGA complex associated factor 29
-ncbi_id: '450977'
+ncbi_id: '424726'
 orthologs:
-- ensembl: ''
-  entrez: '37429'
-  mod: FBgn0050390
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000176476
   entrez: '112869'
   mod: MIM:613374
@@ -140,24 +135,26 @@ orthologs:
   mod: MGI:1922815
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100144975,100036819
-  mod: '5810013'
+- ensembl: ENSXETG00000033185
+  entrez: '100144975'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000002339
   entrez: '449813'
   mod: ZFIN:ZDB-GENE-041010-62
-  phenotypes: ZDB-GENE-041010-62
+  phenotypes: regulation of cell cycle, regulation of cell division, regulation of
+    macromolecule metabolic process, regulation of nucleobase-containing compound
+    metabolic process
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGCGTTTGGGGTCCTTTAGG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450977
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424726
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450977
+  url: https://www.ncbi.nlm.nih.gov/gene/424726
 species: Gallus gallus
 symbol: SGF29
 template_length: '1047'
@@ -185,9 +182,8 @@ title: SGF29
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [37429](https://www.ncbi.nlm.nih.gov/gene/37429) | FBgn0050390 |  |
 | Human | [ENSG00000176476](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000176476) | [112869](https://www.ncbi.nlm.nih.gov/gene/112869) | [MIM:613374](https://omim.org/entry/613374) |  |
 | Mouse | [ENSMUSG00000030714](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030714) | [75565](https://www.ncbi.nlm.nih.gov/gene/75565) | [MGI:1922815](http://www.informatics.jax.org/marker/MGI:1922815) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100144975](https://www.ncbi.nlm.nih.gov/gene/100144975), [100036819](https://www.ncbi.nlm.nih.gov/gene/100036819) | [5810013](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5810013) |  |
-| Zebrafish | [ENSDARG00000002339](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002339) | [449813](https://www.ncbi.nlm.nih.gov/gene/449813) | [ZFIN:ZDB-GENE-041010-62](https://zfin.org/ZDB-GENE-041010-62) | ZDB-GENE-041010-62 |
+| Xenopus | [ENSXETG00000033185](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033185) | [100144975](https://www.ncbi.nlm.nih.gov/gene/100144975) |  |  |
+| Zebrafish | [ENSDARG00000002339](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002339) | [449813](https://www.ncbi.nlm.nih.gov/gene/449813) | [ZFIN:ZDB-GENE-041010-62](https://zfin.org/ZDB-GENE-041010-62) | regulation of cell cycle, regulation of cell division, regulation of macromolecule metabolic process, regulation of nucleobase-containing compound metabolic process |
 

@@ -4,8 +4,6 @@ aliases:
 - transcription factor Tcf4, Tcf4 , TCF7L2
 cgnc_id: '49355'
 external_ids:
-  '19': stage 19stage 19stage 19stage 19stage 19stage 19
-  '25': stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0085432
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Ferran+Arrones+pretectum+molecular
   Comments: The complete cDNA template sequence was obtained from the information
@@ -18,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395508
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001206510
   X-XIV: stage XII
-gene_id: '449648'
+gene_id: '395508'
 gene_type: protein-coding
 images:
 - caption: TCF7L2 expression
@@ -283,13 +281,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TCF7L2.Trevers.2023-Fig7-4-E.jpg
 name: transcription factor 7-like 2 (T-cell specific, HMG-box)
-ncbi_id: '449648'
+ncbi_id: '395508'
 orthologs:
-- ensembl: ''
-  entrez: '43769'
-  mod: FBgn0085432
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000148737
   entrez: '6934'
   mod: MIM:602228
@@ -300,20 +293,22 @@ orthologs:
   mod: MGI:1202879
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100101719,399164
-  mod: '485974'
+- ensembl: ENSXETG00000018735
+  entrez: '100101719'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000004415
   entrez: '30510'
   mod: ZFIN:ZDB-GENE-991110-8
-  phenotypes: ZDB-GENE-991110-8
+  phenotypes: Wnt signaling pathway, canonical Wnt signaling pathway, cell proliferation
+    in dorsal spinal cord, determination of left/right asymmetry in diencephalon,
+    digestive system development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449648
+  url: https://www.ncbi.nlm.nih.gov/gene/395508
 species: Gallus gallus
 symbol: TCF7L2
 title: TCF7L2
@@ -341,9 +336,8 @@ title: TCF7L2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43769](https://www.ncbi.nlm.nih.gov/gene/43769) | FBgn0085432 |  |
 | Human | [ENSG00000148737](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148737) | [6934](https://www.ncbi.nlm.nih.gov/gene/6934) | [MIM:602228](https://omim.org/entry/602228) | MIM:125853 |
 | Mouse | [ENSMUSG00000024985](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024985) | [21416](https://www.ncbi.nlm.nih.gov/gene/21416) | [MGI:1202879](http://www.informatics.jax.org/marker/MGI:1202879) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [100101719](https://www.ncbi.nlm.nih.gov/gene/100101719), [399164](https://www.ncbi.nlm.nih.gov/gene/399164) | [485974](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485974) |  |
-| Zebrafish | [ENSDARG00000004415](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004415) | [30510](https://www.ncbi.nlm.nih.gov/gene/30510) | [ZFIN:ZDB-GENE-991110-8](https://zfin.org/ZDB-GENE-991110-8) | ZDB-GENE-991110-8 |
+| Xenopus | [ENSXETG00000018735](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018735) | [100101719](https://www.ncbi.nlm.nih.gov/gene/100101719) |  |  |
+| Zebrafish | [ENSDARG00000004415](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004415) | [30510](https://www.ncbi.nlm.nih.gov/gene/30510) | [ZFIN:ZDB-GENE-991110-8](https://zfin.org/ZDB-GENE-991110-8) | Wnt signaling pathway, canonical Wnt signaling pathway, cell proliferation in dorsal spinal cord, determination of left/right asymmetry in diencephalon, digestive system development |
 

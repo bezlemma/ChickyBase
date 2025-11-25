@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100859804
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642548
 forward_primer: TGTGTGCGTGGGGATTTTTG
-gene_id: '474335'
+gene_id: '423946'
 gene_type: protein-coding
 images:
 - caption: ADAM9L expression
@@ -91,41 +91,26 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R502.LOC100859804.S26.001.jpg
 name: disintegrin and metalloproteinase domain-containing protein 9-like
-ncbi_id: '474335'
+ncbi_id: '423946'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000031289
+  entrez: '100486640'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000057138
+  entrez: '570656'
+  mod: ZFIN:ZDB-GENE-030131-4971
+  phenotypes: proteolysis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAGGGTGCCTTTTTTCTTGAACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=474335
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423946
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/474335
+  url: https://www.ncbi.nlm.nih.gov/gene/423946
 species: Gallus gallus
 symbol: ADAM9L
 template_length: '1028'
@@ -147,9 +132,6 @@ title: ADAM9L
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000031289](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031289) | [100486640](https://www.ncbi.nlm.nih.gov/gene/100486640) |  |  |
+| Zebrafish | [ENSDARG00000057138](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057138) | [570656](https://www.ncbi.nlm.nih.gov/gene/570656) | [ZFIN:ZDB-GENE-030131-4971](https://zfin.org/ZDB-GENE-030131-4971) | proteolysis |
 

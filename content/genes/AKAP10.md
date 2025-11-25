@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417612
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415856
 forward_primer: CCTGTTGTGTGTGGCGTTTACC
-gene_id: '452394'
+gene_id: '417612'
 gene_type: protein-coding
 images:
 - caption: AKAP10 expression
@@ -74,13 +74,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.AKAP10.S26AAA.001.jpg
 name: A-kinase anchoring protein 10
-ncbi_id: '452394'
+ncbi_id: '417612'
 orthologs:
-- ensembl: ''
-  entrez: '34957'
-  mod: FBgn0040079
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000108599
   entrez: '11216'
   mod: MIM:604694
@@ -91,24 +86,25 @@ orthologs:
   mod: MGI:1890218
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100485025,431793
-  mod: '1013139'
+- ensembl: ENSXETG00000005787
+  entrez: '100485025'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000059549
   entrez: '566920'
   mod: ZFIN:ZDB-GENE-030131-2535
-  phenotypes: ZDB-GENE-030131-2535
+  phenotypes: erythrocyte development, intracellular protein localization, lymphocyte
+    differentiation, myeloid cell differentiation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCACTGGGAAAAAGGAAGGTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452394
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417612
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452394
+  url: https://www.ncbi.nlm.nih.gov/gene/417612
 species: Gallus gallus
 symbol: AKAP10
 template_length: '841'
@@ -133,9 +129,8 @@ title: AKAP10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34957](https://www.ncbi.nlm.nih.gov/gene/34957) | FBgn0040079 |  |
 | Human | [ENSG00000108599](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000108599) | [11216](https://www.ncbi.nlm.nih.gov/gene/11216) | [MIM:604694](https://omim.org/entry/604694) | MIM:115080 |
 | Mouse | [ENSMUSG00000047804](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000047804) | [56697](https://www.ncbi.nlm.nih.gov/gene/56697) | [MGI:1890218](http://www.informatics.jax.org/marker/MGI:1890218) | All phenotypic alleles (2):Targeted, knock-out(1) Gene trapped(1) |
-| Xenopus |  | [100485025](https://www.ncbi.nlm.nih.gov/gene/100485025), [431793](https://www.ncbi.nlm.nih.gov/gene/431793) | [1013139](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1013139) |  |
-| Zebrafish | [ENSDARG00000059549](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059549) | [566920](https://www.ncbi.nlm.nih.gov/gene/566920) | [ZFIN:ZDB-GENE-030131-2535](https://zfin.org/ZDB-GENE-030131-2535) | ZDB-GENE-030131-2535 |
+| Xenopus | [ENSXETG00000005787](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005787) | [100485025](https://www.ncbi.nlm.nih.gov/gene/100485025) |  |  |
+| Zebrafish | [ENSDARG00000059549](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059549) | [566920](https://www.ncbi.nlm.nih.gov/gene/566920) | [ZFIN:ZDB-GENE-030131-2535](https://zfin.org/ZDB-GENE-030131-2535) | erythrocyte development, intracellular protein localization, lymphocyte differentiation, myeloid cell differentiation |
 

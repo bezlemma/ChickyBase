@@ -3,7 +3,6 @@ aliases:
 - amyloid-like protein 2
 - amyloid beta (A4) precursor-like protein 2
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0027503
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/41072
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000001250
@@ -11,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419727
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006317
 forward_primer: AAGTGCCTGGTGGGTGAGTTTG
-gene_id: '457189'
+gene_id: '419727'
 gene_type: protein-coding
 images:
 - caption: APLP2 expression
@@ -212,41 +211,31 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.APLP2.S25AAAA.001.jpg
 name: amyloid beta precursor like protein 2
-ncbi_id: '457189'
+ncbi_id: '419727'
 orthologs:
-- ensembl: ''
-  entrez: '41072'
-  mod: FBgn0027503
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000170322
-  entrez: '4798'
-  mod: MIM:164013
+- ensembl: ENSG00000084234
+  entrez: '334'
+  mod: MIM:104776
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000042185
-  entrez: '235134'
-  mod: MGI:2442410
+- ensembl: ENSMUSG00000031996
+  entrez: '11804'
+  mod: MGI:88047
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: '394815'
-  mod: '6258495'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: '334487'
-  mod: ZFIN:ZDB-GENE-030131-6419
-  phenotypes: ZDB-GENE-030131-6419
+- ensembl: ENSDARG00000054864
+  entrez: '796801'
+  mod: ZFIN:ZDB-GENE-061009-28
+  phenotypes: axonogenesis, central nervous system development
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAGAGTCTGTCTTTCTGCCTTGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457189
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419727
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457189
+  url: https://www.ncbi.nlm.nih.gov/gene/419727
 species: Gallus gallus
 symbol: APLP2
 template_length: '869'
@@ -270,9 +259,7 @@ title: APLP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41072](https://www.ncbi.nlm.nih.gov/gene/41072) | FBgn0027503 |  |
-| Human | [ENSG00000170322](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170322) | [4798](https://www.ncbi.nlm.nih.gov/gene/4798) | [MIM:164013](https://omim.org/entry/164013) |  |
-| Mouse | [ENSMUSG00000042185](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042185) | [235134](https://www.ncbi.nlm.nih.gov/gene/235134) | [MGI:2442410](http://www.informatics.jax.org/marker/MGI:2442410) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [394815](https://www.ncbi.nlm.nih.gov/gene/394815) | [6258495](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6258495) |  |
-| Zebrafish |  | [334487](https://www.ncbi.nlm.nih.gov/gene/334487) | [ZFIN:ZDB-GENE-030131-6419](https://zfin.org/ZDB-GENE-030131-6419) | ZDB-GENE-030131-6419 |
+| Human | [ENSG00000084234](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000084234) | [334](https://www.ncbi.nlm.nih.gov/gene/334) | [MIM:104776](https://omim.org/entry/104776) |  |
+| Mouse | [ENSMUSG00000031996](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031996) | [11804](https://www.ncbi.nlm.nih.gov/gene/11804) | [MGI:88047](http://www.informatics.jax.org/marker/MGI:88047) | All phenotypic alleles (1):Targeted, other(1) |
+| Zebrafish | [ENSDARG00000054864](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054864) | [796801](https://www.ncbi.nlm.nih.gov/gene/796801) | [ZFIN:ZDB-GENE-061009-28](https://zfin.org/ZDB-GENE-061009-28) | axonogenesis, central nervous system development |
 

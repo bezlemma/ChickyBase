@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416768
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277483
   X-XIV: stage XIII
-gene_id: '462559'
+gene_id: '416768'
 gene_type: protein-coding
 images:
 - caption: HIC2 expression
@@ -51,13 +51,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HIC2.Trevers.2023-Fig7-6-E.jpg
 name: hypermethylated in cancer 2
-ncbi_id: '462559'
+ncbi_id: '416768'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000169635
   entrez: '23119'
   mod: MIM:607712
@@ -68,23 +63,18 @@ orthologs:
   mod: MGI:1929869
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100491988,779356
-  mod: '960043'
+- ensembl: ENSXETG00000022419
+  entrez: '100491988'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '359828'
-  mod: ZFIN:ZDB-GENE-030619-1
-  phenotypes: ZDB-GENE-030619-1
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462559
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416768
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462559
+  url: https://www.ncbi.nlm.nih.gov/gene/416768
 species: Gallus gallus
 symbol: HIC2
 title: HIC2
@@ -108,9 +98,7 @@ title: HIC2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000169635](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169635) | [23119](https://www.ncbi.nlm.nih.gov/gene/23119) | [MIM:607712](https://omim.org/entry/607712) |  |
 | Mouse | [ENSMUSG00000050240](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000050240) | [58180](https://www.ncbi.nlm.nih.gov/gene/58180) | [MGI:1929869](http://www.informatics.jax.org/marker/MGI:1929869) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100491988](https://www.ncbi.nlm.nih.gov/gene/100491988), [779356](https://www.ncbi.nlm.nih.gov/gene/779356) | [960043](http://www.xenbase.org/gene/showgene.do?method=display&geneId=960043) |  |
-| Zebrafish |  | [359828](https://www.ncbi.nlm.nih.gov/gene/359828) | [ZFIN:ZDB-GENE-030619-1](https://zfin.org/ZDB-GENE-030619-1) | ZDB-GENE-030619-1 |
+| Xenopus | [ENSXETG00000022419](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022419) | [100491988](https://www.ncbi.nlm.nih.gov/gene/100491988) |  |  |
 

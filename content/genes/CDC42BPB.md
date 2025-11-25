@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423473
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641446
 forward_primer: 5'-GGATGGAATGGGAAAATACGGG-3'
-gene_id: '451269'
+gene_id: '423473'
 gene_type: protein-coding
 images:
 - caption: CDC42BPB expression
@@ -65,13 +65,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R583.CDC42BPB.S26A.001.jpg
 name: CDC42 binding protein kinase beta
-ncbi_id: '451269'
+ncbi_id: '423473'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000198752
   entrez: '9578'
   mod: MIM:614062
@@ -82,24 +77,25 @@ orthologs:
   mod: MGI:2136459
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 733471,399223
-  mod: '1005933'
+- ensembl: ENSXETG00000025675
+  entrez: '733471'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000019383
   entrez: '567039'
   mod: ZFIN:ZDB-GENE-030131-3647
-  phenotypes: ZDB-GENE-030131-3647
+  phenotypes: actomyosin structure organization, cytoskeleton organization, phosphorylation,
+    protein phosphorylation
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGACTGTAACACACGCTGGTCCTTG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451269
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423473
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451269
+  url: https://www.ncbi.nlm.nih.gov/gene/423473
 species: Gallus gallus
 symbol: CDC42BPB
 template_length: '681'
@@ -122,9 +118,8 @@ title: CDC42BPB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000198752](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198752) | [9578](https://www.ncbi.nlm.nih.gov/gene/9578) | [MIM:614062](https://omim.org/entry/614062) |  |
 | Mouse | [ENSMUSG00000021279](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021279) | [217866](https://www.ncbi.nlm.nih.gov/gene/217866) | [MGI:2136459](http://www.informatics.jax.org/marker/MGI:2136459) |  |
-| Xenopus |  | [733471](https://www.ncbi.nlm.nih.gov/gene/733471), [399223](https://www.ncbi.nlm.nih.gov/gene/399223) | [1005933](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1005933) |  |
-| Zebrafish | [ENSDARG00000019383](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019383) | [567039](https://www.ncbi.nlm.nih.gov/gene/567039) | [ZFIN:ZDB-GENE-030131-3647](https://zfin.org/ZDB-GENE-030131-3647) | ZDB-GENE-030131-3647 |
+| Xenopus | [ENSXETG00000025675](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025675) | [733471](https://www.ncbi.nlm.nih.gov/gene/733471) |  |  |
+| Zebrafish | [ENSDARG00000019383](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019383) | [567039](https://www.ncbi.nlm.nih.gov/gene/567039) | [ZFIN:ZDB-GENE-030131-3647](https://zfin.org/ZDB-GENE-030131-3647) | actomyosin structure organization, cytoskeleton organization, phosphorylation, protein phosphorylation |
 

@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419467
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001252104
 forward_primer: TTGAAACCCATCCAGGACCG
-gene_id: '458667'
+gene_id: '419467'
 gene_type: protein-coding
 images:
 - caption: ALDH4A1 expression
@@ -102,13 +102,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.ALDH4A1.S26A.001.jpg
 name: aldehyde dehydrogenase 4 family member A1
-ncbi_id: '458667'
+ncbi_id: '419467'
 orthologs:
-- ensembl: ''
-  entrez: '40434'
-  mod: FBgn0037138
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000159423
   entrez: '8659'
   mod: MIM:606811
@@ -119,24 +114,24 @@ orthologs:
   mod: MGI:2443883
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100124732,100036784
-  mod: '959459'
+- ensembl: ENSXETG00000040699
+  entrez: '100124732'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000038207
   entrez: '394133'
   mod: ZFIN:ZDB-GENE-040426-1179
-  phenotypes: ZDB-GENE-040426-1179
+  phenotypes: L-proline catabolic process to L-glutamate, proline metabolic process
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGTGAAGTTGAGCCCACAGAAGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458667
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419467
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458667
+  url: https://www.ncbi.nlm.nih.gov/gene/419467
 species: Gallus gallus
 symbol: ALDH4A1
 template_length: '503'
@@ -160,9 +155,8 @@ title: ALDH4A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40434](https://www.ncbi.nlm.nih.gov/gene/40434) | FBgn0037138 |  |
 | Human | [ENSG00000159423](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000159423) | [8659](https://www.ncbi.nlm.nih.gov/gene/8659) | [MIM:606811](https://omim.org/entry/606811) | MIM:239510 |
 | Mouse | [ENSMUSG00000028737](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028737) | [212647](https://www.ncbi.nlm.nih.gov/gene/212647) | [MGI:2443883](http://www.informatics.jax.org/marker/MGI:2443883) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100124732](https://www.ncbi.nlm.nih.gov/gene/100124732), [100036784](https://www.ncbi.nlm.nih.gov/gene/100036784) | [959459](http://www.xenbase.org/gene/showgene.do?method=display&geneId=959459) |  |
-| Zebrafish | [ENSDARG00000038207](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038207) | [394133](https://www.ncbi.nlm.nih.gov/gene/394133) | [ZFIN:ZDB-GENE-040426-1179](https://zfin.org/ZDB-GENE-040426-1179) | ZDB-GENE-040426-1179 |
+| Xenopus | [ENSXETG00000040699](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000040699) | [100124732](https://www.ncbi.nlm.nih.gov/gene/100124732) |  |  |
+| Zebrafish | [ENSDARG00000038207](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038207) | [394133](https://www.ncbi.nlm.nih.gov/gene/394133) | [ZFIN:ZDB-GENE-040426-1179](https://zfin.org/ZDB-GENE-040426-1179) | L-proline catabolic process to L-glutamate, proline metabolic process |
 

@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416220
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012783
 forward_primer: TTCTTCACTGGACGTGGGC
-gene_id: '457454'
+gene_id: '416220'
 gene_type: protein-coding
 images:
 - caption: KIF20A expression
@@ -85,13 +85,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KIF20A.S27.001.jpg
 name: kinesin family member 20A
-ncbi_id: '457454'
+ncbi_id: '416220'
 orthologs:
-- ensembl: ''
-  entrez: '44870'
-  mod: FBgn0003545
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000112984
   entrez: '10112'
   mod: MIM:605664
@@ -102,24 +97,24 @@ orthologs:
   mod: MGI:1201682
   phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 496538,446474
-  mod: '967268'
+- ensembl: ENSXETG00000006721
+  entrez: '496538'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000044491
-  entrez: 325449,325449
+  entrez: '325449'
   mod: ZFIN:ZDB-GENE-050522-252
-  phenotypes: ZDB-GENE-050522-252
+  phenotypes: heart development, microtubule-based movement, system development
   species: Zebrafish
 reverse_primer: TGCACCTGTACTGTGGCAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457454
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416220
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457454
+  url: https://www.ncbi.nlm.nih.gov/gene/416220
 species: Gallus gallus
 symbol: KIF20A
 template_length: '891'
@@ -144,9 +139,8 @@ title: KIF20A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [44870](https://www.ncbi.nlm.nih.gov/gene/44870) | FBgn0003545 |  |
 | Human | [ENSG00000112984](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112984) | [10112](https://www.ncbi.nlm.nih.gov/gene/10112) | [MIM:605664](https://omim.org/entry/605664) |  |
 | Mouse | [ENSMUSG00000003779](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000003779) | [19348](https://www.ncbi.nlm.nih.gov/gene/19348) | [MGI:1201682](http://www.informatics.jax.org/marker/MGI:1201682) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [496538](https://www.ncbi.nlm.nih.gov/gene/496538), [446474](https://www.ncbi.nlm.nih.gov/gene/446474) | [967268](http://www.xenbase.org/gene/showgene.do?method=display&geneId=967268) |  |
-| Zebrafish | [ENSDARG00000044491](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044491) | [325449](https://www.ncbi.nlm.nih.gov/gene/325449), [325449](https://www.ncbi.nlm.nih.gov/gene/325449) | [ZFIN:ZDB-GENE-050522-252](https://zfin.org/ZDB-GENE-050522-252) | ZDB-GENE-050522-252 |
+| Xenopus | [ENSXETG00000006721](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006721) | [496538](https://www.ncbi.nlm.nih.gov/gene/496538) |  |  |
+| Zebrafish | [ENSDARG00000044491](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044491) | [325449](https://www.ncbi.nlm.nih.gov/gene/325449) | [ZFIN:ZDB-GENE-050522-252](https://zfin.org/ZDB-GENE-050522-252) | heart development, microtubule-based movement, system development |
 

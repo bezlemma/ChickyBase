@@ -60,7 +60,7 @@ orthologs:
 - ensembl: ENSDARG00000041665
   entrez: '170782'
   mod: ZFIN:ZDB-GENE-020213-1
-  phenotypes: ZDB-GENE-020213-1
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
@@ -100,5 +100,5 @@ title: MKRN1
 | Human | [ENSG00000133606](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000133606) | [23608](https://www.ncbi.nlm.nih.gov/gene/23608) | [MIM:607754](https://omim.org/entry/607754) |  |
 | Mouse | [ENSMUSG00000029922](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029922) | [54484](https://www.ncbi.nlm.nih.gov/gene/54484) | [MGI:1859353](http://www.informatics.jax.org/marker/MGI:1859353) | All phenotypic alleles (1):Gene trapped(1) |
 | Xenopus |  | [100485650](https://www.ncbi.nlm.nih.gov/gene/100485650), [444671](https://www.ncbi.nlm.nih.gov/gene/444671) | [959143](http://www.xenbase.org/gene/showgene.do?method=display&geneId=959143) |  |
-| Zebrafish | [ENSDARG00000041665](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041665) | [170782](https://www.ncbi.nlm.nih.gov/gene/170782) | [ZFIN:ZDB-GENE-020213-1](https://zfin.org/ZDB-GENE-020213-1) | ZDB-GENE-020213-1 |
+| Zebrafish | [ENSDARG00000041665](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041665) | [170782](https://www.ncbi.nlm.nih.gov/gene/170782) | [ZFIN:ZDB-GENE-020213-1](https://zfin.org/ZDB-GENE-020213-1) |  |
 

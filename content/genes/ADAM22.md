@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420537
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001145228
 forward_primer: TTGGCGGAAGATGTAAAACCAG
-gene_id: '456957'
+gene_id: '420537'
 gene_type: protein-coding
 images:
 - caption: ADAM22 expression
@@ -374,13 +374,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Lin.2008.f6.adam22.png
 name: ADAM metallopeptidase domain 22
-ncbi_id: '456957'
+ncbi_id: '420537'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000008277
   entrez: '53616'
   mod: MIM:603709
@@ -391,24 +386,24 @@ orthologs:
   mod: MGI:1340046
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: '386621'
-  mod: '957018'
+- ensembl: ENSXETG00000007431
+  entrez: '100494669'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '100240727'
+- ensembl: ENSDARG00000060532
+  entrez: '100126805'
   mod: ZFIN:ZDB-GENE-070810-1
-  phenotypes: ZDB-GENE-070810-1
+  phenotypes: proteolysis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAAGCGGTGGCATTGGGTAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456957
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420537
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456957
+  url: https://www.ncbi.nlm.nih.gov/gene/420537
 species: Gallus gallus
 symbol: ADAM22
 template_length: '1025'
@@ -435,9 +430,8 @@ title: ADAM22
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000008277](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000008277) | [53616](https://www.ncbi.nlm.nih.gov/gene/53616) | [MIM:603709](https://omim.org/entry/603709) |  |
 | Mouse | [ENSMUSG00000040537](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040537) | [11496](https://www.ncbi.nlm.nih.gov/gene/11496) | [MGI:1340046](http://www.informatics.jax.org/marker/MGI:1340046) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [386621](https://www.ncbi.nlm.nih.gov/gene/386621) | [957018](http://www.xenbase.org/gene/showgene.do?method=display&geneId=957018) |  |
-| Zebrafish |  | [100240727](https://www.ncbi.nlm.nih.gov/gene/100240727) | [ZFIN:ZDB-GENE-070810-1](https://zfin.org/ZDB-GENE-070810-1) | ZDB-GENE-070810-1 |
+| Xenopus | [ENSXETG00000007431](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007431) | [100494669](https://www.ncbi.nlm.nih.gov/gene/100494669) |  |  |
+| Zebrafish | [ENSDARG00000060532](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060532) | [100126805](https://www.ncbi.nlm.nih.gov/gene/100126805) | [ZFIN:ZDB-GENE-070810-1](https://zfin.org/ZDB-GENE-070810-1) | proteolysis |
 

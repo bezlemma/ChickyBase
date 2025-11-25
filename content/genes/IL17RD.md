@@ -6,7 +6,6 @@ aliases:
 - cSEF
 cgnc_id: '4095'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007165
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Harduf+Halperin+Reshef+2005
@@ -17,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395186
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204515
 forward_primer: CAGAGGAGTAACCAAAGACACAGGG
-gene_id: '462665'
+gene_id: '395186'
 gene_type: protein-coding
 images:
 - caption: IL17RD expression
@@ -273,13 +272,8 @@ images:
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sef.Harduf.20052L.jpg
 name: interleukin 17 receptor D
-ncbi_id: '462665'
+ncbi_id: '395186'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000144730
   entrez: '54756'
   mod: MIM:606807
@@ -291,24 +285,25 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000000904
   entrez: '100038170'
-  mod: '482454'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000038843
+- ensembl: ENSDARG00000098359
   entrez: '171474'
   mod: ZFIN:ZDB-GENE-020320-5
-  phenotypes: ZDB-GENE-020320-5
+  phenotypes: dorsal/ventral pattern formation, negative regulation of MAPK cascade,
+    negative regulation of fibroblast growth factor receptor signaling pathway
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCTGCTGATAAAGTGGCAATGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462665
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395186
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462665
+  url: https://www.ncbi.nlm.nih.gov/gene/395186
 species: Gallus gallus
 symbol: IL17RD
 template_length: '951'
@@ -336,9 +331,8 @@ title: IL17RD
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000144730](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000144730) | [54756](https://www.ncbi.nlm.nih.gov/gene/54756) | [MIM:606807](https://omim.org/entry/606807) |  |
 | Mouse | [ENSMUSG00000040717](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040717) | [171463](https://www.ncbi.nlm.nih.gov/gene/171463) | [MGI:2159727](http://www.informatics.jax.org/marker/MGI:2159727) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [100038170](https://www.ncbi.nlm.nih.gov/gene/100038170) | [482454](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482454) |  |
-| Zebrafish | [ENSDARG00000038843](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038843) | [171474](https://www.ncbi.nlm.nih.gov/gene/171474) | [ZFIN:ZDB-GENE-020320-5](https://zfin.org/ZDB-GENE-020320-5) | ZDB-GENE-020320-5 |
+| Xenopus | [ENSXETG00000000904](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000904) | [100038170](https://www.ncbi.nlm.nih.gov/gene/100038170) |  |  |
+| Zebrafish | [ENSDARG00000098359](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098359) | [171474](https://www.ncbi.nlm.nih.gov/gene/171474) | [ZFIN:ZDB-GENE-020320-5](https://zfin.org/ZDB-GENE-020320-5) | dorsal/ventral pattern formation, negative regulation of MAPK cascade, negative regulation of fibroblast growth factor receptor signaling pathway |
 

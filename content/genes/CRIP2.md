@@ -4,7 +4,6 @@ aliases:
 - Cysteine-rich protein 1
 cgnc_id: '52178'
 external_ids:
-  '7': stage 7
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Trevers et al. 2023.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -13,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424374
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422218
   X-XIV: stage XII
-gene_id: '450819'
+gene_id: '424374'
 gene_type: protein-coding
 images:
 - caption: CRIP2 expression
@@ -52,40 +51,30 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CRIP2.Travers.2023.jpg
 name: cysteine rich protein 2
-ncbi_id: '450819'
+ncbi_id: '424374'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000182809
-  entrez: '1397'
-  mod: MIM:601183
-  phenotypes: ''
-  species: Human
 - ensembl: ENSMUSG00000006356
   entrez: '68337'
   mod: MGI:1915587
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000000135
   entrez: '780192'
-  mod: '953186'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000070670
-  entrez: '554826'
-  mod: ZFIN:ZDB-GENE-040426-2889
-  phenotypes: ZDB-GENE-040426-2889
+- ensembl: ENSDARG00000033201
+  entrez: '449795'
+  mod: ZFIN:ZDB-GENE-041010-43
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450819
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424374
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450819
+  url: https://www.ncbi.nlm.nih.gov/gene/424374
 species: Gallus gallus
 symbol: CRIP2
 title: CRIP2
@@ -109,9 +98,7 @@ title: CRIP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000182809](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000182809) | [1397](https://www.ncbi.nlm.nih.gov/gene/1397) | [MIM:601183](https://omim.org/entry/601183) |  |
 | Mouse | [ENSMUSG00000006356](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000006356) | [68337](https://www.ncbi.nlm.nih.gov/gene/68337) | [MGI:1915587](http://www.informatics.jax.org/marker/MGI:1915587) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [780192](https://www.ncbi.nlm.nih.gov/gene/780192) | [953186](http://www.xenbase.org/gene/showgene.do?method=display&geneId=953186) |  |
-| Zebrafish | [ENSDARG00000070670](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070670) | [554826](https://www.ncbi.nlm.nih.gov/gene/554826) | [ZFIN:ZDB-GENE-040426-2889](https://zfin.org/ZDB-GENE-040426-2889) | ZDB-GENE-040426-2889 |
+| Xenopus | [ENSXETG00000000135](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000135) | [780192](https://www.ncbi.nlm.nih.gov/gene/780192) |  |  |
+| Zebrafish | [ENSDARG00000033201](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033201) | [449795](https://www.ncbi.nlm.nih.gov/gene/449795) | [ZFIN:ZDB-GENE-041010-43](https://zfin.org/ZDB-GENE-041010-43) |  |
 

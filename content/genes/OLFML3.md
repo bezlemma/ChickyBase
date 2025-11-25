@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419882
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001040018
 forward_primer: TGGACTACCTGGAAACGCAGAACC
-gene_id: '452446'
+gene_id: '419882'
 gene_type: protein-coding
 images:
 - caption: OLFML3 expression
@@ -129,41 +129,36 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R323.OLFML3.S25.002.jpg
 name: olfactomedin like 3
-ncbi_id: '452446'
+ncbi_id: '419882'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000116774
   entrez: '56944'
   mod: MIM:610088
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000027848
   entrez: '99543'
   mod: MGI:1914877
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 779771,495309
-  mod: '1003396'
+- ensembl: ENSXETG00000001697
+  entrez: '779771'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000062171,ENSDARG00000061852
-  entrez: 562022,568106
-  mod: ZFIN:ZDB-GENE-050302-161,ZFIN:ZDB-GENE-060825-31
-  phenotypes: ZDB-GENE-050302-161,ZDB-GENE-060825-31
+- ensembl: ENSDARG00000062171
+  entrez: '562022'
+  mod: ZFIN:ZDB-GENE-050302-161
+  phenotypes: signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGATGCTGGAATGGGAGCCGTAAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452446
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419882
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452446
+  url: https://www.ncbi.nlm.nih.gov/gene/419882
 species: Gallus gallus
 symbol: OLFML3
 template_length: '811'
@@ -189,9 +184,8 @@ title: OLFML3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000116774](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000116774) | [56944](https://www.ncbi.nlm.nih.gov/gene/56944) | [MIM:610088](https://omim.org/entry/610088) |  |
-| Mouse |  | [99543](https://www.ncbi.nlm.nih.gov/gene/99543) | [MGI:1914877](http://www.informatics.jax.org/marker/MGI:1914877) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [779771](https://www.ncbi.nlm.nih.gov/gene/779771), [495309](https://www.ncbi.nlm.nih.gov/gene/495309) | [1003396](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1003396) |  |
-| Zebrafish | [ENSDARG00000062171](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062171), [ENSDARG00000061852](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061852) | [562022](https://www.ncbi.nlm.nih.gov/gene/562022), [568106](https://www.ncbi.nlm.nih.gov/gene/568106) | [ZFIN:ZDB-GENE-050302-161](https://zfin.org/ZDB-GENE-050302-161), [ZFIN:ZDB-GENE-060825-31](https://zfin.org/ZDB-GENE-060825-31) | ZDB-GENE-050302-161,ZDB-GENE-060825-31 |
+| Mouse | [ENSMUSG00000027848](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027848) | [99543](https://www.ncbi.nlm.nih.gov/gene/99543) | [MGI:1914877](http://www.informatics.jax.org/marker/MGI:1914877) | All phenotypic alleles (3):Targeted, other(3) |
+| Xenopus | [ENSXETG00000001697](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001697) | [779771](https://www.ncbi.nlm.nih.gov/gene/779771) |  |  |
+| Zebrafish | [ENSDARG00000062171](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062171) | [562022](https://www.ncbi.nlm.nih.gov/gene/562022) | [ZFIN:ZDB-GENE-050302-161](https://zfin.org/ZDB-GENE-050302-161) | signal transduction |
 

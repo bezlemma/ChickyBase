@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374090
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004872
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204243
-gene_id: '454399'
+gene_id: '374090'
 gene_type: protein-coding
 images:
 - caption: SEMA3C expression
@@ -92,13 +92,8 @@ images:
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferrario2012.Fig1.S-S'.SEMA3C.E6=STAGE29.jpg
 name: semaphorin 3C
-ncbi_id: '454399'
+ncbi_id: '374090'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000075223
   entrez: '10512'
   mod: MIM:602645
@@ -109,20 +104,21 @@ orthologs:
   mod: MGI:107557
   phenotypes: All phenotypic alleles (2):Chemically induced(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 613059,495257
-  mod: '1014799'
+- ensembl: ENSXETG00000007874
+  entrez: '613059'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000034300
   entrez: '553130'
   mod: ZFIN:ZDB-GENE-050513-5
-  phenotypes: ZDB-GENE-050513-5
+  phenotypes: axon guidance, cell differentiation, circulatory system development,
+    enteric nervous system development, negative chemotaxis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454399
+  url: https://www.ncbi.nlm.nih.gov/gene/374090
 species: Gallus gallus
 symbol: SEMA3C
 title: SEMA3C
@@ -151,9 +147,8 @@ title: SEMA3C
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000075223](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000075223) | [10512](https://www.ncbi.nlm.nih.gov/gene/10512) | [MIM:602645](https://omim.org/entry/602645) |  |
 | Mouse | [ENSMUSG00000028780](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028780) | [20348](https://www.ncbi.nlm.nih.gov/gene/20348) | [MGI:107557](http://www.informatics.jax.org/marker/MGI:107557) | All phenotypic alleles (2):Chemically induced(1) Targeted, other(1) |
-| Xenopus |  | [613059](https://www.ncbi.nlm.nih.gov/gene/613059), [495257](https://www.ncbi.nlm.nih.gov/gene/495257) | [1014799](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1014799) |  |
-| Zebrafish | [ENSDARG00000034300](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034300) | [553130](https://www.ncbi.nlm.nih.gov/gene/553130) | [ZFIN:ZDB-GENE-050513-5](https://zfin.org/ZDB-GENE-050513-5) | ZDB-GENE-050513-5 |
+| Xenopus | [ENSXETG00000007874](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007874) | [613059](https://www.ncbi.nlm.nih.gov/gene/613059) |  |  |
+| Zebrafish | [ENSDARG00000034300](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034300) | [553130](https://www.ncbi.nlm.nih.gov/gene/553130) | [ZFIN:ZDB-GENE-050513-5](https://zfin.org/ZDB-GENE-050513-5) | axon guidance, cell differentiation, circulatory system development, enteric nervous system development, negative chemotaxis |
 

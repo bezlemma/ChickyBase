@@ -13,7 +13,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0046570
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031547
 forward_primer: AACTGGTGGAGGAATCAGCCTG
-gene_id: '456276'
+gene_id: '428860'
 gene_type: protein-coding
 images:
 - caption: APIP expression
@@ -116,13 +116,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R526.APIP.S26AAA.001.jpg
 name: APAF1 interacting protein
-ncbi_id: '456276'
+ncbi_id: '428860'
 orthologs:
-- ensembl: ''
-  entrez: '32334'
-  mod: FBgn0030518
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000149089
   entrez: '51074'
   mod: MIM:612491
@@ -133,24 +128,25 @@ orthologs:
   mod: MGI:1926788
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 548429,414636
-  mod: '978322'
+- ensembl: ENSXETG00000007558
+  entrez: '548429'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000003132
   entrez: '447941'
   mod: ZFIN:ZDB-GENE-040912-128
-  phenotypes: ZDB-GENE-040912-128
+  phenotypes: L-methionine salvage from methylthioadenosine, amino acid biosynthetic
+    process, apoptotic process, methionine biosynthetic process
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAAGTCAAATGAAGCAGCGGTAGAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456276
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428860
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456276
+  url: https://www.ncbi.nlm.nih.gov/gene/428860
 species: Gallus gallus
 symbol: APIP
 template_length: '948'
@@ -177,9 +173,8 @@ title: APIP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32334](https://www.ncbi.nlm.nih.gov/gene/32334) | FBgn0030518 |  |
 | Human | [ENSG00000149089](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000149089) | [51074](https://www.ncbi.nlm.nih.gov/gene/51074) | [MIM:612491](https://omim.org/entry/612491) |  |
 | Mouse | [ENSMUSG00000010911](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000010911) | [56369](https://www.ncbi.nlm.nih.gov/gene/56369) | [MGI:1926788](http://www.informatics.jax.org/marker/MGI:1926788) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [548429](https://www.ncbi.nlm.nih.gov/gene/548429), [414636](https://www.ncbi.nlm.nih.gov/gene/414636) | [978322](http://www.xenbase.org/gene/showgene.do?method=display&geneId=978322) |  |
-| Zebrafish | [ENSDARG00000003132](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003132) | [447941](https://www.ncbi.nlm.nih.gov/gene/447941) | [ZFIN:ZDB-GENE-040912-128](https://zfin.org/ZDB-GENE-040912-128) | ZDB-GENE-040912-128 |
+| Xenopus | [ENSXETG00000007558](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007558) | [548429](https://www.ncbi.nlm.nih.gov/gene/548429) |  |  |
+| Zebrafish | [ENSDARG00000003132](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003132) | [447941](https://www.ncbi.nlm.nih.gov/gene/447941) | [ZFIN:ZDB-GENE-040912-128](https://zfin.org/ZDB-GENE-040912-128) | L-methionine salvage from methylthioadenosine, amino acid biosynthetic process, apoptotic process, methionine biosynthetic process |
 

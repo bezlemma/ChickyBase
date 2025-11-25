@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396083
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0046872
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205171
-gene_id: '459611'
+gene_id: '396083'
 gene_type: protein-coding
 images:
 - caption: SYT1 expression
@@ -34,13 +34,8 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/4xb2.114.3.21xs.jpg
 name: synaptotagmin 1
-ncbi_id: '459611'
+ncbi_id: '396083'
 orthologs:
-- ensembl: ''
-  entrez: '33473'
-  mod: FBgn0004242
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000067715
   entrez: '6857'
   mod: MIM:185605
@@ -51,23 +46,18 @@ orthologs:
   mod: MGI:99667
   phenotypes: All phenotypic alleles (9):Targeted, knock-out(1) Targeted, other(8)
   species: Mouse
-- ensembl: ''
-  entrez: 100037879,447431
-  mod: '5752628'
+- ensembl: ENSXETG00000004068
+  entrez: '100037879'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000030614,ENSDARG00000042350
-  entrez: 436736,100034471
-  mod: ZFIN:ZDB-GENE-040718-165,ZFIN:ZDB-GENE-060503-166
-  phenotypes: ZDB-GENE-040718-165,ZDB-GENE-060503-166
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459611
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396083
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459611
+  url: https://www.ncbi.nlm.nih.gov/gene/396083
 species: Gallus gallus
 symbol: SYT1
 title: SYT1
@@ -94,9 +84,7 @@ title: SYT1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33473](https://www.ncbi.nlm.nih.gov/gene/33473) | FBgn0004242 |  |
 | Human | [ENSG00000067715](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000067715) | [6857](https://www.ncbi.nlm.nih.gov/gene/6857) | [MIM:185605](https://omim.org/entry/185605) |  |
 | Mouse | [ENSMUSG00000035864](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035864) | [20979](https://www.ncbi.nlm.nih.gov/gene/20979) | [MGI:99667](http://www.informatics.jax.org/marker/MGI:99667) | All phenotypic alleles (9):Targeted, knock-out(1) Targeted, other(8) |
-| Xenopus |  | [100037879](https://www.ncbi.nlm.nih.gov/gene/100037879), [447431](https://www.ncbi.nlm.nih.gov/gene/447431) | [5752628](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5752628) |  |
-| Zebrafish | [ENSDARG00000030614](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030614), [ENSDARG00000042350](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042350) | [436736](https://www.ncbi.nlm.nih.gov/gene/436736), [100034471](https://www.ncbi.nlm.nih.gov/gene/100034471) | [ZFIN:ZDB-GENE-040718-165](https://zfin.org/ZDB-GENE-040718-165), [ZFIN:ZDB-GENE-060503-166](https://zfin.org/ZDB-GENE-060503-166) | ZDB-GENE-040718-165,ZDB-GENE-060503-166 |
+| Xenopus | [ENSXETG00000004068](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004068) | [100037879](https://www.ncbi.nlm.nih.gov/gene/100037879) |  |  |
 

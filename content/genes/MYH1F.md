@@ -10,7 +10,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:768566
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001231408
-gene_id: '451958'
+gene_id: '768566'
 gene_type: protein-coding
 images:
 - caption: MYH1F expression
@@ -35,37 +35,22 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYH1B_HH 12 x20.jpg
 name: myosin, heavy chain 1F, skeletal muscle
-ncbi_id: '451958'
+ncbi_id: '768566'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000264424
-  entrez: '4622'
-  mod: MIM:160742
+- ensembl: ENSG00000125414
+  entrez: '4620'
+  mod: MIM:160740
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000057003
-  entrez: '17884'
-  mod: MGI:1339713
+- ensembl: ENSMUSG00000033196
+  entrez: '17882'
+  mod: MGI:1339710
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 407946,100381200
-  mod: '989282'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000035437
-  entrez: '100008376'
-  mod: ZFIN:ZDB-GENE-030131-5336
-  phenotypes: ZDB-GENE-030131-5336
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451958
+  url: https://www.ncbi.nlm.nih.gov/gene/768566
 species: Gallus gallus
 symbol: MYH1F
 title: MYH1F
@@ -89,9 +74,6 @@ title: MYH1F
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000264424](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000264424) | [4622](https://www.ncbi.nlm.nih.gov/gene/4622) | [MIM:160742](https://omim.org/entry/160742) |  |
-| Mouse | [ENSMUSG00000057003](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000057003) | [17884](https://www.ncbi.nlm.nih.gov/gene/17884) | [MGI:1339713](http://www.informatics.jax.org/marker/MGI:1339713) |  |
-| Xenopus |  | [407946](https://www.ncbi.nlm.nih.gov/gene/407946), [100381200](https://www.ncbi.nlm.nih.gov/gene/100381200) | [989282](http://www.xenbase.org/gene/showgene.do?method=display&geneId=989282) |  |
-| Zebrafish | [ENSDARG00000035437](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035437) | [100008376](https://www.ncbi.nlm.nih.gov/gene/100008376) | [ZFIN:ZDB-GENE-030131-5336](https://zfin.org/ZDB-GENE-030131-5336) | ZDB-GENE-030131-5336 |
+| Human | [ENSG00000125414](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125414) | [4620](https://www.ncbi.nlm.nih.gov/gene/4620) | [MIM:160740](https://omim.org/entry/160740) |  |
+| Mouse | [ENSMUSG00000033196](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033196) | [17882](https://www.ncbi.nlm.nih.gov/gene/17882) | [MGI:1339710](http://www.informatics.jax.org/marker/MGI:1339710) |  |
 

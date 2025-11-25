@@ -3,13 +3,12 @@ aliases:
 - rho-related GTP-binding protein RhoN
 cgnc_id: '2023'
 external_ids:
-  '25': stage 25stage 25stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000002804
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428307
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001252123
 forward_primer: GACAGTGTGCTCAAAAAGTG
-gene_id: '468265'
+gene_id: '428307'
 gene_type: protein-coding
 images:
 - caption: RND2 expression
@@ -118,41 +117,32 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R450.RND2.S25V.001.jpg
 name: Rho family GTPase 2
-ncbi_id: '468265'
+ncbi_id: '428307'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000108830
   entrez: '8153'
   mod: MIM:601555
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000001313
   entrez: '11858'
   mod: MGI:1338755
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000070735
+- ensembl: ENSDARG00000114884
   entrez: '751645'
   mod: ZFIN:ZDB-GENE-030616-177
-  phenotypes: ZDB-GENE-030616-177
+  phenotypes: actin filament organization, regulation of actin cytoskeleton organization,
+    signal transduction, small GTPase-mediated signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCAGTAAGTTCGTCCTGCTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=468265
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428307
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468265
+  url: https://www.ncbi.nlm.nih.gov/gene/428307
 species: Gallus gallus
 symbol: RND2
 template_length: '351'
@@ -174,9 +164,7 @@ title: RND2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000108830](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000108830) | [8153](https://www.ncbi.nlm.nih.gov/gene/8153) | [MIM:601555](https://omim.org/entry/601555) |  |
-| Mouse |  | [11858](https://www.ncbi.nlm.nih.gov/gene/11858) | [MGI:1338755](http://www.informatics.jax.org/marker/MGI:1338755) |  |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000070735](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070735) | [751645](https://www.ncbi.nlm.nih.gov/gene/751645) | [ZFIN:ZDB-GENE-030616-177](https://zfin.org/ZDB-GENE-030616-177) | ZDB-GENE-030616-177 |
+| Mouse | [ENSMUSG00000001313](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001313) | [11858](https://www.ncbi.nlm.nih.gov/gene/11858) | [MGI:1338755](http://www.informatics.jax.org/marker/MGI:1338755) |  |
+| Zebrafish | [ENSDARG00000114884](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114884) | [751645](https://www.ncbi.nlm.nih.gov/gene/751645) | [ZFIN:ZDB-GENE-030616-177](https://zfin.org/ZDB-GENE-030616-177) | actin filament organization, regulation of actin cytoskeleton organization, signal transduction, small GTPase-mediated signal transduction |
 

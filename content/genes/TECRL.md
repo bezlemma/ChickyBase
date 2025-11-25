@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422618
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420576
-gene_id: '452089'
+gene_id: '422618'
 gene_type: protein-coding
 images:
 - caption: TECRL expression
@@ -54,16 +54,11 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SRD5A2L2.HH28.Roy.2013.F3.srd5a2l2.png
 name: trans-2,3-enoyl-CoA reductase like
-ncbi_id: '452089'
+ncbi_id: '422618'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000205678
   entrez: '253017'
-  mod: ''
+  mod: MIM:617242
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000049537
@@ -71,20 +66,10 @@ orthologs:
   mod: MGI:2444966
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452089
+  url: https://www.ncbi.nlm.nih.gov/gene/422618
 species: Gallus gallus
 symbol: TECRL
 title: TECRL
@@ -110,9 +95,6 @@ title: TECRL
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [253017](https://www.ncbi.nlm.nih.gov/gene/253017) |  |  |
+| Human | [ENSG00000205678](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000205678) | [253017](https://www.ncbi.nlm.nih.gov/gene/253017) | [MIM:617242](https://omim.org/entry/617242) |  |
 | Mouse | [ENSMUSG00000049537](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049537) | [243078](https://www.ncbi.nlm.nih.gov/gene/243078) | [MGI:2444966](http://www.informatics.jax.org/marker/MGI:2444966) |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
 

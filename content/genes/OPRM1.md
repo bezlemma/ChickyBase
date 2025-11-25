@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421644
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640960
-gene_id: '463651'
+gene_id: '421644'
 gene_type: protein-coding
 images:
 - caption: OPRM1 expression
@@ -32,37 +32,34 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OPRM1.Anderson.2019.Supplementary
     figure 5L.jpg
 name: opioid receptor mu 1
-ncbi_id: '463651'
+ncbi_id: '421644'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000112038
+  entrez: '4988'
+  mod: MIM:600018
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000000766
+  entrez: '18390'
+  mod: MGI:97441
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000041984
+  entrez: '100487937'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000039434
+  entrez: '65088'
+  mod: ZFIN:ZDB-GENE-010125-1
+  phenotypes: G protein-coupled opioid receptor signaling pathway, G protein-coupled
+    receptor signaling pathway, neuropeptide signaling pathway, sensory perception
+    of pain, signal transduction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463651
+  url: https://www.ncbi.nlm.nih.gov/gene/421644
 species: Gallus gallus
 symbol: OPRM1
 title: OPRM1
@@ -88,9 +85,8 @@ title: OPRM1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000112038](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112038) | [4988](https://www.ncbi.nlm.nih.gov/gene/4988) | [MIM:600018](https://omim.org/entry/600018) |  |
+| Mouse | [ENSMUSG00000000766](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000766) | [18390](https://www.ncbi.nlm.nih.gov/gene/18390) | [MGI:97441](http://www.informatics.jax.org/marker/MGI:97441) |  |
+| Xenopus | [ENSXETG00000041984](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041984) | [100487937](https://www.ncbi.nlm.nih.gov/gene/100487937) |  |  |
+| Zebrafish | [ENSDARG00000039434](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039434) | [65088](https://www.ncbi.nlm.nih.gov/gene/65088) | [ZFIN:ZDB-GENE-010125-1](https://zfin.org/ZDB-GENE-010125-1) | G protein-coupled opioid receptor signaling pathway, G protein-coupled receptor signaling pathway, neuropeptide signaling pathway, sensory perception of pain, signal transduction |
 

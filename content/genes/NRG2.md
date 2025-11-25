@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427606
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642041
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGGAGAAACTGCCTTTGCGATTG
-gene_id: '456831'
+gene_id: '427606'
 gene_type: protein-coding
 images:
 - caption: NRG2 expression
@@ -92,41 +92,32 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R247.NRG2.S26R.01.jpg
 name: neuregulin 2
-ncbi_id: '456831'
+ncbi_id: '427606'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000158458
+  entrez: '9542'
+  mod: MIM:603818
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000060275
+  entrez: '100042150'
+  mod: MGI:1098246
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000086585
+  entrez: '100270726'
+  mod: ZFIN:ZDB-GENE-090205-2
+  phenotypes: ERBB4 signaling pathway, animal organ development, intracellular signal
+    transduction, nervous system development
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTGCTGTCGTTCAGGTAGGTCTTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456831
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427606
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456831
+  url: https://www.ncbi.nlm.nih.gov/gene/427606
 species: Gallus gallus
 symbol: NRG2
 template_length: '899'
@@ -150,9 +141,7 @@ title: NRG2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000158458](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000158458) | [9542](https://www.ncbi.nlm.nih.gov/gene/9542) | [MIM:603818](https://omim.org/entry/603818) |  |
+| Mouse | [ENSMUSG00000060275](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000060275) | [100042150](https://www.ncbi.nlm.nih.gov/gene/100042150) | [MGI:1098246](http://www.informatics.jax.org/marker/MGI:1098246) |  |
+| Zebrafish | [ENSDARG00000086585](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000086585) | [100270726](https://www.ncbi.nlm.nih.gov/gene/100270726) | [ZFIN:ZDB-GENE-090205-2](https://zfin.org/ZDB-GENE-090205-2) | ERBB4 signaling pathway, animal organ development, intracellular signal transduction, nervous system development |
 

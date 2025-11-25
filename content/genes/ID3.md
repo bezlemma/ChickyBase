@@ -4,7 +4,6 @@ aliases:
 - helix-loop-helix protein
 cgnc_id: '49242'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=maaier+paek+fernandes+ofactory
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Trevers et al. 2023.
@@ -16,7 +15,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204589
   X-XIV: stage XIII
 forward_primer: CCCCACCCCACCATTATGAAAG
-gene_id: '461602'
+gene_id: '395281'
 gene_type: protein-coding
 images:
 - caption: ID3 expression
@@ -293,41 +292,38 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ID3.Trevers.2023-Fig7-6-M.jpg
 name: inhibitor of DNA binding 3, HLH protein
-ncbi_id: '461602'
+ncbi_id: '395281'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000117318
+  entrez: '3399'
+  mod: MIM:600277
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000007872
+  entrez: '15903'
+  mod: MGI:96398
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000020653
+  entrez: '549025'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000054823
+  entrez: '246093'
+  mod: ZFIN:ZDB-GENE-020515-1
+  phenotypes: dopaminergic neuron differentiation, negative regulation of DNA-templated
+    transcription, negative regulation of transcription by RNA polymerase II, neuron
+    differentiation, rhythmic process
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCTCCCGATGTCGTCTGAGTATTGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461602
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395281
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461602
+  url: https://www.ncbi.nlm.nih.gov/gene/395281
 species: Gallus gallus
 symbol: ID3
 template_length: '623'
@@ -354,9 +350,8 @@ title: ID3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000117318](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000117318) | [3399](https://www.ncbi.nlm.nih.gov/gene/3399) | [MIM:600277](https://omim.org/entry/600277) |  |
+| Mouse | [ENSMUSG00000007872](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000007872) | [15903](https://www.ncbi.nlm.nih.gov/gene/15903) | [MGI:96398](http://www.informatics.jax.org/marker/MGI:96398) |  |
+| Xenopus | [ENSXETG00000020653](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020653) | [549025](https://www.ncbi.nlm.nih.gov/gene/549025) |  |  |
+| Zebrafish | [ENSDARG00000054823](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054823) | [246093](https://www.ncbi.nlm.nih.gov/gene/246093) | [ZFIN:ZDB-GENE-020515-1](https://zfin.org/ZDB-GENE-020515-1) | dopaminergic neuron differentiation, negative regulation of DNA-templated transcription, negative regulation of transcription by RNA polymerase II, neuron differentiation, rhythmic process |
 

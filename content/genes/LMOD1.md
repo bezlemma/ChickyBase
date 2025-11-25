@@ -5,13 +5,12 @@ aliases:
 - leiomodin-1-like
 cgnc_id: '56806'
 external_ids:
-  '25': stage 25stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000028721
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771476
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234757
 forward_primer: CGCTGGAGTTCAACACCG
-gene_id: '466210'
+gene_id: '771476'
 gene_type: protein-coding
 images:
 - caption: LMOD1 expression
@@ -107,41 +106,31 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R387.LMOD1.S25.002.jpg
 name: leiomodin 1
-ncbi_id: '466210'
+ncbi_id: '771476'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000163431
+  entrez: '25802'
+  mod: MIM:602715
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000048096
+  entrez: '93689'
+  mod: MGI:2135671
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000007976
+  entrez: '100379914'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGCAGGTCCTTCTTCTCGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=466210
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771476
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/466210
+  url: https://www.ncbi.nlm.nih.gov/gene/771476
 species: Gallus gallus
 symbol: LMOD1
 template_length: '423'
@@ -163,9 +152,7 @@ title: LMOD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000163431](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163431) | [25802](https://www.ncbi.nlm.nih.gov/gene/25802) | [MIM:602715](https://omim.org/entry/602715) |  |
+| Mouse | [ENSMUSG00000048096](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048096) | [93689](https://www.ncbi.nlm.nih.gov/gene/93689) | [MGI:2135671](http://www.informatics.jax.org/marker/MGI:2135671) |  |
+| Xenopus | [ENSXETG00000007976](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007976) | [100379914](https://www.ncbi.nlm.nih.gov/gene/100379914) |  |  |
 

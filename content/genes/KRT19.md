@@ -5,7 +5,6 @@ aliases:
 - cytokeratin-19
 cgnc_id: '49516'
 external_ids:
-  '7': stage 7stage 7
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005882
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=mclarren+litsiou+dlx5+positions+neural+crest+preplacode+region+border+neural+plate
   Comments: Insufficient information provided in publication to verify exact sequence

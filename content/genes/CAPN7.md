@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420683
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418783
 forward_primer: GCTAAACCAAATCAGCCCGTC
-gene_id: '454876'
+gene_id: '420683'
 gene_type: protein-coding
 images:
 - caption: CAPN7 expression
@@ -70,13 +70,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R556.CAPN7.S26A.001.jpg
 name: calpain 7
-ncbi_id: '454876'
+ncbi_id: '420683'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000131375
   entrez: '23473'
   mod: MIM:606400
@@ -87,24 +82,24 @@ orthologs:
   mod: MGI:1338030
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000012554
   entrez: '407932'
-  mod: '996629'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000102987
   entrez: '556792'
   mod: ZFIN:ZDB-GENE-111111-1
-  phenotypes: ZDB-GENE-111111-1
+  phenotypes: proteolysis
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCAGGTATCCAACCAGTCAGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454876
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420683
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454876
+  url: https://www.ncbi.nlm.nih.gov/gene/420683
 species: Gallus gallus
 symbol: CAPN7
 title: CAPN7
@@ -126,9 +121,8 @@ title: CAPN7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000131375](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000131375) | [23473](https://www.ncbi.nlm.nih.gov/gene/23473) | [MIM:606400](https://omim.org/entry/606400) |  |
 | Mouse | [ENSMUSG00000021893](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021893) | [12339](https://www.ncbi.nlm.nih.gov/gene/12339) | [MGI:1338030](http://www.informatics.jax.org/marker/MGI:1338030) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [407932](https://www.ncbi.nlm.nih.gov/gene/407932) | [996629](http://www.xenbase.org/gene/showgene.do?method=display&geneId=996629) |  |
-| Zebrafish |  | [556792](https://www.ncbi.nlm.nih.gov/gene/556792) | [ZFIN:ZDB-GENE-111111-1](https://zfin.org/ZDB-GENE-111111-1) | ZDB-GENE-111111-1 |
+| Xenopus | [ENSXETG00000012554](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012554) | [407932](https://www.ncbi.nlm.nih.gov/gene/407932) |  |  |
+| Zebrafish | [ENSDARG00000102987](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000102987) | [556792](https://www.ncbi.nlm.nih.gov/gene/556792) | [ZFIN:ZDB-GENE-111111-1](https://zfin.org/ZDB-GENE-111111-1) | proteolysis |
 

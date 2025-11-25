@@ -4,8 +4,6 @@ aliases:
 - homeodomain protein NKx2.1
 cgnc_id: '49266'
 external_ids:
-  '13': stage 13stage 13stage 13stage 13stage 13stage 13stage 13
-  '19': stage 19stage 19
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0028993
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=NOTCH+hypothalamic+Ratié+Novel
   Comments: 'Insufficient information provided in publication to verify exact sequence
@@ -18,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395322
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204616
 forward_primer: GCATCAGAGCCATCAGACAAACAG
-gene_id: '448846'
+gene_id: '395322'
 gene_type: protein-coding
 images:
 - caption: NKX2-1 expression
@@ -247,13 +245,8 @@ images:
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.Fig1.k-nkx2.jpg
 name: NK2 homeobox 1
-ncbi_id: '448846'
+ncbi_id: '395322'
 orthologs:
-- ensembl: ''
-  entrez: '3355151'
-  mod: FBgn0028993
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136352
   entrez: '7080'
   mod: MIM:600635
@@ -264,24 +257,25 @@ orthologs:
   mod: MGI:108067
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100135015,373626
-  mod: '485984'
+- ensembl: ENSXETG00000034580
+  entrez: '100135015'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000019835,ENSDARG00000010461
-  entrez: 81883,58112
-  mod: ZFIN:ZDB-GENE-010404-1,ZFIN:ZDB-GENE-000830-1
-  phenotypes: ZDB-GENE-010404-1,ZDB-GENE-000830-1
+- ensembl: ENSDARG00000019835
+  entrez: '81883'
+  mod: ZFIN:ZDB-GENE-010404-1
+  phenotypes: animal organ development, cell differentiation, diencephalon development,
+    forebrain development, hypothalamus development
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGAAGAAAAGCCAAAGCCTCGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448846
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395322
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448846
+  url: https://www.ncbi.nlm.nih.gov/gene/395322
 species: Gallus gallus
 symbol: NKX2-1
 template_length: '794'
@@ -310,9 +304,8 @@ title: NKX2-1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [3355151](https://www.ncbi.nlm.nih.gov/gene/3355151) | FBgn0028993 |  |
 | Human | [ENSG00000136352](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136352) | [7080](https://www.ncbi.nlm.nih.gov/gene/7080) | [MIM:600635](https://omim.org/entry/600635) | MIM:118700 |
 | Mouse | [ENSMUSG00000001496](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001496) | [21869](https://www.ncbi.nlm.nih.gov/gene/21869) | [MGI:108067](http://www.informatics.jax.org/marker/MGI:108067) | All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5) |
-| Xenopus |  | [100135015](https://www.ncbi.nlm.nih.gov/gene/100135015), [373626](https://www.ncbi.nlm.nih.gov/gene/373626) | [485984](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485984) |  |
-| Zebrafish | [ENSDARG00000019835](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019835), [ENSDARG00000010461](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010461) | [81883](https://www.ncbi.nlm.nih.gov/gene/81883), [58112](https://www.ncbi.nlm.nih.gov/gene/58112) | [ZFIN:ZDB-GENE-010404-1](https://zfin.org/ZDB-GENE-010404-1), [ZFIN:ZDB-GENE-000830-1](https://zfin.org/ZDB-GENE-000830-1) | ZDB-GENE-010404-1,ZDB-GENE-000830-1 |
+| Xenopus | [ENSXETG00000034580](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034580) | [100135015](https://www.ncbi.nlm.nih.gov/gene/100135015) |  |  |
+| Zebrafish | [ENSDARG00000019835](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019835) | [81883](https://www.ncbi.nlm.nih.gov/gene/81883) | [ZFIN:ZDB-GENE-010404-1](https://zfin.org/ZDB-GENE-010404-1) | animal organ development, cell differentiation, diencephalon development, forebrain development, hypothalamus development |
 

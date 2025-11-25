@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416490
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030632
-gene_id: '456067'
+gene_id: '416490'
 gene_type: protein-coding
 images:
 - caption: ARPC1B expression
@@ -59,37 +59,33 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARPC1B.Singh.2016.Fig5.jpg
 name: actin related protein 2/3 complex subunit 1B
-ncbi_id: '456067'
+ncbi_id: '416490'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000130429
   entrez: '10095'
   mod: MIM:604223
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000029622
   entrez: '11867'
   mod: MGI:1343142
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 448555,380108,444264
-  mod: '490409'
+- ensembl: ENSXETG00000006058
+  entrez: '448555'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000027063
   entrez: '335474'
   mod: ZFIN:ZDB-GENE-030131-7414
-  phenotypes: ZDB-GENE-030131-7414
+  phenotypes: Arp2/3 complex-mediated actin nucleation, T cell differentiation, thrombocyte
+    differentiation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456067
+  url: https://www.ncbi.nlm.nih.gov/gene/416490
 species: Gallus gallus
 symbol: ARPC1B
 title: ARPC1B
@@ -115,9 +111,8 @@ title: ARPC1B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000130429](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000130429) | [10095](https://www.ncbi.nlm.nih.gov/gene/10095) | [MIM:604223](https://omim.org/entry/604223) |  |
-| Mouse |  | [11867](https://www.ncbi.nlm.nih.gov/gene/11867) | [MGI:1343142](http://www.informatics.jax.org/marker/MGI:1343142) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [448555](https://www.ncbi.nlm.nih.gov/gene/448555), [380108](https://www.ncbi.nlm.nih.gov/gene/380108), [444264](https://www.ncbi.nlm.nih.gov/gene/444264) | [490409](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490409) |  |
-| Zebrafish | [ENSDARG00000027063](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027063) | [335474](https://www.ncbi.nlm.nih.gov/gene/335474) | [ZFIN:ZDB-GENE-030131-7414](https://zfin.org/ZDB-GENE-030131-7414) | ZDB-GENE-030131-7414 |
+| Mouse | [ENSMUSG00000029622](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029622) | [11867](https://www.ncbi.nlm.nih.gov/gene/11867) | [MGI:1343142](http://www.informatics.jax.org/marker/MGI:1343142) | All phenotypic alleles (2):Targeted, other(2) |
+| Xenopus | [ENSXETG00000006058](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006058) | [448555](https://www.ncbi.nlm.nih.gov/gene/448555) |  |  |
+| Zebrafish | [ENSDARG00000027063](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027063) | [335474](https://www.ncbi.nlm.nih.gov/gene/335474) | [ZFIN:ZDB-GENE-030131-7414](https://zfin.org/ZDB-GENE-030131-7414) | Arp2/3 complex-mediated actin nucleation, T cell differentiation, thrombocyte differentiation |
 

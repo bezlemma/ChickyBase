@@ -4,14 +4,13 @@ aliases:
 - PHD finger protein 17
 cgnc_id: '51757'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000010214
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422502
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641177
 forward_primer: 5’-ACGTCACTTGCGCGTTTG-3’
-gene_id: '451107'
+gene_id: '422502'
 gene_type: protein-coding
 images:
 - caption: JADE1 expression
@@ -58,41 +57,37 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R709.JADE1.S25.001.jpg
 name: jade family PHD finger 1
-ncbi_id: '451107'
+ncbi_id: '422502'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000077684
+  entrez: '79960'
+  mod: MIM:610514
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000025764
+  entrez: '269424'
+  mod: MGI:1925835
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000022510
+  entrez: '100036687'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000114251
+  entrez: '327437'
+  mod: ZFIN:ZDB-GENE-030131-5648
+  phenotypes: apoptotic process, regulation of canonical Wnt signaling pathway, regulation
+    of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAGCTTCCTGGAGTTGCACC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451107
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422502
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451107
+  url: https://www.ncbi.nlm.nih.gov/gene/422502
 species: Gallus gallus
 symbol: JADE1
 template_length: '870'
@@ -115,9 +110,8 @@ title: JADE1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000077684](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000077684) | [79960](https://www.ncbi.nlm.nih.gov/gene/79960) | [MIM:610514](https://omim.org/entry/610514) |  |
+| Mouse | [ENSMUSG00000025764](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025764) | [269424](https://www.ncbi.nlm.nih.gov/gene/269424) | [MGI:1925835](http://www.informatics.jax.org/marker/MGI:1925835) |  |
+| Xenopus | [ENSXETG00000022510](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022510) | [100036687](https://www.ncbi.nlm.nih.gov/gene/100036687) |  |  |
+| Zebrafish | [ENSDARG00000114251](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114251) | [327437](https://www.ncbi.nlm.nih.gov/gene/327437) | [ZFIN:ZDB-GENE-030131-5648](https://zfin.org/ZDB-GENE-030131-5648) | apoptotic process, regulation of canonical Wnt signaling pathway, regulation of transcription by RNA polymerase II |
 

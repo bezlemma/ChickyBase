@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395292
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416673
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/ROBO1
-gene_id: '461585'
+gene_id: '395292'
 gene_type: protein-coding
 images:
 - caption: ROBO1 expression
@@ -259,13 +259,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo1.Vargesson.2001.Fig4.jpg
 name: roundabout guidance receptor 1
-ncbi_id: '461585'
+ncbi_id: '395292'
 orthologs:
-- ensembl: ''
-  entrez: '44522'
-  mod: FBgn0002543
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000169855
   entrez: '6091'
   mod: MIM:602430
@@ -276,20 +271,22 @@ orthologs:
   mod: MGI:1274781
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100124716,399392
-  mod: '948808'
+- ensembl: ENSXETG00000020971
+  entrez: '100124716'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000026784
   entrez: '30769'
   mod: ZFIN:ZDB-GENE-000209-3
-  phenotypes: ZDB-GENE-000209-3
+  phenotypes: Roundabout signaling pathway, axon guidance, axon midline choice point
+    recognition, central nervous system development, endocardial progenitor cell migration
+    to the midline involved in heart field formation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461585
+  url: https://www.ncbi.nlm.nih.gov/gene/395292
 species: Gallus gallus
 symbol: ROBO1
 title: ROBO1
@@ -318,9 +315,8 @@ title: ROBO1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [44522](https://www.ncbi.nlm.nih.gov/gene/44522) | FBgn0002543 |  |
 | Human | [ENSG00000169855](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169855) | [6091](https://www.ncbi.nlm.nih.gov/gene/6091) | [MIM:602430](https://omim.org/entry/602430) |  |
 | Mouse | [ENSMUSG00000022883](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022883) | [19876](https://www.ncbi.nlm.nih.gov/gene/19876) | [MGI:1274781](http://www.informatics.jax.org/marker/MGI:1274781) | All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1) |
-| Xenopus |  | [100124716](https://www.ncbi.nlm.nih.gov/gene/100124716), [399392](https://www.ncbi.nlm.nih.gov/gene/399392) | [948808](http://www.xenbase.org/gene/showgene.do?method=display&geneId=948808) |  |
-| Zebrafish | [ENSDARG00000026784](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026784) | [30769](https://www.ncbi.nlm.nih.gov/gene/30769) | [ZFIN:ZDB-GENE-000209-3](https://zfin.org/ZDB-GENE-000209-3) | ZDB-GENE-000209-3 |
+| Xenopus | [ENSXETG00000020971](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020971) | [100124716](https://www.ncbi.nlm.nih.gov/gene/100124716) |  |  |
+| Zebrafish | [ENSDARG00000026784](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026784) | [30769](https://www.ncbi.nlm.nih.gov/gene/30769) | [ZFIN:ZDB-GENE-000209-3](https://zfin.org/ZDB-GENE-000209-3) | Roundabout signaling pathway, axon guidance, axon midline choice point recognition, central nervous system development, endocardial progenitor cell migration to the midline involved in heart field formation |
 

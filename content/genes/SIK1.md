@@ -20,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395417
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204682
-gene_id: '449200'
+gene_id: '395417'
 gene_type: protein-coding
 images:
 - caption: SIK1 expression
@@ -101,40 +101,20 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3I.jpg
 name: salt inducible kinase 1
-ncbi_id: '449200'
+ncbi_id: '395417'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000142178
-  entrez: '150094'
-  mod: MIM:605705
-  phenotypes: ''
-  species: Human
 - ensembl: ENSMUSG00000024042
   entrez: '17691'
   mod: MGI:104754
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '6462409'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000058606
-  entrez: '553465'
-  mod: ZFIN:ZDB-GENE-030131-9446
-  phenotypes: ZDB-GENE-030131-9446
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449200
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395417
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449200
+  url: https://www.ncbi.nlm.nih.gov/gene/395417
 species: Gallus gallus
 symbol: SIK1
 title: SIK1
@@ -163,9 +143,5 @@ title: SIK1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000142178](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000142178) | [150094](https://www.ncbi.nlm.nih.gov/gene/150094) | [MIM:605705](https://omim.org/entry/605705) |  |
 | Mouse | [ENSMUSG00000024042](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024042) | [17691](https://www.ncbi.nlm.nih.gov/gene/17691) | [MGI:104754](http://www.informatics.jax.org/marker/MGI:104754) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  |  | [6462409](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6462409) |  |
-| Zebrafish | [ENSDARG00000058606](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058606) | [553465](https://www.ncbi.nlm.nih.gov/gene/553465) | [ZFIN:ZDB-GENE-030131-9446](https://zfin.org/ZDB-GENE-030131-9446) | ZDB-GENE-030131-9446 |
 

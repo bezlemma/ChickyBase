@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395877
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001232766
 forward_primer: 5’-GCCCATGTCTTTCACCTTCC-3’
-gene_id: '450757'
+gene_id: '395877'
 gene_type: protein-coding
 images:
 - caption: SERPIND1 expression
@@ -73,41 +73,26 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R640.SERPIND1.S26AA.001.jpg
 name: serpin peptidase inhibitor, clade D (heparin cofactor), member 1
-ncbi_id: '450757'
+ncbi_id: '395877'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000022417
+  entrez: '548433'
   mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000099937
-  entrez: '3053'
-  mod: MIM:142360
-  phenotypes: MIM:612356
-  species: Human
-- ensembl: ENSMUSG00000022766
-  entrez: '15160'
-  mod: MGI:96051
-  phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
-  species: Mouse
-- ensembl: ''
-  entrez: 548433,380511
-  mod: '6085730'
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000021208
   entrez: '359841'
   mod: ZFIN:ZDB-GENE-030711-2
-  phenotypes: ZDB-GENE-030711-2
+  phenotypes: blood coagulation
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGCGAATGGTAGTGTCATCGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450757
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395877
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450757
+  url: https://www.ncbi.nlm.nih.gov/gene/395877
 species: Gallus gallus
 symbol: SERPIND1
 template_length: '930'
@@ -130,9 +115,6 @@ title: SERPIND1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000099937](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000099937) | [3053](https://www.ncbi.nlm.nih.gov/gene/3053) | [MIM:142360](https://omim.org/entry/142360) | MIM:612356 |
-| Mouse | [ENSMUSG00000022766](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022766) | [15160](https://www.ncbi.nlm.nih.gov/gene/15160) | [MGI:96051](http://www.informatics.jax.org/marker/MGI:96051) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [548433](https://www.ncbi.nlm.nih.gov/gene/548433), [380511](https://www.ncbi.nlm.nih.gov/gene/380511) | [6085730](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6085730) |  |
-| Zebrafish | [ENSDARG00000021208](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021208) | [359841](https://www.ncbi.nlm.nih.gov/gene/359841) | [ZFIN:ZDB-GENE-030711-2](https://zfin.org/ZDB-GENE-030711-2) | ZDB-GENE-030711-2 |
+| Xenopus | [ENSXETG00000022417](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022417) | [548433](https://www.ncbi.nlm.nih.gov/gene/548433) |  |  |
+| Zebrafish | [ENSDARG00000021208](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021208) | [359841](https://www.ncbi.nlm.nih.gov/gene/359841) | [ZFIN:ZDB-GENE-030711-2](https://zfin.org/ZDB-GENE-030711-2) | blood coagulation |
 

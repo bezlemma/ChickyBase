@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423718
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421595
 forward_primer: CAATGTGAGCGTGAGTGAGAACG
-gene_id: '450877'
+gene_id: '423718'
 gene_type: protein-coding
 images:
 - caption: CDH23 expression
@@ -80,13 +80,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R458.CDH23.S27AAA.001.jpg
 name: cadherin related 23
-ncbi_id: '450877'
+ncbi_id: '423718'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000107736
   entrez: '64072'
   mod: MIM:605516
@@ -98,24 +93,25 @@ orthologs:
   phenotypes: All phenotypic alleles (22):Spontaneous(12) Chemically induced(5) Targeted,
     knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000031410
   entrez: '100493009'
-  mod: '957612'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000007561
   entrez: '407978'
   mod: ZFIN:ZDB-GENE-040513-7
-  phenotypes: ZDB-GENE-040513-7
+  phenotypes: anatomical structure morphogenesis, auditory receptor cell development,
+    cell adhesion, cell migration, cell projection organization
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGCGGAGATAGTGAGGTTGTAGAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450877
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423718
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450877
+  url: https://www.ncbi.nlm.nih.gov/gene/423718
 species: Gallus gallus
 symbol: CDH23
 template_length: '871'
@@ -137,9 +133,8 @@ title: CDH23
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000107736](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107736) | [64072](https://www.ncbi.nlm.nih.gov/gene/64072) | [MIM:605516](https://omim.org/entry/605516) | MIM:601386 |
 | Mouse | [ENSMUSG00000012819](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000012819) | [22295](https://www.ncbi.nlm.nih.gov/gene/22295) | [MGI:1890219](http://www.informatics.jax.org/marker/MGI:1890219) | All phenotypic alleles (22):Spontaneous(12) Chemically induced(5) Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100493009](https://www.ncbi.nlm.nih.gov/gene/100493009) | [957612](http://www.xenbase.org/gene/showgene.do?method=display&geneId=957612) |  |
-| Zebrafish | [ENSDARG00000007561](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007561) | [407978](https://www.ncbi.nlm.nih.gov/gene/407978) | [ZFIN:ZDB-GENE-040513-7](https://zfin.org/ZDB-GENE-040513-7) | ZDB-GENE-040513-7 |
+| Xenopus | [ENSXETG00000031410](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031410) | [100493009](https://www.ncbi.nlm.nih.gov/gene/100493009) |  |  |
+| Zebrafish | [ENSDARG00000007561](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007561) | [407978](https://www.ncbi.nlm.nih.gov/gene/407978) | [ZFIN:ZDB-GENE-040513-7](https://zfin.org/ZDB-GENE-040513-7) | anatomical structure morphogenesis, auditory receptor cell development, cell adhesion, cell migration, cell projection organization |
 

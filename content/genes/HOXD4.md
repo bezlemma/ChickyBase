@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424139
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012293
-gene_id: '460525'
+gene_id: '424139'
 gene_type: protein-coding
 images:
 - caption: HOXD4 expression
@@ -345,40 +345,36 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig8.J.Hoxd4.ST11.Barak.jpg
 name: homeobox D4
-ncbi_id: '460525'
+ncbi_id: '424139'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000170166
   entrez: '3233'
   mod: MIM:142981
   phenotypes: MIM:142981
   species: Human
-- ensembl: ENSMUSG00000079277
+- ensembl: ENSMUSG00000101174
   entrez: '15436'
   mod: MGI:96208
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
 - ensembl: ''
-  entrez: 100497379,100380950
-  mod: '478961'
+  entrez: '100497379'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000059276
   entrez: '30329'
   mod: ZFIN:ZDB-GENE-980526-214
-  phenotypes: ZDB-GENE-980526-214
+  phenotypes: angiogenesis, anterior/posterior pattern specification, definitive hemopoiesis,
+    embryonic skeletal system morphogenesis, hemangioblast cell differentiation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460525
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424139
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460525
+  url: https://www.ncbi.nlm.nih.gov/gene/424139
 species: Gallus gallus
 symbol: HOXD4
 title: HOXD4
@@ -407,9 +403,8 @@ title: HOXD4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000170166](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170166) | [3233](https://www.ncbi.nlm.nih.gov/gene/3233) | [MIM:142981](https://omim.org/entry/142981) | MIM:142981 |
-| Mouse | [ENSMUSG00000079277](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000079277) | [15436](https://www.ncbi.nlm.nih.gov/gene/15436) | [MGI:96208](http://www.informatics.jax.org/marker/MGI:96208) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100497379](https://www.ncbi.nlm.nih.gov/gene/100497379), [100380950](https://www.ncbi.nlm.nih.gov/gene/100380950) | [478961](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478961) |  |
-| Zebrafish | [ENSDARG00000059276](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059276) | [30329](https://www.ncbi.nlm.nih.gov/gene/30329) | [ZFIN:ZDB-GENE-980526-214](https://zfin.org/ZDB-GENE-980526-214) | ZDB-GENE-980526-214 |
+| Mouse | [ENSMUSG00000101174](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000101174) | [15436](https://www.ncbi.nlm.nih.gov/gene/15436) | [MGI:96208](http://www.informatics.jax.org/marker/MGI:96208) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
+| Xenopus |  | [100497379](https://www.ncbi.nlm.nih.gov/gene/100497379) |  |  |
+| Zebrafish | [ENSDARG00000059276](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059276) | [30329](https://www.ncbi.nlm.nih.gov/gene/30329) | [ZFIN:ZDB-GENE-980526-214](https://zfin.org/ZDB-GENE-980526-214) | angiogenesis, anterior/posterior pattern specification, definitive hemopoiesis, embryonic skeletal system morphogenesis, hemangioblast cell differentiation |
 

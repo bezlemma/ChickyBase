@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423963
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421822
-gene_id: '452717'
+gene_id: '423963'
 gene_type: protein-coding
 images:
 - caption: MKI67 expression
@@ -40,7 +40,7 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54zc12.127.23.jpg
 name: marker of proliferation Ki-67
-ncbi_id: '452717'
+ncbi_id: '423963'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -70,10 +70,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452717
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423963
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452717
+  url: https://www.ncbi.nlm.nih.gov/gene/423963
 species: Gallus gallus
 symbol: MKI67
 title: MKI67

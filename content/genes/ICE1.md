@@ -7,7 +7,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418889
-gene_id: '463618'
+gene_id: '420795'
 gene_type: protein-coding
 images:
 - caption: ICE1 expression
@@ -18,7 +18,7 @@ images:
   stage: stage 1419
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/K12.65.1419.jpg
 name: interactor of little elongation complex ELL subunit 1
-ncbi_id: '463618'
+ncbi_id: '420795'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -48,10 +48,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463618
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420795
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463618
+  url: https://www.ncbi.nlm.nih.gov/gene/420795
 species: Gallus gallus
 symbol: ICE1
 title: ICE1

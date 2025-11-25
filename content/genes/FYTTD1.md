@@ -14,7 +14,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003729
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031316
 forward_primer: 5’-AATGGACAAGCACCGATC-3’
-gene_id: '448610'
+gene_id: '424921'
 gene_type: protein-coding
 images:
 - caption: FYTTD1 expression
@@ -60,16 +60,11 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R693.FYTTDL.S20001.jpg
 name: forty-two-three domain containing 1
-ncbi_id: '448610'
+ncbi_id: '424921'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000122068
   entrez: '84248'
-  mod: ''
+  mod: MIM:616933
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000022800
@@ -77,24 +72,19 @@ orthologs:
   mod: MGI:1917955
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 733719,734567
-  mod: '1015368'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000024516
+  entrez: '733719'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: 5’-AATTAACCCTCACTAAAGGACAAAGCAGAGAAAGCCC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448610
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424921
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448610
+  url: https://www.ncbi.nlm.nih.gov/gene/424921
 species: Gallus gallus
 symbol: FYTTD1
 template_length: '977'
@@ -120,9 +110,7 @@ title: FYTTD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [84248](https://www.ncbi.nlm.nih.gov/gene/84248) |  |  |
+| Human | [ENSG00000122068](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000122068) | [84248](https://www.ncbi.nlm.nih.gov/gene/84248) | [MIM:616933](https://omim.org/entry/616933) |  |
 | Mouse | [ENSMUSG00000022800](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022800) | [69823](https://www.ncbi.nlm.nih.gov/gene/69823) | [MGI:1917955](http://www.informatics.jax.org/marker/MGI:1917955) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [733719](https://www.ncbi.nlm.nih.gov/gene/733719), [734567](https://www.ncbi.nlm.nih.gov/gene/734567) | [1015368](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1015368) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000024516](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000024516) | [733719](https://www.ncbi.nlm.nih.gov/gene/733719) |  |  |
 

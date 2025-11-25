@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396214
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205277
-gene_id: '462556'
+gene_id: '396214'
 gene_type: protein-coding
 images:
 - caption: PLP1 expression
@@ -160,37 +160,27 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gotoh.Fig5.Gotoh.ALLIMAGES.jpg
 name: proteolipid protein 1
-ncbi_id: '462556'
+ncbi_id: '396214'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000123560
+  entrez: '5354'
+  mod: MIM:300401
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000031425
+  entrez: '18823'
+  mod: MGI:97623
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000018134
+  entrez: '613099'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462556
+  url: https://www.ncbi.nlm.nih.gov/gene/396214
 species: Gallus gallus
 symbol: PLP1
 title: PLP1
@@ -217,9 +207,7 @@ title: PLP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000123560](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000123560) | [5354](https://www.ncbi.nlm.nih.gov/gene/5354) | [MIM:300401](https://omim.org/entry/300401) |  |
+| Mouse | [ENSMUSG00000031425](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031425) | [18823](https://www.ncbi.nlm.nih.gov/gene/18823) | [MGI:97623](http://www.informatics.jax.org/marker/MGI:97623) |  |
+| Xenopus | [ENSXETG00000018134](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018134) | [613099](https://www.ncbi.nlm.nih.gov/gene/613099) |  |  |
 

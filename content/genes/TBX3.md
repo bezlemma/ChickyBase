@@ -17,7 +17,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001270878
   X-XIV: stage XIII
 forward_primer: TGCTGTTAGAAACCACTCCAGGAC
-gene_id: '456397'
+gene_id: '374202'
 gene_type: protein-coding
 images:
 - caption: TBX3 expression
@@ -539,13 +539,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX3.Trevers.2023-Fig7-7-V.jpg
 name: T-box 3
-ncbi_id: '456397'
+ncbi_id: '374202'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000135111
   entrez: '6926'
   mod: MIM:601621
@@ -556,24 +551,26 @@ orthologs:
   mod: MGI:98495
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 613116,397816,373612
-  mod: '1018230'
+- ensembl: ENSXETG00000006579
+  entrez: '613116'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000002216
   entrez: '556870'
-  mod: ZFIN:ZDB-GENE-070209-80,ZFIN:ZDB-GENE-060531-144
-  phenotypes: ZDB-GENE-070209-80,ZDB-GENE-060531-144
+  mod: ZFIN:ZDB-GENE-070209-80
+  phenotypes: anatomical structure morphogenesis, cell fate specification, embryonic
+    heart tube development, epithelium development, positive regulation of DNA-templated
+    transcription
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTGAAGGCTGTCTGCTCGTTGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456397
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374202
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456397
+  url: https://www.ncbi.nlm.nih.gov/gene/374202
 species: Gallus gallus
 symbol: TBX3
 template_length: '1045'
@@ -603,9 +600,8 @@ title: TBX3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000135111](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135111) | [6926](https://www.ncbi.nlm.nih.gov/gene/6926) | [MIM:601621](https://omim.org/entry/601621) | MIM:181450 |
 | Mouse | [ENSMUSG00000018604](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018604) | [21386](https://www.ncbi.nlm.nih.gov/gene/21386) | [MGI:98495](http://www.informatics.jax.org/marker/MGI:98495) | All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1) |
-| Xenopus |  | [613116](https://www.ncbi.nlm.nih.gov/gene/613116), [397816](https://www.ncbi.nlm.nih.gov/gene/397816), [373612](https://www.ncbi.nlm.nih.gov/gene/373612) | [1018230](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1018230) |  |
-| Zebrafish | [ENSDARG00000002216](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002216) | [556870](https://www.ncbi.nlm.nih.gov/gene/556870) | [ZFIN:ZDB-GENE-070209-80](https://zfin.org/ZDB-GENE-070209-80), [ZFIN:ZDB-GENE-060531-144](https://zfin.org/ZDB-GENE-060531-144) | ZDB-GENE-070209-80,ZDB-GENE-060531-144 |
+| Xenopus | [ENSXETG00000006579](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006579) | [613116](https://www.ncbi.nlm.nih.gov/gene/613116) |  |  |
+| Zebrafish | [ENSDARG00000002216](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002216) | [556870](https://www.ncbi.nlm.nih.gov/gene/556870) | [ZFIN:ZDB-GENE-070209-80](https://zfin.org/ZDB-GENE-070209-80) | anatomical structure morphogenesis, cell fate specification, embryonic heart tube development, epithelium development, positive regulation of DNA-templated transcription |
 

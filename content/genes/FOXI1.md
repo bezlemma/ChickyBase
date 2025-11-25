@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427613
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425185
 forward_primer: 5’-TACGTGGCTGACAACTTCCC-3’
-gene_id: '456826'
+gene_id: '427613'
 gene_type: protein-coding
 images:
 - caption: FOXI1 expression
@@ -77,13 +77,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_5_ALLIMAGES-3.jpg
 name: forkhead box I1
-ncbi_id: '456826'
+ncbi_id: '427613'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000168269
   entrez: '2299'
   mod: MIM:601093
@@ -94,24 +89,26 @@ orthologs:
   mod: MGI:1096329
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 394546,380059
-  mod: '494124'
+- ensembl: ENSXETG00000025404
+  entrez: '394546'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000009550,ENSDARG00000019659
-  entrez: 387258,353313
-  mod: ZFIN:ZDB-GENE-031126-4,ZFIN:ZDB-GENE-030505-1
-  phenotypes: ZDB-GENE-031126-4,ZDB-GENE-030505-1
+- ensembl: ENSDARG00000009550
+  entrez: '387258'
+  mod: ZFIN:ZDB-GENE-031126-4
+  phenotypes: anatomical structure morphogenesis, cell differentiation, epidermal
+    cell fate specification, ionocyte differentiation, regulation of DNA-templated
+    transcription
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGCGTGGAGTGCTTGTGACTTG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456826
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427613
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456826
+  url: https://www.ncbi.nlm.nih.gov/gene/427613
 species: Gallus gallus
 symbol: FOXI1
 template_length: '841'
@@ -138,9 +135,8 @@ title: FOXI1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000168269](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000168269) | [2299](https://www.ncbi.nlm.nih.gov/gene/2299) | [MIM:601093](https://omim.org/entry/601093) | MIM:600791 |
 | Mouse | [ENSMUSG00000047861](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000047861) | [14233](https://www.ncbi.nlm.nih.gov/gene/14233) | [MGI:1096329](http://www.informatics.jax.org/marker/MGI:1096329) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [394546](https://www.ncbi.nlm.nih.gov/gene/394546), [380059](https://www.ncbi.nlm.nih.gov/gene/380059) | [494124](http://www.xenbase.org/gene/showgene.do?method=display&geneId=494124) |  |
-| Zebrafish | [ENSDARG00000009550](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009550), [ENSDARG00000019659](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019659) | [387258](https://www.ncbi.nlm.nih.gov/gene/387258), [353313](https://www.ncbi.nlm.nih.gov/gene/353313) | [ZFIN:ZDB-GENE-031126-4](https://zfin.org/ZDB-GENE-031126-4), [ZFIN:ZDB-GENE-030505-1](https://zfin.org/ZDB-GENE-030505-1) | ZDB-GENE-031126-4,ZDB-GENE-030505-1 |
+| Xenopus | [ENSXETG00000025404](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025404) | [394546](https://www.ncbi.nlm.nih.gov/gene/394546) |  |  |
+| Zebrafish | [ENSDARG00000009550](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009550) | [387258](https://www.ncbi.nlm.nih.gov/gene/387258) | [ZFIN:ZDB-GENE-031126-4](https://zfin.org/ZDB-GENE-031126-4) | anatomical structure morphogenesis, cell differentiation, epidermal cell fate specification, ionocyte differentiation, regulation of DNA-templated transcription |
 

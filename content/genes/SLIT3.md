@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374173
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001197042
-gene_id: '455249'
+gene_id: '374173'
 gene_type: protein-coding
 images:
 - caption: SLIT3 expression
@@ -296,13 +296,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit3.Vargesson.2001.Fig6.jpg
 name: slit guidance ligand 3
-ncbi_id: '455249'
+ncbi_id: '374173'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000184347
   entrez: '6586'
   mod: MIM:603745
@@ -313,20 +308,21 @@ orthologs:
   mod: MGI:1315202
   phenotypes: All phenotypic alleles (4):Targeted, other(3) Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000013676
   entrez: '780195'
-  mod: '991049'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000034268
   entrez: '80354'
   mod: ZFIN:ZDB-GENE-010306-4
-  phenotypes: ZDB-GENE-010306-4
+  phenotypes: animal organ development, axon guidance, central nervous system projection
+    neuron axonogenesis, negative chemotaxis, negative regulation of axon extension
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455249
+  url: https://www.ncbi.nlm.nih.gov/gene/374173
 species: Gallus gallus
 symbol: SLIT3
 title: SLIT3
@@ -352,9 +348,8 @@ title: SLIT3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000184347](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000184347) | [6586](https://www.ncbi.nlm.nih.gov/gene/6586) | [MIM:603745](https://omim.org/entry/603745) |  |
 | Mouse | [ENSMUSG00000056427](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000056427) | [20564](https://www.ncbi.nlm.nih.gov/gene/20564) | [MGI:1315202](http://www.informatics.jax.org/marker/MGI:1315202) | All phenotypic alleles (4):Targeted, other(3) Gene trapped(1) |
-| Xenopus |  | [780195](https://www.ncbi.nlm.nih.gov/gene/780195) | [991049](http://www.xenbase.org/gene/showgene.do?method=display&geneId=991049) |  |
-| Zebrafish | [ENSDARG00000034268](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034268) | [80354](https://www.ncbi.nlm.nih.gov/gene/80354) | [ZFIN:ZDB-GENE-010306-4](https://zfin.org/ZDB-GENE-010306-4) | ZDB-GENE-010306-4 |
+| Xenopus | [ENSXETG00000013676](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013676) | [780195](https://www.ncbi.nlm.nih.gov/gene/780195) |  |  |
+| Zebrafish | [ENSDARG00000034268](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034268) | [80354](https://www.ncbi.nlm.nih.gov/gene/80354) | [ZFIN:ZDB-GENE-010306-4](https://zfin.org/ZDB-GENE-010306-4) | animal organ development, axon guidance, central nervous system projection neuron axonogenesis, negative chemotaxis, negative regulation of axon extension |
 

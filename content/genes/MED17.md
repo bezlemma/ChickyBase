@@ -14,7 +14,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0001104
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006280
 forward_primer: CCTGTCTCATCAAGAGCAAGAAC
-gene_id: '456835'
+gene_id: '419000'
 gene_type: protein-coding
 images:
 - caption: MED17 expression
@@ -318,14 +318,9 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R603.MED17.S26A.001.jpg
 name: mediator complex subunit 17
-ncbi_id: '456835'
+ncbi_id: '419000'
 orthologs:
-- ensembl: ''
-  entrez: '42175'
-  mod: FBgn0038578
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000042429
   entrez: '9440'
   mod: MIM:603810
   phenotypes: MIM:613668
@@ -335,24 +330,24 @@ orthologs:
   mod: MGI:2182585
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 549728,100101325
-  mod: '1008313'
+- ensembl: ENSXETG00000017118
+  entrez: '549728'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000006345
   entrez: '567560'
   mod: ZFIN:ZDB-GENE-040302-1
-  phenotypes: ZDB-GENE-040302-1
+  phenotypes: regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGTTATTCCATCAACCCCAAGCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456835
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419000
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456835
+  url: https://www.ncbi.nlm.nih.gov/gene/419000
 species: Gallus gallus
 symbol: MED17
 template_length: '921'
@@ -380,9 +375,8 @@ title: MED17
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42175](https://www.ncbi.nlm.nih.gov/gene/42175) | FBgn0038578 |  |
-| Human |  | [9440](https://www.ncbi.nlm.nih.gov/gene/9440) | [MIM:603810](https://omim.org/entry/603810) | MIM:613668 |
+| Human | [ENSG00000042429](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000042429) | [9440](https://www.ncbi.nlm.nih.gov/gene/9440) | [MIM:603810](https://omim.org/entry/603810) | MIM:613668 |
 | Mouse | [ENSMUSG00000031935](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031935) | [234959](https://www.ncbi.nlm.nih.gov/gene/234959) | [MGI:2182585](http://www.informatics.jax.org/marker/MGI:2182585) |  |
-| Xenopus |  | [549728](https://www.ncbi.nlm.nih.gov/gene/549728), [100101325](https://www.ncbi.nlm.nih.gov/gene/100101325) | [1008313](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1008313) |  |
-| Zebrafish |  | [567560](https://www.ncbi.nlm.nih.gov/gene/567560) | [ZFIN:ZDB-GENE-040302-1](https://zfin.org/ZDB-GENE-040302-1) | ZDB-GENE-040302-1 |
+| Xenopus | [ENSXETG00000017118](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017118) | [549728](https://www.ncbi.nlm.nih.gov/gene/549728) |  |  |
+| Zebrafish | [ENSDARG00000006345](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006345) | [567560](https://www.ncbi.nlm.nih.gov/gene/567560) | [ZFIN:ZDB-GENE-040302-1](https://zfin.org/ZDB-GENE-040302-1) | regulation of transcription by RNA polymerase II |
 

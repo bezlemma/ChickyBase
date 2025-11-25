@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420761
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004398
 forward_primer: GGCGAGTTGGCTTTTATGTGAAC
-gene_id: '455667'
+gene_id: '420761'
 gene_type: protein-coding
 images:
 - caption: AMPH expression
@@ -48,13 +48,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R522.AMPH.S26.001.jpg
 name: amphiphysin
-ncbi_id: '455667'
+ncbi_id: '420761'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000078053
   entrez: '273'
   mod: MIM:600418
@@ -65,24 +60,24 @@ orthologs:
   mod: MGI:103574
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100125136,432150
-  mod: '993127'
+- ensembl: ENSXETG00000030305
+  entrez: '100125136'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000007663
   entrez: '393804'
   mod: ZFIN:ZDB-GENE-040426-1711
-  phenotypes: ZDB-GENE-040426-1711
+  phenotypes: synaptic vesicle endocytosis
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCCAGTTGTCTCCTTATCCCCTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455667
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420761
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455667
+  url: https://www.ncbi.nlm.nih.gov/gene/420761
 species: Gallus gallus
 symbol: AMPH
 template_length: '821'
@@ -105,9 +100,8 @@ title: AMPH
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000078053](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000078053) | [273](https://www.ncbi.nlm.nih.gov/gene/273) | [MIM:600418](https://omim.org/entry/600418) |  |
 | Mouse | [ENSMUSG00000021314](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021314) | [218038](https://www.ncbi.nlm.nih.gov/gene/218038) | [MGI:103574](http://www.informatics.jax.org/marker/MGI:103574) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100125136](https://www.ncbi.nlm.nih.gov/gene/100125136), [432150](https://www.ncbi.nlm.nih.gov/gene/432150) | [993127](http://www.xenbase.org/gene/showgene.do?method=display&geneId=993127) |  |
-| Zebrafish | [ENSDARG00000007663](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007663) | [393804](https://www.ncbi.nlm.nih.gov/gene/393804) | [ZFIN:ZDB-GENE-040426-1711](https://zfin.org/ZDB-GENE-040426-1711) | ZDB-GENE-040426-1711 |
+| Xenopus | [ENSXETG00000030305](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000030305) | [100125136](https://www.ncbi.nlm.nih.gov/gene/100125136) |  |  |
+| Zebrafish | [ENSDARG00000007663](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007663) | [393804](https://www.ncbi.nlm.nih.gov/gene/393804) | [ZFIN:ZDB-GENE-040426-1711](https://zfin.org/ZDB-GENE-040426-1711) | synaptic vesicle endocytosis |
 

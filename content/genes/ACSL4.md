@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422345
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420317
-gene_id: '451445'
+gene_id: '422345'
 gene_type: protein-coding
 images:
 - caption: ACSL4 expression
@@ -39,13 +39,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F5.acsl4.png
 name: acyl-CoA synthetase long chain family member 4
-ncbi_id: '451445'
+ncbi_id: '422345'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000068366
   entrez: '2182'
   mod: MIM:300157
@@ -56,20 +51,22 @@ orthologs:
   mod: MGI:1354713
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100494759,100174803
-  mod: '5966956'
+- ensembl: ENSXETG00000012429
+  entrez: '100494759'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000004078
   entrez: '393622'
-  mod: ZFIN:ZDB-GENE-040426-1565,ZFIN:ZDB-GENE-090220-2
-  phenotypes: ZDB-GENE-040426-1565,ZDB-GENE-090220-2
+  mod: ZFIN:ZDB-GENE-040426-1565
+  phenotypes: dorsal/ventral pattern formation, fatty acid metabolic process, lipid
+    metabolic process, long-chain fatty acid metabolic process, long-chain fatty-acyl-CoA
+    metabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451445
+  url: https://www.ncbi.nlm.nih.gov/gene/422345
 species: Gallus gallus
 symbol: ACSL4
 title: ACSL4
@@ -95,9 +92,8 @@ title: ACSL4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000068366](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000068366) | [2182](https://www.ncbi.nlm.nih.gov/gene/2182) | [MIM:300157](https://omim.org/entry/300157) | MIM:300387 |
 | Mouse | [ENSMUSG00000031278](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031278) | [50790](https://www.ncbi.nlm.nih.gov/gene/50790) | [MGI:1354713](http://www.informatics.jax.org/marker/MGI:1354713) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100494759](https://www.ncbi.nlm.nih.gov/gene/100494759), [100174803](https://www.ncbi.nlm.nih.gov/gene/100174803) | [5966956](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5966956) |  |
-| Zebrafish | [ENSDARG00000004078](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004078) | [393622](https://www.ncbi.nlm.nih.gov/gene/393622) | [ZFIN:ZDB-GENE-040426-1565](https://zfin.org/ZDB-GENE-040426-1565), [ZFIN:ZDB-GENE-090220-2](https://zfin.org/ZDB-GENE-090220-2) | ZDB-GENE-040426-1565,ZDB-GENE-090220-2 |
+| Xenopus | [ENSXETG00000012429](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012429) | [100494759](https://www.ncbi.nlm.nih.gov/gene/100494759) |  |  |
+| Zebrafish | [ENSDARG00000004078](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004078) | [393622](https://www.ncbi.nlm.nih.gov/gene/393622) | [ZFIN:ZDB-GENE-040426-1565](https://zfin.org/ZDB-GENE-040426-1565) | dorsal/ventral pattern formation, fatty acid metabolic process, lipid metabolic process, long-chain fatty acid metabolic process, long-chain fatty-acyl-CoA metabolic process |
 

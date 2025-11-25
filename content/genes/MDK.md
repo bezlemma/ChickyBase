@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423196
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008083
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001113289
-gene_id: '449398'
+gene_id: '423196'
 gene_type: protein-coding
 images:
 - caption: MDK expression
@@ -113,13 +113,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig6.Allimages-4.jpg
 name: midkine
-ncbi_id: '449398'
+ncbi_id: '423196'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000110492
   entrez: '4192'
   mod: MIM:162096
@@ -130,20 +125,21 @@ orthologs:
   mod: MGI:96949
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 394671,397791,399256
-  mod: '488501'
+- ensembl: ENSXETG00000001967
+  entrez: '394671'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000020708,ENSDARG00000036036
-  entrez: 65231,30277
-  mod: ZFIN:ZDB-GENE-010131-6,ZFIN:ZDB-GENE-990621-1
-  phenotypes: ZDB-GENE-010131-6,ZDB-GENE-990621-1
+- ensembl: ENSDARG00000020708
+  entrez: '65231'
+  mod: ZFIN:ZDB-GENE-010131-6
+  phenotypes: brain development, nervous system development, neural crest formation,
+    positive regulation of cell division, positive regulation of neuron differentiation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449398
+  url: https://www.ncbi.nlm.nih.gov/gene/423196
 species: Gallus gallus
 symbol: MDK
 title: MDK
@@ -172,9 +168,8 @@ title: MDK
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000110492](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000110492) | [4192](https://www.ncbi.nlm.nih.gov/gene/4192) | [MIM:162096](https://omim.org/entry/162096) |  |
 | Mouse | [ENSMUSG00000027239](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027239) | [17242](https://www.ncbi.nlm.nih.gov/gene/17242) | [MGI:96949](http://www.informatics.jax.org/marker/MGI:96949) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [394671](https://www.ncbi.nlm.nih.gov/gene/394671), [397791](https://www.ncbi.nlm.nih.gov/gene/397791), [399256](https://www.ncbi.nlm.nih.gov/gene/399256) | [488501](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488501) |  |
-| Zebrafish | [ENSDARG00000020708](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020708), [ENSDARG00000036036](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036036) | [65231](https://www.ncbi.nlm.nih.gov/gene/65231), [30277](https://www.ncbi.nlm.nih.gov/gene/30277) | [ZFIN:ZDB-GENE-010131-6](https://zfin.org/ZDB-GENE-010131-6), [ZFIN:ZDB-GENE-990621-1](https://zfin.org/ZDB-GENE-990621-1) | ZDB-GENE-010131-6,ZDB-GENE-990621-1 |
+| Xenopus | [ENSXETG00000001967](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001967) | [394671](https://www.ncbi.nlm.nih.gov/gene/394671) |  |  |
+| Zebrafish | [ENSDARG00000020708](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020708) | [65231](https://www.ncbi.nlm.nih.gov/gene/65231) | [ZFIN:ZDB-GENE-010131-6](https://zfin.org/ZDB-GENE-010131-6) | brain development, nervous system development, neural crest formation, positive regulation of cell division, positive regulation of neuron differentiation |
 

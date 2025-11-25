@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423370
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031205
 forward_primer: CCTCAATCGGGATAATGTGGG
-gene_id: '448701'
+gene_id: '423370'
 gene_type: protein-coding
 images:
 - caption: ANGEL1 expression
@@ -175,16 +175,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R527.ANGEL1.S26AA.001.jpg
 name: angel homolog 1
-ncbi_id: '448701'
+ncbi_id: '423370'
 orthologs:
-- ensembl: ''
-  entrez: '37748'
-  mod: FBgn0016762
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000013523
   entrez: '23357'
-  mod: ''
+  mod: MIM:619537
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000021257
@@ -192,24 +187,19 @@ orthologs:
   mod: MGI:1915987
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000013213
   entrez: '548990'
-  mod: '6454203'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000077567
-  entrez: '569547'
-  mod: ZFIN:ZDB-GENE-111020-12
-  phenotypes: ZDB-GENE-111020-12
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCAAAGGGGAACCAACACTAACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448701
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423370
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448701
+  url: https://www.ncbi.nlm.nih.gov/gene/423370
 species: Gallus gallus
 symbol: ANGEL1
 template_length: '918'
@@ -233,9 +223,7 @@ title: ANGEL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [37748](https://www.ncbi.nlm.nih.gov/gene/37748) | FBgn0016762 |  |
-| Human |  | [23357](https://www.ncbi.nlm.nih.gov/gene/23357) |  |  |
+| Human | [ENSG00000013523](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000013523) | [23357](https://www.ncbi.nlm.nih.gov/gene/23357) | [MIM:619537](https://omim.org/entry/619537) |  |
 | Mouse | [ENSMUSG00000021257](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021257) | [68737](https://www.ncbi.nlm.nih.gov/gene/68737) | [MGI:1915987](http://www.informatics.jax.org/marker/MGI:1915987) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [548990](https://www.ncbi.nlm.nih.gov/gene/548990) | [6454203](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6454203) |  |
-| Zebrafish | [ENSDARG00000077567](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077567) | [569547](https://www.ncbi.nlm.nih.gov/gene/569547) | [ZFIN:ZDB-GENE-111020-12](https://zfin.org/ZDB-GENE-111020-12) | ZDB-GENE-111020-12 |
+| Xenopus | [ENSXETG00000013213](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013213) | [548990](https://www.ncbi.nlm.nih.gov/gene/548990) |  |  |
 

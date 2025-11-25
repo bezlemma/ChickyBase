@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373894
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204105
-gene_id: '459355'
+gene_id: '373894'
 gene_type: protein-coding
 images:
 - caption: SDK1 expression
@@ -34,13 +34,8 @@ images:
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yamagata.2012.Figure7.C.CNTN2-SDK1-2.jpg
 name: sidekick cell adhesion molecule 1
-ncbi_id: '459355'
+ncbi_id: '373894'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000146555
   entrez: '221935'
   mod: MIM:607216
@@ -51,20 +46,16 @@ orthologs:
   mod: MGI:2444413
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: 558391,555553
-  mod: ZFIN:ZDB-GENE-081104-374,ZFIN:ZDB-GENE-090311-17
-  phenotypes: ZDB-GENE-081104-374,ZDB-GENE-090311-17
+- ensembl: ENSDARG00000078866
+  entrez: '558391'
+  mod: ZFIN:ZDB-GENE-081104-374
+  phenotypes: homophilic cell adhesion via plasma membrane adhesion molecules, synapse
+    assembly
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459355
+  url: https://www.ncbi.nlm.nih.gov/gene/373894
 species: Gallus gallus
 symbol: SDK1
 title: SDK1
@@ -92,9 +83,7 @@ title: SDK1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000146555](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000146555) | [221935](https://www.ncbi.nlm.nih.gov/gene/221935) | [MIM:607216](https://omim.org/entry/607216) |  |
 | Mouse | [ENSMUSG00000039683](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039683) | [330222](https://www.ncbi.nlm.nih.gov/gene/330222) | [MGI:2444413](http://www.informatics.jax.org/marker/MGI:2444413) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  | [558391](https://www.ncbi.nlm.nih.gov/gene/558391), [555553](https://www.ncbi.nlm.nih.gov/gene/555553) | [ZFIN:ZDB-GENE-081104-374](https://zfin.org/ZDB-GENE-081104-374), [ZFIN:ZDB-GENE-090311-17](https://zfin.org/ZDB-GENE-090311-17) | ZDB-GENE-081104-374,ZDB-GENE-090311-17 |
+| Zebrafish | [ENSDARG00000078866](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078866) | [558391](https://www.ncbi.nlm.nih.gov/gene/558391) | [ZFIN:ZDB-GENE-081104-374](https://zfin.org/ZDB-GENE-081104-374) | homophilic cell adhesion via plasma membrane adhesion molecules, synapse assembly |
 

@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424963
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031318
-gene_id: '448648'
+gene_id: '424963'
 gene_type: protein-coding
 images:
 - caption: DCUN1D1 expression
@@ -79,14 +79,9 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54wd11.122.20xs.jpg
 name: defective in cullin neddylation 1 domain containing 1
-ncbi_id: '448648'
+ncbi_id: '424963'
 orthologs:
-- ensembl: ''
-  entrez: '39685'
-  mod: FBgn0036510
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000043093
   entrez: '54165'
   mod: MIM:605905
   phenotypes: ''
@@ -96,23 +91,23 @@ orthologs:
   mod: MGI:2150386
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 549069,414532
-  mod: '5967383'
+- ensembl: ENSXETG00000016813
+  entrez: '549069'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000037371
+- ensembl: ENSDARG00000099642
   entrez: '327232'
   mod: ZFIN:ZDB-GENE-030131-5443
-  phenotypes: ZDB-GENE-030131-5443
+  phenotypes: positive regulation of protein neddylation, protein neddylation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448648
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424963
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448648
+  url: https://www.ncbi.nlm.nih.gov/gene/424963
 species: Gallus gallus
 symbol: DCUN1D1
 title: DCUN1D1
@@ -137,9 +132,8 @@ title: DCUN1D1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39685](https://www.ncbi.nlm.nih.gov/gene/39685) | FBgn0036510 |  |
-| Human |  | [54165](https://www.ncbi.nlm.nih.gov/gene/54165) | [MIM:605905](https://omim.org/entry/605905) |  |
+| Human | [ENSG00000043093](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000043093) | [54165](https://www.ncbi.nlm.nih.gov/gene/54165) | [MIM:605905](https://omim.org/entry/605905) |  |
 | Mouse | [ENSMUSG00000027708](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027708) | [114893](https://www.ncbi.nlm.nih.gov/gene/114893) | [MGI:2150386](http://www.informatics.jax.org/marker/MGI:2150386) |  |
-| Xenopus |  | [549069](https://www.ncbi.nlm.nih.gov/gene/549069), [414532](https://www.ncbi.nlm.nih.gov/gene/414532) | [5967383](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5967383) |  |
-| Zebrafish | [ENSDARG00000037371](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037371) | [327232](https://www.ncbi.nlm.nih.gov/gene/327232) | [ZFIN:ZDB-GENE-030131-5443](https://zfin.org/ZDB-GENE-030131-5443) | ZDB-GENE-030131-5443 |
+| Xenopus | [ENSXETG00000016813](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016813) | [549069](https://www.ncbi.nlm.nih.gov/gene/549069) |  |  |
+| Zebrafish | [ENSDARG00000099642](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099642) | [327232](https://www.ncbi.nlm.nih.gov/gene/327232) | [ZFIN:ZDB-GENE-030131-5443](https://zfin.org/ZDB-GENE-030131-5443) | positive regulation of protein neddylation, protein neddylation |
 

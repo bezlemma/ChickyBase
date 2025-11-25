@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421348
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006398
-gene_id: '457322'
+gene_id: '421348'
 gene_type: protein-coding
 images:
 - caption: EPRS expression
@@ -34,7 +34,7 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/H01_11_mag.jpg
 name: glutamyl-prolyl-tRNA synthetase
-ncbi_id: '457322'
+ncbi_id: '421348'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -59,15 +59,15 @@ orthologs:
 - ensembl: ENSDARG00000060494
   entrez: '562037'
   mod: ZFIN:ZDB-GENE-030131-638
-  phenotypes: ZDB-GENE-030131-638
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457322
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421348
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457322
+  url: https://www.ncbi.nlm.nih.gov/gene/421348
 species: Gallus gallus
 symbol: EPRS
 title: EPRS
@@ -95,5 +95,5 @@ title: EPRS
 | Human | [ENSG00000136628](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136628) | [2058](https://www.ncbi.nlm.nih.gov/gene/2058) | [MIM:138295](https://omim.org/entry/138295) |  |
 | Mouse | [ENSMUSG00000026615](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026615) | [107508](https://www.ncbi.nlm.nih.gov/gene/107508) | [MGI:97838](http://www.informatics.jax.org/marker/MGI:97838) |  |
 | Xenopus |  | [100145057](https://www.ncbi.nlm.nih.gov/gene/100145057), [100158438](https://www.ncbi.nlm.nih.gov/gene/100158438) | [966790](http://www.xenbase.org/gene/showgene.do?method=display&geneId=966790) |  |
-| Zebrafish | [ENSDARG00000060494](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060494) | [562037](https://www.ncbi.nlm.nih.gov/gene/562037) | [ZFIN:ZDB-GENE-030131-638](https://zfin.org/ZDB-GENE-030131-638) | ZDB-GENE-030131-638 |
+| Zebrafish | [ENSDARG00000060494](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060494) | [562037](https://www.ncbi.nlm.nih.gov/gene/562037) | [ZFIN:ZDB-GENE-030131-638](https://zfin.org/ZDB-GENE-030131-638) |  |
 

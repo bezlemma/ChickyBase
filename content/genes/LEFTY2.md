@@ -4,9 +4,6 @@ aliases:
 - lefty
 cgnc_id: '49363'
 external_ids:
-  '19': stage 19
-  '4': stage 4stage 4
-  '7': stage 7stage 7
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Katsu+2012+Dan+Shh+Bmp4+Caronte
   Comments: 'Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (Acc. # AF179483.1).'
@@ -166,7 +163,7 @@ orthologs:
 - ensembl: ENSDARG00000044059,ENSDARG00000019920
   entrez: 30146,30145
   mod: ZFIN:ZDB-GENE-990630-11,ZFIN:ZDB-GENE-990630-10
-  phenotypes: ZDB-GENE-990630-11,ZDB-GENE-990630-10
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGGGGTGGGGACTGAAATAACC
 sources:
@@ -206,5 +203,5 @@ title: LEFTY2
 | Human |  |  |  |  |
 | Mouse |  |  |  |  |
 | Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000044059](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044059), [ENSDARG00000019920](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019920) | [30146](https://www.ncbi.nlm.nih.gov/gene/30146), [30145](https://www.ncbi.nlm.nih.gov/gene/30145) | [ZFIN:ZDB-GENE-990630-11](https://zfin.org/ZDB-GENE-990630-11), [ZFIN:ZDB-GENE-990630-10](https://zfin.org/ZDB-GENE-990630-10) | ZDB-GENE-990630-11,ZDB-GENE-990630-10 |
+| Zebrafish | [ENSDARG00000044059](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044059), [ENSDARG00000019920](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019920) | [30146](https://www.ncbi.nlm.nih.gov/gene/30146), [30145](https://www.ncbi.nlm.nih.gov/gene/30145) | [ZFIN:ZDB-GENE-990630-11](https://zfin.org/ZDB-GENE-990630-11), [ZFIN:ZDB-GENE-990630-10](https://zfin.org/ZDB-GENE-990630-10) |  |
 

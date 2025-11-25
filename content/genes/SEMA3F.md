@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374109
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204258
-gene_id: '455647'
+gene_id: '374109'
 gene_type: protein-coding
 images:
 - caption: SEMA3F expression
@@ -172,13 +172,8 @@ images:
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SF3.Herzog.2005.Fig.5.png
 name: semaphorin 3F
-ncbi_id: '455647'
+ncbi_id: '374109'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000001617
   entrez: '6405'
   mod: MIM:601124
@@ -190,20 +185,21 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(4)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 496575,100158345
-  mod: '940270'
+- ensembl: ENSXETG00000007312
+  entrez: '496575'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000011163,ENSDARG00000055373
-  entrez: 544658,799945
-  mod: ZFIN:ZDB-GENE-050513-1,ZFIN:ZDB-GENE-050513-2
-  phenotypes: ZDB-GENE-050513-1,ZDB-GENE-050513-2
+- ensembl: ENSDARG00000109345
+  entrez: '799945'
+  mod: ZFIN:ZDB-GENE-050513-2
+  phenotypes: axon guidance, cardiac chamber development, heart valve development,
+    negative chemotaxis, neural crest cell migration
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455647
+  url: https://www.ncbi.nlm.nih.gov/gene/374109
 species: Gallus gallus
 symbol: SEMA3F
 title: SEMA3F
@@ -229,9 +225,8 @@ title: SEMA3F
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000001617](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000001617) | [6405](https://www.ncbi.nlm.nih.gov/gene/6405) | [MIM:601124](https://omim.org/entry/601124) |  |
 | Mouse | [ENSMUSG00000034684](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034684) | [20350](https://www.ncbi.nlm.nih.gov/gene/20350) | [MGI:1096347](http://www.informatics.jax.org/marker/MGI:1096347) | All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(4) Gene trapped(1) |
-| Xenopus |  | [496575](https://www.ncbi.nlm.nih.gov/gene/496575), [100158345](https://www.ncbi.nlm.nih.gov/gene/100158345) | [940270](http://www.xenbase.org/gene/showgene.do?method=display&geneId=940270) |  |
-| Zebrafish | [ENSDARG00000011163](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011163), [ENSDARG00000055373](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055373) | [544658](https://www.ncbi.nlm.nih.gov/gene/544658), [799945](https://www.ncbi.nlm.nih.gov/gene/799945) | [ZFIN:ZDB-GENE-050513-1](https://zfin.org/ZDB-GENE-050513-1), [ZFIN:ZDB-GENE-050513-2](https://zfin.org/ZDB-GENE-050513-2) | ZDB-GENE-050513-1,ZDB-GENE-050513-2 |
+| Xenopus | [ENSXETG00000007312](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007312) | [496575](https://www.ncbi.nlm.nih.gov/gene/496575) |  |  |
+| Zebrafish | [ENSDARG00000109345](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000109345) | [799945](https://www.ncbi.nlm.nih.gov/gene/799945) | [ZFIN:ZDB-GENE-050513-2](https://zfin.org/ZDB-GENE-050513-2) | axon guidance, cardiac chamber development, heart valve development, negative chemotaxis, neural crest cell migration |
 

@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427941
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425513
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/PLXNA4
-gene_id: '457415'
+gene_id: '427941'
 gene_type: protein-coding
 images:
 - caption: PLXNA4 expression
@@ -141,13 +141,8 @@ images:
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA4.Mauti.2006.Fig.9.png
 name: plexin A4
-ncbi_id: '457415'
+ncbi_id: '427941'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000221866
   entrez: '91584'
   mod: MIM:604280
@@ -158,20 +153,21 @@ orthologs:
   mod: MGI:2179061
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000011446
   entrez: '100488871'
-  mod: '856501'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000019328
   entrez: '325938'
   mod: ZFIN:ZDB-GENE-030131-4663
-  phenotypes: ZDB-GENE-030131-4663
+  phenotypes: axon guidance, axonal defasciculation, morphogenesis of a branching
+    structure, regulation of cell migration, semaphorin-plexin signaling pathway
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457415
+  url: https://www.ncbi.nlm.nih.gov/gene/427941
 species: Gallus gallus
 symbol: PLXNA4
 title: PLXNA4
@@ -198,9 +194,8 @@ title: PLXNA4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000221866](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000221866) | [91584](https://www.ncbi.nlm.nih.gov/gene/91584) | [MIM:604280](https://omim.org/entry/604280) |  |
 | Mouse | [ENSMUSG00000029765](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029765) | [243743](https://www.ncbi.nlm.nih.gov/gene/243743) | [MGI:2179061](http://www.informatics.jax.org/marker/MGI:2179061) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100488871](https://www.ncbi.nlm.nih.gov/gene/100488871) | [856501](http://www.xenbase.org/gene/showgene.do?method=display&geneId=856501) |  |
-| Zebrafish | [ENSDARG00000019328](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019328) | [325938](https://www.ncbi.nlm.nih.gov/gene/325938) | [ZFIN:ZDB-GENE-030131-4663](https://zfin.org/ZDB-GENE-030131-4663) | ZDB-GENE-030131-4663 |
+| Xenopus | [ENSXETG00000011446](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011446) | [100488871](https://www.ncbi.nlm.nih.gov/gene/100488871) |  |  |
+| Zebrafish | [ENSDARG00000019328](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019328) | [325938](https://www.ncbi.nlm.nih.gov/gene/325938) | [ZFIN:ZDB-GENE-030131-4663](https://zfin.org/ZDB-GENE-030131-4663) | axon guidance, axonal defasciculation, morphogenesis of a branching structure, regulation of cell migration, semaphorin-plexin signaling pathway |
 

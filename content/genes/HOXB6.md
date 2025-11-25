@@ -19,7 +19,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:777548
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001236989
-gene_id: '467797'
+gene_id: '777548'
 gene_type: protein-coding
 images:
 - caption: HOXB6 expression
@@ -58,37 +58,33 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Bel-Vialar.2002-Hoxb6-fig6.jpg
 name: homeobox B6
-ncbi_id: '467797'
+ncbi_id: '777548'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000108511
+  entrez: '3216'
+  mod: MIM:142961
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000000690
+  entrez: '15414'
+  mod: MGI:96187
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000021987
+  entrez: '100124320'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000026513
+  entrez: '58053'
+  mod: ZFIN:ZDB-GENE-000823-7
+  phenotypes: anterior/posterior pattern specification, regulation of DNA-templated
+    transcription, regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467797
+  url: https://www.ncbi.nlm.nih.gov/gene/777548
 species: Gallus gallus
 symbol: HOXB6
 title: HOXB6
@@ -113,9 +109,8 @@ title: HOXB6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000108511](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000108511) | [3216](https://www.ncbi.nlm.nih.gov/gene/3216) | [MIM:142961](https://omim.org/entry/142961) |  |
+| Mouse | [ENSMUSG00000000690](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000690) | [15414](https://www.ncbi.nlm.nih.gov/gene/15414) | [MGI:96187](http://www.informatics.jax.org/marker/MGI:96187) |  |
+| Xenopus | [ENSXETG00000021987](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021987) | [100124320](https://www.ncbi.nlm.nih.gov/gene/100124320) |  |  |
+| Zebrafish | [ENSDARG00000026513](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026513) | [58053](https://www.ncbi.nlm.nih.gov/gene/58053) | [ZFIN:ZDB-GENE-000823-7](https://zfin.org/ZDB-GENE-000823-7) | anterior/posterior pattern specification, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

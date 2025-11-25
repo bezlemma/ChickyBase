@@ -4,8 +4,6 @@ aliases:
 - cNoggin, noggin, Noggin precursor
 cgnc_id: '2255'
 external_ids:
-  '13': stage 13
-  '4': stage 4stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0051216
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005576
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Sela-Donenfeld+2002+BMP4
@@ -17,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373912
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204123
-gene_id: '459378'
+gene_id: '373912'
 gene_type: protein-coding
 images:
 - caption: NOG expression
@@ -352,13 +350,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/noggin.Sela-Donenfeld.2002.Fig1.jpg
 name: noggin
-ncbi_id: '459378'
+ncbi_id: '373912'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000183691
   entrez: '9241'
   mod: MIM:602991
@@ -369,23 +362,25 @@ orthologs:
   mod: MGI:104327
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 493191,373646
-  mod: '487723'
+- ensembl: ENSXETG00000043161
+  entrez: '493191'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000053528,ENSDARG00000079003,ENSDARG00000058819
-  entrez: 100333103,30173,30174
-  mod: ZFIN:ZDB-GENE-990714-8,ZFIN:ZDB-GENE-991206-8
-  phenotypes: ZDB-GENE-990714-8,ZDB-GENE-991206-8
+- ensembl: ENSDARG00000058819
+  entrez: '30174'
+  mod: ZFIN:ZDB-GENE-991206-8
+  phenotypes: cartilage development, cell differentiation, dorsal/ventral pattern
+    formation, negative regulation of BMP signaling pathway, negative regulation of
+    cell differentiation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459378
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373912
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459378
+  url: https://www.ncbi.nlm.nih.gov/gene/373912
 species: Gallus gallus
 symbol: NOG
 title: NOG
@@ -413,9 +408,8 @@ title: NOG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000183691](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000183691) | [9241](https://www.ncbi.nlm.nih.gov/gene/9241) | [MIM:602991](https://omim.org/entry/602991) | MIM:611377 |
 | Mouse | [ENSMUSG00000048616](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048616) | [18121](https://www.ncbi.nlm.nih.gov/gene/18121) | [MGI:104327](http://www.informatics.jax.org/marker/MGI:104327) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [493191](https://www.ncbi.nlm.nih.gov/gene/493191), [373646](https://www.ncbi.nlm.nih.gov/gene/373646) | [487723](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487723) |  |
-| Zebrafish | [ENSDARG00000053528](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053528), [ENSDARG00000079003](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079003), [ENSDARG00000058819](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058819) | [100333103](https://www.ncbi.nlm.nih.gov/gene/100333103), [30173](https://www.ncbi.nlm.nih.gov/gene/30173), [30174](https://www.ncbi.nlm.nih.gov/gene/30174) | [ZFIN:ZDB-GENE-990714-8](https://zfin.org/ZDB-GENE-990714-8), [ZFIN:ZDB-GENE-991206-8](https://zfin.org/ZDB-GENE-991206-8) | ZDB-GENE-990714-8,ZDB-GENE-991206-8 |
+| Xenopus | [ENSXETG00000043161](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000043161) | [493191](https://www.ncbi.nlm.nih.gov/gene/493191) |  |  |
+| Zebrafish | [ENSDARG00000058819](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058819) | [30174](https://www.ncbi.nlm.nih.gov/gene/30174) | [ZFIN:ZDB-GENE-991206-8](https://zfin.org/ZDB-GENE-991206-8) | cartilage development, cell differentiation, dorsal/ventral pattern formation, negative regulation of BMP signaling pathway, negative regulation of cell differentiation |
 

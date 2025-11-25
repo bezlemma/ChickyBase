@@ -19,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005515
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001252221
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/THRB
-gene_id: '461039'
+gene_id: '396431'
 gene_type: protein-coding
 images:
 - caption: THRB expression
@@ -38,13 +38,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THSBeta.Murchow.2005.Fig.3.png
 name: thyroid hormone receptor beta
-ncbi_id: '461039'
+ncbi_id: '396431'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000151090
   entrez: '7068'
   mod: MIM:190160
@@ -55,20 +50,22 @@ orthologs:
   mod: MGI:98743
   phenotypes: All phenotypic alleles (14):Targeted, knock-out(3) Targeted, other(11)
   species: Mouse
-- ensembl: ''
-  entrez: 734147,779054,397734
-  mod: '6070708'
+- ensembl: ENSXETG00000003871
+  entrez: '734147'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000021163
   entrez: '30607'
   mod: ZFIN:ZDB-GENE-990415-268
-  phenotypes: ZDB-GENE-990415-268
+  phenotypes: camera-type eye development, cell development, cell differentiation,
+    inner ear development, negative regulation of transcription by RNA polymerase
+    II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461039
+  url: https://www.ncbi.nlm.nih.gov/gene/396431
 species: Gallus gallus
 symbol: THRB
 title: THRB
@@ -98,9 +95,8 @@ title: THRB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000151090](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000151090) | [7068](https://www.ncbi.nlm.nih.gov/gene/7068) | [MIM:190160](https://omim.org/entry/190160) | MIM:188570 |
 | Mouse | [ENSMUSG00000021779](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021779) | [21834](https://www.ncbi.nlm.nih.gov/gene/21834) | [MGI:98743](http://www.informatics.jax.org/marker/MGI:98743) | All phenotypic alleles (14):Targeted, knock-out(3) Targeted, other(11) |
-| Xenopus |  | [734147](https://www.ncbi.nlm.nih.gov/gene/734147), [779054](https://www.ncbi.nlm.nih.gov/gene/779054), [397734](https://www.ncbi.nlm.nih.gov/gene/397734) | [6070708](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6070708) |  |
-| Zebrafish | [ENSDARG00000021163](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021163) | [30607](https://www.ncbi.nlm.nih.gov/gene/30607) | [ZFIN:ZDB-GENE-990415-268](https://zfin.org/ZDB-GENE-990415-268) | ZDB-GENE-990415-268 |
+| Xenopus | [ENSXETG00000003871](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003871) | [734147](https://www.ncbi.nlm.nih.gov/gene/734147) |  |  |
+| Zebrafish | [ENSDARG00000021163](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021163) | [30607](https://www.ncbi.nlm.nih.gov/gene/30607) | [ZFIN:ZDB-GENE-990415-268](https://zfin.org/ZDB-GENE-990415-268) | camera-type eye development, cell development, cell differentiation, inner ear development, negative regulation of transcription by RNA polymerase II |
 

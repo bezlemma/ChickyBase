@@ -3,7 +3,6 @@ aliases:
 - protein ECT2
 cgnc_id: '6968'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0003041
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/38879
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/424983
@@ -11,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424983
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422790
 forward_primer: TCCTGTTCAAAGGTTGCCGAG
-gene_id: '448671'
+gene_id: '424983'
 gene_type: protein-coding
 images:
 - caption: ECT2 expression
@@ -157,13 +156,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R361.ECT2.S25.004.jpg
 name: epithelial cell transforming 2
-ncbi_id: '448671'
+ncbi_id: '424983'
 orthologs:
-- ensembl: ''
-  entrez: '38879'
-  mod: FBgn0003041
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000114346
   entrez: '1894'
   mod: MIM:600586
@@ -174,24 +168,25 @@ orthologs:
   mod: MGI:95281
   phenotypes: All phenotypic alleles (4):Targeted, other(3) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100127840,495132
-  mod: '998092'
+- ensembl: ENSXETG00000023596
+  entrez: '100127840'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000007278
   entrez: '445406'
   mod: ZFIN:ZDB-GENE-040831-2
-  phenotypes: ZDB-GENE-040831-2
+  phenotypes: cytokinetic process, intracellular signal transduction, mitotic cytokinesis,
+    nervous system development, positive regulation of GTPase activity
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAAATGCCCGCTAATGACGATG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448671
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424983
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448671
+  url: https://www.ncbi.nlm.nih.gov/gene/424983
 species: Gallus gallus
 symbol: ECT2
 template_length: '878'
@@ -215,9 +210,8 @@ title: ECT2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38879](https://www.ncbi.nlm.nih.gov/gene/38879) | FBgn0003041 |  |
 | Human | [ENSG00000114346](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000114346) | [1894](https://www.ncbi.nlm.nih.gov/gene/1894) | [MIM:600586](https://omim.org/entry/600586) |  |
 | Mouse | [ENSMUSG00000027699](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027699) | [13605](https://www.ncbi.nlm.nih.gov/gene/13605) | [MGI:95281](http://www.informatics.jax.org/marker/MGI:95281) | All phenotypic alleles (4):Targeted, other(3) Gene trapped(1) |
-| Xenopus |  | [100127840](https://www.ncbi.nlm.nih.gov/gene/100127840), [495132](https://www.ncbi.nlm.nih.gov/gene/495132) | [998092](http://www.xenbase.org/gene/showgene.do?method=display&geneId=998092) |  |
-| Zebrafish | [ENSDARG00000007278](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007278) | [445406](https://www.ncbi.nlm.nih.gov/gene/445406) | [ZFIN:ZDB-GENE-040831-2](https://zfin.org/ZDB-GENE-040831-2) | ZDB-GENE-040831-2 |
+| Xenopus | [ENSXETG00000023596](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023596) | [100127840](https://www.ncbi.nlm.nih.gov/gene/100127840) |  |  |
+| Zebrafish | [ENSDARG00000007278](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007278) | [445406](https://www.ncbi.nlm.nih.gov/gene/445406) | [ZFIN:ZDB-GENE-040831-2](https://zfin.org/ZDB-GENE-040831-2) | cytokinetic process, intracellular signal transduction, mitotic cytokinesis, nervous system development, positive regulation of GTPase activity |
 

@@ -23,7 +23,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205187
   X-XIV: stage XIII
-gene_id: '458726'
+gene_id: '396104'
 gene_type: protein-coding
 images:
 - caption: SOX11 expression
@@ -76,37 +76,33 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX11.Trevers.2023-Fig7-3-Q.jpg
 name: SRY-box 11
-ncbi_id: '458726'
+ncbi_id: '396104'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000176887
   entrez: '6664'
   mod: MIM:600898
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000063632
   entrez: '20666'
   mod: MGI:98359
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 493415,399440,100216330
-  mod: '483417'
+- ensembl: ENSXETG00000038964
+  entrez: '493415'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000077811,ENSDARG00000095743
-  entrez: 30602,30603
-  mod: ZFIN:ZDB-GENE-980526-395,ZFIN:ZDB-GENE-980526-466
-  phenotypes: ZDB-GENE-980526-395,ZDB-GENE-980526-466
+- ensembl: ENSDARG00000077811
+  entrez: '30602'
+  mod: ZFIN:ZDB-GENE-980526-395
+  phenotypes: brain development, camera-type eye morphogenesis, cell differentiation,
+    closure of optic fissure, lens development in camera-type eye
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458726
+  url: https://www.ncbi.nlm.nih.gov/gene/396104
 species: Gallus gallus
 symbol: SOX11
 title: SOX11
@@ -135,9 +131,8 @@ title: SOX11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000176887](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000176887) | [6664](https://www.ncbi.nlm.nih.gov/gene/6664) | [MIM:600898](https://omim.org/entry/600898) |  |
-| Mouse |  | [20666](https://www.ncbi.nlm.nih.gov/gene/20666) | [MGI:98359](http://www.informatics.jax.org/marker/MGI:98359) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [493415](https://www.ncbi.nlm.nih.gov/gene/493415), [399440](https://www.ncbi.nlm.nih.gov/gene/399440), [100216330](https://www.ncbi.nlm.nih.gov/gene/100216330) | [483417](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483417) |  |
-| Zebrafish | [ENSDARG00000077811](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077811), [ENSDARG00000095743](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000095743) | [30602](https://www.ncbi.nlm.nih.gov/gene/30602), [30603](https://www.ncbi.nlm.nih.gov/gene/30603) | [ZFIN:ZDB-GENE-980526-395](https://zfin.org/ZDB-GENE-980526-395), [ZFIN:ZDB-GENE-980526-466](https://zfin.org/ZDB-GENE-980526-466) | ZDB-GENE-980526-395,ZDB-GENE-980526-466 |
+| Mouse | [ENSMUSG00000063632](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000063632) | [20666](https://www.ncbi.nlm.nih.gov/gene/20666) | [MGI:98359](http://www.informatics.jax.org/marker/MGI:98359) | All phenotypic alleles (2):Targeted, other(2) |
+| Xenopus | [ENSXETG00000038964](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000038964) | [493415](https://www.ncbi.nlm.nih.gov/gene/493415) |  |  |
+| Zebrafish | [ENSDARG00000077811](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077811) | [30602](https://www.ncbi.nlm.nih.gov/gene/30602) | [ZFIN:ZDB-GENE-980526-395](https://zfin.org/ZDB-GENE-980526-395) | brain development, camera-type eye morphogenesis, cell differentiation, closure of optic fissure, lens development in camera-type eye |
 

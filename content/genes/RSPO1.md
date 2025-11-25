@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419613
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417760
 forward_primer: CGTTTGTGGTAAGAGGTCAGTGG
-gene_id: '457633'
+gene_id: '419613'
 gene_type: protein-coding
 images:
 - caption: RSPO1 expression
@@ -189,13 +189,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R447.RSP01.S27BB.001.jpg
 name: R-spondin 1
-ncbi_id: '457633'
+ncbi_id: '419613'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000169218
   entrez: '284654'
   mod: MIM:609595
@@ -206,24 +201,26 @@ orthologs:
   mod: MGI:2183426
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000030823
   entrez: '100158609'
-  mod: '5961054'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000039957
+- ensembl: ENSDARG00000104340
   entrez: '436625'
   mod: ZFIN:ZDB-GENE-040718-44
-  phenotypes: ZDB-GENE-040718-44
+  phenotypes: Wnt signaling pathway, angiogenesis, hematopoietic stem cell differentiation,
+    positive regulation of Wnt signaling pathway, positive regulation of canonical
+    Wnt signaling pathway
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGGCAGCAGGACTTGGTTTTATCAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457633
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419613
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457633
+  url: https://www.ncbi.nlm.nih.gov/gene/419613
 species: Gallus gallus
 symbol: RSPO1
 template_length: '933'
@@ -245,9 +242,8 @@ title: RSPO1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000169218](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169218) | [284654](https://www.ncbi.nlm.nih.gov/gene/284654) | [MIM:609595](https://omim.org/entry/609595) | MIM:610644 |
 | Mouse | [ENSMUSG00000028871](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028871) | [192199](https://www.ncbi.nlm.nih.gov/gene/192199) | [MGI:2183426](http://www.informatics.jax.org/marker/MGI:2183426) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100158609](https://www.ncbi.nlm.nih.gov/gene/100158609) | [5961054](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5961054) |  |
-| Zebrafish | [ENSDARG00000039957](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039957) | [436625](https://www.ncbi.nlm.nih.gov/gene/436625) | [ZFIN:ZDB-GENE-040718-44](https://zfin.org/ZDB-GENE-040718-44) | ZDB-GENE-040718-44 |
+| Xenopus | [ENSXETG00000030823](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000030823) | [100158609](https://www.ncbi.nlm.nih.gov/gene/100158609) |  |  |
+| Zebrafish | [ENSDARG00000104340](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104340) | [436625](https://www.ncbi.nlm.nih.gov/gene/436625) | [ZFIN:ZDB-GENE-040718-44](https://zfin.org/ZDB-GENE-040718-44) | Wnt signaling pathway, angiogenesis, hematopoietic stem cell differentiation, positive regulation of Wnt signaling pathway, positive regulation of canonical Wnt signaling pathway |
 

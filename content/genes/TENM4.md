@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395406
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425655
-gene_id: '449185'
+gene_id: '395406'
 gene_type: protein-coding
 images:
 - caption: TENM4 expression
@@ -38,37 +38,33 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TENM4.Anderson.2019.Fig2.jpg
 name: teneurin transmembrane protein 4
-ncbi_id: '449185'
+ncbi_id: '395406'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000149256
+  entrez: '26011'
+  mod: MIM:610084
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000048078
+  entrez: '23966'
+  mod: MGI:2447063
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000015288
+  entrez: '100124701'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000105088
+  entrez: '30156'
+  mod: ZFIN:ZDB-GENE-990714-20
+  phenotypes: axon guidance, cell differentiation, central nervous system myelin formation,
+    homophilic cell adhesion via plasma membrane adhesion molecules, neuron development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449185
+  url: https://www.ncbi.nlm.nih.gov/gene/395406
 species: Gallus gallus
 symbol: TENM4
 title: TENM4
@@ -94,9 +90,8 @@ title: TENM4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000149256](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000149256) | [26011](https://www.ncbi.nlm.nih.gov/gene/26011) | [MIM:610084](https://omim.org/entry/610084) |  |
+| Mouse | [ENSMUSG00000048078](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048078) | [23966](https://www.ncbi.nlm.nih.gov/gene/23966) | [MGI:2447063](http://www.informatics.jax.org/marker/MGI:2447063) |  |
+| Xenopus | [ENSXETG00000015288](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015288) | [100124701](https://www.ncbi.nlm.nih.gov/gene/100124701) |  |  |
+| Zebrafish | [ENSDARG00000105088](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000105088) | [30156](https://www.ncbi.nlm.nih.gov/gene/30156) | [ZFIN:ZDB-GENE-990714-20](https://zfin.org/ZDB-GENE-990714-20) | axon guidance, cell differentiation, central nervous system myelin formation, homophilic cell adhesion via plasma membrane adhesion molecules, neuron development |
 

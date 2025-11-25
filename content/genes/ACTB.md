@@ -6,7 +6,6 @@ aliases:
 - cytoplasmic 1
 cgnc_id: '49855'
 external_ids:
-  '13': stage 13stage 13
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0000047
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0070688
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Lin+2012+GAPDH+Redies
@@ -22,7 +21,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396526
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205518
-gene_id: '460344'
+gene_id: '396526'
 gene_type: protein-coding
 images:
 - caption: ACTB expression
@@ -259,13 +258,8 @@ images:
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.Lin.2012.J.ACTB.E14.jpg
 name: actin, beta
-ncbi_id: '460344'
+ncbi_id: '396526'
 orthologs:
-- ensembl: ''
-  entrez: '41885'
-  mod: FBgn0000047
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000075624
   entrez: '60'
   mod: MIM:102630
@@ -276,20 +270,15 @@ orthologs:
   mod: MGI:87904
   phenotypes: All phenotypic alleles (12):Targeted, knock-out(2) Targeted, other(10)
   species: Mouse
-- ensembl: ''
-  entrez: 407952,398459
-  mod: '490882'
+- ensembl: ENSXETG00000025116
+  entrez: '407952'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000037746,ENSDARG00000037870
-  entrez: 57934,57935
-  mod: ZFIN:ZDB-GENE-000329-1,ZFIN:ZDB-GENE-000329-3
-  phenotypes: ZDB-GENE-000329-1,ZDB-GENE-000329-3
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460344
+  url: https://www.ncbi.nlm.nih.gov/gene/396526
 species: Gallus gallus
 symbol: ACTB
 title: ACTB
@@ -319,9 +308,7 @@ title: ACTB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41885](https://www.ncbi.nlm.nih.gov/gene/41885) | FBgn0000047 |  |
 | Human | [ENSG00000075624](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000075624) | [60](https://www.ncbi.nlm.nih.gov/gene/60) | [MIM:102630](https://omim.org/entry/102630) | MIM:607371 |
 | Mouse | [ENSMUSG00000029580](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029580) | [11461](https://www.ncbi.nlm.nih.gov/gene/11461) | [MGI:87904](http://www.informatics.jax.org/marker/MGI:87904) | All phenotypic alleles (12):Targeted, knock-out(2) Targeted, other(10) |
-| Xenopus |  | [407952](https://www.ncbi.nlm.nih.gov/gene/407952), [398459](https://www.ncbi.nlm.nih.gov/gene/398459) | [490882](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490882) |  |
-| Zebrafish | [ENSDARG00000037746](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037746), [ENSDARG00000037870](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037870) | [57934](https://www.ncbi.nlm.nih.gov/gene/57934), [57935](https://www.ncbi.nlm.nih.gov/gene/57935) | [ZFIN:ZDB-GENE-000329-1](https://zfin.org/ZDB-GENE-000329-1), [ZFIN:ZDB-GENE-000329-3](https://zfin.org/ZDB-GENE-000329-3) | ZDB-GENE-000329-1,ZDB-GENE-000329-3 |
+| Xenopus | [ENSXETG00000025116](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025116) | [407952](https://www.ncbi.nlm.nih.gov/gene/407952) |  |  |
 

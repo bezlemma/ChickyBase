@@ -20,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395765
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005179
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204925
-gene_id: '450344'
+gene_id: '395765'
 gene_type: protein-coding
 images:
 - caption: NPPA expression
@@ -222,7 +222,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NPPA.Anderson.2019.Supplementary
     figure 4B.jpg
 name: natriuretic peptide A
-ncbi_id: '450344'
+ncbi_id: '395765'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -252,7 +252,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450344
+  url: https://www.ncbi.nlm.nih.gov/gene/395765
 species: Gallus gallus
 symbol: NPPA
 title: NPPA

@@ -3,13 +3,12 @@ aliases:
 - microRNA mir-203, mir-203
 cgnc_id: '59115'
 external_ids:
-  '25': stage 25
   Comments: ubiquitous after stage 15, no expression detected at stage 5
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018329
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NC_006097
-gene_id: '467955'
+gene_id: '777818'
 gene_type: miscRNA
 images:
 - caption: MIR203A expression
@@ -27,7 +26,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/203.7.st25.jpg
 name: microRNA 203a
-ncbi_id: '467955'
+ncbi_id: '777818'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -57,10 +56,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467955
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777818
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467955
+  url: https://www.ncbi.nlm.nih.gov/gene/777818
 species: Gallus gallus
 symbol: MIR203A
 title: MIR203A

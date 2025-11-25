@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100316920
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001168709
-gene_id: '450502'
+gene_id: '100316920'
 gene_type: protein-coding
 images:
 - caption: OSR1 expression
@@ -220,37 +220,34 @@ images:
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OSR1.FIG2GJ.WILM.2004.jpg
 name: odd-skipped related transciption factor 1
-ncbi_id: '450502'
+ncbi_id: '100316920'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000143867
+  entrez: '130497'
+  mod: MIM:608891
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000048387
+  entrez: '23967'
+  mod: MGI:1344424
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000036783
+  entrez: '493408'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000014091
+  entrez: '450059'
+  mod: ZFIN:ZDB-GENE-070321-1
+  phenotypes: angioblast cell differentiation, intermediate mesoderm development,
+    kidney development, mesendoderm development, negative regulation of DNA-templated
+    transcription
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450502
+  url: https://www.ncbi.nlm.nih.gov/gene/100316920
 species: Gallus gallus
 symbol: OSR1
 title: OSR1
@@ -276,9 +273,8 @@ title: OSR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000143867](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143867) | [130497](https://www.ncbi.nlm.nih.gov/gene/130497) | [MIM:608891](https://omim.org/entry/608891) |  |
+| Mouse | [ENSMUSG00000048387](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048387) | [23967](https://www.ncbi.nlm.nih.gov/gene/23967) | [MGI:1344424](http://www.informatics.jax.org/marker/MGI:1344424) |  |
+| Xenopus | [ENSXETG00000036783](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000036783) | [493408](https://www.ncbi.nlm.nih.gov/gene/493408) |  |  |
+| Zebrafish | [ENSDARG00000014091](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014091) | [450059](https://www.ncbi.nlm.nih.gov/gene/450059) | [ZFIN:ZDB-GENE-070321-1](https://zfin.org/ZDB-GENE-070321-1) | angioblast cell differentiation, intermediate mesoderm development, kidney development, mesendoderm development, negative regulation of DNA-templated transcription |
 

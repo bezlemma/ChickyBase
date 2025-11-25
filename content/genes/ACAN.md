@@ -22,7 +22,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204955
 forward_primer: GACCATCTGCTTTTCCTCCAGC
-gene_id: '450406'
+gene_id: '395798'
 gene_type: protein-coding
 images:
 - caption: ACAN expression
@@ -339,7 +339,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Aggrecan.Yakushiji-Kaminatsui.2018.Fig1.jpg
 name: aggrecan
-ncbi_id: '450406'
+ncbi_id: '395798'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -364,16 +364,16 @@ orthologs:
 - ensembl: ENSDARG00000045799
   entrez: 559593,497505
   mod: ZFIN:ZDB-GENE-100422-16,ZFIN:ZDB-GENE-050208-221,ZFIN:ZDB-GENE-100422-16
-  phenotypes: ZDB-GENE-100422-16,ZDB-GENE-050208-221,ZDB-GENE-100422-16
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAGACCTCACCACTTCCATCAACAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450406
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395798
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450406
+  url: https://www.ncbi.nlm.nih.gov/gene/395798
 species: Gallus gallus
 symbol: ACAN
 template_length: '960'
@@ -407,5 +407,5 @@ title: ACAN
 | Human |  |  |  |  |
 | Mouse | [ENSMUSG00000030607](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030607) | [11595](https://www.ncbi.nlm.nih.gov/gene/11595) | [MGI:99602](http://www.informatics.jax.org/marker/MGI:99602) | All phenotypic alleles (7):Spontaneous(2) Targeted, other(5) |
 | Xenopus |  | [100491091](https://www.ncbi.nlm.nih.gov/gene/100491091) | [921493](http://www.xenbase.org/gene/showgene.do?method=display&geneId=921493) |  |
-| Zebrafish | [ENSDARG00000045799](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045799) | [559593](https://www.ncbi.nlm.nih.gov/gene/559593), [497505](https://www.ncbi.nlm.nih.gov/gene/497505) | [ZFIN:ZDB-GENE-100422-16](https://zfin.org/ZDB-GENE-100422-16), [ZFIN:ZDB-GENE-050208-221](https://zfin.org/ZDB-GENE-050208-221), [ZFIN:ZDB-GENE-100422-16](https://zfin.org/ZDB-GENE-100422-16) | ZDB-GENE-100422-16,ZDB-GENE-050208-221,ZDB-GENE-100422-16 |
+| Zebrafish | [ENSDARG00000045799](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045799) | [559593](https://www.ncbi.nlm.nih.gov/gene/559593), [497505](https://www.ncbi.nlm.nih.gov/gene/497505) | [ZFIN:ZDB-GENE-100422-16](https://zfin.org/ZDB-GENE-100422-16), [ZFIN:ZDB-GENE-050208-221](https://zfin.org/ZDB-GENE-050208-221), [ZFIN:ZDB-GENE-100422-16](https://zfin.org/ZDB-GENE-100422-16) |  |
 

@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:404747
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_213572
 forward_primer: 5’-GTTTGAAGAATACGCCACAG-3’
-gene_id: '462444'
+gene_id: '404747'
 gene_type: protein-coding
 images:
 - caption: SLC6A4 expression
@@ -55,13 +55,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R709.SLC6A4.S26.001.jpg
 name: solute carrier family 6 member 4
-ncbi_id: '462444'
+ncbi_id: '404747'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000108576
   entrez: '6532'
   mod: MIM:182138
@@ -73,24 +68,25 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(4)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: '100496361'
-  mod: '981143'
+- ensembl: ENSXETG00000023265
+  entrez: '100493853'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000061165,ENSDARG00000057017
-  entrez: 664719,664770
-  mod: ZFIN:ZDB-GENE-060314-1,ZFIN:ZDB-GENE-060314-2
-  phenotypes: ZDB-GENE-060314-1,ZDB-GENE-060314-2
+- ensembl: ENSDARG00000061165
+  entrez: '664719'
+  mod: ZFIN:ZDB-GENE-060314-1
+  phenotypes: amino acid transport, serotonin transport, serotonin uptake, sodium
+    ion transmembrane transport
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCATCCCATTATCTCAGCTGG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462444
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=404747
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462444
+  url: https://www.ncbi.nlm.nih.gov/gene/404747
 species: Gallus gallus
 symbol: SLC6A4
 template_length: '508'
@@ -113,9 +109,8 @@ title: SLC6A4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000108576](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000108576) | [6532](https://www.ncbi.nlm.nih.gov/gene/6532) | [MIM:182138](https://omim.org/entry/182138) | MIM:607834 |
 | Mouse | [ENSMUSG00000020838](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020838) | [15567](https://www.ncbi.nlm.nih.gov/gene/15567) | [MGI:96285](http://www.informatics.jax.org/marker/MGI:96285) | All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(4) Gene trapped(1) |
-| Xenopus |  | [100496361](https://www.ncbi.nlm.nih.gov/gene/100496361) | [981143](http://www.xenbase.org/gene/showgene.do?method=display&geneId=981143) |  |
-| Zebrafish | [ENSDARG00000061165](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061165), [ENSDARG00000057017](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057017) | [664719](https://www.ncbi.nlm.nih.gov/gene/664719), [664770](https://www.ncbi.nlm.nih.gov/gene/664770) | [ZFIN:ZDB-GENE-060314-1](https://zfin.org/ZDB-GENE-060314-1), [ZFIN:ZDB-GENE-060314-2](https://zfin.org/ZDB-GENE-060314-2) | ZDB-GENE-060314-1,ZDB-GENE-060314-2 |
+| Xenopus | [ENSXETG00000023265](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023265) | [100493853](https://www.ncbi.nlm.nih.gov/gene/100493853) |  |  |
+| Zebrafish | [ENSDARG00000061165](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061165) | [664719](https://www.ncbi.nlm.nih.gov/gene/664719) | [ZFIN:ZDB-GENE-060314-1](https://zfin.org/ZDB-GENE-060314-1) | amino acid transport, serotonin transport, serotonin uptake, sodium ion transmembrane transport |
 

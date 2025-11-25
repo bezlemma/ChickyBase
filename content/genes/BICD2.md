@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415990
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414332
 forward_primer: GGCAAGAACAATACATCAACCCC
-gene_id: '458766'
+gene_id: '415990'
 gene_type: protein-coding
 images:
 - caption: BICD2 expression
@@ -186,13 +186,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R541.BICD2.S24V.001.jpg
 name: BICD cargo adaptor 2
-ncbi_id: '458766'
+ncbi_id: '415990'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000185963
   entrez: '23299'
   mod: MIM:609797
@@ -203,24 +198,25 @@ orthologs:
   mod: MGI:1924145
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100327237,734304
-  mod: '995876'
+- ensembl: ENSXETG00000034175
+  entrez: '100490789'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000075571
-  entrez: 100332223,557383
+  entrez: '557383'
   mod: ZFIN:ZDB-GENE-120717-1
-  phenotypes: ZDB-GENE-120717-1
+  phenotypes: heart contraction, microtubule anchoring at microtubule organizing center,
+    protein localization to organelle, regulation of microtubule cytoskeleton organization
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCAGCAAGGACTTCAACTTCAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458766
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415990
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458766
+  url: https://www.ncbi.nlm.nih.gov/gene/415990
 species: Gallus gallus
 symbol: BICD2
 template_length: '1090'
@@ -242,9 +238,8 @@ title: BICD2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000185963](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185963) | [23299](https://www.ncbi.nlm.nih.gov/gene/23299) | [MIM:609797](https://omim.org/entry/609797) |  |
 | Mouse | [ENSMUSG00000037933](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037933) | [76895](https://www.ncbi.nlm.nih.gov/gene/76895) | [MGI:1924145](http://www.informatics.jax.org/marker/MGI:1924145) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100327237](https://www.ncbi.nlm.nih.gov/gene/100327237), [734304](https://www.ncbi.nlm.nih.gov/gene/734304) | [995876](http://www.xenbase.org/gene/showgene.do?method=display&geneId=995876) |  |
-| Zebrafish | [ENSDARG00000075571](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075571) | [100332223](https://www.ncbi.nlm.nih.gov/gene/100332223), [557383](https://www.ncbi.nlm.nih.gov/gene/557383) | [ZFIN:ZDB-GENE-120717-1](https://zfin.org/ZDB-GENE-120717-1) | ZDB-GENE-120717-1 |
+| Xenopus | [ENSXETG00000034175](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034175) | [100490789](https://www.ncbi.nlm.nih.gov/gene/100490789) |  |  |
+| Zebrafish | [ENSDARG00000075571](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075571) | [557383](https://www.ncbi.nlm.nih.gov/gene/557383) | [ZFIN:ZDB-GENE-120717-1](https://zfin.org/ZDB-GENE-120717-1) | heart contraction, microtubule anchoring at microtubule organizing center, protein localization to organelle, regulation of microtubule cytoskeleton organization |
 

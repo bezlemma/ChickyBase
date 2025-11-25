@@ -20,7 +20,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205068
   X-XIV: stage XII
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/GBX2
-gene_id: '350067'
+gene_id: '395950'
 gene_type: protein-coding
 images:
 - caption: GBX2 expression
@@ -487,37 +487,33 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GBX2.Travers.2023-Fig7-1-U.jpg
 name: gastrulation brain homeobox 2
-ncbi_id: '350067'
+ncbi_id: '395950'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000168505
   entrez: '2637'
   mod: MIM:601135
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000034486
   entrez: '14472'
   mod: MGI:95668
   phenotypes: All phenotypic alleles (9):Targeted, knock-out(1) Targeted, other(8)
   species: Mouse
-- ensembl: ''
-  entrez: 100485559,399181
-  mod: '855770'
+- ensembl: ENSXETG00000003290
+  entrez: '100485559'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000002933
+- ensembl: ENSDARG00000116377
   entrez: '245948'
   mod: ZFIN:ZDB-GENE-020509-2
-  phenotypes: ZDB-GENE-020509-2
+  phenotypes: cerebellum development, hindbrain development, iridophore differentiation,
+    regulation of DNA-templated transcription, regulation of nervous system development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/350067
+  url: https://www.ncbi.nlm.nih.gov/gene/395950
 species: Gallus gallus
 symbol: GBX2
 title: GBX2
@@ -547,9 +543,8 @@ title: GBX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000168505](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000168505) | [2637](https://www.ncbi.nlm.nih.gov/gene/2637) | [MIM:601135](https://omim.org/entry/601135) |  |
-| Mouse |  | [14472](https://www.ncbi.nlm.nih.gov/gene/14472) | [MGI:95668](http://www.informatics.jax.org/marker/MGI:95668) | All phenotypic alleles (9):Targeted, knock-out(1) Targeted, other(8) |
-| Xenopus |  | [100485559](https://www.ncbi.nlm.nih.gov/gene/100485559), [399181](https://www.ncbi.nlm.nih.gov/gene/399181) | [855770](http://www.xenbase.org/gene/showgene.do?method=display&geneId=855770) |  |
-| Zebrafish | [ENSDARG00000002933](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002933) | [245948](https://www.ncbi.nlm.nih.gov/gene/245948) | [ZFIN:ZDB-GENE-020509-2](https://zfin.org/ZDB-GENE-020509-2) | ZDB-GENE-020509-2 |
+| Mouse | [ENSMUSG00000034486](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034486) | [14472](https://www.ncbi.nlm.nih.gov/gene/14472) | [MGI:95668](http://www.informatics.jax.org/marker/MGI:95668) | All phenotypic alleles (9):Targeted, knock-out(1) Targeted, other(8) |
+| Xenopus | [ENSXETG00000003290](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003290) | [100485559](https://www.ncbi.nlm.nih.gov/gene/100485559) |  |  |
+| Zebrafish | [ENSDARG00000116377](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116377) | [245948](https://www.ncbi.nlm.nih.gov/gene/245948) | [ZFIN:ZDB-GENE-020509-2](https://zfin.org/ZDB-GENE-020509-2) | cerebellum development, hindbrain development, iridophore differentiation, regulation of DNA-templated transcription, regulation of nervous system development |
 

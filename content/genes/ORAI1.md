@@ -15,7 +15,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0015279
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030658
 forward_primer: 5’-GGTGGCCATGGTAGAAGTTCA-3’
-gene_id: '461418'
+gene_id: '416845'
 gene_type: protein-coding
 images:
 - caption: ORAI1 expression
@@ -76,14 +76,9 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R634.ORAZ1.S27AA.001.jpg
 name: ORAI calcium release-activated calcium modulator 1
-ncbi_id: '461418'
+ncbi_id: '416845'
 orthologs:
-- ensembl: ''
-  entrez: '37040'
-  mod: FBgn0041585
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000293604
   entrez: '84876'
   mod: MIM:610277
   phenotypes: MIM:612782
@@ -94,24 +89,25 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(3)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100125061,403390
-  mod: '962825'
+- ensembl: ENSXETG00000043670
+  entrez: '100380109'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000011515,ENSDARG00000004154
-  entrez: 566671,402892
-  mod: ZFIN:ZDB-GENE-050522-100,ZFIN:ZDB-GENE-110721-1
-  phenotypes: ZDB-GENE-050522-100,ZDB-GENE-110721-1
+- ensembl: ENSDARG00000011515
+  entrez: '566671'
+  mod: ZFIN:ZDB-GENE-110721-1
+  phenotypes: adaptive immune response, calcium ion transmembrane transport, calcium
+    ion transport, immune system process, monoatomic ion transmembrane transport
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGATGGGTAACAGCTGGGGAGA-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461418
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416845
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461418
+  url: https://www.ncbi.nlm.nih.gov/gene/416845
 species: Gallus gallus
 symbol: ORAI1
 template_length: '559'
@@ -139,9 +135,8 @@ title: ORAI1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [37040](https://www.ncbi.nlm.nih.gov/gene/37040) | FBgn0041585 |  |
-| Human |  | [84876](https://www.ncbi.nlm.nih.gov/gene/84876) | [MIM:610277](https://omim.org/entry/610277) | MIM:612782 |
+| Human | [ENSG00000293604](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000293604) | [84876](https://www.ncbi.nlm.nih.gov/gene/84876) | [MIM:610277](https://omim.org/entry/610277) | MIM:612782 |
 | Mouse | [ENSMUSG00000049686](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049686) | [109305](https://www.ncbi.nlm.nih.gov/gene/109305) | [MGI:1925542](http://www.informatics.jax.org/marker/MGI:1925542) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(3) Gene trapped(1) |
-| Xenopus |  | [100125061](https://www.ncbi.nlm.nih.gov/gene/100125061), [403390](https://www.ncbi.nlm.nih.gov/gene/403390) | [962825](http://www.xenbase.org/gene/showgene.do?method=display&geneId=962825) |  |
-| Zebrafish | [ENSDARG00000011515](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011515), [ENSDARG00000004154](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004154) | [566671](https://www.ncbi.nlm.nih.gov/gene/566671), [402892](https://www.ncbi.nlm.nih.gov/gene/402892) | [ZFIN:ZDB-GENE-050522-100](https://zfin.org/ZDB-GENE-050522-100), [ZFIN:ZDB-GENE-110721-1](https://zfin.org/ZDB-GENE-110721-1) | ZDB-GENE-050522-100,ZDB-GENE-110721-1 |
+| Xenopus | [ENSXETG00000043670](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000043670) | [100380109](https://www.ncbi.nlm.nih.gov/gene/100380109) |  |  |
+| Zebrafish | [ENSDARG00000011515](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011515) | [566671](https://www.ncbi.nlm.nih.gov/gene/566671) | [ZFIN:ZDB-GENE-110721-1](https://zfin.org/ZDB-GENE-110721-1) | adaptive immune response, calcium ion transmembrane transport, calcium ion transport, immune system process, monoatomic ion transmembrane transport |
 

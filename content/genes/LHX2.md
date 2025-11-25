@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395705
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204889
-gene_id: '449818'
+gene_id: '395705'
 gene_type: protein-coding
 images:
 - caption: LHX2 expression
@@ -351,13 +351,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LHX2.Anderson.2019.Supplementary
     figure 4K.jpg
 name: LIM homeobox 2
-ncbi_id: '449818'
+ncbi_id: '395705'
 orthologs:
-- ensembl: ''
-  entrez: '35509'
-  mod: FBgn0000099
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000106689
   entrez: '9355'
   mod: MIM:603759
@@ -368,23 +363,24 @@ orthologs:
   mod: MGI:96785
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100486746,378634,378635
-  mod: '490330'
+- ensembl: ENSXETG00000020776
+  entrez: '100486746'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000031222
-  entrez: 791744,795283
-  mod: ZFIN:ZDB-GENE-051220-1,ZFIN:ZDB-GENE-091118-109
-  phenotypes: ZDB-GENE-051220-1,ZDB-GENE-091118-109
+  entrez: '791744'
+  mod: ZFIN:ZDB-GENE-051220-1
+  phenotypes: axon guidance, brain development, camera-type eye development, forebrain
+    development, neuron differentiation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449818
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395705
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449818
+  url: https://www.ncbi.nlm.nih.gov/gene/395705
 species: Gallus gallus
 symbol: LHX2
 title: LHX2
@@ -412,9 +408,8 @@ title: LHX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35509](https://www.ncbi.nlm.nih.gov/gene/35509) | FBgn0000099 |  |
 | Human | [ENSG00000106689](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000106689) | [9355](https://www.ncbi.nlm.nih.gov/gene/9355) | [MIM:603759](https://omim.org/entry/603759) |  |
 | Mouse | [ENSMUSG00000000247](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000247) | [16870](https://www.ncbi.nlm.nih.gov/gene/16870) | [MGI:96785](http://www.informatics.jax.org/marker/MGI:96785) | All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5) |
-| Xenopus |  | [100486746](https://www.ncbi.nlm.nih.gov/gene/100486746), [378634](https://www.ncbi.nlm.nih.gov/gene/378634), [378635](https://www.ncbi.nlm.nih.gov/gene/378635) | [490330](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490330) |  |
-| Zebrafish | [ENSDARG00000031222](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031222) | [791744](https://www.ncbi.nlm.nih.gov/gene/791744), [795283](https://www.ncbi.nlm.nih.gov/gene/795283) | [ZFIN:ZDB-GENE-051220-1](https://zfin.org/ZDB-GENE-051220-1), [ZFIN:ZDB-GENE-091118-109](https://zfin.org/ZDB-GENE-091118-109) | ZDB-GENE-051220-1,ZDB-GENE-091118-109 |
+| Xenopus | [ENSXETG00000020776](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020776) | [100486746](https://www.ncbi.nlm.nih.gov/gene/100486746) |  |  |
+| Zebrafish | [ENSDARG00000031222](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031222) | [791744](https://www.ncbi.nlm.nih.gov/gene/791744) | [ZFIN:ZDB-GENE-051220-1](https://zfin.org/ZDB-GENE-051220-1) | axon guidance, brain development, camera-type eye development, forebrain development, neuron differentiation |
 

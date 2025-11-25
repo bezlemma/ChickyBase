@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771230
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234522
-gene_id: '448891'
+gene_id: '771230'
 gene_type: protein-coding
 images:
 - caption: ERN2 expression
@@ -132,37 +132,22 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/fig8b-1.jpg
 name: endoplasmic reticulum to nucleus signaling 2
-ncbi_id: '448891'
+ncbi_id: '771230'
 orthologs:
-- ensembl: ''
-  entrez: '42358'
-  mod: FBgn0261984
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: '2081'
-  mod: MIM:604033
+- ensembl: ENSG00000134398
+  entrez: '10595'
+  mod: MIM:604034
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: '78943'
-  mod: MGI:1930134
+- ensembl: ENSMUSG00000030866
+  entrez: '26918'
+  mod: MGI:1349436
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 779732,444075
-  mod: 6049122,4594133
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000058475
-  entrez: 567021,553551
-  mod: ZFIN:ZDB-GENE-090312-15,ZFIN:ZDB-GENE-050522-431
-  phenotypes: ZDB-GENE-090312-15,ZDB-GENE-050522-431
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448891
+  url: https://www.ncbi.nlm.nih.gov/gene/771230
 species: Gallus gallus
 symbol: ERN2
 title: ERN2
@@ -191,9 +176,6 @@ Copyright © (2002) Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42358](https://www.ncbi.nlm.nih.gov/gene/42358) | FBgn0261984 |  |
-| Human |  | [2081](https://www.ncbi.nlm.nih.gov/gene/2081) | [MIM:604033](https://omim.org/entry/604033) |  |
-| Mouse |  | [78943](https://www.ncbi.nlm.nih.gov/gene/78943) | [MGI:1930134](http://www.informatics.jax.org/marker/MGI:1930134) | All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2) |
-| Xenopus |  | [779732](https://www.ncbi.nlm.nih.gov/gene/779732), [444075](https://www.ncbi.nlm.nih.gov/gene/444075) | [6049122](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6049122), [4594133](http://www.xenbase.org/gene/showgene.do?method=display&geneId=4594133) |  |
-| Zebrafish | [ENSDARG00000058475](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058475) | [567021](https://www.ncbi.nlm.nih.gov/gene/567021), [553551](https://www.ncbi.nlm.nih.gov/gene/553551) | [ZFIN:ZDB-GENE-090312-15](https://zfin.org/ZDB-GENE-090312-15), [ZFIN:ZDB-GENE-050522-431](https://zfin.org/ZDB-GENE-050522-431) | ZDB-GENE-090312-15,ZDB-GENE-050522-431 |
+| Human | [ENSG00000134398](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134398) | [10595](https://www.ncbi.nlm.nih.gov/gene/10595) | [MIM:604034](https://omim.org/entry/604034) |  |
+| Mouse | [ENSMUSG00000030866](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030866) | [26918](https://www.ncbi.nlm.nih.gov/gene/26918) | [MGI:1349436](http://www.informatics.jax.org/marker/MGI:1349436) | All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2) |
 

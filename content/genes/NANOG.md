@@ -5,7 +5,6 @@ aliases:
 - homeobox transcription factor Nanog
 cgnc_id: '59260'
 external_ids:
-  '25': stage 25
   Citation: https://pubmed.ncbi.nlm.nih.gov/29877574/
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (NM_001146142).
@@ -17,7 +16,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001146142
   X-XIV: stage XII
 forward_primer: CAGCAGCAGACCTCTCCTTGAC
-gene_id: '363858'
+gene_id: '100272166'
 gene_type: protein-coding
 images:
 - caption: NANOG expression
@@ -420,7 +419,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NANOG.Trevers.2023-Fig7-7-C.jpg
 name: Nanog homeobox
-ncbi_id: '363858'
+ncbi_id: '100272166'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -451,10 +450,10 @@ reverse_primer: AATTAACCCTCACTAAAGCCAAAGAAGCCCTCATCCTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=363858
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100272166
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/363858
+  url: https://www.ncbi.nlm.nih.gov/gene/100272166
 species: Gallus gallus
 symbol: NANOG
 template_length: '595'

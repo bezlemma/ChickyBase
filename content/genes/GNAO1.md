@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415698
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277550
-gene_id: '462164'
+gene_id: '415698'
 gene_type: protein-coding
 images:
 - caption: GNAO1 expression
@@ -77,13 +77,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/pgp1n3d11.103.23.jpg
 name: G protein subunit alpha o1
-ncbi_id: '462164'
+ncbi_id: '415698'
 orthologs:
-- ensembl: ''
-  entrez: '36104'
-  mod: FBgn0001122
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000087258
   entrez: '2775'
   mod: MIM:139311
@@ -94,23 +89,25 @@ orthologs:
   mod: MGI:95775
   phenotypes: All phenotypic alleles (11):Targeted, knock-out(4) Targeted, other(7)
   species: Mouse
-- ensembl: ''
-  entrez: 549749,394423
-  mod: '921634'
+- ensembl: ENSXETG00000020022
+  entrez: '549749'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000016676,ENSDARG00000036058
-  entrez: 393760,393801
-  mod: ZFIN:ZDB-GENE-040426-1757,ZFIN:ZDB-GENE-040426-1693
-  phenotypes: ZDB-GENE-040426-1757,ZDB-GENE-040426-1693
+- ensembl: ENSDARG00000016676
+  entrez: '393760'
+  mod: ZFIN:ZDB-GENE-040426-1757
+  phenotypes: G protein-coupled dopamine receptor signaling pathway, G protein-coupled
+    receptor signaling pathway, adenylate cyclase-modulating G protein-coupled receptor
+    signaling pathway, signal transduction
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462164
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415698
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462164
+  url: https://www.ncbi.nlm.nih.gov/gene/415698
 species: Gallus gallus
 symbol: GNAO1
 title: GNAO1
@@ -135,9 +132,8 @@ title: GNAO1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36104](https://www.ncbi.nlm.nih.gov/gene/36104) | FBgn0001122 |  |
 | Human | [ENSG00000087258](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000087258) | [2775](https://www.ncbi.nlm.nih.gov/gene/2775) | [MIM:139311](https://omim.org/entry/139311) |  |
 | Mouse | [ENSMUSG00000031748](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031748) | [14681](https://www.ncbi.nlm.nih.gov/gene/14681) | [MGI:95775](http://www.informatics.jax.org/marker/MGI:95775) | All phenotypic alleles (11):Targeted, knock-out(4) Targeted, other(7) |
-| Xenopus |  | [549749](https://www.ncbi.nlm.nih.gov/gene/549749), [394423](https://www.ncbi.nlm.nih.gov/gene/394423) | [921634](http://www.xenbase.org/gene/showgene.do?method=display&geneId=921634) |  |
-| Zebrafish | [ENSDARG00000016676](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016676), [ENSDARG00000036058](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036058) | [393760](https://www.ncbi.nlm.nih.gov/gene/393760), [393801](https://www.ncbi.nlm.nih.gov/gene/393801) | [ZFIN:ZDB-GENE-040426-1757](https://zfin.org/ZDB-GENE-040426-1757), [ZFIN:ZDB-GENE-040426-1693](https://zfin.org/ZDB-GENE-040426-1693) | ZDB-GENE-040426-1757,ZDB-GENE-040426-1693 |
+| Xenopus | [ENSXETG00000020022](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020022) | [549749](https://www.ncbi.nlm.nih.gov/gene/549749) |  |  |
+| Zebrafish | [ENSDARG00000016676](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016676) | [393760](https://www.ncbi.nlm.nih.gov/gene/393760) | [ZFIN:ZDB-GENE-040426-1757](https://zfin.org/ZDB-GENE-040426-1757) | G protein-coupled dopamine receptor signaling pathway, G protein-coupled receptor signaling pathway, adenylate cyclase-modulating G protein-coupled receptor signaling pathway, signal transduction |
 

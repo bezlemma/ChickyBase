@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395941
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030370
-gene_id: '450501'
+gene_id: '395941'
 gene_type: protein-coding
 images:
 - caption: HGF expression
@@ -40,13 +40,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2A.Bonafede.2006.jpg
 name: hepatocyte growth factor
-ncbi_id: '450501'
+ncbi_id: '395941'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000019991
   entrez: '3082'
   mod: MIM:142409
@@ -57,20 +52,22 @@ orthologs:
   mod: MGI:96079
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000007872
   entrez: '100495840'
-  mod: '999991'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000045544
-  entrez: 493781,493782
-  mod: ZFIN:ZDB-GENE-041014-2,ZFIN:ZDB-GENE-041014-3
-  phenotypes: ZDB-GENE-041014-2,ZDB-GENE-041014-3
+  entrez: '493781'
+  mod: ZFIN:ZDB-GENE-041014-2
+  phenotypes: central nervous system neuron differentiation, cerebellar granule cell
+    differentiation, cerebellum development, cerebellum morphogenesis, cranial nerve
+    formation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450501
+  url: https://www.ncbi.nlm.nih.gov/gene/395941
 species: Gallus gallus
 symbol: HGF
 title: HGF
@@ -96,9 +93,8 @@ title: HGF
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000019991](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000019991) | [3082](https://www.ncbi.nlm.nih.gov/gene/3082) | [MIM:142409](https://omim.org/entry/142409) | MIM:608265 |
 | Mouse | [ENSMUSG00000028864](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028864) | [15234](https://www.ncbi.nlm.nih.gov/gene/15234) | [MGI:96079](http://www.informatics.jax.org/marker/MGI:96079) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100495840](https://www.ncbi.nlm.nih.gov/gene/100495840) | [999991](http://www.xenbase.org/gene/showgene.do?method=display&geneId=999991) |  |
-| Zebrafish | [ENSDARG00000045544](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045544) | [493781](https://www.ncbi.nlm.nih.gov/gene/493781), [493782](https://www.ncbi.nlm.nih.gov/gene/493782) | [ZFIN:ZDB-GENE-041014-2](https://zfin.org/ZDB-GENE-041014-2), [ZFIN:ZDB-GENE-041014-3](https://zfin.org/ZDB-GENE-041014-3) | ZDB-GENE-041014-2,ZDB-GENE-041014-3 |
+| Xenopus | [ENSXETG00000007872](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007872) | [100495840](https://www.ncbi.nlm.nih.gov/gene/100495840) |  |  |
+| Zebrafish | [ENSDARG00000045544](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045544) | [493781](https://www.ncbi.nlm.nih.gov/gene/493781) | [ZFIN:ZDB-GENE-041014-2](https://zfin.org/ZDB-GENE-041014-2) | central nervous system neuron differentiation, cerebellar granule cell differentiation, cerebellum development, cerebellum morphogenesis, cranial nerve formation |
 

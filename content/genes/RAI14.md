@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427431
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425003
-gene_id: '455824'
+gene_id: '427431'
 gene_type: protein-coding
 images:
 - caption: RAI14 expression
@@ -60,13 +60,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RAI14.Anderson.2019.Supplementary
     figure 5O.jpg
 name: retinoic acid induced 14
-ncbi_id: '455824'
+ncbi_id: '427431'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000039560
   entrez: '26064'
   mod: MIM:606586
@@ -77,20 +72,20 @@ orthologs:
   mod: MGI:1922896
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000000696
   entrez: '100127689'
-  mod: '979321'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000039974
   entrez: '794796'
   mod: ZFIN:ZDB-GENE-040718-235
-  phenotypes: ZDB-GENE-040718-235
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455824
+  url: https://www.ncbi.nlm.nih.gov/gene/427431
 species: Gallus gallus
 symbol: RAI14
 title: RAI14
@@ -116,9 +111,8 @@ title: RAI14
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000039560](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000039560) | [26064](https://www.ncbi.nlm.nih.gov/gene/26064) | [MIM:606586](https://omim.org/entry/606586) |  |
 | Mouse | [ENSMUSG00000022246](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022246) | [75646](https://www.ncbi.nlm.nih.gov/gene/75646) | [MGI:1922896](http://www.informatics.jax.org/marker/MGI:1922896) |  |
-| Xenopus |  | [100127689](https://www.ncbi.nlm.nih.gov/gene/100127689) | [979321](http://www.xenbase.org/gene/showgene.do?method=display&geneId=979321) |  |
-| Zebrafish | [ENSDARG00000039974](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039974) | [794796](https://www.ncbi.nlm.nih.gov/gene/794796) | [ZFIN:ZDB-GENE-040718-235](https://zfin.org/ZDB-GENE-040718-235) | ZDB-GENE-040718-235 |
+| Xenopus | [ENSXETG00000000696](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000696) | [100127689](https://www.ncbi.nlm.nih.gov/gene/100127689) |  |  |
+| Zebrafish | [ENSDARG00000039974](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039974) | [794796](https://www.ncbi.nlm.nih.gov/gene/794796) | [ZFIN:ZDB-GENE-040718-235](https://zfin.org/ZDB-GENE-040718-235) |  |
 

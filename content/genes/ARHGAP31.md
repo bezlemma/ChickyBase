@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418344
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416566
 forward_primer: AAGGAGGAGTCATCCAGGTC
-gene_id: '463529'
+gene_id: '418344'
 gene_type: protein-coding
 images:
 - caption: ARHGAP31 expression
@@ -128,41 +128,21 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R410.ARHGAP31.S27D.001.jpg
 name: Rho GTPase activating protein 31
-ncbi_id: '463529'
+ncbi_id: '418344'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000024732
+  entrez: '100489741'
   mod: ''
   phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000031081
-  entrez: '57514'
-  mod: MIM:610911
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000022799
-  entrez: '12549'
-  mod: MGI:1333857
-  phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
-  species: Mouse
-- ensembl: ''
-  entrez: '100489741'
-  mod: '6467298'
-  phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ZFIN:ZDB-GENE-100922-256
-  phenotypes: ZDB-GENE-100922-256
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAGGAGGGGTGGTCCATAATG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463529
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418344
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463529
+  url: https://www.ncbi.nlm.nih.gov/gene/418344
 species: Gallus gallus
 symbol: ARHGAP31
 template_length: '919'
@@ -184,9 +164,5 @@ title: ARHGAP31
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000031081](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000031081) | [57514](https://www.ncbi.nlm.nih.gov/gene/57514) | [MIM:610911](https://omim.org/entry/610911) |  |
-| Mouse | [ENSMUSG00000022799](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022799) | [12549](https://www.ncbi.nlm.nih.gov/gene/12549) | [MGI:1333857](http://www.informatics.jax.org/marker/MGI:1333857) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100489741](https://www.ncbi.nlm.nih.gov/gene/100489741) | [6467298](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6467298) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-100922-256](https://zfin.org/ZDB-GENE-100922-256) | ZDB-GENE-100922-256 |
+| Xenopus | [ENSXETG00000024732](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000024732) | [100489741](https://www.ncbi.nlm.nih.gov/gene/100489741) |  |  |
 

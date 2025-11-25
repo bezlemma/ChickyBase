@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769693
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0046872
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001101831
-gene_id: '363854'
+gene_id: '769693'
 gene_type: protein-coding
 images:
 - caption: DMRT1 expression
@@ -52,7 +52,7 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIGURE1.YOSHIOKA.2005.jpg
 name: doublesex and mab-3 related transcription factor 1
-ncbi_id: '363854'
+ncbi_id: '769693'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -77,12 +77,12 @@ orthologs:
 - ensembl: ENSDARG00000007349
   entrez: '402923'
   mod: ZFIN:ZDB-GENE-050511-1
-  phenotypes: ZDB-GENE-050511-1
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/363854
+  url: https://www.ncbi.nlm.nih.gov/gene/769693
 species: Gallus gallus
 symbol: DMRT1
 title: DMRT1
@@ -115,5 +115,5 @@ title: DMRT1
 | Human | [ENSG00000137090](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137090) | [1761](https://www.ncbi.nlm.nih.gov/gene/1761) | [MIM:602424](https://omim.org/entry/602424) | MIM:602424 |
 | Mouse | [ENSMUSG00000024837](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024837) | [50796](https://www.ncbi.nlm.nih.gov/gene/50796) | [MGI:1354733](http://www.informatics.jax.org/marker/MGI:1354733) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
 | Xenopus |  | [100488257](https://www.ncbi.nlm.nih.gov/gene/100488257), [735040](https://www.ncbi.nlm.nih.gov/gene/735040), [100048915](https://www.ncbi.nlm.nih.gov/gene/100048915) | [852568](http://www.xenbase.org/gene/showgene.do?method=display&geneId=852568) |  |
-| Zebrafish | [ENSDARG00000007349](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007349) | [402923](https://www.ncbi.nlm.nih.gov/gene/402923) | [ZFIN:ZDB-GENE-050511-1](https://zfin.org/ZDB-GENE-050511-1) | ZDB-GENE-050511-1 |
+| Zebrafish | [ENSDARG00000007349](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007349) | [402923](https://www.ncbi.nlm.nih.gov/gene/402923) | [ZFIN:ZDB-GENE-050511-1](https://zfin.org/ZDB-GENE-050511-1) |  |
 

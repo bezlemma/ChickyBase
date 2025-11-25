@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419198
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030855
 forward_primer: 5’-GATTGCCAACATCGCCGAC-3’
-gene_id: '455369'
+gene_id: '419198'
 gene_type: protein-coding
 images:
 - caption: HNF4A expression
@@ -167,13 +167,8 @@ images:
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hnt-4alpha.Yanai.20053K.jpg
 name: hepatocyte nuclear factor 4 alpha
-ncbi_id: '455369'
+ncbi_id: '419198'
 orthologs:
-- ensembl: ''
-  entrez: '44544'
-  mod: FBgn0004914
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000101076
   entrez: '3172'
   mod: MIM:600281
@@ -184,24 +179,26 @@ orthologs:
   mod: MGI:109128
   phenotypes: All phenotypic alleles (14):Targeted, knock-out(2) Targeted, other(12)
   species: Mouse
-- ensembl: ''
-  entrez: 100492541,379762
-  mod: '482418'
+- ensembl: ENSXETG00000001775
+  entrez: '100492541'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000021494
   entrez: '322358'
   mod: ZFIN:ZDB-GENE-030131-1077
-  phenotypes: ZDB-GENE-030131-1077
+  phenotypes: cell differentiation, endocrine pancreas development, pancreas regeneration,
+    positive regulation of DNA-templated transcription, positive regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTTGCCACGGTTGCAATGG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455369
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419198
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455369
+  url: https://www.ncbi.nlm.nih.gov/gene/419198
 species: Gallus gallus
 symbol: HNF4A
 template_length: '800'
@@ -229,9 +226,8 @@ title: HNF4A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [44544](https://www.ncbi.nlm.nih.gov/gene/44544) | FBgn0004914 |  |
 | Human | [ENSG00000101076](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101076) | [3172](https://www.ncbi.nlm.nih.gov/gene/3172) | [MIM:600281](https://omim.org/entry/600281) | MIM:125853 |
 | Mouse | [ENSMUSG00000017950](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000017950) | [15378](https://www.ncbi.nlm.nih.gov/gene/15378) | [MGI:109128](http://www.informatics.jax.org/marker/MGI:109128) | All phenotypic alleles (14):Targeted, knock-out(2) Targeted, other(12) |
-| Xenopus |  | [100492541](https://www.ncbi.nlm.nih.gov/gene/100492541), [379762](https://www.ncbi.nlm.nih.gov/gene/379762) | [482418](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482418) |  |
-| Zebrafish | [ENSDARG00000021494](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021494) | [322358](https://www.ncbi.nlm.nih.gov/gene/322358) | [ZFIN:ZDB-GENE-030131-1077](https://zfin.org/ZDB-GENE-030131-1077) | ZDB-GENE-030131-1077 |
+| Xenopus | [ENSXETG00000001775](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001775) | [100492541](https://www.ncbi.nlm.nih.gov/gene/100492541) |  |  |
+| Zebrafish | [ENSDARG00000021494](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021494) | [322358](https://www.ncbi.nlm.nih.gov/gene/322358) | [ZFIN:ZDB-GENE-030131-1077](https://zfin.org/ZDB-GENE-030131-1077) | cell differentiation, endocrine pancreas development, pancreas regeneration, positive regulation of DNA-templated transcription, positive regulation of transcription by RNA polymerase II |
 

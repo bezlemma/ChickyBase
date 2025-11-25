@@ -5,10 +5,6 @@ aliases:
 - Notch homolog 1, translocation-associated, Notch1
 cgnc_id: '49424'
 external_ids:
-  '1': stage 1stage 1
-  '13': stage 13
-  '25': stage 25
-  '4': stage 4stage 4stage 4stage 4stage 4
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0004647
   Citation: https://pubmed.ncbi.nlm.nih.gov/23570883/?from_single_result=Vieceli+Sim%C3%B5es-Costa+2013
   Comments: Authors indicated the probe for Notch1 was synthesized from 500-4502 nucleotides
@@ -21,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395655
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415420
-gene_id: '449961'
+gene_id: '395655'
 gene_type: protein-coding
 images:
 - caption: NOTCH1 expression
@@ -651,13 +647,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Vieceli.2013-Notch1-Fig5.jpg
 name: notch 1
-ncbi_id: '449961'
+ncbi_id: '395655'
 orthologs:
-- ensembl: ''
-  entrez: '31293'
-  mod: FBgn0004647
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000148400
   entrez: '4851'
   mod: MIM:190198
@@ -669,23 +660,24 @@ orthologs:
   phenotypes: All phenotypic alleles (16):Chemically induced(1) Targeted, knock-out(5)
     Targeted, other(10)
   species: Mouse
-- ensembl: ''
-  entrez: 100037842,394367
-  mod: '479317'
+- ensembl: ENSXETG00000000757
+  entrez: '100037842'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000052094,ENSDARG00000044841
-  entrez: 794892,30718
-  mod: ZFIN:ZDB-GENE-990415-183,ZFIN:ZDB-GENE-990415-173
-  phenotypes: ZDB-GENE-990415-183,ZDB-GENE-990415-173
+- ensembl: ENSDARG00000052094
+  entrez: '794892'
+  mod: ZFIN:ZDB-GENE-990415-183
+  phenotypes: Notch signaling pathway, angiogenesis, artery development, blood vessel
+    development, cell differentiation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449961
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395655
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449961
+  url: https://www.ncbi.nlm.nih.gov/gene/395655
 species: Gallus gallus
 symbol: NOTCH1
 title: NOTCH1
@@ -713,9 +705,8 @@ title: NOTCH1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31293](https://www.ncbi.nlm.nih.gov/gene/31293) | FBgn0004647 |  |
 | Human | [ENSG00000148400](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148400) | [4851](https://www.ncbi.nlm.nih.gov/gene/4851) | [MIM:190198](https://omim.org/entry/190198) | MIM:109730 |
 | Mouse | [ENSMUSG00000026923](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026923) | [18128](https://www.ncbi.nlm.nih.gov/gene/18128) | [MGI:97363](http://www.informatics.jax.org/marker/MGI:97363) | All phenotypic alleles (16):Chemically induced(1) Targeted, knock-out(5) Targeted, other(10) |
-| Xenopus |  | [100037842](https://www.ncbi.nlm.nih.gov/gene/100037842), [394367](https://www.ncbi.nlm.nih.gov/gene/394367) | [479317](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479317) |  |
-| Zebrafish | [ENSDARG00000052094](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052094), [ENSDARG00000044841](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044841) | [794892](https://www.ncbi.nlm.nih.gov/gene/794892), [30718](https://www.ncbi.nlm.nih.gov/gene/30718) | [ZFIN:ZDB-GENE-990415-183](https://zfin.org/ZDB-GENE-990415-183), [ZFIN:ZDB-GENE-990415-173](https://zfin.org/ZDB-GENE-990415-173) | ZDB-GENE-990415-183,ZDB-GENE-990415-173 |
+| Xenopus | [ENSXETG00000000757](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000757) | [100037842](https://www.ncbi.nlm.nih.gov/gene/100037842) |  |  |
+| Zebrafish | [ENSDARG00000052094](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052094) | [794892](https://www.ncbi.nlm.nih.gov/gene/794892) | [ZFIN:ZDB-GENE-990415-183](https://zfin.org/ZDB-GENE-990415-183) | Notch signaling pathway, angiogenesis, artery development, blood vessel development, cell differentiation |
 

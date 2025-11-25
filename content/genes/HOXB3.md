@@ -6,7 +6,6 @@ aliases:
 - homeobox protein Hox-2.7
 cgnc_id: '49352'
 external_ids:
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: 'Sophie Bel-Vialar, Nobue Itasaki, Robb Krumlauf. Initiating Hox gene
@@ -24,7 +23,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204743
 forward_primer: AATGGGTTTGGCTACGAGGGTC
-gene_id: '449646'
+gene_id: '395502'
 gene_type: protein-coding
 images:
 - caption: HOXB3 expression
@@ -210,41 +209,38 @@ images:
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Bel-Vialar.2002-Hoxb3-fig6.jpg
 name: homeobox B3
-ncbi_id: '449646'
+ncbi_id: '395502'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000120093
   entrez: '3213'
   mod: MIM:142966
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000048763
   entrez: '15410'
   mod: MGI:96184
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 548725,373719
-  mod: '482575'
+- ensembl: ENSXETG00000021967
+  entrez: '548725'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000029263
   entrez: '30339'
   mod: ZFIN:ZDB-GENE-990415-104
-  phenotypes: ZDB-GENE-990415-104
+  phenotypes: anterior/posterior pattern specification, embryonic skeletal system
+    morphogenesis, regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTGGGGCTTATTGAGGGAAGGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449646
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395502
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449646
+  url: https://www.ncbi.nlm.nih.gov/gene/395502
 species: Gallus gallus
 symbol: HOXB3
 template_length: '743'
@@ -273,9 +269,8 @@ title: HOXB3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [3213](https://www.ncbi.nlm.nih.gov/gene/3213) | [MIM:142966](https://omim.org/entry/142966) |  |
-| Mouse |  | [15410](https://www.ncbi.nlm.nih.gov/gene/15410) | [MGI:96184](http://www.informatics.jax.org/marker/MGI:96184) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [548725](https://www.ncbi.nlm.nih.gov/gene/548725), [373719](https://www.ncbi.nlm.nih.gov/gene/373719) | [482575](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482575) |  |
-| Zebrafish | [ENSDARG00000029263](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029263) | [30339](https://www.ncbi.nlm.nih.gov/gene/30339) | [ZFIN:ZDB-GENE-990415-104](https://zfin.org/ZDB-GENE-990415-104) | ZDB-GENE-990415-104 |
+| Human | [ENSG00000120093](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000120093) | [3213](https://www.ncbi.nlm.nih.gov/gene/3213) | [MIM:142966](https://omim.org/entry/142966) |  |
+| Mouse | [ENSMUSG00000048763](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048763) | [15410](https://www.ncbi.nlm.nih.gov/gene/15410) | [MGI:96184](http://www.informatics.jax.org/marker/MGI:96184) | All phenotypic alleles (1):Targeted, knock-out(1) |
+| Xenopus | [ENSXETG00000021967](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021967) | [548725](https://www.ncbi.nlm.nih.gov/gene/548725) |  |  |
+| Zebrafish | [ENSDARG00000029263](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029263) | [30339](https://www.ncbi.nlm.nih.gov/gene/30339) | [ZFIN:ZDB-GENE-990415-104](https://zfin.org/ZDB-GENE-990415-104) | anterior/posterior pattern specification, embryonic skeletal system morphogenesis, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

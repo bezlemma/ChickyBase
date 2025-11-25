@@ -1,14 +1,13 @@
 ---
 cgnc_id: '13589'
 external_ids:
-  '25': stage 25stage 25stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018521
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426213
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423876
 forward_primer: 5'- AGGCTCACGGGGTATGTGTCTATG -3'
-gene_id: '463935'
+gene_id: '426213'
 gene_type: protein-coding
 images:
 - caption: CATIP expression
@@ -64,41 +63,32 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R596.CATIP.S25B.001.jpg
 name: ciliogenesis associated TTC17 interacting protein
-ncbi_id: '463935'
+ncbi_id: '426213'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000158428
+  entrez: '375307'
+  mod: MIM:619387
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000014934
+  entrez: '100495462'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000063009
+  entrez: '767803'
+  mod: ZFIN:ZDB-GENE-060929-1170
+  phenotypes: actin filament polymerization, cell projection organization, cilium
+    assembly, cilium organization, determination of heart left/right asymmetry
   species: Zebrafish
 reverse_primer: 5'- AATTAACCCTCACTAAAGGAGCAGCAAAGAGGATGGGGTTG -3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463935
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426213
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463935
+  url: https://www.ncbi.nlm.nih.gov/gene/426213
 species: Gallus gallus
 symbol: CATIP
 template_length: '735'
@@ -121,9 +111,7 @@ title: CATIP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000158428](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000158428) | [375307](https://www.ncbi.nlm.nih.gov/gene/375307) | [MIM:619387](https://omim.org/entry/619387) |  |
+| Xenopus | [ENSXETG00000014934](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014934) | [100495462](https://www.ncbi.nlm.nih.gov/gene/100495462) |  |  |
+| Zebrafish | [ENSDARG00000063009](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063009) | [767803](https://www.ncbi.nlm.nih.gov/gene/767803) | [ZFIN:ZDB-GENE-060929-1170](https://zfin.org/ZDB-GENE-060929-1170) | actin filament polymerization, cell projection organization, cilium assembly, cilium organization, determination of heart left/right asymmetry |
 

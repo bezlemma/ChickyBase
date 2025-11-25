@@ -4,9 +4,6 @@ aliases:
 - wingless-related MMTV integration site 6 homolog
 cgnc_id: '8636'
 external_ids:
-  '19': stage 19
-  '25': stage 25
-  '31': stage 31
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0031902
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
   Comments: Insufficient information provided in publication to verify exact sequence
@@ -19,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395235
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001007594
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATTGCCAAGAGCAAGAAGGGG
-gene_id: '461439'
+gene_id: '395235'
 gene_type: protein-coding
 images:
 - caption: WNT6 expression
@@ -423,13 +420,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT6.Anderson.2019.Fig3.jpg
 name: Wnt family member 6
-ncbi_id: '461439'
+ncbi_id: '395235'
 orthologs:
-- ensembl: ''
-  entrez: '34010'
-  mod: FBgn0031902
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000115596
   entrez: '7475'
   mod: MIM:604663
@@ -440,24 +432,20 @@ orthologs:
   mod: MGI:98960
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100485571,378676
-  mod: '486076'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000038283
-  entrez: '100332722'
-  mod: ZFIN:ZDB-GENE-070912-513,ZFIN:ZDB-GENE-111114-1
-  phenotypes: ZDB-GENE-070912-513,ZDB-GENE-111114-1
+- ensembl: ENSDARG00000073935
+  entrez: '561831'
+  mod: ZFIN:ZDB-GENE-070912-513
+  phenotypes: Wnt signaling pathway, animal organ development, canonical Wnt signaling
+    pathway, cell fate commitment, neuron differentiation
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAGCACCACGGTCTCATCGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461439
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395235
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461439
+  url: https://www.ncbi.nlm.nih.gov/gene/395235
 species: Gallus gallus
 symbol: WNT6
 template_length: '444'
@@ -486,9 +474,7 @@ title: WNT6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34010](https://www.ncbi.nlm.nih.gov/gene/34010) | FBgn0031902 |  |
 | Human | [ENSG00000115596](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000115596) | [7475](https://www.ncbi.nlm.nih.gov/gene/7475) | [MIM:604663](https://omim.org/entry/604663) |  |
 | Mouse | [ENSMUSG00000033227](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033227) | [22420](https://www.ncbi.nlm.nih.gov/gene/22420) | [MGI:98960](http://www.informatics.jax.org/marker/MGI:98960) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100485571](https://www.ncbi.nlm.nih.gov/gene/100485571), [378676](https://www.ncbi.nlm.nih.gov/gene/378676) | [486076](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486076) |  |
-| Zebrafish | [ENSDARG00000038283](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038283) | [100332722](https://www.ncbi.nlm.nih.gov/gene/100332722) | [ZFIN:ZDB-GENE-070912-513](https://zfin.org/ZDB-GENE-070912-513), [ZFIN:ZDB-GENE-111114-1](https://zfin.org/ZDB-GENE-111114-1) | ZDB-GENE-070912-513,ZDB-GENE-111114-1 |
+| Zebrafish | [ENSDARG00000073935](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000073935) | [561831](https://www.ncbi.nlm.nih.gov/gene/561831) | [ZFIN:ZDB-GENE-070912-513](https://zfin.org/ZDB-GENE-070912-513) | Wnt signaling pathway, animal organ development, canonical Wnt signaling pathway, cell fate commitment, neuron differentiation |
 

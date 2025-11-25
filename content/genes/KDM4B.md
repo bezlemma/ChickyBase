@@ -5,14 +5,13 @@ aliases:
 - lysine (K)-specific demethylase 4B
 cgnc_id: '3001'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/428354
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428354
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001233691
 forward_primer: TTTGCCACGTTGCGTTGG
-gene_id: '462608'
+gene_id: '428354'
 gene_type: protein-coding
 images:
 - caption: KDM4B expression
@@ -84,41 +83,36 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM4B.S25.001.jpg
 name: lysine demethylase 4B
-ncbi_id: '462608'
+ncbi_id: '428354'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000127663
+  entrez: '23030'
+  mod: MIM:609765
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000024201
+  entrez: '193796'
+  mod: MGI:2442355
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000005352
+  entrez: '394661'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000099675
+  entrez: '556504'
+  mod: ZFIN:ZDB-GENE-060503-664
+  phenotypes: chromatin organization, chromatin remodeling, regulation of gene expression
   species: Zebrafish
 reverse_primer: TGCCTAATGGGTGACGACG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462608
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428354
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462608
+  url: https://www.ncbi.nlm.nih.gov/gene/428354
 species: Gallus gallus
 symbol: KDM4B
 template_length: '1009'
@@ -141,9 +135,8 @@ title: KDM4B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000127663](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000127663) | [23030](https://www.ncbi.nlm.nih.gov/gene/23030) | [MIM:609765](https://omim.org/entry/609765) |  |
+| Mouse | [ENSMUSG00000024201](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024201) | [193796](https://www.ncbi.nlm.nih.gov/gene/193796) | [MGI:2442355](http://www.informatics.jax.org/marker/MGI:2442355) |  |
+| Xenopus | [ENSXETG00000005352](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005352) | [394661](https://www.ncbi.nlm.nih.gov/gene/394661) |  |  |
+| Zebrafish | [ENSDARG00000099675](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099675) | [556504](https://www.ncbi.nlm.nih.gov/gene/556504) | [ZFIN:ZDB-GENE-060503-664](https://zfin.org/ZDB-GENE-060503-664) | chromatin organization, chromatin remodeling, regulation of gene expression |
 

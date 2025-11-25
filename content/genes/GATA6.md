@@ -5,7 +5,6 @@ aliases:
 - GATA-binding factor 6
 cgnc_id: '49785'
 external_ids:
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0060486
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Chapman+2007+Gata4+Sox17+Schoenwolf
@@ -19,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0000979
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205420
   X-XIV: stage XIII
-gene_id: '461641'
+gene_id: '396390'
 gene_type: protein-coding
 images:
 - caption: GATA6 expression
@@ -121,7 +120,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GATA6.Trevers.2023-Fig7-6-A.jpg
 name: GATA binding protein 6
-ncbi_id: '461641'
+ncbi_id: '396390'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -146,12 +145,12 @@ orthologs:
 - ensembl: ''
   entrez: '58076'
   mod: ZFIN:ZDB-GENE-000622-1
-  phenotypes: ZDB-GENE-000622-1
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461641
+  url: https://www.ncbi.nlm.nih.gov/gene/396390
 species: Gallus gallus
 symbol: GATA6
 title: GATA6
@@ -184,5 +183,5 @@ title: GATA6
 | Human | [ENSG00000141448](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000141448) | [2627](https://www.ncbi.nlm.nih.gov/gene/2627) | [MIM:601656](https://omim.org/entry/601656) |  |
 | Mouse | [ENSMUSG00000005836](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005836) | [14465](https://www.ncbi.nlm.nih.gov/gene/14465) | [MGI:107516](http://www.informatics.jax.org/marker/MGI:107516) | All phenotypic alleles (11):Targeted, knock-out(5) Targeted, other(6) |
 | Xenopus |  | [395062](https://www.ncbi.nlm.nih.gov/gene/395062), [399082](https://www.ncbi.nlm.nih.gov/gene/399082), [397845](https://www.ncbi.nlm.nih.gov/gene/397845) | [485062](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485062) |  |
-| Zebrafish |  | [58076](https://www.ncbi.nlm.nih.gov/gene/58076) | [ZFIN:ZDB-GENE-000622-1](https://zfin.org/ZDB-GENE-000622-1) | ZDB-GENE-000622-1 |
+| Zebrafish |  | [58076](https://www.ncbi.nlm.nih.gov/gene/58076) | [ZFIN:ZDB-GENE-000622-1](https://zfin.org/ZDB-GENE-000622-1) |  |
 

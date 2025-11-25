@@ -20,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423437
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001040465
-gene_id: '451299'
+gene_id: '423437'
 gene_type: protein-coding
 images:
 - caption: DICER1 expression
@@ -207,13 +207,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Carraco.2014-DICER1-fig4.jpg
 name: dicer 1, ribonuclease III
-ncbi_id: '451299'
+ncbi_id: '423437'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100697
   entrez: '23405'
   mod: MIM:606241
@@ -225,23 +220,24 @@ orthologs:
   phenotypes: All phenotypic alleles (16):Targeted, knock-out(6) Targeted, other(8)
     Gene trapped(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100170154,100316917
-  mod: '491113'
+- ensembl: ENSXETG00000023315
+  entrez: '100170154'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000001129
   entrez: '324724'
   mod: ZFIN:ZDB-GENE-030131-3445
-  phenotypes: ZDB-GENE-030131-3445
+  phenotypes: RNA processing, apoptotic DNA fragmentation, global gene silencing by
+    mRNA cleavage, miRNA processing, miRNA-mediated gene silencing by mRNA destabilization
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451299
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423437
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451299
+  url: https://www.ncbi.nlm.nih.gov/gene/423437
 species: Gallus gallus
 symbol: DICER1
 title: DICER1
@@ -269,9 +265,8 @@ title: DICER1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000100697](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100697) | [23405](https://www.ncbi.nlm.nih.gov/gene/23405) | [MIM:606241](https://omim.org/entry/606241) | MIM:138800 |
 | Mouse | [ENSMUSG00000041415](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041415) | [192119](https://www.ncbi.nlm.nih.gov/gene/192119) | [MGI:2177178](http://www.informatics.jax.org/marker/MGI:2177178) | All phenotypic alleles (16):Targeted, knock-out(6) Targeted, other(8) Gene trapped(2) |
-| Xenopus |  | [100170154](https://www.ncbi.nlm.nih.gov/gene/100170154), [100316917](https://www.ncbi.nlm.nih.gov/gene/100316917) | [491113](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491113) |  |
-| Zebrafish | [ENSDARG00000001129](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000001129) | [324724](https://www.ncbi.nlm.nih.gov/gene/324724) | [ZFIN:ZDB-GENE-030131-3445](https://zfin.org/ZDB-GENE-030131-3445) | ZDB-GENE-030131-3445 |
+| Xenopus | [ENSXETG00000023315](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023315) | [100170154](https://www.ncbi.nlm.nih.gov/gene/100170154) |  |  |
+| Zebrafish | [ENSDARG00000001129](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000001129) | [324724](https://www.ncbi.nlm.nih.gov/gene/324724) | [ZFIN:ZDB-GENE-030131-3445](https://zfin.org/ZDB-GENE-030131-3445) | RNA processing, apoptotic DNA fragmentation, global gene silencing by mRNA cleavage, miRNA processing, miRNA-mediated gene silencing by mRNA destabilization |
 

@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:414140
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001473
-gene_id: '462868'
+gene_id: '414140'
 gene_type: protein-coding
 images:
 - caption: AMY2A expression
@@ -39,13 +39,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AMY2A.Anderson.2019.Supplementary
     figure 5B.jpg
 name: amylase, alpha 2A (pancreatic)
-ncbi_id: '462868'
+ncbi_id: '414140'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000243480
   entrez: '279'
   mod: MIM:104650
@@ -56,20 +51,20 @@ orthologs:
   mod: MGI:88019
   phenotypes: All phenotypic alleles (6):Other(5) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100125163,734698
-  mod: '968628'
+- ensembl: ENSXETG00000010846
+  entrez: '493323'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000009443,ENSDARG00000013856,ENSDARG00000030357
-  entrez: 445049,406539,393400
-  mod: ZFIN:ZDB-GENE-040801-179,ZFIN:ZDB-GENE-040426-2393,ZFIN:ZDB-GENE-040426-1606
-  phenotypes: ZDB-GENE-040801-179,ZDB-GENE-040426-2393,ZDB-GENE-040426-1606
+- ensembl: ENSDARG00000009443
+  entrez: '445049'
+  mod: ZFIN:ZDB-GENE-040801-179
+  phenotypes: carbohydrate metabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462868
+  url: https://www.ncbi.nlm.nih.gov/gene/414140
 species: Gallus gallus
 symbol: AMY2A
 title: AMY2A
@@ -95,9 +90,8 @@ title: AMY2A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000243480](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000243480) | [279](https://www.ncbi.nlm.nih.gov/gene/279) | [MIM:104650](https://omim.org/entry/104650) |  |
 | Mouse | [ENSMUSG00000074264](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000074264) | [11722](https://www.ncbi.nlm.nih.gov/gene/11722) | [MGI:88019](http://www.informatics.jax.org/marker/MGI:88019) | All phenotypic alleles (6):Other(5) Targeted, other(1) |
-| Xenopus |  | [100125163](https://www.ncbi.nlm.nih.gov/gene/100125163), [734698](https://www.ncbi.nlm.nih.gov/gene/734698) | [968628](http://www.xenbase.org/gene/showgene.do?method=display&geneId=968628) |  |
-| Zebrafish | [ENSDARG00000009443](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009443), [ENSDARG00000013856](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013856), [ENSDARG00000030357](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030357) | [445049](https://www.ncbi.nlm.nih.gov/gene/445049), [406539](https://www.ncbi.nlm.nih.gov/gene/406539), [393400](https://www.ncbi.nlm.nih.gov/gene/393400) | [ZFIN:ZDB-GENE-040801-179](https://zfin.org/ZDB-GENE-040801-179), [ZFIN:ZDB-GENE-040426-2393](https://zfin.org/ZDB-GENE-040426-2393), [ZFIN:ZDB-GENE-040426-1606](https://zfin.org/ZDB-GENE-040426-1606) | ZDB-GENE-040801-179,ZDB-GENE-040426-2393,ZDB-GENE-040426-1606 |
+| Xenopus | [ENSXETG00000010846](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010846) | [493323](https://www.ncbi.nlm.nih.gov/gene/493323) |  |  |
+| Zebrafish | [ENSDARG00000009443](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009443) | [445049](https://www.ncbi.nlm.nih.gov/gene/445049) | [ZFIN:ZDB-GENE-040801-179](https://zfin.org/ZDB-GENE-040801-179) | carbohydrate metabolic process |
 

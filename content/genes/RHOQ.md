@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395114
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204461
 forward_primer: CGACCACTACGCAGTCAG
-gene_id: '462082'
+gene_id: '395114'
 gene_type: protein-coding
 images:
 - caption: RHOQ expression
@@ -189,14 +189,9 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R450.RHOQ.S26V.001.jpg
 name: ras homolog family member Q
-ncbi_id: '462082'
+ncbi_id: '395114'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000119729
   entrez: '23433'
   mod: MIM:605857
   phenotypes: ''
@@ -206,24 +201,20 @@ orthologs:
   mod: MGI:1931553
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: '100158472'
-  mod: '492071'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000025953
   entrez: '327510'
   mod: ZFIN:ZDB-GENE-030131-5721
-  phenotypes: ZDB-GENE-030131-5721
+  phenotypes: actin cytoskeleton organization, actin filament organization, cortical
+    actin cytoskeleton organization, endocytosis, establishment of cell polarity
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCGAACCTATTCTCTTCTTCACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462082
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395114
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462082
+  url: https://www.ncbi.nlm.nih.gov/gene/395114
 species: Gallus gallus
 symbol: RHOQ
 template_length: '460'
@@ -245,9 +236,7 @@ title: RHOQ
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [23433](https://www.ncbi.nlm.nih.gov/gene/23433) | [MIM:605857](https://omim.org/entry/605857) |  |
+| Human | [ENSG00000119729](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000119729) | [23433](https://www.ncbi.nlm.nih.gov/gene/23433) | [MIM:605857](https://omim.org/entry/605857) |  |
 | Mouse | [ENSMUSG00000024143](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024143) | [104215](https://www.ncbi.nlm.nih.gov/gene/104215) | [MGI:1931553](http://www.informatics.jax.org/marker/MGI:1931553) |  |
-| Xenopus |  | [100158472](https://www.ncbi.nlm.nih.gov/gene/100158472) | [492071](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492071) |  |
-| Zebrafish | [ENSDARG00000025953](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025953) | [327510](https://www.ncbi.nlm.nih.gov/gene/327510) | [ZFIN:ZDB-GENE-030131-5721](https://zfin.org/ZDB-GENE-030131-5721) | ZDB-GENE-030131-5721 |
+| Zebrafish | [ENSDARG00000025953](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025953) | [327510](https://www.ncbi.nlm.nih.gov/gene/327510) | [ZFIN:ZDB-GENE-030131-5721](https://zfin.org/ZDB-GENE-030131-5721) | actin cytoskeleton organization, actin filament organization, cortical actin cytoskeleton organization, endocytosis, establishment of cell polarity |
 

@@ -21,7 +21,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:407777
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001194
-gene_id: '463217'
+gene_id: '407777'
 gene_type: protein-coding
 images:
 - caption: AvBD7 expression
@@ -74,7 +74,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhang.2019.Fig5_AllImages-.jpg
 name: avian beta-defensin 7
-ncbi_id: '463217'
+ncbi_id: '407777'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -104,10 +104,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463217
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=407777
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463217
+  url: https://www.ncbi.nlm.nih.gov/gene/407777
 species: Gallus gallus
 symbol: AvBD7
 title: AvBD7

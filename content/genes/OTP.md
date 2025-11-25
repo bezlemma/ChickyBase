@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:554220
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642956
-gene_id: '453705'
+gene_id: '554220'
 gene_type: protein-coding
 images:
 - caption: OTP expression
@@ -133,37 +133,33 @@ images:
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OTP.Caqueret.2005.Fig.5.png
 name: orthopedia homeobox
-ncbi_id: '453705'
+ncbi_id: '554220'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000171540
+  entrez: '23440'
+  mod: MIM:604529
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000021685
+  entrez: '18420'
+  mod: MGI:99835
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000035719
+  entrez: '100490162'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000014201
+  entrez: '560759'
+  mod: ZFIN:ZDB-GENE-070216-1
+  phenotypes: brain development, dopaminergic neuron differentiation, forebrain neuron
+    development, mammillary body development, myelination
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453705
+  url: https://www.ncbi.nlm.nih.gov/gene/554220
 species: Gallus gallus
 symbol: OTP
 title: OTP
@@ -189,9 +185,8 @@ title: OTP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000171540](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171540) | [23440](https://www.ncbi.nlm.nih.gov/gene/23440) | [MIM:604529](https://omim.org/entry/604529) |  |
+| Mouse | [ENSMUSG00000021685](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021685) | [18420](https://www.ncbi.nlm.nih.gov/gene/18420) | [MGI:99835](http://www.informatics.jax.org/marker/MGI:99835) |  |
+| Xenopus | [ENSXETG00000035719](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000035719) | [100490162](https://www.ncbi.nlm.nih.gov/gene/100490162) |  |  |
+| Zebrafish | [ENSDARG00000014201](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014201) | [560759](https://www.ncbi.nlm.nih.gov/gene/560759) | [ZFIN:ZDB-GENE-070216-1](https://zfin.org/ZDB-GENE-070216-1) | brain development, dopaminergic neuron differentiation, forebrain neuron development, mammillary body development, myelination |
 

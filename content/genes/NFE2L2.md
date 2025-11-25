@@ -4,14 +4,13 @@ aliases:
 - ECH
 cgnc_id: '49604'
 external_ids:
-  '25': stage 25
   Comments: No expression detected at or before stage 4.
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000009240
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396014
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205117
 forward_primer: AACTTGATTGACATCCTTTGGAGG
-gene_id: '459238'
+gene_id: '396014'
 gene_type: protein-coding
 images:
 - caption: NFE2L2 expression
@@ -109,13 +108,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R272.NFE2L2.S25.01.jpg
 name: nuclear factor, erythroid 2 like 2
-ncbi_id: '459238'
+ncbi_id: '396014'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000116044
   entrez: '4780'
   mod: MIM:600492
@@ -126,24 +120,26 @@ orthologs:
   mod: MGI:108420
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 493217,444736
-  mod: '943925'
+- ensembl: ENSXETG00000001808
+  entrez: '493217'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000042824
-  entrez: 360149,100873093
-  mod: ZFIN:ZDB-GENE-030723-2,ZFIN:ZDB-GENE-120320-3
-  phenotypes: ZDB-GENE-030723-2,ZDB-GENE-120320-3
+  entrez: '360149'
+  mod: ZFIN:ZDB-GENE-030723-2
+  phenotypes: cellular response to oxidative stress, cellular response to prostaglandin
+    stimulus, cellular response to xenobiotic stimulus, larval feeding behavior, positive
+    regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGGTCTTTCTTTGGTGTGTTCATACG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459238
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396014
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459238
+  url: https://www.ncbi.nlm.nih.gov/gene/396014
 species: Gallus gallus
 symbol: NFE2L2
 template_length: '1219'
@@ -167,9 +163,8 @@ title: NFE2L2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000116044](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000116044) | [4780](https://www.ncbi.nlm.nih.gov/gene/4780) | [MIM:600492](https://omim.org/entry/600492) |  |
 | Mouse | [ENSMUSG00000015839](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000015839) | [18024](https://www.ncbi.nlm.nih.gov/gene/18024) | [MGI:108420](http://www.informatics.jax.org/marker/MGI:108420) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [493217](https://www.ncbi.nlm.nih.gov/gene/493217), [444736](https://www.ncbi.nlm.nih.gov/gene/444736) | [943925](http://www.xenbase.org/gene/showgene.do?method=display&geneId=943925) |  |
-| Zebrafish | [ENSDARG00000042824](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042824) | [360149](https://www.ncbi.nlm.nih.gov/gene/360149), [100873093](https://www.ncbi.nlm.nih.gov/gene/100873093) | [ZFIN:ZDB-GENE-030723-2](https://zfin.org/ZDB-GENE-030723-2), [ZFIN:ZDB-GENE-120320-3](https://zfin.org/ZDB-GENE-120320-3) | ZDB-GENE-030723-2,ZDB-GENE-120320-3 |
+| Xenopus | [ENSXETG00000001808](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001808) | [493217](https://www.ncbi.nlm.nih.gov/gene/493217) |  |  |
+| Zebrafish | [ENSDARG00000042824](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042824) | [360149](https://www.ncbi.nlm.nih.gov/gene/360149) | [ZFIN:ZDB-GENE-030723-2](https://zfin.org/ZDB-GENE-030723-2) | cellular response to oxidative stress, cellular response to prostaglandin stimulus, cellular response to xenobiotic stimulus, larval feeding behavior, positive regulation of DNA-templated transcription |
 

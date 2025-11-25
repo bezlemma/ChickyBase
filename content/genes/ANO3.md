@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422968
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199465
 forward_primer: AGAGCCAAACACATCCTCAGAGTC
-gene_id: '452321'
+gene_id: '422968'
 gene_type: protein-coding
 images:
 - caption: ANO3 expression
@@ -104,41 +104,38 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R5R530.ANO3.S26BB.001.jpg
 name: anoctamin 3
-ncbi_id: '452321'
+ncbi_id: '422968'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134343
   entrez: '63982'
   mod: MIM:610110
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000074968
+  entrez: '228432'
+  mod: MGI:3613666
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010396
   entrez: '100495805'
-  mod: '1012402'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000058015
   entrez: '553392'
   mod: ZFIN:ZDB-GENE-111031-3
-  phenotypes: ZDB-GENE-111031-3
+  phenotypes: anaphase-promoting complex-dependent catabolic process, cell division,
+    positive regulation of mitotic metaphase/anaphase transition, protein K11-linked
+    ubiquitination, protein ubiquitination
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGGTGGAAATGCTGCTTCATACG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452321
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422968
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452321
+  url: https://www.ncbi.nlm.nih.gov/gene/422968
 species: Gallus gallus
 symbol: ANO3
 template_length: '928'
@@ -160,9 +157,8 @@ title: ANO3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000134343](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134343) | [63982](https://www.ncbi.nlm.nih.gov/gene/63982) | [MIM:610110](https://omim.org/entry/610110) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100495805](https://www.ncbi.nlm.nih.gov/gene/100495805) | [1012402](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1012402) |  |
-| Zebrafish | [ENSDARG00000058015](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058015) | [553392](https://www.ncbi.nlm.nih.gov/gene/553392) | [ZFIN:ZDB-GENE-111031-3](https://zfin.org/ZDB-GENE-111031-3) | ZDB-GENE-111031-3 |
+| Mouse | [ENSMUSG00000074968](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000074968) | [228432](https://www.ncbi.nlm.nih.gov/gene/228432) | [MGI:3613666](http://www.informatics.jax.org/marker/MGI:3613666) |  |
+| Xenopus | [ENSXETG00000010396](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010396) | [100495805](https://www.ncbi.nlm.nih.gov/gene/100495805) |  |  |
+| Zebrafish | [ENSDARG00000058015](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058015) | [553392](https://www.ncbi.nlm.nih.gov/gene/553392) | [ZFIN:ZDB-GENE-111031-3](https://zfin.org/ZDB-GENE-111031-3) | anaphase-promoting complex-dependent catabolic process, cell division, positive regulation of mitotic metaphase/anaphase transition, protein K11-linked ubiquitination, protein ubiquitination |
 

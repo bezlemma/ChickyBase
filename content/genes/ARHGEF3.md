@@ -4,7 +4,6 @@ aliases:
 - Rho guanine nucleotide exchange factor (GEF) 3
 cgnc_id: '4085'
 external_ids:
-  '25': stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0035556
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000005481
@@ -13,7 +12,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005089
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030595
 forward_primer: CGTTCCATCAGTTTCCGCAG
-gene_id: '457990'
+gene_id: '416000'
 gene_type: protein-coding
 images:
 - caption: ARHGEF3 expression
@@ -84,13 +83,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R391.ARHGEF3.S25.002.jpg
 name: Rho guanine nucleotide exchange factor 3
-ncbi_id: '457990'
+ncbi_id: '416000'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163947
   entrez: '50650'
   mod: MIM:612115
@@ -101,24 +95,25 @@ orthologs:
   mod: MGI:1918954
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 613095,444354
-  mod: '5940982'
+- ensembl: ENSXETG00000000921
+  entrez: '100486292'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000013834
   entrez: '570228'
-  mod: ZFIN:ZDB-GENE-050208-773,ZFIN:ZDB-GENE-050208-773
-  phenotypes: ZDB-GENE-050208-773,ZDB-GENE-050208-773
+  mod: ZFIN:ZDB-GENE-050208-773
+  phenotypes: hemopoiesis, intracellular signal transduction, myeloid cell development,
+    positive regulation of Rho protein signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCTCTGTTGTTCTTCAGTTCACCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457990
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416000
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457990
+  url: https://www.ncbi.nlm.nih.gov/gene/416000
 species: Gallus gallus
 symbol: ARHGEF3
 template_length: '833'
@@ -143,9 +138,8 @@ title: ARHGEF3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163947](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163947) | [50650](https://www.ncbi.nlm.nih.gov/gene/50650) | [MIM:612115](https://omim.org/entry/612115) |  |
 | Mouse | [ENSMUSG00000021895](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021895) | [71704](https://www.ncbi.nlm.nih.gov/gene/71704) | [MGI:1918954](http://www.informatics.jax.org/marker/MGI:1918954) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [613095](https://www.ncbi.nlm.nih.gov/gene/613095), [444354](https://www.ncbi.nlm.nih.gov/gene/444354) | [5940982](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5940982) |  |
-| Zebrafish | [ENSDARG00000013834](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013834) | [570228](https://www.ncbi.nlm.nih.gov/gene/570228) | [ZFIN:ZDB-GENE-050208-773](https://zfin.org/ZDB-GENE-050208-773), [ZFIN:ZDB-GENE-050208-773](https://zfin.org/ZDB-GENE-050208-773) | ZDB-GENE-050208-773,ZDB-GENE-050208-773 |
+| Xenopus | [ENSXETG00000000921](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000921) | [100486292](https://www.ncbi.nlm.nih.gov/gene/100486292) |  |  |
+| Zebrafish | [ENSDARG00000013834](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013834) | [570228](https://www.ncbi.nlm.nih.gov/gene/570228) | [ZFIN:ZDB-GENE-050208-773](https://zfin.org/ZDB-GENE-050208-773) | hemopoiesis, intracellular signal transduction, myeloid cell development, positive regulation of Rho protein signal transduction |
 

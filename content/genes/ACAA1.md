@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:770094
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001197288
-gene_id: '453577'
+gene_id: '770094'
 gene_type: protein-coding
 images:
 - caption: ACAA1 expression
@@ -47,13 +47,8 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F6.acaa1.png
 name: acetyl-CoA acyltransferase 1
-ncbi_id: '453577'
+ncbi_id: '770094'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000060971
   entrez: '30'
   mod: MIM:604054
@@ -64,20 +59,21 @@ orthologs:
   mod: MGI:2148491
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 780143,380296
-  mod: '963067'
+- ensembl: ENSXETG00000018446
+  entrez: '780143'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000004687
   entrez: '431754'
   mod: ZFIN:ZDB-GENE-040704-48
-  phenotypes: ZDB-GENE-040704-48
+  phenotypes: fatty acid beta-oxidation, fatty acid metabolic process, lipid metabolic
+    process, phenylacetate catabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453577
+  url: https://www.ncbi.nlm.nih.gov/gene/770094
 species: Gallus gallus
 symbol: ACAA1
 title: ACAA1
@@ -103,9 +99,8 @@ title: ACAA1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000060971](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000060971) | [30](https://www.ncbi.nlm.nih.gov/gene/30) | [MIM:604054](https://omim.org/entry/604054) | MIM:261515 |
 | Mouse | [ENSMUSG00000036138](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036138) | [113868](https://www.ncbi.nlm.nih.gov/gene/113868) | [MGI:2148491](http://www.informatics.jax.org/marker/MGI:2148491) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [780143](https://www.ncbi.nlm.nih.gov/gene/780143), [380296](https://www.ncbi.nlm.nih.gov/gene/380296) | [963067](http://www.xenbase.org/gene/showgene.do?method=display&geneId=963067) |  |
-| Zebrafish | [ENSDARG00000004687](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004687) | [431754](https://www.ncbi.nlm.nih.gov/gene/431754) | [ZFIN:ZDB-GENE-040704-48](https://zfin.org/ZDB-GENE-040704-48) | ZDB-GENE-040704-48 |
+| Xenopus | [ENSXETG00000018446](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018446) | [780143](https://www.ncbi.nlm.nih.gov/gene/780143) |  |  |
+| Zebrafish | [ENSDARG00000004687](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004687) | [431754](https://www.ncbi.nlm.nih.gov/gene/431754) | [ZFIN:ZDB-GENE-040704-48](https://zfin.org/ZDB-GENE-040704-48) | fatty acid beta-oxidation, fatty acid metabolic process, lipid metabolic process, phenylacetate catabolic process |
 

@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417226
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006201
-gene_id: '454025'
+gene_id: '417226'
 gene_type: protein-coding
 images:
 - caption: CDK9 expression
@@ -38,40 +38,36 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54ya12.125.22.jpg
 name: cyclin dependent kinase 9
-ncbi_id: '454025'
+ncbi_id: '417226'
 orthologs:
-- ensembl: ''
-  entrez: '37586'
-  mod: FBgn0019949
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136807
   entrez: '1025'
   mod: MIM:603251
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000009555
   entrez: '107951'
   mod: MGI:1328368
   phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 448039,735101,380229
-  mod: '483720'
+- ensembl: ENSXETG00000024742
+  entrez: '448039'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000044811
   entrez: '321602'
   mod: ZFIN:ZDB-GENE-030131-321
-  phenotypes: ZDB-GENE-030131-321
+  phenotypes: DNA damage response, DNA repair, cardiac muscle tissue regeneration,
+    cell population proliferation, inflammatory response to wounding
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454025
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417226
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454025
+  url: https://www.ncbi.nlm.nih.gov/gene/417226
 species: Gallus gallus
 symbol: CDK9
 title: CDK9
@@ -97,9 +93,8 @@ title: CDK9
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [37586](https://www.ncbi.nlm.nih.gov/gene/37586) | FBgn0019949 |  |
 | Human | [ENSG00000136807](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136807) | [1025](https://www.ncbi.nlm.nih.gov/gene/1025) | [MIM:603251](https://omim.org/entry/603251) |  |
-| Mouse |  | [107951](https://www.ncbi.nlm.nih.gov/gene/107951) | [MGI:1328368](http://www.informatics.jax.org/marker/MGI:1328368) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [448039](https://www.ncbi.nlm.nih.gov/gene/448039), [735101](https://www.ncbi.nlm.nih.gov/gene/735101), [380229](https://www.ncbi.nlm.nih.gov/gene/380229) | [483720](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483720) |  |
-| Zebrafish | [ENSDARG00000044811](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044811) | [321602](https://www.ncbi.nlm.nih.gov/gene/321602) | [ZFIN:ZDB-GENE-030131-321](https://zfin.org/ZDB-GENE-030131-321) | ZDB-GENE-030131-321 |
+| Mouse | [ENSMUSG00000009555](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000009555) | [107951](https://www.ncbi.nlm.nih.gov/gene/107951) | [MGI:1328368](http://www.informatics.jax.org/marker/MGI:1328368) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
+| Xenopus | [ENSXETG00000024742](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000024742) | [448039](https://www.ncbi.nlm.nih.gov/gene/448039) |  |  |
+| Zebrafish | [ENSDARG00000044811](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044811) | [321602](https://www.ncbi.nlm.nih.gov/gene/321602) | [ZFIN:ZDB-GENE-030131-321](https://zfin.org/ZDB-GENE-030131-321) | DNA damage response, DNA repair, cardiac muscle tissue regeneration, cell population proliferation, inflammatory response to wounding |
 

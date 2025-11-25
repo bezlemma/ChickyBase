@@ -4,8 +4,6 @@ aliases:
 - DLX3 homeodomain containing protein
 cgnc_id: '49390'
 external_ids:
-  '19': stage 19
-  '25': stage 25stage 25
   Citation: Stephen T Brown 1, Juemei Wang, Andrew K Groves. Dlx gene expression during
     chick inner ear development. J Comp Neurol. 2005 Feb 28;483(1):48-65.0
   Comments: Insufficient information provided in publication to verify exact sequence
@@ -17,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395590
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204804
   X-XIV: stage XIII
-gene_id: '468731'
+gene_id: '395590'
 gene_type: protein-coding
 images:
 - caption: DLX3 expression
@@ -443,13 +441,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX3.Trevers.2023-Fig7-5-M.jpg
 name: distal-less homeobox 3
-ncbi_id: '468731'
+ncbi_id: '395590'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000064195
   entrez: '1747'
   mod: MIM:600525
@@ -460,20 +453,22 @@ orthologs:
   mod: MGI:94903
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 594954,779428,394327
-  mod: '5879292'
+- ensembl: ENSXETG00000021919
+  entrez: '594954'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000014626
   entrez: '30585'
   mod: ZFIN:ZDB-GENE-980526-280
-  phenotypes: ZDB-GENE-980526-280
+  phenotypes: auditory receptor cell fate specification, camera-type eye development,
+    cartilage development, embryonic skeletal system development, embryonic viscerocranium
+    morphogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468731
+  url: https://www.ncbi.nlm.nih.gov/gene/395590
 species: Gallus gallus
 symbol: DLX3
 title: DLX3
@@ -498,9 +493,8 @@ title: DLX3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000064195](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000064195) | [1747](https://www.ncbi.nlm.nih.gov/gene/1747) | [MIM:600525](https://omim.org/entry/600525) |  |
 | Mouse | [ENSMUSG00000001510](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001510) | [13393](https://www.ncbi.nlm.nih.gov/gene/13393) | [MGI:94903](http://www.informatics.jax.org/marker/MGI:94903) |  |
-| Xenopus |  | [594954](https://www.ncbi.nlm.nih.gov/gene/594954), [779428](https://www.ncbi.nlm.nih.gov/gene/779428), [394327](https://www.ncbi.nlm.nih.gov/gene/394327) | [5879292](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5879292) |  |
-| Zebrafish | [ENSDARG00000014626](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014626) | [30585](https://www.ncbi.nlm.nih.gov/gene/30585) | [ZFIN:ZDB-GENE-980526-280](https://zfin.org/ZDB-GENE-980526-280) | ZDB-GENE-980526-280 |
+| Xenopus | [ENSXETG00000021919](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021919) | [594954](https://www.ncbi.nlm.nih.gov/gene/594954) |  |  |
+| Zebrafish | [ENSDARG00000014626](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014626) | [30585](https://www.ncbi.nlm.nih.gov/gene/30585) | [ZFIN:ZDB-GENE-980526-280](https://zfin.org/ZDB-GENE-980526-280) | auditory receptor cell fate specification, camera-type eye development, cartilage development, embryonic skeletal system development, embryonic viscerocranium morphogenesis |
 

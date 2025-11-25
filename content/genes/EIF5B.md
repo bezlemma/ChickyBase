@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395514
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001038496
-gene_id: '449662'
+gene_id: '395514'
 gene_type: protein-coding
 images:
 - caption: EIF5B expression
@@ -29,13 +29,8 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/E07_11_2_mag.jpg
 name: eukaryotic translation initiation factor 5B
-ncbi_id: '449662'
+ncbi_id: '395514'
 orthologs:
-- ensembl: ''
-  entrez: '44261'
-  mod: FBgn0026259
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000158417
   entrez: '9669'
   mod: MIM:606086
@@ -46,23 +41,23 @@ orthologs:
   mod: MGI:2441772
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100492012,446935
-  mod: '6258155'
+- ensembl: ENSXETG00000019377
+  entrez: '100492012'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000016548
   entrez: '561194'
   mod: ZFIN:ZDB-GENE-050208-20
-  phenotypes: ZDB-GENE-050208-20
+  phenotypes: translation, translational initiation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449662
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395514
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449662
+  url: https://www.ncbi.nlm.nih.gov/gene/395514
 species: Gallus gallus
 symbol: EIF5B
 title: EIF5B
@@ -88,9 +83,8 @@ title: EIF5B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [44261](https://www.ncbi.nlm.nih.gov/gene/44261) | FBgn0026259 |  |
 | Human | [ENSG00000158417](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000158417) | [9669](https://www.ncbi.nlm.nih.gov/gene/9669) | [MIM:606086](https://omim.org/entry/606086) |  |
 | Mouse | [ENSMUSG00000026083](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026083) | [226982](https://www.ncbi.nlm.nih.gov/gene/226982) | [MGI:2441772](http://www.informatics.jax.org/marker/MGI:2441772) |  |
-| Xenopus |  | [100492012](https://www.ncbi.nlm.nih.gov/gene/100492012), [446935](https://www.ncbi.nlm.nih.gov/gene/446935) | [6258155](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6258155) |  |
-| Zebrafish | [ENSDARG00000016548](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016548) | [561194](https://www.ncbi.nlm.nih.gov/gene/561194) | [ZFIN:ZDB-GENE-050208-20](https://zfin.org/ZDB-GENE-050208-20) | ZDB-GENE-050208-20 |
+| Xenopus | [ENSXETG00000019377](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019377) | [100492012](https://www.ncbi.nlm.nih.gov/gene/100492012) |  |  |
+| Zebrafish | [ENSDARG00000016548](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016548) | [561194](https://www.ncbi.nlm.nih.gov/gene/561194) | [ZFIN:ZDB-GENE-050208-20](https://zfin.org/ZDB-GENE-050208-20) | translation, translational initiation |
 

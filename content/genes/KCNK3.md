@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428382
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641055
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/KCNK9
-gene_id: '462578'
+gene_id: '428382'
 gene_type: protein-coding
 images:
 - caption: KCNK3 expression
@@ -56,37 +56,28 @@ images:
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TASK1.Zhang.2009.2d.png
 name: potassium two pore domain channel subfamily K member 3
-ncbi_id: '462578'
+ncbi_id: '428382'
 orthologs:
-- ensembl: ''
-  entrez: '41125'
-  mod: FBgn0037690
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: '51305'
-  mod: MIM:605874
+- ensembl: ENSG00000171303
+  entrez: '3777'
+  mod: MIM:603220
   phenotypes: MIM:612292
   species: Human
-- ensembl: ENSMUSG00000036760
-  entrez: '223604'
-  mod: MGI:3521816
+- ensembl: ENSMUSG00000049265
+  entrez: '16527'
+  mod: MGI:1100509
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(4) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100379982,494803
-  mod: '952038'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000063560
-  entrez: '799704'
-  mod: ZFIN:ZDB-GENE-070705-260
-  phenotypes: ZDB-GENE-070705-260
+- ensembl: ENSDARG00000043466
+  entrez: '561866'
+  mod: ZFIN:ZDB-GENE-040724-171
+  phenotypes: heart contraction, monoatomic ion transmembrane transport, monoatomic
+    ion transport, potassium ion transmembrane transport, potassium ion transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462578
+  url: https://www.ncbi.nlm.nih.gov/gene/428382
 species: Gallus gallus
 symbol: KCNK3
 title: KCNK3
@@ -115,9 +106,7 @@ title: KCNK3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41125](https://www.ncbi.nlm.nih.gov/gene/41125) | FBgn0037690 |  |
-| Human |  | [51305](https://www.ncbi.nlm.nih.gov/gene/51305) | [MIM:605874](https://omim.org/entry/605874) | MIM:612292 |
-| Mouse | [ENSMUSG00000036760](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036760) | [223604](https://www.ncbi.nlm.nih.gov/gene/223604) | [MGI:3521816](http://www.informatics.jax.org/marker/MGI:3521816) | All phenotypic alleles (7):Targeted, knock-out(4) Targeted, other(3) |
-| Xenopus |  | [100379982](https://www.ncbi.nlm.nih.gov/gene/100379982), [494803](https://www.ncbi.nlm.nih.gov/gene/494803) | [952038](http://www.xenbase.org/gene/showgene.do?method=display&geneId=952038) |  |
-| Zebrafish | [ENSDARG00000063560](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063560) | [799704](https://www.ncbi.nlm.nih.gov/gene/799704) | [ZFIN:ZDB-GENE-070705-260](https://zfin.org/ZDB-GENE-070705-260) | ZDB-GENE-070705-260 |
+| Human | [ENSG00000171303](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171303) | [3777](https://www.ncbi.nlm.nih.gov/gene/3777) | [MIM:603220](https://omim.org/entry/603220) | MIM:612292 |
+| Mouse | [ENSMUSG00000049265](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049265) | [16527](https://www.ncbi.nlm.nih.gov/gene/16527) | [MGI:1100509](http://www.informatics.jax.org/marker/MGI:1100509) | All phenotypic alleles (7):Targeted, knock-out(4) Targeted, other(3) |
+| Zebrafish | [ENSDARG00000043466](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043466) | [561866](https://www.ncbi.nlm.nih.gov/gene/561866) | [ZFIN:ZDB-GENE-040724-171](https://zfin.org/ZDB-GENE-040724-171) | heart contraction, monoatomic ion transmembrane transport, monoatomic ion transport, potassium ion transmembrane transport, potassium ion transport |
 

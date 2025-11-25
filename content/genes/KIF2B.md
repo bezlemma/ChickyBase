@@ -3,14 +3,13 @@ aliases:
 - kinesin-like protein KIF2B
 cgnc_id: '2174'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000003007
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417390
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415645
 forward_primer: TGTGGTGACAGTGTCCTGC
-gene_id: '454372'
+gene_id: '417390'
 gene_type: protein-coding
 images:
 - caption: KIF2B expression
@@ -67,7 +66,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R720.KIF2B.S25.001.jpg
 name: kinesin family member 2B
-ncbi_id: '454372'
+ncbi_id: '417390'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -98,10 +97,10 @@ reverse_primer: AGCTCCTTCACACGGTTGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454372
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417390
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454372
+  url: https://www.ncbi.nlm.nih.gov/gene/417390
 species: Gallus gallus
 symbol: KIF2B
 template_length: '909'

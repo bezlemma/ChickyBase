@@ -5,7 +5,6 @@ aliases:
 - cartilage-linking protein 1
 cgnc_id: '49825'
 external_ids:
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007155
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005578
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Schoenwolf+2003+Colas+CRTL1+chick+embryo+brain+research
@@ -18,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396475
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005540
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205482
-gene_id: '461118'
+gene_id: '396475'
 gene_type: protein-coding
 images:
 - caption: HAPLN1 expression
@@ -149,13 +148,8 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Colas.Fig.3.CRTL1.H.ST11.jpg
 name: hyaluronan and proteoglycan link protein 1
-ncbi_id: '461118'
+ncbi_id: '396475'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000145681
   entrez: '1404'
   mod: MIM:115435
@@ -166,23 +160,24 @@ orthologs:
   mod: MGI:1337006
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000019797
   entrez: '100490017'
-  mod: '6037476'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000068516,ENSDARG00000089769
-  entrez: 569074,493635
-  mod: ZFIN:ZDB-GENE-050920-1,ZFIN:ZDB-GENE-050302-175
-  phenotypes: ZDB-GENE-050920-1,ZDB-GENE-050302-175
+- ensembl: ENSDARG00000068516
+  entrez: '569074'
+  mod: ZFIN:ZDB-GENE-050920-1
+  phenotypes: cardiac muscle tissue regeneration, cell adhesion, central nervous system
+    development, skeletal system development, sprouting angiogenesis
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461118
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396475
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461118
+  url: https://www.ncbi.nlm.nih.gov/gene/396475
 species: Gallus gallus
 symbol: HAPLN1
 title: HAPLN1
@@ -211,9 +206,8 @@ title: HAPLN1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000145681](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145681) | [1404](https://www.ncbi.nlm.nih.gov/gene/1404) | [MIM:115435](https://omim.org/entry/115435) |  |
 | Mouse | [ENSMUSG00000021613](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021613) | [12950](https://www.ncbi.nlm.nih.gov/gene/12950) | [MGI:1337006](http://www.informatics.jax.org/marker/MGI:1337006) | All phenotypic alleles (3):Targeted, knock-out(3) |
-| Xenopus |  | [100490017](https://www.ncbi.nlm.nih.gov/gene/100490017) | [6037476](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6037476) |  |
-| Zebrafish | [ENSDARG00000068516](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068516), [ENSDARG00000089769](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089769) | [569074](https://www.ncbi.nlm.nih.gov/gene/569074), [493635](https://www.ncbi.nlm.nih.gov/gene/493635) | [ZFIN:ZDB-GENE-050920-1](https://zfin.org/ZDB-GENE-050920-1), [ZFIN:ZDB-GENE-050302-175](https://zfin.org/ZDB-GENE-050302-175) | ZDB-GENE-050920-1,ZDB-GENE-050302-175 |
+| Xenopus | [ENSXETG00000019797](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019797) | [100490017](https://www.ncbi.nlm.nih.gov/gene/100490017) |  |  |
+| Zebrafish | [ENSDARG00000068516](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000068516) | [569074](https://www.ncbi.nlm.nih.gov/gene/569074) | [ZFIN:ZDB-GENE-050920-1](https://zfin.org/ZDB-GENE-050920-1) | cardiac muscle tissue regeneration, cell adhesion, central nervous system development, skeletal system development, sprouting angiogenesis |
 

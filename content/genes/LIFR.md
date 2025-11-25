@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395262
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204575
 forward_primer: 5’-TCCCTGTGGCAGTGGTTTTT-3’
-gene_id: '461413'
+gene_id: '395262'
 gene_type: protein-coding
 images:
 - caption: LIFR expression
@@ -159,13 +159,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R634.LIFR.S26AAAAA.001.jpg
 name: leukemia inhibitory factor receptor alpha
-ncbi_id: '461413'
+ncbi_id: '395262'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000113594
   entrez: '3977'
   mod: MIM:151443
@@ -176,24 +171,25 @@ orthologs:
   mod: MGI:96788
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000013223
   entrez: '100485281'
-  mod: '485213'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000039863,ENSDARG00000042909
-  entrez: 565104,541493
-  mod: ZFIN:ZDB-GENE-080107-2,ZFIN:ZDB-GENE-050327-16
-  phenotypes: ZDB-GENE-080107-2,ZDB-GENE-050327-16
+- ensembl: ENSDARG00000039863
+  entrez: '565104'
+  mod: ZFIN:ZDB-GENE-080107-2
+  phenotypes: cytokine-mediated signaling pathway, positive regulation of cell population
+    proliferation
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGACCTCTGCTGACTGTCTCCA-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461413
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395262
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461413
+  url: https://www.ncbi.nlm.nih.gov/gene/395262
 species: Gallus gallus
 symbol: LIFR
 template_length: '907'
@@ -216,9 +212,8 @@ title: LIFR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000113594](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113594) | [3977](https://www.ncbi.nlm.nih.gov/gene/3977) | [MIM:151443](https://omim.org/entry/151443) | MIM:601559 |
 | Mouse | [ENSMUSG00000054263](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000054263) | [16880](https://www.ncbi.nlm.nih.gov/gene/16880) | [MGI:96788](http://www.informatics.jax.org/marker/MGI:96788) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [100485281](https://www.ncbi.nlm.nih.gov/gene/100485281) | [485213](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485213) |  |
-| Zebrafish | [ENSDARG00000039863](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039863), [ENSDARG00000042909](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042909) | [565104](https://www.ncbi.nlm.nih.gov/gene/565104), [541493](https://www.ncbi.nlm.nih.gov/gene/541493) | [ZFIN:ZDB-GENE-080107-2](https://zfin.org/ZDB-GENE-080107-2), [ZFIN:ZDB-GENE-050327-16](https://zfin.org/ZDB-GENE-050327-16) | ZDB-GENE-080107-2,ZDB-GENE-050327-16 |
+| Xenopus | [ENSXETG00000013223](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013223) | [100485281](https://www.ncbi.nlm.nih.gov/gene/100485281) |  |  |
+| Zebrafish | [ENSDARG00000039863](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039863) | [565104](https://www.ncbi.nlm.nih.gov/gene/565104) | [ZFIN:ZDB-GENE-080107-2](https://zfin.org/ZDB-GENE-080107-2) | cytokine-mediated signaling pathway, positive regulation of cell population proliferation |
 

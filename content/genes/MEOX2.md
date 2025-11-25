@@ -3,7 +3,6 @@ aliases:
 - homeobox protein MOX-2
 cgnc_id: '8206'
 external_ids:
-  '25': stage 25stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Rallis+2001+Mox2
   Comments: The complete cDNA template sequence was obtained from the information
     in the publication as described in Rallis et al. 2001.
@@ -14,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374137
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001005427
 forward_primer: AAAAAAGGCACGCTGCTCCC
-gene_id: '455203'
+gene_id: '374137'
 gene_type: protein-coding
 images:
 - caption: MEOX2 expression
@@ -318,42 +317,39 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Mox2.Rallis.2001.Fig3.jpg
 name: mesenchyme homeobox 2
-ncbi_id: '455203'
+ncbi_id: '374137'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000106511
   entrez: '4223'
   mod: MIM:600535
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000036144
   entrez: '17286'
   mod: MGI:103219
   phenotypes: All phenotypic alleles (4):Spontaneous(1) Targeted, knock-out(1) Targeted,
     other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100144655,380365,100337513
-  mod: '852817'
+- ensembl: ENSXETG00000005051
+  entrez: '100144655'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000040911
-  entrez: 556898,64266
-  mod: ZFIN:ZDB-GENE-060503-853,ZFIN:ZDB-GENE-080613-1
-  phenotypes: ZDB-GENE-060503-853,ZDB-GENE-080613-1
+  entrez: '556898'
+  mod: ZFIN:ZDB-GENE-080613-1
+  phenotypes: positive regulation of transcription by RNA polymerase II, regulation
+    of DNA-templated transcription, regulation of transcription by RNA polymerase
+    II, somite development
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGCTGAAGATGAAGAGACATTTCCGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455203
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374137
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455203
+  url: https://www.ncbi.nlm.nih.gov/gene/374137
 species: Gallus gallus
 symbol: MEOX2
 template_length: '954'
@@ -380,9 +376,8 @@ title: MEOX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000106511](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000106511) | [4223](https://www.ncbi.nlm.nih.gov/gene/4223) | [MIM:600535](https://omim.org/entry/600535) |  |
-| Mouse |  | [17286](https://www.ncbi.nlm.nih.gov/gene/17286) | [MGI:103219](http://www.informatics.jax.org/marker/MGI:103219) | All phenotypic alleles (4):Spontaneous(1) Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100144655](https://www.ncbi.nlm.nih.gov/gene/100144655), [380365](https://www.ncbi.nlm.nih.gov/gene/380365), [100337513](https://www.ncbi.nlm.nih.gov/gene/100337513) | [852817](http://www.xenbase.org/gene/showgene.do?method=display&geneId=852817) |  |
-| Zebrafish | [ENSDARG00000040911](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040911) | [556898](https://www.ncbi.nlm.nih.gov/gene/556898), [64266](https://www.ncbi.nlm.nih.gov/gene/64266) | [ZFIN:ZDB-GENE-060503-853](https://zfin.org/ZDB-GENE-060503-853), [ZFIN:ZDB-GENE-080613-1](https://zfin.org/ZDB-GENE-080613-1) | ZDB-GENE-060503-853,ZDB-GENE-080613-1 |
+| Mouse | [ENSMUSG00000036144](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036144) | [17286](https://www.ncbi.nlm.nih.gov/gene/17286) | [MGI:103219](http://www.informatics.jax.org/marker/MGI:103219) | All phenotypic alleles (4):Spontaneous(1) Targeted, knock-out(1) Targeted, other(2) |
+| Xenopus | [ENSXETG00000005051](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005051) | [100144655](https://www.ncbi.nlm.nih.gov/gene/100144655) |  |  |
+| Zebrafish | [ENSDARG00000040911](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040911) | [556898](https://www.ncbi.nlm.nih.gov/gene/556898) | [ZFIN:ZDB-GENE-080613-1](https://zfin.org/ZDB-GENE-080613-1) | positive regulation of transcription by RNA polymerase II, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II, somite development |
 

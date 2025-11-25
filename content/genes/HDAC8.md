@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422182
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420178
 forward_primer: ATCTTTGACTACGCAGCAGCCG
-gene_id: '450611'
+gene_id: '422182'
 gene_type: protein-coding
 images:
 - caption: HDAC8 expression
@@ -241,13 +241,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HDAC8.Murko.2010
     for figure 2 panel P.png
 name: histone deacetylase 8
-ncbi_id: '450611'
+ncbi_id: '422182'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000147099
   entrez: '55869'
   mod: MIM:300269
@@ -258,24 +253,25 @@ orthologs:
   mod: MGI:1917565
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100145561,444137
-  mod: '5863425'
+- ensembl: ENSXETG00000020527
+  entrez: '100145561'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000003021
   entrez: '406740'
   mod: ZFIN:ZDB-GENE-040426-2772
-  phenotypes: ZDB-GENE-040426-2772
+  phenotypes: carbohydrate metabolic process, central nervous system development,
+    chromatin organization, glycogen metabolic process, heterochromatin formation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGAGCCTTCCCTTCTCCACTAAAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450611
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422182
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450611
+  url: https://www.ncbi.nlm.nih.gov/gene/422182
 species: Gallus gallus
 symbol: HDAC8
 template_length: '831'
@@ -302,9 +298,8 @@ title: HDAC8
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000147099](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000147099) | [55869](https://www.ncbi.nlm.nih.gov/gene/55869) | [MIM:300269](https://omim.org/entry/300269) |  |
 | Mouse | [ENSMUSG00000067567](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000067567) | [70315](https://www.ncbi.nlm.nih.gov/gene/70315) | [MGI:1917565](http://www.informatics.jax.org/marker/MGI:1917565) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100145561](https://www.ncbi.nlm.nih.gov/gene/100145561), [444137](https://www.ncbi.nlm.nih.gov/gene/444137) | [5863425](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5863425) |  |
-| Zebrafish | [ENSDARG00000003021](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003021) | [406740](https://www.ncbi.nlm.nih.gov/gene/406740) | [ZFIN:ZDB-GENE-040426-2772](https://zfin.org/ZDB-GENE-040426-2772) | ZDB-GENE-040426-2772 |
+| Xenopus | [ENSXETG00000020527](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020527) | [100145561](https://www.ncbi.nlm.nih.gov/gene/100145561) |  |  |
+| Zebrafish | [ENSDARG00000003021](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003021) | [406740](https://www.ncbi.nlm.nih.gov/gene/406740) | [ZFIN:ZDB-GENE-040426-2772](https://zfin.org/ZDB-GENE-040426-2772) | carbohydrate metabolic process, central nervous system development, chromatin organization, glycogen metabolic process, heterochromatin formation |
 

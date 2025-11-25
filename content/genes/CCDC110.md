@@ -7,7 +7,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
 forward_primer: 5'-ATCTGGCACTGATTCGGAGACG-3'
-gene_id: '505155'
+gene_id: '101750861'
 gene_type: unknown
 images:
 - caption: CCDC110 expression
@@ -70,41 +70,26 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R625.CCDC110.S26.001.jpg
 name: coiled-coil domain containing 110
-ncbi_id: '505155'
+ncbi_id: '101750861'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000168491
+  entrez: '256309'
+  mod: MIM:609488
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000071104
+  entrez: '212392'
+  mod: MGI:2685018
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGGGAGCATTTGTGTTTCAAGGACTC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=505155
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=101750861
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/505155
+  url: https://www.ncbi.nlm.nih.gov/gene/101750861
 species: Gallus gallus
 symbol: CCDC110
 template_length: '568'
@@ -125,9 +110,6 @@ title: CCDC110
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000168491](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000168491) | [256309](https://www.ncbi.nlm.nih.gov/gene/256309) | [MIM:609488](https://omim.org/entry/609488) |  |
+| Mouse | [ENSMUSG00000071104](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000071104) | [212392](https://www.ncbi.nlm.nih.gov/gene/212392) | [MGI:2685018](http://www.informatics.jax.org/marker/MGI:2685018) |  |
 

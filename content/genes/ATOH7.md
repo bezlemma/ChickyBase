@@ -9,8 +9,6 @@ aliases:
 - protein atonal homolog 5
 cgnc_id: '2882'
 external_ids:
-  '19': stage 19stage 19
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007623
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Heine+dohle+engelkamp+homothorax
@@ -26,7 +24,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204668
 forward_primer: CCAGTCATTTGGATTCAGGAGTAG
-gene_id: '448974'
+gene_id: '395388'
 gene_type: protein-coding
 images:
 - caption: ATOH7 expression
@@ -164,13 +162,8 @@ images:
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Heine.2008.f1.ath5.png
 name: atonal bHLH transcription factor 7
-ncbi_id: '448974'
+ncbi_id: '395388'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000179774
   entrez: '220202'
   mod: MIM:609875
@@ -181,24 +174,25 @@ orthologs:
   mod: MGI:1355553
   phenotypes: All phenotypic alleles (7):Targeted, other(7)
   species: Mouse
-- ensembl: ''
-  entrez: 100493495,378577,378576
-  mod: '989021'
+- ensembl: ENSXETG00000023575
+  entrez: '100493495'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000069552
   entrez: '58216'
   mod: ZFIN:ZDB-GENE-000926-1
-  phenotypes: ZDB-GENE-000926-1
+  phenotypes: axon development, camera-type eye development, cell differentiation,
+    cell fate commitment, eye development
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTGTCTGTTGCCACTTTTTGTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448974
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395388
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448974
+  url: https://www.ncbi.nlm.nih.gov/gene/395388
 species: Gallus gallus
 symbol: ATOH7
 template_length: '378'
@@ -228,9 +222,8 @@ title: ATOH7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000179774](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000179774) | [220202](https://www.ncbi.nlm.nih.gov/gene/220202) | [MIM:609875](https://omim.org/entry/609875) |  |
 | Mouse | [ENSMUSG00000036816](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036816) | [53404](https://www.ncbi.nlm.nih.gov/gene/53404) | [MGI:1355553](http://www.informatics.jax.org/marker/MGI:1355553) | All phenotypic alleles (7):Targeted, other(7) |
-| Xenopus |  | [100493495](https://www.ncbi.nlm.nih.gov/gene/100493495), [378577](https://www.ncbi.nlm.nih.gov/gene/378577), [378576](https://www.ncbi.nlm.nih.gov/gene/378576) | [989021](http://www.xenbase.org/gene/showgene.do?method=display&geneId=989021) |  |
-| Zebrafish | [ENSDARG00000069552](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069552) | [58216](https://www.ncbi.nlm.nih.gov/gene/58216) | [ZFIN:ZDB-GENE-000926-1](https://zfin.org/ZDB-GENE-000926-1) | ZDB-GENE-000926-1 |
+| Xenopus | [ENSXETG00000023575](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023575) | [100493495](https://www.ncbi.nlm.nih.gov/gene/100493495) |  |  |
+| Zebrafish | [ENSDARG00000069552](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069552) | [58216](https://www.ncbi.nlm.nih.gov/gene/58216) | [ZFIN:ZDB-GENE-000926-1](https://zfin.org/ZDB-GENE-000926-1) | axon development, camera-type eye development, cell differentiation, cell fate commitment, eye development |
 

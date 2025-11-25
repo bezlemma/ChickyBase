@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769516
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001080716
-gene_id: '460154'
+gene_id: '769516'
 gene_type: protein-coding
 images:
 - caption: ROR2 expression
@@ -168,13 +168,8 @@ images:
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ror2.imageCHH35fig4
 name: receptor tyrosine kinase like orphan receptor 2
-ncbi_id: '460154'
+ncbi_id: '769516'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000169071
   entrez: '4920'
   mod: MIM:602337
@@ -186,20 +181,22 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Transposon induced(1) Targeted, knock-out(2)
     Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 548551,398399
-  mod: '491497'
+- ensembl: ENSXETG00000000802
+  entrez: '548551'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000076227
-  entrez: 561183,692066
+- ensembl: ENSDARG00000116710
+  entrez: '561183'
   mod: ZFIN:ZDB-GENE-060427-5
-  phenotypes: ZDB-GENE-060427-5
+  phenotypes: Wnt signaling pathway, cell surface receptor protein tyrosine kinase
+    signaling pathway, convergent extension involved in gastrulation, phosphorylation,
+    protein phosphorylation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460154
+  url: https://www.ncbi.nlm.nih.gov/gene/769516
 species: Gallus gallus
 symbol: ROR2
 title: ROR2
@@ -224,9 +221,8 @@ title: ROR2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000169071](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169071) | [4920](https://www.ncbi.nlm.nih.gov/gene/4920) | [MIM:602337](https://omim.org/entry/602337) | MIM:113000 |
 | Mouse | [ENSMUSG00000021464](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021464) | [26564](https://www.ncbi.nlm.nih.gov/gene/26564) | [MGI:1347521](http://www.informatics.jax.org/marker/MGI:1347521) | All phenotypic alleles (5):Transposon induced(1) Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [548551](https://www.ncbi.nlm.nih.gov/gene/548551), [398399](https://www.ncbi.nlm.nih.gov/gene/398399) | [491497](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491497) |  |
-| Zebrafish | [ENSDARG00000076227](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076227) | [561183](https://www.ncbi.nlm.nih.gov/gene/561183), [692066](https://www.ncbi.nlm.nih.gov/gene/692066) | [ZFIN:ZDB-GENE-060427-5](https://zfin.org/ZDB-GENE-060427-5) | ZDB-GENE-060427-5 |
+| Xenopus | [ENSXETG00000000802](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000802) | [548551](https://www.ncbi.nlm.nih.gov/gene/548551) |  |  |
+| Zebrafish | [ENSDARG00000116710](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116710) | [561183](https://www.ncbi.nlm.nih.gov/gene/561183) | [ZFIN:ZDB-GENE-060427-5](https://zfin.org/ZDB-GENE-060427-5) | Wnt signaling pathway, cell surface receptor protein tyrosine kinase signaling pathway, convergent extension involved in gastrulation, phosphorylation, protein phosphorylation |
 

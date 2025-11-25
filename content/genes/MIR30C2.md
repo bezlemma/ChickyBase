@@ -7,7 +7,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018320
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006090.3?report=genbank&from=81779099&to=81779170
-gene_id: '467992'
+gene_id: '777809'
 gene_type: miscRNA
 images:
 - caption: MIR30C2 expression
@@ -25,7 +25,7 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/30c.10.st21.002.jpg
 name: microRNA 30c-2
-ncbi_id: '467992'
+ncbi_id: '777809'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -55,10 +55,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467992
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=777809
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467992
+  url: https://www.ncbi.nlm.nih.gov/gene/777809
 species: Gallus gallus
 symbol: MIR30C2
 title: MIR30C2

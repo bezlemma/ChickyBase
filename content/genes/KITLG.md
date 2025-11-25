@@ -9,7 +9,6 @@ aliases:
 - mast cell growth factor
 cgnc_id: '8510'
 external_ids:
-  '25': stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007155
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005576
   Citation: http://www.ncbi.nlm.nih.gov/sites/entrez?term=development%20unexpected%20limb%20Reedy&cmd=search&db=pubmed
@@ -28,7 +27,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008083
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001105315
 forward_primer: GTCAAAGCCCAGAGTTCCTGC
-gene_id: '459280'
+gene_id: '396028'
 gene_type: protein-coding
 images:
 - caption: KITLG expression
@@ -307,14 +306,9 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1F.Kit.Reedy.2003.jpg
 name: KIT ligand
-ncbi_id: '459280'
+ncbi_id: '396028'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000049130
   entrez: '4254'
   mod: MIM:184745
   phenotypes: MIM:611664
@@ -325,24 +319,19 @@ orthologs:
   phenotypes: All phenotypic alleles (51):Targeted, knock-out(1) Targeted, other(2)
     Spontaneous(18) Chemically induced(14) Radiation induced(14) Other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 733847,379817
-  mod: '490159'
+- ensembl: ENSXETG00000011735
+  entrez: '733847'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000070917,ENSDARG00000058042
-  entrez: 553179,553181
-  mod: ZFIN:ZDB-GENE-070424-1,ZFIN:ZDB-GENE-070424-2
-  phenotypes: ZDB-GENE-070424-1,ZDB-GENE-070424-2
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGCTAATGAAGCCAAGTGCCTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459280
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396028
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459280
+  url: https://www.ncbi.nlm.nih.gov/gene/396028
 species: Gallus gallus
 symbol: KITLG
 template_length: '415'
@@ -372,9 +361,7 @@ title: KITLG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [4254](https://www.ncbi.nlm.nih.gov/gene/4254) | [MIM:184745](https://omim.org/entry/184745) | MIM:611664 |
+| Human | [ENSG00000049130](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000049130) | [4254](https://www.ncbi.nlm.nih.gov/gene/4254) | [MIM:184745](https://omim.org/entry/184745) | MIM:611664 |
 | Mouse | [ENSMUSG00000019966](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019966) | [17311](https://www.ncbi.nlm.nih.gov/gene/17311) | [MGI:96974](http://www.informatics.jax.org/marker/MGI:96974) | All phenotypic alleles (51):Targeted, knock-out(1) Targeted, other(2) Spontaneous(18) Chemically induced(14) Radiation induced(14) Other(2) |
-| Xenopus |  | [733847](https://www.ncbi.nlm.nih.gov/gene/733847), [379817](https://www.ncbi.nlm.nih.gov/gene/379817) | [490159](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490159) |  |
-| Zebrafish | [ENSDARG00000070917](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070917), [ENSDARG00000058042](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058042) | [553179](https://www.ncbi.nlm.nih.gov/gene/553179), [553181](https://www.ncbi.nlm.nih.gov/gene/553181) | [ZFIN:ZDB-GENE-070424-1](https://zfin.org/ZDB-GENE-070424-1), [ZFIN:ZDB-GENE-070424-2](https://zfin.org/ZDB-GENE-070424-2) | ZDB-GENE-070424-1,ZDB-GENE-070424-2 |
+| Xenopus | [ENSXETG00000011735](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011735) | [733847](https://www.ncbi.nlm.nih.gov/gene/733847) |  |  |
 

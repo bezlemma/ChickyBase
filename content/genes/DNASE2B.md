@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424540
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001037838
 forward_primer: 5’-GCGATCTATAATGATGAGGTCC-3’
-gene_id: '451596'
+gene_id: '424540'
 gene_type: protein-coding
 images:
 - caption: DNASE2B expression
@@ -224,41 +224,36 @@ images:
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R685.DNASE2B.D15.002.jpg
 name: deoxyribonuclease 2 beta
-ncbi_id: '451596'
+ncbi_id: '424540'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000137976
   entrez: '58511'
   mod: MIM:608057
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000028185
   entrez: '56629'
   mod: MGI:1913283
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000025076
   entrez: '496759'
-  mod: '980312'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000077918
   entrez: '562996'
   mod: ZFIN:ZDB-GENE-090824-2
-  phenotypes: ZDB-GENE-090824-2
+  phenotypes: DNA metabolic process, apoptotic DNA fragmentation
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCAGTCCATTTATATCCACGTGG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451596
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424540
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451596
+  url: https://www.ncbi.nlm.nih.gov/gene/424540
 species: Gallus gallus
 symbol: DNASE2B
 template_length: '788'
@@ -281,9 +276,8 @@ title: DNASE2B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000137976](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137976) | [58511](https://www.ncbi.nlm.nih.gov/gene/58511) | [MIM:608057](https://omim.org/entry/608057) |  |
-| Mouse |  | [56629](https://www.ncbi.nlm.nih.gov/gene/56629) | [MGI:1913283](http://www.informatics.jax.org/marker/MGI:1913283) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [496759](https://www.ncbi.nlm.nih.gov/gene/496759) | [980312](http://www.xenbase.org/gene/showgene.do?method=display&geneId=980312) |  |
-| Zebrafish | [ENSDARG00000077918](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077918) | [562996](https://www.ncbi.nlm.nih.gov/gene/562996) | [ZFIN:ZDB-GENE-090824-2](https://zfin.org/ZDB-GENE-090824-2) | ZDB-GENE-090824-2 |
+| Mouse | [ENSMUSG00000028185](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028185) | [56629](https://www.ncbi.nlm.nih.gov/gene/56629) | [MGI:1913283](http://www.informatics.jax.org/marker/MGI:1913283) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
+| Xenopus | [ENSXETG00000025076](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025076) | [496759](https://www.ncbi.nlm.nih.gov/gene/496759) |  |  |
+| Zebrafish | [ENSDARG00000077918](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077918) | [562996](https://www.ncbi.nlm.nih.gov/gene/562996) | [ZFIN:ZDB-GENE-090824-2](https://zfin.org/ZDB-GENE-090824-2) | DNA metabolic process, apoptotic DNA fragmentation |
 

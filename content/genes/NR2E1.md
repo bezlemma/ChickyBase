@@ -22,7 +22,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396082
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205170
-gene_id: '459609'
+gene_id: '396082'
 gene_type: protein-coding
 images:
 - caption: NR2E1 expression
@@ -41,13 +41,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TAILLESS.Saunders.2002.Stage
     26 for fig.7, panel D.jpg
 name: nuclear receptor subfamily 2 group E member 1
-ncbi_id: '459609'
+ncbi_id: '396082'
 orthologs:
-- ensembl: ''
-  entrez: '33823'
-  mod: FBgn0015381
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000112333
   entrez: '7101'
   mod: MIM:603849
@@ -58,20 +53,21 @@ orthologs:
   mod: MGI:1100526
   phenotypes: All phenotypic alleles (7):Spontaneous(1) Targeted, other(6)
   species: Mouse
-- ensembl: ''
-  entrez: 100491500,378567
-  mod: '483553'
+- ensembl: ENSXETG00000014853
+  entrez: '100491500'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000017107
   entrez: '445214'
   mod: ZFIN:ZDB-GENE-040801-127
-  phenotypes: ZDB-GENE-040801-127
+  phenotypes: cell differentiation, negative regulation of transcription by RNA polymerase
+    II, nervous system development, regulation of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459609
+  url: https://www.ncbi.nlm.nih.gov/gene/396082
 species: Gallus gallus
 symbol: NR2E1
 title: NR2E1
@@ -102,9 +98,8 @@ title: NR2E1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33823](https://www.ncbi.nlm.nih.gov/gene/33823) | FBgn0015381 |  |
 | Human | [ENSG00000112333](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112333) | [7101](https://www.ncbi.nlm.nih.gov/gene/7101) | [MIM:603849](https://omim.org/entry/603849) |  |
 | Mouse | [ENSMUSG00000019803](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019803) | [21907](https://www.ncbi.nlm.nih.gov/gene/21907) | [MGI:1100526](http://www.informatics.jax.org/marker/MGI:1100526) | All phenotypic alleles (7):Spontaneous(1) Targeted, other(6) |
-| Xenopus |  | [100491500](https://www.ncbi.nlm.nih.gov/gene/100491500), [378567](https://www.ncbi.nlm.nih.gov/gene/378567) | [483553](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483553) |  |
-| Zebrafish | [ENSDARG00000017107](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017107) | [445214](https://www.ncbi.nlm.nih.gov/gene/445214) | [ZFIN:ZDB-GENE-040801-127](https://zfin.org/ZDB-GENE-040801-127) | ZDB-GENE-040801-127 |
+| Xenopus | [ENSXETG00000014853](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014853) | [100491500](https://www.ncbi.nlm.nih.gov/gene/100491500) |  |  |
+| Zebrafish | [ENSDARG00000017107](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017107) | [445214](https://www.ncbi.nlm.nih.gov/gene/445214) | [ZFIN:ZDB-GENE-040801-127](https://zfin.org/ZDB-GENE-040801-127) | cell differentiation, negative regulation of transcription by RNA polymerase II, nervous system development, regulation of DNA-templated transcription |
 

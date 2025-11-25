@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395250
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003697
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204564
-gene_id: '461434'
+gene_id: '395250'
 gene_type: protein-coding
 images:
 - caption: SSBP3 expression
@@ -45,13 +45,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54yb11.122.22.jpg
 name: single stranded DNA binding protein 3
-ncbi_id: '461434'
+ncbi_id: '395250'
 orthologs:
-- ensembl: ''
-  entrez: '42177'
-  mod: FBgn0011481
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000157216
   entrez: '23648'
   mod: MIM:607390
@@ -62,23 +57,24 @@ orthologs:
   mod: MGI:1919725
   phenotypes: All phenotypic alleles (5):Targeted, other(2) Gene trapped(2) Transgenic(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100488961,379292,394816,379750
-  mod: 998010,994792
+- ensembl: ENSXETG00000019994
+  entrez: '394816'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000030155,ENSDARG00000056483,ENSDARG00000058237
-  entrez: 553590,406759,321750,100005603
-  mod: ZFIN:ZDB-GENE-050522-195,ZFIN:ZDB-GENE-040426-2801,ZFIN:ZDB-GENE-030131-469,ZFIN:ZDB-GENE-070705-484
-  phenotypes: ZDB-GENE-050522-195,ZDB-GENE-040426-2801,ZDB-GENE-030131-469,ZDB-GENE-070705-484
+- ensembl: ENSDARG00000058237
+  entrez: '100005603'
+  mod: ZFIN:ZDB-GENE-070705-484
+  phenotypes: peripheral nervous system neuron axonogenesis, positive regulation of
+    transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461434
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395250
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461434
+  url: https://www.ncbi.nlm.nih.gov/gene/395250
 species: Gallus gallus
 symbol: SSBP3
 title: SSBP3
@@ -104,9 +100,8 @@ title: SSBP3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42177](https://www.ncbi.nlm.nih.gov/gene/42177) | FBgn0011481 |  |
 | Human | [ENSG00000157216](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000157216) | [23648](https://www.ncbi.nlm.nih.gov/gene/23648) | [MIM:607390](https://omim.org/entry/607390) |  |
 | Mouse | [ENSMUSG00000061887](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061887) | [72475](https://www.ncbi.nlm.nih.gov/gene/72475) | [MGI:1919725](http://www.informatics.jax.org/marker/MGI:1919725) | All phenotypic alleles (5):Targeted, other(2) Gene trapped(2) Transgenic(1) |
-| Xenopus |  | [100488961](https://www.ncbi.nlm.nih.gov/gene/100488961), [379292](https://www.ncbi.nlm.nih.gov/gene/379292), [394816](https://www.ncbi.nlm.nih.gov/gene/394816), [379750](https://www.ncbi.nlm.nih.gov/gene/379750) | [998010](http://www.xenbase.org/gene/showgene.do?method=display&geneId=998010), [994792](http://www.xenbase.org/gene/showgene.do?method=display&geneId=994792) |  |
-| Zebrafish | [ENSDARG00000030155](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030155), [ENSDARG00000056483](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056483), [ENSDARG00000058237](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058237) | [553590](https://www.ncbi.nlm.nih.gov/gene/553590), [406759](https://www.ncbi.nlm.nih.gov/gene/406759), [321750](https://www.ncbi.nlm.nih.gov/gene/321750), [100005603](https://www.ncbi.nlm.nih.gov/gene/100005603) | [ZFIN:ZDB-GENE-050522-195](https://zfin.org/ZDB-GENE-050522-195), [ZFIN:ZDB-GENE-040426-2801](https://zfin.org/ZDB-GENE-040426-2801), [ZFIN:ZDB-GENE-030131-469](https://zfin.org/ZDB-GENE-030131-469), [ZFIN:ZDB-GENE-070705-484](https://zfin.org/ZDB-GENE-070705-484) | ZDB-GENE-050522-195,ZDB-GENE-040426-2801,ZDB-GENE-030131-469,ZDB-GENE-070705-484 |
+| Xenopus | [ENSXETG00000019994](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019994) | [394816](https://www.ncbi.nlm.nih.gov/gene/394816) |  |  |
+| Zebrafish | [ENSDARG00000058237](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058237) | [100005603](https://www.ncbi.nlm.nih.gov/gene/100005603) | [ZFIN:ZDB-GENE-070705-484](https://zfin.org/ZDB-GENE-070705-484) | peripheral nervous system neuron axonogenesis, positive regulation of transcription by RNA polymerase II |
 

@@ -8,7 +8,6 @@ aliases:
 - progonadoliberin I
 cgnc_id: '162'
 external_ids:
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005576
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Christophorou+Bailey+Hanson+required
@@ -21,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:770134
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005183
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001080877
-gene_id: '453210'
+gene_id: '770134'
 gene_type: protein-coding
 images:
 - caption: GNRH1 expression
@@ -67,7 +66,7 @@ images:
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNRH.Christophorou.2009.f2.gnrh.png
 name: gonadotropin releasing hormone 1
-ncbi_id: '453210'
+ncbi_id: '770134'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -97,7 +96,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453210
+  url: https://www.ncbi.nlm.nih.gov/gene/770134
 species: Gallus gallus
 symbol: GNRH1
 title: GNRH1

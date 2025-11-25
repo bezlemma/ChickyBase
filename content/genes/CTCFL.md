@@ -5,7 +5,6 @@ aliases:
 - CCCTC-binding factor (zinc finger protein)
 cgnc_id: '49729'
 external_ids:
-  '4': stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006355
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Comments: ubiquitous stage 12-22.
@@ -50,7 +49,7 @@ orthologs:
 - ensembl: ENSDARG00000056621
   entrez: '415104'
   mod: ZFIN:ZDB-GENE-040624-5
-  phenotypes: ZDB-GENE-040624-5
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
@@ -88,5 +87,5 @@ title: CTCFL
 | Human | [ENSG00000102974](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000102974) | [10664](https://www.ncbi.nlm.nih.gov/gene/10664) | [MIM:604167](https://omim.org/entry/604167) |  |
 | Mouse | [ENSMUSG00000005698](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005698) | [13018](https://www.ncbi.nlm.nih.gov/gene/13018) | [MGI:109447](http://www.informatics.jax.org/marker/MGI:109447) | All phenotypic alleles (5):Targeted, other(5) |
 | Xenopus |  | [100101689](https://www.ncbi.nlm.nih.gov/gene/100101689), [379621](https://www.ncbi.nlm.nih.gov/gene/379621) | [862913](http://www.xenbase.org/gene/showgene.do?method=display&geneId=862913) |  |
-| Zebrafish | [ENSDARG00000056621](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056621) | [415104](https://www.ncbi.nlm.nih.gov/gene/415104) | [ZFIN:ZDB-GENE-040624-5](https://zfin.org/ZDB-GENE-040624-5) | ZDB-GENE-040624-5 |
+| Zebrafish | [ENSDARG00000056621](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056621) | [415104](https://www.ncbi.nlm.nih.gov/gene/415104) | [ZFIN:ZDB-GENE-040624-5](https://zfin.org/ZDB-GENE-040624-5) |  |
 

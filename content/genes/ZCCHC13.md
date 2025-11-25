@@ -150,7 +150,7 @@ orthologs:
 - ensembl: ENSDARG00000045776,ENSDARG00000070922
   entrez: 326846,335839
   mod: ZFIN:ZDB-GENE-030131-5045,ZFIN:ZDB-GENE-030131-7782
-  phenotypes: ZDB-GENE-030131-5045,ZDB-GENE-030131-7782
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -191,5 +191,5 @@ Copyright © 2006 Elsevier B.V. All rights reserved.
 | Human |  | [7555](https://www.ncbi.nlm.nih.gov/gene/7555) | [MIM:116955](https://omim.org/entry/116955) | MIM:602668 |
 | Mouse | [ENSMUSG00000030057](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030057) | [12785](https://www.ncbi.nlm.nih.gov/gene/12785) | [MGI:88431](http://www.informatics.jax.org/marker/MGI:88431) | All phenotypic alleles (3):Targeted, other(2) Transgenic(1) |
 | Xenopus |  | [448166](https://www.ncbi.nlm.nih.gov/gene/448166), [399294](https://www.ncbi.nlm.nih.gov/gene/399294) | [919589](http://www.xenbase.org/gene/showgene.do?method=display&geneId=919589) |  |
-| Zebrafish | [ENSDARG00000045776](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045776), [ENSDARG00000070922](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070922) | [326846](https://www.ncbi.nlm.nih.gov/gene/326846), [335839](https://www.ncbi.nlm.nih.gov/gene/335839) | [ZFIN:ZDB-GENE-030131-5045](https://zfin.org/ZDB-GENE-030131-5045), [ZFIN:ZDB-GENE-030131-7782](https://zfin.org/ZDB-GENE-030131-7782) | ZDB-GENE-030131-5045,ZDB-GENE-030131-7782 |
+| Zebrafish | [ENSDARG00000045776](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045776), [ENSDARG00000070922](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070922) | [326846](https://www.ncbi.nlm.nih.gov/gene/326846), [335839](https://www.ncbi.nlm.nih.gov/gene/335839) | [ZFIN:ZDB-GENE-030131-5045](https://zfin.org/ZDB-GENE-030131-5045), [ZFIN:ZDB-GENE-030131-7782](https://zfin.org/ZDB-GENE-030131-7782) |  |
 

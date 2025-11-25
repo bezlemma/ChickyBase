@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395592
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204805
-gene_id: '449718'
+gene_id: '395592'
 gene_type: protein-coding
 images:
 - caption: TH expression
@@ -227,13 +227,8 @@ images:
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Huber.Fig5.TH.C.ST34.jpg
 name: tyrosine hydroxylase
-ncbi_id: '449718'
+ncbi_id: '395592'
 orthologs:
-- ensembl: ''
-  entrez: '38746'
-  mod: FBgn0005626
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000180176
   entrez: '7054'
   mod: MIM:191290
@@ -244,20 +239,21 @@ orthologs:
   mod: MGI:98735
   phenotypes: All phenotypic alleles (16):Targeted, knock-out(4) Targeted, other(12)
   species: Mouse
-- ensembl: ''
-  entrez: 100488900,100037248
-  mod: '992304'
+- ensembl: ENSXETG00000014030
+  entrez: '100488900'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000030621
+- ensembl: ENSDARG00000109947
   entrez: '30384'
   mod: ZFIN:ZDB-GENE-990621-5
-  phenotypes: ZDB-GENE-990621-5
+  phenotypes: aromatic amino acid metabolic process, catecholamine biosynthetic process,
+    cognition, dopamine biosynthetic process, dopamine biosynthetic process from tyrosine
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449718
+  url: https://www.ncbi.nlm.nih.gov/gene/395592
 species: Gallus gallus
 symbol: TH
 title: TH
@@ -285,9 +281,8 @@ title: TH
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38746](https://www.ncbi.nlm.nih.gov/gene/38746) | FBgn0005626 |  |
 | Human | [ENSG00000180176](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000180176) | [7054](https://www.ncbi.nlm.nih.gov/gene/7054) | [MIM:191290](https://omim.org/entry/191290) | MIM:605407 |
 | Mouse | [ENSMUSG00000000214](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000214) | [21823](https://www.ncbi.nlm.nih.gov/gene/21823) | [MGI:98735](http://www.informatics.jax.org/marker/MGI:98735) | All phenotypic alleles (16):Targeted, knock-out(4) Targeted, other(12) |
-| Xenopus |  | [100488900](https://www.ncbi.nlm.nih.gov/gene/100488900), [100037248](https://www.ncbi.nlm.nih.gov/gene/100037248) | [992304](http://www.xenbase.org/gene/showgene.do?method=display&geneId=992304) |  |
-| Zebrafish | [ENSDARG00000030621](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030621) | [30384](https://www.ncbi.nlm.nih.gov/gene/30384) | [ZFIN:ZDB-GENE-990621-5](https://zfin.org/ZDB-GENE-990621-5) | ZDB-GENE-990621-5 |
+| Xenopus | [ENSXETG00000014030](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014030) | [100488900](https://www.ncbi.nlm.nih.gov/gene/100488900) |  |  |
+| Zebrafish | [ENSDARG00000109947](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000109947) | [30384](https://www.ncbi.nlm.nih.gov/gene/30384) | [ZFIN:ZDB-GENE-990621-5](https://zfin.org/ZDB-GENE-990621-5) | aromatic amino acid metabolic process, catecholamine biosynthetic process, cognition, dopamine biosynthetic process, dopamine biosynthetic process from tyrosine |
 

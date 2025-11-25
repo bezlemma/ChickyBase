@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396139
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205216
 forward_primer: AGAGCCAGCAAGCCATTCG
-gene_id: '458790'
+gene_id: '101747322'
 gene_type: protein-coding
 images:
 - caption: WT1 expression
@@ -318,7 +318,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WT1.Anderson.2019.Supplementary
     figure 4J.jpg
 name: Wilms tumor 1
-ncbi_id: '458790'
+ncbi_id: '101747322'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -343,16 +343,16 @@ orthologs:
 - ensembl: ENSDARG00000031420,ENSDARG00000007990
   entrez: 30245,568416
   mod: ZFIN:ZDB-GENE-980526-558,ZFIN:ZDB-GENE-050420-319
-  phenotypes: ZDB-GENE-980526-558,ZDB-GENE-050420-319
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTTGGTGCCGTTTCAGTTGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458790
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=101747322
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458790
+  url: https://www.ncbi.nlm.nih.gov/gene/101747322
 species: Gallus gallus
 symbol: WT1
 template_length: '663'
@@ -383,5 +383,5 @@ title: WT1
 | Human | [ENSG00000184937](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000184937) | [7490](https://www.ncbi.nlm.nih.gov/gene/7490) | [MIM:607102](https://omim.org/entry/607102) | MIM:194080 |
 | Mouse | [ENSMUSG00000016458](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000016458) | [22431](https://www.ncbi.nlm.nih.gov/gene/22431) | [MGI:98968](http://www.informatics.jax.org/marker/MGI:98968) | All phenotypic alleles (17):Targeted, knock-out(6) Targeted, other(11) |
 | Xenopus |  | [100216184](https://www.ncbi.nlm.nih.gov/gene/100216184), [373588](https://www.ncbi.nlm.nih.gov/gene/373588), [378664](https://www.ncbi.nlm.nih.gov/gene/378664) | [484998](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484998) |  |
-| Zebrafish | [ENSDARG00000031420](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031420), [ENSDARG00000007990](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007990) | [30245](https://www.ncbi.nlm.nih.gov/gene/30245), [568416](https://www.ncbi.nlm.nih.gov/gene/568416) | [ZFIN:ZDB-GENE-980526-558](https://zfin.org/ZDB-GENE-980526-558), [ZFIN:ZDB-GENE-050420-319](https://zfin.org/ZDB-GENE-050420-319) | ZDB-GENE-980526-558,ZDB-GENE-050420-319 |
+| Zebrafish | [ENSDARG00000031420](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031420), [ENSDARG00000007990](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007990) | [30245](https://www.ncbi.nlm.nih.gov/gene/30245), [568416](https://www.ncbi.nlm.nih.gov/gene/568416) | [ZFIN:ZDB-GENE-980526-558](https://zfin.org/ZDB-GENE-980526-558), [ZFIN:ZDB-GENE-050420-319](https://zfin.org/ZDB-GENE-050420-319) |  |
 

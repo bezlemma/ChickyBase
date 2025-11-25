@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427591
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425164
 forward_primer: 5’-TGCCCTGTTCCATGCTTAGG-3’
-gene_id: '454870'
+gene_id: '427591'
 gene_type: protein-coding
 images:
 - caption: FAM107A expression
@@ -71,13 +71,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R662.FAM107A.S26AA.001.jpg
 name: family with sequence similarity 107 member A
-ncbi_id: '454870'
+ncbi_id: '427591'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000168309
   entrez: '11170'
   mod: MIM:608295
@@ -88,24 +83,25 @@ orthologs:
   mod: MGI:3041256
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100169674,494764
-  mod: '986179'
+- ensembl: ENSXETG00000046417
+  entrez: '100169674'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000086300
   entrez: '794256'
-  mod: ''
-  phenotypes: ''
+  mod: ZFIN:ZDB-GENE-141216-56
+  phenotypes: actin filament bundle assembly, actin filament polymerization, regulation
+    of actin cytoskeleton organization
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTTGTGATCCAGTGCTGTCCC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454870
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427591
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454870
+  url: https://www.ncbi.nlm.nih.gov/gene/427591
 species: Gallus gallus
 symbol: FAM107A
 template_length: '923'
@@ -128,9 +124,8 @@ title: FAM107A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000168309](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000168309) | [11170](https://www.ncbi.nlm.nih.gov/gene/11170) | [MIM:608295](https://omim.org/entry/608295) |  |
 | Mouse | [ENSMUSG00000021750](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021750) | [268709](https://www.ncbi.nlm.nih.gov/gene/268709) | [MGI:3041256](http://www.informatics.jax.org/marker/MGI:3041256) |  |
-| Xenopus |  | [100169674](https://www.ncbi.nlm.nih.gov/gene/100169674), [494764](https://www.ncbi.nlm.nih.gov/gene/494764) | [986179](http://www.xenbase.org/gene/showgene.do?method=display&geneId=986179) |  |
-| Zebrafish | [ENSDARG00000086300](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000086300) | [794256](https://www.ncbi.nlm.nih.gov/gene/794256) |  |  |
+| Xenopus | [ENSXETG00000046417](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000046417) | [100169674](https://www.ncbi.nlm.nih.gov/gene/100169674) |  |  |
+| Zebrafish | [ENSDARG00000086300](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000086300) | [794256](https://www.ncbi.nlm.nih.gov/gene/794256) | [ZFIN:ZDB-GENE-141216-56](https://zfin.org/ZDB-GENE-141216-56) | actin filament bundle assembly, actin filament polymerization, regulation of actin cytoskeleton organization |
 

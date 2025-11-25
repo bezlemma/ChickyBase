@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:770488
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001233829
-gene_id: '452075'
+gene_id: '770488'
 gene_type: protein-coding
 images:
 - caption: PDGFRB expression
@@ -49,13 +49,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PDGFRbeta.McCabe.2008
     for Figure 1 panel H.jpg
 name: platelet derived growth factor receptor beta
-ncbi_id: '452075'
+ncbi_id: '770488'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000113721
   entrez: '5159'
   mod: MIM:173410
@@ -66,20 +61,21 @@ orthologs:
   mod: MGI:97531
   phenotypes: All phenotypic alleles (19):Targeted, knock-out(4) Targeted, other(15)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000031823
   entrez: '100487523'
-  mod: '6096144'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000057345
-  entrez: 559529,360210
+- ensembl: ENSDARG00000100897
+  entrez: '559529'
   mod: ZFIN:ZDB-GENE-030805-2
-  phenotypes: ZDB-GENE-030805-2
+  phenotypes: ameboidal-type cell migration, angiogenesis, angiogenesis involved in
+    coronary vascular morphogenesis, blood vessel morphogenesis, blood vessel remodeling
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452075
+  url: https://www.ncbi.nlm.nih.gov/gene/770488
 species: Gallus gallus
 symbol: PDGFRB
 title: PDGFRB
@@ -105,9 +101,8 @@ title: PDGFRB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000113721](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113721) | [5159](https://www.ncbi.nlm.nih.gov/gene/5159) | [MIM:173410](https://omim.org/entry/173410) | MIM:173410 |
 | Mouse | [ENSMUSG00000024620](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024620) | [18596](https://www.ncbi.nlm.nih.gov/gene/18596) | [MGI:97531](http://www.informatics.jax.org/marker/MGI:97531) | All phenotypic alleles (19):Targeted, knock-out(4) Targeted, other(15) |
-| Xenopus |  | [100487523](https://www.ncbi.nlm.nih.gov/gene/100487523) | [6096144](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6096144) |  |
-| Zebrafish | [ENSDARG00000057345](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057345) | [559529](https://www.ncbi.nlm.nih.gov/gene/559529), [360210](https://www.ncbi.nlm.nih.gov/gene/360210) | [ZFIN:ZDB-GENE-030805-2](https://zfin.org/ZDB-GENE-030805-2) | ZDB-GENE-030805-2 |
+| Xenopus | [ENSXETG00000031823](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031823) | [100487523](https://www.ncbi.nlm.nih.gov/gene/100487523) |  |  |
+| Zebrafish | [ENSDARG00000100897](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000100897) | [559529](https://www.ncbi.nlm.nih.gov/gene/559529) | [ZFIN:ZDB-GENE-030805-2](https://zfin.org/ZDB-GENE-030805-2) | ameboidal-type cell migration, angiogenesis, angiogenesis involved in coronary vascular morphogenesis, blood vessel morphogenesis, blood vessel remodeling |
 

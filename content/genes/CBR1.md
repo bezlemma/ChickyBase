@@ -81,7 +81,7 @@ orthologs:
 - ensembl: ENSDARG00000021149,ENSDARG00000036587
   entrez: 337696,373866
   mod: ZFIN:ZDB-GENE-030131-9642,ZFIN:ZDB-GENE-030902-2
-  phenotypes: ZDB-GENE-030131-9642,ZDB-GENE-030902-2
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
@@ -116,5 +116,5 @@ title: CBR1
 | Human | [ENSG00000159228](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000159228) | [873](https://www.ncbi.nlm.nih.gov/gene/873) | [MIM:114830](https://omim.org/entry/114830) |  |
 | Mouse | [ENSMUSG00000051483](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000051483) | [12408](https://www.ncbi.nlm.nih.gov/gene/12408) | [MGI:88284](http://www.informatics.jax.org/marker/MGI:88284) | All phenotypic alleles (1):Targeted, knock-out(1) |
 | Xenopus |  | [496612](https://www.ncbi.nlm.nih.gov/gene/496612), [734804](https://www.ncbi.nlm.nih.gov/gene/734804) | [946531](http://www.xenbase.org/gene/showgene.do?method=display&geneId=946531) |  |
-| Zebrafish | [ENSDARG00000021149](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021149), [ENSDARG00000036587](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036587) | [337696](https://www.ncbi.nlm.nih.gov/gene/337696), [373866](https://www.ncbi.nlm.nih.gov/gene/373866) | [ZFIN:ZDB-GENE-030131-9642](https://zfin.org/ZDB-GENE-030131-9642), [ZFIN:ZDB-GENE-030902-2](https://zfin.org/ZDB-GENE-030902-2) | ZDB-GENE-030131-9642,ZDB-GENE-030902-2 |
+| Zebrafish | [ENSDARG00000021149](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021149), [ENSDARG00000036587](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036587) | [337696](https://www.ncbi.nlm.nih.gov/gene/337696), [373866](https://www.ncbi.nlm.nih.gov/gene/373866) | [ZFIN:ZDB-GENE-030131-9642](https://zfin.org/ZDB-GENE-030131-9642), [ZFIN:ZDB-GENE-030902-2](https://zfin.org/ZDB-GENE-030902-2) |  |
 

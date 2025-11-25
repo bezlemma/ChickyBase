@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426184
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423847
 forward_primer: 5’-AGAAGGTCTGCGAGTGGAAG-3’
-gene_id: '463933'
+gene_id: '426184'
 gene_type: protein-coding
 images:
 - caption: CSAD expression
@@ -261,41 +261,37 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R644.CSAD.S26AA.001.jpg
 name: cysteine sulfinic acid decarboxylase
-ncbi_id: '463933'
+ncbi_id: '426184'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000139631
+  entrez: '51380'
+  mod: MIM:616569
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000023044
+  entrez: '246277'
+  mod: MGI:2180098
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000012672
+  entrez: '100486477'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000026348
+  entrez: '492476'
+  mod: ZFIN:ZDB-GENE-041114-36
+  phenotypes: carboxylic acid metabolic process, heart development, taurine biosynthetic
+    process
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAGTCATCTCGGAGCAGGAAG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463933
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426184
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463933
+  url: https://www.ncbi.nlm.nih.gov/gene/426184
 species: Gallus gallus
 symbol: CSAD
 template_length: '843'
@@ -318,9 +314,8 @@ title: CSAD
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000139631](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139631) | [51380](https://www.ncbi.nlm.nih.gov/gene/51380) | [MIM:616569](https://omim.org/entry/616569) |  |
+| Mouse | [ENSMUSG00000023044](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023044) | [246277](https://www.ncbi.nlm.nih.gov/gene/246277) | [MGI:2180098](http://www.informatics.jax.org/marker/MGI:2180098) |  |
+| Xenopus | [ENSXETG00000012672](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012672) | [100486477](https://www.ncbi.nlm.nih.gov/gene/100486477) |  |  |
+| Zebrafish | [ENSDARG00000026348](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026348) | [492476](https://www.ncbi.nlm.nih.gov/gene/492476) | [ZFIN:ZDB-GENE-041114-36](https://zfin.org/ZDB-GENE-041114-36) | carboxylic acid metabolic process, heart development, taurine biosynthetic process |
 

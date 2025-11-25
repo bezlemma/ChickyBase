@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395291
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416674
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/ROBO2
-gene_id: '461571'
+gene_id: '395291'
 gene_type: protein-coding
 images:
 - caption: ROBO2 expression
@@ -402,13 +402,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo2.Vargesson.2001.Fig4.jpg
 name: roundabout guidance receptor 2
-ncbi_id: '461571'
+ncbi_id: '395291'
 orthologs:
-- ensembl: ''
-  entrez: '37603'
-  mod: FBgn0005631
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000185008
   entrez: '6092'
   mod: MIM:602431
@@ -419,20 +414,21 @@ orthologs:
   mod: MGI:1890110
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100493913,100462919
-  mod: '980526'
+- ensembl: ENSXETG00000020978
+  entrez: '100493913'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000014891
   entrez: '60309'
   mod: ZFIN:ZDB-GENE-001019-1
-  phenotypes: ZDB-GENE-001019-1
+  phenotypes: anterior/posterior axon guidance, axon guidance, axon midline choice
+    point recognition, axonal fasciculation, axonogenesis involved in innervation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461571
+  url: https://www.ncbi.nlm.nih.gov/gene/395291
 species: Gallus gallus
 symbol: ROBO2
 title: ROBO2
@@ -461,9 +457,8 @@ title: ROBO2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [37603](https://www.ncbi.nlm.nih.gov/gene/37603) | FBgn0005631 |  |
 | Human | [ENSG00000185008](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185008) | [6092](https://www.ncbi.nlm.nih.gov/gene/6092) | [MIM:602431](https://omim.org/entry/602431) | MIM:610878 |
 | Mouse | [ENSMUSG00000052516](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000052516) | [268902](https://www.ncbi.nlm.nih.gov/gene/268902) | [MGI:1890110](http://www.informatics.jax.org/marker/MGI:1890110) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100493913](https://www.ncbi.nlm.nih.gov/gene/100493913), [100462919](https://www.ncbi.nlm.nih.gov/gene/100462919) | [980526](http://www.xenbase.org/gene/showgene.do?method=display&geneId=980526) |  |
-| Zebrafish | [ENSDARG00000014891](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014891) | [60309](https://www.ncbi.nlm.nih.gov/gene/60309) | [ZFIN:ZDB-GENE-001019-1](https://zfin.org/ZDB-GENE-001019-1) | ZDB-GENE-001019-1 |
+| Xenopus | [ENSXETG00000020978](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020978) | [100493913](https://www.ncbi.nlm.nih.gov/gene/100493913) |  |  |
+| Zebrafish | [ENSDARG00000014891](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014891) | [60309](https://www.ncbi.nlm.nih.gov/gene/60309) | [ZFIN:ZDB-GENE-001019-1](https://zfin.org/ZDB-GENE-001019-1) | anterior/posterior axon guidance, axon guidance, axon midline choice point recognition, axonal fasciculation, axonogenesis involved in innervation |
 

@@ -1,13 +1,12 @@
 ---
 cgnc_id: '8652'
 external_ids:
-  '19': stage 19
   Comments: widespread expression
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/428911
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428911
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426467
-gene_id: '455725'
+gene_id: '428911'
 gene_type: protein-coding
 images:
 - caption: RCOR1 expression
@@ -46,13 +45,8 @@ images:
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53ZB5.124.19.jpg
 name: REST corepressor 1
-ncbi_id: '455725'
+ncbi_id: '428911'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000089902
   entrez: '23186'
   mod: MIM:607675
@@ -63,23 +57,25 @@ orthologs:
   mod: MGI:106340
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 733956,398247
-  mod: '5727158'
+- ensembl: ENSXETG00000012743
+  entrez: '733956'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000031434
   entrez: '569294'
   mod: ZFIN:ZDB-GENE-050506-79
-  phenotypes: ZDB-GENE-050506-79
+  phenotypes: hemopoiesis, negative regulation of DNA-templated transcription, regulation
+    of retinoic acid biosynthetic process, regulation of transcription by RNA polymerase
+    II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455725
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428911
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455725
+  url: https://www.ncbi.nlm.nih.gov/gene/428911
 species: Gallus gallus
 symbol: RCOR1
 title: RCOR1
@@ -102,9 +98,8 @@ title: RCOR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000089902](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000089902) | [23186](https://www.ncbi.nlm.nih.gov/gene/23186) | [MIM:607675](https://omim.org/entry/607675) |  |
 | Mouse | [ENSMUSG00000037896](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037896) | [217864](https://www.ncbi.nlm.nih.gov/gene/217864) | [MGI:106340](http://www.informatics.jax.org/marker/MGI:106340) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [733956](https://www.ncbi.nlm.nih.gov/gene/733956), [398247](https://www.ncbi.nlm.nih.gov/gene/398247) | [5727158](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5727158) |  |
-| Zebrafish | [ENSDARG00000031434](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031434) | [569294](https://www.ncbi.nlm.nih.gov/gene/569294) | [ZFIN:ZDB-GENE-050506-79](https://zfin.org/ZDB-GENE-050506-79) | ZDB-GENE-050506-79 |
+| Xenopus | [ENSXETG00000012743](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012743) | [733956](https://www.ncbi.nlm.nih.gov/gene/733956) |  |  |
+| Zebrafish | [ENSDARG00000031434](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031434) | [569294](https://www.ncbi.nlm.nih.gov/gene/569294) | [ZFIN:ZDB-GENE-050506-79](https://zfin.org/ZDB-GENE-050506-79) | hemopoiesis, negative regulation of DNA-templated transcription, regulation of retinoic acid biosynthetic process, regulation of transcription by RNA polymerase II |
 

@@ -18,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005104
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205433
 forward_primer: TTTATAAAAGCTTGCGGCCGCAGAATATTGAAGGAGGATGGCAGATTGC
-gene_id: '461001'
+gene_id: '396413'
 gene_type: protein-coding
 images:
 - caption: FGF2 expression
@@ -148,13 +148,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roddy.Fig.6.FGF2.E.St27.jpg
 name: fibroblast growth factor 2
-ncbi_id: '461001'
+ncbi_id: '396413'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138685
   entrez: '2247'
   mod: MIM:134920
@@ -165,24 +160,26 @@ orthologs:
   mod: MGI:95516
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(5) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 550087,100101279
-  mod: '487001'
+- ensembl: ENSXETG00000001587
+  entrez: '550087'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000075031
+- ensembl: ENSDARG00000104348
   entrez: '404231'
   mod: ZFIN:ZDB-GENE-040318-1
-  phenotypes: ZDB-GENE-040318-1
+  phenotypes: Kupffer's vesicle development, fibroblast growth factor receptor signaling
+    pathway, neurogenesis, positive regulation of MAPK cascade, positive regulation
+    of cell population proliferation
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGCAGACATTGGAAGAAAAAGGATAGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461001
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396413
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461001
+  url: https://www.ncbi.nlm.nih.gov/gene/396413
 species: Gallus gallus
 symbol: FGF2
 template_length: '205'
@@ -212,9 +209,8 @@ title: FGF2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000138685](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138685) | [2247](https://www.ncbi.nlm.nih.gov/gene/2247) | [MIM:134920](https://omim.org/entry/134920) |  |
 | Mouse | [ENSMUSG00000037225](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037225) | [14173](https://www.ncbi.nlm.nih.gov/gene/14173) | [MGI:95516](http://www.informatics.jax.org/marker/MGI:95516) | All phenotypic alleles (7):Targeted, knock-out(5) Targeted, other(2) |
-| Xenopus |  | [550087](https://www.ncbi.nlm.nih.gov/gene/550087), [100101279](https://www.ncbi.nlm.nih.gov/gene/100101279) | [487001](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487001) |  |
-| Zebrafish | [ENSDARG00000075031](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075031) | [404231](https://www.ncbi.nlm.nih.gov/gene/404231) | [ZFIN:ZDB-GENE-040318-1](https://zfin.org/ZDB-GENE-040318-1) | ZDB-GENE-040318-1 |
+| Xenopus | [ENSXETG00000001587](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001587) | [550087](https://www.ncbi.nlm.nih.gov/gene/550087) |  |  |
+| Zebrafish | [ENSDARG00000104348](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104348) | [404231](https://www.ncbi.nlm.nih.gov/gene/404231) | [ZFIN:ZDB-GENE-040318-1](https://zfin.org/ZDB-GENE-040318-1) | Kupffer's vesicle development, fibroblast growth factor receptor signaling pathway, neurogenesis, positive regulation of MAPK cascade, positive regulation of cell population proliferation |
 

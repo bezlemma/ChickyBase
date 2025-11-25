@@ -57,7 +57,7 @@ orthologs:
 - ensembl: ENSDARG00000005451
   entrez: '323765'
   mod: ZFIN:ZDB-GENE-030131-2485
-  phenotypes: ZDB-GENE-030131-2485
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -92,5 +92,5 @@ title: GDI2
 | Human | [ENSG00000057608](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000057608) | [2665](https://www.ncbi.nlm.nih.gov/gene/2665) | [MIM:600767](https://omim.org/entry/600767) |  |
 | Mouse | [ENSMUSG00000021218](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021218) | [14569](https://www.ncbi.nlm.nih.gov/gene/14569) | [MGI:99845](http://www.informatics.jax.org/marker/MGI:99845) |  |
 | Xenopus |  | [448175](https://www.ncbi.nlm.nih.gov/gene/448175), [379928](https://www.ncbi.nlm.nih.gov/gene/379928) | [5907770](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5907770), [980620](http://www.xenbase.org/gene/showgene.do?method=display&geneId=980620) |  |
-| Zebrafish | [ENSDARG00000005451](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005451) | [323765](https://www.ncbi.nlm.nih.gov/gene/323765) | [ZFIN:ZDB-GENE-030131-2485](https://zfin.org/ZDB-GENE-030131-2485) | ZDB-GENE-030131-2485 |
+| Zebrafish | [ENSDARG00000005451](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005451) | [323765](https://www.ncbi.nlm.nih.gov/gene/323765) | [ZFIN:ZDB-GENE-030131-2485](https://zfin.org/ZDB-GENE-030131-2485) |  |
 

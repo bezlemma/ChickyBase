@@ -4,14 +4,13 @@ aliases:
 - epidermal growth factor (beta-urogastrone)
 cgnc_id: '9223'
 external_ids:
-  '25': stage 25
   Comments: No expression detected at or below stage 18.
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000012155
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:408035
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001292
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATTGCTGTTCATTTGCTCCGAAG
-gene_id: '452495'
+gene_id: '408035'
 gene_type: protein-coding
 images:
 - caption: EGF expression
@@ -43,13 +42,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R239.EGF.S25.1C.jpg
 name: epidermal growth factor
-ncbi_id: '452495'
+ncbi_id: '408035'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138798
   entrez: '1950'
   mod: MIM:131530
@@ -60,24 +54,24 @@ orthologs:
   mod: MGI:95290
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000013368
   entrez: '100127663'
-  mod: '951822'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000052739
   entrez: '403045'
   mod: ZFIN:ZDB-GENE-070922-1
-  phenotypes: ZDB-GENE-070922-1
+  phenotypes: blood circulation, cartilage development, epithelial cell differentiation
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTAAGACTACTCCCATCTGCCCGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452495
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=408035
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452495
+  url: https://www.ncbi.nlm.nih.gov/gene/408035
 species: Gallus gallus
 symbol: EGF
 template_length: '838'
@@ -101,9 +95,8 @@ title: EGF
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000138798](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138798) | [1950](https://www.ncbi.nlm.nih.gov/gene/1950) | [MIM:131530](https://omim.org/entry/131530) | MIM:611718 |
 | Mouse | [ENSMUSG00000028017](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028017) | [13645](https://www.ncbi.nlm.nih.gov/gene/13645) | [MGI:95290](http://www.informatics.jax.org/marker/MGI:95290) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100127663](https://www.ncbi.nlm.nih.gov/gene/100127663) | [951822](http://www.xenbase.org/gene/showgene.do?method=display&geneId=951822) |  |
-| Zebrafish | [ENSDARG00000052739](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052739) | [403045](https://www.ncbi.nlm.nih.gov/gene/403045) | [ZFIN:ZDB-GENE-070922-1](https://zfin.org/ZDB-GENE-070922-1) | ZDB-GENE-070922-1 |
+| Xenopus | [ENSXETG00000013368](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013368) | [100127663](https://www.ncbi.nlm.nih.gov/gene/100127663) |  |  |
+| Zebrafish | [ENSDARG00000052739](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052739) | [403045](https://www.ncbi.nlm.nih.gov/gene/403045) | [ZFIN:ZDB-GENE-070922-1](https://zfin.org/ZDB-GENE-070922-1) | blood circulation, cartilage development, epithelial cell differentiation |
 

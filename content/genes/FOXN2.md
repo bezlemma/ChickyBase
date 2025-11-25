@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421288
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001039284
 forward_primer: 5’-TTACACTCCACCGGCATCAC-3’
-gene_id: '457136'
+gene_id: '421288'
 gene_type: protein-coding
 images:
 - caption: FOXN2 expression
@@ -58,13 +58,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R678.FOXN2.S26.001.jpg
 name: forkhead box N2
-ncbi_id: '457136'
+ncbi_id: '421288'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000170802
   entrez: '3344'
   mod: MIM:143089
@@ -75,24 +70,24 @@ orthologs:
   mod: MGI:1347478
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 549771,447464
-  mod: '952917'
+- ensembl: ENSXETG00000045985
+  entrez: '549771'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000045105,ENSDARG00000055574
-  entrez: 550127,100330010
-  mod: ZFIN:ZDB-GENE-050417-1,ZFIN:ZDB-GENE-110810-1
-  phenotypes: ZDB-GENE-050417-1,ZDB-GENE-110810-1
+- ensembl: ENSDARG00000055574
+  entrez: '100330010'
+  mod: ZFIN:ZDB-GENE-110810-1
+  phenotypes: regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGCACGTTTGGATGCCAGCAAG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457136
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421288
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457136
+  url: https://www.ncbi.nlm.nih.gov/gene/421288
 species: Gallus gallus
 symbol: FOXN2
 template_length: '624'
@@ -115,9 +110,8 @@ title: FOXN2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000170802](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170802) | [3344](https://www.ncbi.nlm.nih.gov/gene/3344) | [MIM:143089](https://omim.org/entry/143089) |  |
 | Mouse | [ENSMUSG00000034998](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034998) | [14236](https://www.ncbi.nlm.nih.gov/gene/14236) | [MGI:1347478](http://www.informatics.jax.org/marker/MGI:1347478) |  |
-| Xenopus |  | [549771](https://www.ncbi.nlm.nih.gov/gene/549771), [447464](https://www.ncbi.nlm.nih.gov/gene/447464) | [952917](http://www.xenbase.org/gene/showgene.do?method=display&geneId=952917) |  |
-| Zebrafish | [ENSDARG00000045105](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045105), [ENSDARG00000055574](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055574) | [550127](https://www.ncbi.nlm.nih.gov/gene/550127), [100330010](https://www.ncbi.nlm.nih.gov/gene/100330010) | [ZFIN:ZDB-GENE-050417-1](https://zfin.org/ZDB-GENE-050417-1), [ZFIN:ZDB-GENE-110810-1](https://zfin.org/ZDB-GENE-110810-1) | ZDB-GENE-050417-1,ZDB-GENE-110810-1 |
+| Xenopus | [ENSXETG00000045985](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000045985) | [549771](https://www.ncbi.nlm.nih.gov/gene/549771) |  |  |
+| Zebrafish | [ENSDARG00000055574](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055574) | [100330010](https://www.ncbi.nlm.nih.gov/gene/100330010) | [ZFIN:ZDB-GENE-110810-1](https://zfin.org/ZDB-GENE-110810-1) | regulation of DNA-templated transcription |
 

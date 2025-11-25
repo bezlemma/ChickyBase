@@ -21,7 +21,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001004391
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/CDH4
 forward_primer: TCACGACCAGCACTTATTCGG
-gene_id: '455511'
+gene_id: '419222'
 gene_type: protein-coding
 images:
 - caption: CDH4 expression
@@ -202,14 +202,9 @@ images:
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Lin.Fig4.Rcdh.L.E9.jpg
 name: cadherin 4
-ncbi_id: '455511'
+ncbi_id: '419222'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000179242
+- ensembl: ENSG00000280641
   entrez: '1002'
   mod: MIM:603006
   phenotypes: ''
@@ -219,24 +214,26 @@ orthologs:
   mod: MGI:99218
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000049321
   entrez: '100144729'
-  mod: '958012'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000015002
   entrez: '30297'
   mod: ZFIN:ZDB-GENE-991207-1
-  phenotypes: ZDB-GENE-991207-1
+  phenotypes: adherens junction organization, animal organ morphogenesis, calcium-dependent
+    cell-cell adhesion via plasma membrane cell adhesion molecules, camera-type eye
+    morphogenesis, cell adhesion
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCGTTTCATCCACACCACAAAGAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455511
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419222
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455511
+  url: https://www.ncbi.nlm.nih.gov/gene/419222
 species: Gallus gallus
 symbol: CDH4
 template_length: '1099'
@@ -267,9 +264,8 @@ title: CDH4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000179242](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000179242) | [1002](https://www.ncbi.nlm.nih.gov/gene/1002) | [MIM:603006](https://omim.org/entry/603006) |  |
+| Human | [ENSG00000280641](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000280641) | [1002](https://www.ncbi.nlm.nih.gov/gene/1002) | [MIM:603006](https://omim.org/entry/603006) |  |
 | Mouse | [ENSMUSG00000000305](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000305) | [12561](https://www.ncbi.nlm.nih.gov/gene/12561) | [MGI:99218](http://www.informatics.jax.org/marker/MGI:99218) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100144729](https://www.ncbi.nlm.nih.gov/gene/100144729) | [958012](http://www.xenbase.org/gene/showgene.do?method=display&geneId=958012) |  |
-| Zebrafish | [ENSDARG00000015002](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015002) | [30297](https://www.ncbi.nlm.nih.gov/gene/30297) | [ZFIN:ZDB-GENE-991207-1](https://zfin.org/ZDB-GENE-991207-1) | ZDB-GENE-991207-1 |
+| Xenopus | [ENSXETG00000049321](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000049321) | [100144729](https://www.ncbi.nlm.nih.gov/gene/100144729) |  |  |
+| Zebrafish | [ENSDARG00000015002](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015002) | [30297](https://www.ncbi.nlm.nih.gov/gene/30297) | [ZFIN:ZDB-GENE-991207-1](https://zfin.org/ZDB-GENE-991207-1) | adherens junction organization, animal organ morphogenesis, calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules, camera-type eye morphogenesis, cell adhesion |
 

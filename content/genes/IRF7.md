@@ -15,7 +15,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0000975
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205372
   X-XIV: stage XIII
-gene_id: '461821'
+gene_id: '396330'
 gene_type: protein-coding
 images:
 - caption: IRF7 expression
@@ -56,14 +56,9 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IRF7.Trevers.2023-Fig7-6-N.jpg
 name: interferon regulatory factor 7
-ncbi_id: '461821'
+ncbi_id: '396330'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000185507
+- ensembl: ENSG00000276561
   entrez: '3665'
   mod: MIM:605047
   phenotypes: ''
@@ -73,23 +68,25 @@ orthologs:
   mod: MGI:1859212
   phenotypes: All phenotypic alleles (4):Chemically induced(1) Targeted, knock-out(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000006030
   entrez: '100496395'
-  mod: '5996132'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000045661
   entrez: '393650'
   mod: ZFIN:ZDB-GENE-040426-1518
-  phenotypes: ZDB-GENE-040426-1518
+  phenotypes: hemopoiesis, immune system process, negative regulation of hematopoietic
+    stem cell differentiation, neuromast hair cell development, positive regulation
+    of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461821
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396330
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461821
+  url: https://www.ncbi.nlm.nih.gov/gene/396330
 species: Gallus gallus
 symbol: IRF7
 title: IRF7
@@ -116,9 +113,8 @@ title: IRF7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000185507](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185507) | [3665](https://www.ncbi.nlm.nih.gov/gene/3665) | [MIM:605047](https://omim.org/entry/605047) |  |
+| Human | [ENSG00000276561](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000276561) | [3665](https://www.ncbi.nlm.nih.gov/gene/3665) | [MIM:605047](https://omim.org/entry/605047) |  |
 | Mouse | [ENSMUSG00000025498](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025498) | [54123](https://www.ncbi.nlm.nih.gov/gene/54123) | [MGI:1859212](http://www.informatics.jax.org/marker/MGI:1859212) | All phenotypic alleles (4):Chemically induced(1) Targeted, knock-out(3) |
-| Xenopus |  | [100496395](https://www.ncbi.nlm.nih.gov/gene/100496395) | [5996132](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5996132) |  |
-| Zebrafish | [ENSDARG00000045661](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045661) | [393650](https://www.ncbi.nlm.nih.gov/gene/393650) | [ZFIN:ZDB-GENE-040426-1518](https://zfin.org/ZDB-GENE-040426-1518) | ZDB-GENE-040426-1518 |
+| Xenopus | [ENSXETG00000006030](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006030) | [100496395](https://www.ncbi.nlm.nih.gov/gene/100496395) |  |  |
+| Zebrafish | [ENSDARG00000045661](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045661) | [393650](https://www.ncbi.nlm.nih.gov/gene/393650) | [ZFIN:ZDB-GENE-040426-1518](https://zfin.org/ZDB-GENE-040426-1518) | hemopoiesis, immune system process, negative regulation of hematopoietic stem cell differentiation, neuromast hair cell development, positive regulation of DNA-templated transcription |
 

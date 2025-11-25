@@ -20,7 +20,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0070888
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205131
 forward_primer: GAGGAGGAGGAAGAAAAGGACG
-gene_id: '459278'
+gene_id: '396029'
 gene_type: protein-coding
 images:
 - caption: ZEB1 expression
@@ -164,13 +164,8 @@ images:
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1G.Tylzanowski.2003.jpg
 name: zinc finger E-box binding homeobox 1
-ncbi_id: '459278'
+ncbi_id: '396029'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000148516
   entrez: '6935'
   mod: MIM:189909
@@ -181,24 +176,26 @@ orthologs:
   mod: MGI:1344313
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 548525,444391
-  mod: '484654'
+- ensembl: ENSXETG00000011655
+  entrez: '548525'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000013207,ENSDARG00000016788
-  entrez: 114425,100004929
-  mod: ZFIN:ZDB-GENE-010621-1,ZFIN:ZDB-GENE-070912-124
-  phenotypes: ZDB-GENE-010621-1,ZDB-GENE-070912-124
+- ensembl: ENSDARG00000013207
+  entrez: '114425'
+  mod: ZFIN:ZDB-GENE-010621-1
+  phenotypes: central nervous system development, gastrulation, negative regulation
+    of transcription by RNA polymerase II, regulation of cell motility, regulation
+    of cell-cell adhesion involved in gastrulation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGGCACTTACAGCACACAGGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459278
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396029
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459278
+  url: https://www.ncbi.nlm.nih.gov/gene/396029
 species: Gallus gallus
 symbol: ZEB1
 template_length: '1082'
@@ -228,9 +225,8 @@ title: ZEB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000148516](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148516) | [6935](https://www.ncbi.nlm.nih.gov/gene/6935) | [MIM:189909](https://omim.org/entry/189909) | MIM:613270 |
 | Mouse | [ENSMUSG00000024238](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024238) | [21417](https://www.ncbi.nlm.nih.gov/gene/21417) | [MGI:1344313](http://www.informatics.jax.org/marker/MGI:1344313) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [548525](https://www.ncbi.nlm.nih.gov/gene/548525), [444391](https://www.ncbi.nlm.nih.gov/gene/444391) | [484654](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484654) |  |
-| Zebrafish | [ENSDARG00000013207](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013207), [ENSDARG00000016788](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016788) | [114425](https://www.ncbi.nlm.nih.gov/gene/114425), [100004929](https://www.ncbi.nlm.nih.gov/gene/100004929) | [ZFIN:ZDB-GENE-010621-1](https://zfin.org/ZDB-GENE-010621-1), [ZFIN:ZDB-GENE-070912-124](https://zfin.org/ZDB-GENE-070912-124) | ZDB-GENE-010621-1,ZDB-GENE-070912-124 |
+| Xenopus | [ENSXETG00000011655](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011655) | [548525](https://www.ncbi.nlm.nih.gov/gene/548525) |  |  |
+| Zebrafish | [ENSDARG00000013207](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013207) | [114425](https://www.ncbi.nlm.nih.gov/gene/114425) | [ZFIN:ZDB-GENE-010621-1](https://zfin.org/ZDB-GENE-010621-1) | central nervous system development, gastrulation, negative regulation of transcription by RNA polymerase II, regulation of cell motility, regulation of cell-cell adhesion involved in gastrulation |
 

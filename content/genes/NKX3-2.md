@@ -5,7 +5,6 @@ aliases:
 - bagpipe homeobox homolog 1
 cgnc_id: '48963'
 external_ids:
-  '31': stage 31stage 31stage 31
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=nielsen+gizzard+formation+role+bapx1
   Comments: 'Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence  was obtained from NCBI (Acc. # NM_204137.1).'
@@ -15,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373932
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204137
-gene_id: '363857'
+gene_id: '373932'
 gene_type: protein-coding
 images:
 - caption: NKX3-2 expression
@@ -138,7 +137,7 @@ images:
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/stage 31 l.jpg
 name: NK3 homeobox 2
-ncbi_id: '363857'
+ncbi_id: '373932'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -168,7 +167,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/363857
+  url: https://www.ncbi.nlm.nih.gov/gene/373932
 species: Gallus gallus
 symbol: NKX3-2
 title: NKX3-2

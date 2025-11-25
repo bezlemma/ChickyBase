@@ -6,9 +6,6 @@ aliases:
 - receptor tyrosine kinase
 cgnc_id: '49722'
 external_ids:
-  '13': stage 13stage 13
-  '25': stage 25
-  '4': stage 4
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0005592
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006915
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005794
@@ -26,7 +23,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205319
   X-XIV: stage Xstage X
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAGAGCCGCCAACCAAATACC
-gene_id: '462454'
+gene_id: '396259'
 gene_type: protein-coding
 images:
 - caption: FGFR2 expression
@@ -1138,13 +1135,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FGFR2.Anderson.2019.Supplementary
     figure 5J.jpg
 name: fibroblast growth factor receptor 2
-ncbi_id: '462454'
+ncbi_id: '396259'
 orthologs:
-- ensembl: ''
-  entrez: 39564,42160
-  mod: FBgn0005592,FBgn0010389
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000066468
   entrez: '2263'
   mod: MIM:176943
@@ -1156,24 +1148,25 @@ orthologs:
   phenotypes: All phenotypic alleles (27):Spontaneous(1) Chemically induced(1) Targeted,
     knock-out(12) Targeted, other(13)
   species: Mouse
-- ensembl: ''
-  entrez: 100124910,399325
-  mod: '1018295'
+- ensembl: ENSXETG00000015592
+  entrez: '100124910'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000058115
   entrez: '352940'
   mod: ZFIN:ZDB-GENE-030323-1
-  phenotypes: ZDB-GENE-030323-1
+  phenotypes: angiogenesis, apoptotic process, brain development, cartilage development,
+    cell proliferation in midbrain
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTCTTTCAGCATCTTCACTGCCAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462454
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396259
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462454
+  url: https://www.ncbi.nlm.nih.gov/gene/396259
 species: Gallus gallus
 symbol: FGFR2
 template_length: '1057'
@@ -1206,9 +1199,8 @@ title: FGFR2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39564](https://www.ncbi.nlm.nih.gov/gene/39564), [42160](https://www.ncbi.nlm.nih.gov/gene/42160) | FBgn0005592, FBgn0010389 |  |
 | Human | [ENSG00000066468](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000066468) | [2263](https://www.ncbi.nlm.nih.gov/gene/2263) | [MIM:176943](https://omim.org/entry/176943) | MIM:207410 |
 | Mouse | [ENSMUSG00000030849](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030849) | [14183](https://www.ncbi.nlm.nih.gov/gene/14183) | [MGI:95523](http://www.informatics.jax.org/marker/MGI:95523) | All phenotypic alleles (27):Spontaneous(1) Chemically induced(1) Targeted, knock-out(12) Targeted, other(13) |
-| Xenopus |  | [100124910](https://www.ncbi.nlm.nih.gov/gene/100124910), [399325](https://www.ncbi.nlm.nih.gov/gene/399325) | [1018295](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1018295) |  |
-| Zebrafish | [ENSDARG00000058115](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058115) | [352940](https://www.ncbi.nlm.nih.gov/gene/352940) | [ZFIN:ZDB-GENE-030323-1](https://zfin.org/ZDB-GENE-030323-1) | ZDB-GENE-030323-1 |
+| Xenopus | [ENSXETG00000015592](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015592) | [100124910](https://www.ncbi.nlm.nih.gov/gene/100124910) |  |  |
+| Zebrafish | [ENSDARG00000058115](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058115) | [352940](https://www.ncbi.nlm.nih.gov/gene/352940) | [ZFIN:ZDB-GENE-030323-1](https://zfin.org/ZDB-GENE-030323-1) | angiogenesis, apoptotic process, brain development, cartilage development, cell proliferation in midbrain |
 

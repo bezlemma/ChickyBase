@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419752
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417890
 forward_primer: CGTCAGAAGAAGGACTCTCG
-gene_id: '457232'
+gene_id: '419752'
 gene_type: protein-coding
 images:
 - caption: ARHGEF12 expression
@@ -143,13 +143,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R387.ARHGEF12.S26.001.jpg
 name: Rho guanine nucleotide exchange factor 12
-ncbi_id: '457232'
+ncbi_id: '419752'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000196914
   entrez: '23365'
   mod: MIM:604763
@@ -160,24 +155,24 @@ orthologs:
   mod: MGI:1916882
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 779951,398710
-  mod: '485386'
+- ensembl: ENSXETG00000017018
+  entrez: '779951'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000067634
+- ensembl: ENSDARG00000100913
   entrez: '571031'
-  mod: ZFIN:ZDB-GENE-070705-36,ZFIN:ZDB-GENE-121017-3
-  phenotypes: ZDB-GENE-070705-36,ZDB-GENE-121017-3
+  mod: ZFIN:ZDB-GENE-070705-36
+  phenotypes: G protein-coupled receptor signaling pathway, erythrocyte differentiation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAAGACTTTCCACCTCGGAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457232
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419752
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457232
+  url: https://www.ncbi.nlm.nih.gov/gene/419752
 species: Gallus gallus
 symbol: ARHGEF12
 template_length: '918'
@@ -199,9 +194,8 @@ title: ARHGEF12
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000196914](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000196914) | [23365](https://www.ncbi.nlm.nih.gov/gene/23365) | [MIM:604763](https://omim.org/entry/604763) | MIM:601626 |
 | Mouse | [ENSMUSG00000059495](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000059495) | [69632](https://www.ncbi.nlm.nih.gov/gene/69632) | [MGI:1916882](http://www.informatics.jax.org/marker/MGI:1916882) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [779951](https://www.ncbi.nlm.nih.gov/gene/779951), [398710](https://www.ncbi.nlm.nih.gov/gene/398710) | [485386](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485386) |  |
-| Zebrafish | [ENSDARG00000067634](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000067634) | [571031](https://www.ncbi.nlm.nih.gov/gene/571031) | [ZFIN:ZDB-GENE-070705-36](https://zfin.org/ZDB-GENE-070705-36), [ZFIN:ZDB-GENE-121017-3](https://zfin.org/ZDB-GENE-121017-3) | ZDB-GENE-070705-36,ZDB-GENE-121017-3 |
+| Xenopus | [ENSXETG00000017018](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017018) | [779951](https://www.ncbi.nlm.nih.gov/gene/779951) |  |  |
+| Zebrafish | [ENSDARG00000100913](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000100913) | [571031](https://www.ncbi.nlm.nih.gov/gene/571031) | [ZFIN:ZDB-GENE-070705-36](https://zfin.org/ZDB-GENE-070705-36) | G protein-coupled receptor signaling pathway, erythrocyte differentiation |
 

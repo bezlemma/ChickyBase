@@ -4,7 +4,6 @@ aliases:
 - crossveinless 2, Crossveinless-2
 cgnc_id: '9248'
 external_ids:
-  '31': stage 31
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0000395
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Kamimura+Matsumoto+Koshiba-Takeuchi+2004
   Comments: 'Insufficient information provided in publication to verify exact sequence
@@ -17,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420744
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001007080
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCAGTGTTGCCCCAAATGCTTAG
-gene_id: '455849'
+gene_id: '420744'
 gene_type: protein-coding
 images:
 - caption: BMPER expression
@@ -135,13 +134,8 @@ images:
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CV-2.Kamimura.20044E.jpg
 name: BMP binding endothelial regulator
-ncbi_id: '455849'
+ncbi_id: '420744'
 orthologs:
-- ensembl: ''
-  entrez: '45280'
-  mod: FBgn0000395
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164619
   entrez: '168667'
   mod: MIM:608699
@@ -152,24 +146,25 @@ orthologs:
   mod: MGI:1920480
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 733449,734166
-  mod: '480926'
+- ensembl: ENSXETG00000021129
+  entrez: '733449'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000040893
+- ensembl: ENSDARG00000101980
   entrez: '338246'
   mod: ZFIN:ZDB-GENE-030219-146
-  phenotypes: ZDB-GENE-030219-146
+  phenotypes: blood vessel development, dorsal/ventral pattern formation, hemopoiesis,
+    neural crest formation, otic placode formation
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGATCAGGTCATCTCGCTTGTGCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455849
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420744
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455849
+  url: https://www.ncbi.nlm.nih.gov/gene/420744
 species: Gallus gallus
 symbol: BMPER
 template_length: '872'
@@ -198,9 +193,8 @@ title: BMPER
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [45280](https://www.ncbi.nlm.nih.gov/gene/45280) | FBgn0000395 |  |
 | Human | [ENSG00000164619](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164619) | [168667](https://www.ncbi.nlm.nih.gov/gene/168667) | [MIM:608699](https://omim.org/entry/608699) | MIM:608022 |
 | Mouse | [ENSMUSG00000031963](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031963) | [73230](https://www.ncbi.nlm.nih.gov/gene/73230) | [MGI:1920480](http://www.informatics.jax.org/marker/MGI:1920480) | All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2) |
-| Xenopus |  | [733449](https://www.ncbi.nlm.nih.gov/gene/733449), [734166](https://www.ncbi.nlm.nih.gov/gene/734166) | [480926](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480926) |  |
-| Zebrafish | [ENSDARG00000040893](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040893) | [338246](https://www.ncbi.nlm.nih.gov/gene/338246) | [ZFIN:ZDB-GENE-030219-146](https://zfin.org/ZDB-GENE-030219-146) | ZDB-GENE-030219-146 |
+| Xenopus | [ENSXETG00000021129](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021129) | [733449](https://www.ncbi.nlm.nih.gov/gene/733449) |  |  |
+| Zebrafish | [ENSDARG00000101980](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101980) | [338246](https://www.ncbi.nlm.nih.gov/gene/338246) | [ZFIN:ZDB-GENE-030219-146](https://zfin.org/ZDB-GENE-030219-146) | blood vessel development, dorsal/ventral pattern formation, hemopoiesis, neural crest formation, otic placode formation |
 

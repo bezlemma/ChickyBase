@@ -4,13 +4,12 @@ aliases:
 - A kinase (PRKA) anchor protein 14
 cgnc_id: '14134'
 external_ids:
-  '25': stage 25stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/772147
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:772147
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234243
 forward_primer: CAGAGGTCAAGACAATGGACGAG
-gene_id: '462858'
+gene_id: '772147'
 gene_type: protein-coding
 images:
 - caption: AKAP14 expression
@@ -130,41 +129,26 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R519.AKAP14.S25AA.001.jpg
 name: A-kinase anchoring protein 14
-ncbi_id: '462858'
+ncbi_id: '772147'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000186471
-  entrez: '158798'
-  mod: MIM:300462
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000036551
-  entrez: '434756'
-  mod: MGI:3618288
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000036498
   entrez: '100491740'
-  mod: '994254'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSDARG00000105458
+  entrez: '101884343'
+  mod: ZFIN:ZDB-GENE-160113-129
   phenotypes: ''
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCTCCGCAAAATACCAACAGAGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462858
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=772147
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462858
+  url: https://www.ncbi.nlm.nih.gov/gene/772147
 species: Gallus gallus
 symbol: AKAP14
 template_length: '580'
@@ -186,9 +170,6 @@ title: AKAP14
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000186471](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000186471) | [158798](https://www.ncbi.nlm.nih.gov/gene/158798) | [MIM:300462](https://omim.org/entry/300462) |  |
-| Mouse | [ENSMUSG00000036551](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036551) | [434756](https://www.ncbi.nlm.nih.gov/gene/434756) | [MGI:3618288](http://www.informatics.jax.org/marker/MGI:3618288) |  |
-| Xenopus |  | [100491740](https://www.ncbi.nlm.nih.gov/gene/100491740) | [994254](http://www.xenbase.org/gene/showgene.do?method=display&geneId=994254) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000036498](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000036498) | [100491740](https://www.ncbi.nlm.nih.gov/gene/100491740) |  |  |
+| Zebrafish | [ENSDARG00000105458](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000105458) | [101884343](https://www.ncbi.nlm.nih.gov/gene/101884343) | [ZFIN:ZDB-GENE-160113-129](https://zfin.org/ZDB-GENE-160113-129) |  |
 

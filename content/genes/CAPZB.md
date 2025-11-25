@@ -17,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003779
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001173529
 forward_primer: GAGGTGGAAGCCAACAATGC
-gene_id: '460993'
+gene_id: '396418'
 gene_type: protein-coding
 images:
 - caption: CAPZB expression
@@ -181,13 +181,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R556.CAPZB.S27b.001.jpg
 name: capping actin protein of muscle Z-line beta subunit
-ncbi_id: '460993'
+ncbi_id: '396418'
 orthologs:
-- ensembl: ''
-  entrez: '33346'
-  mod: FBgn0011570
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000077549
   entrez: '832'
   mod: MIM:601572
@@ -198,24 +193,20 @@ orthologs:
   mod: MGI:104652
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100101793,379808
-  mod: '490543'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000046004
+- ensembl: ENSDARG00000100252
   entrez: '335083'
   mod: ZFIN:ZDB-GENE-030131-7023
-  phenotypes: ZDB-GENE-030131-7023
+  phenotypes: actin cytoskeleton organization, actin filament capping, barbed-end
+    actin filament capping, cell morphogenesis, muscle cell development
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAGAGTCGCTCACAGTCTCATC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460993
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396418
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460993
+  url: https://www.ncbi.nlm.nih.gov/gene/396418
 species: Gallus gallus
 symbol: CAPZB
 template_length: '330'
@@ -243,9 +234,7 @@ title: CAPZB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33346](https://www.ncbi.nlm.nih.gov/gene/33346) | FBgn0011570 |  |
 | Human | [ENSG00000077549](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000077549) | [832](https://www.ncbi.nlm.nih.gov/gene/832) | [MIM:601572](https://omim.org/entry/601572) |  |
 | Mouse | [ENSMUSG00000028745](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028745) | [12345](https://www.ncbi.nlm.nih.gov/gene/12345) | [MGI:104652](http://www.informatics.jax.org/marker/MGI:104652) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100101793](https://www.ncbi.nlm.nih.gov/gene/100101793), [379808](https://www.ncbi.nlm.nih.gov/gene/379808) | [490543](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490543) |  |
-| Zebrafish | [ENSDARG00000046004](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000046004) | [335083](https://www.ncbi.nlm.nih.gov/gene/335083) | [ZFIN:ZDB-GENE-030131-7023](https://zfin.org/ZDB-GENE-030131-7023) | ZDB-GENE-030131-7023 |
+| Zebrafish | [ENSDARG00000100252](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000100252) | [335083](https://www.ncbi.nlm.nih.gov/gene/335083) | [ZFIN:ZDB-GENE-030131-7023](https://zfin.org/ZDB-GENE-030131-7023) | actin cytoskeleton organization, actin filament capping, barbed-end actin filament capping, cell morphogenesis, muscle cell development |
 

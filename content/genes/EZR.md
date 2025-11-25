@@ -4,7 +4,6 @@ aliases:
 - villin 2 (ezrin), ezrin, ezrin
 cgnc_id: '10288'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Richter+Ezrin+2004
   Comments: Digoxigenin (DIG-) labelled antisense RNA probes were transcribed in vitro
     from PCR products of a portion of chick Ezrin (nt 1-1018 of GI 4514719).
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395701
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204885
 forward_primer: GGAAGCGTAAGGAGAGTGAGGTTG
-gene_id: '449822'
+gene_id: '395701'
 gene_type: protein-coding
 images:
 - caption: EZR expression
@@ -330,13 +329,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ezrin.Fig3.imageD
 name: ezrin
-ncbi_id: '449822'
+ncbi_id: '395701'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000092820
   entrez: '7430'
   mod: MIM:123900
@@ -347,24 +341,26 @@ orthologs:
   mod: MGI:98931
   phenotypes: All phenotypic alleles (9):Targeted, other(9)
   species: Mouse
-- ensembl: ''
-  entrez: 595017,447216
-  mod: '484765'
+- ensembl: ENSXETG00000009776
+  entrez: '595017'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000025091,ENSDARG00000020944
-  entrez: 561589,403009
-  mod: ZFIN:ZDB-GENE-050803-1,ZFIN:ZDB-GENE-050522-18
-  phenotypes: ZDB-GENE-050803-1,ZDB-GENE-050522-18
+- ensembl: ENSDARG00000025091
+  entrez: '561589'
+  mod: ZFIN:ZDB-GENE-050803-1
+  phenotypes: cell migration involved in gastrulation, cilium assembly, epiboly, epithelial
+    cell differentiation involved in kidney development, positive regulation of early
+    endosome to late endosome transport
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGTGTGTCAGGTGGGCATCAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449822
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395701
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449822
+  url: https://www.ncbi.nlm.nih.gov/gene/395701
 species: Gallus gallus
 symbol: EZR
 template_length: '952'
@@ -391,9 +387,8 @@ title: EZR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000092820](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000092820) | [7430](https://www.ncbi.nlm.nih.gov/gene/7430) | [MIM:123900](https://omim.org/entry/123900) |  |
 | Mouse | [ENSMUSG00000052397](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000052397) | [22350](https://www.ncbi.nlm.nih.gov/gene/22350) | [MGI:98931](http://www.informatics.jax.org/marker/MGI:98931) | All phenotypic alleles (9):Targeted, other(9) |
-| Xenopus |  | [595017](https://www.ncbi.nlm.nih.gov/gene/595017), [447216](https://www.ncbi.nlm.nih.gov/gene/447216) | [484765](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484765) |  |
-| Zebrafish | [ENSDARG00000025091](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025091), [ENSDARG00000020944](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020944) | [561589](https://www.ncbi.nlm.nih.gov/gene/561589), [403009](https://www.ncbi.nlm.nih.gov/gene/403009) | [ZFIN:ZDB-GENE-050803-1](https://zfin.org/ZDB-GENE-050803-1), [ZFIN:ZDB-GENE-050522-18](https://zfin.org/ZDB-GENE-050522-18) | ZDB-GENE-050803-1,ZDB-GENE-050522-18 |
+| Xenopus | [ENSXETG00000009776](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009776) | [595017](https://www.ncbi.nlm.nih.gov/gene/595017) |  |  |
+| Zebrafish | [ENSDARG00000025091](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025091) | [561589](https://www.ncbi.nlm.nih.gov/gene/561589) | [ZFIN:ZDB-GENE-050803-1](https://zfin.org/ZDB-GENE-050803-1) | cell migration involved in gastrulation, cilium assembly, epiboly, epithelial cell differentiation involved in kidney development, positive regulation of early endosome to late endosome transport |
 

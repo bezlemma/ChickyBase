@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395297
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001278090
 forward_primer: CCAGTCCTGATGATGGCAATG
-gene_id: '461528'
+gene_id: '395297'
 gene_type: protein-coding
 images:
 - caption: FZR1 expression
@@ -189,41 +189,38 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CDH1D.Wan.2001.Fig.2.png
 name: fizzy and cell division cycle 20 related 1
-ncbi_id: '461528'
+ncbi_id: '395297'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000105325
+  entrez: '51343'
+  mod: MIM:603619
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000020235
+  entrez: '56371'
+  mod: MGI:1926790
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000006397
+  entrez: '100144958'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000015254
+  entrez: '393223'
+  mod: ZFIN:ZDB-GENE-040426-712
+  phenotypes: anaphase-promoting complex-dependent catabolic process, cell division,
+    positive regulation of anaphase-promoting complex-dependent catabolic process,
+    positive regulation of ubiquitin protein ligase activity
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAGAGGGGTATTTCCAGACGAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461528
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395297
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461528
+  url: https://www.ncbi.nlm.nih.gov/gene/395297
 species: Gallus gallus
 symbol: FZR1
 template_length: '887'
@@ -250,9 +247,8 @@ title: FZR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000105325](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000105325) | [51343](https://www.ncbi.nlm.nih.gov/gene/51343) | [MIM:603619](https://omim.org/entry/603619) |  |
+| Mouse | [ENSMUSG00000020235](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020235) | [56371](https://www.ncbi.nlm.nih.gov/gene/56371) | [MGI:1926790](http://www.informatics.jax.org/marker/MGI:1926790) |  |
+| Xenopus | [ENSXETG00000006397](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006397) | [100144958](https://www.ncbi.nlm.nih.gov/gene/100144958) |  |  |
+| Zebrafish | [ENSDARG00000015254](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015254) | [393223](https://www.ncbi.nlm.nih.gov/gene/393223) | [ZFIN:ZDB-GENE-040426-712](https://zfin.org/ZDB-GENE-040426-712) | anaphase-promoting complex-dependent catabolic process, cell division, positive regulation of anaphase-promoting complex-dependent catabolic process, positive regulation of ubiquitin protein ligase activity |
 

@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771214
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234506
-gene_id: '448940'
+gene_id: '771214'
 gene_type: protein-coding
 images:
 - caption: HOXD9 expression
@@ -126,13 +126,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxd-9.Nelson.1996.Fig6.jpg
 name: homeobox D9
-ncbi_id: '448940'
+ncbi_id: '771214'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000128709
   entrez: '3235'
   mod: MIM:142982
@@ -143,20 +138,22 @@ orthologs:
   mod: MGI:96210
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100497640,399194
-  mod: '485790'
+- ensembl: ENSXETG00000045288
+  entrez: '100497640'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000059274
   entrez: '30350'
   mod: ZFIN:ZDB-GENE-990415-121
-  phenotypes: ZDB-GENE-990415-121
+  phenotypes: DNA-templated transcription, anterior/posterior pattern specification,
+    embryonic skeletal system morphogenesis, proximal/distal pattern formation, regulation
+    of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448940
+  url: https://www.ncbi.nlm.nih.gov/gene/771214
 species: Gallus gallus
 symbol: HOXD9
 title: HOXD9
@@ -185,9 +182,8 @@ title: HOXD9
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000128709](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000128709) | [3235](https://www.ncbi.nlm.nih.gov/gene/3235) | [MIM:142982](https://omim.org/entry/142982) |  |
 | Mouse | [ENSMUSG00000043342](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000043342) | [15438](https://www.ncbi.nlm.nih.gov/gene/15438) | [MGI:96210](http://www.informatics.jax.org/marker/MGI:96210) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100497640](https://www.ncbi.nlm.nih.gov/gene/100497640), [399194](https://www.ncbi.nlm.nih.gov/gene/399194) | [485790](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485790) |  |
-| Zebrafish | [ENSDARG00000059274](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059274) | [30350](https://www.ncbi.nlm.nih.gov/gene/30350) | [ZFIN:ZDB-GENE-990415-121](https://zfin.org/ZDB-GENE-990415-121) | ZDB-GENE-990415-121 |
+| Xenopus | [ENSXETG00000045288](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000045288) | [100497640](https://www.ncbi.nlm.nih.gov/gene/100497640) |  |  |
+| Zebrafish | [ENSDARG00000059274](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059274) | [30350](https://www.ncbi.nlm.nih.gov/gene/30350) | [ZFIN:ZDB-GENE-990415-121](https://zfin.org/ZDB-GENE-990415-121) | DNA-templated transcription, anterior/posterior pattern specification, embryonic skeletal system morphogenesis, proximal/distal pattern formation, regulation of DNA-templated transcription |
 

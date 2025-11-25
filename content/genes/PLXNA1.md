@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416030
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641979
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/PLXNA1
-gene_id: '457953'
+gene_id: '416030'
 gene_type: protein-coding
 images:
 - caption: PLXNA1 expression
@@ -162,13 +162,8 @@ images:
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferrario2012.Fig1.F.PLEXINA1.E6=STAGE29.jpg
 name: plexin A1
-ncbi_id: '457953'
+ncbi_id: '416030'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000114554
   entrez: '5361'
   mod: MIM:601055
@@ -179,20 +174,21 @@ orthologs:
   mod: MGI:107685
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100037845,397805
-  mod: '5819523'
+- ensembl: ENSXETG00000018635
+  entrez: '100037845'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
   entrez: '558065'
-  mod: ZFIN:ZDB-GENE-061007-1,ZFIN:ZDB-GENE-140106-137
-  phenotypes: ZDB-GENE-061007-1,ZDB-GENE-140106-137
+  mod: ZFIN:ZDB-GENE-061007-1
+  phenotypes: axon guidance, morphogenesis of a branching structure, neuron projection
+    guidance, regulation of cell migration, semaphorin-plexin signaling pathway
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457953
+  url: https://www.ncbi.nlm.nih.gov/gene/416030
 species: Gallus gallus
 symbol: PLXNA1
 title: PLXNA1
@@ -219,9 +215,8 @@ title: PLXNA1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000114554](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000114554) | [5361](https://www.ncbi.nlm.nih.gov/gene/5361) | [MIM:601055](https://omim.org/entry/601055) |  |
 | Mouse | [ENSMUSG00000030084](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030084) | [18844](https://www.ncbi.nlm.nih.gov/gene/18844) | [MGI:107685](http://www.informatics.jax.org/marker/MGI:107685) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100037845](https://www.ncbi.nlm.nih.gov/gene/100037845), [397805](https://www.ncbi.nlm.nih.gov/gene/397805) | [5819523](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5819523) |  |
-| Zebrafish |  | [558065](https://www.ncbi.nlm.nih.gov/gene/558065) | [ZFIN:ZDB-GENE-061007-1](https://zfin.org/ZDB-GENE-061007-1), [ZFIN:ZDB-GENE-140106-137](https://zfin.org/ZDB-GENE-140106-137) | ZDB-GENE-061007-1,ZDB-GENE-140106-137 |
+| Xenopus | [ENSXETG00000018635](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018635) | [100037845](https://www.ncbi.nlm.nih.gov/gene/100037845) |  |  |
+| Zebrafish |  | [558065](https://www.ncbi.nlm.nih.gov/gene/558065) | [ZFIN:ZDB-GENE-061007-1](https://zfin.org/ZDB-GENE-061007-1) | axon guidance, morphogenesis of a branching structure, neuron projection guidance, regulation of cell migration, semaphorin-plexin signaling pathway |
 

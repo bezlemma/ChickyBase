@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419361
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417522
-gene_id: '454766'
+gene_id: '419361'
 gene_type: protein-coding
 images:
 - caption: RCC2 expression
@@ -33,14 +33,9 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.ADAMS.2008.jpg
 name: regulator of chromosome condensation 2
-ncbi_id: '454766'
+ncbi_id: '419361'
 orthologs:
-- ensembl: ''
-  entrez: '33850'
-  mod: FBgn0031769
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000179051
+- ensembl: ENSG00000281540
   entrez: '55920'
   mod: MIM:609587
   phenotypes: ''
@@ -50,20 +45,22 @@ orthologs:
   mod: MGI:1919784
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100494942,734455
-  mod: '996296'
+- ensembl: ENSXETG00000014793
+  entrez: '100494942'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000011510
+- ensembl: ENSDARG00000115981
   entrez: '406455'
   mod: ZFIN:ZDB-GENE-040426-2213
-  phenotypes: ZDB-GENE-040426-2213
+  phenotypes: cell division, chromosome passenger complex localization to kinetochore,
+    neural crest cell migration, positive regulation of attachment of spindle microtubules
+    to kinetochore
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454766
+  url: https://www.ncbi.nlm.nih.gov/gene/419361
 species: Gallus gallus
 symbol: RCC2
 title: RCC2
@@ -91,9 +88,8 @@ title: RCC2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33850](https://www.ncbi.nlm.nih.gov/gene/33850) | FBgn0031769 |  |
-| Human | [ENSG00000179051](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000179051) | [55920](https://www.ncbi.nlm.nih.gov/gene/55920) | [MIM:609587](https://omim.org/entry/609587) |  |
+| Human | [ENSG00000281540](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000281540) | [55920](https://www.ncbi.nlm.nih.gov/gene/55920) | [MIM:609587](https://omim.org/entry/609587) |  |
 | Mouse | [ENSMUSG00000040945](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040945) | [108911](https://www.ncbi.nlm.nih.gov/gene/108911) | [MGI:1919784](http://www.informatics.jax.org/marker/MGI:1919784) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100494942](https://www.ncbi.nlm.nih.gov/gene/100494942), [734455](https://www.ncbi.nlm.nih.gov/gene/734455) | [996296](http://www.xenbase.org/gene/showgene.do?method=display&geneId=996296) |  |
-| Zebrafish | [ENSDARG00000011510](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011510) | [406455](https://www.ncbi.nlm.nih.gov/gene/406455) | [ZFIN:ZDB-GENE-040426-2213](https://zfin.org/ZDB-GENE-040426-2213) | ZDB-GENE-040426-2213 |
+| Xenopus | [ENSXETG00000014793](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014793) | [100494942](https://www.ncbi.nlm.nih.gov/gene/100494942) |  |  |
+| Zebrafish | [ENSDARG00000115981](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115981) | [406455](https://www.ncbi.nlm.nih.gov/gene/406455) | [ZFIN:ZDB-GENE-040426-2213](https://zfin.org/ZDB-GENE-040426-2213) | cell division, chromosome passenger complex localization to kinetochore, neural crest cell migration, positive regulation of attachment of spindle microtubules to kinetochore |
 

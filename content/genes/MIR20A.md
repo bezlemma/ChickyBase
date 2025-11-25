@@ -1,7 +1,6 @@
 ---
 cgnc_id: '12490'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Darnell+MicroRNA+Stanislaw+Dev
     Dyn
   Comments: light and dark (specific and near ubiq) are due to different durations
@@ -12,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395363
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204650
-gene_id: '467961'
+gene_id: '777935'
 gene_type: miscRNA
 images:
 - caption: MIR20A expression
@@ -128,7 +127,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/20.14.st25,010.jpg
 name: microRNA 20a
-ncbi_id: '467961'
+ncbi_id: '777935'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -158,7 +157,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467961
+  url: https://www.ncbi.nlm.nih.gov/gene/777935
 species: Gallus gallus
 symbol: MIR20A
 title: MIR20A

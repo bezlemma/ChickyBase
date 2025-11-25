@@ -5,8 +5,6 @@ aliases:
 - jun-suppressed chemokine
 cgnc_id: '4774'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25stage 25
-  '4': stage 4stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Ojeda+2013+CXCL12
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Ojeda et al. 2013.  CXC14 is also known as
@@ -19,7 +17,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204712
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/CXCL14
 forward_primer: GAACACAAGACAGAACCCCGC
-gene_id: '449256'
+gene_id: '395451'
 gene_type: protein-coding
 images:
 - caption: CXCL14 expression
@@ -1140,13 +1138,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CXCL14.Ojeda.2013.Fig4.jpg
 name: C-X-C motif chemokine ligand 14
-ncbi_id: '449256'
+ncbi_id: '395451'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000145824
   entrez: '9547'
   mod: MIM:604186
@@ -1157,24 +1150,25 @@ orthologs:
   mod: MGI:1888514
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100125115,444627
-  mod: '944198'
+- ensembl: ENSXETG00000007899
+  entrez: '100125115'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000056627
   entrez: '58151'
   mod: ZFIN:ZDB-GENE-000619-1
-  phenotypes: ZDB-GENE-000619-1
+  phenotypes: antimicrobial humoral immune response mediated by antimicrobial peptide,
+    immune response
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGATCCCAGCACTGCCCCGTTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449256
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395451
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449256
+  url: https://www.ncbi.nlm.nih.gov/gene/395451
 species: Gallus gallus
 symbol: CXCL14
 template_length: '816'
@@ -1202,9 +1196,8 @@ title: CXCL14
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000145824](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145824) | [9547](https://www.ncbi.nlm.nih.gov/gene/9547) | [MIM:604186](https://omim.org/entry/604186) |  |
 | Mouse | [ENSMUSG00000021508](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021508) | [57266](https://www.ncbi.nlm.nih.gov/gene/57266) | [MGI:1888514](http://www.informatics.jax.org/marker/MGI:1888514) | All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1) |
-| Xenopus |  | [100125115](https://www.ncbi.nlm.nih.gov/gene/100125115), [444627](https://www.ncbi.nlm.nih.gov/gene/444627) | [944198](http://www.xenbase.org/gene/showgene.do?method=display&geneId=944198) |  |
-| Zebrafish | [ENSDARG00000056627](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056627) | [58151](https://www.ncbi.nlm.nih.gov/gene/58151) | [ZFIN:ZDB-GENE-000619-1](https://zfin.org/ZDB-GENE-000619-1) | ZDB-GENE-000619-1 |
+| Xenopus | [ENSXETG00000007899](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007899) | [100125115](https://www.ncbi.nlm.nih.gov/gene/100125115) |  |  |
+| Zebrafish | [ENSDARG00000056627](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056627) | [58151](https://www.ncbi.nlm.nih.gov/gene/58151) | [ZFIN:ZDB-GENE-000619-1](https://zfin.org/ZDB-GENE-000619-1) | antimicrobial humoral immune response mediated by antimicrobial peptide, immune response |
 

@@ -7,7 +7,6 @@ aliases:
 - cEK11
 cgnc_id: '49580'
 external_ids:
-  '19': stage 19stage 19
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007420
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005887
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=1998+Araujo+EphA7+limb
@@ -20,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395967
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205083
-gene_id: '450526'
+gene_id: '395967'
 gene_type: protein-coding
 images:
 - caption: EPHA7 expression
@@ -458,13 +457,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig4_EphA7_F_G_Arujo_ST27.jpg
 name: EPH receptor A7
-ncbi_id: '450526'
+ncbi_id: '395967'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000135333
   entrez: '2045'
   mod: MIM:602190
@@ -475,23 +469,24 @@ orthologs:
   mod: MGI:95276
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000018746
   entrez: '100486526'
-  mod: '488634'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000004635
   entrez: '562195'
   mod: ZFIN:ZDB-GENE-030131-3745
-  phenotypes: ZDB-GENE-030131-3745
+  phenotypes: axon guidance, cell surface receptor protein tyrosine kinase signaling
+    pathway, ephrin receptor signaling pathway, phosphorylation, protein phosphorylation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450526
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395967
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450526
+  url: https://www.ncbi.nlm.nih.gov/gene/395967
 species: Gallus gallus
 symbol: EPHA7
 title: EPHA7
@@ -520,9 +515,8 @@ title: EPHA7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000135333](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135333) | [2045](https://www.ncbi.nlm.nih.gov/gene/2045) | [MIM:602190](https://omim.org/entry/602190) |  |
 | Mouse | [ENSMUSG00000028289](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028289) | [13841](https://www.ncbi.nlm.nih.gov/gene/13841) | [MGI:95276](http://www.informatics.jax.org/marker/MGI:95276) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100486526](https://www.ncbi.nlm.nih.gov/gene/100486526) | [488634](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488634) |  |
-| Zebrafish | [ENSDARG00000004635](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004635) | [562195](https://www.ncbi.nlm.nih.gov/gene/562195) | [ZFIN:ZDB-GENE-030131-3745](https://zfin.org/ZDB-GENE-030131-3745) | ZDB-GENE-030131-3745 |
+| Xenopus | [ENSXETG00000018746](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018746) | [100486526](https://www.ncbi.nlm.nih.gov/gene/100486526) |  |  |
+| Zebrafish | [ENSDARG00000004635](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004635) | [562195](https://www.ncbi.nlm.nih.gov/gene/562195) | [ZFIN:ZDB-GENE-030131-3745](https://zfin.org/ZDB-GENE-030131-3745) | axon guidance, cell surface receptor protein tyrosine kinase signaling pathway, ephrin receptor signaling pathway, phosphorylation, protein phosphorylation |
 

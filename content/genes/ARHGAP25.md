@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419516
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030883
 forward_primer: ACCTCATCAGACCCAAGATAG
-gene_id: '458226'
+gene_id: '419516'
 gene_type: protein-coding
 images:
 - caption: ARHGAP25 expression
@@ -103,41 +103,38 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R410.ARHGAP25.S26D.001.jpg
 name: Rho GTPase activating protein 25
-ncbi_id: '458226'
+ncbi_id: '419516'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163219
   entrez: '9938'
   mod: MIM:610587
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000030047
   entrez: '232201'
   mod: MGI:2443687
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000008195
   entrez: '448347'
-  mod: '1002910'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000061784
   entrez: '562468'
   mod: ZFIN:ZDB-GENE-060526-210
-  phenotypes: ZDB-GENE-060526-210
+  phenotypes: actin filament organization, negative regulation of small GTPase mediated
+    signal transduction, phagocytosis, engulfment, regulation of small GTPase mediated
+    signal transduction, signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCGTCGTAGTTTTCCTTCTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458226
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419516
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458226
+  url: https://www.ncbi.nlm.nih.gov/gene/419516
 species: Gallus gallus
 symbol: ARHGAP25
 template_length: '852'
@@ -159,9 +156,8 @@ title: ARHGAP25
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163219](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163219) | [9938](https://www.ncbi.nlm.nih.gov/gene/9938) | [MIM:610587](https://omim.org/entry/610587) |  |
-| Mouse |  | [232201](https://www.ncbi.nlm.nih.gov/gene/232201) | [MGI:2443687](http://www.informatics.jax.org/marker/MGI:2443687) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [448347](https://www.ncbi.nlm.nih.gov/gene/448347) | [1002910](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1002910) |  |
-| Zebrafish | [ENSDARG00000061784](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061784) | [562468](https://www.ncbi.nlm.nih.gov/gene/562468) | [ZFIN:ZDB-GENE-060526-210](https://zfin.org/ZDB-GENE-060526-210) | ZDB-GENE-060526-210 |
+| Mouse | [ENSMUSG00000030047](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030047) | [232201](https://www.ncbi.nlm.nih.gov/gene/232201) | [MGI:2443687](http://www.informatics.jax.org/marker/MGI:2443687) | All phenotypic alleles (3):Targeted, other(3) |
+| Xenopus | [ENSXETG00000008195](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008195) | [448347](https://www.ncbi.nlm.nih.gov/gene/448347) |  |  |
+| Zebrafish | [ENSDARG00000061784](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061784) | [562468](https://www.ncbi.nlm.nih.gov/gene/562468) | [ZFIN:ZDB-GENE-060526-210](https://zfin.org/ZDB-GENE-060526-210) | actin filament organization, negative regulation of small GTPase mediated signal transduction, phagocytosis, engulfment, regulation of small GTPase mediated signal transduction, signal transduction |
 

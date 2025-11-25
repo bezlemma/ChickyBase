@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395443
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425011
 forward_primer: 5’-TCTCCAGTGAAGCCCCTTCT-3’
-gene_id: '449243'
+gene_id: '395443'
 gene_type: protein-coding
 images:
 - caption: SLC1A3 expression
@@ -121,13 +121,8 @@ images:
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLASTDomowicz2011Fig7G.gif
 name: solute carrier family 1 member 3
-ncbi_id: '449243'
+ncbi_id: '395443'
 orthologs:
-- ensembl: ''
-  entrez: '34251'
-  mod: FBgn0026439
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000079215
   entrez: '6507'
   mod: MIM:600111
@@ -139,24 +134,26 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(3)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100127700,398856
-  mod: '975312'
+- ensembl: ENSXETG00000006083
+  entrez: '100127700'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000043148,ENSDARG00000026218
-  entrez: 100334080,556181,323439
-  mod: ZFIN:ZDB-GENE-090708-3,ZFIN:ZDB-GENE-030131-2159
-  phenotypes: ZDB-GENE-090708-3,ZDB-GENE-030131-2159
+- ensembl: ENSDARG00000043148
+  entrez: '556181'
+  mod: ZFIN:ZDB-GENE-090708-3
+  phenotypes: D-aspartate import across plasma membrane, L-aspartate import across
+    plasma membrane, L-glutamate import across plasma membrane, L-glutamate transmembrane
+    transport, amino acid transport
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGGGCTGAGCAAGGGAATCTT-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449243
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395443
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449243
+  url: https://www.ncbi.nlm.nih.gov/gene/395443
 species: Gallus gallus
 symbol: SLC1A3
 template_length: '876'
@@ -185,9 +182,8 @@ title: SLC1A3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34251](https://www.ncbi.nlm.nih.gov/gene/34251) | FBgn0026439 |  |
 | Human | [ENSG00000079215](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000079215) | [6507](https://www.ncbi.nlm.nih.gov/gene/6507) | [MIM:600111](https://omim.org/entry/600111) | MIM:612656 |
 | Mouse | [ENSMUSG00000005360](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005360) | [20512](https://www.ncbi.nlm.nih.gov/gene/20512) | [MGI:99917](http://www.informatics.jax.org/marker/MGI:99917) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(3) Gene trapped(1) |
-| Xenopus |  | [100127700](https://www.ncbi.nlm.nih.gov/gene/100127700), [398856](https://www.ncbi.nlm.nih.gov/gene/398856) | [975312](http://www.xenbase.org/gene/showgene.do?method=display&geneId=975312) |  |
-| Zebrafish | [ENSDARG00000043148](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043148), [ENSDARG00000026218](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000026218) | [100334080](https://www.ncbi.nlm.nih.gov/gene/100334080), [556181](https://www.ncbi.nlm.nih.gov/gene/556181), [323439](https://www.ncbi.nlm.nih.gov/gene/323439) | [ZFIN:ZDB-GENE-090708-3](https://zfin.org/ZDB-GENE-090708-3), [ZFIN:ZDB-GENE-030131-2159](https://zfin.org/ZDB-GENE-030131-2159) | ZDB-GENE-090708-3,ZDB-GENE-030131-2159 |
+| Xenopus | [ENSXETG00000006083](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006083) | [100127700](https://www.ncbi.nlm.nih.gov/gene/100127700) |  |  |
+| Zebrafish | [ENSDARG00000043148](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043148) | [556181](https://www.ncbi.nlm.nih.gov/gene/556181) | [ZFIN:ZDB-GENE-090708-3](https://zfin.org/ZDB-GENE-090708-3) | D-aspartate import across plasma membrane, L-aspartate import across plasma membrane, L-glutamate import across plasma membrane, L-glutamate transmembrane transport, amino acid transport |
 

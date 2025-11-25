@@ -3,7 +3,6 @@ aliases:
 - Bardet-Biedl syndrome 4 protein
 cgnc_id: '1264'
 external_ids:
-  '25': stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0033578
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/36167
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000001798
@@ -11,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415318
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277458
 forward_primer: ATAACCACGGGGACAAGAAGGG
-gene_id: '456421'
+gene_id: '415318'
 gene_type: protein-coding
 images:
 - caption: BBS4 expression
@@ -112,13 +111,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BBS4.S25AA.001.jpg
 name: Bardet-Biedl syndrome 4
-ncbi_id: '456421'
+ncbi_id: '415318'
 orthologs:
-- ensembl: ''
-  entrez: '36167'
-  mod: FBgn0033578
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000140463
   entrez: '585'
   mod: MIM:600374
@@ -130,24 +124,25 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000047651
   entrez: '549034'
-  mod: '952106'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000063522
   entrez: '768303'
   mod: ZFIN:ZDB-GENE-060126-2
-  phenotypes: ZDB-GENE-060126-2
+  phenotypes: Kupffer's vesicle development, axis elongation involved in somitogenesis,
+    cilium assembly, convergent extension, convergent extension involved in gastrulation
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCACAAGGAGGGCGTAACTGTTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456421
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415318
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456421
+  url: https://www.ncbi.nlm.nih.gov/gene/415318
 species: Gallus gallus
 symbol: BBS4
 template_length: '983'
@@ -171,9 +166,8 @@ title: BBS4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36167](https://www.ncbi.nlm.nih.gov/gene/36167) | FBgn0033578 |  |
 | Human | [ENSG00000140463](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140463) | [585](https://www.ncbi.nlm.nih.gov/gene/585) | [MIM:600374](https://omim.org/entry/600374) | MIM:209900 |
 | Mouse | [ENSMUSG00000025235](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025235) | [102774](https://www.ncbi.nlm.nih.gov/gene/102774) | [MGI:2143311](http://www.informatics.jax.org/marker/MGI:2143311) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [549034](https://www.ncbi.nlm.nih.gov/gene/549034) | [952106](http://www.xenbase.org/gene/showgene.do?method=display&geneId=952106) |  |
-| Zebrafish | [ENSDARG00000063522](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063522) | [768303](https://www.ncbi.nlm.nih.gov/gene/768303) | [ZFIN:ZDB-GENE-060126-2](https://zfin.org/ZDB-GENE-060126-2) | ZDB-GENE-060126-2 |
+| Xenopus | [ENSXETG00000047651](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000047651) | [549034](https://www.ncbi.nlm.nih.gov/gene/549034) |  |  |
+| Zebrafish | [ENSDARG00000063522](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063522) | [768303](https://www.ncbi.nlm.nih.gov/gene/768303) | [ZFIN:ZDB-GENE-060126-2](https://zfin.org/ZDB-GENE-060126-2) | Kupffer's vesicle development, axis elongation involved in somitogenesis, cilium assembly, convergent extension, convergent extension involved in gastrulation |
 

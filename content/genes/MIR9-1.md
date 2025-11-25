@@ -1,7 +1,6 @@
 ---
 cgnc_id: '59180'
 external_ids:
-  '25': stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Darnell+MicroRNA+Stanislaw+Dev
     Dyn
   Comments: younger stages (below 18) lacked detectable expression
@@ -10,7 +9,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000021722
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NC_006091
-gene_id: '468024'
+gene_id: '777892'
 gene_type: miscRNA
 images:
 - caption: MIR9-1 expression
@@ -197,7 +196,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/9.7.003bz.jpg
 name: microRNA 9-1
-ncbi_id: '468024'
+ncbi_id: '777892'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -227,7 +226,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468024
+  url: https://www.ncbi.nlm.nih.gov/gene/777892
 species: Gallus gallus
 symbol: MIR9-1
 title: MIR9-1

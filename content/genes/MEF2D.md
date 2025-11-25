@@ -2,7 +2,6 @@
 aliases:
 - myocyte-specific enhancer factor 2D
 external_ids:
-  '25': stage 25
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Trevers et al. 2023.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -12,7 +11,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031600
   X-XIV: stage XIII
 forward_primer: CTTCACCAAGCGTAAGTTCGGC
-gene_id: '449294'
+gene_id: '431059'
 gene_type: protein-coding
 images:
 - caption: MEF2D expression
@@ -241,41 +240,38 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MEF2D.Trevers.2023-Fig7-6-V.jpg
 name: myocyte enhancer factor 2D
-ncbi_id: '449294'
+ncbi_id: '431059'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000291761
+  entrez: '4209'
+  mod: MIM:600663
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000001419
+  entrez: '17261'
+  mod: MGI:99533
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000020378
+  entrez: '780389'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000040237
+  entrez: '30580'
+  mod: ZFIN:ZDB-GENE-990415-164
+  phenotypes: cell differentiation, heart development, heart formation, positive regulation
+    of DNA-templated transcription, positive regulation of transcription by RNA polymerase
+    II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTTCAGGTCACCCCCAAGCATC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449294
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=431059
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449294
+  url: https://www.ncbi.nlm.nih.gov/gene/431059
 species: Gallus gallus
 symbol: MEF2D
 template_length: '573'
@@ -300,9 +296,8 @@ title: MEF2D
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000291761](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000291761) | [4209](https://www.ncbi.nlm.nih.gov/gene/4209) | [MIM:600663](https://omim.org/entry/600663) |  |
+| Mouse | [ENSMUSG00000001419](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001419) | [17261](https://www.ncbi.nlm.nih.gov/gene/17261) | [MGI:99533](http://www.informatics.jax.org/marker/MGI:99533) |  |
+| Xenopus | [ENSXETG00000020378](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020378) | [780389](https://www.ncbi.nlm.nih.gov/gene/780389) |  |  |
+| Zebrafish | [ENSDARG00000040237](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040237) | [30580](https://www.ncbi.nlm.nih.gov/gene/30580) | [ZFIN:ZDB-GENE-990415-164](https://zfin.org/ZDB-GENE-990415-164) | cell differentiation, heart development, heart formation, positive regulation of DNA-templated transcription, positive regulation of transcription by RNA polymerase II |
 

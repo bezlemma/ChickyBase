@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395355
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204643
   X-XIV: stage XIII
-gene_id: '448963'
+gene_id: '395355'
 gene_type: protein-coding
 images:
 - caption: CBX3 expression
@@ -88,13 +88,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/papanayotou.hp1.Fig8.allimages.jpg
 name: chromobox 3
-ncbi_id: '448963'
+ncbi_id: '395355'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000122565
   entrez: '11335'
   mod: MIM:604477
@@ -105,20 +100,20 @@ orthologs:
   mod: MGI:108515
   phenotypes: All phenotypic alleles (1):Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100038121,399208,380460
-  mod: '492314'
+- ensembl: ENSXETG00000012175
+  entrez: '100038121'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000003860,ENSDARG00000092158
-  entrez: 751689,567497
-  mod: ZFIN:ZDB-GENE-030131-1158,ZFIN:ZDB-GENE-070628-2
-  phenotypes: ZDB-GENE-030131-1158,ZDB-GENE-070628-2
+- ensembl: ENSDARG00000003860
+  entrez: '751689'
+  mod: ZFIN:ZDB-GENE-030131-1158
+  phenotypes: heterochromatin formation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448963
+  url: https://www.ncbi.nlm.nih.gov/gene/395355
 species: Gallus gallus
 symbol: CBX3
 title: CBX3
@@ -144,9 +139,8 @@ title: CBX3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000122565](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000122565) | [11335](https://www.ncbi.nlm.nih.gov/gene/11335) | [MIM:604477](https://omim.org/entry/604477) |  |
 | Mouse | [ENSMUSG00000029836](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029836) | [12417](https://www.ncbi.nlm.nih.gov/gene/12417) | [MGI:108515](http://www.informatics.jax.org/marker/MGI:108515) | All phenotypic alleles (1):Gene trapped(1) |
-| Xenopus |  | [100038121](https://www.ncbi.nlm.nih.gov/gene/100038121), [399208](https://www.ncbi.nlm.nih.gov/gene/399208), [380460](https://www.ncbi.nlm.nih.gov/gene/380460) | [492314](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492314) |  |
-| Zebrafish | [ENSDARG00000003860](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003860), [ENSDARG00000092158](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000092158) | [751689](https://www.ncbi.nlm.nih.gov/gene/751689), [567497](https://www.ncbi.nlm.nih.gov/gene/567497) | [ZFIN:ZDB-GENE-030131-1158](https://zfin.org/ZDB-GENE-030131-1158), [ZFIN:ZDB-GENE-070628-2](https://zfin.org/ZDB-GENE-070628-2) | ZDB-GENE-030131-1158,ZDB-GENE-070628-2 |
+| Xenopus | [ENSXETG00000012175](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012175) | [100038121](https://www.ncbi.nlm.nih.gov/gene/100038121) |  |  |
+| Zebrafish | [ENSDARG00000003860](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003860) | [751689](https://www.ncbi.nlm.nih.gov/gene/751689) | [ZFIN:ZDB-GENE-030131-1158](https://zfin.org/ZDB-GENE-030131-1158) | heterochromatin formation |
 

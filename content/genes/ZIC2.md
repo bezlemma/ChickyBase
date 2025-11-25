@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428021
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640545
   X-XIV: stage XII
-gene_id: '459925'
+gene_id: '428021'
 gene_type: protein-coding
 images:
 - caption: ZIC2 expression
@@ -126,40 +126,36 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Screenshot 2024-02-068.52.19.png
 name: Zic family member 2
-ncbi_id: '459925'
+ncbi_id: '428021'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000043355
+  entrez: '7546'
+  mod: MIM:603073
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000061524
+  entrez: '22772'
+  mod: MGI:106679
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000018864
+  entrez: '549779'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000015554
+  entrez: '58077'
+  mod: ZFIN:ZDB-GENE-000710-4
+  phenotypes: cell proliferation in forebrain, cell proliferation in midbrain, central
+    nervous system development, diencephalon development, dorsal/ventral pattern formation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459925
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428021
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459925
+  url: https://www.ncbi.nlm.nih.gov/gene/428021
 species: Gallus gallus
 symbol: ZIC2
 title: ZIC2
@@ -185,9 +181,8 @@ title: ZIC2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000043355](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000043355) | [7546](https://www.ncbi.nlm.nih.gov/gene/7546) | [MIM:603073](https://omim.org/entry/603073) |  |
+| Mouse | [ENSMUSG00000061524](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061524) | [22772](https://www.ncbi.nlm.nih.gov/gene/22772) | [MGI:106679](http://www.informatics.jax.org/marker/MGI:106679) |  |
+| Xenopus | [ENSXETG00000018864](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018864) | [549779](https://www.ncbi.nlm.nih.gov/gene/549779) |  |  |
+| Zebrafish | [ENSDARG00000015554](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015554) | [58077](https://www.ncbi.nlm.nih.gov/gene/58077) | [ZFIN:ZDB-GENE-000710-4](https://zfin.org/ZDB-GENE-000710-4) | cell proliferation in forebrain, cell proliferation in midbrain, central nervous system development, diencephalon development, dorsal/ventral pattern formation |
 

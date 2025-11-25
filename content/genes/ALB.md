@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396197
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205261
-gene_id: '458998'
+gene_id: '396197'
 gene_type: protein-coding
 images:
 - caption: ALB expression
@@ -104,13 +104,8 @@ images:
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ALB.FIG1B.E7.SUKSAW.2004.jpg
 name: albumin
-ncbi_id: '458998'
+ncbi_id: '396197'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163631
   entrez: '213'
   mod: MIM:103600
@@ -121,23 +116,18 @@ orthologs:
   mod: MGI:87991
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 397731,448844
-  mod: '480329'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000023395
+  entrez: '448227'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458998
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396197
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458998
+  url: https://www.ncbi.nlm.nih.gov/gene/396197
 species: Gallus gallus
 symbol: ALB
 title: ALB
@@ -166,9 +156,7 @@ title: ALB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163631](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163631) | [213](https://www.ncbi.nlm.nih.gov/gene/213) | [MIM:103600](https://omim.org/entry/103600) | MIM:103600 |
 | Mouse | [ENSMUSG00000029368](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029368) | [11657](https://www.ncbi.nlm.nih.gov/gene/11657) | [MGI:87991](http://www.informatics.jax.org/marker/MGI:87991) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [397731](https://www.ncbi.nlm.nih.gov/gene/397731), [448844](https://www.ncbi.nlm.nih.gov/gene/448844) | [480329](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480329) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000023395](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023395) | [448227](https://www.ncbi.nlm.nih.gov/gene/448227) |  |  |
 

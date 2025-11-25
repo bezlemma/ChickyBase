@@ -3,7 +3,6 @@ aliases:
 - myocyte-specific enhancer factor 2A
 cgnc_id: '49427'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0011656
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006915
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
@@ -15,7 +14,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204864
 forward_primer: TCACGAGAATAATGGACGAACGG
-gene_id: '449890'
+gene_id: '395670'
 gene_type: protein-coding
 images:
 - caption: MEF2A expression
@@ -165,13 +164,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R277.MEF2A.S20-25.001.jpg
 name: myocyte enhancer factor 2A
-ncbi_id: '449890'
+ncbi_id: '395670'
 orthologs:
-- ensembl: ''
-  entrez: '36032'
-  mod: FBgn0011656
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000068305
   entrez: '4205'
   mod: MIM:600660
@@ -182,24 +176,20 @@ orthologs:
   mod: MGI:99532
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100216045,380452
-  mod: '487393'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000031756
   entrez: '30564'
-  mod: ZFIN:ZDB-GENE-990415-163,ZFIN:ZDB-GENE-120614-2
-  phenotypes: ZDB-GENE-990415-163,ZDB-GENE-120614-2
+  mod: ZFIN:ZDB-GENE-990415-163
+  phenotypes: cell differentiation, heart development, myofibril assembly, positive
+    regulation of DNA-templated transcription, positive regulation of gene expression
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTCAGTGGTGGCATCATACCCTTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449890
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395670
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449890
+  url: https://www.ncbi.nlm.nih.gov/gene/395670
 species: Gallus gallus
 symbol: MEF2A
 template_length: '840'
@@ -228,9 +218,7 @@ title: MEF2A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36032](https://www.ncbi.nlm.nih.gov/gene/36032) | FBgn0011656 |  |
 | Human | [ENSG00000068305](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000068305) | [4205](https://www.ncbi.nlm.nih.gov/gene/4205) | [MIM:600660](https://omim.org/entry/600660) | MIM:608320 |
 | Mouse | [ENSMUSG00000030557](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030557) | [17258](https://www.ncbi.nlm.nih.gov/gene/17258) | [MGI:99532](http://www.informatics.jax.org/marker/MGI:99532) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100216045](https://www.ncbi.nlm.nih.gov/gene/100216045), [380452](https://www.ncbi.nlm.nih.gov/gene/380452) | [487393](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487393) |  |
-| Zebrafish | [ENSDARG00000031756](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031756) | [30564](https://www.ncbi.nlm.nih.gov/gene/30564) | [ZFIN:ZDB-GENE-990415-163](https://zfin.org/ZDB-GENE-990415-163), [ZFIN:ZDB-GENE-120614-2](https://zfin.org/ZDB-GENE-120614-2) | ZDB-GENE-990415-163,ZDB-GENE-120614-2 |
+| Zebrafish | [ENSDARG00000031756](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031756) | [30564](https://www.ncbi.nlm.nih.gov/gene/30564) | [ZFIN:ZDB-GENE-990415-163](https://zfin.org/ZDB-GENE-990415-163) | cell differentiation, heart development, myofibril assembly, positive regulation of DNA-templated transcription, positive regulation of gene expression |
 

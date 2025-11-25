@@ -20,7 +20,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004035
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205360
 forward_primer: CCTGCTGGAGATGGACAAGTTC
-gene_id: '462866'
+gene_id: '396317'
 gene_type: protein-coding
 images:
 - caption: ALPL expression
@@ -250,13 +250,8 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Macrea.Fig7.G.TNAP.St36.jpg
 name: alkaline phosphatase, liver/bone/kidney
-ncbi_id: '462866'
+ncbi_id: '396317'
 orthologs:
-- ensembl: ''
-  entrez: '41135'
-  mod: FBgn0043791
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000162551
   entrez: '249'
   mod: MIM:171760
@@ -268,24 +263,24 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Chemically induced(1) Targeted, knock-out(3)
     Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100485467,380589
-  mod: '1010300'
+- ensembl: ENSXETG00000023244
+  entrez: '100485467'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '393982'
-  mod: ZFIN:ZDB-GENE-040420-1
-  phenotypes: ZDB-GENE-040420-1
+- ensembl: ENSDARG00000098063
+  entrez: '100330410'
+  mod: ZFIN:ZDB-GENE-120919-1
+  phenotypes: bone mineralization
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAACCGCCAAAGGTGAAGACG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462866
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396317
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462866
+  url: https://www.ncbi.nlm.nih.gov/gene/396317
 species: Gallus gallus
 symbol: ALPL
 template_length: '908'
@@ -316,9 +311,8 @@ title: ALPL
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41135](https://www.ncbi.nlm.nih.gov/gene/41135) | FBgn0043791 |  |
 | Human | [ENSG00000162551](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162551) | [249](https://www.ncbi.nlm.nih.gov/gene/249) | [MIM:171760](https://omim.org/entry/171760) | MIM:146300 |
 | Mouse | [ENSMUSG00000028766](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028766) | [11647](https://www.ncbi.nlm.nih.gov/gene/11647) | [MGI:87983](http://www.informatics.jax.org/marker/MGI:87983) | All phenotypic alleles (7):Chemically induced(1) Targeted, knock-out(3) Targeted, other(3) |
-| Xenopus |  | [100485467](https://www.ncbi.nlm.nih.gov/gene/100485467), [380589](https://www.ncbi.nlm.nih.gov/gene/380589) | [1010300](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1010300) |  |
-| Zebrafish |  | [393982](https://www.ncbi.nlm.nih.gov/gene/393982) | [ZFIN:ZDB-GENE-040420-1](https://zfin.org/ZDB-GENE-040420-1) | ZDB-GENE-040420-1 |
+| Xenopus | [ENSXETG00000023244](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023244) | [100485467](https://www.ncbi.nlm.nih.gov/gene/100485467) |  |  |
+| Zebrafish | [ENSDARG00000098063](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098063) | [100330410](https://www.ncbi.nlm.nih.gov/gene/100330410) | [ZFIN:ZDB-GENE-120919-1](https://zfin.org/ZDB-GENE-120919-1) | bone mineralization |
 

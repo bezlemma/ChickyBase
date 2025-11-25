@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424891
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003858
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006547
-gene_id: '448931'
+gene_id: '424891'
 gene_type: protein-coding
 images:
 - caption: BDH1A expression
@@ -34,14 +34,9 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F1.bdh.png
 name: 3-hydroxybutyrate dehydrogenase, type 1 A
-ncbi_id: '448931'
+ncbi_id: '424891'
 orthologs:
-- ensembl: ''
-  entrez: '36293'
-  mod: FBgn0033679
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000161267
+- ensembl: ENSG00000275544
   entrez: '622'
   mod: MIM:603063
   phenotypes: ''
@@ -51,20 +46,20 @@ orthologs:
   mod: MGI:1919161
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100495647,100127326
-  mod: '990739'
+- ensembl: ENSXETG00000003458
+  entrez: '100495647'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000059388
   entrez: '100037356'
   mod: ZFIN:ZDB-GENE-070410-130
-  phenotypes: ZDB-GENE-070410-130
+  phenotypes: steroid metabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448931
+  url: https://www.ncbi.nlm.nih.gov/gene/424891
 species: Gallus gallus
 symbol: BDH1A
 title: BDH1A
@@ -94,9 +89,8 @@ title: BDH1A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36293](https://www.ncbi.nlm.nih.gov/gene/36293) | FBgn0033679 |  |
-| Human | [ENSG00000161267](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000161267) | [622](https://www.ncbi.nlm.nih.gov/gene/622) | [MIM:603063](https://omim.org/entry/603063) |  |
+| Human | [ENSG00000275544](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000275544) | [622](https://www.ncbi.nlm.nih.gov/gene/622) | [MIM:603063](https://omim.org/entry/603063) |  |
 | Mouse | [ENSMUSG00000046598](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000046598) | [71911](https://www.ncbi.nlm.nih.gov/gene/71911) | [MGI:1919161](http://www.informatics.jax.org/marker/MGI:1919161) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100495647](https://www.ncbi.nlm.nih.gov/gene/100495647), [100127326](https://www.ncbi.nlm.nih.gov/gene/100127326) | [990739](http://www.xenbase.org/gene/showgene.do?method=display&geneId=990739) |  |
-| Zebrafish | [ENSDARG00000059388](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059388) | [100037356](https://www.ncbi.nlm.nih.gov/gene/100037356) | [ZFIN:ZDB-GENE-070410-130](https://zfin.org/ZDB-GENE-070410-130) | ZDB-GENE-070410-130 |
+| Xenopus | [ENSXETG00000003458](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003458) | [100495647](https://www.ncbi.nlm.nih.gov/gene/100495647) |  |  |
+| Zebrafish | [ENSDARG00000059388](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059388) | [100037356](https://www.ncbi.nlm.nih.gov/gene/100037356) | [ZFIN:ZDB-GENE-070410-130](https://zfin.org/ZDB-GENE-070410-130) | steroid metabolic process |
 

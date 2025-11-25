@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395282
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204590
-gene_id: '461600'
+gene_id: '395282'
 gene_type: protein-coding
 images:
 - caption: ID1 expression
@@ -75,13 +75,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ID1.Buchtova.2010
     figure S4 panel D.png
 name: inhibitor of DNA binding 1, HLH protein
-ncbi_id: '461600'
+ncbi_id: '395282'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000125968
   entrez: '3397'
   mod: MIM:600349
@@ -92,20 +87,17 @@ orthologs:
   mod: MGI:96396
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000040764
   entrez: '30493'
   mod: ZFIN:ZDB-GENE-990415-96
-  phenotypes: ZDB-GENE-990415-96
+  phenotypes: negative regulation of DNA-templated transcription, negative regulation
+    of neurogenesis, negative regulation of transcription by RNA polymerase II, neuron
+    differentiation, regulation of neuron differentiation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461600
+  url: https://www.ncbi.nlm.nih.gov/gene/395282
 species: Gallus gallus
 symbol: ID1
 title: ID1
@@ -131,9 +123,7 @@ title: ID1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000125968](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125968) | [3397](https://www.ncbi.nlm.nih.gov/gene/3397) | [MIM:600349](https://omim.org/entry/600349) |  |
 | Mouse | [ENSMUSG00000042745](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042745) | [15901](https://www.ncbi.nlm.nih.gov/gene/15901) | [MGI:96396](http://www.informatics.jax.org/marker/MGI:96396) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000040764](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040764) | [30493](https://www.ncbi.nlm.nih.gov/gene/30493) | [ZFIN:ZDB-GENE-990415-96](https://zfin.org/ZDB-GENE-990415-96) | ZDB-GENE-990415-96 |
+| Zebrafish | [ENSDARG00000040764](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040764) | [30493](https://www.ncbi.nlm.nih.gov/gene/30493) | [ZFIN:ZDB-GENE-990415-96](https://zfin.org/ZDB-GENE-990415-96) | negative regulation of DNA-templated transcription, negative regulation of neurogenesis, negative regulation of transcription by RNA polymerase II, neuron differentiation, regulation of neuron differentiation |
 

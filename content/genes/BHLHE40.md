@@ -3,7 +3,6 @@ aliases:
 - BHLHB2, class E basic helix-loop-helix protein 40
 cgnc_id: '6296'
 external_ids:
-  '25': stage 25stage 25stage 25
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Trevers et al. 2023.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -13,7 +12,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277144
   X-XIV: stage XII
 forward_primer: CCCGTCATCCAAAGGACATTC
-gene_id: '462930'
+gene_id: '416108'
 gene_type: protein-coding
 images:
 - caption: BHLHE40 expression
@@ -159,13 +158,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BHLHE40.Trevers.2023-Fig7-5-F.jpg
 name: basic helix-loop-helix family member e40
-ncbi_id: '462930'
+ncbi_id: '416108'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134107
   entrez: '8553'
   mod: MIM:604256
@@ -176,24 +170,21 @@ orthologs:
   mod: MGI:1097714
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 779502,443665
-  mod: '486415'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000004060
   entrez: '324413'
   mod: ZFIN:ZDB-GENE-030131-3133
-  phenotypes: ZDB-GENE-030131-3133
+  phenotypes: anterior/posterior pattern specification, circadian regulation of gene
+    expression, locomotor rhythm, negative regulation of DNA-templated transcription,
+    regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGATCCAGACCCTACAGACCCACATC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462930
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416108
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462930
+  url: https://www.ncbi.nlm.nih.gov/gene/416108
 species: Gallus gallus
 symbol: BHLHE40
 template_length: '916'
@@ -218,9 +209,7 @@ title: BHLHE40
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000134107](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134107) | [8553](https://www.ncbi.nlm.nih.gov/gene/8553) | [MIM:604256](https://omim.org/entry/604256) |  |
 | Mouse | [ENSMUSG00000030103](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030103) | [20893](https://www.ncbi.nlm.nih.gov/gene/20893) | [MGI:1097714](http://www.informatics.jax.org/marker/MGI:1097714) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [779502](https://www.ncbi.nlm.nih.gov/gene/779502), [443665](https://www.ncbi.nlm.nih.gov/gene/443665) | [486415](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486415) |  |
-| Zebrafish | [ENSDARG00000004060](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004060) | [324413](https://www.ncbi.nlm.nih.gov/gene/324413) | [ZFIN:ZDB-GENE-030131-3133](https://zfin.org/ZDB-GENE-030131-3133) | ZDB-GENE-030131-3133 |
+| Zebrafish | [ENSDARG00000004060](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004060) | [324413](https://www.ncbi.nlm.nih.gov/gene/324413) | [ZFIN:ZDB-GENE-030131-3133](https://zfin.org/ZDB-GENE-030131-3133) | anterior/posterior pattern specification, circadian regulation of gene expression, locomotor rhythm, negative regulation of DNA-templated transcription, regulation of DNA-templated transcription |
 

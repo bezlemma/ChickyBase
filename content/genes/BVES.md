@@ -17,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005198
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001299
 forward_primer: 5'-CATCATTTGGGCTACACTCTACCG-3'
-gene_id: '452489'
+gene_id: '408032'
 gene_type: protein-coding
 images:
 - caption: BVES expression
@@ -154,41 +154,37 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Popdc1.image2D.Torlopp.jpg
 name: blood vessel epicardial substance
-ncbi_id: '452489'
+ncbi_id: '408032'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000112276
+  entrez: '11149'
+  mod: MIM:604577
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000071317
+  entrez: '23828'
+  mod: MGI:1346013
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000013301
+  entrez: '100144641'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000058548
+  entrez: '415107'
+  mod: ZFIN:ZDB-GENE-040624-11
+  phenotypes: bicellular tight junction assembly, cell adhesion, cell-cell junction
+    organization, epiboly, epithelial cell-cell adhesion
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGCAACGCTTTCCTCTATTGGCTTC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452489
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=408032
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452489
+  url: https://www.ncbi.nlm.nih.gov/gene/408032
 species: Gallus gallus
 symbol: BVES
 template_length: '785'
@@ -217,9 +213,8 @@ title: BVES
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000112276](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112276) | [11149](https://www.ncbi.nlm.nih.gov/gene/11149) | [MIM:604577](https://omim.org/entry/604577) |  |
+| Mouse | [ENSMUSG00000071317](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000071317) | [23828](https://www.ncbi.nlm.nih.gov/gene/23828) | [MGI:1346013](http://www.informatics.jax.org/marker/MGI:1346013) |  |
+| Xenopus | [ENSXETG00000013301](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013301) | [100144641](https://www.ncbi.nlm.nih.gov/gene/100144641) |  |  |
+| Zebrafish | [ENSDARG00000058548](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058548) | [415107](https://www.ncbi.nlm.nih.gov/gene/415107) | [ZFIN:ZDB-GENE-040624-11](https://zfin.org/ZDB-GENE-040624-11) | bicellular tight junction assembly, cell adhesion, cell-cell junction organization, epiboly, epithelial cell-cell adhesion |
 

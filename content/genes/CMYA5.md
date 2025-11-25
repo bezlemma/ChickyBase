@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427177
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424765
-gene_id: '460532'
+gene_id: '427177'
 gene_type: protein-coding
 images:
 - caption: CMYA5 expression
@@ -46,7 +46,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CMYA5.Anderson.2019.Supplementary
     figure 5D.jpg
 name: cardiomyopathy associated 5
-ncbi_id: '460532'
+ncbi_id: '427177'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -71,12 +71,12 @@ orthologs:
 - ensembl: ENSDARG00000061379
   entrez: '560687'
   mod: ZFIN:ZDB-GENE-070630-1
-  phenotypes: ZDB-GENE-070630-1
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460532
+  url: https://www.ncbi.nlm.nih.gov/gene/427177
 species: Gallus gallus
 symbol: CMYA5
 title: CMYA5
@@ -106,5 +106,5 @@ title: CMYA5
 | Human | [ENSG00000164309](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164309) | [202333](https://www.ncbi.nlm.nih.gov/gene/202333) | [MIM:612193](https://omim.org/entry/612193) |  |
 | Mouse |  |  |  |  |
 | Xenopus |  |  | [958338](http://www.xenbase.org/gene/showgene.do?method=display&geneId=958338) |  |
-| Zebrafish | [ENSDARG00000061379](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061379) | [560687](https://www.ncbi.nlm.nih.gov/gene/560687) | [ZFIN:ZDB-GENE-070630-1](https://zfin.org/ZDB-GENE-070630-1) | ZDB-GENE-070630-1 |
+| Zebrafish | [ENSDARG00000061379](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061379) | [560687](https://www.ncbi.nlm.nih.gov/gene/560687) | [ZFIN:ZDB-GENE-070630-1](https://zfin.org/ZDB-GENE-070630-1) |  |
 

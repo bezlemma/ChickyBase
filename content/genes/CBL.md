@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374038
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204208
 forward_primer: 5'-TTTGCGAGTTCTGGAGTGCGAC-3'
-gene_id: '454521'
+gene_id: '374038'
 gene_type: protein-coding
 images:
 - caption: CBL expression
@@ -74,13 +74,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R617.CBL.S27.001.jpg
 name: Cbl proto-oncogene
-ncbi_id: '454521'
+ncbi_id: '374038'
 orthologs:
-- ensembl: ''
-  entrez: '38961'
-  mod: FBgn0020224
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000110395
   entrez: '867'
   mod: MIM:165360
@@ -91,24 +86,26 @@ orthologs:
   mod: MGI:88279
   phenotypes: All phenotypic alleles (9):Targeted, knock-out(3) Targeted, other(6)
   species: Mouse
-- ensembl: ''
-  entrez: 594900,398194
-  mod: '6258451'
+- ensembl: ENSXETG00000021588
+  entrez: '594900'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000009958
   entrez: '492364'
   mod: ZFIN:ZDB-GENE-041114-207
-  phenotypes: ZDB-GENE-041114-207
+  phenotypes: cell surface receptor signaling pathway, definitive hemopoiesis, negative
+    regulation of epidermal growth factor receptor signaling pathway, protein ubiquitination,
+    regulation of intracellular signal transduction
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGAAACCTTCCTCTACCAACACCC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454521
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374038
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454521
+  url: https://www.ncbi.nlm.nih.gov/gene/374038
 species: Gallus gallus
 symbol: CBL
 template_length: '857'
@@ -133,9 +130,8 @@ title: CBL
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38961](https://www.ncbi.nlm.nih.gov/gene/38961) | FBgn0020224 |  |
 | Human | [ENSG00000110395](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000110395) | [867](https://www.ncbi.nlm.nih.gov/gene/867) | [MIM:165360](https://omim.org/entry/165360) | MIM:613563 |
 | Mouse | [ENSMUSG00000034342](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034342) | [12402](https://www.ncbi.nlm.nih.gov/gene/12402) | [MGI:88279](http://www.informatics.jax.org/marker/MGI:88279) | All phenotypic alleles (9):Targeted, knock-out(3) Targeted, other(6) |
-| Xenopus |  | [594900](https://www.ncbi.nlm.nih.gov/gene/594900), [398194](https://www.ncbi.nlm.nih.gov/gene/398194) | [6258451](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6258451) |  |
-| Zebrafish | [ENSDARG00000009958](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009958) | [492364](https://www.ncbi.nlm.nih.gov/gene/492364) | [ZFIN:ZDB-GENE-041114-207](https://zfin.org/ZDB-GENE-041114-207) | ZDB-GENE-041114-207 |
+| Xenopus | [ENSXETG00000021588](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021588) | [594900](https://www.ncbi.nlm.nih.gov/gene/594900) |  |  |
+| Zebrafish | [ENSDARG00000009958](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009958) | [492364](https://www.ncbi.nlm.nih.gov/gene/492364) | [ZFIN:ZDB-GENE-041114-207](https://zfin.org/ZDB-GENE-041114-207) | cell surface receptor signaling pathway, definitive hemopoiesis, negative regulation of epidermal growth factor receptor signaling pathway, protein ubiquitination, regulation of intracellular signal transduction |
 

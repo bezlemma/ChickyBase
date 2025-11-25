@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395822
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_413704
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/NEO1
-gene_id: '450048'
+gene_id: '395822'
 gene_type: protein-coding
 images:
 - caption: NEO1 expression
@@ -91,13 +91,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NEOGENIN.DaiPhan.2011.Fig.2.png
 name: neogenin 1
-ncbi_id: '450048'
+ncbi_id: '395822'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000067141
   entrez: '4756'
   mod: MIM:601907
@@ -108,20 +103,16 @@ orthologs:
   mod: MGI:1097159
   phenotypes: All phenotypic alleles (3):Targeted, other(2) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100170189,100381051
-  mod: '922577'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000008937
+- ensembl: ENSDARG00000102855
   entrez: '266983'
   mod: ZFIN:ZDB-GENE-021031-1
-  phenotypes: ZDB-GENE-021031-1
+  phenotypes: axon guidance, cell morphogenesis, cell-cell adhesion, nervous system
+    development, neural tube formation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450048
+  url: https://www.ncbi.nlm.nih.gov/gene/395822
 species: Gallus gallus
 symbol: NEO1
 title: NEO1
@@ -150,9 +141,7 @@ title: NEO1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000067141](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000067141) | [4756](https://www.ncbi.nlm.nih.gov/gene/4756) | [MIM:601907](https://omim.org/entry/601907) |  |
 | Mouse | [ENSMUSG00000032340](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032340) | [18007](https://www.ncbi.nlm.nih.gov/gene/18007) | [MGI:1097159](http://www.informatics.jax.org/marker/MGI:1097159) | All phenotypic alleles (3):Targeted, other(2) Gene trapped(1) |
-| Xenopus |  | [100170189](https://www.ncbi.nlm.nih.gov/gene/100170189), [100381051](https://www.ncbi.nlm.nih.gov/gene/100381051) | [922577](http://www.xenbase.org/gene/showgene.do?method=display&geneId=922577) |  |
-| Zebrafish | [ENSDARG00000008937](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008937) | [266983](https://www.ncbi.nlm.nih.gov/gene/266983) | [ZFIN:ZDB-GENE-021031-1](https://zfin.org/ZDB-GENE-021031-1) | ZDB-GENE-021031-1 |
+| Zebrafish | [ENSDARG00000102855](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000102855) | [266983](https://www.ncbi.nlm.nih.gov/gene/266983) | [ZFIN:ZDB-GENE-021031-1](https://zfin.org/ZDB-GENE-021031-1) | axon guidance, cell morphogenesis, cell-cell adhesion, nervous system development, neural tube formation |
 

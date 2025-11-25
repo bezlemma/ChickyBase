@@ -3,7 +3,6 @@ aliases:
 - neural tissue-specific cysteine-rich protein
 cgnc_id: '3428'
 external_ids:
-  '25': stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007411
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005576
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
@@ -15,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419492
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001142848
-gene_id: '458631'
+gene_id: '419492'
 gene_type: protein-coding
 images:
 - caption: DRAXIN expression
@@ -154,14 +153,9 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DRAXIN.Anderson.2019.Fig2.jpg
 name: dorsal inhibitory axon guidance protein
-ncbi_id: '458631'
+ncbi_id: '419492'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000162490
   entrez: '374946'
   mod: MIM:612682
   phenotypes: ''
@@ -171,20 +165,15 @@ orthologs:
   mod: MGI:1917683
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000031404
+  entrez: '100495322'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000058256
-  entrez: 619245,100331107
-  mod: ZFIN:ZDB-GENE-050913-20
-  phenotypes: ZDB-GENE-050913-20
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458631
+  url: https://www.ncbi.nlm.nih.gov/gene/419492
 species: Gallus gallus
 symbol: DRAXIN
 title: DRAXIN
@@ -212,9 +201,7 @@ title: DRAXIN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [374946](https://www.ncbi.nlm.nih.gov/gene/374946) | [MIM:612682](https://omim.org/entry/612682) |  |
+| Human | [ENSG00000162490](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162490) | [374946](https://www.ncbi.nlm.nih.gov/gene/374946) | [MIM:612682](https://omim.org/entry/612682) |  |
 | Mouse | [ENSMUSG00000029005](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029005) | [70433](https://www.ncbi.nlm.nih.gov/gene/70433) | [MGI:1917683](http://www.informatics.jax.org/marker/MGI:1917683) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000058256](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058256) | [619245](https://www.ncbi.nlm.nih.gov/gene/619245), [100331107](https://www.ncbi.nlm.nih.gov/gene/100331107) | [ZFIN:ZDB-GENE-050913-20](https://zfin.org/ZDB-GENE-050913-20) | ZDB-GENE-050913-20 |
+| Xenopus | [ENSXETG00000031404](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031404) | [100495322](https://www.ncbi.nlm.nih.gov/gene/100495322) |  |  |
 

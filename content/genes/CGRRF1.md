@@ -1,7 +1,6 @@
 ---
 cgnc_id: '9268'
 external_ids:
-  '25': stage 25stage 25stage 25
   Comments: No specific expression detected stages 4-17.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/776040
@@ -9,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:776040
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001235055
 forward_primer: 5'-TCCAGATGAGAGAAGCACCGAC-3'
-gene_id: '458885'
+gene_id: '776040'
 gene_type: protein-coding
 images:
 - caption: CGRRF1 expression
@@ -88,13 +87,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R614.CGRF1.S25AA.001.jpg
 name: cell growth regulator with ring finger domain 1
-ncbi_id: '458885'
+ncbi_id: '776040'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100532
   entrez: '10668'
   mod: MIM:606138
@@ -105,24 +99,24 @@ orthologs:
   mod: MGI:1916368
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100492896,447144
-  mod: '1004755'
+- ensembl: ENSXETG00000012221
+  entrez: '100492896'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000037040
+- ensembl: ENSDARG00000109850
   entrez: '692284'
   mod: ZFIN:ZDB-GENE-040724-100
-  phenotypes: ZDB-GENE-040724-100
+  phenotypes: negative regulation of cell growth
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGCCCAAACAGTGTCCTGAGCAAC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458885
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=776040
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458885
+  url: https://www.ncbi.nlm.nih.gov/gene/776040
 species: Gallus gallus
 symbol: CGRRF1
 template_length: '850'
@@ -147,9 +141,8 @@ title: CGRRF1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000100532](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100532) | [10668](https://www.ncbi.nlm.nih.gov/gene/10668) | [MIM:606138](https://omim.org/entry/606138) |  |
 | Mouse | [ENSMUSG00000055128](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000055128) | [68755](https://www.ncbi.nlm.nih.gov/gene/68755) | [MGI:1916368](http://www.informatics.jax.org/marker/MGI:1916368) |  |
-| Xenopus |  | [100492896](https://www.ncbi.nlm.nih.gov/gene/100492896), [447144](https://www.ncbi.nlm.nih.gov/gene/447144) | [1004755](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1004755) |  |
-| Zebrafish | [ENSDARG00000037040](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037040) | [692284](https://www.ncbi.nlm.nih.gov/gene/692284) | [ZFIN:ZDB-GENE-040724-100](https://zfin.org/ZDB-GENE-040724-100) | ZDB-GENE-040724-100 |
+| Xenopus | [ENSXETG00000012221](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012221) | [100492896](https://www.ncbi.nlm.nih.gov/gene/100492896) |  |  |
+| Zebrafish | [ENSDARG00000109850](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000109850) | [692284](https://www.ncbi.nlm.nih.gov/gene/692284) | [ZFIN:ZDB-GENE-040724-100](https://zfin.org/ZDB-GENE-040724-100) | negative regulation of cell growth |
 

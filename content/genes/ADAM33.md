@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422948
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001082418
 forward_primer: TGCGGTGAGCAGCAATGATAC
-gene_id: '452329'
+gene_id: '422948'
 gene_type: protein-coding
 images:
 - caption: ADAM33 expression
@@ -582,13 +582,8 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADAM13.Kee.2007.Fig.2.png
 name: ADAM metallopeptidase domain 33
-ncbi_id: '452329'
+ncbi_id: '422948'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000149451
   entrez: '80332'
   mod: MIM:607114
@@ -599,24 +594,24 @@ orthologs:
   mod: MGI:1341813
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 677728,386623
-  mod: '988106'
+- ensembl: ENSXETG00000011758
+  entrez: '677728'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+  entrez: '565342'
+  mod: ZFIN:ZDB-GENE-070813-1
+  phenotypes: proteolysis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCTCTCCATCTTCCAGAAAGCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452329
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422948
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452329
+  url: https://www.ncbi.nlm.nih.gov/gene/422948
 species: Gallus gallus
 symbol: ADAM33
 template_length: '866'
@@ -643,9 +638,8 @@ title: ADAM33
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000149451](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000149451) | [80332](https://www.ncbi.nlm.nih.gov/gene/80332) | [MIM:607114](https://omim.org/entry/607114) |  |
 | Mouse | [ENSMUSG00000027318](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027318) | [110751](https://www.ncbi.nlm.nih.gov/gene/110751) | [MGI:1341813](http://www.informatics.jax.org/marker/MGI:1341813) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4) |
-| Xenopus |  | [677728](https://www.ncbi.nlm.nih.gov/gene/677728), [386623](https://www.ncbi.nlm.nih.gov/gene/386623) | [988106](http://www.xenbase.org/gene/showgene.do?method=display&geneId=988106) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000011758](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011758) | [677728](https://www.ncbi.nlm.nih.gov/gene/677728) |  |  |
+| Zebrafish |  | [565342](https://www.ncbi.nlm.nih.gov/gene/565342) | [ZFIN:ZDB-GENE-070813-1](https://zfin.org/ZDB-GENE-070813-1) | proteolysis |
 

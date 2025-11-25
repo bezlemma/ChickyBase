@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428790
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426346
 forward_primer: GCTTCCACCAGTCAATAAGG
-gene_id: '456805'
+gene_id: '428790'
 gene_type: protein-coding
 images:
 - caption: ARAP2 expression
@@ -85,13 +85,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R422.ARAP2.S24.001.jpg
 name: ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 2
-ncbi_id: '456805'
+ncbi_id: '428790'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000047365
   entrez: '116984'
   mod: MIM:606645
@@ -102,24 +97,24 @@ orthologs:
   mod: MGI:2684416
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '991947'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000030656
+  entrez: '100494395'
   mod: ''
   phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000100518
+  entrez: '559690'
+  mod: ZFIN:ZDB-GENE-130530-663
+  phenotypes: regulation of actin cytoskeleton organization, signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCAGTCTATCTGTGCTTCCTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456805
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428790
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456805
+  url: https://www.ncbi.nlm.nih.gov/gene/428790
 species: Gallus gallus
 symbol: ARAP2
 template_length: '891'
@@ -143,9 +138,8 @@ title: ARAP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000047365](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000047365) | [116984](https://www.ncbi.nlm.nih.gov/gene/116984) | [MIM:606645](https://omim.org/entry/606645) |  |
 | Mouse | [ENSMUSG00000037999](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037999) | [212285](https://www.ncbi.nlm.nih.gov/gene/212285) | [MGI:2684416](http://www.informatics.jax.org/marker/MGI:2684416) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  |  | [991947](http://www.xenbase.org/gene/showgene.do?method=display&geneId=991947) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000030656](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000030656) | [100494395](https://www.ncbi.nlm.nih.gov/gene/100494395) |  |  |
+| Zebrafish | [ENSDARG00000100518](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000100518) | [559690](https://www.ncbi.nlm.nih.gov/gene/559690) | [ZFIN:ZDB-GENE-130530-663](https://zfin.org/ZDB-GENE-130530-663) | regulation of actin cytoskeleton organization, signal transduction |
 

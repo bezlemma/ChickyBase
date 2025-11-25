@@ -12,7 +12,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204710
 forward_primer: 5’-GTGCATGTTCAACAAGGC-3’
-gene_id: '449235'
+gene_id: '395449'
 gene_type: protein-coding
 images:
 - caption: RAD54B expression
@@ -46,13 +46,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R692.RAD54B.S24.001.jpg
 name: RAD54 homolog B
-ncbi_id: '449235'
+ncbi_id: '395449'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000197275
   entrez: '25788'
   mod: MIM:604289
@@ -63,24 +58,25 @@ orthologs:
   mod: MGI:3605986
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100158622,432195
-  mod: '5839239'
+- ensembl: ENSXETG00000025924
+  entrez: '100158622'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000092134
   entrez: '560482'
   mod: ZFIN:ZDB-GENE-060810-50
-  phenotypes: ZDB-GENE-060810-50
+  phenotypes: double-strand break repair via homologous recombination, reciprocal
+    meiotic recombination
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGCAATTCAAGCTGCAGTGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449235
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395449
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449235
+  url: https://www.ncbi.nlm.nih.gov/gene/395449
 species: Gallus gallus
 symbol: RAD54B
 template_length: '856'
@@ -106,9 +102,8 @@ title: RAD54B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000197275](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197275) | [25788](https://www.ncbi.nlm.nih.gov/gene/25788) | [MIM:604289](https://omim.org/entry/604289) | MIM:604289 |
 | Mouse | [ENSMUSG00000078773](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000078773) | [623474](https://www.ncbi.nlm.nih.gov/gene/623474) | [MGI:3605986](http://www.informatics.jax.org/marker/MGI:3605986) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100158622](https://www.ncbi.nlm.nih.gov/gene/100158622), [432195](https://www.ncbi.nlm.nih.gov/gene/432195) | [5839239](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5839239) |  |
-| Zebrafish | [ENSDARG00000092134](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000092134) | [560482](https://www.ncbi.nlm.nih.gov/gene/560482) | [ZFIN:ZDB-GENE-060810-50](https://zfin.org/ZDB-GENE-060810-50) | ZDB-GENE-060810-50 |
+| Xenopus | [ENSXETG00000025924](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025924) | [100158622](https://www.ncbi.nlm.nih.gov/gene/100158622) |  |  |
+| Zebrafish | [ENSDARG00000092134](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000092134) | [560482](https://www.ncbi.nlm.nih.gov/gene/560482) | [ZFIN:ZDB-GENE-060810-50](https://zfin.org/ZDB-GENE-060810-50) | double-strand break repair via homologous recombination, reciprocal meiotic recombination |
 

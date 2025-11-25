@@ -4,7 +4,6 @@ aliases:
 - cell division protein kinase 6
 cgnc_id: '51286'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0016131
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/36854
@@ -13,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420558
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001007892
 forward_primer: 5'-TCCATTCAGTTGCCAAACGG-3'
-gene_id: '456992'
+gene_id: '420558'
 gene_type: protein-coding
 images:
 - caption: CDK6 expression
@@ -111,13 +110,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R592.CDK6.S25AAA.001.jpg
 name: cyclin dependent kinase 6
-ncbi_id: '456992'
+ncbi_id: '420558'
 orthologs:
-- ensembl: ''
-  entrez: '36854'
-  mod: FBgn0016131
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000105810
   entrez: '1021'
   mod: MIM:603368
@@ -128,24 +122,25 @@ orthologs:
   mod: MGI:1277162
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(1) Targeted, other(6)
   species: Mouse
-- ensembl: ''
-  entrez: 100489734,496334
-  mod: '985426'
+- ensembl: ENSXETG00000018529
+  entrez: '100489734'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000070228
   entrez: '100034507'
   mod: ZFIN:ZDB-GENE-060503-786
-  phenotypes: ZDB-GENE-060503-786
+  phenotypes: G1/S transition of mitotic cell cycle, cell dedifferentiation, phosphorylation,
+    protein phosphorylation, regulation of G2/M transition of mitotic cell cycle
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGAGGAAGAGAGTAGCCTAAGGGAC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456992
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420558
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456992
+  url: https://www.ncbi.nlm.nih.gov/gene/420558
 species: Gallus gallus
 symbol: CDK6
 template_length: '857'
@@ -170,9 +165,8 @@ title: CDK6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36854](https://www.ncbi.nlm.nih.gov/gene/36854) | FBgn0016131 |  |
 | Human | [ENSG00000105810](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000105810) | [1021](https://www.ncbi.nlm.nih.gov/gene/1021) | [MIM:603368](https://omim.org/entry/603368) | MIM:612223 |
 | Mouse | [ENSMUSG00000040274](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040274) | [12571](https://www.ncbi.nlm.nih.gov/gene/12571) | [MGI:1277162](http://www.informatics.jax.org/marker/MGI:1277162) | All phenotypic alleles (7):Targeted, knock-out(1) Targeted, other(6) |
-| Xenopus |  | [100489734](https://www.ncbi.nlm.nih.gov/gene/100489734), [496334](https://www.ncbi.nlm.nih.gov/gene/496334) | [985426](http://www.xenbase.org/gene/showgene.do?method=display&geneId=985426) |  |
-| Zebrafish |  | [100034507](https://www.ncbi.nlm.nih.gov/gene/100034507) | [ZFIN:ZDB-GENE-060503-786](https://zfin.org/ZDB-GENE-060503-786) | ZDB-GENE-060503-786 |
+| Xenopus | [ENSXETG00000018529](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018529) | [100489734](https://www.ncbi.nlm.nih.gov/gene/100489734) |  |  |
+| Zebrafish | [ENSDARG00000070228](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070228) | [100034507](https://www.ncbi.nlm.nih.gov/gene/100034507) | [ZFIN:ZDB-GENE-060503-786](https://zfin.org/ZDB-GENE-060503-786) | G1/S transition of mitotic cell cycle, cell dedifferentiation, phosphorylation, protein phosphorylation, regulation of G2/M transition of mitotic cell cycle |
 

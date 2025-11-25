@@ -5,7 +5,6 @@ aliases:
 - gap junction protein, gamma 2, 47kDa
 cgnc_id: '3970'
 external_ids:
-  '25': stage 25stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/pubmed/14512016?ordinalpos=2&itool=Email.EmailReport.Pubmed_ReportSelector.Pubmed_HVDocSum
   Comments: Accession number was given in the paper.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -18,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420397
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199581
 forward_primer: 5'-TTGCAACACCAAGCAGCC-3'
-gene_id: '457853'
+gene_id: '420397'
 gene_type: protein-coding
 images:
 - caption: GJC2 expression
@@ -141,41 +140,26 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/7I.jpg
 name: gap junction protein gamma 2
-ncbi_id: '457853'
+ncbi_id: '420397'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000198835
-  entrez: '57165'
-  mod: MIM:608803
-  phenotypes: MIM:608804
-  species: Human
-- ensembl: ENSMUSG00000043448
-  entrez: '118454'
-  mod: MGI:2153060
-  phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
-  species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000006175
   entrez: '779802'
-  mod: '968863'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000073896
   entrez: '447835'
   mod: ZFIN:ZDB-GENE-040912-134
-  phenotypes: ZDB-GENE-040912-134
+  phenotypes: cell communication, cell-cell signaling
   species: Zebrafish
 reverse_primer: 5'-TTGGGCTTAGCGCTTTGC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457853
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420397
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457853
+  url: https://www.ncbi.nlm.nih.gov/gene/420397
 species: Gallus gallus
 symbol: GJC2
 template_length: '1023'
@@ -203,9 +187,6 @@ Copyright © 2003 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000198835](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198835) | [57165](https://www.ncbi.nlm.nih.gov/gene/57165) | [MIM:608803](https://omim.org/entry/608803) | MIM:608804 |
-| Mouse | [ENSMUSG00000043448](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000043448) | [118454](https://www.ncbi.nlm.nih.gov/gene/118454) | [MGI:2153060](http://www.informatics.jax.org/marker/MGI:2153060) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [779802](https://www.ncbi.nlm.nih.gov/gene/779802) | [968863](http://www.xenbase.org/gene/showgene.do?method=display&geneId=968863) |  |
-| Zebrafish | [ENSDARG00000073896](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000073896) | [447835](https://www.ncbi.nlm.nih.gov/gene/447835) | [ZFIN:ZDB-GENE-040912-134](https://zfin.org/ZDB-GENE-040912-134) | ZDB-GENE-040912-134 |
+| Xenopus | [ENSXETG00000006175](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006175) | [779802](https://www.ncbi.nlm.nih.gov/gene/779802) |  |  |
+| Zebrafish | [ENSDARG00000073896](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000073896) | [447835](https://www.ncbi.nlm.nih.gov/gene/447835) | [ZFIN:ZDB-GENE-040912-134](https://zfin.org/ZDB-GENE-040912-134) | cell communication, cell-cell signaling |
 

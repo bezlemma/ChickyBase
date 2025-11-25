@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771092
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234393
-gene_id: '449139'
+gene_id: '771092'
 gene_type: protein-coding
 images:
 - caption: WNT9B expression
@@ -100,14 +100,9 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT9B.Geetha-Loganathan.2009
     for figure 1 panel P.png
 name: Wnt family member 9B
-ncbi_id: '449139'
+ncbi_id: '771092'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000158955
+- ensembl: ENSG00000276799
   entrez: '7484'
   mod: MIM:602864
   phenotypes: ''
@@ -119,19 +114,20 @@ orthologs:
     other(2)
   species: Mouse
 - ensembl: ''
-  entrez: '100125200'
-  mod: '866786'
+  entrez: '100497091'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000037889
   entrez: '565677'
   mod: ZFIN:ZDB-GENE-080201-1
-  phenotypes: ZDB-GENE-080201-1
+  phenotypes: Wnt signaling pathway, animal organ development, canonical Wnt signaling
+    pathway, cell fate commitment, embryonic heart tube formation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449139
+  url: https://www.ncbi.nlm.nih.gov/gene/771092
 species: Gallus gallus
 symbol: WNT9B
 title: WNT9B
@@ -157,9 +153,8 @@ title: WNT9B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000158955](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000158955) | [7484](https://www.ncbi.nlm.nih.gov/gene/7484) | [MIM:602864](https://omim.org/entry/602864) |  |
+| Human | [ENSG00000276799](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000276799) | [7484](https://www.ncbi.nlm.nih.gov/gene/7484) | [MIM:602864](https://omim.org/entry/602864) |  |
 | Mouse | [ENSMUSG00000018486](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018486) | [22412](https://www.ncbi.nlm.nih.gov/gene/22412) | [MGI:1197020](http://www.informatics.jax.org/marker/MGI:1197020) | All phenotypic alleles (6):Spontaneous(1) Targeted, knock-out(3) Targeted, other(2) |
-| Xenopus |  | [100125200](https://www.ncbi.nlm.nih.gov/gene/100125200) | [866786](http://www.xenbase.org/gene/showgene.do?method=display&geneId=866786) |  |
-| Zebrafish | [ENSDARG00000037889](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037889) | [565677](https://www.ncbi.nlm.nih.gov/gene/565677) | [ZFIN:ZDB-GENE-080201-1](https://zfin.org/ZDB-GENE-080201-1) | ZDB-GENE-080201-1 |
+| Xenopus |  | [100497091](https://www.ncbi.nlm.nih.gov/gene/100497091) |  |  |
+| Zebrafish | [ENSDARG00000037889](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037889) | [565677](https://www.ncbi.nlm.nih.gov/gene/565677) | [ZFIN:ZDB-GENE-080201-1](https://zfin.org/ZDB-GENE-080201-1) | Wnt signaling pathway, animal organ development, canonical Wnt signaling pathway, cell fate commitment, embryonic heart tube formation |
 

@@ -19,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0050501
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204806
-gene_id: '449724'
+gene_id: '395594'
 gene_type: protein-coding
 images:
 - caption: HAS2 expression
@@ -277,13 +277,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig1.HAS2-C2.Song.day31.jpg
 name: hyaluronan synthase 2
-ncbi_id: '449724'
+ncbi_id: '395594'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000170961
   entrez: '3037'
   mod: MIM:601636
@@ -294,23 +289,25 @@ orthologs:
   mod: MGI:107821
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100145711,399146
-  mod: '5775580'
+- ensembl: ENSXETG00000006863
+  entrez: '100145711'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000036987
   entrez: '260350'
   mod: ZFIN:ZDB-GENE-020828-1
-  phenotypes: ZDB-GENE-020828-1
+  phenotypes: atrioventricular canal development, atrioventricular valve development,
+    atrioventricular valve morphogenesis, blood vessel development, cell migration
+    in hindbrain
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449724
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395594
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449724
+  url: https://www.ncbi.nlm.nih.gov/gene/395594
 species: Gallus gallus
 symbol: HAS2
 title: HAS2
@@ -340,9 +337,8 @@ title: HAS2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000170961](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170961) | [3037](https://www.ncbi.nlm.nih.gov/gene/3037) | [MIM:601636](https://omim.org/entry/601636) |  |
 | Mouse | [ENSMUSG00000022367](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022367) | [15117](https://www.ncbi.nlm.nih.gov/gene/15117) | [MGI:107821](http://www.informatics.jax.org/marker/MGI:107821) | All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5) |
-| Xenopus |  | [100145711](https://www.ncbi.nlm.nih.gov/gene/100145711), [399146](https://www.ncbi.nlm.nih.gov/gene/399146) | [5775580](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5775580) |  |
-| Zebrafish | [ENSDARG00000036987](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036987) | [260350](https://www.ncbi.nlm.nih.gov/gene/260350) | [ZFIN:ZDB-GENE-020828-1](https://zfin.org/ZDB-GENE-020828-1) | ZDB-GENE-020828-1 |
+| Xenopus | [ENSXETG00000006863](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006863) | [100145711](https://www.ncbi.nlm.nih.gov/gene/100145711) |  |  |
+| Zebrafish | [ENSDARG00000036987](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036987) | [260350](https://www.ncbi.nlm.nih.gov/gene/260350) | [ZFIN:ZDB-GENE-020828-1](https://zfin.org/ZDB-GENE-020828-1) | atrioventricular canal development, atrioventricular valve development, atrioventricular valve morphogenesis, blood vessel development, cell migration in hindbrain |
 

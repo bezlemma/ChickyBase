@@ -18,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006229
 forward_primer: GCCTCACTGACATTCTCCCGCC
-gene_id: '452993'
+gene_id: '417773'
 gene_type: protein-coding
 images:
 - caption: TFEC expression
@@ -110,13 +110,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TFEC.Trimarchi.2009
     for figure 4, panel I2.JPG
 name: transcription factor EC
-ncbi_id: '452993'
+ncbi_id: '417773'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000105967
   entrez: '22797'
   mod: MIM:604732
@@ -127,24 +122,25 @@ orthologs:
   mod: MGI:1333760
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000011566
   entrez: '100487610'
-  mod: '986000'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000098745
   entrez: '556894'
   mod: ZFIN:ZDB-GENE-041210-21
-  phenotypes: ZDB-GENE-041210-21
+  phenotypes: closure of optic fissure, definitive hemopoiesis, hematopoietic stem
+    cell homeostasis, hematopoietic stem cell proliferation, hemopoiesis
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCTTCTCCTGCTGCTCTCTTTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452993
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417773
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452993
+  url: https://www.ncbi.nlm.nih.gov/gene/417773
 species: Gallus gallus
 symbol: TFEC
 template_length: '1141'
@@ -174,9 +170,8 @@ title: TFEC
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000105967](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000105967) | [22797](https://www.ncbi.nlm.nih.gov/gene/22797) | [MIM:604732](https://omim.org/entry/604732) |  |
 | Mouse | [ENSMUSG00000029553](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029553) | [21426](https://www.ncbi.nlm.nih.gov/gene/21426) | [MGI:1333760](http://www.informatics.jax.org/marker/MGI:1333760) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100487610](https://www.ncbi.nlm.nih.gov/gene/100487610) | [986000](http://www.xenbase.org/gene/showgene.do?method=display&geneId=986000) |  |
-| Zebrafish |  | [556894](https://www.ncbi.nlm.nih.gov/gene/556894) | [ZFIN:ZDB-GENE-041210-21](https://zfin.org/ZDB-GENE-041210-21) | ZDB-GENE-041210-21 |
+| Xenopus | [ENSXETG00000011566](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011566) | [100487610](https://www.ncbi.nlm.nih.gov/gene/100487610) |  |  |
+| Zebrafish | [ENSDARG00000098745](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098745) | [556894](https://www.ncbi.nlm.nih.gov/gene/556894) | [ZFIN:ZDB-GENE-041210-21](https://zfin.org/ZDB-GENE-041210-21) | closure of optic fissure, definitive hemopoiesis, hematopoietic stem cell homeostasis, hematopoietic stem cell proliferation, hemopoiesis |
 

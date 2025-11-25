@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416138
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414471
-gene_id: '457493'
+gene_id: '416138'
 gene_type: protein-coding
 images:
 - caption: CXXC5 expression
@@ -28,13 +28,8 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IDAX.Quinlan.2009.O.PNG
 name: CXXC finger protein 5
-ncbi_id: '457493'
+ncbi_id: '416138'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000171604
   entrez: '51523'
   mod: MIM:612752
@@ -45,20 +40,15 @@ orthologs:
   mod: MGI:1914643
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000078865
   entrez: '557911'
-  mod: ZFIN:ZDB-GENE-030131-3178,ZFIN:ZDB-GENE-130225-1
-  phenotypes: ZDB-GENE-030131-3178,ZDB-GENE-130225-1
+  mod: ZFIN:ZDB-GENE-030131-3178
+  phenotypes: heart looping, pronephros development, sprouting angiogenesis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457493
+  url: https://www.ncbi.nlm.nih.gov/gene/416138
 species: Gallus gallus
 symbol: CXXC5
 title: CXXC5
@@ -85,9 +75,7 @@ Note: IDAX shows partial homology with CXXC5.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000171604](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171604) | [51523](https://www.ncbi.nlm.nih.gov/gene/51523) | [MIM:612752](https://omim.org/entry/612752) |  |
 | Mouse | [ENSMUSG00000046668](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000046668) | [67393](https://www.ncbi.nlm.nih.gov/gene/67393) | [MGI:1914643](http://www.informatics.jax.org/marker/MGI:1914643) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000078865](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078865) | [557911](https://www.ncbi.nlm.nih.gov/gene/557911) | [ZFIN:ZDB-GENE-030131-3178](https://zfin.org/ZDB-GENE-030131-3178), [ZFIN:ZDB-GENE-130225-1](https://zfin.org/ZDB-GENE-130225-1) | ZDB-GENE-030131-3178,ZDB-GENE-130225-1 |
+| Zebrafish | [ENSDARG00000078865](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078865) | [557911](https://www.ncbi.nlm.nih.gov/gene/557911) | [ZFIN:ZDB-GENE-030131-3178](https://zfin.org/ZDB-GENE-030131-3178) | heart looping, pronephros development, sprouting angiogenesis |
 

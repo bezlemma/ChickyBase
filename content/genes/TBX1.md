@@ -3,7 +3,6 @@ aliases:
 - T-box transcription factor TBX1
 cgnc_id: '56694'
 external_ids:
-  '7': stage 7
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2012+FreterPax2+Ladher
     +Otic+epibranchial
   Comments: Insufficient information provided in publication to verify exact sequence
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771328
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234619
   X-XIV: stage XII
-gene_id: '454117'
+gene_id: '771328'
 gene_type: protein-coding
 images:
 - caption: TBX1 expression
@@ -379,7 +378,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/T.Trevers.2023-Fig7-3-V.jpg
 name: T-box 1
-ncbi_id: '454117'
+ncbi_id: '771328'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -409,7 +408,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454117
+  url: https://www.ncbi.nlm.nih.gov/gene/771328
 species: Gallus gallus
 symbol: TBX1
 title: TBX1

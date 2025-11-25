@@ -4,12 +4,11 @@ aliases:
 - kelch-like 31
 cgnc_id: '12198'
 external_ids:
-  '25': stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000016309
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421893
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419909
-gene_id: '455582'
+gene_id: '421893'
 gene_type: protein-coding
 images:
 - caption: KLHL31 expression
@@ -69,13 +68,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/52G.26.st25.jpg
 name: kelch like family member 31
-ncbi_id: '455582'
+ncbi_id: '421893'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000124743
   entrez: '401265'
   mod: MIM:610749
@@ -86,23 +80,23 @@ orthologs:
   mod: MGI:3045305
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000001616
   entrez: '100495906'
-  mod: '966129'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000039066
   entrez: '407079'
   mod: ZFIN:ZDB-GENE-030131-2052
-  phenotypes: ZDB-GENE-030131-2052
+  phenotypes: negative regulation of protein phosphorylation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455582
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421893
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455582
+  url: https://www.ncbi.nlm.nih.gov/gene/421893
 species: Gallus gallus
 symbol: KLHL31
 title: KLHL31
@@ -123,9 +117,8 @@ title: KLHL31
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000124743](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000124743) | [401265](https://www.ncbi.nlm.nih.gov/gene/401265) | [MIM:610749](https://omim.org/entry/610749) |  |
 | Mouse | [ENSMUSG00000044938](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000044938) | [244923](https://www.ncbi.nlm.nih.gov/gene/244923) | [MGI:3045305](http://www.informatics.jax.org/marker/MGI:3045305) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100495906](https://www.ncbi.nlm.nih.gov/gene/100495906) | [966129](http://www.xenbase.org/gene/showgene.do?method=display&geneId=966129) |  |
-| Zebrafish | [ENSDARG00000039066](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039066) | [407079](https://www.ncbi.nlm.nih.gov/gene/407079) | [ZFIN:ZDB-GENE-030131-2052](https://zfin.org/ZDB-GENE-030131-2052) | ZDB-GENE-030131-2052 |
+| Xenopus | [ENSXETG00000001616](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001616) | [100495906](https://www.ncbi.nlm.nih.gov/gene/100495906) |  |  |
+| Zebrafish | [ENSDARG00000039066](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039066) | [407079](https://www.ncbi.nlm.nih.gov/gene/407079) | [ZFIN:ZDB-GENE-030131-2052](https://zfin.org/ZDB-GENE-030131-2052) | negative regulation of protein phosphorylation |
 

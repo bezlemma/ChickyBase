@@ -4,7 +4,6 @@ aliases:
 - apo-AI
 cgnc_id: '49860'
 external_ids:
-  '13': stage 13
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007186
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0030139
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=bertocchini+stern+differential+extraembryonic+endodermal+pre-primitive+streak+apolipoprotein+hypoblast+endoblast
@@ -19,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0034191
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205525
   X-XIV: stage XIstage XIstage XIstage XIstage XIstage XI
-gene_id: '460313'
+gene_id: '396536'
 gene_type: protein-coding
 images:
 - caption: APOA1 expression
@@ -291,40 +290,36 @@ images:
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/APOA1_HH15 x25 ventral.jpg
 name: apolipoprotein A1
-ncbi_id: '460313'
+ncbi_id: '396536'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000118137
+  entrez: '335'
+  mod: MIM:107680
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000032083
+  entrez: '11806'
+  mod: MGI:88049
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000003763
+  entrez: '448709'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000101324
+  entrez: '100101640'
+  mod: ZFIN:ZDB-GENE-050302-172
+  phenotypes: acylglycerol homeostasis, cholesterol efflux, cholesterol metabolic
+    process, lipid metabolic process, lipid transport
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460313
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396536
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460313
+  url: https://www.ncbi.nlm.nih.gov/gene/396536
 species: Gallus gallus
 symbol: APOA1
 title: APOA1
@@ -353,9 +348,8 @@ title: APOA1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000118137](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118137) | [335](https://www.ncbi.nlm.nih.gov/gene/335) | [MIM:107680](https://omim.org/entry/107680) |  |
+| Mouse | [ENSMUSG00000032083](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032083) | [11806](https://www.ncbi.nlm.nih.gov/gene/11806) | [MGI:88049](http://www.informatics.jax.org/marker/MGI:88049) |  |
+| Xenopus | [ENSXETG00000003763](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003763) | [448709](https://www.ncbi.nlm.nih.gov/gene/448709) |  |  |
+| Zebrafish | [ENSDARG00000101324](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101324) | [100101640](https://www.ncbi.nlm.nih.gov/gene/100101640) | [ZFIN:ZDB-GENE-050302-172](https://zfin.org/ZDB-GENE-050302-172) | acylglycerol homeostasis, cholesterol efflux, cholesterol metabolic process, lipid metabolic process, lipid transport |
 

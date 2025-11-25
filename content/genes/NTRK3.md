@@ -6,7 +6,6 @@ aliases:
 - trkC tyrosine kinase
 cgnc_id: '49641'
 external_ids:
-  '19': stage 19stage 19
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030154
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005887
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Bernd+1999+gastrulation
@@ -20,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396081
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205169
-gene_id: '459607'
+gene_id: '396081'
 gene_type: protein-coding
 images:
 - caption: NTRK3 expression
@@ -255,37 +254,34 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig2.jpg
 name: neurotrophic receptor tyrosine kinase 3
-ncbi_id: '459607'
+ncbi_id: '396081'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000140538
   entrez: '4916'
   mod: MIM:191316
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000059146
   entrez: '18213'
   mod: MGI:97385
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000033787
   entrez: '100487541'
-  mod: '489712'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: 568668,568668,798577
-  mod: ZFIN:ZDB-GENE-010126-3,ZFIN:ZDB-GENE-010126-3,ZFIN:ZDB-GENE-010126-4
-  phenotypes: ZDB-GENE-010126-3,ZDB-GENE-010126-3,ZDB-GENE-010126-4
+- ensembl: ENSDARG00000077228
+  entrez: '568668'
+  mod: ZFIN:ZDB-GENE-010126-3
+  phenotypes: animal organ development, cell differentiation, cell surface receptor
+    protein tyrosine kinase signaling pathway, cell surface receptor signaling pathway,
+    cellular response to nerve growth factor stimulus
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459607
+  url: https://www.ncbi.nlm.nih.gov/gene/396081
 species: Gallus gallus
 symbol: NTRK3
 title: NTRK3
@@ -314,9 +310,8 @@ title: NTRK3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000140538](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140538) | [4916](https://www.ncbi.nlm.nih.gov/gene/4916) | [MIM:191316](https://omim.org/entry/191316) |  |
-| Mouse |  | [18213](https://www.ncbi.nlm.nih.gov/gene/18213) | [MGI:97385](http://www.informatics.jax.org/marker/MGI:97385) | All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5) |
-| Xenopus |  | [100487541](https://www.ncbi.nlm.nih.gov/gene/100487541) | [489712](http://www.xenbase.org/gene/showgene.do?method=display&geneId=489712) |  |
-| Zebrafish |  | [568668](https://www.ncbi.nlm.nih.gov/gene/568668), [568668](https://www.ncbi.nlm.nih.gov/gene/568668), [798577](https://www.ncbi.nlm.nih.gov/gene/798577) | [ZFIN:ZDB-GENE-010126-3](https://zfin.org/ZDB-GENE-010126-3), [ZFIN:ZDB-GENE-010126-3](https://zfin.org/ZDB-GENE-010126-3), [ZFIN:ZDB-GENE-010126-4](https://zfin.org/ZDB-GENE-010126-4) | ZDB-GENE-010126-3,ZDB-GENE-010126-3,ZDB-GENE-010126-4 |
+| Mouse | [ENSMUSG00000059146](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000059146) | [18213](https://www.ncbi.nlm.nih.gov/gene/18213) | [MGI:97385](http://www.informatics.jax.org/marker/MGI:97385) | All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5) |
+| Xenopus | [ENSXETG00000033787](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033787) | [100487541](https://www.ncbi.nlm.nih.gov/gene/100487541) |  |  |
+| Zebrafish | [ENSDARG00000077228](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077228) | [568668](https://www.ncbi.nlm.nih.gov/gene/568668) | [ZFIN:ZDB-GENE-010126-3](https://zfin.org/ZDB-GENE-010126-3) | animal organ development, cell differentiation, cell surface receptor protein tyrosine kinase signaling pathway, cell surface receptor signaling pathway, cellular response to nerve growth factor stimulus |
 

@@ -3,14 +3,13 @@ aliases:
 - transforming growth factor beta receptor type 3
 cgnc_id: '4525'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/374251
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374251
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204339
 forward_primer: GGATACCTACA ACCAAAAAGAGCG
-gene_id: '456486'
+gene_id: '374251'
 gene_type: protein-coding
 images:
 - caption: TGFBR3 expression
@@ -98,13 +97,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R204.TGFBR3.S25.01.jpg
 name: transforming growth factor beta receptor 3
-ncbi_id: '456486'
+ncbi_id: '374251'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000069702
   entrez: '7049'
   mod: MIM:600742
@@ -115,24 +109,26 @@ orthologs:
   mod: MGI:104637
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000023030
   entrez: '100492271'
-  mod: '478195'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000078670
+- ensembl: ENSDARG00000099979
   entrez: '100332594'
   mod: ZFIN:ZDB-GENE-120215-125
-  phenotypes: ZDB-GENE-120215-125
+  phenotypes: bone mineralization, cell migration, epithelial to mesenchymal transition,
+    regulation of transforming growth factor beta receptor signaling pathway, somite
+    development
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTTGACAGGGCTACATCAGCACTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456486
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374251
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456486
+  url: https://www.ncbi.nlm.nih.gov/gene/374251
 species: Gallus gallus
 symbol: TGFBR3
 template_length: '703'
@@ -155,9 +151,8 @@ title: TGFBR3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000069702](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000069702) | [7049](https://www.ncbi.nlm.nih.gov/gene/7049) | [MIM:600742](https://omim.org/entry/600742) |  |
 | Mouse | [ENSMUSG00000029287](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029287) | [21814](https://www.ncbi.nlm.nih.gov/gene/21814) | [MGI:104637](http://www.informatics.jax.org/marker/MGI:104637) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100492271](https://www.ncbi.nlm.nih.gov/gene/100492271) | [478195](http://www.xenbase.org/gene/showgene.do?method=display&geneId=478195) |  |
-| Zebrafish | [ENSDARG00000078670](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078670) | [100332594](https://www.ncbi.nlm.nih.gov/gene/100332594) | [ZFIN:ZDB-GENE-120215-125](https://zfin.org/ZDB-GENE-120215-125) | ZDB-GENE-120215-125 |
+| Xenopus | [ENSXETG00000023030](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023030) | [100492271](https://www.ncbi.nlm.nih.gov/gene/100492271) |  |  |
+| Zebrafish | [ENSDARG00000099979](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099979) | [100332594](https://www.ncbi.nlm.nih.gov/gene/100332594) | [ZFIN:ZDB-GENE-120215-125](https://zfin.org/ZDB-GENE-120215-125) | bone mineralization, cell migration, epithelial to mesenchymal transition, regulation of transforming growth factor beta receptor signaling pathway, somite development |
 

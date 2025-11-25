@@ -9,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427602
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031465
-gene_id: '456844'
+gene_id: '427602'
 gene_type: protein-coding
 images:
 - caption: ZMAT2 expression
@@ -20,16 +20,11 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/pgp1n6a8.103.20.jpg
 name: zinc finger matrin-type 2
-ncbi_id: '456844'
+ncbi_id: '427602'
 orthologs:
-- ensembl: ''
-  entrez: '38520'
-  mod: FBgn0035520
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000146007
   entrez: '153527'
-  mod: ''
+  mod: MIM:619930
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000001383
@@ -37,23 +32,24 @@ orthologs:
   mod: MGI:1913742
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 448699,495824
-  mod: '1217475'
+- ensembl: ENSXETG00000043013
+  entrez: '448699'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000004956
   entrez: '324476'
   mod: ZFIN:ZDB-GENE-030131-3197
-  phenotypes: ZDB-GENE-030131-3197
+  phenotypes: dorsal/ventral pattern formation, mRNA splicing, via spliceosome, pectoral
+    fin development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456844
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427602
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456844
+  url: https://www.ncbi.nlm.nih.gov/gene/427602
 species: Gallus gallus
 symbol: ZMAT2
 title: ZMAT2
@@ -78,9 +74,8 @@ title: ZMAT2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38520](https://www.ncbi.nlm.nih.gov/gene/38520) | FBgn0035520 |  |
-| Human | [ENSG00000146007](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000146007) | [153527](https://www.ncbi.nlm.nih.gov/gene/153527) |  |  |
+| Human | [ENSG00000146007](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000146007) | [153527](https://www.ncbi.nlm.nih.gov/gene/153527) | [MIM:619930](https://omim.org/entry/619930) |  |
 | Mouse | [ENSMUSG00000001383](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001383) | [66492](https://www.ncbi.nlm.nih.gov/gene/66492) | [MGI:1913742](http://www.informatics.jax.org/marker/MGI:1913742) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [448699](https://www.ncbi.nlm.nih.gov/gene/448699), [495824](https://www.ncbi.nlm.nih.gov/gene/495824) | [1217475](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1217475) |  |
-| Zebrafish | [ENSDARG00000004956](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004956) | [324476](https://www.ncbi.nlm.nih.gov/gene/324476) | [ZFIN:ZDB-GENE-030131-3197](https://zfin.org/ZDB-GENE-030131-3197) | ZDB-GENE-030131-3197 |
+| Xenopus | [ENSXETG00000043013](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000043013) | [448699](https://www.ncbi.nlm.nih.gov/gene/448699) |  |  |
+| Zebrafish | [ENSDARG00000004956](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004956) | [324476](https://www.ncbi.nlm.nih.gov/gene/324476) | [ZFIN:ZDB-GENE-030131-3197](https://zfin.org/ZDB-GENE-030131-3197) | dorsal/ventral pattern formation, mRNA splicing, via spliceosome, pectoral fin development |
 

@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419536
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001232709
 forward_primer: TGGTGGTGAAGATGGATGC
-gene_id: '458265'
+gene_id: '419536'
 gene_type: protein-coding
 images:
 - caption: RHOBTB2 expression
@@ -189,13 +189,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R404.RHOBTB2.S26D.001.jpg
 name: Rho-related BTB domain containing 2
-ncbi_id: '458265'
+ncbi_id: '419536'
 orthologs:
-- ensembl: ''
-  entrez: '40249'
-  mod: FBgn0036980
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000008853
   entrez: '23221'
   mod: MIM:607352
@@ -206,24 +201,26 @@ orthologs:
   mod: MGI:2180557
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010513
   entrez: '100144291'
-  mod: '964294'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000016868
-  entrez: '553415'
-  mod: ZFIN:ZDB-GENE-060315-11
-  phenotypes: ZDB-GENE-060315-11
+- ensembl: ENSDARG00000089340
+  entrez: '565844'
+  mod: ZFIN:ZDB-GENE-071125-1
+  phenotypes: actin filament organization, cortical cytoskeleton organization, establishment
+    or maintenance of cell polarity, regulation of actin cytoskeleton organization,
+    regulation of cell shape
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCGTTTGAGGTGGAGGTAGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458265
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419536
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458265
+  url: https://www.ncbi.nlm.nih.gov/gene/419536
 species: Gallus gallus
 symbol: RHOBTB2
 template_length: '934'
@@ -247,9 +244,8 @@ title: RHOBTB2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40249](https://www.ncbi.nlm.nih.gov/gene/40249) | FBgn0036980 |  |
 | Human | [ENSG00000008853](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000008853) | [23221](https://www.ncbi.nlm.nih.gov/gene/23221) | [MIM:607352](https://omim.org/entry/607352) |  |
 | Mouse | [ENSMUSG00000022075](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022075) | [246710](https://www.ncbi.nlm.nih.gov/gene/246710) | [MGI:2180557](http://www.informatics.jax.org/marker/MGI:2180557) |  |
-| Xenopus |  | [100144291](https://www.ncbi.nlm.nih.gov/gene/100144291) | [964294](http://www.xenbase.org/gene/showgene.do?method=display&geneId=964294) |  |
-| Zebrafish | [ENSDARG00000016868](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016868) | [553415](https://www.ncbi.nlm.nih.gov/gene/553415) | [ZFIN:ZDB-GENE-060315-11](https://zfin.org/ZDB-GENE-060315-11) | ZDB-GENE-060315-11 |
+| Xenopus | [ENSXETG00000010513](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010513) | [100144291](https://www.ncbi.nlm.nih.gov/gene/100144291) |  |  |
+| Zebrafish | [ENSDARG00000089340](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000089340) | [565844](https://www.ncbi.nlm.nih.gov/gene/565844) | [ZFIN:ZDB-GENE-071125-1](https://zfin.org/ZDB-GENE-071125-1) | actin filament organization, cortical cytoskeleton organization, establishment or maintenance of cell polarity, regulation of actin cytoskeleton organization, regulation of cell shape |
 

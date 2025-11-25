@@ -4,7 +4,6 @@ aliases:
 - hairy and enhancer of split 5
 cgnc_id: '773'
 external_ids:
-  '13': stage 13stage 13stage 13
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=NOTCH+proneural+hypothalamus+neural+Ware+scaffold+building+blocks
   Comments: 'Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. The sequence below was obtained from NCBI (Acc. # NM_001012695.1).'
@@ -475,7 +474,7 @@ orthologs:
 - ensembl: ENSDARG00000038205
   entrez: '30300'
   mod: ZFIN:ZDB-GENE-980526-521,ZFIN:ZDB-GENE-980526-274
-  phenotypes: ZDB-GENE-980526-521,ZDB-GENE-980526-274
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -510,5 +509,5 @@ title: HES5
 | Human | [ENSG00000197921](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197921) | [388585](https://www.ncbi.nlm.nih.gov/gene/388585) | [MIM:607348](https://omim.org/entry/607348) |  |
 | Mouse | [ENSMUSG00000048001](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048001) | [15208](https://www.ncbi.nlm.nih.gov/gene/15208) | [MGI:104876](http://www.informatics.jax.org/marker/MGI:104876) | All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1) |
 | Xenopus |  | [733755](https://www.ncbi.nlm.nih.gov/gene/733755), [398151](https://www.ncbi.nlm.nih.gov/gene/398151), [733286](https://www.ncbi.nlm.nih.gov/gene/733286) | [876634](http://www.xenbase.org/gene/showgene.do?method=display&geneId=876634) |  |
-| Zebrafish | [ENSDARG00000038205](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038205) | [30300](https://www.ncbi.nlm.nih.gov/gene/30300) | [ZFIN:ZDB-GENE-980526-521](https://zfin.org/ZDB-GENE-980526-521), [ZFIN:ZDB-GENE-980526-274](https://zfin.org/ZDB-GENE-980526-274) | ZDB-GENE-980526-521,ZDB-GENE-980526-274 |
+| Zebrafish | [ENSDARG00000038205](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038205) | [30300](https://www.ncbi.nlm.nih.gov/gene/30300) | [ZFIN:ZDB-GENE-980526-521](https://zfin.org/ZDB-GENE-980526-521), [ZFIN:ZDB-GENE-980526-274](https://zfin.org/ZDB-GENE-980526-274) |  |
 

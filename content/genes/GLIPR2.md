@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420999
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419085
-gene_id: '453794'
+gene_id: '420999'
 gene_type: protein-coding
 images:
 - caption: GLIPR2 expression
@@ -59,13 +59,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Glipr2.Singh.2016.Fig4.jpg
 name: GLI pathogenesis related 2
-ncbi_id: '453794'
+ncbi_id: '420999'
 orthologs:
-- ensembl: ''
-  entrez: '40806'
-  mod: FBgn0051482
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000122694
   entrez: '152007'
   mod: MIM:607141
@@ -77,19 +72,19 @@ orthologs:
   phenotypes: ''
   species: Mouse
 - ensembl: ''
-  entrez: 100135358,495415
-  mod: '5758335'
+  entrez: '100135358'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000016837,ENSDARG00000041724
-  entrez: 449805,325699
-  mod: ZFIN:ZDB-GENE-041010-53,ZFIN:ZDB-GENE-030131-4424
-  phenotypes: ZDB-GENE-041010-53,ZDB-GENE-030131-4424
+- ensembl: ENSDARG00000016837
+  entrez: '449805'
+  mod: ZFIN:ZDB-GENE-041010-53
+  phenotypes: biological_process, sexual reproduction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453794
+  url: https://www.ncbi.nlm.nih.gov/gene/420999
 species: Gallus gallus
 symbol: GLIPR2
 title: GLIPR2
@@ -117,9 +112,8 @@ title: GLIPR2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40806](https://www.ncbi.nlm.nih.gov/gene/40806) | FBgn0051482 |  |
 | Human | [ENSG00000122694](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000122694) | [152007](https://www.ncbi.nlm.nih.gov/gene/152007) | [MIM:607141](https://omim.org/entry/607141) |  |
 | Mouse | [ENSMUSG00000028480](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028480) | [384009](https://www.ncbi.nlm.nih.gov/gene/384009) | [MGI:1917770](http://www.informatics.jax.org/marker/MGI:1917770) |  |
-| Xenopus |  | [100135358](https://www.ncbi.nlm.nih.gov/gene/100135358), [495415](https://www.ncbi.nlm.nih.gov/gene/495415) | [5758335](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5758335) |  |
-| Zebrafish | [ENSDARG00000016837](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016837), [ENSDARG00000041724](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041724) | [449805](https://www.ncbi.nlm.nih.gov/gene/449805), [325699](https://www.ncbi.nlm.nih.gov/gene/325699) | [ZFIN:ZDB-GENE-041010-53](https://zfin.org/ZDB-GENE-041010-53), [ZFIN:ZDB-GENE-030131-4424](https://zfin.org/ZDB-GENE-030131-4424) | ZDB-GENE-041010-53,ZDB-GENE-030131-4424 |
+| Xenopus |  | [100135358](https://www.ncbi.nlm.nih.gov/gene/100135358) |  |  |
+| Zebrafish | [ENSDARG00000016837](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016837) | [449805](https://www.ncbi.nlm.nih.gov/gene/449805) | [ZFIN:ZDB-GENE-041010-53](https://zfin.org/ZDB-GENE-041010-53) | biological_process, sexual reproduction |
 

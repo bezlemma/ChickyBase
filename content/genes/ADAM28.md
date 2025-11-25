@@ -3,7 +3,6 @@ aliases:
 - ADAM like decysin 1
 cgnc_id: '51025'
 external_ids:
-  '25': stage 25stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/419529
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419529
@@ -102,7 +101,7 @@ orthologs:
 - ensembl: ENSDARG00000035514
   entrez: '767749'
   mod: ZFIN:ZDB-GENE-060929-532
-  phenotypes: ZDB-GENE-060929-532
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGCTGTGGTTTGTTCTCCTGTAGTGG
 sources:
@@ -137,5 +136,5 @@ title: ADAM28
 | Human | [ENSG00000042980](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000042980) | [10863](https://www.ncbi.nlm.nih.gov/gene/10863) | [MIM:606188](https://omim.org/entry/606188) |  |
 | Mouse | [ENSMUSG00000014725](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000014725) | [13522](https://www.ncbi.nlm.nih.gov/gene/13522) | [MGI:105988](http://www.informatics.jax.org/marker/MGI:105988) | All phenotypic alleles (1):Targeted, other(1) |
 | Xenopus |  | [100145537](https://www.ncbi.nlm.nih.gov/gene/100145537), [733175](https://www.ncbi.nlm.nih.gov/gene/733175) | [5949647](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5949647) |  |
-| Zebrafish | [ENSDARG00000035514](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035514) | [767749](https://www.ncbi.nlm.nih.gov/gene/767749) | [ZFIN:ZDB-GENE-060929-532](https://zfin.org/ZDB-GENE-060929-532) | ZDB-GENE-060929-532 |
+| Zebrafish | [ENSDARG00000035514](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035514) | [767749](https://www.ncbi.nlm.nih.gov/gene/767749) | [ZFIN:ZDB-GENE-060929-532](https://zfin.org/ZDB-GENE-060929-532) |  |
 

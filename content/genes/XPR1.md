@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424415
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422258
-gene_id: '450188'
+gene_id: '424415'
 gene_type: protein-coding
 images:
 - caption: XPR1 expression
@@ -31,13 +31,8 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/7L.jpg
 name: xenotropic and polytropic retrovirus receptor 1
-ncbi_id: '450188'
+ncbi_id: '424415'
 orthologs:
-- ensembl: ''
-  entrez: '32786'
-  mod: FBgn0030890
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000143324
   entrez: '9213'
   mod: MIM:605237
@@ -48,20 +43,20 @@ orthologs:
   mod: MGI:97932
   phenotypes: All phenotypic alleles (3):Spontaneous(1) Targeted, other(1) Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549507,446765
-  mod: '1015945'
+- ensembl: ENSXETG00000023134
+  entrez: '549507'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000062449
   entrez: '100170805'
   mod: ZFIN:ZDB-GENE-060503-362
-  phenotypes: ZDB-GENE-060503-362
+  phenotypes: cellular response to phosphate starvation, phosphate ion transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450188
+  url: https://www.ncbi.nlm.nih.gov/gene/424415
 species: Gallus gallus
 symbol: XPR1
 title: XPR1
@@ -89,9 +84,8 @@ Copyright © 2003 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32786](https://www.ncbi.nlm.nih.gov/gene/32786) | FBgn0030890 |  |
 | Human | [ENSG00000143324](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143324) | [9213](https://www.ncbi.nlm.nih.gov/gene/9213) | [MIM:605237](https://omim.org/entry/605237) |  |
 | Mouse | [ENSMUSG00000026469](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026469) | [19775](https://www.ncbi.nlm.nih.gov/gene/19775) | [MGI:97932](http://www.informatics.jax.org/marker/MGI:97932) | All phenotypic alleles (3):Spontaneous(1) Targeted, other(1) Gene trapped(1) |
-| Xenopus |  | [549507](https://www.ncbi.nlm.nih.gov/gene/549507), [446765](https://www.ncbi.nlm.nih.gov/gene/446765) | [1015945](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1015945) |  |
-| Zebrafish | [ENSDARG00000062449](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062449) | [100170805](https://www.ncbi.nlm.nih.gov/gene/100170805) | [ZFIN:ZDB-GENE-060503-362](https://zfin.org/ZDB-GENE-060503-362) | ZDB-GENE-060503-362 |
+| Xenopus | [ENSXETG00000023134](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023134) | [549507](https://www.ncbi.nlm.nih.gov/gene/549507) |  |  |
+| Zebrafish | [ENSDARG00000062449](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062449) | [100170805](https://www.ncbi.nlm.nih.gov/gene/100170805) | [ZFIN:ZDB-GENE-060503-362](https://zfin.org/ZDB-GENE-060503-362) | cellular response to phosphate starvation, phosphate ion transport |
 

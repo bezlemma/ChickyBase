@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420087
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030934
-gene_id: '458379'
+gene_id: '420087'
 gene_type: protein-coding
 images:
 - caption: ANP32B expression
@@ -75,7 +75,7 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANP32B_stage 12 x20.jpg
 name: acidic (leucine-rich) nuclear phosphoprotein 32 family, member B
-ncbi_id: '458379'
+ncbi_id: '420087'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -105,10 +105,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458379
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420087
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458379
+  url: https://www.ncbi.nlm.nih.gov/gene/420087
 species: Gallus gallus
 symbol: ANP32B
 title: ANP32B

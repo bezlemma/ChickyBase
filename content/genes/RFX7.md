@@ -5,13 +5,12 @@ aliases:
 - regulatory factor X, 7
 cgnc_id: '460'
 external_ids:
-  '25': stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/431530
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:431530
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_429081
 forward_primer: GGTGACATCTCCAAGTCCTATGGG
-gene_id: '460474'
+gene_id: '431530'
 gene_type: protein-coding
 images:
 - caption: RFX7 expression
@@ -138,14 +137,9 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R332.RFXDC2.S25.001.jpg
 name: regulatory factor X7
-ncbi_id: '460474'
+ncbi_id: '431530'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000181827
   entrez: '64864'
   mod: MIM:612660
   phenotypes: ''
@@ -155,24 +149,25 @@ orthologs:
   mod: MGI:2442675
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000024544
   entrez: '100038260'
-  mod: '1008446'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000077237
-  entrez: 560368,324150
-  mod: ZFIN:ZDB-GENE-100309-3
-  phenotypes: ZDB-GENE-100309-3
+- ensembl: ENSDARG00000103691
+  entrez: '100538179'
+  mod: ZFIN:ZDB-GENE-170623-1
+  phenotypes: regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTGGGAATCCTGAAGCGTAGAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460474
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=431530
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/460474
+  url: https://www.ncbi.nlm.nih.gov/gene/431530
 species: Gallus gallus
 symbol: RFX7
 template_length: '888'
@@ -194,9 +189,8 @@ title: RFX7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [64864](https://www.ncbi.nlm.nih.gov/gene/64864) | [MIM:612660](https://omim.org/entry/612660) |  |
+| Human | [ENSG00000181827](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000181827) | [64864](https://www.ncbi.nlm.nih.gov/gene/64864) | [MIM:612660](https://omim.org/entry/612660) |  |
 | Mouse | [ENSMUSG00000037674](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037674) | [319758](https://www.ncbi.nlm.nih.gov/gene/319758) | [MGI:2442675](http://www.informatics.jax.org/marker/MGI:2442675) |  |
-| Xenopus |  | [100038260](https://www.ncbi.nlm.nih.gov/gene/100038260) | [1008446](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1008446) |  |
-| Zebrafish | [ENSDARG00000077237](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077237) | [560368](https://www.ncbi.nlm.nih.gov/gene/560368), [324150](https://www.ncbi.nlm.nih.gov/gene/324150) | [ZFIN:ZDB-GENE-100309-3](https://zfin.org/ZDB-GENE-100309-3) | ZDB-GENE-100309-3 |
+| Xenopus | [ENSXETG00000024544](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000024544) | [100038260](https://www.ncbi.nlm.nih.gov/gene/100038260) |  |  |
+| Zebrafish | [ENSDARG00000103691](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000103691) | [100538179](https://www.ncbi.nlm.nih.gov/gene/100538179) | [ZFIN:ZDB-GENE-170623-1](https://zfin.org/ZDB-GENE-170623-1) | regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

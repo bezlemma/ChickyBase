@@ -7,7 +7,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416265
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006150
-gene_id: '457045'
+gene_id: '416265'
 gene_type: protein-coding
 images:
 - caption: G3BP1 expression
@@ -84,40 +84,35 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/O08.60.24.jpg
 name: G3BP stress granule assembly factor 1
-ncbi_id: '457045'
+ncbi_id: '416265'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000145907
   entrez: '10146'
   mod: MIM:608431
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000018583
   entrez: '27041'
   mod: MGI:1351465
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 549800,380390
-  mod: '6036634'
+- ensembl: ENSXETG00000010712
+  entrez: '549800'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000017741
   entrez: '335512'
   mod: ZFIN:ZDB-GENE-030131-7452
-  phenotypes: ZDB-GENE-030131-7452
+  phenotypes: stress granule assembly
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457045
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416265
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457045
+  url: https://www.ncbi.nlm.nih.gov/gene/416265
 species: Gallus gallus
 symbol: G3BP1
 title: G3BP1
@@ -138,9 +133,8 @@ title: G3BP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000145907](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000145907) | [10146](https://www.ncbi.nlm.nih.gov/gene/10146) | [MIM:608431](https://omim.org/entry/608431) |  |
-| Mouse |  | [27041](https://www.ncbi.nlm.nih.gov/gene/27041) | [MGI:1351465](http://www.informatics.jax.org/marker/MGI:1351465) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [549800](https://www.ncbi.nlm.nih.gov/gene/549800), [380390](https://www.ncbi.nlm.nih.gov/gene/380390) | [6036634](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6036634) |  |
-| Zebrafish |  | [335512](https://www.ncbi.nlm.nih.gov/gene/335512) | [ZFIN:ZDB-GENE-030131-7452](https://zfin.org/ZDB-GENE-030131-7452) | ZDB-GENE-030131-7452 |
+| Mouse | [ENSMUSG00000018583](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018583) | [27041](https://www.ncbi.nlm.nih.gov/gene/27041) | [MGI:1351465](http://www.informatics.jax.org/marker/MGI:1351465) | All phenotypic alleles (3):Targeted, other(3) |
+| Xenopus | [ENSXETG00000010712](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010712) | [549800](https://www.ncbi.nlm.nih.gov/gene/549800) |  |  |
+| Zebrafish | [ENSDARG00000017741](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017741) | [335512](https://www.ncbi.nlm.nih.gov/gene/335512) | [ZFIN:ZDB-GENE-030131-7452](https://zfin.org/ZDB-GENE-030131-7452) | stress granule assembly |
 

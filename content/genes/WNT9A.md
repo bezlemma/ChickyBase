@@ -3,8 +3,6 @@ aliases:
 - WNT-14, WNT14, protein Wnt-9a
 cgnc_id: '4021'
 external_ids:
-  '31': stage 31
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0016055
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005578
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Loganathan+2005+Wnts
@@ -18,7 +16,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005102
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204981
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAAGCCCTGACCATCCTCCC
-gene_id: '450041'
+gene_id: '395829'
 gene_type: protein-coding
 images:
 - caption: WNT9A expression
@@ -285,14 +283,9 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt14.Loganathan.2005.Fig2.jpg
 name: Wnt family member 9A
-ncbi_id: '450041'
+ncbi_id: '395829'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000143816
   entrez: '7483'
   mod: MIM:602863
   phenotypes: ''
@@ -302,24 +295,20 @@ orthologs:
   mod: MGI:2446084
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100125199,100462916
-  mod: '5895366'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000063437
   entrez: '751644'
   mod: ZFIN:ZDB-GENE-060825-97
-  phenotypes: ZDB-GENE-060825-97
+  phenotypes: Wnt signaling pathway, animal organ development, canonical Wnt signaling
+    pathway, cartilage development, cartilage morphogenesis
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAGAACTCCTTGACGAACTTGTTGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450041
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395829
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450041
+  url: https://www.ncbi.nlm.nih.gov/gene/395829
 species: Gallus gallus
 symbol: WNT9A
 template_length: '441'
@@ -349,9 +338,7 @@ title: WNT9A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [7483](https://www.ncbi.nlm.nih.gov/gene/7483) | [MIM:602863](https://omim.org/entry/602863) |  |
+| Human | [ENSG00000143816](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143816) | [7483](https://www.ncbi.nlm.nih.gov/gene/7483) | [MIM:602863](https://omim.org/entry/602863) |  |
 | Mouse | [ENSMUSG00000000126](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000126) | [216795](https://www.ncbi.nlm.nih.gov/gene/216795) | [MGI:2446084](http://www.informatics.jax.org/marker/MGI:2446084) | All phenotypic alleles (6):Targeted, knock-out(2) Targeted, other(4) |
-| Xenopus |  | [100125199](https://www.ncbi.nlm.nih.gov/gene/100125199), [100462916](https://www.ncbi.nlm.nih.gov/gene/100462916) | [5895366](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5895366) |  |
-| Zebrafish | [ENSDARG00000063437](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063437) | [751644](https://www.ncbi.nlm.nih.gov/gene/751644) | [ZFIN:ZDB-GENE-060825-97](https://zfin.org/ZDB-GENE-060825-97) | ZDB-GENE-060825-97 |
+| Zebrafish | [ENSDARG00000063437](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063437) | [751644](https://www.ncbi.nlm.nih.gov/gene/751644) | [ZFIN:ZDB-GENE-060825-97](https://zfin.org/ZDB-GENE-060825-97) | Wnt signaling pathway, animal organ development, canonical Wnt signaling pathway, cartilage development, cartilage morphogenesis |
 

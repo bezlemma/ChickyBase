@@ -142,7 +142,7 @@ orthologs:
 - ensembl: ENSDARG00000042796,ENSDARG00000027978
   entrez: 322397,406394
   mod: ZFIN:ZDB-GENE-030131-1117,ZFIN:ZDB-GENE-040426-2127
-  phenotypes: ZDB-GENE-030131-1117,ZDB-GENE-040426-2127
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTGAAACGGGATTACAGAGCAAGG
 sources:
@@ -178,5 +178,5 @@ title: YY1
 | Human |  | [7528](https://www.ncbi.nlm.nih.gov/gene/7528) | [MIM:600013](https://omim.org/entry/600013) |  |
 | Mouse | [ENSMUSG00000021264](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021264) | [22632](https://www.ncbi.nlm.nih.gov/gene/22632) | [MGI:99150](http://www.informatics.jax.org/marker/MGI:99150) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
 | Xenopus |  | [100126440](https://www.ncbi.nlm.nih.gov/gene/100126440), [447228](https://www.ncbi.nlm.nih.gov/gene/447228), [394372](https://www.ncbi.nlm.nih.gov/gene/394372) | [961262](http://www.xenbase.org/gene/showgene.do?method=display&geneId=961262) |  |
-| Zebrafish | [ENSDARG00000042796](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042796), [ENSDARG00000027978](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027978) | [322397](https://www.ncbi.nlm.nih.gov/gene/322397), [406394](https://www.ncbi.nlm.nih.gov/gene/406394) | [ZFIN:ZDB-GENE-030131-1117](https://zfin.org/ZDB-GENE-030131-1117), [ZFIN:ZDB-GENE-040426-2127](https://zfin.org/ZDB-GENE-040426-2127) | ZDB-GENE-030131-1117,ZDB-GENE-040426-2127 |
+| Zebrafish | [ENSDARG00000042796](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042796), [ENSDARG00000027978](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027978) | [322397](https://www.ncbi.nlm.nih.gov/gene/322397), [406394](https://www.ncbi.nlm.nih.gov/gene/406394) | [ZFIN:ZDB-GENE-030131-1117](https://zfin.org/ZDB-GENE-030131-1117), [ZFIN:ZDB-GENE-040426-2127](https://zfin.org/ZDB-GENE-040426-2127) |  |
 

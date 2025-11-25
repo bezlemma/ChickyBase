@@ -4,7 +4,6 @@ aliases:
 - piwi-like 1
 cgnc_id: '50348'
 external_ids:
-  '25': stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0250816
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0031047
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0043186
@@ -18,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001098852
 forward_primer: ACTGTCTTTAGCAGATAGGGGCG
-gene_id: '461567'
+gene_id: '416804'
 gene_type: protein-coding
 images:
 - caption: PIWIL1 expression
@@ -167,13 +166,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kim.2012.Fig4ALLIMAGES1.jpg
 name: piwi like RNA-mediated gene silencing 1
-ncbi_id: '461567'
+ncbi_id: '416804'
 orthologs:
-- ensembl: ''
-  entrez: '3355150'
-  mod: FBgn0250816
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000125207
   entrez: '9271'
   mod: MIM:605571
@@ -184,24 +178,25 @@ orthologs:
   mod: MGI:1928897
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: '100488735'
-  mod: '963232'
+- ensembl: ENSXETG00000040700
+  entrez: '100496286'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000041699
-  entrez: 100331962,368200
+  entrez: '368200'
   mod: ZFIN:ZDB-GENE-030813-2
-  phenotypes: ZDB-GENE-030813-2
+  phenotypes: anatomical structure morphogenesis, cell differentiation, gamete generation,
+    germ cell development, meiotic cell cycle
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCACATTTCCTCTCTTCCTCCGATAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461567
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416804
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461567
+  url: https://www.ncbi.nlm.nih.gov/gene/416804
 species: Gallus gallus
 symbol: PIWIL1
 template_length: '901'
@@ -232,9 +227,8 @@ title: PIWIL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [3355150](https://www.ncbi.nlm.nih.gov/gene/3355150) | FBgn0250816 |  |
 | Human | [ENSG00000125207](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125207) | [9271](https://www.ncbi.nlm.nih.gov/gene/9271) | [MIM:605571](https://omim.org/entry/605571) |  |
 | Mouse | [ENSMUSG00000029423](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029423) | [57749](https://www.ncbi.nlm.nih.gov/gene/57749) | [MGI:1928897](http://www.informatics.jax.org/marker/MGI:1928897) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100488735](https://www.ncbi.nlm.nih.gov/gene/100488735) | [963232](http://www.xenbase.org/gene/showgene.do?method=display&geneId=963232) |  |
-| Zebrafish | [ENSDARG00000041699](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041699) | [100331962](https://www.ncbi.nlm.nih.gov/gene/100331962), [368200](https://www.ncbi.nlm.nih.gov/gene/368200) | [ZFIN:ZDB-GENE-030813-2](https://zfin.org/ZDB-GENE-030813-2) | ZDB-GENE-030813-2 |
+| Xenopus | [ENSXETG00000040700](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000040700) | [100496286](https://www.ncbi.nlm.nih.gov/gene/100496286) |  |  |
+| Zebrafish | [ENSDARG00000041699](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041699) | [368200](https://www.ncbi.nlm.nih.gov/gene/368200) | [ZFIN:ZDB-GENE-030813-2](https://zfin.org/ZDB-GENE-030813-2) | anatomical structure morphogenesis, cell differentiation, gamete generation, germ cell development, meiotic cell cycle |
 

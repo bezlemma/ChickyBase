@@ -76,7 +76,7 @@ orthologs:
 - ensembl: ENSDARG00000005699
   entrez: '192339'
   mod: ZFIN:ZDB-GENE-020419-30
-  phenotypes: ZDB-GENE-020419-30
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
@@ -113,5 +113,5 @@ title: DDX19B
 | Human | [ENSG00000157349](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000157349) | [11269](https://www.ncbi.nlm.nih.gov/gene/11269) | [MIM:605812](https://omim.org/entry/605812) |  |
 | Mouse | [ENSMUSG00000033658](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033658) | [234733](https://www.ncbi.nlm.nih.gov/gene/234733) | [MGI:2148251](http://www.informatics.jax.org/marker/MGI:2148251) | All phenotypic alleles (1):Targeted, other(1) |
 | Xenopus |  | [394732](https://www.ncbi.nlm.nih.gov/gene/394732), [380324](https://www.ncbi.nlm.nih.gov/gene/380324) | [5902963](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5902963) |  |
-| Zebrafish | [ENSDARG00000005699](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005699) | [192339](https://www.ncbi.nlm.nih.gov/gene/192339) | [ZFIN:ZDB-GENE-020419-30](https://zfin.org/ZDB-GENE-020419-30) | ZDB-GENE-020419-30 |
+| Zebrafish | [ENSDARG00000005699](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005699) | [192339](https://www.ncbi.nlm.nih.gov/gene/192339) | [ZFIN:ZDB-GENE-020419-30](https://zfin.org/ZDB-GENE-020419-30) |  |
 

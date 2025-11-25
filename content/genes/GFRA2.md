@@ -21,7 +21,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395993
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004872
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205101
-gene_id: '451244'
+gene_id: '395993'
 gene_type: protein-coding
 images:
 - caption: GFRA2 expression
@@ -160,14 +160,9 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFR2.Tatsumi.2007.Figure2Rb.jpg
 name: GDNF family receptor alpha 2
-ncbi_id: '451244'
+ncbi_id: '395993'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000168546
   entrez: '2675'
   mod: MIM:601956
   phenotypes: ''
@@ -177,20 +172,21 @@ orthologs:
   mod: MGI:1195462
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010546
   entrez: '100127717'
-  mod: '982253'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000044015,ENSDARG00000042723
-  entrez: 564916,405794
-  mod: ZFIN:ZDB-GENE-040630-1,ZFIN:ZDB-GENE-091204-26
-  phenotypes: ZDB-GENE-040630-1,ZDB-GENE-091204-26
+- ensembl: ''
+  entrez: '564916'
+  mod: ZFIN:ZDB-GENE-091204-26
+  phenotypes: fatty acid biosynthetic process, fatty acid metabolic process, lipid
+    metabolic process, liver development, unsaturated fatty acid biosynthetic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451244
+  url: https://www.ncbi.nlm.nih.gov/gene/395993
 species: Gallus gallus
 symbol: GFRA2
 title: GFRA2
@@ -220,9 +216,8 @@ Copyright © 2007 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [2675](https://www.ncbi.nlm.nih.gov/gene/2675) | [MIM:601956](https://omim.org/entry/601956) |  |
+| Human | [ENSG00000168546](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000168546) | [2675](https://www.ncbi.nlm.nih.gov/gene/2675) | [MIM:601956](https://omim.org/entry/601956) |  |
 | Mouse | [ENSMUSG00000022103](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022103) | [14586](https://www.ncbi.nlm.nih.gov/gene/14586) | [MGI:1195462](http://www.informatics.jax.org/marker/MGI:1195462) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100127717](https://www.ncbi.nlm.nih.gov/gene/100127717) | [982253](http://www.xenbase.org/gene/showgene.do?method=display&geneId=982253) |  |
-| Zebrafish | [ENSDARG00000044015](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044015), [ENSDARG00000042723](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042723) | [564916](https://www.ncbi.nlm.nih.gov/gene/564916), [405794](https://www.ncbi.nlm.nih.gov/gene/405794) | [ZFIN:ZDB-GENE-040630-1](https://zfin.org/ZDB-GENE-040630-1), [ZFIN:ZDB-GENE-091204-26](https://zfin.org/ZDB-GENE-091204-26) | ZDB-GENE-040630-1,ZDB-GENE-091204-26 |
+| Xenopus | [ENSXETG00000010546](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010546) | [100127717](https://www.ncbi.nlm.nih.gov/gene/100127717) |  |  |
+| Zebrafish |  | [564916](https://www.ncbi.nlm.nih.gov/gene/564916) | [ZFIN:ZDB-GENE-091204-26](https://zfin.org/ZDB-GENE-091204-26) | fatty acid biosynthetic process, fatty acid metabolic process, lipid metabolic process, liver development, unsaturated fatty acid biosynthetic process |
 

@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417504
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415753
-gene_id: '453576'
+gene_id: '417504'
 gene_type: protein-coding
 images:
 - caption: COL26A1 expression
@@ -61,13 +61,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ChEST302p20.Singh.2016.Fig5.jpg
 name: collagen type XXVI alpha 1 chain
-ncbi_id: '453576'
+ncbi_id: '417504'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000160963
   entrez: '136227'
   mod: MIM:608927
@@ -78,20 +73,15 @@ orthologs:
   mod: MGI:2155345
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000035357
+  entrez: '101734784'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ZFIN:ZDB-GENE-130530-864
-  phenotypes: ZDB-GENE-130530-864
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453576
+  url: https://www.ncbi.nlm.nih.gov/gene/417504
 species: Gallus gallus
 symbol: COL26A1
 title: COL26A1
@@ -117,9 +107,7 @@ title: COL26A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000160963](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000160963) | [136227](https://www.ncbi.nlm.nih.gov/gene/136227) | [MIM:608927](https://omim.org/entry/608927) |  |
 | Mouse | [ENSMUSG00000004415](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000004415) | [140709](https://www.ncbi.nlm.nih.gov/gene/140709) | [MGI:2155345](http://www.informatics.jax.org/marker/MGI:2155345) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-130530-864](https://zfin.org/ZDB-GENE-130530-864) | ZDB-GENE-130530-864 |
+| Xenopus | [ENSXETG00000035357](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000035357) | [101734784](https://www.ncbi.nlm.nih.gov/gene/101734784) |  |  |
 

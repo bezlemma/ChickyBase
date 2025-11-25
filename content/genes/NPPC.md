@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419487
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005179
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001111259
-gene_id: '458608'
+gene_id: '101748596'
 gene_type: protein-coding
 images:
 - caption: NPPC expression
@@ -60,7 +60,7 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNP-3.Houweling.20053F.jpg
 name: C-type natriuretic peptide 3
-ncbi_id: '458608'
+ncbi_id: '101748596'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -90,7 +90,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458608
+  url: https://www.ncbi.nlm.nih.gov/gene/101748596
 species: Gallus gallus
 symbol: NPPC
 title: NPPC

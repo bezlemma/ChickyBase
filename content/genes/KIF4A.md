@@ -57,7 +57,7 @@ orthologs:
 - ensembl: ENSDARG00000005462
   entrez: '393796'
   mod: ZFIN:ZDB-GENE-040426-1545
-  phenotypes: ZDB-GENE-040426-1545
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -97,5 +97,5 @@ title: KIF4A
 | Human | [ENSG00000090889](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000090889) | [24137](https://www.ncbi.nlm.nih.gov/gene/24137) | [MIM:300521](https://omim.org/entry/300521) |  |
 | Mouse | [ENSMUSG00000034311](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034311) | [16571](https://www.ncbi.nlm.nih.gov/gene/16571) | [MGI:108389](http://www.informatics.jax.org/marker/MGI:108389) |  |
 | Xenopus |  | [448410](https://www.ncbi.nlm.nih.gov/gene/448410), [394332](https://www.ncbi.nlm.nih.gov/gene/394332) | [5932309](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5932309) |  |
-| Zebrafish | [ENSDARG00000005462](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005462) | [393796](https://www.ncbi.nlm.nih.gov/gene/393796) | [ZFIN:ZDB-GENE-040426-1545](https://zfin.org/ZDB-GENE-040426-1545) | ZDB-GENE-040426-1545 |
+| Zebrafish | [ENSDARG00000005462](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005462) | [393796](https://www.ncbi.nlm.nih.gov/gene/393796) | [ZFIN:ZDB-GENE-040426-1545](https://zfin.org/ZDB-GENE-040426-1545) |  |
 

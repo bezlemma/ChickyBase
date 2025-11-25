@@ -3,14 +3,13 @@ aliases:
 - heat shock 70 kDa protein 4
 cgnc_id: '5498'
 external_ids:
-  '4': stage 4
   Comments: no specific expression detected; ambiguous
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000007273
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416339
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642094
-gene_id: '456764'
+gene_id: '416339'
 gene_type: protein-coding
 images:
 - caption: HSPA4 expression
@@ -21,14 +20,9 @@ images:
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/E05.65.4.jpg
 name: heat shock protein family A (Hsp70) member 4
-ncbi_id: '456764'
+ncbi_id: '416339'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000170606
   entrez: '3308'
   mod: MIM:601113
   phenotypes: ''
@@ -38,23 +32,24 @@ orthologs:
   mod: MGI:1342292
   phenotypes: All phenotypic alleles (5):Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 394863,398863
-  mod: '952768'
+- ensembl: ENSXETG00000027138
+  entrez: '394863'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000004754,ENSDARG00000018989
-  entrez: 335865,334086
-  mod: ZFIN:ZDB-GENE-040426-2832,ZFIN:ZDB-GENE-030131-6018
-  phenotypes: ZDB-GENE-040426-2832,ZDB-GENE-030131-6018
+- ensembl: ENSDARG00000004754
+  entrez: '335865'
+  mod: ZFIN:ZDB-GENE-040426-2832
+  phenotypes: positive regulation of MHC class I biosynthetic process, positive regulation
+    of NK T cell activation, protein folding, response to unfolded protein
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456764
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416339
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456764
+  url: https://www.ncbi.nlm.nih.gov/gene/416339
 species: Gallus gallus
 symbol: HSPA4
 title: HSPA4
@@ -78,9 +73,8 @@ title: HSPA4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [3308](https://www.ncbi.nlm.nih.gov/gene/3308) | [MIM:601113](https://omim.org/entry/601113) |  |
+| Human | [ENSG00000170606](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170606) | [3308](https://www.ncbi.nlm.nih.gov/gene/3308) | [MIM:601113](https://omim.org/entry/601113) |  |
 | Mouse | [ENSMUSG00000020361](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020361) | [15525](https://www.ncbi.nlm.nih.gov/gene/15525) | [MGI:1342292](http://www.informatics.jax.org/marker/MGI:1342292) | All phenotypic alleles (5):Targeted, other(5) |
-| Xenopus |  | [394863](https://www.ncbi.nlm.nih.gov/gene/394863), [398863](https://www.ncbi.nlm.nih.gov/gene/398863) | [952768](http://www.xenbase.org/gene/showgene.do?method=display&geneId=952768) |  |
-| Zebrafish | [ENSDARG00000004754](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004754), [ENSDARG00000018989](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018989) | [335865](https://www.ncbi.nlm.nih.gov/gene/335865), [334086](https://www.ncbi.nlm.nih.gov/gene/334086) | [ZFIN:ZDB-GENE-040426-2832](https://zfin.org/ZDB-GENE-040426-2832), [ZFIN:ZDB-GENE-030131-6018](https://zfin.org/ZDB-GENE-030131-6018) | ZDB-GENE-040426-2832,ZDB-GENE-030131-6018 |
+| Xenopus | [ENSXETG00000027138](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000027138) | [394863](https://www.ncbi.nlm.nih.gov/gene/394863) |  |  |
+| Zebrafish | [ENSDARG00000004754](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004754) | [335865](https://www.ncbi.nlm.nih.gov/gene/335865) | [ZFIN:ZDB-GENE-040426-2832](https://zfin.org/ZDB-GENE-040426-2832) | positive regulation of MHC class I biosynthetic process, positive regulation of NK T cell activation, protein folding, response to unfolded protein |
 

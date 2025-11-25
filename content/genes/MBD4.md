@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395428
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204693
-gene_id: '467867'
+gene_id: '395428'
 gene_type: protein-coding
 images:
 - caption: MBD4 expression
@@ -25,40 +25,20 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhu.2000.Fig2.A-C.jpg
 name: methyl-CpG binding domain 4, DNA glycosylase
-ncbi_id: '467867'
+ncbi_id: '395428'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000110298
+  entrez: '101887128'
+  mod: ZFIN:ZDB-GENE-040213-1
+  phenotypes: DNA damage response, DNA repair
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467867
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395428
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467867
+  url: https://www.ncbi.nlm.nih.gov/gene/395428
 species: Gallus gallus
 symbol: MBD4
 title: MBD4
@@ -82,9 +62,5 @@ title: MBD4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Zebrafish | [ENSDARG00000110298](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110298) | [101887128](https://www.ncbi.nlm.nih.gov/gene/101887128) | [ZFIN:ZDB-GENE-040213-1](https://zfin.org/ZDB-GENE-040213-1) | DNA damage response, DNA repair |
 

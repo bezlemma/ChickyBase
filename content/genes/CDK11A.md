@@ -94,7 +94,7 @@ orthologs:
 - ensembl: ''
   entrez: '494103'
   mod: ZFIN:ZDB-GENE-041212-74
-  phenotypes: ZDB-GENE-041212-74
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGATGGAGGGGTCAATAGGAAGGG-3'
 sources:
@@ -132,5 +132,5 @@ title: CDK11A
 | Human | [ENSG00000248333](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000248333), [ENSG00000008128](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000008128) | [984](https://www.ncbi.nlm.nih.gov/gene/984), [728642](https://www.ncbi.nlm.nih.gov/gene/728642) | [MIM:176873](https://omim.org/entry/176873), [MIM:116951](https://omim.org/entry/116951) |  |
 | Mouse | [ENSMUSG00000029062](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029062) | [12537](https://www.ncbi.nlm.nih.gov/gene/12537) | [MGI:88353](http://www.informatics.jax.org/marker/MGI:88353) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1) |
 | Xenopus |  | [549737](https://www.ncbi.nlm.nih.gov/gene/549737), [446531](https://www.ncbi.nlm.nih.gov/gene/446531) | [1006891](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1006891) |  |
-| Zebrafish |  | [494103](https://www.ncbi.nlm.nih.gov/gene/494103) | [ZFIN:ZDB-GENE-041212-74](https://zfin.org/ZDB-GENE-041212-74) | ZDB-GENE-041212-74 |
+| Zebrafish |  | [494103](https://www.ncbi.nlm.nih.gov/gene/494103) | [ZFIN:ZDB-GENE-041212-74](https://zfin.org/ZDB-GENE-041212-74) |  |
 

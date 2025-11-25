@@ -3,7 +3,6 @@ aliases:
 - homeobox protein Hox-B9
 cgnc_id: '870'
 external_ids:
-  '31': stage 31stage 31
   Citation: 'Sophie Bel-Vialar, Nobue Itasaki, Robb Krumlauf. Initiating Hox gene
     expression: in the early chick neural tube differential sensitivity to FGF and
     RA signaling subdivides the HoxB genes in two distinct groups. Development 2002
@@ -17,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771865
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001233690
-gene_id: '452386'
+gene_id: '107055286'
 gene_type: protein-coding
 images:
 - caption: HOXB9 expression
@@ -254,7 +253,7 @@ images:
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Bel-Vialar.2002-Hoxb9-fig1J.jpg
 name: homeobox B9
-ncbi_id: '452386'
+ncbi_id: '107055286'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -279,12 +278,12 @@ orthologs:
 - ensembl: ENSDARG00000056023
   entrez: '30344'
   mod: ZFIN:ZDB-GENE-990415-109
-  phenotypes: ZDB-GENE-990415-109
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452386
+  url: https://www.ncbi.nlm.nih.gov/gene/107055286
 species: Gallus gallus
 symbol: HOXB9
 title: HOXB9
@@ -313,5 +312,5 @@ title: HOXB9
 | Human | [ENSG00000170689](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170689) | [3219](https://www.ncbi.nlm.nih.gov/gene/3219) | [MIM:142964](https://omim.org/entry/142964) |  |
 | Mouse | [ENSMUSG00000020875](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020875) | [15417](https://www.ncbi.nlm.nih.gov/gene/15417) | [MGI:96190](http://www.informatics.jax.org/marker/MGI:96190) | All phenotypic alleles (2):Targeted, knock-out(2) |
 | Xenopus |  | [394474](https://www.ncbi.nlm.nih.gov/gene/394474), [398337](https://www.ncbi.nlm.nih.gov/gene/398337) | [963093](http://www.xenbase.org/gene/showgene.do?method=display&geneId=963093) |  |
-| Zebrafish | [ENSDARG00000056023](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056023) | [30344](https://www.ncbi.nlm.nih.gov/gene/30344) | [ZFIN:ZDB-GENE-990415-109](https://zfin.org/ZDB-GENE-990415-109) | ZDB-GENE-990415-109 |
+| Zebrafish | [ENSDARG00000056023](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056023) | [30344](https://www.ncbi.nlm.nih.gov/gene/30344) | [ZFIN:ZDB-GENE-990415-109](https://zfin.org/ZDB-GENE-990415-109) |  |
 

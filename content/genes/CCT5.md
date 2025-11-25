@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420930
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012563
 forward_primer: 5'-GTTCTGGCTGGAGCATTATTGG-3'
-gene_id: '454012'
+gene_id: '420930'
 gene_type: protein-coding
 images:
 - caption: CCT5 expression
@@ -134,13 +134,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R589.CCT5.S26AA001.jpg
 name: chaperonin containing TCP1 subunit 5
-ncbi_id: '454012'
+ncbi_id: '420930'
 orthologs:
-- ensembl: ''
-  entrez: '36308'
-  mod: FBgn0010621
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000150753
   entrez: '22948'
   mod: MIM:610150
@@ -151,24 +146,25 @@ orthologs:
   mod: MGI:107185
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 394966,380145
-  mod: '980274'
+- ensembl: ENSXETG00000013995
+  entrez: '394966'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000045399
   entrez: '322258'
   mod: ZFIN:ZDB-GENE-030131-977
-  phenotypes: ZDB-GENE-030131-977
+  phenotypes: protein folding, retina layer formation, skeletal muscle thin filament
+    assembly
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGAGCATTCTGTCCTTCGTTGTGC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454012
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420930
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454012
+  url: https://www.ncbi.nlm.nih.gov/gene/420930
 species: Gallus gallus
 symbol: CCT5
 template_length: '785'
@@ -193,9 +189,8 @@ title: CCT5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36308](https://www.ncbi.nlm.nih.gov/gene/36308) | FBgn0010621 |  |
 | Human | [ENSG00000150753](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000150753) | [22948](https://www.ncbi.nlm.nih.gov/gene/22948) | [MIM:610150](https://omim.org/entry/610150) | MIM:256840 |
 | Mouse | [ENSMUSG00000022234](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022234) | [12465](https://www.ncbi.nlm.nih.gov/gene/12465) | [MGI:107185](http://www.informatics.jax.org/marker/MGI:107185) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [394966](https://www.ncbi.nlm.nih.gov/gene/394966), [380145](https://www.ncbi.nlm.nih.gov/gene/380145) | [980274](http://www.xenbase.org/gene/showgene.do?method=display&geneId=980274) |  |
-| Zebrafish | [ENSDARG00000045399](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045399) | [322258](https://www.ncbi.nlm.nih.gov/gene/322258) | [ZFIN:ZDB-GENE-030131-977](https://zfin.org/ZDB-GENE-030131-977) | ZDB-GENE-030131-977 |
+| Xenopus | [ENSXETG00000013995](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013995) | [394966](https://www.ncbi.nlm.nih.gov/gene/394966) |  |  |
+| Zebrafish | [ENSDARG00000045399](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045399) | [322258](https://www.ncbi.nlm.nih.gov/gene/322258) | [ZFIN:ZDB-GENE-030131-977](https://zfin.org/ZDB-GENE-030131-977) | protein folding, retina layer formation, skeletal muscle thin filament assembly |
 

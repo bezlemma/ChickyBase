@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:770960
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234277
 forward_primer: 5'-AGTTTGTGACACTGCTGGGACC-3'
-gene_id: '462981'
+gene_id: '770960'
 gene_type: protein-coding
 images:
 - caption: CABP7 expression
@@ -103,41 +103,36 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CABP7.S26.001.jpg
 name: calcium binding protein 7
-ncbi_id: '462981'
+ncbi_id: '770960'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000100314
   entrez: '164633'
-  mod: ''
+  mod: MIM:618759
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000009075
   entrez: '192650'
   mod: MGI:2183437
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000016422
   entrez: '100497989'
-  mod: '951866'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000060846
   entrez: '556082'
-  mod: ZFIN:ZDB-GENE-060526-366,ZFIN:ZDB-GENE-060526-366,ZFIN:ZDB-GENE-101112-4
-  phenotypes: ZDB-GENE-060526-366,ZDB-GENE-060526-366,ZDB-GENE-101112-4
+  mod: ZFIN:ZDB-GENE-060526-366
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGGCGAGGGTTTAGTTTGGTG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462981
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=770960
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462981
+  url: https://www.ncbi.nlm.nih.gov/gene/770960
 species: Gallus gallus
 symbol: CABP7
 template_length: '560'
@@ -160,9 +155,8 @@ title: CABP7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000100314](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100314) | [164633](https://www.ncbi.nlm.nih.gov/gene/164633) |  |  |
-| Mouse |  | [192650](https://www.ncbi.nlm.nih.gov/gene/192650) | [MGI:2183437](http://www.informatics.jax.org/marker/MGI:2183437) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100497989](https://www.ncbi.nlm.nih.gov/gene/100497989) | [951866](http://www.xenbase.org/gene/showgene.do?method=display&geneId=951866) |  |
-| Zebrafish |  | [556082](https://www.ncbi.nlm.nih.gov/gene/556082) | [ZFIN:ZDB-GENE-060526-366](https://zfin.org/ZDB-GENE-060526-366), [ZFIN:ZDB-GENE-060526-366](https://zfin.org/ZDB-GENE-060526-366), [ZFIN:ZDB-GENE-101112-4](https://zfin.org/ZDB-GENE-101112-4) | ZDB-GENE-060526-366,ZDB-GENE-060526-366,ZDB-GENE-101112-4 |
+| Human | [ENSG00000100314](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100314) | [164633](https://www.ncbi.nlm.nih.gov/gene/164633) | [MIM:618759](https://omim.org/entry/618759) |  |
+| Mouse | [ENSMUSG00000009075](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000009075) | [192650](https://www.ncbi.nlm.nih.gov/gene/192650) | [MGI:2183437](http://www.informatics.jax.org/marker/MGI:2183437) | All phenotypic alleles (2):Targeted, other(2) |
+| Xenopus | [ENSXETG00000016422](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016422) | [100497989](https://www.ncbi.nlm.nih.gov/gene/100497989) |  |  |
+| Zebrafish | [ENSDARG00000060846](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060846) | [556082](https://www.ncbi.nlm.nih.gov/gene/556082) | [ZFIN:ZDB-GENE-060526-366](https://zfin.org/ZDB-GENE-060526-366) |  |
 

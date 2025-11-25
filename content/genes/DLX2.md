@@ -11,7 +11,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/107053847
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
-gene_id: '509469'
+gene_id: '107053847'
 gene_type: unknown
 images:
 - caption: DLX2 expression
@@ -57,7 +57,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.6_ALLIMAGES_2.jpg
 name: distal-less homeobox 2
-ncbi_id: '509469'
+ncbi_id: '107053847'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -87,7 +87,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/509469
+  url: https://www.ncbi.nlm.nih.gov/gene/107053847
 species: Gallus gallus
 symbol: DLX2
 title: DLX2

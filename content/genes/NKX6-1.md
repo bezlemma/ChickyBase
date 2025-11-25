@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395752
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641196
-gene_id: '450362'
+gene_id: '395752'
 gene_type: protein-coding
 images:
 - caption: NKX6-1 expression
@@ -184,7 +184,7 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX6.1.GarciaCampmany.2007.f2.nkx6.1.png
 name: NK6 homeobox 1
-ncbi_id: '450362'
+ncbi_id: '395752'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -214,7 +214,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450362
+  url: https://www.ncbi.nlm.nih.gov/gene/395752
 species: Gallus gallus
 symbol: NKX6-1
 title: NKX6-1

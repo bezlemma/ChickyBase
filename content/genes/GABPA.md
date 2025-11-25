@@ -4,7 +4,6 @@ aliases:
 - human nuclear respiratory factor-2 subunit alpha
 cgnc_id: '11756'
 external_ids:
-  '25': stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0004510
   Comments: No specific expression detected at stages 3-10.
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/43236
@@ -12,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418478
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001007858
-gene_id: '456042'
+gene_id: '418478'
 gene_type: protein-coding
 images:
 - caption: GABPA expression
@@ -181,13 +180,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R441.GABPA.S25B.001.jpg
 name: GA binding protein transcription factor subunit alpha
-ncbi_id: '456042'
+ncbi_id: '418478'
 orthologs:
-- ensembl: ''
-  entrez: '43236'
-  mod: FBgn0004510
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000154727
   entrez: '2551'
   mod: MIM:600609
@@ -199,23 +193,24 @@ orthologs:
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(3)
     Gene trapped(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100126064,446729
-  mod: '987249'
+- ensembl: ENSXETG00000013611
+  entrez: '100126064'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000069289
+- ensembl: ENSDARG00000110923
   entrez: '58110'
   mod: ZFIN:ZDB-GENE-011010-2
-  phenotypes: ZDB-GENE-011010-2
+  phenotypes: cell differentiation, regulation of DNA-templated transcription, regulation
+    of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456042
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418478
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456042
+  url: https://www.ncbi.nlm.nih.gov/gene/418478
 species: Gallus gallus
 symbol: GABPA
 title: GABPA
@@ -240,9 +235,8 @@ title: GABPA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43236](https://www.ncbi.nlm.nih.gov/gene/43236) | FBgn0004510 |  |
 | Human | [ENSG00000154727](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000154727) | [2551](https://www.ncbi.nlm.nih.gov/gene/2551) | [MIM:600609](https://omim.org/entry/600609) |  |
 | Mouse | [ENSMUSG00000008976](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000008976) | [14390](https://www.ncbi.nlm.nih.gov/gene/14390) | [MGI:95610](http://www.informatics.jax.org/marker/MGI:95610) | All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(3) Gene trapped(2) |
-| Xenopus |  | [100126064](https://www.ncbi.nlm.nih.gov/gene/100126064), [446729](https://www.ncbi.nlm.nih.gov/gene/446729) | [987249](http://www.xenbase.org/gene/showgene.do?method=display&geneId=987249) |  |
-| Zebrafish | [ENSDARG00000069289](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069289) | [58110](https://www.ncbi.nlm.nih.gov/gene/58110) | [ZFIN:ZDB-GENE-011010-2](https://zfin.org/ZDB-GENE-011010-2) | ZDB-GENE-011010-2 |
+| Xenopus | [ENSXETG00000013611](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013611) | [100126064](https://www.ncbi.nlm.nih.gov/gene/100126064) |  |  |
+| Zebrafish | [ENSDARG00000110923](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110923) | [58110](https://www.ncbi.nlm.nih.gov/gene/58110) | [ZFIN:ZDB-GENE-011010-2](https://zfin.org/ZDB-GENE-011010-2) | cell differentiation, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

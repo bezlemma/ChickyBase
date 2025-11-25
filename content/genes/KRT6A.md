@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:408041
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001313
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGCAGTATGAGGACATCGCCAAC
-gene_id: '452511'
+gene_id: '408041'
 gene_type: protein-coding
 images:
 - caption: KRT6A expression
@@ -104,13 +104,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R213.KRT6A.S24.001.jpg
 name: keratin 6A
-ncbi_id: '452511'
+ncbi_id: '408041'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000170454
   entrez: '9119'
   mod: MIM:609025
@@ -121,24 +116,14 @@ orthologs:
   mod: MGI:1923500
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: '100491159'
-  mod: '6035590'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCACAGGACATCGGGTTTAGGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452511
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=408041
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452511
+  url: https://www.ncbi.nlm.nih.gov/gene/408041
 species: Gallus gallus
 symbol: KRT6A
 template_length: '785'
@@ -161,9 +146,6 @@ title: KRT6A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000170454](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170454) | [9119](https://www.ncbi.nlm.nih.gov/gene/9119) | [MIM:609025](https://omim.org/entry/609025) | MIM:612318 |
 | Mouse | [ENSMUSG00000022986](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022986) | [109052](https://www.ncbi.nlm.nih.gov/gene/109052) | [MGI:1923500](http://www.informatics.jax.org/marker/MGI:1923500) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100491159](https://www.ncbi.nlm.nih.gov/gene/100491159) | [6035590](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6035590) |  |
-| Zebrafish |  |  |  |  |
 

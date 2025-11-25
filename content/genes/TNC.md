@@ -20,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396440
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205456
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/TNC
-gene_id: '461013'
+gene_id: '396440'
 gene_type: protein-coding
 images:
 - caption: TNC expression
@@ -491,13 +491,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TNC.Anderson.2019.Supplementary
     figure 4G.jpg
 name: tenascin C
-ncbi_id: '461013'
+ncbi_id: '396440'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000041982
   entrez: '3371'
   mod: MIM:187380
@@ -508,20 +503,20 @@ orthologs:
   mod: MGI:101922
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100494697,398332
-  mod: '1002815'
+- ensembl: ENSXETG00000023938
+  entrez: '100494697'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000021948
-  entrez: '30037'
-  mod: ZFIN:ZDB-GENE-980526-104
-  phenotypes: ZDB-GENE-980526-104
+- ensembl: ENSDARG00000078362
+  entrez: '100149028'
+  mod: ZFIN:ZDB-GENE-130530-849
+  phenotypes: neuron projection development, regulation of cell adhesion
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461013
+  url: https://www.ncbi.nlm.nih.gov/gene/396440
 species: Gallus gallus
 symbol: TNC
 title: TNC
@@ -550,9 +545,8 @@ title: TNC
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000041982](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000041982) | [3371](https://www.ncbi.nlm.nih.gov/gene/3371) | [MIM:187380](https://omim.org/entry/187380) |  |
 | Mouse | [ENSMUSG00000028364](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028364) | [21923](https://www.ncbi.nlm.nih.gov/gene/21923) | [MGI:101922](http://www.informatics.jax.org/marker/MGI:101922) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100494697](https://www.ncbi.nlm.nih.gov/gene/100494697), [398332](https://www.ncbi.nlm.nih.gov/gene/398332) | [1002815](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1002815) |  |
-| Zebrafish | [ENSDARG00000021948](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021948) | [30037](https://www.ncbi.nlm.nih.gov/gene/30037) | [ZFIN:ZDB-GENE-980526-104](https://zfin.org/ZDB-GENE-980526-104) | ZDB-GENE-980526-104 |
+| Xenopus | [ENSXETG00000023938](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023938) | [100494697](https://www.ncbi.nlm.nih.gov/gene/100494697) |  |  |
+| Zebrafish | [ENSDARG00000078362](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078362) | [100149028](https://www.ncbi.nlm.nih.gov/gene/100149028) | [ZFIN:ZDB-GENE-130530-849](https://zfin.org/ZDB-GENE-130530-849) | neuron projection development, regulation of cell adhesion |
 

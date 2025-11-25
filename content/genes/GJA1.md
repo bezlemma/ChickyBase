@@ -4,7 +4,6 @@ aliases:
 - connexin 43
 cgnc_id: '11038'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007267
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005922
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Singh+2016+cartilage+Bandyopadhyay
@@ -19,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0022857
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204586
 forward_primer: 5’-AGAGCTCAAGGTGGTCCAGA-3’
-gene_id: '461593'
+gene_id: '395278'
 gene_type: protein-coding
 images:
 - caption: GJA1 expression
@@ -326,13 +325,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gja1.Singh.2016.Fig2.jpg
 name: gap junction protein alpha 1
-ncbi_id: '461593'
+ncbi_id: '395278'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000152661
   entrez: '2697'
   mod: MIM:121014
@@ -344,24 +338,25 @@ orthologs:
   phenotypes: All phenotypic alleles (21):Chemically induced(2) Targeted, knock-out(3)
     Targeted, other(14) Gene trapped(1) Transgenic(1)
   species: Mouse
-- ensembl: ''
-  entrez: 394450,373664
-  mod: '876601'
+- ensembl: ENSXETG00000044635
+  entrez: '394450'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000041799
-  entrez: 30236,100034754
-  mod: ZFIN:ZDB-GENE-991105-4,ZFIN:ZDB-GENE-050616-10
-  phenotypes: ZDB-GENE-991105-4,ZDB-GENE-050616-10
+  entrez: '30236'
+  mod: ZFIN:ZDB-GENE-991105-4
+  phenotypes: Kupffer's vesicle development, bone growth, bone morphogenesis, caudal
+    fin morphogenesis, cell communication
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAGAGTTGGAGATGGTGCTGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461593
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395278
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461593
+  url: https://www.ncbi.nlm.nih.gov/gene/395278
 species: Gallus gallus
 symbol: GJA1
 template_length: '655'
@@ -391,9 +386,8 @@ title: GJA1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000152661](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000152661) | [2697](https://www.ncbi.nlm.nih.gov/gene/2697) | [MIM:121014](https://omim.org/entry/121014) | MIM:600309 |
 | Mouse | [ENSMUSG00000050953](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000050953) | [14609](https://www.ncbi.nlm.nih.gov/gene/14609) | [MGI:95713](http://www.informatics.jax.org/marker/MGI:95713) | All phenotypic alleles (21):Chemically induced(2) Targeted, knock-out(3) Targeted, other(14) Gene trapped(1) Transgenic(1) |
-| Xenopus |  | [394450](https://www.ncbi.nlm.nih.gov/gene/394450), [373664](https://www.ncbi.nlm.nih.gov/gene/373664) | [876601](http://www.xenbase.org/gene/showgene.do?method=display&geneId=876601) |  |
-| Zebrafish | [ENSDARG00000041799](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041799) | [30236](https://www.ncbi.nlm.nih.gov/gene/30236), [100034754](https://www.ncbi.nlm.nih.gov/gene/100034754) | [ZFIN:ZDB-GENE-991105-4](https://zfin.org/ZDB-GENE-991105-4), [ZFIN:ZDB-GENE-050616-10](https://zfin.org/ZDB-GENE-050616-10) | ZDB-GENE-991105-4,ZDB-GENE-050616-10 |
+| Xenopus | [ENSXETG00000044635](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044635) | [394450](https://www.ncbi.nlm.nih.gov/gene/394450) |  |  |
+| Zebrafish | [ENSDARG00000041799](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041799) | [30236](https://www.ncbi.nlm.nih.gov/gene/30236) | [ZFIN:ZDB-GENE-991105-4](https://zfin.org/ZDB-GENE-991105-4) | Kupffer's vesicle development, bone growth, bone morphogenesis, caudal fin morphogenesis, cell communication |
 

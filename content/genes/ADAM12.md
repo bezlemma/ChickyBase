@@ -5,7 +5,6 @@ aliases:
 - disintegrin and metalloprotease 12
 cgnc_id: '9663'
 external_ids:
-  '4': stage 4stage 4
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0265140
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Lin+redies+adam+five
   Comments: 'The probe for ADAM12 was amplified by PCR using the following primers:
@@ -18,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:425843
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001142850
 forward_primer: GCAAAGCATCTACTGACAAAGGGG
-gene_id: '450957'
+gene_id: '425843'
 gene_type: protein-coding
 images:
 - caption: ADAM12 expression
@@ -718,13 +717,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Lin.2008.f5.adam12.png
 name: ADAM metallopeptidase domain 12
-ncbi_id: '450957'
+ncbi_id: '425843'
 orthologs:
-- ensembl: ''
-  entrez: '3772109'
-  mod: FBgn0265140
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000148848
   entrez: '8038'
   mod: MIM:602714
@@ -735,24 +729,24 @@ orthologs:
   mod: MGI:105378
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000022538
   entrez: '677729'
-  mod: '982138'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000079068
   entrez: '563275'
   mod: ZFIN:ZDB-GENE-070809-1
-  phenotypes: ZDB-GENE-070809-1
+  phenotypes: proteolysis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTGGTTCCTGACAGCACGAGAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450957
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=425843
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450957
+  url: https://www.ncbi.nlm.nih.gov/gene/425843
 species: Gallus gallus
 symbol: ADAM12
 template_length: '805'
@@ -781,9 +775,8 @@ title: ADAM12
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [3772109](https://www.ncbi.nlm.nih.gov/gene/3772109) | FBgn0265140 |  |
 | Human | [ENSG00000148848](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148848) | [8038](https://www.ncbi.nlm.nih.gov/gene/8038) | [MIM:602714](https://omim.org/entry/602714) |  |
 | Mouse | [ENSMUSG00000054555](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000054555) | [11489](https://www.ncbi.nlm.nih.gov/gene/11489) | [MGI:105378](http://www.informatics.jax.org/marker/MGI:105378) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [677729](https://www.ncbi.nlm.nih.gov/gene/677729) | [982138](http://www.xenbase.org/gene/showgene.do?method=display&geneId=982138) |  |
-| Zebrafish | [ENSDARG00000079068](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079068) | [563275](https://www.ncbi.nlm.nih.gov/gene/563275) | [ZFIN:ZDB-GENE-070809-1](https://zfin.org/ZDB-GENE-070809-1) | ZDB-GENE-070809-1 |
+| Xenopus | [ENSXETG00000022538](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022538) | [677729](https://www.ncbi.nlm.nih.gov/gene/677729) |  |  |
+| Zebrafish | [ENSDARG00000079068](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079068) | [563275](https://www.ncbi.nlm.nih.gov/gene/563275) | [ZFIN:ZDB-GENE-070809-1](https://zfin.org/ZDB-GENE-070809-1) | proteolysis |
 

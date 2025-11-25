@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420731
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418830
 forward_primer: 5’-TGAGTGGAAATGTCCTGGGC-3’
-gene_id: '455767'
+gene_id: '420731'
 gene_type: protein-coding
 images:
 - caption: EPDR1 expression
@@ -51,16 +51,11 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R656.EPDR1.S22.001.jpg
 name: ependymin related 1
-ncbi_id: '455767'
+ncbi_id: '420731'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000086289
   entrez: '54749'
-  mod: ''
+  mod: MIM:619734
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000002808
@@ -68,24 +63,24 @@ orthologs:
   mod: MGI:2145369
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000000351
   entrez: '100492131'
-  mod: '946604'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000045420
   entrez: '436689'
   mod: ZFIN:ZDB-GENE-040718-113
-  phenotypes: ZDB-GENE-040718-113
+  phenotypes: cell-matrix adhesion
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTCAGTGCCTTCCAACCAGAC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455767
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420731
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455767
+  url: https://www.ncbi.nlm.nih.gov/gene/420731
 species: Gallus gallus
 symbol: EPDR1
 template_length: '711'
@@ -108,9 +103,8 @@ title: EPDR1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000086289](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000086289) | [54749](https://www.ncbi.nlm.nih.gov/gene/54749) |  |  |
+| Human | [ENSG00000086289](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000086289) | [54749](https://www.ncbi.nlm.nih.gov/gene/54749) | [MIM:619734](https://omim.org/entry/619734) |  |
 | Mouse | [ENSMUSG00000002808](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000002808) | [105298](https://www.ncbi.nlm.nih.gov/gene/105298) | [MGI:2145369](http://www.informatics.jax.org/marker/MGI:2145369) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100492131](https://www.ncbi.nlm.nih.gov/gene/100492131) | [946604](http://www.xenbase.org/gene/showgene.do?method=display&geneId=946604) |  |
-| Zebrafish | [ENSDARG00000045420](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045420) | [436689](https://www.ncbi.nlm.nih.gov/gene/436689) | [ZFIN:ZDB-GENE-040718-113](https://zfin.org/ZDB-GENE-040718-113) | ZDB-GENE-040718-113 |
+| Xenopus | [ENSXETG00000000351](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000351) | [100492131](https://www.ncbi.nlm.nih.gov/gene/100492131) |  |  |
+| Zebrafish | [ENSDARG00000045420](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045420) | [436689](https://www.ncbi.nlm.nih.gov/gene/436689) | [ZFIN:ZDB-GENE-040718-113](https://zfin.org/ZDB-GENE-040718-113) | cell-matrix adhesion |
 

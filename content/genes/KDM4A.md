@@ -5,7 +5,6 @@ aliases:
 - lysine (K)-specific demethylase 4A
 cgnc_id: '7658'
 external_ids:
-  '7': stage 7
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0033233
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Strobl-Mazzulla+2010+Bronner-Fraser+histone
   Comments: The complete cDNA template sequence was obtained from the information
@@ -19,7 +18,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422410
   X-XIV: stage XIII
 forward_primer: 5'-TGTGGAGAATGAGAGCGGC-3'
-gene_id: '451515'
+gene_id: '424571'
 gene_type: protein-coding
 images:
 - caption: KDM4A expression
@@ -205,13 +204,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KDM4A.Travers.2023-Fig7-2-I.jpg
 name: lysine demethylase 4A
-ncbi_id: '451515'
+ncbi_id: '424571'
 orthologs:
-- ensembl: ''
-  entrez: '35744'
-  mod: FBgn0033233
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000066135
   entrez: '9682'
   mod: MIM:609764
@@ -222,24 +216,24 @@ orthologs:
   mod: MGI:2446210
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000003483
   entrez: '100135350'
-  mod: '1010380'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000019103
-  entrez: '334347'
-  mod: ZFIN:ZDB-GENE-030131-6279,ZFIN:ZDB-GENE-110609-4
-  phenotypes: ZDB-GENE-030131-6279,ZDB-GENE-110609-4
+- ensembl: ENSDARG00000018782
+  entrez: '100003413'
+  mod: ZFIN:ZDB-GENE-110609-4
+  phenotypes: chromatin organization, chromatin remodeling, regulation of gene expression
   species: Zebrafish
 reverse_primer: 5'-TAGCCATGCCCACACGATC3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451515
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424571
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451515
+  url: https://www.ncbi.nlm.nih.gov/gene/424571
 species: Gallus gallus
 symbol: KDM4A
 template_length: '899'
@@ -268,9 +262,8 @@ title: KDM4A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35744](https://www.ncbi.nlm.nih.gov/gene/35744) | FBgn0033233 |  |
 | Human | [ENSG00000066135](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000066135) | [9682](https://www.ncbi.nlm.nih.gov/gene/9682) | [MIM:609764](https://omim.org/entry/609764) |  |
 | Mouse | [ENSMUSG00000033326](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000033326) | [230674](https://www.ncbi.nlm.nih.gov/gene/230674) | [MGI:2446210](http://www.informatics.jax.org/marker/MGI:2446210) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100135350](https://www.ncbi.nlm.nih.gov/gene/100135350) | [1010380](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1010380) |  |
-| Zebrafish | [ENSDARG00000019103](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019103) | [334347](https://www.ncbi.nlm.nih.gov/gene/334347) | [ZFIN:ZDB-GENE-030131-6279](https://zfin.org/ZDB-GENE-030131-6279), [ZFIN:ZDB-GENE-110609-4](https://zfin.org/ZDB-GENE-110609-4) | ZDB-GENE-030131-6279,ZDB-GENE-110609-4 |
+| Xenopus | [ENSXETG00000003483](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003483) | [100135350](https://www.ncbi.nlm.nih.gov/gene/100135350) |  |  |
+| Zebrafish | [ENSDARG00000018782](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018782) | [100003413](https://www.ncbi.nlm.nih.gov/gene/100003413) | [ZFIN:ZDB-GENE-110609-4](https://zfin.org/ZDB-GENE-110609-4) | chromatin organization, chromatin remodeling, regulation of gene expression |
 

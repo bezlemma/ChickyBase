@@ -17,7 +17,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205164
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAGGCGGACAAGAAAGAACTGTG
-gene_id: '459548'
+gene_id: '396073'
 gene_type: protein-coding
 images:
 - caption: NKX2-5 expression
@@ -442,13 +442,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX2.5.Anderson.2019.Fig3.jpg
 name: NK2 homeobox 5
-ncbi_id: '459548'
+ncbi_id: '396073'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000183072
   entrez: '1482'
   mod: MIM:600584
@@ -459,24 +454,25 @@ orthologs:
   mod: MGI:97350
   phenotypes: All phenotypic alleles (11):Targeted, knock-out(1) Targeted, other(10)
   species: Mouse
-- ensembl: ''
-  entrez: 100144646,379882,100337581
-  mod: '487965'
+- ensembl: ENSXETG00000012729
+  entrez: '100144646'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000018004
+- ensembl: ENSDARG00000116714
   entrez: '30696'
   mod: ZFIN:ZDB-GENE-980526-321
-  phenotypes: ZDB-GENE-980526-321
+  phenotypes: artery development, cardiac chamber development, cardiac muscle cell
+    differentiation, cardiac muscle cell proliferation, cardiac ventricle development
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAAGGTGGGGAGAGGAGAATGAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459548
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396073
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459548
+  url: https://www.ncbi.nlm.nih.gov/gene/396073
 species: Gallus gallus
 symbol: NKX2-5
 template_length: '764'
@@ -506,9 +502,8 @@ title: NKX2-5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000183072](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000183072) | [1482](https://www.ncbi.nlm.nih.gov/gene/1482) | [MIM:600584](https://omim.org/entry/600584) | MIM:108900 |
 | Mouse | [ENSMUSG00000015579](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000015579) | [18091](https://www.ncbi.nlm.nih.gov/gene/18091) | [MGI:97350](http://www.informatics.jax.org/marker/MGI:97350) | All phenotypic alleles (11):Targeted, knock-out(1) Targeted, other(10) |
-| Xenopus |  | [100144646](https://www.ncbi.nlm.nih.gov/gene/100144646), [379882](https://www.ncbi.nlm.nih.gov/gene/379882), [100337581](https://www.ncbi.nlm.nih.gov/gene/100337581) | [487965](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487965) |  |
-| Zebrafish | [ENSDARG00000018004](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018004) | [30696](https://www.ncbi.nlm.nih.gov/gene/30696) | [ZFIN:ZDB-GENE-980526-321](https://zfin.org/ZDB-GENE-980526-321) | ZDB-GENE-980526-321 |
+| Xenopus | [ENSXETG00000012729](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012729) | [100144646](https://www.ncbi.nlm.nih.gov/gene/100144646) |  |  |
+| Zebrafish | [ENSDARG00000116714](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116714) | [30696](https://www.ncbi.nlm.nih.gov/gene/30696) | [ZFIN:ZDB-GENE-980526-321](https://zfin.org/ZDB-GENE-980526-321) | artery development, cardiac chamber development, cardiac muscle cell differentiation, cardiac muscle cell proliferation, cardiac ventricle development |
 

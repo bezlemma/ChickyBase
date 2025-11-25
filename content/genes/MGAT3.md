@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418013
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012693
-gene_id: '458035'
+gene_id: '418013'
 gene_type: protein-coding
 images:
 - caption: MGAT3 expression
@@ -81,13 +81,8 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MGAT3HH12- x25 ISH3.jpg
 name: mannosyl (beta-1,4-)-glycoprotein beta-1,4-N-acetylglucosaminyltransferase
-ncbi_id: '458035'
+ncbi_id: '418013'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000128268
   entrez: '4248'
   mod: MIM:604621
@@ -98,20 +93,20 @@ orthologs:
   mod: MGI:104532
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100492491,100381104
-  mod: '964869'
+- ensembl: ENSXETG00000016128
+  entrez: '100492491'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000038069
-  entrez: 570828,553676
-  mod: ZFIN:ZDB-GENE-050522-249,ZFIN:ZDB-GENE-130820-2
-  phenotypes: ZDB-GENE-050522-249,ZDB-GENE-130820-2
+- ensembl: ENSDARG00000036619
+  entrez: '570828'
+  mod: ZFIN:ZDB-GENE-130820-2
+  phenotypes: N-acetylglucosamine metabolic process, protein N-linked glycosylation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458035
+  url: https://www.ncbi.nlm.nih.gov/gene/418013
 species: Gallus gallus
 symbol: MGAT3
 title: MGAT3
@@ -137,9 +132,8 @@ title: MGAT3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000128268](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000128268) | [4248](https://www.ncbi.nlm.nih.gov/gene/4248) | [MIM:604621](https://omim.org/entry/604621) |  |
 | Mouse | [ENSMUSG00000042428](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042428) | [17309](https://www.ncbi.nlm.nih.gov/gene/17309) | [MGI:104532](http://www.informatics.jax.org/marker/MGI:104532) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100492491](https://www.ncbi.nlm.nih.gov/gene/100492491), [100381104](https://www.ncbi.nlm.nih.gov/gene/100381104) | [964869](http://www.xenbase.org/gene/showgene.do?method=display&geneId=964869) |  |
-| Zebrafish | [ENSDARG00000038069](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038069) | [570828](https://www.ncbi.nlm.nih.gov/gene/570828), [553676](https://www.ncbi.nlm.nih.gov/gene/553676) | [ZFIN:ZDB-GENE-050522-249](https://zfin.org/ZDB-GENE-050522-249), [ZFIN:ZDB-GENE-130820-2](https://zfin.org/ZDB-GENE-130820-2) | ZDB-GENE-050522-249,ZDB-GENE-130820-2 |
+| Xenopus | [ENSXETG00000016128](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016128) | [100492491](https://www.ncbi.nlm.nih.gov/gene/100492491) |  |  |
+| Zebrafish | [ENSDARG00000036619](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036619) | [570828](https://www.ncbi.nlm.nih.gov/gene/570828) | [ZFIN:ZDB-GENE-130820-2](https://zfin.org/ZDB-GENE-130820-2) | N-acetylglucosamine metabolic process, protein N-linked glycosylation |
 

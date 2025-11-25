@@ -22,7 +22,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395940
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004800
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001097614
-gene_id: '450500'
+gene_id: '395940'
 gene_type: protein-coding
 images:
 - caption: DIO1 expression
@@ -40,13 +40,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F5.dio1.png
 name: iodothyronine deiodinase 1
-ncbi_id: '450500'
+ncbi_id: '395940'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000211452
   entrez: '1733'
   mod: MIM:147892
@@ -57,20 +52,21 @@ orthologs:
   mod: MGI:94896
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100497874,733447
-  mod: '979946'
+- ensembl: ENSXETG00000046184
+  entrez: '100497874'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000042112
   entrez: '799937'
   mod: ZFIN:ZDB-GENE-030328-41
-  phenotypes: ZDB-GENE-030328-41
+  phenotypes: hormone biosynthetic process, regulation of neural retina development,
+    thyroid hormone metabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450500
+  url: https://www.ncbi.nlm.nih.gov/gene/395940
 species: Gallus gallus
 symbol: DIO1
 title: DIO1
@@ -99,9 +95,8 @@ title: DIO1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000211452](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000211452) | [1733](https://www.ncbi.nlm.nih.gov/gene/1733) | [MIM:147892](https://omim.org/entry/147892) |  |
 | Mouse | [ENSMUSG00000034785](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034785) | [13370](https://www.ncbi.nlm.nih.gov/gene/13370) | [MGI:94896](http://www.informatics.jax.org/marker/MGI:94896) | All phenotypic alleles (3):Targeted, knock-out(3) |
-| Xenopus |  | [100497874](https://www.ncbi.nlm.nih.gov/gene/100497874), [733447](https://www.ncbi.nlm.nih.gov/gene/733447) | [979946](http://www.xenbase.org/gene/showgene.do?method=display&geneId=979946) |  |
-| Zebrafish | [ENSDARG00000042112](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042112) | [799937](https://www.ncbi.nlm.nih.gov/gene/799937) | [ZFIN:ZDB-GENE-030328-41](https://zfin.org/ZDB-GENE-030328-41) | ZDB-GENE-030328-41 |
+| Xenopus | [ENSXETG00000046184](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000046184) | [100497874](https://www.ncbi.nlm.nih.gov/gene/100497874) |  |  |
+| Zebrafish | [ENSDARG00000042112](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042112) | [799937](https://www.ncbi.nlm.nih.gov/gene/799937) | [ZFIN:ZDB-GENE-030328-41](https://zfin.org/ZDB-GENE-030328-41) | hormone biosynthetic process, regulation of neural retina development, thyroid hormone metabolic process |
 

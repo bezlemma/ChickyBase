@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100858087
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641832
-gene_id: '472618'
+gene_id: '100858087'
 gene_type: protein-coding
 images:
 - caption: MESP2 expression
@@ -110,7 +110,7 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cMeso2.Buchberger.2002.Fig4.jpg
 name: mesoderm posterior bHLH transcription factor 2
-ncbi_id: '472618'
+ncbi_id: '100858087'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -140,7 +140,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/472618
+  url: https://www.ncbi.nlm.nih.gov/gene/100858087
 species: Gallus gallus
 symbol: MESP2
 title: MESP2

@@ -7,7 +7,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416049
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414388
 forward_primer: AGAAGAGGACCGAGGACATTCG
-gene_id: '457964'
+gene_id: '416049'
 gene_type: protein-coding
 images:
 - caption: CAMK1 expression
@@ -89,41 +89,37 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R567.CAMK1.S27A.001.jpg
 name: calcium/calmodulin dependent protein kinase I
-ncbi_id: '457964'
+ncbi_id: '416049'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000134072
+  entrez: '8536'
+  mod: MIM:604998
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000030272
+  entrez: '52163'
+  mod: MGI:1098535
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000023672
+  entrez: '549023'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000029474
+  entrez: '794026'
+  mod: ZFIN:ZDB-GENE-141014-1
+  phenotypes: phosphorylation, protein phosphorylation, regulation of protein localization,
+    regulation of synapse organization, signal transduction
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGAAAAGGGAGCAGATGAGGAGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457964
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416049
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457964
+  url: https://www.ncbi.nlm.nih.gov/gene/416049
 species: Gallus gallus
 symbol: CAMK1
 template_length: '1161'
@@ -146,9 +142,8 @@ title: CAMK1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000134072](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134072) | [8536](https://www.ncbi.nlm.nih.gov/gene/8536) | [MIM:604998](https://omim.org/entry/604998) |  |
+| Mouse | [ENSMUSG00000030272](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030272) | [52163](https://www.ncbi.nlm.nih.gov/gene/52163) | [MGI:1098535](http://www.informatics.jax.org/marker/MGI:1098535) |  |
+| Xenopus | [ENSXETG00000023672](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023672) | [549023](https://www.ncbi.nlm.nih.gov/gene/549023) |  |  |
+| Zebrafish | [ENSDARG00000029474](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029474) | [794026](https://www.ncbi.nlm.nih.gov/gene/794026) | [ZFIN:ZDB-GENE-141014-1](https://zfin.org/ZDB-GENE-141014-1) | phosphorylation, protein phosphorylation, regulation of protein localization, regulation of synapse organization, signal transduction |
 

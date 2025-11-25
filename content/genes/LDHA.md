@@ -20,7 +20,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396221
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004459
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205284
-gene_id: '462522'
+gene_id: '396221'
 gene_type: protein-coding
 images:
 - caption: LDHA expression
@@ -192,13 +192,8 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F2.ldha.png
 name: lactate dehydrogenase A
-ncbi_id: '462522'
+ncbi_id: '396221'
 orthologs:
-- ensembl: ''
-  entrez: '45880'
-  mod: FBgn0001258
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134333
   entrez: '3939'
   mod: MIM:150000
@@ -210,20 +205,21 @@ orthologs:
   phenotypes: All phenotypic alleles (14):Chemically induced(9) Radiation induced(3)
     Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 394758,380394,398121
-  mod: '480607'
+- ensembl: ENSXETG00000041431
+  entrez: '394758'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000040856
+- ensembl: ENSDARG00000101251
   entrez: '30496'
   mod: ZFIN:ZDB-GENE-991026-5
-  phenotypes: ZDB-GENE-991026-5
+  phenotypes: carboxylic acid metabolic process, lactate metabolic process, pyruvate
+    catabolic process, response to hypoxia
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462522
+  url: https://www.ncbi.nlm.nih.gov/gene/396221
 species: Gallus gallus
 symbol: LDHA
 title: LDHA
@@ -254,9 +250,8 @@ title: LDHA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [45880](https://www.ncbi.nlm.nih.gov/gene/45880) | FBgn0001258 |  |
 | Human | [ENSG00000134333](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134333) | [3939](https://www.ncbi.nlm.nih.gov/gene/3939) | [MIM:150000](https://omim.org/entry/150000) | MIM:150000 |
 | Mouse | [ENSMUSG00000063229](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000063229) | [16828](https://www.ncbi.nlm.nih.gov/gene/16828) | [MGI:96759](http://www.informatics.jax.org/marker/MGI:96759) | All phenotypic alleles (14):Chemically induced(9) Radiation induced(3) Targeted, other(2) |
-| Xenopus |  | [394758](https://www.ncbi.nlm.nih.gov/gene/394758), [380394](https://www.ncbi.nlm.nih.gov/gene/380394), [398121](https://www.ncbi.nlm.nih.gov/gene/398121) | [480607](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480607) |  |
-| Zebrafish | [ENSDARG00000040856](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040856) | [30496](https://www.ncbi.nlm.nih.gov/gene/30496) | [ZFIN:ZDB-GENE-991026-5](https://zfin.org/ZDB-GENE-991026-5) | ZDB-GENE-991026-5 |
+| Xenopus | [ENSXETG00000041431](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041431) | [394758](https://www.ncbi.nlm.nih.gov/gene/394758) |  |  |
+| Zebrafish | [ENSDARG00000101251](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101251) | [30496](https://www.ncbi.nlm.nih.gov/gene/30496) | [ZFIN:ZDB-GENE-991026-5](https://zfin.org/ZDB-GENE-991026-5) | carboxylic acid metabolic process, lactate metabolic process, pyruvate catabolic process, response to hypoxia |
 

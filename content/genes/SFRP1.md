@@ -3,8 +3,6 @@ aliases:
 - CSFRP1, secreted frizzled-related protein 1
 cgnc_id: '2531'
 external_ids:
-  '19': stage 19
-  '31': stage 31stage 31stage 31stage 31stage 31stage 31stage 31
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007420
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0042995
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Frowein+Campbell+Ngn1+Cash1
@@ -17,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395237
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0030165
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204553
-gene_id: '461443'
+gene_id: '395237'
 gene_type: protein-coding
 images:
 - caption: SFRP1 expression
@@ -279,13 +277,8 @@ images:
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP1.Frowein.2002.3F.png
 name: secreted frizzled related protein 1
-ncbi_id: '461443'
+ncbi_id: '395237'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000104332
   entrez: '6422'
   mod: MIM:604156
@@ -297,20 +290,21 @@ orthologs:
   phenotypes: All phenotypic alleles (6):Chemically induced(1) Targeted, knock-out(1)
     Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100038100,394302
-  mod: '488229'
+- ensembl: ENSXETG00000007776
+  entrez: '100038100'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000057678,ENSDARG00000035521
-  entrez: 798564,402843
-  mod: ZFIN:ZDB-GENE-061103-1,ZFIN:ZDB-GENE-040310-5
-  phenotypes: ZDB-GENE-061103-1,ZDB-GENE-040310-5
+- ensembl: ENSDARG00000057678
+  entrez: '798564'
+  mod: ZFIN:ZDB-GENE-061103-1
+  phenotypes: Wnt signaling pathway, canonical Wnt signaling pathway, cell differentiation,
+    non-canonical Wnt signaling pathway, regulation of multicellular organismal development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461443
+  url: https://www.ncbi.nlm.nih.gov/gene/395237
 species: Gallus gallus
 symbol: SFRP1
 title: SFRP1
@@ -339,9 +333,8 @@ title: SFRP1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000104332](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000104332) | [6422](https://www.ncbi.nlm.nih.gov/gene/6422) | [MIM:604156](https://omim.org/entry/604156) |  |
 | Mouse | [ENSMUSG00000031548](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031548) | [20377](https://www.ncbi.nlm.nih.gov/gene/20377) | [MGI:892014](http://www.informatics.jax.org/marker/MGI:892014) | All phenotypic alleles (6):Chemically induced(1) Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [100038100](https://www.ncbi.nlm.nih.gov/gene/100038100), [394302](https://www.ncbi.nlm.nih.gov/gene/394302) | [488229](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488229) |  |
-| Zebrafish | [ENSDARG00000057678](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057678), [ENSDARG00000035521](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035521) | [798564](https://www.ncbi.nlm.nih.gov/gene/798564), [402843](https://www.ncbi.nlm.nih.gov/gene/402843) | [ZFIN:ZDB-GENE-061103-1](https://zfin.org/ZDB-GENE-061103-1), [ZFIN:ZDB-GENE-040310-5](https://zfin.org/ZDB-GENE-040310-5) | ZDB-GENE-061103-1,ZDB-GENE-040310-5 |
+| Xenopus | [ENSXETG00000007776](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007776) | [100038100](https://www.ncbi.nlm.nih.gov/gene/100038100) |  |  |
+| Zebrafish | [ENSDARG00000057678](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057678) | [798564](https://www.ncbi.nlm.nih.gov/gene/798564) | [ZFIN:ZDB-GENE-061103-1](https://zfin.org/ZDB-GENE-061103-1) | Wnt signaling pathway, canonical Wnt signaling pathway, cell differentiation, non-canonical Wnt signaling pathway, regulation of multicellular organismal development |
 

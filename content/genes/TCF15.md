@@ -8,8 +8,6 @@ aliases:
 - transcription factor 15 (basic helix-loop-helix)
 cgnc_id: '20222'
 external_ids:
-  '13': stage 13stage 13stage 13stage 13stage 13stage 13stage 13
-  '25': stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=2013+Fleming+Vg1+Nodal+Chick+Schultheiss
@@ -24,7 +22,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395788
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204946
-gene_id: '450429'
+gene_id: '395788'
 gene_type: protein-coding
 images:
 - caption: TCF15 expression
@@ -463,14 +461,9 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/paraxis.Buchberger.1998.Fig5.jpg
 name: transcription factor 15
-ncbi_id: '450429'
+ncbi_id: '395788'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000125878
   entrez: '6939'
   mod: MIM:601010
   phenotypes: ''
@@ -480,20 +473,21 @@ orthologs:
   mod: MGI:104664
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549260,493747
-  mod: '488934'
+- ensembl: ENSXETG00000002557
+  entrez: '549260'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000067544
   entrez: '30159'
   mod: ZFIN:ZDB-GENE-980605-20
-  phenotypes: ZDB-GENE-980605-20
+  phenotypes: developmental process, regulation of transcription by RNA polymerase
+    II, striated muscle tissue development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450429
+  url: https://www.ncbi.nlm.nih.gov/gene/395788
 species: Gallus gallus
 symbol: TCF15
 title: TCF15
@@ -522,9 +516,8 @@ title: TCF15
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [6939](https://www.ncbi.nlm.nih.gov/gene/6939) | [MIM:601010](https://omim.org/entry/601010) |  |
+| Human | [ENSG00000125878](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125878) | [6939](https://www.ncbi.nlm.nih.gov/gene/6939) | [MIM:601010](https://omim.org/entry/601010) |  |
 | Mouse | [ENSMUSG00000068079](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000068079) | [21407](https://www.ncbi.nlm.nih.gov/gene/21407) | [MGI:104664](http://www.informatics.jax.org/marker/MGI:104664) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [549260](https://www.ncbi.nlm.nih.gov/gene/549260), [493747](https://www.ncbi.nlm.nih.gov/gene/493747) | [488934](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488934) |  |
-| Zebrafish | [ENSDARG00000067544](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000067544) | [30159](https://www.ncbi.nlm.nih.gov/gene/30159) | [ZFIN:ZDB-GENE-980605-20](https://zfin.org/ZDB-GENE-980605-20) | ZDB-GENE-980605-20 |
+| Xenopus | [ENSXETG00000002557](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002557) | [549260](https://www.ncbi.nlm.nih.gov/gene/549260) |  |  |
+| Zebrafish | [ENSDARG00000067544](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000067544) | [30159](https://www.ncbi.nlm.nih.gov/gene/30159) | [ZFIN:ZDB-GENE-980605-20](https://zfin.org/ZDB-GENE-980605-20) | developmental process, regulation of transcription by RNA polymerase II, striated muscle tissue development |
 

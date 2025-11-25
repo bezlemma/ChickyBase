@@ -15,7 +15,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0030284
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204794
 forward_primer: 5’-TGTGGGTATCGAATCCTGCG-3’
-gene_id: '449552'
+gene_id: '395575'
 gene_type: protein-coding
 images:
 - caption: ESR2 expression
@@ -64,13 +64,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R658.ESR2.S26.001.jpg
 name: estrogen receptor 2
-ncbi_id: '449552'
+ncbi_id: '395575'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000140009
   entrez: '2100'
   mod: MIM:601663
@@ -81,24 +76,26 @@ orthologs:
   mod: MGI:109392
   phenotypes: All phenotypic alleles (10):Targeted, knock-out(5) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 394460,100174814
-  mod: '486255'
+- ensembl: ENSXETG00000007257
+  entrez: '394460'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000034181,ENSDARG00000016454
-  entrez: 317733,317734
-  mod: ZFIN:ZDB-GENE-030116-1,ZFIN:ZDB-GENE-030116-2
-  phenotypes: ZDB-GENE-030116-1,ZDB-GENE-030116-2
+- ensembl: ENSDARG00000016454
+  entrez: '317734'
+  mod: ZFIN:ZDB-GENE-030116-2
+  phenotypes: cellular response to estradiol stimulus, estrogen receptor signaling
+    pathway, regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II, response to estrogen
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTGGGAGAGCAGCATCAACAG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449552
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395575
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449552
+  url: https://www.ncbi.nlm.nih.gov/gene/395575
 species: Gallus gallus
 symbol: ESR2
 template_length: '707'
@@ -126,9 +123,8 @@ title: ESR2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000140009](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140009) | [2100](https://www.ncbi.nlm.nih.gov/gene/2100) | [MIM:601663](https://omim.org/entry/601663) |  |
 | Mouse | [ENSMUSG00000021055](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021055) | [13983](https://www.ncbi.nlm.nih.gov/gene/13983) | [MGI:109392](http://www.informatics.jax.org/marker/MGI:109392) | All phenotypic alleles (10):Targeted, knock-out(5) Targeted, other(5) |
-| Xenopus |  | [394460](https://www.ncbi.nlm.nih.gov/gene/394460), [100174814](https://www.ncbi.nlm.nih.gov/gene/100174814) | [486255](http://www.xenbase.org/gene/showgene.do?method=display&geneId=486255) |  |
-| Zebrafish | [ENSDARG00000034181](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034181), [ENSDARG00000016454](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016454) | [317733](https://www.ncbi.nlm.nih.gov/gene/317733), [317734](https://www.ncbi.nlm.nih.gov/gene/317734) | [ZFIN:ZDB-GENE-030116-1](https://zfin.org/ZDB-GENE-030116-1), [ZFIN:ZDB-GENE-030116-2](https://zfin.org/ZDB-GENE-030116-2) | ZDB-GENE-030116-1,ZDB-GENE-030116-2 |
+| Xenopus | [ENSXETG00000007257](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007257) | [394460](https://www.ncbi.nlm.nih.gov/gene/394460) |  |  |
+| Zebrafish | [ENSDARG00000016454](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016454) | [317734](https://www.ncbi.nlm.nih.gov/gene/317734) | [ZFIN:ZDB-GENE-030116-2](https://zfin.org/ZDB-GENE-030116-2) | cellular response to estradiol stimulus, estrogen receptor signaling pathway, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II, response to estrogen |
 

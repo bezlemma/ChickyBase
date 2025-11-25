@@ -28,7 +28,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396470
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001044632
-gene_id: '461070'
+gene_id: '396470'
 gene_type: protein-coding
 images:
 - caption: MYL1 expression
@@ -64,13 +64,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYL1.Anderson.2019.Supplementary
     figure 5D.jpg
 name: myosin, light chain 1, alkali; skeletal, fast
-ncbi_id: '461070'
+ncbi_id: '396470'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000168530
   entrez: '4632'
   mod: MIM:160780
@@ -81,20 +76,20 @@ orthologs:
   mod: MGI:97269
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 394551,379944
-  mod: '970332'
+- ensembl: ENSXETG00000006917
+  entrez: '394551'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000014196
   entrez: '336165'
   mod: ZFIN:ZDB-GENE-030131-8109
-  phenotypes: ZDB-GENE-030131-8109
+  phenotypes: skeletal muscle tissue development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461070
+  url: https://www.ncbi.nlm.nih.gov/gene/396470
 species: Gallus gallus
 symbol: MYL1
 title: MYL1
@@ -123,9 +118,8 @@ title: MYL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000168530](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000168530) | [4632](https://www.ncbi.nlm.nih.gov/gene/4632) | [MIM:160780](https://omim.org/entry/160780) |  |
 | Mouse | [ENSMUSG00000061816](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061816) | [17901](https://www.ncbi.nlm.nih.gov/gene/17901) | [MGI:97269](http://www.informatics.jax.org/marker/MGI:97269) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [394551](https://www.ncbi.nlm.nih.gov/gene/394551), [379944](https://www.ncbi.nlm.nih.gov/gene/379944) | [970332](http://www.xenbase.org/gene/showgene.do?method=display&geneId=970332) |  |
-| Zebrafish | [ENSDARG00000014196](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014196) | [336165](https://www.ncbi.nlm.nih.gov/gene/336165) | [ZFIN:ZDB-GENE-030131-8109](https://zfin.org/ZDB-GENE-030131-8109) | ZDB-GENE-030131-8109 |
+| Xenopus | [ENSXETG00000006917](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006917) | [394551](https://www.ncbi.nlm.nih.gov/gene/394551) |  |  |
+| Zebrafish | [ENSDARG00000014196](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014196) | [336165](https://www.ncbi.nlm.nih.gov/gene/336165) | [ZFIN:ZDB-GENE-030131-8109](https://zfin.org/ZDB-GENE-030131-8109) | skeletal muscle tissue development |
 

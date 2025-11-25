@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420321
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418430
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/NDRG1
-gene_id: '457888'
+gene_id: '420321'
 gene_type: protein-coding
 images:
 - caption: NDRG1 expression
@@ -84,13 +84,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3Xb9.115.3.23xs.jpg
 name: N-myc downstream regulated 1
-ncbi_id: '457888'
+ncbi_id: '420321'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000104419
   entrez: '10397'
   mod: MIM:605262
@@ -101,23 +96,23 @@ orthologs:
   mod: MGI:1341799
   phenotypes: All phenotypic alleles (2):Spontaneous(1) Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 493508,380319,447720
-  mod: '993272'
+- ensembl: ENSXETG00000010988
+  entrez: '493508'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000032849,ENSDARG00000010420
-  entrez: 792085,393665
-  mod: ZFIN:ZDB-GENE-030826-34,ZFIN:ZDB-GENE-040426-1648
-  phenotypes: ZDB-GENE-030826-34,ZDB-GENE-040426-1648
+- ensembl: ENSDARG00000032849
+  entrez: '792085'
+  mod: ZFIN:ZDB-GENE-030826-34
+  phenotypes: negative regulation of cellular response to hypoxia, signal transduction
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457888
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420321
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457888
+  url: https://www.ncbi.nlm.nih.gov/gene/420321
 species: Gallus gallus
 symbol: NDRG1
 title: NDRG1
@@ -139,9 +134,8 @@ title: NDRG1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000104419](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000104419) | [10397](https://www.ncbi.nlm.nih.gov/gene/10397) | [MIM:605262](https://omim.org/entry/605262) | MIM:601455 |
 | Mouse | [ENSMUSG00000005125](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005125) | [17988](https://www.ncbi.nlm.nih.gov/gene/17988) | [MGI:1341799](http://www.informatics.jax.org/marker/MGI:1341799) | All phenotypic alleles (2):Spontaneous(1) Targeted, knock-out(1) |
-| Xenopus |  | [493508](https://www.ncbi.nlm.nih.gov/gene/493508), [380319](https://www.ncbi.nlm.nih.gov/gene/380319), [447720](https://www.ncbi.nlm.nih.gov/gene/447720) | [993272](http://www.xenbase.org/gene/showgene.do?method=display&geneId=993272) |  |
-| Zebrafish | [ENSDARG00000032849](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032849), [ENSDARG00000010420](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010420) | [792085](https://www.ncbi.nlm.nih.gov/gene/792085), [393665](https://www.ncbi.nlm.nih.gov/gene/393665) | [ZFIN:ZDB-GENE-030826-34](https://zfin.org/ZDB-GENE-030826-34), [ZFIN:ZDB-GENE-040426-1648](https://zfin.org/ZDB-GENE-040426-1648) | ZDB-GENE-030826-34,ZDB-GENE-040426-1648 |
+| Xenopus | [ENSXETG00000010988](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010988) | [493508](https://www.ncbi.nlm.nih.gov/gene/493508) |  |  |
+| Zebrafish | [ENSDARG00000032849](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032849) | [792085](https://www.ncbi.nlm.nih.gov/gene/792085) | [ZFIN:ZDB-GENE-030826-34](https://zfin.org/ZDB-GENE-030826-34) | negative regulation of cellular response to hypoxia, signal transduction |
 

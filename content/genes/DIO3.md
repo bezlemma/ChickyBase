@@ -23,7 +23,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395939
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004800
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001122648
-gene_id: '463120'
+gene_id: '395939'
 gene_type: protein-coding
 images:
 - caption: DIO3 expression
@@ -55,13 +55,8 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.SupF3.dio3.png
 name: iodothyronine deiodinase 3
-ncbi_id: '463120'
+ncbi_id: '395939'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000197406
   entrez: '1735'
   mod: MIM:601038
@@ -72,20 +67,21 @@ orthologs:
   mod: MGI:1306782
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100038242,397779
-  mod: '487489'
+- ensembl: ENSXETG00000048638
+  entrez: '100038242'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
   entrez: '100538339'
-  mod: ZFIN:ZDB-GENE-070705-53,ZFIN:ZDB-GENE-120406-7
-  phenotypes: ZDB-GENE-070705-53,ZDB-GENE-120406-7
+  mod: ZFIN:ZDB-GENE-120406-7
+  phenotypes: chordate embryonic development, hormone biosynthetic process, thyroid
+    hormone metabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463120
+  url: https://www.ncbi.nlm.nih.gov/gene/395939
 species: Gallus gallus
 symbol: DIO3
 title: DIO3
@@ -114,9 +110,8 @@ title: DIO3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000197406](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197406) | [1735](https://www.ncbi.nlm.nih.gov/gene/1735) | [MIM:601038](https://omim.org/entry/601038) |  |
 | Mouse | [ENSMUSG00000075707](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000075707) | [107585](https://www.ncbi.nlm.nih.gov/gene/107585) | [MGI:1306782](http://www.informatics.jax.org/marker/MGI:1306782) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100038242](https://www.ncbi.nlm.nih.gov/gene/100038242), [397779](https://www.ncbi.nlm.nih.gov/gene/397779) | [487489](http://www.xenbase.org/gene/showgene.do?method=display&geneId=487489) |  |
-| Zebrafish |  | [100538339](https://www.ncbi.nlm.nih.gov/gene/100538339) | [ZFIN:ZDB-GENE-070705-53](https://zfin.org/ZDB-GENE-070705-53), [ZFIN:ZDB-GENE-120406-7](https://zfin.org/ZDB-GENE-120406-7) | ZDB-GENE-070705-53,ZDB-GENE-120406-7 |
+| Xenopus | [ENSXETG00000048638](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000048638) | [100038242](https://www.ncbi.nlm.nih.gov/gene/100038242) |  |  |
+| Zebrafish |  | [100538339](https://www.ncbi.nlm.nih.gov/gene/100538339) | [ZFIN:ZDB-GENE-120406-7](https://zfin.org/ZDB-GENE-120406-7) | chordate embryonic development, hormone biosynthetic process, thyroid hormone metabolic process |
 

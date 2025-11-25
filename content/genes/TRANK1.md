@@ -9,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420728
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418827
-gene_id: '455804'
+gene_id: '420728'
 gene_type: protein-coding
 images:
 - caption: TRANK1 expression
@@ -41,16 +41,11 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54wd2.125.hb.jpg
 name: tetratricopeptide repeat and ankyrin repeat containing 1
-ncbi_id: '455804'
+ncbi_id: '420728'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000168016
   entrez: '9881'
-  mod: ''
+  mod: MIM:619316
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000062296
@@ -58,23 +53,18 @@ orthologs:
   mod: MGI:1341834
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000035196
   entrez: '100493537'
-  mod: '6048564'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455804
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420728
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455804
+  url: https://www.ncbi.nlm.nih.gov/gene/420728
 species: Gallus gallus
 symbol: TRANK1
 title: TRANK1
@@ -97,9 +87,7 @@ title: TRANK1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000168016](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000168016) | [9881](https://www.ncbi.nlm.nih.gov/gene/9881) |  |  |
+| Human | [ENSG00000168016](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000168016) | [9881](https://www.ncbi.nlm.nih.gov/gene/9881) | [MIM:619316](https://omim.org/entry/619316) |  |
 | Mouse | [ENSMUSG00000062296](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000062296) | [320429](https://www.ncbi.nlm.nih.gov/gene/320429) | [MGI:1341834](http://www.informatics.jax.org/marker/MGI:1341834) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100493537](https://www.ncbi.nlm.nih.gov/gene/100493537) | [6048564](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6048564) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000035196](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000035196) | [100493537](https://www.ncbi.nlm.nih.gov/gene/100493537) |  |  |
 

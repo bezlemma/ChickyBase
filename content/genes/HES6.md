@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424829
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422641
-gene_id: '448979'
+gene_id: '424829'
 gene_type: protein-coding
 images:
 - caption: HES6 expression
@@ -283,40 +283,22 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES6-2VilasBoas.2010.Fig.2.png
 name: hes family bHLH transcription factor 6
-ncbi_id: '448979'
+ncbi_id: '424829'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000144485
-  entrez: '55502'
-  mod: MIM:610331
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000067071
-  entrez: '55927'
-  mod: MGI:1859852
-  phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
-  species: Mouse
-- ensembl: ''
-  entrez: 100126814,100037036
-  mod: '1018103'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000007097,ENSDARG00000019335
-  entrez: 100334468,550600,373116
-  mod: ZFIN:ZDB-GENE-050228-1,ZFIN:ZDB-GENE-030828-5
-  phenotypes: ZDB-GENE-050228-1,ZDB-GENE-030828-5
+- ensembl: ENSDARG00000016363
+  entrez: '323656'
+  mod: ZFIN:ZDB-GENE-030131-2376
+  phenotypes: anterior/posterior pattern specification, gliogenesis, negative regulation
+    of neurogenesis, negative regulation of transcription by RNA polymerase II, regulation
+    of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448979
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424829
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448979
+  url: https://www.ncbi.nlm.nih.gov/gene/424829
 species: Gallus gallus
 symbol: HES6
 title: HES6
@@ -342,9 +324,5 @@ title: HES6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000144485](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000144485) | [55502](https://www.ncbi.nlm.nih.gov/gene/55502) | [MIM:610331](https://omim.org/entry/610331) |  |
-| Mouse | [ENSMUSG00000067071](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000067071) | [55927](https://www.ncbi.nlm.nih.gov/gene/55927) | [MGI:1859852](http://www.informatics.jax.org/marker/MGI:1859852) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100126814](https://www.ncbi.nlm.nih.gov/gene/100126814), [100037036](https://www.ncbi.nlm.nih.gov/gene/100037036) | [1018103](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1018103) |  |
-| Zebrafish | [ENSDARG00000007097](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007097), [ENSDARG00000019335](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019335) | [100334468](https://www.ncbi.nlm.nih.gov/gene/100334468), [550600](https://www.ncbi.nlm.nih.gov/gene/550600), [373116](https://www.ncbi.nlm.nih.gov/gene/373116) | [ZFIN:ZDB-GENE-050228-1](https://zfin.org/ZDB-GENE-050228-1), [ZFIN:ZDB-GENE-030828-5](https://zfin.org/ZDB-GENE-030828-5) | ZDB-GENE-050228-1,ZDB-GENE-030828-5 |
+| Zebrafish | [ENSDARG00000016363](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016363) | [323656](https://www.ncbi.nlm.nih.gov/gene/323656) | [ZFIN:ZDB-GENE-030131-2376](https://zfin.org/ZDB-GENE-030131-2376) | anterior/posterior pattern specification, gliogenesis, negative regulation of neurogenesis, negative regulation of transcription by RNA polymerase II, regulation of DNA-templated transcription |
 

@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427304
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424886
-gene_id: '461470'
+gene_id: '107052333'
 gene_type: protein-coding
 images:
 - caption: TAL2 expression
@@ -94,7 +94,7 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TAL2.Merchan.2011.Fig.6.png
 name: T-cell acute lymphocytic leukemia 2
-ncbi_id: '461470'
+ncbi_id: '107052333'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -119,15 +119,15 @@ orthologs:
 - ensembl: ''
   entrez: '394239'
   mod: ZFIN:ZDB-GENE-040115-1
-  phenotypes: ZDB-GENE-040115-1
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461470
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=107052333
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461470
+  url: https://www.ncbi.nlm.nih.gov/gene/107052333
 species: Gallus gallus
 symbol: TAL2
 title: TAL2
@@ -157,5 +157,5 @@ title: TAL2
 | Human | [ENSG00000186051](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000186051) | [6887](https://www.ncbi.nlm.nih.gov/gene/6887) | [MIM:186855](https://omim.org/entry/186855) | MIM:186855 |
 | Mouse |  | [21350](https://www.ncbi.nlm.nih.gov/gene/21350) | [MGI:99540](http://www.informatics.jax.org/marker/MGI:99540) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
 | Xenopus |  | [100491656](https://www.ncbi.nlm.nih.gov/gene/100491656) | [965183](http://www.xenbase.org/gene/showgene.do?method=display&geneId=965183) |  |
-| Zebrafish |  | [394239](https://www.ncbi.nlm.nih.gov/gene/394239) | [ZFIN:ZDB-GENE-040115-1](https://zfin.org/ZDB-GENE-040115-1) | ZDB-GENE-040115-1 |
+| Zebrafish |  | [394239](https://www.ncbi.nlm.nih.gov/gene/394239) | [ZFIN:ZDB-GENE-040115-1](https://zfin.org/ZDB-GENE-040115-1) |  |
 

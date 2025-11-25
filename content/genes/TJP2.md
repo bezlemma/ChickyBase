@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395751
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204918
 forward_primer: 5’-AGACTTCTGGAGAACACGCG-3’
-gene_id: '450363'
+gene_id: '395751'
 gene_type: protein-coding
 images:
 - caption: TJP2 expression
@@ -155,13 +155,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R648.TJP2.S26V.001.jpg
 name: tight junction protein 2
-ncbi_id: '450363'
+ncbi_id: '395751'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000119139
   entrez: '9414'
   mod: MIM:607709
@@ -172,24 +167,26 @@ orthologs:
   mod: MGI:1341872
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 733995,779228
-  mod: '480466'
+- ensembl: ENSXETG00000001683
+  entrez: '733995'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000063309,ENSDARG00000023443
-  entrez: 565446,436639
-  mod: ZFIN:ZDB-GENE-070925-2,ZFIN:ZDB-GENE-040718-58
-  phenotypes: ZDB-GENE-070925-2,ZDB-GENE-040718-58
+- ensembl: ENSDARG00000063309
+  entrez: '565446'
+  mod: ZFIN:ZDB-GENE-070925-2
+  phenotypes: cell-cell adhesion, cell-cell junction organization, establishment of
+    endothelial intestinal barrier, positive regulation of blood-brain barrier permeability,
+    protein localization to cell-cell junction
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTCAGGCTTGAATGCTGGAGG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450363
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395751
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450363
+  url: https://www.ncbi.nlm.nih.gov/gene/395751
 species: Gallus gallus
 symbol: TJP2
 template_length: '933'
@@ -212,9 +209,8 @@ title: TJP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000119139](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000119139) | [9414](https://www.ncbi.nlm.nih.gov/gene/9414) | [MIM:607709](https://omim.org/entry/607709) | MIM:607748 |
 | Mouse | [ENSMUSG00000024812](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024812) | [21873](https://www.ncbi.nlm.nih.gov/gene/21873) | [MGI:1341872](http://www.informatics.jax.org/marker/MGI:1341872) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [733995](https://www.ncbi.nlm.nih.gov/gene/733995), [779228](https://www.ncbi.nlm.nih.gov/gene/779228) | [480466](http://www.xenbase.org/gene/showgene.do?method=display&geneId=480466) |  |
-| Zebrafish | [ENSDARG00000063309](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063309), [ENSDARG00000023443](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023443) | [565446](https://www.ncbi.nlm.nih.gov/gene/565446), [436639](https://www.ncbi.nlm.nih.gov/gene/436639) | [ZFIN:ZDB-GENE-070925-2](https://zfin.org/ZDB-GENE-070925-2), [ZFIN:ZDB-GENE-040718-58](https://zfin.org/ZDB-GENE-040718-58) | ZDB-GENE-070925-2,ZDB-GENE-040718-58 |
+| Xenopus | [ENSXETG00000001683](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001683) | [733995](https://www.ncbi.nlm.nih.gov/gene/733995) |  |  |
+| Zebrafish | [ENSDARG00000063309](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000063309) | [565446](https://www.ncbi.nlm.nih.gov/gene/565446) | [ZFIN:ZDB-GENE-070925-2](https://zfin.org/ZDB-GENE-070925-2) | cell-cell adhesion, cell-cell junction organization, establishment of endothelial intestinal barrier, positive regulation of blood-brain barrier permeability, protein localization to cell-cell junction |
 

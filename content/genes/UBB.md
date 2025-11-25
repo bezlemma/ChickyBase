@@ -7,7 +7,7 @@ external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/101747587
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: GenomicRNAPolypeptide
-gene_id: '504486'
+gene_id: '396190'
 gene_type: unknown
 images:
 - caption: UBB expression
@@ -25,7 +25,7 @@ images:
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/1818D11.70.1121ubiq.jpg
 name: ubiquitin B
-ncbi_id: '504486'
+ncbi_id: '396190'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -55,10 +55,10 @@ orthologs:
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=504486
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396190
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/504486
+  url: https://www.ncbi.nlm.nih.gov/gene/396190
 species: Gallus gallus
 symbol: UBB
 title: UBB

@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427328
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424908
 forward_primer: 5'-TGCTGGATTTCTGTGCCGTG-3'
-gene_id: '461560'
+gene_id: '427328'
 gene_type: protein-coding
 images:
 - caption: CCNH expression
@@ -75,13 +75,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R632.CCNH.S26A.001.jpg
 name: cyclin H
-ncbi_id: '461560'
+ncbi_id: '427328'
 orthologs:
-- ensembl: ''
-  entrez: '40429'
-  mod: FBgn0022936
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000134480
   entrez: '902'
   mod: MIM:601953
@@ -92,24 +87,25 @@ orthologs:
   mod: MGI:1913921
   phenotypes: All phenotypic alleles (8):Targeted, other(8)
   species: Mouse
-- ensembl: ''
-  entrez: 549010,394356
-  mod: '922560'
+- ensembl: ENSXETG00000011718
+  entrez: '549010'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000007657
   entrez: '541325'
   mod: ZFIN:ZDB-GENE-050320-13
-  phenotypes: ZDB-GENE-050320-13
+  phenotypes: DNA-templated transcription, regulation of transcription by RNA polymerase
+    II, transcription initiation at RNA polymerase II promoter
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTCCCCAAAGTCTTCATCAGTCC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461560
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427328
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461560
+  url: https://www.ncbi.nlm.nih.gov/gene/427328
 species: Gallus gallus
 symbol: CCNH
 template_length: '772'
@@ -134,9 +130,8 @@ title: CCNH
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [40429](https://www.ncbi.nlm.nih.gov/gene/40429) | FBgn0022936 |  |
 | Human | [ENSG00000134480](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134480) | [902](https://www.ncbi.nlm.nih.gov/gene/902) | [MIM:601953](https://omim.org/entry/601953) |  |
 | Mouse | [ENSMUSG00000021548](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021548) | [66671](https://www.ncbi.nlm.nih.gov/gene/66671) | [MGI:1913921](http://www.informatics.jax.org/marker/MGI:1913921) | All phenotypic alleles (8):Targeted, other(8) |
-| Xenopus |  | [549010](https://www.ncbi.nlm.nih.gov/gene/549010), [394356](https://www.ncbi.nlm.nih.gov/gene/394356) | [922560](http://www.xenbase.org/gene/showgene.do?method=display&geneId=922560) |  |
-| Zebrafish | [ENSDARG00000007657](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007657) | [541325](https://www.ncbi.nlm.nih.gov/gene/541325) | [ZFIN:ZDB-GENE-050320-13](https://zfin.org/ZDB-GENE-050320-13) | ZDB-GENE-050320-13 |
+| Xenopus | [ENSXETG00000011718](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011718) | [549010](https://www.ncbi.nlm.nih.gov/gene/549010) |  |  |
+| Zebrafish | [ENSDARG00000007657](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007657) | [541325](https://www.ncbi.nlm.nih.gov/gene/541325) | [ZFIN:ZDB-GENE-050320-13](https://zfin.org/ZDB-GENE-050320-13) | DNA-templated transcription, regulation of transcription by RNA polymerase II, transcription initiation at RNA polymerase II promoter |
 

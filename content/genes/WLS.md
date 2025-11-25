@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424707
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0017147
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031294
-gene_id: '451065'
+gene_id: '424707'
 gene_type: protein-coding
 images:
 - caption: WLS expression
@@ -41,41 +41,37 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/L17_12_mag.jpg
 name: wntless Wnt ligand secretion mediator
-ncbi_id: '451065'
+ncbi_id: '424707'
 orthologs:
-- ensembl: ''
-  entrez: '39259'
-  mod: FBgn0036141
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000116729
   entrez: '79971'
   mod: MIM:611514
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000028173
   entrez: '68151'
   mod: MGI:1915401
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(4)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549664,735023,447540
-  mod: '956981'
+- ensembl: ENSXETG00000012387
+  entrez: '549664'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000009534
   entrez: '406420'
   mod: ZFIN:ZDB-GENE-040426-2161
-  phenotypes: ZDB-GENE-040426-2161
+  phenotypes: Wnt protein secretion, Wnt signaling pathway, cartilage morphogenesis,
+    chondrocyte activation, chondrocyte proliferation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451065
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424707
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451065
+  url: https://www.ncbi.nlm.nih.gov/gene/424707
 species: Gallus gallus
 symbol: WLS
 title: WLS
@@ -104,9 +100,8 @@ title: WLS
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39259](https://www.ncbi.nlm.nih.gov/gene/39259) | FBgn0036141 |  |
 | Human | [ENSG00000116729](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000116729) | [79971](https://www.ncbi.nlm.nih.gov/gene/79971) | [MIM:611514](https://omim.org/entry/611514) |  |
-| Mouse |  | [68151](https://www.ncbi.nlm.nih.gov/gene/68151) | [MGI:1915401](http://www.informatics.jax.org/marker/MGI:1915401) | All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(4) Gene trapped(1) |
-| Xenopus |  | [549664](https://www.ncbi.nlm.nih.gov/gene/549664), [735023](https://www.ncbi.nlm.nih.gov/gene/735023), [447540](https://www.ncbi.nlm.nih.gov/gene/447540) | [956981](http://www.xenbase.org/gene/showgene.do?method=display&geneId=956981) |  |
-| Zebrafish | [ENSDARG00000009534](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009534) | [406420](https://www.ncbi.nlm.nih.gov/gene/406420) | [ZFIN:ZDB-GENE-040426-2161](https://zfin.org/ZDB-GENE-040426-2161) | ZDB-GENE-040426-2161 |
+| Mouse | [ENSMUSG00000028173](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028173) | [68151](https://www.ncbi.nlm.nih.gov/gene/68151) | [MGI:1915401](http://www.informatics.jax.org/marker/MGI:1915401) | All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(4) Gene trapped(1) |
+| Xenopus | [ENSXETG00000012387](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012387) | [549664](https://www.ncbi.nlm.nih.gov/gene/549664) |  |  |
+| Zebrafish | [ENSDARG00000009534](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009534) | [406420](https://www.ncbi.nlm.nih.gov/gene/406420) | [ZFIN:ZDB-GENE-040426-2161](https://zfin.org/ZDB-GENE-040426-2161) | Wnt protein secretion, Wnt signaling pathway, cartilage morphogenesis, chondrocyte activation, chondrocyte proliferation |
 

@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395399
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_206844
   X-XIV: stage XIstage XI
-gene_id: '463050'
+gene_id: '395399'
 gene_type: protein-coding
 images:
 - caption: CITED2 expression
@@ -158,13 +158,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CITED2.Schlange.2000.Fig2.jpg
 name: Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain
   2
-ncbi_id: '463050'
+ncbi_id: '395399'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164442
   entrez: '10370'
   mod: MIM:602937
@@ -175,20 +170,20 @@ orthologs:
   mod: MGI:1306784
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 407853,495124
-  mod: '495034'
+- ensembl: ENSXETG00000041066
+  entrez: '407853'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000030905
   entrez: '450024'
   mod: ZFIN:ZDB-GENE-041010-141
-  phenotypes: ZDB-GENE-041010-141
+  phenotypes: cell differentiation, regulation of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463050
+  url: https://www.ncbi.nlm.nih.gov/gene/395399
 species: Gallus gallus
 symbol: CITED2
 title: CITED2
@@ -214,9 +209,8 @@ title: CITED2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164442](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164442) | [10370](https://www.ncbi.nlm.nih.gov/gene/10370) | [MIM:602937](https://omim.org/entry/602937) |  |
 | Mouse | [ENSMUSG00000039910](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039910) | [17684](https://www.ncbi.nlm.nih.gov/gene/17684) | [MGI:1306784](http://www.informatics.jax.org/marker/MGI:1306784) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4) |
-| Xenopus |  | [407853](https://www.ncbi.nlm.nih.gov/gene/407853), [495124](https://www.ncbi.nlm.nih.gov/gene/495124) | [495034](http://www.xenbase.org/gene/showgene.do?method=display&geneId=495034) |  |
-| Zebrafish | [ENSDARG00000030905](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030905) | [450024](https://www.ncbi.nlm.nih.gov/gene/450024) | [ZFIN:ZDB-GENE-041010-141](https://zfin.org/ZDB-GENE-041010-141) | ZDB-GENE-041010-141 |
+| Xenopus | [ENSXETG00000041066](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000041066) | [407853](https://www.ncbi.nlm.nih.gov/gene/407853) |  |  |
+| Zebrafish | [ENSDARG00000030905](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030905) | [450024](https://www.ncbi.nlm.nih.gov/gene/450024) | [ZFIN:ZDB-GENE-041010-141](https://zfin.org/ZDB-GENE-041010-141) | cell differentiation, regulation of DNA-templated transcription |
 

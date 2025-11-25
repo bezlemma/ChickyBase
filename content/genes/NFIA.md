@@ -24,7 +24,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396210
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205273
-gene_id: '462551'
+gene_id: '396210'
 gene_type: protein-coding
 images:
 - caption: NFIA expression
@@ -124,13 +124,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Singh.2016.Fig5.jpg
 name: nuclear factor I A
-ncbi_id: '462551'
+ncbi_id: '396210'
 orthologs:
-- ensembl: ''
-  entrez: '43782'
-  mod: FBgn0042696
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000162599
   entrez: '4774'
   mod: MIM:600727
@@ -141,20 +136,22 @@ orthologs:
   mod: MGI:108056
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100498088,780750
-  mod: '1010392'
+- ensembl: ENSXETG00000008871
+  entrez: '100498088'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000062420
   entrez: '556665'
   mod: ZFIN:ZDB-GENE-050208-501
-  phenotypes: ZDB-GENE-050208-501
+  phenotypes: DNA replication, axon development, positive regulation of DNA-templated
+    transcription, regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462551
+  url: https://www.ncbi.nlm.nih.gov/gene/396210
 species: Gallus gallus
 symbol: NFIA
 title: NFIA
@@ -185,9 +182,8 @@ title: NFIA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43782](https://www.ncbi.nlm.nih.gov/gene/43782) | FBgn0042696 |  |
 | Human | [ENSG00000162599](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162599) | [4774](https://www.ncbi.nlm.nih.gov/gene/4774) | [MIM:600727](https://omim.org/entry/600727) |  |
 | Mouse | [ENSMUSG00000028565](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028565) | [18027](https://www.ncbi.nlm.nih.gov/gene/18027) | [MGI:108056](http://www.informatics.jax.org/marker/MGI:108056) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100498088](https://www.ncbi.nlm.nih.gov/gene/100498088), [780750](https://www.ncbi.nlm.nih.gov/gene/780750) | [1010392](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1010392) |  |
-| Zebrafish | [ENSDARG00000062420](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062420) | [556665](https://www.ncbi.nlm.nih.gov/gene/556665) | [ZFIN:ZDB-GENE-050208-501](https://zfin.org/ZDB-GENE-050208-501) | ZDB-GENE-050208-501 |
+| Xenopus | [ENSXETG00000008871](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008871) | [100498088](https://www.ncbi.nlm.nih.gov/gene/100498088) |  |  |
+| Zebrafish | [ENSDARG00000062420](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062420) | [556665](https://www.ncbi.nlm.nih.gov/gene/556665) | [ZFIN:ZDB-GENE-050208-501](https://zfin.org/ZDB-GENE-050208-501) | DNA replication, axon development, positive regulation of DNA-templated transcription, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

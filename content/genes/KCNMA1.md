@@ -25,7 +25,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374065
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0060072
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204224
-gene_id: '454450'
+gene_id: '374065'
 gene_type: protein-coding
 images:
 - caption: KCNMA1 expression
@@ -133,13 +133,8 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCKNMA1_HH24 X15.jpg
 name: potassium calcium-activated channel subfamily M alpha 1
-ncbi_id: '454450'
+ncbi_id: '374065'
 orthologs:
-- ensembl: ''
-  entrez: '42940'
-  mod: FBgn0003429
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000156113
   entrez: '3778'
   mod: MIM:600150
@@ -150,20 +145,21 @@ orthologs:
   mod: MGI:99923
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100491898,373712
-  mod: '922335'
+- ensembl: ENSXETG00000018041
+  entrez: '100491898'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000079840
-  entrez: 568554,798583
-  mod: ZFIN:ZDB-GENE-070202-9,ZFIN:ZDB-GENE-101209-2
-  phenotypes: ZDB-GENE-070202-9,ZDB-GENE-101209-2
+  entrez: '568554'
+  mod: ZFIN:ZDB-GENE-070202-9
+  phenotypes: monoatomic ion transmembrane transport, monoatomic ion transport, potassium
+    ion transmembrane transport, potassium ion transport, response to auditory stimulus
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454450
+  url: https://www.ncbi.nlm.nih.gov/gene/374065
 species: Gallus gallus
 symbol: KCNMA1
 title: KCNMA1
@@ -192,9 +188,8 @@ title: KCNMA1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42940](https://www.ncbi.nlm.nih.gov/gene/42940) | FBgn0003429 |  |
 | Human | [ENSG00000156113](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000156113) | [3778](https://www.ncbi.nlm.nih.gov/gene/3778) | [MIM:600150](https://omim.org/entry/600150) | MIM:609446 |
 | Mouse | [ENSMUSG00000063142](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000063142) | [16531](https://www.ncbi.nlm.nih.gov/gene/16531) | [MGI:99923](http://www.informatics.jax.org/marker/MGI:99923) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100491898](https://www.ncbi.nlm.nih.gov/gene/100491898), [373712](https://www.ncbi.nlm.nih.gov/gene/373712) | [922335](http://www.xenbase.org/gene/showgene.do?method=display&geneId=922335) |  |
-| Zebrafish | [ENSDARG00000079840](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079840) | [568554](https://www.ncbi.nlm.nih.gov/gene/568554), [798583](https://www.ncbi.nlm.nih.gov/gene/798583) | [ZFIN:ZDB-GENE-070202-9](https://zfin.org/ZDB-GENE-070202-9), [ZFIN:ZDB-GENE-101209-2](https://zfin.org/ZDB-GENE-101209-2) | ZDB-GENE-070202-9,ZDB-GENE-101209-2 |
+| Xenopus | [ENSXETG00000018041](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018041) | [100491898](https://www.ncbi.nlm.nih.gov/gene/100491898) |  |  |
+| Zebrafish | [ENSDARG00000079840](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079840) | [568554](https://www.ncbi.nlm.nih.gov/gene/568554) | [ZFIN:ZDB-GENE-070202-9](https://zfin.org/ZDB-GENE-070202-9) | monoatomic ion transmembrane transport, monoatomic ion transport, potassium ion transmembrane transport, potassium ion transport, response to auditory stimulus |
 

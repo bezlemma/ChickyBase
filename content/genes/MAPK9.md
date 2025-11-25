@@ -8,7 +8,6 @@ aliases:
 - stress-activated protein kinase JNK2
 cgnc_id: '49590'
 external_ids:
-  '25': stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007254
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005829
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=1997+Ishikawa+JNK2
@@ -22,7 +21,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395983
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205095
-gene_id: '451262'
+gene_id: '395983'
 gene_type: protein-coding
 images:
 - caption: MAPK9 expression
@@ -54,13 +53,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/JNK2-a1.Ishikawa.1997.Fig3D.jpg
 name: mitogen-activated protein kinase 9
-ncbi_id: '451262'
+ncbi_id: '395983'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000050748
   entrez: '5601'
   mod: MIM:602896
@@ -71,20 +65,16 @@ orthologs:
   mod: MGI:1346862
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(1) Targeted, other(6)
   species: Mouse
-- ensembl: ''
-  entrez: '100494318'
-  mod: '485572'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000077364
   entrez: '100149273'
-  mod: ZFIN:ZDB-GENE-091117-28,ZFIN:ZDB-GENE-091117-28
-  phenotypes: ZDB-GENE-091117-28,ZDB-GENE-091117-28
+  mod: ZFIN:ZDB-GENE-091117-28
+  phenotypes: JNK cascade, convergent extension involved in gastrulation, phosphorylation,
+    protein phosphorylation, rhythmic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451262
+  url: https://www.ncbi.nlm.nih.gov/gene/395983
 species: Gallus gallus
 symbol: MAPK9
 title: MAPK9
@@ -113,9 +103,7 @@ title: MAPK9
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000050748](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000050748) | [5601](https://www.ncbi.nlm.nih.gov/gene/5601) | [MIM:602896](https://omim.org/entry/602896) |  |
 | Mouse | [ENSMUSG00000020366](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020366) | [26420](https://www.ncbi.nlm.nih.gov/gene/26420) | [MGI:1346862](http://www.informatics.jax.org/marker/MGI:1346862) | All phenotypic alleles (7):Targeted, knock-out(1) Targeted, other(6) |
-| Xenopus |  | [100494318](https://www.ncbi.nlm.nih.gov/gene/100494318) | [485572](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485572) |  |
-| Zebrafish | [ENSDARG00000077364](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077364) | [100149273](https://www.ncbi.nlm.nih.gov/gene/100149273) | [ZFIN:ZDB-GENE-091117-28](https://zfin.org/ZDB-GENE-091117-28), [ZFIN:ZDB-GENE-091117-28](https://zfin.org/ZDB-GENE-091117-28) | ZDB-GENE-091117-28,ZDB-GENE-091117-28 |
+| Zebrafish | [ENSDARG00000077364](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077364) | [100149273](https://www.ncbi.nlm.nih.gov/gene/100149273) | [ZFIN:ZDB-GENE-091117-28](https://zfin.org/ZDB-GENE-091117-28) | JNK cascade, convergent extension involved in gastrulation, phosphorylation, protein phosphorylation, rhythmic process |
 

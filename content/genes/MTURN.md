@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420679
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640720
-gene_id: '454865'
+gene_id: '420679'
 gene_type: protein-coding
 images:
 - caption: MTURN expression
@@ -110,40 +110,31 @@ images:
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/W47_13_mag.jpg
 name: maturin, neural progenitor differentiation regulator homolog (Xenopus)
-ncbi_id: '454865'
+ncbi_id: '420679'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000180354
+  entrez: '222166'
+  mod: MIM:620491
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000044268
+  entrez: '493304'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000074505
+  entrez: '792465'
+  mod: ZFIN:ZDB-GENE-081104-127
+  phenotypes: positive regulation of megakaryocyte differentiation, regulation of
+    signaling
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454865
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420679
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454865
+  url: https://www.ncbi.nlm.nih.gov/gene/420679
 species: Gallus gallus
 symbol: MTURN
 title: MTURN
@@ -165,9 +156,7 @@ title: MTURN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000180354](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000180354) | [222166](https://www.ncbi.nlm.nih.gov/gene/222166) | [MIM:620491](https://omim.org/entry/620491) |  |
+| Xenopus | [ENSXETG00000044268](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044268) | [493304](https://www.ncbi.nlm.nih.gov/gene/493304) |  |  |
+| Zebrafish | [ENSDARG00000074505](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074505) | [792465](https://www.ncbi.nlm.nih.gov/gene/792465) | [ZFIN:ZDB-GENE-081104-127](https://zfin.org/ZDB-GENE-081104-127) | positive regulation of megakaryocyte differentiation, regulation of signaling |
 

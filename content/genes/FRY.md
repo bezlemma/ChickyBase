@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418915
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640579
   X-XIV: stage XIII
-gene_id: '451919'
+gene_id: '418915'
 gene_type: protein-coding
 images:
 - caption: FRY expression
@@ -51,40 +51,35 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FRY.Trevers.2023-Fig7-5-T.jpg
 name: FRY microtubule binding protein
-ncbi_id: '451919'
+ncbi_id: '418915'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000073910
+  entrez: '10129'
+  mod: MIM:614818
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000056602
+  entrez: '320365'
+  mod: MGI:2443895
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000033712
+  entrez: '100491492'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000110169
+  entrez: '792949'
+  mod: ZFIN:ZDB-GENE-080215-5
+  phenotypes: cell morphogenesis
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451919
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418915
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451919
+  url: https://www.ncbi.nlm.nih.gov/gene/418915
 species: Gallus gallus
 symbol: FRY
 title: FRY
@@ -108,9 +103,8 @@ title: FRY
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000073910](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000073910) | [10129](https://www.ncbi.nlm.nih.gov/gene/10129) | [MIM:614818](https://omim.org/entry/614818) |  |
+| Mouse | [ENSMUSG00000056602](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000056602) | [320365](https://www.ncbi.nlm.nih.gov/gene/320365) | [MGI:2443895](http://www.informatics.jax.org/marker/MGI:2443895) |  |
+| Xenopus | [ENSXETG00000033712](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033712) | [100491492](https://www.ncbi.nlm.nih.gov/gene/100491492) |  |  |
+| Zebrafish | [ENSDARG00000110169](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110169) | [792949](https://www.ncbi.nlm.nih.gov/gene/792949) | [ZFIN:ZDB-GENE-080215-5](https://zfin.org/ZDB-GENE-080215-5) | cell morphogenesis |
 

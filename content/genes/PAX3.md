@@ -5,8 +5,6 @@ aliases:
 - paired box gene 3
 cgnc_id: '3903'
 external_ids:
-  '25': stage 25stage 25
-  '7': stage 7
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0003145
   Citation: Liem Jr., K.F, Tremml G, Roelink H, Jessell T.M. Dorsal differentiation
     of neural plate cells induced by BMP-mediated signals from epidermal ectoderm.
@@ -21,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374127
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204269
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/PAX3
-gene_id: '455729'
+gene_id: '374127'
 gene_type: protein-coding
 images:
 - caption: PAX3 expression
@@ -1389,13 +1387,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liem.1995_Fig1_ALLIMAGES.jpg
 name: paired box 3
-ncbi_id: '455729'
+ncbi_id: '374127'
 orthologs:
-- ensembl: ''
-  entrez: '34629'
-  mod: FBgn0003145
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000135903
   entrez: '5077'
   mod: MIM:606597
@@ -1407,20 +1400,21 @@ orthologs:
   phenotypes: All phenotypic alleles (30):Spontaneous(5) Chemically induced(2) Radiation
     induced(6) Targeted, knock-out(2) Targeted, other(15)
   species: Mouse
-- ensembl: ''
-  entrez: 448464,496376,496377
-  mod: '482739'
+- ensembl: ENSXETG00000007640
+  entrez: '448464'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000010192,ENSDARG00000028348
-  entrez: 30532,100150137
-  mod: ZFIN:ZDB-GENE-980526-52,ZFIN:ZDB-GENE-080917-53
-  phenotypes: ZDB-GENE-980526-52,ZDB-GENE-080917-53
+- ensembl: ENSDARG00000010192
+  entrez: '30532'
+  mod: ZFIN:ZDB-GENE-980526-52
+  phenotypes: anatomical structure morphogenesis, developmental pigmentation, enteric
+    nervous system development, nervous system development, neural crest cell migration
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455729
+  url: https://www.ncbi.nlm.nih.gov/gene/374127
 species: Gallus gallus
 symbol: PAX3
 title: PAX3
@@ -1448,9 +1442,8 @@ title: PAX3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34629](https://www.ncbi.nlm.nih.gov/gene/34629) | FBgn0003145 |  |
 | Human | [ENSG00000135903](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135903) | [5077](https://www.ncbi.nlm.nih.gov/gene/5077) | [MIM:606597](https://omim.org/entry/606597) | MIM:122880 |
 | Mouse | [ENSMUSG00000004872](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000004872) | [18505](https://www.ncbi.nlm.nih.gov/gene/18505) | [MGI:97487](http://www.informatics.jax.org/marker/MGI:97487) | All phenotypic alleles (30):Spontaneous(5) Chemically induced(2) Radiation induced(6) Targeted, knock-out(2) Targeted, other(15) |
-| Xenopus |  | [448464](https://www.ncbi.nlm.nih.gov/gene/448464), [496376](https://www.ncbi.nlm.nih.gov/gene/496376), [496377](https://www.ncbi.nlm.nih.gov/gene/496377) | [482739](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482739) |  |
-| Zebrafish | [ENSDARG00000010192](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010192), [ENSDARG00000028348](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028348) | [30532](https://www.ncbi.nlm.nih.gov/gene/30532), [100150137](https://www.ncbi.nlm.nih.gov/gene/100150137) | [ZFIN:ZDB-GENE-980526-52](https://zfin.org/ZDB-GENE-980526-52), [ZFIN:ZDB-GENE-080917-53](https://zfin.org/ZDB-GENE-080917-53) | ZDB-GENE-980526-52,ZDB-GENE-080917-53 |
+| Xenopus | [ENSXETG00000007640](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007640) | [448464](https://www.ncbi.nlm.nih.gov/gene/448464) |  |  |
+| Zebrafish | [ENSDARG00000010192](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010192) | [30532](https://www.ncbi.nlm.nih.gov/gene/30532) | [ZFIN:ZDB-GENE-980526-52](https://zfin.org/ZDB-GENE-980526-52) | anatomical structure morphogenesis, developmental pigmentation, enteric nervous system development, nervous system development, neural crest cell migration |
 

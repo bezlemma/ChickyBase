@@ -4,7 +4,6 @@ aliases:
 - zinc finger protein Zic3
 cgnc_id: '51676'
 external_ids:
-  '7': stage 7
   Citation: https://pubmed.ncbi.nlm.nih.gov/31997540/
   Comments: Probe template is nt 116,406–117,126 of LC377844
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422251
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420237
   X-XIV: stage XIII
-gene_id: '450108'
+gene_id: '422251'
 gene_type: protein-coding
 images:
 - caption: ZIC3 expression
@@ -428,37 +427,34 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Screenshot 2024-02-06
     at 8.52.19 PM.png
 name: Zic family member 3
-ncbi_id: '450108'
+ncbi_id: '422251'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000156925
+  entrez: '7547'
+  mod: MIM:300265
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000067860
+  entrez: '22773'
+  mod: MGI:106676
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000024458
+  entrez: '448197'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000071497
+  entrez: '368263'
+  mod: ZFIN:ZDB-GENE-030708-2
+  phenotypes: anterior/posterior axis specification, anterior/posterior pattern specification,
+    central nervous system development, determination of left/right symmetry, regulation
+    of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450108
+  url: https://www.ncbi.nlm.nih.gov/gene/422251
 species: Gallus gallus
 symbol: ZIC3
 title: ZIC3
@@ -484,9 +480,8 @@ title: ZIC3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000156925](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000156925) | [7547](https://www.ncbi.nlm.nih.gov/gene/7547) | [MIM:300265](https://omim.org/entry/300265) |  |
+| Mouse | [ENSMUSG00000067860](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000067860) | [22773](https://www.ncbi.nlm.nih.gov/gene/22773) | [MGI:106676](http://www.informatics.jax.org/marker/MGI:106676) |  |
+| Xenopus | [ENSXETG00000024458](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000024458) | [448197](https://www.ncbi.nlm.nih.gov/gene/448197) |  |  |
+| Zebrafish | [ENSDARG00000071497](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071497) | [368263](https://www.ncbi.nlm.nih.gov/gene/368263) | [ZFIN:ZDB-GENE-030708-2](https://zfin.org/ZDB-GENE-030708-2) | anterior/posterior axis specification, anterior/posterior pattern specification, central nervous system development, determination of left/right symmetry, regulation of transcription by RNA polymerase II |
 

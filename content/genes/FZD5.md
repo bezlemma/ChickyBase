@@ -5,7 +5,6 @@ aliases:
 - frizzled homolog 5
 cgnc_id: '49381'
 external_ids:
-  '19': stage 19
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0016055
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Antoni+craniofacial+wnt+fu
@@ -17,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395571
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004930
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_426568
-gene_id: '449555'
+gene_id: '395571'
 gene_type: protein-coding
 images:
 - caption: FZD5 expression
@@ -239,37 +238,33 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZD5.GeethaLoganathan.2009.Figure8E.panelA.png
 name: frizzled class receptor 5
-ncbi_id: '449555'
+ncbi_id: '395571'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000163251
+  entrez: '7855'
+  mod: MIM:601723
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000045005
+  entrez: '14367'
+  mod: MGI:108571
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000046962
+  entrez: '100488110'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000025420
+  entrez: '30364'
+  mod: ZFIN:ZDB-GENE-990415-218
+  phenotypes: G protein-coupled receptor signaling pathway, Wnt signaling pathway,
+    camera-type eye development, canonical Wnt signaling pathway, cell differentiation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449555
+  url: https://www.ncbi.nlm.nih.gov/gene/395571
 species: Gallus gallus
 symbol: FZD5
 title: FZD5
@@ -298,9 +293,8 @@ title: FZD5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000163251](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163251) | [7855](https://www.ncbi.nlm.nih.gov/gene/7855) | [MIM:601723](https://omim.org/entry/601723) |  |
+| Mouse | [ENSMUSG00000045005](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000045005) | [14367](https://www.ncbi.nlm.nih.gov/gene/14367) | [MGI:108571](http://www.informatics.jax.org/marker/MGI:108571) |  |
+| Xenopus | [ENSXETG00000046962](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000046962) | [100488110](https://www.ncbi.nlm.nih.gov/gene/100488110) |  |  |
+| Zebrafish | [ENSDARG00000025420](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000025420) | [30364](https://www.ncbi.nlm.nih.gov/gene/30364) | [ZFIN:ZDB-GENE-990415-218](https://zfin.org/ZDB-GENE-990415-218) | G protein-coupled receptor signaling pathway, Wnt signaling pathway, camera-type eye development, canonical Wnt signaling pathway, cell differentiation |
 

@@ -5,7 +5,6 @@ aliases:
 - thyrotrophic embryonic factor
 cgnc_id: '9066'
 external_ids:
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0045944
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/396342
@@ -14,7 +13,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205382
 forward_primer: GTCCAGGCGAGCGGGTTG
-gene_id: '461773'
+gene_id: '396342'
 gene_type: protein-coding
 images:
 - caption: TEF expression
@@ -105,13 +104,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R272.TEF.S25.001.jpg
 name: TEF, PAR bZIP transcription factor
-ncbi_id: '461773'
+ncbi_id: '396342'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000167074
   entrez: '7008'
   mod: MIM:188595
@@ -122,24 +116,26 @@ orthologs:
   mod: MGI:98663
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 550073,494759
-  mod: '962731'
+- ensembl: ENSXETG00000006333
+  entrez: '550073'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000039117,ENSDARG00000038401
-  entrez: 30674,553686
-  mod: ZFIN:ZDB-GENE-990415-264,ZFIN:ZDB-GENE-050522-224
-  phenotypes: ZDB-GENE-990415-264,ZDB-GENE-050522-224
+- ensembl: ENSDARG00000098103
+  entrez: '553686'
+  mod: ZFIN:ZDB-GENE-050522-224
+  phenotypes: cellular response to light stimulus, positive regulation of transcription
+    by RNA polymerase II, regulation of DNA-templated transcription, regulation of
+    transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCGGTAAACTTGTGCTTGCGAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461773
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396342
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461773
+  url: https://www.ncbi.nlm.nih.gov/gene/396342
 species: Gallus gallus
 symbol: TEF
 template_length: '661'
@@ -164,9 +160,8 @@ title: TEF
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000167074](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000167074) | [7008](https://www.ncbi.nlm.nih.gov/gene/7008) | [MIM:188595](https://omim.org/entry/188595) |  |
 | Mouse | [ENSMUSG00000022389](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022389) | [21685](https://www.ncbi.nlm.nih.gov/gene/21685) | [MGI:98663](http://www.informatics.jax.org/marker/MGI:98663) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [550073](https://www.ncbi.nlm.nih.gov/gene/550073), [494759](https://www.ncbi.nlm.nih.gov/gene/494759) | [962731](http://www.xenbase.org/gene/showgene.do?method=display&geneId=962731) |  |
-| Zebrafish | [ENSDARG00000039117](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000039117), [ENSDARG00000038401](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038401) | [30674](https://www.ncbi.nlm.nih.gov/gene/30674), [553686](https://www.ncbi.nlm.nih.gov/gene/553686) | [ZFIN:ZDB-GENE-990415-264](https://zfin.org/ZDB-GENE-990415-264), [ZFIN:ZDB-GENE-050522-224](https://zfin.org/ZDB-GENE-050522-224) | ZDB-GENE-990415-264,ZDB-GENE-050522-224 |
+| Xenopus | [ENSXETG00000006333](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006333) | [550073](https://www.ncbi.nlm.nih.gov/gene/550073) |  |  |
+| Zebrafish | [ENSDARG00000098103](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098103) | [553686](https://www.ncbi.nlm.nih.gov/gene/553686) | [ZFIN:ZDB-GENE-050522-224](https://zfin.org/ZDB-GENE-050522-224) | cellular response to light stimulus, positive regulation of transcription by RNA polymerase II, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426765
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0017147
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012941
-gene_id: '458803'
+gene_id: '426765'
 gene_type: protein-coding
 images:
 - caption: APCDD1 expression
@@ -70,14 +70,9 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/APCDD1.Anderson.2019.Supplementary
     figure 5H1.jpg
 name: APC down-regulated 1
-ncbi_id: '458803'
+ncbi_id: '426765'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000154856
   entrez: '147495'
   mod: MIM:607479
   phenotypes: ''
@@ -87,20 +82,20 @@ orthologs:
   mod: MGI:3513977
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 448576,447402
-  mod: '5762129'
+- ensembl: ENSXETG00000026893
+  entrez: '448576'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000098203
   entrez: '100332639'
-  mod: ZFIN:ZDB-GENE-130806-1
-  phenotypes: ZDB-GENE-130806-1
+  mod: ''
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458803
+  url: https://www.ncbi.nlm.nih.gov/gene/426765
 species: Gallus gallus
 symbol: APCDD1
 title: APCDD1
@@ -129,9 +124,8 @@ title: APCDD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [147495](https://www.ncbi.nlm.nih.gov/gene/147495) | [MIM:607479](https://omim.org/entry/607479) |  |
+| Human | [ENSG00000154856](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000154856) | [147495](https://www.ncbi.nlm.nih.gov/gene/147495) | [MIM:607479](https://omim.org/entry/607479) |  |
 | Mouse | [ENSMUSG00000071847](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000071847) | [494504](https://www.ncbi.nlm.nih.gov/gene/494504) | [MGI:3513977](http://www.informatics.jax.org/marker/MGI:3513977) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [448576](https://www.ncbi.nlm.nih.gov/gene/448576), [447402](https://www.ncbi.nlm.nih.gov/gene/447402) | [5762129](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5762129) |  |
-| Zebrafish |  | [100332639](https://www.ncbi.nlm.nih.gov/gene/100332639) | [ZFIN:ZDB-GENE-130806-1](https://zfin.org/ZDB-GENE-130806-1) | ZDB-GENE-130806-1 |
+| Xenopus | [ENSXETG00000026893](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026893) | [448576](https://www.ncbi.nlm.nih.gov/gene/448576) |  |  |
+| Zebrafish | [ENSDARG00000098203](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098203) | [100332639](https://www.ncbi.nlm.nih.gov/gene/100332639) |  |  |
 

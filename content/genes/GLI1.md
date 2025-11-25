@@ -3,8 +3,6 @@ aliases:
 - GLI, zinc finger protein GLI1
 cgnc_id: '10848'
 external_ids:
-  '13': stage 13
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030154
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Lin+2013+protocadherins+Redies
@@ -18,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396045
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_413682
-gene_id: '459521'
+gene_id: '396045'
 gene_type: protein-coding
 images:
 - caption: GLI1 expression
@@ -452,40 +450,26 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kahane.2013.Fig1_Allimages-4.jpg
 name: GLI family zinc finger 1
-ncbi_id: '459521'
+ncbi_id: '396045'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000036606
+  entrez: '100494064'
   mod: ''
   phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000111087
-  entrez: '2735'
-  mod: MIM:165220
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000025407
-  entrez: '14632'
-  mod: MGI:95727
-  phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
-  species: Mouse
-- ensembl: ''
-  entrez: 100494064,398350
-  mod: 1000646,482643
-  phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000033680
+- ensembl: ENSDARG00000101244
   entrez: '352930'
   mod: ZFIN:ZDB-GENE-030321-1
-  phenotypes: ZDB-GENE-030321-1
+  phenotypes: abducens nerve development, abducens nucleus development, adenohypophysis
+    development, adenohypophysis morphogenesis, brain development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459521
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396045
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459521
+  url: https://www.ncbi.nlm.nih.gov/gene/396045
 species: Gallus gallus
 symbol: GLI1
 title: GLI1
@@ -514,9 +498,6 @@ title: GLI1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000111087](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111087) | [2735](https://www.ncbi.nlm.nih.gov/gene/2735) | [MIM:165220](https://omim.org/entry/165220) |  |
-| Mouse | [ENSMUSG00000025407](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025407) | [14632](https://www.ncbi.nlm.nih.gov/gene/14632) | [MGI:95727](http://www.informatics.jax.org/marker/MGI:95727) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100494064](https://www.ncbi.nlm.nih.gov/gene/100494064), [398350](https://www.ncbi.nlm.nih.gov/gene/398350) | [1000646](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1000646), [482643](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482643) |  |
-| Zebrafish | [ENSDARG00000033680](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000033680) | [352930](https://www.ncbi.nlm.nih.gov/gene/352930) | [ZFIN:ZDB-GENE-030321-1](https://zfin.org/ZDB-GENE-030321-1) | ZDB-GENE-030321-1 |
+| Xenopus | [ENSXETG00000036606](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000036606) | [100494064](https://www.ncbi.nlm.nih.gov/gene/100494064) |  |  |
+| Zebrafish | [ENSDARG00000101244](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101244) | [352930](https://www.ncbi.nlm.nih.gov/gene/352930) | [ZFIN:ZDB-GENE-030321-1](https://zfin.org/ZDB-GENE-030321-1) | abducens nerve development, abducens nucleus development, adenohypophysis development, adenohypophysis morphogenesis, brain development |
 

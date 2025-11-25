@@ -4,7 +4,6 @@ aliases:
 - PR domain 5
 cgnc_id: '9070'
 external_ids:
-  '19': stage 19
   Comments: no specific expression detected at stage 11.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/422673
@@ -12,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422673
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420628
 forward_primer: 5’-AACTGGATGAGAACACAGAC-3’
-gene_id: '452166'
+gene_id: '422673'
 gene_type: protein-coding
 images:
 - caption: PRDM5 expression
@@ -74,13 +73,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R696.PRDM5.S26.001.jpg
 name: PR/SET domain 5
-ncbi_id: '452166'
+ncbi_id: '422673'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138738
   entrez: '11107'
   mod: MIM:614161
@@ -91,24 +85,26 @@ orthologs:
   mod: MGI:1918029
   phenotypes: All phenotypic alleles (1):Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000002101
   entrez: '100487368'
-  mod: '854776'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000006288
   entrez: '432371'
   mod: ZFIN:ZDB-GENE-040708-1
-  phenotypes: ZDB-GENE-040708-1
+  phenotypes: embryonic cranial skeleton morphogenesis, embryonic neurocranium morphogenesis,
+    embryonic viscerocranium morphogenesis, negative regulation of DNA-templated transcription,
+    regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTGACACTCAAAGGTCTCATG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452166
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422673
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452166
+  url: https://www.ncbi.nlm.nih.gov/gene/422673
 species: Gallus gallus
 symbol: PRDM5
 template_length: '838'
@@ -133,9 +129,8 @@ title: PRDM5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000138738](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138738) | [11107](https://www.ncbi.nlm.nih.gov/gene/11107) | [MIM:614161](https://omim.org/entry/614161) |  |
 | Mouse | [ENSMUSG00000029913](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029913) | [70779](https://www.ncbi.nlm.nih.gov/gene/70779) | [MGI:1918029](http://www.informatics.jax.org/marker/MGI:1918029) | All phenotypic alleles (1):Gene trapped(1) |
-| Xenopus |  | [100487368](https://www.ncbi.nlm.nih.gov/gene/100487368) | [854776](http://www.xenbase.org/gene/showgene.do?method=display&geneId=854776) |  |
-| Zebrafish |  | [432371](https://www.ncbi.nlm.nih.gov/gene/432371) | [ZFIN:ZDB-GENE-040708-1](https://zfin.org/ZDB-GENE-040708-1) | ZDB-GENE-040708-1 |
+| Xenopus | [ENSXETG00000002101](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002101) | [100487368](https://www.ncbi.nlm.nih.gov/gene/100487368) |  |  |
+| Zebrafish | [ENSDARG00000006288](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006288) | [432371](https://www.ncbi.nlm.nih.gov/gene/432371) | [ZFIN:ZDB-GENE-040708-1](https://zfin.org/ZDB-GENE-040708-1) | embryonic cranial skeleton morphogenesis, embryonic neurocranium morphogenesis, embryonic viscerocranium morphogenesis, negative regulation of DNA-templated transcription, regulation of DNA-templated transcription |
 

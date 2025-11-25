@@ -11,7 +11,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000021770
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NC_006106
-gene_id: '468007'
+gene_id: '777913'
 gene_type: miscRNA
 images:
 - caption: MIR449A expression
@@ -54,7 +54,7 @@ images:
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MIR449.Bannister.2009.Fig.3.png
 name: microRNA 449a
-ncbi_id: '468007'
+ncbi_id: '777913'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -84,7 +84,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/468007
+  url: https://www.ncbi.nlm.nih.gov/gene/777913
 species: Gallus gallus
 symbol: MIR449A
 title: MIR449A

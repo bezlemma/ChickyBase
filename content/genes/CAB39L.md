@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418865
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006272
 forward_primer: 5'-CACGCAGCATTCCTCTTCTACAC-3'
-gene_id: '454235'
+gene_id: '418865'
 gene_type: protein-coding
 images:
 - caption: CAB39L expression
@@ -93,41 +93,36 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R560.CAB39L.S26V.001.jpg
 name: calcium binding protein 39 like
-ncbi_id: '454235'
+ncbi_id: '418865'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000102547
+  entrez: '81617'
+  mod: MIM:612175
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000021981
+  entrez: '69008'
+  mod: MGI:1914081
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000015659
+  entrez: '549934'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000036658
+  entrez: '492361'
+  mod: ZFIN:ZDB-GENE-041114-204
+  phenotypes: intracellular signal transduction
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGTTGGGGCTTTTGTCTCGC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454235
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418865
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454235
+  url: https://www.ncbi.nlm.nih.gov/gene/418865
 species: Gallus gallus
 symbol: CAB39L
 template_length: '851'
@@ -150,9 +145,8 @@ title: CAB39L
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000102547](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000102547) | [81617](https://www.ncbi.nlm.nih.gov/gene/81617) | [MIM:612175](https://omim.org/entry/612175) |  |
+| Mouse | [ENSMUSG00000021981](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021981) | [69008](https://www.ncbi.nlm.nih.gov/gene/69008) | [MGI:1914081](http://www.informatics.jax.org/marker/MGI:1914081) |  |
+| Xenopus | [ENSXETG00000015659](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015659) | [549934](https://www.ncbi.nlm.nih.gov/gene/549934) |  |  |
+| Zebrafish | [ENSDARG00000036658](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036658) | [492361](https://www.ncbi.nlm.nih.gov/gene/492361) | [ZFIN:ZDB-GENE-041114-204](https://zfin.org/ZDB-GENE-041114-204) | intracellular signal transduction |
 

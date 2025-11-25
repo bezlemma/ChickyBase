@@ -3,14 +3,13 @@ aliases:
 - myozenin-2
 cgnc_id: '9086'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/422682
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422682
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277827
 forward_primer: 5'-GCATCCTGACAACATTGCCC-3'
-gene_id: '452148'
+gene_id: '422682'
 gene_type: protein-coding
 images:
 - caption: MYOZ2 expression
@@ -117,13 +116,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MYOZ2.S25.001.jpg
 name: myozenin 2
-ncbi_id: '452148'
+ncbi_id: '422682'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000172399
   entrez: '51778'
   mod: MIM:605602
@@ -134,24 +128,24 @@ orthologs:
   mod: MGI:1913063
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 496895,494787
-  mod: '942885'
+- ensembl: ENSXETG00000004043
+  entrez: '496895'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000037266,ENSDARG00000012311
-  entrez: 393828,393873
-  mod: ZFIN:ZDB-GENE-040426-1853,ZFIN:ZDB-GENE-040426-1880
-  phenotypes: ZDB-GENE-040426-1853,ZDB-GENE-040426-1880
+- ensembl: ENSDARG00000037266
+  entrez: '393828'
+  mod: ZFIN:ZDB-GENE-040426-1853
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGCAGCTTCTCTCACAGGTC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452148
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422682
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452148
+  url: https://www.ncbi.nlm.nih.gov/gene/422682
 species: Gallus gallus
 symbol: MYOZ2
 template_length: '450'
@@ -174,9 +168,8 @@ title: MYOZ2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000172399](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000172399) | [51778](https://www.ncbi.nlm.nih.gov/gene/51778) | [MIM:605602](https://omim.org/entry/605602) | MIM:613838 |
 | Mouse | [ENSMUSG00000028116](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028116) | [59006](https://www.ncbi.nlm.nih.gov/gene/59006) | [MGI:1913063](http://www.informatics.jax.org/marker/MGI:1913063) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [496895](https://www.ncbi.nlm.nih.gov/gene/496895), [494787](https://www.ncbi.nlm.nih.gov/gene/494787) | [942885](http://www.xenbase.org/gene/showgene.do?method=display&geneId=942885) |  |
-| Zebrafish | [ENSDARG00000037266](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037266), [ENSDARG00000012311](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012311) | [393828](https://www.ncbi.nlm.nih.gov/gene/393828), [393873](https://www.ncbi.nlm.nih.gov/gene/393873) | [ZFIN:ZDB-GENE-040426-1853](https://zfin.org/ZDB-GENE-040426-1853), [ZFIN:ZDB-GENE-040426-1880](https://zfin.org/ZDB-GENE-040426-1880) | ZDB-GENE-040426-1853,ZDB-GENE-040426-1880 |
+| Xenopus | [ENSXETG00000004043](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004043) | [496895](https://www.ncbi.nlm.nih.gov/gene/496895) |  |  |
+| Zebrafish | [ENSDARG00000037266](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037266) | [393828](https://www.ncbi.nlm.nih.gov/gene/393828) | [ZFIN:ZDB-GENE-040426-1853](https://zfin.org/ZDB-GENE-040426-1853) |  |
 

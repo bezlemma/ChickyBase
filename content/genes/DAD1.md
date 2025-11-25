@@ -21,7 +21,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395343
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004579
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001007473
-gene_id: '448952'
+gene_id: '395343'
 gene_type: protein-coding
 images:
 - caption: DAD1 expression
@@ -95,13 +95,8 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gibson.Fig1.DAD1.F.St8.jpg
 name: defender against cell death 1
-ncbi_id: '448952'
+ncbi_id: '395343'
 orthologs:
-- ensembl: ''
-  entrez: '34159'
-  mod: FBgn0263852
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000129562
   entrez: '1603'
   mod: MIM:600243
@@ -112,23 +107,23 @@ orthologs:
   mod: MGI:101912
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 549694,397721
-  mod: '922820'
+- ensembl: ENSXETG00000026483
+  entrez: '549694'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000059791
+- ensembl: ENSDARG00000102105
   entrez: '566527'
   mod: ZFIN:ZDB-GENE-060503-233
-  phenotypes: ZDB-GENE-060503-233
+  phenotypes: protein N-linked glycosylation, protein glycosylation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448952
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395343
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448952
+  url: https://www.ncbi.nlm.nih.gov/gene/395343
 species: Gallus gallus
 symbol: DAD1
 title: DAD1
@@ -159,9 +154,8 @@ title: DAD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34159](https://www.ncbi.nlm.nih.gov/gene/34159) | FBgn0263852 |  |
 | Human | [ENSG00000129562](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000129562) | [1603](https://www.ncbi.nlm.nih.gov/gene/1603) | [MIM:600243](https://omim.org/entry/600243) | MIM:600243 |
 | Mouse | [ENSMUSG00000022174](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022174) | [13135](https://www.ncbi.nlm.nih.gov/gene/13135) | [MGI:101912](http://www.informatics.jax.org/marker/MGI:101912) | All phenotypic alleles (7):Targeted, knock-out(3) Targeted, other(4) |
-| Xenopus |  | [549694](https://www.ncbi.nlm.nih.gov/gene/549694), [397721](https://www.ncbi.nlm.nih.gov/gene/397721) | [922820](http://www.xenbase.org/gene/showgene.do?method=display&geneId=922820) |  |
-| Zebrafish | [ENSDARG00000059791](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059791) | [566527](https://www.ncbi.nlm.nih.gov/gene/566527) | [ZFIN:ZDB-GENE-060503-233](https://zfin.org/ZDB-GENE-060503-233) | ZDB-GENE-060503-233 |
+| Xenopus | [ENSXETG00000026483](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026483) | [549694](https://www.ncbi.nlm.nih.gov/gene/549694) |  |  |
+| Zebrafish | [ENSDARG00000102105](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000102105) | [566527](https://www.ncbi.nlm.nih.gov/gene/566527) | [ZFIN:ZDB-GENE-060503-233](https://zfin.org/ZDB-GENE-060503-233) | protein N-linked glycosylation, protein glycosylation |
 

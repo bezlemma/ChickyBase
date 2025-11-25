@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421226
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012870
 forward_primer: 5'-GAAAGCAAATGTCGTCGCCC-3'
-gene_id: '462938'
+gene_id: '421226'
 gene_type: protein-coding
 images:
 - caption: BUB1 expression
@@ -163,13 +163,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R554.BUB1.S27AA.001.jpg
 name: BUB1 mitotic checkpoint serine/threonine kinase
-ncbi_id: '462938'
+ncbi_id: '421226'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000169679
   entrez: '699'
   mod: MIM:602452
@@ -181,24 +176,25 @@ orthologs:
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(4)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 780291,398234
-  mod: '974761'
+- ensembl: ENSXETG00000022448
+  entrez: '780291'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000077029
   entrez: '100307076'
   mod: ZFIN:ZDB-GENE-081104-75
-  phenotypes: ZDB-GENE-081104-75
+  phenotypes: meiotic sister chromatid cohesion, centromeric, mitotic spindle assembly
+    checkpoint signaling, phosphorylation, protein phosphorylation
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGACCAAGATGGAGTTCAGCCCTC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462938
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421226
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462938
+  url: https://www.ncbi.nlm.nih.gov/gene/421226
 species: Gallus gallus
 symbol: BUB1
 template_length: '751'
@@ -221,9 +217,8 @@ title: BUB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000169679](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169679) | [699](https://www.ncbi.nlm.nih.gov/gene/699) | [MIM:602452](https://omim.org/entry/602452) | MIM:602452 |
 | Mouse | [ENSMUSG00000027379](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027379) | [12235](https://www.ncbi.nlm.nih.gov/gene/12235) | [MGI:1100510](http://www.informatics.jax.org/marker/MGI:1100510) | All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(4) Gene trapped(1) |
-| Xenopus |  | [780291](https://www.ncbi.nlm.nih.gov/gene/780291), [398234](https://www.ncbi.nlm.nih.gov/gene/398234) | [974761](http://www.xenbase.org/gene/showgene.do?method=display&geneId=974761) |  |
-| Zebrafish | [ENSDARG00000077029](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077029) | [100307076](https://www.ncbi.nlm.nih.gov/gene/100307076) | [ZFIN:ZDB-GENE-081104-75](https://zfin.org/ZDB-GENE-081104-75) | ZDB-GENE-081104-75 |
+| Xenopus | [ENSXETG00000022448](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022448) | [780291](https://www.ncbi.nlm.nih.gov/gene/780291) |  |  |
+| Zebrafish | [ENSDARG00000077029](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077029) | [100307076](https://www.ncbi.nlm.nih.gov/gene/100307076) | [ZFIN:ZDB-GENE-081104-75](https://zfin.org/ZDB-GENE-081104-75) | meiotic sister chromatid cohesion, centromeric, mitotic spindle assembly checkpoint signaling, phosphorylation, protein phosphorylation |
 

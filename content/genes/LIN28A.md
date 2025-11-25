@@ -5,7 +5,6 @@ aliases:
 - lin-28A
 cgnc_id: '228'
 external_ids:
-  '7': stage 7
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0035626
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0031123
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0000932
@@ -23,7 +22,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031774
   X-XIV: stage XIII
 forward_primer: CTCTGAAACACAGGGCTGGAAG
-gene_id: '458879'
+gene_id: '428206'
 gene_type: protein-coding
 images:
 - caption: LIN28A expression
@@ -220,13 +219,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LIN28A.Travers.2023-Fig7-2-K.jpg
 name: lin-28 homolog A
-ncbi_id: '458879'
+ncbi_id: '428206'
 orthologs:
-- ensembl: ''
-  entrez: '38639'
-  mod: FBgn0035626
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000131914
   entrez: '79727'
   mod: MIM:611043
@@ -237,24 +231,25 @@ orthologs:
   mod: MGI:1890546
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 548523,387262
-  mod: '491383'
+- ensembl: ENSXETG00000012324
+  entrez: '548523'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000004328,ENSDARG00000016999
-  entrez: 799825,394066
+- ensembl: ENSDARG00000016999
+  entrez: '394066'
   mod: ZFIN:ZDB-GENE-040426-747
-  phenotypes: ZDB-GENE-040426-747
+  phenotypes: chordate embryonic development, negative regulation of gene expression,
+    positive regulation of cytoplasmic translation, pre-miRNA processing, regeneration
   species: Zebrafish
 reverse_primer: TCACTTGGCATTGGCTTTGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458879
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428206
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458879
+  url: https://www.ncbi.nlm.nih.gov/gene/428206
 species: Gallus gallus
 symbol: LIN28A
 template_length: '275'
@@ -286,9 +281,8 @@ title: LIN28A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38639](https://www.ncbi.nlm.nih.gov/gene/38639) | FBgn0035626 |  |
 | Human | [ENSG00000131914](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000131914) | [79727](https://www.ncbi.nlm.nih.gov/gene/79727) | [MIM:611043](https://omim.org/entry/611043) |  |
 | Mouse | [ENSMUSG00000050966](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000050966) | [83557](https://www.ncbi.nlm.nih.gov/gene/83557) | [MGI:1890546](http://www.informatics.jax.org/marker/MGI:1890546) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [548523](https://www.ncbi.nlm.nih.gov/gene/548523), [387262](https://www.ncbi.nlm.nih.gov/gene/387262) | [491383](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491383) |  |
-| Zebrafish | [ENSDARG00000004328](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004328), [ENSDARG00000016999](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016999) | [799825](https://www.ncbi.nlm.nih.gov/gene/799825), [394066](https://www.ncbi.nlm.nih.gov/gene/394066) | [ZFIN:ZDB-GENE-040426-747](https://zfin.org/ZDB-GENE-040426-747) | ZDB-GENE-040426-747 |
+| Xenopus | [ENSXETG00000012324](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012324) | [548523](https://www.ncbi.nlm.nih.gov/gene/548523) |  |  |
+| Zebrafish | [ENSDARG00000016999](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016999) | [394066](https://www.ncbi.nlm.nih.gov/gene/394066) | [ZFIN:ZDB-GENE-040426-747](https://zfin.org/ZDB-GENE-040426-747) | chordate embryonic development, negative regulation of gene expression, positive regulation of cytoplasmic translation, pre-miRNA processing, regeneration |
 

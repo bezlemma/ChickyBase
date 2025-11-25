@@ -4,13 +4,12 @@ aliases:
 - A kinase (PRKA) anchor protein 6
 cgnc_id: '7598'
 external_ids:
-  '25': stage 25stage 25stage 25
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000009995
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423314
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641359
 forward_primer: TGGCTTTACAGTCAACCTACAGTGG
-gene_id: '448737'
+gene_id: '423314'
 gene_type: protein-coding
 images:
 - caption: AKAP6 expression
@@ -122,41 +121,38 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R519.AKAP6.S25V.001.jpg
 name: A-kinase anchoring protein 6
-ncbi_id: '448737'
+ncbi_id: '423314'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000151320
+  entrez: '9472'
+  mod: MIM:604691
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000061603
+  entrez: '238161'
+  mod: MGI:3050566
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000014113
+  entrez: '100496001'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000077295
+  entrez: '100002625'
+  mod: ZFIN:ZDB-GENE-120207-2
+  phenotypes: establishment of protein localization to membrane, heart development,
+    response to auditory stimulus, retina development in camera-type eye, sensory
+    perception of sound
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCAGCAGTCCTTTCCAACTTCCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448737
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423314
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448737
+  url: https://www.ncbi.nlm.nih.gov/gene/423314
 species: Gallus gallus
 symbol: AKAP6
 template_length: '912'
@@ -178,9 +174,8 @@ title: AKAP6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000151320](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000151320) | [9472](https://www.ncbi.nlm.nih.gov/gene/9472) | [MIM:604691](https://omim.org/entry/604691) |  |
+| Mouse | [ENSMUSG00000061603](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061603) | [238161](https://www.ncbi.nlm.nih.gov/gene/238161) | [MGI:3050566](http://www.informatics.jax.org/marker/MGI:3050566) |  |
+| Xenopus | [ENSXETG00000014113](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014113) | [100496001](https://www.ncbi.nlm.nih.gov/gene/100496001) |  |  |
+| Zebrafish | [ENSDARG00000077295](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077295) | [100002625](https://www.ncbi.nlm.nih.gov/gene/100002625) | [ZFIN:ZDB-GENE-120207-2](https://zfin.org/ZDB-GENE-120207-2) | establishment of protein localization to membrane, heart development, response to auditory stimulus, retina development in camera-type eye, sensory perception of sound |
 

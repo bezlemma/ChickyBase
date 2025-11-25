@@ -3,7 +3,6 @@ aliases:
 - beta-tectorin
 cgnc_id: '6680'
 external_ids:
-  '25': stage 25
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0031225
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Heller+Hudspeth+candidate+types
   Comments: "As insufficient information is provided in publication to verify exact\
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396320
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205363
 forward_primer: 5’-TATTTGCTGGCGTGGAAG-3’
-gene_id: '461868'
+gene_id: '396320'
 gene_type: protein-coding
 images:
 - caption: TECTB expression
@@ -86,13 +85,8 @@ images:
   stage: stage 43
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BTECTORIN.Heller.1998.Fig.1.png
 name: tectorin beta
-ncbi_id: '461868'
+ncbi_id: '396320'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000119913
   entrez: '6975'
   mod: MIM:602653
@@ -103,24 +97,24 @@ orthologs:
   mod: MGI:109574
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000013927
   entrez: '549910'
-  mod: '997178'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000045268
   entrez: '494051'
   mod: ZFIN:ZDB-GENE-041212-16
-  phenotypes: ZDB-GENE-041212-16
+  phenotypes: inner ear development, otolith development
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTCTGGTGAAATGGTGCAC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461868
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396320
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461868
+  url: https://www.ncbi.nlm.nih.gov/gene/396320
 species: Gallus gallus
 symbol: TECTB
 template_length: '564'
@@ -148,9 +142,8 @@ title: TECTB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000119913](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000119913) | [6975](https://www.ncbi.nlm.nih.gov/gene/6975) | [MIM:602653](https://omim.org/entry/602653) |  |
 | Mouse | [ENSMUSG00000024979](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024979) | [21684](https://www.ncbi.nlm.nih.gov/gene/21684) | [MGI:109574](http://www.informatics.jax.org/marker/MGI:109574) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [549910](https://www.ncbi.nlm.nih.gov/gene/549910) | [997178](http://www.xenbase.org/gene/showgene.do?method=display&geneId=997178) |  |
-| Zebrafish | [ENSDARG00000045268](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045268) | [494051](https://www.ncbi.nlm.nih.gov/gene/494051) | [ZFIN:ZDB-GENE-041212-16](https://zfin.org/ZDB-GENE-041212-16) | ZDB-GENE-041212-16 |
+| Xenopus | [ENSXETG00000013927](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013927) | [549910](https://www.ncbi.nlm.nih.gov/gene/549910) |  |  |
+| Zebrafish | [ENSDARG00000045268](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045268) | [494051](https://www.ncbi.nlm.nih.gov/gene/494051) | [ZFIN:ZDB-GENE-041212-16](https://zfin.org/ZDB-GENE-041212-16) | inner ear development, otolith development |
 

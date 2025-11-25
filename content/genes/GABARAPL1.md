@@ -9,7 +9,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769118
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001231887
-gene_id: '462293'
+gene_id: '769118'
 gene_type: protein-coding
 images:
 - caption: GABARAPL1 expression
@@ -20,13 +20,8 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/V08_11_mag.jpg
 name: GABA type A receptor associated protein like 1
-ncbi_id: '462293'
+ncbi_id: '769118'
 orthologs:
-- ensembl: ''
-  entrez: '42132'
-  mod: FBgn0038539
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000139112
   entrez: '23710'
   mod: MIM:607420
@@ -37,23 +32,24 @@ orthologs:
   mod: MGI:1914980
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 595040,443979
-  mod: '946687'
+- ensembl: ENSXETG00000016242
+  entrez: '595040'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000052082
   entrez: '793200'
-  mod: ''
-  phenotypes: ''
+  mod: ZFIN:ZDB-GENE-101102-9
+  phenotypes: autophagosome assembly, autophagosome maturation, autophagy, cellular
+    response to nitrogen starvation, head development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462293
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=769118
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462293
+  url: https://www.ncbi.nlm.nih.gov/gene/769118
 species: Gallus gallus
 symbol: GABARAPL1
 title: GABARAPL1
@@ -76,9 +72,8 @@ title: GABARAPL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42132](https://www.ncbi.nlm.nih.gov/gene/42132) | FBgn0038539 |  |
 | Human | [ENSG00000139112](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139112) | [23710](https://www.ncbi.nlm.nih.gov/gene/23710) | [MIM:607420](https://omim.org/entry/607420) |  |
 | Mouse | [ENSMUSG00000030161](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030161) | [57436](https://www.ncbi.nlm.nih.gov/gene/57436) | [MGI:1914980](http://www.informatics.jax.org/marker/MGI:1914980) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [595040](https://www.ncbi.nlm.nih.gov/gene/595040), [443979](https://www.ncbi.nlm.nih.gov/gene/443979) | [946687](http://www.xenbase.org/gene/showgene.do?method=display&geneId=946687) |  |
-| Zebrafish | [ENSDARG00000052082](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052082) | [793200](https://www.ncbi.nlm.nih.gov/gene/793200) |  |  |
+| Xenopus | [ENSXETG00000016242](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016242) | [595040](https://www.ncbi.nlm.nih.gov/gene/595040) |  |  |
+| Zebrafish | [ENSDARG00000052082](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052082) | [793200](https://www.ncbi.nlm.nih.gov/gene/793200) | [ZFIN:ZDB-GENE-101102-9](https://zfin.org/ZDB-GENE-101102-9) | autophagosome assembly, autophagosome maturation, autophagy, cellular response to nitrogen starvation, head development |
 

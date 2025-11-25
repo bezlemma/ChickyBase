@@ -5,8 +5,6 @@ aliases:
 - caudal type homeobox transcription factor 4
 - caudal-type homeobox protein CDXB
 external_ids:
-  '25': stage 25
-  '4': stage 4stage 4
   Citation: 'Sophie Bel-Vialar, Nobue Itasaki, Robb Krumlauf. Initiating Hox gene
     expression: in the early chick neural tube differential sensitivity to FGF and
     RA signaling subdivides the HoxB genes in two distinct groups. Development 2002
@@ -20,7 +18,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395320
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204614
-gene_id: '448850'
+gene_id: '395320'
 gene_type: protein-coding
 images:
 - caption: CDX4 expression
@@ -215,40 +213,26 @@ images:
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Bel-Vialar.2002-cdxB-fig4C.jpg
 name: caudal type homeobox 4
-ncbi_id: '448850'
+ncbi_id: '395320'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000004589
+  entrez: '395056'
   mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: '1046'
-  mod: MIM:300025
-  phenotypes: ''
-  species: Human
-- ensembl: ENSMUSG00000031326
-  entrez: '12592'
-  mod: MGI:88362
-  phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
-  species: Mouse
-- ensembl: ''
-  entrez: 395056,380412
-  mod: '482786'
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000036292
   entrez: '798281'
   mod: ZFIN:ZDB-GENE-980526-330
-  phenotypes: ZDB-GENE-980526-330
+  phenotypes: anterior/posterior axis specification, anterior/posterior pattern specification,
+    cell differentiation, digestive tract development, embryonic foregut morphogenesis
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448850
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395320
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448850
+  url: https://www.ncbi.nlm.nih.gov/gene/395320
 species: Gallus gallus
 symbol: CDX4
 title: CDX4
@@ -273,9 +257,6 @@ title: CDX4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [1046](https://www.ncbi.nlm.nih.gov/gene/1046) | [MIM:300025](https://omim.org/entry/300025) |  |
-| Mouse | [ENSMUSG00000031326](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031326) | [12592](https://www.ncbi.nlm.nih.gov/gene/12592) | [MGI:88362](http://www.informatics.jax.org/marker/MGI:88362) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [395056](https://www.ncbi.nlm.nih.gov/gene/395056), [380412](https://www.ncbi.nlm.nih.gov/gene/380412) | [482786](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482786) |  |
-| Zebrafish | [ENSDARG00000036292](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036292) | [798281](https://www.ncbi.nlm.nih.gov/gene/798281) | [ZFIN:ZDB-GENE-980526-330](https://zfin.org/ZDB-GENE-980526-330) | ZDB-GENE-980526-330 |
+| Xenopus | [ENSXETG00000004589](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004589) | [395056](https://www.ncbi.nlm.nih.gov/gene/395056) |  |  |
+| Zebrafish | [ENSDARG00000036292](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036292) | [798281](https://www.ncbi.nlm.nih.gov/gene/798281) | [ZFIN:ZDB-GENE-980526-330](https://zfin.org/ZDB-GENE-980526-330) | anterior/posterior axis specification, anterior/posterior pattern specification, cell differentiation, digestive tract development, embryonic foregut morphogenesis |
 

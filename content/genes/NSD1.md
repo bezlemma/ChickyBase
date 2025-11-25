@@ -10,7 +10,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414538
   X-XIV: stage XII
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/NSD1
-gene_id: '457477'
+gene_id: '416214'
 gene_type: protein-coding
 images:
 - caption: NSD1 expression
@@ -49,13 +49,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NSD1.Trevers.2023-Fig7-3-C.jpg
 name: nuclear receptor binding SET domain protein 1
-ncbi_id: '457477'
+ncbi_id: '416214'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000165671
   entrez: '64324'
   mod: MIM:606681
@@ -66,23 +61,13 @@ orthologs:
   mod: MGI:1276545
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: '100145675'
-  mod: '989205'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000060705,ENSDARG00000060016
-  entrez: 564592,556086
-  mod: ZFIN:ZDB-GENE-080519-2,ZFIN:ZDB-GENE-080519-3
-  phenotypes: ZDB-GENE-080519-2,ZDB-GENE-080519-3
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457477
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416214
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457477
+  url: https://www.ncbi.nlm.nih.gov/gene/416214
 species: Gallus gallus
 symbol: NSD1
 title: NSD1
@@ -107,9 +92,6 @@ title: NSD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000165671](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165671) | [64324](https://www.ncbi.nlm.nih.gov/gene/64324) | [MIM:606681](https://omim.org/entry/606681) | MIM:130650 |
 | Mouse | [ENSMUSG00000021488](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021488) | [18193](https://www.ncbi.nlm.nih.gov/gene/18193) | [MGI:1276545](http://www.informatics.jax.org/marker/MGI:1276545) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100145675](https://www.ncbi.nlm.nih.gov/gene/100145675) | [989205](http://www.xenbase.org/gene/showgene.do?method=display&geneId=989205) |  |
-| Zebrafish | [ENSDARG00000060705](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060705), [ENSDARG00000060016](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060016) | [564592](https://www.ncbi.nlm.nih.gov/gene/564592), [556086](https://www.ncbi.nlm.nih.gov/gene/556086) | [ZFIN:ZDB-GENE-080519-2](https://zfin.org/ZDB-GENE-080519-2), [ZFIN:ZDB-GENE-080519-3](https://zfin.org/ZDB-GENE-080519-3) | ZDB-GENE-080519-2,ZDB-GENE-080519-3 |
 

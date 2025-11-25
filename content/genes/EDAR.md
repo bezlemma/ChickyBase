@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428015
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012611
 forward_primer: 5’-AAGAATGTGCAGGGGCTACC-3’
-gene_id: '459923'
+gene_id: '428015'
 gene_type: protein-coding
 images:
 - caption: EDAR expression
@@ -233,13 +233,8 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDAR.Houghton.2005.Fig.2.png
 name: ectodysplasin A receptor
-ncbi_id: '459923'
+ncbi_id: '428015'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000135960
   entrez: '10913'
   mod: MIM:604095
@@ -251,24 +246,25 @@ orthologs:
   phenotypes: All phenotypic alleles (9):Spontaneous(4) Chemically induced(1) Targeted,
     other(2) Transgenic(2)
   species: Mouse
-- ensembl: ''
-  entrez: 448544,380208
-  mod: '945378'
+- ensembl: ENSXETG00000016031
+  entrez: '448544'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000099088
   entrez: '796370'
   mod: ZFIN:ZDB-GENE-070117-2062
-  phenotypes: ZDB-GENE-070117-2062
+  phenotypes: bone development, dermal bone morphogenesis, feeding behavior, fin development,
+    positive regulation of JNK cascade
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGCTGCATGCCATCTGTCATG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459923
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428015
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459923
+  url: https://www.ncbi.nlm.nih.gov/gene/428015
 species: Gallus gallus
 symbol: EDAR
 template_length: '756'
@@ -296,9 +292,8 @@ title: EDAR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000135960](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000135960) | [10913](https://www.ncbi.nlm.nih.gov/gene/10913) | [MIM:604095](https://omim.org/entry/604095) | MIM:129490 |
 | Mouse | [ENSMUSG00000003227](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000003227) | [13608](https://www.ncbi.nlm.nih.gov/gene/13608) | [MGI:1343498](http://www.informatics.jax.org/marker/MGI:1343498) | All phenotypic alleles (9):Spontaneous(4) Chemically induced(1) Targeted, other(2) Transgenic(2) |
-| Xenopus |  | [448544](https://www.ncbi.nlm.nih.gov/gene/448544), [380208](https://www.ncbi.nlm.nih.gov/gene/380208) | [945378](http://www.xenbase.org/gene/showgene.do?method=display&geneId=945378) |  |
-| Zebrafish |  | [796370](https://www.ncbi.nlm.nih.gov/gene/796370) | [ZFIN:ZDB-GENE-070117-2062](https://zfin.org/ZDB-GENE-070117-2062) | ZDB-GENE-070117-2062 |
+| Xenopus | [ENSXETG00000016031](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016031) | [448544](https://www.ncbi.nlm.nih.gov/gene/448544) |  |  |
+| Zebrafish | [ENSDARG00000099088](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099088) | [796370](https://www.ncbi.nlm.nih.gov/gene/796370) | [ZFIN:ZDB-GENE-070117-2062](https://zfin.org/ZDB-GENE-070117-2062) | bone development, dermal bone morphogenesis, feeding behavior, fin development, positive regulation of JNK cascade |
 

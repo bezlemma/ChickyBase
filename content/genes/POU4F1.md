@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100857623
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640558
-gene_id: '472154'
+gene_id: '100857623'
 gene_type: protein-coding
 images:
 - caption: POU4F1 expression
@@ -52,7 +52,7 @@ images:
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRN3A.Karlsson.2001.FIg.1.png
 name: POU class 4 homeobox 1
-ncbi_id: '472154'
+ncbi_id: '100857623'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -82,7 +82,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/472154
+  url: https://www.ncbi.nlm.nih.gov/gene/100857623
 species: Gallus gallus
 symbol: POU4F1
 title: POU4F1

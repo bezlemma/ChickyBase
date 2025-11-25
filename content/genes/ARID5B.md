@@ -16,7 +16,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003713
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031220
   X-XIV: stage XII
-gene_id: '451227'
+gene_id: '423661'
 gene_type: protein-coding
 images:
 - caption: ARID5B expression
@@ -55,13 +55,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARID5B.Trevers.2023-Fig7-5-B.jpg
 name: AT-rich interaction domain 5B
-ncbi_id: '451227'
+ncbi_id: '423661'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000150347
   entrez: '84159'
   mod: MIM:608538
@@ -73,23 +68,24 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(1)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100485942,100381123
-  mod: '1007578'
+- ensembl: ENSXETG00000014055
+  entrez: '100485942'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '572528'
-  mod: ZFIN:ZDB-GENE-070112-1882
-  phenotypes: ZDB-GENE-070112-1882
+- ensembl: ENSDARG00000037196
+  entrez: '100536827'
+  mod: ZFIN:ZDB-GENE-121214-272
+  phenotypes: adipose tissue development, positive regulation of DNA-binding transcription
+    factor activity, regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451227
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423661
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451227
+  url: https://www.ncbi.nlm.nih.gov/gene/423661
 species: Gallus gallus
 symbol: ARID5B
 title: ARID5B
@@ -116,9 +112,8 @@ title: ARID5B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000150347](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000150347) | [84159](https://www.ncbi.nlm.nih.gov/gene/84159) | [MIM:608538](https://omim.org/entry/608538) |  |
 | Mouse | [ENSMUSG00000019947](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019947) | [71371](https://www.ncbi.nlm.nih.gov/gene/71371) | [MGI:2175912](http://www.informatics.jax.org/marker/MGI:2175912) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(1) Gene trapped(1) |
-| Xenopus |  | [100485942](https://www.ncbi.nlm.nih.gov/gene/100485942), [100381123](https://www.ncbi.nlm.nih.gov/gene/100381123) | [1007578](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1007578) |  |
-| Zebrafish |  | [572528](https://www.ncbi.nlm.nih.gov/gene/572528) | [ZFIN:ZDB-GENE-070112-1882](https://zfin.org/ZDB-GENE-070112-1882) | ZDB-GENE-070112-1882 |
+| Xenopus | [ENSXETG00000014055](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014055) | [100485942](https://www.ncbi.nlm.nih.gov/gene/100485942) |  |  |
+| Zebrafish | [ENSDARG00000037196](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037196) | [100536827](https://www.ncbi.nlm.nih.gov/gene/100536827) | [ZFIN:ZDB-GENE-121214-272](https://zfin.org/ZDB-GENE-121214-272) | adipose tissue development, positive regulation of DNA-binding transcription factor activity, regulation of transcription by RNA polymerase II |
 

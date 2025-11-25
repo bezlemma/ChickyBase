@@ -8,7 +8,6 @@ aliases:
 - nuclear receptor subfamily 3 group A member 1
 cgnc_id: '9821'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006351
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Coudouel+retrovirus+sex+left+gonads
@@ -27,7 +26,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0030284
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205183
 forward_primer: 5’-AGCCTGGCAGGATTTCACTC-3’
-gene_id: '459651'
+gene_id: '396099'
 gene_type: protein-coding
 images:
 - caption: ESR1 expression
@@ -134,13 +133,8 @@ images:
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ERalpha.Carre-Eusebe.2009.Fig.7.png
 name: estrogen receptor 1
-ncbi_id: '459651'
+ncbi_id: '396099'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000091831
   entrez: '2099'
   mod: MIM:133430
@@ -151,24 +145,26 @@ orthologs:
   mod: MGI:1352467
   phenotypes: All phenotypic alleles (22):Targeted, knock-out(6) Targeted, other(16)
   species: Mouse
-- ensembl: ''
-  entrez: 394461,398734,398733
-  mod: '482192'
+- ensembl: ENSXETG00000012364
+  entrez: '394461'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000004111
   entrez: '259252'
   mod: ZFIN:ZDB-GENE-020806-5
-  phenotypes: ZDB-GENE-020806-5
+  phenotypes: cellular response to estrogen stimulus, embryonic cranial skeleton morphogenesis,
+    estrogen receptor signaling pathway, posterior lateral line neuromast primordium
+    migration, regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGCCCAGTTGATCATGTGCAC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459651
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396099
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459651
+  url: https://www.ncbi.nlm.nih.gov/gene/396099
 species: Gallus gallus
 symbol: ESR1
 template_length: '806'
@@ -200,9 +196,8 @@ This is an Open Access article distributed under the terms of the Creative Commo
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000091831](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000091831) | [2099](https://www.ncbi.nlm.nih.gov/gene/2099) | [MIM:133430](https://omim.org/entry/133430) | MIM:133430 |
 | Mouse | [ENSMUSG00000019768](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019768) | [13982](https://www.ncbi.nlm.nih.gov/gene/13982) | [MGI:1352467](http://www.informatics.jax.org/marker/MGI:1352467) | All phenotypic alleles (22):Targeted, knock-out(6) Targeted, other(16) |
-| Xenopus |  | [394461](https://www.ncbi.nlm.nih.gov/gene/394461), [398734](https://www.ncbi.nlm.nih.gov/gene/398734), [398733](https://www.ncbi.nlm.nih.gov/gene/398733) | [482192](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482192) |  |
-| Zebrafish | [ENSDARG00000004111](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004111) | [259252](https://www.ncbi.nlm.nih.gov/gene/259252) | [ZFIN:ZDB-GENE-020806-5](https://zfin.org/ZDB-GENE-020806-5) | ZDB-GENE-020806-5 |
+| Xenopus | [ENSXETG00000012364](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000012364) | [394461](https://www.ncbi.nlm.nih.gov/gene/394461) |  |  |
+| Zebrafish | [ENSDARG00000004111](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004111) | [259252](https://www.ncbi.nlm.nih.gov/gene/259252) | [ZFIN:ZDB-GENE-020806-5](https://zfin.org/ZDB-GENE-020806-5) | cellular response to estrogen stimulus, embryonic cranial skeleton morphogenesis, estrogen receptor signaling pathway, posterior lateral line neuromast primordium migration, regulation of DNA-templated transcription |
 

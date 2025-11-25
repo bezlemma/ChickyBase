@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769770
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277387
-gene_id: '459365'
+gene_id: '769770'
 gene_type: protein-coding
 images:
 - caption: ATP6V0E2 expression
@@ -32,13 +32,8 @@ images:
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F1.atp6v0e2.png
 name: ATPase H+ transporting V0 subunit e2
-ncbi_id: '459365'
+ncbi_id: '769770'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000171130
   entrez: '155066'
   mod: MIM:611019
@@ -50,19 +45,20 @@ orthologs:
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
 - ensembl: ''
-  entrez: 100124803,735078
-  mod: '5771813'
+  entrez: '100124803'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000059057
   entrez: '553767'
   mod: ZFIN:ZDB-GENE-050522-135
-  phenotypes: ZDB-GENE-050522-135
+  phenotypes: monoatomic ion transport, proton transmembrane transport, transmembrane
+    transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459365
+  url: https://www.ncbi.nlm.nih.gov/gene/769770
 species: Gallus gallus
 symbol: ATP6V0E2
 title: ATP6V0E2
@@ -88,9 +84,8 @@ title: ATP6V0E2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000171130](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000171130) | [155066](https://www.ncbi.nlm.nih.gov/gene/155066) | [MIM:611019](https://omim.org/entry/611019) |  |
 | Mouse | [ENSMUSG00000039347](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039347) | [76252](https://www.ncbi.nlm.nih.gov/gene/76252) | [MGI:1923502](http://www.informatics.jax.org/marker/MGI:1923502) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100124803](https://www.ncbi.nlm.nih.gov/gene/100124803), [735078](https://www.ncbi.nlm.nih.gov/gene/735078) | [5771813](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5771813) |  |
-| Zebrafish | [ENSDARG00000059057](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059057) | [553767](https://www.ncbi.nlm.nih.gov/gene/553767) | [ZFIN:ZDB-GENE-050522-135](https://zfin.org/ZDB-GENE-050522-135) | ZDB-GENE-050522-135 |
+| Xenopus |  | [100124803](https://www.ncbi.nlm.nih.gov/gene/100124803) |  |  |
+| Zebrafish | [ENSDARG00000059057](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059057) | [553767](https://www.ncbi.nlm.nih.gov/gene/553767) | [ZFIN:ZDB-GENE-050522-135](https://zfin.org/ZDB-GENE-050522-135) | monoatomic ion transport, proton transmembrane transport, transmembrane transport |
 

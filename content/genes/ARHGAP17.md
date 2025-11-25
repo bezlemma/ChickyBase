@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416564
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414864
 forward_primer: ACCCAGCAATGTCGCAATAGTC
-gene_id: '455605'
+gene_id: '416564'
 gene_type: protein-coding
 images:
 - caption: ARHGAP17 expression
@@ -160,13 +160,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R458.ARHGAP17.S27V.001.jpg
 name: Rho GTPase activating protein 17
-ncbi_id: '455605'
+ncbi_id: '416564'
 orthologs:
-- ensembl: ''
-  entrez: '42371'
-  mod: FBgn0038747
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000140750
   entrez: '55114'
   mod: MIM:608293
@@ -177,24 +172,26 @@ orthologs:
   mod: MGI:1917747
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000017298
   entrez: '549590'
-  mod: '981775'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000070804
-  entrez: 100141341,550254
-  mod: ZFIN:ZDB-GENE-080220-26,ZFIN:ZDB-GENE-050417-56
-  phenotypes: ZDB-GENE-080220-26,ZDB-GENE-050417-56
+- ensembl: ENSDARG00000062263
+  entrez: '100141341'
+  mod: ZFIN:ZDB-GENE-080220-26
+  phenotypes: negative regulation of small GTPase mediated signal transduction, positive
+    regulation of GTPase activity, regulation of Rac protein signal transduction,
+    regulation of actin cytoskeleton organization, signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGTGGCTTTGGAGAGATAGAAGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455605
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416564
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455605
+  url: https://www.ncbi.nlm.nih.gov/gene/416564
 species: Gallus gallus
 symbol: ARHGAP17
 template_length: '827'
@@ -218,9 +215,8 @@ title: ARHGAP17
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42371](https://www.ncbi.nlm.nih.gov/gene/42371) | FBgn0038747 |  |
 | Human | [ENSG00000140750](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140750) | [55114](https://www.ncbi.nlm.nih.gov/gene/55114) | [MIM:608293](https://omim.org/entry/608293) |  |
 | Mouse | [ENSMUSG00000030766](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030766) | [70497](https://www.ncbi.nlm.nih.gov/gene/70497) | [MGI:1917747](http://www.informatics.jax.org/marker/MGI:1917747) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [549590](https://www.ncbi.nlm.nih.gov/gene/549590) | [981775](http://www.xenbase.org/gene/showgene.do?method=display&geneId=981775) |  |
-| Zebrafish | [ENSDARG00000070804](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070804) | [100141341](https://www.ncbi.nlm.nih.gov/gene/100141341), [550254](https://www.ncbi.nlm.nih.gov/gene/550254) | [ZFIN:ZDB-GENE-080220-26](https://zfin.org/ZDB-GENE-080220-26), [ZFIN:ZDB-GENE-050417-56](https://zfin.org/ZDB-GENE-050417-56) | ZDB-GENE-080220-26,ZDB-GENE-050417-56 |
+| Xenopus | [ENSXETG00000017298](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017298) | [549590](https://www.ncbi.nlm.nih.gov/gene/549590) |  |  |
+| Zebrafish | [ENSDARG00000062263](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062263) | [100141341](https://www.ncbi.nlm.nih.gov/gene/100141341) | [ZFIN:ZDB-GENE-080220-26](https://zfin.org/ZDB-GENE-080220-26) | negative regulation of small GTPase mediated signal transduction, positive regulation of GTPase activity, regulation of Rac protein signal transduction, regulation of actin cytoskeleton organization, signal transduction |
 

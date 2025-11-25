@@ -6,7 +6,6 @@ aliases:
 - DNA methyltransferase HsaIIIB
 cgnc_id: '50960'
 external_ids:
-  '7': stage 7
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Rengaraj+Lee+Seo+miRNA
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Trevers et al. 2023.
@@ -20,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419287
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001024828
   X-XIV: stage XII
-gene_id: '455572'
+gene_id: '419287'
 gene_type: protein-coding
 images:
 - caption: DNMT3B expression
@@ -248,13 +247,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DNMT3B.Travers.2023.jpg
 name: DNA methyltransferase 3 beta
-ncbi_id: '455572'
+ncbi_id: '419287'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000088305
   entrez: '1789'
   mod: MIM:602900
@@ -265,20 +259,17 @@ orthologs:
   mod: MGI:1261819
   phenotypes: All phenotypic alleles (9):Targeted, knock-out(2) Targeted, other(7)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000036791,ENSDARG00000052402,ENSDARG00000057830
-  entrez: 317744,321084,30659
-  mod: ZFIN:ZDB-GENE-050314-1,ZFIN:ZDB-GENE-050314-4,ZFIN:ZDB-GENE-990712-11
-  phenotypes: ZDB-GENE-050314-1,ZDB-GENE-050314-4,ZDB-GENE-990712-11
+- ensembl: ENSDARG00000036791
+  entrez: '317744'
+  mod: ZFIN:ZDB-GENE-050314-1
+  phenotypes: Kupffer's vesicle development, cilium assembly, determination of heart
+    left/right asymmetry, determination of left/right symmetry, hematopoietic stem
+    cell homeostasis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455572
+  url: https://www.ncbi.nlm.nih.gov/gene/419287
 species: Gallus gallus
 symbol: DNMT3B
 title: DNMT3B
@@ -304,9 +295,7 @@ title: DNMT3B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000088305](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000088305) | [1789](https://www.ncbi.nlm.nih.gov/gene/1789) | [MIM:602900](https://omim.org/entry/602900) | MIM:242860 |
 | Mouse | [ENSMUSG00000027478](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027478) | [13436](https://www.ncbi.nlm.nih.gov/gene/13436) | [MGI:1261819](http://www.informatics.jax.org/marker/MGI:1261819) | All phenotypic alleles (9):Targeted, knock-out(2) Targeted, other(7) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000036791](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036791), [ENSDARG00000052402](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052402), [ENSDARG00000057830](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057830) | [317744](https://www.ncbi.nlm.nih.gov/gene/317744), [321084](https://www.ncbi.nlm.nih.gov/gene/321084), [30659](https://www.ncbi.nlm.nih.gov/gene/30659) | [ZFIN:ZDB-GENE-050314-1](https://zfin.org/ZDB-GENE-050314-1), [ZFIN:ZDB-GENE-050314-4](https://zfin.org/ZDB-GENE-050314-4), [ZFIN:ZDB-GENE-990712-11](https://zfin.org/ZDB-GENE-990712-11) | ZDB-GENE-050314-1,ZDB-GENE-050314-4,ZDB-GENE-990712-11 |
+| Zebrafish | [ENSDARG00000036791](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036791) | [317744](https://www.ncbi.nlm.nih.gov/gene/317744) | [ZFIN:ZDB-GENE-050314-1](https://zfin.org/ZDB-GENE-050314-1) | Kupffer's vesicle development, cilium assembly, determination of heart left/right asymmetry, determination of left/right symmetry, hematopoietic stem cell homeostasis |
 

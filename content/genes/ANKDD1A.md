@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415525
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_413894
 forward_primer: ACGACACGCTGCTTCATTCAG
-gene_id: '462873'
+gene_id: '415525'
 gene_type: protein-coding
 images:
 - caption: ANKDD1A expression
@@ -95,41 +95,36 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R517.ANKDD.S26A.001.jpg
 name: ankyrin repeat and death domain containing 1A
-ncbi_id: '462873'
+ncbi_id: '415525'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000166839
   entrez: '348094'
   mod: ''
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: '384945'
+- ensembl: ENSMUSG00000066510
+  entrez: '330963'
   mod: MGI:2686319
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000006661
   entrez: '100489003'
-  mod: '6045404'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000098647
   entrez: '569271'
   mod: ZFIN:ZDB-GENE-070615-8
-  phenotypes: ZDB-GENE-070615-8
+  phenotypes: signal transduction
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGGTCACACTCCGCATCAATAAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462873
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415525
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462873
+  url: https://www.ncbi.nlm.nih.gov/gene/415525
 species: Gallus gallus
 symbol: ANKDD1A
 template_length: '894'
@@ -151,9 +146,8 @@ title: ANKDD1A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000166839](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166839) | [348094](https://www.ncbi.nlm.nih.gov/gene/348094) |  |  |
-| Mouse |  | [384945](https://www.ncbi.nlm.nih.gov/gene/384945) | [MGI:2686319](http://www.informatics.jax.org/marker/MGI:2686319) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100489003](https://www.ncbi.nlm.nih.gov/gene/100489003) | [6045404](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6045404) |  |
-| Zebrafish |  | [569271](https://www.ncbi.nlm.nih.gov/gene/569271) | [ZFIN:ZDB-GENE-070615-8](https://zfin.org/ZDB-GENE-070615-8) | ZDB-GENE-070615-8 |
+| Mouse | [ENSMUSG00000066510](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000066510) | [330963](https://www.ncbi.nlm.nih.gov/gene/330963) | [MGI:2686319](http://www.informatics.jax.org/marker/MGI:2686319) | All phenotypic alleles (1):Targeted, other(1) |
+| Xenopus | [ENSXETG00000006661](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006661) | [100489003](https://www.ncbi.nlm.nih.gov/gene/100489003) |  |  |
+| Zebrafish | [ENSDARG00000098647](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098647) | [569271](https://www.ncbi.nlm.nih.gov/gene/569271) | [ZFIN:ZDB-GENE-070615-8](https://zfin.org/ZDB-GENE-070615-8) | signal transduction |
 

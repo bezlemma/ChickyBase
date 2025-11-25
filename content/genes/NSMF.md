@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417260
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415535
-gene_id: '454074'
+gene_id: '417260'
 gene_type: protein-coding
 images:
 - caption: NSMF expression
@@ -38,13 +38,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig1.NELF-C2.Song.day31.jpg
 name: NMDA receptor synaptonuclear signaling and neuronal migration factor
-ncbi_id: '454074'
+ncbi_id: '417260'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000165802
   entrez: '26012'
   mod: MIM:608137
@@ -55,20 +50,21 @@ orthologs:
   mod: MGI:1861755
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000033973
   entrez: '100144675'
-  mod: '996191'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000060025,ENSDARG00000061506
-  entrez: 555195,569891
-  mod: ZFIN:ZDB-GENE-091204-32,ZFIN:ZDB-GENE-080603-4,ZFIN:ZDB-GENE-091204-32
-  phenotypes: ZDB-GENE-091204-32,ZDB-GENE-080603-4,ZDB-GENE-091204-32
+- ensembl: ENSDARG00000101234
+  entrez: '569891'
+  mod: ZFIN:ZDB-GENE-080603-4
+  phenotypes: positive regulation of axon extension, positive regulation of neuron
+    migration, regulation of neuron migration, regulation of neuronal synaptic plasticity
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454074
+  url: https://www.ncbi.nlm.nih.gov/gene/417260
 species: Gallus gallus
 symbol: NSMF
 title: NSMF
@@ -94,9 +90,8 @@ title: NSMF
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000165802](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165802) | [26012](https://www.ncbi.nlm.nih.gov/gene/26012) | [MIM:608137](https://omim.org/entry/608137) | MIM:146110 |
 | Mouse | [ENSMUSG00000006476](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000006476) | [56876](https://www.ncbi.nlm.nih.gov/gene/56876) | [MGI:1861755](http://www.informatics.jax.org/marker/MGI:1861755) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100144675](https://www.ncbi.nlm.nih.gov/gene/100144675) | [996191](http://www.xenbase.org/gene/showgene.do?method=display&geneId=996191) |  |
-| Zebrafish | [ENSDARG00000060025](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060025), [ENSDARG00000061506](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061506) | [555195](https://www.ncbi.nlm.nih.gov/gene/555195), [569891](https://www.ncbi.nlm.nih.gov/gene/569891) | [ZFIN:ZDB-GENE-091204-32](https://zfin.org/ZDB-GENE-091204-32), [ZFIN:ZDB-GENE-080603-4](https://zfin.org/ZDB-GENE-080603-4), [ZFIN:ZDB-GENE-091204-32](https://zfin.org/ZDB-GENE-091204-32) | ZDB-GENE-091204-32,ZDB-GENE-080603-4,ZDB-GENE-091204-32 |
+| Xenopus | [ENSXETG00000033973](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033973) | [100144675](https://www.ncbi.nlm.nih.gov/gene/100144675) |  |  |
+| Zebrafish | [ENSDARG00000101234](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101234) | [569891](https://www.ncbi.nlm.nih.gov/gene/569891) | [ZFIN:ZDB-GENE-080603-4](https://zfin.org/ZDB-GENE-080603-4) | positive regulation of axon extension, positive regulation of neuron migration, regulation of neuron migration, regulation of neuronal synaptic plasticity |
 

@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415379
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_413765
 forward_primer: 5'-GTGAGGAAGAAACTTACGGCTCC-3'
-gene_id: '456548'
+gene_id: '415379'
 gene_type: protein-coding
 images:
 - caption: BNIP2 expression
@@ -62,41 +62,36 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R543.BNIP2.S26.001.jpg
 name: BCL2 interacting protein 2
-ncbi_id: '456548'
+ncbi_id: '415379'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000140299
   entrez: '663'
   mod: MIM:603292
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000011958
   entrez: '12175'
   mod: MGI:109327
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ENSXETG00000020306
-  entrez: 548687,494836
-  mod: '1016159'
+- ensembl: ENSXETG00000017710
+  entrez: '548687'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000013397
-  entrez: 100332015,394197
+  entrez: '394197'
   mod: ZFIN:ZDB-GENE-040109-6
-  phenotypes: ZDB-GENE-040109-6
+  phenotypes: apoptotic process
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGGCAGTGAAGAGTCCATTGTGTGC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456548
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415379
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456548
+  url: https://www.ncbi.nlm.nih.gov/gene/415379
 species: Gallus gallus
 symbol: BNIP2
 template_length: '977'
@@ -119,9 +114,8 @@ title: BNIP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000140299](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140299) | [663](https://www.ncbi.nlm.nih.gov/gene/663) | [MIM:603292](https://omim.org/entry/603292) |  |
-| Mouse |  | [12175](https://www.ncbi.nlm.nih.gov/gene/12175) | [MGI:109327](http://www.informatics.jax.org/marker/MGI:109327) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus | [ENSXETG00000020306](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020306) | [548687](https://www.ncbi.nlm.nih.gov/gene/548687), [494836](https://www.ncbi.nlm.nih.gov/gene/494836) | [1016159](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1016159) |  |
-| Zebrafish | [ENSDARG00000013397](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013397) | [100332015](https://www.ncbi.nlm.nih.gov/gene/100332015), [394197](https://www.ncbi.nlm.nih.gov/gene/394197) | [ZFIN:ZDB-GENE-040109-6](https://zfin.org/ZDB-GENE-040109-6) | ZDB-GENE-040109-6 |
+| Mouse | [ENSMUSG00000011958](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000011958) | [12175](https://www.ncbi.nlm.nih.gov/gene/12175) | [MGI:109327](http://www.informatics.jax.org/marker/MGI:109327) | All phenotypic alleles (2):Targeted, other(2) |
+| Xenopus | [ENSXETG00000017710](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017710) | [548687](https://www.ncbi.nlm.nih.gov/gene/548687) |  |  |
+| Zebrafish | [ENSDARG00000013397](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013397) | [394197](https://www.ncbi.nlm.nih.gov/gene/394197) | [ZFIN:ZDB-GENE-040109-6](https://zfin.org/ZDB-GENE-040109-6) | apoptotic process |
 

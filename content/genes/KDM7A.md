@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418110
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416344
 forward_primer: TGAGGAGTGGGTAGCAGTG
-gene_id: '455314'
+gene_id: '418110'
 gene_type: protein-coding
 images:
 - caption: KDM7A expression
@@ -119,16 +119,11 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KDM7A.Huang.2010
     figure 2, HH 6.png
 name: lysine demethylase 7A
-ncbi_id: '455314'
+ncbi_id: '418110'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000006459
   entrez: '80853'
-  mod: ''
+  mod: MIM:619640
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000042599
@@ -136,24 +131,25 @@ orthologs:
   mod: MGI:2443388
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 780121,444005
-  mod: '5900919'
+- ensembl: ENSXETG00000002669
+  entrez: '780121'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000018559,ENSDARG00000018111
-  entrez: 503902,321248
-  mod: ZFIN:ZDB-GENE-050309-32,ZFIN:ZDB-GENE-030131-9829
-  phenotypes: ZDB-GENE-050309-32,ZDB-GENE-030131-9829
+- ensembl: ENSDARG00000018559
+  entrez: '503902'
+  mod: ZFIN:ZDB-GENE-050309-32
+  phenotypes: brain development, chromatin organization, chromatin remodeling, midbrain
+    development, nervous system development
   species: Zebrafish
 reverse_primer: TCTCCACAGCTGCCAGAAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455314
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418110
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455314
+  url: https://www.ncbi.nlm.nih.gov/gene/418110
 species: Gallus gallus
 symbol: KDM7A
 template_length: '725'
@@ -180,9 +176,8 @@ title: KDM7A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000006459](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000006459) | [80853](https://www.ncbi.nlm.nih.gov/gene/80853) |  |  |
+| Human | [ENSG00000006459](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000006459) | [80853](https://www.ncbi.nlm.nih.gov/gene/80853) | [MIM:619640](https://omim.org/entry/619640) |  |
 | Mouse | [ENSMUSG00000042599](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042599) | [338523](https://www.ncbi.nlm.nih.gov/gene/338523) | [MGI:2443388](http://www.informatics.jax.org/marker/MGI:2443388) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [780121](https://www.ncbi.nlm.nih.gov/gene/780121), [444005](https://www.ncbi.nlm.nih.gov/gene/444005) | [5900919](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5900919) |  |
-| Zebrafish | [ENSDARG00000018559](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018559), [ENSDARG00000018111](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018111) | [503902](https://www.ncbi.nlm.nih.gov/gene/503902), [321248](https://www.ncbi.nlm.nih.gov/gene/321248) | [ZFIN:ZDB-GENE-050309-32](https://zfin.org/ZDB-GENE-050309-32), [ZFIN:ZDB-GENE-030131-9829](https://zfin.org/ZDB-GENE-030131-9829) | ZDB-GENE-050309-32,ZDB-GENE-030131-9829 |
+| Xenopus | [ENSXETG00000002669](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002669) | [780121](https://www.ncbi.nlm.nih.gov/gene/780121) |  |  |
+| Zebrafish | [ENSDARG00000018559](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018559) | [503902](https://www.ncbi.nlm.nih.gov/gene/503902) | [ZFIN:ZDB-GENE-050309-32](https://zfin.org/ZDB-GENE-050309-32) | brain development, chromatin organization, chromatin remodeling, midbrain development, nervous system development |
 

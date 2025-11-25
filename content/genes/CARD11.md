@@ -7,7 +7,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416476
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006161
 forward_primer: 5'-CAAGCGGAGTTTACCAGATTCAG-3'
-gene_id: '456028'
+gene_id: '416476'
 gene_type: protein-coding
 images:
 - caption: CARD11 expression
@@ -59,13 +59,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R617.CARD11.S27.001.jpg
 name: caspase recruitment domain family member 11
-ncbi_id: '456028'
+ncbi_id: '416476'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000198286
   entrez: '84433'
   mod: MIM:607210
@@ -77,24 +72,20 @@ orthologs:
   phenotypes: All phenotypic alleles (6):Chemically induced(2) Targeted, knock-out(3)
     Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '6076959'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000052741
   entrez: '557072'
   mod: ZFIN:ZDB-GENE-100219-1
-  phenotypes: ZDB-GENE-100219-1
+  phenotypes: positive regulation of canonical NF-kappaB signal transduction, regulation
+    of apoptotic process, regulation of immune response
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGGCTGTCATTGTCCTCTTCAACC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456028
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416476
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456028
+  url: https://www.ncbi.nlm.nih.gov/gene/416476
 species: Gallus gallus
 symbol: CARD11
 template_length: '952'
@@ -117,9 +108,7 @@ title: CARD11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000198286](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198286) | [84433](https://www.ncbi.nlm.nih.gov/gene/84433) | [MIM:607210](https://omim.org/entry/607210) |  |
 | Mouse | [ENSMUSG00000036526](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036526) | [108723](https://www.ncbi.nlm.nih.gov/gene/108723) | [MGI:1916978](http://www.informatics.jax.org/marker/MGI:1916978) | All phenotypic alleles (6):Chemically induced(2) Targeted, knock-out(3) Targeted, other(1) |
-| Xenopus |  |  | [6076959](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6076959) |  |
-| Zebrafish | [ENSDARG00000052741](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052741) | [557072](https://www.ncbi.nlm.nih.gov/gene/557072) | [ZFIN:ZDB-GENE-100219-1](https://zfin.org/ZDB-GENE-100219-1) | ZDB-GENE-100219-1 |
+| Zebrafish | [ENSDARG00000052741](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052741) | [557072](https://www.ncbi.nlm.nih.gov/gene/557072) | [ZFIN:ZDB-GENE-100219-1](https://zfin.org/ZDB-GENE-100219-1) | positive regulation of canonical NF-kappaB signal transduction, regulation of apoptotic process, regulation of immune response |
 

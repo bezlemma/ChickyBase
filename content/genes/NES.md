@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395890
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205033
-gene_id: '450800'
+gene_id: '395890'
 gene_type: protein-coding
 images:
 - caption: NES expression
@@ -79,7 +79,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NES.Domowicz.2008.HH34
     for fig.1,panel C.jpg
 name: nestin
-ncbi_id: '450800'
+ncbi_id: '395890'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -104,12 +104,12 @@ orthologs:
 - ensembl: ENSDARG00000088805
   entrez: '100150939'
   mod: ZFIN:ZDB-GENE-071119-2
-  phenotypes: ZDB-GENE-071119-2
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450800
+  url: https://www.ncbi.nlm.nih.gov/gene/395890
 species: Gallus gallus
 symbol: NES
 title: NES
@@ -139,5 +139,5 @@ title: NES
 | Human | [ENSG00000132688](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000132688) | [10763](https://www.ncbi.nlm.nih.gov/gene/10763) | [MIM:600915](https://omim.org/entry/600915) |  |
 | Mouse | [ENSMUSG00000004891](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000004891) | [18008](https://www.ncbi.nlm.nih.gov/gene/18008) | [MGI:101784](http://www.informatics.jax.org/marker/MGI:101784) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
 | Xenopus |  | [100486009](https://www.ncbi.nlm.nih.gov/gene/100486009), [397776](https://www.ncbi.nlm.nih.gov/gene/397776) | [490505](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490505) |  |
-| Zebrafish | [ENSDARG00000088805](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000088805) | [100150939](https://www.ncbi.nlm.nih.gov/gene/100150939) | [ZFIN:ZDB-GENE-071119-2](https://zfin.org/ZDB-GENE-071119-2) | ZDB-GENE-071119-2 |
+| Zebrafish | [ENSDARG00000088805](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000088805) | [100150939](https://www.ncbi.nlm.nih.gov/gene/100150939) | [ZFIN:ZDB-GENE-071119-2](https://zfin.org/ZDB-GENE-071119-2) |  |
 

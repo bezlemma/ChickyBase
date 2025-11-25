@@ -3,7 +3,6 @@ aliases:
 - olfactomedin-like protein 2B
 cgnc_id: '1922'
 external_ids:
-  '25': stage 25
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Anderson et al. 2019.
@@ -14,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424366
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422209
 forward_primer: GGCTGTTTAGATGGCGGATTG
-gene_id: '450724'
+gene_id: '424366'
 gene_type: protein-coding
 images:
 - caption: OLFML2B expression
@@ -157,13 +156,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OLFML2B.Anderson.2019.Supplementary
     figure 5A.jpg
 name: olfactomedin like 2B
-ncbi_id: '450724'
+ncbi_id: '424366'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000162745
   entrez: '25903'
   mod: ''
@@ -174,24 +168,24 @@ orthologs:
   mod: MGI:2443310
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000004748
   entrez: '100498044'
-  mod: '960542'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000021480,ENSDARG00000005716
-  entrez: 567907,557997
-  mod: ZFIN:ZDB-GENE-070912-266,ZFIN:ZDB-GENE-041014-329,ZFIN:ZDB-GENE-070912-266
-  phenotypes: ZDB-GENE-070912-266,ZDB-GENE-041014-329,ZDB-GENE-070912-266
+- ensembl: ENSDARG00000021480
+  entrez: '567907'
+  mod: ZFIN:ZDB-GENE-070912-266
+  phenotypes: signal transduction
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGCGAGGCAAATACCAAATGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450724
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424366
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450724
+  url: https://www.ncbi.nlm.nih.gov/gene/424366
 species: Gallus gallus
 symbol: OLFML2B
 template_length: '579'
@@ -218,9 +212,8 @@ title: OLFML2B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000162745](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162745) | [25903](https://www.ncbi.nlm.nih.gov/gene/25903) |  |  |
 | Mouse | [ENSMUSG00000038463](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038463) | [320078](https://www.ncbi.nlm.nih.gov/gene/320078) | [MGI:2443310](http://www.informatics.jax.org/marker/MGI:2443310) |  |
-| Xenopus |  | [100498044](https://www.ncbi.nlm.nih.gov/gene/100498044) | [960542](http://www.xenbase.org/gene/showgene.do?method=display&geneId=960542) |  |
-| Zebrafish | [ENSDARG00000021480](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021480), [ENSDARG00000005716](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005716) | [567907](https://www.ncbi.nlm.nih.gov/gene/567907), [557997](https://www.ncbi.nlm.nih.gov/gene/557997) | [ZFIN:ZDB-GENE-070912-266](https://zfin.org/ZDB-GENE-070912-266), [ZFIN:ZDB-GENE-041014-329](https://zfin.org/ZDB-GENE-041014-329), [ZFIN:ZDB-GENE-070912-266](https://zfin.org/ZDB-GENE-070912-266) | ZDB-GENE-070912-266,ZDB-GENE-041014-329,ZDB-GENE-070912-266 |
+| Xenopus | [ENSXETG00000004748](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004748) | [100498044](https://www.ncbi.nlm.nih.gov/gene/100498044) |  |  |
+| Zebrafish | [ENSDARG00000021480](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021480) | [567907](https://www.ncbi.nlm.nih.gov/gene/567907) | [ZFIN:ZDB-GENE-070912-266](https://zfin.org/ZDB-GENE-070912-266) | signal transduction |
 

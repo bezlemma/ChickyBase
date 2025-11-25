@@ -154,7 +154,7 @@ orthologs:
 - ensembl: ENSDARG00000038863
   entrez: '550474'
   mod: ZFIN:ZDB-GENE-050417-299
-  phenotypes: ZDB-GENE-050417-299
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGAAAGGTTAGGGTTGGTTGGTC-3'
 sources:
@@ -193,5 +193,5 @@ title: BABAM2
 | Human | [ENSG00000158019](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000158019) | [9577](https://www.ncbi.nlm.nih.gov/gene/9577) | [MIM:610497](https://omim.org/entry/610497) |  |
 | Mouse | [ENSMUSG00000052139](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000052139) | [107976](https://www.ncbi.nlm.nih.gov/gene/107976) | [MGI:1333875](http://www.informatics.jax.org/marker/MGI:1333875) | All phenotypic alleles (1):Targeted, other(1) |
 | Xenopus |  | [448242](https://www.ncbi.nlm.nih.gov/gene/448242), [444077](https://www.ncbi.nlm.nih.gov/gene/444077) | [1032919](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1032919) |  |
-| Zebrafish | [ENSDARG00000038863](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038863) | [550474](https://www.ncbi.nlm.nih.gov/gene/550474) | [ZFIN:ZDB-GENE-050417-299](https://zfin.org/ZDB-GENE-050417-299) | ZDB-GENE-050417-299 |
+| Zebrafish | [ENSDARG00000038863](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000038863) | [550474](https://www.ncbi.nlm.nih.gov/gene/550474) | [ZFIN:ZDB-GENE-050417-299](https://zfin.org/ZDB-GENE-050417-299) |  |
 

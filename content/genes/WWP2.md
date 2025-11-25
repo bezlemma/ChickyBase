@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415868
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001039260
-gene_id: '459135'
+gene_id: '415868'
 gene_type: protein-coding
 images:
 - caption: WWP2 expression
@@ -30,13 +30,8 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WWP2.Roy.2013.F7.wwp2.png
 name: WW domain containing E3 ubiquitin protein ligase 2
-ncbi_id: '459135'
+ncbi_id: '415868'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000198373
   entrez: '11060'
   mod: MIM:602308
@@ -47,20 +42,22 @@ orthologs:
   mod: MGI:1914144
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000017879
   entrez: '100038252'
-  mod: '961515'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000061345
   entrez: '564527'
   mod: ZFIN:ZDB-GENE-000607-82
-  phenotypes: ZDB-GENE-000607-82
+  phenotypes: negative regulation of transcription by RNA polymerase II, proteasome-mediated
+    ubiquitin-dependent protein catabolic process, protein ubiquitination, regulation
+    of monoatomic ion transmembrane transport, roof of mouth development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459135
+  url: https://www.ncbi.nlm.nih.gov/gene/415868
 species: Gallus gallus
 symbol: WWP2
 title: WWP2
@@ -86,9 +83,8 @@ title: WWP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000198373](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198373) | [11060](https://www.ncbi.nlm.nih.gov/gene/11060) | [MIM:602308](https://omim.org/entry/602308) |  |
 | Mouse | [ENSMUSG00000031930](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031930) | [66894](https://www.ncbi.nlm.nih.gov/gene/66894) | [MGI:1914144](http://www.informatics.jax.org/marker/MGI:1914144) |  |
-| Xenopus |  | [100038252](https://www.ncbi.nlm.nih.gov/gene/100038252) | [961515](http://www.xenbase.org/gene/showgene.do?method=display&geneId=961515) |  |
-| Zebrafish | [ENSDARG00000061345](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061345) | [564527](https://www.ncbi.nlm.nih.gov/gene/564527) | [ZFIN:ZDB-GENE-000607-82](https://zfin.org/ZDB-GENE-000607-82) | ZDB-GENE-000607-82 |
+| Xenopus | [ENSXETG00000017879](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017879) | [100038252](https://www.ncbi.nlm.nih.gov/gene/100038252) |  |  |
+| Zebrafish | [ENSDARG00000061345](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061345) | [564527](https://www.ncbi.nlm.nih.gov/gene/564527) | [ZFIN:ZDB-GENE-000607-82](https://zfin.org/ZDB-GENE-000607-82) | negative regulation of transcription by RNA polymerase II, proteasome-mediated ubiquitin-dependent protein catabolic process, protein ubiquitination, regulation of monoatomic ion transmembrane transport, roof of mouth development |
 

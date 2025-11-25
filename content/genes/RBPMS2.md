@@ -21,7 +21,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395678
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0000166
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204869
-gene_id: '449888'
+gene_id: '395678'
 gene_type: protein-coding
 images:
 - caption: RBPMS2 expression
@@ -203,16 +203,11 @@ images:
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/hermes.Wilmore.20055B.jpg
 name: RNA binding protein, mRNA processing factor 2
-ncbi_id: '449888'
+ncbi_id: '395678'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000166831
   entrez: '348093'
-  mod: ''
+  mod: MIM:619034
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000032387
@@ -220,20 +215,21 @@ orthologs:
   mod: MGI:1919223
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100038109,447559
-  mod: '490340'
+- ensembl: ENSXETG00000037318
+  entrez: '100038109'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000045930,ENSDARG00000079578
-  entrez: 436682,393229
-  mod: ZFIN:ZDB-GENE-040718-106,ZFIN:ZDB-GENE-040426-741
-  phenotypes: ZDB-GENE-040718-106,ZDB-GENE-040426-741
+- ensembl: ENSDARG00000045930
+  entrez: '436682'
+  mod: ZFIN:ZDB-GENE-040718-106
+  phenotypes: dendrite morphogenesis, female sex differentiation, heart contraction,
+    heart morphogenesis, negative regulation of smooth muscle cell differentiation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449888
+  url: https://www.ncbi.nlm.nih.gov/gene/395678
 species: Gallus gallus
 symbol: RBPMS2
 title: RBPMS2
@@ -263,9 +259,8 @@ EST Database.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000166831](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166831) | [348093](https://www.ncbi.nlm.nih.gov/gene/348093) |  |  |
+| Human | [ENSG00000166831](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166831) | [348093](https://www.ncbi.nlm.nih.gov/gene/348093) | [MIM:619034](https://omim.org/entry/619034) |  |
 | Mouse | [ENSMUSG00000032387](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032387) | [71973](https://www.ncbi.nlm.nih.gov/gene/71973) | [MGI:1919223](http://www.informatics.jax.org/marker/MGI:1919223) |  |
-| Xenopus |  | [100038109](https://www.ncbi.nlm.nih.gov/gene/100038109), [447559](https://www.ncbi.nlm.nih.gov/gene/447559) | [490340](http://www.xenbase.org/gene/showgene.do?method=display&geneId=490340) |  |
-| Zebrafish | [ENSDARG00000045930](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045930), [ENSDARG00000079578](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079578) | [436682](https://www.ncbi.nlm.nih.gov/gene/436682), [393229](https://www.ncbi.nlm.nih.gov/gene/393229) | [ZFIN:ZDB-GENE-040718-106](https://zfin.org/ZDB-GENE-040718-106), [ZFIN:ZDB-GENE-040426-741](https://zfin.org/ZDB-GENE-040426-741) | ZDB-GENE-040718-106,ZDB-GENE-040426-741 |
+| Xenopus | [ENSXETG00000037318](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000037318) | [100038109](https://www.ncbi.nlm.nih.gov/gene/100038109) |  |  |
+| Zebrafish | [ENSDARG00000045930](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045930) | [436682](https://www.ncbi.nlm.nih.gov/gene/436682) | [ZFIN:ZDB-GENE-040718-106](https://zfin.org/ZDB-GENE-040718-106) | dendrite morphogenesis, female sex differentiation, heart contraction, heart morphogenesis, negative regulation of smooth muscle cell differentiation |
 

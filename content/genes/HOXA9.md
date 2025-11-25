@@ -3,7 +3,6 @@ aliases:
 - HOXA-9, homeobox protein Hox-A9
 cgnc_id: '13931'
 external_ids:
-  '31': stage 31
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Nelson+1996+Hox
@@ -16,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396096
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640734
-gene_id: '459589'
+gene_id: '396096'
 gene_type: protein-coding
 images:
 - caption: HOXA9 expression
@@ -175,13 +174,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-9.Nelson.1996.Fig5.jpg
 name: homeobox A9
-ncbi_id: '459589'
+ncbi_id: '396096'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000078399
   entrez: '3205'
   mod: MIM:142956
@@ -192,23 +186,13 @@ orthologs:
   mod: MGI:96180
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(3)
   species: Mouse
-- ensembl: ''
-  entrez: '100037070'
-  mod: '481972'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000056819,ENSDARG00000009461
-  entrez: 58048,58047
-  mod: ZFIN:ZDB-GENE-000823-2,ZFIN:ZDB-GENE-000823-1
-  phenotypes: ZDB-GENE-000823-2,ZDB-GENE-000823-1
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459589
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396096
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459589
+  url: https://www.ncbi.nlm.nih.gov/gene/396096
 species: Gallus gallus
 symbol: HOXA9
 title: HOXA9
@@ -237,9 +221,6 @@ title: HOXA9
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000078399](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000078399) | [3205](https://www.ncbi.nlm.nih.gov/gene/3205) | [MIM:142956](https://omim.org/entry/142956) |  |
 | Mouse | [ENSMUSG00000038227](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038227) | [15405](https://www.ncbi.nlm.nih.gov/gene/15405) | [MGI:96180](http://www.informatics.jax.org/marker/MGI:96180) | All phenotypic alleles (3):Targeted, knock-out(3) |
-| Xenopus |  | [100037070](https://www.ncbi.nlm.nih.gov/gene/100037070) | [481972](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481972) |  |
-| Zebrafish | [ENSDARG00000056819](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056819), [ENSDARG00000009461](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000009461) | [58048](https://www.ncbi.nlm.nih.gov/gene/58048), [58047](https://www.ncbi.nlm.nih.gov/gene/58047) | [ZFIN:ZDB-GENE-000823-2](https://zfin.org/ZDB-GENE-000823-2), [ZFIN:ZDB-GENE-000823-1](https://zfin.org/ZDB-GENE-000823-1) | ZDB-GENE-000823-2,ZDB-GENE-000823-1 |
 

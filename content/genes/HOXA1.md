@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374051
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640697
   X-XIV: stage XIII
-gene_id: '454468'
+gene_id: '374051'
 gene_type: protein-coding
 images:
 - caption: HOXA1 expression
@@ -250,37 +250,34 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA1.Trevers.2023-Fig7-6-I.jpg
 name: homeobox A1
-ncbi_id: '454468'
+ncbi_id: '374051'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000105991
+  entrez: '3198'
+  mod: MIM:142955
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000029844
+  entrez: '15394'
+  mod: MGI:96170
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000000715
+  entrez: '493379'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000104307
+  entrez: '58051'
+  mod: ZFIN:ZDB-GENE-000823-5
+  phenotypes: anatomical structure morphogenesis, animal organ development, regulation
+    of DNA-templated transcription, regulation of transcription by RNA polymerase
+    II, system development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454468
+  url: https://www.ncbi.nlm.nih.gov/gene/374051
 species: Gallus gallus
 symbol: HOXA1
 title: HOXA1
@@ -306,9 +303,8 @@ title: HOXA1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000105991](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000105991) | [3198](https://www.ncbi.nlm.nih.gov/gene/3198) | [MIM:142955](https://omim.org/entry/142955) |  |
+| Mouse | [ENSMUSG00000029844](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029844) | [15394](https://www.ncbi.nlm.nih.gov/gene/15394) | [MGI:96170](http://www.informatics.jax.org/marker/MGI:96170) |  |
+| Xenopus | [ENSXETG00000000715](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000715) | [493379](https://www.ncbi.nlm.nih.gov/gene/493379) |  |  |
+| Zebrafish | [ENSDARG00000104307](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104307) | [58051](https://www.ncbi.nlm.nih.gov/gene/58051) | [ZFIN:ZDB-GENE-000823-5](https://zfin.org/ZDB-GENE-000823-5) | anatomical structure morphogenesis, animal organ development, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II, system development |
 

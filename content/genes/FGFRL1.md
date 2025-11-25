@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395107
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0017134
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204456
-gene_id: '462118'
+gene_id: '395107'
 gene_type: protein-coding
 images:
 - caption: FGFRL1 expression
@@ -143,13 +143,8 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/H07.25.st20.001som.jpg
 name: fibroblast growth factor receptor like 1
-ncbi_id: '462118'
+ncbi_id: '395107'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000127418
   entrez: '53834'
   mod: MIM:605830
@@ -160,23 +155,24 @@ orthologs:
   mod: MGI:2150920
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 496611,445001,733338
-  mod: '482471'
+- ensembl: ENSXETG00000021042
+  entrez: '496611'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000032617,ENSDARG00000052556
-  entrez: 393347,497135
-  mod: ZFIN:ZDB-GENE-040128-2,ZFIN:ZDB-GENE-050201-3
-  phenotypes: ZDB-GENE-040128-2,ZDB-GENE-050201-3
+- ensembl: ENSDARG00000032617
+  entrez: '393347'
+  mod: ZFIN:ZDB-GENE-040128-2
+  phenotypes: cartilage development, digestive tract development, eye morphogenesis,
+    fourth ventricle development, lateral ventricle development
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462118
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395107
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462118
+  url: https://www.ncbi.nlm.nih.gov/gene/395107
 species: Gallus gallus
 symbol: FGFRL1
 title: FGFRL1
@@ -200,9 +196,8 @@ title: FGFRL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000127418](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000127418) | [53834](https://www.ncbi.nlm.nih.gov/gene/53834) | [MIM:605830](https://omim.org/entry/605830) |  |
 | Mouse | [ENSMUSG00000008090](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000008090) | [116701](https://www.ncbi.nlm.nih.gov/gene/116701) | [MGI:2150920](http://www.informatics.jax.org/marker/MGI:2150920) | All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2) |
-| Xenopus |  | [496611](https://www.ncbi.nlm.nih.gov/gene/496611), [445001](https://www.ncbi.nlm.nih.gov/gene/445001), [733338](https://www.ncbi.nlm.nih.gov/gene/733338) | [482471](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482471) |  |
-| Zebrafish | [ENSDARG00000032617](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032617), [ENSDARG00000052556](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052556) | [393347](https://www.ncbi.nlm.nih.gov/gene/393347), [497135](https://www.ncbi.nlm.nih.gov/gene/497135) | [ZFIN:ZDB-GENE-040128-2](https://zfin.org/ZDB-GENE-040128-2), [ZFIN:ZDB-GENE-050201-3](https://zfin.org/ZDB-GENE-050201-3) | ZDB-GENE-040128-2,ZDB-GENE-050201-3 |
+| Xenopus | [ENSXETG00000021042](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021042) | [496611](https://www.ncbi.nlm.nih.gov/gene/496611) |  |  |
+| Zebrafish | [ENSDARG00000032617](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032617) | [393347](https://www.ncbi.nlm.nih.gov/gene/393347) | [ZFIN:ZDB-GENE-040128-2](https://zfin.org/ZDB-GENE-040128-2) | cartilage development, digestive tract development, eye morphogenesis, fourth ventricle development, lateral ventricle development |
 

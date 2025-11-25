@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424863
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422675
 forward_primer: TTATCACTTCAGCCTCCTTGCC
-gene_id: '449061'
+gene_id: '424863'
 gene_type: protein-coding
 images:
 - caption: AMOTL2 expression
@@ -119,13 +119,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R522.AMOTL2.S26.001.jpg
 name: angiomotin like 2
-ncbi_id: '449061'
+ncbi_id: '424863'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000114019
   entrez: '51421'
   mod: MIM:614658
@@ -136,24 +131,25 @@ orthologs:
   mod: MGI:1929286
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000011819
   entrez: '100379727'
-  mod: '972334'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000061923,ENSDARG00000061948
-  entrez: 558920,559784
-  mod: ZFIN:ZDB-GENE-030131-9770,ZFIN:ZDB-GENE-061103-307
-  phenotypes: ZDB-GENE-030131-9770,ZDB-GENE-061103-307
+- ensembl: ENSDARG00000061923
+  entrez: '558920'
+  mod: ZFIN:ZDB-GENE-030131-9770
+  phenotypes: Wnt signaling pathway, actin cytoskeleton organization, angiogenesis,
+    cell migration, convergent extension
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCGCACAAACAAAGAACTCGTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449061
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424863
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449061
+  url: https://www.ncbi.nlm.nih.gov/gene/424863
 species: Gallus gallus
 symbol: AMOTL2
 template_length: '648'
@@ -176,9 +172,8 @@ title: AMOTL2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000114019](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000114019) | [51421](https://www.ncbi.nlm.nih.gov/gene/51421) | [MIM:614658](https://omim.org/entry/614658) |  |
 | Mouse | [ENSMUSG00000032531](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032531) | [56332](https://www.ncbi.nlm.nih.gov/gene/56332) | [MGI:1929286](http://www.informatics.jax.org/marker/MGI:1929286) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100379727](https://www.ncbi.nlm.nih.gov/gene/100379727) | [972334](http://www.xenbase.org/gene/showgene.do?method=display&geneId=972334) |  |
-| Zebrafish | [ENSDARG00000061923](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061923), [ENSDARG00000061948](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061948) | [558920](https://www.ncbi.nlm.nih.gov/gene/558920), [559784](https://www.ncbi.nlm.nih.gov/gene/559784) | [ZFIN:ZDB-GENE-030131-9770](https://zfin.org/ZDB-GENE-030131-9770), [ZFIN:ZDB-GENE-061103-307](https://zfin.org/ZDB-GENE-061103-307) | ZDB-GENE-030131-9770,ZDB-GENE-061103-307 |
+| Xenopus | [ENSXETG00000011819](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011819) | [100379727](https://www.ncbi.nlm.nih.gov/gene/100379727) |  |  |
+| Zebrafish | [ENSDARG00000061923](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061923) | [558920](https://www.ncbi.nlm.nih.gov/gene/558920) | [ZFIN:ZDB-GENE-030131-9770](https://zfin.org/ZDB-GENE-030131-9770) | Wnt signaling pathway, actin cytoskeleton organization, angiogenesis, cell migration, convergent extension |
 

@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419707
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417851
 forward_primer: 5’-GCTAAGCAATTCCAGATCCT-3’
-gene_id: '457173'
+gene_id: '419707'
 gene_type: protein-coding
 images:
 - caption: ESAM expression
@@ -95,13 +95,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R696.ESAM.S27.001.jpg
 name: endothelial cell adhesion molecule
-ncbi_id: '457173'
+ncbi_id: '419707'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000149564
   entrez: '90952'
   mod: MIM:614281
@@ -112,24 +107,25 @@ orthologs:
   mod: MGI:1916774
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000032940
   entrez: '100216067'
-  mod: '963267'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000076639,ENSDARG00000077039
-  entrez: 562934,799432
-  mod: ZFIN:ZDB-GENE-090629-1,ZFIN:ZDB-GENE-090916-1
-  phenotypes: ZDB-GENE-090629-1,ZDB-GENE-090916-1
+- ensembl: ENSDARG00000077039
+  entrez: '799432'
+  mod: ZFIN:ZDB-GENE-090629-1
+  phenotypes: cell adhesion involved in sprouting angiogenesis, cell-cell adhesion,
+    homophilic cell adhesion via plasma membrane adhesion molecules, platelet aggregation
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGTCTTCCTTGATCTCGTTGG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457173
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419707
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457173
+  url: https://www.ncbi.nlm.nih.gov/gene/419707
 species: Gallus gallus
 symbol: ESAM
 template_length: '654'
@@ -152,9 +148,8 @@ title: ESAM
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000149564](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000149564) | [90952](https://www.ncbi.nlm.nih.gov/gene/90952) | [MIM:614281](https://omim.org/entry/614281) |  |
 | Mouse | [ENSMUSG00000001946](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001946) | [69524](https://www.ncbi.nlm.nih.gov/gene/69524) | [MGI:1916774](http://www.informatics.jax.org/marker/MGI:1916774) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [100216067](https://www.ncbi.nlm.nih.gov/gene/100216067) | [963267](http://www.xenbase.org/gene/showgene.do?method=display&geneId=963267) |  |
-| Zebrafish | [ENSDARG00000076639](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076639), [ENSDARG00000077039](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077039) | [562934](https://www.ncbi.nlm.nih.gov/gene/562934), [799432](https://www.ncbi.nlm.nih.gov/gene/799432) | [ZFIN:ZDB-GENE-090629-1](https://zfin.org/ZDB-GENE-090629-1), [ZFIN:ZDB-GENE-090916-1](https://zfin.org/ZDB-GENE-090916-1) | ZDB-GENE-090629-1,ZDB-GENE-090916-1 |
+| Xenopus | [ENSXETG00000032940](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000032940) | [100216067](https://www.ncbi.nlm.nih.gov/gene/100216067) |  |  |
+| Zebrafish | [ENSDARG00000077039](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077039) | [799432](https://www.ncbi.nlm.nih.gov/gene/799432) | [ZFIN:ZDB-GENE-090629-1](https://zfin.org/ZDB-GENE-090629-1) | cell adhesion involved in sprouting angiogenesis, cell-cell adhesion, homophilic cell adhesion via plasma membrane adhesion molecules, platelet aggregation |
 

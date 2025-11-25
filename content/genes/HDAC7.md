@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426885
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031402
 forward_primer: CAGGACAGTGGTGATGCCAATC
-gene_id: '459264'
+gene_id: '426885'
 gene_type: protein-coding
 images:
 - caption: HDAC7 expression
@@ -107,13 +107,8 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R426.HDAC7.S20b001.jpg
 name: histone deacetylase 7
-ncbi_id: '459264'
+ncbi_id: '426885'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000061273
   entrez: '51564'
   mod: MIM:606542
@@ -124,24 +119,26 @@ orthologs:
   mod: MGI:1891835
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010661
   entrez: '100158627'
-  mod: '488661'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+  entrez: '798603'
+  mod: ZFIN:ZDB-GENE-150129-1
+  phenotypes: chromatin organization, epigenetic regulation of gene expression, hematopoietic
+    progenitor cell differentiation, negative regulation of transcription by RNA polymerase
+    II
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCAGAGGGAGGTTGATGCTTTCC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459264
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426885
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459264
+  url: https://www.ncbi.nlm.nih.gov/gene/426885
 species: Gallus gallus
 symbol: HDAC7
 template_length: '754'
@@ -165,9 +162,8 @@ title: HDAC7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000061273](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000061273) | [51564](https://www.ncbi.nlm.nih.gov/gene/51564) | [MIM:606542](https://omim.org/entry/606542) |  |
 | Mouse | [ENSMUSG00000022475](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022475) | [56233](https://www.ncbi.nlm.nih.gov/gene/56233) | [MGI:1891835](http://www.informatics.jax.org/marker/MGI:1891835) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100158627](https://www.ncbi.nlm.nih.gov/gene/100158627) | [488661](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488661) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000010661](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010661) | [100158627](https://www.ncbi.nlm.nih.gov/gene/100158627) |  |  |
+| Zebrafish |  | [798603](https://www.ncbi.nlm.nih.gov/gene/798603) | [ZFIN:ZDB-GENE-150129-1](https://zfin.org/ZDB-GENE-150129-1) | chromatin organization, epigenetic regulation of gene expression, hematopoietic progenitor cell differentiation, negative regulation of transcription by RNA polymerase II |
 

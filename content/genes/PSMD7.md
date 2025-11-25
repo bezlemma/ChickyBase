@@ -15,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415869
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414229
-gene_id: '459134'
+gene_id: '415869'
 gene_type: protein-coding
 images:
 - caption: PSMD7 expression
@@ -33,13 +33,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-fig5C-whole-PSMD7.JPG
 name: proteasome 26S subunit, non-ATPase 7
-ncbi_id: '459134'
+ncbi_id: '415869'
 orthologs:
-- ensembl: ''
-  entrez: '37894'
-  mod: FBgn0002787
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000103035
   entrez: '5713'
   mod: MIM:157970
@@ -50,20 +45,21 @@ orthologs:
   mod: MGI:1351511
   phenotypes: All phenotypic alleles (1):Spontaneous(1)
   species: Mouse
-- ensembl: ''
-  entrez: 447971,447547
-  mod: '1005421'
+- ensembl: ENSXETG00000017884
+  entrez: '447971'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000102417
   entrez: '327330'
   mod: ZFIN:ZDB-GENE-030131-5541
-  phenotypes: ZDB-GENE-030131-5541
+  phenotypes: central nervous system morphogenesis, cranial skeletal system development,
+    proteasome-mediated ubiquitin-dependent protein catabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459134
+  url: https://www.ncbi.nlm.nih.gov/gene/415869
 species: Gallus gallus
 symbol: PSMD7
 title: PSMD7
@@ -91,9 +87,8 @@ title: PSMD7
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [37894](https://www.ncbi.nlm.nih.gov/gene/37894) | FBgn0002787 |  |
 | Human | [ENSG00000103035](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000103035) | [5713](https://www.ncbi.nlm.nih.gov/gene/5713) | [MIM:157970](https://omim.org/entry/157970) |  |
 | Mouse | [ENSMUSG00000039067](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039067) | [17463](https://www.ncbi.nlm.nih.gov/gene/17463) | [MGI:1351511](http://www.informatics.jax.org/marker/MGI:1351511) | All phenotypic alleles (1):Spontaneous(1) |
-| Xenopus |  | [447971](https://www.ncbi.nlm.nih.gov/gene/447971), [447547](https://www.ncbi.nlm.nih.gov/gene/447547) | [1005421](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1005421) |  |
-| Zebrafish |  | [327330](https://www.ncbi.nlm.nih.gov/gene/327330) | [ZFIN:ZDB-GENE-030131-5541](https://zfin.org/ZDB-GENE-030131-5541) | ZDB-GENE-030131-5541 |
+| Xenopus | [ENSXETG00000017884](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017884) | [447971](https://www.ncbi.nlm.nih.gov/gene/447971) |  |  |
+| Zebrafish | [ENSDARG00000102417](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000102417) | [327330](https://www.ncbi.nlm.nih.gov/gene/327330) | [ZFIN:ZDB-GENE-030131-5541](https://zfin.org/ZDB-GENE-030131-5541) | central nervous system morphogenesis, cranial skeletal system development, proteasome-mediated ubiquitin-dependent protein catabolic process |
 

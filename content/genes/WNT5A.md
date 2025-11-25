@@ -5,8 +5,6 @@ aliases:
 - Wnt-5a
 cgnc_id: '4029'
 external_ids:
-  '13': stage 13
-  '25': stage 25
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (NM_204887).
@@ -17,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395703
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204887
   X-XIV: stage XIIstage XII
-gene_id: '449824'
+gene_id: '395703'
 gene_type: protein-coding
 images:
 - caption: WNT5A expression
@@ -857,13 +855,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Anderson.2019.Fig2.jpg
 name: Wnt family member 5A
-ncbi_id: '449824'
+ncbi_id: '395703'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000114251
   entrez: '7474'
   mod: MIM:164975
@@ -874,20 +867,21 @@ orthologs:
   mod: MGI:98958
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 378507,378689
-  mod: '6458644'
+- ensembl: ENSXETG00000045880
+  entrez: '101734372'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000014495
+- ensembl: ENSDARG00000104973
   entrez: '568191'
   mod: ZFIN:ZDB-GENE-060328-3
-  phenotypes: ZDB-GENE-060328-3
+  phenotypes: Wnt signaling pathway, animal organ development, canonical Wnt signaling
+    pathway, cell fate commitment, neuron differentiation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449824
+  url: https://www.ncbi.nlm.nih.gov/gene/395703
 species: Gallus gallus
 symbol: WNT5A
 title: WNT5A
@@ -913,9 +907,8 @@ title: WNT5A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000114251](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000114251) | [7474](https://www.ncbi.nlm.nih.gov/gene/7474) | [MIM:164975](https://omim.org/entry/164975) |  |
 | Mouse | [ENSMUSG00000021994](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021994) | [22418](https://www.ncbi.nlm.nih.gov/gene/22418) | [MGI:98958](http://www.informatics.jax.org/marker/MGI:98958) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [378507](https://www.ncbi.nlm.nih.gov/gene/378507), [378689](https://www.ncbi.nlm.nih.gov/gene/378689) | [6458644](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6458644) |  |
-| Zebrafish | [ENSDARG00000014495](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014495) | [568191](https://www.ncbi.nlm.nih.gov/gene/568191) | [ZFIN:ZDB-GENE-060328-3](https://zfin.org/ZDB-GENE-060328-3) | ZDB-GENE-060328-3 |
+| Xenopus | [ENSXETG00000045880](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000045880) | [101734372](https://www.ncbi.nlm.nih.gov/gene/101734372) |  |  |
+| Zebrafish | [ENSDARG00000104973](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104973) | [568191](https://www.ncbi.nlm.nih.gov/gene/568191) | [ZFIN:ZDB-GENE-060328-3](https://zfin.org/ZDB-GENE-060328-3) | Wnt signaling pathway, animal organ development, canonical Wnt signaling pathway, cell fate commitment, neuron differentiation |
 

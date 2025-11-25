@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423519
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421418
-gene_id: '451643'
+gene_id: '423519'
 gene_type: protein-coding
 images:
 - caption: SLC38A6 expression
@@ -30,16 +30,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F5.slc38a6.png
 name: solute carrier family 38 member 6
-ncbi_id: '451643'
+ncbi_id: '423519'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000139974
   entrez: '145389'
-  mod: ''
+  mod: MIM:616518
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000044712
@@ -47,20 +42,21 @@ orthologs:
   mod: MGI:3648156
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000014459
   entrez: '493479'
-  mod: '1016510'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000054312
   entrez: '336741'
   mod: ZFIN:ZDB-GENE-050522-51
-  phenotypes: ZDB-GENE-050522-51
+  phenotypes: amino acid transmembrane transport, amino acid transport, glutamine
+    transport, monoatomic ion transport, sodium ion transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451643
+  url: https://www.ncbi.nlm.nih.gov/gene/423519
 species: Gallus gallus
 symbol: SLC38A6
 title: SLC38A6
@@ -86,9 +82,8 @@ title: SLC38A6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000139974](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139974) | [145389](https://www.ncbi.nlm.nih.gov/gene/145389) |  |  |
+| Human | [ENSG00000139974](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139974) | [145389](https://www.ncbi.nlm.nih.gov/gene/145389) | [MIM:616518](https://omim.org/entry/616518) |  |
 | Mouse | [ENSMUSG00000044712](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000044712) | [625098](https://www.ncbi.nlm.nih.gov/gene/625098) | [MGI:3648156](http://www.informatics.jax.org/marker/MGI:3648156) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [493479](https://www.ncbi.nlm.nih.gov/gene/493479) | [1016510](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1016510) |  |
-| Zebrafish | [ENSDARG00000054312](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054312) | [336741](https://www.ncbi.nlm.nih.gov/gene/336741) | [ZFIN:ZDB-GENE-050522-51](https://zfin.org/ZDB-GENE-050522-51) | ZDB-GENE-050522-51 |
+| Xenopus | [ENSXETG00000014459](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014459) | [493479](https://www.ncbi.nlm.nih.gov/gene/493479) |  |  |
+| Zebrafish | [ENSDARG00000054312](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054312) | [336741](https://www.ncbi.nlm.nih.gov/gene/336741) | [ZFIN:ZDB-GENE-050522-51](https://zfin.org/ZDB-GENE-050522-51) | amino acid transmembrane transport, amino acid transport, glutamine transport, monoatomic ion transport, sodium ion transport |
 

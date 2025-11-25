@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422055
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006422
-gene_id: '449380'
+gene_id: '422055'
 gene_type: protein-coding
 images:
 - caption: ENPP4 expression
@@ -124,16 +124,11 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ENPP4_HH 24 x15 (1).jpg
 name: ectonucleotide pyrophosphatase/phosphodiesterase 4
-ncbi_id: '449380'
+ncbi_id: '422055'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000001561
   entrez: '22875'
-  mod: ''
+  mod: MIM:617000
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000023961
@@ -141,20 +136,20 @@ orthologs:
   mod: MGI:2682634
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 550082,447221
-  mod: '1013024'
+- ensembl: ENSXETG00000016262
+  entrez: '550082'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000006877
+- ensembl: ENSDARG00000110396
   entrez: '550586'
   mod: ZFIN:ZDB-GENE-050417-444
-  phenotypes: ZDB-GENE-050417-444
+  phenotypes: blood coagulation, hemostasis
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449380
+  url: https://www.ncbi.nlm.nih.gov/gene/422055
 species: Gallus gallus
 symbol: ENPP4
 title: ENPP4
@@ -178,9 +173,8 @@ title: ENPP4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000001561](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000001561) | [22875](https://www.ncbi.nlm.nih.gov/gene/22875) |  |  |
+| Human | [ENSG00000001561](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000001561) | [22875](https://www.ncbi.nlm.nih.gov/gene/22875) | [MIM:617000](https://omim.org/entry/617000) |  |
 | Mouse | [ENSMUSG00000023961](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000023961) | [224794](https://www.ncbi.nlm.nih.gov/gene/224794) | [MGI:2682634](http://www.informatics.jax.org/marker/MGI:2682634) |  |
-| Xenopus |  | [550082](https://www.ncbi.nlm.nih.gov/gene/550082), [447221](https://www.ncbi.nlm.nih.gov/gene/447221) | [1013024](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1013024) |  |
-| Zebrafish | [ENSDARG00000006877](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006877) | [550586](https://www.ncbi.nlm.nih.gov/gene/550586) | [ZFIN:ZDB-GENE-050417-444](https://zfin.org/ZDB-GENE-050417-444) | ZDB-GENE-050417-444 |
+| Xenopus | [ENSXETG00000016262](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016262) | [550082](https://www.ncbi.nlm.nih.gov/gene/550082) |  |  |
+| Zebrafish | [ENSDARG00000110396](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110396) | [550586](https://www.ncbi.nlm.nih.gov/gene/550586) | [ZFIN:ZDB-GENE-050417-444](https://zfin.org/ZDB-GENE-050417-444) | blood coagulation, hemostasis |
 

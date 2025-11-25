@@ -18,7 +18,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100379662
   Sequence Information: http://www.ncbi.nlm.nih.gov/nuccore/NC_006107.3?report=genbank&from=10263333&to=10264039
-gene_id: '449422'
+gene_id: '100379662'
 gene_type: protein-coding
 images:
 - caption: SCRT2 expression
@@ -199,37 +199,31 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Vieceli.2013-Scrt2-Fig6.jpg
 name: scratch family transcriptional repressor 2
-ncbi_id: '449422'
+ncbi_id: '100379662'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSG00000215397
+  entrez: '85508'
   mod: ''
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000060257
+  entrez: '545474'
+  mod: MGI:2139287
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000056175
+  entrez: '325372'
+  mod: ZFIN:ZDB-GENE-030131-4097
+  phenotypes: negative regulation of extrinsic apoptotic signaling pathway via death
+    domain receptors, negative regulation of intrinsic apoptotic signaling pathway
+    in response to DNA damage by p53 class mediator, negative regulation of transcription
+    by RNA polymerase II, regulation of DNA damage response, signal transduction by
+    p53 class mediator, regulation of DNA-templated transcription
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449422
+  url: https://www.ncbi.nlm.nih.gov/gene/100379662
 species: Gallus gallus
 symbol: SCRT2
 title: SCRT2
@@ -256,9 +250,7 @@ title: SCRT2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000215397](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000215397) | [85508](https://www.ncbi.nlm.nih.gov/gene/85508) |  |  |
+| Mouse | [ENSMUSG00000060257](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000060257) | [545474](https://www.ncbi.nlm.nih.gov/gene/545474) | [MGI:2139287](http://www.informatics.jax.org/marker/MGI:2139287) |  |
+| Zebrafish | [ENSDARG00000056175](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056175) | [325372](https://www.ncbi.nlm.nih.gov/gene/325372) | [ZFIN:ZDB-GENE-030131-4097](https://zfin.org/ZDB-GENE-030131-4097) | negative regulation of extrinsic apoptotic signaling pathway via death domain receptors, negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator, negative regulation of transcription by RNA polymerase II, regulation of DNA damage response, signal transduction by p53 class mediator, regulation of DNA-templated transcription |
 

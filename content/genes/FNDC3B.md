@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424984
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001252324
 forward_primer: 5’-TCCTTCCTTTCCGACACACG-3’
-gene_id: '448670'
+gene_id: '424984'
 gene_type: protein-coding
 images:
 - caption: FNDC3B expression
@@ -116,13 +116,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R675.FNDC3B.S26.001.jpg
 name: fibronectin type III domain containing 3B
-ncbi_id: '448670'
+ncbi_id: '424984'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000075420
   entrez: '64778'
   mod: MIM:611909
@@ -133,24 +128,24 @@ orthologs:
   mod: MGI:1919257
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000023615
   entrez: '100497620'
-  mod: '948477'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000078179,ENSDARG00000062023
-  entrez: 572313,568274
-  mod: ZFIN:ZDB-GENE-070510-1,ZFIN:ZDB-GENE-070510-2
-  phenotypes: ZDB-GENE-070510-1,ZDB-GENE-070510-2
+- ensembl: ENSDARG00000078179
+  entrez: '572313'
+  mod: ZFIN:ZDB-GENE-070510-1
+  phenotypes: biological_process
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGTGATTGCAGGTGGGACTGAC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448670
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=424984
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448670
+  url: https://www.ncbi.nlm.nih.gov/gene/424984
 species: Gallus gallus
 symbol: FNDC3B
 template_length: '847'
@@ -173,9 +168,8 @@ title: FNDC3B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000075420](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000075420) | [64778](https://www.ncbi.nlm.nih.gov/gene/64778) | [MIM:611909](https://omim.org/entry/611909) |  |
 | Mouse | [ENSMUSG00000039286](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039286) | [72007](https://www.ncbi.nlm.nih.gov/gene/72007) | [MGI:1919257](http://www.informatics.jax.org/marker/MGI:1919257) | All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2) |
-| Xenopus |  | [100497620](https://www.ncbi.nlm.nih.gov/gene/100497620) | [948477](http://www.xenbase.org/gene/showgene.do?method=display&geneId=948477) |  |
-| Zebrafish | [ENSDARG00000078179](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078179), [ENSDARG00000062023](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062023) | [572313](https://www.ncbi.nlm.nih.gov/gene/572313), [568274](https://www.ncbi.nlm.nih.gov/gene/568274) | [ZFIN:ZDB-GENE-070510-1](https://zfin.org/ZDB-GENE-070510-1), [ZFIN:ZDB-GENE-070510-2](https://zfin.org/ZDB-GENE-070510-2) | ZDB-GENE-070510-1,ZDB-GENE-070510-2 |
+| Xenopus | [ENSXETG00000023615](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023615) | [100497620](https://www.ncbi.nlm.nih.gov/gene/100497620) |  |  |
+| Zebrafish | [ENSDARG00000078179](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078179) | [572313](https://www.ncbi.nlm.nih.gov/gene/572313) | [ZFIN:ZDB-GENE-070510-1](https://zfin.org/ZDB-GENE-070510-1) | biological_process |
 

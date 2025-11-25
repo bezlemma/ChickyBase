@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100857417
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003643487
-gene_id: '471948'
+gene_id: '100857417'
 gene_type: protein-coding
 images:
 - caption: PLVAP expression
@@ -32,7 +32,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLVAP.Anderson.2019.Supplementary
     figure 4F.jpg
 name: plasmalemma vesicle associated protein
-ncbi_id: '471948'
+ncbi_id: '100857417'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -62,7 +62,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/471948
+  url: https://www.ncbi.nlm.nih.gov/gene/100857417
 species: Gallus gallus
 symbol: PLVAP
 title: PLVAP

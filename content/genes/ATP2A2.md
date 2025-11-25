@@ -13,7 +13,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001271973
 forward_primer: 5’-GCCCCTGCATTGAAGAAAGC-3’
-gene_id: '461010'
+gene_id: '396446'
 gene_type: protein-coding
 images:
 - caption: ATP2A2 expression
@@ -151,13 +151,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R656.ATP2A2.S26V.001.jpg
 name: ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2
-ncbi_id: '461010'
+ncbi_id: '396446'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000174437
   entrez: '488'
   mod: MIM:108740
@@ -168,24 +163,25 @@ orthologs:
   mod: MGI:88110
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100489059,446229
-  mod: '1012932'
+- ensembl: ENSXETG00000002512
+  entrez: '100489059'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000029439,ENSDARG00000005122
-  entrez: 393940,568265
-  mod: ZFIN:ZDB-GENE-040426-702,ZFIN:ZDB-GENE-030131-867
-  phenotypes: ZDB-GENE-040426-702,ZDB-GENE-030131-867
+- ensembl: ENSDARG00000029439
+  entrez: '393940'
+  mod: ZFIN:ZDB-GENE-040426-702
+  phenotypes: autophagosome assembly, calcium ion transmembrane transport, calcium
+    ion transport, heart looping, intracellular calcium ion homeostasis
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTTGCGTCACGTTTAAAGGCG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461010
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396446
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461010
+  url: https://www.ncbi.nlm.nih.gov/gene/396446
 species: Gallus gallus
 symbol: ATP2A2
 template_length: '777'
@@ -211,9 +207,8 @@ title: ATP2A2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000174437](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000174437) | [488](https://www.ncbi.nlm.nih.gov/gene/488) | [MIM:108740](https://omim.org/entry/108740) | MIM:101900 |
 | Mouse | [ENSMUSG00000029467](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029467) | [11938](https://www.ncbi.nlm.nih.gov/gene/11938) | [MGI:88110](http://www.informatics.jax.org/marker/MGI:88110) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100489059](https://www.ncbi.nlm.nih.gov/gene/100489059), [446229](https://www.ncbi.nlm.nih.gov/gene/446229) | [1012932](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1012932) |  |
-| Zebrafish | [ENSDARG00000029439](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029439), [ENSDARG00000005122](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005122) | [393940](https://www.ncbi.nlm.nih.gov/gene/393940), [568265](https://www.ncbi.nlm.nih.gov/gene/568265) | [ZFIN:ZDB-GENE-040426-702](https://zfin.org/ZDB-GENE-040426-702), [ZFIN:ZDB-GENE-030131-867](https://zfin.org/ZDB-GENE-030131-867) | ZDB-GENE-040426-702,ZDB-GENE-030131-867 |
+| Xenopus | [ENSXETG00000002512](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002512) | [100489059](https://www.ncbi.nlm.nih.gov/gene/100489059) |  |  |
+| Zebrafish | [ENSDARG00000029439](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029439) | [393940](https://www.ncbi.nlm.nih.gov/gene/393940) | [ZFIN:ZDB-GENE-040426-702](https://zfin.org/ZDB-GENE-040426-702) | autophagosome assembly, calcium ion transmembrane transport, calcium ion transport, heart looping, intracellular calcium ion homeostasis |
 

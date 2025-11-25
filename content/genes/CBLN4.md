@@ -140,7 +140,7 @@ orthologs:
 - ensembl: ENSDARG00000061240
   entrez: '563847'
   mod: ZFIN:ZDB-GENE-080204-58
-  phenotypes: ZDB-GENE-080204-58
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGG AGTAAGTGTGAGATTTCCTGGAGGG -3'
 sources:
@@ -176,5 +176,5 @@ title: CBLN4
 | Human | [ENSG00000054803](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000054803) | [140689](https://www.ncbi.nlm.nih.gov/gene/140689) | [MIM:615029](https://omim.org/entry/615029) |  |
 | Mouse | [ENSMUSG00000067578](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000067578) | [228942](https://www.ncbi.nlm.nih.gov/gene/228942) | [MGI:2154433](http://www.informatics.jax.org/marker/MGI:2154433) | All phenotypic alleles (2):Targeted, knock-out(2) |
 | Xenopus |  | [100124953](https://www.ncbi.nlm.nih.gov/gene/100124953), [379609](https://www.ncbi.nlm.nih.gov/gene/379609) | [986702](http://www.xenbase.org/gene/showgene.do?method=display&geneId=986702) |  |
-| Zebrafish | [ENSDARG00000061240](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061240) | [563847](https://www.ncbi.nlm.nih.gov/gene/563847) | [ZFIN:ZDB-GENE-080204-58](https://zfin.org/ZDB-GENE-080204-58) | ZDB-GENE-080204-58 |
+| Zebrafish | [ENSDARG00000061240](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061240) | [563847](https://www.ncbi.nlm.nih.gov/gene/563847) | [ZFIN:ZDB-GENE-080204-58](https://zfin.org/ZDB-GENE-080204-58) |  |
 

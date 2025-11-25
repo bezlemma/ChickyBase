@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426648
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424275
 forward_primer: 5’-AACAGCTGGTTCTGGTGGG-3’
-gene_id: '459950'
+gene_id: '426648'
 gene_type: protein-coding
 images:
 - caption: CERS3 expression
@@ -57,41 +57,31 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R702.CERS3.S27.001.jpg
 name: ceramide synthase 3
-ncbi_id: '459950'
+ncbi_id: '426648'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000154227
+  entrez: '204219'
+  mod: MIM:615276
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000030510
+  entrez: '545975'
+  mod: MGI:2681008
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000027994
+  entrez: '448139'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCATCAACCCAATGGCTGCG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459950
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426648
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459950
+  url: https://www.ncbi.nlm.nih.gov/gene/426648
 species: Gallus gallus
 symbol: CERS3
 template_length: '645'
@@ -114,9 +104,7 @@ title: CERS3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000154227](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000154227) | [204219](https://www.ncbi.nlm.nih.gov/gene/204219) | [MIM:615276](https://omim.org/entry/615276) |  |
+| Mouse | [ENSMUSG00000030510](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030510) | [545975](https://www.ncbi.nlm.nih.gov/gene/545975) | [MGI:2681008](http://www.informatics.jax.org/marker/MGI:2681008) |  |
+| Xenopus | [ENSXETG00000027994](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000027994) | [448139](https://www.ncbi.nlm.nih.gov/gene/448139) |  |  |
 

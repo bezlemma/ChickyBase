@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374083
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204238
 forward_primer: 5’-GCAGCACAAAGTGACAGCTC-3’
-gene_id: '454418'
+gene_id: '374083'
 gene_type: protein-coding
 images:
 - caption: DAB1 expression
@@ -106,14 +106,9 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R651.DAB1.S26AAA.001.jpg
 name: DAB1, reelin adaptor protein
-ncbi_id: '454418'
+ncbi_id: '374083'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000173406
   entrez: '1600'
   mod: MIM:603448
   phenotypes: ''
@@ -124,24 +119,24 @@ orthologs:
   phenotypes: All phenotypic alleles (18):Spontaneous(5) Targeted, knock-out(3) Targeted,
     other(10)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000011130
   entrez: '100135079'
-  mod: '1010387'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000059939,ENSDARG00000003290
-  entrez: 692351,678641
-  mod: ZFIN:ZDB-GENE-060528-1,ZFIN:ZDB-GENE-060421-7958
-  phenotypes: ZDB-GENE-060528-1,ZDB-GENE-060421-7958
+- ensembl: ENSDARG00000059939
+  entrez: '692351'
+  mod: ZFIN:ZDB-GENE-060528-1
+  phenotypes: cell differentiation, neuron migration
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCATACCTCCCAAGCACTGCA-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454418
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374083
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454418
+  url: https://www.ncbi.nlm.nih.gov/gene/374083
 species: Gallus gallus
 symbol: DAB1
 template_length: '1109'
@@ -164,9 +159,8 @@ title: DAB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [1600](https://www.ncbi.nlm.nih.gov/gene/1600) | [MIM:603448](https://omim.org/entry/603448) |  |
+| Human | [ENSG00000173406](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000173406) | [1600](https://www.ncbi.nlm.nih.gov/gene/1600) | [MIM:603448](https://omim.org/entry/603448) |  |
 | Mouse | [ENSMUSG00000028519](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028519) | [13131](https://www.ncbi.nlm.nih.gov/gene/13131) | [MGI:108554](http://www.informatics.jax.org/marker/MGI:108554) | All phenotypic alleles (18):Spontaneous(5) Targeted, knock-out(3) Targeted, other(10) |
-| Xenopus |  | [100135079](https://www.ncbi.nlm.nih.gov/gene/100135079) | [1010387](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1010387) |  |
-| Zebrafish | [ENSDARG00000059939](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059939), [ENSDARG00000003290](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003290) | [692351](https://www.ncbi.nlm.nih.gov/gene/692351), [678641](https://www.ncbi.nlm.nih.gov/gene/678641) | [ZFIN:ZDB-GENE-060528-1](https://zfin.org/ZDB-GENE-060528-1), [ZFIN:ZDB-GENE-060421-7958](https://zfin.org/ZDB-GENE-060421-7958) | ZDB-GENE-060528-1,ZDB-GENE-060421-7958 |
+| Xenopus | [ENSXETG00000011130](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011130) | [100135079](https://www.ncbi.nlm.nih.gov/gene/100135079) |  |  |
+| Zebrafish | [ENSDARG00000059939](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000059939) | [692351](https://www.ncbi.nlm.nih.gov/gene/692351) | [ZFIN:ZDB-GENE-060528-1](https://zfin.org/ZDB-GENE-060528-1) | cell differentiation, neuron migration |
 

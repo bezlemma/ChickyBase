@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417656
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012807
-gene_id: '452458'
+gene_id: '417656'
 gene_type: protein-coding
 images:
 - caption: TADA2A expression
@@ -24,14 +24,9 @@ images:
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/53xd5.131.4.jpg
 name: transcriptional adaptor 2A
-ncbi_id: '452458'
+ncbi_id: '417656'
 orthologs:
-- ensembl: ''
-  entrez: '326128'
-  mod: FBgn0263738
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000276234
+- ensembl: ENSG00000277104
   entrez: '6871'
   mod: MIM:602276
   phenotypes: ''
@@ -41,23 +36,24 @@ orthologs:
   mod: MGI:2144471
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 549405,447301
-  mod: '946814'
+- ensembl: ENSXETG00000008953
+  entrez: '549405'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000031562
   entrez: '797303'
   mod: ZFIN:ZDB-GENE-060929-508
-  phenotypes: ZDB-GENE-060929-508
+  phenotypes: chromatin remodeling, regulation of cell cycle, regulation of cell division,
+    regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452458
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417656
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452458
+  url: https://www.ncbi.nlm.nih.gov/gene/417656
 species: Gallus gallus
 symbol: TADA2A
 title: TADA2A
@@ -85,9 +81,8 @@ title: TADA2A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [326128](https://www.ncbi.nlm.nih.gov/gene/326128) | FBgn0263738 |  |
-| Human | [ENSG00000276234](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000276234) | [6871](https://www.ncbi.nlm.nih.gov/gene/6871) | [MIM:602276](https://omim.org/entry/602276) |  |
+| Human | [ENSG00000277104](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000277104) | [6871](https://www.ncbi.nlm.nih.gov/gene/6871) | [MIM:602276](https://omim.org/entry/602276) |  |
 | Mouse | [ENSMUSG00000018651](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000018651) | [217031](https://www.ncbi.nlm.nih.gov/gene/217031) | [MGI:2144471](http://www.informatics.jax.org/marker/MGI:2144471) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [549405](https://www.ncbi.nlm.nih.gov/gene/549405), [447301](https://www.ncbi.nlm.nih.gov/gene/447301) | [946814](http://www.xenbase.org/gene/showgene.do?method=display&geneId=946814) |  |
-| Zebrafish | [ENSDARG00000031562](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031562) | [797303](https://www.ncbi.nlm.nih.gov/gene/797303) | [ZFIN:ZDB-GENE-060929-508](https://zfin.org/ZDB-GENE-060929-508) | ZDB-GENE-060929-508 |
+| Xenopus | [ENSXETG00000008953](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008953) | [549405](https://www.ncbi.nlm.nih.gov/gene/549405) |  |  |
+| Zebrafish | [ENSDARG00000031562](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031562) | [797303](https://www.ncbi.nlm.nih.gov/gene/797303) | [ZFIN:ZDB-GENE-060929-508](https://zfin.org/ZDB-GENE-060929-508) | chromatin remodeling, regulation of cell cycle, regulation of cell division, regulation of transcription by RNA polymerase II |
 

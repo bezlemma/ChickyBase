@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100189558
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001135122
 forward_primer: CCACTTGCTCTTTCAGTCAGGG
-gene_id: '459675'
+gene_id: '100189558'
 gene_type: protein-coding
 images:
 - caption: ANGPTL3 expression
@@ -213,41 +213,37 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANGPTL3.Niki.2009.Fig.4.png
 name: angiopoietin like 3
-ncbi_id: '459675'
+ncbi_id: '100189558'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000132855
+  entrez: '27329'
+  mod: MIM:604774
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000028553
+  entrez: '30924'
+  mod: MGI:1353627
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000010849
+  entrez: '496885'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000044365
+  entrez: '114421'
+  mod: ZFIN:ZDB-GENE-010817-3
+  phenotypes: blood coagulation, cholesterol homeostasis, hepatocyte proliferation,
+    lipid metabolic process, liver development
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGATGGAGAAGGTCTTGTTCAGGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459675
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=100189558
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459675
+  url: https://www.ncbi.nlm.nih.gov/gene/100189558
 species: Gallus gallus
 symbol: ANGPTL3
 template_length: '945'
@@ -274,9 +270,8 @@ title: ANGPTL3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000132855](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000132855) | [27329](https://www.ncbi.nlm.nih.gov/gene/27329) | [MIM:604774](https://omim.org/entry/604774) |  |
+| Mouse | [ENSMUSG00000028553](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028553) | [30924](https://www.ncbi.nlm.nih.gov/gene/30924) | [MGI:1353627](http://www.informatics.jax.org/marker/MGI:1353627) |  |
+| Xenopus | [ENSXETG00000010849](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010849) | [496885](https://www.ncbi.nlm.nih.gov/gene/496885) |  |  |
+| Zebrafish | [ENSDARG00000044365](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000044365) | [114421](https://www.ncbi.nlm.nih.gov/gene/114421) | [ZFIN:ZDB-GENE-010817-3](https://zfin.org/ZDB-GENE-010817-3) | blood coagulation, cholesterol homeostasis, hepatocyte proliferation, lipid metabolic process, liver development |
 

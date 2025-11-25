@@ -8,7 +8,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426796
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424409
-gene_id: '458928'
+gene_id: '426796'
 gene_type: protein-coding
 images:
 - caption: SNCAIP expression
@@ -48,13 +48,8 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3wf7.113.4.21.jpg
 name: synuclein alpha interacting protein
-ncbi_id: '458928'
+ncbi_id: '426796'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000064692
   entrez: '9627'
   mod: MIM:603779
@@ -65,23 +60,24 @@ orthologs:
   mod: MGI:1915097
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000027392
   entrez: '448237'
-  mod: '948742'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000100198
   entrez: '796993'
   mod: ZFIN:ZDB-GENE-080204-71
-  phenotypes: ZDB-GENE-080204-71
+  phenotypes: protein localization to cell surface, regulation of response to osmotic
+    stress
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458928
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426796
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458928
+  url: https://www.ncbi.nlm.nih.gov/gene/426796
 species: Gallus gallus
 symbol: SNCAIP
 title: SNCAIP
@@ -102,9 +98,8 @@ title: SNCAIP
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000064692](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000064692) | [9627](https://www.ncbi.nlm.nih.gov/gene/9627) | [MIM:603779](https://omim.org/entry/603779) | MIM:168600 |
 | Mouse | [ENSMUSG00000024534](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024534) | [67847](https://www.ncbi.nlm.nih.gov/gene/67847) | [MGI:1915097](http://www.informatics.jax.org/marker/MGI:1915097) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [448237](https://www.ncbi.nlm.nih.gov/gene/448237) | [948742](http://www.xenbase.org/gene/showgene.do?method=display&geneId=948742) |  |
-| Zebrafish |  | [796993](https://www.ncbi.nlm.nih.gov/gene/796993) | [ZFIN:ZDB-GENE-080204-71](https://zfin.org/ZDB-GENE-080204-71) | ZDB-GENE-080204-71 |
+| Xenopus | [ENSXETG00000027392](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000027392) | [448237](https://www.ncbi.nlm.nih.gov/gene/448237) |  |  |
+| Zebrafish | [ENSDARG00000100198](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000100198) | [796993](https://www.ncbi.nlm.nih.gov/gene/796993) | [ZFIN:ZDB-GENE-080204-71](https://zfin.org/ZDB-GENE-080204-71) | protein localization to cell surface, regulation of response to osmotic stress |
 

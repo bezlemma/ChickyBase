@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418097
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416330
-gene_id: '455853'
+gene_id: '418097'
 gene_type: protein-coding
 images:
 - caption: SYCP3 expression
@@ -95,13 +95,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SYCP3.Zheng.2009.Fig.7.png
 name: synaptonemal complex protein 3
-ncbi_id: '455853'
+ncbi_id: '418097'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000139351
   entrez: '50511'
   mod: MIM:604759
@@ -112,20 +107,20 @@ orthologs:
   mod: MGI:109542
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 779673,100137700
-  mod: '5764717'
+- ensembl: ENSXETG00000023270
+  entrez: '779673'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000013438
   entrez: '678602'
   mod: ZFIN:ZDB-GENE-040910-2
-  phenotypes: ZDB-GENE-040910-2
+  phenotypes: meiotic cell cycle, spermatid development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455853
+  url: https://www.ncbi.nlm.nih.gov/gene/418097
 species: Gallus gallus
 symbol: SYCP3
 title: SYCP3
@@ -153,9 +148,8 @@ Copyright © 2009 Bioscientifica. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000139351](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139351) | [50511](https://www.ncbi.nlm.nih.gov/gene/50511) | [MIM:604759](https://omim.org/entry/604759) | MIM:270960 |
 | Mouse | [ENSMUSG00000020059](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020059) | [20962](https://www.ncbi.nlm.nih.gov/gene/20962) | [MGI:109542](http://www.informatics.jax.org/marker/MGI:109542) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [779673](https://www.ncbi.nlm.nih.gov/gene/779673), [100137700](https://www.ncbi.nlm.nih.gov/gene/100137700) | [5764717](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5764717) |  |
-| Zebrafish | [ENSDARG00000013438](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013438) | [678602](https://www.ncbi.nlm.nih.gov/gene/678602) | [ZFIN:ZDB-GENE-040910-2](https://zfin.org/ZDB-GENE-040910-2) | ZDB-GENE-040910-2 |
+| Xenopus | [ENSXETG00000023270](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023270) | [779673](https://www.ncbi.nlm.nih.gov/gene/779673) |  |  |
+| Zebrafish | [ENSDARG00000013438](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013438) | [678602](https://www.ncbi.nlm.nih.gov/gene/678602) | [ZFIN:ZDB-GENE-040910-2](https://zfin.org/ZDB-GENE-040910-2) | meiotic cell cycle, spermatid development |
 

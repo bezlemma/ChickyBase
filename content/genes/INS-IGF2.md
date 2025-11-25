@@ -76,7 +76,7 @@ orthologs:
 - ensembl: ENSDARG00000035350
   entrez: 100334156,30262
   mod: ZFIN:ZDB-GENE-980526-110
-  phenotypes: ZDB-GENE-980526-110
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -113,5 +113,5 @@ title: INS-IGF2
 | Human | [ENSG00000254647](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000254647) | [3630](https://www.ncbi.nlm.nih.gov/gene/3630) | [MIM:176730](https://omim.org/entry/176730) | MIM:606176 |
 | Mouse | [ENSMUSG00000000215](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000215) | [16334](https://www.ncbi.nlm.nih.gov/gene/16334) | [MGI:96573](http://www.informatics.jax.org/marker/MGI:96573) | All phenotypic alleles (15):Spontaneous(1) Chemically induced(1) Targeted, knock-out(3) Targeted, other(10) |
 | Xenopus |  | [100101718](https://www.ncbi.nlm.nih.gov/gene/100101718), [378695](https://www.ncbi.nlm.nih.gov/gene/378695), [378696](https://www.ncbi.nlm.nih.gov/gene/378696) | [485904](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485904) |  |
-| Zebrafish | [ENSDARG00000035350](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035350) | [100334156](https://www.ncbi.nlm.nih.gov/gene/100334156), [30262](https://www.ncbi.nlm.nih.gov/gene/30262) | [ZFIN:ZDB-GENE-980526-110](https://zfin.org/ZDB-GENE-980526-110) | ZDB-GENE-980526-110 |
+| Zebrafish | [ENSDARG00000035350](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035350) | [100334156](https://www.ncbi.nlm.nih.gov/gene/100334156), [30262](https://www.ncbi.nlm.nih.gov/gene/30262) | [ZFIN:ZDB-GENE-980526-110](https://zfin.org/ZDB-GENE-980526-110) |  |
 

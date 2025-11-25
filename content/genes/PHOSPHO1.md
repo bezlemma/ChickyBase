@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395650
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0046872
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204845
-gene_id: '449962'
+gene_id: '395650'
 gene_type: protein-coding
 images:
 - caption: PHOSPHO1 expression
@@ -92,13 +92,8 @@ images:
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Macrea.Fig7.K.Phospho1.St36.jpg
 name: phosphoethanolamine/phosphocholine phosphatase
-ncbi_id: '449962'
+ncbi_id: '395650'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000173868
   entrez: '162466'
   mod: ''
@@ -109,20 +104,20 @@ orthologs:
   mod: MGI:2447348
   phenotypes: All phenotypic alleles (1):Chemically induced(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000033588
   entrez: '100492656'
-  mod: '987276'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000008403
   entrez: '100002812'
   mod: ZFIN:ZDB-GENE-040801-198
-  phenotypes: ZDB-GENE-040801-198
+  phenotypes: bone mineralization, regulation of bone mineralization
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449962
+  url: https://www.ncbi.nlm.nih.gov/gene/395650
 species: Gallus gallus
 symbol: PHOSPHO1
 title: PHOSPHO1
@@ -151,9 +146,8 @@ title: PHOSPHO1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000173868](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000173868) | [162466](https://www.ncbi.nlm.nih.gov/gene/162466) |  |  |
 | Mouse | [ENSMUSG00000050860](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000050860) | [237928](https://www.ncbi.nlm.nih.gov/gene/237928) | [MGI:2447348](http://www.informatics.jax.org/marker/MGI:2447348) | All phenotypic alleles (1):Chemically induced(1) |
-| Xenopus |  | [100492656](https://www.ncbi.nlm.nih.gov/gene/100492656) | [987276](http://www.xenbase.org/gene/showgene.do?method=display&geneId=987276) |  |
-| Zebrafish | [ENSDARG00000008403](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008403) | [100002812](https://www.ncbi.nlm.nih.gov/gene/100002812) | [ZFIN:ZDB-GENE-040801-198](https://zfin.org/ZDB-GENE-040801-198) | ZDB-GENE-040801-198 |
+| Xenopus | [ENSXETG00000033588](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000033588) | [100492656](https://www.ncbi.nlm.nih.gov/gene/100492656) |  |  |
+| Zebrafish | [ENSDARG00000008403](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008403) | [100002812](https://www.ncbi.nlm.nih.gov/gene/100002812) | [ZFIN:ZDB-GENE-040801-198](https://zfin.org/ZDB-GENE-040801-198) | bone mineralization, regulation of bone mineralization |
 

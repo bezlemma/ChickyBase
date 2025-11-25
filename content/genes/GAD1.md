@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395743
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204913
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/GAD1
-gene_id: '450372'
+gene_id: '395743'
 gene_type: protein-coding
 images:
 - caption: GAD1 expression
@@ -49,13 +49,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Abellan.Fig11.GAD67.B.PO.jpg
 name: glutamate decarboxylase 1
-ncbi_id: '450372'
+ncbi_id: '395743'
 orthologs:
-- ensembl: ''
-  entrez: '38484'
-  mod: FBgn0004516
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000128683
   entrez: '2571'
   mod: MIM:605363
@@ -66,20 +61,15 @@ orthologs:
   mod: MGI:95632
   phenotypes: All phenotypic alleles (14):Targeted, knock-out(3) Targeted, other(11)
   species: Mouse
-- ensembl: ''
-  entrez: 100145511,100137647
-  mod: 1011698,5830281
+- ensembl: ENSXETG00000018848
+  entrez: '100496528'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000027419,ENSDARG00000093411
-  entrez: 100006588,378441,100329827
-  mod: ZFIN:ZDB-GENE-030909-3,ZFIN:ZDB-GENE-070912-472,ZFIN:ZDB-GENE-070912-472
-  phenotypes: ZDB-GENE-030909-3,ZDB-GENE-070912-472,ZDB-GENE-070912-472
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450372
+  url: https://www.ncbi.nlm.nih.gov/gene/395743
 species: Gallus gallus
 symbol: GAD1
 title: GAD1
@@ -108,9 +98,7 @@ title: GAD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38484](https://www.ncbi.nlm.nih.gov/gene/38484) | FBgn0004516 |  |
 | Human | [ENSG00000128683](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000128683) | [2571](https://www.ncbi.nlm.nih.gov/gene/2571) | [MIM:605363](https://omim.org/entry/605363) | MIM:603513 |
 | Mouse | [ENSMUSG00000070880](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000070880) | [14415](https://www.ncbi.nlm.nih.gov/gene/14415) | [MGI:95632](http://www.informatics.jax.org/marker/MGI:95632) | All phenotypic alleles (14):Targeted, knock-out(3) Targeted, other(11) |
-| Xenopus |  | [100145511](https://www.ncbi.nlm.nih.gov/gene/100145511), [100137647](https://www.ncbi.nlm.nih.gov/gene/100137647) | [1011698](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1011698), [5830281](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5830281) |  |
-| Zebrafish | [ENSDARG00000027419](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000027419), [ENSDARG00000093411](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000093411) | [100006588](https://www.ncbi.nlm.nih.gov/gene/100006588), [378441](https://www.ncbi.nlm.nih.gov/gene/378441), [100329827](https://www.ncbi.nlm.nih.gov/gene/100329827) | [ZFIN:ZDB-GENE-030909-3](https://zfin.org/ZDB-GENE-030909-3), [ZFIN:ZDB-GENE-070912-472](https://zfin.org/ZDB-GENE-070912-472), [ZFIN:ZDB-GENE-070912-472](https://zfin.org/ZDB-GENE-070912-472) | ZDB-GENE-030909-3,ZDB-GENE-070912-472,ZDB-GENE-070912-472 |
+| Xenopus | [ENSXETG00000018848](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018848) | [100496528](https://www.ncbi.nlm.nih.gov/gene/100496528) |  |  |
 

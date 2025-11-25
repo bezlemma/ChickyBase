@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419588
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417735
-gene_id: '458304'
+gene_id: '419588'
 gene_type: protein-coding
 images:
 - caption: MAN1C1 expression
@@ -30,16 +30,11 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.jpg
 name: mannosidase, alpha, class 1C, member 1
-ncbi_id: '458304'
+ncbi_id: '419588'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000117643
   entrez: '57134'
-  mod: ''
+  mod: MIM:616772
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000037306
@@ -47,20 +42,15 @@ orthologs:
   mod: MGI:2446214
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100485889,431910
-  mod: '6076349'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000003692
+  entrez: '100485889'
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458304
+  url: https://www.ncbi.nlm.nih.gov/gene/419588
 species: Gallus gallus
 symbol: MAN1C1
 title: MAN1C1
@@ -86,9 +76,7 @@ title: MAN1C1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000117643](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000117643) | [57134](https://www.ncbi.nlm.nih.gov/gene/57134) |  |  |
+| Human | [ENSG00000117643](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000117643) | [57134](https://www.ncbi.nlm.nih.gov/gene/57134) | [MIM:616772](https://omim.org/entry/616772) |  |
 | Mouse | [ENSMUSG00000037306](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037306) | [230815](https://www.ncbi.nlm.nih.gov/gene/230815) | [MGI:2446214](http://www.informatics.jax.org/marker/MGI:2446214) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100485889](https://www.ncbi.nlm.nih.gov/gene/100485889), [431910](https://www.ncbi.nlm.nih.gov/gene/431910) | [6076349](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6076349) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000003692](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003692) | [100485889](https://www.ncbi.nlm.nih.gov/gene/100485889) |  |  |
 

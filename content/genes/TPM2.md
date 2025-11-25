@@ -5,7 +5,6 @@ aliases:
 - tropomyosin 3
 cgnc_id: '49799'
 external_ids:
-  '25': stage 25stage 25
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000025842
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
@@ -13,7 +12,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003779
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205446
 forward_primer: TGGAAGAGGCTGAGAAGGCG
-gene_id: '461040'
+gene_id: '396430'
 gene_type: protein-coding
 images:
 - caption: TPM2 expression
@@ -134,7 +133,7 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R335.TPM2.S25.002.jpg
 name: tropomyosin 2
-ncbi_id: '461040'
+ncbi_id: '396430'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -159,16 +158,16 @@ orthologs:
 - ensembl: ''
   entrez: '100124602'
   mod: ZFIN:ZDB-GENE-070822-17
-  phenotypes: ZDB-GENE-070822-17
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGCTGGCACCTGCTATGAACACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461040
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396430
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461040
+  url: https://www.ncbi.nlm.nih.gov/gene/396430
 species: Gallus gallus
 symbol: TPM2
 template_length: '708'
@@ -196,5 +195,5 @@ title: TPM2
 | Human |  |  |  |  |
 | Mouse |  |  |  |  |
 | Xenopus |  |  |  |  |
-| Zebrafish |  | [100124602](https://www.ncbi.nlm.nih.gov/gene/100124602) | [ZFIN:ZDB-GENE-070822-17](https://zfin.org/ZDB-GENE-070822-17) | ZDB-GENE-070822-17 |
+| Zebrafish |  | [100124602](https://www.ncbi.nlm.nih.gov/gene/100124602) | [ZFIN:ZDB-GENE-070822-17](https://zfin.org/ZDB-GENE-070822-17) |  |
 

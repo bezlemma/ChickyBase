@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:414344
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005184
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030383
-gene_id: '459511'
+gene_id: '414344'
 gene_type: protein-coding
 images:
 - caption: TRH expression
@@ -69,7 +69,7 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PREPROTRH.Vanderborne.2005.Fig.7.png
 name: thyrotropin releasing hormone
-ncbi_id: '459511'
+ncbi_id: '414344'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -94,12 +94,12 @@ orthologs:
 - ensembl: ENSDARG00000006868
   entrez: '266721'
   mod: ZFIN:ZDB-GENE-020930-1
-  phenotypes: ZDB-GENE-020930-1
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459511
+  url: https://www.ncbi.nlm.nih.gov/gene/414344
 species: Gallus gallus
 symbol: TRH
 title: TRH
@@ -133,5 +133,5 @@ title: TRH
 | Human | [ENSG00000170893](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170893) | [7200](https://www.ncbi.nlm.nih.gov/gene/7200) | [MIM:613879](https://omim.org/entry/613879) | MIM:275120 |
 | Mouse | [ENSMUSG00000005892](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005892) | [22044](https://www.ncbi.nlm.nih.gov/gene/22044) | [MGI:98823](http://www.informatics.jax.org/marker/MGI:98823) | All phenotypic alleles (3):Targeted, knock-out(3) |
 | Xenopus |  | [100127646](https://www.ncbi.nlm.nih.gov/gene/100127646), [397780](https://www.ncbi.nlm.nih.gov/gene/397780), [373666](https://www.ncbi.nlm.nih.gov/gene/373666) | [5805963](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5805963) |  |
-| Zebrafish | [ENSDARG00000006868](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006868) | [266721](https://www.ncbi.nlm.nih.gov/gene/266721) | [ZFIN:ZDB-GENE-020930-1](https://zfin.org/ZDB-GENE-020930-1) | ZDB-GENE-020930-1 |
+| Zebrafish | [ENSDARG00000006868](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006868) | [266721](https://www.ncbi.nlm.nih.gov/gene/266721) | [ZFIN:ZDB-GENE-020930-1](https://zfin.org/ZDB-GENE-020930-1) |  |
 

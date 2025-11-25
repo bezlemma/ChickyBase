@@ -4,7 +4,6 @@ aliases:
 - 'LOW QUALITY PROTEIN: plexin-B2'
 cgnc_id: '52617'
 external_ids:
-  '4': stage 4stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Mauti+Gemayel+plexins+consistent
   Comments: 'As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI (acc
@@ -16,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:425938
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423623
-gene_id: '450489'
+gene_id: '425938'
 gene_type: protein-coding
 images:
 - caption: PLXNB2 expression
@@ -125,13 +124,8 @@ images:
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINB2.Mauti.2006.Fig.9.png
 name: plexin B2
-ncbi_id: '450489'
+ncbi_id: '425938'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000196576
   entrez: '23654'
   mod: MIM:604293
@@ -143,20 +137,16 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Chemically induced(1) Targeted, knock-out(1)
     Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 550076,494999
-  mod: '856508'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000003811,ENSDARG00000036985
-  entrez: 561433,100333657
-  mod: ZFIN:ZDB-GENE-030131-8917,ZFIN:ZDB-GENE-080902-1
-  phenotypes: ZDB-GENE-030131-8917,ZDB-GENE-080902-1
+- ensembl: ENSDARG00000036985
+  entrez: '100333657'
+  mod: ZFIN:ZDB-GENE-080902-1
+  phenotypes: axon guidance, negative regulation of cell adhesion, positive regulation
+    of axonogenesis, regulation of cell migration, regulation of cell shape
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450489
+  url: https://www.ncbi.nlm.nih.gov/gene/425938
 species: Gallus gallus
 symbol: PLXNB2
 title: PLXNB2
@@ -182,9 +172,7 @@ title: PLXNB2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000196576](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000196576) | [23654](https://www.ncbi.nlm.nih.gov/gene/23654) | [MIM:604293](https://omim.org/entry/604293) |  |
 | Mouse | [ENSMUSG00000036606](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036606) | [140570](https://www.ncbi.nlm.nih.gov/gene/140570) | [MGI:2154239](http://www.informatics.jax.org/marker/MGI:2154239) | All phenotypic alleles (5):Chemically induced(1) Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [550076](https://www.ncbi.nlm.nih.gov/gene/550076), [494999](https://www.ncbi.nlm.nih.gov/gene/494999) | [856508](http://www.xenbase.org/gene/showgene.do?method=display&geneId=856508) |  |
-| Zebrafish | [ENSDARG00000003811](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003811), [ENSDARG00000036985](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036985) | [561433](https://www.ncbi.nlm.nih.gov/gene/561433), [100333657](https://www.ncbi.nlm.nih.gov/gene/100333657) | [ZFIN:ZDB-GENE-030131-8917](https://zfin.org/ZDB-GENE-030131-8917), [ZFIN:ZDB-GENE-080902-1](https://zfin.org/ZDB-GENE-080902-1) | ZDB-GENE-030131-8917,ZDB-GENE-080902-1 |
+| Zebrafish | [ENSDARG00000036985](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000036985) | [100333657](https://www.ncbi.nlm.nih.gov/gene/100333657) | [ZFIN:ZDB-GENE-080902-1](https://zfin.org/ZDB-GENE-080902-1) | axon guidance, negative regulation of cell adhesion, positive regulation of axonogenesis, regulation of cell migration, regulation of cell shape |
 

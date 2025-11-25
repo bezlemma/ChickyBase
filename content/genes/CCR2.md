@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420696
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001045835
 forward_primer: 5'-TTACCTACGGCATCCTCACCAG-3'
-gene_id: '454840'
+gene_id: '420696'
 gene_type: protein-coding
 images:
 - caption: CCR2 expression
@@ -138,13 +138,8 @@ images:
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CKR2.Kee.2007.Fig.2.png
 name: C-C motif chemokine receptor 2
-ncbi_id: '454840'
+ncbi_id: '420696'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000121807
   entrez: '729230'
   mod: MIM:601267
@@ -155,24 +150,20 @@ orthologs:
   mod: MGI:106185
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: '494705'
-  mod: '6460520'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: 100005081,100004625,100004988,100330391
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000086616
+  entrez: '100329767'
+  mod: ZFIN:ZDB-GENE-090420-1
+  phenotypes: G protein-coupled receptor signaling pathway, calcium-mediated signaling,
+    cell chemotaxis, cellular response to cytokine stimulus, chemotaxis
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTCTCCAGTCTGCTTTGGCTGTC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454840
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420696
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454840
+  url: https://www.ncbi.nlm.nih.gov/gene/420696
 species: Gallus gallus
 symbol: CCR2
 template_length: '402'
@@ -199,9 +190,7 @@ title: CCR2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000121807](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000121807) | [729230](https://www.ncbi.nlm.nih.gov/gene/729230) | [MIM:601267](https://omim.org/entry/601267) | MIM:601267 |
 | Mouse | [ENSMUSG00000049103](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049103) | [12772](https://www.ncbi.nlm.nih.gov/gene/12772) | [MGI:106185](http://www.informatics.jax.org/marker/MGI:106185) | All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2) |
-| Xenopus |  | [494705](https://www.ncbi.nlm.nih.gov/gene/494705) | [6460520](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6460520) |  |
-| Zebrafish |  | [100005081](https://www.ncbi.nlm.nih.gov/gene/100005081), [100004625](https://www.ncbi.nlm.nih.gov/gene/100004625), [100004988](https://www.ncbi.nlm.nih.gov/gene/100004988), [100330391](https://www.ncbi.nlm.nih.gov/gene/100330391) |  |  |
+| Zebrafish | [ENSDARG00000086616](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000086616) | [100329767](https://www.ncbi.nlm.nih.gov/gene/100329767) | [ZFIN:ZDB-GENE-090420-1](https://zfin.org/ZDB-GENE-090420-1) | G protein-coupled receptor signaling pathway, calcium-mediated signaling, cell chemotaxis, cellular response to cytokine stimulus, chemotaxis |
 

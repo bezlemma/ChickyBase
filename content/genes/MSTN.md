@@ -23,7 +23,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001001461
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATTGCCACAACCGAGACGATTATC
-gene_id: '451534'
+gene_id: '373964'
 gene_type: protein-coding
 images:
 - caption: MSTN expression
@@ -216,13 +216,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/fig3.myostatin.all
 name: myostatin
-ncbi_id: '451534'
+ncbi_id: '373964'
 orthologs:
-- ensembl: ''
-  entrez: '43811'
-  mod: FBgn0026199
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138379
   entrez: '2660'
   mod: MIM:601788
@@ -234,24 +229,26 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Spontaneous(1) Chemically induced(1) Targeted,
     knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: '100491923'
-  mod: '855712'
+- ensembl: ENSXETG00000048016
+  entrez: '100496408'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000069133,ENSDARG00000042947
-  entrez: 798441,445816
-  mod: ZFIN:ZDB-GENE-990415-165,ZFIN:ZDB-GENE-050208-735
-  phenotypes: ZDB-GENE-990415-165,ZDB-GENE-050208-735
+- ensembl: ENSDARG00000069133
+  entrez: '798441'
+  mod: ZFIN:ZDB-GENE-990415-165
+  phenotypes: cardiac muscle myoblast proliferation, immune response, muscle organ
+    development, negative regulation of cardiac muscle myoblast proliferation, negative
+    regulation of growth
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGAGCCTCTGGGATTTGCTTGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=451534
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373964
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451534
+  url: https://www.ncbi.nlm.nih.gov/gene/373964
 species: Gallus gallus
 symbol: MSTN
 template_length: '668'
@@ -285,9 +282,8 @@ Copyright © 2007 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [43811](https://www.ncbi.nlm.nih.gov/gene/43811) | FBgn0026199 |  |
 | Human | [ENSG00000138379](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138379) | [2660](https://www.ncbi.nlm.nih.gov/gene/2660) | [MIM:601788](https://omim.org/entry/601788) | MIM:601788 |
 | Mouse | [ENSMUSG00000026100](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026100) | [17700](https://www.ncbi.nlm.nih.gov/gene/17700) | [MGI:95691](http://www.informatics.jax.org/marker/MGI:95691) | All phenotypic alleles (7):Spontaneous(1) Chemically induced(1) Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [100491923](https://www.ncbi.nlm.nih.gov/gene/100491923) | [855712](http://www.xenbase.org/gene/showgene.do?method=display&geneId=855712) |  |
-| Zebrafish | [ENSDARG00000069133](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069133), [ENSDARG00000042947](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042947) | [798441](https://www.ncbi.nlm.nih.gov/gene/798441), [445816](https://www.ncbi.nlm.nih.gov/gene/445816) | [ZFIN:ZDB-GENE-990415-165](https://zfin.org/ZDB-GENE-990415-165), [ZFIN:ZDB-GENE-050208-735](https://zfin.org/ZDB-GENE-050208-735) | ZDB-GENE-990415-165,ZDB-GENE-050208-735 |
+| Xenopus | [ENSXETG00000048016](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000048016) | [100496408](https://www.ncbi.nlm.nih.gov/gene/100496408) |  |  |
+| Zebrafish | [ENSDARG00000069133](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069133) | [798441](https://www.ncbi.nlm.nih.gov/gene/798441) | [ZFIN:ZDB-GENE-990415-165](https://zfin.org/ZDB-GENE-990415-165) | cardiac muscle myoblast proliferation, immune response, muscle organ development, negative regulation of cardiac muscle myoblast proliferation, negative regulation of growth |
 

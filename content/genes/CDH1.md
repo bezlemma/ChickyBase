@@ -8,8 +8,6 @@ aliases:
 - liver cell adhesion molecule
 cgnc_id: '377'
 external_ids:
-  '25': stage 25stage 25
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007156
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Dady+2012+Duband
@@ -23,7 +21,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001039258
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGGCGTCGTCTCAACAAAACG
-gene_id: '350060'
+gene_id: '415860'
 gene_type: protein-coding
 images:
 - caption: CDH1 expression
@@ -286,13 +284,8 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dady.Fig7.D.E-Cad.HH14.jpg
 name: cadherin 1
-ncbi_id: '350060'
+ncbi_id: '415860'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000039068
   entrez: '999'
   mod: MIM:192090
@@ -303,24 +296,26 @@ orthologs:
   mod: MGI:88354
   phenotypes: All phenotypic alleles (15):Targeted, knock-out(3) Targeted, other(12)
   species: Mouse
-- ensembl: ''
-  entrez: 779546,100337618
-  mod: '12531593'
+- ensembl: ENSXETG00000025992
+  entrez: '100485633'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000092450,ENSDARG00000024371,ENSDARG00000035796
-  entrez: 100330081,791686,100329859,114424,567602
-  mod: ZFIN:ZDB-GENE-110406-4,ZFIN:ZDB-GENE-081104-9,ZFIN:ZDB-GENE-010606-1,ZFIN:ZDB-GENE-110407-4
-  phenotypes: ZDB-GENE-110406-4,ZDB-GENE-081104-9,ZDB-GENE-010606-1,ZDB-GENE-110407-4
+- ensembl: ENSDARG00000104332
+  entrez: '108179109'
+  mod: ZFIN:ZDB-GENE-081104-9
+  phenotypes: adherens junction organization, calcium-dependent cell-cell adhesion
+    via plasma membrane cell adhesion molecules, cell adhesion, cell migration, cell
+    migration involved in gastrulation
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGGGTCAATGGTGAACATCTGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=350060
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415860
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/350060
+  url: https://www.ncbi.nlm.nih.gov/gene/415860
 species: Gallus gallus
 symbol: CDH1
 template_length: '1108'
@@ -350,9 +345,8 @@ title: CDH1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000039068](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000039068) | [999](https://www.ncbi.nlm.nih.gov/gene/999) | [MIM:192090](https://omim.org/entry/192090) | MIM:114480 |
 | Mouse | [ENSMUSG00000000303](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000303) | [12550](https://www.ncbi.nlm.nih.gov/gene/12550) | [MGI:88354](http://www.informatics.jax.org/marker/MGI:88354) | All phenotypic alleles (15):Targeted, knock-out(3) Targeted, other(12) |
-| Xenopus |  | [779546](https://www.ncbi.nlm.nih.gov/gene/779546), [100337618](https://www.ncbi.nlm.nih.gov/gene/100337618) | [12531593](http://www.xenbase.org/gene/showgene.do?method=display&geneId=12531593) |  |
-| Zebrafish | [ENSDARG00000092450](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000092450), [ENSDARG00000024371](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000024371), [ENSDARG00000035796](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035796) | [100330081](https://www.ncbi.nlm.nih.gov/gene/100330081), [791686](https://www.ncbi.nlm.nih.gov/gene/791686), [100329859](https://www.ncbi.nlm.nih.gov/gene/100329859), [114424](https://www.ncbi.nlm.nih.gov/gene/114424), [567602](https://www.ncbi.nlm.nih.gov/gene/567602) | [ZFIN:ZDB-GENE-110406-4](https://zfin.org/ZDB-GENE-110406-4), [ZFIN:ZDB-GENE-081104-9](https://zfin.org/ZDB-GENE-081104-9), [ZFIN:ZDB-GENE-010606-1](https://zfin.org/ZDB-GENE-010606-1), [ZFIN:ZDB-GENE-110407-4](https://zfin.org/ZDB-GENE-110407-4) | ZDB-GENE-110406-4,ZDB-GENE-081104-9,ZDB-GENE-010606-1,ZDB-GENE-110407-4 |
+| Xenopus | [ENSXETG00000025992](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025992) | [100485633](https://www.ncbi.nlm.nih.gov/gene/100485633) |  |  |
+| Zebrafish | [ENSDARG00000104332](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104332) | [108179109](https://www.ncbi.nlm.nih.gov/gene/108179109) | [ZFIN:ZDB-GENE-081104-9](https://zfin.org/ZDB-GENE-081104-9) | adherens junction organization, calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules, cell adhesion, cell migration, cell migration involved in gastrulation |
 

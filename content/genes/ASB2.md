@@ -5,7 +5,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423428
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421337
-gene_id: '448810'
+gene_id: '423428'
 gene_type: protein-coding
 images:
 - caption: ASB2 expression
@@ -44,14 +44,9 @@ images:
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54ya8.125.20.jpg
 name: ankyrin repeat and SOCS box containing 2
-ncbi_id: '448810'
+ncbi_id: '423428'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000100628
+- ensembl: ENSG00000278693
   entrez: '51676'
   mod: MIM:605759
   phenotypes: ''
@@ -61,23 +56,25 @@ orthologs:
   mod: MGI:1929743
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010311
   entrez: '100490014'
-  mod: '983014'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000078445,ENSDARG00000003797
-  entrez: 402848,567986
-  mod: ZFIN:ZDB-GENE-040426-20,ZFIN:ZDB-GENE-030131-5355,ZFIN:ZDB-GENE-130603-17
-  phenotypes: ZDB-GENE-040426-20,ZDB-GENE-030131-5355,ZDB-GENE-130603-17
+- ensembl: ENSDARG00000003797
+  entrez: '567986'
+  mod: ZFIN:ZDB-GENE-030131-5355
+  phenotypes: heart development, intracellular signal transduction, monoatomic ion
+    transmembrane transport, monoatomic ion transport, proteasome-mediated ubiquitin-dependent
+    protein catabolic process
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448810
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423428
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448810
+  url: https://www.ncbi.nlm.nih.gov/gene/423428
 species: Gallus gallus
 symbol: ASB2
 title: ASB2
@@ -98,9 +95,8 @@ title: ASB2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000100628](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100628) | [51676](https://www.ncbi.nlm.nih.gov/gene/51676) | [MIM:605759](https://omim.org/entry/605759) |  |
+| Human | [ENSG00000278693](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000278693) | [51676](https://www.ncbi.nlm.nih.gov/gene/51676) | [MIM:605759](https://omim.org/entry/605759) |  |
 | Mouse | [ENSMUSG00000021200](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021200) | [65256](https://www.ncbi.nlm.nih.gov/gene/65256) | [MGI:1929743](http://www.informatics.jax.org/marker/MGI:1929743) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [100490014](https://www.ncbi.nlm.nih.gov/gene/100490014) | [983014](http://www.xenbase.org/gene/showgene.do?method=display&geneId=983014) |  |
-| Zebrafish | [ENSDARG00000078445](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078445), [ENSDARG00000003797](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003797) | [402848](https://www.ncbi.nlm.nih.gov/gene/402848), [567986](https://www.ncbi.nlm.nih.gov/gene/567986) | [ZFIN:ZDB-GENE-040426-20](https://zfin.org/ZDB-GENE-040426-20), [ZFIN:ZDB-GENE-030131-5355](https://zfin.org/ZDB-GENE-030131-5355), [ZFIN:ZDB-GENE-130603-17](https://zfin.org/ZDB-GENE-130603-17) | ZDB-GENE-040426-20,ZDB-GENE-030131-5355,ZDB-GENE-130603-17 |
+| Xenopus | [ENSXETG00000010311](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010311) | [100490014](https://www.ncbi.nlm.nih.gov/gene/100490014) |  |  |
+| Zebrafish | [ENSDARG00000003797](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003797) | [567986](https://www.ncbi.nlm.nih.gov/gene/567986) | [ZFIN:ZDB-GENE-030131-5355](https://zfin.org/ZDB-GENE-030131-5355) | heart development, intracellular signal transduction, monoatomic ion transmembrane transport, monoatomic ion transport, proteasome-mediated ubiquitin-dependent protein catabolic process |
 

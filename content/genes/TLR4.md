@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417241
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030693
 forward_primer: 5’-ATACAAGCCACTCCAAGCCC-3’
-gene_id: '454057'
+gene_id: '417241'
 gene_type: protein-coding
 images:
 - caption: TLR4 expression
@@ -162,13 +162,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R632.TLR4.S26.001.jpg
 name: toll like receptor 4
-ncbi_id: '454057'
+ncbi_id: '417241'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000136869
   entrez: '7099'
   mod: MIM:603030
@@ -180,24 +175,21 @@ orthologs:
   phenotypes: All phenotypic alleles (10):Spontaneous(6) Chemically induced(2) Targeted,
     knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: '100049787'
-  mod: '6492057'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000019742,ENSDARG00000075671,ENSDARG00000022048
-  entrez: 403131,795671,403132
-  mod: ZFIN:ZDB-GENE-040219-8,ZFIN:ZDB-GENE-090507-2,ZFIN:ZDB-GENE-040219-9
-  phenotypes: ZDB-GENE-040219-8,ZDB-GENE-090507-2,ZDB-GENE-040219-9
+- ensembl: ENSDARG00000115427
+  entrez: '795671'
+  mod: ZFIN:ZDB-GENE-090507-2
+  phenotypes: MyD88-dependent toll-like receptor signaling pathway, defense response
+    to Gram-negative bacterium, detection of lipopolysaccharide, immune response,
+    immune system process
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCTTTTCACTTTGCCCAGCCC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454057
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=417241
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454057
+  url: https://www.ncbi.nlm.nih.gov/gene/417241
 species: Gallus gallus
 symbol: TLR4
 template_length: '998'
@@ -220,9 +212,7 @@ title: TLR4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000136869](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136869) | [7099](https://www.ncbi.nlm.nih.gov/gene/7099) | [MIM:603030](https://omim.org/entry/603030) | MIM:114500 |
 | Mouse | [ENSMUSG00000039005](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039005) | [21898](https://www.ncbi.nlm.nih.gov/gene/21898) | [MGI:96824](http://www.informatics.jax.org/marker/MGI:96824) | All phenotypic alleles (10):Spontaneous(6) Chemically induced(2) Targeted, knock-out(2) |
-| Xenopus |  | [100049787](https://www.ncbi.nlm.nih.gov/gene/100049787) | [6492057](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6492057) |  |
-| Zebrafish | [ENSDARG00000019742](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019742), [ENSDARG00000075671](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000075671), [ENSDARG00000022048](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000022048) | [403131](https://www.ncbi.nlm.nih.gov/gene/403131), [795671](https://www.ncbi.nlm.nih.gov/gene/795671), [403132](https://www.ncbi.nlm.nih.gov/gene/403132) | [ZFIN:ZDB-GENE-040219-8](https://zfin.org/ZDB-GENE-040219-8), [ZFIN:ZDB-GENE-090507-2](https://zfin.org/ZDB-GENE-090507-2), [ZFIN:ZDB-GENE-040219-9](https://zfin.org/ZDB-GENE-040219-9) | ZDB-GENE-040219-8,ZDB-GENE-090507-2,ZDB-GENE-040219-9 |
+| Zebrafish | [ENSDARG00000115427](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115427) | [795671](https://www.ncbi.nlm.nih.gov/gene/795671) | [ZFIN:ZDB-GENE-090507-2](https://zfin.org/ZDB-GENE-090507-2) | MyD88-dependent toll-like receptor signaling pathway, defense response to Gram-negative bacterium, detection of lipopolysaccharide, immune response, immune system process |
 

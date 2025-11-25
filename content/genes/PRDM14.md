@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100858709
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640840
   X-XIV: stage XII
-gene_id: '473240'
+gene_id: '100858709'
 gene_type: protein-coding
 images:
 - caption: PRDM14 expression
@@ -82,37 +82,33 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PRDM14.Trevers.2023-Fig7-3-I.jpg
 name: PR/SET domain 14
-ncbi_id: '473240'
+ncbi_id: '100858709'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000147596
+  entrez: '63978'
+  mod: MIM:611781
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000042414
+  entrez: '383491'
+  mod: MGI:3588194
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000015915
+  entrez: '100490605'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000045371
+  entrez: '563151'
+  mod: ZFIN:ZDB-GENE-030131-2709
+  phenotypes: axonogenesis, negative regulation of heterochromatin formation, regulation
+    of transcription by RNA polymerase II, stem cell population maintenance
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/473240
+  url: https://www.ncbi.nlm.nih.gov/gene/100858709
 species: Gallus gallus
 symbol: PRDM14
 title: PRDM14
@@ -138,9 +134,8 @@ title: PRDM14
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000147596](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000147596) | [63978](https://www.ncbi.nlm.nih.gov/gene/63978) | [MIM:611781](https://omim.org/entry/611781) |  |
+| Mouse | [ENSMUSG00000042414](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042414) | [383491](https://www.ncbi.nlm.nih.gov/gene/383491) | [MGI:3588194](http://www.informatics.jax.org/marker/MGI:3588194) |  |
+| Xenopus | [ENSXETG00000015915](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015915) | [100490605](https://www.ncbi.nlm.nih.gov/gene/100490605) |  |  |
+| Zebrafish | [ENSDARG00000045371](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045371) | [563151](https://www.ncbi.nlm.nih.gov/gene/563151) | [ZFIN:ZDB-GENE-030131-2709](https://zfin.org/ZDB-GENE-030131-2709) | axonogenesis, negative regulation of heterochromatin formation, regulation of transcription by RNA polymerase II, stem cell population maintenance |
 

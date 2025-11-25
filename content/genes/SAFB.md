@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426047
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423726
-gene_id: '455092'
+gene_id: '426047'
 gene_type: protein-coding
 images:
 - caption: SAFB expression
@@ -29,37 +29,28 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.ADAMS.2008.jpg
 name: scaffold attachment factor B
-ncbi_id: '455092'
+ncbi_id: '426047'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000130254
-  entrez: '9667'
-  mod: MIM:608066
+- ensembl: ENSG00000160633
+  entrez: '6294'
+  mod: MIM:602895
   phenotypes: ''
   species: Human
-- ensembl: ENSMUSG00000042625
-  entrez: '224902'
-  mod: MGI:2146808
+- ensembl: ENSMUSG00000071054
+  entrez: '224903'
+  mod: MGI:2146974
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 549467,443583
-  mod: '5873118'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000020467
   entrez: '321979'
   mod: ZFIN:ZDB-GENE-030131-698
-  phenotypes: ZDB-GENE-030131-698
+  phenotypes: regulation of mRNA processing, regulation of transcription by RNA polymerase
+    II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455092
+  url: https://www.ncbi.nlm.nih.gov/gene/426047
 species: Gallus gallus
 symbol: SAFB
 title: SAFB
@@ -85,9 +76,7 @@ title: SAFB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000130254](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000130254) | [9667](https://www.ncbi.nlm.nih.gov/gene/9667) | [MIM:608066](https://omim.org/entry/608066) |  |
-| Mouse | [ENSMUSG00000042625](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000042625) | [224902](https://www.ncbi.nlm.nih.gov/gene/224902) | [MGI:2146808](http://www.informatics.jax.org/marker/MGI:2146808) |  |
-| Xenopus |  | [549467](https://www.ncbi.nlm.nih.gov/gene/549467), [443583](https://www.ncbi.nlm.nih.gov/gene/443583) | [5873118](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5873118) |  |
-| Zebrafish | [ENSDARG00000020467](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020467) | [321979](https://www.ncbi.nlm.nih.gov/gene/321979) | [ZFIN:ZDB-GENE-030131-698](https://zfin.org/ZDB-GENE-030131-698) | ZDB-GENE-030131-698 |
+| Human | [ENSG00000160633](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000160633) | [6294](https://www.ncbi.nlm.nih.gov/gene/6294) | [MIM:602895](https://omim.org/entry/602895) |  |
+| Mouse | [ENSMUSG00000071054](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000071054) | [224903](https://www.ncbi.nlm.nih.gov/gene/224903) | [MGI:2146974](http://www.informatics.jax.org/marker/MGI:2146974) |  |
+| Zebrafish | [ENSDARG00000020467](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020467) | [321979](https://www.ncbi.nlm.nih.gov/gene/321979) | [ZFIN:ZDB-GENE-030131-698](https://zfin.org/ZDB-GENE-030131-698) | regulation of mRNA processing, regulation of transcription by RNA polymerase II |
 

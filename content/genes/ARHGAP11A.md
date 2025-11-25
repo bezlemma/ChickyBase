@@ -181,7 +181,7 @@ orthologs:
 - ensembl: ENSDARG00000015403
   entrez: '406608'
   mod: ZFIN:ZDB-GENE-040426-2562
-  phenotypes: ZDB-GENE-040426-2562
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCTGTTTGTGAATGCGTTAGC
 sources:
@@ -216,5 +216,5 @@ title: ARHGAP11A
 | Human | [ENSG00000198826](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198826) | [9824](https://www.ncbi.nlm.nih.gov/gene/9824) | [MIM:610589](https://omim.org/entry/610589) |  |
 | Mouse | [ENSMUSG00000041219](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041219) | [228482](https://www.ncbi.nlm.nih.gov/gene/228482) | [MGI:2444300](http://www.informatics.jax.org/marker/MGI:2444300) |  |
 | Xenopus |  | [100495220](https://www.ncbi.nlm.nih.gov/gene/100495220), [734266](https://www.ncbi.nlm.nih.gov/gene/734266) | [5843956](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5843956) |  |
-| Zebrafish | [ENSDARG00000015403](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015403) | [406608](https://www.ncbi.nlm.nih.gov/gene/406608) | [ZFIN:ZDB-GENE-040426-2562](https://zfin.org/ZDB-GENE-040426-2562) | ZDB-GENE-040426-2562 |
+| Zebrafish | [ENSDARG00000015403](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015403) | [406608](https://www.ncbi.nlm.nih.gov/gene/406608) | [ZFIN:ZDB-GENE-040426-2562](https://zfin.org/ZDB-GENE-040426-2562) |  |
 

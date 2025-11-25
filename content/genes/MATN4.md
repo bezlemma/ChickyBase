@@ -3,7 +3,6 @@ aliases:
 - matrilin-4
 cgnc_id: '53281'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Bandyopadhyay+Crochiere+Linsenmayer+perichondrium
   Comments: As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI XM_425698.4
@@ -14,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428140
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425698
 forward_primer: TGGTGAAGCAGTTTGTGAACCG
-gene_id: '467865'
+gene_id: '428140'
 gene_type: protein-coding
 images:
 - caption: MATN4 expression
@@ -254,13 +253,8 @@ images:
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MATRILIN4.HH38.Bandyopadhyay.2008.f6.matrilin4.png
 name: matrilin 4
-ncbi_id: '467865'
+ncbi_id: '428140'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000124159
   entrez: '8785'
   mod: MIM:603897
@@ -271,24 +265,19 @@ orthologs:
   mod: MGI:1328314
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: 100492840,100380989
-  mod: '990977'
+- ensembl: ENSXETG00000022834
+  entrez: '100492840'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000015947
-  entrez: '497348'
-  mod: ZFIN:ZDB-GENE-050208-64
-  phenotypes: ZDB-GENE-050208-64
-  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCTTGGGATTTTGTGATACGAGGAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=467865
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428140
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467865
+  url: https://www.ncbi.nlm.nih.gov/gene/428140
 species: Gallus gallus
 symbol: MATN4
 template_length: '767'
@@ -315,9 +304,7 @@ title: MATN4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000124159](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000124159) | [8785](https://www.ncbi.nlm.nih.gov/gene/8785) | [MIM:603897](https://omim.org/entry/603897) |  |
 | Mouse | [ENSMUSG00000016995](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000016995) | [17183](https://www.ncbi.nlm.nih.gov/gene/17183) | [MGI:1328314](http://www.informatics.jax.org/marker/MGI:1328314) |  |
-| Xenopus |  | [100492840](https://www.ncbi.nlm.nih.gov/gene/100492840), [100380989](https://www.ncbi.nlm.nih.gov/gene/100380989) | [990977](http://www.xenbase.org/gene/showgene.do?method=display&geneId=990977) |  |
-| Zebrafish | [ENSDARG00000015947](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000015947) | [497348](https://www.ncbi.nlm.nih.gov/gene/497348) | [ZFIN:ZDB-GENE-050208-64](https://zfin.org/ZDB-GENE-050208-64) | ZDB-GENE-050208-64 |
+| Xenopus | [ENSXETG00000022834](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022834) | [100492840](https://www.ncbi.nlm.nih.gov/gene/100492840) |  |  |
 

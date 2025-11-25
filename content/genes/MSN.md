@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422173
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031112
 forward_primer: GTTGTGGGATGTATTGGAGC
-gene_id: '450628'
+gene_id: '422173'
 gene_type: protein-coding
 images:
 - caption: MSN expression
@@ -112,7 +112,7 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R402.MOESIN.S26D.001.jpg
 name: moesin
-ncbi_id: '450628'
+ncbi_id: '422173'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -143,10 +143,10 @@ reverse_primer: ATTAACCCTCACTAAAGGGCAAAGCAAATGAGGACACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450628
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422173
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450628
+  url: https://www.ncbi.nlm.nih.gov/gene/422173
 species: Gallus gallus
 symbol: MSN
 template_length: '842'

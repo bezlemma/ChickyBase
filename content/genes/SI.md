@@ -17,7 +17,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:425007
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_422811
-gene_id: '461749'
+gene_id: '425007'
 gene_type: protein-coding
 images:
 - caption: SI expression
@@ -77,37 +77,32 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure3H.Kit.Reedy.2003.jpg
 name: sucrase-isomaltase
-ncbi_id: '461749'
+ncbi_id: '425007'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000090402
-  entrez: '6476'
-  mod: MIM:609845
+- ensembl: ENSG00000282607
+  entrez: '8972'
+  mod: MIM:154360
   phenotypes: MIM:222900
   species: Human
-- ensembl: ENSMUSG00000027790
-  entrez: '69983'
-  mod: MGI:1917233
+- ensembl: ENSMUSG00000068587
+  entrez: '232714'
+  mod: MGI:1203495
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000001148
   entrez: '100379714'
-  mod: '964594'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000101629
   entrez: '100148922'
   mod: ZFIN:ZDB-GENE-030131-4622
-  phenotypes: ZDB-GENE-030131-4622
+  phenotypes: carbohydrate metabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461749
+  url: https://www.ncbi.nlm.nih.gov/gene/425007
 species: Gallus gallus
 symbol: SI
 title: SI
@@ -133,9 +128,8 @@ title: SI
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000090402](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000090402) | [6476](https://www.ncbi.nlm.nih.gov/gene/6476) | [MIM:609845](https://omim.org/entry/609845) | MIM:222900 |
-| Mouse | [ENSMUSG00000027790](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027790) | [69983](https://www.ncbi.nlm.nih.gov/gene/69983) | [MGI:1917233](http://www.informatics.jax.org/marker/MGI:1917233) |  |
-| Xenopus |  | [100379714](https://www.ncbi.nlm.nih.gov/gene/100379714) | [964594](http://www.xenbase.org/gene/showgene.do?method=display&geneId=964594) |  |
-| Zebrafish |  | [100148922](https://www.ncbi.nlm.nih.gov/gene/100148922) | [ZFIN:ZDB-GENE-030131-4622](https://zfin.org/ZDB-GENE-030131-4622) | ZDB-GENE-030131-4622 |
+| Human | [ENSG00000282607](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000282607) | [8972](https://www.ncbi.nlm.nih.gov/gene/8972) | [MIM:154360](https://omim.org/entry/154360) | MIM:222900 |
+| Mouse | [ENSMUSG00000068587](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000068587) | [232714](https://www.ncbi.nlm.nih.gov/gene/232714) | [MGI:1203495](http://www.informatics.jax.org/marker/MGI:1203495) |  |
+| Xenopus | [ENSXETG00000001148](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001148) | [100379714](https://www.ncbi.nlm.nih.gov/gene/100379714) |  |  |
+| Zebrafish | [ENSDARG00000101629](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101629) | [100148922](https://www.ncbi.nlm.nih.gov/gene/100148922) | [ZFIN:ZDB-GENE-030131-4622](https://zfin.org/ZDB-GENE-030131-4622) | carbohydrate metabolic process |
 

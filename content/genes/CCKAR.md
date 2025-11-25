@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422801
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001081501
 forward_primer: GTCTGAATGTGTGTCTGCGTGC
-gene_id: '452823'
+gene_id: '422801'
 gene_type: protein-coding
 images:
 - caption: CCKAR expression
@@ -128,13 +128,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R572.CCKAR.S26AA001.jpg
 name: cholecystokinin A receptor
-ncbi_id: '452823'
+ncbi_id: '422801'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000163394
   entrez: '886'
   mod: MIM:118444
@@ -145,24 +140,25 @@ orthologs:
   mod: MGI:99478
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100492455,378563
-  mod: '992614'
+- ensembl: ENSXETG00000000911
+  entrez: '100492455'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000052089
   entrez: '569038'
   mod: ZFIN:ZDB-GENE-120404-2
-  phenotypes: ZDB-GENE-120404-2
+  phenotypes: G protein-coupled receptor signaling pathway, cellular response to hormone
+    stimulus, regulation of hormone secretion, signal transduction
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGCTCCAAAGAGATGGCAACAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452823
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=422801
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452823
+  url: https://www.ncbi.nlm.nih.gov/gene/422801
 species: Gallus gallus
 symbol: CCKAR
 template_length: '659'
@@ -185,9 +181,8 @@ title: CCKAR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000163394](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163394) | [886](https://www.ncbi.nlm.nih.gov/gene/886) | [MIM:118444](https://omim.org/entry/118444) |  |
 | Mouse | [ENSMUSG00000029193](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029193) | [12425](https://www.ncbi.nlm.nih.gov/gene/12425) | [MGI:99478](http://www.informatics.jax.org/marker/MGI:99478) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus |  | [100492455](https://www.ncbi.nlm.nih.gov/gene/100492455), [378563](https://www.ncbi.nlm.nih.gov/gene/378563) | [992614](http://www.xenbase.org/gene/showgene.do?method=display&geneId=992614) |  |
-| Zebrafish | [ENSDARG00000052089](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052089) | [569038](https://www.ncbi.nlm.nih.gov/gene/569038) | [ZFIN:ZDB-GENE-120404-2](https://zfin.org/ZDB-GENE-120404-2) | ZDB-GENE-120404-2 |
+| Xenopus | [ENSXETG00000000911](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000911) | [100492455](https://www.ncbi.nlm.nih.gov/gene/100492455) |  |  |
+| Zebrafish | [ENSDARG00000052089](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052089) | [569038](https://www.ncbi.nlm.nih.gov/gene/569038) | [ZFIN:ZDB-GENE-120404-2](https://zfin.org/ZDB-GENE-120404-2) | G protein-coupled receptor signaling pathway, cellular response to hormone stimulus, regulation of hormone secretion, signal transduction |
 

@@ -15,7 +15,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0032041
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204313
 forward_primer: GAATGGATTTGCTGTTGTTCGG
-gene_id: '456393'
+gene_id: '374207'
 gene_type: protein-coding
 images:
 - caption: HDAC4 expression
@@ -138,13 +138,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R426.HDAC4.S23.001.jpg
 name: histone deacetylase 4
-ncbi_id: '456393'
+ncbi_id: '374207'
 orthologs:
-- ensembl: ''
-  entrez: '32278'
-  mod: FBgn0041210
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000068024
   entrez: '9759'
   mod: MIM:605314
@@ -156,24 +151,26 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(1)
     Gene trapped(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000004880
   entrez: '100489340'
-  mod: '488766'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000041204
+- ensembl: ENSDARG00000098349
   entrez: '568877'
   mod: ZFIN:ZDB-GENE-061013-95
-  phenotypes: ZDB-GENE-061013-95
+  phenotypes: chromatin organization, embryonic cranial skeleton morphogenesis, epigenetic
+    regulation of gene expression, negative regulation of transcription by RNA polymerase
+    II, neural crest cell migration
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTGGGTTCATCATCAGGTCGC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456393
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374207
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456393
+  url: https://www.ncbi.nlm.nih.gov/gene/374207
 species: Gallus gallus
 symbol: HDAC4
 template_length: '860'
@@ -200,9 +197,8 @@ title: HDAC4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [32278](https://www.ncbi.nlm.nih.gov/gene/32278) | FBgn0041210 |  |
 | Human | [ENSG00000068024](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000068024) | [9759](https://www.ncbi.nlm.nih.gov/gene/9759) | [MIM:605314](https://omim.org/entry/605314) | MIM:600430 |
 | Mouse | [ENSMUSG00000026313](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026313) | [208727](https://www.ncbi.nlm.nih.gov/gene/208727) | [MGI:3036234](http://www.informatics.jax.org/marker/MGI:3036234) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(1) Gene trapped(1) |
-| Xenopus |  | [100489340](https://www.ncbi.nlm.nih.gov/gene/100489340) | [488766](http://www.xenbase.org/gene/showgene.do?method=display&geneId=488766) |  |
-| Zebrafish | [ENSDARG00000041204](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041204) | [568877](https://www.ncbi.nlm.nih.gov/gene/568877) | [ZFIN:ZDB-GENE-061013-95](https://zfin.org/ZDB-GENE-061013-95) | ZDB-GENE-061013-95 |
+| Xenopus | [ENSXETG00000004880](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004880) | [100489340](https://www.ncbi.nlm.nih.gov/gene/100489340) |  |  |
+| Zebrafish | [ENSDARG00000098349](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000098349) | [568877](https://www.ncbi.nlm.nih.gov/gene/568877) | [ZFIN:ZDB-GENE-061013-95](https://zfin.org/ZDB-GENE-061013-95) | chromatin organization, embryonic cranial skeleton morphogenesis, epigenetic regulation of gene expression, negative regulation of transcription by RNA polymerase II, neural crest cell migration |
 

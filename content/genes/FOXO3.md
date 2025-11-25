@@ -12,7 +12,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234495
   X-XIV: stage XIII
 forward_primer: 5’-TCGTAAAGATGCACCTCTTG-3’
-gene_id: '454795'
+gene_id: '421769'
 gene_type: protein-coding
 images:
 - caption: FOXO3 expression
@@ -134,13 +134,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXO3.Trevers.2023-Fig7-5-S.jpg
 name: forkhead box O3
-ncbi_id: '454795'
+ncbi_id: '421769'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000118689
   entrez: '2309'
   mod: MIM:602681
@@ -152,24 +147,26 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Chemically induced(1) Targeted, knock-out(3)
     Targeted, other(1) Gene trapped(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100125025,444992
-  mod: '945071'
+- ensembl: ENSXETG00000014847
+  entrez: '100125025'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000042904,ENSDARG00000023058
-  entrez: 30296,494532
-  mod: ZFIN:ZDB-GENE-990708-6,ZFIN:ZDB-GENE-050116-1
-  phenotypes: ZDB-GENE-990708-6,ZDB-GENE-050116-1
+- ensembl: ENSDARG00000042904
+  entrez: '30296'
+  mod: ZFIN:ZDB-GENE-990708-6
+  phenotypes: chordate embryonic development, lymph vessel development, negative regulation
+    of Wnt signaling pathway, negative regulation of canonical Wnt signaling pathway,
+    negative regulation of defense response to virus
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGCAAATCCTCAGGGTATGGTG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=454795
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421769
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/454795
+  url: https://www.ncbi.nlm.nih.gov/gene/421769
 species: Gallus gallus
 symbol: FOXO3
 template_length: '476'
@@ -194,9 +191,8 @@ title: FOXO3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000118689](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118689) | [2309](https://www.ncbi.nlm.nih.gov/gene/2309) | [MIM:602681](https://omim.org/entry/602681) |  |
 | Mouse | [ENSMUSG00000048756](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000048756) | [56484](https://www.ncbi.nlm.nih.gov/gene/56484) | [MGI:1890081](http://www.informatics.jax.org/marker/MGI:1890081) | All phenotypic alleles (7):Chemically induced(1) Targeted, knock-out(3) Targeted, other(1) Gene trapped(2) |
-| Xenopus |  | [100125025](https://www.ncbi.nlm.nih.gov/gene/100125025), [444992](https://www.ncbi.nlm.nih.gov/gene/444992) | [945071](http://www.xenbase.org/gene/showgene.do?method=display&geneId=945071) |  |
-| Zebrafish | [ENSDARG00000042904](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042904), [ENSDARG00000023058](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000023058) | [30296](https://www.ncbi.nlm.nih.gov/gene/30296), [494532](https://www.ncbi.nlm.nih.gov/gene/494532) | [ZFIN:ZDB-GENE-990708-6](https://zfin.org/ZDB-GENE-990708-6), [ZFIN:ZDB-GENE-050116-1](https://zfin.org/ZDB-GENE-050116-1) | ZDB-GENE-990708-6,ZDB-GENE-050116-1 |
+| Xenopus | [ENSXETG00000014847](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014847) | [100125025](https://www.ncbi.nlm.nih.gov/gene/100125025) |  |  |
+| Zebrafish | [ENSDARG00000042904](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042904) | [30296](https://www.ncbi.nlm.nih.gov/gene/30296) | [ZFIN:ZDB-GENE-990708-6](https://zfin.org/ZDB-GENE-990708-6) | chordate embryonic development, lymph vessel development, negative regulation of Wnt signaling pathway, negative regulation of canonical Wnt signaling pathway, negative regulation of defense response to virus |
 

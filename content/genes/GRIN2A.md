@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427678
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425252
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/GRIN2A
-gene_id: '456904'
+gene_id: '427678'
 gene_type: protein-coding
 images:
 - caption: GRIN2A expression
@@ -59,13 +59,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tang.2007.f7.nr2a.png
 name: glutamate ionotropic receptor NMDA type subunit 2A
-ncbi_id: '456904'
+ncbi_id: '427678'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000183454
   entrez: '2903'
   mod: MIM:138253
@@ -76,20 +71,22 @@ orthologs:
   mod: MGI:95820
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100490580,100127346
-  mod: '992740'
+- ensembl: ENSXETG00000008002
+  entrez: '100489006'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000034493,ENSDARG00000070543
-  entrez: 563297,570493
-  mod: ZFIN:ZDB-GENE-070424-129,ZFIN:ZDB-GENE-070424-129,ZFIN:ZDB-GENE-070424-223,ZFIN:ZDB-GENE-130530-780
-  phenotypes: ZDB-GENE-070424-129,ZDB-GENE-070424-129,ZDB-GENE-070424-223,ZDB-GENE-130530-780
+- ensembl: ENSDARG00000034493
+  entrez: '563297'
+  mod: ZFIN:ZDB-GENE-070424-129
+  phenotypes: excitatory postsynaptic potential, long-term synaptic potentiation,
+    monoatomic ion transmembrane transport, monoatomic ion transport, synaptic transmission,
+    glutamatergic
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456904
+  url: https://www.ncbi.nlm.nih.gov/gene/427678
 species: Gallus gallus
 symbol: GRIN2A
 title: GRIN2A
@@ -116,9 +113,8 @@ title: GRIN2A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000183454](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000183454) | [2903](https://www.ncbi.nlm.nih.gov/gene/2903) | [MIM:138253](https://omim.org/entry/138253) | MIM:613971 |
 | Mouse | [ENSMUSG00000059003](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000059003) | [14811](https://www.ncbi.nlm.nih.gov/gene/14811) | [MGI:95820](http://www.informatics.jax.org/marker/MGI:95820) | All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2) |
-| Xenopus |  | [100490580](https://www.ncbi.nlm.nih.gov/gene/100490580), [100127346](https://www.ncbi.nlm.nih.gov/gene/100127346) | [992740](http://www.xenbase.org/gene/showgene.do?method=display&geneId=992740) |  |
-| Zebrafish | [ENSDARG00000034493](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034493), [ENSDARG00000070543](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070543) | [563297](https://www.ncbi.nlm.nih.gov/gene/563297), [570493](https://www.ncbi.nlm.nih.gov/gene/570493) | [ZFIN:ZDB-GENE-070424-129](https://zfin.org/ZDB-GENE-070424-129), [ZFIN:ZDB-GENE-070424-129](https://zfin.org/ZDB-GENE-070424-129), [ZFIN:ZDB-GENE-070424-223](https://zfin.org/ZDB-GENE-070424-223), [ZFIN:ZDB-GENE-130530-780](https://zfin.org/ZDB-GENE-130530-780) | ZDB-GENE-070424-129,ZDB-GENE-070424-129,ZDB-GENE-070424-223,ZDB-GENE-130530-780 |
+| Xenopus | [ENSXETG00000008002](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000008002) | [100489006](https://www.ncbi.nlm.nih.gov/gene/100489006) |  |  |
+| Zebrafish | [ENSDARG00000034493](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034493) | [563297](https://www.ncbi.nlm.nih.gov/gene/563297) | [ZFIN:ZDB-GENE-070424-129](https://zfin.org/ZDB-GENE-070424-129) | excitatory postsynaptic potential, long-term synaptic potentiation, monoatomic ion transmembrane transport, monoatomic ion transport, synaptic transmission, glutamatergic |
 

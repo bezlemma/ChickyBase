@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395448
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008270
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204709
-gene_id: '449236'
+gene_id: '395448'
 gene_type: protein-coding
 images:
 - caption: CHURC1 expression
@@ -54,37 +54,35 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CHCH.FIG1H.SHENG.2003.jpg
 name: churchill domain containing 1
-ncbi_id: '449236'
+ncbi_id: '395448'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000258289
+  entrez: '91612'
+  mod: MIM:608577
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000090258
+  entrez: '211151'
+  mod: MGI:1923684
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000039130
+  entrez: '493426'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000113360
+  entrez: '492508'
+  mod: ZFIN:ZDB-GENE-041001-150
+  phenotypes: cell migration involved in gastrulation, fibroblast growth factor receptor
+    signaling pathway, negative regulation of cell migration, negative regulation
+    of fibroblast growth factor receptor signaling pathway, positive regulation of
+    DNA-templated transcription
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449236
+  url: https://www.ncbi.nlm.nih.gov/gene/395448
 species: Gallus gallus
 symbol: CHURC1
 title: CHURC1
@@ -112,9 +110,8 @@ title: CHURC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000258289](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000258289) | [91612](https://www.ncbi.nlm.nih.gov/gene/91612) | [MIM:608577](https://omim.org/entry/608577) |  |
+| Mouse | [ENSMUSG00000090258](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000090258) | [211151](https://www.ncbi.nlm.nih.gov/gene/211151) | [MGI:1923684](http://www.informatics.jax.org/marker/MGI:1923684) |  |
+| Xenopus | [ENSXETG00000039130](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000039130) | [493426](https://www.ncbi.nlm.nih.gov/gene/493426) |  |  |
+| Zebrafish | [ENSDARG00000113360](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000113360) | [492508](https://www.ncbi.nlm.nih.gov/gene/492508) | [ZFIN:ZDB-GENE-041001-150](https://zfin.org/ZDB-GENE-041001-150) | cell migration involved in gastrulation, fibroblast growth factor receptor signaling pathway, negative regulation of cell migration, negative regulation of fibroblast growth factor receptor signaling pathway, positive regulation of DNA-templated transcription |
 

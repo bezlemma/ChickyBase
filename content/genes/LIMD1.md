@@ -3,14 +3,13 @@ aliases:
 - LIM domain-containing protein 1
 cgnc_id: '8981'
 external_ids:
-  '25': stage 25
   Comments: No expression detected through HH stage 27
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000011848
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420701
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418800
 forward_primer: TGCTAAGACCTCCCAGTGAATGC
-gene_id: '455120'
+gene_id: '420701'
 gene_type: protein-coding
 images:
 - caption: LIMD1 expression
@@ -84,14 +83,9 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R521.LIMD1.S25.001.jpg
 name: LIM domains containing 1
-ncbi_id: '455120'
+ncbi_id: '420701'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000144791
   entrez: '8994'
   mod: MIM:604543
   phenotypes: ''
@@ -101,24 +95,19 @@ orthologs:
   mod: MGI:1352502
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 549360,779085
-  mod: '1017237'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ZFIN:ZDB-GENE-060810-174,ZFIN:ZDB-GENE-070712-1
-  phenotypes: ZDB-GENE-060810-174,ZDB-GENE-070712-1
+- ensembl: ENSDARG00000110954
+  entrez: '562793'
+  mod: ZFIN:ZDB-GENE-070712-1
+  phenotypes: intracellular signal transduction
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCCTCTGACAGTGAAAAAGGCAAGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455120
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420701
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455120
+  url: https://www.ncbi.nlm.nih.gov/gene/420701
 species: Gallus gallus
 symbol: LIMD1
 template_length: '867'
@@ -142,9 +131,7 @@ title: LIMD1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [8994](https://www.ncbi.nlm.nih.gov/gene/8994) | [MIM:604543](https://omim.org/entry/604543) |  |
+| Human | [ENSG00000144791](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000144791) | [8994](https://www.ncbi.nlm.nih.gov/gene/8994) | [MIM:604543](https://omim.org/entry/604543) |  |
 | Mouse | [ENSMUSG00000025239](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025239) | [29806](https://www.ncbi.nlm.nih.gov/gene/29806) | [MGI:1352502](http://www.informatics.jax.org/marker/MGI:1352502) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [549360](https://www.ncbi.nlm.nih.gov/gene/549360), [779085](https://www.ncbi.nlm.nih.gov/gene/779085) | [1017237](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1017237) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-060810-174](https://zfin.org/ZDB-GENE-060810-174), [ZFIN:ZDB-GENE-070712-1](https://zfin.org/ZDB-GENE-070712-1) | ZDB-GENE-060810-174,ZDB-GENE-070712-1 |
+| Zebrafish | [ENSDARG00000110954](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000110954) | [562793](https://www.ncbi.nlm.nih.gov/gene/562793) | [ZFIN:ZDB-GENE-070712-1](https://zfin.org/ZDB-GENE-070712-1) | intracellular signal transduction |
 

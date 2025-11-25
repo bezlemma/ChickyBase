@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415316
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_413703
 forward_primer: 5'-CTCAAAAACGCACTGCTGCC-3'
-gene_id: '456417'
+gene_id: '415316'
 gene_type: protein-coding
 images:
 - caption: NPTN expression
@@ -91,41 +91,28 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R552.NPTN.S26A.001.jpg
 name: neuroplastin
-ncbi_id: '456417'
+ncbi_id: '415316'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000156642
   entrez: '27020'
   mod: MIM:612820
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: 733721,398501
-  mod: '1011669'
-  phenotypes: ''
-  species: Xenopus
 - ensembl: ENSDARG00000043864
-  entrez: 403006,368305
-  mod: ZFIN:ZDB-GENE-040426-1821,ZFIN:ZDB-GENE-030804-7
-  phenotypes: ZDB-GENE-040426-1821,ZDB-GENE-030804-7
+  entrez: '403006'
+  mod: ZFIN:ZDB-GENE-040426-1821
+  phenotypes: axon guidance, dendrite self-avoidance, homophilic cell adhesion via
+    plasma membrane adhesion molecules, modulation of chemical synaptic transmission,
+    regulation of macromolecule metabolic process
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGCTGATGGACCAACACTTCCCAG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456417
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=415316
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456417
+  url: https://www.ncbi.nlm.nih.gov/gene/415316
 species: Gallus gallus
 symbol: NPTN
 template_length: '871'
@@ -148,9 +135,6 @@ title: NPTN
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000156642](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000156642) | [27020](https://www.ncbi.nlm.nih.gov/gene/27020) | [MIM:612820](https://omim.org/entry/612820) |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [733721](https://www.ncbi.nlm.nih.gov/gene/733721), [398501](https://www.ncbi.nlm.nih.gov/gene/398501) | [1011669](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1011669) |  |
-| Zebrafish | [ENSDARG00000043864](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043864) | [403006](https://www.ncbi.nlm.nih.gov/gene/403006), [368305](https://www.ncbi.nlm.nih.gov/gene/368305) | [ZFIN:ZDB-GENE-040426-1821](https://zfin.org/ZDB-GENE-040426-1821), [ZFIN:ZDB-GENE-030804-7](https://zfin.org/ZDB-GENE-030804-7) | ZDB-GENE-040426-1821,ZDB-GENE-030804-7 |
+| Zebrafish | [ENSDARG00000043864](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043864) | [403006](https://www.ncbi.nlm.nih.gov/gene/403006) | [ZFIN:ZDB-GENE-040426-1821](https://zfin.org/ZDB-GENE-040426-1821) | axon guidance, dendrite self-avoidance, homophilic cell adhesion via plasma membrane adhesion molecules, modulation of chemical synaptic transmission, regulation of macromolecule metabolic process |
 

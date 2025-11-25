@@ -3,7 +3,6 @@ aliases:
 - nuclear receptor coactivator 2, NCOA2
 cgnc_id: '11634'
 external_ids:
-  '25': stage 25
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Trevers et al. 2023.
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
@@ -13,7 +12,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001231577
   X-XIV: stage XIII
 forward_primer: GTGTTTGTTTCGGAGAATGTGACG
-gene_id: '457121'
+gene_id: '420176'
 gene_type: protein-coding
 images:
 - caption: NCOA2 expression
@@ -147,13 +146,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NCOA2.Trevers.2023-Fig7-7-D.jpg
 name: nuclear receptor coactivator 2
-ncbi_id: '457121'
+ncbi_id: '420176'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000140396
   entrez: '10499'
   mod: MIM:601993
@@ -164,24 +158,25 @@ orthologs:
   mod: MGI:1276533
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100216190,394405
-  mod: '482310'
+- ensembl: ENSXETG00000015926
+  entrez: '100216190'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000017929
   entrez: '81884'
   mod: ZFIN:ZDB-GENE-010406-3
-  phenotypes: ZDB-GENE-010406-3
+  phenotypes: animal organ development, cellular response to hormone stimulus, chordate
+    embryonic development, granulocyte differentiation, myeloid cell differentiation
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTGTCTGGCTTTTTCCATCGTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457121
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420176
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457121
+  url: https://www.ncbi.nlm.nih.gov/gene/420176
 species: Gallus gallus
 symbol: NCOA2
 template_length: '1503'
@@ -206,9 +201,8 @@ title: NCOA2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000140396](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000140396) | [10499](https://www.ncbi.nlm.nih.gov/gene/10499) | [MIM:601993](https://omim.org/entry/601993) |  |
 | Mouse | [ENSMUSG00000005886](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005886) | [17978](https://www.ncbi.nlm.nih.gov/gene/17978) | [MGI:1276533](http://www.informatics.jax.org/marker/MGI:1276533) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100216190](https://www.ncbi.nlm.nih.gov/gene/100216190), [394405](https://www.ncbi.nlm.nih.gov/gene/394405) | [482310](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482310) |  |
-| Zebrafish | [ENSDARG00000017929](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017929) | [81884](https://www.ncbi.nlm.nih.gov/gene/81884) | [ZFIN:ZDB-GENE-010406-3](https://zfin.org/ZDB-GENE-010406-3) | ZDB-GENE-010406-3 |
+| Xenopus | [ENSXETG00000015926](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015926) | [100216190](https://www.ncbi.nlm.nih.gov/gene/100216190) |  |  |
+| Zebrafish | [ENSDARG00000017929](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017929) | [81884](https://www.ncbi.nlm.nih.gov/gene/81884) | [ZFIN:ZDB-GENE-010406-3](https://zfin.org/ZDB-GENE-010406-3) | animal organ development, cellular response to hormone stimulus, chordate embryonic development, granulocyte differentiation, myeloid cell differentiation |
 

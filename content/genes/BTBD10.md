@@ -4,7 +4,6 @@ aliases:
 - BTB (POZ) domain containing 10
 cgnc_id: '4000'
 external_ids:
-  '25': stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0035107
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/38028
@@ -14,7 +13,7 @@ external_ids:
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199575
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/BTBD10
 forward_primer: 5'-AAAGTGAAAAAGCGACCAGGTG-3'
-gene_id: '449857'
+gene_id: '423029'
 gene_type: protein-coding
 images:
 - caption: BTBD10 expression
@@ -98,13 +97,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R552.BTBD10.S25AA.001.jpg
 name: BTB domain containing 10
-ncbi_id: '449857'
+ncbi_id: '423029'
 orthologs:
-- ensembl: ''
-  entrez: '38028'
-  mod: FBgn0035107
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000148925
   entrez: '84280'
   mod: MIM:615933
@@ -115,24 +109,24 @@ orthologs:
   mod: MGI:1916065
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100379762,734616
-  mod: '988784'
+- ensembl: ENSXETG00000024203
+  entrez: '100379762'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000020252,ENSDARG00000062674
-  entrez: 557247,560466
-  mod: ZFIN:ZDB-GENE-080104-5,ZFIN:ZDB-GENE-070410-41
-  phenotypes: ZDB-GENE-080104-5,ZDB-GENE-070410-41
+- ensembl: ENSDARG00000115689
+  entrez: '557247'
+  mod: ZFIN:ZDB-GENE-080104-5
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5'-ATTAACCCTCACTAAAGGAAGTAGTTCTGTGCTCAACCGTCTG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449857
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423029
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449857
+  url: https://www.ncbi.nlm.nih.gov/gene/423029
 species: Gallus gallus
 symbol: BTBD10
 template_length: '808'
@@ -158,9 +152,8 @@ title: BTBD10
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [38028](https://www.ncbi.nlm.nih.gov/gene/38028) | FBgn0035107 |  |
 | Human | [ENSG00000148925](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148925) | [84280](https://www.ncbi.nlm.nih.gov/gene/84280) | [MIM:615933](https://omim.org/entry/615933) |  |
 | Mouse | [ENSMUSG00000038187](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038187) | [68815](https://www.ncbi.nlm.nih.gov/gene/68815) | [MGI:1916065](http://www.informatics.jax.org/marker/MGI:1916065) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100379762](https://www.ncbi.nlm.nih.gov/gene/100379762), [734616](https://www.ncbi.nlm.nih.gov/gene/734616) | [988784](http://www.xenbase.org/gene/showgene.do?method=display&geneId=988784) |  |
-| Zebrafish | [ENSDARG00000020252](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000020252), [ENSDARG00000062674](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062674) | [557247](https://www.ncbi.nlm.nih.gov/gene/557247), [560466](https://www.ncbi.nlm.nih.gov/gene/560466) | [ZFIN:ZDB-GENE-080104-5](https://zfin.org/ZDB-GENE-080104-5), [ZFIN:ZDB-GENE-070410-41](https://zfin.org/ZDB-GENE-070410-41) | ZDB-GENE-080104-5,ZDB-GENE-070410-41 |
+| Xenopus | [ENSXETG00000024203](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000024203) | [100379762](https://www.ncbi.nlm.nih.gov/gene/100379762) |  |  |
+| Zebrafish | [ENSDARG00000115689](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115689) | [557247](https://www.ncbi.nlm.nih.gov/gene/557247) | [ZFIN:ZDB-GENE-080104-5](https://zfin.org/ZDB-GENE-080104-5) |  |
 

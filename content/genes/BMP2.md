@@ -3,10 +3,6 @@ aliases:
 - bone morphogenetic protein 2
 cgnc_id: '49116'
 external_ids:
-  '13': stage 13stage 13
-  '19': stage 19
-  '31': stage 31
-  '7': stage 7stage 7
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0000490
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0060317
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005615
@@ -21,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:378779
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005125
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204358
-gene_id: '458611'
+gene_id: '378779'
 gene_type: protein-coding
 images:
 - caption: BMP2 expression
@@ -1374,13 +1370,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Bmp2.Singh.2016.Fig1.jpg
 name: bone morphogenetic protein 2
-ncbi_id: '458611'
+ncbi_id: '378779'
 orthologs:
-- ensembl: ''
-  entrez: '33432'
-  mod: FBgn0000490
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000125845
   entrez: '650'
   mod: MIM:112261
@@ -1391,23 +1382,24 @@ orthologs:
   mod: MGI:88177
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 548717,378780,397873
-  mod: '481828'
+- ensembl: ENSXETG00000005519
+  entrez: '548717'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000041430,ENSDARG00000013409
-  entrez: 30632,30631
-  mod: ZFIN:ZDB-GENE-980526-474,ZFIN:ZDB-GENE-980526-388
-  phenotypes: ZDB-GENE-980526-474,ZDB-GENE-980526-388
+- ensembl: ENSDARG00000115191
+  entrez: '30632'
+  mod: ZFIN:ZDB-GENE-980526-474
+  phenotypes: BMP signaling pathway, cartilage development, cell differentiation,
+    cell migration involved in gastrulation, cell-cell signaling
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458611
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=378779
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458611
+  url: https://www.ncbi.nlm.nih.gov/gene/378779
 species: Gallus gallus
 symbol: BMP2
 title: BMP2
@@ -1438,9 +1430,8 @@ title: BMP2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33432](https://www.ncbi.nlm.nih.gov/gene/33432) | FBgn0000490 |  |
 | Human | [ENSG00000125845](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125845) | [650](https://www.ncbi.nlm.nih.gov/gene/650) | [MIM:112261](https://omim.org/entry/112261) | MIM:235200 |
 | Mouse | [ENSMUSG00000027358](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027358) | [12156](https://www.ncbi.nlm.nih.gov/gene/12156) | [MGI:88177](http://www.informatics.jax.org/marker/MGI:88177) | All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5) |
-| Xenopus |  | [548717](https://www.ncbi.nlm.nih.gov/gene/548717), [378780](https://www.ncbi.nlm.nih.gov/gene/378780), [397873](https://www.ncbi.nlm.nih.gov/gene/397873) | [481828](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481828) |  |
-| Zebrafish | [ENSDARG00000041430](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041430), [ENSDARG00000013409](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013409) | [30632](https://www.ncbi.nlm.nih.gov/gene/30632), [30631](https://www.ncbi.nlm.nih.gov/gene/30631) | [ZFIN:ZDB-GENE-980526-474](https://zfin.org/ZDB-GENE-980526-474), [ZFIN:ZDB-GENE-980526-388](https://zfin.org/ZDB-GENE-980526-388) | ZDB-GENE-980526-474,ZDB-GENE-980526-388 |
+| Xenopus | [ENSXETG00000005519](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005519) | [548717](https://www.ncbi.nlm.nih.gov/gene/548717) |  |  |
+| Zebrafish | [ENSDARG00000115191](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115191) | [30632](https://www.ncbi.nlm.nih.gov/gene/30632) | [ZFIN:ZDB-GENE-980526-474](https://zfin.org/ZDB-GENE-980526-474) | BMP signaling pathway, cartilage development, cell differentiation, cell migration involved in gastrulation, cell-cell signaling |
 

@@ -6,7 +6,6 @@ aliases:
 - retinol binding protein 4, plasma
 cgnc_id: '49682'
 external_ids:
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0048738
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0030136
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
@@ -108,7 +107,7 @@ orthologs:
 - ensembl: ENSDARG00000077505
   entrez: 100334989,30077
   mod: ZFIN:ZDB-GENE-000210-19
-  phenotypes: ZDB-GENE-000210-19
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
@@ -146,5 +145,5 @@ title: RBP4A
 | Human | [ENSG00000138207](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138207) | [5950](https://www.ncbi.nlm.nih.gov/gene/5950) | [MIM:180250](https://omim.org/entry/180250) | MIM:180250 |
 | Mouse | [ENSMUSG00000024990](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024990) | [19662](https://www.ncbi.nlm.nih.gov/gene/19662) | [MGI:97879](http://www.informatics.jax.org/marker/MGI:97879) | All phenotypic alleles (6):Targeted, knock-out(3) Targeted, other(3) |
 | Xenopus |  | [548465](https://www.ncbi.nlm.nih.gov/gene/548465), [397705](https://www.ncbi.nlm.nih.gov/gene/397705) | [5841607](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5841607) |  |
-| Zebrafish | [ENSDARG00000077505](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077505) | [100334989](https://www.ncbi.nlm.nih.gov/gene/100334989), [30077](https://www.ncbi.nlm.nih.gov/gene/30077) | [ZFIN:ZDB-GENE-000210-19](https://zfin.org/ZDB-GENE-000210-19) | ZDB-GENE-000210-19 |
+| Zebrafish | [ENSDARG00000077505](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077505) | [100334989](https://www.ncbi.nlm.nih.gov/gene/100334989), [30077](https://www.ncbi.nlm.nih.gov/gene/30077) | [ZFIN:ZDB-GENE-000210-19](https://zfin.org/ZDB-GENE-000210-19) |  |
 

@@ -20,7 +20,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204419
   X-XIV: stage XIII
-gene_id: '459018'
+gene_id: '386582'
 gene_type: protein-coding
 images:
 - caption: RB1 expression
@@ -132,13 +132,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RB1.Trevers.2023-Fig7-3-J.jpg
 name: retinoblastoma 1
-ncbi_id: '459018'
+ncbi_id: '386582'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000139687
   entrez: '5925'
   mod: MIM:614041
@@ -149,20 +144,22 @@ orthologs:
   mod: MGI:97874
   phenotypes: All phenotypic alleles (22):Targeted, knock-out(10) Targeted, other(12)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000031493
   entrez: '100493114'
-  mod: '1018164'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000006782
   entrez: '777733'
   mod: ZFIN:ZDB-GENE-040428-1
-  phenotypes: ZDB-GENE-040428-1
+  phenotypes: cell differentiation, cell morphogenesis involved in neuron differentiation,
+    developmental process, negative regulation of G1/S transition of mitotic cell
+    cycle, neuron projection development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459018
+  url: https://www.ncbi.nlm.nih.gov/gene/386582
 species: Gallus gallus
 symbol: RB1
 title: RB1
@@ -191,9 +188,8 @@ title: RB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000139687](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139687) | [5925](https://www.ncbi.nlm.nih.gov/gene/5925) | [MIM:614041](https://omim.org/entry/614041) | MIM:109800 |
 | Mouse | [ENSMUSG00000022105](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022105) | [19645](https://www.ncbi.nlm.nih.gov/gene/19645) | [MGI:97874](http://www.informatics.jax.org/marker/MGI:97874) | All phenotypic alleles (22):Targeted, knock-out(10) Targeted, other(12) |
-| Xenopus |  | [100493114](https://www.ncbi.nlm.nih.gov/gene/100493114) | [1018164](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1018164) |  |
-| Zebrafish | [ENSDARG00000006782](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006782) | [777733](https://www.ncbi.nlm.nih.gov/gene/777733) | [ZFIN:ZDB-GENE-040428-1](https://zfin.org/ZDB-GENE-040428-1) | ZDB-GENE-040428-1 |
+| Xenopus | [ENSXETG00000031493](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031493) | [100493114](https://www.ncbi.nlm.nih.gov/gene/100493114) |  |  |
+| Zebrafish | [ENSDARG00000006782](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006782) | [777733](https://www.ncbi.nlm.nih.gov/gene/777733) | [ZFIN:ZDB-GENE-040428-1](https://zfin.org/ZDB-GENE-040428-1) | cell differentiation, cell morphogenesis involved in neuron differentiation, developmental process, negative regulation of G1/S transition of mitotic cell cycle, neuron projection development |
 

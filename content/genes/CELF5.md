@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:425867
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423569
-gene_id: '450885'
+gene_id: '425867'
 gene_type: protein-coding
 images:
 - caption: CELF5 expression
@@ -44,37 +44,33 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CELF5.Figure4J.Brimacombe.2007.jpg
 name: CUGBP Elav-like family member 5
-ncbi_id: '450885'
+ncbi_id: '425867'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000161082
+  entrez: '60680'
+  mod: MIM:612680
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000034818
+  entrez: '319586'
+  mod: MGI:2442333
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000014344
+  entrez: '100036604'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000115419
+  entrez: '568052'
+  mod: ZFIN:ZDB-GENE-050208-746
+  phenotypes: mRNA processing, mRNA splice site recognition, regulation of alternative
+    mRNA splicing, via spliceosome
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450885
+  url: https://www.ncbi.nlm.nih.gov/gene/425867
 species: Gallus gallus
 symbol: CELF5
 title: CELF5
@@ -99,9 +95,8 @@ title: CELF5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000161082](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000161082) | [60680](https://www.ncbi.nlm.nih.gov/gene/60680) | [MIM:612680](https://omim.org/entry/612680) |  |
+| Mouse | [ENSMUSG00000034818](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000034818) | [319586](https://www.ncbi.nlm.nih.gov/gene/319586) | [MGI:2442333](http://www.informatics.jax.org/marker/MGI:2442333) |  |
+| Xenopus | [ENSXETG00000014344](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000014344) | [100036604](https://www.ncbi.nlm.nih.gov/gene/100036604) |  |  |
+| Zebrafish | [ENSDARG00000115419](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115419) | [568052](https://www.ncbi.nlm.nih.gov/gene/568052) | [ZFIN:ZDB-GENE-050208-746](https://zfin.org/ZDB-GENE-050208-746) | mRNA processing, mRNA splice site recognition, regulation of alternative mRNA splicing, via spliceosome |
 

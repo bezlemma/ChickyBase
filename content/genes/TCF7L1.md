@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395230
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003643906
   X-XIV: stage XIII
-gene_id: '461448'
+gene_id: '395230'
 gene_type: protein-coding
 images:
 - caption: TCF7L1 expression
@@ -120,37 +120,33 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TCF7L1.Trevers.2023-Fig7-4-D.jpg
 name: transcription factor 7 like 1
-ncbi_id: '461448'
+ncbi_id: '395230'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000152284
+  entrez: '83439'
+  mod: MIM:604652
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000055799
+  entrez: '21415'
+  mod: MGI:1202876
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000019015
+  entrez: '448107'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000007369
+  entrez: '30556'
+  mod: ZFIN:ZDB-GENE-991110-10
+  phenotypes: Wnt signaling pathway, brain segmentation, canonical Wnt signaling pathway,
+    cell proliferation in dorsal spinal cord, embryonic pattern specification
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461448
+  url: https://www.ncbi.nlm.nih.gov/gene/395230
 species: Gallus gallus
 symbol: TCF7L1
 title: TCF7L1
@@ -176,9 +172,8 @@ title: TCF7L1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000152284](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000152284) | [83439](https://www.ncbi.nlm.nih.gov/gene/83439) | [MIM:604652](https://omim.org/entry/604652) |  |
+| Mouse | [ENSMUSG00000055799](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000055799) | [21415](https://www.ncbi.nlm.nih.gov/gene/21415) | [MGI:1202876](http://www.informatics.jax.org/marker/MGI:1202876) |  |
+| Xenopus | [ENSXETG00000019015](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000019015) | [448107](https://www.ncbi.nlm.nih.gov/gene/448107) |  |  |
+| Zebrafish | [ENSDARG00000007369](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007369) | [30556](https://www.ncbi.nlm.nih.gov/gene/30556) | [ZFIN:ZDB-GENE-991110-10](https://zfin.org/ZDB-GENE-991110-10) | Wnt signaling pathway, brain segmentation, canonical Wnt signaling pathway, cell proliferation in dorsal spinal cord, embryonic pattern specification |
 

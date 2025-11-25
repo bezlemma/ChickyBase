@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427846
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425420
 forward_primer: AGCATCAGAGTTATCCCAAACCC
-gene_id: '457829'
+gene_id: '427846'
 gene_type: protein-coding
 images:
 - caption: CDHR3 expression
@@ -62,13 +62,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R458.CDHR3.S26AA.001.jpg
 name: cadherin related family member 3
-ncbi_id: '457829'
+ncbi_id: '427846'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000128536
   entrez: '222256'
   mod: MIM:615610
@@ -79,24 +74,19 @@ orthologs:
   mod: MGI:1916014
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000039545
   entrez: '100498191'
-  mod: '6468060'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
   mod: ''
   phenotypes: ''
-  species: Zebrafish
+  species: Xenopus
 reverse_primer: ATTAACCCTCACTAAAGGCCCTCCCTTTCTTGTAAGCAACC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457829
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427846
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457829
+  url: https://www.ncbi.nlm.nih.gov/gene/427846
 species: Gallus gallus
 symbol: CDHR3
 template_length: '899'
@@ -118,9 +108,7 @@ title: CDHR3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000128536](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000128536) | [222256](https://www.ncbi.nlm.nih.gov/gene/222256) | [MIM:615610](https://omim.org/entry/615610) |  |
 | Mouse | [ENSMUSG00000035860](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035860) | [68764](https://www.ncbi.nlm.nih.gov/gene/68764) | [MGI:1916014](http://www.informatics.jax.org/marker/MGI:1916014) |  |
-| Xenopus |  | [100498191](https://www.ncbi.nlm.nih.gov/gene/100498191) | [6468060](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6468060) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000039545](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000039545) | [100498191](https://www.ncbi.nlm.nih.gov/gene/100498191) |  |  |
 

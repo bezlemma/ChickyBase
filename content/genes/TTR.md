@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396277
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005488
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205335
-gene_id: '462587'
+gene_id: '396277'
 gene_type: protein-coding
 images:
 - caption: TTR expression
@@ -154,13 +154,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TTR.Anderson.2019.Supplementary
     figure 4M.jpg
 name: transthyretin
-ncbi_id: '462587'
+ncbi_id: '396277'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000118271
   entrez: '7276'
   mod: MIM:176300
@@ -171,20 +166,20 @@ orthologs:
   mod: MGI:98865
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100125183,397787
-  mod: '479394'
+- ensembl: ENSXETG00000004725
+  entrez: '100125183'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000037191
   entrez: '449556'
   mod: ZFIN:ZDB-GENE-040927-14
-  phenotypes: ZDB-GENE-040927-14
+  phenotypes: purine nucleobase metabolic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462587
+  url: https://www.ncbi.nlm.nih.gov/gene/396277
 species: Gallus gallus
 symbol: TTR
 title: TTR
@@ -213,9 +208,8 @@ title: TTR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000118271](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118271) | [7276](https://www.ncbi.nlm.nih.gov/gene/7276) | [MIM:176300](https://omim.org/entry/176300) | MIM:176300 |
 | Mouse | [ENSMUSG00000061808](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000061808) | [22139](https://www.ncbi.nlm.nih.gov/gene/22139) | [MGI:98865](http://www.informatics.jax.org/marker/MGI:98865) | All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5) |
-| Xenopus |  | [100125183](https://www.ncbi.nlm.nih.gov/gene/100125183), [397787](https://www.ncbi.nlm.nih.gov/gene/397787) | [479394](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479394) |  |
-| Zebrafish | [ENSDARG00000037191](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037191) | [449556](https://www.ncbi.nlm.nih.gov/gene/449556) | [ZFIN:ZDB-GENE-040927-14](https://zfin.org/ZDB-GENE-040927-14) | ZDB-GENE-040927-14 |
+| Xenopus | [ENSXETG00000004725](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004725) | [100125183](https://www.ncbi.nlm.nih.gov/gene/100125183) |  |  |
+| Zebrafish | [ENSDARG00000037191](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037191) | [449556](https://www.ncbi.nlm.nih.gov/gene/449556) | [ZFIN:ZDB-GENE-040927-14](https://zfin.org/ZDB-GENE-040927-14) | purine nucleobase metabolic process |
 

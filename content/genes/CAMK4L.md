@@ -7,7 +7,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427267
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424850
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/CAMK4
-gene_id: '462672'
+gene_id: '427267'
 gene_type: protein-coding
 images:
 - caption: CAMK4L expression
@@ -102,14 +102,9 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/pgp1n1g11.103.21.jpg
 name: calcium/calmodulin-dependent protein kinase IV-like
-ncbi_id: '462672'
+ncbi_id: '427267'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000152495
   entrez: '814'
   mod: MIM:114080
   phenotypes: ''
@@ -119,23 +114,24 @@ orthologs:
   mod: MGI:88258
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(5) Targeted, other(1)
   species: Mouse
-- ensembl: ''
-  entrez: 100490912,373837
-  mod: '5911780'
+- ensembl: ENSXETG00000006926
+  entrez: '100490912'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000005372
   entrez: '550270'
   mod: ZFIN:ZDB-GENE-050417-76
-  phenotypes: ZDB-GENE-050417-76
+  phenotypes: definitive hemopoiesis, intracellular signal transduction, phosphorylation,
+    protein phosphorylation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462672
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=427267
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462672
+  url: https://www.ncbi.nlm.nih.gov/gene/427267
 species: Gallus gallus
 symbol: CAMK4L
 title: CAMK4L
@@ -159,9 +155,8 @@ title: CAMK4L
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [814](https://www.ncbi.nlm.nih.gov/gene/814) | [MIM:114080](https://omim.org/entry/114080) |  |
+| Human | [ENSG00000152495](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000152495) | [814](https://www.ncbi.nlm.nih.gov/gene/814) | [MIM:114080](https://omim.org/entry/114080) |  |
 | Mouse | [ENSMUSG00000038128](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038128) | [12326](https://www.ncbi.nlm.nih.gov/gene/12326) | [MGI:88258](http://www.informatics.jax.org/marker/MGI:88258) | All phenotypic alleles (6):Targeted, knock-out(5) Targeted, other(1) |
-| Xenopus |  | [100490912](https://www.ncbi.nlm.nih.gov/gene/100490912), [373837](https://www.ncbi.nlm.nih.gov/gene/373837) | [5911780](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5911780) |  |
-| Zebrafish | [ENSDARG00000005372](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005372) | [550270](https://www.ncbi.nlm.nih.gov/gene/550270) | [ZFIN:ZDB-GENE-050417-76](https://zfin.org/ZDB-GENE-050417-76) | ZDB-GENE-050417-76 |
+| Xenopus | [ENSXETG00000006926](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000006926) | [100490912](https://www.ncbi.nlm.nih.gov/gene/100490912) |  |  |
+| Zebrafish | [ENSDARG00000005372](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005372) | [550270](https://www.ncbi.nlm.nih.gov/gene/550270) | [ZFIN:ZDB-GENE-050417-76](https://zfin.org/ZDB-GENE-050417-76) | definitive hemopoiesis, intracellular signal transduction, phosphorylation, protein phosphorylation |
 

@@ -4,7 +4,6 @@ aliases:
 - benzodiazapine receptor, peripheral-like 1
 cgnc_id: '2335'
 external_ids:
-  '13': stage 13stage 13stage 13
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Nakazawa+2009+PBRL
   Comments: The complete cDNA template sequence was obtained from the information
     from the publication as described in Nakazawa et al. 2009. PBRL is also known
@@ -15,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419914
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418037
-gene_id: '453036'
+gene_id: '419914'
 gene_type: protein-coding
 images:
 - caption: TSPO2 expression
@@ -110,7 +109,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PBRL.Nakazawa.2009.Fig4.jpg
 name: translocator protein 2
-ncbi_id: '453036'
+ncbi_id: '419914'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -140,7 +139,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453036
+  url: https://www.ncbi.nlm.nih.gov/gene/419914
 species: Gallus gallus
 symbol: TSPO2
 title: TSPO2

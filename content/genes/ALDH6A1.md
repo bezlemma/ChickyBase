@@ -1,7 +1,6 @@
 ---
 cgnc_id: '7766'
 external_ids:
-  '25': stage 25stage 25stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0023537
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/30995
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000010211
@@ -9,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423345
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421260
 forward_primer: TGGCAAGAGAGTCCAGGCTAAC
-gene_id: '448753'
+gene_id: '423345'
 gene_type: protein-coding
 images:
 - caption: ALDH6A1 expression
@@ -118,13 +117,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R494.ALDH6A1.S25AAA.001.jpg
 name: aldehyde dehydrogenase 6 family member A1
-ncbi_id: '448753'
+ncbi_id: '423345'
 orthologs:
-- ensembl: ''
-  entrez: '30995'
-  mod: FBgn0023537
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000119711
   entrez: '4329'
   mod: MIM:603178
@@ -135,24 +129,24 @@ orthologs:
   mod: MGI:1915077
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100491845,734956
-  mod: '1006691'
+- ensembl: ENSXETG00000013304
+  entrez: '100491845'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000053485
   entrez: '436647'
   mod: ZFIN:ZDB-GENE-030131-9192
-  phenotypes: ZDB-GENE-030131-9192
+  phenotypes: L-valine catabolic process, thymine catabolic process
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTCACAGCAACAGAAAACCCAGAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=448753
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423345
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448753
+  url: https://www.ncbi.nlm.nih.gov/gene/423345
 species: Gallus gallus
 symbol: ALDH6A1
 template_length: '961'
@@ -176,9 +170,8 @@ title: ALDH6A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [30995](https://www.ncbi.nlm.nih.gov/gene/30995) | FBgn0023537 |  |
 | Human | [ENSG00000119711](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000119711) | [4329](https://www.ncbi.nlm.nih.gov/gene/4329) | [MIM:603178](https://omim.org/entry/603178) | MIM:603178 |
 | Mouse | [ENSMUSG00000021238](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021238) | [104776](https://www.ncbi.nlm.nih.gov/gene/104776) | [MGI:1915077](http://www.informatics.jax.org/marker/MGI:1915077) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100491845](https://www.ncbi.nlm.nih.gov/gene/100491845), [734956](https://www.ncbi.nlm.nih.gov/gene/734956) | [1006691](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1006691) |  |
-| Zebrafish | [ENSDARG00000053485](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053485) | [436647](https://www.ncbi.nlm.nih.gov/gene/436647) | [ZFIN:ZDB-GENE-030131-9192](https://zfin.org/ZDB-GENE-030131-9192) | ZDB-GENE-030131-9192 |
+| Xenopus | [ENSXETG00000013304](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013304) | [100491845](https://www.ncbi.nlm.nih.gov/gene/100491845) |  |  |
+| Zebrafish | [ENSDARG00000053485](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053485) | [436647](https://www.ncbi.nlm.nih.gov/gene/436647) | [ZFIN:ZDB-GENE-030131-9192](https://zfin.org/ZDB-GENE-030131-9192) | L-valine catabolic process, thymine catabolic process |
 

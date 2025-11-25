@@ -5,8 +5,6 @@ aliases:
 - ceh-10 homeodomain containing homolog
 cgnc_id: '7768'
 external_ids:
-  '13': stage 13
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0045165
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Hirashima+Kobayashi+localized+crucial
@@ -20,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204768
 forward_primer: CGGAAAAAGGGGAGGAAGTG
-gene_id: '449626'
+gene_id: '395536'
 gene_type: protein-coding
 images:
 - caption: VSX2 expression
@@ -303,13 +301,8 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hirashima.2008.f8.chx10.png
 name: visual system homeobox 2
-ncbi_id: '449626'
+ncbi_id: '395536'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000119614
   entrez: '338917'
   mod: MIM:142993
@@ -321,24 +314,26 @@ orthologs:
   phenotypes: All phenotypic alleles (10):Spontaneous(3) Targeted, knock-out(1) Targeted,
     other(6)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000013302
   entrez: '100493176'
-  mod: '853774'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000005574
   entrez: '796163'
   mod: ZFIN:ZDB-GENE-001222-1
-  phenotypes: ZDB-GENE-001222-1
+  phenotypes: negative regulation of DNA-templated transcription, negative regulation
+    of transcription by RNA polymerase II, regulation of DNA-templated transcription,
+    regulation of developmental process, regulation of neural retina development
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTAGAAGGGCAATGTCAGCACGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449626
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395536
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449626
+  url: https://www.ncbi.nlm.nih.gov/gene/395536
 species: Gallus gallus
 symbol: VSX2
 template_length: '939'
@@ -368,9 +363,8 @@ title: VSX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000119614](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000119614) | [338917](https://www.ncbi.nlm.nih.gov/gene/338917) | [MIM:142993](https://omim.org/entry/142993) | MIM:610092 |
 | Mouse | [ENSMUSG00000021239](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021239) | [12677](https://www.ncbi.nlm.nih.gov/gene/12677) | [MGI:88401](http://www.informatics.jax.org/marker/MGI:88401) | All phenotypic alleles (10):Spontaneous(3) Targeted, knock-out(1) Targeted, other(6) |
-| Xenopus |  | [100493176](https://www.ncbi.nlm.nih.gov/gene/100493176) | [853774](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853774) |  |
-| Zebrafish | [ENSDARG00000005574](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005574) | [796163](https://www.ncbi.nlm.nih.gov/gene/796163) | [ZFIN:ZDB-GENE-001222-1](https://zfin.org/ZDB-GENE-001222-1) | ZDB-GENE-001222-1 |
+| Xenopus | [ENSXETG00000013302](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013302) | [100493176](https://www.ncbi.nlm.nih.gov/gene/100493176) |  |  |
+| Zebrafish | [ENSDARG00000005574](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000005574) | [796163](https://www.ncbi.nlm.nih.gov/gene/796163) | [ZFIN:ZDB-GENE-001222-1](https://zfin.org/ZDB-GENE-001222-1) | negative regulation of DNA-templated transcription, negative regulation of transcription by RNA polymerase II, regulation of DNA-templated transcription, regulation of developmental process, regulation of neural retina development |
 

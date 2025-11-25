@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422011
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031098
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/POMC
-gene_id: '449426'
+gene_id: '422011'
 gene_type: protein-coding
 images:
 - caption: POMC expression
@@ -65,13 +65,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Parkinson.Fig2.F5.POMC.E18-s.jpg
 name: proopiomelanocortin
-ncbi_id: '449426'
+ncbi_id: '422011'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000115138
   entrez: '5443'
   mod: MIM:176830
@@ -82,20 +77,21 @@ orthologs:
   mod: MGI:97742
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 496777,380532,373802
-  mod: '483702'
+- ensembl: ENSXETG00000017532
+  entrez: '496777'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000043135,ENSDARG00000069307
-  entrez: 353221,100034412
-  mod: ZFIN:ZDB-GENE-030513-2,ZFIN:ZDB-GENE-041014-294
-  phenotypes: ZDB-GENE-030513-2,ZDB-GENE-041014-294
+- ensembl: ENSDARG00000043135
+  entrez: '353221'
+  mod: ZFIN:ZDB-GENE-030513-2
+  phenotypes: melanosome localization, multicellular organismal response to stress,
+    neuropeptide signaling pathway, regulation of hematopoietic stem cell differentiation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449426
+  url: https://www.ncbi.nlm.nih.gov/gene/422011
 species: Gallus gallus
 symbol: POMC
 title: POMC
@@ -123,9 +119,8 @@ title: POMC
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000115138](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000115138) | [5443](https://www.ncbi.nlm.nih.gov/gene/5443) | [MIM:176830](https://omim.org/entry/176830) | MIM:176830 |
 | Mouse | [ENSMUSG00000020660](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000020660) | [18976](https://www.ncbi.nlm.nih.gov/gene/18976) | [MGI:97742](http://www.informatics.jax.org/marker/MGI:97742) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
-| Xenopus |  | [496777](https://www.ncbi.nlm.nih.gov/gene/496777), [380532](https://www.ncbi.nlm.nih.gov/gene/380532), [373802](https://www.ncbi.nlm.nih.gov/gene/373802) | [483702](http://www.xenbase.org/gene/showgene.do?method=display&geneId=483702) |  |
-| Zebrafish | [ENSDARG00000043135](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043135), [ENSDARG00000069307](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069307) | [353221](https://www.ncbi.nlm.nih.gov/gene/353221), [100034412](https://www.ncbi.nlm.nih.gov/gene/100034412) | [ZFIN:ZDB-GENE-030513-2](https://zfin.org/ZDB-GENE-030513-2), [ZFIN:ZDB-GENE-041014-294](https://zfin.org/ZDB-GENE-041014-294) | ZDB-GENE-030513-2,ZDB-GENE-041014-294 |
+| Xenopus | [ENSXETG00000017532](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017532) | [496777](https://www.ncbi.nlm.nih.gov/gene/496777) |  |  |
+| Zebrafish | [ENSDARG00000043135](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043135) | [353221](https://www.ncbi.nlm.nih.gov/gene/353221) | [ZFIN:ZDB-GENE-030513-2](https://zfin.org/ZDB-GENE-030513-2) | melanosome localization, multicellular organismal response to stress, neuropeptide signaling pathway, regulation of hematopoietic stem cell differentiation |
 

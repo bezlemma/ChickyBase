@@ -20,7 +20,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005243
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204931
 forward_primer: 5’-TCGCTCCCACAGGTCATAC-3’
-gene_id: '450323'
+gene_id: '395771'
 gene_type: protein-coding
 images:
 - caption: GJB6 expression
@@ -152,13 +152,8 @@ images:
   stage: stage 43
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CONNEXIN31.Heller.1998.FIg.1.png
 name: gap junction protein beta 6
-ncbi_id: '450323'
+ncbi_id: '395771'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000121742
   entrez: '10804'
   mod: MIM:604418
@@ -169,24 +164,25 @@ orthologs:
   mod: MGI:107588
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000026112
+  entrez: '549738'
   mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000042707
   entrez: '404725'
   mod: ZFIN:ZDB-GENE-040406-1
-  phenotypes: ZDB-GENE-040406-1
+  phenotypes: cell communication, cell-cell signaling, gap junction-mediated intercellular
+    transport, inner ear development, sensory perception of sound
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGCACTGACACCACCTTAGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450323
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395771
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450323
+  url: https://www.ncbi.nlm.nih.gov/gene/395771
 species: Gallus gallus
 symbol: GJB6
 template_length: '838'
@@ -216,9 +212,8 @@ title: GJB6
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000121742](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000121742) | [10804](https://www.ncbi.nlm.nih.gov/gene/10804) | [MIM:604418](https://omim.org/entry/604418) | MIM:601544 |
 | Mouse | [ENSMUSG00000040055](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040055) | [14623](https://www.ncbi.nlm.nih.gov/gene/14623) | [MGI:107588](http://www.informatics.jax.org/marker/MGI:107588) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000042707](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042707) | [404725](https://www.ncbi.nlm.nih.gov/gene/404725) | [ZFIN:ZDB-GENE-040406-1](https://zfin.org/ZDB-GENE-040406-1) | ZDB-GENE-040406-1 |
+| Xenopus | [ENSXETG00000026112](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026112) | [549738](https://www.ncbi.nlm.nih.gov/gene/549738) |  |  |
+| Zebrafish | [ENSDARG00000042707](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042707) | [404725](https://www.ncbi.nlm.nih.gov/gene/404725) | [ZFIN:ZDB-GENE-040406-1](https://zfin.org/ZDB-GENE-040406-1) | cell communication, cell-cell signaling, gap junction-mediated intercellular transport, inner ear development, sensory perception of sound |
 

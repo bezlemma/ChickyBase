@@ -5,7 +5,6 @@ aliases:
 - homeobox protein PITX1
 cgnc_id: '4791'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0007275
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=szeto+Ryan+Liu+Kioussi
@@ -19,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374201
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001167684
-gene_id: '456412'
+gene_id: '374201'
 gene_type: protein-coding
 images:
 - caption: PITX1 expression
@@ -363,13 +362,8 @@ images:
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PITX1.Szeto.1999.Fig.5.png
 name: paired like homeodomain 1
-ncbi_id: '456412'
+ncbi_id: '374201'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000069011
   entrez: '5307'
   mod: MIM:602149
@@ -380,23 +374,25 @@ orthologs:
   mod: MGI:107374
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 493226,394310
-  mod: '485440'
+- ensembl: ENSXETG00000010401
+  entrez: '493226'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000116608
   entrez: '678598'
   mod: ZFIN:ZDB-GENE-060421-3623
-  phenotypes: ZDB-GENE-060421-3623
+  phenotypes: anatomical structure morphogenesis, camera-type eye development, diencephalon
+    development, regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456412
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374201
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456412
+  url: https://www.ncbi.nlm.nih.gov/gene/374201
 species: Gallus gallus
 symbol: PITX1
 title: PITX1
@@ -425,9 +421,8 @@ title: PITX1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000069011](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000069011) | [5307](https://www.ncbi.nlm.nih.gov/gene/5307) | [MIM:602149](https://omim.org/entry/602149) | MIM:119800 |
 | Mouse | [ENSMUSG00000021506](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021506) | [18740](https://www.ncbi.nlm.nih.gov/gene/18740) | [MGI:107374](http://www.informatics.jax.org/marker/MGI:107374) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [493226](https://www.ncbi.nlm.nih.gov/gene/493226), [394310](https://www.ncbi.nlm.nih.gov/gene/394310) | [485440](http://www.xenbase.org/gene/showgene.do?method=display&geneId=485440) |  |
-| Zebrafish |  | [678598](https://www.ncbi.nlm.nih.gov/gene/678598) | [ZFIN:ZDB-GENE-060421-3623](https://zfin.org/ZDB-GENE-060421-3623) | ZDB-GENE-060421-3623 |
+| Xenopus | [ENSXETG00000010401](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010401) | [493226](https://www.ncbi.nlm.nih.gov/gene/493226) |  |  |
+| Zebrafish | [ENSDARG00000116608](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000116608) | [678598](https://www.ncbi.nlm.nih.gov/gene/678598) | [ZFIN:ZDB-GENE-060421-3623](https://zfin.org/ZDB-GENE-060421-3623) | anatomical structure morphogenesis, camera-type eye development, diencephalon development, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

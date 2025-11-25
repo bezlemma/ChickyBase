@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426896
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424502
 forward_primer: TGGACAGCATCATTGCGGAG
-gene_id: '459228'
+gene_id: '426896'
 gene_type: protein-coding
 images:
 - caption: KRT8 expression
@@ -242,7 +242,7 @@ images:
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CK8.Yanai.20053L.jpg
 name: keratin 8
-ncbi_id: '459228'
+ncbi_id: '426896'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -267,16 +267,16 @@ orthologs:
 - ensembl: ENSDARG00000058371,ENSDARG00000017624,ENSDARG00000058358
   entrez: 797351,794486,797433
   mod: ZFIN:ZDB-GENE-991110-23,ZFIN:ZDB-GENE-000607-83,ZFIN:ZDB-GENE-030411-5
-  phenotypes: ZDB-GENE-991110-23,ZDB-GENE-000607-83,ZDB-GENE-030411-5
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGATGGCACGAGATTTGGGGAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459228
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426896
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459228
+  url: https://www.ncbi.nlm.nih.gov/gene/426896
 species: Gallus gallus
 symbol: KRT8
 template_length: '589'
@@ -306,5 +306,5 @@ title: KRT8
 | Human | [ENSG00000170421](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170421) | [3856](https://www.ncbi.nlm.nih.gov/gene/3856) | [MIM:148060](https://omim.org/entry/148060) | MIM:148060 |
 | Mouse | [ENSMUSG00000049382](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049382) | [16691](https://www.ncbi.nlm.nih.gov/gene/16691) | [MGI:96705](http://www.informatics.jax.org/marker/MGI:96705) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
 | Xenopus |  | [431676](https://www.ncbi.nlm.nih.gov/gene/431676), [380217](https://www.ncbi.nlm.nih.gov/gene/380217), [100489468](https://www.ncbi.nlm.nih.gov/gene/100489468), [373584](https://www.ncbi.nlm.nih.gov/gene/373584) | [876928](http://www.xenbase.org/gene/showgene.do?method=display&geneId=876928), [920458](http://www.xenbase.org/gene/showgene.do?method=display&geneId=920458) |  |
-| Zebrafish | [ENSDARG00000058371](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058371), [ENSDARG00000017624](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017624), [ENSDARG00000058358](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058358) | [797351](https://www.ncbi.nlm.nih.gov/gene/797351), [794486](https://www.ncbi.nlm.nih.gov/gene/794486), [797433](https://www.ncbi.nlm.nih.gov/gene/797433) | [ZFIN:ZDB-GENE-991110-23](https://zfin.org/ZDB-GENE-991110-23), [ZFIN:ZDB-GENE-000607-83](https://zfin.org/ZDB-GENE-000607-83), [ZFIN:ZDB-GENE-030411-5](https://zfin.org/ZDB-GENE-030411-5) | ZDB-GENE-991110-23,ZDB-GENE-000607-83,ZDB-GENE-030411-5 |
+| Zebrafish | [ENSDARG00000058371](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058371), [ENSDARG00000017624](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000017624), [ENSDARG00000058358](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058358) | [797351](https://www.ncbi.nlm.nih.gov/gene/797351), [794486](https://www.ncbi.nlm.nih.gov/gene/794486), [797433](https://www.ncbi.nlm.nih.gov/gene/797433) | [ZFIN:ZDB-GENE-991110-23](https://zfin.org/ZDB-GENE-991110-23), [ZFIN:ZDB-GENE-000607-83](https://zfin.org/ZDB-GENE-000607-83), [ZFIN:ZDB-GENE-030411-5](https://zfin.org/ZDB-GENE-030411-5) |  |
 

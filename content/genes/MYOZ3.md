@@ -3,14 +3,13 @@ aliases:
 - myozenin-3
 cgnc_id: '3371'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/416271
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416271
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414589
 forward_primer: 5'-CAACACACGTACAGCACAGC-3'
-gene_id: '457063'
+gene_id: '416271'
 gene_type: protein-coding
 images:
 - caption: MYOZ3 expression
@@ -147,41 +146,31 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R729.MYOZ3.S25.001.jpg
 name: myozenin 3
-ncbi_id: '457063'
+ncbi_id: '416271'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164591
   entrez: '91977'
   mod: MIM:610735
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000049173
   entrez: '170947'
   mod: MGI:2179296
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000037519
   entrez: '496725'
-  mod: '945165'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000067701
-  entrez: '100148802'
-  mod: ZFIN:ZDB-GENE-091204-305,ZFIN:ZDB-GENE-111012-4
-  phenotypes: ZDB-GENE-091204-305,ZDB-GENE-111012-4
-  species: Zebrafish
 reverse_primer: 5'-AGCTTTGTGTTTGCGCTCAG-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457063
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416271
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457063
+  url: https://www.ncbi.nlm.nih.gov/gene/416271
 species: Gallus gallus
 symbol: MYOZ3
 template_length: '479'
@@ -204,9 +193,7 @@ title: MYOZ3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164591](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164591) | [91977](https://www.ncbi.nlm.nih.gov/gene/91977) | [MIM:610735](https://omim.org/entry/610735) |  |
-| Mouse |  | [170947](https://www.ncbi.nlm.nih.gov/gene/170947) | [MGI:2179296](http://www.informatics.jax.org/marker/MGI:2179296) |  |
-| Xenopus |  | [496725](https://www.ncbi.nlm.nih.gov/gene/496725) | [945165](http://www.xenbase.org/gene/showgene.do?method=display&geneId=945165) |  |
-| Zebrafish | [ENSDARG00000067701](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000067701) | [100148802](https://www.ncbi.nlm.nih.gov/gene/100148802) | [ZFIN:ZDB-GENE-091204-305](https://zfin.org/ZDB-GENE-091204-305), [ZFIN:ZDB-GENE-111012-4](https://zfin.org/ZDB-GENE-111012-4) | ZDB-GENE-091204-305,ZDB-GENE-111012-4 |
+| Mouse | [ENSMUSG00000049173](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049173) | [170947](https://www.ncbi.nlm.nih.gov/gene/170947) | [MGI:2179296](http://www.informatics.jax.org/marker/MGI:2179296) |  |
+| Xenopus | [ENSXETG00000037519](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000037519) | [496725](https://www.ncbi.nlm.nih.gov/gene/496725) |  |  |
 

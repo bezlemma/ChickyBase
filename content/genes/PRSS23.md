@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419017
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417210
-gene_id: '456820'
+gene_id: '419017'
 gene_type: protein-coding
 images:
 - caption: PRSS23 expression
@@ -37,16 +37,11 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PRSS23.Anderson.2019.Fig2.jpg
 name: protease, serine 23
-ncbi_id: '456820'
+ncbi_id: '419017'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000150687
   entrez: '11098'
-  mod: ''
+  mod: MIM:618376
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000039405
@@ -54,20 +49,15 @@ orthologs:
   mod: MGI:1923703
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000044339
   entrez: '100127808'
-  mod: '944615'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '337205'
-  mod: ZFIN:ZDB-GENE-030131-9149
-  phenotypes: ZDB-GENE-030131-9149
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456820
+  url: https://www.ncbi.nlm.nih.gov/gene/419017
 species: Gallus gallus
 symbol: PRSS23
 title: PRSS23
@@ -93,9 +83,7 @@ title: PRSS23
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000150687](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000150687) | [11098](https://www.ncbi.nlm.nih.gov/gene/11098) |  |  |
+| Human | [ENSG00000150687](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000150687) | [11098](https://www.ncbi.nlm.nih.gov/gene/11098) | [MIM:618376](https://omim.org/entry/618376) |  |
 | Mouse | [ENSMUSG00000039405](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039405) | [76453](https://www.ncbi.nlm.nih.gov/gene/76453) | [MGI:1923703](http://www.informatics.jax.org/marker/MGI:1923703) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100127808](https://www.ncbi.nlm.nih.gov/gene/100127808) | [944615](http://www.xenbase.org/gene/showgene.do?method=display&geneId=944615) |  |
-| Zebrafish |  | [337205](https://www.ncbi.nlm.nih.gov/gene/337205) | [ZFIN:ZDB-GENE-030131-9149](https://zfin.org/ZDB-GENE-030131-9149) | ZDB-GENE-030131-9149 |
+| Xenopus | [ENSXETG00000044339](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044339) | [100127808](https://www.ncbi.nlm.nih.gov/gene/100127808) |  |  |
 

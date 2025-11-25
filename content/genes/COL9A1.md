@@ -5,7 +5,6 @@ aliases:
 - cartilage alpha(IX) collagen
 cgnc_id: '11923'
 external_ids:
-  '31': stage 31
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005581
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Smith+2018+retinoic+Erskine
   Comments: The complete cDNA template sequence was obtained from the information
@@ -16,7 +15,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771873
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001100911
-gene_id: '452401'
+gene_id: '771873'
 gene_type: protein-coding
 images:
 - caption: COL9A1 expression
@@ -99,13 +98,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COL9A1.Smith.2018.Fig10.jpg
 name: collagen type IX alpha 1 chain
-ncbi_id: '452401'
+ncbi_id: '771873'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000112280
   entrez: '1297'
   mod: MIM:120210
@@ -116,23 +110,23 @@ orthologs:
   mod: MGI:88465
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: '446631'
-  mod: '6048227'
+- ensembl: ENSXETG00000017926
+  entrez: '100145133'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000031483
-  entrez: 406548,100170785
-  mod: ZFIN:ZDB-GENE-040426-2410,ZFIN:ZDB-GENE-080721-25
-  phenotypes: ZDB-GENE-040426-2410,ZDB-GENE-080721-25
+- ensembl: ENSDARG00000073699
+  entrez: '100170785'
+  mod: ZFIN:ZDB-GENE-080721-25
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=452401
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=771873
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/452401
+  url: https://www.ncbi.nlm.nih.gov/gene/771873
 species: Gallus gallus
 symbol: COL9A1
 title: COL9A1
@@ -159,9 +153,8 @@ title: COL9A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000112280](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000112280) | [1297](https://www.ncbi.nlm.nih.gov/gene/1297) | [MIM:120210](https://omim.org/entry/120210) | MIM:120210 |
 | Mouse | [ENSMUSG00000026147](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026147) | [12839](https://www.ncbi.nlm.nih.gov/gene/12839) | [MGI:88465](http://www.informatics.jax.org/marker/MGI:88465) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [446631](https://www.ncbi.nlm.nih.gov/gene/446631) | [6048227](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6048227) |  |
-| Zebrafish | [ENSDARG00000031483](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031483) | [406548](https://www.ncbi.nlm.nih.gov/gene/406548), [100170785](https://www.ncbi.nlm.nih.gov/gene/100170785) | [ZFIN:ZDB-GENE-040426-2410](https://zfin.org/ZDB-GENE-040426-2410), [ZFIN:ZDB-GENE-080721-25](https://zfin.org/ZDB-GENE-080721-25) | ZDB-GENE-040426-2410,ZDB-GENE-080721-25 |
+| Xenopus | [ENSXETG00000017926](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017926) | [100145133](https://www.ncbi.nlm.nih.gov/gene/100145133) |  |  |
+| Zebrafish | [ENSDARG00000073699](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000073699) | [100170785](https://www.ncbi.nlm.nih.gov/gene/100170785) | [ZFIN:ZDB-GENE-080721-25](https://zfin.org/ZDB-GENE-080721-25) |  |
 

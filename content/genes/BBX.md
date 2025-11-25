@@ -4,14 +4,13 @@ aliases:
 - HMG-BOX transcription factor BBX
 cgnc_id: '11436'
 external_ids:
-  '19': stage 19stage 19
   Comments: no specific expression detected stages 4-13.
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000015353
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418407
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_416622
 forward_primer: GCGACTGATTCTACGGAAGTGTGT
-gene_id: '455935'
+gene_id: '418407'
 gene_type: protein-coding
 images:
 - caption: BBX expression
@@ -99,16 +98,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R529.BBX.S26A.001.jpg
 name: BBX, HMG-box containing
-ncbi_id: '455935'
+ncbi_id: '418407'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000114439
   entrez: '56987'
-  mod: ''
+  mod: MIM:621127
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000022641
@@ -116,24 +110,24 @@ orthologs:
   mod: MGI:1917758
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100487237,398532
-  mod: '981427'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: '100005540'
+- ensembl: ENSXETG00000016131
+  entrez: '100487237'
   mod: ''
   phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000012699
+  entrez: '100005540'
+  mod: ZFIN:ZDB-GENE-091204-306
+  phenotypes: regulation of transcription by RNA polymerase II
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGAGGCTTTGATTCTTTGGTGGTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=455935
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=418407
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455935
+  url: https://www.ncbi.nlm.nih.gov/gene/418407
 species: Gallus gallus
 symbol: BBX
 template_length: '949'
@@ -157,9 +151,8 @@ title: BBX
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000114439](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000114439) | [56987](https://www.ncbi.nlm.nih.gov/gene/56987) |  |  |
+| Human | [ENSG00000114439](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000114439) | [56987](https://www.ncbi.nlm.nih.gov/gene/56987) | [MIM:621127](https://omim.org/entry/621127) |  |
 | Mouse | [ENSMUSG00000022641](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022641) | [70508](https://www.ncbi.nlm.nih.gov/gene/70508) | [MGI:1917758](http://www.informatics.jax.org/marker/MGI:1917758) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100487237](https://www.ncbi.nlm.nih.gov/gene/100487237), [398532](https://www.ncbi.nlm.nih.gov/gene/398532) | [981427](http://www.xenbase.org/gene/showgene.do?method=display&geneId=981427) |  |
-| Zebrafish |  | [100005540](https://www.ncbi.nlm.nih.gov/gene/100005540) |  |  |
+| Xenopus | [ENSXETG00000016131](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016131) | [100487237](https://www.ncbi.nlm.nih.gov/gene/100487237) |  |  |
+| Zebrafish | [ENSDARG00000012699](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000012699) | [100005540](https://www.ncbi.nlm.nih.gov/gene/100005540) | [ZFIN:ZDB-GENE-091204-306](https://zfin.org/ZDB-GENE-091204-306) | regulation of transcription by RNA polymerase II |
 

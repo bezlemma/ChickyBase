@@ -8,8 +8,6 @@ aliases:
 - retinaldehyde dehydrogenase 2
 cgnc_id: '3140'
 external_ids:
-  '13': stage 13stage 13stage 13
-  '31': stage 31stage 31
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0042572
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Smith+2018+retinoic+Erskine
@@ -25,7 +23,7 @@ external_ids:
   Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204995
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/ALDH1A2
-gene_id: '450022'
+gene_id: '395844'
 gene_type: protein-coding
 images:
 - caption: ALDH1A2 expression
@@ -853,13 +851,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH2.Smith.2018.Fig5.jpg
 name: aldehyde dehydrogenase 1 family member A2
-ncbi_id: '450022'
+ncbi_id: '395844'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000128918
   entrez: '8854'
   mod: MIM:603687
@@ -871,23 +864,25 @@ orthologs:
   phenotypes: All phenotypic alleles (8):Chemically induced(1) Targeted, knock-out(3)
     Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 734052,399389
-  mod: '1012908'
+- ensembl: ENSXETG00000010865
+  entrez: '734052'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000053493
   entrez: '116713'
   mod: ZFIN:ZDB-GENE-011010-3
-  phenotypes: ZDB-GENE-011010-3
+  phenotypes: aldehyde metabolic process, anterior/posterior pattern specification,
+    axial mesoderm development, camera-type eye morphogenesis, central nervous system
+    myelination
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450022
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395844
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450022
+  url: https://www.ncbi.nlm.nih.gov/gene/395844
 species: Gallus gallus
 symbol: ALDH1A2
 title: ALDH1A2
@@ -918,9 +913,8 @@ title: ALDH1A2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000128918](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000128918) | [8854](https://www.ncbi.nlm.nih.gov/gene/8854) | [MIM:603687](https://omim.org/entry/603687) |  |
 | Mouse | [ENSMUSG00000013584](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000013584) | [19378](https://www.ncbi.nlm.nih.gov/gene/19378) | [MGI:107928](http://www.informatics.jax.org/marker/MGI:107928) | All phenotypic alleles (8):Chemically induced(1) Targeted, knock-out(3) Targeted, other(4) |
-| Xenopus |  | [734052](https://www.ncbi.nlm.nih.gov/gene/734052), [399389](https://www.ncbi.nlm.nih.gov/gene/399389) | [1012908](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1012908) |  |
-| Zebrafish | [ENSDARG00000053493](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053493) | [116713](https://www.ncbi.nlm.nih.gov/gene/116713) | [ZFIN:ZDB-GENE-011010-3](https://zfin.org/ZDB-GENE-011010-3) | ZDB-GENE-011010-3 |
+| Xenopus | [ENSXETG00000010865](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010865) | [734052](https://www.ncbi.nlm.nih.gov/gene/734052) |  |  |
+| Zebrafish | [ENSDARG00000053493](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053493) | [116713](https://www.ncbi.nlm.nih.gov/gene/116713) | [ZFIN:ZDB-GENE-011010-3](https://zfin.org/ZDB-GENE-011010-3) | aldehyde metabolic process, anterior/posterior pattern specification, axial mesoderm development, camera-type eye morphogenesis, central nervous system myelination |
 

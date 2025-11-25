@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419965
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234504
 forward_primer: 5’-ACGTCATGATCTTCCTGGGC-3’
-gene_id: '453085'
+gene_id: '419965'
 gene_type: protein-coding
 images:
 - caption: FMNL1 expression
@@ -82,41 +82,27 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R672.FMNL1.S24.001.jpg
 name: formin like 1
-ncbi_id: '453085'
+ncbi_id: '419965'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000003221
+  entrez: '493573'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000055713
+  entrez: '557062'
+  mod: ZFIN:ZDB-GENE-120215-83
+  phenotypes: actin cytoskeleton organization, cell migration, cellular component
+    organization, cortical actin cytoskeleton organization, cytoskeleton organization
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGCCGCTTGGCTTTCTGGAATG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453085
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419965
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453085
+  url: https://www.ncbi.nlm.nih.gov/gene/419965
 species: Gallus gallus
 symbol: FMNL1
 template_length: '722'
@@ -139,9 +125,6 @@ title: FMNL1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000003221](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000003221) | [493573](https://www.ncbi.nlm.nih.gov/gene/493573) |  |  |
+| Zebrafish | [ENSDARG00000055713](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055713) | [557062](https://www.ncbi.nlm.nih.gov/gene/557062) | [ZFIN:ZDB-GENE-120215-83](https://zfin.org/ZDB-GENE-120215-83) | actin cytoskeleton organization, cell migration, cellular component organization, cortical actin cytoskeleton organization, cytoskeleton organization |
 

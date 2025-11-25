@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420455
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418557
   X-XIV: stage XIII
-gene_id: '456159'
+gene_id: '420455'
 gene_type: protein-coding
 images:
 - caption: ZMYND11 expression
@@ -50,13 +50,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZMYND11.Trevers.2023-Fig7-8-J.jpg
 name: zinc finger MYND-type containing 11
-ncbi_id: '456159'
+ncbi_id: '420455'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000015171
   entrez: '10771'
   mod: MIM:608668
@@ -67,23 +62,25 @@ orthologs:
   mod: MGI:1913755
   phenotypes: All phenotypic alleles (1):Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000016884
   entrez: '100125090'
-  mod: '960938'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000057249
+- ensembl: ENSDARG00000114501
   entrez: '553781'
   mod: ZFIN:ZDB-GENE-050522-301
-  phenotypes: ZDB-GENE-050522-301
+  phenotypes: chromatin organization, negative regulation of BMP signaling pathway,
+    negative regulation of DNA-templated transcription, regulation of signal transduction,
+    regulation of transcription elongation by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456159
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420455
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456159
+  url: https://www.ncbi.nlm.nih.gov/gene/420455
 species: Gallus gallus
 symbol: ZMYND11
 title: ZMYND11
@@ -107,9 +104,8 @@ title: ZMYND11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000015171](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000015171) | [10771](https://www.ncbi.nlm.nih.gov/gene/10771) | [MIM:608668](https://omim.org/entry/608668) |  |
 | Mouse | [ENSMUSG00000021156](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021156) | [66505](https://www.ncbi.nlm.nih.gov/gene/66505) | [MGI:1913755](http://www.informatics.jax.org/marker/MGI:1913755) | All phenotypic alleles (1):Targeted, other(1) |
-| Xenopus |  | [100125090](https://www.ncbi.nlm.nih.gov/gene/100125090) | [960938](http://www.xenbase.org/gene/showgene.do?method=display&geneId=960938) |  |
-| Zebrafish | [ENSDARG00000057249](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057249) | [553781](https://www.ncbi.nlm.nih.gov/gene/553781) | [ZFIN:ZDB-GENE-050522-301](https://zfin.org/ZDB-GENE-050522-301) | ZDB-GENE-050522-301 |
+| Xenopus | [ENSXETG00000016884](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016884) | [100125090](https://www.ncbi.nlm.nih.gov/gene/100125090) |  |  |
+| Zebrafish | [ENSDARG00000114501](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000114501) | [553781](https://www.ncbi.nlm.nih.gov/gene/553781) | [ZFIN:ZDB-GENE-050522-301](https://zfin.org/ZDB-GENE-050522-301) | chromatin organization, negative regulation of BMP signaling pathway, negative regulation of DNA-templated transcription, regulation of signal transduction, regulation of transcription elongation by RNA polymerase II |
 

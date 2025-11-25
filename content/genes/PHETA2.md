@@ -4,7 +4,6 @@ aliases:
 - family with sequence similarity 109 member B
 cgnc_id: '9020'
 external_ids:
-  '25': stage 25
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000011898
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
@@ -119,7 +118,7 @@ orthologs:
 - ensembl: ''
   entrez: '565272'
   mod: ZFIN:ZDB-GENE-041210-163
-  phenotypes: ZDB-GENE-041210-163
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAGCTGAGCACATTCACCTCC-3’
 sources:
@@ -155,5 +154,5 @@ title: PHETA2
 | Human | [ENSG00000177096](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000177096) | [150368](https://www.ncbi.nlm.nih.gov/gene/150368) | [MIM:614240](https://omim.org/entry/614240) |  |
 | Mouse | [ENSMUSG00000049687](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049687) | [338368](https://www.ncbi.nlm.nih.gov/gene/338368) | [MGI:2443609](http://www.informatics.jax.org/marker/MGI:2443609) | All phenotypic alleles (1):Targeted, knock-out(1) |
 | Xenopus |  | [100488560](https://www.ncbi.nlm.nih.gov/gene/100488560), [431987](https://www.ncbi.nlm.nih.gov/gene/431987) | [985680](http://www.xenbase.org/gene/showgene.do?method=display&geneId=985680) |  |
-| Zebrafish |  | [565272](https://www.ncbi.nlm.nih.gov/gene/565272) | [ZFIN:ZDB-GENE-041210-163](https://zfin.org/ZDB-GENE-041210-163) | ZDB-GENE-041210-163 |
+| Zebrafish |  | [565272](https://www.ncbi.nlm.nih.gov/gene/565272) | [ZFIN:ZDB-GENE-041210-163](https://zfin.org/ZDB-GENE-041210-163) |  |
 

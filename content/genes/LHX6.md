@@ -4,7 +4,6 @@ aliases:
 - LIM homeodomain protein
 cgnc_id: '924'
 external_ids:
-  '19': stage 19
   Citation: http://www.ncbi.nlm.nih.gov/sites/entrez?term=Haworth+Sonic+Hedgehog+pharyngeal+endoderm+Fgf8
   Comments: As information provided is insufficient to verify exact sequence used
     to synthesize the probe, the sequence below was obtained from NCBI (Acc# XM_001235420.1)
@@ -15,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:772259
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001235420
-gene_id: '450633'
+gene_id: '772259'
 gene_type: protein-coding
 images:
 - caption: LHX6 expression
@@ -96,13 +95,8 @@ images:
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Lhx6.Haworth.2007.Figure2G.jpg
 name: LIM homeobox 6
-ncbi_id: '450633'
+ncbi_id: '772259'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000106852
   entrez: '26468'
   mod: MIM:608215
@@ -113,23 +107,24 @@ orthologs:
   mod: MGI:1306803
   phenotypes: All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 100493242,378636
-  mod: '493340'
+- ensembl: ENSXETG00000016325
+  entrez: '100493242'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000006896
   entrez: '445565'
   mod: ZFIN:ZDB-GENE-041025-1
-  phenotypes: ZDB-GENE-041025-1
+  phenotypes: forebrain neuron development, neuron differentiation, regulation of
+    DNA-templated transcription, regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450633
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=772259
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450633
+  url: https://www.ncbi.nlm.nih.gov/gene/772259
 species: Gallus gallus
 symbol: LHX6
 title: LHX6
@@ -157,9 +152,8 @@ Copyright © 2007 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000106852](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000106852) | [26468](https://www.ncbi.nlm.nih.gov/gene/26468) | [MIM:608215](https://omim.org/entry/608215) |  |
 | Mouse | [ENSMUSG00000026890](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000026890) | [16874](https://www.ncbi.nlm.nih.gov/gene/16874) | [MGI:1306803](http://www.informatics.jax.org/marker/MGI:1306803) | All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5) |
-| Xenopus |  | [100493242](https://www.ncbi.nlm.nih.gov/gene/100493242), [378636](https://www.ncbi.nlm.nih.gov/gene/378636) | [493340](http://www.xenbase.org/gene/showgene.do?method=display&geneId=493340) |  |
-| Zebrafish | [ENSDARG00000006896](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006896) | [445565](https://www.ncbi.nlm.nih.gov/gene/445565) | [ZFIN:ZDB-GENE-041025-1](https://zfin.org/ZDB-GENE-041025-1) | ZDB-GENE-041025-1 |
+| Xenopus | [ENSXETG00000016325](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000016325) | [100493242](https://www.ncbi.nlm.nih.gov/gene/100493242) |  |  |
+| Zebrafish | [ENSDARG00000006896](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000006896) | [445565](https://www.ncbi.nlm.nih.gov/gene/445565) | [ZFIN:ZDB-GENE-041025-1](https://zfin.org/ZDB-GENE-041025-1) | forebrain neuron development, neuron differentiation, regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

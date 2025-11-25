@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395403
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204678
-gene_id: '449186'
+gene_id: '395403'
 gene_type: protein-coding
 images:
 - caption: TRA2B expression
@@ -40,40 +40,30 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRANSFORMER2Beta.Bell.2004.png
 name: transformer 2 beta homolog (Drosophila)
-ncbi_id: '449186'
+ncbi_id: '395403'
 orthologs:
-- ensembl: ''
-  entrez: '36619'
-  mod: FBgn0003742
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000136527
   entrez: '6434'
   mod: MIM:602719
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000022858
   entrez: '20462'
   mod: MGI:106016
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 448667,398448
-  mod: '5864556'
+- ensembl: ENSXETG00000007511
+  entrez: '448667'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000002168
-  entrez: '394172'
-  mod: ZFIN:ZDB-GENE-040426-1094
-  phenotypes: ZDB-GENE-040426-1094
-  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449186
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395403
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449186
+  url: https://www.ncbi.nlm.nih.gov/gene/395403
 species: Gallus gallus
 symbol: TRA2B
 title: TRA2B
@@ -101,9 +91,7 @@ title: TRA2B
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [36619](https://www.ncbi.nlm.nih.gov/gene/36619) | FBgn0003742 |  |
-| Human |  | [6434](https://www.ncbi.nlm.nih.gov/gene/6434) | [MIM:602719](https://omim.org/entry/602719) |  |
-| Mouse |  | [20462](https://www.ncbi.nlm.nih.gov/gene/20462) | [MGI:106016](http://www.informatics.jax.org/marker/MGI:106016) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [448667](https://www.ncbi.nlm.nih.gov/gene/448667), [398448](https://www.ncbi.nlm.nih.gov/gene/398448) | [5864556](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5864556) |  |
-| Zebrafish | [ENSDARG00000002168](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002168) | [394172](https://www.ncbi.nlm.nih.gov/gene/394172) | [ZFIN:ZDB-GENE-040426-1094](https://zfin.org/ZDB-GENE-040426-1094) | ZDB-GENE-040426-1094 |
+| Human | [ENSG00000136527](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136527) | [6434](https://www.ncbi.nlm.nih.gov/gene/6434) | [MIM:602719](https://omim.org/entry/602719) |  |
+| Mouse | [ENSMUSG00000022858](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022858) | [20462](https://www.ncbi.nlm.nih.gov/gene/20462) | [MGI:106016](http://www.informatics.jax.org/marker/MGI:106016) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
+| Xenopus | [ENSXETG00000007511](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007511) | [448667](https://www.ncbi.nlm.nih.gov/gene/448667) |  |  |
 

@@ -11,7 +11,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395268
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001193669
-gene_id: '461615'
+gene_id: '395268'
 gene_type: protein-coding
 images:
 - caption: SSB expression
@@ -59,13 +59,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/K48.56.23.jpg
 name: Sjogren syndrome antigen B
-ncbi_id: '461615'
+ncbi_id: '395268'
 orthologs:
-- ensembl: ''
-  entrez: '35305'
-  mod: FBgn0011638
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000138385
   entrez: '6741'
   mod: MIM:109090
@@ -76,23 +71,23 @@ orthologs:
   mod: MGI:98423
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: 407847,379324,394333
-  mod: '491373'
+- ensembl: ENSXETG00000025402
+  entrez: '407847'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000029252
   entrez: '321504'
   mod: ZFIN:ZDB-GENE-030131-223
-  phenotypes: ZDB-GENE-030131-223
+  phenotypes: RNA processing, positive regulation of translation, tRNA processing
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461615
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395268
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461615
+  url: https://www.ncbi.nlm.nih.gov/gene/395268
 species: Gallus gallus
 symbol: SSB
 title: SSB
@@ -116,9 +111,8 @@ title: SSB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [35305](https://www.ncbi.nlm.nih.gov/gene/35305) | FBgn0011638 |  |
 | Human | [ENSG00000138385](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000138385) | [6741](https://www.ncbi.nlm.nih.gov/gene/6741) | [MIM:109090](https://omim.org/entry/109090) |  |
 | Mouse | [ENSMUSG00000068882](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000068882) | [20823](https://www.ncbi.nlm.nih.gov/gene/20823) | [MGI:98423](http://www.informatics.jax.org/marker/MGI:98423) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [407847](https://www.ncbi.nlm.nih.gov/gene/407847), [379324](https://www.ncbi.nlm.nih.gov/gene/379324), [394333](https://www.ncbi.nlm.nih.gov/gene/394333) | [491373](http://www.xenbase.org/gene/showgene.do?method=display&geneId=491373) |  |
-| Zebrafish | [ENSDARG00000029252](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029252) | [321504](https://www.ncbi.nlm.nih.gov/gene/321504) | [ZFIN:ZDB-GENE-030131-223](https://zfin.org/ZDB-GENE-030131-223) | ZDB-GENE-030131-223 |
+| Xenopus | [ENSXETG00000025402](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025402) | [407847](https://www.ncbi.nlm.nih.gov/gene/407847) |  |  |
+| Zebrafish | [ENSDARG00000029252](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000029252) | [321504](https://www.ncbi.nlm.nih.gov/gene/321504) | [ZFIN:ZDB-GENE-030131-223](https://zfin.org/ZDB-GENE-030131-223) | RNA processing, positive regulation of translation, tRNA processing |
 

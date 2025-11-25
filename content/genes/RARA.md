@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395213
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003708
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204536
-gene_id: '461785'
+gene_id: '395213'
 gene_type: protein-coding
 images:
 - caption: RARA expression
@@ -260,37 +260,33 @@ images:
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARGAMMA.Bayha.2009.2E.jpg
 name: retinoic acid receptor alpha
-ncbi_id: '461785'
+ncbi_id: '395213'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000131759
+  entrez: '5914'
+  mod: MIM:180240
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000037992
+  entrez: '19401'
+  mod: MGI:97856
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000024390
+  entrez: '100038052'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000034893
+  entrez: '555364'
+  mod: ZFIN:ZDB-GENE-980526-72
+  phenotypes: cell differentiation, heart development, liver development, midbrain-hindbrain
+    boundary development, negative regulation of transcription by RNA polymerase II
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461785
+  url: https://www.ncbi.nlm.nih.gov/gene/395213
 species: Gallus gallus
 symbol: RARA
 title: RARA
@@ -319,9 +315,8 @@ title: RARA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000131759](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000131759) | [5914](https://www.ncbi.nlm.nih.gov/gene/5914) | [MIM:180240](https://omim.org/entry/180240) |  |
+| Mouse | [ENSMUSG00000037992](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000037992) | [19401](https://www.ncbi.nlm.nih.gov/gene/19401) | [MGI:97856](http://www.informatics.jax.org/marker/MGI:97856) |  |
+| Xenopus | [ENSXETG00000024390](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000024390) | [100038052](https://www.ncbi.nlm.nih.gov/gene/100038052) |  |  |
+| Zebrafish | [ENSDARG00000034893](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000034893) | [555364](https://www.ncbi.nlm.nih.gov/gene/555364) | [ZFIN:ZDB-GENE-980526-72](https://zfin.org/ZDB-GENE-980526-72) | cell differentiation, heart development, liver development, midbrain-hindbrain boundary development, negative regulation of transcription by RNA polymerase II |
 

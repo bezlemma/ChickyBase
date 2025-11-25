@@ -4,7 +4,6 @@ aliases:
 - cell division cycle 45 homolog
 cgnc_id: '1124'
 external_ids:
-  '25': stage 25
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0026143
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/31052
@@ -13,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416776
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415070
 forward_primer: 5'-ATGAAAGCGATGGCTCGGAACC-3'
-gene_id: '462546'
+gene_id: '416776'
 gene_type: protein-coding
 images:
 - caption: CDC45 expression
@@ -155,13 +154,8 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R680.CDC45.S25.001.jpg
 name: cell division cycle 45
-ncbi_id: '462546'
+ncbi_id: '416776'
 orthologs:
-- ensembl: ''
-  entrez: '31052'
-  mod: FBgn0026143
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000093009
   entrez: '8318'
   mod: MIM:603465
@@ -172,24 +166,26 @@ orthologs:
   mod: MGI:1338073
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 779545,398081
-  mod: '976057'
+- ensembl: ENSXETG00000018602
+  entrez: '779545'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000043720
   entrez: '406695'
   mod: ZFIN:ZDB-GENE-040426-2710
-  phenotypes: ZDB-GENE-040426-2710
+  phenotypes: DNA replication, DNA replication initiation, cell division, double-strand
+    break repair via break-induced replication, mitotic DNA replication preinitiation
+    complex assembly
   species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTTCTGTCTCTGGAGGAATCCCC-3'
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462546
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416776
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462546
+  url: https://www.ncbi.nlm.nih.gov/gene/416776
 species: Gallus gallus
 symbol: CDC45
 template_length: '1106'
@@ -214,9 +210,8 @@ title: CDC45
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [31052](https://www.ncbi.nlm.nih.gov/gene/31052) | FBgn0026143 |  |
 | Human | [ENSG00000093009](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000093009) | [8318](https://www.ncbi.nlm.nih.gov/gene/8318) | [MIM:603465](https://omim.org/entry/603465) |  |
 | Mouse | [ENSMUSG00000000028](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000000028) | [12544](https://www.ncbi.nlm.nih.gov/gene/12544) | [MGI:1338073](http://www.informatics.jax.org/marker/MGI:1338073) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [779545](https://www.ncbi.nlm.nih.gov/gene/779545), [398081](https://www.ncbi.nlm.nih.gov/gene/398081) | [976057](http://www.xenbase.org/gene/showgene.do?method=display&geneId=976057) |  |
-| Zebrafish | [ENSDARG00000043720](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043720) | [406695](https://www.ncbi.nlm.nih.gov/gene/406695) | [ZFIN:ZDB-GENE-040426-2710](https://zfin.org/ZDB-GENE-040426-2710) | ZDB-GENE-040426-2710 |
+| Xenopus | [ENSXETG00000018602](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000018602) | [779545](https://www.ncbi.nlm.nih.gov/gene/779545) |  |  |
+| Zebrafish | [ENSDARG00000043720](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043720) | [406695](https://www.ncbi.nlm.nih.gov/gene/406695) | [ZFIN:ZDB-GENE-040426-2710](https://zfin.org/ZDB-GENE-040426-2710) | DNA replication, DNA replication initiation, cell division, double-strand break repair via break-induced replication, mitotic DNA replication preinitiation complex assembly |
 

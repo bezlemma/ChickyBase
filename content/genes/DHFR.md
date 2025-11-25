@@ -18,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427317
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0050661
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006584
-gene_id: '461533'
+gene_id: '427317'
 gene_type: protein-coding
 images:
 - caption: DHFR expression
@@ -64,13 +64,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F5.dhfr.png
 name: dihydrofolate reductase
-ncbi_id: '461533'
+ncbi_id: '427317'
 orthologs:
-- ensembl: ''
-  entrez: '42003'
-  mod: FBgn0004087
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000228716
   entrez: '1719'
   mod: MIM:126060
@@ -81,20 +76,21 @@ orthologs:
   mod: MGI:94890
   phenotypes: All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)
   species: Mouse
-- ensembl: ''
-  entrez: 733465,495375
-  mod: '975266'
+- ensembl: ENSXETG00000022939
+  entrez: '100486206'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000004251
   entrez: '81882'
   mod: ZFIN:ZDB-GENE-010406-5
-  phenotypes: ZDB-GENE-010406-5
+  phenotypes: bulbus arteriosus development, dihydrofolate metabolic process, embryonic
+    morphogenesis, folic acid metabolic process, heart contraction
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461533
+  url: https://www.ncbi.nlm.nih.gov/gene/427317
 species: Gallus gallus
 symbol: DHFR
 title: DHFR
@@ -124,9 +120,8 @@ title: DHFR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [42003](https://www.ncbi.nlm.nih.gov/gene/42003) | FBgn0004087 |  |
 | Human | [ENSG00000228716](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000228716) | [1719](https://www.ncbi.nlm.nih.gov/gene/1719) | [MIM:126060](https://omim.org/entry/126060) | MIM:613839 |
 | Mouse | [ENSMUSG00000021707](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021707) | [13361](https://www.ncbi.nlm.nih.gov/gene/13361) | [MGI:94890](http://www.informatics.jax.org/marker/MGI:94890) | All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4) |
-| Xenopus |  | [733465](https://www.ncbi.nlm.nih.gov/gene/733465), [495375](https://www.ncbi.nlm.nih.gov/gene/495375) | [975266](http://www.xenbase.org/gene/showgene.do?method=display&geneId=975266) |  |
-| Zebrafish | [ENSDARG00000004251](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004251) | [81882](https://www.ncbi.nlm.nih.gov/gene/81882) | [ZFIN:ZDB-GENE-010406-5](https://zfin.org/ZDB-GENE-010406-5) | ZDB-GENE-010406-5 |
+| Xenopus | [ENSXETG00000022939](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000022939) | [100486206](https://www.ncbi.nlm.nih.gov/gene/100486206) |  |  |
+| Zebrafish | [ENSDARG00000004251](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004251) | [81882](https://www.ncbi.nlm.nih.gov/gene/81882) | [ZFIN:ZDB-GENE-010406-5](https://zfin.org/ZDB-GENE-010406-5) | bulbus arteriosus development, dihydrofolate metabolic process, embryonic morphogenesis, folic acid metabolic process, heart contraction |
 

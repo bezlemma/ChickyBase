@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419073
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_417264
 forward_primer: AAGTGACTGCCCGAGACAAAGACC
-gene_id: '463108'
+gene_id: '419073'
 gene_type: protein-coding
 images:
 - caption: DCHS1 expression
@@ -168,13 +168,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R470.DCHS1.S27V.001.jpg
 name: dachsous cadherin-related 1
-ncbi_id: '463108'
+ncbi_id: '419073'
 orthologs:
-- ensembl: ''
-  entrez: '33245'
-  mod: FBgn0000497
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000166341
   entrez: '8642'
   mod: MIM:603057
@@ -185,24 +180,20 @@ orthologs:
   mod: MGI:2685011
   phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: '100494036'
-  mod: '6049396'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000079850,ENSDARG00000070025
-  entrez: 553300,100334632
-  mod: ZFIN:ZDB-GENE-050208-41,ZFIN:ZDB-GENE-120410-3
-  phenotypes: ZDB-GENE-050208-41,ZDB-GENE-120410-3
+- ensembl: ENSDARG00000070025
+  entrez: '100334632'
+  mod: ZFIN:ZDB-GENE-120410-3
+  phenotypes: axonogenesis, cell adhesion, cell migration, cell-cell adhesion, cell-cell
+    adhesion mediated by cadherin
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGATCCCCCGAGGAGATGGAATAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=463108
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419073
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463108
+  url: https://www.ncbi.nlm.nih.gov/gene/419073
 species: Gallus gallus
 symbol: DCHS1
 template_length: '1022'
@@ -226,9 +217,7 @@ title: DCHS1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33245](https://www.ncbi.nlm.nih.gov/gene/33245) | FBgn0000497 |  |
 | Human | [ENSG00000166341](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000166341) | [8642](https://www.ncbi.nlm.nih.gov/gene/8642) | [MIM:603057](https://omim.org/entry/603057) |  |
 | Mouse | [ENSMUSG00000036862](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036862) | [233651](https://www.ncbi.nlm.nih.gov/gene/233651) | [MGI:2685011](http://www.informatics.jax.org/marker/MGI:2685011) | All phenotypic alleles (1):Targeted, knock-out(1) |
-| Xenopus |  | [100494036](https://www.ncbi.nlm.nih.gov/gene/100494036) | [6049396](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6049396) |  |
-| Zebrafish | [ENSDARG00000079850](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000079850), [ENSDARG00000070025](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070025) | [553300](https://www.ncbi.nlm.nih.gov/gene/553300), [100334632](https://www.ncbi.nlm.nih.gov/gene/100334632) | [ZFIN:ZDB-GENE-050208-41](https://zfin.org/ZDB-GENE-050208-41), [ZFIN:ZDB-GENE-120410-3](https://zfin.org/ZDB-GENE-120410-3) | ZDB-GENE-050208-41,ZDB-GENE-120410-3 |
+| Zebrafish | [ENSDARG00000070025](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070025) | [100334632](https://www.ncbi.nlm.nih.gov/gene/100334632) | [ZFIN:ZDB-GENE-120410-3](https://zfin.org/ZDB-GENE-120410-3) | axonogenesis, cell adhesion, cell migration, cell-cell adhesion, cell-cell adhesion mediated by cadherin |
 

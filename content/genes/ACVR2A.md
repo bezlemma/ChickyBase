@@ -8,7 +8,6 @@ aliases:
 - activin receptor type 2A
 cgnc_id: '9451'
 external_ids:
-  '4': stage 4
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0003169
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030509
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0009986
@@ -24,7 +23,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005524
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205367
 forward_primer: TCACACAGCCAACTTCCAATCC
-gene_id: '461860'
+gene_id: '396324'
 gene_type: protein-coding
 images:
 - caption: ACVR2A expression
@@ -287,13 +286,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ActRIIa.Garcia-Castro.2000
     for figure 1, panel F.png
 name: activin A receptor type 2A
-ncbi_id: '461860'
+ncbi_id: '396324'
 orthologs:
-- ensembl: ''
-  entrez: '41772'
-  mod: FBgn0003169
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000121989
   entrez: '92'
   mod: MIM:102581
@@ -304,24 +298,26 @@ orthologs:
   mod: MGI:102806
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(4)
   species: Mouse
-- ensembl: ''
-  entrez: 100216172,399283
-  mod: '484011'
+- ensembl: ENSXETG00000021720
+  entrez: '100216172'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000011188
-  entrez: 553359,100331014
-  mod: ZFIN:ZDB-GENE-980526-227,ZFIN:ZDB-GENE-120215-23
-  phenotypes: ZDB-GENE-980526-227,ZDB-GENE-120215-23
+  entrez: '553359'
+  mod: ZFIN:ZDB-GENE-980526-227
+  phenotypes: activin receptor signaling pathway, cartilage development, cell communication,
+    cell surface receptor protein serine/threonine kinase signaling pathway, cellular
+    response to growth factor stimulus
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCAGAATGCTTTTGCCAACACTCTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461860
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=396324
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461860
+  url: https://www.ncbi.nlm.nih.gov/gene/396324
 species: Gallus gallus
 symbol: ACVR2A
 template_length: '984'
@@ -353,9 +349,8 @@ title: ACVR2A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [41772](https://www.ncbi.nlm.nih.gov/gene/41772) | FBgn0003169 |  |
 | Human | [ENSG00000121989](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000121989) | [92](https://www.ncbi.nlm.nih.gov/gene/92) | [MIM:102581](https://omim.org/entry/102581) |  |
 | Mouse | [ENSMUSG00000052155](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000052155) | [11480](https://www.ncbi.nlm.nih.gov/gene/11480) | [MGI:102806](http://www.informatics.jax.org/marker/MGI:102806) | All phenotypic alleles (4):Targeted, knock-out(4) |
-| Xenopus |  | [100216172](https://www.ncbi.nlm.nih.gov/gene/100216172), [399283](https://www.ncbi.nlm.nih.gov/gene/399283) | [484011](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484011) |  |
-| Zebrafish | [ENSDARG00000011188](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011188) | [553359](https://www.ncbi.nlm.nih.gov/gene/553359), [100331014](https://www.ncbi.nlm.nih.gov/gene/100331014) | [ZFIN:ZDB-GENE-980526-227](https://zfin.org/ZDB-GENE-980526-227), [ZFIN:ZDB-GENE-120215-23](https://zfin.org/ZDB-GENE-120215-23) | ZDB-GENE-980526-227,ZDB-GENE-120215-23 |
+| Xenopus | [ENSXETG00000021720](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021720) | [100216172](https://www.ncbi.nlm.nih.gov/gene/100216172) |  |  |
+| Zebrafish | [ENSDARG00000011188](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000011188) | [553359](https://www.ncbi.nlm.nih.gov/gene/553359) | [ZFIN:ZDB-GENE-980526-227](https://zfin.org/ZDB-GENE-980526-227) | activin receptor signaling pathway, cartilage development, cell communication, cell surface receptor protein serine/threonine kinase signaling pathway, cellular response to growth factor stimulus |
 

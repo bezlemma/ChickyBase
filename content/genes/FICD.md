@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416889
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415180
 forward_primer: 5’-TGAGGTGATTGGCATGCATG-3’
-gene_id: '461834'
+gene_id: '416889'
 gene_type: protein-coding
 images:
 - caption: FICD expression
@@ -60,16 +60,11 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R668.FICD.S26.001.jpg
 name: FIC domain containing
-ncbi_id: '461834'
+ncbi_id: '416889'
 orthologs:
-- ensembl: ''
-  entrez: '33897'
-  mod: FBgn0263278
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000198855
   entrez: '11153'
-  mod: ''
+  mod: MIM:620875
   phenotypes: ''
   species: Human
 - ensembl: ENSMUSG00000053334
@@ -77,24 +72,24 @@ orthologs:
   mod: MGI:1098550
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000017652
   entrez: '100216031'
-  mod: '992752'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000035595
   entrez: '334648'
   mod: ZFIN:ZDB-GENE-030131-6588
-  phenotypes: ZDB-GENE-030131-6588
+  phenotypes: protein adenylylation
   species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGCCTCGTTGGCCACTTCTAAG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461834
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416889
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461834
+  url: https://www.ncbi.nlm.nih.gov/gene/416889
 species: Gallus gallus
 symbol: FICD
 template_length: '440'
@@ -119,9 +114,8 @@ title: FICD
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [33897](https://www.ncbi.nlm.nih.gov/gene/33897) | FBgn0263278 |  |
-| Human | [ENSG00000198855](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198855) | [11153](https://www.ncbi.nlm.nih.gov/gene/11153) |  |  |
+| Human | [ENSG00000198855](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198855) | [11153](https://www.ncbi.nlm.nih.gov/gene/11153) | [MIM:620875](https://omim.org/entry/620875) |  |
 | Mouse | [ENSMUSG00000053334](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000053334) | [231630](https://www.ncbi.nlm.nih.gov/gene/231630) | [MGI:1098550](http://www.informatics.jax.org/marker/MGI:1098550) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100216031](https://www.ncbi.nlm.nih.gov/gene/100216031) | [992752](http://www.xenbase.org/gene/showgene.do?method=display&geneId=992752) |  |
-| Zebrafish | [ENSDARG00000035595](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035595) | [334648](https://www.ncbi.nlm.nih.gov/gene/334648) | [ZFIN:ZDB-GENE-030131-6588](https://zfin.org/ZDB-GENE-030131-6588) | ZDB-GENE-030131-6588 |
+| Xenopus | [ENSXETG00000017652](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017652) | [100216031](https://www.ncbi.nlm.nih.gov/gene/100216031) |  |  |
+| Zebrafish | [ENSDARG00000035595](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035595) | [334648](https://www.ncbi.nlm.nih.gov/gene/334648) | [ZFIN:ZDB-GENE-030131-6588](https://zfin.org/ZDB-GENE-030131-6588) | protein adenylylation |
 

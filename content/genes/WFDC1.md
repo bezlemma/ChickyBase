@@ -16,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395238
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004867
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204554
-gene_id: '461454'
+gene_id: '395238'
 gene_type: protein-coding
 images:
 - caption: WFDC1 expression
@@ -52,37 +52,22 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WFDC1.Trimarchi.2009
     for figure 5, panel W.JPG
 name: WAP four-disulfide core domain 1
-ncbi_id: '461454'
+ncbi_id: '395238'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000103175
-  entrez: '58189'
-  mod: MIM:605322
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: '67866'
-  mod: MGI:1915116
-  phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
-  species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000013283
   entrez: '100497322'
-  mod: '1011812'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000058003
   entrez: '560860'
   mod: ZFIN:ZDB-GENE-070112-352
-  phenotypes: ZDB-GENE-070112-352
+  phenotypes: regulation of cell growth
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461454
+  url: https://www.ncbi.nlm.nih.gov/gene/395238
 species: Gallus gallus
 symbol: WFDC1
 title: WFDC1
@@ -110,9 +95,6 @@ title: WFDC1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human | [ENSG00000103175](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000103175) | [58189](https://www.ncbi.nlm.nih.gov/gene/58189) | [MIM:605322](https://omim.org/entry/605322) |  |
-| Mouse |  | [67866](https://www.ncbi.nlm.nih.gov/gene/67866) | [MGI:1915116](http://www.informatics.jax.org/marker/MGI:1915116) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100497322](https://www.ncbi.nlm.nih.gov/gene/100497322) | [1011812](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1011812) |  |
-| Zebrafish | [ENSDARG00000058003](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058003) | [560860](https://www.ncbi.nlm.nih.gov/gene/560860) | [ZFIN:ZDB-GENE-070112-352](https://zfin.org/ZDB-GENE-070112-352) | ZDB-GENE-070112-352 |
+| Xenopus | [ENSXETG00000013283](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000013283) | [100497322](https://www.ncbi.nlm.nih.gov/gene/100497322) |  |  |
+| Zebrafish | [ENSDARG00000058003](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000058003) | [560860](https://www.ncbi.nlm.nih.gov/gene/560860) | [ZFIN:ZDB-GENE-070112-352](https://zfin.org/ZDB-GENE-070112-352) | regulation of cell growth |
 

@@ -17,7 +17,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373919
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204128
 forward_primer: GCTGCGAAATGCTTCTGCTG
-gene_id: '459368'
+gene_id: '373919'
 gene_type: protein-coding
 images:
 - caption: RUNX2 expression
@@ -134,13 +134,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R490.RUNX2.S26V.001.jpg
 name: runt related transcription factor 2
-ncbi_id: '459368'
+ncbi_id: '373919'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000124813
   entrez: '860'
   mod: MIM:600211
@@ -152,24 +147,26 @@ orthologs:
   phenotypes: All phenotypic alleles (7):Transposon induced(1) Targeted, knock-out(3)
     Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 100189546,100037059
-  mod: '482020'
+- ensembl: ENSXETG00000001397
+  entrez: '100189546'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000040261
-  entrez: 405784,405788
-  mod: ZFIN:ZDB-GENE-040629-3,ZFIN:ZDB-GENE-040629-4
-  phenotypes: ZDB-GENE-040629-3,ZDB-GENE-040629-4
+  entrez: '405784'
+  mod: ZFIN:ZDB-GENE-040629-3
+  phenotypes: anatomical structure morphogenesis, cell surface receptor protein serine/threonine
+    kinase signaling pathway, chondrocyte differentiation, epithelium development,
+    hemopoiesis
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTAGGTGTGGTAGTGAGTGGTTGCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459368
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=373919
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459368
+  url: https://www.ncbi.nlm.nih.gov/gene/373919
 species: Gallus gallus
 symbol: RUNX2
 template_length: '696'
@@ -198,9 +195,8 @@ Copyright © 2007 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000124813](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000124813) | [860](https://www.ncbi.nlm.nih.gov/gene/860) | [MIM:600211](https://omim.org/entry/600211) | MIM:119600 |
 | Mouse | [ENSMUSG00000039153](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039153) | [12393](https://www.ncbi.nlm.nih.gov/gene/12393) | [MGI:99829](http://www.informatics.jax.org/marker/MGI:99829) | All phenotypic alleles (7):Transposon induced(1) Targeted, knock-out(3) Targeted, other(3) |
-| Xenopus |  | [100189546](https://www.ncbi.nlm.nih.gov/gene/100189546), [100037059](https://www.ncbi.nlm.nih.gov/gene/100037059) | [482020](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482020) |  |
-| Zebrafish | [ENSDARG00000040261](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040261) | [405784](https://www.ncbi.nlm.nih.gov/gene/405784), [405788](https://www.ncbi.nlm.nih.gov/gene/405788) | [ZFIN:ZDB-GENE-040629-3](https://zfin.org/ZDB-GENE-040629-3), [ZFIN:ZDB-GENE-040629-4](https://zfin.org/ZDB-GENE-040629-4) | ZDB-GENE-040629-3,ZDB-GENE-040629-4 |
+| Xenopus | [ENSXETG00000001397](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001397) | [100189546](https://www.ncbi.nlm.nih.gov/gene/100189546) |  |  |
+| Zebrafish | [ENSDARG00000040261](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040261) | [405784](https://www.ncbi.nlm.nih.gov/gene/405784) | [ZFIN:ZDB-GENE-040629-3](https://zfin.org/ZDB-GENE-040629-3) | anatomical structure morphogenesis, cell surface receptor protein serine/threonine kinase signaling pathway, chondrocyte differentiation, epithelium development, hemopoiesis |
 

@@ -14,7 +14,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004963
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205079
 forward_primer: 5’-ATCACTGGGAACACCACCG-3’
-gene_id: '450537'
+gene_id: '395962'
 gene_type: protein-coding
 images:
 - caption: FSHR expression
@@ -60,13 +60,8 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R715.FSHR.S26.001.jpg
 name: follicle stimulating hormone receptor
-ncbi_id: '450537'
+ncbi_id: '395962'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000170820
   entrez: '2492'
   mod: MIM:136435
@@ -78,23 +73,25 @@ orthologs:
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1)
   species: Mouse
 - ensembl: ''
-  entrez: 100493647,378625
-  mod: '986646'
+  entrez: '100493647'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000071494
+- ensembl: ENSDARG00000112820
   entrez: '195820'
   mod: ZFIN:ZDB-GENE-020423-5
-  phenotypes: ZDB-GENE-020423-5
+  phenotypes: G protein-coupled receptor signaling pathway, adenylate cyclase-activating
+    G protein-coupled receptor signaling pathway, female gonad development, follicle-stimulating
+    hormone signaling pathway, hormone-mediated signaling pathway
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTGGGCTTGCATTTCACAGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450537
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395962
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450537
+  url: https://www.ncbi.nlm.nih.gov/gene/395962
 species: Gallus gallus
 symbol: FSHR
 template_length: '827'
@@ -120,9 +117,8 @@ title: FSHR
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000170820](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000170820) | [2492](https://www.ncbi.nlm.nih.gov/gene/2492) | [MIM:136435](https://omim.org/entry/136435) | MIM:233300 |
 | Mouse | [ENSMUSG00000032937](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032937) | [14309](https://www.ncbi.nlm.nih.gov/gene/14309) | [MGI:95583](http://www.informatics.jax.org/marker/MGI:95583) | All phenotypic alleles (4):Targeted, knock-out(3) Targeted, other(1) |
-| Xenopus |  | [100493647](https://www.ncbi.nlm.nih.gov/gene/100493647), [378625](https://www.ncbi.nlm.nih.gov/gene/378625) | [986646](http://www.xenbase.org/gene/showgene.do?method=display&geneId=986646) |  |
-| Zebrafish | [ENSDARG00000071494](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000071494) | [195820](https://www.ncbi.nlm.nih.gov/gene/195820) | [ZFIN:ZDB-GENE-020423-5](https://zfin.org/ZDB-GENE-020423-5) | ZDB-GENE-020423-5 |
+| Xenopus |  | [100493647](https://www.ncbi.nlm.nih.gov/gene/100493647) |  |  |
+| Zebrafish | [ENSDARG00000112820](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000112820) | [195820](https://www.ncbi.nlm.nih.gov/gene/195820) | [ZFIN:ZDB-GENE-020423-5](https://zfin.org/ZDB-GENE-020423-5) | G protein-coupled receptor signaling pathway, adenylate cyclase-activating G protein-coupled receptor signaling pathway, female gonad development, follicle-stimulating hormone signaling pathway, hormone-mediated signaling pathway |
 

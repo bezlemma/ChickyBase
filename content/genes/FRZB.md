@@ -4,9 +4,6 @@ aliases:
 - frizzled-related protein 1
 cgnc_id: '1994'
 external_ids:
-  '13': stage 13stage 13
-  '19': stage 19stage 19stage 19
-  '25': stage 25
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0016055
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Tzahor+2003+Wnt+BMP
@@ -22,7 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0030165
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204772
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAGGCACTGGCATTGAACGC
-gene_id: '449565'
+gene_id: '395545'
 gene_type: protein-coding
 images:
 - caption: FRZB expression
@@ -862,13 +859,8 @@ images:
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig7.Tzahor.Allimages-4.jpg
 name: frizzled related protein
-ncbi_id: '449565'
+ncbi_id: '395545'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000162998
   entrez: '2487'
   mod: MIM:605083
@@ -879,24 +871,25 @@ orthologs:
   mod: MGI:892032
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 448021,734982
-  mod: '481352'
+- ensembl: ENSXETG00000001339
+  entrez: '448021'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000018383
   entrez: '30119'
   mod: ZFIN:ZDB-GENE-990715-1
-  phenotypes: ZDB-GENE-990715-1
+  phenotypes: Wnt signaling pathway, canonical Wnt signaling pathway, cell differentiation,
+    chondrocyte proliferation, negative regulation of canonical Wnt signaling pathway
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGTCCTGACCTTTCCACACCTCAC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449565
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395545
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449565
+  url: https://www.ncbi.nlm.nih.gov/gene/395545
 species: Gallus gallus
 symbol: FRZB
 template_length: '741'
@@ -926,9 +919,8 @@ title: FRZB
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000162998](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000162998) | [2487](https://www.ncbi.nlm.nih.gov/gene/2487) | [MIM:605083](https://omim.org/entry/605083) | MIM:165720 |
 | Mouse | [ENSMUSG00000027004](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027004) | [20378](https://www.ncbi.nlm.nih.gov/gene/20378) | [MGI:892032](http://www.informatics.jax.org/marker/MGI:892032) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [448021](https://www.ncbi.nlm.nih.gov/gene/448021), [734982](https://www.ncbi.nlm.nih.gov/gene/734982) | [481352](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481352) |  |
-| Zebrafish | [ENSDARG00000018383](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018383) | [30119](https://www.ncbi.nlm.nih.gov/gene/30119) | [ZFIN:ZDB-GENE-990715-1](https://zfin.org/ZDB-GENE-990715-1) | ZDB-GENE-990715-1 |
+| Xenopus | [ENSXETG00000001339](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000001339) | [448021](https://www.ncbi.nlm.nih.gov/gene/448021) |  |  |
+| Zebrafish | [ENSDARG00000018383](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000018383) | [30119](https://www.ncbi.nlm.nih.gov/gene/30119) | [ZFIN:ZDB-GENE-990715-1](https://zfin.org/ZDB-GENE-990715-1) | Wnt signaling pathway, canonical Wnt signaling pathway, cell differentiation, chondrocyte proliferation, negative regulation of canonical Wnt signaling pathway |
 

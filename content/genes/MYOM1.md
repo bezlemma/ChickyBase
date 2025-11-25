@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395805
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204959
-gene_id: '450002'
+gene_id: '395805'
 gene_type: protein-coding
 images:
 - caption: MYOM1 expression
@@ -57,37 +57,17 @@ images:
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYOM1.Darnell.2010.Fig.3.png
 name: myomesin 1
-ncbi_id: '450002'
+ncbi_id: '395805'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: '100101675'
-  mod: '923325'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000104836
   entrez: '100144770'
   mod: ZFIN:ZDB-GENE-080416-2
-  phenotypes: ZDB-GENE-080416-2
+  phenotypes: sarcomere organization
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450002
+  url: https://www.ncbi.nlm.nih.gov/gene/395805
 species: Gallus gallus
 symbol: MYOM1
 title: MYOM1
@@ -113,9 +93,5 @@ title: MYOM1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100101675](https://www.ncbi.nlm.nih.gov/gene/100101675) | [923325](http://www.xenbase.org/gene/showgene.do?method=display&geneId=923325) |  |
-| Zebrafish |  | [100144770](https://www.ncbi.nlm.nih.gov/gene/100144770) | [ZFIN:ZDB-GENE-080416-2](https://zfin.org/ZDB-GENE-080416-2) | ZDB-GENE-080416-2 |
+| Zebrafish | [ENSDARG00000104836](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104836) | [100144770](https://www.ncbi.nlm.nih.gov/gene/100144770) | [ZFIN:ZDB-GENE-080416-2](https://zfin.org/ZDB-GENE-080416-2) | sarcomere organization |
 

@@ -9,7 +9,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421597
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001199411
 forward_primer: 5’-TGTGGGCATTGCACATGTTG-3’
-gene_id: '458147'
+gene_id: '421597'
 gene_type: protein-coding
 images:
 - caption: HIPK3 expression
@@ -121,13 +121,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R653.HIPK3.S27V.001.jpg
 name: homeodomain interacting protein kinase 3
-ncbi_id: '458147'
+ncbi_id: '421597'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000110422
   entrez: '10114'
   mod: MIM:604424
@@ -138,24 +133,24 @@ orthologs:
   mod: MGI:1314882
   phenotypes: All phenotypic alleles (1):Gene trapped(1)
   species: Mouse
-- ensembl: ''
-  entrez: 780181,495703
-  mod: '1010052'
+- ensembl: ENSXETG00000017947
+  entrez: '780181'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000062082,ENSDARG00000062469
-  entrez: 569156,564413
-  mod: ZFIN:ZDB-GENE-030131-82,ZFIN:ZDB-GENE-061207-54
-  phenotypes: ZDB-GENE-030131-82,ZDB-GENE-061207-54
+- ensembl: ENSDARG00000062082
+  entrez: '569156'
+  mod: ZFIN:ZDB-GENE-030131-82
+  phenotypes: phosphorylation, protein phosphorylation
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGTGGAAGGGAGAAAGCGTGAC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458147
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421597
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458147
+  url: https://www.ncbi.nlm.nih.gov/gene/421597
 species: Gallus gallus
 symbol: HIPK3
 template_length: '979'
@@ -178,9 +173,8 @@ title: HIPK3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000110422](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000110422) | [10114](https://www.ncbi.nlm.nih.gov/gene/10114) | [MIM:604424](https://omim.org/entry/604424) |  |
 | Mouse | [ENSMUSG00000027177](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000027177) | [15259](https://www.ncbi.nlm.nih.gov/gene/15259) | [MGI:1314882](http://www.informatics.jax.org/marker/MGI:1314882) | All phenotypic alleles (1):Gene trapped(1) |
-| Xenopus |  | [780181](https://www.ncbi.nlm.nih.gov/gene/780181), [495703](https://www.ncbi.nlm.nih.gov/gene/495703) | [1010052](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1010052) |  |
-| Zebrafish | [ENSDARG00000062082](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062082), [ENSDARG00000062469](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062469) | [569156](https://www.ncbi.nlm.nih.gov/gene/569156), [564413](https://www.ncbi.nlm.nih.gov/gene/564413) | [ZFIN:ZDB-GENE-030131-82](https://zfin.org/ZDB-GENE-030131-82), [ZFIN:ZDB-GENE-061207-54](https://zfin.org/ZDB-GENE-061207-54) | ZDB-GENE-030131-82,ZDB-GENE-061207-54 |
+| Xenopus | [ENSXETG00000017947](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017947) | [780181](https://www.ncbi.nlm.nih.gov/gene/780181) |  |  |
+| Zebrafish | [ENSDARG00000062082](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000062082) | [569156](https://www.ncbi.nlm.nih.gov/gene/569156) | [ZFIN:ZDB-GENE-030131-82](https://zfin.org/ZDB-GENE-030131-82) | phosphorylation, protein phosphorylation |
 

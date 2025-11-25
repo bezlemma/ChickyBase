@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:428208
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425767
   X-XIV: stage XIII
-gene_id: '459021'
+gene_id: '428208'
 gene_type: protein-coding
 images:
 - caption: HIVEP3 expression
@@ -50,13 +50,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HIVEP3.Travers.2023-Fig7-2-C.jpg
 name: human immunodeficiency virus type I enhancer binding protein 3
-ncbi_id: '459021'
+ncbi_id: '428208'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000127124
   entrez: '59269'
   mod: MIM:606649
@@ -67,23 +62,24 @@ orthologs:
   mod: MGI:106589
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100489803,432339
-  mod: '482556'
+- ensembl: ENSXETG00000035857
+  entrez: '100489803'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000037154
   entrez: '568037'
-  mod: ZFIN:ZDB-GENE-081029-2,ZFIN:ZDB-GENE-100922-42
-  phenotypes: ZDB-GENE-081029-2,ZDB-GENE-100922-42
+  mod: ZFIN:ZDB-GENE-100922-42
+  phenotypes: negative regulation of DNA-templated transcription, regulation of transcription
+    by RNA polymerase II
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=459021
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=428208
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/459021
+  url: https://www.ncbi.nlm.nih.gov/gene/428208
 species: Gallus gallus
 symbol: HIVEP3
 title: HIVEP3
@@ -107,9 +103,8 @@ title: HIVEP3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000127124](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000127124) | [59269](https://www.ncbi.nlm.nih.gov/gene/59269) | [MIM:606649](https://omim.org/entry/606649) |  |
 | Mouse | [ENSMUSG00000028634](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028634) | [16656](https://www.ncbi.nlm.nih.gov/gene/16656) | [MGI:106589](http://www.informatics.jax.org/marker/MGI:106589) | All phenotypic alleles (2):Targeted, knock-out(2) |
-| Xenopus |  | [100489803](https://www.ncbi.nlm.nih.gov/gene/100489803), [432339](https://www.ncbi.nlm.nih.gov/gene/432339) | [482556](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482556) |  |
-| Zebrafish | [ENSDARG00000037154](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037154) | [568037](https://www.ncbi.nlm.nih.gov/gene/568037) | [ZFIN:ZDB-GENE-081029-2](https://zfin.org/ZDB-GENE-081029-2), [ZFIN:ZDB-GENE-100922-42](https://zfin.org/ZDB-GENE-100922-42) | ZDB-GENE-081029-2,ZDB-GENE-100922-42 |
+| Xenopus | [ENSXETG00000035857](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000035857) | [100489803](https://www.ncbi.nlm.nih.gov/gene/100489803) |  |  |
+| Zebrafish | [ENSDARG00000037154](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000037154) | [568037](https://www.ncbi.nlm.nih.gov/gene/568037) | [ZFIN:ZDB-GENE-100922-42](https://zfin.org/ZDB-GENE-100922-42) | negative regulation of DNA-templated transcription, regulation of transcription by RNA polymerase II |
 

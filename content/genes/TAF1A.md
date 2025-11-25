@@ -11,7 +11,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421338
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001277561
   X-XIV: stage XIII
-gene_id: '457307'
+gene_id: '421338'
 gene_type: protein-coding
 images:
 - caption: TAF1A expression
@@ -50,40 +50,35 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TAF1A.Trevers.2023-Fig7-4-A.jpg
 name: TATA-box binding protein associated factor, RNA polymerase I subunit A
-ncbi_id: '457307'
+ncbi_id: '421338'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000143498
   entrez: '9015'
   mod: MIM:604903
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000072258
   entrez: '21339'
   mod: MGI:109578
   phenotypes: ''
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000015037
   entrez: '100497125'
-  mod: '6045984'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000052471
   entrez: '567105'
   mod: ZFIN:ZDB-GENE-041014-272
-  phenotypes: ZDB-GENE-041014-272
+  phenotypes: heart contraction, transcription by RNA polymerase I
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457307
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421338
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457307
+  url: https://www.ncbi.nlm.nih.gov/gene/421338
 species: Gallus gallus
 symbol: TAF1A
 title: TAF1A
@@ -107,9 +102,8 @@ title: TAF1A
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000143498](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143498) | [9015](https://www.ncbi.nlm.nih.gov/gene/9015) | [MIM:604903](https://omim.org/entry/604903) |  |
-| Mouse |  | [21339](https://www.ncbi.nlm.nih.gov/gene/21339) | [MGI:109578](http://www.informatics.jax.org/marker/MGI:109578) |  |
-| Xenopus |  | [100497125](https://www.ncbi.nlm.nih.gov/gene/100497125) | [6045984](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6045984) |  |
-| Zebrafish | [ENSDARG00000052471](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052471) | [567105](https://www.ncbi.nlm.nih.gov/gene/567105) | [ZFIN:ZDB-GENE-041014-272](https://zfin.org/ZDB-GENE-041014-272) | ZDB-GENE-041014-272 |
+| Mouse | [ENSMUSG00000072258](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000072258) | [21339](https://www.ncbi.nlm.nih.gov/gene/21339) | [MGI:109578](http://www.informatics.jax.org/marker/MGI:109578) |  |
+| Xenopus | [ENSXETG00000015037](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000015037) | [100497125](https://www.ncbi.nlm.nih.gov/gene/100497125) |  |  |
+| Zebrafish | [ENSDARG00000052471](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052471) | [567105](https://www.ncbi.nlm.nih.gov/gene/567105) | [ZFIN:ZDB-GENE-041014-272](https://zfin.org/ZDB-GENE-041014-272) | heart contraction, transcription by RNA polymerase I |
 

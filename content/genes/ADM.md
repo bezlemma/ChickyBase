@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423042
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420975
-gene_id: '449764'
+gene_id: '423042'
 gene_type: protein-coding
 images:
 - caption: ADM expression
@@ -82,7 +82,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADM.Anderson.2019.Fig3.jpg
 name: adrenomedullin
-ncbi_id: '449764'
+ncbi_id: '423042'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -107,15 +107,15 @@ orthologs:
 - ensembl: ''
   entrez: ''
   mod: ZFIN:ZDB-GENE-120221-5,ZFIN:ZDB-GENE-120221-6
-  phenotypes: ZDB-GENE-120221-5,ZDB-GENE-120221-6
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449764
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423042
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449764
+  url: https://www.ncbi.nlm.nih.gov/gene/423042
 species: Gallus gallus
 symbol: ADM
 title: ADM
@@ -145,5 +145,5 @@ title: ADM
 | Human | [ENSG00000148926](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148926) | [133](https://www.ncbi.nlm.nih.gov/gene/133) | [MIM:103275](https://omim.org/entry/103275) |  |
 | Mouse | [ENSMUSG00000030790](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030790) | [11535](https://www.ncbi.nlm.nih.gov/gene/11535) | [MGI:108058](http://www.informatics.jax.org/marker/MGI:108058) | All phenotypic alleles (8):Targeted, knock-out(5) Targeted, other(3) |
 | Xenopus |  | [100135021](https://www.ncbi.nlm.nih.gov/gene/100135021) | [494036](http://www.xenbase.org/gene/showgene.do?method=display&geneId=494036) |  |
-| Zebrafish |  |  | [ZFIN:ZDB-GENE-120221-5](https://zfin.org/ZDB-GENE-120221-5), [ZFIN:ZDB-GENE-120221-6](https://zfin.org/ZDB-GENE-120221-6) | ZDB-GENE-120221-5,ZDB-GENE-120221-6 |
+| Zebrafish |  |  | [ZFIN:ZDB-GENE-120221-5](https://zfin.org/ZDB-GENE-120221-5), [ZFIN:ZDB-GENE-120221-6](https://zfin.org/ZDB-GENE-120221-6) |  |
 

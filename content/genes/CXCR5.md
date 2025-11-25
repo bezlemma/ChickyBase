@@ -5,13 +5,12 @@ aliases:
 - chemokine receptor
 cgnc_id: '51092'
 external_ids:
-  '25': stage 25stage 25
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/419784
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419784
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001030912
 forward_primer: GCCCTGGTCCTTGTCATTTTG
-gene_id: '457267'
+gene_id: '419784'
 gene_type: protein-coding
 images:
 - caption: CXCR5 expression
@@ -59,14 +58,9 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R431.CXCR5.S25C.001.jpg
 name: C-X-C motif chemokine receptor 5
-ncbi_id: '457267'
+ncbi_id: '419784'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000160683
   entrez: '643'
   mod: MIM:601613
   phenotypes: ''
@@ -76,24 +70,25 @@ orthologs:
   mod: MGI:103567
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000010067
   entrez: '100495113'
-  mod: '492232'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '799019'
+- ensembl: ENSDARG00000010514
+  entrez: '100537421'
   mod: ZFIN:ZDB-GENE-070302-8
-  phenotypes: ZDB-GENE-070302-8
+  phenotypes: G protein-coupled receptor signaling pathway, calcium-mediated signaling,
+    cell chemotaxis, chemotaxis, immune response
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGATGGAGGTGGTGTTGTCAGACTC
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457267
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=419784
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457267
+  url: https://www.ncbi.nlm.nih.gov/gene/419784
 species: Gallus gallus
 symbol: CXCR5
 template_length: '891'
@@ -115,9 +110,8 @@ title: CXCR5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [643](https://www.ncbi.nlm.nih.gov/gene/643) | [MIM:601613](https://omim.org/entry/601613) |  |
+| Human | [ENSG00000160683](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000160683) | [643](https://www.ncbi.nlm.nih.gov/gene/643) | [MIM:601613](https://omim.org/entry/601613) |  |
 | Mouse | [ENSMUSG00000047880](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000047880) | [12145](https://www.ncbi.nlm.nih.gov/gene/12145) | [MGI:103567](http://www.informatics.jax.org/marker/MGI:103567) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100495113](https://www.ncbi.nlm.nih.gov/gene/100495113) | [492232](http://www.xenbase.org/gene/showgene.do?method=display&geneId=492232) |  |
-| Zebrafish |  | [799019](https://www.ncbi.nlm.nih.gov/gene/799019) | [ZFIN:ZDB-GENE-070302-8](https://zfin.org/ZDB-GENE-070302-8) | ZDB-GENE-070302-8 |
+| Xenopus | [ENSXETG00000010067](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000010067) | [100495113](https://www.ncbi.nlm.nih.gov/gene/100495113) |  |  |
+| Zebrafish | [ENSDARG00000010514](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010514) | [100537421](https://www.ncbi.nlm.nih.gov/gene/100537421) | [ZFIN:ZDB-GENE-070302-8](https://zfin.org/ZDB-GENE-070302-8) | G protein-coupled receptor signaling pathway, calcium-mediated signaling, cell chemotaxis, chemotaxis, immune response |
 

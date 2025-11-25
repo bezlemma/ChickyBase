@@ -7,7 +7,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:770107
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001079750
-gene_id: '453287'
+gene_id: '770107'
 gene_type: protein-coding
 images:
 - caption: WDFY2 expression
@@ -103,14 +103,9 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54we1.125.22.jpg
 name: WD repeat and FYVE domain containing 2
-ncbi_id: '453287'
+ncbi_id: '770107'
 orthologs:
-- ensembl: ''
-  entrez: '34425'
-  mod: FBgn0032246
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000139668
   entrez: '115825'
   mod: MIM:610418
   phenotypes: ''
@@ -120,23 +115,23 @@ orthologs:
   mod: MGI:2442811
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000020718
   entrez: '100496386'
-  mod: '961326'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000040453
   entrez: '492636'
   mod: ZFIN:ZDB-GENE-041111-211
-  phenotypes: ZDB-GENE-041111-211
+  phenotypes: positive regulation of fat cell differentiation
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=453287
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=770107
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/453287
+  url: https://www.ncbi.nlm.nih.gov/gene/770107
 species: Gallus gallus
 symbol: WDFY2
 title: WDFY2
@@ -159,9 +154,8 @@ title: WDFY2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34425](https://www.ncbi.nlm.nih.gov/gene/34425) | FBgn0032246 |  |
-| Human |  | [115825](https://www.ncbi.nlm.nih.gov/gene/115825) | [MIM:610418](https://omim.org/entry/610418) |  |
+| Human | [ENSG00000139668](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000139668) | [115825](https://www.ncbi.nlm.nih.gov/gene/115825) | [MIM:610418](https://omim.org/entry/610418) |  |
 | Mouse | [ENSMUSG00000014547](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000014547) | [268752](https://www.ncbi.nlm.nih.gov/gene/268752) | [MGI:2442811](http://www.informatics.jax.org/marker/MGI:2442811) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100496386](https://www.ncbi.nlm.nih.gov/gene/100496386) | [961326](http://www.xenbase.org/gene/showgene.do?method=display&geneId=961326) |  |
-| Zebrafish | [ENSDARG00000040453](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040453) | [492636](https://www.ncbi.nlm.nih.gov/gene/492636) | [ZFIN:ZDB-GENE-041111-211](https://zfin.org/ZDB-GENE-041111-211) | ZDB-GENE-041111-211 |
+| Xenopus | [ENSXETG00000020718](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020718) | [100496386](https://www.ncbi.nlm.nih.gov/gene/100496386) |  |  |
+| Zebrafish | [ENSDARG00000040453](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040453) | [492636](https://www.ncbi.nlm.nih.gov/gene/492636) | [ZFIN:ZDB-GENE-041111-211](https://zfin.org/ZDB-GENE-041111-211) | positive regulation of fat cell differentiation |
 

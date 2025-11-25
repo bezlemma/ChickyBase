@@ -5,8 +5,6 @@ aliases:
 - winged helix protein CWH-3
 cgnc_id: '49481'
 external_ids:
-  '13': stage 13stage 13
-  '19': stage 19
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0043009
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Ferronha+2013+Snail2+Marti
@@ -20,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204951
   X-XIV: stage XIII
-gene_id: '450402'
+gene_id: '395794'
 gene_type: protein-coding
 images:
 - caption: FOXD3 expression
@@ -312,7 +310,7 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXD3.Travers.2023-Fig7-1-T.jpg
 name: forkhead box D3
-ncbi_id: '450402'
+ncbi_id: '395794'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -342,7 +340,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450402
+  url: https://www.ncbi.nlm.nih.gov/gene/395794
 species: Gallus gallus
 symbol: FOXD3
 title: FOXD3

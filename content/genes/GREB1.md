@@ -14,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421944
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_419956
-gene_id: '456282'
+gene_id: '421944'
 gene_type: protein-coding
 images:
 - caption: GREB1 expression
@@ -81,13 +81,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-figS1-E.jpg
 name: growth regulating estrogen receptor binding 1
-ncbi_id: '456282'
+ncbi_id: '421944'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000196208
   entrez: '9687'
   mod: MIM:611736
@@ -98,20 +93,21 @@ orthologs:
   mod: MGI:2149712
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100379724,100381105
-  mod: '970018'
+- ensembl: ENSXETG00000023793
+  entrez: '100379724'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000070794
   entrez: '791135'
   mod: ZFIN:ZDB-GENE-070112-332
-  phenotypes: ZDB-GENE-070112-332
+  phenotypes: convergent extension, morphogenesis of an epithelium, pituitary gland
+    development, somite development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456282
+  url: https://www.ncbi.nlm.nih.gov/gene/421944
 species: Gallus gallus
 symbol: GREB1
 title: GREB1
@@ -137,9 +133,8 @@ title: GREB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000196208](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000196208) | [9687](https://www.ncbi.nlm.nih.gov/gene/9687) | [MIM:611736](https://omim.org/entry/611736) |  |
 | Mouse | [ENSMUSG00000036523](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036523) | [268527](https://www.ncbi.nlm.nih.gov/gene/268527) | [MGI:2149712](http://www.informatics.jax.org/marker/MGI:2149712) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100379724](https://www.ncbi.nlm.nih.gov/gene/100379724), [100381105](https://www.ncbi.nlm.nih.gov/gene/100381105) | [970018](http://www.xenbase.org/gene/showgene.do?method=display&geneId=970018) |  |
-| Zebrafish | [ENSDARG00000070794](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070794) | [791135](https://www.ncbi.nlm.nih.gov/gene/791135) | [ZFIN:ZDB-GENE-070112-332](https://zfin.org/ZDB-GENE-070112-332) | ZDB-GENE-070112-332 |
+| Xenopus | [ENSXETG00000023793](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023793) | [100379724](https://www.ncbi.nlm.nih.gov/gene/100379724) |  |  |
+| Zebrafish | [ENSDARG00000070794](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070794) | [791135](https://www.ncbi.nlm.nih.gov/gene/791135) | [ZFIN:ZDB-GENE-070112-332](https://zfin.org/ZDB-GENE-070112-332) | convergent extension, morphogenesis of an epithelium, pituitary gland development, somite development |
 

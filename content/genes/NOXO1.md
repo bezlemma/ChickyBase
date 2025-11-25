@@ -3,7 +3,6 @@ aliases:
 - NADPH oxidase organizer 1
 cgnc_id: '4149'
 external_ids:
-  '4': stage 4stage 4
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Alev+Jakt+Ueda+landscape
   Comments: "Authors indicated the probe was isolated with these primers: \r\nF: TCATGCCATCAGAAATTGGA\r\
     \nR: AGAGGTTGGGTGTGGAGATG"
@@ -14,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416546
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414847
-gene_id: '455456'
+gene_id: '416546'
 gene_type: protein-coding
 images:
 - caption: NOXO1 expression
@@ -32,37 +31,22 @@ images:
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NOXO1.Alev.2010.5d12.png
 name: NADPH oxidase organizer 1
-ncbi_id: '455456'
+ncbi_id: '416546'
 orthologs:
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000005773
+  entrez: '100145774'
   mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
-  entrez: '100127638'
-  mod: '987620'
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000041294,ENSDARG00000056374
-  entrez: 572245,561765
-  mod: ZFIN:ZDB-GENE-030131-9700,ZFIN:ZDB-GENE-101203-1
-  phenotypes: ZDB-GENE-030131-9700,ZDB-GENE-101203-1
+- ensembl: ENSDARG00000041294
+  entrez: '572245'
+  mod: ZFIN:ZDB-GENE-030131-9700
+  phenotypes: superoxide anion generation
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/455456
+  url: https://www.ncbi.nlm.nih.gov/gene/416546
 species: Gallus gallus
 symbol: NOXO1
 title: NOXO1
@@ -90,9 +74,6 @@ R: AGAGGTTGGGTGTGGAGATG
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100127638](https://www.ncbi.nlm.nih.gov/gene/100127638) | [987620](http://www.xenbase.org/gene/showgene.do?method=display&geneId=987620) |  |
-| Zebrafish | [ENSDARG00000041294](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041294), [ENSDARG00000056374](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056374) | [572245](https://www.ncbi.nlm.nih.gov/gene/572245), [561765](https://www.ncbi.nlm.nih.gov/gene/561765) | [ZFIN:ZDB-GENE-030131-9700](https://zfin.org/ZDB-GENE-030131-9700), [ZFIN:ZDB-GENE-101203-1](https://zfin.org/ZDB-GENE-101203-1) | ZDB-GENE-030131-9700,ZDB-GENE-101203-1 |
+| Xenopus | [ENSXETG00000005773](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005773) | [100145774](https://www.ncbi.nlm.nih.gov/gene/100145774) |  |  |
+| Zebrafish | [ENSDARG00000041294](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000041294) | [572245](https://www.ncbi.nlm.nih.gov/gene/572245) | [ZFIN:ZDB-GENE-030131-9700](https://zfin.org/ZDB-GENE-030131-9700) | superoxide anion generation |
 

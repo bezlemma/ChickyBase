@@ -3,7 +3,6 @@ aliases:
 - protein LBH
 cgnc_id: '51464'
 external_ids:
-  '4': stage 4stage 4
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006355
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005737
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Alev+Jakt+Ueda+landscape
@@ -17,7 +16,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421301
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031038
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGGGTCTGTAGCAAAGCATCACG
-gene_id: '457260'
+gene_id: '421301'
 gene_type: protein-coding
 images:
 - caption: LBH expression
@@ -221,13 +220,8 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LBH.Alev.2010 for
     figure 5.png
 name: limb bud and heart development
-ncbi_id: '457260'
+ncbi_id: '421301'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000213626
   entrez: '81606'
   mod: MIM:611763
@@ -238,24 +232,26 @@ orthologs:
   mod: MGI:1925139
   phenotypes: All phenotypic alleles (3):Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: 496858,397879
-  mod: '5945475'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000007948
+  entrez: '496858'
   mod: ''
   phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000111701
+  entrez: '393492'
+  mod: ZFIN:ZDB-GENE-040426-1613
+  phenotypes: embryonic viscerocranium morphogenesis, neural crest cell migration,
+    positive regulation of DNA-templated transcription, regulation of DNA-templated
+    transcription
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCACAAAGAGCATCACCTTCCAGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=457260
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=421301
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/457260
+  url: https://www.ncbi.nlm.nih.gov/gene/421301
 species: Gallus gallus
 symbol: LBH
 template_length: '927'
@@ -286,9 +282,8 @@ Reverse- CAAAGCCACAAAGAGCATCA
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000213626](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000213626) | [81606](https://www.ncbi.nlm.nih.gov/gene/81606) | [MIM:611763](https://omim.org/entry/611763) |  |
 | Mouse | [ENSMUSG00000024063](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024063) | [77889](https://www.ncbi.nlm.nih.gov/gene/77889) | [MGI:1925139](http://www.informatics.jax.org/marker/MGI:1925139) | All phenotypic alleles (3):Targeted, other(3) |
-| Xenopus |  | [496858](https://www.ncbi.nlm.nih.gov/gene/496858), [397879](https://www.ncbi.nlm.nih.gov/gene/397879) | [5945475](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5945475) |  |
-| Zebrafish |  |  |  |  |
+| Xenopus | [ENSXETG00000007948](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007948) | [496858](https://www.ncbi.nlm.nih.gov/gene/496858) |  |  |
+| Zebrafish | [ENSDARG00000111701](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000111701) | [393492](https://www.ncbi.nlm.nih.gov/gene/393492) | [ZFIN:ZDB-GENE-040426-1613](https://zfin.org/ZDB-GENE-040426-1613) | embryonic viscerocranium morphogenesis, neural crest cell migration, positive regulation of DNA-templated transcription, regulation of DNA-templated transcription |
 

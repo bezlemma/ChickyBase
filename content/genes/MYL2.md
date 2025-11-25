@@ -12,7 +12,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416874
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001271929
-gene_id: '461889'
+gene_id: '416874'
 gene_type: protein-coding
 images:
 - caption: MYL2 expression
@@ -65,13 +65,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/3WH9.115.1.23.jpg
 name: myosin, light chain 2, regulatory, cardiac, slow
-ncbi_id: '461889'
+ncbi_id: '416874'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000111245
   entrez: '4633'
   mod: MIM:160781
@@ -82,23 +77,23 @@ orthologs:
   mod: MGI:97272
   phenotypes: All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100135705,447131
-  mod: '482090'
+- ensembl: ENSXETG00000011683
+  entrez: '100135705'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000053424
-  entrez: '677750'
-  mod: ZFIN:ZDB-GENE-060331-137,ZFIN:ZDB-GENE-120917-2
-  phenotypes: ZDB-GENE-060331-137,ZDB-GENE-120917-2
+- ensembl: ENSDARG00000104722
+  entrez: '100537244'
+  mod: ZFIN:ZDB-GENE-120917-2
+  phenotypes: cardiac muscle contraction, heart development, muscle cell fate specification
   species: Zebrafish
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461889
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=416874
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461889
+  url: https://www.ncbi.nlm.nih.gov/gene/416874
 species: Gallus gallus
 symbol: MYL2
 title: MYL2
@@ -123,9 +118,8 @@ title: MYL2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000111245](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111245) | [4633](https://www.ncbi.nlm.nih.gov/gene/4633) | [MIM:160781](https://omim.org/entry/160781) | MIM:608758 |
 | Mouse | [ENSMUSG00000013936](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000013936) | [17906](https://www.ncbi.nlm.nih.gov/gene/17906) | [MGI:97272](http://www.informatics.jax.org/marker/MGI:97272) | All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2) |
-| Xenopus |  | [100135705](https://www.ncbi.nlm.nih.gov/gene/100135705), [447131](https://www.ncbi.nlm.nih.gov/gene/447131) | [482090](http://www.xenbase.org/gene/showgene.do?method=display&geneId=482090) |  |
-| Zebrafish | [ENSDARG00000053424](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000053424) | [677750](https://www.ncbi.nlm.nih.gov/gene/677750) | [ZFIN:ZDB-GENE-060331-137](https://zfin.org/ZDB-GENE-060331-137), [ZFIN:ZDB-GENE-120917-2](https://zfin.org/ZDB-GENE-120917-2) | ZDB-GENE-060331-137,ZDB-GENE-120917-2 |
+| Xenopus | [ENSXETG00000011683](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000011683) | [100135705](https://www.ncbi.nlm.nih.gov/gene/100135705) |  |  |
+| Zebrafish | [ENSDARG00000104722](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000104722) | [100537244](https://www.ncbi.nlm.nih.gov/gene/100537244) | [ZFIN:ZDB-GENE-120917-2](https://zfin.org/ZDB-GENE-120917-2) | cardiac muscle contraction, heart development, muscle cell fate specification |
 

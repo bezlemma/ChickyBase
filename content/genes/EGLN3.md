@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423316
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421233
-gene_id: '448735'
+gene_id: '423316'
 gene_type: protein-coding
 images:
 - caption: EGLN3 expression
@@ -133,13 +133,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PHD3.Barber.2016.Fig5.jpg
 name: egl-9 family hypoxia inducible factor 3
-ncbi_id: '448735'
+ncbi_id: '423316'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000129521
   entrez: '112399'
   mod: MIM:606426
@@ -150,20 +145,21 @@ orthologs:
   mod: MGI:1932288
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100145602,100127282
-  mod: '964333'
+- ensembl: ENSXETG00000034504
+  entrez: '100145602'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000032553
   entrez: '406602'
   mod: ZFIN:ZDB-GENE-040426-2541
-  phenotypes: ZDB-GENE-040426-2541
+  phenotypes: cellular response to hypoxia, negative regulation of defense response
+    to virus, regulation of neuron apoptotic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/448735
+  url: https://www.ncbi.nlm.nih.gov/gene/423316
 species: Gallus gallus
 symbol: EGLN3
 title: EGLN3
@@ -189,9 +185,8 @@ title: EGLN3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000129521](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000129521) | [112399](https://www.ncbi.nlm.nih.gov/gene/112399) | [MIM:606426](https://omim.org/entry/606426) |  |
 | Mouse | [ENSMUSG00000035105](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035105) | [112407](https://www.ncbi.nlm.nih.gov/gene/112407) | [MGI:1932288](http://www.informatics.jax.org/marker/MGI:1932288) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100145602](https://www.ncbi.nlm.nih.gov/gene/100145602), [100127282](https://www.ncbi.nlm.nih.gov/gene/100127282) | [964333](http://www.xenbase.org/gene/showgene.do?method=display&geneId=964333) |  |
-| Zebrafish | [ENSDARG00000032553](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032553) | [406602](https://www.ncbi.nlm.nih.gov/gene/406602) | [ZFIN:ZDB-GENE-040426-2541](https://zfin.org/ZDB-GENE-040426-2541) | ZDB-GENE-040426-2541 |
+| Xenopus | [ENSXETG00000034504](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034504) | [100145602](https://www.ncbi.nlm.nih.gov/gene/100145602) |  |  |
+| Zebrafish | [ENSDARG00000032553](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032553) | [406602](https://www.ncbi.nlm.nih.gov/gene/406602) | [ZFIN:ZDB-GENE-040426-2541](https://zfin.org/ZDB-GENE-040426-2541) | cellular response to hypoxia, negative regulation of defense response to virus, regulation of neuron apoptotic process |
 

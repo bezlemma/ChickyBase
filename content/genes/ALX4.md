@@ -4,7 +4,6 @@ aliases:
 - aristaless-like homeobox 4, ALX4
 cgnc_id: '48987'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=McGonnell+Takahashi+Holland+Alx3
   Comments: 'As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI (acc
@@ -15,7 +14,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:373976
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204162
-gene_id: '451511'
+gene_id: '373976'
 gene_type: protein-coding
 images:
 - caption: ALX4 expression
@@ -148,13 +147,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ALX4.McGonnell.2011.Fig.3.png
 name: ALX homeobox 4
-ncbi_id: '451511'
+ncbi_id: '373976'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000052850
   entrez: '60529'
   mod: MIM:605420
@@ -166,20 +160,22 @@ orthologs:
   phenotypes: All phenotypic alleles (5):Spontaneous(1) Chemically induced(3) Targeted,
     knock-out(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000007545
   entrez: '100493396'
-  mod: '853002'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: 100006399,497424
-  mod: ZFIN:ZDB-GENE-070712-3,ZFIN:ZDB-GENE-050208-140
-  phenotypes: ZDB-GENE-070712-3,ZDB-GENE-050208-140
+- ensembl: ENSDARG00000088332
+  entrez: '100006399'
+  mod: ZFIN:ZDB-GENE-070712-3
+  phenotypes: animal organ development, epigenetic programming of gene expression,
+    neuron development, pigment cell differentiation, regulation of DNA-templated
+    transcription
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/451511
+  url: https://www.ncbi.nlm.nih.gov/gene/373976
 species: Gallus gallus
 symbol: ALX4
 title: ALX4
@@ -205,9 +201,8 @@ title: ALX4
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000052850](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000052850) | [60529](https://www.ncbi.nlm.nih.gov/gene/60529) | [MIM:605420](https://omim.org/entry/605420) | MIM:613451 |
 | Mouse | [ENSMUSG00000040310](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000040310) | [11695](https://www.ncbi.nlm.nih.gov/gene/11695) | [MGI:108359](http://www.informatics.jax.org/marker/MGI:108359) | All phenotypic alleles (5):Spontaneous(1) Chemically induced(3) Targeted, knock-out(1) |
-| Xenopus |  | [100493396](https://www.ncbi.nlm.nih.gov/gene/100493396) | [853002](http://www.xenbase.org/gene/showgene.do?method=display&geneId=853002) |  |
-| Zebrafish |  | [100006399](https://www.ncbi.nlm.nih.gov/gene/100006399), [497424](https://www.ncbi.nlm.nih.gov/gene/497424) | [ZFIN:ZDB-GENE-070712-3](https://zfin.org/ZDB-GENE-070712-3), [ZFIN:ZDB-GENE-050208-140](https://zfin.org/ZDB-GENE-050208-140) | ZDB-GENE-070712-3,ZDB-GENE-050208-140 |
+| Xenopus | [ENSXETG00000007545](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000007545) | [100493396](https://www.ncbi.nlm.nih.gov/gene/100493396) |  |  |
+| Zebrafish | [ENSDARG00000088332](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000088332) | [100006399](https://www.ncbi.nlm.nih.gov/gene/100006399) | [ZFIN:ZDB-GENE-070712-3](https://zfin.org/ZDB-GENE-070712-3) | animal organ development, epigenetic programming of gene expression, neuron development, pigment cell differentiation, regulation of DNA-templated transcription |
 

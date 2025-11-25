@@ -8,7 +8,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420092
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642845
 forward_primer: CCCTTCTCCTACAGCCTTTCAAGAC
-gene_id: '458402'
+gene_id: '420092'
 gene_type: protein-coding
 images:
 - caption: RFX2 expression
@@ -128,13 +128,8 @@ images:
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R437.RFX2.S23.001.jpg
 name: regulatory factor X2
-ncbi_id: '458402'
+ncbi_id: '420092'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000087903
   entrez: '5990'
   mod: MIM:142765
@@ -145,24 +140,25 @@ orthologs:
   mod: MGI:106583
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100144734,735210
-  mod: '991773'
+- ensembl: ENSXETG00000021877
+  entrez: '100144734'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000013575
   entrez: '503590'
   mod: ZFIN:ZDB-GENE-050227-4
-  phenotypes: ZDB-GENE-050227-4
+  phenotypes: Kupffer's vesicle development, cell projection organization, cilium
+    assembly, determination of left/right symmetry, regulation of DNA-templated transcription
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGCAGACACCAGCACGGAACAGTAAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=458402
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=420092
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/458402
+  url: https://www.ncbi.nlm.nih.gov/gene/420092
 species: Gallus gallus
 symbol: RFX2
 template_length: '955'
@@ -184,9 +180,8 @@ title: RFX2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000087903](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000087903) | [5990](https://www.ncbi.nlm.nih.gov/gene/5990) | [MIM:142765](https://omim.org/entry/142765) |  |
 | Mouse | [ENSMUSG00000024206](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024206) | [19725](https://www.ncbi.nlm.nih.gov/gene/19725) | [MGI:106583](http://www.informatics.jax.org/marker/MGI:106583) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100144734](https://www.ncbi.nlm.nih.gov/gene/100144734), [735210](https://www.ncbi.nlm.nih.gov/gene/735210) | [991773](http://www.xenbase.org/gene/showgene.do?method=display&geneId=991773) |  |
-| Zebrafish | [ENSDARG00000013575](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013575) | [503590](https://www.ncbi.nlm.nih.gov/gene/503590) | [ZFIN:ZDB-GENE-050227-4](https://zfin.org/ZDB-GENE-050227-4) | ZDB-GENE-050227-4 |
+| Xenopus | [ENSXETG00000021877](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021877) | [100144734](https://www.ncbi.nlm.nih.gov/gene/100144734) |  |  |
+| Zebrafish | [ENSDARG00000013575](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013575) | [503590](https://www.ncbi.nlm.nih.gov/gene/503590) | [ZFIN:ZDB-GENE-050227-4](https://zfin.org/ZDB-GENE-050227-4) | Kupffer's vesicle development, cell projection organization, cilium assembly, determination of left/right symmetry, regulation of DNA-templated transcription |
 

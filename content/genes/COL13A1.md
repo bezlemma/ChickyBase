@@ -13,7 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:769037
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001232218
-gene_id: '461661'
+gene_id: '769037'
 gene_type: protein-coding
 images:
 - caption: COL13A1 expression
@@ -48,13 +48,8 @@ images:
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COL13A1_HH 12+ x25-b.jpg
 name: collagen type XIII alpha 1 chain
-ncbi_id: '461661'
+ncbi_id: '769037'
 orthologs:
-- ensembl: ''
-  entrez: '7354466'
-  mod: FBgn0259244
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000197467
   entrez: '1305'
   mod: MIM:120350
@@ -65,20 +60,20 @@ orthologs:
   mod: MGI:1277201
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000017148
   entrez: '100498211'
-  mod: '6462745'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ''
   entrez: '323154'
   mod: ZFIN:ZDB-GENE-030131-1874
-  phenotypes: ZDB-GENE-030131-1874
+  phenotypes: ''
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461661
+  url: https://www.ncbi.nlm.nih.gov/gene/769037
 species: Gallus gallus
 symbol: COL13A1
 title: COL13A1
@@ -104,9 +99,8 @@ title: COL13A1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [7354466](https://www.ncbi.nlm.nih.gov/gene/7354466) | FBgn0259244 |  |
 | Human | [ENSG00000197467](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197467) | [1305](https://www.ncbi.nlm.nih.gov/gene/1305) | [MIM:120350](https://omim.org/entry/120350) |  |
 | Mouse | [ENSMUSG00000058806](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000058806) | [12817](https://www.ncbi.nlm.nih.gov/gene/12817) | [MGI:1277201](http://www.informatics.jax.org/marker/MGI:1277201) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [100498211](https://www.ncbi.nlm.nih.gov/gene/100498211) | [6462745](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6462745) |  |
-| Zebrafish |  | [323154](https://www.ncbi.nlm.nih.gov/gene/323154) | [ZFIN:ZDB-GENE-030131-1874](https://zfin.org/ZDB-GENE-030131-1874) | ZDB-GENE-030131-1874 |
+| Xenopus | [ENSXETG00000017148](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017148) | [100498211](https://www.ncbi.nlm.nih.gov/gene/100498211) |  |  |
+| Zebrafish |  | [323154](https://www.ncbi.nlm.nih.gov/gene/323154) | [ZFIN:ZDB-GENE-030131-1874](https://zfin.org/ZDB-GENE-030131-1874) |  |
 

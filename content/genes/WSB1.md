@@ -12,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395685
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204872
-gene_id: '449903'
+gene_id: '395685'
 gene_type: protein-coding
 images:
 - caption: WSB1 expression
@@ -108,14 +108,9 @@ images:
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SWIP1.FIG2G.VASILIAUSKAS.1999.jpg
 name: WD repeat and SOCS box containing 1
-ncbi_id: '449903'
+ncbi_id: '395685'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000109046
   entrez: '26118'
   mod: MIM:610091
   phenotypes: ''
@@ -125,20 +120,21 @@ orthologs:
   mod: MGI:1926139
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 395021,380049
-  mod: '5920308'
+- ensembl: ENSXETG00000021353
+  entrez: '395021'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000021343
   entrez: '323226'
   mod: ZFIN:ZDB-GENE-030131-1946
-  phenotypes: ZDB-GENE-030131-1946
+  phenotypes: intracellular signal transduction, protein polyubiquitination, protein
+    ubiquitination
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449903
+  url: https://www.ncbi.nlm.nih.gov/gene/395685
 species: Gallus gallus
 symbol: WSB1
 title: WSB1
@@ -164,9 +160,8 @@ title: WSB1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [26118](https://www.ncbi.nlm.nih.gov/gene/26118) | [MIM:610091](https://omim.org/entry/610091) |  |
+| Human | [ENSG00000109046](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000109046) | [26118](https://www.ncbi.nlm.nih.gov/gene/26118) | [MIM:610091](https://omim.org/entry/610091) |  |
 | Mouse | [ENSMUSG00000017677](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000017677) | [78889](https://www.ncbi.nlm.nih.gov/gene/78889) | [MGI:1926139](http://www.informatics.jax.org/marker/MGI:1926139) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [395021](https://www.ncbi.nlm.nih.gov/gene/395021), [380049](https://www.ncbi.nlm.nih.gov/gene/380049) | [5920308](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5920308) |  |
-| Zebrafish | [ENSDARG00000021343](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021343) | [323226](https://www.ncbi.nlm.nih.gov/gene/323226) | [ZFIN:ZDB-GENE-030131-1946](https://zfin.org/ZDB-GENE-030131-1946) | ZDB-GENE-030131-1946 |
+| Xenopus | [ENSXETG00000021353](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000021353) | [395021](https://www.ncbi.nlm.nih.gov/gene/395021) |  |  |
+| Zebrafish | [ENSDARG00000021343](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021343) | [323226](https://www.ncbi.nlm.nih.gov/gene/323226) | [ZFIN:ZDB-GENE-030131-1946](https://zfin.org/ZDB-GENE-030131-1946) | intracellular signal transduction, protein polyubiquitination, protein ubiquitination |
 

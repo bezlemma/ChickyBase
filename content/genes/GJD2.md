@@ -8,7 +8,6 @@ aliases:
 - gap junction protein, delta 2, 36kDa
 cgnc_id: '7480'
 external_ids:
-  '25': stage 25
   Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
   Comments: Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (NM_204582 ).
@@ -19,7 +18,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395273
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204582
 forward_primer: 5’-CCACCAAAGAGGCAGAACC-3’
-gene_id: '461621'
+gene_id: '395273'
 gene_type: protein-coding
 images:
 - caption: GJD2 expression
@@ -152,14 +151,9 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GJD2.Anderson.2019.Supplementary
     figure 5E.jpg
 name: gap junction protein delta 2
-ncbi_id: '461621'
+ncbi_id: '395273'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
+- ensembl: ENSG00000159248
   entrez: '57369'
   mod: MIM:607058
   phenotypes: ''
@@ -169,24 +163,25 @@ orthologs:
   mod: MGI:1334209
   phenotypes: All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000048635
   entrez: '100496736'
-  mod: '489802'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
+- ensembl: ENSDARG00000070781
   entrez: '378444'
-  mod: ZFIN:ZDB-GENE-030911-1,ZFIN:ZDB-GENE-111020-17
-  phenotypes: ZDB-GENE-030911-1,ZDB-GENE-111020-17
+  mod: ZFIN:ZDB-GENE-030911-1
+  phenotypes: cell communication, cell-cell signaling, regulation of dendrite extension,
+    synapse assembly
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGGCAGCTAGTTCAGTAAGTGC-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461621
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395273
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/461621
+  url: https://www.ncbi.nlm.nih.gov/gene/395273
 species: Gallus gallus
 symbol: GJD2
 template_length: '621'
@@ -213,9 +208,8 @@ title: GJD2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  | [57369](https://www.ncbi.nlm.nih.gov/gene/57369) | [MIM:607058](https://omim.org/entry/607058) |  |
+| Human | [ENSG00000159248](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000159248) | [57369](https://www.ncbi.nlm.nih.gov/gene/57369) | [MIM:607058](https://omim.org/entry/607058) |  |
 | Mouse | [ENSMUSG00000068615](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000068615) | [14617](https://www.ncbi.nlm.nih.gov/gene/14617) | [MGI:1334209](http://www.informatics.jax.org/marker/MGI:1334209) | All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(5) |
-| Xenopus |  | [100496736](https://www.ncbi.nlm.nih.gov/gene/100496736) | [489802](http://www.xenbase.org/gene/showgene.do?method=display&geneId=489802) |  |
-| Zebrafish |  | [378444](https://www.ncbi.nlm.nih.gov/gene/378444) | [ZFIN:ZDB-GENE-030911-1](https://zfin.org/ZDB-GENE-030911-1), [ZFIN:ZDB-GENE-111020-17](https://zfin.org/ZDB-GENE-111020-17) | ZDB-GENE-030911-1,ZDB-GENE-111020-17 |
+| Xenopus | [ENSXETG00000048635](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000048635) | [100496736](https://www.ncbi.nlm.nih.gov/gene/100496736) |  |  |
+| Zebrafish | [ENSDARG00000070781](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000070781) | [378444](https://www.ncbi.nlm.nih.gov/gene/378444) | [ZFIN:ZDB-GENE-030911-1](https://zfin.org/ZDB-GENE-030911-1) | cell communication, cell-cell signaling, regulation of dendrite extension, synapse assembly |
 

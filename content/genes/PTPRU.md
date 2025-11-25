@@ -21,7 +21,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004725
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204492
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/PTPRU
-gene_id: '462220'
+gene_id: '395153'
 gene_type: protein-coding
 images:
 - caption: PTPRU expression
@@ -281,13 +281,8 @@ images:
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/rptp.fig3.imageE-F.jpg
 name: protein tyrosine phosphatase, receptor type U
-ncbi_id: '462220'
+ncbi_id: '395153'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000060656
   entrez: '10076'
   mod: MIM:602454
@@ -298,20 +293,21 @@ orthologs:
   mod: MGI:1321151
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000005931
   entrez: '733850'
-  mod: '922687'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000078090,ENSDARG00000092638
-  entrez: 100331611,335096,563584
-  mod: ZFIN:ZDB-GENE-030131-7036,ZFIN:ZDB-GENE-060503-232
-  phenotypes: ZDB-GENE-030131-7036,ZDB-GENE-060503-232
+- ensembl: ENSDARG00000101081
+  entrez: '335096'
+  mod: ZFIN:ZDB-GENE-030131-7036
+  phenotypes: cell adhesion, cell differentiation, cell surface receptor protein tyrosine
+    phosphatase signaling pathway, dephosphorylation, neuron projection development
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462220
+  url: https://www.ncbi.nlm.nih.gov/gene/395153
 species: Gallus gallus
 symbol: PTPRU
 title: PTPRU
@@ -341,9 +337,8 @@ title: PTPRU
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000060656](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000060656) | [10076](https://www.ncbi.nlm.nih.gov/gene/10076) | [MIM:602454](https://omim.org/entry/602454) |  |
 | Mouse | [ENSMUSG00000028909](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028909) | [19273](https://www.ncbi.nlm.nih.gov/gene/19273) | [MGI:1321151](http://www.informatics.jax.org/marker/MGI:1321151) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [733850](https://www.ncbi.nlm.nih.gov/gene/733850) | [922687](http://www.xenbase.org/gene/showgene.do?method=display&geneId=922687) |  |
-| Zebrafish | [ENSDARG00000078090](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078090), [ENSDARG00000092638](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000092638) | [100331611](https://www.ncbi.nlm.nih.gov/gene/100331611), [335096](https://www.ncbi.nlm.nih.gov/gene/335096), [563584](https://www.ncbi.nlm.nih.gov/gene/563584) | [ZFIN:ZDB-GENE-030131-7036](https://zfin.org/ZDB-GENE-030131-7036), [ZFIN:ZDB-GENE-060503-232](https://zfin.org/ZDB-GENE-060503-232) | ZDB-GENE-030131-7036,ZDB-GENE-060503-232 |
+| Xenopus | [ENSXETG00000005931](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005931) | [733850](https://www.ncbi.nlm.nih.gov/gene/733850) |  |  |
+| Zebrafish | [ENSDARG00000101081](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000101081) | [335096](https://www.ncbi.nlm.nih.gov/gene/335096) | [ZFIN:ZDB-GENE-030131-7036](https://zfin.org/ZDB-GENE-030131-7036) | cell adhesion, cell differentiation, cell surface receptor protein tyrosine phosphatase signaling pathway, dephosphorylation, neuron projection development |
 

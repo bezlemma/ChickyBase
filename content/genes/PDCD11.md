@@ -6,7 +6,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423874
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_421739
 forward_primer: AGCCTGAACTGCGTCATTGAGG
-gene_id: '450309'
+gene_id: '423874'
 gene_type: protein-coding
 images:
 - caption: PDCD11 expression
@@ -233,13 +233,8 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R470.PDCD11.S27V.001.jpg
 name: programmed cell death 11
-ncbi_id: '450309'
+ncbi_id: '423874'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000148843
   entrez: '22984'
   mod: MIM:612333
@@ -250,24 +245,24 @@ orthologs:
   mod: MGI:1341788
   phenotypes: All phenotypic alleles (2):Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 100327235,779090
-  mod: '967217'
+- ensembl: ENSXETG00000009482
+  entrez: '100327235'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000052480
   entrez: '794079'
   mod: ZFIN:ZDB-GENE-030131-4076
-  phenotypes: ZDB-GENE-030131-4076
+  phenotypes: RNA processing, rRNA processing
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGACCGTCGTGGAAGACTTTATCTG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=450309
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=423874
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/450309
+  url: https://www.ncbi.nlm.nih.gov/gene/423874
 species: Gallus gallus
 symbol: PDCD11
 template_length: '1057'
@@ -289,9 +284,8 @@ title: PDCD11
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000148843](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148843) | [22984](https://www.ncbi.nlm.nih.gov/gene/22984) | [MIM:612333](https://omim.org/entry/612333) |  |
 | Mouse | [ENSMUSG00000025047](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000025047) | [18572](https://www.ncbi.nlm.nih.gov/gene/18572) | [MGI:1341788](http://www.informatics.jax.org/marker/MGI:1341788) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus |  | [100327235](https://www.ncbi.nlm.nih.gov/gene/100327235), [779090](https://www.ncbi.nlm.nih.gov/gene/779090) | [967217](http://www.xenbase.org/gene/showgene.do?method=display&geneId=967217) |  |
-| Zebrafish | [ENSDARG00000052480](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052480) | [794079](https://www.ncbi.nlm.nih.gov/gene/794079) | [ZFIN:ZDB-GENE-030131-4076](https://zfin.org/ZDB-GENE-030131-4076) | ZDB-GENE-030131-4076 |
+| Xenopus | [ENSXETG00000009482](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000009482) | [100327235](https://www.ncbi.nlm.nih.gov/gene/100327235) |  |  |
+| Zebrafish | [ENSDARG00000052480](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000052480) | [794079](https://www.ncbi.nlm.nih.gov/gene/794079) | [ZFIN:ZDB-GENE-030131-4076](https://zfin.org/ZDB-GENE-030131-4076) | RNA processing, rRNA processing |
 

@@ -13,7 +13,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:777252
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001236721
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/SLC12A5
-gene_id: '462733'
+gene_id: '777252'
 gene_type: protein-coding
 images:
 - caption: SLC12A5 expression
@@ -115,37 +115,33 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig1.Nrf3.imageN
 name: solute carrier family 12 (potassium/chloride transporter), member 5
-ncbi_id: '462733'
+ncbi_id: '777252'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000124140
+  entrez: '57468'
+  mod: MIM:606726
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000017740
+  entrez: '57138'
+  mod: MGI:1862037
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000031179
+  entrez: '779759'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSDARG00000078187
+  entrez: '797331'
+  mod: ZFIN:ZDB-GENE-080707-1
+  phenotypes: cell volume homeostasis, chemical synaptic transmission, chloride ion
+    homeostasis, chloride transmembrane transport, monoatomic ion transport
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462733
+  url: https://www.ncbi.nlm.nih.gov/gene/777252
 species: Gallus gallus
 symbol: SLC12A5
 title: SLC12A5
@@ -172,9 +168,8 @@ title: SLC12A5
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000124140](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000124140) | [57468](https://www.ncbi.nlm.nih.gov/gene/57468) | [MIM:606726](https://omim.org/entry/606726) |  |
+| Mouse | [ENSMUSG00000017740](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000017740) | [57138](https://www.ncbi.nlm.nih.gov/gene/57138) | [MGI:1862037](http://www.informatics.jax.org/marker/MGI:1862037) |  |
+| Xenopus | [ENSXETG00000031179](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000031179) | [779759](https://www.ncbi.nlm.nih.gov/gene/779759) |  |  |
+| Zebrafish | [ENSDARG00000078187](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000078187) | [797331](https://www.ncbi.nlm.nih.gov/gene/797331) | [ZFIN:ZDB-GENE-080707-1](https://zfin.org/ZDB-GENE-080707-1) | cell volume homeostasis, chemical synaptic transmission, chloride ion homeostasis, chloride transmembrane transport, monoatomic ion transport |
 

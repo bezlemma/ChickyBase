@@ -78,7 +78,7 @@ orthologs:
 - ensembl: ENSDARG00000035578
   entrez: '562344'
   mod: ZFIN:ZDB-GENE-070202-3
-  phenotypes: ZDB-GENE-070202-3
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTACTGGAGCCACTATGTATGCCC
 sources:
@@ -115,5 +115,5 @@ title: HS3ST1L
 | Human |  |  |  |  |
 | Mouse |  |  |  |  |
 | Xenopus |  |  |  |  |
-| Zebrafish | [ENSDARG00000035578](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035578) | [562344](https://www.ncbi.nlm.nih.gov/gene/562344) | [ZFIN:ZDB-GENE-070202-3](https://zfin.org/ZDB-GENE-070202-3) | ZDB-GENE-070202-3 |
+| Zebrafish | [ENSDARG00000035578](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000035578) | [562344](https://www.ncbi.nlm.nih.gov/gene/562344) | [ZFIN:ZDB-GENE-070202-3](https://zfin.org/ZDB-GENE-070202-3) |  |
 

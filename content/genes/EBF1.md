@@ -3,7 +3,6 @@ aliases:
 - EBF, transcription factor COE1
 cgnc_id: '49357'
 external_ids:
-  '25': stage 25stage 25stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Ferran+Arrones+pretectum+molecular
   Comments: 'Insufficient information provided in publication to verify exact sequence
     used to synthesize probe. Sequence below was obtained from NCBI (Acc. # NM_204752.1).'
@@ -13,7 +12,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395512
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204752
-gene_id: '449672'
+gene_id: '395512'
 gene_type: protein-coding
 images:
 - caption: EBF1 expression
@@ -146,37 +145,34 @@ images:
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.6.R1.2012.Ferran.ALLIMAGES-8.jpg
 name: early B-cell factor 1
-ncbi_id: '449672'
+ncbi_id: '395512'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000164330
   entrez: '1879'
   mod: MIM:164343
   phenotypes: ''
   species: Human
-- ensembl: ''
+- ensembl: ENSMUSG00000057098
   entrez: '13591'
   mod: MGI:95275
   phenotypes: All phenotypic alleles (2):Spontaneous(1) Targeted, knock-out(1)
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: '6051343'
+- ensembl: ENSXETG00000034650
+  entrez: '100492234'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000016116
+- ensembl: ENSDARG00000099849
   entrez: '565310'
-  mod: ZFIN:ZDB-GENE-081028-51,ZFIN:ZDB-GENE-090814-2
-  phenotypes: ZDB-GENE-081028-51,ZDB-GENE-090814-2
+  mod: ZFIN:ZDB-GENE-081028-51
+  phenotypes: nervous system development, positive regulation of DNA-templated transcription,
+    positive regulation of transcription by RNA polymerase II, regulation of DNA-templated
+    transcription
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449672
+  url: https://www.ncbi.nlm.nih.gov/gene/395512
 species: Gallus gallus
 symbol: EBF1
 title: EBF1
@@ -202,9 +198,8 @@ title: EBF1
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000164330](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164330) | [1879](https://www.ncbi.nlm.nih.gov/gene/1879) | [MIM:164343](https://omim.org/entry/164343) |  |
-| Mouse |  | [13591](https://www.ncbi.nlm.nih.gov/gene/13591) | [MGI:95275](http://www.informatics.jax.org/marker/MGI:95275) | All phenotypic alleles (2):Spontaneous(1) Targeted, knock-out(1) |
-| Xenopus |  |  | [6051343](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6051343) |  |
-| Zebrafish | [ENSDARG00000016116](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016116) | [565310](https://www.ncbi.nlm.nih.gov/gene/565310) | [ZFIN:ZDB-GENE-081028-51](https://zfin.org/ZDB-GENE-081028-51), [ZFIN:ZDB-GENE-090814-2](https://zfin.org/ZDB-GENE-090814-2) | ZDB-GENE-081028-51,ZDB-GENE-090814-2 |
+| Mouse | [ENSMUSG00000057098](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000057098) | [13591](https://www.ncbi.nlm.nih.gov/gene/13591) | [MGI:95275](http://www.informatics.jax.org/marker/MGI:95275) | All phenotypic alleles (2):Spontaneous(1) Targeted, knock-out(1) |
+| Xenopus | [ENSXETG00000034650](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000034650) | [100492234](https://www.ncbi.nlm.nih.gov/gene/100492234) |  |  |
+| Zebrafish | [ENSDARG00000099849](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000099849) | [565310](https://www.ncbi.nlm.nih.gov/gene/565310) | [ZFIN:ZDB-GENE-081028-51](https://zfin.org/ZDB-GENE-081028-51) | nervous system development, positive regulation of DNA-templated transcription, positive regulation of transcription by RNA polymerase II, regulation of DNA-templated transcription |
 

@@ -19,7 +19,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395130
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204473
 forward_primer: 5’-AGCAATTCCATCTCCTGGGC-3’
-gene_id: '462205'
+gene_id: '395130'
 gene_type: protein-coding
 images:
 - caption: OPTC expression
@@ -246,13 +246,8 @@ images:
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OPTICIN.FIG3E.FROLOVA.2004.jpg
 name: opticin
-ncbi_id: '462205'
+ncbi_id: '395130'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000188770
   entrez: '26254'
   mod: MIM:605127
@@ -263,24 +258,24 @@ orthologs:
   mod: MGI:2151113
   phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
   species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000000442
   entrez: '549253'
-  mod: '941988'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000014358
   entrez: '445189'
   mod: ZFIN:ZDB-GENE-030131-1798
-  phenotypes: ZDB-GENE-030131-1798
+  phenotypes: articular cartilage development, bone development
   species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAAACGAGAGAGTGCAGGTGG-3’
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462205
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395130
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462205
+  url: https://www.ncbi.nlm.nih.gov/gene/395130
 species: Gallus gallus
 symbol: OPTC
 template_length: '512'
@@ -307,9 +302,8 @@ title: OPTC
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000188770](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000188770) | [26254](https://www.ncbi.nlm.nih.gov/gene/26254) | [MIM:605127](https://omim.org/entry/605127) |  |
 | Mouse | [ENSMUSG00000010311](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000010311) | [269120](https://www.ncbi.nlm.nih.gov/gene/269120) | [MGI:2151113](http://www.informatics.jax.org/marker/MGI:2151113) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
-| Xenopus |  | [549253](https://www.ncbi.nlm.nih.gov/gene/549253) | [941988](http://www.xenbase.org/gene/showgene.do?method=display&geneId=941988) |  |
-| Zebrafish | [ENSDARG00000014358](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014358) | [445189](https://www.ncbi.nlm.nih.gov/gene/445189) | [ZFIN:ZDB-GENE-030131-1798](https://zfin.org/ZDB-GENE-030131-1798) | ZDB-GENE-030131-1798 |
+| Xenopus | [ENSXETG00000000442](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000000442) | [549253](https://www.ncbi.nlm.nih.gov/gene/549253) |  |  |
+| Zebrafish | [ENSDARG00000014358](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000014358) | [445189](https://www.ncbi.nlm.nih.gov/gene/445189) | [ZFIN:ZDB-GENE-030131-1798](https://zfin.org/ZDB-GENE-030131-1798) | articular cartilage development, bone development |
 

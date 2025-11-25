@@ -4,7 +4,6 @@ aliases:
 - GDF-5 protein
 cgnc_id: '1254'
 external_ids:
-  '25': stage 25
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Farrari+Kosher+dlx5+dlx6
   Comments: As insufficient information is provided in publication to verify exact
     sequence used to synthesize probe, the sequence below was obtained from NCBI NM_204338.1
@@ -15,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374249
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204338
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAGCAGTCACAGAGGCAAAGGTAGG
-gene_id: '456496'
+gene_id: '374249'
 gene_type: protein-coding
 images:
 - caption: GDF5 expression
@@ -121,7 +120,7 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GDF5.HH24.Ferrari.2006.f3.gdf5.png
 name: growth differentiation factor 5
-ncbi_id: '456496'
+ncbi_id: '374249'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -146,16 +145,16 @@ orthologs:
 - ensembl: ENSDARG00000002760
   entrez: 30195,100334210
   mod: ZFIN:ZDB-GENE-990415-39,ZFIN:ZDB-GENE-990415-39
-  phenotypes: ZDB-GENE-990415-39,ZDB-GENE-990415-39
+  phenotypes: ''
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGGTTGATTCGGGGTCCATTGAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=456496
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=374249
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/456496
+  url: https://www.ncbi.nlm.nih.gov/gene/374249
 species: Gallus gallus
 symbol: GDF5
 template_length: '1083'
@@ -186,5 +185,5 @@ title: GDF5
 | Human | [ENSG00000125965](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000125965) | [8200](https://www.ncbi.nlm.nih.gov/gene/8200) | [MIM:601146](https://omim.org/entry/601146) | MIM:201250 |
 | Mouse | [ENSMUSG00000038259](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038259) | [14563](https://www.ncbi.nlm.nih.gov/gene/14563) | [MGI:95688](http://www.informatics.jax.org/marker/MGI:95688) | All phenotypic alleles (7):Spontaneous(5) Chemically induced(2) |
 | Xenopus |  | [100189547](https://www.ncbi.nlm.nih.gov/gene/100189547), [446295](https://www.ncbi.nlm.nih.gov/gene/446295) | [481783](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481783) |  |
-| Zebrafish | [ENSDARG00000002760](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002760) | [30195](https://www.ncbi.nlm.nih.gov/gene/30195), [100334210](https://www.ncbi.nlm.nih.gov/gene/100334210) | [ZFIN:ZDB-GENE-990415-39](https://zfin.org/ZDB-GENE-990415-39), [ZFIN:ZDB-GENE-990415-39](https://zfin.org/ZDB-GENE-990415-39) | ZDB-GENE-990415-39,ZDB-GENE-990415-39 |
+| Zebrafish | [ENSDARG00000002760](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000002760) | [30195](https://www.ncbi.nlm.nih.gov/gene/30195), [100334210](https://www.ncbi.nlm.nih.gov/gene/100334210) | [ZFIN:ZDB-GENE-990415-39](https://zfin.org/ZDB-GENE-990415-39), [ZFIN:ZDB-GENE-990415-39](https://zfin.org/ZDB-GENE-990415-39) |  |
 

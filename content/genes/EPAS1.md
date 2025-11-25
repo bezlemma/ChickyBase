@@ -15,7 +15,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395596
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204807
 forward_primer: GGCTGGAAACTCAAGGGACCG
-gene_id: '449722'
+gene_id: '395596'
 gene_type: protein-coding
 images:
 - caption: EPAS1 expression
@@ -341,13 +341,8 @@ images:
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/hif2alpha.fig4.imageS,T
 name: endothelial PAS domain protein 1
-ncbi_id: '449722'
+ncbi_id: '395596'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000116016
   entrez: '2034'
   mod: MIM:603349
@@ -358,24 +353,25 @@ orthologs:
   mod: MGI:109169
   phenotypes: All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5)
   species: Mouse
-- ensembl: ''
-  entrez: 448117,444145
-  mod: '981611'
+- ensembl: ENSXETG00000026167
+  entrez: '448117'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000057671,ENSDARG00000008697
-  entrez: 555192,566886
-  mod: ZFIN:ZDB-GENE-060607-11,ZFIN:ZDB-GENE-030131-4490
-  phenotypes: ZDB-GENE-060607-11,ZDB-GENE-030131-4490
+- ensembl: ENSDARG00000113561
+  entrez: '555192'
+  mod: ZFIN:ZDB-GENE-060607-11
+  phenotypes: Notch signaling pathway, angiogenesis, animal organ development, blood
+    vessel remodeling, cellular response to hypoxia
   species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCATTGGTTGGCTCAGACCTCTCG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=449722
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395596
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449722
+  url: https://www.ncbi.nlm.nih.gov/gene/395596
 species: Gallus gallus
 symbol: EPAS1
 template_length: '1370'
@@ -403,9 +399,8 @@ Copyright © (2007) Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000116016](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000116016) | [2034](https://www.ncbi.nlm.nih.gov/gene/2034) | [MIM:603349](https://omim.org/entry/603349) | MIM:611783 |
 | Mouse | [ENSMUSG00000024140](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000024140) | [13819](https://www.ncbi.nlm.nih.gov/gene/13819) | [MGI:109169](http://www.informatics.jax.org/marker/MGI:109169) | All phenotypic alleles (8):Targeted, knock-out(3) Targeted, other(5) |
-| Xenopus |  | [448117](https://www.ncbi.nlm.nih.gov/gene/448117), [444145](https://www.ncbi.nlm.nih.gov/gene/444145) | [981611](http://www.xenbase.org/gene/showgene.do?method=display&geneId=981611) |  |
-| Zebrafish | [ENSDARG00000057671](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000057671), [ENSDARG00000008697](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008697) | [555192](https://www.ncbi.nlm.nih.gov/gene/555192), [566886](https://www.ncbi.nlm.nih.gov/gene/566886) | [ZFIN:ZDB-GENE-060607-11](https://zfin.org/ZDB-GENE-060607-11), [ZFIN:ZDB-GENE-030131-4490](https://zfin.org/ZDB-GENE-030131-4490) | ZDB-GENE-060607-11,ZDB-GENE-030131-4490 |
+| Xenopus | [ENSXETG00000026167](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026167) | [448117](https://www.ncbi.nlm.nih.gov/gene/448117) |  |  |
+| Zebrafish | [ENSDARG00000113561](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000113561) | [555192](https://www.ncbi.nlm.nih.gov/gene/555192) | [ZFIN:ZDB-GENE-060607-11](https://zfin.org/ZDB-GENE-060607-11) | Notch signaling pathway, angiogenesis, animal organ development, blood vessel remodeling, cellular response to hypoxia |
 

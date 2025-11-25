@@ -6,7 +6,6 @@ aliases:
 - GFR receptor alpha 4
 cgnc_id: '49506'
 external_ids:
-  '25': stage 25stage 25stage 25stage 25stage 25stage 25stage 25stage 25
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0031225
   Citation: http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&cmd=search&term=Tatsumi%20Neurturin-GFRalpha2%20controls%20liver%20
   Comments: 'Authors said: GFRα4 (Genbank accession no. AF045162)'
@@ -19,7 +18,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004872
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204991
 forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATCGGCAGTGTATCGCAGGTAATG
-gene_id: '350069'
+gene_id: '395839'
 gene_type: protein-coding
 images:
 - caption: GFRA4 expression
@@ -347,41 +346,27 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFR2.Tatsumi.2007.Figure2D.jpg
 name: GDNF family receptor alpha 4
-ncbi_id: '350069'
+ncbi_id: '395839'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Mouse
-- ensembl: ''
+- ensembl: ENSXETG00000004362
   entrez: '100487002'
-  mod: '854947'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ENSDARG00000074582,ENSDARG00000056651
-  entrez: 565651,100144564
+- ensembl: ENSDARG00000056651
+  entrez: '100144564'
   mod: ZFIN:ZDB-GENE-080402-10
-  phenotypes: ZDB-GENE-080402-10
+  phenotypes: cell surface receptor protein tyrosine kinase signaling pathway, nervous
+    system development
   species: Zebrafish
 reverse_primer: GCTCTAGAAATTAACCCTCACTAAAGGCAATGTAGTTGGGAGTGATGGGG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=350069
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=395839
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/350069
+  url: https://www.ncbi.nlm.nih.gov/gene/395839
 species: Gallus gallus
 symbol: GFRA4
 template_length: '748'
@@ -412,9 +397,6 @@ Copyright © 2007 Elsevier B.V. All rights reserved.
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  | [100487002](https://www.ncbi.nlm.nih.gov/gene/100487002) | [854947](http://www.xenbase.org/gene/showgene.do?method=display&geneId=854947) |  |
-| Zebrafish | [ENSDARG00000074582](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000074582), [ENSDARG00000056651](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056651) | [565651](https://www.ncbi.nlm.nih.gov/gene/565651), [100144564](https://www.ncbi.nlm.nih.gov/gene/100144564) | [ZFIN:ZDB-GENE-080402-10](https://zfin.org/ZDB-GENE-080402-10) | ZDB-GENE-080402-10 |
+| Xenopus | [ENSXETG00000004362](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004362) | [100487002](https://www.ncbi.nlm.nih.gov/gene/100487002) |  |  |
+| Zebrafish | [ENSDARG00000056651](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000056651) | [100144564](https://www.ncbi.nlm.nih.gov/gene/100144564) | [ZFIN:ZDB-GENE-080402-10](https://zfin.org/ZDB-GENE-080402-10) | cell surface receptor protein tyrosine kinase signaling pathway, nervous system development |
 

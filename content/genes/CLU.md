@@ -16,7 +16,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395722
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204900
-gene_id: '449843'
+gene_id: '395722'
 gene_type: protein-coding
 images:
 - caption: CLU expression
@@ -62,13 +62,8 @@ images:
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CLU.Singh.2016.Fig5.jpg
 name: clusterin
-ncbi_id: '449843'
+ncbi_id: '395722'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000120885
   entrez: '1191'
   mod: MIM:185430
@@ -79,20 +74,20 @@ orthologs:
   mod: MGI:88423
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2)
   species: Mouse
-- ensembl: ''
-  entrez: 448332,380468
-  mod: '5940736'
+- ensembl: ENSXETG00000047328
+  entrez: '448332'
+  mod: ''
   phenotypes: ''
   species: Xenopus
 - ensembl: ENSDARG00000010434
   entrez: '393775'
   mod: ZFIN:ZDB-GENE-040426-1774
-  phenotypes: ZDB-GENE-040426-1774
+  phenotypes: regulation of neuron apoptotic process
   species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/449843
+  url: https://www.ncbi.nlm.nih.gov/gene/395722
 species: Gallus gallus
 symbol: CLU
 title: CLU
@@ -118,9 +113,8 @@ title: CLU
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
 | Human | [ENSG00000120885](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000120885) | [1191](https://www.ncbi.nlm.nih.gov/gene/1191) | [MIM:185430](https://omim.org/entry/185430) |  |
 | Mouse | [ENSMUSG00000022037](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022037) | [12759](https://www.ncbi.nlm.nih.gov/gene/12759) | [MGI:88423](http://www.informatics.jax.org/marker/MGI:88423) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(2) |
-| Xenopus |  | [448332](https://www.ncbi.nlm.nih.gov/gene/448332), [380468](https://www.ncbi.nlm.nih.gov/gene/380468) | [5940736](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5940736) |  |
-| Zebrafish | [ENSDARG00000010434](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010434) | [393775](https://www.ncbi.nlm.nih.gov/gene/393775) | [ZFIN:ZDB-GENE-040426-1774](https://zfin.org/ZDB-GENE-040426-1774) | ZDB-GENE-040426-1774 |
+| Xenopus | [ENSXETG00000047328](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000047328) | [448332](https://www.ncbi.nlm.nih.gov/gene/448332) |  |  |
+| Zebrafish | [ENSDARG00000010434](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010434) | [393775](https://www.ncbi.nlm.nih.gov/gene/393775) | [ZFIN:ZDB-GENE-040426-1774](https://zfin.org/ZDB-GENE-040426-1774) | regulation of neuron apoptotic process |
 

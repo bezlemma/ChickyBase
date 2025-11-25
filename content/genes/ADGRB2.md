@@ -10,7 +10,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:426163
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_423828
 forward_primer: TGGATGTGGAGAACAGGGACAAG
-gene_id: '462039'
+gene_id: '426163'
 gene_type: protein-coding
 images:
 - caption: ADGRB2 expression
@@ -109,41 +109,31 @@ images:
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R567.BAI2.S27AA.001.jpg
 name: adhesion G protein-coupled receptor B2
-ncbi_id: '462039'
+ncbi_id: '426163'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSG00000121753
+  entrez: '576'
+  mod: MIM:602683
   phenotypes: ''
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
+- ensembl: ENSMUSG00000028782
+  entrez: '230775'
+  mod: MGI:2451244
   phenotypes: ''
   species: Mouse
-- ensembl: ''
-  entrez: ''
+- ensembl: ENSXETG00000017680
+  entrez: '100498218'
   mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGGGATGGAGACGCAGAAGTTGAG
 sources:
 - name: GEISHA
   type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=462039
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=426163
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/462039
+  url: https://www.ncbi.nlm.nih.gov/gene/426163
 species: Gallus gallus
 symbol: ADGRB2
 template_length: '804'
@@ -166,9 +156,7 @@ title: ADGRB2
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
+| Human | [ENSG00000121753](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000121753) | [576](https://www.ncbi.nlm.nih.gov/gene/576) | [MIM:602683](https://omim.org/entry/602683) |  |
+| Mouse | [ENSMUSG00000028782](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000028782) | [230775](https://www.ncbi.nlm.nih.gov/gene/230775) | [MGI:2451244](http://www.informatics.jax.org/marker/MGI:2451244) |  |
+| Xenopus | [ENSXETG00000017680](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000017680) | [100498218](https://www.ncbi.nlm.nih.gov/gene/100498218) |  |  |
 

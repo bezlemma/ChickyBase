@@ -12,7 +12,7 @@ external_ids:
   Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000018292
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NC_006107
-gene_id: '467949'
+gene_id: '777851'
 gene_type: miscRNA
 images:
 - caption: MIR1-1 expression
@@ -254,7 +254,7 @@ images:
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/100.42.22se.jpg
 name: microRNA 1-1
-ncbi_id: '467949'
+ncbi_id: '777851'
 orthologs:
 - ensembl: ''
   entrez: ''
@@ -284,7 +284,7 @@ orthologs:
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/467949
+  url: https://www.ncbi.nlm.nih.gov/gene/777851
 species: Gallus gallus
 symbol: MIR1-1
 title: MIR1-1

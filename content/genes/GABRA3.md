@@ -14,7 +14,7 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422289
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_420268
   ZEBrA: http://www.zebrafinchatlas.org/gene_info/GABRA3
-gene_id: '463213'
+gene_id: '422289'
 gene_type: protein-coding
 images:
 - caption: GABRA3 expression
@@ -60,13 +60,8 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ring.Fig2.GABRA3.H.HH45.jpg
 name: gamma-aminobutyric acid type A receptor alpha3 subunit
-ncbi_id: '463213'
+ncbi_id: '422289'
 orthologs:
-- ensembl: ''
-  entrez: '39984'
-  mod: FBgn0001134
-  phenotypes: ''
-  species: Fruit Fly
 - ensembl: ENSG00000011677
   entrez: '2556'
   mod: MIM:305660
@@ -77,20 +72,15 @@ orthologs:
   mod: MGI:95615
   phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
   species: Mouse
-- ensembl: ''
-  entrez: '100488862'
-  mod: '992773'
+- ensembl: ENSXETG00000026177
+  entrez: '100494398'
+  mod: ''
   phenotypes: ''
   species: Xenopus
-- ensembl: ''
-  entrez: '100333913'
-  mod: ZFIN:ZDB-GENE-091204-365
-  phenotypes: ZDB-GENE-091204-365
-  species: Zebrafish
 sources:
 - name: NCBI Gene
   type: database
-  url: https://www.ncbi.nlm.nih.gov/gene/463213
+  url: https://www.ncbi.nlm.nih.gov/gene/422289
 species: Gallus gallus
 symbol: GABRA3
 title: GABRA3
@@ -118,9 +108,7 @@ title: GABRA3
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
 | --- | --- | --- | --- | --- |
-| Fruit Fly |  | [39984](https://www.ncbi.nlm.nih.gov/gene/39984) | FBgn0001134 |  |
 | Human | [ENSG00000011677](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000011677) | [2556](https://www.ncbi.nlm.nih.gov/gene/2556) | [MIM:305660](https://omim.org/entry/305660) |  |
 | Mouse | [ENSMUSG00000031343](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000031343) | [14396](https://www.ncbi.nlm.nih.gov/gene/14396) | [MGI:95615](http://www.informatics.jax.org/marker/MGI:95615) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
-| Xenopus |  | [100488862](https://www.ncbi.nlm.nih.gov/gene/100488862) | [992773](http://www.xenbase.org/gene/showgene.do?method=display&geneId=992773) |  |
-| Zebrafish |  | [100333913](https://www.ncbi.nlm.nih.gov/gene/100333913) | [ZFIN:ZDB-GENE-091204-365](https://zfin.org/ZDB-GENE-091204-365) | ZDB-GENE-091204-365 |
+| Xenopus | [ENSXETG00000026177](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026177) | [100494398](https://www.ncbi.nlm.nih.gov/gene/100494398) |  |  |
 
