@@ -41,113 +41,113 @@ images:
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_2.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Schmidt et al. 2007
+  source_label: Schmidt et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FoxD3.Figure4C.Schmidt.2007.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_3.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Schmidt et al. 2007
+  source_label: Schmidt et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FoxD3.Figure4E.Schmidt.2007.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_4.jpg
   location: null
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Jin et al. 2001
+  source_label: Jin et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.JIN.2001.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_5.jpg
   location: Neural Crest
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Jin et al. 2001
+  source_label: Jin et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXD3.FIG1A.JIN.2001.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_6.jpg
   location: Neural Plate/Tube
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXD3.FIG1F.KHUD.2009.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_7.jpg
   location: Neural Plate/Tube
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXD3.FIG3A.KHUD.2009.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_8.jpg
   location: Neural Plate/Tube
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXD3.FIG3B.KHUD.2009.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_9.jpg
   location: Notochord
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXD3.FIG1O.KHUD.2009.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_10.jpg
   location: Neural Plate/Tube, Notochord
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXD3.FIG1X.KHUD.2009.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_11.jpg
   location: null
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.KHUD.2009.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_12.jpg
   location: Neural Plate/Tube, Notochord
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXD3.FIG1GG.KHUD.2009.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_13.jpg
   location: Neural Crest
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXD3.FIG2D.KHUD.2009.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_14.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXD3.FIG2N.KHUD.2009.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_15.jpg
   location: null
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.KHUD.2009.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_16.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXD3.FIG2X.KHUD.2009.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_17.jpg
   location: Ectoderm, Neural Crest, Neural Plate/Tube
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Coles et al. 2007
+  source_label: Coles et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXD3.FIG2E.COLES.2007.jpg
 - caption: FOXD3 expression
@@ -160,36 +160,36 @@ images:
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_19.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Taney et al. 2005
+  source_label: Taney et al. 2005
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/foxd3.fig1.taney.2005.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_20.jpg
   location: null
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Taney et al. 2005
+  source_label: Taney et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG7.TANEY.2005.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_21.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Taney et al. 2005
+  source_label: Taney et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXD3.FIG7G.TANEY.2005.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_22.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Taney et al. 2005
+  source_label: Taney et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXD3.FIG7H.TANEY.2005.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_23.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Taney et al. 2005
+  source_label: Taney et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXD3.FIG7L.TANEY.2005.jpg
 - caption: FOXD3 expression
@@ -244,8 +244,8 @@ images:
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_31.jpg
   location: Neural Crest
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Groysman et al. 2008
+  source_label: Groysman et al. 2008
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXD3.Groysman.2008.4D.png
 - caption: FOXD3 expression
@@ -265,15 +265,15 @@ images:
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_34.jpg
   location: Neural Crest
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Ferronha et al. 2013
+  source_label: Ferronha et al. 2013
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferronha.2013.C.HH10.FoxD3.jpg
 - caption: FOXD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXD3/450402_35.jpg
   location: null
-  source: McKeown et al. 2005
-  source_label: McKeown et al. 2005
+  source: Ferronha et al. 2013
+  source_label: Ferronha et al. 2013
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferronha.2013.Fig.3.AllImages-1.jpg
 - caption: FOXD3 expression

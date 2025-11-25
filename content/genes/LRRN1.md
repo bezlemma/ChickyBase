@@ -19,64 +19,64 @@ images:
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_0.jpg
   location: Diencephalon, Midbrain, Rhombomeres, Telencephalon
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Garcia et al. 2007
+  source_label: Garcia et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.FIG2A.GARCIA.2007.jpg
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_1.jpg
   location: Diencephalon, Forebrain, Midbrain
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Garcia et al. 2007
+  source_label: Garcia et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.FIG2B.GARCIA.2007.jpg
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_2.jpg
   location: Diencephalon, Forebrain, Midbrain, Rhombomeres
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Garcia et al. 2007
+  source_label: Garcia et al. 2007
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.FIG2DE.GARCIA.2007.jpg
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_3.jpg
   location: Midbrain, Rhombomeres, Telencephalon
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Garcia et al. 2007
+  source_label: Garcia et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.FIG2G.GARCIA.2007.jpg
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_4.jpg
   location: Midbrain, Rhombomeres, Telencephalon
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Garcia et al. 2007
+  source_label: Garcia et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.FIG2K.GARCIA.2007.jpg
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_5.jpg
   location: Midbrain, Rhombomeres, Telencephalon
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Garcia et al. 2007
+  source_label: Garcia et al. 2007
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.FIG3A.GARCIA.2007.jpg
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_6.jpg
   location: Midbrain, Telencephalon
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Garcia et al. 2007
+  source_label: Garcia et al. 2007
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.FIG3C.GARCIA.2007.jpg
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_7.jpg
   location: Midbrain, Telencephalon
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Garcia et al. 2007
+  source_label: Garcia et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.FIG3E.GARCIA.2007.jpg
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_8.jpg
   location: Midbrain, Telencephalon
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Garcia et al. 2007
+  source_label: Garcia et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.FIG3G.GARCIA.2007.jpg
 - caption: LRRN1 expression
@@ -117,261 +117,261 @@ images:
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_14.jpg
   location: Epiblast
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.2
     lrrn1 st3.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_15.jpg
   location: Neural Plate/Tube
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.2
     lrrn1 st5.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_16.jpg
   location: Neural Plate/Tube
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.4
     lrrn1 st12.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_17.jpg
   location: Neural Plate/Tube
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.4
     lrrn1 st13.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_18.jpg
   location: Neural Plate/Tube
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.3
     lrrn1 st14.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_19.jpg
   location: Diencephalon
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.4
     lrrn1 st14.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_20.jpg
   location: Neural Plate/Tube
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.4
     lrrn1 ZLI st15.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_21.jpg
   location: Forebrain, Hindbrain, Midbrain
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.4
     lrrn1 st15.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_22.jpg
   location: Neural Plate/Tube, Rhombomeres
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.4
     lrrn1 st16.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_23.jpg
   location: Neural Plate/Tube
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.5
     lrrn1 st16.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_24.jpg
   location: Hindbrain
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.3
     lrrn1 hindbrain st17.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_25.jpg
   location: Hindbrain
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.3
     lrrn1 st17.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_26.jpg
   location: Diencephalon
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.4
     lrrn1 anterior ZLI st17.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_27.jpg
   location: Diencephalon
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.4
     lrrn1 himagG st17.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_28.jpg
   location: Forebrain, Hindbrain, Midbrain
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.4
     lrrn1 st17.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_29.jpg
   location: Hindbrain
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.5
     lrrn1 st17.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_30.jpg
   location: Forebrain, Hindbrain, Midbrain
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.2
     lrrn1 st18.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_31.jpg
   location: null
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.2.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_32.jpg
   location: Diencephalon, Retina
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.3
     lrrn1 eyes st18.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_33.jpg
   location: Rhombomeres
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.3
     lrrn1 st18.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_34.jpg
   location: Retina
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.5
     lrrn1 eye st18.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_35.jpg
   location: Dermomyotome, Spinal Cord
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.5
     lrrn1 spine st18.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_36.jpg
   location: null
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.5.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_37.jpg
   location: Forebrain, Hindbrain, Midbrain, Retina
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.3
     lrrn1 forebrain st19.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_38.jpg
   location: Rhombomeres
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.3
     lrrn1 rhombomeres st19.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_39.jpg
   location: Neural Plate/Tube
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.3
     lrrn1 st19.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_40.jpg
   location: Neural Plate/Tube
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.4
     lrrn1 st21.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_41.jpg
   location: Hindbrain
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.3
     lrrn1 st22.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_42.jpg
   location: Diencephalon
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.4
     lrrn1 dorsprethalamus st23.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_43.jpg
   location: null
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.4
     lrrn1 st23.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_44.jpg
   location: null
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.4.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_45.jpg
   location: Hindbrain
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.3
     lrrn1 st25.png
 - caption: LRRN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRRN1/377636_46.jpg
   location: null
-  source: Garcia-Calero et al. 2006
-  source_label: Garcia-Calero et al. 2006
+  source: Andreae et al. 2007
+  source_label: Andreae et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRRN1.Andreae.2007.Fig.3.png
 - caption: LRRN1 expression

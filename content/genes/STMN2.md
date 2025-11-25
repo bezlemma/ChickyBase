@@ -129,64 +129,64 @@ images:
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_15.jpg
   location: Spinal Cord
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Shin et al. 2003
+  source_label: Shin et al. 2003
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure4E.Shin.2003.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_16.jpg
   location: Diencephalon, Hindbrain, Midbrain, Telencephalon
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Shin et al. 2003
+  source_label: Shin et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure3B.Shin.2003.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_17.jpg
   location: Telencephalon
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Shin et al. 2003
+  source_label: Shin et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure3E1.Shin.2003.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_18.jpg
   location: Telencephalon
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Shin et al. 2003
+  source_label: Shin et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure3F.Shin.2003.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_19.jpg
   location: null
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Shin et al. 2003
+  source_label: Shin et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure3G.Shin.2003.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_20.jpg
   location: Neural Plate/Tube
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Shin et al. 2003
+  source_label: Shin et al. 2003
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure3I'.Shin.2003.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_21.jpg
   location: Neural Plate/Tube
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Shin et al. 2003
+  source_label: Shin et al. 2003
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure3I.Shin.2003.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_22.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Shin et al. 2003
+  source_label: Shin et al. 2003
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure4G.Shin.2003.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_23.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Shin et al. 2003
+  source_label: Shin et al. 2003
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure4H.Shin.2003.jpg
 - caption: STMN2 expression
@@ -290,8 +290,8 @@ images:
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_38.jpg
   location: Unlabeled
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.U.HH10.STMN2.jpg
 - caption: STMN2 expression
@@ -304,78 +304,78 @@ images:
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_40.jpg
   location: Peripheral Nervous System
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.V.HH12.STMN2.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_41.jpg
   location: Spinal Cord
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig7.STMn2.B.HH14-2.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_42.jpg
   location: null
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig7.allimages-10.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_43.jpg
   location: Peripheral Nervous System
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.W.HH15.STMN2.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_44.jpg
   location: Rhombomeres
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig3.STMN2.HH16.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_45.jpg
   location: null
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig3allimages-8.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_46.jpg
   location: Peripheral Nervous System
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.X.HH18.STMN2.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_47.jpg
   location: Peripheral Nervous System
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.Y.HH22.STMN2.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_48.jpg
   location: Rhombomeres
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig3.STMN2.J.HH22.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_49.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig6.STMN2.E.HH22.jpg
 - caption: STMN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STMN2/459588_50.jpg
   location: null
-  source: Politis et al. 2007
-  source_label: Politis et al. 2007
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig6.allimages.HH22-5.jpg
 - caption: STMN2 expression

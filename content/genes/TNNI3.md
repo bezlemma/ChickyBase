@@ -29,113 +29,113 @@ images:
 - caption: TNNI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI3/460946_1.jpg
   location: Heart, Myocardium, Splanchnic Mesoderm
-  source: vandenBerg et al. 2011
-  source_label: vandenBerg et al. 2011
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cTNI.Houweling.2002.5A.png
 - caption: TNNI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI3/460946_2.jpg
   location: Heart, Splanchnic Mesoderm
-  source: vandenBerg et al. 2011
-  source_label: vandenBerg et al. 2011
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cTNI.houweling.2002.6B.png
 - caption: TNNI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI3/460946_3.jpg
   location: Heart, Splanchnic Mesoderm
-  source: vandenBerg et al. 2011
-  source_label: vandenBerg et al. 2011
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cTNI.houweling.2002.6D.png
 - caption: TNNI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI3/460946_4.jpg
   location: Heart, Splanchnic Mesoderm
-  source: vandenBerg et al. 2011
-  source_label: vandenBerg et al. 2011
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cTNI.houweling.2002.6F.png
 - caption: TNNI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI3/460946_5.jpg
   location: Outflow Tract, Ventricles
-  source: vandenBerg et al. 2011
-  source_label: vandenBerg et al. 2011
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cTNI.houweling.2002.4F.png
 - caption: TNNI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI3/460946_6.jpg
   location: Myocardium, Outflow Tract, Ventricles
-  source: vandenBerg et al. 2011
-  source_label: vandenBerg et al. 2011
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cTNI.houweling.2002.3C.png
 - caption: TNNI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI3/460946_7.jpg
   location: Myocardium
-  source: vandenBerg et al. 2011
-  source_label: vandenBerg et al. 2011
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cTNI.houweling.2002.3F.png
 - caption: TNNI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI3/460946_8.jpg
   location: Atria, Myocardium, Ventricles
-  source: vandenBerg et al. 2011
-  source_label: vandenBerg et al. 2011
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cTNI.houweling.2002.2F.png
 - caption: TNNI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI3/460946_9.jpg
   location: Atria, Myocardium, Ventricles
-  source: vandenBerg et al. 2011
-  source_label: vandenBerg et al. 2011
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cTNI.houweling.2002.1B.png
 - caption: TNNI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI3/460946_10.jpg
   location: Atria, Heart, Myocardium, Ventricles
-  source: vandenBerg et al. 2011
-  source_label: vandenBerg et al. 2011
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cTNI.houweling.2002.1E.png
 - caption: TNNI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI3/460946_11.jpg
   location: Heart
-  source: vandenBerg et al. 2011
-  source_label: vandenBerg et al. 2011
+  source: Vandenberg et al. 2007
+  source_label: Vandenberg et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CTNI.HH25.vandenBerg.2007.f1.ctni.png
 - caption: TNNI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI3/460946_12.jpg
   location: Heart, Valves
-  source: vandenBerg et al. 2011
-  source_label: vandenBerg et al. 2011
+  source: Vandenberg et al. 2007
+  source_label: Vandenberg et al. 2007
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CTNI.HH32.2.vandenBerg.2007.f1.ctni.png
 - caption: TNNI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI3/460946_13.jpg
   location: null
-  source: vandenBerg et al. 2011
-  source_label: vandenBerg et al. 2011
+  source: Vandenberg et al. 2007
+  source_label: Vandenberg et al. 2007
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CTNI.HH32.vandenBerg.2007.f1.ctni.png
 - caption: TNNI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI3/460946_14.jpg
   location: Heart
-  source: vandenBerg et al. 2011
-  source_label: vandenBerg et al. 2011
+  source: Vandenberg et al. 2007
+  source_label: Vandenberg et al. 2007
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CTNI.HH36.mag.vandenBerg.2007.f1.ctni.png
 - caption: TNNI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI3/460946_15.jpg
   location: Heart
-  source: vandenBerg et al. 2011
-  source_label: vandenBerg et al. 2011
+  source: Vandenberg et al. 2007
+  source_label: Vandenberg et al. 2007
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CTNI.HH36.vandenBerg.2007.f1.ctni.png
 - caption: TNNI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI3/460946_16.jpg
   location: null
-  source: vandenBerg et al. 2011
-  source_label: vandenBerg et al. 2011
+  source: Vandenberg et al. 2007
+  source_label: Vandenberg et al. 2007
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/vandenBerg.2007.f1.ctni.png
 name: troponin I type 3 (cardiac)

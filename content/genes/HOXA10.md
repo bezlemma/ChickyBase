@@ -39,85 +39,85 @@ images:
 - caption: HOXA10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA10/458633_3.jpg
   location: null
-  source: Hughes et al. 2011
-  source_label: Hughes et al. 2011
+  source: Alvarez et al. 2003
+  source_label: Alvarez et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Alvarez.2003.f3.hoxa10.png
 - caption: HOXA10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA10/458633_4.jpg
   location: Lateral Plate Mesoderm, Somites
-  source: Hughes et al. 2011
-  source_label: Hughes et al. 2011
+  source: Alvarez et al. 2003
+  source_label: Alvarez et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA10.b.Alvarez.2003.f3.hoxa10.png
 - caption: HOXA10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA10/458633_5.jpg
   location: Lateral Plate Mesoderm, Somites
-  source: Hughes et al. 2011
-  source_label: Hughes et al. 2011
+  source: Alvarez et al. 2003
+  source_label: Alvarez et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA10.e.Alvarez.2003.f3.hoxa10.png
 - caption: HOXA10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA10/458633_6.jpg
   location: Leg
-  source: Hughes et al. 2011
-  source_label: Hughes et al. 2011
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-10.Nelson.1996.Fig5BL-st19.jpg
 - caption: HOXA10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA10/458633_7.jpg
   location: Wing
-  source: Hughes et al. 2011
-  source_label: Hughes et al. 2011
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-10.Nelson.1996.Fig5BW-st19.jpg
 - caption: HOXA10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA10/458633_8.jpg
   location: Leg
-  source: Hughes et al. 2011
-  source_label: Hughes et al. 2011
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-10.Nelson.1996.Fig5BL-st23.jpg
 - caption: HOXA10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA10/458633_9.jpg
   location: Wing
-  source: Hughes et al. 2011
-  source_label: Hughes et al. 2011
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-10.Nelson.1996.Fig5BW-st23.jpg
 - caption: HOXA10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA10/458633_10.jpg
   location: Leg
-  source: Hughes et al. 2011
-  source_label: Hughes et al. 2011
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-10.Nelson.1996.Fig5BL-st25.jpg
 - caption: HOXA10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA10/458633_11.jpg
   location: Wing
-  source: Hughes et al. 2011
-  source_label: Hughes et al. 2011
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-10.Nelson.1996.Fig5BW-st25.jpg
 - caption: HOXA10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA10/458633_12.jpg
   location: Leg
-  source: Hughes et al. 2011
-  source_label: Hughes et al. 2011
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-10.Nelson.1996.Fig5BL-st28.jpg
 - caption: HOXA10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA10/458633_13.jpg
   location: Wing
-  source: Hughes et al. 2011
-  source_label: Hughes et al. 2011
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-10.Nelson.1996.Fig5BW-st28.jpg
 - caption: HOXA10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA10/458633_14.jpg
   location: null
-  source: Hughes et al. 2011
-  source_label: Hughes et al. 2011
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxa-10.Nelson.1996.Fig5.jpg
 name: homeobox A10

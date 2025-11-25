@@ -59,85 +59,85 @@ images:
 - caption: OLIG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OLIG2/460387_5.jpg
   location: null
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Garciacampmany et al. 2007
+  source_label: Garciacampmany et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GarciaCampmany.2007.f2.olig2.png
 - caption: OLIG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OLIG2/460387_6.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Garciacampmany et al. 2007
+  source_label: Garciacampmany et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OIG2.GarciaCampmany.2007.f2.olig2.png
 - caption: OLIG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OLIG2/460387_7.jpg
   location: null
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Garciacampmany et al. 2007
+  source_label: Garciacampmany et al. 2007
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GarciaCampmany.2007.f1.olig2.png
 - caption: OLIG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OLIG2/460387_8.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Garciacampmany et al. 2007
+  source_label: Garciacampmany et al. 2007
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OLIG2.GarciaCampmany.2007.f1.olig2.png
 - caption: OLIG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OLIG2/460387_9.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Zhou et al. 2001
+  source_label: Zhou et al. 2001
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhou.2001.Fig2.F.jpg
 - caption: OLIG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OLIG2/460387_10.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Zhou et al. 2001
+  source_label: Zhou et al. 2001
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhou.2001.Fig2.G.jpg
 - caption: OLIG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OLIG2/460387_11.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Zhou et al. 2001
+  source_label: Zhou et al. 2001
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhou.2001.Fig2.H.jpg
 - caption: OLIG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OLIG2/460387_12.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Zhou et al. 2001
+  source_label: Zhou et al. 2001
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhou.2001.Fig2.I.jpg
 - caption: OLIG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OLIG2/460387_13.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Zhou et al. 2001
+  source_label: Zhou et al. 2001
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhou.2001.Fig2.J.jpg
 - caption: OLIG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OLIG2/460387_14.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Zhu et al. 2001
+  source_label: Zhu et al. 2001
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhu.2001.Fig1.F-2.jpg
 - caption: OLIG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OLIG2/460387_15.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Zhu et al. 2001
+  source_label: Zhu et al. 2001
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhu.2001.Fig1.K.jpg
 - caption: OLIG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OLIG2/460387_16.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Zhu et al. 2001
+  source_label: Zhu et al. 2001
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhu.2001.Fig1.P.jpg
 name: oligodendrocyte transcription factor 2

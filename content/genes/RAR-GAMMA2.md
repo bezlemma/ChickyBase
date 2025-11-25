@@ -76,15 +76,15 @@ images:
 - caption: RAR-GAMMA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RAR-GAMMA2/461782_8.jpg
   location: Hindbrain, Neural Plate/Tube
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARGAMMA.Wilson.2007.F5.rargamma.png
 - caption: RAR-GAMMA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RAR-GAMMA2/461782_9.jpg
   location: null
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wilson.2007.F5.rargamma.png
 name: retinoic acid receptor gamma 2 isoform

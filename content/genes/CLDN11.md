@@ -19,56 +19,56 @@ images:
 - caption: CLDN11 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CLDN11/463053_0.jpg
   location: Ovary
-  source: Carré et al. 2011
-  source_label: Carré et al. 2011
+  source: Carre et al. 2011
+  source_label: Carre et al. 2011
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CLDN11.Carre.2011.Fig.5
     cldn11female st34.png
 - caption: CLDN11 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CLDN11/463053_1.jpg
   location: Gonad
-  source: Carré et al. 2011
-  source_label: Carré et al. 2011
+  source: Carre et al. 2011
+  source_label: Carre et al. 2011
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CLDN11.Carre.2011.Fig.5
     cldn11gonads st34.png
 - caption: CLDN11 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CLDN11/463053_2.jpg
   location: Testes
-  source: Carré et al. 2011
-  source_label: Carré et al. 2011
+  source: Carre et al. 2011
+  source_label: Carre et al. 2011
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CLDN11.Carre.2011.Fig.5
     cldn11male st34.png
 - caption: CLDN11 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CLDN11/463053_3.jpg
   location: null
-  source: Carré et al. 2011
-  source_label: Carré et al. 2011
+  source: Carre et al. 2011
+  source_label: Carre et al. 2011
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CLDN11.Carre.2011.Fig.5
     .png
 - caption: CLDN11 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CLDN11/463053_4.jpg
   location: Gonad
-  source: Carré et al. 2011
-  source_label: Carré et al. 2011
+  source: Carre et al. 2011
+  source_label: Carre et al. 2011
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CLDN11.Carre.2011.Fig.5
     cldn11 gonads st36.png
 - caption: CLDN11 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CLDN11/463053_5.jpg
   location: Testes
-  source: Carré et al. 2011
-  source_label: Carré et al. 2011
+  source: Carre et al. 2011
+  source_label: Carre et al. 2011
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CLDN11.Carre.2011.Fig.5
     cldn11 male st.36.png
 - caption: CLDN11 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CLDN11/463053_6.jpg
   location: Unlabeled
-  source: Carré et al. 2011
-  source_label: Carré et al. 2011
+  source: Carre et al. 2011
+  source_label: Carre et al. 2011
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CLDN11.Carre.2011.Fig.5
     cldn11female st36.png

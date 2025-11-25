@@ -48,102 +48,102 @@ images:
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_3.jpg
   location: Ear/Otic Placode
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Sanchez-calderon et al. 2004
+  source_label: Sanchez-calderon et al. 2004
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GBX2.Sanchez-Calderon.2004.Fig.1
     gbx2 adjventral.png
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_4.jpg
   location: Ear/Otic Placode
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Sanchez-calderon et al. 2004
+  source_label: Sanchez-calderon et al. 2004
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GBX2.Sanchez-Calderon.2004.Fig.1
     gbx2 dorsallevel.png
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_5.jpg
   location: Ear/Otic Placode
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Sanchez-calderon et al. 2004
+  source_label: Sanchez-calderon et al. 2004
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GBX2.Sanchez-Calderon.2004.Fig.1
     gbx2 dorsomedial.png
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_6.jpg
   location: Ear/Otic Placode
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Sanchez-calderon et al. 2004
+  source_label: Sanchez-calderon et al. 2004
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GBX2.Sanchez-Calderon.2004.Fig.1
     gbx2 dorsomedial2.png
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_7.jpg
   location: Ear/Otic Placode
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Sanchez-calderon et al. 2004
+  source_label: Sanchez-calderon et al. 2004
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GBX2.Sanchez-Calderon.2004.Fig.1
     gbx2 epithelium.png
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_8.jpg
   location: Ear/Otic Placode
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Sanchez-calderon et al. 2004
+  source_label: Sanchez-calderon et al. 2004
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GBX2.Sanchez-Calderon.2004.Fig.1
     gbx2 negepithelium.png
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_9.jpg
   location: null
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Sanchez-calderon et al. 2004
+  source_label: Sanchez-calderon et al. 2004
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GBX2.Sanchez-Calderon.2004.Fig.1.png
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_10.jpg
   location: Ear/Otic Placode
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Sanchez-calderon et al. 2004
+  source_label: Sanchez-calderon et al. 2004
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GBX2.Sanchez-Calderon.2004.Fig.3
     gbx2 TS.png
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_11.jpg
   location: Ear/Otic Placode
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Sanchez-calderon et al. 2004
+  source_label: Sanchez-calderon et al. 2004
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GBX2.Sanchez-Calderon.2004.Fig.3
     gbx2 medialwall.png
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_12.jpg
   location: null
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Sanchez-calderon et al. 2004
+  source_label: Sanchez-calderon et al. 2004
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GBX2.Sanchez-Calderon.2004.Fig.3.png
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_13.jpg
   location: Ear/Otic Placode
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Sanchez-calderon et al. 2004
+  source_label: Sanchez-calderon et al. 2004
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GBX2.Sanchez-Calderon.2004.Fig.4
     gbx2 Isections.png
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_14.jpg
   location: Ear/Otic Placode
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Sanchez-calderon et al. 2004
+  source_label: Sanchez-calderon et al. 2004
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GBX2.Sanchez-Calderon.2004.Fig.4
     gbx2.png
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_15.jpg
   location: null
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Sanchez-calderon et al. 2004
+  source_label: Sanchez-calderon et al. 2004
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GBX2.Sanchez-Calderon.2004.Fig.4.png
 - caption: GBX2 expression
@@ -320,15 +320,15 @@ images:
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_39.jpg
   location: Ear/Otic Placode
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Sanchez-guardado et al. 2009
+  source_label: Sanchez-guardado et al. 2009
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GBX2.Sanchez-Guardado.2009.f1.gbx2.png
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_40.jpg
   location: null
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Sanchez-guardado et al. 2009
+  source_label: Sanchez-guardado et al. 2009
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sanchez-Guardado.2009.f1.gbx2.png
 - caption: GBX2 expression
@@ -418,36 +418,36 @@ images:
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_53.jpg
   location: Ear/Otic Placode, Placode
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_3_GBX2_G-H.jpg
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_54.jpg
   location: Central Nervous System, Ear/Otic Placode
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_4_GBX2_M.jpg
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_55.jpg
   location: Central Nervous System, Ear/Otic Placode
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_4_GBX2_N.jpg
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_56.jpg
   location: null
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_3_ALLIMAGES-2.jpg
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_57.jpg
   location: null
-  source: Vieira et al. 2005
-  source_label: Vieira et al. 2005
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_4_Allimages-5.jpg
 - caption: GBX2 expression

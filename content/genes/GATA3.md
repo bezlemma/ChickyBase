@@ -156,15 +156,15 @@ images:
 - caption: GATA3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GATA3/456256_18.jpg
   location: null
-  source: Sheng et al. 1999
-  source_label: Sheng et al. 1999
+  source: Mclarren et al. 2003
+  source_label: Mclarren et al. 2003
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.MCLARREN.2003.jpg
 - caption: GATA3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GATA3/456256_19.jpg
   location: Ectoderm
-  source: Sheng et al. 1999
-  source_label: Sheng et al. 1999
+  source: Mclarren et al. 2003
+  source_label: Mclarren et al. 2003
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GATA3.FIG1D.MCLARREN.2003.jpg
 - caption: GATA3 expression
@@ -291,15 +291,15 @@ images:
 - caption: GATA3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GATA3/456256_36.jpg
   location: null
-  source: Sheng et al. 1999
-  source_label: Sheng et al. 1999
+  source: Christophorou et al. 2009
+  source_label: Christophorou et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Christophorou.2009.f1.gata3.png
 - caption: GATA3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GATA3/456256_37.jpg
   location: Headfold
-  source: Sheng et al. 1999
-  source_label: Sheng et al. 1999
+  source: Christophorou et al. 2009
+  source_label: Christophorou et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GATA3.Christophorou.2009.f1.gata3.png
 name: GATA binding protein 3

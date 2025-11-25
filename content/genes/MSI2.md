@@ -66,16 +66,16 @@ images:
 - caption: MSI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSI2/452508_5.jpg
   location: Sinus Venosus
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSI2.Anderson.2019.Supplementary
     figure 5Q-st12.jpg
 - caption: MSI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSI2/452508_6.jpg
   location: null
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSI2.Anderson.2019.Supplementary
     figure 5Q.jpg

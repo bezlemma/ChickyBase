@@ -33,43 +33,43 @@ images:
 - caption: IGFBP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGFBP4/363846_2.jpg
   location: Limb Buds
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGFBP4.Singh.2016.Fig2A'-st28.jpg
 - caption: IGFBP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGFBP4/363846_3.jpg
   location: Limb Buds
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGFBP4.Singh.2016.Fig2B'-st31.jpg
 - caption: IGFBP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGFBP4/363846_4.jpg
   location: Limb Buds
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGFBP4.Singh.2016.Fig2C'-st34.jpg
 - caption: IGFBP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGFBP4/363846_5.jpg
   location: Limb Buds
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGFBP4.Singh.2016.Fig2D'-st36.jpg
 - caption: IGFBP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGFBP4/363846_6.jpg
   location: Limb Buds
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGFBP4.Singh.2016.Fig2E'-st38.jpg
 - caption: IGFBP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGFBP4/363846_7.jpg
   location: null
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGFBP4.Singh.2016.Fig2.jpg
 name: insulin like growth factor binding protein 4

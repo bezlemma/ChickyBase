@@ -131,16 +131,16 @@ images:
 - caption: LINGO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LINGO1/456468_15.jpg
   location: Heart
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LINGO1.Anderson.2019.Supplementary
     figure 5H2-st12.jpg
 - caption: LINGO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LINGO1/456468_16.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LINGO1.Anderson.2019.Supplementary
     figure 5H2.jpg

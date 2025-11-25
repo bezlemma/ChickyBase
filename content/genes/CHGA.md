@@ -51,8 +51,8 @@ images:
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_4.jpg
   location: Rhombomeres
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.K.HH10.CHGA.jpg
 - caption: CHGA expression
@@ -65,148 +65,148 @@ images:
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_6.jpg
   location: Peripheral Nervous System
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.L.HH12.CHGA.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_7.jpg
   location: Peripheral Nervous System
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig2.G.HH14.CHGA.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_8.jpg
   location: Unlabeled
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig7.Chga.C.HH14-2.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_9.jpg
   location: null
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig7.allimages-8.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_10.jpg
   location: Peripheral Nervous System
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.M.HH15.CHGA.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_11.jpg
   location: Rhombomeres
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig3.CHGA.HH16.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_12.jpg
   location: Cranial PNS
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig5.C.CHga.HH16.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_13.jpg
   location: null
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig5.allimages3.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_14.jpg
   location: Cranial PNS, Rhombomeres
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig2.C.HH17.CHGA.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_15.jpg
   location: null
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig2.allimages-3.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_16.jpg
   location: Cranial PNS
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig5.G.CHGA.HH17.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_17.jpg
   location: Cranial PNS
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.N.HH18.CHGA.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_18.jpg
   location: Cranial PNS
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig4.CHGA.HH18.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_19.jpg
   location: null
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig4.allimages3.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_20.jpg
   location: Cranial PNS
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig5.K.CHGA.HH18.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_21.jpg
   location: Peripheral Nervous System
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.O.HH22.CHGA.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_22.jpg
   location: Rhombomeres
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig3.CHGA.HH22.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_23.jpg
   location: null
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig3allimages-5.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_24.jpg
   location: Cranial PNS
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig5.O.CHGA.HH22.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_25.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig6.CHGAl.C.HH22.jpg
 - caption: CHGA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHGA/448839_26.jpg
   location: null
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig6.allimages.HH22-3.jpg
 - caption: CHGA expression

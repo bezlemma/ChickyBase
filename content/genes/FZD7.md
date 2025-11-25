@@ -50,36 +50,36 @@ images:
 - caption: FZD7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD7/454451_3.jpg
   location: Surface Ectoderm
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2C.Fuhrmann.2006.jpg
 - caption: FZD7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD7/454451_4.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2D.Fuhrmann.2006.jpg
 - caption: FZD7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD7/454451_5.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2E.Fuhrmann.2006.jpg
 - caption: FZD7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD7/454451_6.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2F.Fuhrmann.2006.jpg
 - caption: FZD7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD7/454451_7.jpg
   location: Spinal Cord
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Chesnutt et al. 2004
+  source_label: Chesnutt et al. 2004
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure5J.Fz7.Chesnutt.2004.jpg
 - caption: FZD7 expression
@@ -162,54 +162,54 @@ images:
 - caption: FZD7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD7/454451_19.jpg
   location: Duodenum, Gizzard, Hindgut, Midgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz7.Theodosiou.2003.Figure2.
     panel A.png
 - caption: FZD7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD7/454451_20.jpg
   location: Duodenum, Gizzard, Hindgut, Midgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz7.Theodosiou.2003.Figure2G.
     panel A.png
 - caption: FZD7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD7/454451_21.jpg
   location: Duodenum, Gizzard, Hindgut, Midgut, Stomach
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz7.Theodosiou.2003.Figure2.
     panel B.png
 - caption: FZD7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD7/454451_22.jpg
   location: Duodenum, Gizzard, Hindgut, Midgut, Stomach
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz7.Theodosiou.2003.Figure2R.
     panel B.png
 - caption: FZD7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD7/454451_23.jpg
   location: Foregut, Hindgut, Midgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz7.Theodosiou.2003.Figure2.panelC.png
 - caption: FZD7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD7/454451_24.jpg
   location: Hindgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz7.Theodosiou.2003.Figure2CC'.panelC.png
 - caption: FZD7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD7/454451_25.jpg
   location: Foregut, Hindgut, Midgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz7.Theodosiou.2003.Figure2CC.panelC.png
 - caption: FZD7 expression
@@ -247,8 +247,8 @@ images:
 - caption: FZD7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD7/454451_30.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Geethaloganathan et al. 2009
+  source_label: Geethaloganathan et al. 2009
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZD7.GeethaLoganathan.2009.Figure8.panelA.png
 - caption: FZD7 expression
@@ -327,15 +327,15 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD7/454451_40.jpg
   location: Lateral Plate Mesoderm, Neural Plate/Tube, Notochord, Primitive Streak,
     Somites
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Cauthen et al. 2001
+  source_label: Cauthen et al. 2001
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Frizzled-7.Cauthen.2001.Fig1K-st10.jpg
 - caption: FZD7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD7/454451_41.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Cauthen et al. 2001
+  source_label: Cauthen et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Frizzled-7.Cauthen.2001.jpg
 name: frizzled class receptor 7

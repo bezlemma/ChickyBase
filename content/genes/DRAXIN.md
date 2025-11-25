@@ -149,8 +149,8 @@ images:
 - caption: DRAXIN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DRAXIN/458631_17.jpg
   location: null
-  source: Naser et al. 2009
-  source_label: Naser et al. 2009
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DRAXIN.Anderson.2019.Fig2.jpg
 name: dorsal inhibitory axon guidance protein

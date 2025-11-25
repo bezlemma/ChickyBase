@@ -21,15 +21,15 @@ images:
 - caption: IHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IHH/449998_0.jpg
   location: Neural Plate/Tube, Spinal Cord
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IHH.FIG7H.AGLYA.2007.jpg
 - caption: IHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IHH/449998_1.jpg
   location: Spinal Cord
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IHH.FIG7I.AGLYA.2007.jpg
 - caption: IHH expression
@@ -134,29 +134,29 @@ images:
 - caption: IHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IHH/449998_16.jpg
   location: Wing
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Zou et al. 1997
+  source_label: Zou et al. 1997
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zou.1997.Fig4.IHH.F.jpg
 - caption: IHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IHH/449998_17.jpg
   location: Wing
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Zou et al. 1997
+  source_label: Zou et al. 1997
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zou.1997.Fig3.IHH.E.jpg
 - caption: IHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IHH/449998_18.jpg
   location: Leg
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Zou et al. 1997
+  source_label: Zou et al. 1997
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zou.1997.Fig3.G.IHH.jpg
 - caption: IHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IHH/449998_19.jpg
   location: Wing
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Zhang et al. 2003
+  source_label: Zhang et al. 2003
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhang.2003.Fig6.J.IHH.jpg
 name: indian hedgehog

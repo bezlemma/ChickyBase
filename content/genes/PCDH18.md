@@ -180,50 +180,50 @@ images:
 - caption: PCDH18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH18/468124_23.jpg
   location: Dermis
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh18.Lin.2013.Fig2J-st34.jpg
 - caption: PCDH18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH18/468124_24.jpg
   location: Dermis
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh18.Lin.2013.Fig2K-st35.jpg
 - caption: PCDH18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH18/468124_25.jpg
   location: Dermis
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh18.Lin.2013.Fig3V-st35.jpg
 - caption: PCDH18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH18/468124_26.jpg
   location: Dermis, Surface Ectoderm
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh18.Lin.2013.Fig3X-st35.jpg
 - caption: PCDH18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH18/468124_27.jpg
   location: Dermis, Surface Ectoderm
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh18.Lin.2013.Fig2L-st36.jpg
 - caption: PCDH18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH18/468124_28.jpg
   location: null
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh18.Lin.2013.Fig2.jpg
 - caption: PCDH18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH18/468124_29.jpg
   location: null
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh18.Lin.2013.Fig3.jpg
 name: protocadherin 18

@@ -101,143 +101,143 @@ images:
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_11.jpg
   location: Notochord
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sema3d.figure2a.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_12.jpg
   location: Neural Crest, Neural Plate/Tube, Notochord
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sema3d.figure2b.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_13.jpg
   location: Diencephalon, Ear/Otic Placode, Eye, Forebrain, Hindbrain, Midbrain, Neural
     Crest, Neural Plate/Tube, Notochord
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sema3d.figure2c.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_14.jpg
   location: Diencephalon, Ear/Otic Placode, Eye, Forebrain, Hindbrain, Midbrain, Neural
     Crest, Neural Plate/Tube, Notochord
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sema3d.figure2d.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_15.jpg
   location: Eye
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sema3d.figure2e.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_16.jpg
   location: Neural Crest, Notochord
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sema3d.figure2f.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_17.jpg
   location: Neural Crest, Neural Plate/Tube, Notochord
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sema3d.figure2g.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_18.jpg
   location: Neural Plate/Tube, Notochord
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sema3d.figure2h.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_19.jpg
   location: Leg, Leg AER, Nasal Placode/Nerve, Outflow Tract, Wing, Wing AER
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sema3d.figure4a.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_20.jpg
   location: Lens, Neural Crest
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sema3d.figure4b.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_21.jpg
   location: Neural Plate/Tube
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sema3d.figure4c.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_22.jpg
   location: Neural Plate/Tube, Surface Ectoderm
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sema3d.figure4d.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_23.jpg
   location: Surface Ectoderm
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sema3d.figure4e.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_24.jpg
   location: Diencephalon, Outflow Tract, Surface Ectoderm
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sema3d.figure6a.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_25.jpg
   location: Wing AER
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sema3d.figure6b.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_26.jpg
   location: Diencephalon, Surface Ectoderm
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sema3d.figure6c.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_27.jpg
   location: Surface Ectoderm
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sema3d.figure6d.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_28.jpg
   location: Leg AER, Wing AER
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Bao et al. 2006
+  source_label: Bao et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sema3d.figure6e.bao.2006.jpg
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_29.jpg
   location: Midbrain
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sema3D.Riley.2010.4J.PNG
 - caption: SEMA3D expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3D/461818_30.jpg
   location: Midbrain
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sema3D.Riley.2010.4L.PNG
 name: semaphorin 3D

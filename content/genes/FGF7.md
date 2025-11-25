@@ -89,85 +89,85 @@ images:
 - caption: FGF7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF7/460998_10.jpg
   location: Endoderm, Mesoderm
-  source: Shin et al. 2005
-  source_label: Shin et al. 2005
+  source: Kumar et al. 2012
+  source_label: Kumar et al. 2012
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kumar.2012.Fig4.FGF7.A.HH14.jpg
 - caption: FGF7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF7/460998_11.jpg
   location: null
-  source: Shin et al. 2005
-  source_label: Shin et al. 2005
+  source: Kumar et al. 2012
+  source_label: Kumar et al. 2012
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kumar.2012.Fig4.FGF7.ALLIMAGES.jpg
 - caption: FGF7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF7/460998_12.jpg
   location: Endoderm, Mesoderm
-  source: Shin et al. 2005
-  source_label: Shin et al. 2005
+  source: Kumar et al. 2012
+  source_label: Kumar et al. 2012
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kumar.2012.Fig4.FGF7.B.HH14.jpg
 - caption: FGF7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF7/460998_13.jpg
   location: Endoderm, Head Mesenchyme
-  source: Shin et al. 2005
-  source_label: Shin et al. 2005
+  source: Kumar et al. 2012
+  source_label: Kumar et al. 2012
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kumar.2012.Fig3.FGF7.C.HH16.jpg
 - caption: FGF7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF7/460998_14.jpg
   location: Endoderm, Head Mesenchyme
-  source: Shin et al. 2005
-  source_label: Shin et al. 2005
+  source: Kumar et al. 2012
+  source_label: Kumar et al. 2012
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kumar.2012.Fig3.FGF7.D.HH16.jpg
 - caption: FGF7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF7/460998_15.jpg
   location: Endoderm, Head Mesenchyme
-  source: Shin et al. 2005
-  source_label: Shin et al. 2005
+  source: Kumar et al. 2012
+  source_label: Kumar et al. 2012
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kumar.2012.Fig4.FGF7.E.HH16.jpg
 - caption: FGF7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF7/460998_16.jpg
   location: Mesoderm
-  source: Shin et al. 2005
-  source_label: Shin et al. 2005
+  source: Kumar et al. 2012
+  source_label: Kumar et al. 2012
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kumar.2012.Fig4.FGF7.F.HH18.jpg
 - caption: FGF7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF7/460998_17.jpg
   location: Mesoderm
-  source: Shin et al. 2005
-  source_label: Shin et al. 2005
+  source: Kumar et al. 2012
+  source_label: Kumar et al. 2012
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kumar.2012.Fig4.FGF7.G.Hh18.jpg
 - caption: FGF7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF7/460998_18.jpg
   location: Mesoderm
-  source: Shin et al. 2005
-  source_label: Shin et al. 2005
+  source: Kumar et al. 2012
+  source_label: Kumar et al. 2012
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kumar.2012.Fig4.FGF7.H.HH18.jpg
 - caption: FGF7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF7/460998_19.jpg
   location: Mesoderm
-  source: Shin et al. 2005
-  source_label: Shin et al. 2005
+  source: Kumar et al. 2012
+  source_label: Kumar et al. 2012
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kumar.2012.Fig4.FGF7.I.HH19.jpg
 - caption: FGF7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF7/460998_20.jpg
   location: Hindgut, Limb Buds, Trunk Mesenchyme
-  source: Shin et al. 2005
-  source_label: Shin et al. 2005
+  source: Kumar et al. 2012
+  source_label: Kumar et al. 2012
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kumar.2012.Fig4.FGF7.K.HH19.jpg
 - caption: FGF7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF7/460998_21.jpg
   location: Hindgut, Limb Buds, Trunk Mesenchyme
-  source: Shin et al. 2005
-  source_label: Shin et al. 2005
+  source: Kumar et al. 2012
+  source_label: Kumar et al. 2012
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kumar.2012.Fig4.FGF7.L.HH19.jpg
 name: fibroblast growth factor 7

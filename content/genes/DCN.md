@@ -37,134 +37,134 @@ images:
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_2.jpg
   location: Limb Buds
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Singh.2016.Fig2F'-st28.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_3.jpg
   location: Limb Buds
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Singh.2016.Fig2G'-st31.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_4.jpg
   location: Limb Buds
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Singh.2016.Fig2H'-st34.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_5.jpg
   location: Limb Buds
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Singh.2016.Fig2I'-st36.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_6.jpg
   location: Limb Buds
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Singh.2016.Fig2J'-st38.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_7.jpg
   location: null
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Singh.2016.Fig2.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_8.jpg
   location: Limb Buds
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Lorda-diez et al. 2014
+  source_label: Lorda-diez et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Lorda-Diez.2014.Fig1A-st22.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_9.jpg
   location: Limb Buds
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Lorda-diez et al. 2014
+  source_label: Lorda-diez et al. 2014
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Lorda-Diez.2014.Fig2A-st23.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_10.jpg
   location: Limb Buds
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Lorda-diez et al. 2014
+  source_label: Lorda-diez et al. 2014
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Lorda-Diez.2014.Fig1B-st24.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_11.jpg
   location: Limb Buds
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Lorda-diez et al. 2014
+  source_label: Lorda-diez et al. 2014
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Lorda-Diez.2014.Fig1C-st24.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_12.jpg
   location: Limb Buds
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Lorda-diez et al. 2014
+  source_label: Lorda-diez et al. 2014
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Lorda-Diez.2014.Fig1D-st29.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_13.jpg
   location: Limb Buds
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Lorda-diez et al. 2014
+  source_label: Lorda-diez et al. 2014
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Lorda-Diez.2014.Fig1E-st30.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_14.jpg
   location: Limb Buds
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Lorda-diez et al. 2014
+  source_label: Lorda-diez et al. 2014
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Lorda-Diez.2014.Fig1F-st30.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_15.jpg
   location: Limb Buds
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Lorda-diez et al. 2014
+  source_label: Lorda-diez et al. 2014
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Lorda-Diez.2014.Fig1G-st30.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_16.jpg
   location: Limb Buds
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Lorda-diez et al. 2014
+  source_label: Lorda-diez et al. 2014
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Lorda-Diez.2014.Fig4E-St30.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_17.jpg
   location: Limb Buds
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Lorda-diez et al. 2014
+  source_label: Lorda-diez et al. 2014
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Lorda-Diez.2014.Fig4H-St30.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_18.jpg
   location: null
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Lorda-diez et al. 2014
+  source_label: Lorda-diez et al. 2014
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Lorda-Diez.2014.Fig1.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_19.jpg
   location: null
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Lorda-diez et al. 2014
+  source_label: Lorda-diez et al. 2014
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Lorda-Diez.2014.Fig2.jpg
 - caption: DCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCN/451845_20.jpg
   location: null
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Lorda-diez et al. 2014
+  source_label: Lorda-diez et al. 2014
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Decorin.Lorda-Diez.2014.Fig4.jpg
 name: decorin

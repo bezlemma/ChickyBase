@@ -110,64 +110,64 @@ images:
 - caption: Pou5f3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/Pou5f3/363859_13.jpg
   location: Area Opaca, Area Pellucida
-  source: Lavial et al. 2007
-  source_label: Lavial et al. 2007
+  source: Han et al. 2018
+  source_label: Han et al. 2018
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/POUV.Han.2018.Fig4A1-st21.jpg
 - caption: Pou5f3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/Pou5f3/363859_14.jpg
   location: Area Pellucida, Epiblast
-  source: Lavial et al. 2007
-  source_label: Lavial et al. 2007
+  source: Han et al. 2018
+  source_label: Han et al. 2018
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/POUV.Han.2018.Fig4A2-st21.jpg
 - caption: Pou5f3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/Pou5f3/363859_15.jpg
   location: Area Pellucida, Epiblast
-  source: Lavial et al. 2007
-  source_label: Lavial et al. 2007
+  source: Han et al. 2018
+  source_label: Han et al. 2018
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/POUV.Han.2018.Fig4A3-st21.jpg
 - caption: Pou5f3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/Pou5f3/363859_16.jpg
   location: Area Pellucida, Epiblast
-  source: Lavial et al. 2007
-  source_label: Lavial et al. 2007
+  source: Han et al. 2018
+  source_label: Han et al. 2018
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/POUV.Han.2018.Fig4A4-st21.jpg
 - caption: Pou5f3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/Pou5f3/363859_17.jpg
   location: Area Pellucida
-  source: Lavial et al. 2007
-  source_label: Lavial et al. 2007
+  source: Han et al. 2018
+  source_label: Han et al. 2018
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/POUV.Han.2018.Fig4C-st21.jpg
 - caption: Pou5f3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/Pou5f3/363859_18.jpg
   location: Area Pellucida, Early Embryo
-  source: Lavial et al. 2007
-  source_label: Lavial et al. 2007
+  source: Han et al. 2018
+  source_label: Han et al. 2018
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/POUV.Han.2018.Fig1-st25.jpg
 - caption: Pou5f3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/Pou5f3/363859_19.jpg
   location: Area Pellucida, Epiblast, Hypoblast
-  source: Lavial et al. 2007
-  source_label: Lavial et al. 2007
+  source: Han et al. 2018
+  source_label: Han et al. 2018
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/POUV.Han.2018.Fig4B-st25.jpg
 - caption: Pou5f3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/Pou5f3/363859_20.jpg
   location: null
-  source: Lavial et al. 2007
-  source_label: Lavial et al. 2007
+  source: Han et al. 2018
+  source_label: Han et al. 2018
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/POUV.Han.2018.Fig1.jpg
 - caption: Pou5f3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/Pou5f3/363859_21.jpg
   location: null
-  source: Lavial et al. 2007
-  source_label: Lavial et al. 2007
+  source: Han et al. 2018
+  source_label: Han et al. 2018
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/POUV.Han.2018.Fig4.jpg
 name: POU domain class 5 transcription factor 3

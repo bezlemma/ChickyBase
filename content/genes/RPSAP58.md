@@ -109,15 +109,15 @@ images:
 - caption: RPSAP58 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RPSAP58/462301_11.jpg
   location: Ectoderm, Spinal Cord, Spinal Ganglia and Nerves, Trunk Mesenchyme
-  source: Chambers et al. 2006
-  source_label: Chambers et al. 2006
+  source: Masuda et al. 2009
+  source_label: Masuda et al. 2009
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/67LR.Masuda.2009.f1.67LR.png
 - caption: RPSAP58 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RPSAP58/462301_12.jpg
   location: null
-  source: Chambers et al. 2006
-  source_label: Chambers et al. 2006
+  source: Masuda et al. 2009
+  source_label: Masuda et al. 2009
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Masuda.2009.f1.67LR.png
 name: ribosomal protein SA pseudogene 58

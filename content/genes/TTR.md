@@ -64,92 +64,92 @@ images:
 - caption: TTR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TTR/462587_6.jpg
   location: null
-  source: Yanai et al. 2005
-  source_label: Yanai et al. 2005
+  source: Von froweln et al. 2006
+  source_label: Von froweln et al. 2006
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2PA.von Froweln.2006.jpg
 - caption: TTR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TTR/462587_7.jpg
   location: Endoderm
-  source: Yanai et al. 2005
-  source_label: Yanai et al. 2005
+  source: Barron et al. 1998
+  source_label: Barron et al. 1998
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TTR.Barron.1998.Fig5A-st6.jpg
 - caption: TTR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TTR/462587_8.jpg
   location: Endoderm
-  source: Yanai et al. 2005
-  source_label: Yanai et al. 2005
+  source: Barron et al. 1998
+  source_label: Barron et al. 1998
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TTR.Barron.1998.Fig6A-st7.jpg
 - caption: TTR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TTR/462587_9.jpg
   location: Endoderm
-  source: Yanai et al. 2005
-  source_label: Yanai et al. 2005
+  source: Barron et al. 1998
+  source_label: Barron et al. 1998
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TTR.Barron.1998.Fig5B-st8.jpg
 - caption: TTR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TTR/462587_10.jpg
   location: Endoderm
-  source: Yanai et al. 2005
-  source_label: Yanai et al. 2005
+  source: Barron et al. 1998
+  source_label: Barron et al. 1998
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TTR.Barron.1998.Fig6B-st9.jpg
 - caption: TTR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TTR/462587_11.jpg
   location: Endoderm
-  source: Yanai et al. 2005
-  source_label: Yanai et al. 2005
+  source: Barron et al. 1998
+  source_label: Barron et al. 1998
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TTR.Barron.1998.Fig5C-st10.jpg
 - caption: TTR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TTR/462587_12.jpg
   location: Endoderm, Endothelial Cells, Myocardium
-  source: Yanai et al. 2005
-  source_label: Yanai et al. 2005
+  source: Barron et al. 1998
+  source_label: Barron et al. 1998
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TTR.Barron.1998.Fig6C-st14.jpg
 - caption: TTR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TTR/462587_13.jpg
   location: Endothelial Cells, Foregut, Myocardium
-  source: Yanai et al. 2005
-  source_label: Yanai et al. 2005
+  source: Barron et al. 1998
+  source_label: Barron et al. 1998
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TTR.Barron.1998.Fig7A-st14.jpg
 - caption: TTR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TTR/462587_14.jpg
   location: Endoderm, Endothelial Cells, Myocardium
-  source: Yanai et al. 2005
-  source_label: Yanai et al. 2005
+  source: Barron et al. 1998
+  source_label: Barron et al. 1998
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TTR.Barron.1998.Fig7B-st14.jpg
 - caption: TTR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TTR/462587_15.jpg
   location: null
-  source: Yanai et al. 2005
-  source_label: Yanai et al. 2005
+  source: Barron et al. 1998
+  source_label: Barron et al. 1998
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TTR.Barron.1998.Fig5.jpg
 - caption: TTR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TTR/462587_16.jpg
   location: null
-  source: Yanai et al. 2005
-  source_label: Yanai et al. 2005
+  source: Barron et al. 1998
+  source_label: Barron et al. 1998
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TTR.Barron.1998.Fig6.jpg
 - caption: TTR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TTR/462587_17.jpg
   location: null
-  source: Yanai et al. 2005
-  source_label: Yanai et al. 2005
+  source: Barron et al. 1998
+  source_label: Barron et al. 1998
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TTR.Barron.1998.Fig7.jpg
 - caption: TTR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TTR/462587_18.jpg
   location: Heart
-  source: Yanai et al. 2005
-  source_label: Yanai et al. 2005
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TTR.Anderson.2019.Supplementary
     figure 4M.jpg

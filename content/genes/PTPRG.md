@@ -79,232 +79,232 @@ images:
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_8.jpg
   location: Primitive Streak
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig1A-st4.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_9.jpg
   location: Paraxial Mesoderm, Primitive Streak
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig1B-st5.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_10.jpg
   location: Headfold, Neural Plate/Tube, Somites
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig1C-st7.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_11.jpg
   location: Somites
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig1D-st10.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_12.jpg
   location: Hindbrain, Somites, Spinal Cord
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2A-st10.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_13.jpg
   location: Hindbrain, Spinal Cord
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2B-st10.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_14.jpg
   location: Somites
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig1E-st11.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_15.jpg
   location: Somites
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig1F-st11.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_16.jpg
   location: Cranial PNS
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2U-st11.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_17.jpg
   location: Neural Crest
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2V-st11.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_18.jpg
   location: Neural Plate/Tube, Rhombomeres, Somites
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2C-st12.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_19.jpg
   location: Central Nervous System, Somites
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig1G-st16.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_20.jpg
   location: Diencephalon
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2S-st16.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_21.jpg
   location: Diencephalon
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2T-st16.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_22.jpg
   location: Hindbrain
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2D-st17.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_23.jpg
   location: Spinal Cord
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2O-st18.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_24.jpg
   location: Rhombomeres
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2E-st19.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_25.jpg
   location: Rhombomeres
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2F-st19.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_26.jpg
   location: Hindbrain, Midbrain
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2G-st19.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_27.jpg
   location: Hindbrain, Midbrain
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2H-st19.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_28.jpg
   location: Hindbrain, Rhombomeres
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2J-st19.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_29.jpg
   location: Rhombomeres
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2K-st19.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_30.jpg
   location: Cranial Ganglia
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2W-st19.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_31.jpg
   location: Central Nervous System, Somites
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig1H-st20.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_32.jpg
   location: Central Nervous System, Somites
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig1I-st20.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_33.jpg
   location: Hindbrain
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2L-st21.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_34.jpg
   location: Hindbrain
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2M-st21.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_35.jpg
   location: Dermomyotome, Spinal Cord
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2N-st21.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_36.jpg
   location: Dermomyotome, Spinal Cord
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2P-st21.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_37.jpg
   location: Spinal Cord
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2Q-st21.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_38.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2R-st24.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_39.jpg
   location: null
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig1.jpg
 - caption: PTPRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRG/456394_40.jpg
   location: null
-  source: Chilton et al. 2000
-  source_label: Chilton et al. 2000
+  source: Gustafson et al. 2000
+  source_label: Gustafson et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RPTPγ.Gustafson.2000.Fig2.jpg
 name: protein tyrosine phosphatase, receptor type G

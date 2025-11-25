@@ -87,16 +87,16 @@ images:
 - caption: PKDCCB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PKDCCB/451296_10.jpg
   location: Heart
-  source: Bento et al. 2011
-  source_label: Bento et al. 2011
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PKDCCB.Anderson.2019.Supplementary
     figure 5G1-st12.jpg
 - caption: PKDCCB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PKDCCB/451296_11.jpg
   location: null
-  source: Bento et al. 2011
-  source_label: Bento et al. 2011
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PKDCCB.Anderson.2019.Supplementary
     figure 5G1.jpg

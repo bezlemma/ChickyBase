@@ -56,16 +56,16 @@ images:
 - caption: APCDD1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/APCDD1/458803_4.jpg
   location: Heart
-  source: Quinlan et al. 2009
-  source_label: Quinlan et al. 2009
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/APCDD1.Anderson.2019.Supplementary
     figure 5H1-st12.jpg
 - caption: APCDD1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/APCDD1/458803_5.jpg
   location: null
-  source: Quinlan et al. 2009
-  source_label: Quinlan et al. 2009
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/APCDD1.Anderson.2019.Supplementary
     figure 5H1.jpg

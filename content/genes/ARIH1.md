@@ -40,22 +40,22 @@ images:
 - caption: ARIH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARIH1/456422_3.jpg
   location: Peripheral Nervous System
-  source: Tonegawa et al. 2003
-  source_label: Tonegawa et al. 2003
+  source: Nelson et al. 2004
+  source_label: Nelson et al. 2004
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BU396906.Nelson.2004.fig3h-st24.jpg
 - caption: ARIH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARIH1/456422_4.jpg
   location: Unlabeled
-  source: Tonegawa et al. 2003
-  source_label: Tonegawa et al. 2003
+  source: Nelson et al. 2004
+  source_label: Nelson et al. 2004
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BU396906.Nelson.2004.fig3i-st35.jpg
 - caption: ARIH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARIH1/456422_5.jpg
   location: null
-  source: Tonegawa et al. 2003
-  source_label: Tonegawa et al. 2003
+  source: Nelson et al. 2004
+  source_label: Nelson et al. 2004
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BU396906.Nelson.2004.fig3.jpg
 name: ariadne RBR E3 ubiquitin protein ligase 1

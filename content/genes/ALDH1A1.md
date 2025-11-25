@@ -81,148 +81,148 @@ images:
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_7.jpg
   location: null
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.Blentic.2003.4.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_8.jpg
   location: Eye
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.Blentic.2003.4A.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_9.jpg
   location: Endoderm
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.Blentic.2003.4B.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_10.jpg
   location: Endoderm
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.Blentic.2003.4C.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_11.jpg
   location: Foregut
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.Blentic.2003.4F.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_12.jpg
   location: Retina
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.Blentic.2003.4D.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_13.jpg
   location: Retina
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.Blentic.2003.4E.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_14.jpg
   location: Endoderm, Gut, Intermediate Mesoderm
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.Blentic.2003.4G.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_15.jpg
   location: Hindbrain
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.HH21.Wilson.2007.F1.raldh1.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_16.jpg
   location: Hindbrain
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.HH26.Wilson.2007.F1.raldh1.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_17.jpg
   location: Hindbrain
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.HH29.Wilson.2007.F1.raldh1.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_18.jpg
   location: Hindbrain
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.HH30.Wilson.2007.F1.raldh1.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_19.jpg
   location: Hindbrain, Midbrain
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.HH30.transv.Wilson.2007.F1.raldh1.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_20.jpg
   location: Hindbrain
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.HH31..Wilson.2007.F1.raldh1.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_21.jpg
   location: Hindbrain
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.HH31.Wilson.2007.F1.raldh1.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_22.jpg
   location: null
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wilson.2007.F1.raldh1.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_23.jpg
   location: Eye
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Sanchez-guardado et al. 2009
+  source_label: Sanchez-guardado et al. 2009
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.Sanchez-Guardado.2009.f1.raldh1.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_24.jpg
   location: Ear/Otic Placode
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Sanchez-guardado et al. 2009
+  source_label: Sanchez-guardado et al. 2009
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.d.Sanchez-Guardado.2009.f1.raldh1.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_25.jpg
   location: null
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Sanchez-guardado et al. 2009
+  source_label: Sanchez-guardado et al. 2009
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sanchez-Guardado.2009.f1.raldh1.png
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_26.jpg
   location: Retina
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.Smith.2018.Fig5B-ST23.jpg
 - caption: ALDH1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALDH1A1/461619_27.jpg
   location: null
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RALDH1.Smith.2018.Fig5.jpg
 name: aldehyde dehydrogenase 1 family member A1

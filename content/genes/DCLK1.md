@@ -22,55 +22,55 @@ images:
 - caption: DCLK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCLK1/451943_0.jpg
   location: Mesencephalon
-  source: CapesDavis et al. 2005
-  source_label: CapesDavis et al. 2005
+  source: Capesdavis et al. 2005
+  source_label: Capesdavis et al. 2005
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DCLK.CapesDavis.2005.Fig.3
     dclk st34.png
 - caption: DCLK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCLK1/451943_1.jpg
   location: Mesencephalon
-  source: CapesDavis et al. 2005
-  source_label: CapesDavis et al. 2005
+  source: Capesdavis et al. 2005
+  source_label: Capesdavis et al. 2005
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DCLK.CapesDavis.2005.Fig.3
     dclk st36.png
 - caption: DCLK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCLK1/451943_2.jpg
   location: Forebrain
-  source: CapesDavis et al. 2005
-  source_label: CapesDavis et al. 2005
+  source: Capesdavis et al. 2005
+  source_label: Capesdavis et al. 2005
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DCLK.CapesDavis.2005.Fig.1
     dclk st38 sect.png
 - caption: DCLK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCLK1/451943_3.jpg
   location: Forebrain
-  source: CapesDavis et al. 2005
-  source_label: CapesDavis et al. 2005
+  source: Capesdavis et al. 2005
+  source_label: Capesdavis et al. 2005
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DCLK.CapesDavis.2005.Fig.1
     dclk st38.png
 - caption: DCLK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCLK1/451943_4.jpg
   location: null
-  source: CapesDavis et al. 2005
-  source_label: CapesDavis et al. 2005
+  source: Capesdavis et al. 2005
+  source_label: Capesdavis et al. 2005
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DCLK.CapesDavis.2005.Fig.2.png
 - caption: DCLK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCLK1/451943_5.jpg
   location: null
-  source: CapesDavis et al. 2005
-  source_label: CapesDavis et al. 2005
+  source: Capesdavis et al. 2005
+  source_label: Capesdavis et al. 2005
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DCLK.CapesDavis.2005.Fig.3
     dclk st44.png
 - caption: DCLK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DCLK1/451943_6.jpg
   location: null
-  source: CapesDavis et al. 2005
-  source_label: CapesDavis et al. 2005
+  source: Capesdavis et al. 2005
+  source_label: Capesdavis et al. 2005
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DCLK.CapesDavis.2005.Fig.3.png
 name: doublecortin like kinase 1

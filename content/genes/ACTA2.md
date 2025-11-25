@@ -97,8 +97,8 @@ images:
 - caption: ACTA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTA2/450787_11.jpg
   location: Heart, Splanchnic Mesoderm
-  source: Colas et al. 2000
-  source_label: Colas et al. 2000
+  source: Lopez-sanchez et al. 2009
+  source_label: Lopez-sanchez et al. 2009
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Usmaar.Lopez-Sanchez.2009.4c.png
 - caption: ACTA2 expression
@@ -118,68 +118,68 @@ images:
 - caption: ACTA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTA2/450787_14.jpg
   location: Unlabeled
-  source: Colas et al. 2000
-  source_label: Colas et al. 2000
+  source: Ruzicka et al. 1988
+  source_label: Ruzicka et al. 1988
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ACTAsmooth.Ruzicka.1988.Fig.3
     actasmooth.png
 - caption: ACTA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTA2/450787_15.jpg
   location: null
-  source: Colas et al. 2000
-  source_label: Colas et al. 2000
+  source: Ruzicka et al. 1988
+  source_label: Ruzicka et al. 1988
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ACTAsmooth.Ruzicka.1988.Fig.3.png
 - caption: ACTA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTA2/450787_16.jpg
   location: Heart Tube
-  source: Colas et al. 2000
-  source_label: Colas et al. 2000
+  source: Ruzicka et al. 1988
+  source_label: Ruzicka et al. 1988
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ACTAsmooth.Ruzicka.1988.Fig.4
     actasmooth.png
 - caption: ACTA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTA2/450787_17.jpg
   location: null
-  source: Colas et al. 2000
-  source_label: Colas et al. 2000
+  source: Ruzicka et al. 1988
+  source_label: Ruzicka et al. 1988
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ACTAsmooth.Ruzicka.1988.Fig.4.png
 - caption: ACTA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTA2/450787_18.jpg
   location: Outflow Tract
-  source: Colas et al. 2000
-  source_label: Colas et al. 2000
+  source: Ruzicka et al. 1988
+  source_label: Ruzicka et al. 1988
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ACTAsmooth.Ruzicka.1988.Fig.6
     actasmooth.png
 - caption: ACTA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTA2/450787_19.jpg
   location: null
-  source: Colas et al. 2000
-  source_label: Colas et al. 2000
+  source: Ruzicka et al. 1988
+  source_label: Ruzicka et al. 1988
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ACTAsmooth.Ruzicka.1988.Fig.6.png
 - caption: ACTA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTA2/450787_20.jpg
   location: Outflow Tract
-  source: Colas et al. 2000
-  source_label: Colas et al. 2000
+  source: Ruzicka et al. 1988
+  source_label: Ruzicka et al. 1988
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ACTAsmooth.Ruzicka.1988.Fig.7
     actasmooth.png
 - caption: ACTA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTA2/450787_21.jpg
   location: null
-  source: Colas et al. 2000
-  source_label: Colas et al. 2000
+  source: Ruzicka et al. 1988
+  source_label: Ruzicka et al. 1988
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ACTAsmooth.Ruzicka.1988.Fig.7.png
 - caption: ACTA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTA2/450787_22.jpg
   location: Blood Vessels
-  source: Colas et al. 2000
-  source_label: Colas et al. 2000
+  source: Ruzicka et al. 1988
+  source_label: Ruzicka et al. 1988
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ACTAsmooth.Ruzicka.1988.Fig.8.png
 - caption: ACTA2 expression
@@ -256,16 +256,16 @@ images:
 - caption: ACTA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTA2/450787_33.jpg
   location: Outflow Tract
-  source: Colas et al. 2000
-  source_label: Colas et al. 2000
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ACTA2.Anderson.2019.Supplementary
     figure 5A-st12.jpg
 - caption: ACTA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTA2/450787_34.jpg
   location: null
-  source: Colas et al. 2000
-  source_label: Colas et al. 2000
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ACTA2.Anderson.2019.Supplementary
     figure 5A.jpg

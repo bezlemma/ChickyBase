@@ -43,43 +43,43 @@ images:
 - caption: PLP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLP1/462556_3.jpg
   location: null
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Domowicz et al. 2008
+  source_label: Domowicz et al. 2008
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLP1.Domowicz.2008.Figure2.panelAA.JPG
 - caption: PLP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLP1/462556_4.jpg
   location: Midbrain
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Domowicz et al. 2008
+  source_label: Domowicz et al. 2008
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLP1.Domowicz.2008.Figure2.panelB.JPG
 - caption: PLP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLP1/462556_5.jpg
   location: null
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Domowicz et al. 2008
+  source_label: Domowicz et al. 2008
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLP1.Domowicz.2008.Figure6.panelAA.JPG
 - caption: PLP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLP1/462556_6.jpg
   location: Midbrain
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Domowicz et al. 2008
+  source_label: Domowicz et al. 2008
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLP1.Domowicz.2008.Figure6.panelB.JPG
 - caption: PLP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLP1/462556_7.jpg
   location: null
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Domowicz et al. 2008
+  source_label: Domowicz et al. 2008
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLP1.Domowicz.2008.Figure8.panelA.JPG
 - caption: PLP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLP1/462556_8.jpg
   location: Central Nervous System
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Domowicz et al. 2008
+  source_label: Domowicz et al. 2008
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLP1.Domowicz.2008.Figure8.panelB.JPG
 - caption: PLP1 expression

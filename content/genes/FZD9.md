@@ -54,15 +54,15 @@ images:
 - caption: FZD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD9/459341_4.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2K.Fuhrmann.2006.jpg
 - caption: FZD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD9/459341_5.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2L.Fuhrmann.2006.jpg
 - caption: FZD9 expression
@@ -166,43 +166,43 @@ images:
 - caption: FZD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD9/459341_20.jpg
   location: Duodenum, Gizzard, Hindgut, Midgut, Stomach
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz9.Theodosiou.2003.Figure2.PanelA.ImageH.jpg
 - caption: FZD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD9/459341_21.jpg
   location: Duodenum, Gizzard, Hindgut, Midgut, Stomach
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/fz9.Theodosiou.2003.Figure2.PanelA.jpg
 - caption: FZD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD9/459341_22.jpg
   location: Duodenum, Gizzard, Stomach
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/fz9.Theodosiou.2003.Figure2.PanelB.FigureS.jpg
 - caption: FZD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD9/459341_23.jpg
   location: Duodenum, Gizzard, Stomach
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/fz9.Theodosiou.2003.Figure2.PanelB.jpeg
 - caption: FZD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD9/459341_24.jpg
   location: Duodenum, Gizzard, Hindgut, Midgut, Stomach
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz9.Theodosiou.2003.Figure2.PanelC.ImageDD.jpg
 - caption: FZD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD9/459341_25.jpg
   location: Duodenum, Gizzard, Hindgut, Midgut, Stomach
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/fz9.Theodosiou.2003.Figure2.PanelC.jpeg
 - caption: FZD9 expression

@@ -68,32 +68,32 @@ images:
 - caption: RB1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RB1/459018_6.jpg
   location: Retina
-  source: Wagner et al. 2001
-  source_label: Wagner et al. 2001
+  source: Marx et al. 2011
+  source_label: Marx et al. 2011
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RB.Marx.2011.Fig.2
     rb st29.png
 - caption: RB1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RB1/459018_7.jpg
   location: Retina
-  source: Wagner et al. 2001
-  source_label: Wagner et al. 2001
+  source: Marx et al. 2011
+  source_label: Marx et al. 2011
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RB.Marx.2011.Fig.2
     rb st35.png
 - caption: RB1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RB1/459018_8.jpg
   location: Retina
-  source: Wagner et al. 2001
-  source_label: Wagner et al. 2001
+  source: Marx et al. 2011
+  source_label: Marx et al. 2011
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RB.Marx.2011.Fig.2
     rb st38.png
 - caption: RB1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RB1/459018_9.jpg
   location: null
-  source: Wagner et al. 2001
-  source_label: Wagner et al. 2001
+  source: Marx et al. 2011
+  source_label: Marx et al. 2011
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RB.Marx.2011.Fig.2.png
 - caption: RB1 expression

@@ -52,15 +52,15 @@ images:
 - caption: GAS1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAS1/465565_4.jpg
   location: null
-  source: Trimarchi et al. 2009
-  source_label: Trimarchi et al. 2009
+  source: Kahane et al. 2013
+  source_label: Kahane et al. 2013
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kahane.2013.Fig1_H-Gas1.jpg
 - caption: GAS1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAS1/465565_5.jpg
   location: null
-  source: Trimarchi et al. 2009
-  source_label: Trimarchi et al. 2009
+  source: Kahane et al. 2013
+  source_label: Kahane et al. 2013
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kahane.2013.Fig1_Allimages-10.jpg
 name: growth arrest-specific 1

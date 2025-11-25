@@ -60,76 +60,76 @@ images:
 - caption: OTP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OTP/453705_6.jpg
   location: Hypothalamus
-  source: Lorente-Cánovas et al. 2012
-  source_label: Lorente-Cánovas et al. 2012
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OTP.Caqueret.2005.Fig.1
     otp.png
 - caption: OTP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OTP/453705_7.jpg
   location: null
-  source: Lorente-Cánovas et al. 2012
-  source_label: Lorente-Cánovas et al. 2012
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OTP.Caqueret.2005.Fig.1.png
 - caption: OTP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OTP/453705_8.jpg
   location: Hypothalamus
-  source: Lorente-Cánovas et al. 2012
-  source_label: Lorente-Cánovas et al. 2012
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OTP.Caqueret.2005.Fig.2
     otp.png
 - caption: OTP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OTP/453705_9.jpg
   location: null
-  source: Lorente-Cánovas et al. 2012
-  source_label: Lorente-Cánovas et al. 2012
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OTP.Caqueret.2005.Fig.2.png
 - caption: OTP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OTP/453705_10.jpg
   location: Hypothalamus
-  source: Lorente-Cánovas et al. 2012
-  source_label: Lorente-Cánovas et al. 2012
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OTP.Caqueret.2005.Fig.3
     otp.png
 - caption: OTP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OTP/453705_11.jpg
   location: null
-  source: Lorente-Cánovas et al. 2012
-  source_label: Lorente-Cánovas et al. 2012
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OTP.Caqueret.2005.Fig.3.png
 - caption: OTP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OTP/453705_12.jpg
   location: Brainstem Nuclei
-  source: Lorente-Cánovas et al. 2012
-  source_label: Lorente-Cánovas et al. 2012
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OTP.Caqueret.2005.Fig.4
     otp.png
 - caption: OTP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OTP/453705_13.jpg
   location: null
-  source: Lorente-Cánovas et al. 2012
-  source_label: Lorente-Cánovas et al. 2012
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OTP.Caqueret.2005.Fig.4.png
 - caption: OTP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OTP/453705_14.jpg
   location: Hypothalamus
-  source: Lorente-Cánovas et al. 2012
-  source_label: Lorente-Cánovas et al. 2012
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OTP.Caqueret.2005.Fig.5
     otp.png
 - caption: OTP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OTP/453705_15.jpg
   location: null
-  source: Lorente-Cánovas et al. 2012
-  source_label: Lorente-Cánovas et al. 2012
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OTP.Caqueret.2005.Fig.5.png
 name: orthopedia homeobox

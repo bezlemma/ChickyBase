@@ -222,61 +222,61 @@ images:
 - caption: HOXA3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA3/461447_28.jpg
   location: null
-  source: Saldivar et al. 1996
-  source_label: Saldivar et al. 1996
+  source: Grevellec et al. 2011
+  source_label: Grevellec et al. 2011
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Grevellec.2011.Fig7_ALLImages.jpg
 - caption: HOXA3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA3/461447_29.jpg
   location: null
-  source: Saldivar et al. 1996
-  source_label: Saldivar et al. 1996
+  source: Gudiato et al. 2003
+  source_label: Gudiato et al. 2003
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA3.Gudiato.2003.Fig.1
     hoxa3.png
 - caption: HOXA3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA3/461447_30.jpg
   location: null
-  source: Saldivar et al. 1996
-  source_label: Saldivar et al. 1996
+  source: Gudiato et al. 2003
+  source_label: Gudiato et al. 2003
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA3.Gudiato.2003.Fig.1.png
 - caption: HOXA3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA3/461447_31.jpg
   location: Rhombomeres
-  source: Saldivar et al. 1996
-  source_label: Saldivar et al. 1996
+  source: Guidato et al. 2003
+  source_label: Guidato et al. 2003
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA3.Guidato.2003.Fig.4
     hoxa3 r34.png
 - caption: HOXA3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA3/461447_32.jpg
   location: Rhombomeres
-  source: Saldivar et al. 1996
-  source_label: Saldivar et al. 1996
+  source: Guidato et al. 2003
+  source_label: Guidato et al. 2003
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA3.Guidato.2003.Fig.4
     hoxa3 r67.png
 - caption: HOXA3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA3/461447_33.jpg
   location: null
-  source: Saldivar et al. 1996
-  source_label: Saldivar et al. 1996
+  source: Guidato et al. 2003
+  source_label: Guidato et al. 2003
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA3.Guidato.2003.Fig.4.png
 - caption: HOXA3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA3/461447_34.jpg
   location: Rhombomeres
-  source: Saldivar et al. 1996
-  source_label: Saldivar et al. 1996
+  source: Garcia-dominguez et al. 2006
+  source_label: Garcia-dominguez et al. 2006
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA3.Garcia-Dominguez.2006.Fig.3
     hoxa3.png
 - caption: HOXA3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA3/461447_35.jpg
   location: null
-  source: Saldivar et al. 1996
-  source_label: Saldivar et al. 1996
+  source: Garcia-dominguez et al. 2006
+  source_label: Garcia-dominguez et al. 2006
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA3.Garcia-Dominguez.2006.Fig.3.png
 name: homeobox A3

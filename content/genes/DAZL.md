@@ -159,16 +159,16 @@ images:
 - caption: DAZL expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DAZL/454466_19.jpg
   location: Ovary
-  source: Rengaraj et al. 2010
-  source_label: Rengaraj et al. 2010
+  source: Elis et al. 2008
+  source_label: Elis et al. 2008
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DAZL.Elis.2008.Fig.10
     dazl.png
 - caption: DAZL expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DAZL/454466_20.jpg
   location: null
-  source: Rengaraj et al. 2010
-  source_label: Rengaraj et al. 2010
+  source: Elis et al. 2008
+  source_label: Elis et al. 2008
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DAZL.Elis.2008.Fig.10.png
 name: deleted in azoospermia like

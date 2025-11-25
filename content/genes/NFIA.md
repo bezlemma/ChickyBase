@@ -84,43 +84,43 @@ images:
 - caption: NFIA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NFIA/462551_7.jpg
   location: Limb Buds
-  source: Domowicz et al. 2011
-  source_label: Domowicz et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Singh.2016.Fig5F-st28.jpg
 - caption: NFIA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NFIA/462551_8.jpg
   location: Limb Buds
-  source: Domowicz et al. 2011
-  source_label: Domowicz et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Singh.2016.Fig5G-st31.jpg
 - caption: NFIA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NFIA/462551_9.jpg
   location: Limb Buds
-  source: Domowicz et al. 2011
-  source_label: Domowicz et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Singh.2016.Fig5H-st34.jpg
 - caption: NFIA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NFIA/462551_10.jpg
   location: Limb Buds
-  source: Domowicz et al. 2011
-  source_label: Domowicz et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Singh.2016.Fig5I-st36.jpg
 - caption: NFIA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NFIA/462551_11.jpg
   location: Limb Buds
-  source: Domowicz et al. 2011
-  source_label: Domowicz et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Singh.2016.Fig5J-st38.jpg
 - caption: NFIA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NFIA/462551_12.jpg
   location: null
-  source: Domowicz et al. 2011
-  source_label: Domowicz et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NFIA.Singh.2016.Fig5.jpg
 name: nuclear factor I A

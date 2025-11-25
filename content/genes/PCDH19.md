@@ -221,64 +221,64 @@ images:
 - caption: PCDH19 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH19/450092_29.jpg
   location: Blood Vessels, Surface Ectoderm
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh19.Lin.2013.Fig2M-st34.jpg
 - caption: PCDH19 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH19/450092_30.jpg
   location: Blood Vessels, Surface Ectoderm
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh19.Lin.2013.Fig2N-st35.jpg
 - caption: PCDH19 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH19/450092_31.jpg
   location: Surface Ectoderm
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh19.Lin.2013.Fig3Y-st35.jpg
 - caption: PCDH19 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH19/450092_32.jpg
   location: Blood Vessels, Surface Ectoderm
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh19.Lin.2013.Fig2O-st36.jpg
 - caption: PCDH19 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH19/450092_33.jpg
   location: Blood Vessels
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh19.Lin.2013.Fig5G-st36.jpg
 - caption: PCDH19 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH19/450092_34.jpg
   location: Blood Vessels
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh19.Lin.2013.Fig5J-st36.jpg
 - caption: PCDH19 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH19/450092_35.jpg
   location: null
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh19.Lin.2013.Fig2.jpg
 - caption: PCDH19 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH19/450092_36.jpg
   location: null
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh19.Lin.2013.Fig3.jpg
 - caption: PCDH19 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH19/450092_37.jpg
   location: null
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh19.Lin.2013.Fig5.jpg
 name: protocadherin 19

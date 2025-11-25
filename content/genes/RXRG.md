@@ -72,255 +72,255 @@ images:
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_7.jpg
   location: Hindbrain
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRGAMMA.Wilson.2007.F5.rxrgamma.png
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_8.jpg
   location: null
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wilson.2007.F5.rxrgamma.png
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_9.jpg
   location: Neural Crest
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig2A.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_10.jpg
   location: Cranial PNS, Neural Crest
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig2B.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_11.jpg
   location: Neural Crest, Peripheral Nervous System
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig2C.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_12.jpg
   location: Neural Crest, Neural Plate/Tube, Peripheral Nervous System
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig5B.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_13.jpg
   location: Ear/Otic Placode
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig3D.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_14.jpg
   location: Spinal Cord
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig5D'.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_15.jpg
   location: Cranial Ganglia, Eye, Neural Crest, Peripheral Nervous System
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig3A.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_16.jpg
   location: Ear/Otic Placode
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig5C'.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_17.jpg
   location: Ear/Otic Placode, Eye, Neural Crest, Neural Plate/Tube, Peripheral Nervous
     System, Sensory Organs
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig4A.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_18.jpg
   location: Ear/Otic Placode, Eye, Peripheral Nervous System
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig4B.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_19.jpg
   location: Ear/Otic Placode, Eye, Neural Plate/Tube, Peripheral Nervous System
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig4C.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_20.jpg
   location: Diencephalon, Ear/Otic Placode, Eye, Neural Crest, Peripheral Nervous
     System
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig4D.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_21.jpg
   location: Diencephalon, Ear/Otic Placode, Eye, Peripheral Nervous System
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig5A'.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_22.jpg
   location: Diencephalon
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig6'.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_23.jpg
   location: Eye, Hindbrain, Peripheral Nervous System
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig3B.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_24.jpg
   location: Cranial Ganglia, Hindbrain
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig3C.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_25.jpg
   location: Midbrain
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig7A.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_26.jpg
   location: Hindbrain
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig7B.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_27.jpg
   location: null
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig2'.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_28.jpg
   location: null
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig3'.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_29.jpg
   location: null
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig4'.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_30.jpg
   location: null
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig5'.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_31.jpg
   location: null
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 2000
+  source_label: Hoover et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.2000.Fig7.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_32.jpg
   location: Unlabeled
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 1998
+  source_label: Hoover et al. 1998
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.1998.Fig2A.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_33.jpg
   location: Retina
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 1998
+  source_label: Hoover et al. 1998
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.1998.Fig3A.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_34.jpg
   location: Retina
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 1998
+  source_label: Hoover et al. 1998
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.1998.Fig3B.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_35.jpg
   location: Retina
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 1998
+  source_label: Hoover et al. 1998
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.1998.Fig2B'.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_36.jpg
   location: Retina
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 1998
+  source_label: Hoover et al. 1998
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.1998.Fig3C.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_37.jpg
   location: Retina
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 1998
+  source_label: Hoover et al. 1998
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.1998.Fig3D.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_38.jpg
   location: Retina
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 1998
+  source_label: Hoover et al. 1998
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.1998.Fig3E.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_39.jpg
   location: Retina
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 1998
+  source_label: Hoover et al. 1998
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.1998.Fig3F.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_40.jpg
   location: null
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 1998
+  source_label: Hoover et al. 1998
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.1998.Fig2'.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_41.jpg
   location: null
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 1998
+  source_label: Hoover et al. 1998
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.1998.Fig3'.jpg
 - caption: RXRG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RXRG/462397_42.jpg
   location: Retina
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Hoover et al. 1998
+  source_label: Hoover et al. 1998
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RXRG.Hoover.1998.Fig3H.jpg
 name: retinoid X receptor gamma

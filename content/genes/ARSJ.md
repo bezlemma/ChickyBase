@@ -16,8 +16,8 @@ images:
 - caption: ARSJ expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARSJ/452206_0.jpg
   location: Paraxial Mesoderm, Wing Ectoderm
-  source: Roy et al. 2013
-  source_label: Roy et al. 2013
+  source: Flroy et al. 2013
+  source_label: Flroy et al. 2013
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARSJ.HH18.FLRoy.2013.F5.arsj.png
 - caption: ARSJ expression

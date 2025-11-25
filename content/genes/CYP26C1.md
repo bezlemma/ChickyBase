@@ -273,40 +273,40 @@ images:
 - caption: CYP26C1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26C1/450192_36.jpg
   location: Head Mesenchyme
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Bothe et al. 2011
+  source_label: Bothe et al. 2011
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26C1.Bothe.2011.Fig.2
     cyp26c1 st5.png
 - caption: CYP26C1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26C1/450192_37.jpg
   location: Head Mesenchyme
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Bothe et al. 2011
+  source_label: Bothe et al. 2011
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26C1.Bothe.2011.Fig.2
     cyp26c1 st7.png
 - caption: CYP26C1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26C1/450192_38.jpg
   location: Head Mesenchyme
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Bothe et al. 2011
+  source_label: Bothe et al. 2011
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26C1.Bothe.2011.Fig.2
     cyp26c1 st10.png
 - caption: CYP26C1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26C1/450192_39.jpg
   location: Head Mesenchyme, Pharyngeal Arches and Clefts
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Bothe et al. 2011
+  source_label: Bothe et al. 2011
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26C1.Bothe.2011.Fig.2
     cyp26c1 st13.png
 - caption: CYP26C1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26C1/450192_40.jpg
   location: null
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Bothe et al. 2011
+  source_label: Bothe et al. 2011
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26C1.Bothe.2011.Fig.2.png
 - caption: CYP26C1 expression
@@ -326,15 +326,15 @@ images:
 - caption: CYP26C1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26C1/450192_43.jpg
   location: Anterior/Second Heart Field, Splanchnic Mesoderm
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Nathan et al. 2008
+  source_label: Nathan et al. 2008
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26C1.Nathan.2008.f1.cyp26c1.png
 - caption: CYP26C1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26C1/450192_44.jpg
   location: null
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Nathan et al. 2008
+  source_label: Nathan et al. 2008
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Nathan.2008.f1.cyp26c1.png
 name: cytochrome P450 family 26 subfamily C member 1

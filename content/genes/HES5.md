@@ -34,169 +34,169 @@ images:
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_2.jpg
   location: Neural Plate/Tube
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Fior et al. 2005
+  source_label: Fior et al. 2005
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5-1.FIG2A.FIOR.2005.jpg
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_3.jpg
   location: Neural Plate/Tube
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Fior et al. 2005
+  source_label: Fior et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5-1.FIG2B.FIOR.2005.jpg
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_4.jpg
   location: null
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Fior et al. 2005
+  source_label: Fior et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIOR.2005.FIG2.jpg
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_5.jpg
   location: Neural Plate/Tube
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Fior et al. 2005
+  source_label: Fior et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5-1.FIG2C.FIOR.2005.jpg
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_6.jpg
   location: Neural Plate/Tube
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Fior et al. 2005
+  source_label: Fior et al. 2005
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5-2.FIG2D.FIOR.2005.jpg
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_7.jpg
   location: Neural Plate/Tube
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Fior et al. 2005
+  source_label: Fior et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5-2.FIG2E.FIOR.2005.jpg
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_8.jpg
   location: null
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Fior et al. 2005
+  source_label: Fior et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIOR.2005.FIG2.jpg
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_9.jpg
   location: Neural Plate/Tube
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Fior et al. 2005
+  source_label: Fior et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5-2.FIG2F.FIOR.2005.jpg
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_10.jpg
   location: Neural Plate/Tube
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Fior et al. 2005
+  source_label: Fior et al. 2005
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5-3.FIG2G.FIOR.2005.jpg
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_11.jpg
   location: Neural Plate/Tube
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Fior et al. 2005
+  source_label: Fior et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5-3.FIG2H.FIOR.2005.jpg
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_12.jpg
   location: null
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Fior et al. 2005
+  source_label: Fior et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIOR.2005.FIG2.jpg
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_13.jpg
   location: Neural Plate/Tube
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Fior et al. 2005
+  source_label: Fior et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5-3.FIG2I.FIOR.2005.jpg
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_14.jpg
   location: Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2009.1.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_15.jpg
   location: Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2009.1B.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_16.jpg
   location: Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2009.2.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_17.jpg
   location: Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2009.2B.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_18.jpg
   location: Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2009.3.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_19.jpg
   location: Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2009.3B.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_20.jpg
   location: Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2009.4.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_21.jpg
   location: Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2009.4B.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_22.jpg
   location: Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2009.5.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_23.jpg
   location: Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2009.5B.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_24.jpg
   location: Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2009.6.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_25.jpg
   location: Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2009.6B.png
 - caption: HES5 expression
@@ -251,15 +251,15 @@ images:
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_33.jpg
   location: null
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2010
+  source_label: Maier et al. 2010
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2010.Fig.2.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_34.jpg
   location: null
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2010
+  source_label: Maier et al. 2010
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2010.Fig.5.png
 - caption: HES5 expression
@@ -280,123 +280,123 @@ images:
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_37.jpg
   location: Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2010
+  source_label: Maier et al. 2010
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2010.Fig.4           hes5
     st22.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_38.jpg
   location: Forebrain, Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2010
+  source_label: Maier et al. 2010
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2010.Fig.6
     hes5 st22.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_39.jpg
   location: Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2010
+  source_label: Maier et al. 2010
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2010.Fig.3
     hes5 st25.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_40.jpg
   location: Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2010
+  source_label: Maier et al. 2010
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2010.Fig.4           hes5
     st25.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_41.jpg
   location: Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2010
+  source_label: Maier et al. 2010
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2010.Fig.4
     hes5 mag st25.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_42.jpg
   location: null
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2010
+  source_label: Maier et al. 2010
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2010.Fig.4.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_43.jpg
   location: null
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2010
+  source_label: Maier et al. 2010
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2010.Fig.3
     hes5 st27.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_44.jpg
   location: null
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2010
+  source_label: Maier et al. 2010
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2010.Fig.3.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_45.jpg
   location: null
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2010
+  source_label: Maier et al. 2010
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2010.Fig.6
     hes5 mag st27.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_46.jpg
   location: Nasal Placode/Nerve
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2010
+  source_label: Maier et al. 2010
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2010.Fig.6
     hes5 st27.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_47.jpg
   location: null
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Maier et al. 2010
+  source_label: Maier et al. 2010
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.Maier.2010.Fig.6.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_48.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Akai et al. 2005
+  source_label: Akai et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.1.Akai.2005.Fig.1
     hes5.1 .png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_49.jpg
   location: Ear/Otic Placode, Neural Plate/Tube
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Daudet et al. 2007
+  source_label: Daudet et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.1.Daudet.2007.Fig.1
     hes5.1.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_50.jpg
   location: null
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Daudet et al. 2007
+  source_label: Daudet et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.1.Daudet.2007.Fig.1.png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_51.jpg
   location: null
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Daudet et al. 2007
+  source_label: Daudet et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.3.Daudet.2007.Fig.1  .png
 - caption: HES5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES5/454781_52.jpg
   location: Ear/Otic Placode, Neural Plate/Tube
-  source: Hayes et al. 2007
-  source_label: Hayes et al. 2007
+  source: Daudet et al. 2007
+  source_label: Daudet et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES5.3.Daudet.2007.Fig.1
     hes5.3.png

@@ -63,8 +63,8 @@ images:
 - caption: ALX4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALX4/451511_6.jpg
   location: Head Mesenchyme, Rhombomeres
-  source: Bothe et al. 2006
-  source_label: Bothe et al. 2006
+  source: Bothe et al. 2007
+  source_label: Bothe et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Alx4.Figure4B.Bothe.2007.jpg
 - caption: ALX4 expression
@@ -77,8 +77,8 @@ images:
 - caption: ALX4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALX4/451511_8.jpg
   location: Dermatome, Myotome, Somites
-  source: Bothe et al. 2006
-  source_label: Bothe et al. 2006
+  source: Bothe et al. 2007
+  source_label: Bothe et al. 2007
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Alx4.Figure2E.Bothe.2007.jpg
 - caption: ALX4 expression
@@ -91,8 +91,8 @@ images:
 - caption: ALX4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALX4/451511_10.jpg
   location: Dermomyotome
-  source: Bothe et al. 2006
-  source_label: Bothe et al. 2006
+  source: Cheng et al. 2004
+  source_label: Cheng et al. 2004
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure6I.Alx4.Cheng.2004.jpg
 - caption: ALX4 expression
@@ -105,23 +105,23 @@ images:
 - caption: ALX4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALX4/451511_12.jpg
   location: null
-  source: Bothe et al. 2006
-  source_label: Bothe et al. 2006
+  source: Bothe et al. 2011
+  source_label: Bothe et al. 2011
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ALX4.Bothe.2011.Fig.3.png
 - caption: ALX4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALX4/451511_13.jpg
   location: Head Mesenchyme
-  source: Bothe et al. 2006
-  source_label: Bothe et al. 2006
+  source: Bothe et al. 2011
+  source_label: Bothe et al. 2011
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ALX4.Bothe.2011.Fig.5
     alx4.png
 - caption: ALX4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALX4/451511_14.jpg
   location: null
-  source: Bothe et al. 2006
-  source_label: Bothe et al. 2006
+  source: Bothe et al. 2011
+  source_label: Bothe et al. 2011
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ALX4.Bothe.2011.Fig.5.png
 - caption: ALX4 expression
@@ -135,16 +135,16 @@ images:
 - caption: ALX4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALX4/451511_16.jpg
   location: null
-  source: Bothe et al. 2006
-  source_label: Bothe et al. 2006
+  source: Mcgonnell et al. 2011
+  source_label: Mcgonnell et al. 2011
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ALX4.McGonnell.2011.Fig.3
     alx4.png
 - caption: ALX4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALX4/451511_17.jpg
   location: null
-  source: Bothe et al. 2006
-  source_label: Bothe et al. 2006
+  source: Mcgonnell et al. 2011
+  source_label: Mcgonnell et al. 2011
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ALX4.McGonnell.2011.Fig.3.png
 name: ALX homeobox 4

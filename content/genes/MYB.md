@@ -56,29 +56,29 @@ images:
 - caption: MYB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYB/462363_4.jpg
   location: Ear/Otic Placode, Neural Plate/Tube
-  source: Bollerot et al. 2005
-  source_label: Bollerot et al. 2005
+  source: Betancur et al. 2011
+  source_label: Betancur et al. 2011
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cMyb.Betancur.2011.F4GST8.jpg
 - caption: MYB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYB/462363_5.jpg
   location: Ear/Otic Placode, Neural Plate/Tube
-  source: Bollerot et al. 2005
-  source_label: Bollerot et al. 2005
+  source: Betancur et al. 2011
+  source_label: Betancur et al. 2011
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cMyb.Betancur.2011.F4HST9.jpg
 - caption: MYB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYB/462363_6.jpg
   location: Ear/Otic Placode, Forebrain, Hindbrain, Midbrain
-  source: Bollerot et al. 2005
-  source_label: Bollerot et al. 2005
+  source: Betancur et al. 2011
+  source_label: Betancur et al. 2011
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cMyb.Betancur.2011.F4IST11.jpg
 - caption: MYB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYB/462363_7.jpg
   location: null
-  source: Bollerot et al. 2005
-  source_label: Bollerot et al. 2005
+  source: Betancur et al. 2011
+  source_label: Betancur et al. 2011
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cMyb.Betancur.2011.F4.jpg
 name: MYB proto-oncogene, transcription factor

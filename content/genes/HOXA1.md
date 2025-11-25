@@ -35,15 +35,15 @@ images:
 - caption: HOXA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA1/454468_2.jpg
   location: Primitive Streak
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Barak et al. 2012
+  source_label: Barak et al. 2012
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.A.Hoxa2.Barak.2012.HH4.jpg
 - caption: HOXA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA1/454468_3.jpg
   location: null
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Barak et al. 2012
+  source_label: Barak et al. 2012
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.ALLIMAGES.Barak.2012.HH4.jpg
 - caption: HOXA1 expression
@@ -201,16 +201,16 @@ images:
 - caption: HOXA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA1/454468_24.jpg
   location: Heart
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA1.Anderson.2019.Supplementary
     figure 5H2-st12.jpg
 - caption: HOXA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA1/454468_25.jpg
   location: null
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA1.Anderson.2019.Supplementary
     figure 5H2.jpg

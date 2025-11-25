@@ -88,22 +88,22 @@ images:
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_9.jpg
   location: Lateral Plate Mesoderm
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Manisastry et al. 2006
+  source_label: Manisastry et al. 2006
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dkk-1.Figure8G.Manisastry.2006.jpg
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_10.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Manisastry et al. 2006
+  source_label: Manisastry et al. 2006
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dkk-1.Figure8H.Manisastry.2006.jpg
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_11.jpg
   location: Unlabeled
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Manisastry et al. 2006
+  source_label: Manisastry et al. 2006
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dkk-1.Figure8F.Manisastry.2006.jpg
 - caption: DKK1 expression
@@ -394,29 +394,29 @@ images:
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_52.jpg
   location: Hypoblast
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Foley et al. 2000
+  source_label: Foley et al. 2000
   stage: stage XII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DKK1.FIG2F.FOLEY.2000.jpg
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_53.jpg
   location: Hypoblast
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Foley et al. 2000
+  source_label: Foley et al. 2000
   stage: stage 2
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DKK1.FIG2M.FOLEY.2000.jpg
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_54.jpg
   location: Hypoblast
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Foley et al. 2000
+  source_label: Foley et al. 2000
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DKK1.FIG2T.FOLEY.2000.jpg
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_55.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Foley et al. 2000
+  source_label: Foley et al. 2000
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2a.FOLEY.2000.jpg
 - caption: DKK1 expression
@@ -465,43 +465,43 @@ images:
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_62.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Sienknecht et al. 2009
+  source_label: Sienknecht et al. 2009
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DKK1.Sienknecht.2009.1.png
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_63.jpg
   location: Ear/Otic Placode
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Sienknecht et al. 2009
+  source_label: Sienknecht et al. 2009
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DKK1.Sienknecht.2009.1e.png
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_64.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Sienknecht et al. 2009
+  source_label: Sienknecht et al. 2009
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DKK1.Sienknecht.2009.2.png
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_65.jpg
   location: Ear/Otic Placode
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Sienknecht et al. 2009
+  source_label: Sienknecht et al. 2009
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DKK1.Sienknecht.2009.2i.png
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_66.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Sienknecht et al. 2009
+  source_label: Sienknecht et al. 2009
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DKK1.Sienknecht.2009.3.png
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_67.jpg
   location: Ear/Otic Placode
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Sienknecht et al. 2009
+  source_label: Sienknecht et al. 2009
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DKK1.Sienknecht.2009.3e.png
 - caption: DKK1 expression
@@ -581,48 +581,48 @@ images:
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_78.jpg
   location: Area Opaca, Hypoblast
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage X
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DKK1.Lee.2020_Fig
     4_g'_EGK.X-XI.jpg
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_79.jpg
   location: Area Opaca
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage X
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DKK1.Lee.2020_Fig
     4_g_EGK.X-XI.jpg
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_80.jpg
   location: Area Opaca, Epiblast, Hypoblast, Kohler's Sickle
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage XII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DKK1.Lee.2020_Fig
     4_h'_EGK.XII-XIII.jpg
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_81.jpg
   location: Area Opaca, Kohler's Sickle
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage XII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DKK1.Lee.2020_Fig
     4_h_EGK.XII-XIII.jpg
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_82.jpg
   location: Area Opaca, Area Pellucida
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage XIV
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DKK1.Lee.2020_Fig
     4_i_EGK.XIV-HH2.jpg
 - caption: DKK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DKK1/455287_83.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Allimages_Lee.2020_Fig
     4-2.jpg

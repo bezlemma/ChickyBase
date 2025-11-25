@@ -106,8 +106,8 @@ images:
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_12.jpg
   location: Rhombomeres
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.O.HH10.CNTN2.jpg
 - caption: CNTN2 expression
@@ -120,148 +120,148 @@ images:
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_14.jpg
   location: Pharyngeal Arches and Clefts, Pituitary (Rudiment)
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.Q.HH12.CNTN2.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_15.jpg
   location: Peripheral Nervous System
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig2.H.HH14.CTNT2.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_16.jpg
   location: null
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig7.allimages-9.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_17.jpg
   location: Spinal Cord
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig7.cntn2.D.HH14-2.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_18.jpg
   location: Peripheral Nervous System
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.R.HH15.CNTN2.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_19.jpg
   location: Rhombomeres
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig3.CNTN3.HH16.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_20.jpg
   location: Unlabeled
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig5.D.CNTN2.HH16.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_21.jpg
   location: null
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig5.allimages4.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_22.jpg
   location: Peripheral Nervous System
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig2.D.HH17.CTNT2.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_23.jpg
   location: null
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig2.allimages-4.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_24.jpg
   location: Unlabeled
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig5.H.CHGA.HH17.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_25.jpg
   location: Peripheral Nervous System
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.S.HH18.CNTN2.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_26.jpg
   location: Cranial PNS
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig4.I.CNTN2.HH18.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_27.jpg
   location: null
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig4.allimages4.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_28.jpg
   location: Cranial PNS
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig5.L.CNTN2.HH18.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_29.jpg
   location: Peripheral Nervous System
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.T.HH22.CNTN2.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_30.jpg
   location: Rhombomeres
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig3.I.CNTN2.HH22.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_31.jpg
   location: null
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig3allimages-6.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_32.jpg
   location: Cranial PNS
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig5.P.CNTN2.HH22-2.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_33.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig6.CNTN2.D.HH22.jpg
 - caption: CNTN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN2/452599_34.jpg
   location: null
-  source: Yamagata et al. 2012
-  source_label: Yamagata et al. 2012
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig6.allimages.HH22-4.jpg
 name: contactin 2

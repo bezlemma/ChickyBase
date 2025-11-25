@@ -43,36 +43,36 @@ images:
 - caption: COL1A2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/COL1A2/462362_2.jpg
   location: Leg Bones
-  source: Conen et al. 2009
-  source_label: Conen et al. 2009
+  source: Bandyopadhyay et al. 2008
+  source_label: Bandyopadhyay et al. 2008
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COLLA2.HH35.Bandyopadhyay.2008.f4.colla2.png
 - caption: COL1A2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/COL1A2/462362_3.jpg
   location: Leg Bones
-  source: Conen et al. 2009
-  source_label: Conen et al. 2009
+  source: Bandyopadhyay et al. 2008
+  source_label: Bandyopadhyay et al. 2008
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COLLA2.HH36.Bandyopadhyay.2008.f4.colla2.png
 - caption: COL1A2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/COL1A2/462362_4.jpg
   location: Leg Bones
-  source: Conen et al. 2009
-  source_label: Conen et al. 2009
+  source: Bandyopadhyay et al. 2008
+  source_label: Bandyopadhyay et al. 2008
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COLLA2.HH37.Bandyopadhyay.2008.f4.colla2.png
 - caption: COL1A2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/COL1A2/462362_5.jpg
   location: null
-  source: Conen et al. 2009
-  source_label: Conen et al. 2009
+  source: Bandyopadhyay et al. 2008
+  source_label: Bandyopadhyay et al. 2008
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Bandyopadhyay.2008.f4.colla2.png
 - caption: COL1A2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/COL1A2/462362_6.jpg
   location: Leg Mesenchyme
-  source: Conen et al. 2009
-  source_label: Conen et al. 2009
+  source: Bandyopadhyay et al. 2008
+  source_label: Bandyopadhyay et al. 2008
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COLLA2.HH38.Bandyopadhyay.2008.f4.colla2.png
 name: collagen type I alpha 2 chain

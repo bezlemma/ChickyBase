@@ -286,15 +286,15 @@ images:
 - caption: CLDN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CLDN1/448791_38.jpg
   location: Pharyngeal Arches and Clefts, Surface Ectoderm
-  source: Simard et al. 2005
-  source_label: Simard et al. 2005
+  source: Haworth et al. 2007
+  source_label: Haworth et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Claudin-1.Haworth.2007.Figure3F.jpg
 - caption: CLDN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CLDN1/448791_39.jpg
   location: Pharyngeal Arches and Clefts, Surface Ectoderm
-  source: Simard et al. 2005
-  source_label: Simard et al. 2005
+  source: Haworth et al. 2007
+  source_label: Haworth et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Claudin-1.Haworth.2007.Figure4C.jpg
 - caption: CLDN1 expression
@@ -370,15 +370,15 @@ images:
 - caption: CLDN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CLDN1/448791_50.jpg
   location: null
-  source: Simard et al. 2005
-  source_label: Simard et al. 2005
+  source: Acloque et al. 2008
+  source_label: Acloque et al. 2008
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Acloque.2008.f1.claudin1.png
 - caption: CLDN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CLDN1/448791_51.jpg
   location: Neural Plate/Tube, Primitive Streak
-  source: Simard et al. 2005
-  source_label: Simard et al. 2005
+  source: Acloque et al. 2008
+  source_label: Acloque et al. 2008
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CLAUDIN1.Acloque.2008.f1.claudin1.png
 name: claudin 1

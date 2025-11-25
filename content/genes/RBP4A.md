@@ -41,44 +41,44 @@ images:
 - caption: RBP4A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RBP4A/459057_2.jpg
   location: Early Endoderm
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Barron et al. 1998
+  source_label: Barron et al. 1998
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RBP.Barron.1998.Fig5D-st6.jpg
 - caption: RBP4A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RBP4A/459057_3.jpg
   location: Endoderm
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Barron et al. 1998
+  source_label: Barron et al. 1998
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RBP.Barron.1998.Fig5E-st8.jpg
 - caption: RBP4A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RBP4A/459057_4.jpg
   location: Endoderm
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Barron et al. 1998
+  source_label: Barron et al. 1998
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RBP.Barron.1998.Fig5F-st10.jpg
 - caption: RBP4A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RBP4A/459057_5.jpg
   location: null
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Barron et al. 1998
+  source_label: Barron et al. 1998
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RBP.Barron.1998.Fig5.jpg
 - caption: RBP4A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RBP4A/459057_6.jpg
   location: Proepicardium
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RBP4A.Anderson.2019.Supplementary
     figure 5K-st12.jpg
 - caption: RBP4A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RBP4A/459057_7.jpg
   location: null
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RBP4A.Anderson.2019.Supplementary
     figure 5K.jpg

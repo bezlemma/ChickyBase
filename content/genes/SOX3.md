@@ -113,99 +113,99 @@ images:
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_12.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Barem et al. 2007
+  source_label: Barem et al. 2007
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1N-P.BAREM.2007.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_13.jpg
   location: Neural Plate/Tube
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Barem et al. 2007
+  source_label: Barem et al. 2007
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.FIG1Q.BAREM.2007.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_14.jpg
   location: Ectoderm, Neural Plate/Tube
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abu et al. 2001
+  source_label: Abu et al. 2001
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.FIG2A.ABU.2001.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_15.jpg
   location: Ectoderm, Neural Plate/Tube
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abu et al. 2001
+  source_label: Abu et al. 2001
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.FIG2B.ABU.2001.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_16.jpg
   location: Ectoderm, Neural Plate/Tube
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abu et al. 2001
+  source_label: Abu et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.FIG2C.ABU.2001.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_17.jpg
   location: Ectoderm, Neural Plate/Tube, Pharyngeal Arches and Clefts, Placcode
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abu et al. 2001
+  source_label: Abu et al. 2001
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.FIG2D.ABU.2001.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_18.jpg
   location: Neural Plate/Tube, Pharyngeal Arches and Clefts, Placcode
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abu et al. 2001
+  source_label: Abu et al. 2001
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.FIG2E.ABU.2001.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_19.jpg
   location: Pharyngeal Arches and Clefts, Placcode
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abu et al. 2001
+  source_label: Abu et al. 2001
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.FIG1A.ABU.2001.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_20.jpg
   location: Pharyngeal Arches and Clefts, Placcode
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abu et al. 2001
+  source_label: Abu et al. 2001
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.FIG1B.ABU.2001.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_21.jpg
   location: Neural Plate/Tube, Pharyngeal Arches and Clefts, Placcode
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abu et al. 2001
+  source_label: Abu et al. 2001
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.FIG3A.ABU.2001.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_22.jpg
   location: Neural Plate/Tube, Pharyngeal Arches and Clefts, Placcode
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abu et al. 2001
+  source_label: Abu et al. 2001
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.FIG4A.ABU.2001.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_23.jpg
   location: Neural Plate/Tube, Pharyngeal Arches and Clefts, Placcode
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abu et al. 2001
+  source_label: Abu et al. 2001
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.FIG4B.ABU.2001.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_24.jpg
   location: Neural Plate/Tube, Pharyngeal Arches and Clefts, Placcode
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abu et al. 2001
+  source_label: Abu et al. 2001
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.FIG4C.ABU.2001.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_25.jpg
   location: Pharyngeal Arches and Clefts, Placcode
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abu et al. 2001
+  source_label: Abu et al. 2001
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.FIG4D.ABU.2001.jpg
 - caption: SOX3 expression
@@ -218,15 +218,15 @@ images:
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_27.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Matsumata et al. 2005
+  source_label: Matsumata et al. 2005
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2A.MATSUMATA.2005.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_28.jpg
   location: Central Nervous System, Ear/Otic Placcode, Lens, Sensory Organs
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Matsumata et al. 2005
+  source_label: Matsumata et al. 2005
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.FIG2A.MATSUMATA.2005.jpg
 - caption: SOX3 expression
@@ -239,29 +239,29 @@ images:
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_30.jpg
   location: Epiblast
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Streit et al. 1999
+  source_label: Streit et al. 1999
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.FIG2A.STREIT.1999.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_31.jpg
   location: Neural Plate/Tube
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Streit et al. 1999
+  source_label: Streit et al. 1999
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.FIG2B.STREIT.1999.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_32.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Streit et al. 1999
+  source_label: Streit et al. 1999
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.STREIT.1999.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_33.jpg
   location: Neural Plate/Tube
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Streit et al. 1999
+  source_label: Streit et al. 1999
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.FIG2C.STREIT.1999.jpg
 - caption: SOX3 expression
@@ -295,133 +295,133 @@ images:
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_38.jpg
   location: Neural Plate/Tube
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Abello.2010.Fig.5
     sox3 st8.png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_39.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Abello.2010.SupFig.2
     .png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_40.jpg
   location: Neural Plate/Tube
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Abello.2010.SupFig.2
     sox2.png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_41.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Abello.2010.Fig.1
     sox3 st9.png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_42.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Abello.2010.Fig.1
     sox3 st9plus.png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_43.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Abello.2010.Fig.1.png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_44.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Abello.2010.Fig.5
     sox3 st9.png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_45.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Abello.2010.Fig.5.png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_46.jpg
   location: Rhombomeres
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Abello.2010.Fig.1
     sox3 st10 r4.png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_47.jpg
   location: Rhombomeres
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Abello.2010.Fig.1
     sox3 st10 r5.png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_48.jpg
   location: Head Mesenchyme, Neural Plate/Tube
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Abello.2010.Fig.1
     sox3 st10.png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_49.jpg
   location: Area Pellucida
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Acloque et al. 2011
+  source_label: Acloque et al. 2011
   stage: stage XIV
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Acloque.2011.Fig.2
     sox3 st1.png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_50.jpg
   location: Epiblast
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Acloque et al. 2011
+  source_label: Acloque et al. 2011
   stage: stage 2
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Acloque.2011.Fig.2
     sox3 st2.png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_51.jpg
   location: Epiblast
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Acloque et al. 2011
+  source_label: Acloque et al. 2011
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Acloque.2011.Fig.2
     sox3 st3.png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_52.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Acloque et al. 2011
+  source_label: Acloque et al. 2011
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Acloque.2011.Fig.2.png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_53.jpg
   location: Epiblast
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Acloque et al. 2011
+  source_label: Acloque et al. 2011
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Acloque.2011.Fig.3
     sox3.png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_54.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Acloque et al. 2011
+  source_label: Acloque et al. 2011
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Acloque.2011.Fig.3.png
 - caption: SOX3 expression
@@ -469,176 +469,176 @@ images:
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_61.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Christophorou et al. 2009
+  source_label: Christophorou et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Christophorou.2009.f1.sox3.png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_62.jpg
   location: Neural Plate/Tube
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Christophorou et al. 2009
+  source_label: Christophorou et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX3.Christophorou.2009.f1.sox3.png
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_63.jpg
   location: Ectoderm
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig8A.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_64.jpg
   location: Ectoderm
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig8B.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_65.jpg
   location: Ectoderm
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig8C.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_66.jpg
   location: Ectoderm
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig2A'.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_67.jpg
   location: Ectoderm
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig8D.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_68.jpg
   location: Ectoderm
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig2B'.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_69.jpg
   location: Ectoderm
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig2C'.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_70.jpg
   location: Ectoderm
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig5B'.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_71.jpg
   location: Ectoderm
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig5C'.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_72.jpg
   location: Ectoderm
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig2D.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_73.jpg
   location: Ectoderm
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig2E.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_74.jpg
   location: Ectoderm
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig2F'.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_75.jpg
   location: Unlabeled
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig5E.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_76.jpg
   location: Ectoderm
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig5F.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_77.jpg
   location: Ectoderm
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig2G.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_78.jpg
   location: Ectoderm
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig2H.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_79.jpg
   location: Ectoderm
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig1A.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_80.jpg
   location: Ectoderm
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig1C.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_81.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig1'.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_82.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig2'.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_83.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig3'.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_84.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig5'.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_85.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox3.Ishii.2001.Fig8.jpg
 - caption: SOX3 expression
@@ -658,29 +658,29 @@ images:
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_88.jpg
   location: Central Nervous System, Cranial Ganglia, Cranial Nerve
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_6_Sox3_A.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_89.jpg
   location: Central Nervous System, Cranial PNS
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_5_sox3_A.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_90.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_5_ALLIMAGES.jpg
 - caption: SOX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX3/454563_91.jpg
   location: null
-  source: Mikawa et al. 2004
-  source_label: Mikawa et al. 2004
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_6_ALLIMAGES.jpg
 - caption: SOX3 expression

@@ -19,29 +19,29 @@ images:
 - caption: FBXW11 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FBXW11/457551_0.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BTRC.FIG6H.AGLYA.2007.jpg
 - caption: FBXW11 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FBXW11/457551_1.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BTRC.FIG6I.AGLYA.2007.jpg
 - caption: FBXW11 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FBXW11/457551_2.jpg
   location: Neural Plate/Tube
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BTRC.FIG6J.AGLYA.2007.jpg
 - caption: FBXW11 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FBXW11/457551_3.jpg
   location: Midbrain
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Agarwala et al. 2005
+  source_label: Agarwala et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BTRC.FIG4G.AGARWALA.2005.jpg
 name: F-box and WD repeat domain containing 11

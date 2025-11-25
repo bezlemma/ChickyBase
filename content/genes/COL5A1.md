@@ -84,15 +84,15 @@ images:
 - caption: COL5A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/COL5A1/449542_8.jpg
   location: null
-  source: Roddy et al. 2009
-  source_label: Roddy et al. 2009
+  source: Bandyopadhyay et al. 2008
+  source_label: Bandyopadhyay et al. 2008
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Bandyopadhyay.2008.f3.col5.png
 - caption: COL5A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/COL5A1/449542_9.jpg
   location: Leg Mesenchyme
-  source: Roddy et al. 2009
-  source_label: Roddy et al. 2009
+  source: Bandyopadhyay et al. 2008
+  source_label: Bandyopadhyay et al. 2008
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COL5.Bandyopadhyay.2008.f3.col5.png
 name: collagen type V alpha 1 chain

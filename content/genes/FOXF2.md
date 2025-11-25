@@ -49,16 +49,16 @@ images:
 - caption: FOXF2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXF2/472291_4.jpg
   location: Heart
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXF2.Anderson.2019.Supplementary
     figure 5H1-st12.jpg
 - caption: FOXF2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXF2/472291_5.jpg
   location: null
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXF2.Anderson.2019.Supplementary
     figure 5H1.jpg

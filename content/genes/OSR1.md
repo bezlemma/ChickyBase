@@ -200,8 +200,8 @@ images:
 - caption: OSR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OSR1/450502_26.jpg
   location: Paraxial Mesoderm
-  source: Stricker et al. 2006
-  source_label: Stricker et al. 2006
+  source: James et al. 2005
+  source_label: James et al. 2005
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ODD1.FIG1A.JAMES.2005.jpg
 - caption: OSR1 expression
@@ -215,8 +215,8 @@ images:
 - caption: OSR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OSR1/450502_28.jpg
   location: Intermediate Mesoderm, Lateral Plate Mesoderm, Somites
-  source: Stricker et al. 2006
-  source_label: Stricker et al. 2006
+  source: Wilm et al. 2004
+  source_label: Wilm et al. 2004
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OSR1.FIG2GJ.WILM.2004.jpg
 name: odd-skipped related transciption factor 1

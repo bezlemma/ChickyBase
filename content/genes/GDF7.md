@@ -31,15 +31,15 @@ images:
 - caption: GDF7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GDF7/463226_2.jpg
   location: Hindbrain
-  source: Mou et al. 2011
-  source_label: Mou et al. 2011
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GDF7.Wilson.2007.f9.gdf7.png
 - caption: GDF7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GDF7/463226_3.jpg
   location: null
-  source: Mou et al. 2011
-  source_label: Mou et al. 2011
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wilson.2007.f9.gdf7.png
 name: growth differentiation factor 7

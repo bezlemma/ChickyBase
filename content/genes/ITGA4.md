@@ -39,8 +39,8 @@ images:
 - caption: ITGA4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ITGA4/460508_3.jpg
   location: null
-  source: Leu et al. 2004
-  source_label: Leu et al. 2004
+  source: Leu et al. 2008
+  source_label: Leu et al. 2008
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG8.LEU.2008.jpg
 name: integrin subunit alpha 4

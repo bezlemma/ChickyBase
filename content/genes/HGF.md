@@ -28,15 +28,15 @@ images:
 - caption: HGF expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HGF/450501_1.jpg
   location: Wing
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Bonafede et al. 2006
+  source_label: Bonafede et al. 2006
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure8A.Bonafede.2006.jpg
 - caption: HGF expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HGF/450501_2.jpg
   location: Wing Mesenchyme
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Bonafede et al. 2006
+  source_label: Bonafede et al. 2006
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2A.Bonafede.2006.jpg
 name: hepatocyte growth factor

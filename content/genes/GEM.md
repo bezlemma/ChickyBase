@@ -28,16 +28,16 @@ images:
 - caption: GEM expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GEM/462271_1.jpg
   location: Heart
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GEM.Anderson.2019.Supplementary
     figure 5L-st12.jpg
 - caption: GEM expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GEM/462271_2.jpg
   location: null
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GEM.Anderson.2019.Supplementary
     figure 5L.jpg

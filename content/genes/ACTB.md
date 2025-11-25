@@ -79,15 +79,15 @@ images:
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_7.jpg
   location: null
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.Lin.2012.ALLIMAGES.jpg
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_8.jpg
   location: null
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.ALLIMAGES-4.jpg
 - caption: ACTB expression
@@ -149,113 +149,113 @@ images:
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_17.jpg
   location: Widespread Expression
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.Lin.2012.B.GAPDH.jpg
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_18.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.Lin.2012.E.ACTB.E8.jpg
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_19.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.Lin.2012.F.ACTB.E8.jpg
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_20.jpg
   location: Central Nervous System
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.Lin.2012.H.ACTH.E8.jpg
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_21.jpg
   location: Heart, Liver
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.L.ACTB.E8.jpg
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_22.jpg
   location: Lung
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.O.ACTB.E8.jpg
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_23.jpg
   location: Gizzard
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.V.ACTB.E8.jpg
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_24.jpg
   location: Dermis, Myotome, Surface Ectoderm
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.b1.Actb.E8.jpg
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_25.jpg
   location: Heart
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.c.ACTB.E8.jpg
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_26.jpg
   location: Arteries, Blood Vessels
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.j.ACTB.E8.jpg
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_27.jpg
   location: Liver
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.r.ACTB.E8.jpg
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_28.jpg
   location: Renal
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.t.ACTB.E8.jpg
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_29.jpg
   location: Gut
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.x.Actb.E8.jpg
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_30.jpg
   location: Feathers/Scutae
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.z.Actb.E8.jpg
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_31.jpg
   location: Feathers/Scutae
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.d1.Actb.E10-1.jpg
 - caption: ACTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTB/460344_32.jpg
   location: Central Nervous System
-  source: Ruzicka et al. 1988
-  source_label: Ruzicka et al. 1988
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.Lin.2012.J.ACTB.E14.jpg
 name: actin, beta

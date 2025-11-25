@@ -172,50 +172,50 @@ images:
 - caption: PCDH9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH9/468125_22.jpg
   location: Dermis
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh9.Lin.2013.Fig2A-st34.jpg
 - caption: PCDH9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH9/468125_23.jpg
   location: Blood Vessels, Dermis, Surface Ectoderm
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh9.Lin.2013.Fig2B-st35.jpg
 - caption: PCDH9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH9/468125_24.jpg
   location: Surface Ectoderm
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh9.Lin.2013.Fig3M-st35.jpg
 - caption: PCDH9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH9/468125_25.jpg
   location: Surface Ectoderm
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh9.Lin.2013.Fig3O-st35.jpg
 - caption: PCDH9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH9/468125_26.jpg
   location: Surface Ectoderm
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh9.Lin.2013.Fig2C-st36.jpg
 - caption: PCDH9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH9/468125_27.jpg
   location: null
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh9.Lin.2013.Fig2.jpg
 - caption: PCDH9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH9/468125_28.jpg
   location: null
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh9.Lin.2013.Fig3.jpg
 name: protocadherin 9

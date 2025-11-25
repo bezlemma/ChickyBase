@@ -42,36 +42,36 @@ images:
 - caption: HMX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HMX3/449898_2.jpg
   location: Ear/Otic Placode
-  source: Adamska et al. 2001
-  source_label: Adamska et al. 2001
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_3_NKx5.1_I-J.jpg
 - caption: HMX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HMX3/449898_3.jpg
   location: Ear/Otic Placode
-  source: Adamska et al. 2001
-  source_label: Adamska et al. 2001
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_4_NKx5.1_D.jpg
 - caption: HMX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HMX3/449898_4.jpg
   location: Ear/Otic Placode
-  source: Adamska et al. 2001
-  source_label: Adamska et al. 2001
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_4_NKx5.1_E.jpg
 - caption: HMX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HMX3/449898_5.jpg
   location: null
-  source: Adamska et al. 2001
-  source_label: Adamska et al. 2001
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_3_ALLIMAGES-3.jpg
 - caption: HMX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HMX3/449898_6.jpg
   location: null
-  source: Adamska et al. 2001
-  source_label: Adamska et al. 2001
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_4_Allimages-2.jpg
 name: H6 family homeobox 3

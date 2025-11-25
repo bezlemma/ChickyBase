@@ -34,8 +34,8 @@ images:
 - caption: OVALX expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OVALX/468299_2.jpg
   location: null
-  source: Lim et al. 2012
-  source_label: Lim et al. 2012
+  source: Lim et al. 2011
+  source_label: Lim et al. 2011
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.ALLIMAGES.LIM.2011.jpg
 - caption: OVALX expression
@@ -69,8 +69,8 @@ images:
 - caption: OVALX expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OVALX/468299_7.jpg
   location: null
-  source: Lim et al. 2012
-  source_label: Lim et al. 2012
+  source: Lim et al. 2011
+  source_label: Lim et al. 2011
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig6.ALLIMAGES.SERPINB11.LIM.2011.jpg
 - caption: OVALX expression

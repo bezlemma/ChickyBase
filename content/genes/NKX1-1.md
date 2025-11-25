@@ -22,130 +22,130 @@ images:
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_0.jpg
   location: Neural Plate/Tube
-  source: DiezdelCorral et al. 2002
-  source_label: DiezdelCorral et al. 2002
+  source: Diezdelcorral et al. 2002
+  source_label: Diezdelcorral et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.DiezdelCorral.2002.1JKL.png
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_1.jpg
   location: null
-  source: DiezdelCorral et al. 2002
-  source_label: DiezdelCorral et al. 2002
+  source: Diezdelcorral et al. 2002
+  source_label: Diezdelcorral et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.DiezdelCorral.2002.Fig.1.png
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_2.jpg
   location: Midbrain
-  source: DiezdelCorral et al. 2002
-  source_label: DiezdelCorral et al. 2002
+  source: Schubert et al. 2005
+  source_label: Schubert et al. 2005
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.Schubert.2005.Fig.2
     sax1 st17.png
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_3.jpg
   location: Mesencephalon
-  source: DiezdelCorral et al. 2002
-  source_label: DiezdelCorral et al. 2002
+  source: Schubert et al. 2005
+  source_label: Schubert et al. 2005
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.Schubert.2005.Fig.3
     sax1 st18.png
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_4.jpg
   location: Mesencephalon
-  source: DiezdelCorral et al. 2002
-  source_label: DiezdelCorral et al. 2002
+  source: Schubert et al. 2005
+  source_label: Schubert et al. 2005
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.Schubert.2005.Fig.3
     sax1 st19.png
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_5.jpg
   location: null
-  source: DiezdelCorral et al. 2002
-  source_label: DiezdelCorral et al. 2002
+  source: Schubert et al. 2005
+  source_label: Schubert et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.Schubert.2005.Fig.1
     sax1 st20.png
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_6.jpg
   location: Mesencephalon
-  source: DiezdelCorral et al. 2002
-  source_label: DiezdelCorral et al. 2002
+  source: Schubert et al. 2005
+  source_label: Schubert et al. 2005
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.Schubert.2005.Fig.2
     sax1 st21.png
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_7.jpg
   location: Mesencephalon
-  source: DiezdelCorral et al. 2002
-  source_label: DiezdelCorral et al. 2002
+  source: Schubert et al. 2005
+  source_label: Schubert et al. 2005
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.Schubert.2005.Fig.3
     sax1 st21.png
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_8.jpg
   location: null
-  source: DiezdelCorral et al. 2002
-  source_label: DiezdelCorral et al. 2002
+  source: Schubert et al. 2005
+  source_label: Schubert et al. 2005
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.Schubert.2005.Fig.3.png
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_9.jpg
   location: Mesencephalon
-  source: DiezdelCorral et al. 2002
-  source_label: DiezdelCorral et al. 2002
+  source: Schubert et al. 2005
+  source_label: Schubert et al. 2005
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.Schubert.2005.Fig.2
     sax1 st22.png
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_10.jpg
   location: Mesencephalon
-  source: DiezdelCorral et al. 2002
-  source_label: DiezdelCorral et al. 2002
+  source: Schubert et al. 2005
+  source_label: Schubert et al. 2005
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.Schubert.2005.Fig.2
     sax1 st23.png
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_11.jpg
   location: Mesencephalon
-  source: DiezdelCorral et al. 2002
-  source_label: DiezdelCorral et al. 2002
+  source: Schubert et al. 2005
+  source_label: Schubert et al. 2005
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.Schubert.2005.Fig.1
     sax1 st25.png
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_12.jpg
   location: null
-  source: DiezdelCorral et al. 2002
-  source_label: DiezdelCorral et al. 2002
+  source: Schubert et al. 2005
+  source_label: Schubert et al. 2005
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.Schubert.2005.Fig.1.png
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_13.jpg
   location: Diencephalon, Midbrain, Rhombomeres
-  source: DiezdelCorral et al. 2002
-  source_label: DiezdelCorral et al. 2002
+  source: Schubert et al. 2005
+  source_label: Schubert et al. 2005
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.Schubert.2005.Fig.2
     sax1 st27.png
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_14.jpg
   location: null
-  source: DiezdelCorral et al. 2002
-  source_label: DiezdelCorral et al. 2002
+  source: Schubert et al. 2005
+  source_label: Schubert et al. 2005
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.Schubert.2005.Fig.2.png
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_15.jpg
   location: Neural Plate/Tube
-  source: DiezdelCorral et al. 2002
-  source_label: DiezdelCorral et al. 2002
+  source: Bertrand et al. 2000
+  source_label: Bertrand et al. 2000
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.Bertrand.2000.4a.png
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_16.jpg
   location: null
-  source: DiezdelCorral et al. 2002
-  source_label: DiezdelCorral et al. 2002
+  source: Bertrand et al. 2000
+  source_label: Bertrand et al. 2000
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.Bertrand.2000.4whole.png
 name: NK1 homeobox 1

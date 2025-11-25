@@ -76,44 +76,44 @@ images:
 - caption: PTPRZ1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRZ1/350068_8.jpg
   location: Forebrain
-  source: Ivanova et al. 2004
-  source_label: Ivanova et al. 2004
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RTPZETA.Chambers.2006.Fig.3
     rtpzeta.png
 - caption: PTPRZ1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRZ1/350068_9.jpg
   location: null
-  source: Ivanova et al. 2004
-  source_label: Ivanova et al. 2004
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RTPZETA.Chambers.2006.Fig.3.png
 - caption: PTPRZ1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRZ1/350068_10.jpg
   location: Retina
-  source: Ivanova et al. 2004
-  source_label: Ivanova et al. 2004
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig5.RPTPZ_J.jpg
 - caption: PTPRZ1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRZ1/350068_11.jpg
   location: Cranial Ganglia, Eye
-  source: Ivanova et al. 2004
-  source_label: Ivanova et al. 2004
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig6.RPTPZ_E-E'.jpg
 - caption: PTPRZ1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRZ1/350068_12.jpg
   location: null
-  source: Ivanova et al. 2004
-  source_label: Ivanova et al. 2004
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig5.Allimages-6.jpg
 - caption: PTPRZ1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTPRZ1/350068_13.jpg
   location: null
-  source: Ivanova et al. 2004
-  source_label: Ivanova et al. 2004
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig6.Allimages-3.jpg
 name: protein tyrosine phosphatase, receptor type Z1

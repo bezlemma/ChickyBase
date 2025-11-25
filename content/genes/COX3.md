@@ -18,22 +18,22 @@ images:
 - caption: COX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/COX3/468748_0.jpg
   location: Peripheral Nervous System, Spinal Cord
-  source: Publication
-  source_label: Publication
+  source: Nelson et al. 2004
+  source_label: Nelson et al. 2004
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CytochromeCoxidIII.Nelson.2004.fig4a-st24.jpg
 - caption: COX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/COX3/468748_1.jpg
   location: Peripheral Nervous System
-  source: Publication
-  source_label: Publication
+  source: Nelson et al. 2004
+  source_label: Nelson et al. 2004
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CytochromeCoxidIII.Nelson.2004.fig4e-st35.jpg
 - caption: COX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/COX3/468748_2.jpg
   location: null
-  source: Publication
-  source_label: Publication
+  source: Nelson et al. 2004
+  source_label: Nelson et al. 2004
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CytochromeCoxidIII.Nelson.2004.fig4.jpg
 name: cytochrome c oxidase subunit III

@@ -32,22 +32,22 @@ images:
 - caption: LAMB1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LAMB1/461117_0.jpg
   location: Retina
-  source: DiasdaSilva et al. 2007
-  source_label: DiasdaSilva et al. 2007
+  source: Dias da silva et al. 2007
+  source_label: Dias da silva et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/laminin.Dias da Silva.2007.Figure3A.jpg
 - caption: LAMB1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LAMB1/461117_1.jpg
   location: Retina
-  source: DiasdaSilva et al. 2007
-  source_label: DiasdaSilva et al. 2007
+  source: Dias da silva et al. 2007
+  source_label: Dias da silva et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/laminin.Dias da Silva.2007.Figure3B.jpg
 - caption: LAMB1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LAMB1/461117_2.jpg
   location: Retina
-  source: DiasdaSilva et al. 2007
-  source_label: DiasdaSilva et al. 2007
+  source: Dias da silva et al. 2007
+  source_label: Dias da silva et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/laminin.Dias da Silva.2007.Figure3C.jpg
 name: laminin subunit beta 1

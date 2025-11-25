@@ -28,22 +28,22 @@ images:
 - caption: TPM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TPM1/461715_0.jpg
   location: Atria, Myocardium, Outflow Tract
-  source: Wang et al. 1996
-  source_label: Wang et al. 1996
+  source: Wang et al. 1995
+  source_label: Wang et al. 1995
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wang.1995.fig5A-B2.jpg
 - caption: TPM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TPM1/461715_1.jpg
   location: null
-  source: Wang et al. 1996
-  source_label: Wang et al. 1996
+  source: Wang et al. 1995
+  source_label: Wang et al. 1995
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wang.1995.fig5allimages2.jpg
 - caption: TPM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TPM1/461715_2.jpg
   location: Myocardium
-  source: Wang et al. 1996
-  source_label: Wang et al. 1996
+  source: Wang et al. 1995
+  source_label: Wang et al. 1995
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wang.1995.fig5B-D2.jpg
 name: tropomyosin 1 (alpha)

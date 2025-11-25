@@ -102,29 +102,29 @@ images:
 - caption: SLIT3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT3/455249_12.jpg
   location: Unlabeled
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit3.Riley.2010.Figure3.ImageG-I.JPG
 - caption: SLIT3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT3/455249_13.jpg
   location: Unlabeled
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit3.Riley.2010.Figure3.ImageG.JPG
 - caption: SLIT3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT3/455249_14.jpg
   location: Midbrain
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit3.Riley.2010.Figure3.ImageH.JPG
 - caption: SLIT3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT3/455249_15.jpg
   location: Midbrain
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit3.Riley.2010.Figure3.ImageI.JPG
 - caption: SLIT3 expression
@@ -221,78 +221,78 @@ images:
 - caption: SLIT3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT3/455249_29.jpg
   location: null
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Giovannone et al. 2012
+  source_label: Giovannone et al. 2012
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Giovannone.2012.Fig1.ALLIMAGES-3.jpg
 - caption: SLIT3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT3/455249_30.jpg
   location: Neural Plate/Tube
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Giovannone et al. 2012
+  source_label: Giovannone et al. 2012
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Giovannone.2012.Fig1.C.Slit3.HH12-13.jpg
 - caption: SLIT3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT3/455249_31.jpg
   location: Leg AER, Limb Buds, Paraxial Mesoderm
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit3.Vargesson.2001.Fig2I-st20.jpg
 - caption: SLIT3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT3/455249_32.jpg
   location: Limb Buds
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit3.Vargesson.2001.Fig2J-st24.jpg
 - caption: SLIT3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT3/455249_33.jpg
   location: Limb Buds
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit3.Vargesson.2001.Fig3C-st26.jpg
 - caption: SLIT3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT3/455249_34.jpg
   location: Limb Buds
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit3.Vargesson.2001.Fig6D-st27.jpg
 - caption: SLIT3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT3/455249_35.jpg
   location: Limb Buds
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit3.Vargesson.2001.Fig2K-st28.jpg
 - caption: SLIT3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT3/455249_36.jpg
   location: Limb Buds
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit3.Vargesson.2001.Fig2L-st32.jpg
 - caption: SLIT3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT3/455249_37.jpg
   location: null
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit3.Vargesson.2001.Fig2.jpg
 - caption: SLIT3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT3/455249_38.jpg
   location: null
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit3.Vargesson.2001.Fig3.jpg
 - caption: SLIT3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT3/455249_39.jpg
   location: null
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit3.Vargesson.2001.Fig6.jpg
 name: slit guidance ligand 3

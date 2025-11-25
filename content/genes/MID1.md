@@ -132,110 +132,110 @@ images:
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_16.jpg
   location: Early Embryo
-  source: Richman et al. 2002
-  source_label: Richman et al. 2002
+  source: Granata et al. 2005
+  source_label: Granata et al. 2005
   stage: stage 2
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MID1.FIG1A.GRANATA.2005.jpg
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_17.jpg
   location: Germinal Crescent
-  source: Richman et al. 2002
-  source_label: Richman et al. 2002
+  source: Granata et al. 2005
+  source_label: Granata et al. 2005
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MID1.FIG1E.GRANATA.2005.jpg
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_18.jpg
   location: Germinal Crescent, Hensen's Node
-  source: Richman et al. 2002
-  source_label: Richman et al. 2002
+  source: Granata et al. 2005
+  source_label: Granata et al. 2005
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MID1.FIG1C.GRANATA.2005.jpg
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_19.jpg
   location: null
-  source: Richman et al. 2002
-  source_label: Richman et al. 2002
+  source: Granata et al. 2005
+  source_label: Granata et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.GRANATA.2005.jpg
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_20.jpg
   location: Lateral Plate Mesoderm, Neural Plate/Tube, Somites
-  source: Richman et al. 2002
-  source_label: Richman et al. 2002
+  source: Granata et al. 2005
+  source_label: Granata et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MID1.FIG1H.GRANATA.2005.jpg
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_21.jpg
   location: Hensen's Node, Primitive Streak
-  source: Richman et al. 2002
-  source_label: Richman et al. 2002
+  source: Granata et al. 2005
+  source_label: Granata et al. 2005
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MID2.FIG1B.GRANATA.2005.jpg
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_22.jpg
   location: Hensen's Node
-  source: Richman et al. 2002
-  source_label: Richman et al. 2002
+  source: Granata et al. 2005
+  source_label: Granata et al. 2005
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MID2.FIG1D.GRANATA.2005.jpg
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_23.jpg
   location: Hensen's Node, Neural Plate/Tube
-  source: Richman et al. 2002
-  source_label: Richman et al. 2002
+  source: Granata et al. 2005
+  source_label: Granata et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MID2.FIG1F.GRANATA.2005.jpg
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_24.jpg
   location: null
-  source: Richman et al. 2002
-  source_label: Richman et al. 2002
+  source: Granata et al. 2005
+  source_label: Granata et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.GRANATA.2005.jpg
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_25.jpg
   location: Extraembryonic, Neural Plate/Tube
-  source: Richman et al. 2002
-  source_label: Richman et al. 2002
+  source: Granata et al. 2005
+  source_label: Granata et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MID2.FIG1G.GRANATA.2005.jpg
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_26.jpg
   location: Area Pellucida, Epiblast, Hensen's Node
-  source: Richman et al. 2002
-  source_label: Richman et al. 2002
+  source: Grnata et al. 2003
+  source_label: Grnata et al. 2003
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cMid1.grnata.2003.
     A for Figure 1.PNG
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_27.jpg
   location: Area Pellucida, Germinal Crescent, Hensen's Node
-  source: Richman et al. 2002
-  source_label: Richman et al. 2002
+  source: Grnata et al. 2003
+  source_label: Grnata et al. 2003
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cMid1.grnata.2003.
     B for Figure 1.PNG
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_28.jpg
   location: Area Pellucida, Hensen's Node
-  source: Richman et al. 2002
-  source_label: Richman et al. 2002
+  source: Grnata et al. 2003
+  source_label: Grnata et al. 2003
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cMid1.grnata.2003.
     C for Figure 1.PNG
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_29.jpg
   location: Area Pellucida, Early Mesoderm, Hensen's Node
-  source: Richman et al. 2002
-  source_label: Richman et al. 2002
+  source: Grnata et al. 2003
+  source_label: Grnata et al. 2003
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cMid1.grnata.2003.
     D for Figure 1.PNG
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_30.jpg
   location: Hensen's Node, Neural Plate/Tube
-  source: Richman et al. 2002
-  source_label: Richman et al. 2002
+  source: Grnata et al. 2003
+  source_label: Grnata et al. 2003
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cMid1.grnata.2003.
     E for Figure 1.PNG

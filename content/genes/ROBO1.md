@@ -51,29 +51,29 @@ images:
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_4.jpg
   location: Midbrain
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo1.Riley.2010.Figure3.ImageJ-L.JPG
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_5.jpg
   location: Midbrain
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo1.Riley.2010.Figure3.ImageJ.StageE2.JPG
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_6.jpg
   location: Midbrain
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo1.Riley.2010.Figure3.ImageK.StageE3.JPG
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_7.jpg
   location: Midbrain
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo1.Riley.2010.Figure3.ImageL.StageE4.JPG
 - caption: ROBO1 expression
@@ -163,99 +163,99 @@ images:
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_20.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Giovannone et al. 2012
+  source_label: Giovannone et al. 2012
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Giovannone.2012.Fig1.ALLIMAGES-4.jpg
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_21.jpg
   location: Forebrain, Hindbrain, Somites
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Giovannone et al. 2012
+  source_label: Giovannone et al. 2012
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Giovannone.2012.Fig1.D.Robo1.HH10-11.jpg
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_22.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo1.Vargesson.2001.Fig2M-st20.jpg
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_23.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo1.Vargesson.2001.Fig2N-st25.jpg
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_24.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo1.Vargesson.2001.Fig4A-st25.jpg
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_25.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo1.Vargesson.2001.Fig3D-st26.jpg
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_26.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo1.Vargesson.2001.Fig2O-st28.jpg
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_27.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo1.Vargesson.2001.Fig4B-st30.jpg
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_28.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo1.Vargesson.2001.Fig2P-st32.jpg
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_29.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo1.Vargesson.2001.Fig4C-st32.jpg
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_30.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo1.Vargesson.2001.Fig4D-st36.jpg
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_31.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo1.Vargesson.2001.Fig2.jpg
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_32.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo1.Vargesson.2001.Fig3.jpg
 - caption: ROBO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO1/461585_33.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo1.Vargesson.2001.Fig4.jpg
 name: roundabout guidance receptor 1

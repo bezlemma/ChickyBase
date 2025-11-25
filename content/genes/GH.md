@@ -63,75 +63,75 @@ images:
 - caption: GH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GH/458621_5.jpg
   location: null
-  source: Parkinson et al. 2010
-  source_label: Parkinson et al. 2010
+  source: Rodriguez-mendez et al. 2010
+  source_label: Rodriguez-mendez et al. 2010
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH.Rodriguez-Mendez.2010.Fig.2
     GH st42.png
 - caption: GH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GH/458621_6.jpg
   location: null
-  source: Parkinson et al. 2010
-  source_label: Parkinson et al. 2010
+  source: Rodriguez-mendez et al. 2010
+  source_label: Rodriguez-mendez et al. 2010
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH.Rodriguez-Mendez.2010.Fig.2
     GH 10weeks.png
 - caption: GH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GH/458621_7.jpg
   location: null
-  source: Parkinson et al. 2010
-  source_label: Parkinson et al. 2010
+  source: Rodriguez-mendez et al. 2010
+  source_label: Rodriguez-mendez et al. 2010
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH.Rodriguez-Mendez.2010.Fig.2
     GH 20weeks.png
 - caption: GH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GH/458621_8.jpg
   location: null
-  source: Parkinson et al. 2010
-  source_label: Parkinson et al. 2010
+  source: Rodriguez-mendez et al. 2010
+  source_label: Rodriguez-mendez et al. 2010
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH.Rodriguez-Mendez.2010.Fig.2
     GH 2weeks.png
 - caption: GH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GH/458621_9.jpg
   location: null
-  source: Parkinson et al. 2010
-  source_label: Parkinson et al. 2010
+  source: Rodriguez-mendez et al. 2010
+  source_label: Rodriguez-mendez et al. 2010
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GH.Rodriguez-Mendez.2010.Fig.2.png
 - caption: GH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GH/458621_10.jpg
   location: Leg Mesenchyme
-  source: Parkinson et al. 2010
-  source_label: Parkinson et al. 2010
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.3.A_PG-H_Yamamoto-Shiraishi.2013.jpg
 - caption: GH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GH/458621_11.jpg
   location: Leg Bones
-  source: Parkinson et al. 2010
-  source_label: Parkinson et al. 2010
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.2.D_PG-H_Yamamoto-Shiraishi.2013.jpg
 - caption: GH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GH/458621_12.jpg
   location: Leg Mesenchyme
-  source: Parkinson et al. 2010
-  source_label: Parkinson et al. 2010
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.3.A_PG-H_ST27_Yamamoto-Shiraishi.2013.jpg
 - caption: GH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GH/458621_13.jpg
   location: Leg Mesenchyme
-  source: Parkinson et al. 2010
-  source_label: Parkinson et al. 2010
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.3.A_PG-H_ST30_Yamamoto-Shiraishi.2013.jpg
 - caption: GH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GH/458621_14.jpg
   location: Leg
-  source: Parkinson et al. 2010
-  source_label: Parkinson et al. 2010
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.5.A_PG-H_st30_Yamamoto-Shiraishi.2013.jpg
 - caption: GH expression
@@ -144,15 +144,15 @@ images:
 - caption: GH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GH/458621_16.jpg
   location: null
-  source: Parkinson et al. 2010
-  source_label: Parkinson et al. 2010
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.3.Allimages_Yamamoto-Shiraishi.2013.jpg
 - caption: GH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GH/458621_17.jpg
   location: null
-  source: Parkinson et al. 2010
-  source_label: Parkinson et al. 2010
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.5.Allimages_Yamamoto-Shiraishi.2013.jpg
 name: growth hormone

@@ -28,15 +28,15 @@ images:
 - caption: RHOA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOA/449244_1.jpg
   location: Unlabeled
-  source: Schmidt et al. 2007
-  source_label: Schmidt et al. 2007
+  source: Mckinnell et al. 2004
+  source_label: Mckinnell et al. 2004
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2D.RhoA.McKinnell.2004.jpg
 - caption: RHOA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOA/449244_2.jpg
   location: Neural Plate/Tube
-  source: Schmidt et al. 2007
-  source_label: Schmidt et al. 2007
+  source: Mckinnell et al. 2004
+  source_label: Mckinnell et al. 2004
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2E.RhoA.McKinnell.2004.jpg
 - caption: RHOA expression

@@ -21,43 +21,43 @@ images:
 - caption: PLN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLN/461682_0.jpg
   location: null
-  source: Wang et al. 1996
-  source_label: Wang et al. 1996
+  source: Wang et al. 1995
+  source_label: Wang et al. 1995
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wang.1995.Fig3.Allimages.jpg
 - caption: PLN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLN/461682_1.jpg
   location: Outflow Tract
-  source: Wang et al. 1996
-  source_label: Wang et al. 1996
+  source: Wang et al. 1995
+  source_label: Wang et al. 1995
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wang.1995.fig3A-C.jpg
 - caption: PLN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLN/461682_2.jpg
   location: Myocardium
-  source: Wang et al. 1996
-  source_label: Wang et al. 1996
+  source: Wang et al. 1995
+  source_label: Wang et al. 1995
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wang.1995.Fig3.PLN-bc.jpg
 - caption: PLN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLN/461682_3.jpg
   location: Outflow Tract, Ventricles
-  source: Wang et al. 1996
-  source_label: Wang et al. 1996
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLN.Anderson.2019.Fig2D'-st12.jpg
 - caption: PLN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLN/461682_4.jpg
   location: Outflow Tract, Ventricles
-  source: Wang et al. 1996
-  source_label: Wang et al. 1996
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLN.Anderson.2019.Fig2D-st12.jpg
 - caption: PLN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLN/461682_5.jpg
   location: null
-  source: Wang et al. 1996
-  source_label: Wang et al. 1996
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLN.Anderson.2019.Fig2.jpg
 name: phospholamban

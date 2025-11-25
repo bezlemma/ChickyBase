@@ -22,162 +22,162 @@ images:
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_0.jpg
   location: null
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1ZB.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_1.jpg
   location: Area Opaca, Area Pellucida, Early Endoderm
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.FIG1CD.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_2.jpg
   location: null
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3Z.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_3.jpg
   location: Hindbrain, Neural Crest, Rhombomeres
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.FIG3EF.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_4.jpg
   location: Rhombomeres
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.FIG2EF.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_5.jpg
   location: Nephric Ducts
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.FIG7CD.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_6.jpg
   location: null
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG7B.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_7.jpg
   location: Ear/Otic Placcode, Forebrain, Hindbrain, Rhombomeres
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.FIG4F.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_8.jpg
   location: Lens
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.FIG6P.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_9.jpg
   location: Forebrain, Hindbrain, Lens
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.FIG6O.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_10.jpg
   location: Leg AER, Leg Mesenchyme, Spinal Cord, Wing AER, Wing Mesenchyme
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.FIG5EF.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_11.jpg
   location: Leg AER, Leg Mesenchyme
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.FIG8B.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_12.jpg
   location: null
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG5B.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_13.jpg
   location: null
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG6B.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_14.jpg
   location: Leg, Leg AER, Leg Mesenchyme
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.FIG8E.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_15.jpg
   location: null
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG4B.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_16.jpg
   location: null
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG9B.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_17.jpg
   location: Leg AER, Leg Mesenchyme
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.FIG8H.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_18.jpg
   location: Midgut
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.FIG9G.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_19.jpg
   location: Leg AER, Leg Mesenchyme
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.FIG8K.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_20.jpg
   location: Leg AER, Leg Mesenchyme
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.FIG8N.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_21.jpg
   location: Leg AER, Leg Mesenchyme
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.FIG8Q.LECOIN.2003.jpg
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_22.jpg
   location: null
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG8B.LECOIN.2003.jpg
 - caption: MAFB expression
@@ -198,30 +198,30 @@ images:
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_25.jpg
   location: Rhombomeres
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Garcia-dominguez et al. 2006
+  source_label: Garcia-dominguez et al. 2006
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.Garcia-Dominguez.2006.Fig.3
     mafb.png
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_26.jpg
   location: null
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Garcia-dominguez et al. 2006
+  source_label: Garcia-dominguez et al. 2006
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.Garcia-Dominguez.2006.Fig.3.png
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_27.jpg
   location: null
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Bandyopadhyay et al. 2008
+  source_label: Bandyopadhyay et al. 2008
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Bandyopadhyay.2008.f3.mafb.png
 - caption: MAFB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFB/456142_28.jpg
   location: Leg Bones, Leg Mesenchyme
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Bandyopadhyay et al. 2008
+  source_label: Bandyopadhyay et al. 2008
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFB.Bandyopadhyay.2008.f3.mafb.png
 name: MAF bZIP transcription factor B

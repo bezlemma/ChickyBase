@@ -334,43 +334,43 @@ images:
 - caption: ENPP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP2/457934_45.jpg
   location: Limb Buds
-  source: Ohuchi et al. 2007
-  source_label: Ohuchi et al. 2007
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Atx.Singh.2016.Fig2P'-st28.jpg
 - caption: ENPP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP2/457934_46.jpg
   location: Limb Buds
-  source: Ohuchi et al. 2007
-  source_label: Ohuchi et al. 2007
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Atx.Singh.2016.Fig2Q'-st31.jpg
 - caption: ENPP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP2/457934_47.jpg
   location: Limb Buds
-  source: Ohuchi et al. 2007
-  source_label: Ohuchi et al. 2007
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Atx.Singh.2016.Fig2R'-st34.jpg
 - caption: ENPP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP2/457934_48.jpg
   location: Limb Buds
-  source: Ohuchi et al. 2007
-  source_label: Ohuchi et al. 2007
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Atx.Singh.2016.Fig2S'-st36.jpg
 - caption: ENPP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP2/457934_49.jpg
   location: Limb Buds
-  source: Ohuchi et al. 2007
-  source_label: Ohuchi et al. 2007
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Atx.Singh.2016.Fig2T'-st38.jpg
 - caption: ENPP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP2/457934_50.jpg
   location: null
-  source: Ohuchi et al. 2007
-  source_label: Ohuchi et al. 2007
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Atx.Singh.2016.Fig2.jpg
 name: ectonucleotide pyrophosphatase/phosphodiesterase 2

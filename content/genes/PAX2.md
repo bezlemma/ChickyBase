@@ -32,64 +32,64 @@ images:
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_1.jpg
   location: Ear/Otic Placcode, Eye, Hindbrain, Limb Buds, Nephric Ducts
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Hurtado et al. 2006
+  source_label: Hurtado et al. 2006
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax2.FIgure3E.Hurtado.2006.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_2.jpg
   location: Ear/Otic Placcode, Eye, Heart, Hindbrain, Nephric Ducts
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Hurtado et al. 2006
+  source_label: Hurtado et al. 2006
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax2.Figure3A.Hurtado.2006.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_3.jpg
   location: Eye
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Hurtado et al. 2006
+  source_label: Hurtado et al. 2006
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax2.Figure3B.Hurtado.2006.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_4.jpg
   location: Ear/Otic Placcode, Eye, Hindbrain, Limb Buds, Nephric Ducts
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Hurtado et al. 2006
+  source_label: Hurtado et al. 2006
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax2.Figure3C.Hurtado.2006.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_5.jpg
   location: Eye
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Hurtado et al. 2006
+  source_label: Hurtado et al. 2006
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax2.Figure3D.Hurtado.2006.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_6.jpg
   location: Ear/Otic Placcode, Eye, Heart, Hindbrain, Nephric Ducts
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Hurtado et al. 2006
+  source_label: Hurtado et al. 2006
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax2.Figure3G.Hurtado.2006.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_7.jpg
   location: Eye
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Hurtado et al. 2006
+  source_label: Hurtado et al. 2006
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax2.Figure3H.Hurtado.2006.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_8.jpg
   location: Eye
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Hurtado et al. 2006
+  source_label: Hurtado et al. 2006
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax2.figure3F.Hurtado.2006.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_9.jpg
   location: Ear/Otic Placcode, Eye, Hindbrain, Intermediate Mesoderm
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Ishii et al. 2007
+  source_label: Ishii et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.FIG2E.ISHII.2007.jpg
 - caption: PAX2 expression
@@ -312,8 +312,8 @@ images:
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_41.jpg
   location: Paraxial Mesoderm
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: James et al. 2005
+  source_label: James et al. 2005
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.FIG1B.JAMES.2005.jpg
 - caption: PAX2 expression
@@ -382,50 +382,50 @@ images:
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_51.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Zhang et al. 2001
+  source_label: Zhang et al. 2001
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG5.ZHANG.2001.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_52.jpg
   location: Eye
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Zhang et al. 2001
+  source_label: Zhang et al. 2001
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.FIG5D.ZHANG.2001.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_53.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Zhang et al. 2001
+  source_label: Zhang et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG6.ZHANG.2001.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_54.jpg
   location: Eye
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Zhang et al. 2001
+  source_label: Zhang et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.FIG6G.ZHANG.2001.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_55.jpg
   location: Ear/Otic Placcode, Placcode
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Pax2 et al. 2000
+  source_label: Pax2 et al. 2000
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Baker.Pax2.2000.Figure2A.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_56.jpg
   location: Cranial Ganglion, Ear/Otic Placcode
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Pax2 et al. 2000
+  source_label: Pax2 et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Baker.Pax2.2000.Figure2B.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_57.jpg
   location: Nephric Ducts, Nephric Tubules
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Wilm et al. 2004
+  source_label: Wilm et al. 2004
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.FIG6AE.WILM.2004.jpg
 - caption: PAX2 expression
@@ -473,119 +473,119 @@ images:
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_64.jpg
   location: Lateral Plate Mesoderm, Neural Plate/Tube, Paraxial Mesoderm
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Chambers.2006.Fig.6
     pax2 st7.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_65.jpg
   location: Intermediate Mesoderm, Midbrain
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Chambers.2006.Fig.6
     pax2  st8.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_66.jpg
   location: Lateral Plate Mesoderm, Midbrain, Somites
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Chambers.2006.Fig.6
     pax2 big st8.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_67.jpg
   location: Intermediate Mesoderm, Neural Plate/Tube, Somites
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Chambers.2006.Fig.6
     pax2 mag st8.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_68.jpg
   location: Midbrain, Placode
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Chambers.2006.Fig.6
     pax2 st8-.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_69.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Chambers.2006.Fig.6
     pax2 st8.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_70.jpg
   location: Midbrain, Placode
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Chambers.2006.Fig.6
     pax2 big st11.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_71.jpg
   location: Midbrain
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Chambers.2006.Fig.6
     pax2 mag3 st11.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_72.jpg
   location: Placode
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Chambers.2006.Fig.6
     pax2 mag4 st11.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_73.jpg
   location: Intermediate Mesoderm
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Chambers.2006.Fig.6
     pax2 mag5 st11.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_74.jpg
   location: Head Mesenchyme, Intermediate Mesoderm, Midbrain
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Chambers.2006.Fig.6
     pax2 st11.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_75.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Chambers.2006.Fig.3
     pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_76.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Chambers.2006.Fig.3.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_77.jpg
   location: Ear/Otic Placode, Eye, Mesencephalon
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Chambers.2006.Fig.6
     pax2 st17.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_78.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Chambers.2006.Fig.6.png
 - caption: PAX2 expression
@@ -654,136 +654,136 @@ images:
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_88.jpg
   location: Eye, Mesonephros, Midbrain
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Golden et al. 1999
+  source_label: Golden et al. 1999
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Golden.1999.Fig.3
     pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_89.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Golden et al. 1999
+  source_label: Golden et al. 1999
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Golden.1999.Fig.3.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_90.jpg
   location: Intermediate Mesoderm, Somites
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Watanabe et al. 2009
+  source_label: Watanabe et al. 2009
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Watanabe.2009.Fig.2
     pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_91.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Watanabe et al. 2009
+  source_label: Watanabe et al. 2009
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Watanabe.2009.Fig.2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_92.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Christophorou et al. 2009
+  source_label: Christophorou et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Christophorou.2009.f2.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_93.jpg
   location: Midbrain
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Christophorou et al. 2009
+  source_label: Christophorou et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.Christophorou.2009.f2.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_94.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Hirashima et al. 2008
+  source_label: Hirashima et al. 2008
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hirashima.2008.f8.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_95.jpg
   location: Eye, Isthmus/MHB
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Hirashima et al. 2008
+  source_label: Hirashima et al. 2008
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.normal.Hirashima.2008.f8.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_96.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Brenneranantharam et al. 2007
+  source_label: Brenneranantharam et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BrennerAnantharam.2007.f4.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_97.jpg
   location: Metanephros, Nephric Ducts
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Brenneranantharam et al. 2007
+  source_label: Brenneranantharam et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.HH21.BrennerAnantharam.2007.f4.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_98.jpg
   location: Hindgut, Lateral Plate Mesoderm, Metanephros, Nephric Ducts, Nephric Tubules
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Brenneranantharam et al. 2007
+  source_label: Brenneranantharam et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.nm.BrennerAnantharam.2007.f4.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_99.jpg
   location: Renal
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Brenneranantharam et al. 2007
+  source_label: Brenneranantharam et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.proximalub.BrennerAnantharam.2007.f4.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_100.jpg
   location: Tail
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Brenneranantharam et al. 2007
+  source_label: Brenneranantharam et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.wholem.BrennerAnantharam.2007.f4.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_101.jpg
   location: Spinal Cord
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Garciacampmany et al. 2007
+  source_label: Garciacampmany et al. 2007
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.HH20.GarciaCampmany.2007.f1.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_102.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Garciacampmany et al. 2007
+  source_label: Garciacampmany et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GarciaCampmany.2007.f1.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_103.jpg
   location: Spinal Cord
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Garciacampmany et al. 2007
+  source_label: Garciacampmany et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.HH25.GarciaCampmany.2007.f1.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_104.jpg
   location: Ear/Otic Placode, Pharyngeal Arches and Clefts
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Adamska et al. 2001
+  source_label: Adamska et al. 2001
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cPax2.Adamska.2001.Fig.2A-st10.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_105.jpg
   location: Ear/Otic Placode, Pharyngeal Arches and Clefts
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Adamska et al. 2001
+  source_label: Adamska et al. 2001
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cPax2.Adamska.2001.Fig.2B-st10.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_106.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Adamska et al. 2001
+  source_label: Adamska et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cPax2.Adamska.2001.Fig.2.jpg
 - caption: PAX2 expression
@@ -831,92 +831,92 @@ images:
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_113.jpg
   location: Nephric Tubules
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Stark et al. 2000
+  source_label: Stark et al. 2000
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-2.Stark.2000.Fig4A-st9.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_114.jpg
   location: Nephric Tubules, Neural Plate/Tube
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Stark et al. 2000
+  source_label: Stark et al. 2000
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-2.Stark.2000.Fig4B-st9.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_115.jpg
   location: Nephric Ducts, Nephric Tubules
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Stark et al. 2000
+  source_label: Stark et al. 2000
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-2.Stark.2000.Fig4C-st15.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_116.jpg
   location: Aorta, Nephric Ducts, Nephric Tubules, Veins
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Stark et al. 2000
+  source_label: Stark et al. 2000
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-2.Stark.2000.Fig4D-st15.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_117.jpg
   location: Nephric Tubules
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Stark et al. 2000
+  source_label: Stark et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-2.Stark.2000.Fig4E-st24.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_118.jpg
   location: Aorta, Nephric Ducts, Nephric Tubules, Veins
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Stark et al. 2000
+  source_label: Stark et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-2.Stark.2000.Fig4F-st24.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_119.jpg
   location: Renal
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Stark et al. 2000
+  source_label: Stark et al. 2000
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-2.Stark.2000.Fig3I-st40.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_120.jpg
   location: Renal
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Stark et al. 2000
+  source_label: Stark et al. 2000
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-2.Stark.2000.Fig3J-st40.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_121.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Stark et al. 2000
+  source_label: Stark et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-2.Stark.2000.Fig3.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_122.jpg
   location: Ectoderm
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_2_B-C_PAX2-1.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_123.jpg
   location: Ectoderm
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_2_F-G_PAX2.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_124.jpg
   location: Ectoderm
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_2_J-K_PAX2.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_125.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_2_ALLIMAGES.jpg
 name: paired box 2

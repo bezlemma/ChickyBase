@@ -73,57 +73,57 @@ images:
 - caption: GLUL expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLUL/461089_6.jpg
   location: Liver
-  source: Domowicz et al. 2008
-  source_label: Domowicz et al. 2008
+  source: Roy et al. 2013
+  source_label: Roy et al. 2013
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLUL.HH18.Roy.2013.F3.glul.png
 - caption: GLUL expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLUL/461089_7.jpg
   location: Liver
-  source: Domowicz et al. 2008
-  source_label: Domowicz et al. 2008
+  source: Roy et al. 2013
+  source_label: Roy et al. 2013
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLUL.HH22.Roy.2013.F3.glul.png
 - caption: GLUL expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLUL/461089_8.jpg
   location: Liver
-  source: Domowicz et al. 2008
-  source_label: Domowicz et al. 2008
+  source: Roy et al. 2013
+  source_label: Roy et al. 2013
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLUL.HH22.Roy.2013.SupF2.glul.png
 - caption: GLUL expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLUL/461089_9.jpg
   location: Liver
-  source: Domowicz et al. 2008
-  source_label: Domowicz et al. 2008
+  source: Roy et al. 2013
+  source_label: Roy et al. 2013
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLUL.HH26.Roy.2013.F3.glul.png
 - caption: GLUL expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLUL/461089_10.jpg
   location: Liver
-  source: Domowicz et al. 2008
-  source_label: Domowicz et al. 2008
+  source: Roy et al. 2013
+  source_label: Roy et al. 2013
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLUL.HH28.Roy.2013.F3.glul.png
 - caption: GLUL expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLUL/461089_11.jpg
   location: Liver
-  source: Domowicz et al. 2008
-  source_label: Domowicz et al. 2008
+  source: Roy et al. 2013
+  source_label: Roy et al. 2013
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLUL.HH28.Roy.2013.SupF2.glul.png
 - caption: GLUL expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLUL/461089_12.jpg
   location: null
-  source: Domowicz et al. 2008
-  source_label: Domowicz et al. 2008
+  source: Roy et al. 2013
+  source_label: Roy et al. 2013
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.F3.glul.png
 - caption: GLUL expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLUL/461089_13.jpg
   location: null
-  source: Domowicz et al. 2008
-  source_label: Domowicz et al. 2008
+  source: Roy et al. 2013
+  source_label: Roy et al. 2013
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.SupF2.glul.png
 name: glutamate-ammonia ligase

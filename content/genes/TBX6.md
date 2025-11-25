@@ -69,132 +69,132 @@ images:
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_6.jpg
   location: Tail
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Tenin et al. 2010
+  source_label: Tenin et al. 2010
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX6.HH20.Tenin.2010.F1.tbx6.png
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_7.jpg
   location: Tail
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Tenin et al. 2010
+  source_label: Tenin et al. 2010
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX6.HH22.Tenin.2010.F1.tbx6.png
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_8.jpg
   location: Tail
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Tenin et al. 2010
+  source_label: Tenin et al. 2010
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX6.HH24.Tenin.2010.F1.tbx6.png
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_9.jpg
   location: Tail
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Tenin et al. 2010
+  source_label: Tenin et al. 2010
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX6.HH24.Tenin.2010.F3.tbx6.png
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_10.jpg
   location: Tail
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Tenin et al. 2010
+  source_label: Tenin et al. 2010
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX6.HH25.Tenin.2010.F3.tbx6.png
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_11.jpg
   location: Tail
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Tenin et al. 2010
+  source_label: Tenin et al. 2010
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX6.HH26.Tenin.2010.F1.tbx6.png
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_12.jpg
   location: Tail
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Tenin et al. 2010
+  source_label: Tenin et al. 2010
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX6.HH264.Tenin.2010.F3.tbx6.png
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_13.jpg
   location: null
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Tenin et al. 2010
+  source_label: Tenin et al. 2010
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tenin.2010.F3.tbx6.png
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_14.jpg
   location: Tail, Unlabeled Embryonic
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Tenin et al. 2010
+  source_label: Tenin et al. 2010
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX6.HH27.Tenin.2010.F1.tbx6.png
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_15.jpg
   location: null
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Tenin et al. 2010
+  source_label: Tenin et al. 2010
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tenin.2010.F1.tbx6.png
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_16.jpg
   location: null
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Acloque et al. 2008
+  source_label: Acloque et al. 2008
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Acloque.2008.f1.tbx6l.png
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_17.jpg
   location: Early Mesoderm
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Acloque et al. 2008
+  source_label: Acloque et al. 2008
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBXL2.Acloque.2008.f1.tbx6l.png
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_18.jpg
   location: Epiblast
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage X
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX6.Lee.2020_Fig
     3_g_EGK.XIV-HH.2.jpg
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_19.jpg
   location: Epiblast
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage XII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX6.Lee.2020_Fig
     3_h''_EGK.XII-XIII.jpg
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_20.jpg
   location: Area Opaca, Epiblast, Kohler's Sickle
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage XII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX6.Lee.2020_Fig
     3_h'_EGK.XII-XIII.jpg
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_21.jpg
   location: Epiblast, Kohler's Sickle
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage XII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX6.Lee.2020_Fig
     3_h_EGK.XII-XIII.jpg
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_22.jpg
   location: Epiblast, Kohler's Sickle
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage XIV
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX6.Lee.2020_Fig
     3_i_EGK.XIV-HH.2.jpg
 - caption: TBX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX6/450400_23.jpg
   location: null
-  source: James et al. 2005
-  source_label: James et al. 2005
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Allimages_Lee.2020_Fig
     3-4.jpg

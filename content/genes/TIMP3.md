@@ -86,22 +86,22 @@ images:
 - caption: TIMP3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TIMP3/461122_9.jpg
   location: Myocardium
-  source: Brauer et al. 2002
-  source_label: Brauer et al. 2002
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TIMP3.Anderson.2019.Fig3C'-st12.jpg
 - caption: TIMP3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TIMP3/461122_10.jpg
   location: Myocardium
-  source: Brauer et al. 2002
-  source_label: Brauer et al. 2002
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TIMP3.Anderson.2019.Fig3C-st12.jpg
 - caption: TIMP3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TIMP3/461122_11.jpg
   location: null
-  source: Brauer et al. 2002
-  source_label: Brauer et al. 2002
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TIMP3.Anderson.2019.Fig3.jpg
 name: TIMP metallopeptidase inhibitor 3

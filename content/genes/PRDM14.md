@@ -42,8 +42,8 @@ images:
 - caption: PRDM14 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PRDM14/473240_3.jpg
   location: null
-  source: Okuzaki et al. 2019
-  source_label: Okuzaki et al. 2019
+  source: Allimages et al. 2019
+  source_label: Allimages et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Okizaki_AllImages_2019.jpg
 - caption: PRDM14 expression

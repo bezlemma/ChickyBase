@@ -75,183 +75,183 @@ images:
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_7.jpg
   location: Ear/Otic Placode
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bell et al. 2008
+  source_label: Bell et al. 2008
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRKC.HH14.Bell.2008.f7.trkc.png
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_8.jpg
   location: Ear/Otic Placode
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bell et al. 2008
+  source_label: Bell et al. 2008
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRKC.HH19.Bell.2008.f7.trkc.png
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_9.jpg
   location: Ear/Otic Placode
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bell et al. 2008
+  source_label: Bell et al. 2008
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRKC.HH20.Bell.2008.f7.trkc.png
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_10.jpg
   location: null
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bell et al. 2008
+  source_label: Bell et al. 2008
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Bell.2008.f7.trkc.png
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_11.jpg
   location: null
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bell et al. 2008
+  source_label: Bell et al. 2008
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRKC.HH24.Bell.2008.f7.trkc.png
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_12.jpg
   location: Unlabeled
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig1A-stXI.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_13.jpg
   location: Hensen's Node, Primitive Streak
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig1B-st4.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_14.jpg
   location: Epiblast
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig1C-st4.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_15.jpg
   location: Hensen's Node
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig1D-st4+.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_16.jpg
   location: Epiblast, Headfold
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig1E-st5.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_17.jpg
   location: Headfold, Neural Plate/Tube
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig1F-st6.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_18.jpg
   location: Endoderm, Mesoderm, Neural Plate/Tube, extraembryonic ectoderm
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig1J-st6.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_19.jpg
   location: Neural Plate/Tube, Somites
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig1G-st8.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_20.jpg
   location: Neural Plate/Tube
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig1K-st8.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_21.jpg
   location: Neural Plate/Tube
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig1H-st9.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_22.jpg
   location: Neural Plate/Tube
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig1L-st9.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_23.jpg
   location: Forebrain, Neural Plate/Tube, Rhombomeres
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig1I-st11.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_24.jpg
   location: Neural Plate/Tube
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig1M-st11.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_25.jpg
   location: Cranial Ganglia, Rhombomeres
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig2A-st15.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_26.jpg
   location: Cranial Ganglia, Rhombomeres
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig2B-st15.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_27.jpg
   location: Cranial Ganglia, Ear/Otic Placode, Rhombomeres
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig2C-st15.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_28.jpg
   location: Cranial Ganglia, Rhombomeres
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig2D-st15.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_29.jpg
   location: Cranial Ganglia, Ear/Otic Placode, Rhombomeres
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig2E-st15.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_30.jpg
   location: Cranial Ganglia, Rhombomeres
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig2F-st18.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_31.jpg
   location: null
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig1.jpg
 - caption: NTRK3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK3/459607_32.jpg
   location: null
-  source: Bernd et al. 2004
-  source_label: Bernd et al. 2004
+  source: Bernd et al. 1999
+  source_label: Bernd et al. 1999
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/trkC.Bernd.1999.Fig2.jpg
 name: neurotrophic receptor tyrosine kinase 3

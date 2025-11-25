@@ -25,47 +25,47 @@ images:
 - caption: TRH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TRH/459511_0.jpg
   location: Hypothalamus
-  source: Vandenborne et al. 2005
-  source_label: Vandenborne et al. 2005
+  source: Vanderborne et al. 2005
+  source_label: Vanderborne et al. 2005
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PREPROTRH.Vanderborne.2005.Fig.6
     preprotrh .png
 - caption: TRH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TRH/459511_1.jpg
   location: Hypothalamus
-  source: Vandenborne et al. 2005
-  source_label: Vandenborne et al. 2005
+  source: Vanderborne et al. 2005
+  source_label: Vanderborne et al. 2005
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PREPROTRH.Vanderborne.2005.Fig.6
     preprotrh mag.png
 - caption: TRH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TRH/459511_2.jpg
   location: Hypothalamus
-  source: Vandenborne et al. 2005
-  source_label: Vandenborne et al. 2005
+  source: Vanderborne et al. 2005
+  source_label: Vanderborne et al. 2005
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PREPROTRH.Vanderborne.2005.Fig.6.png
 - caption: TRH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TRH/459511_3.jpg
   location: Hypothalamus
-  source: Vandenborne et al. 2005
-  source_label: Vandenborne et al. 2005
+  source: Vanderborne et al. 2005
+  source_label: Vanderborne et al. 2005
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PREPROTRH.Vanderborne.2005.Fig.7
     preprotrh mag.png
 - caption: TRH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TRH/459511_4.jpg
   location: Hypothalamus
-  source: Vandenborne et al. 2005
-  source_label: Vandenborne et al. 2005
+  source: Vanderborne et al. 2005
+  source_label: Vanderborne et al. 2005
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PREPROTRH.Vanderborne.2005.Fig.7
     preprotrh.png
 - caption: TRH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TRH/459511_5.jpg
   location: null
-  source: Vandenborne et al. 2005
-  source_label: Vandenborne et al. 2005
+  source: Vanderborne et al. 2005
+  source_label: Vanderborne et al. 2005
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PREPROTRH.Vanderborne.2005.Fig.7.png
 name: thyrotropin releasing hormone

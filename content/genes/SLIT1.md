@@ -40,68 +40,68 @@ images:
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_3.jpg
   location: Neural Crest
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Shiau et al. 2008
+  source_label: Shiau et al. 2008
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLIT1.FIG2B.SHIAU.2008.jpg
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_4.jpg
   location: Hindbrain, Neural Crest
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Shiau et al. 2008
+  source_label: Shiau et al. 2008
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLIT1.FIG2EIJ.SHIAU.2008.jpg
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_5.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Shiau et al. 2008
+  source_label: Shiau et al. 2008
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.SHIAU.2008.jpg
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_6.jpg
   location: Cranial Ganglion, Head Mesenchyme, Hindbrain, Rhombomeres
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Shiau et al. 2008
+  source_label: Shiau et al. 2008
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLIT1.FIG2F.SHIAU.2008.jpg
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_7.jpg
   location: Sclerotome
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Halperinbarlev et al. 2011
+  source_label: Halperinbarlev et al. 2011
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLIT1.HalperinBarlev.2011.Fig.3
     L slit1.png
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_8.jpg
   location: Sclerotome
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Halperinbarlev et al. 2011
+  source_label: Halperinbarlev et al. 2011
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLIT1.HalperinBarlev.2011.Fig.3
     slit1 lower.png
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_9.jpg
   location: Sclerotome
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Halperinbarlev et al. 2011
+  source_label: Halperinbarlev et al. 2011
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLIT1.HalperinBarlev.2011.Fig.3
     slit1 middle.png
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_10.jpg
   location: Sclerotome
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Halperinbarlev et al. 2011
+  source_label: Halperinbarlev et al. 2011
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLIT1.HalperinBarlev.2011.Fig.3
     slit1 upper.png
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_11.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Halperinbarlev et al. 2011
+  source_label: Halperinbarlev et al. 2011
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLIT1.HalperinBarlev.2011.Fig.3.png
 - caption: SLIT1 expression
@@ -219,22 +219,22 @@ images:
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_28.jpg
   location: Ear/Otic Placode, Hindbrain, Neural Plate/Tube
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Giovannone et al. 2012
+  source_label: Giovannone et al. 2012
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Giovannone.2012.Fig1.A.Slit1.HH12-13.jpg
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_29.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Giovannone et al. 2012
+  source_label: Giovannone et al. 2012
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Giovannone.2012.Fig1.ALLIMAGES.jpg
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_30.jpg
   location: Neural Plate/Tube
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Giovannone et al. 2012
+  source_label: Giovannone et al. 2012
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Giovannone.2012.Fig1.H-I.Slit1.HH12-13.jpg
 - caption: SLIT1 expression
@@ -268,71 +268,71 @@ images:
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_35.jpg
   location: Limb Buds, Somites
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit1.Vargesson.2001.Fig2A-st20.jpg
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_36.jpg
   location: Leg Mesenchyme, Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit1.Vargesson.2001.Fig2B-st24.jpg
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_37.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit1.Vargesson.2001.Fig5D-st26.jpg
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_38.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit1.Vargesson.2001.Fig6A-st27.jpg
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_39.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit1.Vargesson.2001.Fig2C-st28.jpg
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_40.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit1.Vargesson.2001.Fig2D-st32.jpg
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_41.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit1.Vargesson.2001.Fig2.jpg
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_42.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit1.Vargesson.2001.Fig3.jpg
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_43.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit1.Vargesson.2001.Fig5.jpg
 - caption: SLIT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT1/461582_44.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit1.Vargesson.2001.Fig6.jpg
 name: slit guidance ligand 1

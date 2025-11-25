@@ -108,8 +108,8 @@ images:
 - caption: TF expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TF/462365_11.jpg
   location: null
-  source: Yanai et al. 2005
-  source_label: Yanai et al. 2005
+  source: Gentili et al. 1994
+  source_label: Gentili et al. 1994
   stage: stage 39
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OVORANSFERRIN.Gentili.1994.png
 name: transferrin (ovotransferrin)

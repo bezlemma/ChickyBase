@@ -167,62 +167,62 @@ images:
 - caption: GCM2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GCM2/461980_21.jpg
   location: Pharyngeal Arches and Clefts, Thyroid
-  source: Grevellec et al. 2011
-  source_label: Grevellec et al. 2011
+  source: Okabe et al. 2004
+  source_label: Okabe et al. 2004
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GCM2.Okabe.2004.FIg.1
     gcm2 pharyngeal st22.png
 - caption: GCM2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GCM2/461980_22.jpg
   location: Pharyngeal Arches and Clefts, Thyroid
-  source: Grevellec et al. 2011
-  source_label: Grevellec et al. 2011
+  source: Okabe et al. 2004
+  source_label: Okabe et al. 2004
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GCM2.Okabe.2004.FIg.1
     gcm2 st22.png
 - caption: GCM2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GCM2/461980_23.jpg
   location: Pharyngeal Arches and Clefts, Thyroid
-  source: Grevellec et al. 2011
-  source_label: Grevellec et al. 2011
+  source: Okabe et al. 2004
+  source_label: Okabe et al. 2004
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GCM2.Okabe.2004.FIg.1
     gcm2 pharyngeal st24.png
 - caption: GCM2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GCM2/461980_24.jpg
   location: Pharyngeal Arches and Clefts, Thyroid
-  source: Grevellec et al. 2011
-  source_label: Grevellec et al. 2011
+  source: Okabe et al. 2004
+  source_label: Okabe et al. 2004
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GCM2.Okabe.2004.FIg.1
     gcm2 st24.png
 - caption: GCM2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GCM2/461980_25.jpg
   location: Pharyngeal Arches and Clefts, Thyroid
-  source: Grevellec et al. 2011
-  source_label: Grevellec et al. 2011
+  source: Okabe et al. 2004
+  source_label: Okabe et al. 2004
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GCM2.Okabe.2004.FIg.1
     gcm2 st37.png
 - caption: GCM2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GCM2/461980_26.jpg
   location: null
-  source: Grevellec et al. 2011
-  source_label: Grevellec et al. 2011
+  source: Okabe et al. 2004
+  source_label: Okabe et al. 2004
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GCM2.Okabe.2004.FIg.1.png
 - caption: GCM2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GCM2/461980_27.jpg
   location: Pharyngeal Arches and Clefts
-  source: Grevellec et al. 2011
-  source_label: Grevellec et al. 2011
+  source: Richardson et al. 2012
+  source_label: Richardson et al. 2012
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GCM2.HH26.Richardson.2012.F1.gcm2.png
 - caption: GCM2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GCM2/461980_28.jpg
   location: null
-  source: Grevellec et al. 2011
-  source_label: Grevellec et al. 2011
+  source: Richardson et al. 2012
+  source_label: Richardson et al. 2012
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Richardson.2012.F1.gcm2.png
 name: glial cells missing homolog 2

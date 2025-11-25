@@ -94,22 +94,22 @@ images:
 - caption: VAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VAX1/449709_10.jpg
   location: null
-  source: Canto-Soler et al. 2006
-  source_label: Canto-Soler et al. 2006
+  source: Zhang et al. 2001
+  source_label: Zhang et al. 2001
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG5.ZHANG.2001.jpg
 - caption: VAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VAX1/449709_11.jpg
   location: Eye
-  source: Canto-Soler et al. 2006
-  source_label: Canto-Soler et al. 2006
+  source: Zhang et al. 2001
+  source_label: Zhang et al. 2001
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VAX.FIG5B.ZHANG.2001.jpg
 - caption: VAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VAX1/449709_12.jpg
   location: null
-  source: Canto-Soler et al. 2006
-  source_label: Canto-Soler et al. 2006
+  source: Zhang et al. 2001
+  source_label: Zhang et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG6.ZHANG.2001.jpg
 - caption: VAX1 expression
@@ -136,36 +136,36 @@ images:
 - caption: VAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VAX1/449709_16.jpg
   location: null
-  source: Canto-Soler et al. 2006
-  source_label: Canto-Soler et al. 2006
+  source: Schulte et al. 2005
+  source_label: Schulte et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Schulte.2005.f4.cvax.png
 - caption: VAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VAX1/449709_17.jpg
   location: Eye, Face Mesenchyme
-  source: Canto-Soler et al. 2006
-  source_label: Canto-Soler et al. 2006
+  source: Schulte et al. 2005
+  source_label: Schulte et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cVAX.HH16.Schulte.2005.f4.cvax.png
 - caption: VAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VAX1/449709_18.jpg
   location: Eye, Face Mesenchyme
-  source: Canto-Soler et al. 2006
-  source_label: Canto-Soler et al. 2006
+  source: Schulte et al. 2005
+  source_label: Schulte et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cVAX.HH16.control.Schulte.2005.f4.cvax.png
 - caption: VAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VAX1/449709_19.jpg
   location: Retina
-  source: Canto-Soler et al. 2006
-  source_label: Canto-Soler et al. 2006
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cVAX.Smith.2018.Fig4C-ST23.jpg
 - caption: VAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VAX1/449709_20.jpg
   location: null
-  source: Canto-Soler et al. 2006
-  source_label: Canto-Soler et al. 2006
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cVAX.Smith.2018.Fig4.jpg
 name: ventral anterior homeobox 1

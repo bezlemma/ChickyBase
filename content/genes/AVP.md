@@ -38,61 +38,61 @@ images:
 - caption: AVP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AVP/458723_2.jpg
   location: Hypothalamus
-  source: Hasan et al. 2010
-  source_label: Hasan et al. 2010
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AVT.Caqueret.2005.Fig.2
     avt.png
 - caption: AVP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AVP/458723_3.jpg
   location: null
-  source: Hasan et al. 2010
-  source_label: Hasan et al. 2010
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AVT.Caqueret.2005.Fig.2.png
 - caption: AVP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AVP/458723_4.jpg
   location: Hypothalamus
-  source: Hasan et al. 2010
-  source_label: Hasan et al. 2010
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AVT.Caqueret.2005.Fig.3
     avt.png
 - caption: AVP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AVP/458723_5.jpg
   location: null
-  source: Hasan et al. 2010
-  source_label: Hasan et al. 2010
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AVT.Caqueret.2005.Fig.3.png
 - caption: AVP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AVP/458723_6.jpg
   location: Brainstem Nuclei
-  source: Hasan et al. 2010
-  source_label: Hasan et al. 2010
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AVT.Caqueret.2005.Fig.4
     avt.png
 - caption: AVP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AVP/458723_7.jpg
   location: null
-  source: Hasan et al. 2010
-  source_label: Hasan et al. 2010
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AVT.Caqueret.2005.Fig.4.png
 - caption: AVP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AVP/458723_8.jpg
   location: Hypothalamus
-  source: Hasan et al. 2010
-  source_label: Hasan et al. 2010
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AVT.Caqueret.2005.Fig.5
     avt.png
 - caption: AVP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AVP/458723_9.jpg
   location: null
-  source: Hasan et al. 2010
-  source_label: Hasan et al. 2010
+  source: Caqueret et al. 2005
+  source_label: Caqueret et al. 2005
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AVT.Caqueret.2005.Fig.5.png
 name: arginine vasopressin

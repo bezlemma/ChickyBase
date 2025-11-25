@@ -51,15 +51,15 @@ images:
 - caption: FZD5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD5/449555_4.jpg
   location: Eye, Forebrain
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1M.Fuhrmann.2006.jpg
 - caption: FZD5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD5/449555_5.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1N.Fuhrmann.2006.jpg
 - caption: FZD5 expression
@@ -72,29 +72,29 @@ images:
 - caption: FZD5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD5/449555_7.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1Q.Fuhrmann.2006.jpg
 - caption: FZD5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD5/449555_8.jpg
   location: Unlabeled
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1R.Fuhrmann.2006.jpg
 - caption: FZD5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD5/449555_9.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1S.Fuhrmann.2006.jpg
 - caption: FZD5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD5/449555_10.jpg
   location: Unlabeled
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1T.Fuhrmann.2006.jpg
 - caption: FZD5 expression
@@ -156,58 +156,58 @@ images:
 - caption: FZD5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD5/449555_19.jpg
   location: Duodenum, Gizzard, Hindgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz8.Theodosiou.2003.1A.png
 - caption: FZD5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD5/449555_20.jpg
   location: Duodenum, Gizzard, Hindgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz8.Theodosiou.2003.1AH.png
 - caption: FZD5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD5/449555_21.jpg
   location: Duodenum, Gizzard, Hindgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz8.Theodosiou.2003.1I.png
 - caption: FZD5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD5/449555_22.jpg
   location: Duodenum, Gizzard, Hindgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Thodosiou et al. 2003
+  source_label: Thodosiou et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz8.Thodosiou.2003.1IT.png
 - caption: FZD5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD5/449555_23.jpg
   location: Duodenum, Gizzard, Hindgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz8.Theodosiou.2003.1U.png
 - caption: FZD5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD5/449555_24.jpg
   location: Duodenum, Gizzard, Hindgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz8.Theodosiou.2003.1UHH.png
 - caption: FZD5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD5/449555_25.jpg
   location: Hindgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Mcbride et al. 2008
+  source_label: Mcbride et al. 2008
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZ8.McBride.2008.Fig.7
     fz8.png
 - caption: FZD5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD5/449555_26.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Mcbride et al. 2008
+  source_label: Mcbride et al. 2008
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZ8.McBride.2008.Fig.7.png
 - caption: FZD5 expression
@@ -227,15 +227,15 @@ images:
 - caption: FZD5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD5/449555_29.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Geethaloganathan et al. 2009
+  source_label: Geethaloganathan et al. 2009
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZD5.GeethaLoganathan.2009.Figure8.panelA.png
 - caption: FZD5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD5/449555_30.jpg
   location: Head Mesenchyme, Neural Plate/Tube, Trunk Mesenchyme
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Geethaloganathan et al. 2009
+  source_label: Geethaloganathan et al. 2009
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZD5.GeethaLoganathan.2009.Figure8E.panelA.png
 name: frizzled class receptor 5

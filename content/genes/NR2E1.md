@@ -35,8 +35,8 @@ images:
 - caption: NR2E1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NR2E1/459609_1.jpg
   location: Ectoderm, Isthmus/MHB, Midbrain
-  source: Sanders et al. 2002
-  source_label: Sanders et al. 2002
+  source: Saunders et al. 2002
+  source_label: Saunders et al. 2002
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TAILLESS.Saunders.2002.Stage
     26 for fig.7, panel D.jpg

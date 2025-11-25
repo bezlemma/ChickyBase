@@ -24,50 +24,50 @@ images:
 - caption: CNTN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN3/457893_0.jpg
   location: null
-  source: Yamagato et al. 2012
-  source_label: Yamagato et al. 2012
+  source: Yamagata et al. 2012
+  source_label: Yamagata et al. 2012
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yamagata.2012.Figure2-2.ALLIMAGES-3.jpg
 - caption: CNTN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN3/457893_1.jpg
   location: Retina
-  source: Yamagato et al. 2012
-  source_label: Yamagato et al. 2012
+  source: Yamagata et al. 2012
+  source_label: Yamagata et al. 2012
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yamagata.2012.Figure2.C.CNTN3.jpg
 - caption: CNTN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN3/457893_2.jpg
   location: null
-  source: Yamagato et al. 2012
-  source_label: Yamagato et al. 2012
+  source: Yamagata et al. 2012
+  source_label: Yamagata et al. 2012
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yamagata.2012.Figure6.ALLIMAGES-3.jpg
 - caption: CNTN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN3/457893_3.jpg
   location: Retina
-  source: Yamagato et al. 2012
-  source_label: Yamagato et al. 2012
+  source: Yamagata et al. 2012
+  source_label: Yamagata et al. 2012
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yamagata.2012.Figure6.F.CNTN1-CNTN3-2.jpg
 - caption: CNTN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN3/457893_4.jpg
   location: Retina
-  source: Yamagato et al. 2012
-  source_label: Yamagato et al. 2012
+  source: Yamagata et al. 2012
+  source_label: Yamagata et al. 2012
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yamagata.2012.Figure6.I.CNTN2-CNTN3-2.jpg
 - caption: CNTN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN3/457893_5.jpg
   location: Retina
-  source: Yamagato et al. 2012
-  source_label: Yamagato et al. 2012
+  source: Yamagata et al. 2012
+  source_label: Yamagata et al. 2012
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yamagata.2012.Figure6.L.CNTN3-CNT4.jpg
 - caption: CNTN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNTN3/457893_6.jpg
   location: Retina
-  source: Yamagato et al. 2012
-  source_label: Yamagato et al. 2012
+  source: Yamagata et al. 2012
+  source_label: Yamagata et al. 2012
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Yamagata.2012.Figure6.M.CNTN3-CNT5.jpg
 name: contactin 3

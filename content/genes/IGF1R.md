@@ -24,15 +24,15 @@ images:
 - caption: IGF1R expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1R/450828_0.jpg
   location: Neural Plate/Tube
-  source: McCabe et al. 2007
-  source_label: McCabe et al. 2007
+  source: Mccabe et al. 2007
+  source_label: Mccabe et al. 2007
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGFR1.Figure3ABC.McCabe.2007.jpg
 - caption: IGF1R expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1R/450828_1.jpg
   location: Neural Plate/Tube
-  source: McCabe et al. 2007
-  source_label: McCabe et al. 2007
+  source: Mccabe et al. 2007
+  source_label: Mccabe et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGFR1.Figure3DEF.McCabe.2007.jpg
 - caption: IGF1R expression
@@ -108,8 +108,8 @@ images:
 - caption: IGF1R expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1R/450828_12.jpg
   location: Ear/Otic Placcode
-  source: McCabe et al. 2007
-  source_label: McCabe et al. 2007
+  source: Camarero et al. 2003
+  source_label: Camarero et al. 2003
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGFR.FIG7H.CAMARERO.2003.jpg
 - caption: IGF1R expression
@@ -151,37 +151,37 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1R/450828_18.jpg
   location: Ectoderm, Mesencephalon, Neural Plate/Tube, Rhombomeres, Spinal Cord,
     Telencephalon
-  source: McCabe et al. 2007
-  source_label: McCabe et al. 2007
+  source: Holzenberger et al. 1996
+  source_label: Holzenberger et al. 1996
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1R.Holzenberger.1996.Fig4.A.jpg
 - caption: IGF1R expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1R/450828_19.jpg
   location: Neural Plate/Tube, Notochord, Spinal Ganglia and Nerves
-  source: McCabe et al. 2007
-  source_label: McCabe et al. 2007
+  source: Holzenberger et al. 1996
+  source_label: Holzenberger et al. 1996
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1R.Holzenberger.1996.Fig4B.jpg
 - caption: IGF1R expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1R/450828_20.jpg
   location: Cranial Ganglia, Gut, Limb Buds, Mesencephalon, Neural Plate/Tube, Rhombomeres,
     Telencephalon
-  source: McCabe et al. 2007
-  source_label: McCabe et al. 2007
+  source: Holzenberger et al. 1996
+  source_label: Holzenberger et al. 1996
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1R.Holzenberger.1996.Fig5.B.jpg
 - caption: IGF1R expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1R/450828_21.jpg
   location: Hindbrain, Nasal Placode/Nerve, Retina, Telencephalon
-  source: McCabe et al. 2007
-  source_label: McCabe et al. 2007
+  source: Holzenberger et al. 1996
+  source_label: Holzenberger et al. 1996
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1R.Holzenberger.1996.Fig6.C.jpg
 - caption: IGF1R expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1R/450828_22.jpg
   location: Hindbrain, Hypothalamus, Pineal Gland, Retina, Telencephalon
-  source: McCabe et al. 2007
-  source_label: McCabe et al. 2007
+  source: Holzenberger et al. 1996
+  source_label: Holzenberger et al. 1996
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1R.Holzenberger.1996.Fig6A.jpg
 name: insulin like growth factor 1 receptor

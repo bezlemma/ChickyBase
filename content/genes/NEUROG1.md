@@ -31,106 +31,106 @@ images:
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_1.jpg
   location: Nasal Placcode/Nerve, Pharyngeal Arches and Clefts, Placcode
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Abu et al. 2001
+  source_label: Abu et al. 2001
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGN1.FIG3B.ABU.2001.jpg
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_2.jpg
   location: Nasal Placcode/Nerve, Pharyngeal Arches and Clefts, Placcode
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Abu et al. 2001
+  source_label: Abu et al. 2001
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGN1.FIG4A.ABU.2001.jpg
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_3.jpg
   location: Nasal Placcode/Nerve, Pharyngeal Arches and Clefts, Placcode
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Abu et al. 2001
+  source_label: Abu et al. 2001
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGN1.FIG4F.ABU.2001.jpg
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_4.jpg
   location: Nasal Placcode/Nerve, Pharyngeal Arches and Clefts, Placcode
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Abu et al. 2001
+  source_label: Abu et al. 2001
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGN1.FIG4G.ABU.2001.jpg
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_5.jpg
   location: Nasal Placcode/Nerve, Pharyngeal Arches and Clefts, Placcode
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Abu et al. 2001
+  source_label: Abu et al. 2001
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGN1.FIG4H.ABU.2001.jpg
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_6.jpg
   location: null
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ngn1.maier.2009.2a-f.png
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_7.jpg
   location: Nasal Placode/Nerve, Neural Crest
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ngn1.maier.2009.2d.png
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_8.jpg
   location: null
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ngn1.maier.2009.3A-G.png
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_9.jpg
   location: Nasal Placode/Nerve, Neural Crest
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ngn1.maier.2009.3D.png
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_10.jpg
   location: Nasal Placode/Nerve
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ngn1.maier.2009.4d.png
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_11.jpg
   location: null
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ngn1.maier.2009.5a-f.png
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_12.jpg
   location: Nasal Placode/Nerve
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ngn1.maier.2009.5d.png
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_13.jpg
   location: null
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ngn1.maier.2009.6a-g.png
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_14.jpg
   location: Nasal Placode/Nerve
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Maier et al. 2009
+  source_label: Maier et al. 2009
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ngn1.maier.2009.6d.png
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_15.jpg
   location: Nasal Placode/Nerve
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Maier et al. 2010
+  source_label: Maier et al. 2010
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGN1.Maier.2010.Stage
     22 for fig.1, panel C.jpg
@@ -214,115 +214,115 @@ images:
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_27.jpg
   location: Ear/Otic Placode
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGN1.Abello.2010.Fig.5
     ngn1.png
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_28.jpg
   location: null
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGN1.Abello.2010.Fig.5.png
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_29.jpg
   location: null
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Akai et al. 2005
+  source_label: Akai et al. 2005
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGN1.Akai.2005.Fig.3
     ngn1 st10.png
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_30.jpg
   location: Neural Plate/Tube, Spinal Cord
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Akai et al. 2005
+  source_label: Akai et al. 2005
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGN1.Akai.2005.Fig.3.png
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_31.jpg
   location: Telencephalon
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Frowein et al. 2002
+  source_label: Frowein et al. 2002
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGN1.Frowein.2002.1a.png
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_32.jpg
   location: null
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Frowein et al. 2002
+  source_label: Frowein et al. 2002
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGN1.Frowein.2002.1whole.png
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_33.jpg
   location: Spinal Cord
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Zhou et al. 2001
+  source_label: Zhou et al. 2001
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhou.2001.Fig2.F-2.jpg
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_34.jpg
   location: Spinal Cord
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Zhou et al. 2001
+  source_label: Zhou et al. 2001
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhou.2001.Fig2.G-2.jpg
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_35.jpg
   location: Spinal Cord
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Zhou et al. 2001
+  source_label: Zhou et al. 2001
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhou.2001.Fig2.H-2.jpg
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_36.jpg
   location: Spinal Cord
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Zhou et al. 2001
+  source_label: Zhou et al. 2001
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhou.2001.Fig2.I-2.jpg
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_37.jpg
   location: Spinal Cord
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Zhou et al. 2001
+  source_label: Zhou et al. 2001
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhou.2001.Fig2.J-2.jpg
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_38.jpg
   location: Peripheral Nervous System
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ngn-1.Ishii.2001.Fig1B.jpg
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_39.jpg
   location: Peripheral Nervous System
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ngn-1.Ishii.2001.Fig1D.jpg
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_40.jpg
   location: null
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Ishii et al. 2001
+  source_label: Ishii et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ngn-1.Ishii.2001.Fig1.jpg
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_41.jpg
   location: Neural Plate/Tube
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Alrefaei et al. 2020
+  source_label: Alrefaei et al. 2020
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Alrefaei.2020.Fig.1.NGN1-HH24.jpg
 - caption: NEUROG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG1/449910_42.jpg
   location: null
-  source: Chesnutt et al. 2004
-  source_label: Chesnutt et al. 2004
+  source: Alrefaei et al. 2020
+  source_label: Alrefaei et al. 2020
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Alrefaei.2020.Fig.1.allimages.jpg
 name: neurogenin 1

@@ -47,43 +47,43 @@ images:
 - caption: ANTXR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ANTXR1/459385_4.jpg
   location: Limb Buds
-  source: Verma et al. 2011
-  source_label: Verma et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANTXR1.Singh.2016.Fig5U-st28.jpg
 - caption: ANTXR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ANTXR1/459385_5.jpg
   location: Limb Buds
-  source: Verma et al. 2011
-  source_label: Verma et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANTXR1.Singh.2016.Fig5V-st31.jpg
 - caption: ANTXR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ANTXR1/459385_6.jpg
   location: Limb Buds
-  source: Verma et al. 2011
-  source_label: Verma et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANTXR1.Singh.2016.Fig5W-st34.jpg
 - caption: ANTXR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ANTXR1/459385_7.jpg
   location: Limb Buds
-  source: Verma et al. 2011
-  source_label: Verma et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANTXR1.Singh.2016.Fig5X-st36.jpg
 - caption: ANTXR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ANTXR1/459385_8.jpg
   location: Limb Buds
-  source: Verma et al. 2011
-  source_label: Verma et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANTXR1.Singh.2016.Fig5Y-st38.jpg
 - caption: ANTXR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ANTXR1/459385_9.jpg
   location: null
-  source: Verma et al. 2011
-  source_label: Verma et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANTXR1.Singh.2016.Fig5.jpg
 name: anthrax toxin receptor 1

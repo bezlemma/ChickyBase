@@ -30,15 +30,15 @@ images:
 - caption: HOXB9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXB9/452386_1.jpg
   location: Lung
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2d.SAKIYAMA.2000.jpg
 - caption: HOXB9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXB9/452386_2.jpg
   location: Lung
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Saki et al. 2000
+  source_label: Saki et al. 2000
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXB9.FIG2P.SAKI.2000.jpg
 - caption: HOXB9 expression
@@ -135,50 +135,50 @@ images:
 - caption: HOXB9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXB9/452386_16.jpg
   location: null
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Dubrulle et al. 2001
+  source_label: Dubrulle et al. 2001
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXB9.Dubrulle.2001.6A-B.png
 - caption: HOXB9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXB9/452386_17.jpg
   location: Neural Plate/Tube, Paraxial Mesoderm
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Dubrulle et al. 2001
+  source_label: Dubrulle et al. 2001
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXB9.Dubrulle.2001.6A.png
 - caption: HOXB9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXB9/452386_18.jpg
   location: Leg
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxb-9.Nelson.1996.Fig4A-st22.jpg
 - caption: HOXB9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXB9/452386_19.jpg
   location: Leg
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxb-9.Nelson.1996.Fig4B-st23.jpg
 - caption: HOXB9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXB9/452386_20.jpg
   location: Leg
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxb-9.Nelson.1996.Fig4C-st27.jpg
 - caption: HOXB9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXB9/452386_21.jpg
   location: Leg
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxb-9.Nelson.1996.Fig4D-st27.jpg
 - caption: HOXB9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXB9/452386_22.jpg
   location: null
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxb-9.Nelson.1996.Fig4.jpg
 - caption: HOXB9 expression

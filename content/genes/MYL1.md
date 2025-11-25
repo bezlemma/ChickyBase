@@ -50,16 +50,16 @@ images:
 - caption: MYL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYL1/461070_2.jpg
   location: Heart, Ventricles
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYL1.Anderson.2019.Supplementary
     figure 5D-st12.jpg
 - caption: MYL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYL1/461070_3.jpg
   location: null
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYL1.Anderson.2019.Supplementary
     figure 5D.jpg

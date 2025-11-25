@@ -34,92 +34,92 @@ images:
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_2.jpg
   location: Leg
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.1.A_Six2_St24_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_3.jpg
   location: Leg
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.1.A_Six2_St25_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_4.jpg
   location: Leg Mesenchyme
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.3.A_Six2_st25_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_5.jpg
   location: Leg
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.3.F_Six2_st25_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_6.jpg
   location: Leg
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.1.A_Six2_St26_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_7.jpg
   location: Leg Mesenchyme
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.1.B_St26_Six2_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_8.jpg
   location: Leg Muscles
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.1.C_St26_Six2_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_9.jpg
   location: Leg, Leg Muscles
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.1.D_St26_Six2_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_10.jpg
   location: Leg Muscles
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.1.E_St26_Six2_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_11.jpg
   location: Leg
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.2.B_Six2_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_12.jpg
   location: Leg
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.2.D_SIX2_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_13.jpg
   location: Leg
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.6.A_Six2_st26_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_14.jpg
   location: Leg
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.6.B_Six2_st26_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
@@ -132,71 +132,71 @@ images:
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_16.jpg
   location: Leg Mesenchyme
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.3.A_Six2_st27_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_17.jpg
   location: Leg
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.1.F_St30_dorsal_Six2_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_18.jpg
   location: Leg Bones
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.2.C_Six2_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_19.jpg
   location: Leg Mesenchyme
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.3.A_Six2_st30_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_20.jpg
   location: Leg
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.5.A_Six2_st30_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_21.jpg
   location: Leg
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.2.ASix2_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_22.jpg
   location: Leg
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.1.F_St36_Six2_Dorsal_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_23.jpg
   location: Leg
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.1.F_St36_Six2_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_24.jpg
   location: Leg
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.3.B_Six2_st27_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX2/456882_25.jpg
   location: null
-  source: Smith et al. 2000
-  source_label: Smith et al. 2000
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.1.A_AllImages_Yamamoto-Shiraishi.2013.jpg
 - caption: SIX2 expression

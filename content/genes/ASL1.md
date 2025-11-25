@@ -27,8 +27,8 @@ images:
 - caption: ASL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ASL1/461151_0.jpg
   location: Eye
-  source: Hyre et al. 2003
-  source_label: Hyre et al. 2003
+  source: Hyer et al. 2003
+  source_label: Hyer et al. 2003
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CRYSTALLIN.FIG2B.HYER.2003.jpg
 - caption: ASL1 expression
@@ -41,15 +41,15 @@ images:
 - caption: ASL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ASL1/461151_2.jpg
   location: Eye, Lens
-  source: Hyre et al. 2003
-  source_label: Hyre et al. 2003
+  source: Bailey et al. 2006
+  source_label: Bailey et al. 2006
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DELTACRYSTALLIN.FIG1J.BAILEY.2006.jpg
 - caption: ASL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ASL1/461151_3.jpg
   location: null
-  source: Hyre et al. 2003
-  source_label: Hyre et al. 2003
+  source: Bailey et al. 2006
+  source_label: Bailey et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.BAILEY.2006.jpg
 name: argininosuccinate lyase 1

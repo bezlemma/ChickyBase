@@ -34,43 +34,43 @@ images:
 - caption: CYP26B1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26B1/456437_2.jpg
   location: Hindbrain, Rhombomeres
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26B1.HH23.Wilson.2007.F7.cyp26b1.png
 - caption: CYP26B1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26B1/456437_3.jpg
   location: Hindbrain, Rhombomeres
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26B1.HH26.Wilson.2007.F7.cyp26b1.png
 - caption: CYP26B1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26B1/456437_4.jpg
   location: Hindbrain
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26B1.Wilson.2007.F9.cyp26b1.png
 - caption: CYP26B1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26B1/456437_5.jpg
   location: null
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wilson.2007.F9.cyp26b1.png
 - caption: CYP26B1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26B1/456437_6.jpg
   location: Hindbrain, Rhombomeres
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26B1.HH32.Wilson.2007.F7.cyp26b1.png
 - caption: CYP26B1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26B1/456437_7.jpg
   location: null
-  source: Maden et al. 2007
-  source_label: Maden et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wilson.2007.F7.cyp26b1.png
 - caption: CYP26B1 expression

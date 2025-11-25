@@ -194,64 +194,64 @@ images:
 - caption: TNMD expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNMD/455683_25.jpg
   location: Eye, Leg Mesenchyme, Pharyngeal Arches and Clefts, Sclerotome, Wing Mesenchyme
-  source: Shukunami et al. 2006
-  source_label: Shukunami et al. 2006
+  source: Shukunami et al. 2008
+  source_label: Shukunami et al. 2008
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TEM.HH28.Shukunami.2008.f5.tem.png
 - caption: TNMD expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNMD/455683_26.jpg
   location: null
-  source: Shukunami et al. 2006
-  source_label: Shukunami et al. 2006
+  source: Shukunami et al. 2008
+  source_label: Shukunami et al. 2008
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Shukunami.2008.f5.tem.png
 - caption: TNMD expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNMD/455683_27.jpg
   location: Vertebrae
-  source: Shukunami et al. 2006
-  source_label: Shukunami et al. 2006
+  source: Shukunami et al. 2008
+  source_label: Shukunami et al. 2008
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TEM.HH30.Shukunami.2008.f5.tem.png
 - caption: TNMD expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNMD/455683_28.jpg
   location: null
-  source: Shukunami et al. 2006
-  source_label: Shukunami et al. 2006
+  source: Shukunami et al. 2008
+  source_label: Shukunami et al. 2008
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Shukunami.2008.f7.tem.png
 - caption: TNMD expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNMD/455683_29.jpg
   location: Vertebrae
-  source: Shukunami et al. 2006
-  source_label: Shukunami et al. 2006
+  source: Shukunami et al. 2008
+  source_label: Shukunami et al. 2008
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TEM.e.Shukunami.2008.f7.tem.png
 - caption: TNMD expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNMD/455683_30.jpg
   location: Vertebrae
-  source: Shukunami et al. 2006
-  source_label: Shukunami et al. 2006
+  source: Shukunami et al. 2008
+  source_label: Shukunami et al. 2008
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TEM.j.Shukunami.2008.f7.tem.png
 - caption: TNMD expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNMD/455683_31.jpg
   location: Vertebrae
-  source: Shukunami et al. 2006
-  source_label: Shukunami et al. 2006
+  source: Shukunami et al. 2008
+  source_label: Shukunami et al. 2008
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TEM.q.Shukunami.2008.f7.tem.png
 - caption: TNMD expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNMD/455683_32.jpg
   location: Leg
-  source: Shukunami et al. 2006
-  source_label: Shukunami et al. 2006
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.2.ATenomodulin_Yamamoto-Shiraishi.2013.jpg
 - caption: TNMD expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNMD/455683_33.jpg
   location: null
-  source: Shukunami et al. 2006
-  source_label: Shukunami et al. 2006
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.2._AllImages_Yamamoto-Shiraishi.2013.jpg
 name: tenomodulin

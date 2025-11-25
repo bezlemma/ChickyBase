@@ -109,270 +109,270 @@ images:
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_12.jpg
   location: Epiblast, Hensen's Node
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig2A-st6.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_13.jpg
   location: Head Mesenchyme, Neural Plate/Tube, Notochord, Somites
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig2B-st8.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_14.jpg
   location: Ear/Otic Placode, Head Mesenchyme, Neural Plate/Tube, Notochord, Somites
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig2C-st9.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_15.jpg
   location: Eye, Forebrain, Head Mesenchyme, Notochord, Paraxial Mesoderm, Surface
     Ectoderm
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig2D-st13.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_16.jpg
   location: Eye, Forebrain, Head Mesenchyme, Notochord, Surface Ectoderm
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig2E-st13.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_17.jpg
   location: Eye, Notochord
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig2F-st13.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_18.jpg
   location: Dermomyotome, Neural Plate/Tube, Notochord
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig2G-st13.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_19.jpg
   location: Endoderm, Neural Plate/Tube, Notochord, Paraxial Mesoderm
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig2H-st13.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_20.jpg
   location: Endoderm, Notochord, Paraxial Mesoderm
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig2I-st13.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_21.jpg
   location: Endoderm, Notochord, Paraxial Mesoderm
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig2J-st13.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_22.jpg
   location: Ear/Otic Placode, Eye, Gut, Paraxial Mesoderm
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3A-st19.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_23.jpg
   location: Paraxial Mesoderm, Surface Ectoderm
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3BC-st19.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_24.jpg
   location: Eye, Head Mesenchyme
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3D-st19.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_25.jpg
   location: Eye
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3E-st19.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_26.jpg
   location: Ear/Otic Placode, Foregut
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3F-st19.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_27.jpg
   location: Esophagus, Limb Buds, Mesonephros, Nephric Ducts, Nephric Tubules, Neural
     Plate/Tube, Stomach
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3G-st19.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_28.jpg
   location: Esophagus, Limb Buds, Mesonephros, Nephric Ducts, Nephric Tubules, Neural
     Plate/Tube, Stomach
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3H-st19.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_29.jpg
   location: Aorta, Neural Plate/Tube, Paraxial Mesoderm, Surface Ectoderm
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3I-st19.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_30.jpg
   location: Limb Buds, Notochord, Somites, Surface Ectoderm
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3J-st19.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_31.jpg
   location: Cranial PNS, Limb Buds, Paraxial Mesoderm, Sensory Organs
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3KL-st24.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_32.jpg
   location: Limb Buds
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3M-st24.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_33.jpg
   location: Limb Buds
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3N-st24.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_34.jpg
   location: Cranial PNS, Eye, Myotome
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3O-st24.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_35.jpg
   location: Ear/Otic Placode
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3P-st24.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_36.jpg
   location: Cranial PNS, Esophagus, Myotome
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3Q-st24.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_37.jpg
   location: Limb Buds, Myotome, Neural Plate/Tube, Surface Ectoderm
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3R-st24.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_38.jpg
   location: Wing AER, Wing Mesenchyme
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3S-st24.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_39.jpg
   location: Myotome, Neural Plate/Tube
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3T-st24.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_40.jpg
   location: Limb Buds, Myotome, Surface Ectoderm
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3U-st24.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_41.jpg
   location: Leg AER, Leg Mesenchyme
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3V-st24.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_42.jpg
   location: null
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig2.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_43.jpg
   location: null
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Ogita et al. 2001
+  source_label: Ogita et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Dan.Ogita.2001.Fig3.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_44.jpg
   location: Limb Buds
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NBL1.Singh.2016.Fig4F-st28.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_45.jpg
   location: Limb Buds
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NBL1.Singh.2016.Fig4G-st31.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_46.jpg
   location: Limb Buds
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NBL1.Singh.2016.Fig4H-st34.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_47.jpg
   location: Limb Buds
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NBL1.Singh.2016.Fig4i-st36.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_48.jpg
   location: Limb Buds
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NBL1.Singh.2016.Fig4J-st38.jpg
 - caption: NBL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NBL1/459446_49.jpg
   location: null
-  source: Katsu et al. 2012
-  source_label: Katsu et al. 2012
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NBL1.Singh.2016.Fig4.jpg
 name: neuroblastoma 1, DAN family BMP antagonist

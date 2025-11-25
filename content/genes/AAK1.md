@@ -18,22 +18,22 @@ images:
 - caption: AAK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AAK1/458230_0.jpg
   location: Nasal Placode/Nerve
-  source: Marcucio et al. 2005
-  source_label: Marcucio et al. 2005
+  source: Maucucio et al. 2005
+  source_label: Maucucio et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.8_AP2_B.jpg
 - caption: AAK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AAK1/458230_1.jpg
   location: Diencephalon, Nasal Placode/Nerve, Pharyngeal Arches and Clefts
-  source: Marcucio et al. 2005
-  source_label: Marcucio et al. 2005
+  source: Maucucio et al. 2005
+  source_label: Maucucio et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.8_AP2_G.jpg
 - caption: AAK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AAK1/458230_2.jpg
   location: null
-  source: Marcucio et al. 2005
-  source_label: Marcucio et al. 2005
+  source: Maucucio et al. 2005
+  source_label: Maucucio et al. 2005
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.8_All-images.jpg
 name: AP2 associated kinase 1

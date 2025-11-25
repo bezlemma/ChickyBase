@@ -72,36 +72,36 @@ images:
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_7.jpg
   location: Lung
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Saki et al. 2000
+  source_label: Saki et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.FIG4A.SAKI.2000.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_8.jpg
   location: Lung
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Saki et al. 2000
+  source_label: Saki et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.FIG4C.SAKI.2000.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_9.jpg
   location: Lung
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Saki et al. 2000
+  source_label: Saki et al. 2000
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.FIG4E.SAKI.2000.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_10.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG4a.SAKIYAMA.2000.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_11.jpg
   location: Lung
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Saki et al. 2000
+  source_label: Saki et al. 2000
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.FIG4G.SAKI.2000.jpg
 - caption: WNT5A expression
@@ -135,85 +135,85 @@ images:
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_16.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Baranski et al. 2000
+  source_label: Baranski et al. 2000
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.BARANSKI.2000.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_17.jpg
   location: Primitive Streak
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Baranski et al. 2000
+  source_label: Baranski et al. 2000
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.FIG2BF.BARANSKI.2000.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_18.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Baranski et al. 2000
+  source_label: Baranski et al. 2000
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3.BARANSKI.2000.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_19.jpg
   location: Lateral Plate Mesoderm, Notochord, Primitive Streak
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Baranski et al. 2000
+  source_label: Baranski et al. 2000
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.FIG3CGI.BARANSKI.2000.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_20.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Baranski et al. 2000
+  source_label: Baranski et al. 2000
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG6.BARANSKI.2000.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_21.jpg
   location: Mesoderm
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Baranski et al. 2000
+  source_label: Baranski et al. 2000
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.FIG6FHJ.BARANSKI.2000.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_22.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Baranski et al. 2000
+  source_label: Baranski et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG7.BARANSKI.2000.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_23.jpg
   location: Ear/Otic Placcode, Eye, Heart, Limb Buds, Pharyngeal Arches and Clefts
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Baranski et al. 2000
+  source_label: Baranski et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.FIG7C.BARANSKI.2000.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_24.jpg
   location: Ear/Otic Placcode, Eye, Heart, Limb Buds, Pharyngeal Arches and Clefts
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Baranski et al. 2000
+  source_label: Baranski et al. 2000
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.FIG8C.BARANSKI.2000.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_25.jpg
   location: Leg
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Baranski et al. 2000
+  source_label: Baranski et al. 2000
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.FIG8K.BARANSKI.2000.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_26.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Baranski et al. 2000
+  source_label: Baranski et al. 2000
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG8.BARANSKI.2000.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_27.jpg
   location: Leg
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Baranski et al. 2000
+  source_label: Baranski et al. 2000
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.FIG8O.BARANSKI.2000.jpg
 - caption: WNT5A expression
@@ -304,22 +304,22 @@ images:
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_40.jpg
   location: Midgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Nielsen et al. 2001
+  source_label: Nielsen et al. 2001
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.FIG5B.NIELSEN.2001.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_41.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Skromne et al. 2001
+  source_label: Skromne et al. 2001
   stage: stage XII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.SKROMNE.2001.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_42.jpg
   location: Area Opaca
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Skromne et al. 2001
+  source_label: Skromne et al. 2001
   stage: stage XII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.FIG2B.SKROMNE.2001.jpg
 - caption: WNT5A expression
@@ -349,83 +349,83 @@ images:
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_46.jpg
   location: Midgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Mcbride et al. 2003
+  source_label: Mcbride et al. 2003
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5a.McBride.2003.J
     for figure 7.PNG
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_47.jpg
   location: Midgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Mcbride et al. 2003
+  source_label: Mcbride et al. 2003
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5a.McBride.2003.K
     for figure 7.PNG
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_48.jpg
   location: Midgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Mcbride et al. 2003
+  source_label: Mcbride et al. 2003
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5a.McBride.2003.L
     for figure 7.PNG
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_49.jpg
   location: Midgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Mcbride et al. 2003
+  source_label: Mcbride et al. 2003
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5a.McBride.2003.M
     for figure 7.PNG
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_50.jpg
   location: Midgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Mcbride et al. 2003
+  source_label: Mcbride et al. 2003
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5a.McBride.2003.N
     for figure 7.PNG
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_51.jpg
   location: Neural Plate/Tube, Primitive Streak
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Garcia-castro et al. 2002
+  source_label: Garcia-castro et al. 2002
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5a.Garcia-Castro.2002.SupplementalFigure1.ImageA.JPG
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_52.jpg
   location: Primitive Streak
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Garcia-castro et al. 2002
+  source_label: Garcia-castro et al. 2002
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5a.Garcia-Castro.2002.SupplementalFigure1.JPG
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_53.jpg
   location: Diencephalon, Midbrain
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Quinlan et al. 2009
+  source_label: Quinlan et al. 2009
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Quinlan.2009.3D.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_54.jpg
   location: Diencephalon, Midbrain
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Quinlan et al. 2009
+  source_label: Quinlan et al. 2009
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Quinlan.2009.3E.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_55.jpg
   location: Diencephalon, Midbrain, Pineal Gland, Telencephalon
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Quinlan et al. 2009
+  source_label: Quinlan et al. 2009
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Quinlan.2009.3F.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_56.jpg
   location: Diencephalon, Midbrain, Pineal Gland, Telencephalon
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Quinlan et al. 2009
+  source_label: Quinlan et al. 2009
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5A.Quinlan.2009.3V.png
 - caption: WNT5A expression
@@ -493,36 +493,36 @@ images:
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_65.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Sanders et al. 2002
+  source_label: Sanders et al. 2002
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Sanders.2002.4.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_66.jpg
   location: Hindbrain, Midbrain
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Sanders et al. 2002
+  source_label: Sanders et al. 2002
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Sanders.2002.4B.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_67.jpg
   location: Hindbrain, Midbrain
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Sanders et al. 2002
+  source_label: Sanders et al. 2002
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Sanders.2002.4D.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_68.jpg
   location: Hindbrain, Midbrain
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Sanders et al. 2002
+  source_label: Sanders et al. 2002
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Sanders.2002.4E.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_69.jpg
   location: Hindbrain, Midbrain
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Sanders et al. 2002
+  source_label: Sanders et al. 2002
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Sanders.2002.4F.png
 - caption: WNT5A expression
@@ -560,300 +560,300 @@ images:
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_74.jpg
   location: Limb Buds
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fischer et al. 2008
+  source_label: Fischer et al. 2008
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Fischer.2008.Fig.1   wnt5a.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_75.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fischer et al. 2008
+  source_label: Fischer et al. 2008
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Fischer.2008.Fig.1  .png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_76.jpg
   location: Limb Buds
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fischer et al. 2008
+  source_label: Fischer et al. 2008
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Fischer.2008.Fig.1
     wnt5a   section.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_77.jpg
   location: Limb Buds
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fischer et al. 2008
+  source_label: Fischer et al. 2008
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Fischer.2008.Fig.1
     wnt5a   virtual.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_78.jpg
   location: Eye, Limb Buds, Liver, Pharyngeal Arches and Clefts
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fischer et al. 2008
+  source_label: Fischer et al. 2008
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Fischer.2008.Sup.Fig.1
     wnt5a.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_79.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fischer et al. 2008
+  source_label: Fischer et al. 2008
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Fischer.2008.Sup.Fig.1.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_80.jpg
   location: Eye, Limb Buds, Liver, Pharyngeal Arches and Clefts
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fischer et al. 2008
+  source_label: Fischer et al. 2008
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Fischer.2008.Sup.Fig.7
     wnt5a.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_81.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fischer et al. 2008
+  source_label: Fischer et al. 2008
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Fischer.2008.Sup.Fig.7.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_82.jpg
   location: Esophagus
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Loscertales et al. 2008
+  source_label: Loscertales et al. 2008
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Loscertales.2008.Fig.1
     wnt5a st31.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_83.jpg
   location: Lung
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Loscertales et al. 2008
+  source_label: Loscertales et al. 2008
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Loscertales.2008.Fig.1
     wnt5a st37.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_84.jpg
   location: Lung
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Loscertales et al. 2008
+  source_label: Loscertales et al. 2008
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Loscertales.2008.Fig.1
     wnt5a st41.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_85.jpg
   location: Lung
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Loscertales et al. 2008
+  source_label: Loscertales et al. 2008
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Loscertales.2008.Fig.1
     wnt5a st44.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_86.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Loscertales et al. 2008
+  source_label: Loscertales et al. 2008
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Loscertales.2008.Fig.1.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_87.jpg
   location: Diencephalon, Eye
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Rossi et al. 2007
+  source_label: Rossi et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Rossi.2007.Fig.1
     wnt5a st10.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_88.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Rossi et al. 2007
+  source_label: Rossi et al. 2007
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Rossi.2007.Fig.2
     wnt5a st11.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_89.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Rossi et al. 2007
+  source_label: Rossi et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Rossi.2007.Fig.1
     wnt5a st14.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_90.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Rossi et al. 2007
+  source_label: Rossi et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Rossi.2007.Fig.2
     wnt5a st14 g.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_91.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Rossi et al. 2007
+  source_label: Rossi et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Rossi.2007.Fig.2
     wnt5a st14.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_92.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Rossi et al. 2007
+  source_label: Rossi et al. 2007
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Rossi.2007.Fig.2
     wnt5a st15.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_93.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Rossi et al. 2007
+  source_label: Rossi et al. 2007
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Rossi.2007.Fig.2
     wnt5a st15h.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_94.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Rossi et al. 2007
+  source_label: Rossi et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Rossi.2007.Fig.1
     wnt5a st16.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_95.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Rossi et al. 2007
+  source_label: Rossi et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Rossi.2007.Fig.1.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_96.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Rossi et al. 2007
+  source_label: Rossi et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Rossi.2007.Fig.2
     wnt5a st16.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_97.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Rossi et al. 2007
+  source_label: Rossi et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Rossi.2007.Fig.2
     wnt5a st16j.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_98.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Rossi et al. 2007
+  source_label: Rossi et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Rossi.2007.Fig.2
     wnt5a st18.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_99.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Rossi et al. 2007
+  source_label: Rossi et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Rossi.2007.Fig.2.png
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_100.jpg
   location: Wing
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Loganathan et al. 2005
+  source_label: Loganathan et al. 2005
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5a.Loganathan.2005.Fig1H-st17.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_101.jpg
   location: Wing
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Loganathan et al. 2005
+  source_label: Loganathan et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5a.Loganathan.2005.Fig1I-st20.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_102.jpg
   location: Wing
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Loganathan et al. 2005
+  source_label: Loganathan et al. 2005
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5a.Loganathan.2005.Fig1J-st23.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_103.jpg
   location: Wing
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Loganathan et al. 2005
+  source_label: Loganathan et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5a.Loganathan.2005.Fig1K-st26.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_104.jpg
   location: Limb Buds
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Loganathan et al. 2005
+  source_label: Loganathan et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5a.Loganathan.2005.Fig2B-st26.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_105.jpg
   location: Wing
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Loganathan et al. 2005
+  source_label: Loganathan et al. 2005
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5a.Loganathan.2005.Fig1L-st29.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_106.jpg
   location: Wing
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Loganathan et al. 2005
+  source_label: Loganathan et al. 2005
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5a.Loganathan.2005.Fig1M-st31.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_107.jpg
   location: Wing
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Loganathan et al. 2005
+  source_label: Loganathan et al. 2005
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5a.Loganathan.2005.Fig1N-st34.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_108.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Loganathan et al. 2005
+  source_label: Loganathan et al. 2005
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5a.Loganathan.2005.Fig1.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_109.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Loganathan et al. 2005
+  source_label: Loganathan et al. 2005
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt5a.Loganathan.2005.Fig2.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_110.jpg
   location: Heart
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Anderson.2019.Fig2I''-st12.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_111.jpg
   location: Heart
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Anderson.2019.Fig2I'-st12.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_112.jpg
   location: Heart
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Anderson.2019.Fig2I-st12.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_113.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.Anderson.2019.Fig2.jpg
 name: Wnt family member 5A

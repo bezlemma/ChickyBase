@@ -52,43 +52,43 @@ images:
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_4.jpg
   location: Gizzard
-  source: Bonafede et al. 2006
-  source_label: Bonafede et al. 2006
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tcf4.Theodosiou.2003.Figure1.PanelA.ImageF.JPG
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_5.jpg
   location: Gizzard
-  source: Bonafede et al. 2006
-  source_label: Bonafede et al. 2006
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tcf4.Theodosiou.2003.Figure1.PanelA.JPG
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_6.jpg
   location: Gizzard
-  source: Bonafede et al. 2006
-  source_label: Bonafede et al. 2006
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tcf4.Theodosiou.2003.Figure1.PanelB.ImageJ.JPG
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_7.jpg
   location: Gizzard
-  source: Bonafede et al. 2006
-  source_label: Bonafede et al. 2006
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tcf4.Theodosiou.2003.Figure1.PanelB.JPG
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_8.jpg
   location: Foregut
-  source: Bonafede et al. 2006
-  source_label: Bonafede et al. 2006
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tcf4.Theodosiou.2003.Figure1.PanelC.ImageV.JPG
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_9.jpg
   location: Foregut
-  source: Bonafede et al. 2006
-  source_label: Bonafede et al. 2006
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tcf4.Theodosiou.2003.Figure1.PanelC.JPG
 - caption: TCF7L2 expression
@@ -158,29 +158,29 @@ images:
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_18.jpg
   location: Diencephalon, Midbrain, Telencephalon
-  source: Bonafede et al. 2006
-  source_label: Bonafede et al. 2006
+  source: Quinlan et al. 2009
+  source_label: Quinlan et al. 2009
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TCF4.Quinlan.2009.6G-I.jpg
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_19.jpg
   location: Central Nervous System, Diencephalon, Ectoderm, Forebrain, Midbrain
-  source: Bonafede et al. 2006
-  source_label: Bonafede et al. 2006
+  source: Quinlan et al. 2009
+  source_label: Quinlan et al. 2009
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TCF4.Quinlan.2009.7A-C.jpg
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_20.jpg
   location: null
-  source: Bonafede et al. 2006
-  source_label: Bonafede et al. 2006
+  source: Merchan et al. 2011
+  source_label: Merchan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TCF7L2.Merchan.2011.8.png
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_21.jpg
   location: Midbrain
-  source: Bonafede et al. 2006
-  source_label: Bonafede et al. 2006
+  source: Merchan et al. 2011
+  source_label: Merchan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TCF7L2.Merchan.2011.8k.png
 - caption: TCF7L2 expression
@@ -200,15 +200,15 @@ images:
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_24.jpg
   location: null
-  source: Bonafede et al. 2006
-  source_label: Bonafede et al. 2006
+  source: Ferran et al. 2012
+  source_label: Ferran et al. 2012
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.ALLIMAGES-2.jpg
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_25.jpg
   location: Diencephalon, Isthmus/MHB
-  source: Bonafede et al. 2006
-  source_label: Bonafede et al. 2006
+  source: Ferran et al. 2012
+  source_label: Ferran et al. 2012
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.F.TCF4.ST.HH17.jpg
 - caption: TCF7L2 expression
@@ -235,15 +235,15 @@ images:
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_29.jpg
   location: Diencephalon
-  source: Bonafede et al. 2006
-  source_label: Bonafede et al. 2006
+  source: Ferran et al. 2012
+  source_label: Ferran et al. 2012
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.Q.Ferran.2012.Tcf4.HH25.jpg
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_30.jpg
   location: Diencephalon
-  source: Bonafede et al. 2006
-  source_label: Bonafede et al. 2006
+  source: Ferran et al. 2012
+  source_label: Ferran et al. 2012
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.S.Ferran.2012.Tcf4.HH25.jpg
 - caption: TCF7L2 expression

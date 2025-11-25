@@ -156,22 +156,22 @@ images:
 - caption: XIRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/XIRP1/455912_19.jpg
   location: null
-  source: Wang et al. 1999
-  source_label: Wang et al. 1999
+  source: Wang et al. 1995
+  source_label: Wang et al. 1995
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wang.1995.fig7.allimages-2
 - caption: XIRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/XIRP1/455912_20.jpg
   location: Heart, Splanchnic Mesoderm
-  source: Wang et al. 1999
-  source_label: Wang et al. 1999
+  source: Wang et al. 1995
+  source_label: Wang et al. 1995
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wang.1995.fig7.jpg
 - caption: XIRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/XIRP1/455912_21.jpg
   location: Heart Tube
-  source: Wang et al. 1999
-  source_label: Wang et al. 1999
+  source: Wang et al. 1995
+  source_label: Wang et al. 1995
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wang.1995.fig7C-D.jpg
 - caption: XIRP1 expression

@@ -51,365 +51,365 @@ images:
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_4.jpg
   location: Neural Plate/Tube
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Albazerchi et al. 2007
+  source_label: Albazerchi et al. 2007
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Albazerchi.2007.Figure1D.jpg
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_5.jpg
   location: Neural Plate/Tube
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Albazerchi et al. 2007
+  source_label: Albazerchi et al. 2007
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Albazerchi.2007.Figure1H.jpg
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_6.jpg
   location: Forebrain, Neural Plate/Tube
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Albazerchi et al. 2007
+  source_label: Albazerchi et al. 2007
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Albazerchi.2007.Figure1L.jpg
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_7.jpg
   location: Forebrain, Neural Plate/Tube
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Albazerchi et al. 2007
+  source_label: Albazerchi et al. 2007
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Albazerchi.2007.Figure1P.jpg
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_8.jpg
   location: Forebrain, Hensen's Node, Neural Plate/Tube
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Albazerchi et al. 2007
+  source_label: Albazerchi et al. 2007
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Albazerchi.2007.Figure1T.jpg
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_9.jpg
   location: Forebrain, Neural Plate/Tube
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Albazerchi et al. 2007
+  source_label: Albazerchi et al. 2007
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Albazerchi.2007.Figure1X.jpg
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_10.jpg
   location: Leg Mesenchyme
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Rodriguez-guzman et al. 2007
+  source_label: Rodriguez-guzman et al. 2007
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26.Rodriguez-Guzman.2007.jpg
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_11.jpg
   location: null
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.1.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_12.jpg
   location: null
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.2.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_13.jpg
   location: null
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.5.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_14.jpg
   location: Epiblast
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.1C.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_15.jpg
   location: Epiblast
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.1G.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_16.jpg
   location: Early Mesoderm, Epiblast, Hensen's Node
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.1D.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_17.jpg
   location: Early Mesoderm, Epiblast
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.1E.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_18.jpg
   location: Epiblast, Neural Plate/Tube
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.1M.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_19.jpg
   location: Epiblast, Neural Plate/Tube
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.1N.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_20.jpg
   location: Epiblast, Neural Plate/Tube
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.1Q.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_21.jpg
   location: Neural Plate/Tube, Tail
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.1O.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_22.jpg
   location: Neural Plate/Tube, Tail
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.1R.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_23.jpg
   location: Neural Plate/Tube, Tail
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.2A.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_24.jpg
   location: Neural Plate/Tube, Tail
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.2B.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_25.jpg
   location: Neural Plate/Tube
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.2C.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_26.jpg
   location: Neural Plate/Tube
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.2D.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_27.jpg
   location: Neural Plate/Tube, Tail
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.2E.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_28.jpg
   location: Neural Plate/Tube
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.2P.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_29.jpg
   location: Splanchnic Mesoderm
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.2Q.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_30.jpg
   location: Neural Plate/Tube, Splanchnic Mesoderm
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.2R.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_31.jpg
   location: Neural Plate/Tube, Splanchnic Mesoderm
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.2S.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_32.jpg
   location: Early Endoderm, Endoderm, Lateral Plate Mesoderm, Spinal Cord, Tail
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.5D.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_33.jpg
   location: Leg Ectoderm, Wing Ectoderm
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.5F.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_34.jpg
   location: Endoderm, Lateral Plate Mesoderm, Lens, Pharyngeal Arches and Clefts
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.5H.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_35.jpg
   location: Lens
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Blentic et al. 2003
+  source_label: Blentic et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cyp26A1.Blentic.2003.5I.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_36.jpg
   location: Epiblast
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26A1.Bayha.2009.2B.1.jpg
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_37.jpg
   location: Epiblast
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26A1.Bayha.2009.2B.3.jpg
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_38.jpg
   location: null
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26A1.Bayha.2009.2B.jpg
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_39.jpg
   location: Endoderm
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26A1.Bayha.2009.2B.2.jpg
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_40.jpg
   location: Endoderm
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26A1.Bayha.2009.2B.4.jpg
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_41.jpg
   location: Tail
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Hh20 et al. 2010
+  source_label: Hh20 et al. 2010
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26A1.Tenin.HH20.2010.F4.cyp26a1.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_42.jpg
   location: Tail
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Hh21 et al. 2010
+  source_label: Hh21 et al. 2010
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26A1.Tenin.HH21.2010.F4.cyp26a1.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_43.jpg
   location: Tail
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Hh22 et al. 2010
+  source_label: Hh22 et al. 2010
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26A1.Tenin.HH22.2010.F4.cyp26a1.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_44.jpg
   location: Tail
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Hh23 et al. 2010
+  source_label: Hh23 et al. 2010
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26A1.Tenin.HH23.2010.F4.cyp26a1.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_45.jpg
   location: null
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Tenin et al. 2010
+  source_label: Tenin et al. 2010
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tenin.2010.F4.cyp26a1.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_46.jpg
   location: Hindbrain, Rhombomeres
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26A1.HH21.Wilson.2007.F6.cyp26a1.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_47.jpg
   location: Hindbrain
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26A1.HH26.Wilson.2007.F6.cyp26a1.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_48.jpg
   location: Hindbrain
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26A1.HH26.transverse.Wilson.2007.F6.cyp26a1.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_49.jpg
   location: Hindbrain
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26A1.HH26.transverse2.Wilson.2007.F6.cyp26a1.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_50.jpg
   location: Hindbrain
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26A1.HH26.ventral.Wilson.2007.F6.cyp26a1.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_51.jpg
   location: Hindbrain
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26A1.Wilson.2007.F9.cpy26a1.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_52.jpg
   location: null
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wilson.2007.F9.cpy26a1.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_53.jpg
   location: Hindbrain, Midbrain
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26A1.HH29.Wilson.2007.F6.cyp26a1.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_54.jpg
   location: Midbrain
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP26A1.HH34.Wilson.2007.F6.cyp26a1.png
 - caption: CYP26A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26A1/451982_55.jpg
   location: null
-  source: Reijntjes et al. 2004
-  source_label: Reijntjes et al. 2004
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wilson.2007.F6.cyp26a1.png
 - caption: CYP26A1 expression

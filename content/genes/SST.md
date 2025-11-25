@@ -68,22 +68,22 @@ images:
 - caption: SST expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SST/468364_6.jpg
   location: Proepicardium
-  source: Caqueret et al. 2005
-  source_label: Caqueret et al. 2005
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SST.Anderson.2019.Fig2K'-st12.jpg
 - caption: SST expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SST/468364_7.jpg
   location: Proepicardium
-  source: Caqueret et al. 2005
-  source_label: Caqueret et al. 2005
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SST.Anderson.2019.Fig2K-st12.jpg
 - caption: SST expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SST/468364_8.jpg
   location: null
-  source: Caqueret et al. 2005
-  source_label: Caqueret et al. 2005
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SST.Anderson.2019.Fig2.jpg
 name: somatostatin

@@ -58,16 +58,16 @@ images:
 - caption: EXFABP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EXFABP/461642_4.jpg
   location: Heart, Ventricles
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EXFABP.Anderson.2019.Supplementary
     figure 5D-st12.jpg
 - caption: EXFABP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EXFABP/461642_5.jpg
   location: null
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EXFABP.Anderson.2019.Supplementary
     figure 5D.jpg

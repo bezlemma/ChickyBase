@@ -134,64 +134,64 @@ images:
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_15.jpg
   location: Ear/Otic Placcode, Ectoderm
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Matsumata et al. 2005
+  source_label: Matsumata et al. 2005
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.FIG6C10.MATSUMATA.2005.jpg
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_16.jpg
   location: Ear/Otic Placcode, Ectoderm
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Matsumata et al. 2005
+  source_label: Matsumata et al. 2005
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.FIG6C11.MATSUMATA.2005.jpg
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_17.jpg
   location: null
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Matsumata et al. 2005
+  source_label: Matsumata et al. 2005
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2A.MATSUMATA.2005.jpg
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_18.jpg
   location: Central Nervous System, Ear/Otic Placcode, Lens, Sensory Organs
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Matsumata et al. 2005
+  source_label: Matsumata et al. 2005
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.FIG2A.MATSUMATA.2005.jpg
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_19.jpg
   location: Ectoderm, Lens
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Matsumata et al. 2005
+  source_label: Matsumata et al. 2005
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.FIG6A12.MATSUMATA.2005.jpg
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_20.jpg
   location: Ectoderm, Lens
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Matsumata et al. 2005
+  source_label: Matsumata et al. 2005
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.FIG6A13.MATSUMATA.2005.jpg
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_21.jpg
   location: Ectoderm, Nasal Placcode/Nerve
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Matsumata et al. 2005
+  source_label: Matsumata et al. 2005
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.FIGB13.MATSUMATA.2005.jpg
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_22.jpg
   location: null
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Matsumata et al. 2005
+  source_label: Matsumata et al. 2005
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG6.MATSUMATA.2005.jpg
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_23.jpg
   location: Ectoderm, Nasal Placcode/Nerve
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Matsumata et al. 2005
+  source_label: Matsumata et al. 2005
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.FIG6B14.MATSUMATA.2005.jpg
 - caption: SOX2 expression
@@ -330,15 +330,15 @@ images:
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_43.jpg
   location: Eye
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Hyer et al. 2003
+  source_label: Hyer et al. 2003
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.FIG2B.HYER.2003.jpg
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_44.jpg
   location: Eye, Lens
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Hyre et al. 2003
+  source_label: Hyre et al. 2003
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.FIG2C.HYRE.2003.jpg
 - caption: SOX2 expression
@@ -351,22 +351,22 @@ images:
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_46.jpg
   location: null
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1C.BASCH.2006.jpg
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_47.jpg
   location: Epiblast, Neural Plate/Tube
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.FIG1C.BASCH.2006.jpg
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_48.jpg
   location: Neural Plate/Tube, Notochord
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Huang et al. 2010
+  source_label: Huang et al. 2010
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox.Huang.2010.3.png
 - caption: SOX2 expression
@@ -407,8 +407,8 @@ images:
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_54.jpg
   location: Epiblast, Neural Plate/Tube
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Huang et al. 2010
+  source_label: Huang et al. 2010
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox.Huang.2010.3DHH4.png
 - caption: SOX2 expression
@@ -435,8 +435,8 @@ images:
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_58.jpg
   location: Epiblast, Neural Plate/Tube
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Huang et al. 2010
+  source_label: Huang et al. 2010
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox.Huang.2010.3DHH5.png
 - caption: SOX2 expression
@@ -540,32 +540,32 @@ images:
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_73.jpg
   location: Spinal Ganglia and Nerves
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Wakamatsu et al. 2000
+  source_label: Wakamatsu et al. 2000
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.Wakamatsu.2000.Fig.4
     sox2 st23.png
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_74.jpg
   location: null
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Wakamatsu et al. 2000
+  source_label: Wakamatsu et al. 2000
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.Wakamatsu.2000.Fig.4
     sox2 mag st30.png
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_75.jpg
   location: Spinal Ganglia and Nerves
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Wakamatsu et al. 2000
+  source_label: Wakamatsu et al. 2000
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.Wakamatsu.2000.Fig.4
     sox2 st30.png
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_76.jpg
   location: Spinal Ganglia and Nerves
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Wakamatsu et al. 2000
+  source_label: Wakamatsu et al. 2000
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.Wakamatsu.2000.Fig.4.png
 - caption: SOX2 expression
@@ -599,31 +599,31 @@ images:
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_81.jpg
   location: Neural Plate/Tube
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Psychoyos et al. 2008
+  source_label: Psychoyos et al. 2008
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.Psychoyos.2008.Fig.1
     sox2.png
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_82.jpg
   location: null
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Psychoyos et al. 2008
+  source_label: Psychoyos et al. 2008
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.Psychoyos.2008.Fig.1.png
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_83.jpg
   location: Ear/Otic Placode, Neural Plate/Tube
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Daudet et al. 2007
+  source_label: Daudet et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.Daudet.2007.Fig.4
     sox2.png
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_84.jpg
   location: null
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Daudet et al. 2007
+  source_label: Daudet et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.Daudet.2007.Fig.4.png
 - caption: SOX2 expression
@@ -636,8 +636,8 @@ images:
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_86.jpg
   location: null
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Reza et al. 2002
+  source_label: Reza et al. 2002
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox2.Reza.2002.4A-U.png
 - caption: SOX2 expression
@@ -832,36 +832,36 @@ images:
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_114.jpg
   location: null
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Christophorou et al. 2009
+  source_label: Christophorou et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Christophorou.2009.f1.sox2.png
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_115.jpg
   location: Neural Plate/Tube
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Christophorou et al. 2009
+  source_label: Christophorou et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.Christophorou.2009.f1.sox2.png
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_116.jpg
   location: null
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Acloque et al. 2008
+  source_label: Acloque et al. 2008
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Acloque.2008.f2.sox2.png
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_117.jpg
   location: Neural Plate/Tube
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Acloque et al. 2008
+  source_label: Acloque et al. 2008
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.Acloque.2008.f2.sox2.png
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_118.jpg
   location: null
-  source: Matsushita et al. 2002
-  source_label: Matsushita et al. 2002
+  source: Acloque et al. 2008
+  source_label: Acloque et al. 2008
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.HH9.Acloque.2008.f2.sox2.png
 - caption: SOX2 expression

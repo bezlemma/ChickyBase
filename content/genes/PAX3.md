@@ -104,92 +104,92 @@ images:
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_11.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Bothe et al. 2007
+  source_label: Bothe et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure4.Bothe.2007.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_12.jpg
   location: Neural Crest, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Bothe et al. 2007
+  source_label: Bothe et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Figure4F.Bothe.2007.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_13.jpg
   location: Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Bothe et al. 2007
+  source_label: Bothe et al. 2007
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Figure1A.Bothe.2007.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_14.jpg
   location: Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Bothe et al. 2007
+  source_label: Bothe et al. 2007
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Figure1B.Bothe.2007.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_15.jpg
   location: Dermomyotome, Myotome, Paraxial Mesoderm
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Bothe et al. 2007
+  source_label: Bothe et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Figure3A.Bothe.2007.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_16.jpg
   location: Dermomyotome, Myotome, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Bothe et al. 2007
+  source_label: Bothe et al. 2007
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2.Bothe.2007.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_17.jpg
   location: Dermomyotome, Myotome, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Bothe et al. 2007
+  source_label: Bothe et al. 2007
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Figure2B.Bothe.2007.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_18.jpg
   location: Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.FIG2C.LIN.2007.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_19.jpg
   location: Head Mesenchyme, Neural Plate/Tube, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.FIG2F.LIN.2007.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_20.jpg
   location: Dermatome, Myotome
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.FIG3C.LIN.2007.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_21.jpg
   location: Head Mesenchyme, Neural Plate/Tube, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.FIG2I.LIN.2007.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_22.jpg
   location: Wing Muscles
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.FIG3M.LIN.2007.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_23.jpg
   location: Myotome
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.FIG3P.LIN.2007.jpg
 - caption: PAX3 expression
@@ -223,8 +223,8 @@ images:
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_28.jpg
   location: Dermomyotome
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Cheng et al. 2004
+  source_label: Cheng et al. 2004
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure6E.Pax3.Cheng.2004.jpg
 - caption: PAX3 expression
@@ -342,15 +342,15 @@ images:
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_45.jpg
   location: Somites, Wing
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Gamer et al. 2001
+  source_label: Gamer et al. 2001
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.FIG6A.GAMER.2001.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_46.jpg
   location: Somites, Wing
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Gamer et al. 2001
+  source_label: Gamer et al. 2001
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.FIG6C.GAMER.2001.jpg
 - caption: PAX3 expression
@@ -377,50 +377,50 @@ images:
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_50.jpg
   location: Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Huang et al. 2003
+  source_label: Huang et al. 2003
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.FIG5E.HUANG.2003.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_51.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Taney et al. 2005
+  source_label: Taney et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG7.TANEY.2005.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_52.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Taney et al. 2005
+  source_label: Taney et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.FIG7I.TANEY.2005.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_53.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Taney et al. 2005
+  source_label: Taney et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.FIG7J.TANEY.2005.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_54.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Taney et al. 2005
+  source_label: Taney et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.FIG7M.TANEY.2005.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_55.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1B.BASCH.2006.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_56.jpg
   location: Early Embryo, Neural Plate/Tube, Primitive Streak
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.FIG1B.BASCH.2006.jpg
 - caption: PAX3 expression
@@ -457,8 +457,8 @@ images:
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_61.jpg
   location: Midbrain
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Sanders et al. 2002
+  source_label: Sanders et al. 2002
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Sanders.2002.st26.png
 - caption: PAX3 expression
@@ -536,156 +536,156 @@ images:
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_71.jpg
   location: Midbrain
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Merchan et al. 2011
+  source_label: Merchan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Merchan.2011.Fig.2
     pax3 chick26.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_72.jpg
   location: Midbrain
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Merchan et al. 2011
+  source_label: Merchan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Merchan.2011.Fig.2
     pax3 q26.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_73.jpg
   location: Midbrain
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Merchan et al. 2011
+  source_label: Merchan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Merchan.2011.Fig.2
     pax3 quail26.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_74.jpg
   location: Midbrain
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Merchan et al. 2011
+  source_label: Merchan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Merchan.2011.Fig.2
     pax3 st26.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_75.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Merchan et al. 2011
+  source_label: Merchan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Merchan.2011.Fig.2.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_76.jpg
   location: Midbrain
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Merchan et al. 2011
+  source_label: Merchan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Merchan.2011.Fig.3
     pax3 chick26.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_77.jpg
   location: Midbrain
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Merchan et al. 2011
+  source_label: Merchan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Merchan.2011.Fig.3
     pax3 st26.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_78.jpg
   location: Midbrain
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Merchan et al. 2011
+  source_label: Merchan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Merchan.2011.Fig.8
     pax3 quail.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_79.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Merchan et al. 2011
+  source_label: Merchan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Merchan.2011.Fig.8.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_80.jpg
   location: Midbrain
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Merchan et al. 2011
+  source_label: Merchan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Merchan.2011.Fig.5
     pax3 chick.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_81.jpg
   location: Midbrain
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Merchan et al. 2011
+  source_label: Merchan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Merchan.2011.Fig.5
     pax3 quail.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_82.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Merchan et al. 2011
+  source_label: Merchan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Merchan.2011.Fig.5.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_83.jpg
   location: Midbrain
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Merchan et al. 2011
+  source_label: Merchan et al. 2011
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Merchan.2011.Fig.3
     pax3 q27.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_84.jpg
   location: Midbrain
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Merchan et al. 2011
+  source_label: Merchan et al. 2011
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Merchan.2011.Fig.3
     pax3 quail27.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_85.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Merchan et al. 2011
+  source_label: Merchan et al. 2011
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Merchan.2011.Fig.3.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_86.jpg
   location: Paraxial Mesoderm, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Canning et al. 2008
+  source_label: Canning et al. 2008
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Canning.2008.Fig.1
     pax3 st8.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_87.jpg
   location: Neural Plate/Tube, Paraxial Mesoderm, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Canning et al. 2008
+  source_label: Canning et al. 2008
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Canning.2008.Fig.1
     pax3 st9.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_88.jpg
   location: Neural Plate/Tube, Paraxial Mesoderm, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Canning et al. 2008
+  source_label: Canning et al. 2008
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Canning.2008.Fig.1
     pax3 st10.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_89.jpg
   location: Neural Plate/Tube, Placode, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Canning et al. 2008
+  source_label: Canning et al. 2008
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Canning.2008.Fig.1
     pax3 st12.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_90.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Canning et al. 2008
+  source_label: Canning et al. 2008
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Canning.2008.Fig.1.png
 - caption: PAX3 expression
@@ -712,60 +712,60 @@ images:
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_94.jpg
   location: Midbrain
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Bobak et al. 2009
+  source_label: Bobak et al. 2009
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Bobak.2009.Fig.1
     pax3.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_95.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Bobak et al. 2009
+  source_label: Bobak et al. 2009
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Bobak.2009.Fig.1.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_96.jpg
   location: Myotome
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Davey et al. 2006
+  source_label: Davey et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Davey.2006.Fig.3
     pax3.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_97.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Davey et al. 2006
+  source_label: Davey et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.Davey.2006.Fig.3.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_98.jpg
   location: Placode
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Mccabe et al. 2011
+  source_label: Mccabe et al. 2011
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.McCabe.2011.Fig.1
     pax3.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_99.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Mccabe et al. 2011
+  source_label: Mccabe et al. 2011
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.McCabe.2011.Fig.1.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_100.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Alvarez et al. 2003
+  source_label: Alvarez et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Alvarez.2003.f1.pax3.png
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_101.jpg
   location: Central Nervous System, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Alvarez et al. 2003
+  source_label: Alvarez et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX3.a.Alvarez.2003.f1.pax3.png
 - caption: PAX3 expression
@@ -862,15 +862,15 @@ images:
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_115.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Lin.2012.Fig1.ALLIMAGES-2.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_116.jpg
   location: Myotome, Neural Plate/Tube, Spinal Ganglia and Nerves
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Lin.2012.Fig1.B.PAX3.St30.jpg
 - caption: PAX3 expression
@@ -932,8 +932,8 @@ images:
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_125.jpg
   location: Forebrain
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Ferran et al. 2012
+  source_label: Ferran et al. 2012
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.IJ.Ferran.2012.PAX3.HH25.jpg
 - caption: PAX3 expression
@@ -976,416 +976,416 @@ images:
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_131.jpg
   location: Neural Plate/Tube, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Cauthen et al. 2001
+  source_label: Cauthen et al. 2001
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Cauthen.2001.Fig1M-st10.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_132.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Cauthen et al. 2001
+  source_label: Cauthen et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Cauthen.2001.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_133.jpg
   location: Neural Plate/Tube, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Rallis et al. 2001
+  source_label: Rallis et al. 2001
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Rallis.2001.Fig2b-st16.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_134.jpg
   location: Neural Plate/Tube, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Rallis et al. 2001
+  source_label: Rallis et al. 2001
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Rallis.2001.Fig2e-st16.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_135.jpg
   location: Dermomyotome, Neural Plate/Tube
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Rallis et al. 2001
+  source_label: Rallis et al. 2001
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Rallis.2001.Fig2h-st16.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_136.jpg
   location: Dermomyotome, Neural Plate/Tube
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Rallis et al. 2001
+  source_label: Rallis et al. 2001
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Rallis.2001.Fig2k-st16.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_137.jpg
   location: Limb Buds
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Rallis et al. 2001
+  source_label: Rallis et al. 2001
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Rallis.2001.Fig3b-st21.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_138.jpg
   location: Limb Buds
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Rallis et al. 2001
+  source_label: Rallis et al. 2001
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Rallis.2001.Fig3j-st26.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_139.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Rallis et al. 2001
+  source_label: Rallis et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Rallis.2001.Fig2.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_140.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Rallis et al. 2001
+  source_label: Rallis et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Rallis.2001.Fig3.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_141.jpg
   location: Neural Plate/Tube, Somites, Wing
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Delfini.2000.Fig1E-st18.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_142.jpg
   location: Limb Buds, Neural Plate/Tube
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Delfini.2000.Fig3E-st20.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_143.jpg
   location: Limb Buds
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Delfini.2000.Fig3F-st20.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_144.jpg
   location: Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Delfini.2000.Fig2B-st21.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_145.jpg
   location: Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Delfini.2000.Fig2C-st21.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_146.jpg
   location: Wing
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Delfini.2000.Fig2D-st21.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_147.jpg
   location: Wing
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Delfini.2000.Fig2E-st21.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_148.jpg
   location: Limb Buds
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Delfini.2000.Fig3G-st24.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_149.jpg
   location: Limb Buds
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Delfini.2000.Fig3H-st24.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_150.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Delfini.2000.Fig1.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_151.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Delfini.2000.Fig2.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_152.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Delfini.2000.Fig3.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_153.jpg
   location: Neural Plate/Tube, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Goulding et al. 1994
+  source_label: Goulding et al. 1994
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Goulding.1994.Fig1B-st13.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_154.jpg
   location: Dermomyotome, Neural Plate/Tube, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Goulding et al. 1994
+  source_label: Goulding et al. 1994
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Goulding.1994.Fig1C-st13.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_155.jpg
   location: Dermomyotome, Myotome, Neural Plate/Tube, Sclerotome
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Goulding et al. 1994
+  source_label: Goulding et al. 1994
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Goulding.1994.Fig1D-st13.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_156.jpg
   location: Neural Plate/Tube, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Goulding et al. 1994
+  source_label: Goulding et al. 1994
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Goulding.1994.Fig1A-st15.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_157.jpg
   location: Dermomyotome, Ear/Otic Placode, Hindbrain, Sclerotome, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Goulding et al. 1994
+  source_label: Goulding et al. 1994
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Goulding.1994.Fig2A-st18.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_158.jpg
   location: Dermomyotome, Neural Plate/Tube, Sclerotome, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Goulding et al. 1994
+  source_label: Goulding et al. 1994
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Goulding.1994.Fig2C-st18.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_159.jpg
   location: Leg Muscles, Somites, Spinal Cord
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Goulding et al. 1994
+  source_label: Goulding et al. 1994
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Goulding.1994.Fig7A-st19.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_160.jpg
   location: Leg Muscles, Limb Buds, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Goulding et al. 1994
+  source_label: Goulding et al. 1994
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Goulding.1994.Fig7B-st22.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_161.jpg
   location: Limb Buds, Spinal Cord
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Goulding et al. 1994
+  source_label: Goulding et al. 1994
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Goulding.1994.Fig7C-st22.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_162.jpg
   location: Leg Bones, Leg Muscles, Notochord, Vertebrae
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Goulding et al. 1994
+  source_label: Goulding et al. 1994
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Goulding.1994.Fig7E-st25.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_163.jpg
   location: Leg Bones, Leg Muscles
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Goulding et al. 1994
+  source_label: Goulding et al. 1994
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Goulding.1994.Fig7F-st25.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_164.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Goulding et al. 1994
+  source_label: Goulding et al. 1994
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Goulding.1994.Fig1.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_165.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Goulding et al. 1994
+  source_label: Goulding et al. 1994
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Goulding.1994.Fig2.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_166.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Goulding et al. 1994
+  source_label: Goulding et al. 1994
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Goulding.1994.Fig7.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_167.jpg
   location: Leg, Neural Plate/Tube
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Nelson.1996.Fig3A-st23.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_168.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-3.Nelson.1996.Fig3.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_169.jpg
   location: Unlabeled
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Otto.2006.Fig3A-st5.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_170.jpg
   location: Neural Plate/Tube, Somites, Tail
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Otto.2006.Fig3B-st8.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_171.jpg
   location: Head Mesenchyme, Neural Plate/Tube, Somites, Tail
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Otto.2006.Fig3C-st9.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_172.jpg
   location: Neural Plate/Tube, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Otto.2006.Fig3K-st9.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_173.jpg
   location: Head Mesenchyme, Neural Plate/Tube, Somites, Tail
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Otto.2006.Fig3D-st10.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_174.jpg
   location: Head Mesenchyme, Somites, Tail
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Otto.2006.Fig3E-st12.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_175.jpg
   location: Cranial PNS, Hindbrain, Midbrain, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Otto.2006.Fig3F-st16.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_176.jpg
   location: Hindbrain, Limb Buds, Midbrain, Nasal Placode/Nerve, Neural Plate/Tube,
     Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Otto.2006.Fig3G-st18.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_177.jpg
   location: Neural Plate/Tube, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Otto.2006.Fig3L-st18.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_178.jpg
   location: Cranial PNS, Hindbrain, Limb Buds, Midbrain, Somites
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Otto.2006.Fig3H-st23.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_179.jpg
   location: Dermomyotome, Limb Buds, Neural Plate/Tube, Spinal Ganglia and Nerves
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Otto.2006.Fig3M-st23.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_180.jpg
   location: Hindbrain, Limb Buds, Midbrain, Somites, Tail
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Otto.2006.Fig3I-st26.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_181.jpg
   location: Dermomyotome, Hypaxial Muscles, Limb Buds, Spinal Ganglia and Nerves
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Otto.2006.Fig3N-st26.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_182.jpg
   location: Heart, Leg Muscles, Limb Buds, Wing Muscles
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Otto.2006.Fig3J-st29.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_183.jpg
   location: Leg, Leg Muscles
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Otto.2006.Fig3O-st29.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_184.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax3.Otto.2006.Fig3.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_185.jpg
   location: Neural Plate/Tube
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Liem et al. 1995
+  source_label: Liem et al. 1995
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liem.1995_Fig1_PAX3_A
     copy.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_186.jpg
   location: Neural Plate/Tube
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Liem et al. 1995
+  source_label: Liem et al. 1995
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liem.1995_Fig1_PAX3_B.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_187.jpg
   location: Neural Plate/Tube
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Liem et al. 1995
+  source_label: Liem et al. 1995
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liem.1995_Fig1_PAX3_C.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_188.jpg
   location: Neural Plate/Tube, Paraxial Mesoderm
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Liem et al. 1995
+  source_label: Liem et al. 1995
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liem.1995_Fig1_PAX3_D.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_189.jpg
   location: null
-  source: Jensen et al. 2005
-  source_label: Jensen et al. 2005
+  source: Liem et al. 1995
+  source_label: Liem et al. 1995
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liem.1995_Fig1_ALLIMAGES.jpg
 name: paired box 3

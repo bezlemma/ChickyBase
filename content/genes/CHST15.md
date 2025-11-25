@@ -70,29 +70,29 @@ images:
 - caption: CHST15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHST15/452730_7.jpg
   location: Somites
-  source: Kimura et al. 2011
-  source_label: Kimura et al. 2011
+  source: Roy et al. 2013
+  source_label: Roy et al. 2013
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CHST15.Roy.2013.SupF3.png
 - caption: CHST15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHST15/452730_8.jpg
   location: null
-  source: Kimura et al. 2011
-  source_label: Kimura et al. 2011
+  source: Roy et al. 2013
+  source_label: Roy et al. 2013
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.SupF3.png
 - caption: CHST15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHST15/452730_9.jpg
   location: Wing
-  source: Kimura et al. 2011
-  source_label: Kimura et al. 2011
+  source: Roy et al. 2013
+  source_label: Roy et al. 2013
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CHST15.Roy.2013.Fig1.png
 - caption: CHST15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHST15/452730_10.jpg
   location: null
-  source: Kimura et al. 2011
-  source_label: Kimura et al. 2011
+  source: Roy et al. 2013
+  source_label: Roy et al. 2013
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roy.2013.Fig1.png
 name: carbohydrate sulfotransferase 15

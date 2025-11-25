@@ -80,29 +80,29 @@ images:
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_8.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Bothe et al. 2007
+  source_label: Bothe et al. 2007
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2.Bothe.2007.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_9.jpg
   location: Myotome, Somites
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Bothe et al. 2007
+  source_label: Bothe et al. 2007
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Figure2C.Bothe.2007.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_10.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG7G.AGLYA.2007.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_11.jpg
   location: Midbrain
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Agarwala et al. 2005
+  source_label: Agarwala et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG6C.AGARWALA.2005.jpg
 - caption: PAX7 expression
@@ -129,106 +129,106 @@ images:
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_15.jpg
   location: Neural Plate/Tube
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG1J.KHUD.2009.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_16.jpg
   location: Neural Plate/Tube
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG1S.KHUD.2009.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_17.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.KHUD.2009.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_18.jpg
   location: Neural Plate/Tube
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG1BB.KHUD.2009.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_19.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG2A.KHUD.2009.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_20.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG2K.KHUD.2009.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_21.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.KHUD.2009.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_22.jpg
   location: Neural Crest, Neural Plate/Tube, Somites
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG2U.KHUD.2009.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_23.jpg
   location: Area Pellucida, Neural Plate/Tube, Primitive Streak
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.DLX5.FIG1C4.BASCH.2006.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_24.jpg
   location: Area Pellucida, Neural Plate/Tube
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG1A4.BASCH.2006.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_25.jpg
   location: Early Embryo, Neural Plate/Tube, Primitive Streak
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.GATA2.FIG1C4.BASCH.2006.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_26.jpg
   location: Early Embryo, Hensen's Node, Neural Plate/Tube, Primitive Streak
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.BMP4.FIG1C.BASCH.2006.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_27.jpg
   location: Early Embryo, Hensen's Node, Neural Plate/Tube, Primitive Streak
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.DLX5.FIG1C5.BASCH.2006.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_28.jpg
   location: Early Embryo, Hensen's Node, Neural Plate/Tube, Primitive Streak
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG1A5.BASCH.2006.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_29.jpg
   location: Early Embryo, Neural Plate/Tube
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.GATA2.FIG1C5.BASCH.2006.jpg
 - caption: PAX7 expression
@@ -241,57 +241,57 @@ images:
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_31.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1C.BASCH.2006.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_32.jpg
   location: Ectoderm, Neural Plate/Tube
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG1A6.BASCH.2006.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_33.jpg
   location: Ectoderm, Neural Plate/Tube
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.MSX1.2.FIG1C.BASCH.2006.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_34.jpg
   location: Ectoderm, Neural Plate/Tube
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.PAX3.FIG1B.BASCH.2006.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_35.jpg
   location: Ectoderm, Neural Plate/Tube
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.SOX2.FIG1C.BASCH.2006.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_36.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1B.BASCH.2006.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_37.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1A.BASCH.2006.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_38.jpg
   location: Ectoderm, Neural Crest, Somites
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG1A8.BASCH.2006.jpg
 - caption: PAX7 expression
@@ -313,53 +313,53 @@ images:
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_41.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Szaborogers et al. 2009
+  source_label: Szaborogers et al. 2009
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.SzaboRogers.2009.Fig.3
     pax7 nasal extirpation.png
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_42.jpg
   location: Nasal Placode/Nerve
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Saborogers et al. 2009
+  source_label: Saborogers et al. 2009
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.c.saborogers.2009.f3.png
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_43.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Szaborogers et al. 2009
+  source_label: Szaborogers et al. 2009
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.SzaboRogers.2009.Fig.3
     pax7 foilbarriers1.png
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_44.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Szaborogers et al. 2009
+  source_label: Szaborogers et al. 2009
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.SzaboRogers.2009.Fig.3
     pax7 foilbarriers2.png
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_45.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Szaborogers et al. 2009
+  source_label: Szaborogers et al. 2009
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.SzaboRogers.2009.Fig.3.png
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_46.jpg
   location: Nasal Placode/Nerve
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Saborogers et al. 2009
+  source_label: Saborogers et al. 2009
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.d.saborogers.2009.f3.png
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_47.jpg
   location: Nasal Placode/Nerve
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Saborogers et al. 2009
+  source_label: Saborogers et al. 2009
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.e.saborogers.2009.f3.png
 - caption: PAX7 expression
@@ -428,8 +428,8 @@ images:
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_57.jpg
   location: Diencephalon
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Ohyama et al. 2008
+  source_label: Ohyama et al. 2008
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.Ohyama.2008.Fig.1
     pax7 st9.png
@@ -452,31 +452,31 @@ images:
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_60.jpg
   location: Midbrain
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Bobak et al. 2009
+  source_label: Bobak et al. 2009
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.Bobak.2009.Fig.1
     pax7.png
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_61.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Bobak et al. 2009
+  source_label: Bobak et al. 2009
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.Bobak.2009.Fig.1.png
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_62.jpg
   location: Neural Crest, Spinal Cord, Spinal Ganglia and Nerves
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Davey et al. 2006
+  source_label: Davey et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.Davey.2006.Fig.2
     pax7.png
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_63.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Davey et al. 2006
+  source_label: Davey et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.Davey.2006.Fig.2.png
 - caption: PAX7 expression
@@ -496,8 +496,8 @@ images:
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_66.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Ferran et al. 2012
+  source_label: Ferran et al. 2012
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.ALLIMAGES-6.jpg
 - caption: PAX7 expression
@@ -538,64 +538,64 @@ images:
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_72.jpg
   location: Diencephalon
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Ferran et al. 2012
+  source_label: Ferran et al. 2012
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.I.Ferran.2012.PAX7.HH25.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_73.jpg
   location: Forebrain, Midbrain
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Ferran et al. 2012
+  source_label: Ferran et al. 2012
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.H.Ferran.2012.PAX3PAx7.HH26.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_74.jpg
   location: Neural Crest
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Listiou et al. 2005
+  source_label: Listiou et al. 2005
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.HH6.Listiou.2005.f5.pax7.png
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_75.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Litsiou et al. 2005
+  source_label: Litsiou et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Litsiou.2005.f3.pax7.png
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_76.jpg
   location: Neural Crest
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Litsiou et al. 2005
+  source_label: Litsiou et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.Litsiou.2005.f3.pax7.png
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_77.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Listiou et al. 2005
+  source_label: Listiou et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Listiou.2005.f5.pax7.png
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_78.jpg
   location: Neural Crest
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Listiou et al. 2005
+  source_label: Listiou et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.HH8.Listiou.2005.f5.pax7.png
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_79.jpg
   location: Leg Mesenchyme
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.6.B_PAX72_st26_Yamamoto-Shiraishi.2013.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_80.jpg
   location: Leg
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Yamamoto-shiraishi et al. 2013
+  source_label: Yamamoto-shiraishi et al. 2013
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.5.A_PAX7_st30_Yamamoto-Shiraishi.2013.jpg
 - caption: PAX7 expression
@@ -616,162 +616,162 @@ images:
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_83.jpg
   location: Dermomyotome, Sclerotome
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Goulding et al. 1994
+  source_label: Goulding et al. 1994
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-7.Goulding.1994.Fig2B-st18.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_84.jpg
   location: Dermomyotome, Neural Plate/Tube
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Goulding et al. 1994
+  source_label: Goulding et al. 1994
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-7.Goulding.1994.Fig2D-st18.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_85.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Goulding et al. 1994
+  source_label: Goulding et al. 1994
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-7.Goulding.1994.Fig2.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_86.jpg
   location: Unlabeled
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig1A-st4.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_87.jpg
   location: Ectoderm, Neural Plate/Tube
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig1B-st5.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_88.jpg
   location: Headfold, Neural Plate/Tube, Primitive Streak
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig1C-st6.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_89.jpg
   location: Neural Plate/Tube
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig1L-st6.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_90.jpg
   location: Cranial PNS, Neural Plate/Tube, Somites
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig1D-st8.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_91.jpg
   location: Cranial PNS, Neural Plate/Tube, Somites
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig1M-st8.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_92.jpg
   location: Neural Crest, Neural Plate/Tube, Somites
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig1E-st10.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_93.jpg
   location: Neural Plate/Tube, Somites
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig1F-st12.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_94.jpg
   location: Central Nervous System, Neural Plate/Tube, Somites
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig1G-st16.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_95.jpg
   location: Limb Buds, Neural Plate/Tube, Somites
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig1H-st18.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_96.jpg
   location: Dermomyotome, Limb Buds, Neural Plate/Tube, Notochord
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig2C-st20.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_97.jpg
   location: Dermomyotome, Limb Buds
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig2D-st20.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_98.jpg
   location: Limb Buds, Neural Plate/Tube, Somites
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig1I-st23.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_99.jpg
   location: Limb Buds, Neural Plate/Tube, Somites
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig1N-st23.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_100.jpg
   location: Limb Buds, Somites
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig1J-st26.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_101.jpg
   location: Leg Muscles, Wing Muscles
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig1O-st26.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_102.jpg
   location: Limb Buds, Neural Plate/Tube, Somites
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig1K-st30.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_103.jpg
   location: Wing, Wing Muscles
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig1P-st30.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_104.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig1.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_105.jpg
   location: null
-  source: Amthor et al. 2006
-  source_label: Amthor et al. 2006
+  source: Otto et al. 2006
+  source_label: Otto et al. 2006
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.Otto.2006.Fig2.jpg
 name: paired box 7

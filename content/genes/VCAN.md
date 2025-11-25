@@ -42,43 +42,43 @@ images:
 - caption: VCAN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VCAN/449531_2.jpg
   location: Limb Buds
-  source: Hudson et al. 2010
-  source_label: Hudson et al. 2010
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VCAN.Singh.2016.Fig1F'-st28.jpg
 - caption: VCAN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VCAN/449531_3.jpg
   location: Limb Buds
-  source: Hudson et al. 2010
-  source_label: Hudson et al. 2010
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VCAN.Singh.2016.Fig1G'-st31.jpg
 - caption: VCAN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VCAN/449531_4.jpg
   location: Limb Buds
-  source: Hudson et al. 2010
-  source_label: Hudson et al. 2010
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VCAN.Singh.2016.Fig1H'-st34.jpg
 - caption: VCAN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VCAN/449531_5.jpg
   location: Limb Buds
-  source: Hudson et al. 2010
-  source_label: Hudson et al. 2010
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VCAN.Singh.2016.Fig1I'-st36.jpg
 - caption: VCAN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VCAN/449531_6.jpg
   location: Limb Buds
-  source: Hudson et al. 2010
-  source_label: Hudson et al. 2010
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VCAN.Singh.2016.Fig1J'-st38.jpg
 - caption: VCAN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VCAN/449531_7.jpg
   location: null
-  source: Hudson et al. 2010
-  source_label: Hudson et al. 2010
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VCAN.Singh.2016.Fig1.jpg
 name: versican

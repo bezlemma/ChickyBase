@@ -39,15 +39,15 @@ images:
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_2.jpg
   location: null
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.Lin.2012.ALLIMAGES-2.jpg
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_3.jpg
   location: null
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.ALLIMAGES.jpg
 - caption: GAPDH expression
@@ -109,120 +109,120 @@ images:
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_12.jpg
   location: Widespread Expression
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.Lin.2012.A.GAPDH
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_13.jpg
   location: Central Nervous System, Spinal Ganglia and Nerves
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.Lin.2012.C.GAPDH.E8.jpg
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_14.jpg
   location: Central Nervous System, Spinal Ganglia and Nerves
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.Lin.2012.D.GAPDH.E8.jpg
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_15.jpg
   location: Central Nervous System
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.Lin.2012.G.GAPDH.E8.jpg
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_16.jpg
   location: Heart
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.K.GAPDH.E8.jpg
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_17.jpg
   location: Lung
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.M.GAPDH.E8.jpg
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_18.jpg
   location: Liver
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.Q.GAPDH.E8.jpg
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_19.jpg
   location: Gizzard
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.U.GAPDH.E8.jpg
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_20.jpg
   location: Heart
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.a.GAPDH.E8.jpg
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_21.jpg
   location: Dermis
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.a1.GAPDH.E8.jpg
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_22.jpg
   location: Blood Vessels, Heart
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.i.GAPDH.E8.jpg
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_23.jpg
   location: Renal
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.s.GAPDH.E8.jpg
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_24.jpg
   location: Gut
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.w.GAPDH.E8.jpg
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_25.jpg
   location: Feathers/Scutae
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.y.GAPDH.E8.jpg
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_26.jpg
   location: Feathers/Scutae
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.c1.GAPDH.E10-1.jpg
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_27.jpg
   location: Heart
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Lin.2012.e.GAPDH.E10.jpg
 - caption: GAPDH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAPDH/455059_28.jpg
   location: Central Nervous System
-  source: Publication
-  source_label: Publication
+  source: Lin et al. 2012
+  source_label: Lin et al. 2012
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig2.Lin.2012.i.GAPDH.E14.jpg
 name: glyceraldehyde-3-phosphate dehydrogenase

@@ -46,16 +46,16 @@ images:
 - caption: RAI14 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RAI14/455824_4.jpg
   location: Heart
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RAI14.Anderson.2019.Supplementary
     figure 5O-st12.jpg
 - caption: RAI14 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RAI14/455824_5.jpg
   location: null
-  source: Bandyopadhyay et al. 2008
-  source_label: Bandyopadhyay et al. 2008
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RAI14.Anderson.2019.Supplementary
     figure 5O.jpg

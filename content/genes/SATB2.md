@@ -135,16 +135,16 @@ images:
 - caption: SATB2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SATB2/462699_16.jpg
   location: Face Mesenchyme, Pharyngeal Arches and Clefts
-  source: Sheehan-Rooney et al. 2010
-  source_label: Sheehan-Rooney et al. 2010
+  source: Brugmann et al. 2010
+  source_label: Brugmann et al. 2010
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SATB2.Brugmann.2010.Fig.3
     satb2.png
 - caption: SATB2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SATB2/462699_17.jpg
   location: null
-  source: Sheehan-Rooney et al. 2010
-  source_label: Sheehan-Rooney et al. 2010
+  source: Brugmann et al. 2010
+  source_label: Brugmann et al. 2010
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SATB2.Brugmann.2010.Fig.3.png
 name: SATB homeobox 2

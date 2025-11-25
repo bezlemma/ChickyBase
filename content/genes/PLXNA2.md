@@ -37,91 +37,91 @@ images:
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_2.jpg
   location: Spinal Cord
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PELXINA2.Mauti.2006.FIg.2
     plexina2.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_3.jpg
   location: null
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PELXINA2.Mauti.2006.FIg.2.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_4.jpg
   location: Dermomyotome, Sclerotome, Spinal Cord, Spinal Ganglia and Nerves
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Mauti.2006.Fig.4
     plexina2.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_5.jpg
   location: null
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Mauti.2006.Fig.4.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_6.jpg
   location: Spinal Cord
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Mauti.2006.Fig.5
     plexina2.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_7.jpg
   location: null
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Mauti.2006.Fig.5.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_8.jpg
   location: Dermomyotome, Sclerotome, Spinal Cord, Spinal Ganglia and Nerves
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Mauti.2006.Fig.6
     plexina2.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_9.jpg
   location: null
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Mauti.2006.Fig.6.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_10.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Mauti.2006.Fig.7
     plexina2.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_11.jpg
   location: null
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Mauti.2006.Fig.7.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_12.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Mauti.2006.Fig.8
     plexina2.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_13.jpg
   location: null
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Mauti.2006.Fig.8.png
 - caption: PLXNA2 expression
@@ -142,69 +142,69 @@ images:
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_16.jpg
   location: Blood Islands, Lateral Plate Mesoderm
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Herzog et al. 2005
+  source_label: Herzog et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Herzog.2005.Fig.1
     pelxin.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_17.jpg
   location: null
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Herzog et al. 2005
+  source_label: Herzog et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Herzog.2005.Fig.1.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_18.jpg
   location: Central Nervous System, Lateral Plate Mesoderm, Somites
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Herzog et al. 2005
+  source_label: Herzog et al. 2005
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Herzog.2005.Fig.3
     plexina2.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_19.jpg
   location: null
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Herzog et al. 2005
+  source_label: Herzog et al. 2005
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Herzog.2005.Fig.3.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_20.jpg
   location: Aorta, Cardinal Veins
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Herzog et al. 2005
+  source_label: Herzog et al. 2005
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Herzog.2005.Fig.4
     plexina2 transverse.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_21.jpg
   location: Extraembryonic Blood Vessels, Veins, Widespread Expression
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Herzog et al. 2005
+  source_label: Herzog et al. 2005
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Herzog.2005.Fig.4
     plexina2.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_22.jpg
   location: null
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Herzog et al. 2005
+  source_label: Herzog et al. 2005
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Herzog.2005.Fig.4.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_23.jpg
   location: Tail, Widespread Expression
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Herzog et al. 2005
+  source_label: Herzog et al. 2005
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Herzog.2005.Fig.5
     plexina2.png
 - caption: PLXNA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA2/452651_24.jpg
   location: null
-  source: Alev et al. 2010
-  source_label: Alev et al. 2010
+  source: Herzog et al. 2005
+  source_label: Herzog et al. 2005
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA2.Herzog.2005.Fig.5.png
 - caption: PLXNA2 expression

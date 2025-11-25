@@ -22,85 +22,85 @@ images:
 - caption: MAFG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFG/460821_0.jpg
   location: null
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1G.LECOIN.2003.jpg
 - caption: MAFG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFG/460821_1.jpg
   location: Unlabeled
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFG.FIG1IJ.LECOIN.2003.jpg
 - caption: MAFG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFG/460821_2.jpg
   location: null
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3G.LECOIN.2003.jpg
 - caption: MAFG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFG/460821_3.jpg
   location: Neural Plate/Tube, Surface Ectoderm
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFG.FIG3KL.LECOIN.2003.jpg
 - caption: MAFG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFG/460821_4.jpg
   location: Lateral Plate Mesoderm
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFG.FIG7IJ.LECOIN.2003.jpg
 - caption: MAFG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFG/460821_5.jpg
   location: null
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG7G.LECOIN.2003.jpg
 - caption: MAFG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFG/460821_6.jpg
   location: null
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG5G.LECOIN.2003.jpg
 - caption: MAFG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFG/460821_7.jpg
   location: Somites
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFG.FIG5JK.LECOIN.2003.jpg
 - caption: MAFG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFG/460821_8.jpg
   location: null
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG9G.LECOIN.2003.jpg
 - caption: MAFG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFG/460821_9.jpg
   location: Leg Mesenchyme
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFG.FIG8T.LECOIN.2003.jpg
 - caption: MAFG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFG/460821_10.jpg
   location: Midgut
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFG.FIG9J.LECOIN.2003.jpg
 - caption: MAFG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFG/460821_11.jpg
   location: null
-  source: Lecoin et al. 2004
-  source_label: Lecoin et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG8G.LECOIN.2003.jpg
 name: MAF bZIP transcription factor G

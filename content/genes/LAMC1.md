@@ -58,29 +58,29 @@ images:
 - caption: LAMC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LAMC1/450217_5.jpg
   location: null
-  source: Zagris et al. 2005
-  source_label: Zagris et al. 2005
+  source: Halfter et al. 2008
+  source_label: Halfter et al. 2008
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Halfter.2008.f2.lamininy1.png
 - caption: LAMC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LAMC1/450217_6.jpg
   location: Eye, Lens
-  source: Zagris et al. 2005
-  source_label: Zagris et al. 2005
+  source: Halfter et al. 2008
+  source_label: Halfter et al. 2008
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LAMININy1.Halfter.2008.f2.lamininy1.png
 - caption: LAMC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LAMC1/450217_7.jpg
   location: null
-  source: Zagris et al. 2005
-  source_label: Zagris et al. 2005
+  source: Halfter et al. 2008
+  source_label: Halfter et al. 2008
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Halfter.2008.f1.lamininy1.png
 - caption: LAMC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LAMC1/450217_8.jpg
   location: null
-  source: Zagris et al. 2005
-  source_label: Zagris et al. 2005
+  source: Halfter et al. 2008
+  source_label: Halfter et al. 2008
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LAMININy1.Halfter.2008.f1.lamininy1.png
 name: laminin subunit gamma 1

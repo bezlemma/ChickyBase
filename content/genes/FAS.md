@@ -20,8 +20,8 @@ images:
 - caption: FAS expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FAS/461595_0.jpg
   location: Heart
-  source: Salle et al. 2004
-  source_label: Salle et al. 2004
+  source: Sallee et al. 2004
+  source_label: Sallee et al. 2004
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FAS.FIG1AB.SALLEE.2004.jpg
 name: Fas cell surface death receptor

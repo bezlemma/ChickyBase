@@ -60,16 +60,16 @@ images:
 - caption: CCDC3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CCDC3/451441_6.jpg
   location: Heart
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CCDC3.Anderson.2019.Supplementary
     figure 5G2-st12.jpg
 - caption: CCDC3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CCDC3/451441_7.jpg
   location: null
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CCDC3.Anderson.2019.Supplementary
     figure 5G2.jpg

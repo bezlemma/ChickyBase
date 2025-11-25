@@ -23,16 +23,16 @@ images:
 - caption: CSE1L expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CSE1L/455777_0.jpg
   location: Notochord, Sclerotome
-  source: Krück et al. 2009
-  source_label: Krück et al. 2009
+  source: Kruck et al. 2009
+  source_label: Kruck et al. 2009
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CSE.Kruck.2009.Fig.2
     cse st16.png
 - caption: CSE1L expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CSE1L/455777_1.jpg
   location: Glomeruli, Limb Buds, Mesonephros, Nephric Tubules, Retina, Somites
-  source: Krück et al. 2009
-  source_label: Krück et al. 2009
+  source: Kruck et al. 2009
+  source_label: Kruck et al. 2009
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CSE.Kruck.2009.Fig.2
     cse st19.png
@@ -40,40 +40,40 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CSE1L/455777_2.jpg
   location: Leg Ectoderm, Leg Mesenchyme, Mesonephros, Nephric Tubules, Wing Ectoderm,
     Wing Mesenchyme
-  source: Krück et al. 2009
-  source_label: Krück et al. 2009
+  source: Kruck et al. 2009
+  source_label: Kruck et al. 2009
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CSE.Kruck.2009.Fig.2
     cse st23.png
 - caption: CSE1L expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CSE1L/455777_3.jpg
   location: Mesonephros, Nephric Tubules
-  source: Krück et al. 2009
-  source_label: Krück et al. 2009
+  source: Kruck et al. 2009
+  source_label: Kruck et al. 2009
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CSE.Kruck.2009.Fig.2
     cse st25.png
 - caption: CSE1L expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CSE1L/455777_4.jpg
   location: Mesonephros, Nephric Tubules
-  source: Krück et al. 2009
-  source_label: Krück et al. 2009
+  source: Kruck et al. 2009
+  source_label: Kruck et al. 2009
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CSE.Kruck.2009.Fig.2
     cse st27.png
 - caption: CSE1L expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CSE1L/455777_5.jpg
   location: Mesonephros, Nephric Tubules
-  source: Krück et al. 2009
-  source_label: Krück et al. 2009
+  source: Kruck et al. 2009
+  source_label: Kruck et al. 2009
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CSE.Kruck.2009.Fig.2
     cse st37.png
 - caption: CSE1L expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CSE1L/455777_6.jpg
   location: null
-  source: Krück et al. 2009
-  source_label: Krück et al. 2009
+  source: Kruck et al. 2009
+  source_label: Kruck et al. 2009
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CSE.Kruck.2009.Fig.2.png
 name: chromosome segregation 1 like

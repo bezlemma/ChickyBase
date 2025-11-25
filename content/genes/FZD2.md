@@ -47,22 +47,22 @@ images:
 - caption: FZD2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD2/454452_3.jpg
   location: Eye
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1E.Fuhrmann.2006.jpg
 - caption: FZD2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD2/454452_4.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1F.Fuhrmann.2006.jpg
 - caption: FZD2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD2/454452_5.jpg
   location: Retina
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1G.Fuhrmann.2006.jpg
 - caption: FZD2 expression
@@ -195,63 +195,63 @@ images:
 - caption: FZD2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD2/454452_24.jpg
   location: Duodenum, Gizzard
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz2.Theodosiou.2003.Figure2,
     panel A.png
 - caption: FZD2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD2/454452_25.jpg
   location: Duodenum, Gizzard
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz2.Theodosiou.2003.Figure2E.
     panel A.png
 - caption: FZD2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD2/454452_26.jpg
   location: Duodenum
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sFRP1.Theodosiou.2003.Figure1.
     panel A.png
 - caption: FZD2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD2/454452_27.jpg
   location: Duodenum
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sFRP1.Theodosiou.2003.Figure1E.
     panel A.png
 - caption: FZD2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD2/454452_28.jpg
   location: Duodenum, Gizzard, Stomach
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz2.Theodosiou.2003.Figure2.panel
     B.png
 - caption: FZD2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD2/454452_29.jpg
   location: Duodenum, Gizzard, Stomach
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz2.Theodosiou.2003.Figure2P.panel
     B.png
 - caption: FZD2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD2/454452_30.jpg
   location: Foregut, Hindgut, Midgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz2.Theodosiou.2003.Figure2.panelC.png
 - caption: FZD2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD2/454452_31.jpg
   location: Foregut, Hindgut, Midgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz2.Theodosiou.2003.Figure2AA.panel
     C.png
@@ -347,15 +347,15 @@ images:
 - caption: FZD2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD2/454452_44.jpg
   location: Lateral Plate Mesoderm, Neural Plate/Tube, Notochord, Somites
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Cauthen et al. 2001
+  source_label: Cauthen et al. 2001
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Frizzled-2.Cauthen.2001.Fig1J-st10.jpg
 - caption: FZD2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD2/454452_45.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Cauthen et al. 2001
+  source_label: Cauthen et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Frizzled-2.Cauthen.2001.jpg
 name: frizzled class receptor 2

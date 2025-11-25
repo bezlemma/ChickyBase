@@ -105,29 +105,29 @@ images:
 - caption: GFRA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA1/451243_11.jpg
   location: Gut, Lung
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Burns et al. 2005
+  source_label: Burns et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFRA1.FIG5Jj.BURNS.2005.jpg
 - caption: GFRA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA1/451243_12.jpg
   location: Gut, Lung
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Burns et al. 2005
+  source_label: Burns et al. 2005
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFRA1.FIG5Kk.BURNS.2005.jpg
 - caption: GFRA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA1/451243_13.jpg
   location: null
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Burns et al. 2005
+  source_label: Burns et al. 2005
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG5.BURNS.2005.jpg
 - caption: GFRA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA1/451243_14.jpg
   location: Spinal Ganglia and Nerves
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Burns et al. 2005
+  source_label: Burns et al. 2005
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFRA1.FIG5Ll.BURNS.2005.jpg
 name: GDNF family receptor alpha 1

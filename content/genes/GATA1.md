@@ -189,16 +189,16 @@ images:
 - caption: GATA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GATA1/461025_23.jpg
   location: Midbrain, Neural Crest, Neural Plate/Tube
-  source: Minko et al. 2003
-  source_label: Minko et al. 2003
+  source: Kee et al. 2007
+  source_label: Kee et al. 2007
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GATA1.Kee.2007.Fig.2
     gata1 midbrain.png
 - caption: GATA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GATA1/461025_24.jpg
   location: null
-  source: Minko et al. 2003
-  source_label: Minko et al. 2003
+  source: Kee et al. 2007
+  source_label: Kee et al. 2007
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GATA1.Kee.2007.Fig.2.png
 - caption: GATA1 expression

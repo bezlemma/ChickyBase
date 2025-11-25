@@ -61,163 +61,163 @@ images:
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_5.jpg
   location: Myocardium
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houwelin et al. 2002
+  source_label: Houwelin et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH9.Houwelin.2002.f6.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_6.jpg
   location: Lateral Plate Mesoderm
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houwelin et al. 2002
+  source_label: Houwelin et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH9.caudal.Houwelin.2002.f6.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_7.jpg
   location: null
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houwelin et al. 2002
+  source_label: Houwelin et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH9.mid.Houwelin.2002.f6.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_8.jpg
   location: Lateral Plate Mesoderm
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH9minus.Houweling.2002.f5.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_9.jpg
   location: Lateral Plate Mesoderm, Myocardium
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH9plus.Houweling.2002.f5.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_10.jpg
   location: null
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houwelin et al. 2002
+  source_label: Houwelin et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Houwelin.2002.f6.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_11.jpg
   location: null
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Houweling.2002.f5.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_12.jpg
   location: Heart, Outflow Tract
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH21.Houweling.2002.f4.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_13.jpg
   location: Heart, Outflow Tract, Ventricles
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH21.c.Houweling.2002.f4.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_14.jpg
   location: Heart, Outflow Tract, Ventricles
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH22.Houweling.2002.f4.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_15.jpg
   location: null
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Houweling.2002.f4.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_16.jpg
   location: Heart, Myocardium
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH24.Houweling.2002.f3.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_17.jpg
   location: Heart, Myocardium
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH24.d.Houweling.2002.f3.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_18.jpg
   location: null
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Houweling.2002.f3.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_19.jpg
   location: Heart
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH28.Houweling.2002.f2.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_20.jpg
   location: Myocardium
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH28.d.Houweling.2002.f2.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_21.jpg
   location: Heart
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH28.mag.Houweling.2002.f2.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_22.jpg
   location: null
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Houweling.2002.f2.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_23.jpg
   location: Atria, Heart, Ventricles
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH30.Houweling.2002.f1.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_24.jpg
   location: Heart
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH30.cushion.Houweling.2002.f1.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_25.jpg
   location: null
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Houweling.2002.f1.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_26.jpg
   location: Heart, Ventricles
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NPPA.Anderson.2019.Supplementary
     figure 4B-st12.jpg
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_27.jpg
   location: null
-  source: Houweling et al. 2005
-  source_label: Houweling et al. 2005
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NPPA.Anderson.2019.Supplementary
     figure 4B.jpg

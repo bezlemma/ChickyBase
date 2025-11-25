@@ -42,16 +42,16 @@ images:
 - caption: IQSEC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IQSEC1/458744_3.jpg
   location: Unlabeled
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IQSEC1.Anderson.2019.Supplementary
     figure 5F-st12.jpg
 - caption: IQSEC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IQSEC1/458744_4.jpg
   location: null
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IQSEC1.Anderson.2019.Supplementary
     figure 5F.jpg

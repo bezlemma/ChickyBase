@@ -83,162 +83,162 @@ images:
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_9.jpg
   location: Rhombomeres
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.F.HH10.TAgLN3.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_10.jpg
   location: null
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.allimages-2.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_11.jpg
   location: Neural Plate/Tube
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.G.HH12.TAgLN3.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_12.jpg
   location: Peripheral Nervous System
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig2.F.TAGLN3.HH14.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_13.jpg
   location: Spinal Cord
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig7.Tagln3.B.HH14-2.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_14.jpg
   location: null
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig7.allimages-7.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_15.jpg
   location: Hypothalamus, Mesencephalon, Peripheral Nervous System
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.H.HH15.TAgLN3.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_16.jpg
   location: Rhombomeres
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig3.TAGLN3.HH16.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_17.jpg
   location: Cranial PNS
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig5.Tagln3.HH16.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_18.jpg
   location: null
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig5.allimages2.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_19.jpg
   location: Peripheral Nervous System
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig2.B.TAGLN3.HH17.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_20.jpg
   location: null
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig2.allimages-2.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_21.jpg
   location: Cranial PNS
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig5.F.Tagln3LHH18.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_22.jpg
   location: Peripheral Nervous System
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.I.HH18.TAgLN3.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_23.jpg
   location: Cranial PNS
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig4.TAGln3.HH18.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_24.jpg
   location: null
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig4.allimages2.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_25.jpg
   location: Cranial PNS
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig5.J.Tagln3.HH18.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_26.jpg
   location: Peripheral Nervous System
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig1.J.HH22.TAgLN3.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_27.jpg
   location: Rhombomeres
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig3.TAGln3.HH22.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_28.jpg
   location: null
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig3allimages-4.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_29.jpg
   location: Cranial PNS
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig5.N.Tagln3.HH22.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_30.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig6.Tagnhl.B.HH22.jpg
 - caption: TAGLN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TAGLN3/455958_31.jpg
   location: null
-  source: Ratie et al. 2013
-  source_label: Ratie et al. 2013
+  source: Ratie et al. 2014
+  source_label: Ratie et al. 2014
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ratie.2014.Fig6.allimages.HH22-2.jpg
 name: transgelin 3

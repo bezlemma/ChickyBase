@@ -53,15 +53,15 @@ images:
 - caption: POU4F3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/POU4F3/449613_4.jpg
   location: null
-  source: Artinger et al. 1998
-  source_label: Artinger et al. 1998
+  source: Thompson et al. 2010
+  source_label: Thompson et al. 2010
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRN3A.Thompson.2010.2.png
 - caption: POU4F3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/POU4F3/449613_5.jpg
   location: Spinal Ganglia and Nerves
-  source: Artinger et al. 1998
-  source_label: Artinger et al. 1998
+  source: Thompson et al. 2010
+  source_label: Thompson et al. 2010
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRN3A.Thompson.2010.2G.png
 - caption: POU4F3 expression
@@ -74,15 +74,15 @@ images:
 - caption: POU4F3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/POU4F3/449613_7.jpg
   location: Midbrain
-  source: Artinger et al. 1998
-  source_label: Artinger et al. 1998
+  source: Agarwala et al. 2002
+  source_label: Agarwala et al. 2002
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRN3A-POU4F1.Agarwala.2002.1E.PNG
 - caption: POU4F3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/POU4F3/449613_8.jpg
   location: Midbrain
-  source: Artinger et al. 1998
-  source_label: Artinger et al. 1998
+  source: Agarwala et al. 2002
+  source_label: Agarwala et al. 2002
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BRN3A-POU4F1.Agarwala.2002.1F.26.PNG
 name: POU class 4 homeobox 3

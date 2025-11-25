@@ -23,8 +23,8 @@ images:
 - caption: FZD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD3/449554_0.jpg
   location: Retina
-  source: Fuhrmann et al. 2003
-  source_label: Fuhrmann et al. 2003
+  source: Fuhrmann et al. 2006
+  source_label: Fuhrmann et al. 2006
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1H.Fuhrmann.2006.jpg
 - caption: FZD3 expression

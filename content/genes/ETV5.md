@@ -69,22 +69,22 @@ images:
 - caption: ETV5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ETV5/450370_7.jpg
   location: Dermomyotome
-  source: Lunn et al. 2007
-  source_label: Lunn et al. 2007
+  source: Brent et al. 2004
+  source_label: Brent et al. 2004
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Erm.Brent.2004.Figure3C.jpg
 - caption: ETV5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ETV5/450370_8.jpg
   location: Dermomyotome
-  source: Lunn et al. 2007
-  source_label: Lunn et al. 2007
+  source: Brent et al. 2004
+  source_label: Brent et al. 2004
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Erm.Brent.2004.Figure3CF.jpg
 - caption: ETV5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ETV5/450370_9.jpg
   location: Dermomyotome
-  source: Lunn et al. 2007
-  source_label: Lunn et al. 2007
+  source: Brent et al. 2004
+  source_label: Brent et al. 2004
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Erm.Brent.2004.Figure3F.jpg
 - caption: ETV5 expression
@@ -111,30 +111,30 @@ images:
 - caption: ETV5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ETV5/450370_13.jpg
   location: Ear/Otic Placode, Hindbrain, Isthmus/MHB
-  source: Lunn et al. 2007
-  source_label: Lunn et al. 2007
+  source: Blentic et al. 2008
+  source_label: Blentic et al. 2008
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ERM.Blentic.2008.6.png
 - caption: ETV5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ETV5/450370_14.jpg
   location: Ear/Otic Placode, Forebrain, Hindbrain, Isthmus/MHB
-  source: Lunn et al. 2007
-  source_label: Lunn et al. 2007
+  source: Blentic et al. 2008
+  source_label: Blentic et al. 2008
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ERM.Blentic.2008.6a.png
 - caption: ETV5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ETV5/450370_15.jpg
   location: Nasal Placode/Nerve
-  source: Lunn et al. 2007
-  source_label: Lunn et al. 2007
+  source: Maier et al. 2010
+  source_label: Maier et al. 2010
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ERM.Maier.2010.Supp.Fig.2
     erm.png
 - caption: ETV5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ETV5/450370_16.jpg
   location: null
-  source: Lunn et al. 2007
-  source_label: Lunn et al. 2007
+  source: Maier et al. 2010
+  source_label: Maier et al. 2010
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ERM.Maier.2010.Supp.Fig.2.png
 - caption: ETV5 expression

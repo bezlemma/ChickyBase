@@ -49,85 +49,85 @@ images:
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_4.jpg
   location: Intermediate Mesoderm
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Dastjerdi et al. 2007
+  source_label: Dastjerdi et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tbx1.Figure3A'.Dastjerdi.2007.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_5.jpg
   location: Intermediate Mesoderm
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Dastjerdi et al. 2007
+  source_label: Dastjerdi et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tbx1.Figure3A.Dastjerdi.2007.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_6.jpg
   location: Pharyngeal Arches and Clefts
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Dastjerdi et al. 2007
+  source_label: Dastjerdi et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tbx1.Figure3C.Dastjerdi.2007.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_7.jpg
   location: Pharyngeal Arches and Clefts
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Dastjerdi et al. 2007
+  source_label: Dastjerdi et al. 2007
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tbx1.Figure1A.Dastjerdi.2007.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_8.jpg
   location: Wing AER
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Dastjerdi et al. 2007
+  source_label: Dastjerdi et al. 2007
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tbx1.Figure1D.Dastjerdi.2007.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_9.jpg
   location: Face Mesenchyme, Pharyngeal Arches and Clefts
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Dastjerdi et al. 2007
+  source_label: Dastjerdi et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tbx1.Figure1B.Dastjerdi.2007.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_10.jpg
   location: Face Mesenchyme, Pharyngeal Arches and Clefts
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Dastjerdi et al. 2007
+  source_label: Dastjerdi et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tbx1.Figure1C.Dastjerdi.2007.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_11.jpg
   location: Wing Ectoderm, Wing Muscles
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Dastjerdi et al. 2007
+  source_label: Dastjerdi et al. 2007
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tbx1.Figure1F.Dastjerdi.2007.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_12.jpg
   location: Wing Ectoderm, Wing Muscles
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Dastjerdi et al. 2007
+  source_label: Dastjerdi et al. 2007
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tbx1.Figure1G.Dastjerdi.2007.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_13.jpg
   location: Wing Ectoderm, Wing Muscles
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Dastjerdi et al. 2007
+  source_label: Dastjerdi et al. 2007
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tbx1.Figure1I.Dastjerdi.2007.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_14.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Bothe et al. 2007
+  source_label: Bothe et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure4.Bothe.2007.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_15.jpg
   location: Foregut, Head Mesenchyme
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Bothe et al. 2007
+  source_label: Bothe et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tbx1.Figure4D.Bothe.2007.jpg
 - caption: TBX1 expression
@@ -175,45 +175,45 @@ images:
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_22.jpg
   location: Head Mesenchyme, Head Process, Mesoderm
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Bothe et al. 2011
+  source_label: Bothe et al. 2011
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX1.Bothe.2011.1D.5.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_23.jpg
   location: Endoderm, Head Mesenchyme, Head Process
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Bothe et al. 2011
+  source_label: Bothe et al. 2011
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX1.Bothe.2011.1D.6.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_24.jpg
   location: Endoderm, Head Mesenchyme, Head Process
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Bothe et al. 2011
+  source_label: Bothe et al. 2011
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX1.Bothe.2011.1D.7.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_25.jpg
   location: Ear/Otic Placode, Head Mesenchyme, Head Process, Pharyngeal Arches and
     Clefts
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Bothe et al. 2011
+  source_label: Bothe et al. 2011
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX1.Bothe.2011.1D.8.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_26.jpg
   location: Ear/Otic Placode, Head Mesenchyme, Head Process, Pharyngeal Arches and
     Clefts
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Bothe et al. 2011
+  source_label: Bothe et al. 2011
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX1.Bothe.2011.1D.9.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_27.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Bothe et al. 2011
+  source_label: Bothe et al. 2011
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX1.Bothe.2011.1D.jpg
 - caption: TBX1 expression
@@ -233,114 +233,114 @@ images:
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_30.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX1.Abello.2010.Fig.4
     .png
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_31.jpg
   location: Ear/Otic Placode
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX1.Abello.2010.Fig.4
     tbx1.png
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_32.jpg
   location: Ear/Otic Placode
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX1.Abello.2010.Fig.5
     tbx1.png
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_33.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX1.Abello.2010.Fig.5.png
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_34.jpg
   location: Neural Plate/Tube, Placode
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX1.Abello.2010.Fig.1
     tbx1 st9.png
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_35.jpg
   location: Neural Plate/Tube, Placode
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX1.Abello.2010.Fig.1
     tbx1 st9plus.png
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_36.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX1.Abello.2010.Fig.1.png
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_37.jpg
   location: Rhombomeres
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX1.Abello.2010.Fig.1
     tbx1 st10 r4.png
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_38.jpg
   location: Rhombomeres
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX1.Abello.2010.Fig.1
     tbx1 st10 r5.png
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_39.jpg
   location: Neural Plate/Tube, Placode
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Abello et al. 2010
+  source_label: Abello et al. 2010
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX1.Abello.2010.Fig.1
     tbx1 st10.png
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_40.jpg
   location: Cranial Ganglia, Cranial Nerve, Ear/Otic Placode
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_3_TBX1_M-N.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_41.jpg
   location: Cranial Ganglia, Cranial Nerve, Ear/Otic Placode
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_4_Tbx1_P.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_42.jpg
   location: Cranial Ganglia, Cranial Nerve, Ear/Otic Placode
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_4_Tbx1_Q.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_43.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_3_ALLIMAGES-6.jpg
 - caption: TBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX1/454117_44.jpg
   location: null
-  source: Noden et al. 2006
-  source_label: Noden et al. 2006
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_4_Allimages-6.jpg
 - caption: TBX1 expression

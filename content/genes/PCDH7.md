@@ -194,43 +194,43 @@ images:
 - caption: PCDH7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH7/451925_25.jpg
   location: Surface Ectoderm
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh7.Lin.2013.Fig1J-st34.jpg
 - caption: PCDH7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH7/451925_26.jpg
   location: Surface Ectoderm
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh7.Lin.2013.Fig1K-st35.jpg
 - caption: PCDH7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH7/451925_27.jpg
   location: Surface Ectoderm
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh7.Lin.2013.Fig3I-st35.jpg
 - caption: PCDH7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH7/451925_28.jpg
   location: Surface Ectoderm
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh7.Lin.2013.Fig1L-st36.jpg
 - caption: PCDH7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH7/451925_29.jpg
   location: null
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh7.Lin.2013.Fig1.jpg
 - caption: PCDH7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH7/451925_30.jpg
   location: null
-  source: Lin et al. 2012
-  source_label: Lin et al. 2012
+  source: Lin et al. 2013
+  source_label: Lin et al. 2013
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pcdh7.Lin.2013.Fig3.jpg
 name: protocadherin 7

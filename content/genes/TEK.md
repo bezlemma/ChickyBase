@@ -41,78 +41,78 @@ images:
 - caption: TEK expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TEK/462004_3.jpg
   location: Arteries, Veins
-  source: Wilting et al. 2006
-  source_label: Wilting et al. 2006
+  source: Davey et al. 2007
+  source_label: Davey et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tie2.Davey.2007.Figure3KL.jpg
 - caption: TEK expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TEK/462004_4.jpg
   location: Aorta
-  source: Wilting et al. 2006
-  source_label: Wilting et al. 2006
+  source: Moyon et al. 2001
+  source_label: Moyon et al. 2001
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tie-2.Moyon.2001.Fig1A-St12.jpg
 - caption: TEK expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TEK/462004_5.jpg
   location: Aorta, Cardinal Veins
-  source: Wilting et al. 2006
-  source_label: Wilting et al. 2006
+  source: Moyon et al. 2001
+  source_label: Moyon et al. 2001
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tie-2.Moyon.2001.Fig2A-St23.jpg
 - caption: TEK expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TEK/462004_6.jpg
   location: Arteries, Endothelial Cells, Veins
-  source: Wilting et al. 2006
-  source_label: Wilting et al. 2006
+  source: Moyon et al. 2001
+  source_label: Moyon et al. 2001
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tie-2.Moyon.2001.Fig2D-St29.jpg
 - caption: TEK expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TEK/462004_7.jpg
   location: Arteries, Veins
-  source: Wilting et al. 2006
-  source_label: Wilting et al. 2006
+  source: Moyon et al. 2001
+  source_label: Moyon et al. 2001
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tie-2.Moyon.2001.Fig2G-St29.jpg
 - caption: TEK expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TEK/462004_8.jpg
   location: Aorta
-  source: Wilting et al. 2006
-  source_label: Wilting et al. 2006
+  source: Moyon et al. 2001
+  source_label: Moyon et al. 2001
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Moyon.2001.Fig3-A-Tie2.jpg
 - caption: TEK expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TEK/462004_9.jpg
   location: Gizzard
-  source: Wilting et al. 2006
-  source_label: Wilting et al. 2006
+  source: Moyon et al. 2001
+  source_label: Moyon et al. 2001
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Moyon.2001.Fig3-E-Tie2.jpg
 - caption: TEK expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TEK/462004_10.jpg
   location: Arteries, Veins
-  source: Wilting et al. 2006
-  source_label: Wilting et al. 2006
+  source: Moyon et al. 2001
+  source_label: Moyon et al. 2001
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Moyon.2001.Fig3-I-Tie2.jpg
 - caption: TEK expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TEK/462004_11.jpg
   location: null
-  source: Wilting et al. 2006
-  source_label: Wilting et al. 2006
+  source: Moyon et al. 2001
+  source_label: Moyon et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Moyon.2001.Fig3-ALL-Tie2.jpg
 - caption: TEK expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TEK/462004_12.jpg
   location: null
-  source: Wilting et al. 2006
-  source_label: Wilting et al. 2006
+  source: Moyon et al. 2001
+  source_label: Moyon et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tie-2.Moyon.2001.Fig1.jpg
 - caption: TEK expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TEK/462004_13.jpg
   location: null
-  source: Wilting et al. 2006
-  source_label: Wilting et al. 2006
+  source: Moyon et al. 2001
+  source_label: Moyon et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tie-2.Moyon.2001.Fig2.jpg
 name: TEK receptor tyrosine kinase

@@ -111,183 +111,183 @@ images:
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_13.jpg
   location: Area Pellucida, Hypoblast
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage XI
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig5A-stXI.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_14.jpg
   location: Area Pellucida, Hypoblast
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage XII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig2A-stXI.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_15.jpg
   location: Area Pellucida, Hypoblast
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage XIII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig2B-stXIII.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_16.jpg
   location: Primitive Streak
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig2C-st3.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_17.jpg
   location: Hensen's Node
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig2D-st4.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_18.jpg
   location: Early Mesoderm, Hensen's Node
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig2E-st5.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_19.jpg
   location: Headfold, Hensen's Node
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig2F-st6.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_20.jpg
   location: Neural Plate/Tube, Notochord
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig4A-st7.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_21.jpg
   location: Neural Plate/Tube, Notochord
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig4B-st7.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_22.jpg
   location: Neural Plate/Tube, Notochord
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig4C-st7.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_23.jpg
   location: Neural Plate/Tube, Notochord
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig4D-st7.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_24.jpg
   location: Neural Plate/Tube, Notochord
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig4E-st7.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_25.jpg
   location: Neural Plate/Tube, Notochord
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig4F-st7.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_26.jpg
   location: Neural Plate/Tube, Notochord
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig4G-st7.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_27.jpg
   location: Hensen's Node, Notochord
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig2G-st8.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_28.jpg
   location: Unlabeled
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig5C-st9.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_29.jpg
   location: Notochord
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig2H-st10.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_30.jpg
   location: Anterior Intestinal Portal, Foregut
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig5G-st10.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_31.jpg
   location: Foregut
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig5H-st10.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_32.jpg
   location: Anterior Intestinal Portal, Neural Plate/Tube, Notochord
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig5I-st10.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_33.jpg
   location: Notochord
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig2I-st14.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_34.jpg
   location: Tail
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig2J-st20.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_35.jpg
   location: Limb Buds
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig5E-st24.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_36.jpg
   location: null
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig2.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_37.jpg
   location: null
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig4.jpg
 - caption: CNOT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CNOT2/451893_38.jpg
   location: null
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Stein et al. 1996
+  source_label: Stein et al. 1996
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CNOT2.Stein.1996.Fig5.jpg
 - caption: CNOT2 expression

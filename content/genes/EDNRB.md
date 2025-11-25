@@ -51,71 +51,71 @@ images:
 - caption: EDNRB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDNRB/452264_5.jpg
   location: Gut, Lung
-  source: Nagy et al. 2006
-  source_label: Nagy et al. 2006
+  source: Burns et al. 2005
+  source_label: Burns et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDNRB.FIG5Dd.BURNS.2005.jpg
 - caption: EDNRB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDNRB/452264_6.jpg
   location: Gut, Lung
-  source: Nagy et al. 2006
-  source_label: Nagy et al. 2006
+  source: Burns et al. 2005
+  source_label: Burns et al. 2005
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDNRB.FIG5Ee.BURNS.2005.jpg
 - caption: EDNRB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDNRB/452264_7.jpg
   location: Foregut, Lung, Peripheral Nervous System
-  source: Nagy et al. 2006
-  source_label: Nagy et al. 2006
+  source: Burns et al. 2005
+  source_label: Burns et al. 2005
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDNRB.FIG5F.BURNS.2005.jpg
 - caption: EDNRB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDNRB/452264_8.jpg
   location: null
-  source: Nagy et al. 2006
-  source_label: Nagy et al. 2006
+  source: Burns et al. 2005
+  source_label: Burns et al. 2005
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG5.BURNS.2005.jpg
 - caption: EDNRB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDNRB/452264_9.jpg
   location: Eye
-  source: Nagy et al. 2006
-  source_label: Nagy et al. 2006
+  source: Jourdeuil et al. 2016
+  source_label: Jourdeuil et al. 2016
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ednrb.Jourdeuil.2016.Fig3K-st31.jpg
 - caption: EDNRB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDNRB/452264_10.jpg
   location: Eye
-  source: Nagy et al. 2006
-  source_label: Nagy et al. 2006
+  source: Jourdeuil et al. 2016
+  source_label: Jourdeuil et al. 2016
   stage: stage 33
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ednrb.Jourdeuil.2016.Fig3L-st33.jpg
 - caption: EDNRB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDNRB/452264_11.jpg
   location: Eye
-  source: Nagy et al. 2006
-  source_label: Nagy et al. 2006
+  source: Jourdeuil et al. 2016
+  source_label: Jourdeuil et al. 2016
   stage: stage 33
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ednrb.Jourdeuil.2016.Fig3M-st33.jpg
 - caption: EDNRB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDNRB/452264_12.jpg
   location: Eye
-  source: Nagy et al. 2006
-  source_label: Nagy et al. 2006
+  source: Jourdeuil et al. 2016
+  source_label: Jourdeuil et al. 2016
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ednrb.Jourdeuil.2016.Fig3N-st34.jpg
 - caption: EDNRB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDNRB/452264_13.jpg
   location: Unlabeled
-  source: Nagy et al. 2006
-  source_label: Nagy et al. 2006
+  source: Jourdeuil et al. 2016
+  source_label: Jourdeuil et al. 2016
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ednrb.Jourdeuil.2016.Fig3O-st36.jpg
 - caption: EDNRB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDNRB/452264_14.jpg
   location: null
-  source: Nagy et al. 2006
-  source_label: Nagy et al. 2006
+  source: Jourdeuil et al. 2016
+  source_label: Jourdeuil et al. 2016
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ednrb.Jourdeuil.2016.Fig3.jpg
 name: endothelin receptor type B

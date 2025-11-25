@@ -91,8 +91,8 @@ images:
 - caption: FST expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FST/458861_9.jpg
   location: Wing Muscles
-  source: Chapman et al. 2002
-  source_label: Chapman et al. 2002
+  source: Gamer et al. 2001
+  source_label: Gamer et al. 2001
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FST.FIG8A.GAMER.2001.jpg
 - caption: FST expression
@@ -119,78 +119,78 @@ images:
 - caption: FST expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FST/458861_13.jpg
   location: Somites
-  source: Chapman et al. 2002
-  source_label: Chapman et al. 2002
+  source: Wilm et al. 2004
+  source_label: Wilm et al. 2004
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FST.FIG4A.WILM.2004.jpg
 - caption: FST expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FST/458861_14.jpg
   location: Dermomyotome, Notochord, Somites
-  source: Chapman et al. 2002
-  source_label: Chapman et al. 2002
+  source: Nimma et al. 2005
+  source_label: Nimma et al. 2005
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FLST.FIG5KLM.NIMMA.2005.jpg
 - caption: FST expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FST/458861_15.jpg
   location: null
-  source: Chapman et al. 2002
-  source_label: Chapman et al. 2002
+  source: Nimma et al. 2005
+  source_label: Nimma et al. 2005
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG5.NIMMA.2005.jpg
 - caption: FST expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FST/458861_16.jpg
   location: Feathers/Scutae
-  source: Chapman et al. 2002
-  source_label: Chapman et al. 2002
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Follistatin.Ohyama.2001.Fig3A.jpg
 - caption: FST expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FST/458861_17.jpg
   location: Feathers/Scutae
-  source: Chapman et al. 2002
-  source_label: Chapman et al. 2002
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Follistatin.Ohyama.2001.Fig3B.jpg
 - caption: FST expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FST/458861_18.jpg
   location: Feathers/Scutae
-  source: Chapman et al. 2002
-  source_label: Chapman et al. 2002
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Follistatin.Ohyama.2001.Fig3C.jpg
 - caption: FST expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FST/458861_19.jpg
   location: Feathers/Scutae
-  source: Chapman et al. 2002
-  source_label: Chapman et al. 2002
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Follistatin.Ohyama.2001.Fig3D.jpg
 - caption: FST expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FST/458861_20.jpg
   location: Feathers/Scutae
-  source: Chapman et al. 2002
-  source_label: Chapman et al. 2002
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Follistatin.Ohyama.2001.Fig3E.jpg
 - caption: FST expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FST/458861_21.jpg
   location: Feathers/Scutae
-  source: Chapman et al. 2002
-  source_label: Chapman et al. 2002
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Follistatin.Ohyama.2001.Fig3F.jpg
 - caption: FST expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FST/458861_22.jpg
   location: Feathers/Scutae
-  source: Chapman et al. 2002
-  source_label: Chapman et al. 2002
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Follistatin.Ohyama.2001.Fig3G.jpg
 - caption: FST expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FST/458861_23.jpg
   location: null
-  source: Chapman et al. 2002
-  source_label: Chapman et al. 2002
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Follistatin.Ohyama.2001.Fig3.jpg
 name: follistatin

@@ -44,170 +44,170 @@ images:
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_3.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.1
     ngfr 34 visceral arches.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_4.jpg
   location: Ear/Otic Placode
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.1
     ngfr otic vesicles.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_5.jpg
   location: Telencephalon
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.1
     ngfr rostral telencephalon.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_6.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.1.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_7.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.2.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_8.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.3
     ngfr.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_9.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.3.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_10.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.4
     ngfr hyoid arch.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_11.jpg
   location: Spinal Cord
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.4
     ngfr spinal cord.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_12.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.4.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_13.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.5
     ngfr specificprobe.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_14.jpg
   location: Cranial Ganglia
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.5
     ngfrganglion.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_15.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.5.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_16.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.6
     ngfr jugular ganglion.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_17.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.6
     ngfr otic vesicle.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_18.jpg
   location: Cranial Ganglia
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.6
     ngfr.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_19.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.6.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_20.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.7
     ngfr st26.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_21.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.7
     ngfr st38.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_22.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 43
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.7
     ngfr st43.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_23.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.7
     ngfr p3.png
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_24.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Hallbook et al. 1990
+  source_label: Hallbook et al. 1990
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Hallbook.1990.Fig.7.png
 - caption: NGFR expression
@@ -241,16 +241,16 @@ images:
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_29.jpg
   location: Heart
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Anderson.2019.Supplementary
     figure 5H2-st12.jpg
 - caption: NGFR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NGFR/450921_30.jpg
   location: null
-  source: Okafuji et al. 2005
-  source_label: Okafuji et al. 2005
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGFR.Anderson.2019.Supplementary
     figure 5H2.jpg

@@ -66,22 +66,22 @@ images:
 - caption: SDC3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SDC3/461776_6.jpg
   location: Eye
-  source: Singh et al. 2016
-  source_label: Singh et al. 2016
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig5.SDC3_D.jpg
 - caption: SDC3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SDC3/461776_7.jpg
   location: Retina
-  source: Singh et al. 2016
-  source_label: Singh et al. 2016
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig5.SDC3_H.jpg
 - caption: SDC3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SDC3/461776_8.jpg
   location: null
-  source: Singh et al. 2016
-  source_label: Singh et al. 2016
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig5.Allimages-4.jpg
 name: syndecan 3

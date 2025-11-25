@@ -31,301 +31,301 @@ images:
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_1.jpg
   location: null
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1B.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_2.jpg
   location: Epiblast, Neural Plate/Tube
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG1ab.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_3.jpg
   location: Neural Plate/Tube
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG2ab.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_4.jpg
   location: Neural Plate/Tube, Rhombomeres
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG2c.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_5.jpg
   location: null
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3A.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_6.jpg
   location: Neural Plate/Tube, Rhombomeres
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG2d.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_7.jpg
   location: Diencephalon, Ear/Otic Placcode, Face Mesenchyme, Head Mesenchyme, Neural
     Crest, Neural Plate/Tube, Surface Ectoderm
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG3bcd.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_8.jpg
   location: Somites
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG7AB.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_9.jpg
   location: Hindbrain, Neural Plate/Tube, Rhombomeres
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG2ef.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_10.jpg
   location: Somites
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG7M.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_11.jpg
   location: null
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG7A.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_12.jpg
   location: Diencephalon, Eye, Midbrain, Telencephalon
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG4a.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_13.jpg
   location: Eye
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG4b.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_14.jpg
   location: Eye, Lens
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG6LM.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_15.jpg
   location: Pancreas
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG9D.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_16.jpg
   location: Eye, Forebrain
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG4c.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_17.jpg
   location: Spinal Ganglia and Nerves
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG5ABC.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_18.jpg
   location: Eye, Lens
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG6N.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_19.jpg
   location: Leg Mesenchyme, Limb Buds, Spinal Ganglia and Nerves
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG8A.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_20.jpg
   location: null
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG5A.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_21.jpg
   location: null
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG6A.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_22.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG5D.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_23.jpg
   location: Leg Mesenchyme
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG8D.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_24.jpg
   location: null
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG4A.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_25.jpg
   location: null
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG9A.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_26.jpg
   location: Retina
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG4d.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_27.jpg
   location: Telencephalon
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG4e.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_28.jpg
   location: Leg Mesenchyme
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG8G.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_29.jpg
   location: Pancreas
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG9E.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_30.jpg
   location: Midgut
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG9F.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_31.jpg
   location: Leg Mesenchyme
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG8J.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_32.jpg
   location: Leg Mesenchyme
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG8M.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_33.jpg
   location: Leg Mesenchyme
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.FIG8P.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_34.jpg
   location: null
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG8A.LECOIN.2003.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_35.jpg
   location: Ectoderm, Eye, Head Mesenchyme, Lens
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Bailey et al. 2006
+  source_label: Bailey et al. 2006
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LMAF.FIG1I.BAILEY.2006.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_36.jpg
   location: null
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Bailey et al. 2006
+  source_label: Bailey et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.BAILEY.2006.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_37.jpg
   location: Area Pellucida
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage X
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.Lee.2020_Fig
     3_m_EGK.X-XI.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_38.jpg
   location: Epiblast
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage XII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.Lee.2020_Fig
     3_n''_EGK.XII-XIII.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_39.jpg
   location: Epiblast
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage XII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.Lee.2020_Fig
     3_n'_EGK.XII-XIII.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_40.jpg
   location: Epiblast
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage XII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.Lee.2020_Fig
     3_n_EGK.XII-XIII.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_41.jpg
   location: Area Pellucida
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage XIV
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAFA.Lee.2020_Fig
     3_o_EGK.XIV-HH.2.jpg
 - caption: MAFA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAFA/450824_42.jpg
   location: null
-  source: Reza et al. 2004
-  source_label: Reza et al. 2004
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Allimages_Lee.2020_Fig
     3-6.jpg

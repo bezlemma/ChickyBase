@@ -21,188 +21,188 @@ images:
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_0.jpg
   location: Area Pellucida, Early Endoderm, Primitive Streak
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG1.FIG2A.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_1.jpg
   location: Hensen's Node, Primitive Streak
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG1.FIG2B.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_2.jpg
   location: null
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Vanhateren et al. 2005
+  source_label: Vanhateren et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.VANHATEREN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_3.jpg
   location: Forebrain, Head Process, Headfold, Neural Plate/Tube, Primitive Streak,
     Somites
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG1.FIG2C.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_4.jpg
   location: Forebrain, Head Process, Midbrain, Neural Plate/Tube, Somites
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG1.FIG3A.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_5.jpg
   location: Dermomyotome, Head Process, Myotome, Neural Plate/Tube, Somites
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG1.FIG3B.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_6.jpg
   location: Forebrain, Hindbrain, Midbrain, Widespread Expression
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG1.FIG3C.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_7.jpg
   location: null
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_8.jpg
   location: Dermomyotome, Myotome
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG1.FIG3P.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_9.jpg
   location: Limb Buds, Wing
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG1.FIG4A.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_10.jpg
   location: Wing Muscles
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG1.FIG4C.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_11.jpg
   location: Wing Mesenchyme
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG4.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_12.jpg
   location: Leg Mesenchyme, Wing Mesenchyme
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG1.FIG4B.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_13.jpg
   location: Primitive Streak
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG4.FIG2J.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_14.jpg
   location: Primitive Streak
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG4.FIG2K.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_15.jpg
   location: null
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Vanhateren et al. 2005
+  source_label: Vanhateren et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.VANHATEREN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_16.jpg
   location: Forebrain, Head Process, Headfold, Neural Plate/Tube, Primitive Streak,
     Somites
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG4.FIG2L.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_17.jpg
   location: Forebrain, Head Process, Headfold, Neural Plate/Tube, Notochord, Primitive
     Streak, Somites
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG4.FIG3J.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_18.jpg
   location: Dermomyotome, Forebrain, Hindbrain, Midbrain, Myotome, Neural Plate/Tube,
     Somites
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG4.FIG3K.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_19.jpg
   location: Forebrain, Hindbrain, Midbrain, Neural Plate/Tube, Notochord, Paraxial
     Mesoderm, Somites
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG4.FIG3L.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_20.jpg
   location: null
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_21.jpg
   location: Dermomyotome, Neural Plate/Tube, Notochord
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG4.FIG3S.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_22.jpg
   location: Limb Buds, Somites, Wing
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG4.FIG4J.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_23.jpg
   location: Wing Mesenchyme
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG4.FIG4L.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_24.jpg
   location: Wing
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG4.VAN.2005.jpg
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_25.jpg
   location: Limb Buds, Wing Mesenchyme
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG4.FIG4K.VAN.2005.jpg
 name: transducin like enhancer of split 4-Z 1

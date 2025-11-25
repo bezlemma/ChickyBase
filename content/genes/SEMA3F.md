@@ -61,114 +61,114 @@ images:
 - caption: SEMA3F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3F/455647_6.jpg
   location: Isthmus/MHB, Midbrain
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sema3F.Riley.2010.4P.PNG
 - caption: SEMA3F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3F/455647_7.jpg
   location: Isthmus/MHB, Midbrain
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sema3F.Riley.2010.4Q.PNG
 - caption: SEMA3F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3F/455647_8.jpg
   location: Isthmus/MHB, Midbrain
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sema3F.Riley.2010.4R.PNG
 - caption: SEMA3F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3F/455647_9.jpg
   location: null
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Gammill et al. 2007
+  source_label: Gammill et al. 2007
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SEMA3F.Gammill.2007.2.png
 - caption: SEMA3F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3F/455647_10.jpg
   location: Head Mesenchyme, Midbrain, Neural Plate/Tube, Pharyngeal Arches and Clefts,
     Rhombomeres
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Gammill et al. 2007
+  source_label: Gammill et al. 2007
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SEMA3F.Gammill.2007.2D.png
 - caption: SEMA3F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3F/455647_11.jpg
   location: Head Mesenchyme, Midbrain, Neural Plate/Tube, Paraxial Mesoderm, Pharyngeal
     Arches and Clefts, Rhombomeres, Surface Ectoderm
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Gammill et al. 2007
+  source_label: Gammill et al. 2007
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SEMA3F.Gammill.2007.2E.png
 - caption: SEMA3F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3F/455647_12.jpg
   location: Head Mesenchyme, Midbrain, Neural Plate/Tube, Pharyngeal Arches and Clefts,
     Rhombomeres
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Gammill et al. 2007
+  source_label: Gammill et al. 2007
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SEMA3F.Gammill.2007.2F.png
 - caption: SEMA3F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3F/455647_13.jpg
   location: Head Mesenchyme, Neural Plate/Tube, Pharyngeal Arches and Clefts, Surface
     Ectoderm
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Gammill et al. 2007
+  source_label: Gammill et al. 2007
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SEMA3F.Gammill.2007.2K.png
 - caption: SEMA3F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3F/455647_14.jpg
   location: Head Mesenchyme, Neural Plate/Tube, Surface Ectoderm
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Gammill et al. 2007
+  source_label: Gammill et al. 2007
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SEMA3F.Gammill.2007.2L.png
 - caption: SEMA3F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3F/455647_15.jpg
   location: Head Mesenchyme, Midbrain, Neural Plate/Tube, Rhombomeres
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Gammill et al. 2007
+  source_label: Gammill et al. 2007
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SEMA3F.Gammill.2007.2M.png
 - caption: SEMA3F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3F/455647_16.jpg
   location: Head Mesenchyme, Neural Plate/Tube, Pharyngeal Arches and Clefts, Surface
     Ectoderm
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Gammill et al. 2007
+  source_label: Gammill et al. 2007
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SEMA3F.Gammill.2007.2N.png
 - caption: SEMA3F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3F/455647_17.jpg
   location: Area Opaca, Blood Islands
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Herzog et al. 2005
+  source_label: Herzog et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SF3.Herzog.2005.Fig.5
     sf3 dorsal.png
 - caption: SEMA3F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3F/455647_18.jpg
   location: Cardinal Veins
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Herzog et al. 2005
+  source_label: Herzog et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SF3.Herzog.2005.Fig.5
     sf3 transverse.png
 - caption: SEMA3F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3F/455647_19.jpg
   location: Extraembryonic Blood Vessels, Veins
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Herzog et al. 2005
+  source_label: Herzog et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SF3.Herzog.2005.Fig.5
     sf3.png
 - caption: SEMA3F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SEMA3F/455647_20.jpg
   location: null
-  source: Jin et al. 2006
-  source_label: Jin et al. 2006
+  source: Herzog et al. 2005
+  source_label: Herzog et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SF3.Herzog.2005.Fig.5.png
 name: semaphorin 3F

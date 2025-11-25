@@ -27,139 +27,139 @@ images:
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_1.jpg
   location: Surface Ectoderm
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.2
     eda st31.png
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_2.jpg
   location: null
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.3
     eda st31.png
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_3.jpg
   location: Surface Ectoderm
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.6
     eda.png
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_4.jpg
   location: Surface Ectoderm
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.6
     edamag.png
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_5.jpg
   location: null
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.6.png
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_6.jpg
   location: Surface Ectoderm
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 33
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.4
     eda.png
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_7.jpg
   location: Surface Ectoderm
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 33
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.4
     edag.png
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_8.jpg
   location: null
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 33
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.4.png
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_9.jpg
   location: Surface Ectoderm
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 33
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.7
     eda.png
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_10.jpg
   location: null
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 33
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.7.png
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_11.jpg
   location: Surface Ectoderm
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.2
     eda st34.png
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_12.jpg
   location: null
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.3
     eda st34.png
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_13.jpg
   location: Feathers/Scutae
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.2
     eda st36.png
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_14.jpg
   location: null
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.2.png
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_15.jpg
   location: Feathers/Scutae
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.3
     eda st36.png
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_16.jpg
   location: null
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.3.png
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_17.jpg
   location: Feathers/Scutae
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.5
     eda.png
 - caption: EDA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDA/461748_18.jpg
   location: null
-  source: Drew et al. 2007
-  source_label: Drew et al. 2007
+  source: Houghton et al. 2005
+  source_label: Houghton et al. 2005
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDA.Houghton.2005.Fig.5.png
 name: ectodysplasin A

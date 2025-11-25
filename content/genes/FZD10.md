@@ -48,22 +48,22 @@ images:
 - caption: FZD10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD10/459342_3.jpg
   location: Neural Plate/Tube
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Mccabe et al. 2007
+  source_label: Mccabe et al. 2007
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Frizzled10.Figure5MNO.McCabe.2007.jpg
 - caption: FZD10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD10/459342_4.jpg
   location: Neural Plate/Tube
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Mccabe et al. 2007
+  source_label: Mccabe et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Frizzled10.Figure5PQR.McCabe.2007.jpg
 - caption: FZD10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD10/459342_5.jpg
   location: Spinal Cord
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Chesnutt et al. 2004
+  source_label: Chesnutt et al. 2004
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure5D.Fz10.Chesnutt.2004.jpg
 - caption: FZD10 expression
@@ -179,43 +179,43 @@ images:
 - caption: FZD10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD10/459342_21.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Paxton et al. 2010
+  source_label: Paxton et al. 2010
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paxton.2010.Fig.3-4.ALLIMAGES.jpg
 - caption: FZD10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD10/459342_22.jpg
   location: Primitive Streak
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Paxton et al. 2010
+  source_label: Paxton et al. 2010
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paxton.2010.Fig.3.Fzd10.D.ST4.jpg
 - caption: FZD10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD10/459342_23.jpg
   location: Ear/Otic Placode, Ectoderm
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Paxton et al. 2010
+  source_label: Paxton et al. 2010
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paxton.2010.Fig.3.Fzd10.I'.ST6.jpg
 - caption: FZD10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD10/459342_24.jpg
   location: Neural Plate/Tube, Primitive Streak
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Paxton et al. 2010
+  source_label: Paxton et al. 2010
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paxton.2010.Fig.3.Fzd10.I.ST6.jpg
 - caption: FZD10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD10/459342_25.jpg
   location: Ear/Otic Placode, Primitive Streak
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Paxton et al. 2010
+  source_label: Paxton et al. 2010
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paxton.2010.Fig.3.Fzd10.N.ST8.jpg
 - caption: FZD10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD10/459342_26.jpg
   location: Hindbrain, Midbrain, Neural Plate/Tube, Tail
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Paxton et al. 2010
+  source_label: Paxton et al. 2010
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paxton.2010.Fig.3.Fzd10.S.ST9.jpg
 - caption: FZD10 expression

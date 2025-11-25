@@ -164,8 +164,8 @@ images:
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_20.jpg
   location: Wing Mesenchyme
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Nissim et al. 2006
+  source_label: Nissim et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1F.Nissim.2006.jpg
 - caption: GREM1 expression
@@ -234,43 +234,43 @@ images:
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_30.jpg
   location: null
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Wade et al. 2012
+  source_label: Wade et al. 2012
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wade.2012.Fig6.ALLIMAGES-2.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_31.jpg
   location: Leg
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Wade et al. 2012
+  source_label: Wade et al. 2012
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wade.2012.Fig6.Grem1.HH23.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_32.jpg
   location: Leg
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Wade et al. 2012
+  source_label: Wade et al. 2012
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wade.2012.Fig4.A.Grem1.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_33.jpg
   location: null
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Wade et al. 2012
+  source_label: Wade et al. 2012
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wade.2012.Fig4.ALLIMAGES.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_34.jpg
   location: Leg
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Wade et al. 2012
+  source_label: Wade et al. 2012
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wade.2012.Fig4.B.Grem1.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_35.jpg
   location: Leg
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Wade et al. 2012
+  source_label: Wade et al. 2012
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wade.2012.Fig6.Grem1.HH25.jpg
 - caption: GREM1 expression
@@ -311,50 +311,50 @@ images:
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_41.jpg
   location: Limb Buds
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Bardot et al. 2001
+  source_label: Bardot et al. 2001
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Drm.Bardot.2001.Fig1B-st20.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_42.jpg
   location: Limb Buds, Pharyngeal Arches and Clefts, Somites, Spinal Ganglia and Nerves
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Bardot et al. 2001
+  source_label: Bardot et al. 2001
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Drm.Bardot.2001.Fig1C-st22.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_43.jpg
   location: Pharyngeal Arches and Clefts
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Bardot et al. 2001
+  source_label: Bardot et al. 2001
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Drm.Bardot.2001.Fig2A-st22.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_44.jpg
   location: Pharyngeal Arches and Clefts
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Bardot et al. 2001
+  source_label: Bardot et al. 2001
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Drm.Bardot.2001.Fig2B-st22.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_45.jpg
   location: Pharyngeal Arches and Clefts
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Bardot et al. 2001
+  source_label: Bardot et al. 2001
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Drm.Bardot.2001.Fig2C-st22.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_46.jpg
   location: Limb Buds, Pharyngeal Arches and Clefts, Somites, Spinal Ganglia and Nerves
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Bardot et al. 2001
+  source_label: Bardot et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Drm.Bardot.2001.Fig1D-st24.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_47.jpg
   location: Pharyngeal Arches and Clefts
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Bardot et al. 2001
+  source_label: Bardot et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Drm.Bardot.2001.Fig2D-st24.jpg
 - caption: GREM1 expression
@@ -368,22 +368,22 @@ images:
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_49.jpg
   location: Limb Buds, Pharyngeal Arches and Clefts, Somites
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Bardot et al. 2001
+  source_label: Bardot et al. 2001
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Drm.Bardot.2001.Fig1E-st26.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_50.jpg
   location: null
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Bardot et al. 2001
+  source_label: Bardot et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Drm.Bardot.2001.Fig1.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_51.jpg
   location: null
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Bardot et al. 2001
+  source_label: Bardot et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Drm.Bardot.2001.Fig2.jpg
 - caption: GREM1 expression
@@ -396,134 +396,134 @@ images:
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_53.jpg
   location: Feathers/Scutae
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig1A-st31.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_54.jpg
   location: Feathers/Scutae
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig1B-st31.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_55.jpg
   location: Dermis, Feathers/Scutae
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig1C-st31.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_56.jpg
   location: Feathers/Scutae
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig1D-st36.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_57.jpg
   location: Feathers/Scutae
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig1E-st37.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_58.jpg
   location: Dermis, Feathers/Scutae
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig2A-st37.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_59.jpg
   location: Feathers/Scutae
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig2B-st37.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_60.jpg
   location: Feathers/Scutae
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig2C-st37.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_61.jpg
   location: Feathers/Scutae
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig2D-st37.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_62.jpg
   location: Feathers/Scutae
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig2E-st37.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_63.jpg
   location: Feathers/Scutae
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig2F-st37.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_64.jpg
   location: Feathers/Scutae
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig2G-st37.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_65.jpg
   location: Feathers/Scutae
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig2H-st37.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_66.jpg
   location: Feathers/Scutae
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig2I-st37.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_67.jpg
   location: Feathers/Scutae
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig2J-st37.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_68.jpg
   location: Feathers/Scutae
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig2K-st37.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_69.jpg
   location: Feathers/Scutae
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig2L-st37.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_70.jpg
   location: null
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig1.jpg
 - caption: GREM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GREM1/450044_71.jpg
   location: null
-  source: Huillard et al. 2004
-  source_label: Huillard et al. 2004
+  source: Ohyama et al. 2001
+  source_label: Ohyama et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/gremlin.Ohyama.2001.Fig2.jpg
 name: gremlin 1, DAN family BMP antagonist

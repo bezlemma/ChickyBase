@@ -23,22 +23,22 @@ images:
 - caption: PRPH2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PRPH2/450805_0.jpg
   location: Retina
-  source: Bradford et al. 2005
-  source_label: Bradford et al. 2005
+  source: Brad et al. 2005
+  source_label: Brad et al. 2005
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PERIPHERIN.FIG2Q.BRAD.2005.jpg
 - caption: PRPH2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PRPH2/450805_1.jpg
   location: Retina
-  source: Bradford et al. 2005
-  source_label: Bradford et al. 2005
+  source: Brad et al. 2005
+  source_label: Brad et al. 2005
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PERIPHERIN.FIG2R.BRAD.2005.jpg
 - caption: PRPH2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PRPH2/450805_2.jpg
   location: Retina
-  source: Bradford et al. 2005
-  source_label: Bradford et al. 2005
+  source: Brad et al. 2005
+  source_label: Brad et al. 2005
   stage: stage 43
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PERIPHERIN.FIG2S.BRAD.2005.jpg
 - caption: PRPH2 expression
@@ -51,8 +51,8 @@ images:
 - caption: PRPH2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PRPH2/450805_4.jpg
   location: Retina
-  source: Bradford et al. 2005
-  source_label: Bradford et al. 2005
+  source: Brad et al. 2005
+  source_label: Brad et al. 2005
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PERIPHERIN.FIG2T.BRAD.2005.jpg
 name: peripherin 2

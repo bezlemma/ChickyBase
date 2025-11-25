@@ -67,32 +67,32 @@ images:
 - caption: PTN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTN/455332_5.jpg
   location: Intermediate Mesoderm
-  source: Chambers et al. 2006
-  source_label: Chambers et al. 2006
+  source: Lee et al. 2012
+  source_label: Lee et al. 2012
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PTN.Lee.2012.Fig.2
     ptn  shell gland.png
 - caption: PTN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTN/455332_6.jpg
   location: Intermediate Mesoderm
-  source: Chambers et al. 2006
-  source_label: Chambers et al. 2006
+  source: Lee et al. 2012
+  source_label: Lee et al. 2012
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PTN.Lee.2012.Fig.2
     ptn isthmus.png
 - caption: PTN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTN/455332_7.jpg
   location: Intermediate Mesoderm
-  source: Chambers et al. 2006
-  source_label: Chambers et al. 2006
+  source: Lee et al. 2012
+  source_label: Lee et al. 2012
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PTN.Lee.2012.Fig.2
     ptn magnum.png
 - caption: PTN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTN/455332_8.jpg
   location: null
-  source: Chambers et al. 2006
-  source_label: Chambers et al. 2006
+  source: Lee et al. 2012
+  source_label: Lee et al. 2012
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PTN.Lee.2012.Fig.2.png
 - caption: PTN expression
@@ -112,8 +112,8 @@ images:
 - caption: PTN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTN/455332_11.jpg
   location: Eye
-  source: Chambers et al. 2006
-  source_label: Chambers et al. 2006
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig3.F.PTN_E5.jpg
 - caption: PTN expression
@@ -126,43 +126,43 @@ images:
 - caption: PTN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTN/455332_13.jpg
   location: Retina
-  source: Chambers et al. 2006
-  source_label: Chambers et al. 2006
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig3.G.PTN_E7.jpg
 - caption: PTN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTN/455332_14.jpg
   location: Retina
-  source: Chambers et al. 2006
-  source_label: Chambers et al. 2006
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig3.H.PTN_E10.jpg
 - caption: PTN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTN/455332_15.jpg
   location: Eye
-  source: Chambers et al. 2006
-  source_label: Chambers et al. 2006
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig6.PTN_B.jpg
 - caption: PTN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTN/455332_16.jpg
   location: Cranial Ganglia, Eye
-  source: Chambers et al. 2006
-  source_label: Chambers et al. 2006
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig6.PTN_G-G'.jpg
 - caption: PTN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTN/455332_17.jpg
   location: Eye
-  source: Chambers et al. 2006
-  source_label: Chambers et al. 2006
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig3.i.MDK_E15-2.jpg
 - caption: PTN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTN/455332_18.jpg
   location: Eye
-  source: Chambers et al. 2006
-  source_label: Chambers et al. 2006
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig3.J.PTN_E18.jpg
 - caption: PTN expression
@@ -175,15 +175,15 @@ images:
 - caption: PTN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTN/455332_20.jpg
   location: null
-  source: Chambers et al. 2006
-  source_label: Chambers et al. 2006
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig3.Allimages-3.jpg
 - caption: PTN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTN/455332_21.jpg
   location: null
-  source: Chambers et al. 2006
-  source_label: Chambers et al. 2006
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig6.Allimages-5.jpg
 name: pleiotrophin

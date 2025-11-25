@@ -237,16 +237,16 @@ images:
 - caption: STRA6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STRA6/456374_31.jpg
   location: Heart
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STRA6.Anderson.2019.Supplementary
     figure 5H1-st12.jpg
 - caption: STRA6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/STRA6/456374_32.jpg
   location: null
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/STRA6.Anderson.2019.Supplementary
     figure 5H1.jpg

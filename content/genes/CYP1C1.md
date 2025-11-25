@@ -34,36 +34,36 @@ images:
 - caption: CYP1C1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP1C1/456401_2.jpg
   location: Hindbrain
-  source: Guinazu et al. 2007
-  source_label: Guinazu et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP1B1.HH26.Wilson.2007.F4.cyp1b1.png
 - caption: CYP1C1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP1C1/456401_3.jpg
   location: Hindbrain
-  source: Guinazu et al. 2007
-  source_label: Guinazu et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP1B1.Wilson.2007.F9.cyp1b1.png
 - caption: CYP1C1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP1C1/456401_4.jpg
   location: null
-  source: Guinazu et al. 2007
-  source_label: Guinazu et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wilson.2007.F9.cyp1b1.png
 - caption: CYP1C1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP1C1/456401_5.jpg
   location: Hindbrain
-  source: Guinazu et al. 2007
-  source_label: Guinazu et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CYP1B1.HH32.Wilson.2007.F4.cyp1b1.png
 - caption: CYP1C1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP1C1/456401_6.jpg
   location: null
-  source: Guinazu et al. 2007
-  source_label: Guinazu et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wilson.2007.F4.cyp1b1.png
 name: cytochrome P450 family 1 subfamily C polypeptide 1

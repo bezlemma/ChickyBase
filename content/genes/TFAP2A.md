@@ -32,85 +32,85 @@ images:
 - caption: TFAP2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TFAP2A/451263_1.jpg
   location: Ectoderm
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AP2.FIG1I.KHUD.2009.jpg
 - caption: TFAP2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TFAP2A/451263_2.jpg
   location: Ectoderm
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AP2.FIG3D.KHUD.2009.jpg
 - caption: TFAP2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TFAP2A/451263_3.jpg
   location: Ectoderm
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AP2.FIG3E.KHUD.2009.jpg
 - caption: TFAP2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TFAP2A/451263_4.jpg
   location: null
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3.KHUD.2009.jpg
 - caption: TFAP2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TFAP2A/451263_5.jpg
   location: Ectoderm
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AP2.FIG1R.KHUD.2009.jpg
 - caption: TFAP2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TFAP2A/451263_6.jpg
   location: Ectoderm
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AP2.FIG1AA.KHUD.2009.jpg
 - caption: TFAP2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TFAP2A/451263_7.jpg
   location: Ectoderm
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AP2.FIG1JJ.KHUD.2009.jpg
 - caption: TFAP2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TFAP2A/451263_8.jpg
   location: null
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.KHUD.2009.jpg
 - caption: TFAP2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TFAP2A/451263_9.jpg
   location: Ectoderm
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AP2.FIG2J.KHUD.2009.jpg
 - caption: TFAP2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TFAP2A/451263_10.jpg
   location: Ectoderm, Neural Plate/Tube
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AP2.FIG2T.KHUD.2009.jpg
 - caption: TFAP2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TFAP2A/451263_11.jpg
   location: Ectoderm, Neural Crest, Neural Plate/Tube
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AP2.FIG2DD.KHUD.2009.jpg
 - caption: TFAP2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TFAP2A/451263_12.jpg
   location: null
-  source: Chapman et al. 2008
-  source_label: Chapman et al. 2008
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.KHUD.2009.jpg
 - caption: TFAP2A expression

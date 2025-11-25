@@ -40,43 +40,43 @@ images:
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_3.jpg
   location: null
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Pedersen et al. 2005
+  source_label: Pedersen et al. 2005
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.PEDERSEN.2005.jpg
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_4.jpg
   location: Anterior Intestinal Portal, Endoderm, Neural Plate/Tube, Pancreas
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Pedersen et al. 2005
+  source_label: Pedersen et al. 2005
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX2.2.FIG2EL.PEDERSEN.2005.jpg
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_5.jpg
   location: null
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Pedersen et al. 2005
+  source_label: Pedersen et al. 2005
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3.PEDERSEN.2005.jpg
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_6.jpg
   location: Endoderm, Neural Plate/Tube, Pancreas
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Pedersen et al. 2005
+  source_label: Pedersen et al. 2005
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX2.2.FIG3G.PEDERSEN.2005.jpg
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_7.jpg
   location: Endoderm, Head Process, Neural Plate/Tube, Pancreas
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Pedersen et al. 2005
+  source_label: Pedersen et al. 2005
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX2.2.FIG3H.PEDERSEN.2005.jpg
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_8.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Agarwala et al. 2005
+  source_label: Agarwala et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX2.2.FIG8C.AGARWALA.2005.jpg
 - caption: NKX2-2 expression
@@ -90,16 +90,16 @@ images:
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_10.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Davey et al. 2006
+  source_label: Davey et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NXK2.2.Davey.2006.Fig.2
     nkx22.png
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_11.jpg
   location: null
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Davey et al. 2006
+  source_label: Davey et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NXK2.2.Davey.2006.Fig.2.png
 - caption: NKX2-2 expression
@@ -119,71 +119,71 @@ images:
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_14.jpg
   location: null
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Garciacampmany et al. 2007
+  source_label: Garciacampmany et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GarciaCampmany.2007.f7.nkx2.2.png
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_15.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Garciacampmany et al. 2007
+  source_label: Garciacampmany et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX2.2.GarciaCampmany.2007.f7.nkx2.2.png
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_16.jpg
   location: null
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Campmany et al. 2007
+  source_label: Campmany et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Garcia.Campmany.2007.f2.nkx2.2.png
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_17.jpg
   location: Neural Plate/Tube, Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Campmany et al. 2007
+  source_label: Campmany et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX2.2.HH18.Garcia.Campmany.2007.f2.nkx2.2.png
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_18.jpg
   location: null
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Garciacampmany et al. 2007
+  source_label: Garciacampmany et al. 2007
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GarciaCampmany.2007.f1.nkx2.2.png
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_19.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Garciacampmany et al. 2007
+  source_label: Garciacampmany et al. 2007
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX2.2.GarciaCampmany.2007.f1.nkx2.2.png
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_20.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Zhu et al. 2001
+  source_label: Zhu et al. 2001
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhu.2001.Fig1.B.jpg
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_21.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Zhu et al. 2001
+  source_label: Zhu et al. 2001
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhu.2001.Fig1.G.jpg
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_22.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Zhu et al. 2001
+  source_label: Zhu et al. 2001
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhu.2001.Fig1.L.jpg
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_23.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Zhu et al. 2001
+  source_label: Zhu et al. 2001
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhu.2001.Fig1.Q.jpg
 name: NK2 homeobox 2

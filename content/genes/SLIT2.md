@@ -115,78 +115,78 @@ images:
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_13.jpg
   location: Midbrain
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit2.Riley.2010.Figure3.ImageD-F.JPG
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_14.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit2.Riley.2010.Figure3.ImageD.JPG
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_15.jpg
   location: Midbrain
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit2.Riley.2010.Figure3.ImageE.JPG
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_16.jpg
   location: Midbrain
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit2.Riley.2010.Figure3.ImageF.JPG
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_17.jpg
   location: Eye
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Conrad et al. 2009
+  source_label: Conrad et al. 2009
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit2.Conrad.2009.5D.PNG
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_18.jpg
   location: Eye
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Conrad et al. 2009
+  source_label: Conrad et al. 2009
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit2.Conrad.2009.5E.PNG
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_19.jpg
   location: Eye
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Conrad et al. 2009
+  source_label: Conrad et al. 2009
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit2.Conrad.2009.5F.PNG
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_20.jpg
   location: Eye, Lens
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Kubilus et al. 2010
+  source_label: Kubilus et al. 2010
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLIT2.Kubilus.2010.5A.26.PNG
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_21.jpg
   location: Eye
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Kubilus et al. 2010
+  source_label: Kubilus et al. 2010
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLIT2.Kubilus.2010.5B.26.PNG
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_22.jpg
   location: Eye, Lens
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Kubilus et al. 2010
+  source_label: Kubilus et al. 2010
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLIT2.Kubilus.2010.5C.40.PNG
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_23.jpg
   location: Lens
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Kubilus et al. 2010
+  source_label: Kubilus et al. 2010
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLIT2.Kubilus.2010.5D.40.PNG
 - caption: SLIT2 expression
@@ -325,86 +325,86 @@ images:
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_43.jpg
   location: null
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Giovannone et al. 2012
+  source_label: Giovannone et al. 2012
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Giovannone.2012.Fig1.ALLIMAGES-2.jpg
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_44.jpg
   location: Central Nervous System, Eye, Neural Plate/Tube
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Giovannone et al. 2012
+  source_label: Giovannone et al. 2012
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Giovannone.2012.Fig1.B.Slit2.HH12-13.jpg
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_45.jpg
   location: Neural Plate/Tube
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Giovannone et al. 2012
+  source_label: Giovannone et al. 2012
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Giovannone.2012.Fig1.J-K.Slit2.HH12-13.jpg
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_46.jpg
   location: Leg AER, Paraxial Mesoderm
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit2.Vargesson.2001.Fig2E-st20.jpg
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_47.jpg
   location: Limb Buds
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit2.Vargesson.2001.Fig2F-st24.jpg
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_48.jpg
   location: Limb Buds
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit2.Vargesson.2001.Fig3B-st26.jpg
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_49.jpg
   location: Limb Buds
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit2.Vargesson.2001.Fig2G-st28.jpg
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_50.jpg
   location: Limb Buds
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit2.Vargesson.2001.Fig2H-st32.jpg
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_51.jpg
   location: null
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit2.Vargesson.2001.Fig2.jpg
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_52.jpg
   location: null
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slit2.Vargesson.2001.Fig3.jpg
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_53.jpg
   location: Heart
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLIT2.Anderson.2019.Supplementary
     figure 5G2-st12.jpg
 - caption: SLIT2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLIT2/451538_54.jpg
   location: null
-  source: Holmes et al. 2001
-  source_label: Holmes et al. 2001
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLIT2.Anderson.2019.Supplementary
     figure 5G2.jpg

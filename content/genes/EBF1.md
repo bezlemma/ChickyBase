@@ -112,16 +112,16 @@ images:
 - caption: EBF1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EBF1/449672_12.jpg
   location: Telencephalon
-  source: Mella et al. 2004
-  source_label: Mella et al. 2004
+  source: Bielle et al. 2011
+  source_label: Bielle et al. 2011
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EBF1.Bielle.2011.Fig.4
     ebf1.png
 - caption: EBF1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EBF1/449672_13.jpg
   location: null
-  source: Mella et al. 2004
-  source_label: Mella et al. 2004
+  source: Bielle et al. 2011
+  source_label: Bielle et al. 2011
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EBF1.Bielle.2011.Fig.4.png
 - caption: EBF1 expression

@@ -58,15 +58,15 @@ images:
 - caption: EN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EN2/473966_4.jpg
   location: Dermatome, Dermomyotome, Myotome, Somites
-  source: Ahmed et al. 2006
-  source_label: Ahmed et al. 2006
+  source: Bothe et al. 2007
+  source_label: Bothe et al. 2007
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/En1.Figure2F.Bothe.2007.jpg
 - caption: EN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EN2/473966_5.jpg
   location: null
-  source: Ahmed et al. 2006
-  source_label: Ahmed et al. 2006
+  source: Bothe et al. 2007
+  source_label: Bothe et al. 2007
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2.Bothe.2007.jpg
 - caption: EN2 expression
@@ -107,22 +107,22 @@ images:
 - caption: EN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EN2/473966_11.jpg
   location: Spinal Cord
-  source: Ahmed et al. 2006
-  source_label: Ahmed et al. 2006
+  source: Agarwala et al. 2005
+  source_label: Agarwala et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EN1.FIG7G.AGARWALA.2005.jpg
 - caption: EN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EN2/473966_12.jpg
   location: null
-  source: Ahmed et al. 2006
-  source_label: Ahmed et al. 2006
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EN1.Chambers.2006.3.png
 - caption: EN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EN2/473966_13.jpg
   location: Isthmus/MHB, Midbrain
-  source: Ahmed et al. 2006
-  source_label: Ahmed et al. 2006
+  source: Chambers et al. 2006
+  source_label: Chambers et al. 2006
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EN1.Chambers.2006.3a'.png
 name: engrailed homeobox 2

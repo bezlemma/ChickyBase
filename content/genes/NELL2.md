@@ -22,22 +22,22 @@ images:
 - caption: NELL2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NELL2/452942_0.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Publication
-  source_label: Publication
+  source: Nelson et al. 2004
+  source_label: Nelson et al. 2004
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NELL2.Nelson.2004.fig3a-st24.jpg
 - caption: NELL2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NELL2/452942_1.jpg
   location: Peripheral Nervous System
-  source: Publication
-  source_label: Publication
+  source: Nelson et al. 2004
+  source_label: Nelson et al. 2004
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NELL2.Nelson.2004.fig3e-st35.jpg
 - caption: NELL2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NELL2/452942_2.jpg
   location: null
-  source: Publication
-  source_label: Publication
+  source: Nelson et al. 2004
+  source_label: Nelson et al. 2004
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NELL2.Nelson.2004.fig3.jpg
 name: neural EGFL like 2

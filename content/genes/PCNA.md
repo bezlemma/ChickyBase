@@ -45,8 +45,8 @@ images:
 - caption: PCNA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCNA/451480_3.jpg
   location: Dermomyotome, Neural Plate/Tube, Sclerotome
-  source: Tao et al. 2002
-  source_label: Tao et al. 2002
+  source: Zhang et al. 2006
+  source_label: Zhang et al. 2006
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhang.2006.Fig4.PCNA.E.jpg
 name: proliferating cell nuclear antigen

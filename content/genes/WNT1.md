@@ -46,8 +46,8 @@ images:
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_3.jpg
   location: Diencephalon, Midbrain
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Ohuchi et al. 2007
+  source_label: Ohuchi et al. 2007
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1.FIG4DHL.OHUCHI.2007.jpg
 - caption: WNT1 expression
@@ -81,57 +81,57 @@ images:
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_8.jpg
   location: Neural Plate/Tube, Spinal Cord
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Chesnutt et al. 2004
+  source_label: Chesnutt et al. 2004
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure5A.Wnt1.Chesnutt.2004.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_9.jpg
   location: Hindbrain, Midbrain, Neural Plate/Tube, Spinal Cord
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Ladher et al. 2000
+  source_label: Ladher et al. 2000
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1.FIG3K.LADHER.2000.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_10.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Ladher et al. 2000
+  source_label: Ladher et al. 2000
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3b.LADHER.2000.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_11.jpg
   location: Hindbrain, Midbrain, Neural Plate/Tube, Spinal Cord
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Ladher et al. 2000
+  source_label: Ladher et al. 2000
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1.FIG3R.LADHER.2000.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_12.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Baranski et al. 2000
+  source_label: Baranski et al. 2000
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3.BARANSKI.2000.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_13.jpg
   location: Hindbrain, Isthmus/MHB, Midbrain, Neural Plate/Tube, Spinal Cord
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Baranski et al. 2000
+  source_label: Baranski et al. 2000
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1.FIG3AE.BARANSKI.2000.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_14.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Baranski et al. 2000
+  source_label: Baranski et al. 2000
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG5.BARANSKI.2000.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_15.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Baranski et al. 2000
+  source_label: Baranski et al. 2000
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1.FIG5CFILO.BARANSKI.2000.jpg
 - caption: WNT1 expression
@@ -258,113 +258,113 @@ images:
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_33.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Canning et al. 2007
+  source_label: Canning et al. 2007
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.Canning.2007.Figure1A'.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_34.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Canning et al. 2007
+  source_label: Canning et al. 2007
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.Canning.2007.Figure1A.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_35.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Canning et al. 2007
+  source_label: Canning et al. 2007
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.Canning.2007.Figure1B'.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_36.jpg
   location: Hindbrain, Midbrain, Neural Plate/Tube, Spinal Cord
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Canning et al. 2007
+  source_label: Canning et al. 2007
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.Canning.2007.Figure1B.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_37.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube, Rhombomeres
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Canning et al. 2007
+  source_label: Canning et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.Canning.2007.Figure1C'.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_38.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Canning et al. 2007
+  source_label: Canning et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.Canning.2007.Figure1C-G.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_39.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube, Rhombomeres
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Canning et al. 2007
+  source_label: Canning et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.Canning.2007.Figure1C.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_40.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube, Rhombomeres
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Canning et al. 2007
+  source_label: Canning et al. 2007
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.Canning.2007.Figure1D'.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_41.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Canning et al. 2007
+  source_label: Canning et al. 2007
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.Canning.2007.Figure1D-H.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_42.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube, Rhombomeres
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Canning et al. 2007
+  source_label: Canning et al. 2007
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.Canning.2007.Figure1D.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_43.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube, Rhombomeres
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Canning et al. 2007
+  source_label: Canning et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.Canning.2007.Figure1E.Full.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_44.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube, Rhombomeres
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Canning et al. 2007
+  source_label: Canning et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.Canning.2007.Figure1E.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_45.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Canning et al. 2007
+  source_label: Canning et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.Canning.2007.Figure1F.Full.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_46.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Jin et al. 2001
+  source_label: Jin et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.JIN.2001.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_47.jpg
   location: Neural Plate/Tube
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Jin et al. 2001
+  source_label: Jin et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1.FIG1D.JIN.2001.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_48.jpg
   location: Duodenum, Hindgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.Theodosiou.2003.1IL.png
 - caption: WNT1 expression
@@ -377,15 +377,15 @@ images:
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_50.jpg
   location: Duodenum, Hindgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.Theodosiou.2003.1U.png
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_51.jpg
   location: Duodenum, Hindgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.Theodosiou.2003.1UX.png
 - caption: WNT1 expression
@@ -407,85 +407,85 @@ images:
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_54.jpg
   location: Eye, Mesencephalon, Midbrain
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Golden et al. 1999
+  source_label: Golden et al. 1999
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1.Golden.1999.Fig.3
     wnt1.png
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_55.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Golden et al. 1999
+  source_label: Golden et al. 1999
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1.Golden.1999.Fig.3.png
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_56.jpg
   location: Mesencephalon
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Adams et al. 2000
+  source_label: Adams et al. 2000
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1.Adams.2000.Fig.3
     wnt1 st10.png
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_57.jpg
   location: Isthmus/MHB
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Adams et al. 2000
+  source_label: Adams et al. 2000
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1.Adams.2000.Fig.3
     wnt1 st12.png
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_58.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Adams et al. 2000
+  source_label: Adams et al. 2000
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1.Adams.2000.Fig.3.png
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_59.jpg
   location: Central Nervous System, Surface Ectoderm
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Brugmann et al. 2010
+  source_label: Brugmann et al. 2010
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1.Brugmann.2010.Fig.3
     wnt1.png
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_60.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Brugmann et al. 2010
+  source_label: Brugmann et al. 2010
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1.Brugmann.2010.Fig.3.png
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_61.jpg
   location: Metencephalon
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Rossi et al. 2007
+  source_label: Rossi et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1.Rossi.2007.Fig.1
     wnt1 st10.png
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_62.jpg
   location: Metencephalon, Neural Plate/Tube
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Rossi et al. 2007
+  source_label: Rossi et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1.Rossi.2007.Fig.1
     wnt1 st14.png
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_63.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Rossi et al. 2007
+  source_label: Rossi et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1.Rossi.2007.Fig.1
     wnt1 st16.png
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_64.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Rossi et al. 2007
+  source_label: Rossi et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1.Rossi.2007.Fig.1.png
 - caption: WNT1 expression
@@ -498,22 +498,22 @@ images:
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_66.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Wnt1hu et al. 2012
+  source_label: Wnt1hu et al. 2012
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1Hu.2012.F4.wnt1.png
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_67.jpg
   location: Neural Plate/Tube
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Cauthen et al. 2001
+  source_label: Cauthen et al. 2001
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt-1.Cauthen.2001.Fig1B-st10.jpg
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_68.jpg
   location: null
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Cauthen et al. 2001
+  source_label: Cauthen et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt-1.Cauthen.2001.jpg
 - caption: WNT1 expression

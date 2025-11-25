@@ -31,16 +31,16 @@ images:
 - caption: TNNI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI2/461651_1.jpg
   location: Heart, Ventricles
-  source: Kruithof et al. 2006
-  source_label: Kruithof et al. 2006
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TNNI2.Anderson.2019.Supplementary
     figure 5D-st12.jpg
 - caption: TNNI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNNI2/461651_2.jpg
   location: null
-  source: Kruithof et al. 2006
-  source_label: Kruithof et al. 2006
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TNNI2.Anderson.2019.Supplementary
     figure 5D.jpg

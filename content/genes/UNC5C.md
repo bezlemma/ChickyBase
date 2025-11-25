@@ -28,22 +28,22 @@ images:
 - caption: UNC5C expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/UNC5C/462130_0.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Guan et al. 2008
+  source_label: Guan et al. 2008
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CUNC5H3.Guan.2008.f5.cunc5h3.png
 - caption: UNC5C expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/UNC5C/462130_1.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Guan et al. 2008
+  source_label: Guan et al. 2008
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CUNC5H3.ls4.Guan.2008.f5.cunc5h3.png
 - caption: UNC5C expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/UNC5C/462130_2.jpg
   location: null
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Guan et al. 2008
+  source_label: Guan et al. 2008
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Guan.2008.f5.cunc5h3.png
 name: unc-5 netrin receptor C

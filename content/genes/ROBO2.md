@@ -66,129 +66,129 @@ images:
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_6.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Shiau et al. 2008
+  source_label: Shiau et al. 2008
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.SHIAU.2008.jpg
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_7.jpg
   location: Cranial PNS, Ectoderm, Placcode
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Shiau et al. 2008
+  source_label: Shiau et al. 2008
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROBO2.FIG2D.SHIAU.2008.jpg
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_8.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo2.Riley.2010.Figure3.ImageM-O.JPG
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_9.jpg
   location: Unlabeled
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo2.Riley.2010.Figure3.ImageM.JPG
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_10.jpg
   location: Midbrain
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo2.Riley.2010.Figure3.ImageN.JPG
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_11.jpg
   location: Midbrain
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo2.Riley.2010.Figure3.ImageO.JPG
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_12.jpg
   location: Cranial Ganglia
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Kubilus et al. 2010
+  source_label: Kubilus et al. 2010
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROBO2.Kubilus.2010.FIg.6
     robo2 st31.png
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_13.jpg
   location: Cranial Ganglia
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Kubilus et al. 2010
+  source_label: Kubilus et al. 2010
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROBO2.Kubilus.2010.FIg.6
     robo2 st40.png
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_14.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Kubilus et al. 2010
+  source_label: Kubilus et al. 2010
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROBO2.Kubilus.2010.FIg.6.png
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_15.jpg
   location: Somites, Spinal Cord
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Halperinbarlev et al. 2011
+  source_label: Halperinbarlev et al. 2011
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROBO2.HalperinBarlev.2011.Fig.3
     robo2 delamprogenC.png
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_16.jpg
   location: Dermomyotome, Sclerotome, Spinal Cord
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Halperinbarlev et al. 2011
+  source_label: Halperinbarlev et al. 2011
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROBO2.HalperinBarlev.2011.Fig.3
     robo2 delamprogenF.png
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_17.jpg
   location: Somites, Spinal Cord
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Halperinbarlev et al. 2011
+  source_label: Halperinbarlev et al. 2011
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROBO2.HalperinBarlev.2011.Fig.3
     robo2 medepisomiteD.png
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_18.jpg
   location: Somites, Spinal Cord
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Halperinbarlev et al. 2011
+  source_label: Halperinbarlev et al. 2011
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROBO2.HalperinBarlev.2011.Fig.3
     robo2 medepisomiteG.png
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_19.jpg
   location: Somites, Spinal Cord
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Halperinbarlev et al. 2011
+  source_label: Halperinbarlev et al. 2011
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROBO2.HalperinBarlev.2011.Fig.3
     robo2 myofibersB.png
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_20.jpg
   location: Dermomyotome, Sclerotome, Spinal Cord
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Halperinbarlev et al. 2011
+  source_label: Halperinbarlev et al. 2011
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROBO2.HalperinBarlev.2011.Fig.3
     robo2 myofibersE.png
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_21.jpg
   location: Neural Plate/Tube, Somites, Spinal Cord
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Halperinbarlev et al. 2011
+  source_label: Halperinbarlev et al. 2011
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROBO2.HalperinBarlev.2011.Fig.3
     robo2.png
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_22.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Halperinbarlev et al. 2011
+  source_label: Halperinbarlev et al. 2011
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROBO2.HalperinBarlev.2011.Fig.3.png
 - caption: ROBO2 expression
@@ -264,29 +264,29 @@ images:
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_33.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Giovannone et al. 2012
+  source_label: Giovannone et al. 2012
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Giovannone.2012.Fig1.ALLIMAGES-6.jpg
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_34.jpg
   location: Eye, Hindbrain, Neural Plate/Tube
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Giovannone et al. 2012
+  source_label: Giovannone et al. 2012
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Giovannone.2012.Fig1.E.Robo2.HH10-11.jpg
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_35.jpg
   location: Neural Plate/Tube, Notochord
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Giovannone et al. 2012
+  source_label: Giovannone et al. 2012
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Giovannone.2012.Fig1.L.Robo2.HH10-11.jpg
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_36.jpg
   location: Neural Plate/Tube
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Giovannone et al. 2012
+  source_label: Giovannone et al. 2012
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Giovannone.2012.Fig1.M.Robo2.HH16.jpg
 - caption: ROBO2 expression
@@ -320,85 +320,85 @@ images:
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_41.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo2.Vargesson.2001.Fig2Q-st20.jpg
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_42.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo2.Vargesson.2001.Fig2R-st25.jpg
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_43.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo2.Vargesson.2001.Fig4I-st25.jpg
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_44.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo2.Vargesson.2001.Fig3E-st26.jpg
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_45.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo2.Vargesson.2001.Fig2S-st28.jpg
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_46.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo2.Vargesson.2001.Fig4J-st30.jpg
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_47.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo2.Vargesson.2001.Fig2T-st32.jpg
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_48.jpg
   location: Leg Mesenchyme
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo2.Vargesson.2001.Fig4K-st32.jpg
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_49.jpg
   location: Limb Buds
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo2.Vargesson.2001.Fig4L-st36.jpg
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_50.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo2.Vargesson.2001.Fig2.jpg
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_51.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo2.Vargesson.2001.Fig3.jpg
 - caption: ROBO2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROBO2/461571_52.jpg
   location: null
-  source: Jia et al. 2005
-  source_label: Jia et al. 2005
+  source: Vargesson et al. 2001
+  source_label: Vargesson et al. 2001
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robo2.Vargesson.2001.Fig4.jpg
 name: roundabout guidance receptor 2

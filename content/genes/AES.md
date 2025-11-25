@@ -19,142 +19,142 @@ images:
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_0.jpg
   location: Hensen's Node, Primitive Streak
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG5.FIG2M.VAN.2005.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_1.jpg
   location: Head Process, Hensen's Node, Primitive Streak
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG5.FIG2N.VAN.2005.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_2.jpg
   location: null
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Vanhateren et al. 2005
+  source_label: Vanhateren et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.VANHATEREN.2005.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_3.jpg
   location: Forebrain, Head Process, Neural Plate/Tube, Primitive Streak, Somites
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG5.FIG2O.VAN.2005.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_4.jpg
   location: Forebrain, Hindbrain, Midbrain, Neural Plate/Tube, Notochord, Primitive
     Streak, Somites
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG5.FIG3M.VAN.2005.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_5.jpg
   location: Dermomyotome, Myotome, Neural Plate/Tube, Notochord, Somites
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG5.FIG3N.VAN.2005.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_6.jpg
   location: Forebrain, Hindbrain, Midbrain, Widespread Expression
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG5.FIG3O.VAN.2005.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_7.jpg
   location: null
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3.VAN.2005.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_8.jpg
   location: Dermomyotome, Myotome
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG5.FIG3T.VAN.2005.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_9.jpg
   location: Limb Buds, Wing
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG5.FIG4M.VAN.2005.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_10.jpg
   location: Wing Muscles
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG5.FIG4O.VAN.2005.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_11.jpg
   location: null
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG4.VAN.2005.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_12.jpg
   location: Leg Muscles, Wing Muscles
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Van et al. 2005
+  source_label: Van et al. 2005
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GRG5.FIG4N.VAN.2005.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_13.jpg
   location: Feathers/Scutae
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Houghton et al. 2003
+  source_label: Houghton et al. 2003
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Grg5.Houghton.2003.Fig2C.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_14.jpg
   location: Feathers/Scutae
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Houghton et al. 2003
+  source_label: Houghton et al. 2003
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Grg5.Houghton.2003.Fig2L.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_15.jpg
   location: Feathers/Scutae
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Houghton et al. 2003
+  source_label: Houghton et al. 2003
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Grg5.Houghton.2003.Fig2F.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_16.jpg
   location: Feathers/Scutae
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Houghton et al. 2003
+  source_label: Houghton et al. 2003
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Grg5.Houghton.2003.Fig2O.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_17.jpg
   location: Feathers/Scutae
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Houghton et al. 2003
+  source_label: Houghton et al. 2003
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Grg5.Houghton.2003.Fig2I.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_18.jpg
   location: Feathers/Scutae
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Houghton et al. 2003
+  source_label: Houghton et al. 2003
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Grg5.Houghton.2003.Fig2R.jpg
 - caption: AES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AES/473073_19.jpg
   location: Surface Ectoderm
-  source: VanHateren et al. 2005
-  source_label: VanHateren et al. 2005
+  source: Houghton et al. 2003
+  source_label: Houghton et al. 2003
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Grg5.Houghton.2003.Fig3C'.jpg
 name: amino-terminal enhancer of split

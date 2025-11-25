@@ -126,22 +126,22 @@ images:
 - caption: CLDN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CLDN3/454543_15.jpg
   location: null
-  source: Haworth et al. 2005
-  source_label: Haworth et al. 2005
+  source: Haddad et al. 2011
+  source_label: Haddad et al. 2011
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Haddad.2011.Fig4.ALLIMAGES.jpg
 - caption: CLDN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CLDN3/454543_16.jpg
   location: Ectoderm, Endoderm, Nephric Ducts
-  source: Haworth et al. 2005
-  source_label: Haworth et al. 2005
+  source: Haddad et al. 2011
+  source_label: Haddad et al. 2011
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Haddad.2011.Fig4.CLDN3.A.jpg
 - caption: CLDN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CLDN3/454543_17.jpg
   location: Nephric Ducts
-  source: Haworth et al. 2005
-  source_label: Haworth et al. 2005
+  source: Haddad et al. 2011
+  source_label: Haddad et al. 2011
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Haddad.2011.Fig4.CLDN3.B.jpg
 name: claudin 3

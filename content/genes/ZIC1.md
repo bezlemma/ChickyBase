@@ -66,299 +66,299 @@ images:
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_6.jpg
   location: Epiblast, Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.FIG1D.KHUD.2009.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_7.jpg
   location: Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.FIG1M.KHUD.2009.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_8.jpg
   location: Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.FIG1V.KHUD.2009.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_9.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.KHUD.2009.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_10.jpg
   location: Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.FIG1EE.KHUD.2009.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_11.jpg
   location: Forebrain, Neural Crest, Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.FIG2E.KHUD.2009.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_12.jpg
   location: Forebrain, Hindbrain, Nasal Placcode/Nerve, Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.FIG2O.KHUD.2009.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_13.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.KHUD.2009.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_14.jpg
   location: Forebrain, Hindbrain, Nasal Placcode/Nerve, Neural Plate/Tube, Somites
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.FIG2Y.KHUD.2009.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_15.jpg
   location: Headfold
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.1
     zic1 st7.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_16.jpg
   location: Forebrain, Hindbrain
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.1
     zic1 st8.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_17.jpg
   location: Forebrain, Hindbrain
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.1
     zic1 st9.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_18.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.1
     zic1 st10.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_19.jpg
   location: Mesencephalon, Rhombomeres, Somites
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.1
     zic1 st11.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_20.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.1.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_21.jpg
   location: Forebrain, Hindbrain, Midbrain, Neural Plate/Tube, Somites
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.4
     zic1 rhom mes.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_22.jpg
   location: Somites
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.4
     zic1 tail.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_23.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.4
     zic1 trunk.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_24.jpg
   location: Forebrain, Hindbrain, Midbrain, Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.4
     zic1.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_25.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.4.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_26.jpg
   location: Hindbrain
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.6
     zic1  hindbrain.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_27.jpg
   location: Dermatome, Neural Plate/Tube, Sclerotome
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.6
     zic1 mid trunk.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_28.jpg
   location: Neural Plate/Tube, Somites
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.6
     zic1 pos trunk.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_29.jpg
   location: Surface Ectoderm
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.6
     zic1 presom mesod.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_30.jpg
   location: Surface Ectoderm
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.6
     zic1 tail.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_31.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.6.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_32.jpg
   location: Brainstem Nuclei, Diencephalon, Mesencephalon, Metencephalon, Myelencephalon
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.5
     zic1 eye.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_33.jpg
   location: Mesencephalon, Metencephalon, Myelencephalon
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.5
     zic1 mesmetmye.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_34.jpg
   location: Neural Plate/Tube, Somites
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.5
     zic1 tail.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_35.jpg
   location: Neural Plate/Tube, Somites
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.5
     zic1 trunk.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_36.jpg
   location: Mesencephalon, Metencephalon, Myelencephalon, Rhombomeres, Somites
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.5
     zic1.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_37.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.McMahon.2010.Fig.5.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_38.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC4.McMahon.2010.Fig.6
     zic4 ante trunk.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_39.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC4.McMahon.2010.Fig.6
     zic4 hindbrain.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_40.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC4.McMahon.2010.Fig.6
     zic4 mid trunk.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_41.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC4.McMahon.2010.Fig.6
     zic4 pos trunk.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_42.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC4.McMahon.2010.Fig.6
     zic4 presom mesod.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_43.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC4.McMahon.2010.Fig.6
     zic4 tail.png
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_44.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Mcmahon et al. 2010
+  source_label: Mcmahon et al. 2010
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC4.McMahon.2010.Fig.6.png
 - caption: ZIC1 expression
@@ -378,15 +378,15 @@ images:
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_47.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Ferran et al. 2012
+  source_label: Ferran et al. 2012
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.ALLIMAGES-5.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_48.jpg
   location: Forebrain, Midbrain
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Ferran et al. 2012
+  source_label: Ferran et al. 2012
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.I.Zic1.ST.HH17.jpg
 - caption: ZIC1 expression
@@ -413,400 +413,400 @@ images:
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_52.jpg
   location: Diencephalon
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Ferran et al. 2012
+  source_label: Ferran et al. 2012
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.M.Ferran.2012.Zic1.HH25.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_53.jpg
   location: Unlabeled
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig1A-ST12.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_54.jpg
   location: Ear/Otic Placode, Hindbrain
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig4A-ST12.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_55.jpg
   location: Ear/Otic Placode
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig4B-ST12.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_56.jpg
   location: Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig1B-ST14.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_57.jpg
   location: Ear/Otic Placode, Hindbrain
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig1C-ST18.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_58.jpg
   location: Ear/Otic Placode, Hindbrain
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig4C-ST18.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_59.jpg
   location: Ear/Otic Placode, Hindbrain, Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig1D-ST21.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_60.jpg
   location: Hindbrain
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Warner.2003.Fig3.A-Zic1.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_61.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Warner.2003.Fig3.B-Zic1.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_62.jpg
   location: Ear/Otic Placode, Hindbrain
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Warner.2003.Fig3.C-Zic1.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_63.jpg
   location: Midbrain
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Warner.2003.Fig3.D-Zic1.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_64.jpg
   location: Neural Plate/Tube, Somites
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Warner.2003.Fig3.E-Zic1.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_65.jpg
   location: Ear/Otic Placode, Hindbrain
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig1E-ST23.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_66.jpg
   location: Hindbrain, Neural Crest, Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig2A-ST23.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_67.jpg
   location: Ear/Otic Placode, Hindbrain
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig4D-ST23.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_68.jpg
   location: Ear/Otic Placode
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig4E-ST23.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_69.jpg
   location: Ear/Otic Placode, Hindbrain
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig8A-ST23.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_70.jpg
   location: Ear/Otic Placode, Hindbrain, Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig1F-ST24.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_71.jpg
   location: Ear/Otic Placode, Hindbrain, Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig1G-ST26.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_72.jpg
   location: Ear/Otic Placode
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig8B-ST30.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_73.jpg
   location: Ear/Otic Placode, Hindbrain
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig8C-ST30.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_74.jpg
   location: Ear/Otic Placode
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig8E-ST30.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_75.jpg
   location: Ear/Otic Placode, Hindbrain
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig1H-ST32.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_76.jpg
   location: Ear/Otic Placode
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig6A-ST32.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_77.jpg
   location: Ear/Otic Placode, Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig6B-ST32.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_78.jpg
   location: Ear/Otic Placode
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig6C-ST32.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_79.jpg
   location: Ear/Otic Placode
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig6D-ST32.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_80.jpg
   location: Ear/Otic Placode
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig6E-ST32.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_81.jpg
   location: Ear/Otic Placode
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig8F-ST35.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_82.jpg
   location: Ear/Otic Placode
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig8G-ST35.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_83.jpg
   location: Ear/Otic Placode
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig8H-ST35.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_84.jpg
   location: Ear/Otic Placode
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig8I-ST38.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_85.jpg
   location: Ear/Otic Placode
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig8J-ST38.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_86.jpg
   location: Ear/Otic Placode
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig8K-ST38.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_87.jpg
   location: Ear/Otic Placode
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig8L-ST42.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_88.jpg
   location: Unlabeled
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig8M-ST42.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_89.jpg
   location: Ear/Otic Placode
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig8N-ST42.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_90.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Warner.2003.Fig3.AllImages-Zic1.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_91.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig1.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_92.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig2.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_93.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig4.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_94.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig6.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_95.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Warner et al. 2003
+  source_label: Warner et al. 2003
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.Warner.2003.Fig8.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_96.jpg
   location: Primitive Streak
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Odaka et al. 2018
+  source_label: Odaka et al. 2018
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zic1.Odaka.2018.Fig1A-st4.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_97.jpg
   location: Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Odaka et al. 2018
+  source_label: Odaka et al. 2018
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zic1.Odaka.2018.Fig1B-st6.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_98.jpg
   location: Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Odaka et al. 2018
+  source_label: Odaka et al. 2018
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zic1.Odaka.2018.Fig1C-st7.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_99.jpg
   location: Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Odaka et al. 2018
+  source_label: Odaka et al. 2018
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zic1.Odaka.2018.Fig1a-st7.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_100.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Odaka et al. 2018
+  source_label: Odaka et al. 2018
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zic1.Odaka.2018.Fig1b-st7.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_101.jpg
   location: Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Odaka et al. 2018
+  source_label: Odaka et al. 2018
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zic1.Odaka.2018.Fig1c'-st7.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_102.jpg
   location: Neural Plate/Tube
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Odaka et al. 2018
+  source_label: Odaka et al. 2018
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zic1.Odaka.2018.Fig1D-st8.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_103.jpg
   location: Diencephalon, Hindbrain, Telencephalon
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Odaka et al. 2018
+  source_label: Odaka et al. 2018
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zic1.Odaka.2018.Fig1E-st9.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_104.jpg
   location: Diencephalon, Hindbrain, Somites, Spinal Cord, Telencephalon
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Odaka et al. 2018
+  source_label: Odaka et al. 2018
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zic1.Odaka.2018.Fig1F-st11.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_105.jpg
   location: Neural Plate/Tube, Notochord
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Odaka et al. 2018
+  source_label: Odaka et al. 2018
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zic1.Odaka.2018.Fig1d-st11.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_106.jpg
   location: Neural Plate/Tube, Somites
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Odaka et al. 2018
+  source_label: Odaka et al. 2018
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zic1.Odaka.2018.Fig1e-st11.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_107.jpg
   location: Neural Plate/Tube, Somites
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Odaka et al. 2018
+  source_label: Odaka et al. 2018
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zic1.Odaka.2018.Fig1f'-st11.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_108.jpg
   location: null
-  source: Rhodes et al. 2006
-  source_label: Rhodes et al. 2006
+  source: Odaka et al. 2018
+  source_label: Odaka et al. 2018
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zic1.Odaka.2018.Fig1.jpg
 - caption: ZIC1 expression

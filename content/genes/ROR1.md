@@ -19,57 +19,57 @@ images:
 - caption: ROR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROR1/462291_0.jpg
   location: Limb Buds
-  source: Rodriguez-Niedenführ et al. 2004
-  source_label: Rodriguez-Niedenführ et al. 2004
+  source: Rodriguez-niedenfuhr et al. 2004
+  source_label: Rodriguez-niedenfuhr et al. 2004
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROR1.Rodriguez-Niedenfuhr.2004.fig2A.jpg
 - caption: ROR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROR1/462291_1.jpg
   location: Wing
-  source: Rodriguez-Niedenführ et al. 2004
-  source_label: Rodriguez-Niedenführ et al. 2004
+  source: Rodriguez-niedenfuhr et al. 2004
+  source_label: Rodriguez-niedenfuhr et al. 2004
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROR1.Rodriguez-Niedenfuhr.2004.fig2C.jpg
 - caption: ROR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROR1/462291_2.jpg
   location: Wing
-  source: Rodriguez-Niedenführ et al. 2004
-  source_label: Rodriguez-Niedenführ et al. 2004
+  source: Rodriguez-niedenfuhr et al. 2004
+  source_label: Rodriguez-niedenfuhr et al. 2004
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROR1.Rodriguez-Niedenfuhr.2004.fig2D.jpg
 - caption: ROR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROR1/462291_3.jpg
   location: Wing
-  source: Rodriguez-Niedenführ et al. 2004
-  source_label: Rodriguez-Niedenführ et al. 2004
+  source: Rodriguez-niedenfuhr et al. 2004
+  source_label: Rodriguez-niedenfuhr et al. 2004
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROR1.Rodriguez-Niedenfuhr.2004.fig2E.jpg
 - caption: ROR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROR1/462291_4.jpg
   location: Limb Buds
-  source: Rodriguez-Niedenführ et al. 2004
-  source_label: Rodriguez-Niedenführ et al. 2004
+  source: Rodriguez-niedenfuhr et al. 2004
+  source_label: Rodriguez-niedenfuhr et al. 2004
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROR1.Rodriguez-Niedenfuhr.2004.fig2B.jpg
 - caption: ROR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROR1/462291_5.jpg
   location: Wing
-  source: Rodriguez-Niedenführ et al. 2004
-  source_label: Rodriguez-Niedenführ et al. 2004
+  source: Rodriguez-niedenfuhr et al. 2004
+  source_label: Rodriguez-niedenfuhr et al. 2004
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROR1.Rodriguez-Niedenfuhr.2004.fig2F.jpg
 - caption: ROR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROR1/462291_6.jpg
   location: Wing
-  source: Rodriguez-Niedenführ et al. 2004
-  source_label: Rodriguez-Niedenführ et al. 2004
+  source: Rodriguez-niedenfuhr et al. 2004
+  source_label: Rodriguez-niedenfuhr et al. 2004
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROR1.Rodriguez-Niedenfuhr.2004.fig2G.jpg
 - caption: ROR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ROR1/462291_7.jpg
   location: Wing
-  source: Rodriguez-Niedenführ et al. 2004
-  source_label: Rodriguez-Niedenführ et al. 2004
+  source: Rodriguez-niedenfuhr et al. 2004
+  source_label: Rodriguez-niedenfuhr et al. 2004
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ROR1.Rodriguez-Niedenfuhr.2004.fig2H.jpg
 name: receptor tyrosine kinase like orphan receptor 1

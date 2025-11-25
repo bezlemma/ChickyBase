@@ -107,8 +107,8 @@ images:
 - caption: HOXA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA2/459573_12.jpg
   location: null
-  source: Paxton et al. 2010
-  source_label: Paxton et al. 2010
+  source: Tossell et al. 2011
+  source_label: Tossell et al. 2011
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig3.Tossell.2011.allimages
 - caption: HOXA2 expression
@@ -163,65 +163,65 @@ images:
 - caption: HOXA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA2/459573_20.jpg
   location: Rhombomeres
-  source: Paxton et al. 2010
-  source_label: Paxton et al. 2010
+  source: Giudicelli et al. 2001
+  source_label: Giudicelli et al. 2001
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA2.Giudicelli.2001.Fig.3
     hoxa2.png
 - caption: HOXA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA2/459573_21.jpg
   location: null
-  source: Paxton et al. 2010
-  source_label: Paxton et al. 2010
+  source: Giudicelli et al. 2001
+  source_label: Giudicelli et al. 2001
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA2.Giudicelli.2001.Fig.3.png
 - caption: HOXA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA2/459573_22.jpg
   location: Pharyngeal Arches and Clefts
-  source: Paxton et al. 2010
-  source_label: Paxton et al. 2010
+  source: Richardson et al. 2011
+  source_label: Richardson et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA2.HH26.Richardson.2011.F1.hoxa2.png
 - caption: HOXA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA2/459573_23.jpg
   location: null
-  source: Paxton et al. 2010
-  source_label: Paxton et al. 2010
+  source: Richardson et al. 2011
+  source_label: Richardson et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Richardson.2011.F1.hoxa2.png
 - caption: HOXA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA2/459573_24.jpg
   location: Neural Plate/Tube, Somites
-  source: Paxton et al. 2010
-  source_label: Paxton et al. 2010
+  source: Martinez et al. 2018
+  source_label: Martinez et al. 2018
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HoxA2.Martinez.2018.Fig5A-st10.jpg
 - caption: HOXA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA2/459573_25.jpg
   location: Neural Crest, Neural Plate/Tube, Rhombomeres, Somites
-  source: Paxton et al. 2010
-  source_label: Paxton et al. 2010
+  source: Martinez et al. 2018
+  source_label: Martinez et al. 2018
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HoxA2.Martinez.2018.Fig5B-st13.jpg
 - caption: HOXA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA2/459573_26.jpg
   location: Neural Crest, Neural Plate/Tube, Somites
-  source: Paxton et al. 2010
-  source_label: Paxton et al. 2010
+  source: Martinez et al. 2018
+  source_label: Martinez et al. 2018
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HoxA2.Martinez.2018.Fig5C-st16.jpg
 - caption: HOXA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA2/459573_27.jpg
   location: Neural Crest, Neural Plate/Tube, Somites
-  source: Paxton et al. 2010
-  source_label: Paxton et al. 2010
+  source: Martinez et al. 2018
+  source_label: Martinez et al. 2018
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HoxA2.Martinez.2018.Fig5D-st19.jpg
 - caption: HOXA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA2/459573_28.jpg
   location: null
-  source: Paxton et al. 2010
-  source_label: Paxton et al. 2010
+  source: Martinez et al. 2018
+  source_label: Martinez et al. 2018
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HoxA2.Martinez.2018.Fig5.jpg
 - caption: HOXA2 expression
@@ -276,16 +276,16 @@ images:
 - caption: HOXA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA2/459573_35.jpg
   location: Heart
-  source: Paxton et al. 2010
-  source_label: Paxton et al. 2010
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA2.Anderson.2019.Supplementary
     figure 5H1-st12.jpg
 - caption: HOXA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA2/459573_36.jpg
   location: null
-  source: Paxton et al. 2010
-  source_label: Paxton et al. 2010
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA2.Anderson.2019.Supplementary
     figure 5H1.jpg

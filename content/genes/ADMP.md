@@ -28,48 +28,48 @@ images:
 - caption: ADMP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADMP/363860_1.jpg
   location: Unlabeled
-  source: Joubin et al. 1999
-  source_label: Joubin et al. 1999
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage X
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADMP.Lee.2020_Fig
     3_p_EGK.XII-XIII.jpg
 - caption: ADMP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADMP/363860_2.jpg
   location: Epiblast, Kohler's Sickle
-  source: Joubin et al. 1999
-  source_label: Joubin et al. 1999
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage XII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADMP.Lee.2020_Fig
     3_q_EGK.XII-XIII.jpg
 - caption: ADMP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADMP/363860_3.jpg
   location: Area Pellucida, Kohler's Sickle
-  source: Joubin et al. 1999
-  source_label: Joubin et al. 1999
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage XIV
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADMP.Lee.2020_Fig
     3_r''_EGK.XIV-HH.2.jpg
 - caption: ADMP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADMP/363860_4.jpg
   location: Area Pellucida, Kohler's Sickle
-  source: Joubin et al. 1999
-  source_label: Joubin et al. 1999
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage XIV
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADMP.Lee.2020_Fig
     3_r'_EGK.XIV-HH.2.jpg
 - caption: ADMP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADMP/363860_5.jpg
   location: Area Pellucida, Kohler's Sickle
-  source: Joubin et al. 1999
-  source_label: Joubin et al. 1999
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: stage XIV
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADMP.Lee.2020_Fig
     3_r_EGK.XIV-HH.2.jpg
 - caption: ADMP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADMP/363860_6.jpg
   location: null
-  source: Joubin et al. 1999
-  source_label: Joubin et al. 1999
+  source: Lee et al. 2020
+  source_label: Lee et al. 2020
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Allimages_Lee.2020_Fig
     3-2.jpg

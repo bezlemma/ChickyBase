@@ -45,16 +45,16 @@ images:
 - caption: HBA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HBA1/454745_3.jpg
   location: Heart, Proepicardium
-  source: Jaffredo et al. 2005
-  source_label: Jaffredo et al. 2005
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HBAA.Anderson.2019.Supplementary
     figure 5J-st12.jpg
 - caption: HBA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HBA1/454745_4.jpg
   location: null
-  source: Jaffredo et al. 2005
-  source_label: Jaffredo et al. 2005
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HBAA.Anderson.2019.Supplementary
     figure 5J.jpg

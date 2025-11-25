@@ -46,89 +46,89 @@ images:
 - caption: NTN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTN1/461657_3.jpg
   location: Hindbrain, Isthmus/MHB, Midbrain
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Netrin1.Riley.2010.2A.PNG
 - caption: NTN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTN1/461657_4.jpg
   location: Hindbrain, Isthmus/MHB, Midbrain
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Netrin1.Riley.2010.2B.PNG
 - caption: NTN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTN1/461657_5.jpg
   location: Hindbrain, Isthmus/MHB, Midbrain
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Riley et al. 2010
+  source_label: Riley et al. 2010
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Netrin1.Riley.2010.2C.PNG
 - caption: NTN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTN1/461657_6.jpg
   location: null
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Abraira et al. 2010
+  source_label: Abraira et al. 2010
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NETRIN1.Abraira.2010.7.png
 - caption: NTN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTN1/461657_7.jpg
   location: Ear/Otic Placode
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Abraira et al. 2010
+  source_label: Abraira et al. 2010
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NETRIN1.Abraira.2010.7d.png
 - caption: NTN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTN1/461657_8.jpg
   location: null
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Abraira et al. 2010
+  source_label: Abraira et al. 2010
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NETRIN1.Abraira.2010.5.png
 - caption: NTN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTN1/461657_9.jpg
   location: Ear/Otic Placode
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Abraira et al. 2010
+  source_label: Abraira et al. 2010
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NETRIN1.Abraira.2010.5e.png
 - caption: NTN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTN1/461657_10.jpg
   location: Telencephalon
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Murakami et al. 2010
+  source_label: Murakami et al. 2010
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NETRIN1.Murakami.2010.Fig.3
     netrin1 st32 complate.png
 - caption: NTN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTN1/461657_11.jpg
   location: Telencephalon
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Murakami et al. 2010
+  source_label: Murakami et al. 2010
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NETRIN1.Murakami.2010.Fig.3
     netrin1 st32 rostral.png
 - caption: NTN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTN1/461657_12.jpg
   location: Telencephalon
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Murakami et al. 2010
+  source_label: Murakami et al. 2010
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NETRIN1.Murakami.2010.Fig.3
     netrin1 st32 ventmed.png
 - caption: NTN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTN1/461657_13.jpg
   location: Telencephalon
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Murakami et al. 2010
+  source_label: Murakami et al. 2010
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NETRIN1.Murakami.2010.Fig.3
     netrin1 st32 ventral.png
 - caption: NTN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTN1/461657_14.jpg
   location: null
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Murakami et al. 2010
+  source_label: Murakami et al. 2010
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NETRIN1.Murakami.2010.Fig.3.png
 - caption: NTN1 expression

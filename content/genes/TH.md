@@ -25,29 +25,29 @@ images:
 - caption: TH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TH/449718_1.jpg
   location: null
-  source: Agarwala et al. 2005
-  source_label: Agarwala et al. 2005
+  source: Mcpherson et al. 2000
+  source_label: Mcpherson et al. 2000
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2D.MCPHERSON.2000.jpg
 - caption: TH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TH/449718_2.jpg
   location: Spinal Ganglia and Nerves
-  source: Agarwala et al. 2005
-  source_label: Agarwala et al. 2005
+  source: Mcpherson et al. 2000
+  source_label: Mcpherson et al. 2000
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TH.FIG2E.MCPHERSON.2000.jpg
 - caption: TH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TH/449718_3.jpg
   location: Cranial Ganglion
-  source: Agarwala et al. 2005
-  source_label: Agarwala et al. 2005
+  source: Lee et al. 2005
+  source_label: Lee et al. 2005
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TH.FIG6AB.LEE.2005.jpg
 - caption: TH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TH/449718_4.jpg
   location: Cranial Ganglion
-  source: Agarwala et al. 2005
-  source_label: Agarwala et al. 2005
+  source: Lee et al. 2005
+  source_label: Lee et al. 2005
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TH.FIG6C.LEE.2005.jpg
 - caption: TH expression
@@ -147,55 +147,55 @@ images:
 - caption: TH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TH/449718_18.jpg
   location: Intermediate Mesoderm
-  source: Agarwala et al. 2005
-  source_label: Agarwala et al. 2005
+  source: Huber et al. 2008
+  source_label: Huber et al. 2008
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TH.Huber.2008.Fig.2
     th st15-.png
 - caption: TH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TH/449718_19.jpg
   location: Intermediate Mesoderm
-  source: Agarwala et al. 2005
-  source_label: Agarwala et al. 2005
+  source: Huber et al. 2008
+  source_label: Huber et al. 2008
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TH.Huber.2008.Fig.2
     th st16.png
 - caption: TH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TH/449718_20.jpg
   location: Intermediate Mesoderm
-  source: Agarwala et al. 2005
-  source_label: Agarwala et al. 2005
+  source: Huber et al. 2008
+  source_label: Huber et al. 2008
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TH.Huber.2008.Fig.2
     th st17.png
 - caption: TH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TH/449718_21.jpg
   location: Intermediate Mesoderm
-  source: Agarwala et al. 2005
-  source_label: Agarwala et al. 2005
+  source: Huber et al. 2008
+  source_label: Huber et al. 2008
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TH.Huber.2008.Fig.2
     th st18.png
 - caption: TH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TH/449718_22.jpg
   location: null
-  source: Agarwala et al. 2005
-  source_label: Agarwala et al. 2005
+  source: Huber et al. 2008
+  source_label: Huber et al. 2008
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TH.Huber.2008.Fig.2.png
 - caption: TH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TH/449718_23.jpg
   location: null
-  source: Agarwala et al. 2005
-  source_label: Agarwala et al. 2005
+  source: Huber et al. 2008
+  source_label: Huber et al. 2008
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TH.Huber.2008.Fig.1
     th.png
 - caption: TH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TH/449718_24.jpg
   location: Intermediate Mesoderm
-  source: Agarwala et al. 2005
-  source_label: Agarwala et al. 2005
+  source: Huber et al. 2008
+  source_label: Huber et al. 2008
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TH.Huber.2008.Fig.1.png
 - caption: TH expression

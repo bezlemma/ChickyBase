@@ -60,22 +60,22 @@ images:
 - caption: SLC16A2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLC16A2/456901_6.jpg
   location: Eye, Lens, Retina
-  source: Kimura et al. 2011
-  source_label: Kimura et al. 2011
+  source: Vancamp et al. 2019
+  source_label: Vancamp et al. 2019
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MCT8.Vancamp.2019.Fig1A-st28.jpg
 - caption: SLC16A2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLC16A2/456901_7.jpg
   location: Retina
-  source: Kimura et al. 2011
-  source_label: Kimura et al. 2011
+  source: Vancamp et al. 2019
+  source_label: Vancamp et al. 2019
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MCT8.Vancamp.2019.Fig1Am-st28.jpg
 - caption: SLC16A2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLC16A2/456901_8.jpg
   location: null
-  source: Kimura et al. 2011
-  source_label: Kimura et al. 2011
+  source: Vancamp et al. 2019
+  source_label: Vancamp et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MCT8.Vancamp.2019.Fig1.jpg
 name: solute carrier family 16 member 2

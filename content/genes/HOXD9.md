@@ -51,78 +51,78 @@ images:
 - caption: HOXD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXD9/448940_4.jpg
   location: null
-  source: Reid et al. 2002
-  source_label: Reid et al. 2002
+  source: Alvarez et al. 2003
+  source_label: Alvarez et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Alvarez.2003.f3.hoxd9.png
 - caption: HOXD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXD9/448940_5.jpg
   location: Lateral Plate Mesoderm, Leg, Somites
-  source: Reid et al. 2002
-  source_label: Reid et al. 2002
+  source: Alvarez et al. 2003
+  source_label: Alvarez et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXD9.a.Alvarez.2003.f3.hoxd9.png
 - caption: HOXD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXD9/448940_6.jpg
   location: Leg
-  source: Reid et al. 2002
-  source_label: Reid et al. 2002
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxd-9.Nelson.1996.Fig6AL-st19.jpg
 - caption: HOXD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXD9/448940_7.jpg
   location: Wing
-  source: Reid et al. 2002
-  source_label: Reid et al. 2002
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxd-9.Nelson.1996.Fig6AW-st19.jpg
 - caption: HOXD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXD9/448940_8.jpg
   location: Leg
-  source: Reid et al. 2002
-  source_label: Reid et al. 2002
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxd-9.Nelson.1996.Fig6AL-st23.jpg
 - caption: HOXD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXD9/448940_9.jpg
   location: Wing
-  source: Reid et al. 2002
-  source_label: Reid et al. 2002
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxd-9.Nelson.1996.Fig6AW-st23.jpg
 - caption: HOXD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXD9/448940_10.jpg
   location: Unlabeled
-  source: Reid et al. 2002
-  source_label: Reid et al. 2002
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxd-9.Nelson.1996.Fig6AL-st25.jpg
 - caption: HOXD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXD9/448940_11.jpg
   location: Wing
-  source: Reid et al. 2002
-  source_label: Reid et al. 2002
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxd-9.Nelson.1996.Fig6AW-st25.jpg
 - caption: HOXD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXD9/448940_12.jpg
   location: Unlabeled
-  source: Reid et al. 2002
-  source_label: Reid et al. 2002
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxd-9.Nelson.1996.Fig6AL-st27.jpg
 - caption: HOXD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXD9/448940_13.jpg
   location: Wing
-  source: Reid et al. 2002
-  source_label: Reid et al. 2002
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxd-9.Nelson.1996.Fig6AW-st27.jpg
 - caption: HOXD9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXD9/448940_14.jpg
   location: null
-  source: Reid et al. 2002
-  source_label: Reid et al. 2002
+  source: Nelson et al. 1996
+  source_label: Nelson et al. 1996
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Hoxd-9.Nelson.1996.Fig6.jpg
 name: homeobox D9

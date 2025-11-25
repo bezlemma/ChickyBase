@@ -48,36 +48,36 @@ images:
 - caption: ITGB1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ITGB1/454460_3.jpg
   location: Eye, Lens
-  source: Blackmore et al. 2006
-  source_label: Blackmore et al. 2006
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig5.ITGB1_B.jpg
 - caption: ITGB1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ITGB1/454460_4.jpg
   location: Retina
-  source: Blackmore et al. 2006
-  source_label: Blackmore et al. 2006
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig5.ITGB1_F.jpg
 - caption: ITGB1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ITGB1/454460_5.jpg
   location: Cranial Ganglia, Eye
-  source: Blackmore et al. 2006
-  source_label: Blackmore et al. 2006
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig6.ITGB1_D-D'.jpg
 - caption: ITGB1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ITGB1/454460_6.jpg
   location: null
-  source: Blackmore et al. 2006
-  source_label: Blackmore et al. 2006
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig5.Allimages-2.jpg
 - caption: ITGB1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ITGB1/454460_7.jpg
   location: null
-  source: Blackmore et al. 2006
-  source_label: Blackmore et al. 2006
+  source: Cui et al. 2019
+  source_label: Cui et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cui.2019_Fig6.Allimages.jpg
 name: integrin subunit beta 1

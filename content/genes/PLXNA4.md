@@ -53,91 +53,91 @@ images:
 - caption: PLXNA4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA4/457415_4.jpg
   location: Notochord, Spinal Cord
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/pLEXINA4.Mauti.2006.Fig.2
     plexina4.png
 - caption: PLXNA4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA4/457415_5.jpg
   location: null
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/pLEXINA4.Mauti.2006.Fig.2.png
 - caption: PLXNA4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA4/457415_6.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA4.Mauti.2006.Fig.4
     plexina4.png
 - caption: PLXNA4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA4/457415_7.jpg
   location: null
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA4.Mauti.2006.Fig.4.png
 - caption: PLXNA4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA4/457415_8.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA4.Mauti.2006.Fig.6
     plexina4.png
 - caption: PLXNA4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA4/457415_9.jpg
   location: null
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA4.Mauti.2006.Fig.6.png
 - caption: PLXNA4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA4/457415_10.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA4.Mauti.2006.Fig.7
     plexina4.png
 - caption: PLXNA4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA4/457415_11.jpg
   location: null
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA4.Mauti.2006.Fig.7.png
 - caption: PLXNA4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA4/457415_12.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA4.Mauti.2006.Fig.8
     plexina4.png
 - caption: PLXNA4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA4/457415_13.jpg
   location: null
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA4.Mauti.2006.Fig.8.png
 - caption: PLXNA4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA4/457415_14.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA4.Mauti.2006.Fig.9
     plexina4.png
 - caption: PLXNA4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA4/457415_15.jpg
   location: null
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA4.Mauti.2006.Fig.9.png
 name: plexin A4

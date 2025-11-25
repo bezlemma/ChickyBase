@@ -51,36 +51,36 @@ images:
 - caption: KERA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KERA/451457_4.jpg
   location: Neural Plate/Tube
-  source: Conrad et al. 2009
-  source_label: Conrad et al. 2009
+  source: Chakravarti et al. 2006
+  source_label: Chakravarti et al. 2006
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KERA.Chakravarti.2006.Fig1A-st6.jpg
 - caption: KERA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KERA/451457_5.jpg
   location: Widespread Expression
-  source: Conrad et al. 2009
-  source_label: Conrad et al. 2009
+  source: Chakravarti et al. 2006
+  source_label: Chakravarti et al. 2006
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KERA.Chakravarti.2006.Fig1B-st17.jpg
 - caption: KERA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KERA/451457_6.jpg
   location: Widespread Expression
-  source: Conrad et al. 2009
-  source_label: Conrad et al. 2009
+  source: Chakravarti et al. 2006
+  source_label: Chakravarti et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KERA.Chakravarti.2006.Fig1C-st20.jpg
 - caption: KERA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KERA/451457_7.jpg
   location: Eye
-  source: Conrad et al. 2009
-  source_label: Conrad et al. 2009
+  source: Chakravarti et al. 2006
+  source_label: Chakravarti et al. 2006
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KERA.Chakravarti.2006.Fig1E-st25.jpg
 - caption: KERA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KERA/451457_8.jpg
   location: null
-  source: Conrad et al. 2009
-  source_label: Conrad et al. 2009
+  source: Chakravarti et al. 2006
+  source_label: Chakravarti et al. 2006
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KERA.Chakravarti.2006.Fig1.jpg
 name: keratocan

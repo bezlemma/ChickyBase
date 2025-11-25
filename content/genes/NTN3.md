@@ -49,39 +49,39 @@ images:
 - caption: NTN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTN3/461653_3.jpg
   location: Ear/Otic Placode
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Abraira et al. 2010
+  source_label: Abraira et al. 2010
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NETRIN2.Abraira.2010.Fig.7
     netrin2 st26.png
 - caption: NTN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTN3/461653_4.jpg
   location: Ear/Otic Placode
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Abraira et al. 2010
+  source_label: Abraira et al. 2010
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NETRIN2.Abraira.2010.Fig.5
     netrin2.png
 - caption: NTN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTN3/461653_5.jpg
   location: null
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Abraira et al. 2010
+  source_label: Abraira et al. 2010
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NETRIN2.Abraira.2010.Fig.5.png
 - caption: NTN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTN3/461653_6.jpg
   location: Ear/Otic Placode
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Abraira et al. 2010
+  source_label: Abraira et al. 2010
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NETRIN2.Abraira.2010.Fig.7
     netrin2 st29.png
 - caption: NTN3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTN3/461653_7.jpg
   location: null
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Abraira et al. 2010
+  source_label: Abraira et al. 2010
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NETRIN2.Abraira.2010.Fig.7.png
 name: netrin 1

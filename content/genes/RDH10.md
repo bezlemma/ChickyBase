@@ -161,122 +161,122 @@ images:
 - caption: RDH10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RDH10/457106_20.jpg
   location: Retina
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RDH10.Smith.2018.Fig1C-ST23.jpg
 - caption: RDH10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RDH10/457106_21.jpg
   location: Eye
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RDH10.Smith.2018.Fig3A1-st23.jpg
 - caption: RDH10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RDH10/457106_22.jpg
   location: Eye
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RDH10.Smith.2018.Fig3A2-st24.jpg
 - caption: RDH10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RDH10/457106_23.jpg
   location: Retina
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RDH10.Smith.2018.Fig2A1-ST26
     .jpg
 - caption: RDH10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RDH10/457106_24.jpg
   location: Retina
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RDH10.Smith.2018.Fig2A2-ST26
     .jpg
 - caption: RDH10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RDH10/457106_25.jpg
   location: Retina
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RDH10.Smith.2018.Fig2A3-ST26
     .jpg
 - caption: RDH10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RDH10/457106_26.jpg
   location: Eye
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RDH10.Smith.2018.Fig3A3-st26.jpg
 - caption: RDH10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RDH10/457106_27.jpg
   location: Retina
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RDH10.Smith.2018.Fig2B1-ST27
     .jpg
 - caption: RDH10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RDH10/457106_28.jpg
   location: Retina
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RDH10.Smith.2018.Fig2B2-ST27
     .jpg
 - caption: RDH10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RDH10/457106_29.jpg
   location: Retina
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RDH10.Smith.2018.Fig2B3-ST28
     .jpg
 - caption: RDH10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RDH10/457106_30.jpg
   location: Retina
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RDH10.Smith.2018.Fig2C-ST28
     .jpg
 - caption: RDH10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RDH10/457106_31.jpg
   location: null
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RDH10.Smith.2018.Fig1.jpg
 - caption: RDH10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RDH10/457106_32.jpg
   location: null
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RDH10.Smith.2018.Fig2
     .jpg
 - caption: RDH10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RDH10/457106_33.jpg
   location: null
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Smith et al. 2018
+  source_label: Smith et al. 2018
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RDH10.Smith.2018.Fig3.jpg
 - caption: RDH10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RDH10/457106_34.jpg
   location: Heart
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RDH10.Anderson.2019.Supplementary
     figure 5I-st12.jpg
 - caption: RDH10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RDH10/457106_35.jpg
   location: null
-  source: Reijntjes et al. 2010
-  source_label: Reijntjes et al. 2010
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RDH10.Anderson.2019.Supplementary
     figure 5I.jpg

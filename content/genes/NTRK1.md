@@ -38,15 +38,15 @@ images:
 - caption: NTRK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK1/461823_2.jpg
   location: null
-  source: Yang et al. 2010
-  source_label: Yang et al. 2010
+  source: Apostolova et al. 2007
+  source_label: Apostolova et al. 2007
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Apostolova.2007.f3.trka.png
 - caption: NTRK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NTRK1/461823_3.jpg
   location: Spinal Ganglia and Nerves
-  source: Yang et al. 2010
-  source_label: Yang et al. 2010
+  source: Apostolova et al. 2007
+  source_label: Apostolova et al. 2007
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRKA.Apostolova.2007.f3.trka.png
 - caption: NTRK1 expression

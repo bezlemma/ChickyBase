@@ -43,64 +43,64 @@ images:
 - caption: ISLR2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ISLR2/350065_3.jpg
   location: Spinal Cord
-  source: Gejima et al. 2006
-  source_label: Gejima et al. 2006
+  source: Gijema et al. 2006
+  source_label: Gijema et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SST273.FIG2A.GIJEMA.2006.jpg
 - caption: ISLR2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ISLR2/350065_4.jpg
   location: Spinal Cord
-  source: Gejima et al. 2006
-  source_label: Gejima et al. 2006
+  source: Gijema et al. 2006
+  source_label: Gijema et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SST273.FIG2E.GIJEMA.2006.jpg
 - caption: ISLR2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ISLR2/350065_5.jpg
   location: Spinal Cord
-  source: Gejima et al. 2006
-  source_label: Gejima et al. 2006
+  source: Gijema et al. 2006
+  source_label: Gijema et al. 2006
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SST273.FIG2B.GIJEMA.2006.jpg
 - caption: ISLR2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ISLR2/350065_6.jpg
   location: Spinal Cord
-  source: Gejima et al. 2006
-  source_label: Gejima et al. 2006
+  source: Gijema et al. 2006
+  source_label: Gijema et al. 2006
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SST273.FIG2F.GIJEMA.2006.jpg
 - caption: ISLR2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ISLR2/350065_7.jpg
   location: Spinal Cord
-  source: Gejima et al. 2006
-  source_label: Gejima et al. 2006
+  source: Gijema et al. 2006
+  source_label: Gijema et al. 2006
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SST273.FIG2C.GIJEMA.2006.jpg
 - caption: ISLR2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ISLR2/350065_8.jpg
   location: Spinal Cord
-  source: Gejima et al. 2006
-  source_label: Gejima et al. 2006
+  source: Gijema et al. 2006
+  source_label: Gijema et al. 2006
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SST273.FIG2G.GIJEMA.2006.jpg
 - caption: ISLR2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ISLR2/350065_9.jpg
   location: null
-  source: Gejima et al. 2006
-  source_label: Gejima et al. 2006
+  source: Gijema et al. 2006
+  source_label: Gijema et al. 2006
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SST273.FIG2.GIJEMA.2006.jpg
 - caption: ISLR2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ISLR2/350065_10.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Gejima et al. 2006
-  source_label: Gejima et al. 2006
+  source: Gijema et al. 2006
+  source_label: Gijema et al. 2006
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SST273.FIG2D.GIJEMA.2006.jpg
 - caption: ISLR2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ISLR2/350065_11.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Gejima et al. 2006
-  source_label: Gejima et al. 2006
+  source: Gijema et al. 2006
+  source_label: Gijema et al. 2006
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SST273.FIG2H.GIJEMA.2006.jpg
 name: immunoglobulin superfamily containing leucine rich repeat 2

@@ -184,22 +184,22 @@ images:
 - caption: EMILIN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_20.jpg
   location: Ventricles
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2.Anderson.2019.Fig3D'-st12.jpg
 - caption: EMILIN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_21.jpg
   location: Ventricles
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2.Anderson.2019.Fig3D-st12.jpg
 - caption: EMILIN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_22.jpg
   location: null
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2.Anderson.2019.Fig3.jpg
 name: elastin microfibril interfacer 2

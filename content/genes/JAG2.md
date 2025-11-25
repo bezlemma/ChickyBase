@@ -46,108 +46,108 @@ images:
 - caption: JAG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/JAG2/458654_3.jpg
   location: Forebrain, Midbrain
-  source: Fukumoto et al. 2005
-  source_label: Fukumoto et al. 2005
+  source: Hayashi et al. 1996
+  source_label: Hayashi et al. 1996
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C-Serrate-2.Hayashi.1996.Fig3A-st11.jpg
 - caption: JAG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/JAG2/458654_4.jpg
   location: Heart, Telencephalon
-  source: Fukumoto et al. 2005
-  source_label: Fukumoto et al. 2005
+  source: Hayashi et al. 1996
+  source_label: Hayashi et al. 1996
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C-Serrate-2.Hayashi.1996.Fig3B-st13.jpg
 - caption: JAG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/JAG2/458654_5.jpg
   location: Telencephalon
-  source: Fukumoto et al. 2005
-  source_label: Fukumoto et al. 2005
+  source: Hayashi et al. 1996
+  source_label: Hayashi et al. 1996
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C-Serrate-2.Hayashi.1996.Fig3C-st14.jpg
 - caption: JAG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/JAG2/458654_6.jpg
   location: Lens, Telencephalon
-  source: Fukumoto et al. 2005
-  source_label: Fukumoto et al. 2005
+  source: Hayashi et al. 1996
+  source_label: Hayashi et al. 1996
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C-Serrate-2.Hayashi.1996.Fig3D-st16.jpg
 - caption: JAG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/JAG2/458654_7.jpg
   location: Ear/Otic Placode, Heart, Lens, Pharyngeal Arches and Clefts, Somites,
     Telencephalon
-  source: Fukumoto et al. 2005
-  source_label: Fukumoto et al. 2005
+  source: Hayashi et al. 1996
+  source_label: Hayashi et al. 1996
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C-Serrate-2.Hayashi.1996.Fig3E-st18.jpg
 - caption: JAG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/JAG2/458654_8.jpg
   location: Ear/Otic Placode, Heart, Lens, Mesonephros, Somites, Telencephalon
-  source: Fukumoto et al. 2005
-  source_label: Fukumoto et al. 2005
+  source: Hayashi et al. 1996
+  source_label: Hayashi et al. 1996
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C-Serrate-2.Hayashi.1996.Fig3F-st21.jpg
 - caption: JAG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/JAG2/458654_9.jpg
   location: Leg AER, Wing AER
-  source: Fukumoto et al. 2005
-  source_label: Fukumoto et al. 2005
+  source: Hayashi et al. 1996
+  source_label: Hayashi et al. 1996
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C-Serrate-2.Hayashi.1996.Fig3H-st21.jpg
 - caption: JAG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/JAG2/458654_10.jpg
   location: Myotome
-  source: Fukumoto et al. 2005
-  source_label: Fukumoto et al. 2005
+  source: Hayashi et al. 1996
+  source_label: Hayashi et al. 1996
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C-Serrate-2.Hayashi.1996.Fig5B-st23.jpg
 - caption: JAG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/JAG2/458654_11.jpg
   location: Ear/Otic Placode, Heart, Leg AER, Lens, Mesonephros, Somites, Telencephalon,
     Wing AER
-  source: Fukumoto et al. 2005
-  source_label: Fukumoto et al. 2005
+  source: Hayashi et al. 1996
+  source_label: Hayashi et al. 1996
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C-Serrate-2.Hayashi.1996.Fig3G-st24.jpg
 - caption: JAG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/JAG2/458654_12.jpg
   location: Telencephalon
-  source: Fukumoto et al. 2005
-  source_label: Fukumoto et al. 2005
+  source: Hayashi et al. 1996
+  source_label: Hayashi et al. 1996
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C-Serrate-2.Hayashi.1996.Fig4B-st25.jpg
 - caption: JAG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/JAG2/458654_13.jpg
   location: Leg AER, Wing AER
-  source: Fukumoto et al. 2005
-  source_label: Fukumoto et al. 2005
+  source: Hayashi et al. 1996
+  source_label: Hayashi et al. 1996
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C-Serrate-2.Hayashi.1996.Fig6B-st25'.jpg
 - caption: JAG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/JAG2/458654_14.jpg
   location: null
-  source: Fukumoto et al. 2005
-  source_label: Fukumoto et al. 2005
+  source: Hayashi et al. 1996
+  source_label: Hayashi et al. 1996
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C-Serrate-2.Hayashi.1996.Fig3.jpg
 - caption: JAG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/JAG2/458654_15.jpg
   location: null
-  source: Fukumoto et al. 2005
-  source_label: Fukumoto et al. 2005
+  source: Hayashi et al. 1996
+  source_label: Hayashi et al. 1996
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C-Serrate-2.Hayashi.1996.Fig4.jpg
 - caption: JAG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/JAG2/458654_16.jpg
   location: null
-  source: Fukumoto et al. 2005
-  source_label: Fukumoto et al. 2005
+  source: Hayashi et al. 1996
+  source_label: Hayashi et al. 1996
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C-Serrate-2.Hayashi.1996.Fig5.jpg
 - caption: JAG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/JAG2/458654_17.jpg
   location: null
-  source: Fukumoto et al. 2005
-  source_label: Fukumoto et al. 2005
+  source: Hayashi et al. 1996
+  source_label: Hayashi et al. 1996
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/C-Serrate-2.Hayashi.1996.Fig6.jpg
 name: jagged 2

@@ -20,43 +20,43 @@ images:
 - caption: SUFU expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SUFU/455687_0.jpg
   location: Hensen's Node, Neural Plate/Tube, Primitive Streak
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SUFU.FIG6A.AGLYA.2007.jpg
 - caption: SUFU expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SUFU/455687_1.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SUFU.FIG6B.AGLYA.2007.jpg
 - caption: SUFU expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SUFU/455687_2.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SUFU.FIG6C.AGLYA.2007.jpg
 - caption: SUFU expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SUFU/455687_3.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SUFU.FIG6D.AGLYA.2007.jpg
 - caption: SUFU expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SUFU/455687_4.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SUFU.FIG6E.AGLYA.2007.jpg
 - caption: SUFU expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SUFU/455687_5.jpg
   location: Midbrain
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Agarwala et al. 2005
+  source_label: Agarwala et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SUFU.FIG4E.AGARWALA.2005.jpg
 name: SUFU negative regulator of hedgehog signaling

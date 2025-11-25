@@ -44,64 +44,64 @@ images:
 - caption: PTHLH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTHLH/462594_3.jpg
   location: Leg
-  source: Roddy et al. 2011
-  source_label: Roddy et al. 2011
+  source: Zou et al. 1997
+  source_label: Zou et al. 1997
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zou.1997.Fig4.PThrP.G.jpg
 - caption: PTHLH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTHLH/462594_4.jpg
   location: Wing
-  source: Roddy et al. 2011
-  source_label: Roddy et al. 2011
+  source: Zou et al. 1997
+  source_label: Zou et al. 1997
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zou.1997.Fig3.I.PTHrP.jpg
 - caption: PTHLH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTHLH/462594_5.jpg
   location: Wing
-  source: Roddy et al. 2011
-  source_label: Roddy et al. 2011
+  source: Zhang et al. 2003
+  source_label: Zhang et al. 2003
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Zhang.2003.Fig6.L.PTHrP.jpg
 - caption: PTHLH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTHLH/462594_6.jpg
   location: Limb Buds
-  source: Roddy et al. 2011
-  source_label: Roddy et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pthrp.Singh.2016.Fig2U'-st28.jpg
 - caption: PTHLH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTHLH/462594_7.jpg
   location: Limb Buds
-  source: Roddy et al. 2011
-  source_label: Roddy et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pthrp.Singh.2016.Fig2V'-st31.jpg
 - caption: PTHLH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTHLH/462594_8.jpg
   location: Limb Buds
-  source: Roddy et al. 2011
-  source_label: Roddy et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pthrp.Singh.2016.Fig2W'-st34.jpg
 - caption: PTHLH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTHLH/462594_9.jpg
   location: Limb Buds
-  source: Roddy et al. 2011
-  source_label: Roddy et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pthrp.Singh.2016.Fig2X'-st36.jpg
 - caption: PTHLH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTHLH/462594_10.jpg
   location: Limb Buds
-  source: Roddy et al. 2011
-  source_label: Roddy et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pthrp.Singh.2016.Fig2Y'-st38.jpg
 - caption: PTHLH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTHLH/462594_11.jpg
   location: null
-  source: Roddy et al. 2011
-  source_label: Roddy et al. 2011
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pthrp.Singh.2016.Fig2.jpg
 name: parathyroid hormone like hormone

@@ -117,15 +117,15 @@ images:
 - caption: NEUROG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG2/449553_13.jpg
   location: Telencephalon
-  source: Dude et al. 2009
-  source_label: Dude et al. 2009
+  source: Frowein et al. 2002
+  source_label: Frowein et al. 2002
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGN2.Frowein.2002.1b.png
 - caption: NEUROG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEUROG2/449553_14.jpg
   location: null
-  source: Dude et al. 2009
-  source_label: Dude et al. 2009
+  source: Frowein et al. 2002
+  source_label: Frowein et al. 2002
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGN2.Frowein.2002.1whole.png
 - caption: NEUROG2 expression

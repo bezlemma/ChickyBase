@@ -38,106 +38,106 @@ images:
 - caption: PLXNA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA1/457953_3.jpg
   location: Notochord, Spinal Cord
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA1.Mauti.2006.Fig.2
     plexina1.png
 - caption: PLXNA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA1/457953_4.jpg
   location: null
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA1.Mauti.2006.Fig.2.png
 - caption: PLXNA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA1/457953_5.jpg
   location: Dermatome, Spinal Cord, Spinal Ganglia and Nerves
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA1.Mauti.2006.Fig.4
     plexina1.png
 - caption: PLXNA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA1/457953_6.jpg
   location: null
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA1.Mauti.2006.Fig.4.png
 - caption: PLXNA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA1/457953_7.jpg
   location: Spinal Cord
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA1.Mauti.2006.Fig.5
     plexina1.png
 - caption: PLXNA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA1/457953_8.jpg
   location: null
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA1.Mauti.2006.Fig.5.png
 - caption: PLXNA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA1/457953_9.jpg
   location: Dermomyotome, Spinal Cord, Spinal Ganglia and Nerves
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA1.Mauti.2006.Fig.6
     plexina1.png
 - caption: PLXNA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA1/457953_10.jpg
   location: null
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA1.Mauti.2006.Fig.6.png
 - caption: PLXNA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA1/457953_11.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA1.Mauti.2006.Fig.7
     plexina1.png
 - caption: PLXNA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA1/457953_12.jpg
   location: null
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA1.Mauti.2006.Fig.7.png
 - caption: PLXNA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA1/457953_13.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA1.Mauti.2006.Fig.8
     plexina1.png
 - caption: PLXNA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA1/457953_14.jpg
   location: null
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA1.Mauti.2006.Fig.8.png
 - caption: PLXNA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA1/457953_15.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA1.Mauti.2006.Fig.9
     plexina1.png
 - caption: PLXNA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PLXNA1/457953_16.jpg
   location: null
-  source: Riley et al. 2010
-  source_label: Riley et al. 2010
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PLEXINA1.Mauti.2006.Fig.9.png
 - caption: PLXNA1 expression

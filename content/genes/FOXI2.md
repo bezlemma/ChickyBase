@@ -172,36 +172,36 @@ images:
 - caption: FOXI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXI2/510188_22.jpg
   location: Cranial Ganglia, Cranial Nerve, Ectoderm
-  source: Khatri et al. 2013
-  source_label: Khatri et al. 2013
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_5_Foxi2_C-1.jpg
 - caption: FOXI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXI2/510188_23.jpg
   location: Ear/Otic Placode, Ectoderm
-  source: Khatri et al. 2013
-  source_label: Khatri et al. 2013
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_6_Foxi2_A-1.jpg
 - caption: FOXI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXI2/510188_24.jpg
   location: Ear/Otic Placode, Ectoderm
-  source: Khatri et al. 2013
-  source_label: Khatri et al. 2013
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_6_Foxi2_D-1.jpg
 - caption: FOXI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXI2/510188_25.jpg
   location: null
-  source: Khatri et al. 2013
-  source_label: Khatri et al. 2013
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_5_ALLIMAGES-2.jpg
 - caption: FOXI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXI2/510188_26.jpg
   location: null
-  source: Khatri et al. 2013
-  source_label: Khatri et al. 2013
+  source: Freter et al. 2012
+  source_label: Freter et al. 2012
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_6_ALLIMAGES-2.jpg
 name: forkhead box I2

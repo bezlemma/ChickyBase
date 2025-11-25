@@ -164,99 +164,99 @@ images:
 - caption: RARA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RARA/461785_20.jpg
   location: Area Opaca, Primitive Streak
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARALPHA.Bayha.2009.1.I
 - caption: RARA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RARA/461785_21.jpg
   location: Epiblast, Primitive Streak, Unlabeled
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARALPHA.Bayha.2009.1.K.jpg
 - caption: RARA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RARA/461785_22.jpg
   location: Anterior Intestinal Portal
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARALPHA.Bayha.2009.1.J.jpg
 - caption: RARA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RARA/461785_23.jpg
   location: Endoderm
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARALPHA.Bayha.2009.1.L.jpg
 - caption: RARA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RARA/461785_24.jpg
   location: Endoderm
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARALPHA.Bayha.2009.1.M.jpg
 - caption: RARA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RARA/461785_25.jpg
   location: Endoderm
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARALPHA.Bayha.2009.1.jpg
 - caption: RARA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RARA/461785_26.jpg
   location: null
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARALPHA.Bayha.2009.Fig.1.png
 - caption: RARA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RARA/461785_27.jpg
   location: Area Opaca
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARGAMMA.Bayha.2009.2E.1.jpg
 - caption: RARA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RARA/461785_28.jpg
   location: Area Opaca
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARGAMMA.Bayha.2009.2E.2.jpg
 - caption: RARA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RARA/461785_29.jpg
   location: null
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Bayah et al. 2009
+  source_label: Bayah et al. 2009
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARGAMMA.Bayah.2009.FIg.1.png
 - caption: RARA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RARA/461785_30.jpg
   location: Anterior Intestinal Portal, Gut, Neural Plate/Tube, Somatic Mesoderm
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARGAMMA.Bayha.2009.2E.3.jpg
 - caption: RARA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RARA/461785_31.jpg
   location: Gut, Neural Plate/Tube
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARGAMMA.Bayha.2009.2E.4.jpg
 - caption: RARA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RARA/461785_32.jpg
   location: Gut, Splanchnic Mesoderm
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARGAMMA.Bayha.2009.2E.5.jpg
 - caption: RARA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RARA/461785_33.jpg
   location: null
-  source: Cui et al. 2003
-  source_label: Cui et al. 2003
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARGAMMA.Bayha.2009.2E.jpg
 name: retinoic acid receptor alpha

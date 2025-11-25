@@ -64,99 +64,99 @@ images:
 - caption: GFRA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA2/451244_5.jpg
   location: Liver, Notochord
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Tatsumi et al. 2007
+  source_label: Tatsumi et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFR2.Tatsumi.2007.Figure2Fa.jpg
 - caption: GFRA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA2/451244_6.jpg
   location: Liver, Notochord
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Tatsumi et al. 2007
+  source_label: Tatsumi et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFR2.Tatsumi.2007.Figure2Ga.jpg
 - caption: GFRA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA2/451244_7.jpg
   location: Liver, Notochord
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Tatsumi et al. 2007
+  source_label: Tatsumi et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFR2.Tatsumi.2007.Figure2Pa.jpg
 - caption: GFRA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA2/451244_8.jpg
   location: Liver, Notochord
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Tatsumi et al. 2007
+  source_label: Tatsumi et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFR2.Tatsumi.2007.Figure2Ha.jpg
 - caption: GFRA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA2/451244_9.jpg
   location: Liver, Notochord
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Tatsumi et al. 2007
+  source_label: Tatsumi et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFR2.Tatsumi.2007.Figure2Ia.jpg
 - caption: GFRA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA2/451244_10.jpg
   location: Liver
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Tatsumi et al. 2007
+  source_label: Tatsumi et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFR2.Tatsumi.2007.Figure2Ja.jpg
 - caption: GFRA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA2/451244_11.jpg
   location: Liver
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Tatsumi et al. 2007
+  source_label: Tatsumi et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFR2.Tatsumi.2007.Figure2Ka.jpg
 - caption: GFRA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA2/451244_12.jpg
   location: Liver
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Tatsumi et al. 2007
+  source_label: Tatsumi et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFR2.Tatsumi.2007.Figure2Qb.jpg
 - caption: GFRA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA2/451244_13.jpg
   location: Liver
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Tatsumi et al. 2007
+  source_label: Tatsumi et al. 2007
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFR2.Tatsumi.2007.Figure2La.jpg
 - caption: GFRA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA2/451244_14.jpg
   location: Liver
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Tatsumi et al. 2007
+  source_label: Tatsumi et al. 2007
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFR2.Tatsumi.2007.Figure2Ma.jpg
 - caption: GFRA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA2/451244_15.jpg
   location: Liver
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Tatsumi et al. 2007
+  source_label: Tatsumi et al. 2007
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFR2.Tatsumi.2007.Figure2C.jpg
 - caption: GFRA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA2/451244_16.jpg
   location: Liver
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Tatsumi et al. 2007
+  source_label: Tatsumi et al. 2007
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFR2.Tatsumi.2007.Figure2N.jpg
 - caption: GFRA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA2/451244_17.jpg
   location: Liver
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Tatsumi et al. 2007
+  source_label: Tatsumi et al. 2007
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFR2.Tatsumi.2007.Figure2Oa.jpg
 - caption: GFRA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA2/451244_18.jpg
   location: Liver
-  source: Homma et al. 2000
-  source_label: Homma et al. 2000
+  source: Tatsumi et al. 2007
+  source_label: Tatsumi et al. 2007
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFR2.Tatsumi.2007.Figure2Rb.jpg
 name: GDNF family receptor alpha 2

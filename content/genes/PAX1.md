@@ -42,43 +42,43 @@ images:
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_3.jpg
   location: Head Mesenchyme, Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX1.FIG2B.LIN.2007.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_4.jpg
   location: Pharyngeal Arches and Clefts, Sclerotome, Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX1.FIG2E.LIN.2007.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_5.jpg
   location: Sclerotome
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX1.FIG3B.LIN.2007.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_6.jpg
   location: Pharyngeal Arches and Clefts, Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX1.FIG2H.LIN.2007.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_7.jpg
   location: Sclerotome
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX1.FIG3E.LIN.2007.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_8.jpg
   location: Leg, Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Huang et al. 2003
+  source_label: Huang et al. 2003
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX1.FIG5B.HUANG.2003.jpg
 - caption: PAX1 expression
@@ -217,155 +217,155 @@ images:
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_28.jpg
   location: Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Hsu et al. 1997
+  source_label: Hsu et al. 1997
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-1.Hsu.1997.Fig1A.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_29.jpg
   location: Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Hsu et al. 1997
+  source_label: Hsu et al. 1997
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-1.Hsu.1997.Fig1B.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_30.jpg
   location: null
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Hsu et al. 1997
+  source_label: Hsu et al. 1997
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-1.Hsu.1997.Fig1.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_31.jpg
   location: Neural Plate/Tube, Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Cauthen et al. 2001
+  source_label: Cauthen et al. 2001
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-1.Cauthen.2001.Fig1L-st10.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_32.jpg
   location: null
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Cauthen et al. 2001
+  source_label: Cauthen et al. 2001
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-1.Cauthen.2001.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_33.jpg
   location: Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Rallis et al. 2001
+  source_label: Rallis et al. 2001
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax1.Rallis.2001.Fig2c-st16.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_34.jpg
   location: Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Rallis et al. 2001
+  source_label: Rallis et al. 2001
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax1.Rallis.2001.Fig2f-st16.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_35.jpg
   location: Sclerotome
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Rallis et al. 2001
+  source_label: Rallis et al. 2001
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax1.Rallis.2001.Fig2i-st16.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_36.jpg
   location: Sclerotome
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Rallis et al. 2001
+  source_label: Rallis et al. 2001
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax1.Rallis.2001.Fig2l-st16.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_37.jpg
   location: Limb Buds
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Rallis et al. 2001
+  source_label: Rallis et al. 2001
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax1.Rallis.2001.Fig3k-st26.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_38.jpg
   location: null
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Rallis et al. 2001
+  source_label: Rallis et al. 2001
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax1.Rallis.2001.Fig2.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_39.jpg
   location: null
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Rallis et al. 2001
+  source_label: Rallis et al. 2001
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax1.Rallis.2001.Fig3.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_40.jpg
   location: Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Barnes et al. 1996
+  source_label: Barnes et al. 1996
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-1.Barnes.1996.Fig5A-st12.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_41.jpg
   location: Sclerotome, Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Barnes et al. 1996
+  source_label: Barnes et al. 1996
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-1.Barnes.1996.Fig5C-st12.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_42.jpg
   location: Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Barnes et al. 1996
+  source_label: Barnes et al. 1996
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-1.Barnes.1996.Fig5D-st12.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_43.jpg
   location: Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Barnes et al. 1996
+  source_label: Barnes et al. 1996
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-1.Barnes.1996.Fig5B-st15.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_44.jpg
   location: Sclerotome
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Barnes et al. 1996
+  source_label: Barnes et al. 1996
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-1.Barnes.1996.Fig5E-st18.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_45.jpg
   location: Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Barnes et al. 1996
+  source_label: Barnes et al. 1996
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-1.Barnes.1996.Fig6A-st18.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_46.jpg
   location: null
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Barnes et al. 1996
+  source_label: Barnes et al. 1996
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-1.Barnes.1996.Fig5.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_47.jpg
   location: null
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Barnes et al. 1996
+  source_label: Barnes et al. 1996
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax-1.Barnes.1996.Fig6.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_48.jpg
   location: Pharyngeal Arches and Clefts, Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Leclair et al. 1999
+  source_label: Leclair et al. 1999
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax‐1.LeClair.1999.Fig3A-st19.jpg
 - caption: PAX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX1/473669_49.jpg
   location: Leg, Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Leclair et al. 1999
+  source_label: Leclair et al. 1999
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax‐1.LeClair.1999.Fig3B-st20.jpg
 - caption: PAX1 expression

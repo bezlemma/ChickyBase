@@ -121,8 +121,8 @@ images:
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_13.jpg
   location: Somites
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: James et al. 2005
+  source_label: James et al. 2005
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PARAXIS.FIG3D.JAMES.2005.jpg
 - caption: TCF15 expression
@@ -136,183 +136,183 @@ images:
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_15.jpg
   location: Tail
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Tenin et al. 2010
+  source_label: Tenin et al. 2010
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MESO1.HH24.Tenin.2010.F3.meso1.png
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_16.jpg
   location: Tail
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Tenin et al. 2010
+  source_label: Tenin et al. 2010
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MESO1.HH25.Tenin.2010.F3.meso1.png
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_17.jpg
   location: null
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Tenin et al. 2010
+  source_label: Tenin et al. 2010
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Tenin.2010.F3.meso1.png
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_18.jpg
   location: Dermomyotome, Wing
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig1D-st18.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_19.jpg
   location: Limb Buds, Somites
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig1A-st19.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_20.jpg
   location: Dermomyotome, Limb Buds, Myotome, Somites
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig1B-st19.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_21.jpg
   location: Limb Buds, Somites
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig3A-st20.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_22.jpg
   location: Limb Buds
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig3B-st20.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_23.jpg
   location: Somites
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig2B-st21.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_24.jpg
   location: Somites
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig2C-st21.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_25.jpg
   location: Wing
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig2D-st21.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_26.jpg
   location: Wing
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig2E-st21.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_27.jpg
   location: Myotome
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig4A-st21.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_28.jpg
   location: Myotome
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig4B-st21.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_29.jpg
   location: Limb Buds
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig1C-st22.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_30.jpg
   location: Wing
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig4C-st23.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_31.jpg
   location: Limb Buds
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig3C-st24.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_32.jpg
   location: Limb Buds
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig3D-st24.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_33.jpg
   location: Leg Muscles, Limb Buds
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig4E-st24.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_34.jpg
   location: Limb Buds
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig4G-st24.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_35.jpg
   location: Leg Muscles, Limb Buds
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig4F'-st28.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_36.jpg
   location: Leg Muscles, Limb Buds
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig4H-st28.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_37.jpg
   location: null
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig1.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_38.jpg
   location: null
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig2.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_39.jpg
   location: null
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig3.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_40.jpg
   location: null
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Delfini et al. 2000
+  source_label: Delfini et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paraxis.Delfini.2000.Fig4.jpg
 - caption: TCF15 expression
@@ -423,43 +423,43 @@ images:
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_56.jpg
   location: Paraxial Mesoderm, Somites
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Buchberger et al. 1998
+  source_label: Buchberger et al. 1998
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/paraxis.Buchberger.1998.Fig5F-st11.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_57.jpg
   location: Paraxial Mesoderm, Somites
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Buchberger et al. 1998
+  source_label: Buchberger et al. 1998
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/paraxis.Buchberger.1998.Fig5C'-st13.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_58.jpg
   location: Paraxial Mesoderm, Somites
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Buchberger et al. 1998
+  source_label: Buchberger et al. 1998
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/paraxis.Buchberger.1998.Fig5C-st13.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_59.jpg
   location: Paraxial Mesoderm, Somites
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Buchberger et al. 1998
+  source_label: Buchberger et al. 1998
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/paraxis.Buchberger.1998.Fig5D'-st15.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_60.jpg
   location: Paraxial Mesoderm, Somites
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Buchberger et al. 1998
+  source_label: Buchberger et al. 1998
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/paraxis.Buchberger.1998.Fig5D-st15.jpg
 - caption: TCF15 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF15/450429_61.jpg
   location: null
-  source: Stockdale et al. 2000
-  source_label: Stockdale et al. 2000
+  source: Buchberger et al. 1998
+  source_label: Buchberger et al. 1998
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/paraxis.Buchberger.1998.Fig5.jpg
 name: transcription factor 15

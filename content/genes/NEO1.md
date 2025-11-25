@@ -39,55 +39,55 @@ images:
 - caption: NEO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEO1/450048_2.jpg
   location: Forebrain, Nasal Placode/Nerve
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Murakami et al. 2010
+  source_label: Murakami et al. 2010
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NEOGENIN.Murakami.2010.Fig.3
     neogenin.png
 - caption: NEO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEO1/450048_3.jpg
   location: Forebrain
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Murakami et al. 2010
+  source_label: Murakami et al. 2010
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NEOGENIN.Murakami.2010.Fig.3
     neogeninmag.png
 - caption: NEO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEO1/450048_4.jpg
   location: null
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Murakami et al. 2010
+  source_label: Murakami et al. 2010
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NEOGENIN.Murakami.2010.Fig.3.png
 - caption: NEO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEO1/450048_5.jpg
   location: Spinal Cord
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Daiphan et al. 2011
+  source_label: Daiphan et al. 2011
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NEOGENIN.DaiPhan.2011.Fig.2
     neogenin st20.png
 - caption: NEO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEO1/450048_6.jpg
   location: Spinal Cord
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Daiphan et al. 2011
+  source_label: Daiphan et al. 2011
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NEOGENIN.DaiPhan.2011.Fig.2
     neogenin st23.png
 - caption: NEO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEO1/450048_7.jpg
   location: Spinal Cord
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Daiphan et al. 2011
+  source_label: Daiphan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NEOGENIN.DaiPhan.2011.Fig.2
     neogenin st26.png
 - caption: NEO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEO1/450048_8.jpg
   location: null
-  source: Guan et al. 2003
-  source_label: Guan et al. 2003
+  source: Daiphan et al. 2011
+  source_label: Daiphan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NEOGENIN.DaiPhan.2011.Fig.2.png
 name: neogenin 1

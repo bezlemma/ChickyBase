@@ -53,16 +53,16 @@ images:
 - caption: IRX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IRX3/505323_4.jpg
   location: Unlabeled
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IRX3.Anderson.2019.Supplementary
     figure 5I-st12.jpg
 - caption: IRX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IRX3/505323_5.jpg
   location: null
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IRX3.Anderson.2019.Supplementary
     figure 5I.jpg

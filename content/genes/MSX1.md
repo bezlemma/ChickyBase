@@ -72,43 +72,43 @@ images:
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_6.jpg
   location: Pharyngeal Arches and Clefts
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Shig et al. 2000
+  source_label: Shig et al. 2000
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG3A.SHIG.2000.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_7.jpg
   location: Pharyngeal Arches and Clefts
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Shig et al. 2000
+  source_label: Shig et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG3B.SHIG.2000.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_8.jpg
   location: Pharyngeal Arches and Clefts
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Shig et al. 2000
+  source_label: Shig et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG3C.SHIG.2000.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_9.jpg
   location: null
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Shig et al. 2000
+  source_label: Shig et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3B.SHIG.2000.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_10.jpg
   location: Face Mesenchyme
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Holleville et al. 2007
+  source_label: Holleville et al. 2007
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Holleville.Figure3.Holleville.2007.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_11.jpg
   location: Face Mesenchyme
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Holleville et al. 2007
+  source_label: Holleville et al. 2007
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Msx1.Holleville.2007.Figure4H.jpg
 - caption: MSX1 expression
@@ -268,218 +268,218 @@ images:
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_34.jpg
   location: Heart, Outflow Tract
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Allen et al. 2001
+  source_label: Allen et al. 2001
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG7A.ALLEN.2001.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_35.jpg
   location: Heart, Outflow Tract
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Allen et al. 2001
+  source_label: Allen et al. 2001
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG7B.ALLEN.2001.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_36.jpg
   location: Primitive Streak
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Streit et al. 1999
+  source_label: Streit et al. 1999
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG5A.STREIT.1999.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_37.jpg
   location: Neural Plate/Tube, Primitive Streak
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Streit et al. 1999
+  source_label: Streit et al. 1999
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG5B.STREIT.1999.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_38.jpg
   location: Lateral Plate Mesoderm, Neural Plate/Tube
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Streit et al. 1999
+  source_label: Streit et al. 1999
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG5CEFGH.STREIT.1999.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_39.jpg
   location: Lateral Plate Mesoderm, Neural Plate/Tube
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Streit et al. 1999
+  source_label: Streit et al. 1999
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG5D.STREIT.1999.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_40.jpg
   location: null
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Stevens et al. 2003
+  source_label: Stevens et al. 2003
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG8.STEVENS.2003.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_41.jpg
   location: Ear/Otic Placcode
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Stevens et al. 2003
+  source_label: Stevens et al. 2003
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG8B.STEVENS.2003.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_42.jpg
   location: Ear/Otic Placcode
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Stevens et al. 2003
+  source_label: Stevens et al. 2003
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG5A.STEVENS.2003.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_43.jpg
   location: null
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Holleville et al. 2003
+  source_label: Holleville et al. 2003
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG6.HOLLEVILLE.2003.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_44.jpg
   location: Head Mesenchyme
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Holleville et al. 2003
+  source_label: Holleville et al. 2003
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG6C.HOLLEVILLE.2003.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_45.jpg
   location: null
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Taney et al. 2005
+  source_label: Taney et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG7.TANEY.2005.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_46.jpg
   location: Neural Plate/Tube
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Taney et al. 2005
+  source_label: Taney et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG7C.TANEY.2005.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_47.jpg
   location: Neural Plate/Tube
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Taney et al. 2005
+  source_label: Taney et al. 2005
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG7D.TANEY.2005.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_48.jpg
   location: null
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Mclarren et al. 2003
+  source_label: Mclarren et al. 2003
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.MCLARREN.2003.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_49.jpg
   location: Neural Plate/Tube
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Mclarren et al. 2003
+  source_label: Mclarren et al. 2003
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG1B.MCLARREN.2003.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_50.jpg
   location: Early Embryo, Lateral Plate Mesoderm
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Riley et al. 2003
+  source_label: Riley et al. 2003
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG3EF.RILEY.2003.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_51.jpg
   location: Epiblast, Neural Plate/Tube
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG1B.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_52.jpg
   location: Epiblast, Neural Plate/Tube
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG3A.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_53.jpg
   location: Neural Plate/Tube
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG3C.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_54.jpg
   location: Neural Plate/Tube
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG3D.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_55.jpg
   location: Epiblast, Neural Plate/Tube
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG1K.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_56.jpg
   location: Ectoderm, Mesoderm, Neural Plate/Tube, Placcode
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG1T.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_57.jpg
   location: null
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_58.jpg
   location: Ectoderm, Mesoderm, Neural Plate/Tube
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG1CC.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_59.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG2B.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_60.jpg
   location: Neural Crest
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG2L.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_61.jpg
   location: null
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_62.jpg
   location: Neural Crest
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Khud et al. 2009
+  source_label: Khud et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG2V.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_63.jpg
   location: null
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1C.BASCH.2006.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_64.jpg
   location: Area Opaca
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Basch et al. 2006
+  source_label: Basch et al. 2006
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX12.FIG1C.BASCH.2006.jpg
 - caption: MSX1 expression
@@ -592,16 +592,16 @@ images:
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_80.jpg
   location: Unlabeled
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Ohyama et al. 2008
+  source_label: Ohyama et al. 2008
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.Ohyama.2008.Fig.1
     msx1 st9.png
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_81.jpg
   location: Diencephalon
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Ohyama et al. 2008
+  source_label: Ohyama et al. 2008
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.Ohyama.2008.Fig.1
     msx1 st16.png
@@ -615,75 +615,75 @@ images:
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_83.jpg
   location: Diencephalon
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Ohyama et al. 2008
+  source_label: Ohyama et al. 2008
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.Ohyama.2008.Fig.1
     msx1 st25.png
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_84.jpg
   location: Limb Buds
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Fischer et al. 2008
+  source_label: Fischer et al. 2008
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.Fischer.2008.Fig.4
     msx1 fgf8.png
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_85.jpg
   location: Limb Buds
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Fischer et al. 2008
+  source_label: Fischer et al. 2008
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.Fischer.2008.Fig.4
     msx1.png
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_86.jpg
   location: null
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Fischer et al. 2008
+  source_label: Fischer et al. 2008
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.Fischer.2008.Fig.4.png
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_87.jpg
   location: Central Nervous System, Limb Buds, Pharyngeal Arches and Clefts
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Fischer et al. 2008
+  source_label: Fischer et al. 2008
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.Fischer.2008.Sup.Fig.7
     msx1.png
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_88.jpg
   location: null
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Fischer et al. 2008
+  source_label: Fischer et al. 2008
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.Fischer.2008.Sup.Fig.7.png
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_89.jpg
   location: Forebrain
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Maucucio et al. 2005
+  source_label: Maucucio et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.8_MXS1_D.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_90.jpg
   location: Pharyngeal Arches and Clefts
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Maucucio et al. 2005
+  source_label: Maucucio et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.8_MXS1_I.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_91.jpg
   location: null
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Maucucio et al. 2005
+  source_label: Maucucio et al. 2005
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.8_All-images-4.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_92.jpg
   location: Early Mesoderm, Extraembryonic Mesoderm, Lateral Plate Mesoderm
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Afrakhte et al. 2004
+  source_label: Afrakhte et al. 2004
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Msx‐1.Afrakhte.2004.Fig3E-st6.jpg
 - caption: MSX1 expression
@@ -696,79 +696,79 @@ images:
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_94.jpg
   location: Mesoderm
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Msx-1.Barlow.1999.Fig6B-st20.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_95.jpg
   location: Mesoderm
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Msx-1.Barlow.1999.Fig6D-st24.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_96.jpg
   location: Mesoderm
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Msx-1.Barlow.1999.Fig6F-st28.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_97.jpg
   location: null
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Msx-1.Barlow.1999.Fig6.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_98.jpg
   location: Neural Plate/Tube
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Liem et al. 1995
+  source_label: Liem et al. 1995
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liem.1995_Fig1_MSX-1_E.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_99.jpg
   location: Neural Plate/Tube
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Liem et al. 1995
+  source_label: Liem et al. 1995
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liem.1995_Fig1_MSX-1_F.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_100.jpg
   location: Neural Plate/Tube
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Liem et al. 1995
+  source_label: Liem et al. 1995
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liem.1995_Fig1_MSX-1_G.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_101.jpg
   location: Neural Plate/Tube
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Liem et al. 1995
+  source_label: Liem et al. 1995
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liem.1995_Fig1_MSX-1_H.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_102.jpg
   location: null
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Liem et al. 1995
+  source_label: Liem et al. 1995
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Liem.1995_Fig1_ALLIMAGES-2.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_103.jpg
   location: Proepicardium
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.Anderson.2019.Supplementary
     figure 4J-st12.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_104.jpg
   location: null
-  source: Kamimura et al. 2004
-  source_label: Kamimura et al. 2004
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.Anderson.2019.Supplementary
     figure 4J.jpg

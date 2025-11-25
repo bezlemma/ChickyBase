@@ -31,29 +31,29 @@ images:
 - caption: DLX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX2/509469_2.jpg
   location: Pharyngeal Arches and Clefts
-  source: Marcucio et al. 2005
-  source_label: Marcucio et al. 2005
+  source: Brown et al. 2005
+  source_label: Brown et al. 2005
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.4_DLX2_St17.jpg
 - caption: DLX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX2/509469_3.jpg
   location: Ear/Otic Placode
-  source: Marcucio et al. 2005
-  source_label: Marcucio et al. 2005
+  source: Brown et al. 2005
+  source_label: Brown et al. 2005
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.6_DLX2_B.jpg
 - caption: DLX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX2/509469_4.jpg
   location: null
-  source: Marcucio et al. 2005
-  source_label: Marcucio et al. 2005
+  source: Brown et al. 2005
+  source_label: Brown et al. 2005
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.4_AllMAGES_2.jpg
 - caption: DLX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX2/509469_5.jpg
   location: null
-  source: Marcucio et al. 2005
-  source_label: Marcucio et al. 2005
+  source: Brown et al. 2005
+  source_label: Brown et al. 2005
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.6_ALLIMAGES_2.jpg
 name: distal-less homeobox 2

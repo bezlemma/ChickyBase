@@ -21,22 +21,22 @@ images:
 - caption: WISP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WISP1/457890_0.jpg
   location: null
-  source: McBride et al. 2003
-  source_label: McBride et al. 2003
+  source: Mcbride et al. 2003
+  source_label: Mcbride et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.McBride.2003.7.png
 - caption: WISP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WISP1/457890_1.jpg
   location: Gut
-  source: McBride et al. 2003
-  source_label: McBride et al. 2003
+  source: Mcbride et al. 2003
+  source_label: Mcbride et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.McBride.2003.7S.png
 - caption: WISP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WISP1/457890_2.jpg
   location: Gut
-  source: McBride et al. 2003
-  source_label: McBride et al. 2003
+  source: Mcbride et al. 2003
+  source_label: Mcbride et al. 2003
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wnt1.McBride.2003.7T.png
 name: WNT1 inducible signaling pathway protein 1

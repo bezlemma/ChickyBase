@@ -24,275 +24,275 @@ images:
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_0.jpg
   location: Neural Plate/Tube
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI2.FIG5IJ.AGLYA.2007.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_1.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI2.FIG5KL.AGLYA.2007.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_2.jpg
   location: Spinal Cord
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI2.FIG7E.AGLYA.2007.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_3.jpg
   location: Neural Plate/Tube
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI2.FIG5M.AGLYA.2007.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_4.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI2.FIG5N.AGLYA.2007.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_5.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI2.FIG5O.AGLYA.2007.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_6.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Aglya et al. 2007
+  source_label: Aglya et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI2.FIG5W.AGLYA.2007.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_7.jpg
   location: Hensen's Node
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Granata et al. 2004
+  source_label: Granata et al. 2004
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI2.FIG1F.GRANATA.2004.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_8.jpg
   location: Area Pellucida, Hensen's Node
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Granata et al. 2004
+  source_label: Granata et al. 2004
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI2.FIG1G.GRANATA.2004.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_9.jpg
   location: Area Pellucida, Ectoderm, Hensen's Node, Neural Plate/Tube
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Granata et al. 2004
+  source_label: Granata et al. 2004
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI2.FIG1HT.GRANATA.2004.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_10.jpg
   location: Area Pellucida, Ectoderm, Hensen's Node, Neural Plate/Tube
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Granata et al. 2004
+  source_label: Granata et al. 2004
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI2.FIG1IQ.GRANATA.2004.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_11.jpg
   location: null
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Granata et al. 2004
+  source_label: Granata et al. 2004
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI1-3.FIG1.GRANATA.2004.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_12.jpg
   location: Area Pellucida, Hensen's Node
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Granata et al. 2004
+  source_label: Granata et al. 2004
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI2.FIG1J.GRANATA.2004.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_13.jpg
   location: Isthmus/MHB, Midbrain
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Agarwala et al. 2005
+  source_label: Agarwala et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI2.FIG3E.AGARWALA.2005.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_14.jpg
   location: Leg, Tail
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Liu et al. 2007
+  source_label: Liu et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Liu.2007.Figure2B.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_15.jpg
   location: Dermomyotome, Leg Ectoderm, Neural Plate/Tube, Spinal Cord, Surface Ectoderm,
     Tail
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Liu et al. 2007
+  source_label: Liu et al. 2007
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Liu.2007.Figure2F.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_16.jpg
   location: Unlabeled
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Liu et al. 2007
+  source_label: Liu et al. 2007
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Liu.2007.Figure2J.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_17.jpg
   location: Leg, Neural Plate/Tube, Spinal Cord
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Liu et al. 2007
+  source_label: Liu et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Liu.2007.Figure2N.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_18.jpg
   location: Widespread Expression
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Liu et al. 2007
+  source_label: Liu et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Liu.2007.Figure2R.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_19.jpg
   location: Tail
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Liu et al. 2007
+  source_label: Liu et al. 2007
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Liu.2007.Figure4.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_20.jpg
   location: Leg, Neural Plate/Tube, Spinal Cord, Splanchnic Mesoderm
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Liu et al. 2007
+  source_label: Liu et al. 2007
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Liu.2007.Figure3J.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_21.jpg
   location: Neural Plate/Tube, Spinal Cord, Splanchnic Mesoderm
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Liu et al. 2007
+  source_label: Liu et al. 2007
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Liu.2007.Figure3N.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_22.jpg
   location: Leg, Neural Plate/Tube, Spinal Cord, Splanchnic Mesoderm
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Liu et al. 2007
+  source_label: Liu et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Liu.2007.Figure3B.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_23.jpg
   location: Splanchnic Mesoderm
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Liu et al. 2007
+  source_label: Liu et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Liu.2007.Figure3F.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_24.jpg
   location: null
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Luo et al. 2006
+  source_label: Luo et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Luo.2006.Fig1.ALLIMAGES-3.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_25.jpg
   location: Spinal Cord
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Luo et al. 2006
+  source_label: Luo et al. 2006
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Luo.2006.Fig1.GLI2.U.ST20.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_26.jpg
   location: Neural Plate/Tube
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Schweitzer et al. 2000
+  source_label: Schweitzer et al. 2000
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Schweitzer.2000.Fig2A-st6.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_27.jpg
   location: Neural Plate/Tube
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Schweitzer et al. 2000
+  source_label: Schweitzer et al. 2000
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Schweitzer.2000.Fig2B-st8.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_28.jpg
   location: Leg, Limb Buds, Somites
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Schweitzer et al. 2000
+  source_label: Schweitzer et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Schweitzer.2000.Fig3F-st19.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_29.jpg
   location: Limb Buds, Somites
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Schweitzer et al. 2000
+  source_label: Schweitzer et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Schweitzer.2000.Fig2C-st20.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_30.jpg
   location: Somites
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Schweitzer et al. 2000
+  source_label: Schweitzer et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Schweitzer.2000.Fig2I-st20.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_31.jpg
   location: Limb Buds, Somites
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Schweitzer et al. 2000
+  source_label: Schweitzer et al. 2000
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Schweitzer.2000.Fig3G-st21.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_32.jpg
   location: Limb Buds, Somites
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Schweitzer et al. 2000
+  source_label: Schweitzer et al. 2000
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Schweitzer.2000.Fig3H-st22.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_33.jpg
   location: Diencephalon, Limb Buds, Midbrain, Somites, Telencephalon
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Schweitzer et al. 2000
+  source_label: Schweitzer et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Schweitzer.2000.Fig2D-st24.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_34.jpg
   location: Somites
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Schweitzer et al. 2000
+  source_label: Schweitzer et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Schweitzer.2000.Fig2J-st24.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_35.jpg
   location: null
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Schweitzer et al. 2000
+  source_label: Schweitzer et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Schweitzer.2000.Fig2.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_36.jpg
   location: null
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Schweitzer et al. 2000
+  source_label: Schweitzer et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Gli2.Schweitzer.2000.Fig3.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_37.jpg
   location: null
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Kahane et al. 2013
+  source_label: Kahane et al. 2013
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kahane.2013.Fig1_Allimages-6.jpg
 - caption: GLI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI2/450511_38.jpg
   location: Dermomyotome, Myotome
-  source: Aglyamova et al. 2007
-  source_label: Aglyamova et al. 2007
+  source: Kahane et al. 2013
+  source_label: Kahane et al. 2013
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Kahane.2013.Fig1_B-Gli2.jpg
 name: GLI family zinc finger 2

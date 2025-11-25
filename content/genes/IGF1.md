@@ -39,92 +39,92 @@ images:
 - caption: IGF1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1/455870_2.jpg
   location: Telencephalon
-  source: Camarero et al. 2003
-  source_label: Camarero et al. 2003
+  source: Holzenberger et al. 2000
+  source_label: Holzenberger et al. 2000
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1.Holzenberger.2000.Fig6A'.jpg
 - caption: IGF1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1/455870_3.jpg
   location: Telencephalon
-  source: Camarero et al. 2003
-  source_label: Camarero et al. 2003
+  source: Holzenberger et al. 2000
+  source_label: Holzenberger et al. 2000
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1.Holzenberger.2000.Fig6B'.jpg
 - caption: IGF1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1/455870_4.jpg
   location: Forebrain
-  source: Camarero et al. 2003
-  source_label: Camarero et al. 2003
+  source: Holzenberger et al. 2000
+  source_label: Holzenberger et al. 2000
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1.Holzenberger.2000.Fig6D'.jpg
 - caption: IGF1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1/455870_5.jpg
   location: Hypothalamus
-  source: Camarero et al. 2003
-  source_label: Camarero et al. 2003
+  source: Holzenberger et al. 2000
+  source_label: Holzenberger et al. 2000
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1.Holzenberger.2000.Fig6E'.jpg
 - caption: IGF1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1/455870_6.jpg
   location: Metencephalon
-  source: Camarero et al. 2003
-  source_label: Camarero et al. 2003
+  source: Holzenberger et al. 2000
+  source_label: Holzenberger et al. 2000
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1.Holzenberger.2000.Fig6G'.jpg
 - caption: IGF1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1/455870_7.jpg
   location: Telencephalon
-  source: Camarero et al. 2003
-  source_label: Camarero et al. 2003
+  source: Holzenberger et al. 2000
+  source_label: Holzenberger et al. 2000
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1.Holzenberger.2000.Fig7A.jpg
 - caption: IGF1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1/455870_8.jpg
   location: Telencephalon
-  source: Camarero et al. 2003
-  source_label: Camarero et al. 2003
+  source: Holzenberger et al. 2000
+  source_label: Holzenberger et al. 2000
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1.Holzenberger.2000.Fig7D.jpg
 - caption: IGF1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1/455870_9.jpg
   location: Sensory Organs
-  source: Camarero et al. 2003
-  source_label: Camarero et al. 2003
+  source: Holzenberger et al. 2000
+  source_label: Holzenberger et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1.Holzenberger.2000.Fig7B'.jpg
 - caption: IGF1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1/455870_10.jpg
   location: Sensory Organs
-  source: Camarero et al. 2003
-  source_label: Camarero et al. 2003
+  source: Holzenberger et al. 2000
+  source_label: Holzenberger et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1.Holzenberger.2000.Fig7C.jpg
 - caption: IGF1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1/455870_11.jpg
   location: Sensory Organs
-  source: Camarero et al. 2003
-  source_label: Camarero et al. 2003
+  source: Holzenberger et al. 2000
+  source_label: Holzenberger et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1.Holzenberger.2000.Fig7E'.jpg
 - caption: IGF1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1/455870_12.jpg
   location: Sensory Organs
-  source: Camarero et al. 2003
-  source_label: Camarero et al. 2003
+  source: Holzenberger et al. 2000
+  source_label: Holzenberger et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1.Holzenberger.2000.Fig7F.jpg
 - caption: IGF1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1/455870_13.jpg
   location: Hindbrain
-  source: Camarero et al. 2003
-  source_label: Camarero et al. 2003
+  source: Holzenberger et al. 2000
+  source_label: Holzenberger et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1.Holzenberger.2000.Fig8B'.jpg
 - caption: IGF1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IGF1/455870_14.jpg
   location: Hindbrain
-  source: Camarero et al. 2003
-  source_label: Camarero et al. 2003
+  source: Holzenberger et al. 2000
+  source_label: Holzenberger et al. 2000
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IGF1.Holzenberger.2000.Fig8D'.jpg
 name: insulin like growth factor 1

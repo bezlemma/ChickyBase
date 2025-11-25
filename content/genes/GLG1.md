@@ -22,15 +22,15 @@ images:
 - caption: GLG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLG1/461095_0.jpg
   location: Neural Plate/Tube
-  source: McCabe et al. 2007
-  source_label: McCabe et al. 2007
+  source: Mccabe et al. 2007
+  source_label: Mccabe et al. 2007
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CFR.Figure2GHI.McCabe.2007.jpg
 - caption: GLG1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLG1/461095_1.jpg
   location: Midbrain, Neural Crest, Neural Plate/Tube
-  source: McCabe et al. 2007
-  source_label: McCabe et al. 2007
+  source: Mccabe et al. 2007
+  source_label: Mccabe et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CFR.Figure2JKL.McCabe.2007.jpg
 name: golgi glycoprotein 1

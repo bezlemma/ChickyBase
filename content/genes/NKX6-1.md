@@ -53,43 +53,43 @@ images:
 - caption: NKX6-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX6-1/450362_5.jpg
   location: null
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Pedersen et al. 2005
+  source_label: Pedersen et al. 2005
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2a.PEDERSEN.2005.jpg
 - caption: NKX6-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX6-1/450362_6.jpg
   location: Endoderm, Neural Plate/Tube
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Pedersen et al. 2005
+  source_label: Pedersen et al. 2005
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX6.1.FIG2AGH.PEDERSEN.2005.jpg
 - caption: NKX6-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX6-1/450362_7.jpg
   location: Endoderm, Neural Plate/Tube
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Pedersen et al. 2005
+  source_label: Pedersen et al. 2005
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX6.1.FIG2BI.PEDERSEN.2005.jpg
 - caption: NKX6-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX6-1/450362_8.jpg
   location: null
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Pedersen et al. 2005
+  source_label: Pedersen et al. 2005
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3a.PEDERSEN.2005.jpg
 - caption: NKX6-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX6-1/450362_9.jpg
   location: Endoderm, Neural Plate/Tube, Pancreas, Stomach, Trunk Mesenchyme
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Pedersen et al. 2005
+  source_label: Pedersen et al. 2005
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX6.1.FIG3A.PEDERSEN.2005.jpg
 - caption: NKX6-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX6-1/450362_10.jpg
   location: Endoderm, Neural Plate/Tube, Pancreas, Stomach, Trunk Mesenchyme
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Pedersen et al. 2005
+  source_label: Pedersen et al. 2005
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX6.1.FIG3B.PEDERSEN.2005.jpg
 - caption: NKX6-1 expression
@@ -172,15 +172,15 @@ images:
 - caption: NKX6-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX6-1/450362_22.jpg
   location: null
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Garciacampmany et al. 2007
+  source_label: Garciacampmany et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GarciaCampmany.2007.f2.nkx6.1.png
 - caption: NKX6-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX6-1/450362_23.jpg
   location: Spinal Cord
-  source: Gimeno et al. 2007
-  source_label: Gimeno et al. 2007
+  source: Garciacampmany et al. 2007
+  source_label: Garciacampmany et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX6.1.GarciaCampmany.2007.f2.nkx6.1.png
 name: NK6 homeobox 1

@@ -22,22 +22,22 @@ images:
 - caption: CTBP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CTBP2/452732_0.jpg
   location: Diencephalon, Forebrain, Midbrain, Neural Plate/Tube
-  source: Quinlan et al. 2009
-  source_label: Quinlan et al. 2009
+  source: Quinlin et al. 2009
+  source_label: Quinlin et al. 2009
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CTBP2.Quinlin.2009.6.2nd.png
 - caption: CTBP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CTBP2/452732_1.jpg
   location: Diencephalon, Midbrain, Neural Plate/Tube
-  source: Quinlan et al. 2009
-  source_label: Quinlan et al. 2009
+  source: Quinlin et al. 2009
+  source_label: Quinlin et al. 2009
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CTBP2.Quinlin.2009.6K.png
 - caption: CTBP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CTBP2/452732_2.jpg
   location: Diencephalon, Forebrain, Midbrain, Neural Plate/Tube
-  source: Quinlan et al. 2009
-  source_label: Quinlan et al. 2009
+  source: Quinlin et al. 2009
+  source_label: Quinlin et al. 2009
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CTBP2.Quinlin.2009.6L.png
 name: C-terminal binding protein 2

@@ -27,408 +27,408 @@ images:
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_1.jpg
   location: Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schulte et al. 2007
+  source_label: Schulte et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/tbx18.figure7b.schulte.2007.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_2.jpg
   location: Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1A.Schlueter.2006.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_3.jpg
   location: Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1D.Schlueter.2006.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_4.jpg
   location: Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1B.Schlueter.2006.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_5.jpg
   location: Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1E.Schlueter.2006.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_6.jpg
   location: Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1C.Schlueter.2006.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_7.jpg
   location: Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure1F.Schlueter.2006.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_8.jpg
   location: Epicardium, Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2A.Schlueter.2006.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_9.jpg
   location: Epicardium, Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2B.Schlueter.2006.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_10.jpg
   location: Epicardium, Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2C.Schlueter.2006.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_11.jpg
   location: Epicardium, Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2006
+  source_label: Schlueter et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2D.Schlueter.2006.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_12.jpg
   location: Intermediate Mesoderm, Proepicardium, Somites
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Ishii et al. 2007
+  source_label: Ishii et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.FIG1IJ.ISHII.2007.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_13.jpg
   location: Intermediate Mesoderm, Limb Buds, Proepicardium, Somites
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Ishii et al. 2007
+  source_label: Ishii et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.FIG1K.ISHII.2007.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_14.jpg
   location: Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Ishii et al. 2007
+  source_label: Ishii et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.FIG1L.ISHII.2007.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_15.jpg
   location: Intermediate Mesoderm, Limb Buds, Proepicardium, Somites
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Ishii et al. 2007
+  source_label: Ishii et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.FIG2C.ISHII.2007.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_16.jpg
   location: Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Ishii et al. 2010
+  source_label: Ishii et al. 2010
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Ishii.2010.Fig.1
     tbx18 st14.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_17.jpg
   location: Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Ishii et al. 2010
+  source_label: Ishii et al. 2010
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Ishii.2010.Fig.4
     tbx18.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_18.jpg
   location: null
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Ishii et al. 2010
+  source_label: Ishii et al. 2010
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Ishii.2010.Fig.4.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_19.jpg
   location: Epicardium, Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Ishii et al. 2010
+  source_label: Ishii et al. 2010
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Ishii.2010.Fig.1
     tbx18 st18.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_20.jpg
   location: Epicardium, Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Ishii et al. 2010
+  source_label: Ishii et al. 2010
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Ishii.2010.Fig.1
     tbx18 st19.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_21.jpg
   location: Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Ishii et al. 2010
+  source_label: Ishii et al. 2010
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Ishii.2010.Fig.5
     tbx18.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_22.jpg
   location: null
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Ishii et al. 2010
+  source_label: Ishii et al. 2010
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Ishii.2010.Fig.5.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_23.jpg
   location: Epicardium, Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Ishii et al. 2010
+  source_label: Ishii et al. 2010
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Ishii.2010.Fig.1
     tbx18 st23.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_24.jpg
   location: null
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Ishii et al. 2010
+  source_label: Ishii et al. 2010
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Ishii.2010.Fig.1.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_25.jpg
   location: Atria, Sinus Venosus
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2009
+  source_label: Schlueter et al. 2009
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Schlueter.2009.Fig.3
     tbx18 b.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_26.jpg
   location: Sinus Venosus
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2009
+  source_label: Schlueter et al. 2009
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Schlueter.2009.Fig.3
     tbx18 e.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_27.jpg
   location: null
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2009
+  source_label: Schlueter et al. 2009
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Schlueter.2009.Fig.3.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_28.jpg
   location: Sinus Venosus
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2009
+  source_label: Schlueter et al. 2009
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Schlueter.2009.Fig.1
     tbx18 .png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_29.jpg
   location: Sinus Venosus
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2009
+  source_label: Schlueter et al. 2009
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Schlueter.2009.Fig.1
     tbx18 b.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_30.jpg
   location: null
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2009
+  source_label: Schlueter et al. 2009
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Schlueter.2009.Fig.1.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_31.jpg
   location: Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2009
+  source_label: Schlueter et al. 2009
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Schlueter.2009.Fig.2
     tbx18.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_32.jpg
   location: null
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Schlueter et al. 2009
+  source_label: Schlueter et al. 2009
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Schlueter.2009.Fig.2.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_33.jpg
   location: Somites
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Watanabe et al. 2009
+  source_label: Watanabe et al. 2009
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Watanabe.2009.Fig.2
     tbx18.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_34.jpg
   location: null
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Watanabe et al. 2009
+  source_label: Watanabe et al. 2009
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Watanabe.2009.Fig.2.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_35.jpg
   location: Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Buermans et al. 2010
+  source_label: Buermans et al. 2010
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Buermans.2010.Fig.7
     tbx18.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_36.jpg
   location: null
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Buermans et al. 2010
+  source_label: Buermans et al. 2010
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Buermans.2010.Fig.7.png
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_37.jpg
   location: Heart, Somites
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig1A-st11.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_38.jpg
   location: Heart
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig1B-st12.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_39.jpg
   location: Somites
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig1E-st12.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_40.jpg
   location: Heart
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig1C-st14.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_41.jpg
   location: Heart
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig1D-st15.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_42.jpg
   location: Gonad, Head Mesenchyme, Leg, Proepicardium, Wing
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig1F-st19.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_43.jpg
   location: Dermatome, Myotome, Sclerotome
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig2A-st19.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_44.jpg
   location: Aorta, Neural Plate/Tube, Notochord, Sclerotome
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig2B-st19.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_45.jpg
   location: Heart, Proepicardium, Ventricles
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig2C-st19.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_46.jpg
   location: Atria, Gonad, Head Mesenchyme, Heart, Leg, Limb Buds, Ventricles, Wing
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig1G-st23.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_47.jpg
   location: Leg, Sclerotome, Wing
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig2D-st23.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_48.jpg
   location: Myotome, Neural Plate/Tube, Notochord, Sclerotome, Spinal Ganglia and
     Nerves
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig2E-st23.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_49.jpg
   location: Atria, Ventricles
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig2F-st23.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_50.jpg
   location: Atria, Head Mesenchyme, Heart, Leg, Ventricles, Wing
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig1H-st25.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_51.jpg
   location: Atria, Head Mesenchyme, Leg, Proepicardium, Sclerotome, Spinal Ganglia
     and Nerves, Tail, Ventricles
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig2G-st25.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_52.jpg
   location: Sclerotome, Spinal Ganglia and Nerves
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig2H-st25.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_53.jpg
   location: Head Mesenchyme
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig2I-st25.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_54.jpg
   location: Atria, Ventricles
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig2J-st25.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_55.jpg
   location: null
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig1.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_56.jpg
   location: null
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Haenig et al. 2004
+  source_label: Haenig et al. 2004
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Haenig.2004.Fig2.jpg
 - caption: TBX18 expression
@@ -536,36 +536,36 @@ images:
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_71.jpg
   location: Heart, Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Anderson.2019.Fig1G''-st12.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_72.jpg
   location: Heart, Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Anderson.2019.Fig1G'-st12.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_73.jpg
   location: Proepicardium
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Anderson.2019.Fig3M-st12.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_74.jpg
   location: null
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Anderson.2019.Fig1.jpg
 - caption: TBX18 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TBX18/462123_75.jpg
   location: null
-  source: Plageman et al. 2005
-  source_label: Plageman et al. 2005
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TBX18.Anderson.2019.Fig3.jpg
 name: T-box 18

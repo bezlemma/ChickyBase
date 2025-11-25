@@ -33,127 +33,127 @@ images:
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_2.jpg
   location: Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Tavares et al. 2001
+  source_label: Tavares et al. 2001
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/twist.tavares.2001.Figure2A.jpg
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_3.jpg
   location: Somatic Mesoderm, Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Tavares et al. 2001
+  source_label: Tavares et al. 2001
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/twist.tavares.2001.Figure3A.jpg
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_4.jpg
   location: Lateral Plate Mesoderm, Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Tavares et al. 2001
+  source_label: Tavares et al. 2001
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/twist.tavares.2001.Figure2B.jpg
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_5.jpg
   location: Somatic Mesoderm, Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Tavares et al. 2001
+  source_label: Tavares et al. 2001
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/twist.tavares.2001.Figure3B.jpg
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_6.jpg
   location: Lateral Plate Mesoderm, Somites
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Tavares et al. 2001
+  source_label: Tavares et al. 2001
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/twist.tavares.2001.Figure2C.jpg
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_7.jpg
   location: Pharyngeal Arches and Clefts
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Tavares et al. 2001
+  source_label: Tavares et al. 2001
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/twist.tavares.2001.Figure3E.jpg
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_8.jpg
   location: Lateral Plate Mesoderm, Leg Mesenchyme, Somites, Wing Mesenchyme
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Tavares et al. 2001
+  source_label: Tavares et al. 2001
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/twist.tavares.2001.Figure2D.jpg
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_9.jpg
   location: Leg Mesenchyme, Somatic Mesoderm, Somites, Wing Mesenchyme
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Tavares et al. 2001
+  source_label: Tavares et al. 2001
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/twist.tavares.2001.Figure2E.jpg
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_10.jpg
   location: Dermatome, Sclerotome, Wing Mesenchyme
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Tavares et al. 2001
+  source_label: Tavares et al. 2001
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/twist.tavares.2001.Figure3C.jpg
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_11.jpg
   location: Wing Mesenchyme
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Tavares et al. 2001
+  source_label: Tavares et al. 2001
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/twist.tavares.2001.Figure2F.jpg
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_12.jpg
   location: Dermatome, Sclerotome, Wing Mesenchyme
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Tavares et al. 2001
+  source_label: Tavares et al. 2001
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/twist.tavares.2001.Figure3D.jpg
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_13.jpg
   location: Face Mesenchyme, Pharyngeal Arches and Clefts
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Tavares et al. 2001
+  source_label: Tavares et al. 2001
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/twist.tavares.2001.Figure2J.jpg
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_14.jpg
   location: Leg Mesenchyme
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Tavares et al. 2001
+  source_label: Tavares et al. 2001
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/twist.tavares.2001.Figure2G.jpg
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_15.jpg
   location: Leg Mesenchyme
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Tavares et al. 2001
+  source_label: Tavares et al. 2001
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/twist.tavares.2001.Figure2H.jpg
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_16.jpg
   location: Leg Mesenchyme
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Tavares et al. 2001
+  source_label: Tavares et al. 2001
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/twist.tavares.2001.Figure2I.jpg
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_17.jpg
   location: Wing Mesenchyme
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Tavares et al. 2001
+  source_label: Tavares et al. 2001
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/twist.tavares.2001.Figure2K.jpg
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_18.jpg
   location: null
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Holleville et al. 2003
+  source_label: Holleville et al. 2003
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.HOLLEVILLE.2003.jpg
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_19.jpg
   location: Head Mesenchyme
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Holleville et al. 2003
+  source_label: Holleville et al. 2003
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TWIST.FIG2B.HOLLEVILLE.2003.jpg
 - caption: TWIST1 expression
@@ -231,56 +231,56 @@ images:
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_30.jpg
   location: Limb Buds
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Firulli et al. 2005
+  source_label: Firulli et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TWIST1.Firulli.2005.Fig.5
     twist1 st20.png
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_31.jpg
   location: Limb Buds
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Firulli et al. 2005
+  source_label: Firulli et al. 2005
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TWIST1.Firulli.2005.Fig.5
     twist1 st21.png
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_32.jpg
   location: Limb Buds
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Firulli et al. 2005
+  source_label: Firulli et al. 2005
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TWIST1.Firulli.2005.Fig.5
     twist1  sections st24.png
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_33.jpg
   location: Limb Buds
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Firulli et al. 2005
+  source_label: Firulli et al. 2005
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TWIST1.Firulli.2005.Fig.5
     twist1 st24.png
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_34.jpg
   location: Limb Buds
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Firulli et al. 2005
+  source_label: Firulli et al. 2005
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TWIST1.Firulli.2005.Fig.5
     twist1 st27.png
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_35.jpg
   location: Limb Buds
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Firulli et al. 2005
+  source_label: Firulli et al. 2005
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TWIST1.Firulli.2005.Fig.5
     twist1 st30.png
 - caption: TWIST1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TWIST1/449296_36.jpg
   location: null
-  source: Bothe et al. 2007
-  source_label: Bothe et al. 2007
+  source: Firulli et al. 2005
+  source_label: Firulli et al. 2005
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TWIST1.Firulli.2005.Fig.5.png
 - caption: TWIST1 expression

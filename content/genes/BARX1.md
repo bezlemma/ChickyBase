@@ -26,43 +26,43 @@ images:
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_0.jpg
   location: Mesoderm, Pharyngeal Arches and Clefts
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Shig et al. 2000
+  source_label: Shig et al. 2000
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BARX1.FIG3G.SHIG.2000.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_1.jpg
   location: Mesoderm, Pharyngeal Arches and Clefts
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Shig et al. 2000
+  source_label: Shig et al. 2000
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BARX1.FIG5Bb.SHIG.2000.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_2.jpg
   location: Mesoderm, Pharyngeal Arches and Clefts
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Shig et al. 2000
+  source_label: Shig et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BARX1.FIG3H.SHIG.2000.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_3.jpg
   location: Mesoderm, Pharyngeal Arches and Clefts
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Shig et al. 2000
+  source_label: Shig et al. 2000
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BARX1.FIG3I.SHIG.2000.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_4.jpg
   location: null
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Shig et al. 2000
+  source_label: Shig et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3.SHIG.2000.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_5.jpg
   location: Pharyngeal Arches and Clefts
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Haworth et al. 2007
+  source_label: Haworth et al. 2007
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx1.Haworth.2007.Figure2E.jpg
 - caption: BARX1 expression
@@ -82,183 +82,183 @@ images:
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_8.jpg
   location: Nasal Placode/Nerve
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Maucucio et al. 2005
+  source_label: Maucucio et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.3_BARX1_I_ST20.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_9.jpg
   location: null
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Maucucio et al. 2005
+  source_label: Maucucio et al. 2005
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.3_All_images-3.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_10.jpg
   location: Stomach
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig3A-st16.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_11.jpg
   location: Pharyngeal Arches and Clefts, Sclerotome
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig3C-st20.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_12.jpg
   location: Sclerotome
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig6A-st20.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_13.jpg
   location: Pharyngeal Arches and Clefts, Sclerotome, Stomach
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig3B-st22.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_14.jpg
   location: Sclerotome
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig8A-st23.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_15.jpg
   location: Wing
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig3E-st24.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_16.jpg
   location: Nasal Placode/Nerve, Sclerotome
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig6C-st24.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_17.jpg
   location: Nasal Placode/Nerve, Sclerotome
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig3D-st26.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_18.jpg
   location: Wing
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig3H-st26.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_19.jpg
   location: Pharyngeal Arches and Clefts, Sclerotome
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig7A-st26.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_20.jpg
   location: Nasal Placode/Nerve, Sclerotome
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig7B-st26.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_21.jpg
   location: Leg
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig3F-st27.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_22.jpg
   location: Leg
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig3J-st28.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_23.jpg
   location: Leg
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig3K-st28.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_24.jpg
   location: Nasal Placode/Nerve, Sclerotome
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig6E-st28.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_25.jpg
   location: Leg
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig5A-st30.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_26.jpg
   location: Leg
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig5C-st38.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_27.jpg
   location: null
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig3.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_28.jpg
   location: null
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig4.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_29.jpg
   location: null
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig5.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_30.jpg
   location: Leg
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig5E-st44.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_31.jpg
   location: null
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig6.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_32.jpg
   location: null
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig7.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_33.jpg
   location: null
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Barlow et al. 1999
+  source_label: Barlow et al. 1999
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx-1.Barlow.1999.Fig8.jpg
 - caption: BARX1 expression
@@ -285,43 +285,43 @@ images:
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_37.jpg
   location: Limb Buds
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx1.Singh.2016.Fig1U'-st28.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_38.jpg
   location: Limb Buds
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx1.Singh.2016.Fig1V'-st31.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_39.jpg
   location: Limb Buds
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx1.Singh.2016.Fig1W'-st34.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_40.jpg
   location: Limb Buds
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx1.Singh.2016.Fig1X'-st36.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_41.jpg
   location: Limb Buds
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx1.Singh.2016.Fig1Y'-st38.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_42.jpg
   location: null
-  source: Shigetani et al. 2000
-  source_label: Shigetani et al. 2000
+  source: Singh et al. 2016
+  source_label: Singh et al. 2016
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Barx1.Singh.2016.Fig1.jpg
 name: BARX homeobox 1

@@ -35,46 +35,46 @@ images:
 - caption: NES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NES/450800_2.jpg
   location: Neural Crest
-  source: Adams et al. 2008
-  source_label: Adams et al. 2008
+  source: Gammill et al. 2002
+  source_label: Gammill et al. 2002
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NES.Gammill.2002.2.png
 - caption: NES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NES/450800_3.jpg
   location: Neural Crest
-  source: Adams et al. 2008
-  source_label: Adams et al. 2008
+  source: Gammill et al. 2002
+  source_label: Gammill et al. 2002
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NES.Gammill.2002.2U.png
 - caption: NES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NES/450800_4.jpg
   location: Hindbrain, Rhombomeres
-  source: Adams et al. 2008
-  source_label: Adams et al. 2008
+  source: Domowicz et al. 2008
+  source_label: Domowicz et al. 2008
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NES.Domowicz.2008.HH31
     for fig.1, panel B.jpg
 - caption: NES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NES/450800_5.jpg
   location: Isthmus/MHB, Midbrain
-  source: Adams et al. 2008
-  source_label: Adams et al. 2008
+  source: Domowicz et al. 2008
+  source_label: Domowicz et al. 2008
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NES.Domowicz.2008.HH34
     for fig.1, panel D.jpg
 - caption: NES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NES/450800_6.jpg
   location: Diencephalon, Forebrain, Hindbrain, Midbrain, Telencephalon
-  source: Adams et al. 2008
-  source_label: Adams et al. 2008
+  source: Domowicz et al. 2008
+  source_label: Domowicz et al. 2008
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NES.Domowicz.2008.HH34
     for fig.1,panel A.jpg
 - caption: NES expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NES/450800_7.jpg
   location: Ectoderm, Hindbrain
-  source: Adams et al. 2008
-  source_label: Adams et al. 2008
+  source: Domowicz et al. 2008
+  source_label: Domowicz et al. 2008
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NES.Domowicz.2008.HH34
     for fig.1,panel C.jpg

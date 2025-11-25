@@ -51,8 +51,8 @@ images:
 - caption: SFRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP1/461443_4.jpg
   location: Neural Plate/Tube, Spinal Cord
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Chesnutt et al. 2004
+  source_label: Chesnutt et al. 2004
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure5M.sFrp1.Chesnutt.2004.jpg
 - caption: SFRP1 expression
@@ -179,103 +179,103 @@ images:
 - caption: SFRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP1/461443_22.jpg
   location: Duodenum, Gizzard, Midgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sFRP1.Theodosiou.2003.Figure1.
     panel B.png
 - caption: SFRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP1/461443_23.jpg
   location: Duodenum, Gizzard, Hindgut, Midgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sFRP1.Theodosiou.2003.Figure1Q.
     panel B.png
 - caption: SFRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP1/461443_24.jpg
   location: Duodenum, Gizzard, Hindgut, Midgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sFRP1.Theodosiou.2003.Figure1.
     panel C.png
 - caption: SFRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP1/461443_25.jpg
   location: Duodenum, Gizzard, Hindgut, Midgut
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/sFRP1.Theodosiou.2003.Figure1EE.
     panel C.png
 - caption: SFRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP1/461443_26.jpg
   location: Diencephalon, Midbrain, Telencephalon
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Quinlan et al. 2009
+  source_label: Quinlan et al. 2009
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP1.Quinlan.2009.5A.png
 - caption: SFRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP1/461443_27.jpg
   location: Diencephalon, Midbrain, Telencephalon
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Quinlan et al. 2009
+  source_label: Quinlan et al. 2009
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP1.Quinlan.2009.5B.png
 - caption: SFRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP1/461443_28.jpg
   location: Diencephalon, Midbrain, Telencephalon
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Quinlan et al. 2009
+  source_label: Quinlan et al. 2009
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP1.Quinlan.2009.5C.png
 - caption: SFRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP1/461443_29.jpg
   location: Telencephalon
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Frowein et al. 2002
+  source_label: Frowein et al. 2002
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP1.Frowein.2002.3A-F.png
 - caption: SFRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP1/461443_30.jpg
   location: Telencephalon
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Frowein et al. 2002
+  source_label: Frowein et al. 2002
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP1.Frowein.2002.3A.png
 - caption: SFRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP1/461443_31.jpg
   location: Telencephalon
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Frowein et al. 2002
+  source_label: Frowein et al. 2002
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP1.Frowein.2002.3B.png
 - caption: SFRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP1/461443_32.jpg
   location: Telencephalon
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Frowein et al. 2002
+  source_label: Frowein et al. 2002
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP1.Frowein.2002.3C.png
 - caption: SFRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP1/461443_33.jpg
   location: Telencephalon
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Frowein et al. 2002
+  source_label: Frowein et al. 2002
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP1.Frowein.2002.3D.png
 - caption: SFRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP1/461443_34.jpg
   location: Telencephalon
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Frowein et al. 2002
+  source_label: Frowein et al. 2002
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP1.Frowein.2002.3E.png
 - caption: SFRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP1/461443_35.jpg
   location: Telencephalon
-  source: Chapman et al. 2004
-  source_label: Chapman et al. 2004
+  source: Frowein et al. 2002
+  source_label: Frowein et al. 2002
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP1.Frowein.2002.3F.png
 name: secreted frizzled related protein 1
