@@ -1,6 +1,20 @@
 ---
+aliases:
+- rho guanine nucleotide exchange factor 17
+- RELT tumor necrosis factor receptor
+cgnc_id: '13016'
+external_ids:
+  '25': stage 25
+  BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0262562
+  Comments: No expression detected at or before stage 5.
+  Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/42137
+  Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000019033
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:419067
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640622
 forward_primer: CCAGATTGAGGATGCCAACG
 gene_id: '456018'
+gene_type: protein-coding
 images:
 - caption: RELT expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RELT/456018_0.jpg
@@ -122,6 +136,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R361.ARHGEF17.S25.001.jpg
 name: RELT, TNF receptor
 ncbi_id: '456018'
+orthologs:
+- ensembl: ''
+  entrez: '42137'
+  mod: FBgn0262562
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ENSG00000110237
+  entrez: '9828'
+  mod: ''
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000032875
+  entrez: '207212'
+  mod: MGI:2673002
+  phenotypes: All phenotypic alleles (1):Targeted, knock-out(1)
+  species: Mouse
+- ensembl: ''
+  entrez: '100489655'
+  mod: '6044613'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ''
+  entrez: 100333630,335662
+  mod: ZFIN:ZDB-GENE-061207-93
+  phenotypes: ZDB-GENE-061207-93
+  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAGCAGTGATGGTGAGGACAGGTAG
 sources:
 - name: GEISHA
@@ -134,33 +174,30 @@ species: Gallus gallus
 symbol: RELT
 template_length: '813'
 title: RELT
-orthologs:
-- species: Human
-  entrez_id: '390928'
-  ensembl_id: ENSG00000183760
-  mod_id: MIM:610490
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '101744'
-  ensembl_id: ENSMUSG00000037469
-  mod_id: MGI:2142121
-  phenotypes: ''
-- species: Xenopus
-  entrez_id: '100486004'
-  ensembl_id: ENSXETG00000029991
-  mod_id: ''
-  phenotypes: ''
-- species: Zebrafish
-  entrez_id: '571830'
-  ensembl_id: ENSDARG00000102421
-  mod_id: ZFIN:ZDB-GENE-070615-9
-  phenotypes: ''
 ---
-
-
-
 
 # RELT
 
 **RELT, TNF receptor**
+
+## External Links
+
+- [Genomic Map](https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000019033)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003640622)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [Fruit Fly](http://www.ncbi.nlm.nih.gov/gene/42137)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:419067)
+- [BDGP](http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0262562)
+
+**Comments**: No expression detected at or before stage 5.
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  | [42137](https://www.ncbi.nlm.nih.gov/gene/42137) | FBgn0262562 |  |
+| Human | [ENSG00000110237](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000110237) | [9828](https://www.ncbi.nlm.nih.gov/gene/9828) |  |  |
+| Mouse | [ENSMUSG00000032875](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032875) | [207212](https://www.ncbi.nlm.nih.gov/gene/207212) | [MGI:2673002](http://www.informatics.jax.org/marker/MGI:2673002) | All phenotypic alleles (1):Targeted, knock-out(1) |
+| Xenopus |  | [100489655](https://www.ncbi.nlm.nih.gov/gene/100489655) | [6044613](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6044613) |  |
+| Zebrafish |  | [100333630](https://www.ncbi.nlm.nih.gov/gene/100333630), [335662](https://www.ncbi.nlm.nih.gov/gene/335662) | [ZFIN:ZDB-GENE-061207-93](https://zfin.org/ZDB-GENE-061207-93) | ZDB-GENE-061207-93 |
 

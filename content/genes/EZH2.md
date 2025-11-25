@@ -1,6 +1,22 @@
 ---
+aliases:
+- histone-lysine N-methyltransferase EZH2
+cgnc_id: '9422'
+external_ids:
+  '25': stage 25stage 25stage 25
+  BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0000629
+  Comments: The complete cDNA template sequence was obtained from the information
+    from the publication as described in Trevers et al. 2023.
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/39203
+  Genomic Map: http://www.ncbi.nlm.nih.gov/gene/420784
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:420784
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418879
+  X-XIV: stage XII
 forward_primer: 5’-TGAACAGCAGCTTCCAGGAG-3’
 gene_id: '455730'
+gene_type: protein-coding
 images:
 - caption: EZH2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EZH2/455730_0.jpg
@@ -125,68 +141,66 @@ images:
 - caption: EZH2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EZH2/455730_16.jpg
   location: Area Pellucida, Epiblast
-  source: Travers et al. 2023
-  source_label: Travers et al. 2023
+  source: GEISHA
+  source_label: GEISHA
   stage: stage XII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EZH2.Travers.2023-Fig7-1-R-XII.jpg
 - caption: EZH2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EZH2/455730_17.jpg
   location: Epiblast, Primitive Streak
-  source: Travers et al. 2023
-  source_label: Travers et al. 2023
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EZH2.Travers.2023-Fig7-1-R-3.jpg
 - caption: EZH2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EZH2/455730_18.jpg
   location: Headfold
-  source: Travers et al. 2023
-  source_label: Travers et al. 2023
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EZH2.Travers.2023-Fig7-1-R-6.jpg
 - caption: EZH2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EZH2/455730_19.jpg
   location: Neural Plate/Tube
-  source: Travers et al. 2023
-  source_label: Travers et al. 2023
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EZH2.Travers.2023-Fig7-1-R-9.jpg
 - caption: EZH2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EZH2/455730_20.jpg
   location: null
-  source: Travers et al. 2023
-  source_label: Travers et al. 2023
+  source: GEISHA
+  source_label: GEISHA
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EZH2.Travers.2023-Fig7-1-R.jpg
-- caption: EZH2 expression at Stage 1
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EZH2/page19_img0_EZH2_Stage1.jpg
-  location: Not specified
-  source: Trevers et al. 2023
-  source_label: Trevers et al. 2023
-  stage: stage 1
-  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EZH2/page19_img0_EZH2_Stage1.jpg
-- caption: EZH2 expression at Stage 2
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EZH2/page19_img0_EZH2_Stage2.jpg
-  location: Not specified
-  source: Trevers et al. 2023
-  source_label: Trevers et al. 2023
-  stage: stage 2
-  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EZH2/page19_img0_EZH2_Stage2.jpg
-- caption: EZH2 expression at Stage 3
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EZH2/page19_img0_EZH2_Stage3.jpg
-  location: Not specified
-  source: Trevers et al. 2023
-  source_label: Trevers et al. 2023
-  stage: stage 3
-  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EZH2/page19_img0_EZH2_Stage3.jpg
-- caption: EZH2 expression at Stage 4
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EZH2/page19_img0_EZH2_Stage4.jpg
-  location: Not specified
-  source: Trevers et al. 2023
-  source_label: Trevers et al. 2023
-  stage: stage 4
-  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EZH2/page19_img0_EZH2_Stage4.jpg
 name: enhancer of zeste 2 polycomb repressive complex 2 subunit
 ncbi_id: '455730'
+orthologs:
+- ensembl: ''
+  entrez: '39203'
+  mod: FBgn0000629
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ENSG00000106462
+  entrez: '2146'
+  mod: MIM:601573
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000029687
+  entrez: '14056'
+  mod: MGI:107940
+  phenotypes: All phenotypic alleles (11):Targeted, knock-out(4) Targeted, other(7)
+  species: Mouse
+- ensembl: ''
+  entrez: 550047,399174,443646
+  mod: '956214'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000010571
+  entrez: '768133'
+  mod: ZFIN:ZDB-GENE-041111-259
+  phenotypes: ZDB-GENE-041111-259
+  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGAGGCTGACGTGGATGATCAC-3’
 sources:
 - name: GEISHA
@@ -199,24 +213,31 @@ species: Gallus gallus
 symbol: EZH2
 template_length: '844'
 title: EZH2
-orthologs:
-- species: Human
-  entrez_id: '57139'
-  ensembl_id: ENSG00000205517
-  mod_id: MIM:616743
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '71746'
-  ensembl_id: ENSMUSG00000040146
-  mod_id: MGI:1918996
-  phenotypes: ''
 ---
-
-
-
-
 
 # EZH2
 
 **enhancer of zeste 2 polycomb repressive complex 2 subunit**
+
+## External Links
+
+- [Genomic Map](http://www.ncbi.nlm.nih.gov/gene/420784)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_418879)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [Fruit Fly](http://www.ncbi.nlm.nih.gov/gene/39203)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:420784)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+- [BDGP](http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0000629)
+
+**Comments**: The complete cDNA template sequence was obtained from the information from the publication as described in Trevers et al. 2023.
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  | [39203](https://www.ncbi.nlm.nih.gov/gene/39203) | FBgn0000629 |  |
+| Human | [ENSG00000106462](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000106462) | [2146](https://www.ncbi.nlm.nih.gov/gene/2146) | [MIM:601573](https://omim.org/entry/601573) |  |
+| Mouse | [ENSMUSG00000029687](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000029687) | [14056](https://www.ncbi.nlm.nih.gov/gene/14056) | [MGI:107940](http://www.informatics.jax.org/marker/MGI:107940) | All phenotypic alleles (11):Targeted, knock-out(4) Targeted, other(7) |
+| Xenopus |  | [550047](https://www.ncbi.nlm.nih.gov/gene/550047), [399174](https://www.ncbi.nlm.nih.gov/gene/399174), [443646](https://www.ncbi.nlm.nih.gov/gene/443646) | [956214](http://www.xenbase.org/gene/showgene.do?method=display&geneId=956214) |  |
+| Zebrafish | [ENSDARG00000010571](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000010571) | [768133](https://www.ncbi.nlm.nih.gov/gene/768133) | [ZFIN:ZDB-GENE-041111-259](https://zfin.org/ZDB-GENE-041111-259) | ZDB-GENE-041111-259 |
 

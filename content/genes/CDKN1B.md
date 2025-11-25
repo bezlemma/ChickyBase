@@ -1,6 +1,21 @@
 ---
+aliases:
+- cyclin-dependent kinase inhibitor 1B
+- cyclin-dependent kinase inhibitor 1B (p27, Kip1)
+external_ids:
+  Citation: https://pubmed.ncbi.nlm.nih.gov/25063452/
+  Comments: As insufficient information is provided in publication to verify exact
+    sequence used to synthesize probe, the sequence above was obtained from NCBI (accession
+    number NM_204256.2).
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Copyright: Copyright © 2014. Published by The Company of Biologists Ltd.
+  Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000022980
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:374106
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204256
 forward_primer: 5'-TTCAGTGGAGCAAACACCCAAG-3'
 gene_id: '463028'
+gene_type: protein-coding
 images:
 - caption: CDKN1B expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDKN1B/463028_0.jpg
@@ -126,47 +141,73 @@ images:
 - caption: CDKN1B expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDKN1B/463028_15.jpg
   location: Somites, Spinal Cord, ZPA
-  source: Pickering et al. 2019
-  source_label: Pickering et al. 2019
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-Fig2i.jpg
 - caption: CDKN1B expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDKN1B/463028_16.jpg
   location: Somites, Spinal Cord, ZPA
-  source: Pickering et al. 2019
-  source_label: Pickering et al. 2019
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-Fig2k-2.jpg
 - caption: CDKN1B expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDKN1B/463028_17.jpg
   location: Somites, ZPA
-  source: Pickering et al. 2019
-  source_label: Pickering et al. 2019
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-Fig2j.jpg
 - caption: CDKN1B expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDKN1B/463028_18.jpg
   location: Somites, Wing Mesenchyme
-  source: Pickering et al. 2019
-  source_label: Pickering et al. 2019
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-Fig2l.jpg
 - caption: CDKN1B expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDKN1B/463028_19.jpg
   location: null
-  source: Pickering et al. 2019
-  source_label: Pickering et al. 2019
+  source: GEISHA
+  source_label: GEISHA
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pickering.2019-p27kip1-Fig2.jpg
 - caption: CDKN1B expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDKN1B/463028_20.jpg
   location: Neural Plate/Tube
-  source: Olivera-martinez et al. 2014
-  source_label: Olivera-martinez et al. 2014
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-fig5-p27.JPG
 name: cyclin dependent kinase inhibitor 1B
 ncbi_id: '463028'
+orthologs:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ENSG00000111276
+  entrez: '1027'
+  mod: MIM:600778
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000003031
+  entrez: '12576'
+  mod: MGI:104565
+  phenotypes: ''
+  species: Mouse
+- ensembl: ''
+  entrez: '492306'
+  mod: '6492273'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000054271
+  entrez: 368329,402862
+  mod: ZFIN:ZDB-GENE-030521-13,ZFIN:ZDB-GENE-040812-3
+  phenotypes: ZDB-GENE-030521-13,ZDB-GENE-040812-3
+  species: Zebrafish
 reverse_primer: 5'-AATTAACCCTCACTAAAGGTGGAGATTCGGAACAAGTGCC-3'
 sources:
 - name: GEISHA
@@ -179,28 +220,31 @@ species: Gallus gallus
 symbol: CDKN1B
 template_length: '741'
 title: CDKN1B
-orthologs:
-- species: Human
-  entrez_id: '57221'
-  ensembl_id: ENSG00000112379
-  mod_id: MIM:617411
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '215821'
-  ensembl_id: ENSMUSG00000019852
-  mod_id: MGI:106387
-  phenotypes: ''
-- species: Zebrafish
-  entrez_id: '562652'
-  ensembl_id: ENSDARG00000077656
-  mod_id: ZFIN:ZDB-GENE-081107-37
-  phenotypes: ''
 ---
-
-
-
 
 # CDKN1B
 
 **cyclin dependent kinase inhibitor 1B**
+
+## External Links
+
+- [Genomic Map](https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000022980)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204256)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:374106)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+- [Citation](https://pubmed.ncbi.nlm.nih.gov/25063452/)
+
+**Copyright**: Copyright © 2014. Published by The Company of Biologists Ltd.
+**Comments**: As insufficient information is provided in publication to verify exact sequence used to synthesize probe, the sequence above was obtained from NCBI (accession number NM_204256.2).
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  |  |  |  |
+| Human | [ENSG00000111276](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000111276) | [1027](https://www.ncbi.nlm.nih.gov/gene/1027) | [MIM:600778](https://omim.org/entry/600778) |  |
+| Mouse | [ENSMUSG00000003031](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000003031) | [12576](https://www.ncbi.nlm.nih.gov/gene/12576) | [MGI:104565](http://www.informatics.jax.org/marker/MGI:104565) |  |
+| Xenopus |  | [492306](https://www.ncbi.nlm.nih.gov/gene/492306) | [6492273](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6492273) |  |
+| Zebrafish | [ENSDARG00000054271](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000054271) | [368329](https://www.ncbi.nlm.nih.gov/gene/368329), [402862](https://www.ncbi.nlm.nih.gov/gene/402862) | [ZFIN:ZDB-GENE-030521-13](https://zfin.org/ZDB-GENE-030521-13), [ZFIN:ZDB-GENE-040812-3](https://zfin.org/ZDB-GENE-040812-3) | ZDB-GENE-030521-13,ZDB-GENE-040812-3 |
 

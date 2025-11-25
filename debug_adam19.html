@@ -1,0 +1,1086 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="/ChickyBase/livereload.js?mindelay=10&amp;v=2&amp;port=50861&amp;path=ChickyBase/livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChickyBase</title>
+
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#2563eb',
+                        secondary: '#475569',
+                    }
+                }
+            }
+        }
+    </script>
+
+    
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
+    <script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
+
+    <style>
+        [v-cloak] {
+            display: none;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+
+    
+</head>
+
+<body class="bg-slate-50 text-slate-800 flex flex-col min-h-screen">
+
+    
+    <nav class="bg-white border-b border-slate-200 sticky top-0 z-50 shadow-sm" id="globalNav">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16">
+                <div class="flex">
+                    <div class="flex-shrink-0 flex items-center">
+                        <a href="/ChickyBase/" class="text-2xl font-bold text-primary">ChickyBase</a>
+                    </div>
+                    <div class="hidden sm:ml-6 sm:flex sm:space-x-8">
+                        <a href="/ChickyBase/"
+                            class="border-transparent text-slate-500 hover:border-primary hover:text-slate-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">Home</a>
+                        <a href="/ChickyBase/genes/"
+                            class="border-transparent text-slate-500 hover:border-primary hover:text-slate-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">Browse
+                            Genes</a>
+                    </div>
+                </div>
+                
+                <div class="flex items-center">
+                    <button id="search-btn" class="p-2 text-slate-400 hover:text-primary transition-colors"
+                        aria-label="Search">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    
+    <div id="search-modal" class="fixed inset-0 z-[100] hidden" role="dialog" aria-modal="true">
+        
+        <div class="absolute inset-0 bg-slate-900/50 backdrop-blur-sm transition-opacity" id="search-backdrop"></div>
+
+        
+        <div class="relative min-h-screen px-4 pt-16 pb-4 flex justify-center items-start">
+            <div class="bg-white rounded-xl shadow-2xl w-full max-w-2xl overflow-hidden transform transition-all">
+                <div class="p-4 border-b border-slate-100 flex justify-between items-center">
+                    <h3 class="text-lg font-semibold text-slate-900">Search ChickyBase</h3>
+                    <button id="close-search" class="text-slate-400 hover:text-slate-600">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M6 18L18 6M6 6l12 12"></path>
+                        </svg>
+                    </button>
+                </div>
+                <div class="p-6">
+                    <div id="pagefind-search"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <link href="/ChickyBase/pagefind/pagefind-ui.css" rel="stylesheet">
+    <script src="/ChickyBase/pagefind/pagefind-ui.js"></script>
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            let pagefindInitialized = false;
+            const searchBtn = document.getElementById('search-btn');
+            const closeBtn = document.getElementById('close-search');
+            const modal = document.getElementById('search-modal');
+            const backdrop = document.getElementById('search-backdrop');
+
+            function openSearch() {
+                modal.classList.remove('hidden');
+                document.body.style.overflow = 'hidden'; 
+
+                if (!pagefindInitialized) {
+                    new PagefindUI({
+                        element: "#pagefind-search",
+                        showSubResults: true,
+                        showImages: false,
+                        autofocus: true
+                    });
+                    pagefindInitialized = true;
+                }
+
+                
+                setTimeout(() => {
+                    const input = document.querySelector('.pagefind-ui__search-input');
+                    if (input) input.focus();
+                }, 100);
+            }
+
+            function closeSearch() {
+                modal.classList.add('hidden');
+                document.body.style.overflow = '';
+            }
+
+            searchBtn.addEventListener('click', openSearch);
+            closeBtn.addEventListener('click', closeSearch);
+            backdrop.addEventListener('click', closeSearch);
+
+            
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape' && !modal.classList.contains('hidden')) {
+                    closeSearch();
+                }
+                if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+                    e.preventDefault();
+                    openSearch();
+                }
+            });
+        });
+    </script>
+
+    
+    <main class="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        
+<div id="gene-app" v-cloak>
+    
+    <div class="mb-8 border-b border-slate-200 pb-4">
+        
+        <h1 class="text-4xl font-bold text-primary mb-2">ADAM19</h1>
+        <p class="text-xl text-slate-500 italic">ADAM metallopeptidase domain 19</p>
+    </div>
+
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
+        
+        <div class="lg:col-span-3 space-y-6">
+
+            
+            <div class="bg-slate-50 p-6 rounded-lg border border-slate-200 shadow-sm">
+                <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4">Gene Information</h3>
+                <dl class="space-y-4">
+                    
+                    <div>
+                        <dt class="text-xs font-medium text-slate-500 uppercase">Aliases</dt>
+                        <dd class="mt-1 text-sm text-slate-700">
+                            
+                                disintegrin and metalloproteinase domain-containing protein 19, ADAM metallopeptidase domain 19 (meltrin beta), A disintegrin and metalloproteinase domain 19, Meltrin beta, Metalloprotease and disintegrin dentritic antigen marker, MADDAM
+                            
+                        </dd>
+                    </div>
+                    
+                    
+                    <div>
+                        <dt class="text-xs font-medium text-slate-500 uppercase">Type</dt>
+                        <dd class="mt-1 text-sm text-slate-700">protein-coding</dd>
+                    </div>
+                    
+                    
+                    
+                    <div>
+                        <dt class="text-xs font-medium text-slate-500 uppercase">Species</dt>
+                        <dd class="mt-1 text-sm text-slate-700 italic">Gallus gallus</dd>
+                    </div>
+                    
+                </dl>
+            </div>
+
+            
+            
+
+            
+            
+
+            
+            
+            <div class="bg-white p-6 rounded-lg border border-slate-200 shadow-sm">
+                <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4">Primers & Probe</h3>
+                <dl class="space-y-4">
+                    
+                    <div>
+                        <dt class="text-xs font-medium text-slate-500 uppercase">Forward Primer</dt>
+                        <dd
+                            class="mt-1 text-xs font-mono text-slate-900 bg-slate-50 px-2 py-1 rounded border border-slate-200 break-all">
+                            GGAGGAAATGTGGAAATGGCTAC</dd>
+                    </div>
+                    
+                    
+                    <div>
+                        <dt class="text-xs font-medium text-slate-500 uppercase">Reverse Primer</dt>
+                        <dd
+                            class="mt-1 text-xs font-mono text-slate-900 bg-slate-50 px-2 py-1 rounded border border-slate-200 break-all">
+                            ATTAACCCTCACTAAAGGTGATGGATGTGTTCTGACAGCG</dd>
+                    </div>
+                    
+                    
+                    <div>
+                        <dt class="text-xs font-medium text-slate-500 uppercase">Template Length</dt>
+                        <dd class="mt-1 text-sm text-slate-700">699 bp</dd>
+                    </div>
+                    
+                </dl>
+            </div>
+            
+
+            
+            
+            <div class="bg-white p-6 rounded-lg border border-slate-200 shadow-sm">
+                <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4">External Resources</h3>
+                <ul class="space-y-3">
+                    
+                    
+                    
+
+                    
+                    <li>
+                        <a href="https://www.ncbi.nlm.nih.gov/gene/457023" target="_blank" rel="noopener noreferrer"
+                            class="flex items-center text-sm text-primary hover:text-primary-dark transition-colors group">
+                            <svg class="w-4 h-4 mr-2 text-slate-400 group-hover:text-primary" fill="none"
+                                stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14">
+                                </path>
+                            </svg>
+                            NCBI Gene
+                        </a>
+                    </li>
+                    
+                    
+                    
+                    <li>
+                        <a href="http://www.genome.jp/dbget-bin/www_bget?http%3a%2f%2fwww.genome.jp%2fdbget-bin%2fwww_bget%3fgga%3a416244" target="_blank" rel="noopener noreferrer"
+                            class="flex items-center text-sm text-primary hover:text-primary-dark transition-colors group">
+                            <svg class="w-4 h-4 mr-2 text-slate-400 group-hover:text-primary" fill="none"
+                                stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14">
+                                </path>
+                            </svg>
+                            KEGG
+                        </a>
+                    </li>
+                    
+
+                    
+                </ul>
+            </div>
+            
+
+            
+            
+            
+                
+            
+
+            
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                    
+                        
+                        
+                        
+                            
+                        
+                        
+                        
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+                
+                    
+                    
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                    
+                
+            
+
+            
+            
+            
+                
+                    
+                
+            
+                
+            
+                
+                    
+                
+            
+
+            
+            <div class="bg-white p-6 rounded-lg border border-slate-200 shadow-sm">
+                <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4">Data Sources</h3>
+                <ul class="space-y-3">
+                    
+                    <li>
+                        <a href="https://geisha.arizona.edu/geisha/search.jsp?gene=457023" target="_blank" rel="noopener noreferrer"
+                            class="flex items-center p-3 rounded-lg border border-slate-200 hover:border-primary hover:shadow-sm transition-all group">
+                            <div class="mr-3 flex-shrink-0">
+                                
+                                <div
+                                    class="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center text-blue-600">
+                                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4">
+                                        </path>
+                                    </svg>
+                                </div>
+                                
+                            </div>
+                            <div>
+                                <div class="text-sm font-medium text-slate-900 group-hover:text-primary">GEISHA
+                                </div>
+                                <div class="text-xs text-slate-500 capitalize">database</div>
+                            </div>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Lewis&#43;et&#43;al.&#43;2004" target="_blank" rel="noopener noreferrer"
+                            class="flex items-center p-3 rounded-lg border border-slate-200 hover:border-primary hover:shadow-sm transition-all group">
+                            <div class="mr-3 flex-shrink-0">
+                                
+                                <div
+                                    class="w-8 h-8 bg-green-100 rounded-full flex items-center justify-center text-green-600">
+                                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253">
+                                        </path>
+                                    </svg>
+                                </div>
+                                
+                            </div>
+                            <div>
+                                <div class="text-sm font-medium text-slate-900 group-hover:text-primary">Lewis et al. 2004
+                                </div>
+                                <div class="text-xs text-slate-500 capitalize">publication</div>
+                            </div>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+            
+        </div>
+
+        
+        <div class="lg:col-span-6">
+            <div class="flex justify-between items-center mb-6">
+                <h2 class="text-2xl font-bold text-slate-800">Expression Images</h2>
+                <span class="bg-primary/10 text-primary px-3 py-1 rounded-full text-sm font-medium">
+                    <span v-text="filteredImages.length"></span> images
+                </span>
+            </div>
+
+            
+            <div v-if="filteredImages.length > 0" class="grid grid-cols-2 md:grid-cols-3 gap-4">
+                <div v-for="(img, index) in filteredImages" :key="index"
+                    class="group relative aspect-square bg-slate-200 rounded-lg overflow-hidden border border-slate-200 shadow-sm hover:shadow-md transition-all duration-200">
+                    <a :href="img.url" class="glightbox block w-full h-full" :data-gallery="'gallery-' + geneId"
+                        :data-title="img.stage + (img.locations.length ? ' - ' + img.locations.join(', ') : '')">
+                        <img :src="img.url"
+                            class="w-full h-full object-contain p-1 transition-transform duration-500 group-hover:scale-105"
+                            loading="lazy" :alt="symbol + ' expression at ' + img.stage">
+                        <div
+                            class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-200 flex flex-col justify-end p-3">
+                            <div class="mb-1">
+                                <span v-if="img.source === 'GEISHA'"
+                                    class="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-blue-100 text-blue-800">
+                                    GEISHA
+                                </span>
+                                <span v-else
+                                    class="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-medium bg-green-100 text-green-800">
+                                    <span v-text="img.sourceLabel"></span>
+                                </span>
+                            </div>
+                            <p class="text-white text-xs font-medium truncate" v-text="img.stage"></p>
+                            <p class="text-slate-200 text-[10px] truncate" v-if="img.locations.length"
+                                v-text="img.locations.join(', ')"></p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            
+            <div v-else class="bg-slate-50 rounded-lg border-2 border-dashed border-slate-300 p-12 text-center">
+                <svg class="mx-auto h-12 w-12 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                        d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z">
+                    </path>
+                </svg>
+                <h3 class="mt-2 text-sm font-medium text-slate-900">No images found</h3>
+                <p class="mt-1 text-sm text-slate-500">Try adjusting your filters.</p>
+                <div class="mt-4 space-x-2">
+                    <button v-if="activeLocations.length > 0" @click="clearLocations()"
+                        class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-4 font-medium rounded-md text-primary bg-blue-50 hover:bg-blue-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary">
+                        Clear Location
+                    </button>
+                    <button v-if="activeStages.length > 0" @click="clearStages()"
+                        class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-4 font-medium rounded-md text-primary bg-blue-50 hover:bg-blue-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary">
+                        Clear Stage
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="lg:col-span-3">
+            <div class="bg-white rounded-lg border border-slate-200 shadow-sm p-4 mb-6">
+                <div class="flex justify-between items-center mb-3">
+                    <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider">Filter by Location</h3>
+                    <button v-if="activeLocations.length > 0" @click="clearLocations()"
+                        class="text-xs text-primary hover:underline">Clear</button>
+                </div>
+                <div class="space-y-1">
+                    <button v-for="loc in sortedLocations" :key="loc.name" @click="toggleLocation(loc.name)"
+                        :class="activeLocations.includes(loc.name) ? 'bg-primary text-white' : 'bg-slate-50 text-slate-700 hover:bg-slate-100'"
+                        class="w-full text-left px-3 py-2 rounded text-sm transition-colors flex justify-between items-center">
+                        <span v-text="loc.name"></span>
+                        <span v-text="loc.count"
+                            :class="activeLocations.includes(loc.name) ? 'text-white/80' : 'text-slate-400'"></span>
+                    </button>
+                </div>
+            </div>
+
+            
+            <div class="bg-white rounded-lg border border-slate-200 shadow-sm p-4">
+                <div class="flex justify-between items-center mb-3">
+                    <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider">Filter by Stage</h3>
+                    <button v-if="activeStages.length > 0" @click="clearStages()"
+                        class="text-xs text-primary hover:underline">Clear</button>
+                </div>
+                <div class="space-y-1">
+                    <button v-for="stg in sortedStages" :key="stg.name" @click="toggleStage(stg.name)"
+                        :class="activeStages.includes(stg.name) ? 'bg-primary text-white' : 'bg-slate-50 text-slate-700 hover:bg-slate-100'"
+                        class="w-full text-left px-3 py-2 rounded text-sm transition-colors flex justify-between items-center">
+                        <span v-text="stg.name"></span>
+                        <span v-text="stg.count"
+                            :class="activeStages.includes(stg.name) ? 'text-white/80' : 'text-slate-400'"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    
+
+    
+    
+    <div class="mt-8">
+        <h3 class="text-lg font-bold text-slate-900 mb-3">Orthology</h3>
+        <div class="bg-white rounded-lg border border-slate-200 overflow-hidden">
+            <table class="min-w-full divide-y divide-slate-200">
+                <thead class="bg-slate-50">
+                    <tr>
+                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Species</th>
+                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Entrez Gene</th>
+                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Ensembl Gene</th>
+                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">Genetic Phenotypes</th>
+                        <th class="px-4 py-2 text-left text-xs font-medium text-slate-500 uppercase">MOD</th>
+                    </tr>
+                </thead>
+                <tbody class="bg-white divide-y divide-slate-200">
+                    
+                    <tr class="hover:bg-slate-50">
+                        <td class="px-4 py-2 text-sm text-slate-900 italic">Fruit Fly</td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            
+                        </td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            
+                        </td>
+                        <td class="px-4 py-2 text-sm text-slate-500"></td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr class="hover:bg-slate-50">
+                        <td class="px-4 py-2 text-sm text-slate-900 italic">Human</td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            
+                        </td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            
+                        </td>
+                        <td class="px-4 py-2 text-sm text-slate-500"></td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr class="hover:bg-slate-50">
+                        <td class="px-4 py-2 text-sm text-slate-900 italic">Mouse</td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            
+                        </td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            
+                        </td>
+                        <td class="px-4 py-2 text-sm text-slate-500">All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1)</td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr class="hover:bg-slate-50">
+                        <td class="px-4 py-2 text-sm text-slate-900 italic">Xenopus</td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            
+                        </td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            
+                        </td>
+                        <td class="px-4 py-2 text-sm text-slate-500"></td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            
+                        </td>
+                    </tr>
+                    
+                    <tr class="hover:bg-slate-50">
+                        <td class="px-4 py-2 text-sm text-slate-900 italic">Zebrafish</td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            
+                        </td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            
+                        </td>
+                        <td class="px-4 py-2 text-sm text-slate-500">ZDB-GENE-070705-541,ZDB-GENE-070813-1</td>
+                        <td class="px-4 py-2 text-sm text-slate-500 font-mono">
+                            
+                        </td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+        </div>
+    </div>
+    
+
+</div>
+
+
+<script>
+    const { createApp, ref, computed, onMounted, nextTick } = Vue;
+
+    createApp({
+        setup() {
+            const geneId = "457023";
+            const symbol = "ADAM19";
+            const activeLocations = ref([]);
+            const activeStages = ref([]);
+
+            
+            const allImages = [
+                
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_0.jpg",
+            locations: ["Early Mesoderm, Notochord"],
+        stage: "stage 5",
+        source: "GEISHA",
+        sourceLabel: "GEISHA"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_1.jpg",
+            locations: ["Extraembryonic Mesoderm, Lateral Plate Mesoderm, Neural Plate\/Tube, extraembryonic endoderm"],
+        stage: "stage 8",
+        source: "GEISHA",
+        sourceLabel: "GEISHA"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_2.jpg",
+            locations: ["Anterior Intestinal Portal, Extraembryonic Mesoderm, Intermediate Mesoderm, Lateral Plate Mesoderm, Neural Plate\/Tube"],
+        stage: "stage 9",
+        source: "GEISHA",
+        sourceLabel: "GEISHA"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_3.jpg",
+            locations: ["Intermediate Mesoderm, Lateral Plate Mesoderm"],
+        stage: "stage 11",
+        source: "GEISHA",
+        sourceLabel: "GEISHA"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_4.jpg",
+            locations: ["Intermediate Mesoderm"],
+        stage: "stage 11",
+        source: "GEISHA",
+        sourceLabel: "GEISHA"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_5.jpg",
+            locations: ["Cranial PNS, Eye, Head Mesenchyme, Intermediate Mesoderm, Nephric Ducts, Notochord, Oral Pharynx, Pharyngeal Arches and Clefts, Sclerotome, Sinus Venosus, Splanchnic Mesoderm"],
+        stage: "stage 16",
+        source: "GEISHA",
+        sourceLabel: "GEISHA"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_6.jpg",
+            locations: ["Notochord, Sclerotome, Sinus Venosus"],
+        stage: "stage 16",
+        source: "GEISHA",
+        sourceLabel: "GEISHA"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_7.jpg",
+            locations: ["Endoderm, Nephric Ducts, Notochord, Splanchnic Mesoderm"],
+        stage: "stage 16",
+        source: "GEISHA",
+        sourceLabel: "GEISHA"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_8.jpg",
+            locations: ["Widespread Expression"],
+        stage: "stage 18",
+        source: "GEISHA",
+        sourceLabel: "GEISHA"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_9.jpg",
+            locations: ["Allantois, Cranial PNS, Eye, Foregut, Leg Mesenchyme, Spinal Cord, Spinal Ganglia and Nerves, Wing Mesenchyme"],
+        stage: "stage 22",
+        source: "GEISHA",
+        sourceLabel: "GEISHA"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_10.jpg",
+            locations: ["Spinal Cord, Spinal Ganglia and Nerves, Stomach"],
+        stage: "stage 22",
+        source: "GEISHA",
+        sourceLabel: "GEISHA"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_11.jpg",
+            locations: ["Sclerotome, Spinal Cord, Spinal Ganglia and Nerves, Stomach"],
+        stage: "stage 22",
+        source: "GEISHA",
+        sourceLabel: "GEISHA"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_12.jpg",
+            locations: ["Ectoderm, Foregut, Oral Pharynx, Pharyngeal Arches and Clefts, Sclerotome, Spinal Cord, Spinal Ganglia and Nerves"],
+        stage: "stage 26",
+        source: "GEISHA",
+        sourceLabel: "GEISHA"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_13.jpg",
+            locations: ["Ectoderm, Foregut, Outflow Tract, Sclerotome, Spinal Cord, Spinal Ganglia and Nerves"],
+        stage: "stage 26",
+        source: "GEISHA",
+        sourceLabel: "GEISHA"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_14.jpg",
+            locations: ["Ectoderm, Foregut, Leg Mesenchyme, Mesonephros, Outflow Tract, Pharyngeal Arches and Clefts, Somatic Mesoderm, Spinal Ganglia and Nerves, Wing Mesenchyme"],
+        stage: "stage 26",
+        source: "GEISHA",
+        sourceLabel: "GEISHA"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_15.jpg",
+            locations: [],
+        stage: "stage 26",
+        source: "GEISHA",
+        sourceLabel: "GEISHA"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_16.jpg",
+            locations: ["Cranial Ganglion, Heart"],
+        stage: "stage 14",
+        source: "Lewis et al. 2004",
+        sourceLabel: "Lewis et al. 2004"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_17.jpg",
+            locations: ["Allantois"],
+        stage: "stage 18",
+        source: "Lewis et al. 2004",
+        sourceLabel: "Lewis et al. 2004"
+        },
+        
+        {
+            url: "https:\/\/pub-4386f074e9db4780b372db404f4df488.r2.dev\/ADAM19\/457023_18.jpg",
+            locations: ["Spinal Cord, Spinal Ganglia and Nerves"],
+        stage: "stage 26",
+        source: "Lewis et al. 2004",
+        sourceLabel: "Lewis et al. 2004"
+        },
+        
+        
+        ].filter(img => img.url); 
+
+    
+    allImages.forEach(img => {
+        const normalized = new Set();
+        img.locations.forEach(loc => {
+            loc.split(',').forEach(p => {
+                const clean = p.trim();
+                
+                if (clean && clean.toLowerCase() !== 'not specified') {
+                    normalized.add(clean);
+                }
+            });
+        });
+        img.locations = Array.from(normalized).sort();
+    });
+
+    
+    const locationCounts = {};
+    allImages.forEach(img => {
+        img.locations.forEach(loc => {
+            const cleanLoc = loc.trim();
+            if (cleanLoc) {
+                locationCounts[cleanLoc] = (locationCounts[cleanLoc] || 0) + 1;
+            }
+        });
+    });
+
+    const sortedLocations = computed(() => {
+        return Object.keys(locationCounts).sort().map(loc => ({
+            name: loc,
+            count: locationCounts[loc]
+        }));
+    });
+
+    
+    const stageCounts = {};
+    allImages.forEach(img => {
+        const stage = img.stage || 'Unknown';
+        stageCounts[stage] = (stageCounts[stage] || 0) + 1;
+    });
+
+    const sortedStages = computed(() => {
+        return Object.keys(stageCounts).sort().map(stage => ({
+            name: stage,
+            count: stageCounts[stage]
+        }));
+    });
+
+    
+    const filteredImages = computed(() => {
+        let result = allImages;
+
+        
+        if (activeLocations.value.length > 0) {
+            result = result.filter(img =>
+                img.locations.some(loc => activeLocations.value.includes(loc))
+            );
+        }
+
+        
+        if (activeStages.value.length > 0) {
+            result = result.filter(img => activeStages.value.includes(img.stage));
+        }
+
+        return result;
+    });
+
+    const toggleLocation = (loc) => {
+        const index = activeLocations.value.indexOf(loc);
+        if (index === -1) {
+            activeLocations.value.push(loc);
+        } else {
+            activeLocations.value.splice(index, 1);
+        }
+        nextTick(() => initLightbox());
+    };
+
+    const toggleStage = (stage) => {
+        const index = activeStages.value.indexOf(stage);
+        if (index === -1) {
+            activeStages.value.push(stage);
+        } else {
+            activeStages.value.splice(index, 1);
+        }
+        nextTick(() => initLightbox());
+    };
+
+    const clearLocations = () => {
+        activeLocations.value = [];
+        nextTick(() => initLightbox());
+    };
+
+    const clearStages = () => {
+        activeStages.value = [];
+        nextTick(() => initLightbox());
+    };
+
+    
+    let lightboxInstance = null;
+    const initLightbox = () => {
+        if (lightboxInstance) lightboxInstance.destroy();
+        lightboxInstance = GLightbox({
+            selector: '.glightbox',
+            touchNavigation: true,
+            loop: true,
+            zoomable: true
+        });
+    };
+
+    onMounted(() => {
+        initLightbox();
+    });
+
+    return {
+        geneId,
+        symbol,
+        allImages,
+        filteredImages,
+        sortedLocations,
+        sortedStages,
+        activeLocations,
+        activeStages,
+        toggleLocation,
+        toggleStage,
+        clearLocations,
+        clearStages
+    };
+    }
+}).mount('#gene-app');
+</script>
+    </main>
+
+    
+    <footer class="bg-white border-t border-slate-200 mt-auto">
+        <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
+        </div>
+    </footer>
+
+</body>
+
+</html>

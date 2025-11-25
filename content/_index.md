@@ -8,8 +8,8 @@ A modern, interactive interface for the GEISHA (Gallus Expression in Situ Hybrid
 
 ## Stats
 
-- **Total Genes:** 112
-- **Expression Images:** 1,349
+- **Total Genes:** 2,897
+- **Expression Images:** 46,490
 
 ## Quick Links
 

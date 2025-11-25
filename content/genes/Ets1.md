@@ -2,28 +2,28 @@
 gene_id: Ets1
 images:
 - caption: Ets1 expression at stage HH9
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ETS1/Ets1_HH9_F2_8.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/Ets1/Ets1_HH9_F2_8.jpg
   location: null
   source: Simoes-Costa et al. 2016
   source_label: Simoes-Costa et al. 2016
   stage: HH9
   thumbnail_url: null
 - caption: Ets1 expression at stage HH10
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ETS1/Ets1_HH10_F2_11.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/Ets1/Ets1_HH10_F2_11.jpg
   location: null
   source: Simoes-Costa et al. 2016
   source_label: Simoes-Costa et al. 2016
   stage: HH10
   thumbnail_url: null
 - caption: Ets1 expression at stage Unknown
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ETS1/Ets1_Unknown_F3_3.jpg
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/Ets1/Ets1_Unknown_F3_3.jpg
   location: null
   source: Simoes-Costa et al. 2016
   source_label: Simoes-Costa et al. 2016
   stage: Unknown
   thumbnail_url: null
 - caption: Ets1 expression from Figure S1
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ETS1/Ets1_FigS1_panel_09.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/Ets1/Ets1_FigS1_panel_09.jpg
   location: null
   source: Simoes-Costa et al. 2016
   source_label: Simoes-Costa et al. 2016
@@ -43,12 +43,9 @@ sources:
   type: publication
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
 species: Gallus gallus
-symbol: ETS1
-title: ETS1
+symbol: Ets1
+title: Ets1
 ---
-
-
-
 
 # Ets1
 

@@ -1,5 +1,17 @@
 ---
+aliases:
+- LIM homeobox transcription factor 1-alpha
+cgnc_id: '2494'
+external_ids:
+  '19': stage 19stage 19
+  Comments: no expression detected for stages 4 and 9.
+  Genomic Map: http://www.ncbi.nlm.nih.gov/gene/777133
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:777133
+  Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001257388
 gene_id: '460595'
+gene_type: protein-coding
 images:
 - caption: LMX1A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LMX1A/460595_0.jpg
@@ -306,6 +318,27 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/S21Alim.153.19a.jpg
 name: LIM homeobox transcription factor 1, alpha
 ncbi_id: '460595'
+orthologs:
+- ensembl: ENSG00000151576
+  entrez: '79691'
+  mod: ''
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000022704
+  entrez: '106248'
+  mod: MGI:1922194
+  phenotypes: ''
+  species: Mouse
+- ensembl: ENSXETG00000002805
+  entrez: '549645'
+  mod: ''
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000016093
+  entrez: '402798'
+  mod: ZFIN:ZDB-GENE-060427-4
+  phenotypes: ''
+  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
@@ -316,33 +349,28 @@ sources:
 species: Gallus gallus
 symbol: LMX1A
 title: LMX1A
-orthologs:
-- species: Human
-  entrez_id: '79691'
-  ensembl_id: ENSG00000151576
-  mod_id: ''
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '106248'
-  ensembl_id: ENSMUSG00000022704
-  mod_id: MGI:1922194
-  phenotypes: ''
-- species: Xenopus
-  entrez_id: '549645'
-  ensembl_id: ENSXETG00000002805
-  mod_id: ''
-  phenotypes: ''
-- species: Zebrafish
-  entrez_id: '402798'
-  ensembl_id: ENSDARG00000016093
-  mod_id: ZFIN:ZDB-GENE-060427-4
-  phenotypes: ''
 ---
-
-
-
 
 # LMX1A
 
 **LIM homeobox transcription factor 1, alpha**
+
+## External Links
+
+- [Genomic Map](http://www.ncbi.nlm.nih.gov/gene/777133)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001257388)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:777133)
+- [Reverse cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+
+**Comments**: no expression detected for stages 4 and 9.
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Human | [ENSG00000151576](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000151576) | [79691](https://www.ncbi.nlm.nih.gov/gene/79691) |  |  |
+| Mouse | [ENSMUSG00000022704](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000022704) | [106248](https://www.ncbi.nlm.nih.gov/gene/106248) | [MGI:1922194](http://www.informatics.jax.org/marker/MGI:1922194) |  |
+| Xenopus | [ENSXETG00000002805](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000002805) | [549645](https://www.ncbi.nlm.nih.gov/gene/549645) |  |  |
+| Zebrafish | [ENSDARG00000016093](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000016093) | [402798](https://www.ncbi.nlm.nih.gov/gene/402798) | [ZFIN:ZDB-GENE-060427-4](https://zfin.org/ZDB-GENE-060427-4) |  |
 

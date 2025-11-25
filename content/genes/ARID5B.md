@@ -1,71 +1,88 @@
 ---
+aliases:
+- AT-rich interactive domain-containing protein 5B
+- ARID domain-containing protein 5B
+- AT rich interactive domain 5B (MRF1-like)
+cgnc_id: '2164'
+external_ids:
+  Biological Process: http://amigo.geneontology.org/amigo/term/GO:0060612
+  Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
+  Comments: The complete cDNA template sequence was obtained from the information
+    from the publication as described in Trevers et al. 2023.
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000002991
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:423661
+  Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003713
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031220
+  X-XIV: stage XII
 gene_id: '451227'
+gene_type: protein-coding
 images:
 - caption: ARID5B expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARID5B/451227_0.jpg
   location: Unlabeled
-  source: Trevers et al. 2023
-  source_label: Trevers et al. 2023
+  source: GEISHA
+  source_label: GEISHA
   stage: stage XII
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARID5B.Trevers.2023-Fig7-5-B-xii.jpg
 - caption: ARID5B expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARID5B/451227_1.jpg
   location: Area Pellucida, Primitive Streak
-  source: Trevers et al. 2023
-  source_label: Trevers et al. 2023
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARID5B.Trevers.2023-Fig7-5-B-3.jpg
 - caption: ARID5B expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARID5B/451227_2.jpg
   location: Area Opaca, Primitive Streak
-  source: Trevers et al. 2023
-  source_label: Trevers et al. 2023
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARID5B.Trevers.2023-Fig7-5-B-5.jpg
 - caption: ARID5B expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARID5B/451227_3.jpg
   location: Area Opaca, Neural Plate/Tube
-  source: Trevers et al. 2023
-  source_label: Trevers et al. 2023
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARID5B.Trevers.2023-Fig7-5-B-8.jpg
 - caption: ARID5B expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARID5B/451227_4.jpg
   location: null
-  source: Trevers et al. 2023
-  source_label: Trevers et al. 2023
+  source: GEISHA
+  source_label: GEISHA
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARID5B.Trevers.2023-Fig7-5-B.jpg
-- caption: ARID5B expression at Stage 1
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARID5B/page26_img0_ARID5B_Stage1.jpg
-  location: Not specified
-  source: Trevers et al. 2023
-  source_label: Trevers et al. 2023
-  stage: stage 1
-  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARID5B/page26_img0_ARID5B_Stage1.jpg
-- caption: ARID5B expression at Stage 2
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARID5B/page26_img0_ARID5B_Stage2.jpg
-  location: Not specified
-  source: Trevers et al. 2023
-  source_label: Trevers et al. 2023
-  stage: stage 2
-  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARID5B/page26_img0_ARID5B_Stage2.jpg
-- caption: ARID5B expression at Stage 3
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARID5B/page26_img0_ARID5B_Stage3.jpg
-  location: Not specified
-  source: Trevers et al. 2023
-  source_label: Trevers et al. 2023
-  stage: stage 3
-  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARID5B/page26_img0_ARID5B_Stage3.jpg
-- caption: ARID5B expression at Stage 4
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARID5B/page26_img0_ARID5B_Stage4.jpg
-  location: Not specified
-  source: Trevers et al. 2023
-  source_label: Trevers et al. 2023
-  stage: stage 4
-  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARID5B/page26_img0_ARID5B_Stage4.jpg
 name: AT-rich interaction domain 5B
 ncbi_id: '451227'
+orthologs:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ENSG00000150347
+  entrez: '84159'
+  mod: MIM:608538
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000019947
+  entrez: '71371'
+  mod: MGI:2175912
+  phenotypes: All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(1)
+    Gene trapped(1)
+  species: Mouse
+- ensembl: ''
+  entrez: 100485942,100381123
+  mod: '1007578'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ''
+  entrez: '572528'
+  mod: ZFIN:ZDB-GENE-070112-1882
+  phenotypes: ZDB-GENE-070112-1882
+  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
@@ -76,29 +93,32 @@ sources:
 species: Gallus gallus
 symbol: ARID5B
 title: ARID5B
-orthologs:
-- species: Human
-  entrez_id: '79080'
-  ensembl_id: ENSG00000110104
-  mod_id: MIM:611293
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '108673'
-  ensembl_id: ENSMUSG00000024732
-  mod_id: MGI:1277220
-  phenotypes: ''
-- species: Xenopus
-  entrez_id: '101733466'
-  ensembl_id: ENSXETG00000037483
-  mod_id: ''
-  phenotypes: ''
 ---
-
-
-
-
 
 # ARID5B
 
 **AT-rich interaction domain 5B**
+
+## External Links
+
+- [Genomic Map](https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000002991)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001031220)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [Molecular Function](http://amigo.geneontology.org/amigo/term/GO:0003713)
+- [Biological Process](http://amigo.geneontology.org/amigo/term/GO:0060612)
+- [Cellular Component](http://amigo.geneontology.org/amigo/term/GO:0005634)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:423661)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+
+**Comments**: The complete cDNA template sequence was obtained from the information from the publication as described in Trevers et al. 2023.
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  |  |  |  |
+| Human | [ENSG00000150347](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000150347) | [84159](https://www.ncbi.nlm.nih.gov/gene/84159) | [MIM:608538](https://omim.org/entry/608538) |  |
+| Mouse | [ENSMUSG00000019947](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019947) | [71371](https://www.ncbi.nlm.nih.gov/gene/71371) | [MGI:2175912](http://www.informatics.jax.org/marker/MGI:2175912) | All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(1) Gene trapped(1) |
+| Xenopus |  | [100485942](https://www.ncbi.nlm.nih.gov/gene/100485942), [100381123](https://www.ncbi.nlm.nih.gov/gene/100381123) | [1007578](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1007578) |  |
+| Zebrafish |  | [572528](https://www.ncbi.nlm.nih.gov/gene/572528) | [ZFIN:ZDB-GENE-070112-1882](https://zfin.org/ZDB-GENE-070112-1882) | ZDB-GENE-070112-1882 |
 

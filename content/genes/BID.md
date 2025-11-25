@@ -1,6 +1,19 @@
 ---
+aliases:
+- BH3-interacting domain death agonist
+cgnc_id: '9863'
+external_ids:
+  Biological Process: http://amigo.geneontology.org/amigo/term/GO:0006919
+  Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005739
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000013039
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395236
+  Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0031625
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204552
 forward_primer: AGTGATGGGGAACTTCAGACCG
 gene_id: '461445'
+gene_type: protein-coding
 images:
 - caption: BID expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BID/461445_0.jpg
@@ -148,6 +161,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R567.BID.S27AA.001.jpg
 name: BH3 interacting domain death agonist
 ncbi_id: '461445'
+orthologs:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ENSG00000015475
+  entrez: '637'
+  mod: MIM:601997
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000004446
+  entrez: '12122'
+  mod: MGI:108093
+  phenotypes: All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)
+  species: Mouse
+- ensembl: ''
+  entrez: 100036674,724076
+  mod: '956015'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000069290
+  entrez: '559425'
+  mod: ZFIN:ZDB-GENE-050419-35
+  phenotypes: ZDB-GENE-050419-35
+  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGCCAATGACCACCTTCTTTCTCAAG
 sources:
 - name: GEISHA
@@ -160,33 +199,30 @@ species: Gallus gallus
 symbol: BID
 template_length: '884'
 title: BID
-orthologs:
-- species: Human
-  entrez_id: '817'
-  ensembl_id: ENSG00000145349
-  mod_id: MIM:607708
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '108058'
-  ensembl_id: ENSMUSG00000053819
-  mod_id: MGI:1341265
-  phenotypes: ''
-- species: Xenopus
-  entrez_id: '100135023'
-  ensembl_id: ENSXETG00000015547
-  mod_id: ''
-  phenotypes: ''
-- species: Zebrafish
-  entrez_id: '445208'
-  ensembl_id: ENSDARG00000043010
-  mod_id: ZFIN:ZDB-GENE-040801-121
-  phenotypes: ''
 ---
-
-
-
 
 # BID
 
 **BH3 interacting domain death agonist**
+
+## External Links
+
+- [Genomic Map](https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000013039)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204552)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [Molecular Function](http://amigo.geneontology.org/amigo/term/GO:0031625)
+- [Biological Process](http://amigo.geneontology.org/amigo/term/GO:0006919)
+- [Cellular Component](http://amigo.geneontology.org/amigo/term/GO:0005739)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:395236)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  |  |  |  |
+| Human | [ENSG00000015475](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000015475) | [637](https://www.ncbi.nlm.nih.gov/gene/637) | [MIM:601997](https://omim.org/entry/601997) |  |
+| Mouse | [ENSMUSG00000004446](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000004446) | [12122](https://www.ncbi.nlm.nih.gov/gene/12122) | [MGI:108093](http://www.informatics.jax.org/marker/MGI:108093) | All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3) |
+| Xenopus |  | [100036674](https://www.ncbi.nlm.nih.gov/gene/100036674), [724076](https://www.ncbi.nlm.nih.gov/gene/724076) | [956015](http://www.xenbase.org/gene/showgene.do?method=display&geneId=956015) |  |
+| Zebrafish | [ENSDARG00000069290](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000069290) | [559425](https://www.ncbi.nlm.nih.gov/gene/559425) | [ZFIN:ZDB-GENE-050419-35](https://zfin.org/ZDB-GENE-050419-35) | ZDB-GENE-050419-35 |
 

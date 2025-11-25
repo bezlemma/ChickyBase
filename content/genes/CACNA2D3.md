@@ -1,6 +1,16 @@
 ---
+cgnc_id: '4020'
+external_ids:
+  BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0261041
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/36526
+  Genomic Map: http://www.ncbi.nlm.nih.gov/gene/415996
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415996
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414338
 forward_primer: GGGAACCTGATGAGAATGGAGTC
 gene_id: '458769'
+gene_type: protein-coding
 images:
 - caption: CACNA2D3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CACNA2D3/458769_0.jpg
@@ -91,6 +101,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R563.CACNA2D3.S20AAA.001.jpg
 name: calcium voltage-gated channel auxiliary subunit alpha2delta 3
 ncbi_id: '458769'
+orthologs:
+- ensembl: ''
+  entrez: '36526'
+  mod: FBgn0261041
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ENSG00000157445
+  entrez: '55799'
+  mod: MIM:606399
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000021991
+  entrez: '12294'
+  mod: MGI:1338890
+  phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
+  species: Mouse
+- ensembl: ''
+  entrez: '373777'
+  mod: '6459841'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ''
+  entrez: ''
+  mod: ZFIN:ZDB-GENE-060328-4
+  phenotypes: ZDB-GENE-060328-4
+  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGTTTTGAGCCTGAGGGAGAGTGC
 sources:
 - name: GEISHA
@@ -104,9 +140,27 @@ symbol: CACNA2D3
 title: CACNA2D3
 ---
 
-
-
 # CACNA2D3
 
 **calcium voltage-gated channel auxiliary subunit alpha2delta 3**
+
+## External Links
+
+- [Genomic Map](http://www.ncbi.nlm.nih.gov/gene/415996)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414338)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [Fruit Fly](http://www.ncbi.nlm.nih.gov/gene/36526)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:415996)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+- [BDGP](http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0261041)
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  | [36526](https://www.ncbi.nlm.nih.gov/gene/36526) | FBgn0261041 |  |
+| Human | [ENSG00000157445](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000157445) | [55799](https://www.ncbi.nlm.nih.gov/gene/55799) | [MIM:606399](https://omim.org/entry/606399) |  |
+| Mouse | [ENSMUSG00000021991](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021991) | [12294](https://www.ncbi.nlm.nih.gov/gene/12294) | [MGI:1338890](http://www.informatics.jax.org/marker/MGI:1338890) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
+| Xenopus |  | [373777](https://www.ncbi.nlm.nih.gov/gene/373777) | [6459841](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6459841) |  |
+| Zebrafish |  |  | [ZFIN:ZDB-GENE-060328-4](https://zfin.org/ZDB-GENE-060328-4) | ZDB-GENE-060328-4 |
 

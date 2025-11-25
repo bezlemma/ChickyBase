@@ -1,8 +1,29 @@
 ---
+aliases:
+- beta-thyroid hormone receptor
+- nuclear receptor subfamily 1 group A member 2
+- thyroid hormone receptor beta 2
+cgnc_id: '49800'
+external_ids:
+  Biological Process: http://amigo.geneontology.org/amigo/term/GO:0030522
+  Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005634
+  Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Muchow+Bossis+Porter+Ontogeny
+  Comments: 'As insufficient information is provided in publication to verify exact
+    sequence used to synthesize probe, the sequence below was obtained from NCBI (acc
+    #  NM_205447.1).'
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Copyright: Copyright © 2012 by the Society for Endocrinology
+  Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000011294
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396431
+  Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005515
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001252221
+  ZEBrA: http://www.zebrafinchatlas.org/gene_info/THRB
 gene_id: '461039'
+gene_type: protein-coding
 images:
 - caption: THRB expression
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/THRB/461039_0.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/THRB/461039_0.jpg
   location: Pituitary (Rudiment)
   source: Murchow et al. 2005
   source_label: Murchow et al. 2005
@@ -10,7 +31,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THSBeta.Murchow.2005.Fig.3
     thsb.png
 - caption: THRB expression
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/THRB/461039_1.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/THRB/461039_1.jpg
   location: null
   source: Murchow et al. 2005
   source_label: Murchow et al. 2005
@@ -18,43 +39,68 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THSBeta.Murchow.2005.Fig.3.png
 name: thyroid hormone receptor beta
 ncbi_id: '461039'
+orthologs:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ENSG00000151090
+  entrez: '7068'
+  mod: MIM:190160
+  phenotypes: MIM:188570
+  species: Human
+- ensembl: ENSMUSG00000021779
+  entrez: '21834'
+  mod: MGI:98743
+  phenotypes: All phenotypic alleles (14):Targeted, knock-out(3) Targeted, other(11)
+  species: Mouse
+- ensembl: ''
+  entrez: 734147,779054,397734
+  mod: '6070708'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000021163
+  entrez: '30607'
+  mod: ZFIN:ZDB-GENE-990415-268
+  phenotypes: ZDB-GENE-990415-268
+  species: Zebrafish
 sources:
-- name: GEISHA
-  type: database
-  url: https://geisha.arizona.edu/geisha/search.jsp?gene=461039
 - name: NCBI Gene
   type: database
   url: https://www.ncbi.nlm.nih.gov/gene/461039
 species: Gallus gallus
 symbol: THRB
 title: THRB
-orthologs:
-- species: Human
-  entrez_id: '54872'
-  ensembl_id: ENSG00000174227
-  mod_id: MIM:616918
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '433931'
-  ensembl_id: ENSMUSG00000029263
-  mod_id: MGI:3576484
-  phenotypes: ''
-- species: Xenopus
-  entrez_id: '100487165'
-  ensembl_id: ENSXETG00000003720
-  mod_id: ''
-  phenotypes: ''
-- species: Zebrafish
-  entrez_id: '100538291'
-  ensembl_id: ENSDARG00000038270
-  mod_id: ZFIN:ZDB-GENE-141215-6
-  phenotypes: ''
 ---
-
-
-
 
 # THRB
 
 **thyroid hormone receptor beta**
+
+## External Links
+
+- [Genomic Map](https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000011294)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001252221)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [Molecular Function](http://amigo.geneontology.org/amigo/term/GO:0005515)
+- [Biological Process](http://amigo.geneontology.org/amigo/term/GO:0030522)
+- [Cellular Component](http://amigo.geneontology.org/amigo/term/GO:0005634)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:396431)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+- [Citation](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Muchow+Bossis+Porter+Ontogeny)
+- [ZEBrA](http://www.zebrafinchatlas.org/gene_info/THRB)
+
+**Copyright**: Copyright © 2012 by the Society for Endocrinology
+**Comments**: As insufficient information is provided in publication to verify exact sequence used to synthesize probe, the sequence below was obtained from NCBI (acc #  NM_205447.1).
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  |  |  |  |
+| Human | [ENSG00000151090](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000151090) | [7068](https://www.ncbi.nlm.nih.gov/gene/7068) | [MIM:190160](https://omim.org/entry/190160) | MIM:188570 |
+| Mouse | [ENSMUSG00000021779](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021779) | [21834](https://www.ncbi.nlm.nih.gov/gene/21834) | [MGI:98743](http://www.informatics.jax.org/marker/MGI:98743) | All phenotypic alleles (14):Targeted, knock-out(3) Targeted, other(11) |
+| Xenopus |  | [734147](https://www.ncbi.nlm.nih.gov/gene/734147), [779054](https://www.ncbi.nlm.nih.gov/gene/779054), [397734](https://www.ncbi.nlm.nih.gov/gene/397734) | [6070708](http://www.xenbase.org/gene/showgene.do?method=display&geneId=6070708) |  |
+| Zebrafish | [ENSDARG00000021163](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000021163) | [30607](https://www.ncbi.nlm.nih.gov/gene/30607) | [ZFIN:ZDB-GENE-990415-268](https://zfin.org/ZDB-GENE-990415-268) | ZDB-GENE-990415-268 |
 

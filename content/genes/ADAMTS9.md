@@ -1,6 +1,13 @@
 ---
+cgnc_id: '5584'
+external_ids:
+  Genomic Map: http://www.ncbi.nlm.nih.gov/gene/416080
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416080
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414417
 forward_primer: TGCCAAGGGGAACGAAAAAG
 gene_id: '462843'
+gene_type: protein-coding
 images:
 - caption: ADAMTS9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADAMTS9/462843_0.jpg
@@ -144,6 +151,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R490.ADAMTS9.S26V.001.jpg
 name: ADAM metallopeptidase with thrombospondin type 1 motif 9
 ncbi_id: '462843'
+orthologs:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ENSG00000163638
+  entrez: '56999'
+  mod: MIM:605421
+  phenotypes: ''
+  species: Human
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Mouse
+- ensembl: ENSXETG00000020305
+  entrez: '493280'
+  mod: '1013536'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000077778
+  entrez: '100333407'
+  mod: ZFIN:ZDB-GENE-070814-6,ZFIN:ZDB-GENE-070814-6
+  phenotypes: ZDB-GENE-070814-6,ZDB-GENE-070814-6
+  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTCACTGCTCTCATCTGGTAGCC
 sources:
 - name: GEISHA
@@ -158,9 +191,24 @@ template_length: '719'
 title: ADAMTS9
 ---
 
-
-
 # ADAMTS9
 
 **ADAM metallopeptidase with thrombospondin type 1 motif 9**
+
+## External Links
+
+- [Genomic Map](http://www.ncbi.nlm.nih.gov/gene/416080)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414417)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:416080)
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  |  |  |  |
+| Human | [ENSG00000163638](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000163638) | [56999](https://www.ncbi.nlm.nih.gov/gene/56999) | [MIM:605421](https://omim.org/entry/605421) |  |
+| Mouse |  |  |  |  |
+| Xenopus | [ENSXETG00000020305](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000020305) | [493280](https://www.ncbi.nlm.nih.gov/gene/493280) | [1013536](http://www.xenbase.org/gene/showgene.do?method=display&geneId=1013536) |  |
+| Zebrafish | [ENSDARG00000077778](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000077778) | [100333407](https://www.ncbi.nlm.nih.gov/gene/100333407) | [ZFIN:ZDB-GENE-070814-6](https://zfin.org/ZDB-GENE-070814-6), [ZFIN:ZDB-GENE-070814-6](https://zfin.org/ZDB-GENE-070814-6) | ZDB-GENE-070814-6,ZDB-GENE-070814-6 |
 

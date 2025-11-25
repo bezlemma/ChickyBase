@@ -1,6 +1,18 @@
 ---
+aliases:
+- protein crumbs homolog 2
+- crumbs family member 2
+- crumbs homolog 2
+cgnc_id: '50440'
+external_ids:
+  '25': stage 25
+  Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000001169
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417104
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415389
 forward_primer: ATGAAACAGACCCCTGCCTCAC
 gene_id: '454434'
+gene_type: protein-coding
 images:
 - caption: CRB2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CRB2/454434_0.jpg
@@ -127,6 +139,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R279.CRB2.S25R.001.jpg
 name: crumbs 2, cell polarity complex component
 ncbi_id: '454434'
+orthologs:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ENSG00000148204
+  entrez: '286204'
+  mod: MIM:609720
+  phenotypes: ''
+  species: Human
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Mouse
+- ensembl: ''
+  entrez: 100487355,373552
+  mod: '989700'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000060081,ENSDARG00000060106
+  entrez: 568520,723994
+  mod: ZFIN:ZDB-GENE-060610-1,ZFIN:ZDB-GENE-060612-1
+  phenotypes: ZDB-GENE-060610-1,ZDB-GENE-060612-1
+  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTAGCCCGAAGCAAAACAGCG
 sources:
 - name: GEISHA
@@ -139,33 +177,26 @@ species: Gallus gallus
 symbol: CRB2
 template_length: '714'
 title: CRB2
-orthologs:
-- species: Human
-  entrez_id: '5026'
-  ensembl_id: ENSG00000083454
-  mod_id: MIM:602836
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '94045'
-  ensembl_id: ENSMUSG00000005950
-  mod_id: MGI:2137026
-  phenotypes: ''
-- species: Xenopus
-  entrez_id: '100485445'
-  ensembl_id: ENSXETG00000032944
-  mod_id: ''
-  phenotypes: ''
-- species: Zebrafish
-  entrez_id: '373879'
-  ensembl_id: ENSDARG00000004455
-  mod_id: ZFIN:ZDB-GENE-030319-5
-  phenotypes: ''
 ---
-
-
-
 
 # CRB2
 
 **crumbs 2, cell polarity complex component**
+
+## External Links
+
+- [Genomic Map](https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000001169)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415389)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:417104)
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  |  |  |  |
+| Human | [ENSG00000148204](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000148204) | [286204](https://www.ncbi.nlm.nih.gov/gene/286204) | [MIM:609720](https://omim.org/entry/609720) |  |
+| Mouse |  |  |  |  |
+| Xenopus |  | [100487355](https://www.ncbi.nlm.nih.gov/gene/100487355), [373552](https://www.ncbi.nlm.nih.gov/gene/373552) | [989700](http://www.xenbase.org/gene/showgene.do?method=display&geneId=989700) |  |
+| Zebrafish | [ENSDARG00000060081](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060081), [ENSDARG00000060106](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000060106) | [568520](https://www.ncbi.nlm.nih.gov/gene/568520), [723994](https://www.ncbi.nlm.nih.gov/gene/723994) | [ZFIN:ZDB-GENE-060610-1](https://zfin.org/ZDB-GENE-060610-1), [ZFIN:ZDB-GENE-060612-1](https://zfin.org/ZDB-GENE-060612-1) | ZDB-GENE-060610-1,ZDB-GENE-060612-1 |
 

@@ -2,7 +2,7 @@
 gene_id: Ganf
 images:
 - caption: Ganf expression from Figure S1
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GANF/Ganf_FigS1_panel_06.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/Ganf/Ganf_FigS1_panel_06.jpg
   location: null
   source: Simoes-Costa et al. 2016
   source_label: Simoes-Costa et al. 2016
@@ -22,12 +22,9 @@ sources:
   type: publication
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
 species: Gallus gallus
-symbol: GANF
-title: GANF
+symbol: Ganf
+title: Ganf
 ---
-
-
-
 
 # Ganf
 

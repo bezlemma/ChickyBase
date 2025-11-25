@@ -1,6 +1,18 @@
 ---
+aliases:
+- JMJD2C, lysine-specific demethylase 4C
+- jumonji domain containing 2C
+- lysine (K)-specific demethylase 4C
+cgnc_id: '14233'
+external_ids:
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000020557
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427231
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642992
 forward_primer: TCAGCAGATGGTCACTGGC
 gene_id: '462269'
+gene_type: protein-coding
 images:
 - caption: KDM4C expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KDM4C/462269_0.jpg
@@ -93,6 +105,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R724.KDM4C.S27.001.jpg
 name: lysine demethylase 4C
 ncbi_id: '462269'
+orthologs:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Human
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Mouse
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Zebrafish
 reverse_primer: AGGTGCACAACTTTGCTGC
 sources:
 - name: GEISHA
@@ -107,9 +145,25 @@ template_length: '710'
 title: KDM4C
 ---
 
-
-
 # KDM4C
 
 **lysine demethylase 4C**
+
+## External Links
+
+- [Genomic Map](https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000020557)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003642992)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:427231)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  |  |  |  |
+| Human |  |  |  |  |
+| Mouse |  |  |  |  |
+| Xenopus |  |  |  |  |
+| Zebrafish |  |  |  |  |
 

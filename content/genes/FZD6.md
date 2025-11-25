@@ -1,6 +1,26 @@
 ---
+aliases:
+- FZ-6, frizzled-6
+- frizzled family receptor 6
+- frizzled homolog 6
+cgnc_id: '49120'
+external_ids:
+  '25': stage 25stage 25
+  Biological Process: http://amigo.geneontology.org/amigo/term/GO:0016055
+  Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
+  Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Antoni+craniofacial+wnt+fu
+  Comments: 'Insufficient information provided in publication to verify exact sequence
+    used to synthesize probe. The sequence below was obtained from NCBI (acc # XM_418372)'
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Copyright: Dev. Dyn Copyright © 2009 John Wiley & Sons, Inc. All Rights Reserved.
+  Genomic Map: http://www.ncbi.nlm.nih.gov/gene/378788
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:378788
+  Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0004930
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001271931
 forward_primer: AACTTGGGTGTTTGACCACTGTGAC
 gene_id: '458641'
+gene_type: protein-coding
 images:
 - caption: FZD6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD6/458641_0.jpg
@@ -104,14 +124,14 @@ images:
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Frizzled6.Figure5GHI.McCabe.2007.jpg
 - caption: FZD6 expression
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD6/458641_13.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD6/458641_13.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/McCabe Figure 1.png
 - caption: FZD6 expression
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD6/458641_14.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD6/458641_14.jpg
   location: null
   source: GEISHA
   source_label: GEISHA
@@ -139,14 +159,14 @@ images:
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Figure2B.Fuhrmann.2006.jpg
 - caption: FZD6 expression
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD6/458641_18.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD6/458641_18.jpg
   location: Face Mesenchyme, Pharyngeal Arches and Clefts
   source: Geethaloganath et al. 2009
   source_label: Geethaloganath et al. 2009
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZD6.GeethaLoganath.2009.Figure8F.panelA.png
 - caption: FZD6 expression
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD6/458641_19.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD6/458641_19.jpg
   location: null
   source: Geethaloganathan et al. 2009
   source_label: Geethaloganathan et al. 2009
@@ -154,6 +174,27 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZD6.GeethaLoganathan.2009.Figure8.panelA.png
 name: frizzled class receptor 6
 ncbi_id: '458641'
+orthologs:
+- ensembl: ENSG00000183785
+  entrez: '51807'
+  mod: MIM:605742
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000030137
+  entrez: '53857'
+  mod: MGI:1858225
+  phenotypes: ''
+  species: Mouse
+- ensembl: ENSXETG00000044622
+  entrez: '100037894'
+  mod: ''
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000042708
+  entrez: '337223'
+  mod: ZFIN:ZDB-GENE-030131-9167
+  phenotypes: ''
+  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGTGAATCCATCTCCTTCCTGCCG
 sources:
 - name: GEISHA
@@ -166,33 +207,33 @@ species: Gallus gallus
 symbol: FZD6
 template_length: '766'
 title: FZD6
-orthologs:
-- species: Human
-  entrez_id: '51807'
-  ensembl_id: ENSG00000183785
-  mod_id: MIM:605742
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '53857'
-  ensembl_id: ENSMUSG00000030137
-  mod_id: MGI:1858225
-  phenotypes: ''
-- species: Xenopus
-  entrez_id: '100037894'
-  ensembl_id: ENSXETG00000044622
-  mod_id: ''
-  phenotypes: ''
-- species: Zebrafish
-  entrez_id: '337223'
-  ensembl_id: ENSDARG00000042708
-  mod_id: ZFIN:ZDB-GENE-030131-9167
-  phenotypes: ''
 ---
-
-
-
 
 # FZD6
 
 **frizzled class receptor 6**
+
+## External Links
+
+- [Genomic Map](http://www.ncbi.nlm.nih.gov/gene/378788)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001271931)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [Molecular Function](http://amigo.geneontology.org/amigo/term/GO:0004930)
+- [Biological Process](http://amigo.geneontology.org/amigo/term/GO:0016055)
+- [Cellular Component](http://amigo.geneontology.org/amigo/term/GO:0016021)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:378788)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+- [Citation](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Antoni+craniofacial+wnt+fu)
+
+**Copyright**: Dev. Dyn Copyright © 2009 John Wiley & Sons, Inc. All Rights Reserved.
+**Comments**: Insufficient information provided in publication to verify exact sequence used to synthesize probe. The sequence below was obtained from NCBI (acc # XM_418372)
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Human | [ENSG00000183785](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000183785) | [51807](https://www.ncbi.nlm.nih.gov/gene/51807) | [MIM:605742](https://omim.org/entry/605742) |  |
+| Mouse | [ENSMUSG00000030137](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000030137) | [53857](https://www.ncbi.nlm.nih.gov/gene/53857) | [MGI:1858225](http://www.informatics.jax.org/marker/MGI:1858225) |  |
+| Xenopus | [ENSXETG00000044622](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000044622) | [100037894](https://www.ncbi.nlm.nih.gov/gene/100037894) |  |  |
+| Zebrafish | [ENSDARG00000042708](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000042708) | [337223](https://www.ncbi.nlm.nih.gov/gene/337223) | [ZFIN:ZDB-GENE-030131-9167](https://zfin.org/ZDB-GENE-030131-9167) |  |
 

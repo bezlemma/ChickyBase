@@ -1,6 +1,15 @@
 ---
+aliases:
+- tripartite motif-containing protein 54
+external_ids:
+  '25': stage 25
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Genomic Map: http://www.ncbi.nlm.nih.gov/gene/107053153
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  Sequence Information: GenomicRNAPolypeptide
 forward_primer: 5’-TCACGCAGATGGAGGAGATC-3’
 gene_id: '509500'
+gene_type: unknown
 images:
 - caption: TRIM54 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TRIM54/509500_0.jpg
@@ -88,6 +97,27 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R692.TRIM54.S25.001.jpg
 name: tripartite motif containing 54
 ncbi_id: '509500'
+orthologs:
+- ensembl: ENSG00000143171
+  entrez: '6258'
+  mod: MIM:180247
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000015843
+  entrez: '20183'
+  mod: MGI:98216
+  phenotypes: ''
+  species: Mouse
+- ensembl: ENSXETG00000004750
+  entrez: '779621'
+  mod: ''
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000004697
+  entrez: '436617'
+  mod: ZFIN:ZDB-GENE-040718-34
+  phenotypes: ''
+  species: Zebrafish
 reverse_primer: 5’-ATTAACCCTCACTAAAGGTTGGTGGTGTCAATGCTG-3’
 sources:
 - name: GEISHA
@@ -100,33 +130,24 @@ species: Gallus gallus
 symbol: TRIM54
 template_length: '476'
 title: TRIM54
-orthologs:
-- species: Human
-  entrez_id: '6258'
-  ensembl_id: ENSG00000143171
-  mod_id: MIM:180247
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '20183'
-  ensembl_id: ENSMUSG00000015843
-  mod_id: MGI:98216
-  phenotypes: ''
-- species: Xenopus
-  entrez_id: '779621'
-  ensembl_id: ENSXETG00000004750
-  mod_id: ''
-  phenotypes: ''
-- species: Zebrafish
-  entrez_id: '436617'
-  ensembl_id: ENSDARG00000004697
-  mod_id: ZFIN:ZDB-GENE-040718-34
-  phenotypes: ''
 ---
-
-
-
 
 # TRIM54
 
 **tripartite motif containing 54**
+
+## External Links
+
+- [Genomic Map](http://www.ncbi.nlm.nih.gov/gene/107053153)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Human | [ENSG00000143171](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000143171) | [6258](https://www.ncbi.nlm.nih.gov/gene/6258) | [MIM:180247](https://omim.org/entry/180247) |  |
+| Mouse | [ENSMUSG00000015843](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000015843) | [20183](https://www.ncbi.nlm.nih.gov/gene/20183) | [MGI:98216](http://www.informatics.jax.org/marker/MGI:98216) |  |
+| Xenopus | [ENSXETG00000004750](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000004750) | [779621](https://www.ncbi.nlm.nih.gov/gene/779621) |  |  |
+| Zebrafish | [ENSDARG00000004697](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000004697) | [436617](https://www.ncbi.nlm.nih.gov/gene/436617) | [ZFIN:ZDB-GENE-040718-34](https://zfin.org/ZDB-GENE-040718-34) |  |
 

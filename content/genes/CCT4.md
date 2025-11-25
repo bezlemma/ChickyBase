@@ -1,6 +1,21 @@
 ---
+aliases:
+- T-complex protein 1 subunit delta
+- T-complex protein 1 delta subunit
+- chaperonin containing TCP1, subunit 4 (delta)
+cgnc_id: '6688'
+external_ids:
+  '25': stage 25stage 25stage 25stage 25
+  BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0032444
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/34674
+  Genomic Map: http://www.ncbi.nlm.nih.gov/gene/395414
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395414
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_206878
 forward_primer: GATTGTGAACTGGTGGAAGGACTG
 gene_id: '449197'
+gene_type: protein-coding
 images:
 - caption: CCT4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CCT4/449197_0.jpg
@@ -185,6 +200,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R579.CCT4.S25V.001.jpg
 name: chaperonin containing TCP1 subunit 4
 ncbi_id: '449197'
+orthologs:
+- ensembl: ''
+  entrez: '34674'
+  mod: FBgn0032444
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ENSG00000115484
+  entrez: '10575'
+  mod: MIM:605142
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000007739
+  entrez: '12464'
+  mod: MGI:104689
+  phenotypes: All phenotypic alleles (1):Targeted, other(1)
+  species: Mouse
+- ensembl: ''
+  entrez: 448604,444416
+  mod: '974482'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000013475
+  entrez: '393555'
+  mod: ZFIN:ZDB-GENE-040426-1421
+  phenotypes: ZDB-GENE-040426-1421
+  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGGCTGTTGAGATAGGATTGAGACCCG
 sources:
 - name: GEISHA
@@ -199,9 +240,27 @@ template_length: '772'
 title: CCT4
 ---
 
-
-
 # CCT4
 
 **chaperonin containing TCP1 subunit 4**
+
+## External Links
+
+- [Genomic Map](http://www.ncbi.nlm.nih.gov/gene/395414)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_206878)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [Fruit Fly](http://www.ncbi.nlm.nih.gov/gene/34674)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:395414)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+- [BDGP](http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0032444)
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  | [34674](https://www.ncbi.nlm.nih.gov/gene/34674) | FBgn0032444 |  |
+| Human | [ENSG00000115484](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000115484) | [10575](https://www.ncbi.nlm.nih.gov/gene/10575) | [MIM:605142](https://omim.org/entry/605142) |  |
+| Mouse | [ENSMUSG00000007739](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000007739) | [12464](https://www.ncbi.nlm.nih.gov/gene/12464) | [MGI:104689](http://www.informatics.jax.org/marker/MGI:104689) | All phenotypic alleles (1):Targeted, other(1) |
+| Xenopus |  | [448604](https://www.ncbi.nlm.nih.gov/gene/448604), [444416](https://www.ncbi.nlm.nih.gov/gene/444416) | [974482](http://www.xenbase.org/gene/showgene.do?method=display&geneId=974482) |  |
+| Zebrafish | [ENSDARG00000013475](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013475) | [393555](https://www.ncbi.nlm.nih.gov/gene/393555) | [ZFIN:ZDB-GENE-040426-1421](https://zfin.org/ZDB-GENE-040426-1421) | ZDB-GENE-040426-1421 |
 

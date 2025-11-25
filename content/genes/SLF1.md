@@ -1,0 +1,101 @@
+---
+aliases:
+- ankyrin repeat domain 32
+cgnc_id: '10871'
+external_ids:
+  Genomic Map: http://www.ncbi.nlm.nih.gov/gene/427111
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427111
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424703
+gene_id: '460241'
+gene_type: protein-coding
+images:
+- caption: SLF1 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLF1/460241_0.jpg
+  location: Widespread Expression
+  source: GEISHA
+  source_label: GEISHA
+  stage: stage 1
+  thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54yc10.125.17.jpg
+- caption: SLF1 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLF1/460241_1.jpg
+  location: Face Mesenchyme, Hindbrain, Limb Buds, Pharyngeal Arches and Clefts, Somatopleure
+  source: GEISHA
+  source_label: GEISHA
+  stage: stage 20
+  thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54yc10.125.21.jpg
+- caption: SLF1 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLF1/460241_2.jpg
+  location: Hindbrain
+  source: GEISHA
+  source_label: GEISHA
+  stage: stage 20
+  thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54yc10.125.hb.jpg
+- caption: SLF1 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SLF1/460241_3.jpg
+  location: Hindbrain, Pharyngeal Arches and Clefts, Somatopleure, Widespread Expression
+  source: GEISHA
+  source_label: GEISHA
+  stage: stage 22
+  thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54yc10.125.22.jpg
+name: SMC5-SMC6 complex localization factor 1
+ncbi_id: '460241'
+orthologs:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ENSG00000133302
+  entrez: '84250'
+  mod: ''
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000021597
+  entrez: '105377'
+  mod: MGI:2145448
+  phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
+  species: Mouse
+- ensembl: ''
+  entrez: '100495961'
+  mod: '983323'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=460241
+- name: NCBI Gene
+  type: database
+  url: https://www.ncbi.nlm.nih.gov/gene/460241
+species: Gallus gallus
+symbol: SLF1
+title: SLF1
+---
+
+# SLF1
+
+**SMC5-SMC6 complex localization factor 1**
+
+## External Links
+
+- [Genomic Map](http://www.ncbi.nlm.nih.gov/gene/427111)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_424703)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:427111)
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  |  |  |  |
+| Human | [ENSG00000133302](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000133302) | [84250](https://www.ncbi.nlm.nih.gov/gene/84250) |  |  |
+| Mouse | [ENSMUSG00000021597](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021597) | [105377](https://www.ncbi.nlm.nih.gov/gene/105377) | [MGI:2145448](http://www.informatics.jax.org/marker/MGI:2145448) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
+| Xenopus |  | [100495961](https://www.ncbi.nlm.nih.gov/gene/100495961) | [983323](http://www.xenbase.org/gene/showgene.do?method=display&geneId=983323) |  |
+| Zebrafish |  |  |  |  |
+

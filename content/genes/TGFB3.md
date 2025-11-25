@@ -1,6 +1,21 @@
 ---
+aliases:
+- TGF beta 3
+cgnc_id: '7874'
+external_ids:
+  '25': stage 25stage 25stage 25
+  Biological Process: http://amigo.geneontology.org/amigo/term/GO:0060317
+  Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005615
+  Comments: No specific expression detected stage 3-5.
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000010346
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396438
+  Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0008083
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205454
 forward_primer: GGGCGATGGAGAAAAATGC
 gene_id: '461042'
+gene_type: protein-coding
 images:
 - caption: TGFB3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TGFB3/461042_0.jpg
@@ -210,6 +225,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TGFB3.R204.S25.1.jpg
 name: transforming growth factor beta 3
 ncbi_id: '461042'
+orthologs:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ''
+  entrez: '7043'
+  mod: MIM:190230
+  phenotypes: MIM:107970
+  species: Human
+- ensembl: ENSMUSG00000021253
+  entrez: '21809'
+  mod: MGI:98727
+  phenotypes: All phenotypic alleles (5):Targeted, knock-out(4) Targeted, other(1)
+  species: Mouse
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000019367
+  entrez: '369195'
+  mod: ZFIN:ZDB-GENE-030723-4
+  phenotypes: ZDB-GENE-030723-4
+  species: Zebrafish
 reverse_primer: ATTAA CCCTCACTAAAGGATGTAGTAGAGGATGGTGAGGGGC
 sources:
 - name: GEISHA
@@ -222,18 +263,32 @@ species: Gallus gallus
 symbol: TGFB3
 template_length: '743'
 title: TGFB3
-orthologs:
-- species: Human
-  entrez_id: '521'
-  ensembl_id: ENSG00000169020
-  mod_id: MIM:601519
-  phenotypes: ''
 ---
-
-
-
 
 # TGFB3
 
 **transforming growth factor beta 3**
+
+## External Links
+
+- [Genomic Map](https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000010346)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205454)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [Molecular Function](http://amigo.geneontology.org/amigo/term/GO:0008083)
+- [Biological Process](http://amigo.geneontology.org/amigo/term/GO:0060317)
+- [Cellular Component](http://amigo.geneontology.org/amigo/term/GO:0005615)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:396438)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+
+**Comments**: No specific expression detected stage 3-5.
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  |  |  |  |
+| Human |  | [7043](https://www.ncbi.nlm.nih.gov/gene/7043) | [MIM:190230](https://omim.org/entry/190230) | MIM:107970 |
+| Mouse | [ENSMUSG00000021253](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021253) | [21809](https://www.ncbi.nlm.nih.gov/gene/21809) | [MGI:98727](http://www.informatics.jax.org/marker/MGI:98727) | All phenotypic alleles (5):Targeted, knock-out(4) Targeted, other(1) |
+| Xenopus |  |  |  |  |
+| Zebrafish | [ENSDARG00000019367](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000019367) | [369195](https://www.ncbi.nlm.nih.gov/gene/369195) | [ZFIN:ZDB-GENE-030723-4](https://zfin.org/ZDB-GENE-030723-4) | ZDB-GENE-030723-4 |
 

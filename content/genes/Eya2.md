@@ -2,40 +2,12 @@
 gene_id: Eya2
 images:
 - caption: Eya2 expression from Figure S1
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EYA2/Eya2_FigS1_panel_10.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/Eya2/Eya2_FigS1_panel_10.jpg
   location: null
   source: Simoes-Costa et al. 2016
   source_label: Simoes-Costa et al. 2016
   stage: HH8
   thumbnail_url: null
-- caption: EYA2 expression at Stage 1
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EYA2/page19_img0_EYA2_Stage1.jpg
-  location: Not specified
-  source: Trevers et al. 2023
-  source_label: Trevers et al. 2023
-  stage: stage 1
-  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EYA2/page19_img0_EYA2_Stage1.jpg
-- caption: EYA2 expression at Stage 2
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EYA2/page19_img0_EYA2_Stage2.jpg
-  location: Not specified
-  source: Trevers et al. 2023
-  source_label: Trevers et al. 2023
-  stage: stage 2
-  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EYA2/page19_img0_EYA2_Stage2.jpg
-- caption: EYA2 expression at Stage 3
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EYA2/page19_img0_EYA2_Stage3.jpg
-  location: Not specified
-  source: Trevers et al. 2023
-  source_label: Trevers et al. 2023
-  stage: stage 3
-  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EYA2/page19_img0_EYA2_Stage3.jpg
-- caption: EYA2 expression at Stage 4
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EYA2/page19_img0_EYA2_Stage4.jpg
-  location: Not specified
-  source: Trevers et al. 2023
-  source_label: Trevers et al. 2023
-  stage: stage 4
-  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EYA2/page19_img0_EYA2_Stage4.jpg
 name: Eya2 gene
 ncbi_id: null
 papers:
@@ -50,14 +22,9 @@ sources:
   type: publication
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
 species: Gallus gallus
-symbol: EYA2
-title: EYA2
+symbol: Eya2
+title: Eya2
 ---
-
-
-
-
-
 
 # Eya2
 

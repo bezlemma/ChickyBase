@@ -1,6 +1,14 @@
 ---
+aliases:
+- annexin A4
+cgnc_id: '57513'
+external_ids:
+  Genomic Map: http://www.ncbi.nlm.nih.gov/gene/772393
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=AADN03008088
 forward_primer: TTCTGGCTTCTCGCACCAAC
 gene_id: '450135'
+gene_type: pseudo
 images:
 - caption: ANXA4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ANXA4/450135_0.jpg
@@ -138,6 +146,27 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R498.ANXA4.S27AAA.001.jpg
 name: annexin A4
 ncbi_id: '450135'
+orthologs:
+- ensembl: ENSG00000122691
+  entrez: '7291'
+  mod: MIM:601622
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000035799
+  entrez: '22160'
+  mod: MGI:98872
+  phenotypes: ''
+  species: Mouse
+- ensembl: ENSXETG00000025630
+  entrez: '395054'
+  mod: ''
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000076010
+  entrez: '550518'
+  mod: ZFIN:ZDB-GENE-050417-357
+  phenotypes: ''
+  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTCCTGTAGTCTCCTGAGCAGTCC
 sources:
 - name: GEISHA
@@ -150,33 +179,24 @@ species: Gallus gallus
 symbol: ANXA4
 template_length: '589'
 title: ANXA4
-orthologs:
-- species: Human
-  entrez_id: '7291'
-  ensembl_id: ENSG00000122691
-  mod_id: MIM:601622
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '22160'
-  ensembl_id: ENSMUSG00000035799
-  mod_id: MGI:98872
-  phenotypes: ''
-- species: Xenopus
-  entrez_id: '395054'
-  ensembl_id: ENSXETG00000025630
-  mod_id: ''
-  phenotypes: ''
-- species: Zebrafish
-  entrez_id: '550518'
-  ensembl_id: ENSDARG00000076010
-  mod_id: ZFIN:ZDB-GENE-050417-357
-  phenotypes: ''
 ---
-
-
-
 
 # ANXA4
 
 **annexin A4**
+
+## External Links
+
+- [Genomic Map](http://www.ncbi.nlm.nih.gov/gene/772393)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=AADN03008088)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Human | [ENSG00000122691](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000122691) | [7291](https://www.ncbi.nlm.nih.gov/gene/7291) | [MIM:601622](https://omim.org/entry/601622) |  |
+| Mouse | [ENSMUSG00000035799](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000035799) | [22160](https://www.ncbi.nlm.nih.gov/gene/22160) | [MGI:98872](http://www.informatics.jax.org/marker/MGI:98872) |  |
+| Xenopus | [ENSXETG00000025630](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000025630) | [395054](https://www.ncbi.nlm.nih.gov/gene/395054) |  |  |
+| Zebrafish | [ENSDARG00000076010](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000076010) | [550518](https://www.ncbi.nlm.nih.gov/gene/550518) | [ZFIN:ZDB-GENE-050417-357](https://zfin.org/ZDB-GENE-050417-357) |  |
 

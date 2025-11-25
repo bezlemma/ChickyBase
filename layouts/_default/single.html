@@ -460,8 +460,8 @@
                     <tr class="hover:bg-slate-50">
                         <td class="px-4 py-2 text-sm text-slate-900 italic">{{ .species }}</td>
                         <td class="px-4 py-2 text-sm text-slate-500 font-mono">
-                            {{ if .entrez_id }}
-                                {{ $ids := split (string .entrez_id) "," }}
+                            {{ if .entrez }}
+                                {{ $ids := split (string .entrez) "," }}
                                 {{ range $index, $id := $ids }}
                                     {{ $cleanId := trim $id " " }}
                                     {{ if gt $index 0 }}, {{ end }}
@@ -470,8 +470,8 @@
                             {{ end }}
                         </td>
                         <td class="px-4 py-2 text-sm text-slate-500 font-mono">
-                            {{ if .ensembl_id }}
-                                {{ $ids := split (string .ensembl_id) "," }}
+                            {{ if .ensembl }}
+                                {{ $ids := split (string .ensembl) "," }}
                                 {{ range $index, $id := $ids }}
                                     {{ $cleanId := trim $id " " }}
                                     {{ if gt $index 0 }}, {{ end }}
@@ -481,9 +481,9 @@
                         </td>
                         <td class="px-4 py-2 text-sm text-slate-500">{{ .phenotypes }}</td>
                         <td class="px-4 py-2 text-sm text-slate-500 font-mono">
-                            {{ if .mod_id }}
+                            {{ if .mod }}
                                 {{ $species := .species }}
-                                {{ $ids := split (string .mod_id) "," }}
+                                {{ $ids := split (string .mod) "," }}
                                 {{ range $index, $id := $ids }}
                                     {{ $cleanId := trim $id " " }}
                                     {{ if gt $index 0 }}, {{ end }}

@@ -1,6 +1,24 @@
 ---
+aliases:
+- homeobox protein DLX-1
+- homeodomain transcription factor DLX1
+cgnc_id: '53614'
+external_ids:
+  '31': stage 31stage 31
+  Citation: Stephen T Brown 1, Juemei Wang, Andrew K Groves. Dlx gene expression during
+    chick inner ear development. J Comp Neurol. 2005 Feb 28;483(1):48-65.0
+  Comments: The complete cDNA template sequence was obtained from the information
+    provided in the publication as described in Brown et al. 2005.
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Copyright: © 2005 Wiley-Liss, Inc.
+  Genomic Map: http://www.ncbi.nlm.nih.gov/gene/429283
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:429283
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001045842
+  ZEBrA: http://www.zebrafinchatlas.org/gene_info/DLX1
 forward_primer: CAGACCCCCAAAAGGCACG
 gene_id: '468737'
+gene_type: protein-coding
 images:
 - caption: DLX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX1/468737_0.jpg
@@ -125,7 +143,7 @@ images:
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3a.SHIG.2000.jpg
 - caption: DLX1 expression
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX1/468737_17.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX1/468737_17.jpg
   location: Telencephalon
   source: Bielle et al. 2011
   source_label: Bielle et al. 2011
@@ -133,7 +151,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.Bielle.2011.Fig.4
     dlx1.png
 - caption: DLX1 expression
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX1/468737_18.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX1/468737_18.jpg
   location: null
   source: Bielle et al. 2011
   source_label: Bielle et al. 2011
@@ -142,16 +160,16 @@ images:
 - caption: DLX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX1/468737_19.jpg
   location: Telencephalon
-  source: Frowein et al. 2002
-  source_label: Frowein et al. 2002
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1Frowein.2002
     figure 1 panel 1e
 - caption: DLX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX1/468737_20.jpg
   location: Telencephalon
-  source: Frowein et al. 2002
-  source_label: Frowein et al. 2002
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1Frowein.2002
     figure 1 panel 1k
@@ -185,6 +203,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Brown.2005_Fig.6_ALLIMAGES.jpg
 name: distal-less homeobox 1
 ncbi_id: '468737'
+orthologs:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ENSG00000144355
+  entrez: '1745'
+  mod: MIM:600029
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000041911
+  entrez: '13390'
+  mod: MGI:94901
+  phenotypes: ''
+  species: Mouse
+- ensembl: ''
+  entrez: '100101750'
+  mod: '876849'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000013125
+  entrez: 100329678,30568
+  mod: ZFIN:ZDB-GENE-990415-48
+  phenotypes: ZDB-GENE-990415-48
+  species: Zebrafish
 reverse_primer: AATTAACCCTCACTAAAGAGGCGGAGGAGGTGTTCCAC
 sources:
 - name: GEISHA
@@ -199,9 +243,29 @@ template_length: '721'
 title: DLX1
 ---
 
-
-
 # DLX1
 
 **distal-less homeobox 1**
+
+## External Links
+
+- [Genomic Map](http://www.ncbi.nlm.nih.gov/gene/429283)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001045842)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:429283)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+- [ZEBrA](http://www.zebrafinchatlas.org/gene_info/DLX1)
+
+**Comments**: The complete cDNA template sequence was obtained from the information provided in the publication as described in Brown et al. 2005.
+**Copyright**: © 2005 Wiley-Liss, Inc.
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  |  |  |  |
+| Human | [ENSG00000144355](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000144355) | [1745](https://www.ncbi.nlm.nih.gov/gene/1745) | [MIM:600029](https://omim.org/entry/600029) |  |
+| Mouse | [ENSMUSG00000041911](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000041911) | [13390](https://www.ncbi.nlm.nih.gov/gene/13390) | [MGI:94901](http://www.informatics.jax.org/marker/MGI:94901) |  |
+| Xenopus |  | [100101750](https://www.ncbi.nlm.nih.gov/gene/100101750) | [876849](http://www.xenbase.org/gene/showgene.do?method=display&geneId=876849) |  |
+| Zebrafish | [ENSDARG00000013125](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000013125) | [100329678](https://www.ncbi.nlm.nih.gov/gene/100329678), [30568](https://www.ncbi.nlm.nih.gov/gene/30568) | [ZFIN:ZDB-GENE-990415-48](https://zfin.org/ZDB-GENE-990415-48) | ZDB-GENE-990415-48 |
 

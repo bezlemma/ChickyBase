@@ -2,7 +2,7 @@
 gene_id: Dlx6
 images:
 - caption: Dlx6 expression from Figure S1
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX6/Dlx6_FigS1_panel_11.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/Dlx6/Dlx6_FigS1_panel_11.jpg
   location: null
   source: Simoes-Costa et al. 2016
   source_label: Simoes-Costa et al. 2016
@@ -22,12 +22,9 @@ sources:
   type: publication
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5100669/
 species: Gallus gallus
-symbol: DLX6
-title: DLX6
+symbol: Dlx6
+title: Dlx6
 ---
-
-
-
 
 # Dlx6
 

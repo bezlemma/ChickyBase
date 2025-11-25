@@ -1,6 +1,19 @@
 ---
+cgnc_id: '9187'
+external_ids:
+  Citation: https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019
+  Comments: Insufficient information provided in publication to verify exact sequence
+    used to synthesize probe. Sequence below was obtained from NCBI (NM_001397547
+    ).
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Copyright: Copyright © 2019 Elsevier Inc. All rights reserved.
+  Genomic Map: http://www.ncbi.nlm.nih.gov/gene/396139
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:396139
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205216
 forward_primer: AGAGCCAGCAAGCCATTCG
 gene_id: '458790'
+gene_type: protein-coding
 images:
 - caption: WT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WT1/458790_0.jpg
@@ -306,6 +319,32 @@ images:
     figure 4J.jpg
 name: Wilms tumor 1
 ncbi_id: '458790'
+orthologs:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ENSG00000184937
+  entrez: '7490'
+  mod: MIM:607102
+  phenotypes: MIM:194080
+  species: Human
+- ensembl: ENSMUSG00000016458
+  entrez: '22431'
+  mod: MGI:98968
+  phenotypes: All phenotypic alleles (17):Targeted, knock-out(6) Targeted, other(11)
+  species: Mouse
+- ensembl: ''
+  entrez: 100216184,373588,378664
+  mod: '484998'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000031420,ENSDARG00000007990
+  entrez: 30245,568416
+  mod: ZFIN:ZDB-GENE-980526-558,ZFIN:ZDB-GENE-050420-319
+  phenotypes: ZDB-GENE-980526-558,ZDB-GENE-050420-319
+  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTTGGTGCCGTTTCAGTTGG
 sources:
 - name: GEISHA
@@ -318,33 +357,31 @@ species: Gallus gallus
 symbol: WT1
 template_length: '663'
 title: WT1
-orthologs:
-- species: Human
-  entrez_id: '4174'
-  ensembl_id: ENSG00000100297
-  mod_id: MIM:602696
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '17218'
-  ensembl_id: ENSMUSG00000005410
-  mod_id: MGI:103197
-  phenotypes: ''
-- species: Xenopus
-  entrez_id: '550081'
-  ensembl_id: ENSXETG00000000253
-  mod_id: ''
-  phenotypes: ''
-- species: Zebrafish
-  entrez_id: '286747'
-  ensembl_id: ENSDARG00000019507
-  mod_id: ZFIN:ZDB-GENE-021209-1
-  phenotypes: ''
 ---
-
-
-
 
 # WT1
 
 **Wilms tumor 1**
+
+## External Links
+
+- [Genomic Map](http://www.ncbi.nlm.nih.gov/gene/396139)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205216)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:396139)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+- [Citation](https://www.ncbi.nlm.nih.gov/pubmed/?term=Anderson+Hill+Lu+Moverley+Stern+2019)
+
+**Comments**: Insufficient information provided in publication to verify exact sequence used to synthesize probe. Sequence below was obtained from NCBI (NM_001397547 ).
+**Copyright**: Copyright © 2019 Elsevier Inc. All rights reserved.
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  |  |  |  |
+| Human | [ENSG00000184937](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000184937) | [7490](https://www.ncbi.nlm.nih.gov/gene/7490) | [MIM:607102](https://omim.org/entry/607102) | MIM:194080 |
+| Mouse | [ENSMUSG00000016458](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000016458) | [22431](https://www.ncbi.nlm.nih.gov/gene/22431) | [MGI:98968](http://www.informatics.jax.org/marker/MGI:98968) | All phenotypic alleles (17):Targeted, knock-out(6) Targeted, other(11) |
+| Xenopus |  | [100216184](https://www.ncbi.nlm.nih.gov/gene/100216184), [373588](https://www.ncbi.nlm.nih.gov/gene/373588), [378664](https://www.ncbi.nlm.nih.gov/gene/378664) | [484998](http://www.xenbase.org/gene/showgene.do?method=display&geneId=484998) |  |
+| Zebrafish | [ENSDARG00000031420](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000031420), [ENSDARG00000007990](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000007990) | [30245](https://www.ncbi.nlm.nih.gov/gene/30245), [568416](https://www.ncbi.nlm.nih.gov/gene/568416) | [ZFIN:ZDB-GENE-980526-558](https://zfin.org/ZDB-GENE-980526-558), [ZFIN:ZDB-GENE-050420-319](https://zfin.org/ZDB-GENE-050420-319) | ZDB-GENE-980526-558,ZDB-GENE-050420-319 |
 

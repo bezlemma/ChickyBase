@@ -1,5 +1,22 @@
 ---
+aliases:
+- ZNF537, teashirt homolog 3
+- teashirt family zinc finger 3
+- zinc finger protein 537
+cgnc_id: '3346'
+external_ids:
+  '25': stage 25stage 25
+  Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Paxton+2010+Schoenwolf+Chapman
+  Comments: The cDNA template used to generate the probe was obtained by PCR as described
+    in Paxton et al.
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Copyright: 2009 Elsevier B.V. All rights reserved.
+  Genomic Map: http://www.ncbi.nlm.nih.gov/gene/415762
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:415762
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414125
 gene_id: '461795'
+gene_type: protein-coding
 images:
 - caption: TSHZ3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TSHZ3/461795_0.jpg
@@ -272,6 +289,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Paxton.Fig8.TSHZ.F.ST21.jpg
 name: teashirt zinc finger homeobox 3
 ncbi_id: '461795'
+orthologs:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ENSG00000121297
+  entrez: '57616'
+  mod: MIM:614119
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000021217
+  entrez: '243931'
+  mod: MGI:2442819
+  phenotypes: All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)
+  species: Mouse
+- ensembl: ''
+  entrez: 100491887,100036808
+  mod: '852850'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ''
+  entrez: '565811'
+  mod: ZFIN:ZDB-GENE-100319-2,ZFIN:ZDB-GENE-100322-1
+  phenotypes: ZDB-GENE-100319-2,ZDB-GENE-100322-1
+  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
@@ -282,28 +325,31 @@ sources:
 species: Gallus gallus
 symbol: TSHZ3
 title: TSHZ3
-orthologs:
-- species: Human
-  entrez_id: '55255'
-  ensembl_id: ENSG00000164253
-  mod_id: MIM:617502
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '218460'
-  ensembl_id: ENSMUSG00000042015
-  mod_id: MGI:2445123
-  phenotypes: ''
-- species: Zebrafish
-  entrez_id: '571294'
-  ensembl_id: ENSDARG00000009851
-  mod_id: ZFIN:ZDB-GENE-050706-152
-  phenotypes: ''
 ---
-
-
-
 
 # TSHZ3
 
 **teashirt zinc finger homeobox 3**
+
+## External Links
+
+- [Genomic Map](http://www.ncbi.nlm.nih.gov/gene/415762)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_414125)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:415762)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+- [Citation](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Paxton+2010+Schoenwolf+Chapman)
+
+**Comments**: The cDNA template used to generate the probe was obtained by PCR as described in Paxton et al.
+**Copyright**: 2009 Elsevier B.V. All rights reserved.
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  |  |  |  |
+| Human | [ENSG00000121297](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000121297) | [57616](https://www.ncbi.nlm.nih.gov/gene/57616) | [MIM:614119](https://omim.org/entry/614119) |  |
+| Mouse | [ENSMUSG00000021217](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021217) | [243931](https://www.ncbi.nlm.nih.gov/gene/243931) | [MGI:2442819](http://www.informatics.jax.org/marker/MGI:2442819) | All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1) |
+| Xenopus |  | [100491887](https://www.ncbi.nlm.nih.gov/gene/100491887), [100036808](https://www.ncbi.nlm.nih.gov/gene/100036808) | [852850](http://www.xenbase.org/gene/showgene.do?method=display&geneId=852850) |  |
+| Zebrafish |  | [565811](https://www.ncbi.nlm.nih.gov/gene/565811) | [ZFIN:ZDB-GENE-100319-2](https://zfin.org/ZDB-GENE-100319-2), [ZFIN:ZDB-GENE-100322-1](https://zfin.org/ZDB-GENE-100322-1) | ZDB-GENE-100319-2,ZDB-GENE-100322-1 |
 

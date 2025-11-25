@@ -1,5 +1,21 @@
 ---
+aliases:
+- S-phase kinase-associated protein 1A
+- cyclin-A/CDK2-associated protein p19
+- p19A
+cgnc_id: '4880'
+external_ids:
+  BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0026176
+  Biological Process: http://amigo.geneontology.org/amigo/term/GO:0031146
+  Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0031467
+  Comments: No specific expression detected stage 4.
+  Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/36298
+  Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000006474
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:416319
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006153
 gene_id: '456809'
+gene_type: protein-coding
 images:
 - caption: SKP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SKP1/456809_0.jpg
@@ -83,6 +99,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/4xc2.114.4.21.jpg
 name: S-phase kinase-associated protein 1
 ncbi_id: '456809'
+orthologs:
+- ensembl: ''
+  entrez: '36298'
+  mod: FBgn0026176
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ''
+  entrez: '6500'
+  mod: MIM:601434
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000036309
+  entrez: '21402'
+  mod: MGI:103575
+  phenotypes: ''
+  species: Mouse
+- ensembl: ''
+  entrez: 549273,380538
+  mod: '919630'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000003151
+  entrez: '393716'
+  mod: ZFIN:ZDB-GENE-040426-1707
+  phenotypes: ZDB-GENE-040426-1707
+  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
@@ -95,9 +137,30 @@ symbol: SKP1
 title: SKP1
 ---
 
-
-
 # SKP1
 
 **S-phase kinase-associated protein 1**
+
+## External Links
+
+- [Genomic Map](https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000006474)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001006153)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [Fruit Fly](http://www.ncbi.nlm.nih.gov/gene/36298)
+- [Biological Process](http://amigo.geneontology.org/amigo/term/GO:0031146)
+- [Cellular Component](http://amigo.geneontology.org/amigo/term/GO:0031467)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:416319)
+- [BDGP](http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0026176)
+
+**Comments**: No specific expression detected stage 4.
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  | [36298](https://www.ncbi.nlm.nih.gov/gene/36298) | FBgn0026176 |  |
+| Human |  | [6500](https://www.ncbi.nlm.nih.gov/gene/6500) | [MIM:601434](https://omim.org/entry/601434) |  |
+| Mouse | [ENSMUSG00000036309](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000036309) | [21402](https://www.ncbi.nlm.nih.gov/gene/21402) | [MGI:103575](http://www.informatics.jax.org/marker/MGI:103575) |  |
+| Xenopus |  | [549273](https://www.ncbi.nlm.nih.gov/gene/549273), [380538](https://www.ncbi.nlm.nih.gov/gene/380538) | [919630](http://www.xenbase.org/gene/showgene.do?method=display&geneId=919630) |  |
+| Zebrafish | [ENSDARG00000003151](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000003151) | [393716](https://www.ncbi.nlm.nih.gov/gene/393716) | [ZFIN:ZDB-GENE-040426-1707](https://zfin.org/ZDB-GENE-040426-1707) | ZDB-GENE-040426-1707 |
 

@@ -1,0 +1,132 @@
+---
+aliases:
+- Cath1, protein atonal homolog 1
+- atonal bHLH transcription factor 1
+external_ids:
+  Comments: As insufficient information is provided in publication to verify exact
+    sequence used to synthesize probe, the sequence below was obtained from NCBI  AF467292.1
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Genomic Map: http://www.ncbi.nlm.nih.gov/gene/101750213
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  Sequence Information: GenomicRNAPolypeptide
+gene_id: '504473'
+gene_type: unknown
+images:
+- caption: ATOH1 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ATOH1/504473_0.jpg
+  location: Hindbrain, Rhombomeres
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
+  stage: stage 26
+  thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CATH1.interface.Wilson.2007.F9.cath1.png
+- caption: ATOH1 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ATOH1/504473_1.jpg
+  location: Hindbrain, Rhombomeres
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
+  stage: stage 26
+  thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CATH1.nerveexitpoint.Wilson.2007.F9.cath1.png
+- caption: ATOH1 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ATOH1/504473_2.jpg
+  location: Hindbrain, Neural Plate/Tube, Rhombomeres
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
+  stage: stage 26
+  thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CATH1.neuraltube.Wilson.2007.F9.cath1.png
+- caption: ATOH1 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ATOH1/504473_3.jpg
+  location: Hindbrain, Rhombomeres
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
+  stage: stage 26
+  thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CATH1.rhombiclip.Wilson.2007.F9.cath1.png
+- caption: ATOH1 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ATOH1/504473_4.jpg
+  location: Hindbrain, Rhombomeres
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
+  stage: stage 26
+  thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CATH1.rhombiclip2.Wilson.2007.F9.cath1.png
+- caption: ATOH1 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ATOH1/504473_5.jpg
+  location: Hindbrain, Rhombomeres
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
+  stage: stage 26
+  thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CATH1.roofplate.Wilson.2007.F9.cath1.png
+- caption: ATOH1 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ATOH1/504473_6.jpg
+  location: Hindbrain
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
+  stage: stage 26
+  thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CATH1.roofplate2.Wilson.2007.F9.cath1.png
+- caption: ATOH1 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ATOH1/504473_7.jpg
+  location: null
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
+  stage: stage 26
+  thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Wilson.2007.F9.cath1.png
+name: atonal homolog 1 (Drosophila)
+ncbi_id: '504473'
+orthologs:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Human
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Mouse
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Zebrafish
+sources:
+- name: GEISHA
+  type: database
+  url: https://geisha.arizona.edu/geisha/search.jsp?gene=504473
+- name: NCBI Gene
+  type: database
+  url: https://www.ncbi.nlm.nih.gov/gene/504473
+species: Gallus gallus
+symbol: ATOH1
+title: ATOH1
+---
+
+# ATOH1
+
+**atonal homolog 1 (Drosophila)**
+
+## External Links
+
+- [Genomic Map](http://www.ncbi.nlm.nih.gov/gene/101750213)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+
+**Comments**: As insufficient information is provided in publication to verify exact sequence used to synthesize probe, the sequence below was obtained from NCBI  AF467292.1
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  |  |  |  |
+| Human |  |  |  |  |
+| Mouse |  |  |  |  |
+| Xenopus |  |  |  |  |
+| Zebrafish |  |  |  |  |
+

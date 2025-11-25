@@ -1,6 +1,16 @@
 ---
+aliases:
+- ras homolog family member G
+- ras homolog gene family, member G (rho G)
+cgnc_id: '4080'
+external_ids:
+  Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000005475
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:422207
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012536
 forward_primer: TGAATCAGGAGGGTGTTCG
 gene_id: '450709'
+gene_type: protein-coding
 images:
 - caption: RHOGL expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RHOGL/450709_0.jpg
@@ -146,6 +156,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R431.RHOG.S22V.001.jpg
 name: rho-related GTP-binding protein RhoG-like
 ncbi_id: '450709'
+orthologs:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Human
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Mouse
+- ensembl: ''
+  entrez: 100216282,379691
+  mod: '493449'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000030608
+  entrez: '393653'
+  mod: ZFIN:ZDB-GENE-040426-1504
+  phenotypes: ZDB-GENE-040426-1504
+  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGGTCTCTGGGAGTCATCAATG
 sources:
 - name: GEISHA
@@ -158,28 +194,26 @@ species: Gallus gallus
 symbol: RHOGL
 template_length: '1000'
 title: RHOGL
-orthologs:
-- species: Human
-  entrez_id: '9118'
-  ensembl_id: ENSG00000148798
-  mod_id: MIM:605338
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '226180'
-  ensembl_id: ENSMUSG00000034336
-  mod_id: MGI:96568
-  phenotypes: ''
-- species: Xenopus
-  entrez_id: '100101732'
-  ensembl_id: ENSXETG00000009478
-  mod_id: ''
-  phenotypes: ''
 ---
-
-
-
 
 # RHOGL
 
 **rho-related GTP-binding protein RhoG-like**
+
+## External Links
+
+- [Genomic Map](https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000005475)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012536)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:422207)
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  |  |  |  |
+| Human |  |  |  |  |
+| Mouse |  |  |  |  |
+| Xenopus |  | [100216282](https://www.ncbi.nlm.nih.gov/gene/100216282), [379691](https://www.ncbi.nlm.nih.gov/gene/379691) | [493449](http://www.xenbase.org/gene/showgene.do?method=display&geneId=493449) |  |
+| Zebrafish | [ENSDARG00000030608](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000030608) | [393653](https://www.ncbi.nlm.nih.gov/gene/393653) | [ZFIN:ZDB-GENE-040426-1504](https://zfin.org/ZDB-GENE-040426-1504) | ZDB-GENE-040426-1504 |
 

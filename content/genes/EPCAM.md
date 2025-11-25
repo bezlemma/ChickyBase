@@ -1,6 +1,18 @@
 ---
+aliases:
+- TACSTD1, epithelial cell adhesion molecule
+- ep-CAM
+- tumor-associated calcium signal transducer 1
+cgnc_id: '6812'
+external_ids:
+  Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0016021
+  Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000008969
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:421292
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012564
 forward_primer: GCTGAAATGGCAAACACGAAATCG
 gene_id: '457131'
+gene_type: protein-coding
 images:
 - caption: EPCAM expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EPCAM/457131_0.jpg
@@ -174,8 +186,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EPCAM/457131_23.jpg
   location: Ear/Otic Placode, Eye, Foregut, Nasal Placode/Nerve, Pharyngeal Arches
     and Clefts, Surface Ectoderm, Tail, Widespread Expression
-  source: S15 et al. 0001
-  source_label: S15 et al. 0001
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R433.EPCAM.S15.0001.jpg
 - caption: EPCAM expression
@@ -190,8 +202,8 @@ images:
 - caption: EPCAM expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EPCAM/457131_25.jpg
   location: null
-  source: S16 et al. 0002
-  source_label: S16 et al. 0002
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R433.EPCAM.S16.0002.jpg
 - caption: EPCAM expression
@@ -386,6 +398,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R462.EPCAM.S27V.001.jpg
 name: epithelial cell adhesion molecule
 ncbi_id: '457131'
+orthologs:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ENSG00000119888
+  entrez: '4072'
+  mod: MIM:185535
+  phenotypes: MIM:613244
+  species: Human
+- ensembl: ENSMUSG00000045394
+  entrez: '17075'
+  mod: MGI:106653
+  phenotypes: All phenotypic alleles (1):Gene trapped(1)
+  species: Mouse
+- ensembl: ''
+  entrez: 496567,379260,446810
+  mod: '986666'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000040534
+  entrez: 336480,550255,406454
+  mod: ZFIN:ZDB-GENE-030131-8424,ZFIN:ZDB-GENE-050417-57,ZFIN:ZDB-GENE-040426-2209
+  phenotypes: ZDB-GENE-030131-8424,ZDB-GENE-050417-57,ZDB-GENE-040426-2209
+  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGAAGCAAGCACAACTGACTCCCC
 sources:
 - name: GEISHA
@@ -400,9 +438,25 @@ template_length: '841'
 title: EPCAM
 ---
 
-
-
 # EPCAM
 
 **epithelial cell adhesion molecule**
+
+## External Links
+
+- [Genomic Map](https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000008969)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001012564)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [Cellular Component](http://amigo.geneontology.org/amigo/term/GO:0016021)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:421292)
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  |  |  |  |
+| Human | [ENSG00000119888](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000119888) | [4072](https://www.ncbi.nlm.nih.gov/gene/4072) | [MIM:185535](https://omim.org/entry/185535) | MIM:613244 |
+| Mouse | [ENSMUSG00000045394](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000045394) | [17075](https://www.ncbi.nlm.nih.gov/gene/17075) | [MGI:106653](http://www.informatics.jax.org/marker/MGI:106653) | All phenotypic alleles (1):Gene trapped(1) |
+| Xenopus |  | [496567](https://www.ncbi.nlm.nih.gov/gene/496567), [379260](https://www.ncbi.nlm.nih.gov/gene/379260), [446810](https://www.ncbi.nlm.nih.gov/gene/446810) | [986666](http://www.xenbase.org/gene/showgene.do?method=display&geneId=986666) |  |
+| Zebrafish | [ENSDARG00000040534](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000040534) | [336480](https://www.ncbi.nlm.nih.gov/gene/336480), [550255](https://www.ncbi.nlm.nih.gov/gene/550255), [406454](https://www.ncbi.nlm.nih.gov/gene/406454) | [ZFIN:ZDB-GENE-030131-8424](https://zfin.org/ZDB-GENE-030131-8424), [ZFIN:ZDB-GENE-050417-57](https://zfin.org/ZDB-GENE-050417-57), [ZFIN:ZDB-GENE-040426-2209](https://zfin.org/ZDB-GENE-040426-2209) | ZDB-GENE-030131-8424,ZDB-GENE-050417-57,ZDB-GENE-040426-2209 |
 

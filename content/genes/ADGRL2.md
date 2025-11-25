@@ -1,6 +1,24 @@
 ---
+aliases:
+- LPHN2, adhesion G protein-coupled receptor L2
+- latrophilin 2
+cgnc_id: '6736'
+external_ids:
+  '25': stage 25stage 25
+  Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Bell+Antin+GEISHA+screen
+  Comments: Insufficient information provided in publication to verify exact sequence
+    used to synthesize probe. Sequence was obtained from NCBI (NM_001190477.1).  Adgrl2
+    is also known as LPHN2 in NCBI.
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Copyright: Copyright © 2004 Wiley-Liss, Inc.
+  Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000008871
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:424545
+  Reverse cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001190477
 forward_primer: ATGCCAGGGATACAAGTGCC
 gene_id: '451548'
+gene_type: protein-coding
 images:
 - caption: ADGRL2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADGRL2/451548_0.jpg
@@ -111,8 +129,8 @@ images:
 - caption: ADGRL2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADGRL2/451548_15.jpg
   location: Intermediate Mesoderm, Somites, Spinal Cord
-  source: St20 et al. 0011
-  source_label: St20 et al. 0011
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/D07.25.st20.0011.jpg
 - caption: ADGRL2 expression
@@ -326,7 +344,7 @@ images:
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/latrophilin-2.imageE.fig1.jpg
 - caption: ADGRL2 expression
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADGRL2/451548_43.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADGRL2/451548_43.jpg
   location: Forebrain, Neural Plate/Tube
   source: Bell et al. 2004
   source_label: Bell et al. 2004
@@ -334,7 +352,7 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LATROPHILIN2.Bell.2004.Fig.6
     latrophilin2.png
 - caption: ADGRL2 expression
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADGRL2/451548_44.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADGRL2/451548_44.jpg
   location: null
   source: Bell et al. 2004
   source_label: Bell et al. 2004
@@ -363,6 +381,27 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Vezain.2018_Fig 3allimages.jpg
 name: adhesion G protein-coupled receptor L2
 ncbi_id: '451548'
+orthologs:
+- ensembl: ENSG00000197580
+  entrez: '83875'
+  mod: MIM:611740
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000032066
+  entrez: '170752'
+  mod: MGI:2177469
+  phenotypes: ''
+  species: Mouse
+- ensembl: ENSXETG00000026012
+  entrez: '100487224'
+  mod: ''
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000055722
+  entrez: '793849'
+  mod: ZFIN:ZDB-GENE-030131-8039
+  phenotypes: ''
+  species: Zebrafish
 reverse_primer: ATTAACCCTCACTAAAGGTTCACAGAACTGCGAGGTCC
 sources:
 - name: GEISHA
@@ -375,33 +414,31 @@ species: Gallus gallus
 symbol: ADGRL2
 template_length: '895'
 title: ADGRL2
-orthologs:
-- species: Human
-  entrez_id: '83875'
-  ensembl_id: ENSG00000197580
-  mod_id: MIM:611740
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '170752'
-  ensembl_id: ENSMUSG00000032066
-  mod_id: MGI:2177469
-  phenotypes: ''
-- species: Xenopus
-  entrez_id: '100487224'
-  ensembl_id: ENSXETG00000026012
-  mod_id: ''
-  phenotypes: ''
-- species: Zebrafish
-  entrez_id: '793849'
-  ensembl_id: ENSDARG00000055722
-  mod_id: ZFIN:ZDB-GENE-030131-8039
-  phenotypes: ''
 ---
-
-
-
 
 # ADGRL2
 
 **adhesion G protein-coupled receptor L2**
+
+## External Links
+
+- [Genomic Map](https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000008871)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001190477)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:424545)
+- [Reverse cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+- [Citation](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Bell+Antin+GEISHA+screen)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+
+**Copyright**: Copyright © 2004 Wiley-Liss, Inc.
+**Comments**: Insufficient information provided in publication to verify exact sequence used to synthesize probe. Sequence was obtained from NCBI (NM_001190477.1).  Adgrl2 is also known as LPHN2 in NCBI.
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Human | [ENSG00000197580](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197580) | [83875](https://www.ncbi.nlm.nih.gov/gene/83875) | [MIM:611740](https://omim.org/entry/611740) |  |
+| Mouse | [ENSMUSG00000032066](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032066) | [170752](https://www.ncbi.nlm.nih.gov/gene/170752) | [MGI:2177469](http://www.informatics.jax.org/marker/MGI:2177469) |  |
+| Xenopus | [ENSXETG00000026012](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000026012) | [100487224](https://www.ncbi.nlm.nih.gov/gene/100487224) |  |  |
+| Zebrafish | [ENSDARG00000055722](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000055722) | [793849](https://www.ncbi.nlm.nih.gov/gene/793849) | [ZFIN:ZDB-GENE-030131-8039](https://zfin.org/ZDB-GENE-030131-8039) |  |
 

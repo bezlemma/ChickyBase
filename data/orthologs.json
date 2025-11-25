@@ -1,112 +1,4 @@
 {
-  "461015": [
-    {
-      "species": "Human",
-      "entrez_id": "2876",
-      "ensembl_id": "ENSG00000233276",
-      "mod_id": "MIM:138320",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "14775",
-      "ensembl_id": "ENSMUSG00000063856",
-      "mod_id": "MGI:104887",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "548457",
-      "ensembl_id": "ENSXETG00000005933",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "447895",
-      "ensembl_id": "ENSDARG00000006207",
-      "mod_id": "ZFIN:ZDB-GENE-040912-60",
-      "phenotypes": ""
-    }
-  ],
-  "448694": [
-    {
-      "species": "Human",
-      "entrez_id": "10209",
-      "ensembl_id": "ENSG00000173812",
-      "mod_id": "MIM:619901",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "448694",
-      "ensembl_id": "ENSXETG00000025051",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "322237",
-      "ensembl_id": "ENSDARG00000012688",
-      "mod_id": "ZFIN:ZDB-GENE-030131-956",
-      "phenotypes": ""
-    }
-  ],
-  "455730": [
-    {
-      "species": "Human",
-      "entrez_id": "57139",
-      "ensembl_id": "ENSG00000205517",
-      "mod_id": "MIM:616743",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "71746",
-      "ensembl_id": "ENSMUSG00000040146",
-      "mod_id": "MGI:1918996",
-      "phenotypes": ""
-    }
-  ],
-  "462551": [
-    {
-      "species": "Human",
-      "entrez_id": "394263",
-      "ensembl_id": "ENSG00000204544",
-      "mod_id": "MIM:616991",
-      "phenotypes": ""
-    }
-  ],
-  "416244": [
-    {
-      "species": "Human",
-      "entrez_id": "8728",
-      "ensembl_id": "ENSG00000135074",
-      "mod_id": "MIM:603640",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "11492",
-      "ensembl_id": "ENSMUSG00000011256",
-      "mod_id": "MGI:105377",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "677730",
-      "ensembl_id": "ENSXETG00000034170",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "571252",
-      "ensembl_id": "ENSDARG00000067545",
-      "mod_id": "ZFIN:ZDB-GENE-070705-541",
-      "phenotypes": ""
-    }
-  ],
   "463478": [
     {
       "species": "Human",
@@ -137,179 +29,94 @@
       "phenotypes": ""
     }
   ],
-  "458114": [
+  "458047": [
     {
       "species": "Human",
-      "entrez_id": "57325",
-      "ensembl_id": "ENSG00000149474",
-      "mod_id": "MIM:617501",
+      "entrez_id": "10528",
+      "ensembl_id": "ENSG00000101361",
+      "mod_id": "MIM:614154",
       "phenotypes": ""
     },
     {
       "species": "Mouse",
-      "entrez_id": "228714",
-      "ensembl_id": "ENSMUSG00000027425",
-      "mod_id": "MGI:1917264",
-      "phenotypes": ""
+      "entrez_id": "67134",
+      "ensembl_id": "ENSMUSG00000027405",
+      "mod_id": "MGI:1914384",
+      "phenotypes": "All phenotypic alleles (8):Targeted, knock-out(4) Targeted, other(4)"
     },
     {
       "species": "Xenopus",
-      "entrez_id": "780135",
-      "ensembl_id": "ENSXETG00000013798",
+      "entrez_id": "733535",
+      "ensembl_id": "ENSXETG00000014962",
       "mod_id": "",
       "phenotypes": ""
     },
     {
       "species": "Zebrafish",
-      "entrez_id": "562636",
-      "ensembl_id": "ENSDARG00000041708",
-      "mod_id": "ZFIN:ZDB-GENE-040718-452",
-      "phenotypes": ""
+      "entrez_id": "394196",
+      "ensembl_id": "ENSDARG00000012820",
+      "mod_id": "ZFIN:ZDB-GENE-040109-1",
+      "phenotypes": "ZDB-GENE-041130-1"
     }
   ],
-  "463028": [
+  "461812": [
     {
       "species": "Human",
-      "entrez_id": "57221",
-      "ensembl_id": "ENSG00000112379",
-      "mod_id": "MIM:617411",
-      "phenotypes": ""
+      "entrez_id": "689",
+      "ensembl_id": "ENSG00000145741",
+      "mod_id": "MIM:602542",
+      "phenotypes": "MIM:142946"
     },
     {
       "species": "Mouse",
-      "entrez_id": "215821",
-      "ensembl_id": "ENSMUSG00000019852",
-      "mod_id": "MGI:106387",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "562652",
-      "ensembl_id": "ENSDARG00000077656",
-      "mod_id": "ZFIN:ZDB-GENE-081107-37",
-      "phenotypes": ""
-    }
-  ],
-  "462156": [
-    {
-      "species": "Human",
-      "entrez_id": "80762",
-      "ensembl_id": "ENSG00000131507",
-      "mod_id": "MIM:612050",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "65113",
-      "ensembl_id": "ENSMUSG00000024425",
-      "mod_id": "MGI:1929601",
-      "phenotypes": ""
+      "entrez_id": "218490",
+      "ensembl_id": "ENSMUSG00000021660",
+      "mod_id": "MGI:1202875",
+      "phenotypes": "All phenotypic alleles (8):Targeted, knock-out(4) Targeted, other(4)"
     },
     {
       "species": "Xenopus",
-      "entrez_id": "613097",
-      "ensembl_id": "ENSXETG00000019569",
+      "entrez_id": "549451",
+      "ensembl_id": "ENSXETG00000016819",
       "mod_id": "",
       "phenotypes": ""
     },
     {
       "species": "Zebrafish",
-      "entrez_id": "324047",
-      "ensembl_id": "ENSDARG00000013979",
-      "mod_id": "ZFIN:ZDB-GENE-030131-2767",
-      "phenotypes": ""
+      "entrez_id": "556625",
+      "ensembl_id": "ENSDARG00000035400",
+      "mod_id": "ZFIN:ZDB-GENE-030131-8731",
+      "phenotypes": "ZDB-GENE-030131-475"
     }
   ],
-  "454526": [
+  "451175": [
     {
       "species": "Human",
-      "entrez_id": "147007",
-      "ensembl_id": "ENSG00000244045",
-      "mod_id": "MIM:616815",
+      "entrez_id": "4722",
+      "ensembl_id": "ENSG00000213619",
+      "mod_id": "MIM:603846",
       "phenotypes": ""
     },
     {
       "species": "Mouse",
-      "entrez_id": "195040",
-      "ensembl_id": "ENSMUSG00000051232",
-      "mod_id": "MGI:2144113",
-      "phenotypes": ""
+      "entrez_id": "68349",
+      "ensembl_id": "ENSMUSG00000005510",
+      "mod_id": "MGI:1915599",
+      "phenotypes": "All phenotypic alleles (8):Targeted, knock-out(1) Targeted, other(7)"
     },
     {
       "species": "Xenopus",
-      "entrez_id": "100145125",
-      "ensembl_id": "ENSXETG00000023795",
+      "entrez_id": "394690",
+      "ensembl_id": "ENSXETG00000019932",
       "mod_id": "",
       "phenotypes": ""
     },
     {
       "species": "Zebrafish",
-      "entrez_id": "100001648",
-      "ensembl_id": "ENSDARG00000069314",
-      "mod_id": "ZFIN:ZDB-GENE-050522-150",
-      "phenotypes": ""
-    }
-  ],
-  "449586": [
-    {
-      "species": "Human",
-      "entrez_id": "348",
-      "ensembl_id": "ENSG00000130203",
-      "mod_id": "MIM:107741",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "11816",
-      "ensembl_id": "ENSMUSG00000002985",
-      "mod_id": "MGI:88057",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "394678",
-      "ensembl_id": "ENSXETG00000035511",
-      "mod_id": "",
-      "phenotypes": ""
-    }
-  ],
-  "457424": [
-    {
-      "species": "Human",
-      "entrez_id": "3428",
-      "ensembl_id": "ENSG00000163565",
-      "mod_id": "MIM:147586",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "102639543",
-      "ensembl_id": "ENSMUSG00000037849",
-      "mod_id": "MGI:3646410",
-      "phenotypes": ""
-    }
-  ],
-  "460311": [
-    {
-      "species": "Human",
-      "entrez_id": "7047",
-      "ensembl_id": "ENSG00000281886",
-      "mod_id": "MIM:600585",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "331046",
-      "ensembl_id": "ENSMUSG00000025787",
-      "mod_id": "MGI:3027002",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "100488625",
-      "ensembl_id": "ENSXETG00000008494",
-      "mod_id": "",
-      "phenotypes": ""
+      "entrez_id": "550451",
+      "ensembl_id": "ENSDARG00000015385",
+      "mod_id": "ZFIN:ZDB-GENE-050417-274",
+      "phenotypes": "ZDB-GENE-070111-2,ZDB-GENE-080415-3"
     }
   ],
   "450709": [
@@ -335,543 +142,57 @@
       "phenotypes": ""
     }
   ],
-  "459197": [
+  "448944": [
     {
       "species": "Human",
-      "entrez_id": "10736",
-      "ensembl_id": "ENSG00000170577",
-      "mod_id": "MIM:604994",
+      "entrez_id": "80764",
+      "ensembl_id": "ENSG00000184436",
+      "mod_id": "MIM:609518",
       "phenotypes": ""
     },
     {
       "species": "Mouse",
-      "entrez_id": "20472",
-      "ensembl_id": "ENSMUSG00000024134",
-      "mod_id": "MGI:102778",
-      "phenotypes": ""
+      "entrez_id": "69009",
+      "ensembl_id": "ENSMUSG00000022760",
+      "mod_id": "MGI:1916259",
+      "phenotypes": "All phenotypic alleles (9):Spontaneous(2) Chemically induced(2) Targeted, knock-out(3) Targeted, other(1) Transgenic(1)"
     },
     {
       "species": "Xenopus",
-      "entrez_id": "100101784",
-      "ensembl_id": "ENSXETG00000026158",
+      "entrez_id": "733766",
+      "ensembl_id": "ENSXETG00000019248",
       "mod_id": "",
       "phenotypes": ""
     },
     {
       "species": "Zebrafish",
-      "entrez_id": "83415",
-      "ensembl_id": "ENSDARG00000058004",
-      "mod_id": "ZFIN:ZDB-GENE-010412-1",
-      "phenotypes": ""
+      "entrez_id": "100006965",
+      "ensembl_id": "ENSDARG00000070704",
+      "mod_id": "ZFIN:ZDB-GENE-040914-84",
+      "phenotypes": "ZDB-GENE-030131-9008"
     }
   ],
-  "451227": [
+  "448694": [
     {
       "species": "Human",
-      "entrez_id": "79080",
-      "ensembl_id": "ENSG00000110104",
-      "mod_id": "MIM:611293",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "108673",
-      "ensembl_id": "ENSMUSG00000024732",
-      "mod_id": "MGI:1277220",
+      "entrez_id": "10209",
+      "ensembl_id": "ENSG00000173812",
+      "mod_id": "MIM:619901",
       "phenotypes": ""
     },
     {
       "species": "Xenopus",
-      "entrez_id": "101733466",
-      "ensembl_id": "ENSXETG00000037483",
-      "mod_id": "",
-      "phenotypes": ""
-    }
-  ],
-  "451525": [
-    {
-      "species": "Human",
-      "entrez_id": "55531",
-      "ensembl_id": "ENSG00000110675",
-      "mod_id": "MIM:615456",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "270162",
-      "ensembl_id": "ENSMUSG00000041986",
-      "mod_id": "MGI:3583900",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "779768",
-      "ensembl_id": "ENSXETG00000038960",
+      "entrez_id": "448694",
+      "ensembl_id": "ENSXETG00000025051",
       "mod_id": "",
       "phenotypes": ""
     },
     {
       "species": "Zebrafish",
-      "entrez_id": "791199",
-      "ensembl_id": "ENSDARG00000113222",
-      "mod_id": "ZFIN:ZDB-GENE-070112-262",
-      "phenotypes": ""
-    }
-  ],
-  "454064": [
-    {
-      "species": "Human",
-      "entrez_id": "9726",
-      "ensembl_id": "ENSG00000167395",
-      "mod_id": "MIM:619299",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "233905",
-      "ensembl_id": "ENSMUSG00000049739",
-      "mod_id": "MGI:3665412",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "101732255",
-      "ensembl_id": "ENSXETG00000036016",
-      "mod_id": "",
-      "phenotypes": ""
-    }
-  ],
-  "448801": [
-    {
-      "species": "Mouse",
-      "entrez_id": "328780",
-      "ensembl_id": "ENSMUSG00000056399",
-      "mod_id": "MGI:2681414",
-      "phenotypes": ""
-    }
-  ],
-  "453133": [
-    {
-      "species": "Human",
-      "entrez_id": "12",
-      "ensembl_id": "ENSG00000196136",
-      "mod_id": "MIM:107280",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "20717",
-      "ensembl_id": "ENSMUSG00000079012",
-      "mod_id": "MGI:98378",
-      "phenotypes": ""
-    }
-  ],
-  "459355": [
-    {
-      "species": "Human",
-      "entrez_id": "129293",
-      "ensembl_id": "ENSG00000186854",
-      "mod_id": "MIM:614912",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "100491951",
-      "ensembl_id": "ENSXETG00000013102",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "564021",
-      "ensembl_id": "ENSDARG00000089701",
-      "mod_id": "ZFIN:ZDB-GENE-030131-4053",
-      "phenotypes": ""
-    }
-  ],
-  "454619": [
-    {
-      "species": "Human",
-      "entrez_id": "9349",
-      "ensembl_id": "ENSG00000125691",
-      "mod_id": "MIM:603662",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "65019",
-      "ensembl_id": "ENSMUSG00000071415",
-      "mod_id": "MGI:1929455",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "496667",
-      "ensembl_id": "ENSXETG00000049411",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "336812",
-      "ensembl_id": "ENSDARG00000053457",
-      "mod_id": "ZFIN:ZDB-GENE-030131-8756",
-      "phenotypes": ""
-    }
-  ],
-  "456018": [
-    {
-      "species": "Human",
-      "entrez_id": "390928",
-      "ensembl_id": "ENSG00000183760",
-      "mod_id": "MIM:610490",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "101744",
-      "ensembl_id": "ENSMUSG00000037469",
-      "mod_id": "MGI:2142121",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "100486004",
-      "ensembl_id": "ENSXETG00000029991",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "571830",
-      "ensembl_id": "ENSDARG00000102421",
-      "mod_id": "ZFIN:ZDB-GENE-070615-9",
-      "phenotypes": ""
-    }
-  ],
-  "448856": [
-    {
-      "species": "Human",
-      "entrez_id": "6271",
-      "ensembl_id": "ENSG00000160678",
-      "mod_id": "MIM:176940",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "20193",
-      "ensembl_id": "ENSMUSG00000044080",
-      "mod_id": "MGI:1338917",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "101734724",
-      "ensembl_id": "ENSXETG00000038863",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "448856",
-      "ensembl_id": "ENSDARG00000015543",
-      "mod_id": "ZFIN:ZDB-GENE-040916-1",
-      "phenotypes": ""
-    }
-  ],
-  "448790": [
-    {
-      "species": "Human",
-      "entrez_id": "6364",
-      "ensembl_id": "ENSG00000115009",
-      "mod_id": "MIM:601960",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "20297",
-      "ensembl_id": "ENSMUSG00000026166",
-      "mod_id": "MGI:1329031",
-      "phenotypes": ""
-    }
-  ],
-  "461445": [
-    {
-      "species": "Human",
-      "entrez_id": "817",
-      "ensembl_id": "ENSG00000145349",
-      "mod_id": "MIM:607708",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "108058",
-      "ensembl_id": "ENSMUSG00000053819",
-      "mod_id": "MGI:1341265",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "100135023",
-      "ensembl_id": "ENSXETG00000015547",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "445208",
-      "ensembl_id": "ENSDARG00000043010",
-      "mod_id": "ZFIN:ZDB-GENE-040801-121",
-      "phenotypes": ""
-    }
-  ],
-  "461039": [
-    {
-      "species": "Human",
-      "entrez_id": "54872",
-      "ensembl_id": "ENSG00000174227",
-      "mod_id": "MIM:616918",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "433931",
-      "ensembl_id": "ENSMUSG00000029263",
-      "mod_id": "MGI:3576484",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "100487165",
-      "ensembl_id": "ENSXETG00000003720",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "100538291",
-      "ensembl_id": "ENSDARG00000038270",
-      "mod_id": "ZFIN:ZDB-GENE-141215-6",
-      "phenotypes": ""
-    }
-  ],
-  "454926": [
-    {
-      "species": "Human",
-      "entrez_id": "9267",
-      "ensembl_id": "ENSG00000108669",
-      "mod_id": "MIM:182115",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "19157",
-      "ensembl_id": "ENSMUSG00000017132",
-      "mod_id": "MGI:1334257",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "448569",
-      "ensembl_id": "ENSXETG00000024577",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "321938",
-      "ensembl_id": "ENSDARG00000076742",
-      "mod_id": "ZFIN:ZDB-GENE-030131-657",
-      "phenotypes": ""
-    }
-  ],
-  "468371": [
-    {
-      "species": "Human",
-      "entrez_id": "9487",
-      "ensembl_id": "ENSG00000108474",
-      "mod_id": "MIM:605947",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "327942",
-      "ensembl_id": "ENSMUSG00000014245",
-      "mod_id": "MGI:2681271",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "100495759",
-      "ensembl_id": "ENSXETG00000038618",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "561471",
-      "ensembl_id": "ENSDARG00000067752",
-      "mod_id": "ZFIN:ZDB-GENE-050506-60",
-      "phenotypes": ""
-    }
-  ],
-  "461042": [
-    {
-      "species": "Human",
-      "entrez_id": "521",
-      "ensembl_id": "ENSG00000169020",
-      "mod_id": "MIM:601519",
-      "phenotypes": ""
-    }
-  ],
-  "452149": [
-    {
-      "species": "Human",
-      "entrez_id": "121441",
-      "ensembl_id": "ENSG00000139350",
-      "mod_id": "MIM:600372",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "17997",
-      "ensembl_id": "ENSMUSG00000019988",
-      "mod_id": "MGI:97293",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "779911",
-      "ensembl_id": "ENSXETG00000021683",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "406827",
-      "ensembl_id": "ENSDARG00000013472",
-      "mod_id": "ZFIN:ZDB-GENE-040426-2906",
-      "phenotypes": ""
-    }
-  ],
-  "459251": [
-    {
-      "species": "Human",
-      "entrez_id": "55120",
-      "ensembl_id": "ENSG00000115392",
-      "mod_id": "MIM:608111",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "67030",
-      "ensembl_id": "ENSMUSG00000004018",
-      "mod_id": "MGI:1914280",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "493212",
-      "ensembl_id": "ENSXETG00000020481",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "406255",
-      "ensembl_id": "ENSDARG00000007885",
-      "mod_id": "ZFIN:ZDB-GENE-040426-1045",
-      "phenotypes": ""
-    }
-  ],
-  "461812": [
-    {
-      "species": "Human",
-      "entrez_id": "689",
-      "ensembl_id": "ENSG00000145741",
-      "mod_id": "MIM:602542",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "218490",
-      "ensembl_id": "ENSMUSG00000021660",
-      "mod_id": "MGI:1202875",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "549451",
-      "ensembl_id": "ENSXETG00000016819",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "556625",
-      "ensembl_id": "ENSDARG00000035400",
-      "mod_id": "ZFIN:ZDB-GENE-030131-8731",
-      "phenotypes": ""
-    }
-  ],
-  "456673": [
-    {
-      "species": "Human",
-      "entrez_id": "84958",
-      "ensembl_id": "ENSG00000142765",
-      "mod_id": "MIM:608042",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "269589",
-      "ensembl_id": "ENSMUSG00000028860",
-      "mod_id": "MGI:1933365",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "448459",
-      "ensembl_id": "ENSXETG00000020676",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "565707",
-      "ensembl_id": "ENSDARG00000003381",
-      "mod_id": "ZFIN:ZDB-GENE-131121-599",
-      "phenotypes": ""
-    }
-  ],
-  "454434": [
-    {
-      "species": "Human",
-      "entrez_id": "5026",
-      "ensembl_id": "ENSG00000083454",
-      "mod_id": "MIM:602836",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "94045",
-      "ensembl_id": "ENSMUSG00000005950",
-      "mod_id": "MGI:2137026",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "100485445",
-      "ensembl_id": "ENSXETG00000032944",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "373879",
-      "ensembl_id": "ENSDARG00000004455",
-      "mod_id": "ZFIN:ZDB-GENE-030319-5",
-      "phenotypes": ""
+      "entrez_id": "322237",
+      "ensembl_id": "ENSDARG00000012688",
+      "mod_id": "ZFIN:ZDB-GENE-030131-956",
+      "phenotypes": "ZDB-GENE-041014-291"
     }
   ],
   "509500": [
@@ -904,248 +225,20 @@
       "phenotypes": ""
     }
   ],
-  "448944": [
-    {
-      "species": "Human",
-      "entrez_id": "80764",
-      "ensembl_id": "ENSG00000184436",
-      "mod_id": "MIM:609518",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "69009",
-      "ensembl_id": "ENSMUSG00000022760",
-      "mod_id": "MGI:1916259",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "733766",
-      "ensembl_id": "ENSXETG00000019248",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "100006965",
-      "ensembl_id": "ENSDARG00000070704",
-      "mod_id": "ZFIN:ZDB-GENE-040914-84",
-      "phenotypes": ""
-    }
-  ],
-  "462785": [
-    {
-      "species": "Human",
-      "entrez_id": "222584",
-      "ensembl_id": "ENSG00000168143",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "208994",
-      "ensembl_id": "ENSMUSG00000032358",
-      "mod_id": "MGI:2685362",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "100495584",
-      "ensembl_id": "ENSXETG00000001621",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "568458",
-      "ensembl_id": "ENSDARG00000078309",
-      "mod_id": "ZFIN:ZDB-GENE-030131-7066",
-      "phenotypes": ""
-    }
-  ],
-  "461795": [
-    {
-      "species": "Human",
-      "entrez_id": "55255",
-      "ensembl_id": "ENSG00000164253",
-      "mod_id": "MIM:617502",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "218460",
-      "ensembl_id": "ENSMUSG00000042015",
-      "mod_id": "MGI:2445123",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "571294",
-      "ensembl_id": "ENSDARG00000009851",
-      "mod_id": "ZFIN:ZDB-GENE-050706-152",
-      "phenotypes": ""
-    }
-  ],
-  "458047": [
-    {
-      "species": "Human",
-      "entrez_id": "10528",
-      "ensembl_id": "ENSG00000101361",
-      "mod_id": "MIM:614154",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "67134",
-      "ensembl_id": "ENSMUSG00000027405",
-      "mod_id": "MGI:1914384",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "733535",
-      "ensembl_id": "ENSXETG00000014962",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "394196",
-      "ensembl_id": "ENSDARG00000012820",
-      "mod_id": "ZFIN:ZDB-GENE-040109-1",
-      "phenotypes": ""
-    }
-  ],
-  "467991": [
-    {
-      "species": "Human",
-      "entrez_id": "1003",
-      "ensembl_id": "ENSG00000179776",
-      "mod_id": "MIM:601120",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "12562",
-      "ensembl_id": "ENSMUSG00000031871",
-      "mod_id": "MGI:105057",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "100488458",
-      "ensembl_id": "ENSXETG00000020009",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "445471",
-      "ensembl_id": "ENSDARG00000075549",
-      "mod_id": "ZFIN:ZDB-GENE-040816-1",
-      "phenotypes": ""
-    }
-  ],
-  "450420": [
-    {
-      "species": "Human",
-      "entrez_id": "8187",
-      "ensembl_id": "ENSG00000196793",
-      "mod_id": "MIM:601069",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "22685",
-      "ensembl_id": "ENSMUSG00000042097",
-      "mod_id": "MGI:1306812",
-      "phenotypes": ""
-    }
-  ],
-  "461668": [
-    {
-      "species": "Human",
-      "entrez_id": "11341",
-      "ensembl_id": "ENSG00000164106",
-      "mod_id": "MIM:603163",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "20284",
-      "ensembl_id": "ENSMUSG00000031610",
-      "mod_id": "MGI:1328308",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "108645703",
-      "ensembl_id": "ENSXETG00000036235",
-      "mod_id": "",
-      "phenotypes": ""
-    }
-  ],
-  "463213": [
-    {
-      "species": "Human",
-      "entrez_id": "54905",
-      "ensembl_id": "ENSG00000073067",
-      "mod_id": "MIM:615967",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "545817",
-      "ensembl_id": "ENSMUSG00000029541",
-      "mod_id": "MGI:3616076",
-      "phenotypes": ""
-    }
-  ],
-  "460595": [
-    {
-      "species": "Human",
-      "entrez_id": "79691",
-      "ensembl_id": "ENSG00000151576",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "106248",
-      "ensembl_id": "ENSMUSG00000022704",
-      "mod_id": "MGI:1922194",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "549645",
-      "ensembl_id": "ENSXETG00000002805",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "402798",
-      "ensembl_id": "ENSDARG00000016093",
-      "mod_id": "ZFIN:ZDB-GENE-060427-4",
-      "phenotypes": ""
-    }
-  ],
   "453518": [
     {
       "species": "Human",
       "entrez_id": "54878",
       "ensembl_id": "ENSG00000074603",
       "mod_id": "MIM:606819",
-      "phenotypes": ""
+      "phenotypes": "MIM:247200"
     },
     {
       "species": "Mouse",
       "entrez_id": "74388",
       "ensembl_id": "ENSMUSG00000032393",
       "mod_id": "MGI:1921638",
-      "phenotypes": ""
+      "phenotypes": "All phenotypic alleles (6):Targeted, knock-out(1) Targeted, other(5)"
     },
     {
       "species": "Xenopus",
@@ -1155,34 +248,34 @@
       "phenotypes": ""
     }
   ],
-  "450135": [
+  "461015": [
     {
       "species": "Human",
-      "entrez_id": "7291",
-      "ensembl_id": "ENSG00000122691",
-      "mod_id": "MIM:601622",
-      "phenotypes": ""
+      "entrez_id": "2876",
+      "ensembl_id": "ENSG00000233276",
+      "mod_id": "MIM:138320",
+      "phenotypes": "MIM:190090"
     },
     {
       "species": "Mouse",
-      "entrez_id": "22160",
-      "ensembl_id": "ENSMUSG00000035799",
-      "mod_id": "MGI:98872",
-      "phenotypes": ""
+      "entrez_id": "14775",
+      "ensembl_id": "ENSMUSG00000063856",
+      "mod_id": "MGI:104887",
+      "phenotypes": "All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)"
     },
     {
       "species": "Xenopus",
-      "entrez_id": "395054",
-      "ensembl_id": "ENSXETG00000025630",
+      "entrez_id": "548457",
+      "ensembl_id": "ENSXETG00000005933",
       "mod_id": "",
       "phenotypes": ""
     },
     {
       "species": "Zebrafish",
-      "entrez_id": "550518",
-      "ensembl_id": "ENSDARG00000076010",
-      "mod_id": "ZFIN:ZDB-GENE-050417-357",
-      "phenotypes": ""
+      "entrez_id": "447895",
+      "ensembl_id": "ENSDARG00000006207",
+      "mod_id": "ZFIN:ZDB-GENE-040912-60",
+      "phenotypes": "ZDB-GENE-030131-3809"
     }
   ],
   "460583": [
@@ -1191,43 +284,96 @@
       "entrez_id": "4345",
       "ensembl_id": "ENSG00000091972",
       "mod_id": "MIM:155970",
-      "phenotypes": ""
+      "phenotypes": "MIM:613660"
     },
     {
       "species": "Mouse",
       "entrez_id": "17470",
       "ensembl_id": "ENSMUSG00000022661",
       "mod_id": "MGI:1196990",
-      "phenotypes": ""
+      "phenotypes": "All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)"
     }
   ],
-  "451175": [
+  "459251": [
     {
       "species": "Human",
-      "entrez_id": "4722",
-      "ensembl_id": "ENSG00000213619",
-      "mod_id": "MIM:603846",
+      "entrez_id": "55120",
+      "ensembl_id": "ENSG00000115392",
+      "mod_id": "MIM:608111",
       "phenotypes": ""
     },
     {
       "species": "Mouse",
-      "entrez_id": "68349",
-      "ensembl_id": "ENSMUSG00000005510",
-      "mod_id": "MGI:1915599",
-      "phenotypes": ""
+      "entrez_id": "67030",
+      "ensembl_id": "ENSMUSG00000004018",
+      "mod_id": "MGI:1914280",
+      "phenotypes": "All phenotypic alleles (1):Targeted, knock-out(1)"
     },
     {
       "species": "Xenopus",
-      "entrez_id": "394690",
-      "ensembl_id": "ENSXETG00000019932",
+      "entrez_id": "493212",
+      "ensembl_id": "ENSXETG00000020481",
       "mod_id": "",
       "phenotypes": ""
     },
     {
       "species": "Zebrafish",
-      "entrez_id": "550451",
-      "ensembl_id": "ENSDARG00000015385",
-      "mod_id": "ZFIN:ZDB-GENE-050417-274",
+      "entrez_id": "406255",
+      "ensembl_id": "ENSDARG00000007885",
+      "mod_id": "ZFIN:ZDB-GENE-040426-1045",
+      "phenotypes": "ZDB-GENE-050417-94"
+    }
+  ],
+  "458114": [
+    {
+      "species": "Human",
+      "entrez_id": "57325",
+      "ensembl_id": "ENSG00000149474",
+      "mod_id": "MIM:617501",
+      "phenotypes": "MIM:613670"
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "228714",
+      "ensembl_id": "ENSMUSG00000027425",
+      "mod_id": "MGI:1917264",
+      "phenotypes": "All phenotypic alleles (7):Targeted, knock-out(2) Targeted, other(4) Gene trapped(1)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "780135",
+      "ensembl_id": "ENSXETG00000013798",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "562636",
+      "ensembl_id": "ENSDARG00000041708",
+      "mod_id": "ZFIN:ZDB-GENE-040718-452",
+      "phenotypes": "ZDB-GENE-041203-1,ZDB-GENE-060929-624"
+    }
+  ],
+  "461150": [
+    {
+      "species": "Human",
+      "entrez_id": "23231",
+      "ensembl_id": "ENSG00000091490",
+      "mod_id": "MIM:619914",
+      "phenotypes": "MIM:105150"
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "231238",
+      "ensembl_id": "ENSMUSG00000029189",
+      "mod_id": "MGI:1916941",
+      "phenotypes": "All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "100492622",
+      "ensembl_id": "ENSXETG00000000947",
+      "mod_id": "",
       "phenotypes": ""
     }
   ],
@@ -1261,33 +407,171 @@
       "phenotypes": ""
     }
   ],
-  "458790": [
+  "457424": [
     {
       "species": "Human",
-      "entrez_id": "4174",
-      "ensembl_id": "ENSG00000100297",
-      "mod_id": "MIM:602696",
+      "entrez_id": "3428",
+      "ensembl_id": "ENSG00000163565",
+      "mod_id": "MIM:147586",
       "phenotypes": ""
     },
     {
       "species": "Mouse",
-      "entrez_id": "17218",
-      "ensembl_id": "ENSMUSG00000005410",
-      "mod_id": "MGI:103197",
+      "entrez_id": "102639543",
+      "ensembl_id": "ENSMUSG00000037849",
+      "mod_id": "MGI:3646410",
+      "phenotypes": "All phenotypic alleles (3):Targeted, knock-out(1) Targeted, other(2)"
+    }
+  ],
+  "453133": [
+    {
+      "species": "Human",
+      "entrez_id": "12",
+      "ensembl_id": "ENSG00000196136",
+      "mod_id": "MIM:107280",
       "phenotypes": ""
     },
     {
+      "species": "Mouse",
+      "entrez_id": "20717",
+      "ensembl_id": "ENSMUSG00000079012",
+      "mod_id": "MGI:98378",
+      "phenotypes": "All phenotypic alleles (2):Targeted, other(2)"
+    }
+  ],
+  "456018": [
+    {
+      "species": "Human",
+      "entrez_id": "390928",
+      "ensembl_id": "ENSG00000183760",
+      "mod_id": "MIM:610490",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "101744",
+      "ensembl_id": "ENSMUSG00000037469",
+      "mod_id": "MGI:2142121",
+      "phenotypes": "All phenotypic alleles (1):Targeted, knock-out(1)"
+    },
+    {
       "species": "Xenopus",
-      "entrez_id": "550081",
-      "ensembl_id": "ENSXETG00000000253",
+      "entrez_id": "100486004",
+      "ensembl_id": "ENSXETG00000029991",
       "mod_id": "",
       "phenotypes": ""
     },
     {
       "species": "Zebrafish",
-      "entrez_id": "286747",
-      "ensembl_id": "ENSDARG00000019507",
-      "mod_id": "ZFIN:ZDB-GENE-021209-1",
+      "entrez_id": "571830",
+      "ensembl_id": "ENSDARG00000102421",
+      "mod_id": "ZFIN:ZDB-GENE-070615-9",
+      "phenotypes": "ZDB-GENE-061207-93"
+    }
+  ],
+  "451227": [
+    {
+      "species": "Human",
+      "entrez_id": "79080",
+      "ensembl_id": "ENSG00000110104",
+      "mod_id": "MIM:611293",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "108673",
+      "ensembl_id": "ENSMUSG00000024732",
+      "mod_id": "MGI:1277220",
+      "phenotypes": "All phenotypic alleles (4):Targeted, knock-out(2) Targeted, other(1) Gene trapped(1)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "101733466",
+      "ensembl_id": "ENSXETG00000037483",
+      "mod_id": "",
+      "phenotypes": ""
+    }
+  ],
+  "454064": [
+    {
+      "species": "Human",
+      "entrez_id": "9726",
+      "ensembl_id": "ENSG00000167395",
+      "mod_id": "MIM:619299",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "233905",
+      "ensembl_id": "ENSMUSG00000049739",
+      "mod_id": "MGI:3665412",
+      "phenotypes": "All phenotypic alleles (2):Targeted, other(2)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "101732255",
+      "ensembl_id": "ENSXETG00000036016",
+      "mod_id": "",
+      "phenotypes": ""
+    }
+  ],
+  "454526": [
+    {
+      "species": "Human",
+      "entrez_id": "147007",
+      "ensembl_id": "ENSG00000244045",
+      "mod_id": "MIM:616815",
+      "phenotypes": "MIM:254800"
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "195040",
+      "ensembl_id": "ENSMUSG00000051232",
+      "mod_id": "MGI:2144113",
+      "phenotypes": "All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "100145125",
+      "ensembl_id": "ENSXETG00000023795",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "100001648",
+      "ensembl_id": "ENSDARG00000069314",
+      "mod_id": "ZFIN:ZDB-GENE-050522-150",
+      "phenotypes": "ZDB-GENE-061013-189,ZDB-GENE-040426-1065,ZDB-GENE-091118-10"
+    }
+  ],
+  "462785": [
+    {
+      "species": "Human",
+      "entrez_id": "222584",
+      "ensembl_id": "ENSG00000168143",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "208994",
+      "ensembl_id": "ENSMUSG00000032358",
+      "mod_id": "MGI:2685362",
+      "phenotypes": ""
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "100495584",
+      "ensembl_id": "ENSXETG00000001621",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "568458",
+      "ensembl_id": "ENSDARG00000078309",
+      "mod_id": "ZFIN:ZDB-GENE-030131-7066",
       "phenotypes": ""
     }
   ],
@@ -1304,12 +588,834 @@
       "entrez_id": "228576",
       "ensembl_id": "ENSMUSG00000027377",
       "mod_id": "MGI:2385152",
-      "phenotypes": ""
+      "phenotypes": "All phenotypic alleles (5):Targeted, knock-out(3) Targeted, other(2)"
     },
     {
       "species": "Xenopus",
       "entrez_id": "100135069",
       "ensembl_id": "ENSXETG00000026715",
+      "mod_id": "",
+      "phenotypes": ""
+    }
+  ],
+  "462551": [
+    {
+      "species": "Human",
+      "entrez_id": "394263",
+      "ensembl_id": "ENSG00000204544",
+      "mod_id": "MIM:616991",
+      "phenotypes": ""
+    }
+  ],
+  "454926": [
+    {
+      "species": "Human",
+      "entrez_id": "9267",
+      "ensembl_id": "ENSG00000108669",
+      "mod_id": "MIM:182115",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "19157",
+      "ensembl_id": "ENSMUSG00000017132",
+      "mod_id": "MGI:1334257",
+      "phenotypes": "All phenotypic alleles (2):Targeted, other(2)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "448569",
+      "ensembl_id": "ENSXETG00000024577",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "321938",
+      "ensembl_id": "ENSDARG00000076742",
+      "mod_id": "ZFIN:ZDB-GENE-030131-657",
+      "phenotypes": "ZDB-GENE-090312-181"
+    }
+  ],
+  "459197": [
+    {
+      "species": "Human",
+      "entrez_id": "10736",
+      "ensembl_id": "ENSG00000170577",
+      "mod_id": "MIM:604994",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "20472",
+      "ensembl_id": "ENSMUSG00000024134",
+      "mod_id": "MGI:102778",
+      "phenotypes": ""
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "100101784",
+      "ensembl_id": "ENSXETG00000026158",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "83415",
+      "ensembl_id": "ENSDARG00000058004",
+      "mod_id": "ZFIN:ZDB-GENE-010412-1",
+      "phenotypes": ""
+    }
+  ],
+  "458381": [
+    {
+      "species": "Human",
+      "entrez_id": "6874",
+      "ensembl_id": "ENSG00000280529",
+      "mod_id": "MIM:601796",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "228980",
+      "ensembl_id": "ENSMUSG00000039117",
+      "mod_id": "MGI:2152346",
+      "phenotypes": "All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "779738",
+      "ensembl_id": "ENSXETG00000001996",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "100149942",
+      "ensembl_id": "ENSDARG00000068192",
+      "mod_id": "ZFIN:ZDB-GENE-131127-579",
+      "phenotypes": "ZDB-GENE-060421-7142,ZDB-GENE-081105-45,ZDB-GENE-081105-45"
+    }
+  ],
+  "459355": [
+    {
+      "species": "Human",
+      "entrez_id": "129293",
+      "ensembl_id": "ENSG00000186854",
+      "mod_id": "MIM:614912",
+      "phenotypes": ""
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "100491951",
+      "ensembl_id": "ENSXETG00000013102",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "564021",
+      "ensembl_id": "ENSDARG00000089701",
+      "mod_id": "ZFIN:ZDB-GENE-030131-4053",
+      "phenotypes": "ZDB-GENE-081104-374,ZDB-GENE-090311-17"
+    }
+  ],
+  "454619": [
+    {
+      "species": "Human",
+      "entrez_id": "9349",
+      "ensembl_id": "ENSG00000125691",
+      "mod_id": "MIM:603662",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "65019",
+      "ensembl_id": "ENSMUSG00000071415",
+      "mod_id": "MGI:1929455",
+      "phenotypes": "All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "496667",
+      "ensembl_id": "ENSXETG00000049411",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "336812",
+      "ensembl_id": "ENSDARG00000053457",
+      "mod_id": "ZFIN:ZDB-GENE-030131-8756",
+      "phenotypes": "ZDB-GENE-081105-26,ZDB-GENE-040426-1001"
+    }
+  ],
+  "468371": [
+    {
+      "species": "Human",
+      "entrez_id": "9487",
+      "ensembl_id": "ENSG00000108474",
+      "mod_id": "MIM:605947",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "327942",
+      "ensembl_id": "ENSMUSG00000014245",
+      "mod_id": "MGI:2681271",
+      "phenotypes": ""
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "100495759",
+      "ensembl_id": "ENSXETG00000038618",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "561471",
+      "ensembl_id": "ENSDARG00000067752",
+      "mod_id": "ZFIN:ZDB-GENE-050506-60",
+      "phenotypes": ""
+    }
+  ],
+  "461039": [
+    {
+      "species": "Human",
+      "entrez_id": "54872",
+      "ensembl_id": "ENSG00000174227",
+      "mod_id": "MIM:616918",
+      "phenotypes": "MIM:188570"
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "433931",
+      "ensembl_id": "ENSMUSG00000029263",
+      "mod_id": "MGI:3576484",
+      "phenotypes": "All phenotypic alleles (14):Targeted, knock-out(3) Targeted, other(11)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "100487165",
+      "ensembl_id": "ENSXETG00000003720",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "100538291",
+      "ensembl_id": "ENSDARG00000038270",
+      "mod_id": "ZFIN:ZDB-GENE-141215-6",
+      "phenotypes": "ZDB-GENE-990415-268"
+    }
+  ],
+  "448801": [
+    {
+      "species": "Mouse",
+      "entrez_id": "328780",
+      "ensembl_id": "ENSMUSG00000056399",
+      "mod_id": "MGI:2681414",
+      "phenotypes": ""
+    }
+  ],
+  "460311": [
+    {
+      "species": "Human",
+      "entrez_id": "7047",
+      "ensembl_id": "ENSG00000281886",
+      "mod_id": "MIM:600585",
+      "phenotypes": "MIM:144010"
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "331046",
+      "ensembl_id": "ENSMUSG00000025787",
+      "mod_id": "MGI:3027002",
+      "phenotypes": "All phenotypic alleles (13):Targeted, knock-out(4) Targeted, other(9)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "100488625",
+      "ensembl_id": "ENSXETG00000008494",
+      "mod_id": "",
+      "phenotypes": ""
+    }
+  ],
+  "461795": [
+    {
+      "species": "Human",
+      "entrez_id": "55255",
+      "ensembl_id": "ENSG00000164253",
+      "mod_id": "MIM:617502",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "218460",
+      "ensembl_id": "ENSMUSG00000042015",
+      "mod_id": "MGI:2445123",
+      "phenotypes": "All phenotypic alleles (2):Targeted, knock-out(1) Targeted, other(1)"
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "571294",
+      "ensembl_id": "ENSDARG00000009851",
+      "mod_id": "ZFIN:ZDB-GENE-050706-152",
+      "phenotypes": "ZDB-GENE-100319-2,ZDB-GENE-100322-1"
+    }
+  ],
+  "462156": [
+    {
+      "species": "Human",
+      "entrez_id": "80762",
+      "ensembl_id": "ENSG00000131507",
+      "mod_id": "MIM:612050",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "65113",
+      "ensembl_id": "ENSMUSG00000024425",
+      "mod_id": "MGI:1929601",
+      "phenotypes": "All phenotypic alleles (2):Targeted, knock-out(2)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "613097",
+      "ensembl_id": "ENSXETG00000019569",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "324047",
+      "ensembl_id": "ENSDARG00000013979",
+      "mod_id": "ZFIN:ZDB-GENE-030131-2767",
+      "phenotypes": "ZDB-GENE-030131-2860"
+    }
+  ],
+  "461042": [
+    {
+      "species": "Human",
+      "entrez_id": "521",
+      "ensembl_id": "ENSG00000169020",
+      "mod_id": "MIM:601519",
+      "phenotypes": "MIM:107970"
+    }
+  ],
+  "454434": [
+    {
+      "species": "Human",
+      "entrez_id": "5026",
+      "ensembl_id": "ENSG00000083454",
+      "mod_id": "MIM:602836",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "94045",
+      "ensembl_id": "ENSMUSG00000005950",
+      "mod_id": "MGI:2137026",
+      "phenotypes": ""
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "100485445",
+      "ensembl_id": "ENSXETG00000032944",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "373879",
+      "ensembl_id": "ENSDARG00000004455",
+      "mod_id": "ZFIN:ZDB-GENE-030319-5",
+      "phenotypes": "ZDB-GENE-060610-1,ZDB-GENE-060612-1"
+    }
+  ],
+  "456673": [
+    {
+      "species": "Human",
+      "entrez_id": "84958",
+      "ensembl_id": "ENSG00000142765",
+      "mod_id": "MIM:608042",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "269589",
+      "ensembl_id": "ENSMUSG00000028860",
+      "mod_id": "MGI:1933365",
+      "phenotypes": "All phenotypic alleles (2):Targeted, other(2)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "448459",
+      "ensembl_id": "ENSXETG00000020676",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "565707",
+      "ensembl_id": "ENSDARG00000003381",
+      "mod_id": "ZFIN:ZDB-GENE-131121-599",
+      "phenotypes": "ZDB-GENE-040426-1557"
+    }
+  ],
+  "460595": [
+    {
+      "species": "Human",
+      "entrez_id": "79691",
+      "ensembl_id": "ENSG00000151576",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "106248",
+      "ensembl_id": "ENSMUSG00000022704",
+      "mod_id": "MGI:1922194",
+      "phenotypes": ""
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "549645",
+      "ensembl_id": "ENSXETG00000002805",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "402798",
+      "ensembl_id": "ENSDARG00000016093",
+      "mod_id": "ZFIN:ZDB-GENE-060427-4",
+      "phenotypes": ""
+    }
+  ],
+  "449569": [
+    {
+      "species": "Human",
+      "entrez_id": "7054",
+      "ensembl_id": "ENSG00000180176",
+      "mod_id": "MIM:191290",
+      "phenotypes": "MIM:223360"
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "21823",
+      "ensembl_id": "ENSMUSG00000000214",
+      "mod_id": "MGI:98735",
+      "phenotypes": "All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "100488900",
+      "ensembl_id": "ENSXETG00000014030",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "30384",
+      "ensembl_id": "ENSDARG00000109947",
+      "mod_id": "ZFIN:ZDB-GENE-990621-5",
+      "phenotypes": "ZDB-GENE-990621-3"
+    }
+  ],
+  "452149": [
+    {
+      "species": "Human",
+      "entrez_id": "121441",
+      "ensembl_id": "ENSG00000139350",
+      "mod_id": "MIM:600372",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "17997",
+      "ensembl_id": "ENSMUSG00000019988",
+      "mod_id": "MGI:97293",
+      "phenotypes": "All phenotypic alleles (2):Targeted, other(2)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "779911",
+      "ensembl_id": "ENSXETG00000021683",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "406827",
+      "ensembl_id": "ENSDARG00000013472",
+      "mod_id": "ZFIN:ZDB-GENE-040426-2906",
+      "phenotypes": "ZDB-GENE-021219-3"
+    }
+  ],
+  "461900": [
+    {
+      "species": "Human",
+      "entrez_id": "285636",
+      "ensembl_id": "ENSG00000205765",
+      "mod_id": "MIM:620266",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "106064",
+      "ensembl_id": "ENSMUSG00000041935",
+      "mod_id": "MGI:2146232",
+      "phenotypes": "All phenotypic alleles (4):Targeted, knock-out(3) Gene trapped(1)"
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "325885",
+      "ensembl_id": "ENSDARG00000054777",
+      "mod_id": "ZFIN:ZDB-GENE-030131-4610",
+      "phenotypes": "ZDB-GENE-000125-12,ZDB-GENE-090107-3"
+    }
+  ],
+  "457023": [
+    {
+      "species": "Human",
+      "entrez_id": "2672",
+      "ensembl_id": "ENSG00000162676",
+      "mod_id": "MIM:600871",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "14581",
+      "ensembl_id": "ENSMUSG00000029275",
+      "mod_id": "MGI:103170",
+      "phenotypes": "All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "100491774",
+      "ensembl_id": "ENSXETG00000023006",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "798697",
+      "ensembl_id": "ENSDARG00000044457",
+      "mod_id": "ZFIN:ZDB-GENE-040116-8",
+      "phenotypes": "ZDB-GENE-070705-541,ZDB-GENE-070813-1"
+    }
+  ],
+  "455225": [
+    {
+      "species": "Human",
+      "entrez_id": "8711",
+      "ensembl_id": "ENSG00000174292",
+      "mod_id": "MIM:608076",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "83813",
+      "ensembl_id": "ENSMUSG00000001583",
+      "mod_id": "MGI:1930958",
+      "phenotypes": "All phenotypic alleles (2):Targeted, knock-out(2)"
+    }
+  ],
+  "451525": [
+    {
+      "species": "Human",
+      "entrez_id": "55531",
+      "ensembl_id": "ENSG00000110675",
+      "mod_id": "MIM:615456",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "270162",
+      "ensembl_id": "ENSMUSG00000041986",
+      "mod_id": "MGI:3583900",
+      "phenotypes": "All phenotypic alleles (2):Targeted, other(2)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "779768",
+      "ensembl_id": "ENSXETG00000038960",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "791199",
+      "ensembl_id": "ENSDARG00000113222",
+      "mod_id": "ZFIN:ZDB-GENE-070112-262",
+      "phenotypes": "ZDB-GENE-081104-195,ZDB-GENE-060929-1006"
+    }
+  ],
+  "458790": [
+    {
+      "species": "Human",
+      "entrez_id": "4174",
+      "ensembl_id": "ENSG00000100297",
+      "mod_id": "MIM:602696",
+      "phenotypes": "MIM:194080"
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "17218",
+      "ensembl_id": "ENSMUSG00000005410",
+      "mod_id": "MGI:103197",
+      "phenotypes": "All phenotypic alleles (17):Targeted, knock-out(6) Targeted, other(11)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "550081",
+      "ensembl_id": "ENSXETG00000000253",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "286747",
+      "ensembl_id": "ENSDARG00000019507",
+      "mod_id": "ZFIN:ZDB-GENE-021209-1",
+      "phenotypes": "ZDB-GENE-980526-558,ZDB-GENE-050420-319"
+    }
+  ],
+  "467991": [
+    {
+      "species": "Human",
+      "entrez_id": "1003",
+      "ensembl_id": "ENSG00000179776",
+      "mod_id": "MIM:601120",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "12562",
+      "ensembl_id": "ENSMUSG00000031871",
+      "mod_id": "MGI:105057",
+      "phenotypes": ""
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "100488458",
+      "ensembl_id": "ENSXETG00000020009",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "445471",
+      "ensembl_id": "ENSDARG00000075549",
+      "mod_id": "ZFIN:ZDB-GENE-040816-1",
+      "phenotypes": ""
+    }
+  ],
+  "461445": [
+    {
+      "species": "Human",
+      "entrez_id": "817",
+      "ensembl_id": "ENSG00000145349",
+      "mod_id": "MIM:607708",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "108058",
+      "ensembl_id": "ENSMUSG00000053819",
+      "mod_id": "MGI:1341265",
+      "phenotypes": "All phenotypic alleles (5):Targeted, knock-out(2) Targeted, other(3)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "100135023",
+      "ensembl_id": "ENSXETG00000015547",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "445208",
+      "ensembl_id": "ENSDARG00000043010",
+      "mod_id": "ZFIN:ZDB-GENE-040801-121",
+      "phenotypes": "ZDB-GENE-050419-35"
+    }
+  ],
+  "450135": [
+    {
+      "species": "Human",
+      "entrez_id": "7291",
+      "ensembl_id": "ENSG00000122691",
+      "mod_id": "MIM:601622",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "22160",
+      "ensembl_id": "ENSMUSG00000035799",
+      "mod_id": "MGI:98872",
+      "phenotypes": ""
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "395054",
+      "ensembl_id": "ENSXETG00000025630",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "550518",
+      "ensembl_id": "ENSDARG00000076010",
+      "mod_id": "ZFIN:ZDB-GENE-050417-357",
+      "phenotypes": ""
+    }
+  ],
+  "455730": [
+    {
+      "species": "Human",
+      "entrez_id": "57139",
+      "ensembl_id": "ENSG00000205517",
+      "mod_id": "MIM:616743",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "71746",
+      "ensembl_id": "ENSMUSG00000040146",
+      "mod_id": "MGI:1918996",
+      "phenotypes": "All phenotypic alleles (11):Targeted, knock-out(4) Targeted, other(7)"
+    }
+  ],
+  "461668": [
+    {
+      "species": "Human",
+      "entrez_id": "11341",
+      "ensembl_id": "ENSG00000164106",
+      "mod_id": "MIM:603163",
+      "phenotypes": "MIM:166710"
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "20284",
+      "ensembl_id": "ENSMUSG00000031610",
+      "mod_id": "MGI:1328308",
+      "phenotypes": "All phenotypic alleles (5):Targeted, knock-out(1) Targeted, other(4)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "108645703",
+      "ensembl_id": "ENSXETG00000036235",
+      "mod_id": "",
+      "phenotypes": ""
+    }
+  ],
+  "448856": [
+    {
+      "species": "Human",
+      "entrez_id": "6271",
+      "ensembl_id": "ENSG00000160678",
+      "mod_id": "MIM:176940",
+      "phenotypes": "MIM:605432"
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "20193",
+      "ensembl_id": "ENSMUSG00000044080",
+      "mod_id": "MGI:1338917",
+      "phenotypes": "All phenotypic alleles (6):Targeted, knock-out(4) Targeted, other(2)"
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "101734724",
+      "ensembl_id": "ENSXETG00000038863",
+      "mod_id": "",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "448856",
+      "ensembl_id": "ENSDARG00000015543",
+      "mod_id": "ZFIN:ZDB-GENE-040916-1",
+      "phenotypes": "ZDB-GENE-990415-4,ZDB-GENE-000823-8"
+    }
+  ],
+  "450420": [
+    {
+      "species": "Human",
+      "entrez_id": "8187",
+      "ensembl_id": "ENSG00000196793",
+      "mod_id": "MIM:601069",
+      "phenotypes": "MIM:182940"
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "22685",
+      "ensembl_id": "ENSMUSG00000042097",
+      "mod_id": "MGI:1306812",
+      "phenotypes": "All phenotypic alleles (40):Spontaneous(17) Chemically induced(5) Radiation induced(15) Targeted, other(2) Transgenic(1)"
+    }
+  ],
+  "463028": [
+    {
+      "species": "Human",
+      "entrez_id": "57221",
+      "ensembl_id": "ENSG00000112379",
+      "mod_id": "MIM:617411",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "215821",
+      "ensembl_id": "ENSMUSG00000019852",
+      "mod_id": "MGI:106387",
+      "phenotypes": ""
+    },
+    {
+      "species": "Zebrafish",
+      "entrez_id": "562652",
+      "ensembl_id": "ENSDARG00000077656",
+      "mod_id": "ZFIN:ZDB-GENE-081107-37",
+      "phenotypes": "ZDB-GENE-030521-13,ZDB-GENE-040812-3"
+    }
+  ],
+  "448790": [
+    {
+      "species": "Human",
+      "entrez_id": "6364",
+      "ensembl_id": "ENSG00000115009",
+      "mod_id": "MIM:601960",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "20297",
+      "ensembl_id": "ENSMUSG00000026166",
+      "mod_id": "MGI:1329031",
+      "phenotypes": ""
+    }
+  ],
+  "455423": [
+    {
+      "species": "Human",
+      "entrez_id": "51320",
+      "ensembl_id": "ENSG00000176624",
+      "mod_id": "MIM:611005",
+      "phenotypes": ""
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "240396",
+      "ensembl_id": "ENSMUSG00000037253",
+      "mod_id": "MGI:2652843",
+      "phenotypes": ""
+    },
+    {
+      "species": "Xenopus",
+      "entrez_id": "549821",
+      "ensembl_id": "ENSXETG00000022367",
       "mod_id": "",
       "phenotypes": ""
     }
@@ -1344,148 +1450,42 @@
       "phenotypes": ""
     }
   ],
-  "458381": [
+  "463213": [
     {
       "species": "Human",
-      "entrez_id": "6874",
-      "ensembl_id": "ENSG00000280529",
-      "mod_id": "MIM:601796",
+      "entrez_id": "54905",
+      "ensembl_id": "ENSG00000073067",
+      "mod_id": "MIM:615967",
       "phenotypes": ""
     },
     {
       "species": "Mouse",
-      "entrez_id": "228980",
-      "ensembl_id": "ENSMUSG00000039117",
-      "mod_id": "MGI:2152346",
-      "phenotypes": ""
+      "entrez_id": "545817",
+      "ensembl_id": "ENSMUSG00000029541",
+      "mod_id": "MGI:3616076",
+      "phenotypes": "All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)"
+    }
+  ],
+  "449586": [
+    {
+      "species": "Human",
+      "entrez_id": "348",
+      "ensembl_id": "ENSG00000130203",
+      "mod_id": "MIM:107741",
+      "phenotypes": "MIM:609307"
+    },
+    {
+      "species": "Mouse",
+      "entrez_id": "11816",
+      "ensembl_id": "ENSMUSG00000002985",
+      "mod_id": "MGI:88057",
+      "phenotypes": "All phenotypic alleles (1):Targeted, other(1)"
     },
     {
       "species": "Xenopus",
-      "entrez_id": "779738",
-      "ensembl_id": "ENSXETG00000001996",
+      "entrez_id": "394678",
+      "ensembl_id": "ENSXETG00000035511",
       "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "100149942",
-      "ensembl_id": "ENSDARG00000068192",
-      "mod_id": "ZFIN:ZDB-GENE-131127-579",
-      "phenotypes": ""
-    }
-  ],
-  "449569": [
-    {
-      "species": "Human",
-      "entrez_id": "7054",
-      "ensembl_id": "ENSG00000180176",
-      "mod_id": "MIM:191290",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "21823",
-      "ensembl_id": "ENSMUSG00000000214",
-      "mod_id": "MGI:98735",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "100488900",
-      "ensembl_id": "ENSXETG00000014030",
-      "mod_id": "",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "30384",
-      "ensembl_id": "ENSDARG00000109947",
-      "mod_id": "ZFIN:ZDB-GENE-990621-5",
-      "phenotypes": ""
-    }
-  ],
-  "455423": [
-    {
-      "species": "Human",
-      "entrez_id": "51320",
-      "ensembl_id": "ENSG00000176624",
-      "mod_id": "MIM:611005",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "240396",
-      "ensembl_id": "ENSMUSG00000037253",
-      "mod_id": "MGI:2652843",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "549821",
-      "ensembl_id": "ENSXETG00000022367",
-      "mod_id": "",
-      "phenotypes": ""
-    }
-  ],
-  "461900": [
-    {
-      "species": "Human",
-      "entrez_id": "285636",
-      "ensembl_id": "ENSG00000205765",
-      "mod_id": "MIM:620266",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "106064",
-      "ensembl_id": "ENSMUSG00000041935",
-      "mod_id": "MGI:2146232",
-      "phenotypes": ""
-    },
-    {
-      "species": "Zebrafish",
-      "entrez_id": "325885",
-      "ensembl_id": "ENSDARG00000054777",
-      "mod_id": "ZFIN:ZDB-GENE-030131-4610",
-      "phenotypes": ""
-    }
-  ],
-  "461150": [
-    {
-      "species": "Human",
-      "entrez_id": "23231",
-      "ensembl_id": "ENSG00000091490",
-      "mod_id": "MIM:619914",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "231238",
-      "ensembl_id": "ENSMUSG00000029189",
-      "mod_id": "MGI:1916941",
-      "phenotypes": ""
-    },
-    {
-      "species": "Xenopus",
-      "entrez_id": "100492622",
-      "ensembl_id": "ENSXETG00000000947",
-      "mod_id": "",
-      "phenotypes": ""
-    }
-  ],
-  "455225": [
-    {
-      "species": "Human",
-      "entrez_id": "8711",
-      "ensembl_id": "ENSG00000174292",
-      "mod_id": "MIM:608076",
-      "phenotypes": ""
-    },
-    {
-      "species": "Mouse",
-      "entrez_id": "83813",
-      "ensembl_id": "ENSMUSG00000001583",
-      "mod_id": "MGI:1930958",
       "phenotypes": ""
     }
   ]

@@ -1,6 +1,23 @@
 ---
+aliases:
+- cyclin-dependent kinase 7
+cgnc_id: '10969'
+external_ids:
+  '25': stage 25stage 25
+  Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Robb+Antin+candidate+coloboma
+  Comments: As insufficient information is provided in publication to verify exact
+    sequence used to synthesize probe, the sequence below was obtained from NCBI XM_001234586.3
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Copyright: This is an open-access article distributed under the terms of the Creative
+    Commons Attribution License, which permits unrestricted use, distribution, and
+    reproduction in any medium, provided the original author and source are credited.
+  Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000014790
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:771294
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234586
 forward_primer: 5'-GTTCTTCTCGCCTTTTCCGC-3'
 gene_id: '448801'
+gene_type: protein-coding
 images:
 - caption: CDK7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDK7/448801_0.jpg
@@ -134,14 +151,14 @@ images:
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R592.CDK7.S26AA.001.jpg
 - caption: CDK7 expression
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDK7/448801_18.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDK7/448801_18.jpg
   location: Ubiquitous
   source: Robb et al. 2012
   source_label: Robb et al. 2012
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CDK7.HH25.Robb.2012.F3.cdk7.png
 - caption: CDK7 expression
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDK7/448801_19.png
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDK7/448801_19.jpg
   location: null
   source: Robb et al. 2012
   source_label: Robb et al. 2012
@@ -149,6 +166,12 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robb.2012.F3.cdk7.png
 name: cyclin dependent kinase 7
 ncbi_id: '448801'
+orthologs:
+- ensembl: ENSMUSG00000056399
+  entrez: '328780'
+  mod: MGI:2681414
+  phenotypes: ''
+  species: Mouse
 reverse_primer: 5'-AATTAACCCTCACTAAAGGAGCACAGTTTGGTCTGGGTAGCAG-3'
 sources:
 - name: GEISHA
@@ -161,18 +184,27 @@ species: Gallus gallus
 symbol: CDK7
 template_length: '962'
 title: CDK7
-orthologs:
-- species: Mouse
-  entrez_id: '328780'
-  ensembl_id: ENSMUSG00000056399
-  mod_id: MGI:2681414
-  phenotypes: ''
 ---
-
-
-
 
 # CDK7
 
 **cyclin dependent kinase 7**
+
+## External Links
+
+- [Genomic Map](https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000014790)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_001234586)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:771294)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+- [Citation](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Robb+Antin+candidate+coloboma)
+
+**Copyright**: This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+**Comments**: As insufficient information is provided in publication to verify exact sequence used to synthesize probe, the sequence below was obtained from NCBI XM_001234586.3
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Mouse | [ENSMUSG00000056399](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000056399) | [328780](https://www.ncbi.nlm.nih.gov/gene/328780) | [MGI:2681414](http://www.informatics.jax.org/marker/MGI:2681414) |  |
 

@@ -1,5 +1,17 @@
 ---
+aliases:
+- rap guanine nucleotide exchange factor 1
+cgnc_id: '2714'
+external_ids:
+  BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0259228
+  Comments: no specific expression detected at stage 12.
+  Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/31618
+  Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000003712
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:417173
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415456
 gene_id: '454619'
+gene_type: protein-coding
 images:
 - caption: RAPGEF1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RAPGEF1/454619_0.jpg
@@ -31,6 +43,33 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/54xe2.125.22xs.jpg
 name: Rap guanine nucleotide exchange factor 1
 ncbi_id: '454619'
+orthologs:
+- ensembl: ''
+  entrez: '31618'
+  mod: FBgn0259228
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ENSG00000107263
+  entrez: '2889'
+  mod: MIM:600303
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000039844
+  entrez: '107746'
+  mod: MGI:104580
+  phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2)
+    Gene trapped(1)
+  species: Mouse
+- ensembl: ''
+  entrez: 733953,444199
+  mod: '5729482'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000043593
+  entrez: 558635,394101
+  mod: ZFIN:ZDB-GENE-081105-26,ZFIN:ZDB-GENE-040426-1001
+  phenotypes: ZDB-GENE-081105-26,ZDB-GENE-040426-1001
+  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
@@ -41,33 +80,30 @@ sources:
 species: Gallus gallus
 symbol: RAPGEF1
 title: RAPGEF1
-orthologs:
-- species: Human
-  entrez_id: '9349'
-  ensembl_id: ENSG00000125691
-  mod_id: MIM:603662
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '65019'
-  ensembl_id: ENSMUSG00000071415
-  mod_id: MGI:1929455
-  phenotypes: ''
-- species: Xenopus
-  entrez_id: '496667'
-  ensembl_id: ENSXETG00000049411
-  mod_id: ''
-  phenotypes: ''
-- species: Zebrafish
-  entrez_id: '336812'
-  ensembl_id: ENSDARG00000053457
-  mod_id: ZFIN:ZDB-GENE-030131-8756
-  phenotypes: ''
 ---
-
-
-
 
 # RAPGEF1
 
 **Rap guanine nucleotide exchange factor 1**
+
+## External Links
+
+- [Genomic Map](https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000003712)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_415456)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [Fruit Fly](http://www.ncbi.nlm.nih.gov/gene/31618)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:417173)
+- [BDGP](http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0259228)
+
+**Comments**: no specific expression detected at stage 12.
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  | [31618](https://www.ncbi.nlm.nih.gov/gene/31618) | FBgn0259228 |  |
+| Human | [ENSG00000107263](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000107263) | [2889](https://www.ncbi.nlm.nih.gov/gene/2889) | [MIM:600303](https://omim.org/entry/600303) |  |
+| Mouse | [ENSMUSG00000039844](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000039844) | [107746](https://www.ncbi.nlm.nih.gov/gene/107746) | [MGI:104580](http://www.informatics.jax.org/marker/MGI:104580) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(2) Gene trapped(1) |
+| Xenopus |  | [733953](https://www.ncbi.nlm.nih.gov/gene/733953), [444199](https://www.ncbi.nlm.nih.gov/gene/444199) | [5729482](http://www.xenbase.org/gene/showgene.do?method=display&geneId=5729482) |  |
+| Zebrafish | [ENSDARG00000043593](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000043593) | [558635](https://www.ncbi.nlm.nih.gov/gene/558635), [394101](https://www.ncbi.nlm.nih.gov/gene/394101) | [ZFIN:ZDB-GENE-081105-26](https://zfin.org/ZDB-GENE-081105-26), [ZFIN:ZDB-GENE-040426-1001](https://zfin.org/ZDB-GENE-040426-1001) | ZDB-GENE-081105-26,ZDB-GENE-040426-1001 |
 

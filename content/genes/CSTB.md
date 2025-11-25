@@ -1,6 +1,17 @@
 ---
+aliases:
+- cystatin B (stefin B)
+cgnc_id: '10723'
+external_ids:
+  Comments: No specific expression detected stages 6-23 except that shown.
+  Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
+  Genomic Map: https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000014410
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:418267
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001198648
 forward_primer: 5’-GATACCAGAGCAGCAAGACC-3’
 gene_id: '454526'
+gene_type: protein-coding
 images:
 - caption: CSTB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CSTB/454526_0.jpg
@@ -63,6 +74,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/R651.CSTB.S24.001.jpg
 name: cystatin B
 ncbi_id: '454526'
+orthologs:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ''
+  entrez: '1476'
+  mod: MIM:601145
+  phenotypes: MIM:254800
+  species: Human
+- ensembl: ENSMUSG00000005054
+  entrez: '13014'
+  mod: MGI:109514
+  phenotypes: All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3)
+  species: Mouse
+- ensembl: ''
+  entrez: '100170534'
+  mod: '993561'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000045352,ENSDARG00000028164
+  entrez: 768128,792225,573769
+  mod: ZFIN:ZDB-GENE-061013-189,ZFIN:ZDB-GENE-040426-1065,ZFIN:ZDB-GENE-091118-10
+  phenotypes: ZDB-GENE-061013-189,ZDB-GENE-040426-1065,ZDB-GENE-091118-10
+  species: Zebrafish
 reverse_primer: 5’-AATTAACCCTCACTAAAGGCCAGTGCAGAAATGCTTGTCC-3’
 sources:
 - name: GEISHA
@@ -75,33 +112,29 @@ species: Gallus gallus
 symbol: CSTB
 template_length: '656'
 title: CSTB
-orthologs:
-- species: Human
-  entrez_id: '147007'
-  ensembl_id: ENSG00000244045
-  mod_id: MIM:616815
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '195040'
-  ensembl_id: ENSMUSG00000051232
-  mod_id: MGI:2144113
-  phenotypes: ''
-- species: Xenopus
-  entrez_id: '100145125'
-  ensembl_id: ENSXETG00000023795
-  mod_id: ''
-  phenotypes: ''
-- species: Zebrafish
-  entrez_id: '100001648'
-  ensembl_id: ENSDARG00000069314
-  mod_id: ZFIN:ZDB-GENE-050522-150
-  phenotypes: ''
 ---
-
-
-
 
 # CSTB
 
 **cystatin B**
+
+## External Links
+
+- [Genomic Map](https://www.ensembl.org/Multi/Search/Results?q=ENSGALG00000014410)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001198648)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:418267)
+- [Complete cDNA Template Probe](https://geisha.arizona.edu/geisha/#)
+
+**Comments**: No specific expression detected stages 6-23 except that shown.
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  |  |  |  |
+| Human |  | [1476](https://www.ncbi.nlm.nih.gov/gene/1476) | [MIM:601145](https://omim.org/entry/601145) | MIM:254800 |
+| Mouse | [ENSMUSG00000005054](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000005054) | [13014](https://www.ncbi.nlm.nih.gov/gene/13014) | [MGI:109514](http://www.informatics.jax.org/marker/MGI:109514) | All phenotypic alleles (4):Targeted, knock-out(1) Targeted, other(3) |
+| Xenopus |  | [100170534](https://www.ncbi.nlm.nih.gov/gene/100170534) | [993561](http://www.xenbase.org/gene/showgene.do?method=display&geneId=993561) |  |
+| Zebrafish | [ENSDARG00000045352](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000045352), [ENSDARG00000028164](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000028164) | [768128](https://www.ncbi.nlm.nih.gov/gene/768128), [792225](https://www.ncbi.nlm.nih.gov/gene/792225), [573769](https://www.ncbi.nlm.nih.gov/gene/573769) | [ZFIN:ZDB-GENE-061013-189](https://zfin.org/ZDB-GENE-061013-189), [ZFIN:ZDB-GENE-040426-1065](https://zfin.org/ZDB-GENE-040426-1065), [ZFIN:ZDB-GENE-091118-10](https://zfin.org/ZDB-GENE-091118-10) | ZDB-GENE-061013-189,ZDB-GENE-040426-1065,ZDB-GENE-091118-10 |
 

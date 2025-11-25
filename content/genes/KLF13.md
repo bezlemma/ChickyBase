@@ -1,5 +1,15 @@
 ---
+aliases:
+- Krueppel-like factor 13
+cgnc_id: '2788'
+external_ids:
+  Comments: No specific expression detected, stages 4-23.
+  Genomic Map: http://www.ncbi.nlm.nih.gov/gene/427493
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:427493
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425065
 gene_id: '455225'
+gene_type: protein-coding
 images:
 - caption: KLF13 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KLF13/455225_0.jpg
@@ -17,6 +27,32 @@ images:
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/klf13.210h10.149.all.jpg
 name: Kruppel like factor 13
 ncbi_id: '455225'
+orthologs:
+- ensembl: ''
+  entrez: ''
+  mod: ''
+  phenotypes: ''
+  species: Fruit Fly
+- ensembl: ENSG00000169926
+  entrez: '51621'
+  mod: MIM:605328
+  phenotypes: ''
+  species: Human
+- ensembl: ENSMUSG00000052040
+  entrez: '50794'
+  mod: MGI:1354948
+  phenotypes: All phenotypic alleles (2):Targeted, knock-out(2)
+  species: Mouse
+- ensembl: ''
+  entrez: '100101699'
+  mod: '479836'
+  phenotypes: ''
+  species: Xenopus
+- ensembl: ENSDARG00000061368
+  entrez: '767805'
+  mod: ZFIN:ZDB-GENE-060929-1274
+  phenotypes: ZDB-GENE-060929-1274
+  species: Zebrafish
 sources:
 - name: GEISHA
   type: database
@@ -27,23 +63,28 @@ sources:
 species: Gallus gallus
 symbol: KLF13
 title: KLF13
-orthologs:
-- species: Human
-  entrez_id: '8711'
-  ensembl_id: ENSG00000174292
-  mod_id: MIM:608076
-  phenotypes: ''
-- species: Mouse
-  entrez_id: '83813'
-  ensembl_id: ENSMUSG00000001583
-  mod_id: MGI:1930958
-  phenotypes: ''
 ---
-
-
-
 
 # KLF13
 
 **Kruppel like factor 13**
+
+## External Links
+
+- [Genomic Map](http://www.ncbi.nlm.nih.gov/gene/427493)
+- [Sequence Information](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_425065)
+- [In Situ Hybridization](https://geisha.arizona.edu/geisha/#)
+- [KEGG](http://www.genome.jp/dbget-bin/www_bget?gga:427493)
+
+**Comments**: No specific expression detected, stages 4-23.
+
+## Orthologs
+
+| Species | Ensembl | Entrez | MOD | Phenotypes |
+| --- | --- | --- | --- | --- |
+| Fruit Fly |  |  |  |  |
+| Human | [ENSG00000169926](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000169926) | [51621](https://www.ncbi.nlm.nih.gov/gene/51621) | [MIM:605328](https://omim.org/entry/605328) |  |
+| Mouse | [ENSMUSG00000052040](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000052040) | [50794](https://www.ncbi.nlm.nih.gov/gene/50794) | [MGI:1354948](http://www.informatics.jax.org/marker/MGI:1354948) | All phenotypic alleles (2):Targeted, knock-out(2) |
+| Xenopus |  | [100101699](https://www.ncbi.nlm.nih.gov/gene/100101699) | [479836](http://www.xenbase.org/gene/showgene.do?method=display&geneId=479836) |  |
+| Zebrafish | [ENSDARG00000061368](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000061368) | [767805](https://www.ncbi.nlm.nih.gov/gene/767805) | [ZFIN:ZDB-GENE-060929-1274](https://zfin.org/ZDB-GENE-060929-1274) | ZDB-GENE-060929-1274 |
 
