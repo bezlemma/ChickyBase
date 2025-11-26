@@ -61,22 +61,22 @@ images:
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_5.jpg
   location: Myocardium
-  source: Houwelin et al. 2002
-  source_label: Houwelin et al. 2002
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH9.Houwelin.2002.f6.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_6.jpg
   location: Lateral Plate Mesoderm
-  source: Houwelin et al. 2002
-  source_label: Houwelin et al. 2002
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH9.caudal.Houwelin.2002.f6.anf.png
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_7.jpg
   location: null
-  source: Houwelin et al. 2002
-  source_label: Houwelin et al. 2002
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ANF.HH9.mid.Houwelin.2002.f6.anf.png
 - caption: NPPA expression
@@ -96,8 +96,8 @@ images:
 - caption: NPPA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NPPA/450344_10.jpg
   location: null
-  source: Houwelin et al. 2002
-  source_label: Houwelin et al. 2002
+  source: Houweling et al. 2002
+  source_label: Houweling et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Houwelin.2002.f6.anf.png
 - caption: NPPA expression

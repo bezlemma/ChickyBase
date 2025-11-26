@@ -1859,24 +1859,24 @@ images:
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_257.jpg
   location: Pancreas
-  source: Ahnfeltoronne et al. 2010
-  source_label: Ahnfeltoronne et al. 2010
+  source: Ahnfeltronne et al. 2010
+  source_label: Ahnfeltronne et al. 2010
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.AhnfeltoRonne.2010.Fig.2
     bmp4 pancreas.png
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_258.jpg
   location: Stomach
-  source: Ahnfeltoronne et al. 2010
-  source_label: Ahnfeltoronne et al. 2010
+  source: Ahnfeltronne et al. 2010
+  source_label: Ahnfeltronne et al. 2010
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.AhnfeltoRonne.2010.Fig.2
     bmp4 stomach.png
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_259.jpg
   location: null
-  source: Ahnfeltoronne et al. 2010
-  source_label: Ahnfeltoronne et al. 2010
+  source: Ahnfeltronne et al. 2010
+  source_label: Ahnfeltronne et al. 2010
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.AhnfeltoRonne.2010.Fig.2.png
 - caption: BMP4 expression

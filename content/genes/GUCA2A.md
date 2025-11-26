@@ -19,47 +19,47 @@ images:
 - caption: GUCA2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GUCA2A/458634_0.jpg
   location: Extraembryonic
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GUCA2A_HH 12- x25
     dorsal.jpg
 - caption: GUCA2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GUCA2A/458634_1.jpg
   location: Extraembryonic
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GUCA2A_stage 12 b
     x25 dorsal.jpg
 - caption: GUCA2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GUCA2A/458634_2.jpg
   location: Extraembryonic, Neural Plate/Tube, Notochord
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GUCA2A_stage 12 x25.jpg
 - caption: GUCA2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GUCA2A/458634_3.jpg
   location: Yolk Sack or Stalk, extraembryonic endoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/stage 12_GUCA2A_150819-Image
     Export-02_s08.jpg
 - caption: GUCA2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GUCA2A/458634_4.jpg
   location: Yolk Sack or Stalk
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/stage 12_GUCA2A_150819-Image
     Export-02_s46.jpg
 - caption: GUCA2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GUCA2A/458634_5.jpg
   location: extraembryonic endoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/stage 12_GUCA2A_150819-Image
     Export-02_s66.jpg

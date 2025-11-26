@@ -135,56 +135,56 @@ images:
 - caption: EGR4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EGR4/452324_17.jpg
   location: Hindbrain
-  source: Nieo et al. 1995
-  source_label: Nieo et al. 1995
+  source: Nieto et al. 1995
+  source_label: Nieto et al. 1995
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KROX20.Nieo.1995.Fig.1
     krox20 st9plus.png
 - caption: EGR4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EGR4/452324_18.jpg
   location: Hindbrain
-  source: Nieo et al. 1995
-  source_label: Nieo et al. 1995
+  source: Nieto et al. 1995
+  source_label: Nieto et al. 1995
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KROX20.Nieo.1995.Fig.1
     krox20 latmt st10plus.png
 - caption: EGR4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EGR4/452324_19.jpg
   location: Hindbrain
-  source: Nieo et al. 1995
-  source_label: Nieo et al. 1995
+  source: Nieto et al. 1995
+  source_label: Nieto et al. 1995
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KROX20.Nieo.1995.Fig.1
     krox20 st10-.png
 - caption: EGR4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EGR4/452324_20.jpg
   location: Hindbrain
-  source: Nieo et al. 1995
-  source_label: Nieo et al. 1995
+  source: Nieto et al. 1995
+  source_label: Nieto et al. 1995
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KROX20.Nieo.1995.Fig.1
     krox20 st10plus.png
 - caption: EGR4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EGR4/452324_21.jpg
   location: Hindbrain
-  source: Nieo et al. 1995
-  source_label: Nieo et al. 1995
+  source: Nieto et al. 1995
+  source_label: Nieto et al. 1995
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KROX20.Nieo.1995.Fig.1
     krox20 ts st10plus.png
 - caption: EGR4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EGR4/452324_22.jpg
   location: Hindbrain
-  source: Nieo et al. 1995
-  source_label: Nieo et al. 1995
+  source: Nieto et al. 1995
+  source_label: Nieto et al. 1995
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KROX20.Nieo.1995.Fig.1
     krox20 st11plus.png
 - caption: EGR4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EGR4/452324_23.jpg
   location: null
-  source: Nieo et al. 1995
-  source_label: Nieo et al. 1995
+  source: Nieto et al. 1995
+  source_label: Nieto et al. 1995
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KROX20.Nieo.1995.Fig.1.png
 - caption: EGR4 expression

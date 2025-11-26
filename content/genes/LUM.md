@@ -23,16 +23,16 @@ images:
 - caption: LUM expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LUM/451844_0.jpg
   location: Heart
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LUMHH10 x25 ISH2.jpg
 - caption: LUM expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LUM/451844_1.jpg
   location: Extraembryonic Blood Vessels, Intermediate Mesoderm, Lateral Plate Mesoderm,
     Somites, extraembryonic ectoderm, extraembryonic endoderm, extraembryonic mesoderm
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LUMHH12 x25 ISH2.jpg
 - caption: LUM expression
@@ -40,79 +40,79 @@ images:
   location: Extraembryonic Blood Vessels, Head Mesenchyme, Intermediate Mesoderm,
     Lateral Plate Mesoderm, Pharynx, Somites, extraembryonic ectoderm, extraembryonic
     endoderm, extraembryonic mesoderm
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LUMHH12+ x25 ISH3.jpg
 - caption: LUM expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LUM/451844_3.jpg
   location: Dermomyotome, Lateral Plate Mesoderm, Sclerotome, extraembryonic ectoderm,
     extraembryonic endoderm, extraembryonic mesoderm
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LUMHH12+_Image Export-08_s04.jpg
 - caption: LUM expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LUM/451844_4.jpg
   location: Dermomyotome, Extraembryonic Blood Vessels, Head Mesenchyme, Lateral Plate
     Mesoderm, extraembryonic ectoderm, extraembryonic endoderm, extraembryonic mesoderm
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LUMHH12+_Image Export-08_s16.jpg
 - caption: LUM expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LUM/451844_5.jpg
   location: Extraembryonic Blood Vessels, Splanchnic Mesoderm, extraembryonic ectoderm,
     extraembryonic endoderm, extraembryonic mesoderm
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LUMHH12+_Image Export-08_s37.jpg
 - caption: LUM expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LUM/451844_6.jpg
   location: Extraembryonic Blood Vessels, Head Mesenchyme, Splanchnic Mesoderm, extraembryonic
     ectoderm, extraembryonic endoderm, extraembryonic mesoderm
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LUMHH12+_Image Export-08_s53.jpg
 - caption: LUM expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LUM/451844_7.jpg
   location: Blood Vessels, Extraembryonic Blood Vessels, Head Mesenchyme, Pharynx
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LUMHH12+_Image Export-08_s58.jpg
 - caption: LUM expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LUM/451844_8.jpg
   location: Dermomyotome, Lateral Plate Mesoderm, Sclerotome, extraembryonic ectoderm,
     extraembryonic endoderm, extraembryonic mesoderm
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LUMHH12_Image Export-07_s04.jpg
 - caption: LUM expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LUM/451844_9.jpg
   location: Dermomyotome, Lateral Plate Mesoderm, Sclerotome, extraembryonic ectoderm,
     extraembryonic endoderm, extraembryonic mesoderm
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LUMHH12_Image Export-07_s16.jpg
 - caption: LUM expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LUM/451844_10.jpg
   location: Dermomyotome, Lateral Plate Mesoderm, Sclerotome, extraembryonic ectoderm,
     extraembryonic endoderm, extraembryonic mesoderm
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LUMHH12_Image Export-07_s33.jpg
 - caption: LUM expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LUM/451844_11.jpg
   location: Extraembryonic Blood Vessels, Head Mesenchyme, Splanchnic Mesoderm, extraembryonic
     ectoderm, extraembryonic endoderm, extraembryonic mesoderm
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LUMHH12_Image Export-07_s45.jpg
 - caption: LUM expression

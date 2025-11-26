@@ -1156,43 +1156,43 @@ images:
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_159.jpg
   location: Early Endoderm, Primitive Streak
-  source: Lopez-sanchez et al. 2009
-  source_label: Lopez-sanchez et al. 2009
+  source: Lopez-Sanchez et al. 2009
+  source_label: Lopez-Sanchez et al. 2009
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fgf8.Lopez-Sanchez.2009.2cd.png
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_160.jpg
   location: Endoderm
-  source: Lopez-sanchez et al. 2009
-  source_label: Lopez-sanchez et al. 2009
+  source: Lopez-Sanchez et al. 2009
+  source_label: Lopez-Sanchez et al. 2009
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fgf8.Lopez-Sanchez.2009.2copy.png
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_161.jpg
   location: null
-  source: Lopez-sanchez et al. 2009
-  source_label: Lopez-sanchez et al. 2009
+  source: Lopez-Sanchez et al. 2009
+  source_label: Lopez-Sanchez et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fgf8.Lopez-Sanchez.2009.3.png
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_162.jpg
   location: Early Endoderm, Primitive Streak
-  source: Lopez-sanchez et al. 2009
-  source_label: Lopez-sanchez et al. 2009
+  source: Lopez-Sanchez et al. 2009
+  source_label: Lopez-Sanchez et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fgf8.Lopez-Sanchez.2009.3cd.png
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_163.jpg
   location: null
-  source: Lopez-sanchez et al. 2009
-  source_label: Lopez-sanchez et al. 2009
+  source: Lopez-Sanchez et al. 2009
+  source_label: Lopez-Sanchez et al. 2009
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fgf8.Lopez-Sanchez.2009.4.png
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_164.jpg
   location: Early Endoderm, Primitive Streak, Splanchnic Mesoderm
-  source: Lopez-sanchez et al. 2009
-  source_label: Lopez-sanchez et al. 2009
+  source: Lopez-Sanchez et al. 2009
+  source_label: Lopez-Sanchez et al. 2009
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fgf8.Lopez-Sanchez.2009.4cd.png
 - caption: FGF8 expression
@@ -2299,29 +2299,29 @@ images:
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_317.jpg
   location: Nasal Placode/Nerve
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.2_FGF8_G_ST22.jpg
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_318.jpg
   location: Nasal Placode/Nerve
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.3_FGF8_G_ST20.jpg
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_319.jpg
   location: null
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.2_All-images-4.jpg
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_320.jpg
   location: null
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.3_All_images-2.jpg
 - caption: FGF8 expression

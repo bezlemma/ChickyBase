@@ -24,50 +24,50 @@ images:
 - caption: MYL3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYL3/459559_0.jpg
   location: Extraembryonic Mesoderm, Lateral Plate Mesoderm
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYL3_HH 5+ b x30.jpg
 - caption: MYL3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYL3/459559_1.jpg
   location: Extraembryonic Mesoderm
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYL3_HH 7 x30.jpg
 - caption: MYL3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYL3/459559_2.jpg
   location: Extraembryonic Mesoderm
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYL3_HH8 x30 dorsal.jpg
 - caption: MYL3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYL3/459559_3.jpg
   location: Atria, Ventricles
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYL3_HH 9 x25.jpg
 - caption: MYL3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYL3/459559_4.jpg
   location: Atria, Ventricles
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYL3_HH 10 x25.jpg
 - caption: MYL3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYL3/459559_5.jpg
   location: Atria, Outflow Tract, Ventricles
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYL3_ HH12 x20 ventral.jpg
 - caption: MYL3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYL3/459559_6.jpg
   location: Atria, Outflow Tract, Ventricles
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYL3_HH 12+ x25.jpg
 - caption: MYL3 expression

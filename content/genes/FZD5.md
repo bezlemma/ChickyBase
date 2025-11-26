@@ -176,8 +176,8 @@ images:
 - caption: FZD5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD5/449555_22.jpg
   location: Duodenum, Gizzard, Hindgut
-  source: Thodosiou et al. 2003
-  source_label: Thodosiou et al. 2003
+  source: Theodosiou et al. 2003
+  source_label: Theodosiou et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fz8.Thodosiou.2003.1IT.png
 - caption: FZD5 expression

@@ -340,43 +340,43 @@ images:
 - caption: PITX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PITX2/450780_44.jpg
   location: Lateral Plate Mesoderm
-  source: Lopez-sanchez et al. 2009
-  source_label: Lopez-sanchez et al. 2009
+  source: Lopez-Sanchez et al. 2009
+  source_label: Lopez-Sanchez et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pitx2.Lopez-Sanchez.2009.2cd.png
 - caption: PITX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PITX2/450780_45.jpg
   location: null
-  source: Lopez-sanchez et al. 2009
-  source_label: Lopez-sanchez et al. 2009
+  source: Lopez-Sanchez et al. 2009
+  source_label: Lopez-Sanchez et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pitx2.Lopez-Sanchez.2009.3.2nd.png
 - caption: PITX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PITX2/450780_46.jpg
   location: null
-  source: Lopez-sanchez et al. 2009
-  source_label: Lopez-sanchez et al. 2009
+  source: Lopez-Sanchez et al. 2009
+  source_label: Lopez-Sanchez et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pitx2.Lopez-Sanchez.2009.3.png
 - caption: PITX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PITX2/450780_47.jpg
   location: Anterior/Second Heart Field, Splanchnic Mesoderm
-  source: Lopez-sanchez et al. 2009
-  source_label: Lopez-sanchez et al. 2009
+  source: Lopez-Sanchez et al. 2009
+  source_label: Lopez-Sanchez et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pitx2.Lopez-Sanchez.2009.3cd.png
 - caption: PITX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PITX2/450780_48.jpg
   location: null
-  source: Lopez-sanchez et al. 2009
-  source_label: Lopez-sanchez et al. 2009
+  source: Lopez-Sanchez et al. 2009
+  source_label: Lopez-Sanchez et al. 2009
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pitx2.Lopez-Sanchez.2009.4.png
 - caption: PITX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PITX2/450780_49.jpg
   location: Anterior/Second Heart Field, Lateral Plate Mesoderm, Splanchnic Mesoderm
-  source: Lopez-sanchez et al. 2009
-  source_label: Lopez-sanchez et al. 2009
+  source: Lopez-Sanchez et al. 2009
+  source_label: Lopez-Sanchez et al. 2009
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pitx2.Lopez-Sanchez.2009.4cd.png
 - caption: PITX2 expression

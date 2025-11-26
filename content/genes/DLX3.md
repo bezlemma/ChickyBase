@@ -189,22 +189,22 @@ images:
 - caption: DLX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX3/468731_24.jpg
   location: Ectoderm, Neural Plate/Tube
-  source: Bhat et al. 2008
-  source_label: Bhat et al. 2008
+  source: Bhatt et al. 2008
+  source_label: Bhatt et al. 2008
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX3.FIG1A.BHAT.2008.jpg
 - caption: DLX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX3/468731_25.jpg
   location: Ectoderm, Nasal Placcode/Nerve
-  source: Bhat et al. 2008
-  source_label: Bhat et al. 2008
+  source: Bhatt et al. 2008
+  source_label: Bhatt et al. 2008
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX3.FIG1D.BHAT.2008.jpg
 - caption: DLX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX3/468731_26.jpg
   location: Ectoderm, Nasal Placcode/Nerve
-  source: Bhat et al. 2008
-  source_label: Bhat et al. 2008
+  source: Bhatt et al. 2008
+  source_label: Bhatt et al. 2008
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX3.FIG1G.BHAT.2008.jpg
 - caption: DLX3 expression
@@ -217,8 +217,8 @@ images:
 - caption: DLX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX3/468731_28.jpg
   location: Ear/Otic Placcode, Nasal Placcode/Nerve, Pharyngeal Arches and Clefts
-  source: Bhat et al. 2008
-  source_label: Bhat et al. 2008
+  source: Bhatt et al. 2008
+  source_label: Bhatt et al. 2008
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX3.FIG2A.BHAT.2008.jpg
 - caption: DLX3 expression

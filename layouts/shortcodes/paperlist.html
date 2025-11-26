@@ -1,42 +1,16 @@
 <div class="not-prose">
-    <h2 class="text-2xl font-bold text-slate-900 mt-8 mb-4">Publications</h2>
-    <p class="text-slate-600 mb-6">Data in ChickyBase is sourced from {{ len .Site.Data.papers }} publications.</p>
-
-    <div class="space-y-6">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
         {{ range .Site.Data.papers }}
-        <div class="bg-white p-4 rounded-lg border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
-            {{ if eq .type "paper" }}
-            <h3 class="font-semibold text-slate-900">{{ .title }}</h3>
-            <p class="text-slate-600 text-sm">{{ .authors }} ({{ .year }})</p>
-            <div class="mt-2">
-                {{ if .url }}
-                <a href="{{ .url }}" target="_blank"
-                    class="text-primary hover:text-blue-700 text-sm font-medium inline-flex items-center">
-                    View Paper
-                    <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                            d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                    </svg>
-                </a>
-                {{ end }}
-            </div>
-            {{ else if eq .type "resolved" }}
-            <h3 class="font-semibold text-slate-900">{{ .title }}</h3>
-            <p class="text-slate-600 text-sm">{{ .authors }} ({{ .year }})</p>
-            <div class="mt-2">
-                <a href="{{ .url }}" target="_blank"
-                    class="text-primary hover:text-blue-700 text-sm font-medium inline-flex items-center">
-                    View Paper
-                    <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                            d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                    </svg>
-                </a>
-            </div>
-            {{ else }}
-            <h3 class="font-medium text-slate-900">{{ .citation }}</h3>
-            {{ end }}
+        {{ $display := replace .citation " et al. " " " }}
+        {{ if .resolved }}
+        <a href="{{ .url }}" target="_blank" class="block px-4 py-2 rounded-lg border shadow-sm hover:shadow-md transition-shadow" style="background-color: #007FFF; border-color: #0066CC;">
+            <span class="text-white">{{ $display }}</span>
+        </a>
+        {{ else }}
+        <div class="bg-white px-4 py-2 rounded-lg border border-slate-200 shadow-sm">
+            <span class="text-slate-900">{{ $display }}</span>
         </div>
+        {{ end }}
         {{ end }}
     </div>
 </div>

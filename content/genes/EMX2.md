@@ -97,43 +97,43 @@ images:
 - caption: EMX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMX2/452928_11.jpg
   location: null
-  source: Argawala et al. 2002
-  source_label: Argawala et al. 2002
+  source: Agarwala et al. 2002
+  source_label: Agarwala et al. 2002
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMX2.Argawala.2002.Figure1.panelA.JPG
 - caption: EMX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMX2/452928_12.jpg
   location: Midbrain
-  source: Argawala et al. 2002
-  source_label: Argawala et al. 2002
+  source: Agarwala et al. 2002
+  source_label: Agarwala et al. 2002
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMX2.Argawala.2002.Figure1.panelB.JPG
 - caption: EMX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMX2/452928_13.jpg
   location: null
-  source: Argawala et al. 2002
-  source_label: Argawala et al. 2002
+  source: Agarwala et al. 2002
+  source_label: Agarwala et al. 2002
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMX2.Argawala.2002.Figure7.panelA.JPG
 - caption: EMX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMX2/452928_14.jpg
   location: Midbrain
-  source: Argawala et al. 2002
-  source_label: Argawala et al. 2002
+  source: Agarwala et al. 2002
+  source_label: Agarwala et al. 2002
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMX2.Argawala.2002.Figure7.panelB.JPG
 - caption: EMX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMX2/452928_15.jpg
   location: Midbrain
-  source: Argawala et al. 2002
-  source_label: Argawala et al. 2002
+  source: Agarwala et al. 2002
+  source_label: Agarwala et al. 2002
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMX2.Argawala.2002.Figure7.panelC.JPG
 - caption: EMX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMX2/452928_16.jpg
   location: Midbrain
-  source: Argawala et al. 2002
-  source_label: Argawala et al. 2002
+  source: Agarwala et al. 2002
+  source_label: Agarwala et al. 2002
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMX2.Argawala.2002.Figure7.panelD.JPG
 - caption: EMX2 expression

@@ -40,8 +40,8 @@ images:
   location: Forebrain, Head Mesenchyme, Hindbrain, Intermediate Mesoderm, Lateral
     Plate Mesoderm, Midbrain, Neural Crest, Neural Plate/Tube, Notochord, Sinus Venosus,
     Somites, extraembryonic mesoderm
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MME_HH12 x25.jpg
 name: membrane metalloendopeptidase

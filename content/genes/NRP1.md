@@ -231,24 +231,24 @@ images:
 - caption: NRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NRP1/449537_28.jpg
   location: Blood Islands
-  source: Herzong et al. 2005
-  source_label: Herzong et al. 2005
+  source: Herzog et al. 2005
+  source_label: Herzog et al. 2005
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NP1.Herzong.2005.Fig.1
     np1 mag.png
 - caption: NRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NRP1/449537_29.jpg
   location: Anterior Intestinal Portal, Blood Islands, Intermediate Mesoderm
-  source: Herzong et al. 2005
-  source_label: Herzong et al. 2005
+  source: Herzog et al. 2005
+  source_label: Herzog et al. 2005
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NP1.Herzong.2005.Fig.1
     np1.png
 - caption: NRP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NRP1/449537_30.jpg
   location: null
-  source: Herzong et al. 2005
-  source_label: Herzong et al. 2005
+  source: Herzog et al. 2005
+  source_label: Herzog et al. 2005
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NP1.Herzong.2005.Fig.1.png
 - caption: NRP1 expression

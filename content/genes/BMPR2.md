@@ -219,15 +219,15 @@ images:
 - caption: BMPR2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMPR2/455159_26.jpg
   location: Eye
-  source: Hyre et al. 2003
-  source_label: Hyre et al. 2003
+  source: Hyer et al. 2003
+  source_label: Hyer et al. 2003
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMPRII.FIG5.HYRE.2003.jpg
 - caption: BMPR2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMPR2/455159_27.jpg
   location: null
-  source: Hyre et al. 2003
-  source_label: Hyre et al. 2003
+  source: Hyer et al. 2003
+  source_label: Hyer et al. 2003
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG5.HYRE.2003.jpg
 - caption: BMPR2 expression

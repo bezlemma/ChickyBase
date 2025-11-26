@@ -31,8 +31,8 @@ images:
 - caption: PDIA3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PDIA3/459358_0.jpg
   location: Somites, Wing
-  source: Pdia3roy et al. 2013
-  source_label: Pdia3roy et al. 2013
+  source: Roy et al. 2013
+  source_label: Roy et al. 2013
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PDIA3Roy.2013.SupF3.pdia3.png
 - caption: PDIA3 expression

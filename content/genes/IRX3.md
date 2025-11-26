@@ -19,8 +19,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IRX3/505323_0.jpg
   location: Ear/Otic Placode, Ectoderm, Endoderm, Head Mesenchyme, Lateral Plate Mesoderm,
     Outflow Tract, Yolk Sack or Stalk
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/2018_11_16__27362_IRX3_041018-Image
     Export-07_s12.jpg
@@ -28,16 +28,16 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IRX3/505323_1.jpg
   location: Dermomyotome, Ectoderm, Neural Crest, Neural Plate/Tube, Pharynx, Splanchnic
     Mesoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/2018_11_16__27362_IRX3_041018-Image
     Export-07_s18.jpg
 - caption: IRX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IRX3/505323_2.jpg
   location: Dermomyotome, Ectoderm, Endoderm, Lateral Plate Mesoderm, Neural Plate/Tube
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/2018_11_16__27362_IRX3_041018-Image
     Export-07_s34.jpg
@@ -46,8 +46,8 @@ images:
   location: Amnion, Anterior Intestinal Portal, Blood Islands, Ear/Otic Placode, Head
     Mesenchyme, Intermediate Mesoderm, Lateral Plate Mesoderm, Neural Plate/Tube,
     Notochord, Somites, Yolk Sack or Stalk, extraembryonic mesoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IRX3_HH12 x25.jpg
 - caption: IRX3 expression

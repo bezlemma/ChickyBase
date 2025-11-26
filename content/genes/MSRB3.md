@@ -18,37 +18,37 @@ images:
 - caption: MSRB3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSRB3/451731_0.jpg
   location: Primitive Streak
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSRB3_HH 3 x40.jpg
 - caption: MSRB3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSRB3/451731_1.jpg
   location: Epiblast, Primitive Streak
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSRB3_HH 4+ x40.jpg
 - caption: MSRB3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSRB3/451731_2.jpg
   location: Neural Plate/Tube
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSRB3_HH 8 x40.jpg
 - caption: MSRB3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSRB3/451731_3.jpg
   location: Blood Islands, Forebrain, Hindbrain, Midbrain, Neural Plate/Tube, extraembryonic
     mesoderm
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HSRB3_HH 10- x35.jpg
 - caption: MSRB3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSRB3/451731_4.jpg
   location: Forebrain, Midbrain, Neural Plate/Tube, Rhombomeres, Somites
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSRB3_HH 11x35.jpg
 name: methionine sulfoxide reductase B3

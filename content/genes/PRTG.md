@@ -58,15 +58,15 @@ images:
 - caption: PRTG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PRTG/461061_5.jpg
   location: Primitive Streak
-  source: Totyoda et al. 2005
-  source_label: Totyoda et al. 2005
+  source: Toyoda et al. 2005
+  source_label: Toyoda et al. 2005
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PROTOGENIN.FIG6A.TOTYODA.2005.jpg
 - caption: PRTG expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PRTG/461061_6.jpg
   location: Early Mesoderm, Epiblast, Primitive Streak
-  source: Totyoda et al. 2005
-  source_label: Totyoda et al. 2005
+  source: Toyoda et al. 2005
+  source_label: Toyoda et al. 2005
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PROTOGENIN.FIG6B7a.totyoda.2005.jpg
 - caption: PRTG expression

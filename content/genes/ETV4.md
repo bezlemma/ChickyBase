@@ -352,8 +352,8 @@ images:
 - caption: ETV4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ETV4/450366_44.jpg
   location: null
-  source: Blenitc et al. 2008
-  source_label: Blenitc et al. 2008
+  source: Blentic et al. 2008
+  source_label: Blentic et al. 2008
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PEA3.Blenitc.2008.Fig.6.png
 - caption: ETV4 expression

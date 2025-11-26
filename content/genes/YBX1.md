@@ -31,15 +31,15 @@ images:
 - caption: YBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/YBX1/459014_1.jpg
   location: null
-  source: Bandyopadahyay et al. 2008
-  source_label: Bandyopadahyay et al. 2008
+  source: Bandyopadhyay et al. 2008
+  source_label: Bandyopadhyay et al. 2008
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Bandyopadahyay.2008.f3.ybx1.png
 - caption: YBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/YBX1/459014_2.jpg
   location: Leg Bones
-  source: Bandyopadahyay et al. 2008
-  source_label: Bandyopadahyay et al. 2008
+  source: Bandyopadhyay et al. 2008
+  source_label: Bandyopadhyay et al. 2008
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/YBX1.Bandyopadahyay.2008.f3.ybx1.png
 - caption: YBX1 expression

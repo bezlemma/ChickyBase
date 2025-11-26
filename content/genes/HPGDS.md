@@ -29,16 +29,16 @@ images:
 - caption: HPGDS expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HPGDS/450779_0.jpg
   location: Extraembryonic, Head Mesenchyme, Hindbrain, Outflow Tract, Pharynx
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/2018_12_18__27952_HPGDS_040618-Image
     Export-02_s13.jpg
 - caption: HPGDS expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HPGDS/450779_1.jpg
   location: null
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/2018_12_18__27952_HPGDS_040618-Image
     Export-02_s15.jpg
@@ -47,8 +47,8 @@ images:
   location: Anterior Intestinal Portal, Blood Islands, Head Mesenchyme, Intermediate
     Mesoderm, Lateral Plate Mesoderm, Neural Plate/Tube, Notochord, Outflow Tract,
     Somites
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HPGDS_stage 12 x25.jpg
 - caption: HPGDS expression

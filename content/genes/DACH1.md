@@ -156,22 +156,22 @@ images:
 - caption: DACH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DACH1/459478_17.jpg
   location: Ectoderm, Neural Crest
-  source: Listiou et al. 2005
-  source_label: Listiou et al. 2005
+  source: Litsiou et al. 2005
+  source_label: Litsiou et al. 2005
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DACH1.HH6.Listiou.2005.f5.dach1.png
 - caption: DACH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DACH1/459478_18.jpg
   location: Ectoderm, Neural Crest
-  source: Listiou et al. 2005
-  source_label: Listiou et al. 2005
+  source: Litsiou et al. 2005
+  source_label: Litsiou et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DACH1.HH8.Listiou.2005.f5.dach1.png
 - caption: DACH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DACH1/459478_19.jpg
   location: null
-  source: Listiou et al. 2005
-  source_label: Listiou et al. 2005
+  source: Litsiou et al. 2005
+  source_label: Litsiou et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Listiou.2005.f5.dach1.png
 - caption: DACH1 expression

@@ -147,15 +147,15 @@ images:
 - caption: BMPR1A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMPR1A/461397_17.jpg
   location: Eye, Forebrain
-  source: Hyre et al. 2003
-  source_label: Hyre et al. 2003
+  source: Hyer et al. 2003
+  source_label: Hyer et al. 2003
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMPR1A.FIG5.HYRE.2003.jpg
 - caption: BMPR1A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMPR1A/461397_18.jpg
   location: null
-  source: Hyre et al. 2003
-  source_label: Hyre et al. 2003
+  source: Hyer et al. 2003
+  source_label: Hyer et al. 2003
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG5.HYRE.2003.jpg
 - caption: BMPR1A expression

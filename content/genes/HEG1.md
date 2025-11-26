@@ -21,8 +21,8 @@ images:
   location: Anterior Intestinal Portal, Aorta, Atria, Blood Islands, Ear/Otic Placode,
     Forebrain, Head Mesenchyme, Hindbrain, Lateral Plate Mesoderm, Midbrain, Neural
     Plate/Tube, Notochord, Sinus Venosus, Somites, Ventricles
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HEG1_HH12 x25.jpg
 - caption: HEG1 expression

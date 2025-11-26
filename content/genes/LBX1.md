@@ -238,8 +238,8 @@ images:
 - caption: LBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LBX1/452273_30.jpg
   location: Wing Mesenchyme
-  source: Kanamnoto et al. 2006
-  source_label: Kanamnoto et al. 2006
+  source: Kanamoto et al. 2006
+  source_label: Kanamoto et al. 2006
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LBX1.FIG4Y.KANAMNOTO.2006.jpg
 - caption: LBX1 expression

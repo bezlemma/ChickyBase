@@ -319,8 +319,8 @@ images:
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_42.jpg
   location: Nasal Placode/Nerve
-  source: Saborogers et al. 2009
-  source_label: Saborogers et al. 2009
+  source: Szaborogers et al. 2009
+  source_label: Szaborogers et al. 2009
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.c.saborogers.2009.f3.png
 - caption: PAX7 expression
@@ -349,15 +349,15 @@ images:
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_46.jpg
   location: Nasal Placode/Nerve
-  source: Saborogers et al. 2009
-  source_label: Saborogers et al. 2009
+  source: Szaborogers et al. 2009
+  source_label: Szaborogers et al. 2009
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.d.saborogers.2009.f3.png
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_47.jpg
   location: Nasal Placode/Nerve
-  source: Saborogers et al. 2009
-  source_label: Saborogers et al. 2009
+  source: Szaborogers et al. 2009
+  source_label: Szaborogers et al. 2009
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Pax7.e.saborogers.2009.f3.png
 - caption: PAX7 expression
@@ -550,8 +550,8 @@ images:
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_74.jpg
   location: Neural Crest
-  source: Listiou et al. 2005
-  source_label: Listiou et al. 2005
+  source: Litsiou et al. 2005
+  source_label: Litsiou et al. 2005
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.HH6.Listiou.2005.f5.pax7.png
 - caption: PAX7 expression
@@ -571,15 +571,15 @@ images:
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_77.jpg
   location: null
-  source: Listiou et al. 2005
-  source_label: Listiou et al. 2005
+  source: Litsiou et al. 2005
+  source_label: Litsiou et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Listiou.2005.f5.pax7.png
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_78.jpg
   location: Neural Crest
-  source: Listiou et al. 2005
-  source_label: Listiou et al. 2005
+  source: Litsiou et al. 2005
+  source_label: Litsiou et al. 2005
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.HH8.Listiou.2005.f5.pax7.png
 - caption: PAX7 expression

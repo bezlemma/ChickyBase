@@ -18,23 +18,23 @@ images:
 - caption: FOXF2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXF2/472291_0.jpg
   location: Early Mesoderm, Epiblast, Primitive Streak
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HH4+_FOXF2_x30.jpg
 - caption: FOXF2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXF2/472291_1.jpg
   location: Widespread Expression
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HH8-_FOXF2_x30 dorsal.jpg
 - caption: FOXF2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXF2/472291_2.jpg
   location: Dermomyotome, Neural Plate/Tube, Notochord, Pharynx, Sclerotome, Splanchnic
     Mesoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FOXF2 s1 x20.jpg
 - caption: FOXF2 expression
@@ -42,8 +42,8 @@ images:
   location: Anterior Intestinal Portal, Forebrain, Head Mesenchyme, Heart, Hindbrain,
     Intermediate Mesoderm, Lateral Plate Mesoderm, Midbrain, Neural Plate/Tube, Notochord,
     Pharynx, Somites
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HH12_FOXF2_x25 ventral.jpg
 - caption: FOXF2 expression

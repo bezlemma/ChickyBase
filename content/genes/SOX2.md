@@ -333,8 +333,8 @@ images:
 - caption: SOX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX2/458727_44.jpg
   location: Eye, Lens
-  source: Hyre et al. 2003
-  source_label: Hyre et al. 2003
+  source: Hyer et al. 2003
+  source_label: Hyer et al. 2003
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX2.FIG2C.HYRE.2003.jpg
 - caption: SOX2 expression

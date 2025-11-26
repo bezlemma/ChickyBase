@@ -236,8 +236,8 @@ images:
 - caption: GFRA4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GFRA4/350069_29.jpg
   location: Retina
-  source: Rothemel et al. 2004
-  source_label: Rothemel et al. 2004
+  source: Rothermel et al. 2004
+  source_label: Rothermel et al. 2004
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GFRA4.FIG2JK.ROTHEMEL.2004.jpg
 - caption: GFRA4 expression

@@ -229,16 +229,16 @@ images:
 - caption: HOXA3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA3/461447_29.jpg
   location: null
-  source: Gudiato et al. 2003
-  source_label: Gudiato et al. 2003
+  source: Guidato et al. 2003
+  source_label: Guidato et al. 2003
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA3.Gudiato.2003.Fig.1
     hoxa3.png
 - caption: HOXA3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXA3/461447_30.jpg
   location: null
-  source: Gudiato et al. 2003
-  source_label: Gudiato et al. 2003
+  source: Guidato et al. 2003
+  source_label: Guidato et al. 2003
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXA3.Gudiato.2003.Fig.1.png
 - caption: HOXA3 expression

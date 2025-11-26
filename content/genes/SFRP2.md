@@ -553,8 +553,8 @@ images:
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_74.jpg
   location: Myotome, Neural Plate/Tube, Sclerotome
-  source: Sfrp2,linct et al. 2007
-  source_label: Sfrp2,linct et al. 2007
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2,LinCT.2007.Fig.6
     sfrp2 st18.png
@@ -633,8 +633,8 @@ images:
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_84.jpg
   location: Spinal Ganglia and Nerves
-  source: Sfrp2,linct et al. 2007
-  source_label: Sfrp2,linct et al. 2007
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2,LinCT.2007.Fig.6
     sfrp2 st26.png
@@ -673,8 +673,8 @@ images:
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_89.jpg
   location: Somites
-  source: Sfrp2,linct et al. 2007
-  source_label: Sfrp2,linct et al. 2007
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2,LinCT.2007.Fig.6
     sfrp2 st28.png
@@ -721,8 +721,8 @@ images:
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_95.jpg
   location: Sclerotome, Vertebrae
-  source: Sfrp2,linct et al. 2007
-  source_label: Sfrp2,linct et al. 2007
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2,LinCT.2007.Fig.6
     sfrp2 st30.png
@@ -761,8 +761,8 @@ images:
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_100.jpg
   location: Vertebrae
-  source: Sfrp2,linct et al. 2007
-  source_label: Sfrp2,linct et al. 2007
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2,LinCT.2007.Fig.6
     sfrp2 st34.png
@@ -848,16 +848,16 @@ images:
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_111.jpg
   location: Vertebrae
-  source: Sfrp2,linct et al. 2007
-  source_label: Sfrp2,linct et al. 2007
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2,LinCT.2007.Fig.6
     sfrp2 st35.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_112.jpg
   location: Spinal Ganglia and Nerves
-  source: Sfrp2,linct et al. 2007
-  source_label: Sfrp2,linct et al. 2007
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2,LinCT.2007.Fig.6
     sfrp2 st35g.png
@@ -918,16 +918,16 @@ images:
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_120.jpg
   location: Vertebrae
-  source: Sfrp2,linct et al. 2007
-  source_label: Sfrp2,linct et al. 2007
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2,LinCT.2007.Fig.6
     sfrp2 st36.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_121.jpg
   location: null
-  source: Sfrp2,linct et al. 2007
-  source_label: Sfrp2,linct et al. 2007
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2,LinCT.2007.Fig.6.png
 - caption: SFRP2 expression

@@ -160,8 +160,8 @@ images:
 - caption: FZD6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FZD6/458641_18.jpg
   location: Face Mesenchyme, Pharyngeal Arches and Clefts
-  source: Geethaloganath et al. 2009
-  source_label: Geethaloganath et al. 2009
+  source: Geethaloganathan et al. 2009
+  source_label: Geethaloganathan et al. 2009
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FZD6.GeethaLoganath.2009.Figure8F.panelA.png
 - caption: FZD6 expression

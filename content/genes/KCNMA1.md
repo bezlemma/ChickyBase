@@ -31,64 +31,64 @@ images:
 - caption: KCNMA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KCNMA1/454450_0.jpg
   location: Epiblast
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCNMA1_stage 3+ x35
     0208.jpg
 - caption: KCNMA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KCNMA1/454450_1.jpg
   location: Epiblast
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCNMA1_stage 4+ x35
     0208.jpg
 - caption: KCNMA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KCNMA1/454450_2.jpg
   location: Area Opaca, Epiblast, Notochord, Primitive Streak
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCNMA1_stage 5 x30
     1812.jpg
 - caption: KCNMA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KCNMA1/454450_3.jpg
   location: Unlabeled
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCNMA1_stage 6 x30
     1401.jpg
 - caption: KCNMA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KCNMA1/454450_4.jpg
   location: Neural Plate/Tube, Primitive Streak
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCNMA1_stage 7 x30
     1401.jpg
 - caption: KCNMA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KCNMA1/454450_5.jpg
   location: Neural Plate/Tube
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCNMA1_stage 7+ x30
     1401.jpg
 - caption: KCNMA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KCNMA1/454450_6.jpg
   location: Area Opaca, Neural Plate/Tube
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCNMA1_stage 9 x30
     2008.jpg
 - caption: KCNMA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KCNMA1/454450_7.jpg
   location: Lateral Plate Mesoderm, Notochord, Somites, extraembryonic mesoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCNMA1_stage 10+
     x25 0208.jpg
@@ -96,40 +96,40 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KCNMA1/454450_8.jpg
   location: Forebrain, Lateral Plate Mesoderm, Midbrain, Neural Plate/Tube, Notochord,
     Rhombomeres, Somites
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCNMA1_stage 11 x25
     1401.jpg
 - caption: KCNMA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KCNMA1/454450_9.jpg
   location: Forebrain, Hindbrain, Midbrain, Notochord, Somites
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCNMA1_stage 13 x25
     1812.jpg
 - caption: KCNMA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KCNMA1/454450_10.jpg
   location: Forebrain, Foregut, Midbrain, Neural Plate/Tube, Rhombomeres, Somites
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCNMA1_stage 14 x25
     1401.jpg
 - caption: KCNMA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KCNMA1/454450_11.jpg
   location: Head Mesenchyme
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCNMA1_HH21 X20.jpg
 - caption: KCNMA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KCNMA1/454450_12.jpg
   location: Head Mesenchyme, Hindbrain, Leg Mesenchyme, Pharyngeal Arches and Clefts,
     Sclerotome, Wing Mesenchyme
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCKNMA1_HH24 X15.jpg
 name: potassium calcium-activated channel subfamily M alpha 1

@@ -20,8 +20,8 @@ images:
 - caption: LIX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LIX1/455914_0.jpg
   location: Neural Plate/Tube, Splanchnic Mesoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HH12_LIX1_170418-Image
     Export-17_s46.jpg
@@ -29,8 +29,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LIX1/455914_1.jpg
   location: Forebrain, Hindbrain, Intermediate Mesoderm, Lateral Plate Mesoderm, Midbrain,
     Neural Plate/Tube
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LIX11stage 12 x25
     dorsal.jpg
@@ -38,8 +38,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LIX1/455914_2.jpg
   location: Forebrain, Head Mesenchyme, Hindbrain, Intermediate Mesoderm, Lateral
     Plate Mesoderm, Midbrain, Neural Plate/Tube, Somites
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LIX1stage 12+ x25
     dorsal.jpg

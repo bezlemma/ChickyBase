@@ -137,8 +137,8 @@ images:
 - caption: MAF expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAF/453625_16.jpg
   location: Lens, Retina
-  source: Lecoi et al. 2003
-  source_label: Lecoi et al. 2003
+  source: Lecoin et al. 2003
+  source_label: Lecoin et al. 2003
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAF.FIG6FGH.LECOI.2003.jpg
 - caption: MAF expression

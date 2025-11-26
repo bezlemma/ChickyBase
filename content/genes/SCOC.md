@@ -19,36 +19,36 @@ images:
 - caption: SCOC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SCOC/451451_0.jpg
   location: Ubiquitous
-  source: Papanayotous et al. 2008
-  source_label: Papanayotous et al. 2008
+  source: Papanayotou et al. 2008
+  source_label: Papanayotou et al. 2008
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/papanayotou.bert.fig10.A.st4
 - caption: SCOC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SCOC/451451_1.jpg
   location: Ubiquitous
-  source: Papanayotous et al. 2008
-  source_label: Papanayotous et al. 2008
+  source: Papanayotou et al. 2008
+  source_label: Papanayotou et al. 2008
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/papanayotou.bert.fig10.B.st4+
 - caption: SCOC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SCOC/451451_2.jpg
   location: Ubiquitous
-  source: Papanayotous et al. 2008
-  source_label: Papanayotous et al. 2008
+  source: Papanayotou et al. 2008
+  source_label: Papanayotou et al. 2008
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/papanayotou.bert.fig10.C.st5
 - caption: SCOC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SCOC/451451_3.jpg
   location: Ubiquitous
-  source: Papanayotous et al. 2008
-  source_label: Papanayotous et al. 2008
+  source: Papanayotou et al. 2008
+  source_label: Papanayotou et al. 2008
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/papanayotou.bert.fig10.D.st7
 - caption: SCOC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SCOC/451451_4.jpg
   location: Ubiquitous
-  source: Papanayotous et al. 2008
-  source_label: Papanayotous et al. 2008
+  source: Papanayotou et al. 2008
+  source_label: Papanayotou et al. 2008
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/papanayotou.bert.fig10.allimages
 name: short coiled-coil protein

@@ -496,8 +496,8 @@ images:
 - caption: WNT1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT1/459062_66.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: Wnt1hu et al. 2012
-  source_label: Wnt1hu et al. 2012
+  source: Hu et al. 2012
+  source_label: Hu et al. 2012
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT1Hu.2012.F4.wnt1.png
 - caption: WNT1 expression

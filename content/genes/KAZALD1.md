@@ -17,8 +17,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KAZALD1/450409_0.jpg
   location: Ectoderm, Lateral Plate Mesoderm, Notochord, Pharynx, Sclerotome, extraembryonic
     ectoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/2018_05_24__23223_KAZALD1_170418-Image
     Export-14_s07.jpg
@@ -26,8 +26,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KAZALD1/450409_1.jpg
   location: Lateral Plate Mesoderm, Myocardium, Notochord, Pharynx, extraembryonic
     ectoderm, extraembryonic endoderm, extraembryonic mesoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/2018_05_24__23223_KAZALD1_170418-Image
     Export-14_s16.jpg
@@ -35,8 +35,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KAZALD1/450409_2.jpg
   location: Myocardium, Notochord, Pharynx, Somatic Mesoderm, Splanchnic Mesoderm,
     extraembryonic ectoderm, extraembryonic endoderm, extraembryonic mesoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/2018_05_24__23223_KAZALD1_170418-Image
     Export-14_s28.jpg
@@ -44,8 +44,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KAZALD1/450409_3.jpg
   location: Myocardium, Pharynx, Splanchnic Mesoderm, extraembryonic ectoderm, extraembryonic
     endoderm, extraembryonic mesoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/2018_05_24__23223_KAZALD1_170418-Image
     Export-14_s42.jpg
@@ -53,16 +53,16 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KAZALD1/450409_4.jpg
   location: Myocardium, Notochord, Pharynx, Sclerotome, Splanchnic Mesoderm, extraembryonic
     ectoderm, extraembryonic endoderm, extraembryonic mesoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/2018_05_24__23223_KAZALD1_170418-Image
     Export-14_s53.jpg
 - caption: KAZALD1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KAZALD1/450409_5.jpg
   location: Endoderm, Lateral Plate Mesoderm, Notochord
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/2018_05_24__23223_KAZALD1_170418-Image
     Export-14_s70.jpg
@@ -72,8 +72,8 @@ images:
     Head Mesenchyme, Hindbrain, Intermediate Mesoderm, Lateral Plate Mesoderm, Midbrain,
     Myocardium, Outflow Tract, Pharynx, Sinus Venosus, Somites, Ventricles, extraembryonic
     ectoderm, extraembryonic endoderm, extraembryonic mesoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KAZALD1_stage 12
     x25 dorsal.jpg

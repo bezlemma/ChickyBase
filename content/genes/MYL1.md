@@ -36,15 +36,15 @@ images:
   location: Atria, Forebrain, Head Mesenchyme, Hindbrain, Intermediate Mesoderm, Lateral
     Plate Mesoderm, Midbrain, Neural Crest, Neural Plate/Tube, Outflow Tract, Somites,
     Ventricles
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYL1_HH 12 x25 (1).jpg
 - caption: MYL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYL1/461070_1.jpg
   location: Ventricles
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYL1_HH 12 x25.jpg
 - caption: MYL1 expression

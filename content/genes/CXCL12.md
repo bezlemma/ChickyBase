@@ -399,16 +399,16 @@ images:
 - caption: CXCL12 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CXCL12/462303_53.jpg
   location: Myotome, Wing Muscles
-  source: Vasutina et al. 2005
-  source_label: Vasutina et al. 2005
+  source: Vasyutina et al. 2005
+  source_label: Vasyutina et al. 2005
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SDF1.Vasutina.2005.Fig.2
     sdf1.png
 - caption: CXCL12 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CXCL12/462303_54.jpg
   location: null
-  source: Vasutina et al. 2005
-  source_label: Vasutina et al. 2005
+  source: Vasyutina et al. 2005
+  source_label: Vasyutina et al. 2005
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SDF1.Vasutina.2005.Fig.2.png
 - caption: CXCL12 expression

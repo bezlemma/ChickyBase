@@ -407,15 +407,15 @@ images:
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_55.jpg
   location: Ear/Otic Placcode, Placcode
-  source: Pax2 et al. 2000
-  source_label: Pax2 et al. 2000
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Baker.Pax2.2000.Figure2A.jpg
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_56.jpg
   location: Cranial Ganglion, Ear/Otic Placcode
-  source: Pax2 et al. 2000
-  source_label: Pax2 et al. 2000
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Baker.Pax2.2000.Figure2B.jpg
 - caption: PAX2 expression

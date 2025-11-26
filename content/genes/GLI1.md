@@ -333,8 +333,8 @@ images:
 - caption: GLI1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI1/459521_43.jpg
   location: Eye, Telencephalon
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.2_GLi1_C_ST20.jpg
 - caption: GLI1 expression
@@ -347,8 +347,8 @@ images:
 - caption: GLI1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI1/459521_45.jpg
   location: null
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.2_All-images-2.jpg
 - caption: GLI1 expression

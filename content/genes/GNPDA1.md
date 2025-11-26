@@ -19,32 +19,32 @@ images:
 - caption: GNPDA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_0.jpg
   location: Hypoblast, Primitive Streak
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 2
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_stage 2+ x30
     1209.jpg
 - caption: GNPDA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_1.jpg
   location: Area Pellucida
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_stage 3+ x30
     3008.jpg
 - caption: GNPDA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_2.jpg
   location: Early Mesoderm, Epiblast, Extraembryonic Mesoderm, Primitive Streak
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_stage 4 x30
     2008.jpg
 - caption: GNPDA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_3.jpg
   location: Extraembryonic Mesoderm, Neural Plate/Tube, Primitive Streak
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_stage 5+ x30
     3008.jpg
@@ -52,8 +52,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_4.jpg
   location: Extraembryonic Mesoderm, Lateral Plate Mesoderm, Neural Plate/Tube, Notochord,
     Primitive Streak
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_stage 6 x30
     1209.jpg
@@ -61,8 +61,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_5.jpg
   location: Extraembryonic Mesoderm, Lateral Plate Mesoderm, Neural Plate/Tube, Notochord,
     Primitive Streak, Somites
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_stage 8+ x30
     1209.jpg
@@ -70,8 +70,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_6.jpg
   location: Extraembryonic Mesoderm, Lateral Plate Mesoderm, Neural Plate/Tube, Primitive
     Streak, Somites
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_stage 8- x30
     3008.jpg
@@ -79,8 +79,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_7.jpg
   location: Anterior Neuropore, Lateral Plate Mesoderm, Primitive Streak, extraembryonic
     mesoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_stage 9 x30
     2008.jpg
@@ -89,8 +89,8 @@ images:
   location: Eye, Forebrain, Head Mesenchyme, Hindbrain, Intermediate Mesoderm, Lateral
     Plate Mesoderm, Midbrain, Neural Crest, Neural Plate/Tube, Somites, extraembryonic
     mesoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_stage 11-
     x30 3008.jpg
@@ -98,65 +98,65 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_9.jpg
   location: Anterior Intestinal Portal, Ear/Otic Placode, Eye, Forebrain, Head Mesenchyme,
     Neural Plate/Tube, extraembryonic mesoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_stage 12 x25
     2008.jpg
 - caption: GNPDA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_10.jpg
   location: Eye, Forebrain, Head Mesenchyme, Mesencephalon
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_HH13 x10 s1.jpg
 - caption: GNPDA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_11.jpg
   location: Head Mesenchyme, Mesencephalon, Notochord, Sclerotome
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_HH13 x10 s2.jpg
 - caption: GNPDA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_12.jpg
   location: Ear/Otic Placode, Myelencephalon, Notochord, Sclerotome
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_HH13 x10 s3.jpg
 - caption: GNPDA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_13.jpg
   location: Ear/Otic Placode, Head Mesenchyme, Myelencephalon
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_HH13 x10 s4.jpg
 - caption: GNPDA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_14.jpg
   location: Dermomyotome, Neural Plate/Tube, Notochord, Pharynx, Sclerotome
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_HH13 x10 s5.jpg
 - caption: GNPDA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_15.jpg
   location: Endoderm, Neural Plate/Tube, Notochord, Sclerotome, Splanchnic Mesoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_HH13 x10 s6.jpg
 - caption: GNPDA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_16.jpg
   location: Endoderm, Neural Plate/Tube, Notochord, Sclerotome
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_HH13 x10 s7.jpg
 - caption: GNPDA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_17.jpg
   location: Neural Plate/Tube, Notochord
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_HH13 x10 s8.jpg
 - caption: GNPDA1 expression
@@ -164,16 +164,16 @@ images:
   location: Anterior Intestinal Portal, Dermomyotome, Ear/Otic Placode, Forebrain,
     Foregut, Head Mesenchyme, Hindbrain, Midbrain, Notochord, Sclerotome, extraembryonic
     mesoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_HH13 x25.jpg
 - caption: GNPDA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_19.jpg
   location: Anterior Intestinal Portal, Forebrain, Foregut, Hindbrain, Midbrain, Neural
     Plate/Tube, Notochord, Pharynx, Somites, extraembryonic mesoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_stage 14 x25
     1209.jpg
@@ -181,16 +181,16 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_20.jpg
   location: Gut, Head Mesenchyme, Leg Mesenchyme, Liver, Lung, Notochord, Pharyngeal
     Arches and Clefts, Sclerotome, Wing Mesenchyme
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_HH20 x15.jpg
 - caption: GNPDA1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNPDA1/456751_21.jpg
   location: Blood Vessels, Head Mesenchyme, Leg Mesenchyme, Lung, Pharyngeal Arches
     and Clefts, Wing Mesenchyme
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GNPDA1_HH24 x15.jpg
 name: glucosamine-6-phosphate deaminase 1

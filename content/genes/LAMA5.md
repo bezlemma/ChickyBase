@@ -20,15 +20,15 @@ images:
 - caption: LAMA5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LAMA5/459641_0.jpg
   location: Neural Plate/Tube, Surface Ectoderm
-  source: coles et al. 2006
-  source_label: coles et al. 2006
+  source: Coles et al. 2006
+  source_label: Coles et al. 2006
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/laminin5.8.jpg
 - caption: LAMA5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LAMA5/459641_1.jpg
   location: Neural Plate/Tube, Surface Ectoderm
-  source: coles et al. 2006
-  source_label: coles et al. 2006
+  source: Coles et al. 2006
+  source_label: Coles et al. 2006
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/laminin5.8a.jpg
 - caption: LAMA5 expression

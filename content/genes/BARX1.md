@@ -81,15 +81,15 @@ images:
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_8.jpg
   location: Nasal Placode/Nerve
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.3_BARX1_I_ST20.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_9.jpg
   location: null
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.3_All_images-3.jpg
 - caption: BARX1 expression

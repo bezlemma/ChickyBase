@@ -24,8 +24,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GAL/449479_0.jpg
   location: Blood Islands, Ear/Otic Placode, Forebrain, Hindbrain, Intermediate Mesoderm,
     Midbrain, Notochord, Proepicardium, Somites, extraembryonic mesoderm
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HH12_GAL_ x25.jpg
 - caption: GAL expression

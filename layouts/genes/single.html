@@ -225,13 +225,23 @@
             {{ if not $exists }}
             {{ $sUrl := "" }}
             {{ $sType := "publication" }}
-            {{ if eq $sName "Trevers et al. 2023" }}
-            {{ $sUrl = "https://doi.org/10.7554/eLife.73189" }}
-            {{ else }}
-            {{ $sUrl = printf "https://pubmed.ncbi.nlm.nih.gov/?term=%s" ($sName | urlquery) }}
+            {{ $resolved := false }}
+
+            {{/* Look up resolved PubMed link from papers.json */}}
+            {{ $shortName := replace $sName " et al. " " " }}
+            {{ range $.Site.Data.papers }}
+            {{ if and (eq .citation $shortName) .resolved }}
+            {{ $sUrl = .url }}
+            {{ $resolved = true }}
+            {{ end }}
             {{ end }}
 
-            {{ $sources = $sources | append (dict "name" $sName "url" $sUrl "type" $sType) }}
+            {{/* Fallback to search URL if not resolved */}}
+            {{ if not $resolved }}
+            {{ $sUrl = printf "https://pubmed.ncbi.nlm.nih.gov/?term=%s+chick" ($sName | urlquery) }}
+            {{ end }}
+
+            {{ $sources = $sources | append (dict "name" $sName "url" $sUrl "type" $sType "resolved" $resolved) }}
             {{ end }}
             {{ end }}
             {{ end }}
@@ -251,7 +261,7 @@
                     {{ range $finalSources }}
                     <li>
                         <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"
-                            class="flex items-center p-3 rounded-lg border border-slate-200 hover:border-primary hover:shadow-sm transition-all group">
+                            class="flex items-center p-3 rounded-lg border {{ if .resolved }}border-blue-300 bg-blue-50{{ else }}border-slate-200{{ end }} hover:border-primary hover:shadow-sm transition-all group">
                             <div class="mr-3 flex-shrink-0">
                                 {{ if eq .type "database" }}
                                 <div
@@ -262,21 +272,28 @@
                                         </path>
                                     </svg>
                                 </div>
+                                {{ else if .resolved }}
+                                <div
+                                    class="w-8 h-8 rounded-full flex items-center justify-center" style="background-color: #007FFF;">
+                                    <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M5 13l4 4L19 7"></path>
+                                    </svg>
+                                </div>
                                 {{ else }}
                                 <div
-                                    class="w-8 h-8 bg-green-100 rounded-full flex items-center justify-center text-green-600">
+                                    class="w-8 h-8 bg-slate-100 rounded-full flex items-center justify-center text-slate-400">
                                     <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                            d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253">
-                                        </path>
+                                            d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
                                     </svg>
                                 </div>
                                 {{ end }}
                             </div>
                             <div>
-                                <div class="text-sm font-medium text-slate-900 group-hover:text-primary">{{ .name }}
+                                <div class="text-sm font-medium text-slate-900 group-hover:text-primary">{{ replace .name " et al. " " " }}
                                 </div>
-                                <div class="text-xs text-slate-500 capitalize">{{ .type }}</div>
+                                <div class="text-xs text-slate-500">{{ if .resolved }}PubMed{{ else }}Search{{ end }}</div>
                             </div>
                         </a>
                     </li>

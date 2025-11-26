@@ -18,8 +18,8 @@ images:
 - caption: LYPD1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LYPD1/474315_0.jpg
   location: Widespread Expression
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LYPD1stage 12 x25.jpg
 - caption: LYPD1 expression

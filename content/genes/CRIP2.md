@@ -46,8 +46,8 @@ images:
 - caption: CRIP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CRIP2/450819_4.jpg
   location: null
-  source: Travers et al. 2023
-  source_label: Travers et al. 2023
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CRIP2.Travers.2023.jpg
 name: cysteine rich protein 2

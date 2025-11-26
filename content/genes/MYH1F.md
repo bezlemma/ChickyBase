@@ -16,22 +16,22 @@ images:
 - caption: MYH1F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYH1F/451958_0.jpg
   location: Unlabeled
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYH1B_HH 9 x25.jpg
 - caption: MYH1F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYH1F/451958_1.jpg
   location: Ventricles
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYH1B_HH 11 x20.jpg
 - caption: MYH1F expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYH1F/451958_2.jpg
   location: Ventricles
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYH1B_HH 12 x20.jpg
 name: myosin, heavy chain 1F, skeletal muscle

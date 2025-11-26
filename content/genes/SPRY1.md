@@ -368,32 +368,32 @@ images:
 - caption: SPRY1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SPRY1/449711_45.jpg
   location: Lens
-  source: Kuracha et al. 2011
-  source_label: Kuracha et al. 2011
+  source: Kuuracha et al. 2011
+  source_label: Kuuracha et al. 2011
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPRY1.Kuracha.2011.Fig.1
     spry1 st35.png
 - caption: SPRY1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SPRY1/449711_46.jpg
   location: Lens
-  source: Kuracha et al. 2011
-  source_label: Kuracha et al. 2011
+  source: Kuuracha et al. 2011
+  source_label: Kuuracha et al. 2011
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPRY1.Kuracha.2011.Fig.1
     spry1 st36.png
 - caption: SPRY1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SPRY1/449711_47.jpg
   location: Lens
-  source: Kuracha et al. 2011
-  source_label: Kuracha et al. 2011
+  source: Kuuracha et al. 2011
+  source_label: Kuuracha et al. 2011
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPRY1.Kuracha.2011.Fig.1
     spry1 st37.png
 - caption: SPRY1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SPRY1/449711_48.jpg
   location: null
-  source: Kuracha et al. 2011
-  source_label: Kuracha et al. 2011
+  source: Kuuracha et al. 2011
+  source_label: Kuuracha et al. 2011
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPRY1.Kuracha.2011.Fig.1.png
 name: sprouty RTK signaling antagonist 1

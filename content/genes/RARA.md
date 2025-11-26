@@ -227,8 +227,8 @@ images:
 - caption: RARA expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RARA/461785_29.jpg
   location: null
-  source: Bayah et al. 2009
-  source_label: Bayah et al. 2009
+  source: Bayha et al. 2009
+  source_label: Bayha et al. 2009
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/RARGAMMA.Bayah.2009.FIg.1.png
 - caption: RARA expression

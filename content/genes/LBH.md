@@ -191,8 +191,8 @@ images:
 - caption: LBH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LBH/457260_24.jpg
   location: null
-  source: Conan et al. 2009
-  source_label: Conan et al. 2009
+  source: Conen et al. 2009
+  source_label: Conen et al. 2009
   stage: stage 39
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LBH.Conan.2009.Figure1.panelB.JPG
 - caption: LBH expression

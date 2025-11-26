@@ -54,22 +54,22 @@ images:
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_4.jpg
   location: Leg
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roddy.Fig1.TNC.I.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_5.jpg
   location: Leg
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roddy.Fig1.TNC.K.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_6.jpg
   location: null
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Roddy.Fig1.allimages-2.jpg
 - caption: TNC expression
@@ -91,8 +91,8 @@ images:
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_9.jpg
   location: Spinal Cord, Surface Ectoderm
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig7.B.CT.ST34.Prieto.jpg
 - caption: TNC expression
@@ -114,64 +114,64 @@ images:
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_12.jpg
   location: Lung, Trunk Mesenchyme
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig10.CT.D.ST37.Prieto-2.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_13.jpg
   location: null
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig7.ALLIMAGES.Prieto.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_14.jpg
   location: Spinal Cord
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig7.D.CT.ST37.Prieto.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_15.jpg
   location: null
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig8.ALLIMAGES.Prieto.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_16.jpg
   location: Leg Mesenchyme
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig8.CT.A.Prieto.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_17.jpg
   location: Sclerotome
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig8.CT.B.Prieto.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_18.jpg
   location: null
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig9.ALLIMAGES-1.Prieto.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_19.jpg
   location: Feathers/Scutae
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig9.CT.C.ST37Prieto.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_20.jpg
   location: Gizzard
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig9.CT.G.ST37Prieto.jpg
 - caption: TNC expression
@@ -185,8 +185,8 @@ images:
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_22.jpg
   location: Ectoderm
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig10.CT.A.ST41.Prieto-2.jpg
 - caption: TNC expression
@@ -246,15 +246,15 @@ images:
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_30.jpg
   location: null
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig10.ALLIMAGES.Prieto.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_31.jpg
   location: Renal
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig10.CT.G.Prieto-2.jpg
 - caption: TNC expression
@@ -268,8 +268,8 @@ images:
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_33.jpg
   location: null
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig5.ALLIMAGES.Prieto.jpg
 - caption: TNC expression
@@ -290,50 +290,50 @@ images:
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_36.jpg
   location: null
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig10.ALLIMAGES-3.Prieto.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_37.jpg
   location: Lung
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig10.VbVc.E.ST37.Prieto.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_38.jpg
   location: null
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig8.ALLIMAGES.Prieto-2.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_39.jpg
   location: Sclerotome
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig8.VbVc.C.ST37.Prieto.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_40.jpg
   location: null
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig9.ALLIMAGES.Prieto.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_41.jpg
   location: Feathers/Scutae
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig9.VbVc.B-1.ST37Prieto.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_42.jpg
   location: Gizzard
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig9.VbVc.F.ST37Prieto.jpg
 - caption: TNC expression
@@ -347,29 +347,29 @@ images:
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_44.jpg
   location: Ectoderm
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig10.VbVc.B.ST41.Prieto-2.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_45.jpg
   location: null
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig4.ALLIMAGES.Prieto.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_46.jpg
   location: Hindbrain
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig4.F.VbVc-1.Prieto.jpg
 - caption: TNC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TNC/461013_47.jpg
   location: Midbrain
-  source: zhao et al. 2007
-  source_label: zhao et al. 2007
+  source: Zhao et al. 2007
+  source_label: Zhao et al. 2007
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig5.E.VbVc.Prieto.jpg
 - caption: TNC expression

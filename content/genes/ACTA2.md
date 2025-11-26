@@ -97,8 +97,8 @@ images:
 - caption: ACTA2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACTA2/450787_11.jpg
   location: Heart, Splanchnic Mesoderm
-  source: Lopez-sanchez et al. 2009
-  source_label: Lopez-sanchez et al. 2009
+  source: Lopez-Sanchez et al. 2009
+  source_label: Lopez-Sanchez et al. 2009
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Usmaar.Lopez-Sanchez.2009.4c.png
 - caption: ACTA2 expression

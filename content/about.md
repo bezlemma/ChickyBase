@@ -26,7 +26,7 @@ layout: "page"
 
 ## Papers
 
-The following sources are cited in image data:
+{{< paperlist >}}
 
 
 

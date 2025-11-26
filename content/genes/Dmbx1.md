@@ -185,7 +185,7 @@ images:
 - caption: DMBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DMBX1/461623_23.jpg
   location: Diencephalon, Mesencephalon, Neural Plate/Tube
-  source: Jj1 et al. 2012
+  source: GEISHA
   source_label: Jj1 et al. 2012
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.6.JJ1.2012.Ferran.DMBX1.HH23.jpg
@@ -241,8 +241,8 @@ images:
 - caption: DMBX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DMBX1/461623_31.jpg
   location: null
-  source: Travers et al. 2023
-  source_label: Travers et al. 2023
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DMBX1.Travers.2023.jpg
 - caption: Dmbx1 expression at stage HH6

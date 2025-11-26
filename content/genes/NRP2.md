@@ -171,16 +171,16 @@ images:
 - caption: NRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NRP2/455288_20.jpg
   location: Dermomyotome, Spinal Cord, Spinal Ganglia and Nerves
-  source: Maui et al. 2006
-  source_label: Maui et al. 2006
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NPN2.Maui.2006.Fig.4
     npn2.png
 - caption: NRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NRP2/455288_21.jpg
   location: null
-  source: Maui et al. 2006
-  source_label: Maui et al. 2006
+  source: Mauti et al. 2006
+  source_label: Mauti et al. 2006
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NPN2.Maui.2006.Fig.4.png
 - caption: NRP2 expression

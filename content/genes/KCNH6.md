@@ -25,16 +25,16 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KCNH6/460534_0.jpg
   location: Head Mesenchyme, Heart Tube, Intermediate Mesoderm, Lateral Plate Mesoderm,
     Somites
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCNH6_HH10 x30 ISH3.jpg
 - caption: KCNH6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KCNH6/460534_1.jpg
   location: Atria, Forebrain, Intermediate Mesoderm, Lateral Plate Mesoderm, Outflow
     Tract, Sinus Venosus, Somites, Ventricles
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCNH6_HH11 x30 ISH3.jpg
 - caption: KCNH6 expression
@@ -42,8 +42,8 @@ images:
   location: Amnion, Atria, Central Nervous System, Ear/Otic Placode, Head Mesenchyme,
     Hindbrain, Intermediate Mesoderm, Lateral Plate Mesoderm, Midbrain, Neural Plate/Tube,
     Outflow Tract, Sinus Venosus, Somites, Ventricles
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCNH6_HH12 x25 ISH2.jpg
 - caption: KCNH6 expression
@@ -51,8 +51,8 @@ images:
   location: Anterior Intestinal Portal, Atria, Ear/Otic Placode, Head Mesenchyme,
     Lateral Plate Mesoderm, Oral Pharynx, Outflow Tract, Pharynx, Sinus Venosus, Somites,
     Ventricles
-  source: Anderson et al. 2021
-  source_label: Anderson et al. 2021
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KCNH6_HH12+ x25 ISH3.jpg
 - caption: KCNH6 expression

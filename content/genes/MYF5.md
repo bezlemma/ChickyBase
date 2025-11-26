@@ -355,8 +355,8 @@ images:
 - caption: MYF5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYF5/449931_47.jpg
   location: Leg Mesenchyme, Somites, Wing Mesenchyme
-  source: Hunag et al. 2003
-  source_label: Hunag et al. 2003
+  source: Huang et al. 2003
+  source_label: Huang et al. 2003
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MYF5.FIG5H.HUNAG.2003.jpg
 - caption: MYF5 expression

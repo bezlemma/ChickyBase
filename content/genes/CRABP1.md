@@ -319,8 +319,8 @@ images:
 - caption: CRABP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CRABP1/456517_41.jpg
   location: Hindbrain
-  source: Hh28wilson et al. 2007
-  source_label: Hh28wilson et al. 2007
+  source: Wilson et al. 2007
+  source_label: Wilson et al. 2007
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CRABP1.HH28Wilson.2007.F5.crabp1.png
 - caption: CRABP1 expression

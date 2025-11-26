@@ -161,8 +161,8 @@ images:
 - caption: KLF2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KLF2/458662_20.jpg
   location: Blood Vessels, Endocardium
-  source: Klf2 et al. 2000
-  source_label: Klf2 et al. 2000
+  source: GEISHA
+  source_label: GEISHA
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/klf2.2000.14d.jpg
 - caption: KLF2 expression

@@ -23,15 +23,15 @@ images:
   location: Atria, Eye, Forebrain, Head Mesenchyme, Hindbrain, Intermediate Mesoderm,
     Lateral Plate Mesoderm, Midbrain, Neural Crest, Neural Plate/Tube, Pharynx, Sinus
     Venosus, Somites, Ventricles
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSI2_HH 11 x25.jpg
 - caption: MSI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSI2/452508_1.jpg
   location: Ectoderm, Neural Crest, Neural Plate/Tube, Notochord, Pharynx, Ventricles
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSI2_011118-Image
     Export-13_s27.jpg
@@ -39,8 +39,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSI2/452508_2.jpg
   location: Lateral Plate Mesoderm, Neural Plate/Tube, Notochord, Sclerotome, Sinus
     Venosus
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSI2_011118-Image
     Export-13_s54.jpg
@@ -48,8 +48,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSI2/452508_3.jpg
   location: Dermomyotome, Endoderm, Neural Crest, Neural Plate/Tube, Notochord, Somatic
     Mesoderm, Splanchnic Mesoderm
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSI2_011118-Image
     Export-13_s58.jpg
@@ -58,8 +58,8 @@ images:
   location: Atria, Eye, Forebrain, Head Mesenchyme, Hindbrain, Intermediate Mesoderm,
     Lateral Plate Mesoderm, Midbrain, Neural Plate/Tube, Pharynx, Sinus Venosus, Somites,
     Spinal Cord, Ventricles
-  source: Anderson et al. 2022
-  source_label: Anderson et al. 2022
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSI2_hh 13 c x25.jpg
 - caption: MSI2 expression

@@ -470,8 +470,8 @@ images:
 - caption: PRDM1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PRDM1/453424_61.jpg
   location: null
-  source: Travers et al. 2023
-  source_label: Travers et al. 2023
+  source: Trevers et al. 2023
+  source_label: Trevers et al. 2023
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMI1.Travers.2023.jpg
 name: PR/SET domain 1

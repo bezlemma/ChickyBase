@@ -111,7 +111,7 @@
             </div>
             <div class="text-center">
                 <div class="text-4xl font-bold text-primary mb-2">
-                    {{ .Params.paper_count | default 0 }}
+                    {{ len .Site.Data.papers }}
                 </div>
                 <div class="text-slate-600">Publications</div>
             </div>

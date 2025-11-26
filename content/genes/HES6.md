@@ -270,16 +270,16 @@ images:
 - caption: HES6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES6/448979_34.jpg
   location: null
-  source: Hes6-2vilasboas et al. 2010
-  source_label: Hes6-2vilasboas et al. 2010
+  source: Vilasboas et al. 2010
+  source_label: Vilasboas et al. 2010
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES6-2VilasBoas.2010.Fig.2
     hes6-2.png
 - caption: HES6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES6/448979_35.jpg
   location: null
-  source: Hes6-2vilasboas et al. 2010
-  source_label: Hes6-2vilasboas et al. 2010
+  source: Vilasboas et al. 2010
+  source_label: Vilasboas et al. 2010
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES6-2VilasBoas.2010.Fig.2.png
 name: hes family bHLH transcription factor 6

@@ -1475,16 +1475,16 @@ images:
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_205.jpg
   location: Head Process, Hensen's Node
-  source: Grso et al. 2010
-  source_label: Grso et al. 2010
+  source: Gros et al. 2010
+  source_label: Gros et al. 2010
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.Grso.2010.Fig.2
     shh.png
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_206.jpg
   location: null
-  source: Grso et al. 2010
-  source_label: Grso et al. 2010
+  source: Gros et al. 2010
+  source_label: Gros et al. 2010
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.Grso.2010.Fig.2.png
 - caption: SHH expression
@@ -1770,16 +1770,16 @@ images:
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_243.jpg
   location: Neural Plate/Tube, Notochord
-  source: Pschoyos et al. 2008
-  source_label: Pschoyos et al. 2008
+  source: Psychoyos et al. 2008
+  source_label: Psychoyos et al. 2008
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.Pschoyos.2008.FIg.1
     shh.png
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_244.jpg
   location: Notochord
-  source: Pschoyos et al. 2008
-  source_label: Pschoyos et al. 2008
+  source: Psychoyos et al. 2008
+  source_label: Psychoyos et al. 2008
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.Pschoyos.2008.FIg.1.png
 - caption: SHH expression
@@ -2317,22 +2317,22 @@ images:
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_319.jpg
   location: Forebrain
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.1_SHH_A_St9.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_320.jpg
   location: Pharyngeal Arches and Clefts
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.1_SHH_B_St12.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_321.jpg
   location: Diencephalon, Telencephalon
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.1_SHH_C_St17.jpg
 - caption: SHH expression
@@ -2345,22 +2345,22 @@ images:
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_323.jpg
   location: Diencephalon, Telencephalon
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.1_SHH_D_St20.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_324.jpg
   location: Diencephalon, Telencephalon
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.2_SHH_E_ST20.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_325.jpg
   location: Diencephalon, Telencephalon
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.3_SHH_E_ST20.jpg
 - caption: SHH expression
@@ -2373,22 +2373,22 @@ images:
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_327.jpg
   location: null
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.1_All-images.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_328.jpg
   location: null
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.2_All-images-3.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_329.jpg
   location: null
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.3_All_images.jpg
 - caption: SHH expression

@@ -272,8 +272,8 @@ images:
 - caption: PTCH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTCH1/450001_34.jpg
   location: Neural Plate/Tube, Spinal Cord
-  source: Agarawala et al. 2005
-  source_label: Agarawala et al. 2005
+  source: Agarwala et al. 2005
+  source_label: Agarwala et al. 2005
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PTC1.FIG7M.AGARAWALA.2005.jpg
 - caption: PTCH1 expression
@@ -723,8 +723,8 @@ images:
 - caption: PTCH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTCH1/450001_97.jpg
   location: Forebrain
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.2_PTC_A_ST22.jpg
 - caption: PTCH1 expression
@@ -737,8 +737,8 @@ images:
 - caption: PTCH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTCH1/450001_99.jpg
   location: null
-  source: Maucucio et al. 2005
-  source_label: Maucucio et al. 2005
+  source: Marcucio et al. 2005
+  source_label: Marcucio et al. 2005
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Maucucio.2005_Fig.2_All-images.jpg
 - caption: PTCH1 expression
