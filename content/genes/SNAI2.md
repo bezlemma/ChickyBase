@@ -490,8 +490,8 @@ images:
 - caption: SNAI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SNAI2/452263_65.jpg
   location: Head Mesenchyme
-  source: Martinez-alv et al. 2004
-  source_label: Martinez-alv et al. 2004
+  source: Martinez-Alvarez et al. 2004
+  source_label: Martinez-Alvarez et al. 2004
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SLUG.FIG5C.MARTINEZ-ALV.2004.jpg
 - caption: SNAI2 expression
