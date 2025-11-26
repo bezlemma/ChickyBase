@@ -19,22 +19,22 @@ images:
 - caption: RBP3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RBP3/449587_0.jpg
   location: Retina
-  source: Brad et al. 2005
-  source_label: Brad et al. 2005
+  source: Bradford et al. 2005
+  source_label: Bradford et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IRBP.FIG2E.BRAD.2005.jpg
 - caption: RBP3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RBP3/449587_1.jpg
   location: Retina
-  source: Brad et al. 2005
-  source_label: Brad et al. 2005
+  source: Bradford et al. 2005
+  source_label: Bradford et al. 2005
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IRBP.FIG2F.BRAD.2005.jpg
 - caption: RBP3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RBP3/449587_2.jpg
   location: Retina
-  source: Brad et al. 2005
-  source_label: Brad et al. 2005
+  source: Bradford et al. 2005
+  source_label: Bradford et al. 2005
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IRBP.FIG2G.BRAD.2005.jpg
 - caption: RBP3 expression
@@ -47,8 +47,8 @@ images:
 - caption: RBP3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/RBP3/449587_4.jpg
   location: null
-  source: Brad et al. 2005
-  source_label: Brad et al. 2005
+  source: Bradford et al. 2005
+  source_label: Bradford et al. 2005
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/IRBP.FIG2H.BRAD.2005.jpg
 - caption: RBP3 expression

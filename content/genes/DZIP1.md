@@ -18,15 +18,15 @@ images:
 - caption: DZIP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DZIP1/453950_0.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DZIP.FIG6F.AGLYA.2007.jpg
 - caption: DZIP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DZIP1/453950_1.jpg
   location: Isthmus/MHB, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DZIP.FIG6G.AGLYA.2007.jpg
 - caption: DZIP1 expression

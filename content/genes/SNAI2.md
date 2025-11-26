@@ -893,29 +893,29 @@ images:
 - caption: SNAI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SNAI2/452263_122.jpg
   location: Hindbrain
-  source: Delbarrio et al. 2002
-  source_label: Delbarrio et al. 2002
+  source: del Barrio et al. 2002
+  source_label: del Barrio et al. 2002
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slug.delBarrio.2002.Fig.1A-st13.jpg
 - caption: SNAI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SNAI2/452263_123.jpg
   location: Hindbrain, Neural Plate/Tube
-  source: Delbarrio et al. 2002
-  source_label: Delbarrio et al. 2002
+  source: del Barrio et al. 2002
+  source_label: del Barrio et al. 2002
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slug.delBarrio.2002.Fig3C-st13.jpg
 - caption: SNAI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SNAI2/452263_124.jpg
   location: null
-  source: Delbarrio et al. 2002
-  source_label: Delbarrio et al. 2002
+  source: del Barrio et al. 2002
+  source_label: del Barrio et al. 2002
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slug.delBarrio.2002.Fig1'.jpg
 - caption: SNAI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SNAI2/452263_125.jpg
   location: null
-  source: Delbarrio et al. 2002
-  source_label: Delbarrio et al. 2002
+  source: del Barrio et al. 2002
+  source_label: del Barrio et al. 2002
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Slug.delBarrio.2002.Fig3.jpg
 name: snail family transcriptional repressor 2

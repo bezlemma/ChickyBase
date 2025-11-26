@@ -22,64 +22,64 @@ images:
 - caption: MYC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYC/457911_0.jpg
   location: Early Mesoderm, Epiblast, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CMYC.FIG1C.KHUD.2009.jpg
 - caption: MYC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYC/457911_1.jpg
   location: Epiblast, Mesoderm, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CMYC.FIG1L.KHUD.2009.jpg
 - caption: MYC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYC/457911_2.jpg
   location: Ectoderm, Mesoderm, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CMYC.FIG1U.KHUD.2009.jpg
 - caption: MYC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYC/457911_3.jpg
   location: Ectoderm, Mesoderm, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CMYC.FIG1DD.KHUD.2009.jpg
 - caption: MYC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYC/457911_4.jpg
   location: null
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.KHUD.2009.jpg
 - caption: MYC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYC/457911_5.jpg
   location: Lateral Plate Mesoderm, Neural Crest, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CMYC.FIG2G.KHUD.2009.jpg
 - caption: MYC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYC/457911_6.jpg
   location: Blood Islands, Forebrain, Midbrain, Neural Crest
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CMYC.FIG2Q.KHUD.2009.jpg
 - caption: MYC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYC/457911_7.jpg
   location: Blood Islands, Lateral Plate Mesoderm, Neural Crest
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CMYC.FIG2AA.KHUD.2009.jpg
 - caption: MYC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYC/457911_8.jpg
   location: null
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.KHUD.2009.jpg
 name: MYC proto-oncogene, bHLH transcription factor

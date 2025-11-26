@@ -247,43 +247,43 @@ images:
 - caption: NKX2-5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-5/459548_32.jpg
   location: Gizzard
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX2.5.FIG4A1.THEO.2005.jpg
 - caption: NKX2-5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-5/459548_33.jpg
   location: Gizzard
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX2.5.FIG4A2.THEO.2005.jpg
 - caption: NKX2-5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-5/459548_34.jpg
   location: Gizzard
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX2.5.FIG4A3.THEO.2005.jpg
 - caption: NKX2-5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-5/459548_35.jpg
   location: null
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG4.THEO.2005.jpg
 - caption: NKX2-5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-5/459548_36.jpg
   location: Gizzard
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX2.5.FIG5B.THEO.2005.jpg
 - caption: NKX2-5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-5/459548_37.jpg
   location: null
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG5.THEO.2005.jpg
 - caption: NKX2-5 expression

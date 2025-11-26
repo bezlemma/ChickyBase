@@ -25,22 +25,22 @@ images:
 - caption: LRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRP2/460591_1.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MEG.FIG4A.AGLYA.2007.jpg
 - caption: LRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRP2/460591_2.jpg
   location: Isthmus/MHB, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MEG.FIG4B.AGLYA.2007.jpg
 - caption: LRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LRP2/460591_3.jpg
   location: Diencephalon, Hindbrain, Isthmus/MHB, Midbrain
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MEG.FIG4C.AGLYA.2007.jpg
 name: LDL receptor related protein 2

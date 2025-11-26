@@ -17,8 +17,8 @@ images:
 - caption: AMY2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AMY2A/462868_0.jpg
   location: Widespread Expression
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AMY2A_stage 12 c
     x25.jpg

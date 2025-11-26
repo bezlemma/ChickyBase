@@ -22,15 +22,15 @@ images:
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_0.jpg
   location: Neural Plate/Tube
-  source: Diezdelcorral et al. 2002
-  source_label: Diezdelcorral et al. 2002
+  source: Diez del Corral et al. 2002
+  source_label: Diez del Corral et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.DiezdelCorral.2002.1JKL.png
 - caption: NKX1-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX1-1/453265_1.jpg
   location: null
-  source: Diezdelcorral et al. 2002
-  source_label: Diezdelcorral et al. 2002
+  source: Diez del Corral et al. 2002
+  source_label: Diez del Corral et al. 2002
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SAX1.DiezdelCorral.2002.Fig.1.png
 - caption: NKX1-1 expression

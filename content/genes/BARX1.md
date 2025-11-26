@@ -25,36 +25,36 @@ images:
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_0.jpg
   location: Mesoderm, Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BARX1.FIG3G.SHIG.2000.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_1.jpg
   location: Mesoderm, Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BARX1.FIG5Bb.SHIG.2000.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_2.jpg
   location: Mesoderm, Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BARX1.FIG3H.SHIG.2000.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_3.jpg
   location: Mesoderm, Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BARX1.FIG3I.SHIG.2000.jpg
 - caption: BARX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BARX1/363844_4.jpg
   location: null
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3.SHIG.2000.jpg
 - caption: BARX1 expression

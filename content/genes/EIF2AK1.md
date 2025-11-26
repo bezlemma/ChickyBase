@@ -15,16 +15,16 @@ images:
 - caption: EIF2AK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EIF2AK1/448957_0.jpg
   location: Widespread Expression
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EIF2AK1_HH12 x25
     dorsal.jpg
 - caption: EIF2AK1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EIF2AK1/448957_1.jpg
   location: null
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EIF2AK1_HH12 x25
     ventral.jpg

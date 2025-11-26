@@ -122,15 +122,15 @@ images:
 - caption: GLI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI3/455649_14.jpg
   location: Hindbrain, Midbrain, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI3.FIG5P.AGLYA.2007.jpg
 - caption: GLI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI3/455649_15.jpg
   location: Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI3.FIG5Q.AGLYA.2007.jpg
 - caption: GLI3 expression
@@ -143,36 +143,36 @@ images:
 - caption: GLI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI3/455649_17.jpg
   location: Spinal Cord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI3.FIG7.AGLYA.2007.jpg
 - caption: GLI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI3/455649_18.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI3.FIG5S.AGLYA.2007.jpg
 - caption: GLI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI3/455649_19.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI3.FIG5T.AGLYA.2007.jpg
 - caption: GLI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI3/455649_20.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI3.FIG5UV.AGLYA.2007.jpg
 - caption: GLI3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI3/455649_21.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI3.FIG5W.AGLYA.2007.jpg
 - caption: GLI3 expression

@@ -19,78 +19,78 @@ images:
 - caption: FABP5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FABP5/457081_0.jpg
   location: Epiblast, Primitive Streak
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FABP5_HH3+ x30.jpg
 - caption: FABP5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FABP5/457081_1.jpg
   location: Epiblast, Primitive Streak
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FABP5_HH4+ x30.jpg
 - caption: FABP5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FABP5/457081_2.jpg
   location: Neural Plate/Tube
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FABP5_HH8 x30 (1).jpg
 - caption: FABP5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FABP5/457081_3.jpg
   location: Forebrain, Neural Plate/Tube, Somites
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FABP5_HH10 b x25.jpg
 - caption: FABP5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FABP5/457081_4.jpg
   location: Forebrain, Midbrain, Neural Plate/Tube, Somites
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FABP5_HH10 x25.jpg
 - caption: FABP5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FABP5/457081_5.jpg
   location: Forebrain, Hindbrain, Midbrain, Neural Plate/Tube
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FABP5_HH11 x25 (1).jpg
 - caption: FABP5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FABP5/457081_6.jpg
   location: Forebrain, Midbrain, Neural Plate/Tube, Notochord, Rhombomeres, Somites
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FABP5_HH12 x25.jpg
 - caption: FABP5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FABP5/457081_7.jpg
   location: Hindbrain, Isthmus/MHB, Mesencephalon, Notochord, Somites, Telencephalon
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FABP5_HH13 x25 (1).jpg
 - caption: FABP5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FABP5/457081_8.jpg
   location: Forebrain, Isthmus/MHB, Mesencephalon, Somites
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FABP5_HH15 x25 (1).jpg
 - caption: FABP5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FABP5/457081_9.jpg
   location: Neural Plate/Tube
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-FABP5-figS1-B.jpg
 - caption: FABP5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FABP5/457081_10.jpg
   location: null
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Olivera-Martinez.2014-figS1-B.jpg
 name: fatty acid binding protein 5

@@ -202,40 +202,40 @@ images:
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_26.jpg
   location: Area Pellucida, Epiblast, Hensen's Node
-  source: Grnata et al. 2003
-  source_label: Grnata et al. 2003
+  source: Granata et al. 2003
+  source_label: Granata et al. 2003
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cMid1.grnata.2003.
     A for Figure 1.PNG
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_27.jpg
   location: Area Pellucida, Germinal Crescent, Hensen's Node
-  source: Grnata et al. 2003
-  source_label: Grnata et al. 2003
+  source: Granata et al. 2003
+  source_label: Granata et al. 2003
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cMid1.grnata.2003.
     B for Figure 1.PNG
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_28.jpg
   location: Area Pellucida, Hensen's Node
-  source: Grnata et al. 2003
-  source_label: Grnata et al. 2003
+  source: Granata et al. 2003
+  source_label: Granata et al. 2003
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cMid1.grnata.2003.
     C for Figure 1.PNG
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_29.jpg
   location: Area Pellucida, Early Mesoderm, Hensen's Node
-  source: Grnata et al. 2003
-  source_label: Grnata et al. 2003
+  source: Granata et al. 2003
+  source_label: Granata et al. 2003
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cMid1.grnata.2003.
     D for Figure 1.PNG
 - caption: MID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MID1/459495_30.jpg
   location: Hensen's Node, Neural Plate/Tube
-  source: Grnata et al. 2003
-  source_label: Grnata et al. 2003
+  source: Granata et al. 2003
+  source_label: Granata et al. 2003
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/cMid1.grnata.2003.
     E for Figure 1.PNG

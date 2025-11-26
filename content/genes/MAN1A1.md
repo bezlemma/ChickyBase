@@ -21,15 +21,15 @@ images:
 - caption: MAN1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAN1A1/454704_0.jpg
   location: Liver
-  source: Ray et al. 2013
-  source_label: Ray et al. 2013
+  source: Roy et al. 2013
+  source_label: Roy et al. 2013
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MAN1A1.Ray.2013.F4.man1a1.png
 - caption: MAN1A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MAN1A1/454704_1.jpg
   location: null
-  source: Ray et al. 2013
-  source_label: Ray et al. 2013
+  source: Roy et al. 2013
+  source_label: Roy et al. 2013
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ray.2013.F4.man1a1.png
 name: mannosidase alpha class 1A member 1

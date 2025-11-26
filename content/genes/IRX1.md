@@ -199,8 +199,8 @@ images:
 - caption: IRX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/IRX1/455080_24.jpg
   location: Placcode
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LRX1.FIG3F.KHUD.2009.jpg
 - caption: IRX1 expression

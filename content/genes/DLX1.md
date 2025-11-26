@@ -109,36 +109,36 @@ images:
 - caption: DLX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX1/468737_12.jpg
   location: Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.FIG3D.SHIG.2000.jpg
 - caption: DLX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX1/468737_13.jpg
   location: Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.FIG3E.SHIG.2000.jpg
 - caption: DLX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX1/468737_14.jpg
   location: Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.FIG7C.SHIG.2000.jpg
 - caption: DLX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX1/468737_15.jpg
   location: Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX1.FIG3F.SHIG.2000.jpg
 - caption: DLX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX1/468737_16.jpg
   location: null
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3a.SHIG.2000.jpg
 - caption: DLX1 expression

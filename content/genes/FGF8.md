@@ -423,15 +423,15 @@ images:
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_55.jpg
   location: Isthmus/MHB
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FGF8.FIG3D.AGLYA.2007.jpg
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_56.jpg
   location: Isthmus/MHB
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FGF8.FIG3F.AGLYA.2007.jpg
 - caption: FGF8 expression
@@ -640,78 +640,78 @@ images:
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_86.jpg
   location: Ectoderm
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FGF8.FIG2A.SHIG.2000.jpg
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_87.jpg
   location: Ectoderm, Forebrain, Pharyngeal Arches and Clefts, Surface Ectoderm
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FGF8.FIG2C.SHIG.2000.jpg
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_88.jpg
   location: Pharyngeal Arches and Clefts, Surface Ectoderm
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FGF8.FIG2D.SHIG.2000.jpg
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_89.jpg
   location: Pharyngeal Arches and Clefts, Surface Ectoderm
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FGF8.FIG2H.SHIG.2000.jpg
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_90.jpg
   location: Forebrain, Isthmus/MHB, Pharyngeal Arches and Clefts, Surface Ectoderm
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FGF8.FIG2E.SHIG.2000.jpg
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_91.jpg
   location: Ectoderm, Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FGF8.FIG3A.SHIG.2000.jpg
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_92.jpg
   location: Ectoderm, Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FGF8.FIG2F.SHIG.2000.jpg
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_93.jpg
   location: null
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2c.SHIG.2000.jpg
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_94.jpg
   location: Ectoderm, Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FGF8.FIG3B.SHIG.2000.jpg
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_95.jpg
   location: Ectoderm, Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FGF8.FIG3I.SHIG.2000.jpg
 - caption: FGF8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF8/461905_96.jpg
   location: null
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3c.SHIG.2000.jpg
 - caption: FGF8 expression

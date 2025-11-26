@@ -18,22 +18,22 @@ images:
 - caption: EDN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDN1/454132_0.jpg
   location: Endothelial Cells, Head Mesenchyme, Pharynx
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDN1_HH 12 _s02.jpg
 - caption: EDN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDN1/454132_1.jpg
   location: Endocardium, Endothelial Cells, Neural Plate/Tube, Pharynx
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDN1_HH 12 _s36.jpg
 - caption: EDN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDN1/454132_2.jpg
   location: Endothelial Cells
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDN1_HH 12 _s47.jpg
 - caption: EDN1 expression
@@ -41,24 +41,24 @@ images:
   location: Endocardium, Endothelial Cells, Extraembryonic Blood Vessels, Eye, Forebrain,
     Head Mesenchyme, Hindbrain, Midbrain, Neural Plate/Tube, Pharyngeal Arches and
     Clefts
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDN1_HH 12 x25 (2)
     dorsal.jpg
 - caption: EDN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDN1/454132_4.jpg
   location: null
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDN1_HH 12 x25 (2).jpg
 - caption: EDN1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EDN1/454132_5.jpg
   location: Endocardium, Endothelial Cells, Extraembryonic Blood Vessels, Eye, Neural
     Plate/Tube, Oral Pharynx
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EDN1_HH 12 x25 (3).jpg
 - caption: EDN1 expression

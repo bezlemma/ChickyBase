@@ -92,8 +92,8 @@ images:
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_10.jpg
   location: Spinal Cord, Spinal Ganglia and Nerves
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG7G.AGLYA.2007.jpg
 - caption: PAX7 expression
@@ -127,57 +127,57 @@ images:
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_15.jpg
   location: Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG1J.KHUD.2009.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_16.jpg
   location: Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG1S.KHUD.2009.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_17.jpg
   location: null
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.KHUD.2009.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_18.jpg
   location: Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG1BB.KHUD.2009.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_19.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG2A.KHUD.2009.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_20.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG2K.KHUD.2009.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_21.jpg
   location: null
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.KHUD.2009.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_22.jpg
   location: Neural Crest, Neural Plate/Tube, Somites
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX7.FIG2U.KHUD.2009.jpg
 - caption: PAX7 expression
@@ -494,8 +494,8 @@ images:
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_66.jpg
   location: null
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.ALLIMAGES-6.jpg
 - caption: PAX7 expression
@@ -536,15 +536,15 @@ images:
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_72.jpg
   location: Diencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.I.Ferran.2012.PAX7.HH25.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_73.jpg
   location: Forebrain, Midbrain
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.H.Ferran.2012.PAX3PAx7.HH26.jpg
 - caption: PAX7 expression

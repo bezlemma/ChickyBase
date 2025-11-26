@@ -18,24 +18,24 @@ images:
 - caption: TMSB4X expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TMSB4X/452513_0.jpg
   location: Eye
-  source: Dias da silva et al. 2007
-  source_label: Dias da silva et al. 2007
+  source: Dias Da Silva et al. 2007
+  source_label: Dias Da Silva et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/thymosin.Dias da
     Silva.2007.Figure3G.jpg
 - caption: TMSB4X expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TMSB4X/452513_1.jpg
   location: Eye
-  source: Dias da silva et al. 2007
-  source_label: Dias da silva et al. 2007
+  source: Dias Da Silva et al. 2007
+  source_label: Dias Da Silva et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/thymosin.Dias da
     Silva.2007.Figure3H.jpg
 - caption: TMSB4X expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TMSB4X/452513_2.jpg
   location: Eye
-  source: Dias da silva et al. 2007
-  source_label: Dias da silva et al. 2007
+  source: Dias Da Silva et al. 2007
+  source_label: Dias Da Silva et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/thymosin.Dias da
     Silva.2007.Figure3I.jpg
@@ -239,24 +239,24 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TMSB4X/452513_31.jpg
   location: Area Opaca, Headfold, Lateral Plate Mesoderm, Neural Plate/Tube, Primitive
     Streak
-  source: DiasdaSilva et al. 2007
-  source_label: DiasdaSilva et al. 2007
+  source: Dias Da Silva et al. 2007
+  source_label: Dias Da Silva et al. 2007
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THYMOSIN B4_HH 7
     x30.jpg
 - caption: TMSB4X expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TMSB4X/452513_32.jpg
   location: Endoderm, Lateral Plate Mesoderm, Neural Plate/Tube, Notochord
-  source: DiasdaSilva et al. 2007
-  source_label: DiasdaSilva et al. 2007
+  source: Dias Da Silva et al. 2007
+  source_label: Dias Da Silva et al. 2007
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THYMOSIN B4_HH 8
     x30 ventral.jpg
 - caption: TMSB4X expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TMSB4X/452513_33.jpg
   location: null
-  source: DiasdaSilva et al. 2007
-  source_label: DiasdaSilva et al. 2007
+  source: Dias Da Silva et al. 2007
+  source_label: Dias Da Silva et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THYMOSIN B4_HH 10
     x25 ventral.jpg
@@ -265,16 +265,16 @@ images:
   location: Anterior Intestinal Portal, Aorta, Blood Islands, Extraembryonic Blood
     Vessels, Forebrain, Head Mesenchyme, Hindbrain, Lateral Plate Mesoderm, Midbrain,
     Neural Plate/Tube, Somites, extraembryonic mesoderm
-  source: DiasdaSilva et al. 2007
-  source_label: DiasdaSilva et al. 2007
+  source: Dias Da Silva et al. 2007
+  source_label: Dias Da Silva et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THYMOSIN B4_HH 10
     x25.jpg
 - caption: TMSB4X expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TMSB4X/452513_35.jpg
   location: null
-  source: DiasdaSilva et al. 2007
-  source_label: DiasdaSilva et al. 2007
+  source: Dias Da Silva et al. 2007
+  source_label: Dias Da Silva et al. 2007
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THYMOSIN B4_HH 11
     x20 ventral.jpg
@@ -282,16 +282,16 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TMSB4X/452513_36.jpg
   location: Anterior Intestinal Portal, Aorta, Extraembryonic Blood Vessels, Forebrain,
     Head Mesenchyme, Lateral Plate Mesoderm, Midbrain, Notochord, Rhombomeres, Somites
-  source: DiasdaSilva et al. 2007
-  source_label: DiasdaSilva et al. 2007
+  source: Dias Da Silva et al. 2007
+  source_label: Dias Da Silva et al. 2007
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THYMOSIN B4_HH 11
     x20.jpg
 - caption: TMSB4X expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TMSB4X/452513_37.jpg
   location: null
-  source: DiasdaSilva et al. 2007
-  source_label: DiasdaSilva et al. 2007
+  source: Dias Da Silva et al. 2007
+  source_label: Dias Da Silva et al. 2007
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THYMOSIN B4_HH 11-
     x20 ventral.jpg
@@ -299,24 +299,24 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TMSB4X/452513_38.jpg
   location: Aorta, Extraembryonic Blood Vessels, Forebrain, Head Mesenchyme, Hindbrain,
     Lateral Plate Mesoderm, Midbrain, Neural Plate/Tube, Notochord, Somites
-  source: DiasdaSilva et al. 2007
-  source_label: DiasdaSilva et al. 2007
+  source: Dias Da Silva et al. 2007
+  source_label: Dias Da Silva et al. 2007
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THYMOSIN B4_HH 11-
     x20.jpg
 - caption: TMSB4X expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TMSB4X/452513_39.jpg
   location: null
-  source: DiasdaSilva et al. 2007
-  source_label: DiasdaSilva et al. 2007
+  source: Dias Da Silva et al. 2007
+  source_label: Dias Da Silva et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THYMOSIN B4_HH 12
     x20 ventral.jpg
 - caption: TMSB4X expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TMSB4X/452513_40.jpg
   location: Widespread Expression
-  source: DiasdaSilva et al. 2007
-  source_label: DiasdaSilva et al. 2007
+  source: Dias Da Silva et al. 2007
+  source_label: Dias Da Silva et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THYMOSIN B4_HH 12
     x20.jpg

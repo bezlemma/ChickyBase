@@ -97,39 +97,39 @@ images:
 - caption: ESR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ESR1/459651_9.jpg
   location: Ovary
-  source: Carre-eusbe et al. 2009
-  source_label: Carre-eusbe et al. 2009
+  source: Carre-Eusebe et al. 2009
+  source_label: Carre-Eusebe et al. 2009
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ERalpha.Carre-Eusbe.2009.Fig.6
     er1 st26.png
 - caption: ESR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ESR1/459651_10.jpg
   location: Gonad
-  source: Carre-eusbe et al. 2009
-  source_label: Carre-eusbe et al. 2009
+  source: Carre-Eusebe et al. 2009
+  source_label: Carre-Eusebe et al. 2009
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ERalpha.Carre-Eusbe.2009.Fig.6
     er1 st32.png
 - caption: ESR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ESR1/459651_11.jpg
   location: null
-  source: Carre-eusbe et al. 2009
-  source_label: Carre-eusbe et al. 2009
+  source: Carre-Eusebe et al. 2009
+  source_label: Carre-Eusebe et al. 2009
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ERalpha.Carre-Eusbe.2009.Fig.6.png
 - caption: ESR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ESR1/459651_12.jpg
   location: Ovary
-  source: Carre-eusebe et al. 2009
-  source_label: Carre-eusebe et al. 2009
+  source: Carre-Eusebe et al. 2009
+  source_label: Carre-Eusebe et al. 2009
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ERalpha.Carre-Eusebe.2009.Fig.7
     er1.png
 - caption: ESR1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ESR1/459651_13.jpg
   location: null
-  source: Carre-eusebe et al. 2009
-  source_label: Carre-eusebe et al. 2009
+  source: Carre-Eusebe et al. 2009
+  source_label: Carre-Eusebe et al. 2009
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ERalpha.Carre-Eusebe.2009.Fig.7.png
 name: estrogen receptor 1

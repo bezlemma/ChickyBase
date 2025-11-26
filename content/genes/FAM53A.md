@@ -19,64 +19,64 @@ images:
 - caption: FAM53A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FAM53A/452572_0.jpg
   location: Area Opaca, Primitive Streak
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FAM53A_HH3+ x30.jpg
 - caption: FAM53A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FAM53A/452572_1.jpg
   location: Area Opaca, Epiblast, Primitive Streak
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FAM53A_HH4 x30.jpg
 - caption: FAM53A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FAM53A/452572_2.jpg
   location: Neural Plate/Tube, Primitive Streak
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FAM53A_HH6 x30.jpg
 - caption: FAM53A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FAM53A/452572_3.jpg
   location: Neural Plate/Tube, Primitive Streak
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FAM53A_HH8+ x30.jpg
 - caption: FAM53A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FAM53A/452572_4.jpg
   location: Forebrain, Hindbrain, Intermediate Mesoderm, Midbrain, Neural Plate/Tube
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FAM53A_HH9 x25.jpg
 - caption: FAM53A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FAM53A/452572_5.jpg
   location: Neural Plate/Tube
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FAM53A_HH11 x25.jpg
 - caption: FAM53A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FAM53A/452572_6.jpg
   location: Forebrain, Head Mesenchyme, Hindbrain, Midbrain, Neural Plate/Tube, Somites
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FAM53A_HH13 x25.jpg
 - caption: FAM53A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FAM53A/452572_7.jpg
   location: Widespread Expression
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FAM53A_HH21 x15.jpg
 - caption: FAM53A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FAM53A/452572_8.jpg
   location: Widespread Expression
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FAM53A_HH24 x15.jpg
 name: family with sequence similarity 53 member A

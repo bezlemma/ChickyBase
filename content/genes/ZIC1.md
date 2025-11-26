@@ -65,64 +65,64 @@ images:
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_6.jpg
   location: Epiblast, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.FIG1D.KHUD.2009.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_7.jpg
   location: Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.FIG1M.KHUD.2009.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_8.jpg
   location: Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.FIG1V.KHUD.2009.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_9.jpg
   location: null
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.KHUD.2009.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_10.jpg
   location: Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.FIG1EE.KHUD.2009.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_11.jpg
   location: Forebrain, Neural Crest, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.FIG2E.KHUD.2009.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_12.jpg
   location: Forebrain, Hindbrain, Nasal Placcode/Nerve, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.FIG2O.KHUD.2009.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_13.jpg
   location: null
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.KHUD.2009.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_14.jpg
   location: Forebrain, Hindbrain, Nasal Placcode/Nerve, Neural Plate/Tube, Somites
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ZIC1.FIG2Y.KHUD.2009.jpg
 - caption: ZIC1 expression
@@ -377,15 +377,15 @@ images:
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_47.jpg
   location: null
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.ALLIMAGES-5.jpg
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_48.jpg
   location: Forebrain, Midbrain
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.I.Zic1.ST.HH17.jpg
 - caption: ZIC1 expression
@@ -412,8 +412,8 @@ images:
 - caption: ZIC1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ZIC1/350064_52.jpg
   location: Diencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.M.Ferran.2012.Zic1.HH25.jpg
 - caption: ZIC1 expression

@@ -495,36 +495,36 @@ images:
 - caption: KDR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KDR/448844_67.jpg
   location: Dermomyotome, Intermediate Mesoderm, Sclerotome, Somites
-  source: Nimma et al. 2005
-  source_label: Nimma et al. 2005
+  source: Nimmagadda et al. 2005
+  source_label: Nimmagadda et al. 2005
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/QUEK1.FIG5AB.NIMMA.2005.jpg
 - caption: KDR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KDR/448844_68.jpg
   location: Intermediate Mesoderm, Sclerotome, Somites
-  source: Nimma et al. 2005
-  source_label: Nimma et al. 2005
+  source: Nimmagadda et al. 2005
+  source_label: Nimmagadda et al. 2005
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/QUEK1.FIG5C.NIMMA.2005.jpg
 - caption: KDR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KDR/448844_69.jpg
   location: Somites
-  source: Nimma et al. 2005
-  source_label: Nimma et al. 2005
+  source: Nimmagadda et al. 2005
+  source_label: Nimmagadda et al. 2005
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/QUEK1.FIG2A1.NIMMA.2005.jpg
 - caption: KDR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KDR/448844_70.jpg
   location: null
-  source: Nimma et al. 2005
-  source_label: Nimma et al. 2005
+  source: Nimmagadda et al. 2005
+  source_label: Nimmagadda et al. 2005
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG5.NIMMA.2005.jpg
 - caption: KDR expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/KDR/448844_71.jpg
   location: Intermediate Mesoderm, Sclerotome, Somites
-  source: Nimma et al. 2005
-  source_label: Nimma et al. 2005
+  source: Nimmagadda et al. 2005
+  source_label: Nimmagadda et al. 2005
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/QUEK1.FIG5D.NIMMA.2005.jpg
 - caption: KDR expression

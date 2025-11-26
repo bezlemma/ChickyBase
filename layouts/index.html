@@ -1,176 +1,348 @@
-{{ define "main" }}
-<div class="max-w-7xl mx-auto">
-    <!-- Hero Section -->
-    <div class="text-center mb-16">
-        <h1 class="text-5xl font-bold text-slate-900 mb-4">ChickyBase</h1>
-        <p class="text-xl text-slate-600 max-w-3xl mx-auto">
-            Data for chicken developmental biology research.
-        </p>
-    </div>
+<!DOCTYPE html>
+<html lang="en">
 
-    <!-- Data Types Grid -->
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
-        <!-- In Situ Gene Expression -->
-        <a href="{{ "genes/" | relURL }}" class="group block">
-            <div
-                class="bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 overflow-hidden h-full">
-                <div class="p-8 text-white">
-                    <div class="w-12 h-12 bg-white/20 rounded-lg flex items-center justify-center mb-4">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#2563eb',
+                        secondary: '#475569',
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+
+    <!-- Vue.js 3 (from baseof.html) -->
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+    <!-- GLightbox (from baseof.html) -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
+    <script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
+
+    <style>
+        [v-cloak] {
+            display: none;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+
+        /* Custom scrollbar for a cleaner look */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #f1f5f9;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #94a3b8;
+        }
+    </style>
+</head>
+
+<body class="bg-white text-slate-800 min-h-screen flex flex-col relative overflow-x-hidden">
+
+    <!-- Navbar (Layer 1 - Bottom) -->
+    <!-- z-40. Chicken (z-50) will overlap it. -->
+    <nav class="bg-white border-b border-slate-200 sticky top-0 shadow-sm" style="z-index: 40;" id="globalNav">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16">
+                <div class="flex">
+                    <div class="flex-shrink-0 flex items-center">
+                        <a href="/" class="text-2xl font-bold text-primary">ChickyBase</a>
+                    </div>
+                    <div class="hidden sm:ml-6 sm:flex sm:space-x-8">
+                        <a href="/"
+                            class="border-transparent text-slate-500 hover:border-primary hover:text-slate-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">Home</a>
+                        <a href="/genes/"
+                            class="border-transparent text-slate-500 hover:border-primary hover:text-slate-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">Browse
+                            Genes</a>
+                        <a href="/about/"
+                            class="border-transparent text-slate-500 hover:border-primary hover:text-slate-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">About</a>
+                    </div>
+                </div>
+                <!-- Search Icon -->
+                <div class="flex items-center">
+                    <button id="search-btn" class="p-2 text-slate-400 hover:text-primary transition-colors"
+                        aria-label="Search">
                         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z">
-                            </path>
+                                d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
                         </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Chicken Image (Layer 2 - Middle) -->
+    <!-- z-50 to be ABOVE navbar but BELOW main content -->
+    <!-- pointer-events-none is CRITICAL so clicks pass through to navbar/search -->
+    <!-- mix-blend-mode-multiply    <!-- Chicken Background -->
+    <div class="absolute top-0 right-0 w-[70%] h-full pointer-events-none" style="z-index: 50;">
+        <img src="/images/chicken_bg.png" alt="Chicken Background"
+            class="absolute -top-10 right-[15%] w-full object-contain opacity-100">
+    </div>
+
+    <!-- Main Content (Layer 3 - Top) -->
+    <!-- z-60 to be ABOVE chicken -->
+    <main class="relative flex-grow pt-24 pb-12" style="z-index: 60;">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+
+            <!-- Hero Section -->
+            <div class="text-center mb-16 relative">
+                <h1 class="text-5xl font-extrabold text-slate-900 tracking-tight mb-2">
+                    ChickyBase
+                </h1>
+                <p class="text-lg text-slate-600">
+                    Data for chicken developmental biology research.
+                </p>
+            </div>
+
+            <!-- Cards Grid -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
+
+                <!-- Card 1: Gene Expression -->
+                <a href="/genes/"
+                    class="group relative overflow-hidden rounded-2xl h-64 p-8 flex flex-col justify-between transition-transform hover:-translate-y-1 hover:shadow-xl">
+                    <!-- Gradient Background -->
+                    <div
+                        class="absolute inset-0 bg-gradient-to-br from-blue-500 to-indigo-600 opacity-90 group-hover:opacity-100 transition-opacity">
                     </div>
-                    <h3 class="text-2xl font-bold mb-2">Gene Expression</h3>
-                    <p class="text-blue-100 mb-4">
-                        Browse in situ hybridization images and expression patterns across developmental stages.
-                    </p>
-                    <div class="flex items-center text-sm font-medium group-hover:translate-x-2 transition-transform">
+
+                    <div class="relative z-10 text-white">
+                        <h3 class="text-2xl font-bold mb-2">Gene Expression</h3>
+                        <p class="text-blue-100 text-sm leading-relaxed">
+                            Browse in situ hybridization images and expression patterns across developmental stages.
+                        </p>
+                    </div>
+                    <div class="relative z-10 flex items-center text-white font-medium text-sm">
                         Explore Genes
-                        <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7">
-                            </path>
-                        </svg>
+                    </div>
+                </a>
+
+                <!-- Card 2: Genome Browser -->
+                <div class="group relative overflow-hidden rounded-2xl h-64 p-8 flex flex-col justify-between">
+                    <!-- Gradient Background -->
+                    <div class="absolute inset-0 bg-gradient-to-br from-emerald-400 to-teal-500 opacity-90"></div>
+
+                    <div class="relative z-10 text-white">
+                        <h3 class="text-2xl font-bold mb-2">Genome Browser</h3>
+                        <p class="text-emerald-50 text-sm leading-relaxed">
+                            Explore genomic sequences, annotations, and comparative genomics data.
+                        </p>
+                    </div>
+                    <div class="relative z-10">
+                        <span
+                            class="inline-block px-3 py-1 bg-white/20 backdrop-blur-md rounded-full text-xs font-medium text-white">Coming
+                            Soon</span>
+                    </div>
+                </div>
+
+                <!-- Card 3: Other -->
+                <div class="group relative overflow-hidden rounded-2xl h-64 p-8 flex flex-col justify-between">
+                    <!-- Gradient Background -->
+                    <div class="absolute inset-0 bg-gradient-to-br from-purple-400 to-fuchsia-500 opacity-90"></div>
+
+                    <div class="relative z-10 text-white">
+                        <h3 class="text-2xl font-bold mb-2">Other</h3>
+                        <p class="text-purple-50 text-sm leading-relaxed">
+                            Force measurements? Mass Spec? Whatever we can find...
+                        </p>
+                    </div>
+                    <div class="relative z-10">
+                        <span
+                            class="inline-block px-3 py-1 bg-white/20 backdrop-blur-md rounded-full text-xs font-medium text-white">Coming
+                            Soon</span>
                     </div>
                 </div>
             </div>
-        </a>
 
-        <!-- Genome Browser (Placeholder) -->
-        <div class="group block opacity-60 cursor-not-allowed">
-            <div class="bg-gradient-to-br from-green-500 to-green-600 rounded-xl shadow-lg overflow-hidden h-full">
-                <div class="p-8 text-white">
-                    <div class="w-12 h-12 bg-white/20 rounded-lg flex items-center justify-center mb-4">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <!-- Stats Section -->
+            <div class="mb-16">
+                <h2 class="text-center text-lg font-bold text-slate-800 mb-8">Database Statistics</h2>
+
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
+                    <div>
+                        <div class="text-4xl font-bold text-blue-600 mb-1">
+                            {{ len (where .Site.RegularPages "Section" "genes") }}
+                        </div>
+                        <div class="text-sm text-slate-500">Genes with Expression Data</div>
+                    </div>
+                    <div>
+                        <div class="text-4xl font-bold text-slate-800 mb-1">
+                            {{ $imageCount := 0 }}
+                            {{ range where .Site.RegularPages "Section" "genes" }}
+                            {{ if .Params.images }}
+                            {{ $imageCount = add $imageCount (len .Params.images) }}
+                            {{ end }}
+                            {{ if .Params.expression_data }}
+                            {{ range .Params.expression_data }}
+                            {{ $imageCount = add $imageCount (len .entries) }}
+                            {{ end }}
+                            {{ end }}
+                            {{ end }}
+                            {{ $imageCount }}
+                        </div>
+                        <div class="text-sm text-slate-500">Expression Images</div>
+                    </div>
+                    <div>
+                        <div class="text-4xl font-bold text-blue-600 mb-1">
+                            {{ len .Site.Data.papers }}
+                        </div>
+                        <div class="text-sm text-slate-500">Publications</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- External Resources -->
+            <div>
+                <h2 class="text-xl font-bold text-slate-900 mb-6">External Resources</h2>
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
+                    <a href="https://www.ncbi.nlm.nih.gov/gene" target="_blank"
+                        class="flex items-center p-4 bg-white rounded-xl border border-slate-200 hover:border-blue-300 hover:shadow-md transition-all">
+                        <div>
+                            <div class="font-bold text-slate-800 text-sm">NCBI Gene</div>
+                            <div class="text-xs text-slate-500">Gene database</div>
+                        </div>
+                    </a>
+                    <a href="https://www.ensembl.org/Gallus_gallus/Info/Index" target="_blank"
+                        class="flex items-center p-4 bg-white rounded-xl border border-slate-200 hover:border-blue-300 hover:shadow-md transition-all">
+                        <div>
+                            <div class="font-bold text-slate-800 text-sm">Ensembl</div>
+                            <div class="text-xs text-slate-500">Genome browser</div>
+                        </div>
+                    </a>
+                    <a href="https://www.kegg.jp/" target="_blank"
+                        class="flex items-center p-4 bg-white rounded-xl border border-slate-200 hover:border-blue-300 hover:shadow-md transition-all">
+                        <div>
+                            <div class="font-bold text-slate-800 text-sm">KEGG</div>
+                            <div class="text-xs text-slate-500">Pathway database</div>
+                        </div>
+                    </a>
+                    <a href="http://geisha.arizona.edu/geisha/" target="_blank"
+                        class="flex items-center p-4 bg-white rounded-xl border border-slate-200 hover:border-blue-300 hover:shadow-md transition-all">
+                        <div>
+                            <div class="font-bold text-slate-800 text-sm">GEISHA</div>
+                            <div class="text-xs text-slate-500">In situ database</div>
+                        </div>
+                    </a>
+                    <a href="https://chicken.farmgtex.org/" target="_blank"
+                        class="flex items-center p-4 bg-white rounded-xl border border-slate-200 hover:border-blue-300 hover:shadow-md transition-all">
+                        <div>
+                            <div class="font-bold text-slate-800 text-sm">FarmGTEx</div>
+                            <div class="text-xs text-slate-500">Chicken GTEx</div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <!-- Search Modal (from baseof.html) -->
+    <div id="search-modal" class="fixed inset-0 z-[100] hidden" role="dialog" aria-modal="true">
+        <!-- Backdrop -->
+        <div class="absolute inset-0 bg-slate-900/50 backdrop-blur-sm transition-opacity" id="search-backdrop"></div>
+
+        <!-- Modal Panel -->
+        <div class="relative min-h-screen px-4 pt-16 pb-4 flex justify-center items-start">
+            <div class="bg-white rounded-xl shadow-2xl w-full max-w-2xl overflow-hidden transform transition-all">
+                <div class="p-4 border-b border-slate-100 flex justify-between items-center">
+                    <h3 class="text-lg font-semibold text-slate-900">Search ChickyBase</h3>
+                    <button id="close-search" class="text-slate-400 hover:text-slate-600">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z">
-                            </path>
+                                d="M6 18L18 6M6 6l12 12"></path>
                         </svg>
-                    </div>
-                    <h3 class="text-2xl font-bold mb-2">Genome Browser</h3>
-                    <p class="text-green-100 mb-4">
-                        Explore genomic sequences, annotations, and comparative genomics data.
-                    </p>
-                    <div class="flex items-center text-sm font-medium">
-                        <span class="bg-white/20 px-2 py-1 rounded text-xs">Coming Soon</span>
-                    </div>
+                    </button>
                 </div>
-            </div>
-        </div>
-
-        <!-- Research Tools -->
-        <div class="group block opacity-60 cursor-not-allowed">
-            <div class="bg-gradient-to-br from-purple-500 to-purple-600 rounded-xl shadow-lg overflow-hidden h-full">
-                <div class="p-8 text-white">
-                    <div class="w-12 h-12 bg-white/20 rounded-lg flex items-center justify-center mb-4">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z">
-                            </path>
-                        </svg>
-                    </div>
-                    <h3 class="text-2xl font-bold mb-2">Other</h3>
-                    <p class="text-purple-100 mb-4">
-                        Force measurements? Mass Spec? Whatever we can find...
-                    </p>
-                    <div class="flex items-center text-sm font-medium">
-                        <span class="bg-white/20 px-2 py-1 rounded text-xs">Coming Soon</span>
-                    </div>
+                <div class="p-6">
+                    <div id="pagefind-search"></div>
                 </div>
             </div>
         </div>
     </div>
 
-    <!-- Quick Stats -->
-    <div class="bg-white rounded-xl shadow-md border border-slate-200 p-8 mb-16">
-        <h2 class="text-2xl font-bold text-slate-900 mb-6 text-center">Database Statistics</h2>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-            <div class="text-center">
-                <div class="text-4xl font-bold text-primary mb-2">
-                    {{ len (where .Site.RegularPages "Section" "genes") }}
-                </div>
-                <div class="text-slate-600">Genes with Expression Data</div>
-            </div>
-            <div class="text-center">
-                <div class="text-4xl font-bold text-primary mb-2">
-                    {{ $imageCount := 0 }}
-                    {{ range where .Site.RegularPages "Section" "genes" }}
-                    {{ if .Params.images }}
-                    {{ $imageCount = add $imageCount (len .Params.images) }}
-                    {{ end }}
-                    {{ if .Params.expression_data }}
-                    {{ range .Params.expression_data }}
-                    {{ $imageCount = add $imageCount (len .entries) }}
-                    {{ end }}
-                    {{ end }}
-                    {{ end }}
-                    {{ $imageCount }}
-                </div>
-                <div class="text-slate-600">Expression Images</div>
-            </div>
-            <div class="text-center">
-                <div class="text-4xl font-bold text-primary mb-2">
-                    {{ len .Site.Data.papers }}
-                </div>
-                <div class="text-slate-600">Publications</div>
-            </div>
-        </div>
-    </div>
+    <!-- Pagefind CSS/JS (Loaded dynamically) -->
+    <link href="{{ " pagefind/pagefind-ui.css" | relURL }}" rel="stylesheet">
+    <script src="{{ " pagefind/pagefind-ui.js" | relURL }}"></script>
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            let pagefindInitialized = false;
+            const searchBtn = document.getElementById('search-btn');
+            const closeBtn = document.getElementById('close-search');
+            const modal = document.getElementById('search-modal');
+            const backdrop = document.getElementById('search-backdrop');
 
-    <!-- External Resources -->
-    <div class="bg-slate-50 rounded-xl border border-slate-200 p-8">
-        <h2 class="text-2xl font-bold text-slate-900 mb-6">External Resources</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-            <a href="https://www.ncbi.nlm.nih.gov/gene" target="_blank" rel="noopener noreferrer"
-                class="flex items-center p-4 bg-white rounded-lg border border-slate-200 hover:border-primary hover:shadow-md transition-all group">
-                <svg class="w-5 h-5 text-slate-400 group-hover:text-primary mr-3 flex-shrink-0" fill="none"
-                    stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                        d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
-                </svg>
-                <div>
-                    <div class="font-medium text-slate-900">NCBI Gene</div>
-                    <div class="text-xs text-slate-500">Gene database</div>
-                </div>
-            </a>
-            <a href="https://www.ensembl.org" target="_blank" rel="noopener noreferrer"
-                class="flex items-center p-4 bg-white rounded-lg border border-slate-200 hover:border-primary hover:shadow-md transition-all group">
-                <svg class="w-5 h-5 text-slate-400 group-hover:text-primary mr-3 flex-shrink-0" fill="none"
-                    stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                        d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
-                </svg>
-                <div>
-                    <div class="font-medium text-slate-900">Ensembl</div>
-                    <div class="text-xs text-slate-500">Genome browser</div>
-                </div>
-            </a>
-            <a href="https://www.genome.jp/kegg/" target="_blank" rel="noopener noreferrer"
-                class="flex items-center p-4 bg-white rounded-lg border border-slate-200 hover:border-primary hover:shadow-md transition-all group">
-                <svg class="w-5 h-5 text-slate-400 group-hover:text-primary mr-3 flex-shrink-0" fill="none"
-                    stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                        d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
-                </svg>
-                <div>
-                    <div class="font-medium text-slate-900">KEGG</div>
-                    <div class="text-xs text-slate-500">Pathway database</div>
-                </div>
-            </a>
-            <a href="https://geisha.arizona.edu" target="_blank" rel="noopener noreferrer"
-                class="flex items-center p-4 bg-white rounded-lg border border-slate-200 hover:border-primary hover:shadow-md transition-all group">
-                <svg class="w-5 h-5 text-slate-400 group-hover:text-primary mr-3 flex-shrink-0" fill="none"
-                    stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                        d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
-                </svg>
-                <div>
-                    <div class="font-medium text-slate-900">GEISHA</div>
-                    <div class="text-xs text-slate-500">in situ database</div>
-                </div>
-            </a>
-        </div>
-    </div>
-</div>
-{{ end }}
+            function openSearch() {
+                modal.classList.remove('hidden');
+                document.body.style.overflow = 'hidden'; // Prevent scrolling
+
+                if (!pagefindInitialized) {
+                    new PagefindUI({
+                        element: "#pagefind-search",
+                        showSubResults: true,
+                        showImages: false,
+                        autofocus: true
+                    });
+                    pagefindInitialized = true;
+                }
+
+                // Focus input after a tick
+                setTimeout(() => {
+                    const input = document.querySelector('.pagefind-ui__search-input');
+                    if (input) input.focus();
+                }, 100);
+            }
+
+            function closeSearch() {
+                modal.classList.add('hidden');
+                document.body.style.overflow = '';
+            }
+
+            searchBtn.addEventListener('click', openSearch);
+            closeBtn.addEventListener('click', closeSearch);
+            backdrop.addEventListener('click', closeSearch);
+
+            // Keyboard shortcuts
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape' && !modal.classList.contains('hidden')) {
+                    closeSearch();
+                }
+                if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+                    e.preventDefault();
+                    openSearch();
+                }
+            });
+        });
+    </script>
+
+</body>
+
+</html>

@@ -23,8 +23,8 @@ images:
 - caption: ADCYAP1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ADCYAP1/451848_0.jpg
   location: Heart Tube, Hindbrain, Outflow Tract, Ventricles
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ADCYAP1_HH12-_x25.jpg
 - caption: ADCYAP1 expression

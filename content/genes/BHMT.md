@@ -19,15 +19,15 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BHMT/456662_0.jpg
   location: Aorta, Blood Vessels, Endocardium, Head Mesenchyme, Somites, extraembryonic
     mesoderm
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BHMT_HH12 x25 VENTRAL.jpg
 - caption: BHMT expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BHMT/456662_1.jpg
   location: Dermomyotome, Endocardium
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BHMT_HH12_s22.jpg
 - caption: BHMT expression

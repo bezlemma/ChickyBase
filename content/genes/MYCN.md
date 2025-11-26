@@ -22,71 +22,71 @@ images:
 - caption: MYCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYCN/456305_0.jpg
   location: Ectoderm, Epiblast, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NMYC.FIG1E.KHUD.2009.jpg
 - caption: MYCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYCN/456305_1.jpg
   location: Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NMYC.FIG3C.KHUD.2009.jpg
 - caption: MYCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYCN/456305_2.jpg
   location: Ectoderm, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NMYC.FIG1N.KHUD.2009.jpg
 - caption: MYCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYCN/456305_3.jpg
   location: Ectoderm, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NMYC.FIG1W.KHUD.2009.jpg
 - caption: MYCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYCN/456305_4.jpg
   location: null
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.KHUD.2009.jpg
 - caption: MYCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYCN/456305_5.jpg
   location: Ectoderm, Neural Plate/Tube, Somites
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NMYC.FIG1FF.KHUD.2009.jpg
 - caption: MYCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYCN/456305_6.jpg
   location: Heart, Lateral Plate Mesoderm, Mesoderm, Neural Crest
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NMYC.FIG2F.KHUD.2009.jpg
 - caption: MYCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYCN/456305_7.jpg
   location: Heart, Lateral Plate Mesoderm, Mesoderm, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NMYC.FIG2P.KHUD.2009.jpg
 - caption: MYCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYCN/456305_8.jpg
   location: null
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.KHUD.2009.jpg
 - caption: MYCN expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MYCN/456305_9.jpg
   location: Heart, Lateral Plate Mesoderm, Mesoderm, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NMYC.FIG2Z.KHUD.2009.jpg
 - caption: MYCN expression

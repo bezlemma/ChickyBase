@@ -24,8 +24,8 @@ images:
 - caption: NR2F2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NR2F2/459036_0.jpg
   location: Neural Plate/Tube, Somites
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NR2F2 COUPTFII_HH
     7 x30.jpg
@@ -33,8 +33,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NR2F2/459036_1.jpg
   location: Ectoderm, Head Mesenchyme, Lateral Plate Mesoderm, Neural Plate/Tube,
     Somites
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NR2F2 COUPTFII_HH
     8 x25.jpg
@@ -42,8 +42,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NR2F2/459036_2.jpg
   location: Anterior Intestinal Portal, Ectoderm, Endoderm, Forebrain, Hindbrain,
     Intermediate Mesoderm, Lateral Plate Mesoderm, Midbrain, Somites
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NR2F2 COUPTFII_HH
     9 x25.jpg
@@ -51,8 +51,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NR2F2/459036_3.jpg
   location: Anterior Intestinal Portal, Dermomyotome, Ectoderm, Endoderm, Forebrain,
     Head Mesenchyme, Hindbrain, Lateral Plate Mesoderm, Midbrain, Notochord, Sclerotome
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NR2F2 COUPTFII_HH
     10 x25.jpg
@@ -61,8 +61,8 @@ images:
   location: Anterior Intestinal Portal, Dermomyotome, Ectoderm, Endoderm, Forebrain,
     Head Mesenchyme, Hindbrain, Intermediate Mesoderm, Midbrain, Notochord, Sclerotome,
     Somatic Mesoderm, Splanchnic Mesoderm
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NR2F2 COUPTFII_HH
     11 x25.jpg
@@ -70,30 +70,30 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NR2F2/459036_5.jpg
   location: Dermomyotome, Ectoderm, Endoderm, Sclerotome, Somatic Mesoderm, Splanchnic
     Mesoderm
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COUPTFII_HH12_s05.jpg
 - caption: NR2F2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NR2F2/459036_6.jpg
   location: Dermomyotome, Ectoderm, Neural Plate/Tube, Sclerotome, Sinus Venosus,
     Somatic Mesoderm, Splanchnic Mesoderm
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COUPTFII_HH12_s12.jpg
 - caption: NR2F2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NR2F2/459036_7.jpg
   location: Ectoderm, Head Mesenchyme, Splanchnic Mesoderm
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COUPTFII_HH12_s18.jpg
 - caption: NR2F2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NR2F2/459036_8.jpg
   location: Ectoderm, Head Mesenchyme, Mesencephalon, Neural Crest, Pharynx
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COUPTFII_HH12_s54.jpg
 - caption: NR2F2 expression
@@ -101,8 +101,8 @@ images:
   location: Dermomyotome, Ear/Otic Placode, Eye, Forebrain, Head Mesenchyme, Intermediate
     Mesoderm, Midbrain, Myelencephalon, Neural Plate/Tube, Notochord, Sclerotome,
     Sinus Venosus, Somatic Mesoderm, Somites, Splanchnic Mesoderm
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NR2F2 COUPTFII_HH
     12 b x25.jpg
@@ -111,8 +111,8 @@ images:
   location: Anterior Intestinal Portal, Aorta, Dermomyotome, Ear/Otic Placode, Forebrain,
     Head Mesenchyme, Hindbrain, Intermediate Mesoderm, Notochord, Sclerotome, Sinus
     Venosus, Somatic Mesoderm, Somites, Splanchnic Mesoderm
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NR2F2 COUPTFII_HH
     12 c x25.jpg

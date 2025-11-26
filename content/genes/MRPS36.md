@@ -49,15 +49,15 @@ images:
 - caption: MRPS36 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MRPS36/448820_4.jpg
   location: Ubiquitous Embryonic
-  source: Robb et al. 2012
-  source_label: Robb et al. 2012
+  source: Robb et al. 2013
+  source_label: Robb et al. 2013
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MRPS36.HH25.Robb.2012.F3.mrps36.png
 - caption: MRPS36 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MRPS36/448820_5.jpg
   location: null
-  source: Robb et al. 2012
-  source_label: Robb et al. 2012
+  source: Robb et al. 2013
+  source_label: Robb et al. 2013
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robb.2012.F3.mrps36.png
 name: mitochondrial ribosomal protein S36

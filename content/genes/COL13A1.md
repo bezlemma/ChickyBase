@@ -19,23 +19,23 @@ images:
 - caption: COL13A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/COL13A1/461661_0.jpg
   location: Area Opaca, Epiblast, Primitive Streak
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COL13A1_HH 4 x40.jpg
 - caption: COL13A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/COL13A1/461661_1.jpg
   location: Area Opaca, Atria, Forebrain, Hindbrain, Midbrain, Notochord, Somites
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COL13A1_HH 10+ x25
     ventral.jpg
 - caption: COL13A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/COL13A1/461661_2.jpg
   location: null
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COL13A1_HH 12+ x25
     ventral.jpg
@@ -43,8 +43,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/COL13A1/461661_3.jpg
   location: Atria, Eye, Forebrain, Foregut, Head Mesenchyme, Hindbrain, Midbrain,
     Neural Plate/Tube, Somites, extraembryonic mesoderm
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COL13A1_HH 12+ x25-b.jpg
 name: collagen type XIII alpha 1 chain

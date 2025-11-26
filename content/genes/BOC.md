@@ -171,22 +171,22 @@ images:
 - caption: BOC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BOC/456657_21.jpg
   location: Midbrain
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BOC.FIG4D.AGLYA.2007.jpg
 - caption: BOC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BOC/456657_22.jpg
   location: Midbrain
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BOC.FIG4E.AGLYA.2007.jpg
 - caption: BOC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BOC/456657_23.jpg
   location: Midbrain
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BOC.FIG4F.AGLYA.2007.jpg
 - caption: BOC expression

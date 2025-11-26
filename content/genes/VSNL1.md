@@ -22,22 +22,22 @@ images:
 - caption: VSNL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VSNL1/459019_0.jpg
   location: Retina
-  source: Brad et al. 2005
-  source_label: Brad et al. 2005
+  source: Bradford et al. 2005
+  source_label: Bradford et al. 2005
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VISININ.FIG2A.BRAD.2005.jpg
 - caption: VSNL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VSNL1/459019_1.jpg
   location: Retina
-  source: Brad et al. 2005
-  source_label: Brad et al. 2005
+  source: Bradford et al. 2005
+  source_label: Bradford et al. 2005
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VISININ.FIG2B.BRAD.2005.jpg
 - caption: VSNL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VSNL1/459019_2.jpg
   location: Retina
-  source: Brad et al. 2005
-  source_label: Brad et al. 2005
+  source: Bradford et al. 2005
+  source_label: Bradford et al. 2005
   stage: stage 38
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VISININ.FIG2C.BRAD.2005.jpg
 - caption: VSNL1 expression
@@ -50,8 +50,8 @@ images:
 - caption: VSNL1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/VSNL1/459019_4.jpg
   location: Retina
-  source: Brad et al. 2005
-  source_label: Brad et al. 2005
+  source: Bradford et al. 2005
+  source_label: Bradford et al. 2005
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/VISININ.FIG2D.BRAD.2005.jpg
 - caption: VSNL1 expression

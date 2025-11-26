@@ -319,8 +319,8 @@ images:
 - caption: NOTCH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NOTCH1/449961_40.jpg
   location: Ectoderm
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NOTCH.FIG8B.BAREM.2007.jpg
 - caption: NOTCH1 expression

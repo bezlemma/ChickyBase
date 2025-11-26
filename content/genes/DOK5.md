@@ -17,39 +17,39 @@ images:
 - caption: DOK5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DOK5/455012_0.jpg
   location: Epiblast, Extraembryonic Mesoderm, Head Process
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DOK5_HH5 x30.jpg
 - caption: DOK5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DOK5/455012_1.jpg
   location: Anterior Intestinal Portal, Extraembryonic Mesoderm, Lateral Plate Mesoderm,
     Neural Plate/Tube, Primitive Streak, Somites
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DOK5_HH8 x30.jpg
 - caption: DOK5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DOK5/455012_2.jpg
   location: Hindbrain, Intermediate Mesoderm, Lateral Plate Mesoderm, Pharyngeal Arches
     and Clefts, extraembryonic ectoderm
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DOK5_HH11 x25.jpg
 - caption: DOK5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DOK5/455012_3.jpg
   location: Widespread Expression
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DOK5_HH15 x25.jpg
 - caption: DOK5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DOK5/455012_4.jpg
   location: Anterior/Second Heart Field, Lateral Plate Mesoderm, Leg Mesenchyme, Pharyngeal
     Arches and Clefts, Wing Mesenchyme
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DOK5_HH16 x25-d.jpg
 name: docking protein 5

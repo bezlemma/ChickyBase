@@ -423,36 +423,36 @@ images:
 - caption: SIX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX3/458644_56.jpg
   location: null
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.ALLIMAGES-10.jpg
 - caption: SIX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX3/458644_57.jpg
   location: Diencephalon, Head Mesenchyme, Hypothalamus, Mesencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig2.S.Six.HH17.jpg
 - caption: SIX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX3/458644_58.jpg
   location: null
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig2.T.Six3.STHH18.jpg
 - caption: SIX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX3/458644_59.jpg
   location: Diencephalon, Mesencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig2.T3.Six3-pax3.STHH18.jpg
 - caption: SIX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX3/458644_60.jpg
   location: Diencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.A.Ferran.2012.SIX3.HH23.jpg
 - caption: SIX3 expression
@@ -465,29 +465,29 @@ images:
 - caption: SIX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX3/458644_62.jpg
   location: Diencephalon, Mesencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.B.Ferran.2012.PAX3Six3.HH23-2.jpg
 - caption: SIX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX3/458644_63.jpg
   location: Diencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.C.Ferran.2012.PAX3Six3.HH23.jpg
 - caption: SIX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX3/458644_64.jpg
   location: Diencephalon, Midbrain
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.DE.Ferran.2012.PAX3Six3.HH23.jpg
 - caption: SIX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SIX3/458644_65.jpg
   location: Diencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.P.Ferran.2012.Six3.HH25.jpg
 - caption: SIX3 expression

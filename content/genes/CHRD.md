@@ -265,15 +265,15 @@ images:
 - caption: CHRD expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHRD/450046_35.jpg
   location: Notochord
-  source: Nimma et al. 2005
-  source_label: Nimma et al. 2005
+  source: Nimmagadda et al. 2005
+  source_label: Nimmagadda et al. 2005
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CHORDIN.FIG5HIJ.NIMMA.2005.jpg
 - caption: CHRD expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CHRD/450046_36.jpg
   location: null
-  source: Nimma et al. 2005
-  source_label: Nimma et al. 2005
+  source: Nimmagadda et al. 2005
+  source_label: Nimmagadda et al. 2005
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG5.NIMMA.2005.jpg
 - caption: CHRD expression

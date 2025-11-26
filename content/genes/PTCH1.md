@@ -118,64 +118,64 @@ images:
 - caption: PTCH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTCH1/450001_12.jpg
   location: Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PCT1.FIG3A.AGLYA.2007.jpg
 - caption: PTCH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTCH1/450001_13.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PCT1.FIG3C.AGLYA.2007.jpg
 - caption: PTCH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTCH1/450001_14.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PCT1.FIG3D.AGLYA.2007.jpg
 - caption: PTCH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTCH1/450001_15.jpg
   location: Notochord, Spinal Cord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PCT1.FIG7A.AGLYA.2007.jpg
 - caption: PTCH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTCH1/450001_16.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube, Notochord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PTC1.FIG3B.AGLYA.2007.jpg
 - caption: PTCH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTCH1/450001_17.jpg
   location: Notochord, Spinal Cord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PTC1.FIG7B.AGLYA.2007.jpg
 - caption: PTCH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTCH1/450001_18.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PCT1.FIG3E.AGLYA.2007.jpg
 - caption: PTCH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTCH1/450001_19.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PCT1.FIG3F.AGLYA.2007.jpg
 - caption: PTCH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PTCH1/450001_20.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PCT1.FIG3G.AGLYA.2007.jpg
 - caption: PTCH1 expression

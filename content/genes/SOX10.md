@@ -291,50 +291,50 @@ images:
 - caption: SOX10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX10/449558_37.jpg
   location: Cranial Ganglia, Ear/Otic Placcode
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX10.FIG3B.BAREM.2007.jpg
 - caption: SOX10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX10/449558_38.jpg
   location: Ear/Otic Placcode
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX10.FIG3D.BAREM.2007.jpg
 - caption: SOX10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX10/449558_39.jpg
   location: Cranial Ganglia, Ear/Otic Placcode
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX10.FIG5A.BAREM.2007.jpg
 - caption: SOX10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX10/449558_40.jpg
   location: Ear/Otic Placcode
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX10.FIG5D.BAREM.2007.jpg
 - caption: SOX10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX10/449558_41.jpg
   location: Cranial Ganglia
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX10.FIG6C.BAREM.2007.jpg
 - caption: SOX10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX10/449558_42.jpg
   location: Cranial Ganglia, Ear/Otic Placcode
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX10.FIG7A.BAREM.2007.jpg
 - caption: SOX10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX10/449558_43.jpg
   location: Ear/Otic Placcode
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX10.FIG7B.BAREM.2007.jpg
 - caption: SOX10 expression

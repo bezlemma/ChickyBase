@@ -930,8 +930,8 @@ images:
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_125.jpg
   location: Forebrain
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.IJ.Ferran.2012.PAX3.HH25.jpg
 - caption: PAX3 expression

@@ -22,16 +22,16 @@ images:
 - caption: MME expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MME/461797_0.jpg
   location: null
-  source: Mme et al. 2018
-  source_label: Mme et al. 2018
+  source: GEISHA 2018
+  source_label: GEISHA 2018
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MME_2018_07_25__25115-Image
     Export-09_s15.jpg
 - caption: MME expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MME/461797_1.jpg
   location: null
-  source: Mme et al. 2018
-  source_label: Mme et al. 2018
+  source: GEISHA 2018
+  source_label: GEISHA 2018
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MME_2018_07_25__25115-Image
     Export-09_s19 (1).jpg

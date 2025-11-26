@@ -198,15 +198,15 @@ images:
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_24.jpg
   location: null
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.ALLIMAGES-2.jpg
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_25.jpg
   location: Diencephalon, Isthmus/MHB
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.F.TCF4.ST.HH17.jpg
 - caption: TCF7L2 expression
@@ -233,15 +233,15 @@ images:
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_29.jpg
   location: Diencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.Q.Ferran.2012.Tcf4.HH25.jpg
 - caption: TCF7L2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TCF7L2/449648_30.jpg
   location: Diencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.S.Ferran.2012.Tcf4.HH25.jpg
 - caption: TCF7L2 expression

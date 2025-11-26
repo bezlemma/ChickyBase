@@ -375,78 +375,78 @@ images:
 - caption: DLX5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX5/468735_50.jpg
   location: Ectoderm, Placcode
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX5.FIG1H.KHUD.2009.jpg
 - caption: DLX5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX5/468735_51.jpg
   location: Ectoderm
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX5.FIG3B.KHUD.2009.jpg
 - caption: DLX5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX5/468735_52.jpg
   location: Ectoderm, Placcode
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX5.FIG3E.KHUD.2009.jpg
 - caption: DLX5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX5/468735_53.jpg
   location: Ectoderm, Placcode
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX5.FIG1Q.KHUD.2009.jpg
 - caption: DLX5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX5/468735_54.jpg
   location: Ectoderm
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX5.FIG1Z.KHUD.2009.jpg
 - caption: DLX5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX5/468735_55.jpg
   location: Ectoderm
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX5.FIG1II.KHUD.2009.jpg
 - caption: DLX5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX5/468735_56.jpg
   location: null
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.KHUD.2009.jpg
 - caption: DLX5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX5/468735_57.jpg
   location: Ectoderm
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX5.FIG2I.KHUD.2009.jpg
 - caption: DLX5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX5/468735_58.jpg
   location: Nasal Placcode/Nerve
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX5.FIG2S.KHUD.2009.jpg
 - caption: DLX5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX5/468735_59.jpg
   location: Endoderm, Nasal Placcode/Nerve
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX5.FIG2CC.KHUD.2009.jpg
 - caption: DLX5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX5/468735_60.jpg
   location: null
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.KHUD.2009.jpg
 - caption: DLX5 expression

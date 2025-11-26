@@ -56,24 +56,24 @@ images:
 - caption: COL9A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/COL9A1/452401_5.jpg
   location: Eye, Retina
-  source: Diasdasilva et al. 2007
-  source_label: Diasdasilva et al. 2007
+  source: Dias da Silva et al. 2007
+  source_label: Dias da Silva et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COLix.DiasdaSilva.2007.Fig.2
     colix eye.png
 - caption: COL9A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/COL9A1/452401_6.jpg
   location: Eye, Retina
-  source: Diasdasilva et al. 2007
-  source_label: Diasdasilva et al. 2007
+  source: Dias da Silva et al. 2007
+  source_label: Dias da Silva et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COLix.DiasdaSilva.2007.Fig.2
     colix mag.png
 - caption: COL9A1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/COL9A1/452401_7.jpg
   location: null
-  source: Diasdasilva et al. 2007
-  source_label: Diasdasilva et al. 2007
+  source: Dias da Silva et al. 2007
+  source_label: Dias da Silva et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/COLix.DiasdaSilva.2007.Fig.2.png
 - caption: COL9A1 expression

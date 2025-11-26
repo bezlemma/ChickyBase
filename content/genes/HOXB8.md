@@ -128,22 +128,22 @@ images:
 - caption: HOXB8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXB8/449834_14.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXB8.FIG2D.SAKI.2000.jpg
 - caption: HOXB8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXB8/449834_15.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXB8.FIG2H.SAKI.2000.jpg
 - caption: HOXB8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXB8/449834_16.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXB8.FIG2L.SAKI.2000.jpg
 - caption: HOXB8 expression
@@ -156,8 +156,8 @@ images:
 - caption: HOXB8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXB8/449834_18.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXB8.FIG2O.SAKI.2000.jpg
 - caption: HOXB8 expression

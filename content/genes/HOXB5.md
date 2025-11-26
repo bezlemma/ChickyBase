@@ -146,22 +146,22 @@ images:
 - caption: HOXB5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXB5/461930_17.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXB5.FIG2A.SAKI.2000.jpg
 - caption: HOXB5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXB5/461930_18.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXB5.FIG2E.SAKI.2000.jpg
 - caption: HOXB5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXB5/461930_19.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXB5.FIG2I.SAKI.2000.jpg
 - caption: HOXB5 expression

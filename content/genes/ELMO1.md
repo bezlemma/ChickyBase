@@ -18,22 +18,22 @@ images:
 - caption: ELMO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ELMO1/455759_0.jpg
   location: Early Mesoderm, Epiblast, Primitive Streak
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ELMO1_HH 4+ x30 (3).jpg
 - caption: ELMO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ELMO1/455759_1.jpg
   location: Neural Plate/Tube
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ELMO1_HH 8- x30 (1).jpg
 - caption: ELMO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ELMO1/455759_2.jpg
   location: Anterior Neuropore
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ELMO1_HH9 x30 (3).jpg
 name: engulfment and cell motility 1

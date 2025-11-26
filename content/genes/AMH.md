@@ -232,47 +232,47 @@ images:
 - caption: AMH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AMH/450832_27.jpg
   location: Gonad
-  source: Carre-eusebe et al. 2009
-  source_label: Carre-eusebe et al. 2009
+  source: Carre-Eusebe et al. 2009
+  source_label: Carre-Eusebe et al. 2009
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AMH.Carre-Eusebe.2009.Fig.7
     amh st40.png
 - caption: AMH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AMH/450832_28.jpg
   location: Gonad
-  source: Carre-eusebe et al. 2009
-  source_label: Carre-eusebe et al. 2009
+  source: Carre-Eusebe et al. 2009
+  source_label: Carre-Eusebe et al. 2009
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AMH.Carre-Eusebe.2009.Fig.8
     ahb.png
 - caption: AMH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AMH/450832_29.jpg
   location: null
-  source: Carre-eusebe et al. 2009
-  source_label: Carre-eusebe et al. 2009
+  source: Carre-Eusebe et al. 2009
+  source_label: Carre-Eusebe et al. 2009
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AMH.Carre-Eusebe.2009.Fig.8.png
 - caption: AMH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AMH/450832_30.jpg
   location: Gonad
-  source: Carre-eusebe et al. 2009
-  source_label: Carre-eusebe et al. 2009
+  source: Carre-Eusebe et al. 2009
+  source_label: Carre-Eusebe et al. 2009
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AMH.Carre-Eusebe.2009.Fig.7
     amh p14.png
 - caption: AMH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AMH/450832_31.jpg
   location: null
-  source: Carre-eusebe et al. 2009
-  source_label: Carre-eusebe et al. 2009
+  source: Carre-Eusebe et al. 2009
+  source_label: Carre-Eusebe et al. 2009
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AMH.Carre-Eusebe.2009.Fig.7
     amh p28.png
 - caption: AMH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/AMH/450832_32.jpg
   location: null
-  source: Carre-eusebe et al. 2009
-  source_label: Carre-eusebe et al. 2009
+  source: Carre-Eusebe et al. 2009
+  source_label: Carre-Eusebe et al. 2009
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/AMH.Carre-Eusebe.2009.Fig.7.png
 name: anti-Mullerian hormone

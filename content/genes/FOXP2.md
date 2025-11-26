@@ -104,8 +104,8 @@ images:
 - caption: FOXP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FOXP2/450931_12.jpg
   location: Diencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.F.Ferran.2012.FoxP2.HH28.jpg
 name: forkhead box P2

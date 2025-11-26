@@ -342,85 +342,85 @@ images:
 - caption: HES4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES4/462185_42.jpg
   location: Neural Plate/Tube, Somites
-  source: Vasili et al. 2003
-  source_label: Vasili et al. 2003
+  source: Vasiliauskas et al. 2003
+  source_label: Vasiliauskas et al. 2003
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HAIRY1.FIG1A.VASILI.2003.jpg
 - caption: HES4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES4/462185_43.jpg
   location: Limb Buds, Neural Plate/Tube, Somites
-  source: Vasili et al. 2003
-  source_label: Vasili et al. 2003
+  source: Vasiliauskas et al. 2003
+  source_label: Vasiliauskas et al. 2003
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HAIRY.FIG1B.VASILI.2003.jpg
 - caption: HES4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES4/462185_44.jpg
   location: Limb Buds, Neural Plate/Tube, Somites
-  source: Vasili et al. 2003
-  source_label: Vasili et al. 2003
+  source: Vasiliauskas et al. 2003
+  source_label: Vasiliauskas et al. 2003
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HAIRY1.FIG1C.VASILI.2003.jpg
 - caption: HES4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES4/462185_45.jpg
   location: Limb Buds, Neural Plate/Tube, Somites
-  source: Vasili et al. 2003
-  source_label: Vasili et al. 2003
+  source: Vasiliauskas et al. 2003
+  source_label: Vasiliauskas et al. 2003
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HAIRY1.FIG1D.VASILI.2003.jpg
 - caption: HES4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES4/462185_46.jpg
   location: Limb Buds, Neural Plate/Tube, Somites
-  source: Vasili et al. 2003
-  source_label: Vasili et al. 2003
+  source: Vasiliauskas et al. 2003
+  source_label: Vasiliauskas et al. 2003
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HAIRY1.FIG1E.VASILI.2003.jpg
 - caption: HES4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES4/462185_47.jpg
   location: Wing Mesenchyme
-  source: Vasili et al. 2003
-  source_label: Vasili et al. 2003
+  source: Vasiliauskas et al. 2003
+  source_label: Vasiliauskas et al. 2003
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HAIRY1.FIG1F.VASILI.2003.jpg
 - caption: HES4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES4/462185_48.jpg
   location: Leg Mesenchyme, Wing Mesenchyme
-  source: Vasili et al. 2003
-  source_label: Vasili et al. 2003
+  source: Vasiliauskas et al. 2003
+  source_label: Vasiliauskas et al. 2003
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HAIRY1.FIG1G.VASILI.2003.jpg
 - caption: HES4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES4/462185_49.jpg
   location: Leg Mesenchyme
-  source: Vasili et al. 2003
-  source_label: Vasili et al. 2003
+  source: Vasiliauskas et al. 2003
+  source_label: Vasiliauskas et al. 2003
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HAIRY1.FIG1I.VASILI.2003.jpg
 - caption: HES4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES4/462185_50.jpg
   location: Wing Mesenchyme
-  source: Vasili et al. 2003
-  source_label: Vasili et al. 2003
+  source: Vasiliauskas et al. 2003
+  source_label: Vasiliauskas et al. 2003
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HAIRY1.FIG1H.VASILI.2003.jpg
 - caption: HES4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES4/462185_51.jpg
   location: Leg Mesenchyme, Wing Mesenchyme
-  source: Vasili et al. 2003
-  source_label: Vasili et al. 2003
+  source: Vasiliauskas et al. 2003
+  source_label: Vasiliauskas et al. 2003
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HAIRY1.FIG1J.VASILI.2003.jpg
 - caption: HES4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES4/462185_52.jpg
   location: Leg Mesenchyme, Wing Mesenchyme
-  source: Vasili et al. 2003
-  source_label: Vasili et al. 2003
+  source: Vasiliauskas et al. 2003
+  source_label: Vasiliauskas et al. 2003
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HAIRY1.FIG1K.VASILI.2003.jpg
 - caption: HES4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HES4/462185_53.jpg
   location: Leg Mesenchyme, Wing Mesenchyme
-  source: Vasili et al. 2003
-  source_label: Vasili et al. 2003
+  source: Vasiliauskas et al. 2003
+  source_label: Vasiliauskas et al. 2003
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HAIRY1.FIG1L.VASILI.2003.jpg
 - caption: HES4 expression

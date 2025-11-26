@@ -36,8 +36,8 @@ images:
 - caption: HOXB9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HOXB9/452386_2.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HOXB9.FIG2P.SAKI.2000.jpg
 - caption: HOXB9 expression

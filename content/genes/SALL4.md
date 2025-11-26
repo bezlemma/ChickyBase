@@ -92,78 +92,78 @@ images:
 - caption: SALL4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SALL4/350061_10.jpg
   location: Epiblast
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1A.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SALL4/350061_11.jpg
   location: null
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1N-P.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SALL4/350061_12.jpg
   location: Ectoderm, Neural Plate/Tube
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1N.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SALL4/350061_13.jpg
   location: Ectoderm, Neural Plate/Tube, Notochord
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG2BDE.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SALL4/350061_14.jpg
   location: Ectoderm, Neural Plate/Tube
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1CF.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SALL4/350061_15.jpg
   location: Ear/Otic Placcode
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1G.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SALL4/350061_16.jpg
   location: Ear/Otic Placcode, Neural Crest, Notochord
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1H.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SALL4/350061_17.jpg
   location: Lens
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1J.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SALL4/350061_18.jpg
   location: Ear/Otic Placcode, Neural Crest
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1I.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SALL4/350061_19.jpg
   location: Nasal Placcode/Nerve
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SPALT4.FIG1K.BAREM.2007.jpg
 - caption: SALL4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SALL4/350061_20.jpg
   location: Wing Mesenchyme
-  source: Barem et al. 2007
-  source_label: Barem et al. 2007
+  source: Barembaum et al. 2007
+  source_label: Barembaum et al. 2007
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/spalt4.fig1lm.barem.2007.jpg
 - caption: SALL4 expression

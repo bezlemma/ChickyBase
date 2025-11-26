@@ -18,16 +18,16 @@ images:
 - caption: EMILIN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_0.jpg
   location: Area Opaca, Epiblast, Primitive Streak
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2 ChEST378m14_HH
     5 x30 2211.jpg
 - caption: EMILIN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_1.jpg
   location: Area Opaca, Lateral Plate Mesoderm, Neural Plate/Tube, Primitive Streak
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2 ChEST378m14_HH
     6 x30 1401.jpg
@@ -35,24 +35,24 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_2.jpg
   location: Area Opaca, Headfold, Lateral Plate Mesoderm, Neural Plate/Tube, Primitive
     Streak, Somites
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2 ChEST378m14_HH
     7 x25 2609.jpg
 - caption: EMILIN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_3.jpg
   location: Lateral Plate Mesoderm, Neural Plate/Tube
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2 ChEST378m14_HH
     8+ x30 2211.jpg
 - caption: EMILIN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_4.jpg
   location: Neural Plate/Tube
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2 ChEST378m14_HH
     9 x25 1401.jpg
@@ -60,8 +60,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_5.jpg
   location: Anterior Intestinal Portal, Forebrain, Lateral Plate Mesoderm, Neural
     Plate/Tube, Notochord, Somites
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2 ChEST378m14_HH
     10+ x25 0509.jpg
@@ -69,16 +69,16 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_6.jpg
   location: Aorta, Intermediate Mesoderm, Lateral Plate Mesoderm, Neural Plate/Tube,
     Notochord, Somites, Ventricles
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2 ChEST378m14_HH
     11 x25 2211.jpg
 - caption: EMILIN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_7.jpg
   location: Intermediate Mesoderm, Lateral Plate Mesoderm, Rhombomeres
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2 ChEST378m14_HH
     12 x20 2609.jpg
@@ -86,24 +86,24 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_8.jpg
   location: Aorta, Head Mesenchyme, Intermediate Mesoderm, Lateral Plate Mesoderm,
     Notochord, Somites, Ventricles
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2 ChEST378m14_HH
     13 x20 2609.jpg
 - caption: EMILIN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_9.jpg
   location: Ventricles
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2 ChEST378m14_HH
     13 x25 0509.jpg
 - caption: EMILIN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_10.jpg
   location: Ventricles
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2 ChEST378m14_HH
     14 x20 1903.jpg
@@ -112,16 +112,16 @@ images:
   location: Forebrain, Head Mesenchyme, Hindbrain, Intermediate Mesoderm, Lateral
     Plate Mesoderm, Midbrain, Neural Plate/Tube, Notochord, Pharyngeal Arches and
     Clefts, Somites, Ventricles
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2 ChEST378m14_HH
     15 x20 2609.jpg
 - caption: EMILIN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_12.jpg
   location: Head Mesenchyme, Lung, Sclerotome, Ventricles
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2 ChEST378m14_HH
     21 x20 right.jpg
@@ -129,56 +129,56 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_13.jpg
   location: Head Mesenchyme, Lung, Mesonephros, Outflow Tract, Pharyngeal Arches and
     Clefts, Ventricles
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2 ChEST378m14_HH
     24 x20 right.jpg
 - caption: EMILIN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_14.jpg
   location: Amnion, Heart Tube, Notochord, Somites
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2 ChEST379g19_HH
     9 x30 ISH3.jpg
 - caption: EMILIN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_15.jpg
   location: Amnion, Lateral Plate Mesoderm, Notochord, Ventricles
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2 ChEST379g19_HH
     11- x25 ISH3.jpg
 - caption: EMILIN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_16.jpg
   location: Ventricles
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2 ChEST379g19_HH
     12 x25 ISH2-b2.jpg
 - caption: EMILIN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_17.jpg
   location: Ventricles
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2ChEST379g19_HH
     12+ x25.jpg
 - caption: EMILIN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_18.jpg
   location: Intermediate Mesoderm, Lateral Plate Mesoderm, Somites, Ventricles
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2ChEST379g19_HH
     12- x25 ISH1-b2.jpg
 - caption: EMILIN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EMILIN2/459789_19.jpg
   location: Ventricles
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EMILIN2ChEST379g19_HH12+_s24.jpg
 - caption: EMILIN2 expression

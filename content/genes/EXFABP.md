@@ -24,8 +24,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EXFABP/461642_0.jpg
   location: Extraembryonic, Forebrain, Heart Tube, Hindbrain, Lateral Plate Mesoderm,
     Midbrain, Neural Plate/Tube, Notochord
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EXFABP_HH 10 x30
     ISH2.jpg
@@ -33,16 +33,16 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EXFABP/461642_1.jpg
   location: Extraembryonic, Forebrain, Head Mesenchyme, Heart, Hindbrain, Lateral
     Plate Mesoderm, Midbrain, Notochord, Somites
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EXFABP_HH 11 x25
     ISH2 (1).jpg
 - caption: EXFABP expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EXFABP/461642_2.jpg
   location: Widespread Expression
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EXFABP_HH 12 x25
     ISH1 (1).jpg
@@ -50,8 +50,8 @@ images:
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/EXFABP/461642_3.jpg
   location: Forebrain, Foregut, Heart, Hindbrain, Midbrain, Neural Plate/Tube, Notochord,
     Somites
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/EXFABP_HH 12- x25
     ISH3-b.jpg

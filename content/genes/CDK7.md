@@ -152,15 +152,15 @@ images:
 - caption: CDK7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDK7/448801_18.jpg
   location: Ubiquitous
-  source: Robb et al. 2012
-  source_label: Robb et al. 2012
+  source: Robb et al. 2013
+  source_label: Robb et al. 2013
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CDK7.HH25.Robb.2012.F3.cdk7.png
 - caption: CDK7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDK7/448801_19.jpg
   location: null
-  source: Robb et al. 2012
-  source_label: Robb et al. 2012
+  source: Robb et al. 2013
+  source_label: Robb et al. 2013
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robb.2012.F3.cdk7.png
 name: cyclin dependent kinase 7

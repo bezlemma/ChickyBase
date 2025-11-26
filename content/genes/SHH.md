@@ -121,176 +121,176 @@ images:
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_14.jpg
   location: Hensen's Node
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG1A.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_15.jpg
   location: Early Mesoderm, Ectoderm, Epiblast, Hensen's Node, Primitive Streak
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG1B.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_16.jpg
   location: Hensen's Node
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG1C.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_17.jpg
   location: Head Process, Hensen's Node, Notochord, Primitive Streak
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG5IJ.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_18.jpg
   location: Neural Plate/Tube, Notochord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG1DF.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_19.jpg
   location: Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG3A.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_20.jpg
   location: Central Nervous System, Notochord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG1EG.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_21.jpg
   location: Central Nervous System, Notochord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG3C.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_22.jpg
   location: Central Nervous System, Notochord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG5Q.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_23.jpg
   location: Notochord, Spinal Cord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG7.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_24.jpg
   location: Notochord, Spinal Cord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG7A.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_25.jpg
   location: Notochord, Spinal Cord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG7E.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_26.jpg
   location: Hindbrain, Midbrain, Notochord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG3E.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_27.jpg
   location: Hindbrain, Midbrain, Notochord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG5M.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_28.jpg
   location: Hindbrain, Midbrain, Notochord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG5S.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_29.jpg
   location: Hindbrain, Midbrain, Notochord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG5F.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_30.jpg
   location: Isthmus/MHB, Midbrain, Notochord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG1H.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_31.jpg
   location: Spinal Cord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG7I.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_32.jpg
   location: Isthmus/MHB
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG5N.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_33.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG3G.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_34.jpg
   location: Hindbrain, Isthmus/MHB, Midbrain
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG3K.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_35.jpg
   location: Hindbrain, Isthmus/MHB, Midbrain
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG5O.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_36.jpg
   location: Hindbrain, Isthmus/MHB, Midbrain
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG5T.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_37.jpg
   location: Hindbrain, Isthmus/MHB, Midbrain
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG1I.AGLYA.2007.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_38.jpg
   location: Hindbrain, Isthmus/MHB, Midbrain
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.FIG1J.AGLYA.2007.jpg
 - caption: SHH expression
@@ -2002,15 +2002,15 @@ images:
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_274.jpg
   location: null
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.ALLIMAGES-8.jpg
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_275.jpg
   location: Diencephalon, Hypothalamus
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig2.Shh.HH16.jpg
 - caption: SHH expression

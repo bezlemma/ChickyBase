@@ -14,89 +14,89 @@ images:
 - caption: ENPP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP4/449380_0.jpg
   location: Epiblast, Primitive Streak
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 3
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ENPP4_HH 3 x30 (1).jpg
 - caption: ENPP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP4/449380_1.jpg
   location: Early Endoderm, Primitive Streak
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ENPP4_HH 4 x30.jpg
 - caption: ENPP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP4/449380_2.jpg
   location: Early Endoderm, Early Mesoderm, Primitive Streak
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ENPP4_HH 4+ x40 (1).jpg
 - caption: ENPP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP4/449380_3.jpg
   location: Early Mesoderm, Endoderm, Head Process, Primitive Streak
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ENPP4_HH 5 x40 (1).jpg
 - caption: ENPP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP4/449380_4.jpg
   location: Extraembryonic Mesoderm, Head Process, Headfold, Neural Plate/Tube, Primitive
     Streak
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ENPP4_HH 5+ x30 (3).jpg
 - caption: ENPP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP4/449380_5.jpg
   location: Head Process, Neural Plate/Tube, Notochord, Primitive Streak
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ENPP4_HH 6 x30 (2).jpg
 - caption: ENPP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP4/449380_6.jpg
   location: Extraembryonic Mesoderm, Lateral Plate Mesoderm, Neural Plate/Tube, Primitive
     Streak, Somites
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ENPP4_HH 7 x40 (2).jpg
 - caption: ENPP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP4/449380_7.jpg
   location: Lateral Plate Mesoderm, Neural Plate/Tube, Primitive Streak, Somites,
     extraembryonic mesoderm
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ENPP4_HH 8 x40.jpg
 - caption: ENPP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP4/449380_8.jpg
   location: Extraembryonic Mesoderm, Neural Plate/Tube, Somites
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ENPP4_HH 10-x40.jpg
 - caption: ENPP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP4/449380_9.jpg
   location: Endoderm, Neural Plate/Tube, Notochord, Sclerotome
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ENPP4_HH 12 s4 x10.jpg
 - caption: ENPP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP4/449380_10.jpg
   location: Notochord, extraembryonic mesoderm
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ENPP4_HH 12 s8 x10.jpg
 - caption: ENPP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP4/449380_11.jpg
   location: Anterior Intestinal Portal, Ear/Otic Placode, Endoderm, Eye, Forebrain,
     Head Mesenchyme, Neural Plate/Tube, Notochord, Sclerotome, extraembryonic mesoderm
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ENPP4_HH 12 x30.jpg
 - caption: ENPP4 expression
@@ -104,23 +104,23 @@ images:
   location: Ear/Otic Placode, Endoderm, Eye, Forebrain, Head Mesenchyme, Hindbrain,
     Intermediate Mesoderm, Lateral Plate Mesoderm, Midbrain, Neural Plate/Tube, Notochord,
     Somites, Ventricles, extraembryonic mesoderm
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ENPP4_HH 13.jpg
 - caption: ENPP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP4/449380_13.jpg
   location: Leg Mesenchyme, Neural Plate/Tube, Sclerotome, Wing Mesenchyme
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ENPP4_HH 21 x20.jpg
 - caption: ENPP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ENPP4/449380_14.jpg
   location: Foregut, Head Mesenchyme, Leg Mesenchyme, Mesonephros, Pharyngeal Arches
     and Clefts, Sclerotome, Spinal Cord, Wing Mesenchyme
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ENPP4_HH 24 x15 (1).jpg
 name: ectonucleotide pyrophosphatase/phosphodiesterase 4

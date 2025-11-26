@@ -70,22 +70,22 @@ images:
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_7.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.FIG4A.SAKI.2000.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_8.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.FIG4C.SAKI.2000.jpg
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_9.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.FIG4E.SAKI.2000.jpg
 - caption: WNT5A expression
@@ -98,8 +98,8 @@ images:
 - caption: WNT5A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT5A/449824_11.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT5A.FIG4G.SAKI.2000.jpg
 - caption: WNT5A expression

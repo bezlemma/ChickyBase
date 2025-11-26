@@ -19,23 +19,23 @@ images:
   location: Atria, Ectoderm, Foregut, Lateral Plate Mesoderm, Notochord, Outflow Tract,
     Somites, Ventricles, Yolk Sack or Stalk, extraembryonic ectoderm, extraembryonic
     endoderm, extraembryonic mesoderm
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/APOC3_HH12 b x25.jpg
 - caption: APOC3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/APOC3/474252_1.jpg
   location: Outflow Tract, Splanchnic Mesoderm, extraembryonic ectoderm
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/APOC3_HH12_s06.jpg
 - caption: APOC3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/APOC3/474252_2.jpg
   location: Ectoderm, Endoderm, extraembryonic ectoderm, extraembryonic endoderm,
     extraembryonic mesoderm
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/APOC3_HH12_s51.jpg
 - caption: APOC3 expression

@@ -823,22 +823,22 @@ images:
 - caption: MEIS2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MEIS2/449714_107.jpg
   location: null
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.ALLIMAGES-4.jpg
 - caption: MEIS2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MEIS2/449714_108.jpg
   location: Mesencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.GG.Meis1.Meis2.STHH17-2.jpg
 - caption: MEIS2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MEIS2/449714_109.jpg
   location: Midbrain
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.H.Meis2.ST.HH18.jpg
 - caption: MEIS2 expression

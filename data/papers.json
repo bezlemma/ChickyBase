@@ -22,10 +22,6 @@
   },
   {
     "type": "citation",
-    "citation": "Anderson 2020"
-  },
-  {
-    "type": "citation",
     "citation": "Lee 2020",
     "pmid": "32102607",
     "url": "https://pubmed.ncbi.nlm.nih.gov/32102607/",
@@ -33,7 +29,10 @@
   },
   {
     "type": "citation",
-    "citation": "Prajapati 2020"
+    "citation": "Prajapati 2020",
+    "pmid": "31988092",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31988092/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -51,7 +50,10 @@
   },
   {
     "type": "citation",
-    "citation": "Cui 2019"
+    "citation": "Cui 2019",
+    "pmid": "30825522",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30825522/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -76,11 +78,17 @@
   },
   {
     "type": "citation",
-    "citation": "Zhang 2019"
+    "citation": "Zhang 2019",
+    "pmid": "30753854",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30753854/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Han 2018"
+    "citation": "Han 2018",
+    "pmid": "29877574",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29877574/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -91,10 +99,6 @@
   },
   {
     "type": "citation",
-    "citation": "Mme 2018"
-  },
-  {
-    "type": "citation",
     "citation": "Odaka 2018",
     "pmid": "30297839",
     "url": "https://pubmed.ncbi.nlm.nih.gov/30297839/",
@@ -102,7 +106,10 @@
   },
   {
     "type": "citation",
-    "citation": "Smith 2018"
+    "citation": "Smith 2018",
+    "pmid": "30305274",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30305274/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -120,11 +127,17 @@
   },
   {
     "type": "citation",
-    "citation": "Barber 2016"
+    "citation": "Barber 2016",
+    "pmid": "27063263",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27063263/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Eckei 2016"
+    "citation": "Eckei 2016",
+    "pmid": "27680024",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27680024/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -142,7 +155,10 @@
   },
   {
     "type": "citation",
-    "citation": "Singh 2016"
+    "citation": "Singh 2016",
+    "pmid": "26553002",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26553002/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -174,7 +190,10 @@
   },
   {
     "type": "citation",
-    "citation": "Choi 2013"
+    "citation": "Choi 2013",
+    "pmid": "22997225",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22997225/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -185,11 +204,17 @@
   },
   {
     "type": "citation",
-    "citation": "Fleming 2013"
+    "citation": "Fleming 2013",
+    "pmid": "23533180",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23533180/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Flroy 2013"
+    "citation": "Fleury 2013",
+    "pmid": "23959076",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23959076/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -207,11 +232,17 @@
   },
   {
     "type": "citation",
-    "citation": "Li 2013"
+    "citation": "Li 2013",
+    "pmid": "23789109",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23789109/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Lin 2013"
+    "citation": "Lin 2013",
+    "pmid": "23318466",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23318466/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -229,11 +260,14 @@
   },
   {
     "type": "citation",
-    "citation": "Ray 2013"
+    "citation": "Robb 2013"
   },
   {
     "type": "citation",
-    "citation": "Roy 2013"
+    "citation": "Roy 2013",
+    "pmid": "23717462",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23717462/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -279,10 +313,6 @@
   },
   {
     "type": "citation",
-    "citation": "Ferran 2012"
-  },
-  {
-    "type": "citation",
     "citation": "Freter 2012",
     "pmid": "22972769",
     "url": "https://pubmed.ncbi.nlm.nih.gov/22972769/",
@@ -297,7 +327,10 @@
   },
   {
     "type": "citation",
-    "citation": "Hu 2012"
+    "citation": "Hu 2012",
+    "pmid": "23124063",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23124063/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -308,35 +341,59 @@
   },
   {
     "type": "citation",
-    "citation": "Katsu 2012"
+    "citation": "Katsu 2012",
+    "pmid": "22202776",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22202776/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Kim 2012"
+    "citation": "Kim 2012",
+    "pmid": "23058791",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23058791/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Kumar 2012"
+    "citation": "Kumar 2012",
+    "pmid": "22634565",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22634565/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Lee 2012"
+    "citation": "Lee 2012",
+    "pmid": "22496782",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22496782/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Lim 2012"
+    "citation": "Lim 2012",
+    "pmid": "22289513",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22289513/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Lin 2012"
+    "citation": "Lin 2012",
+    "pmid": "22102158",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22102158/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Lorente-C\u00e1novas 2012"
+    "citation": "Lorente-C\u00e1novas 2012",
+    "pmid": "22019302",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22019302/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Masuda 2012"
+    "citation": "Masuda 2012",
+    "pmid": "22981415",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22981415/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -354,11 +411,10 @@
   },
   {
     "type": "citation",
-    "citation": "Robb 2012"
-  },
-  {
-    "type": "citation",
-    "citation": "Sato 2012"
+    "citation": "Sato 2012",
+    "pmid": "22659139",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22659139/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -376,7 +432,10 @@
   },
   {
     "type": "citation",
-    "citation": "Wirsching 2012"
+    "citation": "Wirsching 2012",
+    "pmid": "22120963",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22120963/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -436,10 +495,6 @@
   },
   {
     "type": "citation",
-    "citation": "Daiphan 2011"
-  },
-  {
-    "type": "citation",
     "citation": "Domowicz 2011",
     "pmid": "21396923",
     "url": "https://pubmed.ncbi.nlm.nih.gov/21396923/",
@@ -454,11 +509,17 @@
   },
   {
     "type": "citation",
-    "citation": "Gordon 2011"
+    "citation": "Gordon 2011",
+    "pmid": "21710440",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21710440/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Gotoh 2011"
+    "citation": "Gotoh 2011",
+    "pmid": "21872683",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21872683/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -541,13 +602,23 @@
   },
   {
     "type": "citation",
-    "citation": "Merchan 2011"
+    "citation": "Merchan 2011",
+    "pmid": "21503155",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21503155/",
+    "resolved": true
   },
   {
     "type": "citation",
     "citation": "Mou 2011",
     "pmid": "21423653",
     "url": "https://pubmed.ncbi.nlm.nih.gov/21423653/",
+    "resolved": true
+  },
+  {
+    "type": "citation",
+    "citation": "Phan 2011",
+    "pmid": "21779375",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21779375/",
     "resolved": true
   },
   {
@@ -574,7 +645,10 @@
   },
   {
     "type": "citation",
-    "citation": "Sanchez-Guardado 2011"
+    "citation": "Sanchez-Guardado 2011",
+    "pmid": "21120931",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21120931/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -607,7 +681,10 @@
   },
   {
     "type": "citation",
-    "citation": "Verma 2011"
+    "citation": "Verma 2011",
+    "pmid": "21829615",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21829615/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -618,7 +695,10 @@
   },
   {
     "type": "citation",
-    "citation": "Xie 2011"
+    "citation": "Xie 2011",
+    "pmid": "21730158",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21730158/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -658,7 +738,10 @@
   },
   {
     "type": "citation",
-    "citation": "Bardet 2010"
+    "citation": "Bardet 2010",
+    "pmid": "20665709",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20665709/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -676,7 +759,10 @@
   },
   {
     "type": "citation",
-    "citation": "Brugmann 2010"
+    "citation": "Brugmann 2010",
+    "pmid": "20015954",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20015954/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -687,11 +773,17 @@
   },
   {
     "type": "citation",
-    "citation": "Buermans 2010"
+    "citation": "Buermans 2010",
+    "pmid": "21179454",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21179454/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Chen 2010"
+    "citation": "Chen 2010",
+    "pmid": "20336606",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20336606/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -773,7 +865,10 @@
   },
   {
     "type": "citation",
-    "citation": "Kubilus 2010"
+    "citation": "Kubilus 2010",
+    "pmid": "20471970",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20471970/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -834,7 +929,10 @@
   },
   {
     "type": "citation",
-    "citation": "Reijntjes 2010"
+    "citation": "Reijntjes 2010",
+    "pmid": "20563989",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20563989/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -906,11 +1004,17 @@
   },
   {
     "type": "citation",
-    "citation": "Young 2010"
+    "citation": "Young 2010",
+    "pmid": "20826528",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20826528/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Abellan 2009"
+    "citation": "Abellan 2009",
+    "pmid": "19459222",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19459222/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -939,7 +1043,10 @@
   },
   {
     "type": "citation",
-    "citation": "Bao 2009"
+    "citation": "Bao 2009",
+    "pmid": "19345287",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19345287/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -957,11 +1064,10 @@
   },
   {
     "type": "citation",
-    "citation": "Carre-Eusbe 2009"
-  },
-  {
-    "type": "citation",
-    "citation": "Carre-Eusebe 2009"
+    "citation": "Carre-Eusebe 2009",
+    "pmid": "19534790",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19534790/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -993,7 +1099,10 @@
   },
   {
     "type": "citation",
-    "citation": "Cui 2009"
+    "citation": "Cui 2009",
+    "pmid": "19497319",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19497319/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1026,7 +1135,10 @@
   },
   {
     "type": "citation",
-    "citation": "Garcia-Lopez 2009"
+    "citation": "Garcia-Lopez 2009",
+    "pmid": "19653319",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19653319/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1058,7 +1170,10 @@
   },
   {
     "type": "citation",
-    "citation": "Gros 2009"
+    "citation": "Gros 2009",
+    "pmid": "19359542",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19359542/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1073,10 +1188,6 @@
     "pmid": "19403835",
     "url": "https://pubmed.ncbi.nlm.nih.gov/19403835/",
     "resolved": true
-  },
-  {
-    "type": "citation",
-    "citation": "Khud 2009"
   },
   {
     "type": "citation",
@@ -1112,7 +1223,10 @@
   },
   {
     "type": "citation",
-    "citation": "Mao 2009"
+    "citation": "Mao 2009",
+    "pmid": "19386268",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19386268/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1317,11 +1431,17 @@
   },
   {
     "type": "citation",
-    "citation": "Chen 2008"
+    "citation": "Chen 2008",
+    "pmid": "18780304",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18780304/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Cooper 2008"
+    "citation": "Cooper 2008",
+    "pmid": "18366142",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18366142/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1442,7 +1562,10 @@
   },
   {
     "type": "citation",
-    "citation": "Lin 2008"
+    "citation": "Lin 2008",
+    "pmid": "18832016",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18832016/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1542,7 +1665,10 @@
   },
   {
     "type": "citation",
-    "citation": "Sj\u00f6dal 2008"
+    "citation": "Sj\u00f6dal 2008",
+    "pmid": "18647663",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18647663/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1553,7 +1679,10 @@
   },
   {
     "type": "citation",
-    "citation": "Sun 2008"
+    "citation": "Sun 2008",
+    "pmid": "18033670",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18033670/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1568,10 +1697,6 @@
   },
   {
     "type": "citation",
-    "citation": "Aglya 2007"
-  },
-  {
-    "type": "citation",
     "citation": "Aglyamova 2007",
     "pmid": "17436280",
     "url": "https://pubmed.ncbi.nlm.nih.gov/17436280/",
@@ -1579,7 +1704,10 @@
   },
   {
     "type": "citation",
-    "citation": "Albazerchi 2007"
+    "citation": "Albazerchi 2007",
+    "pmid": "17010966",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17010966/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1604,7 +1732,10 @@
   },
   {
     "type": "citation",
-    "citation": "Barem 2007"
+    "citation": "Barembaum 2007",
+    "pmid": "17933791",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17933791/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1693,11 +1824,10 @@
   },
   {
     "type": "citation",
-    "citation": "Dias Da Silva 2007"
-  },
-  {
-    "type": "citation",
-    "citation": "Diasdasilva 2007"
+    "citation": "Dias Da Silva 2007",
+    "pmid": "17585952",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17585952/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1705,7 +1835,10 @@
   },
   {
     "type": "citation",
-    "citation": "Ferran 2007"
+    "citation": "Ferran 2007",
+    "pmid": "17912743",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17912743/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1806,7 +1939,10 @@
   },
   {
     "type": "citation",
-    "citation": "Liu 2007"
+    "citation": "Liu 2007",
+    "pmid": "17239843",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17239843/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2109,7 +2245,10 @@
   },
   {
     "type": "citation",
-    "citation": "Chapman 2006"
+    "citation": "Chapman 2006",
+    "pmid": "16786592",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16786592/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2156,7 +2295,10 @@
   },
   {
     "type": "citation",
-    "citation": "Garcia-Calero 2006"
+    "citation": "Garcia-Calero 2006",
+    "pmid": "16631417",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16631417/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2209,11 +2351,17 @@
   },
   {
     "type": "citation",
-    "citation": "Jin 2006"
+    "citation": "Jin 2006",
+    "pmid": "16261621",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16261621/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Kanamoto 2006"
+    "citation": "Kanamoto 2006",
+    "pmid": "16378763",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16378763/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2292,7 +2440,10 @@
   },
   {
     "type": "citation",
-    "citation": "Nissim 2006"
+    "citation": "Nissim 2006",
+    "pmid": "16989805",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16989805/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2307,7 +2458,10 @@
   },
   {
     "type": "citation",
-    "citation": "Otto 2006"
+    "citation": "Otto 2006",
+    "pmid": "16506066",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16506066/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2340,7 +2494,10 @@
   },
   {
     "type": "citation",
-    "citation": "Stricker 2006"
+    "citation": "Stricker 2006",
+    "pmid": "17061261",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17061261/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2380,7 +2537,10 @@
   },
   {
     "type": "citation",
-    "citation": "Zhu 2006"
+    "citation": "Zhu 2006",
+    "pmid": "16323080",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16323080/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2420,10 +2580,6 @@
     "pmid": "15872005",
     "url": "https://pubmed.ncbi.nlm.nih.gov/15872005/",
     "resolved": true
-  },
-  {
-    "type": "citation",
-    "citation": "Brad 2005"
   },
   {
     "type": "citation",
@@ -2494,7 +2650,10 @@
   },
   {
     "type": "citation",
-    "citation": "Fukumoto 2005"
+    "citation": "Fukumoto 2005",
+    "pmid": "15749081",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/15749081/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2505,7 +2664,10 @@
   },
   {
     "type": "citation",
-    "citation": "Granata 2005"
+    "citation": "Granata 2005",
+    "pmid": "15617684",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/15617684/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2552,7 +2714,10 @@
   },
   {
     "type": "citation",
-    "citation": "Hudson 2005"
+    "citation": "Hudson 2005",
+    "pmid": "15830351",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/15830351/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2664,7 +2829,10 @@
   },
   {
     "type": "citation",
-    "citation": "Nimma 2005"
+    "citation": "Nimmagadda 2005",
+    "pmid": "15766751",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/15766751/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2679,7 +2847,10 @@
   },
   {
     "type": "citation",
-    "citation": "Pedersen 2005"
+    "citation": "Pedersen 2005",
+    "pmid": "16297379",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16297379/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2743,7 +2914,10 @@
   },
   {
     "type": "citation",
-    "citation": "Smith 2005"
+    "citation": "Smith 2005",
+    "pmid": "16005453",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16005453/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2762,7 +2936,10 @@
   },
   {
     "type": "citation",
-    "citation": "Theo 2005"
+    "citation": "Theodosiou 2005",
+    "pmid": "15733673",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/15733673/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2800,7 +2977,10 @@
   },
   {
     "type": "citation",
-    "citation": "Wang 2005"
+    "citation": "Wang 2005",
+    "pmid": "16202988",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16202988/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2893,7 +3073,10 @@
   },
   {
     "type": "citation",
-    "citation": "Chang 2004"
+    "citation": "Chang 2004",
+    "pmid": "15280215",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/15280215/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3289,7 +3472,10 @@
   },
   {
     "type": "citation",
-    "citation": "Grnata 2003"
+    "citation": "Granata 2003",
+    "pmid": "12798296",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12798296/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3340,7 +3526,10 @@
   },
   {
     "type": "citation",
-    "citation": "Kumar 2003"
+    "citation": "Kumar 2003",
+    "pmid": "12812792",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12812792/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3428,7 +3617,10 @@
   },
   {
     "type": "citation",
-    "citation": "Stevens 2003"
+    "citation": "Stevens 2003",
+    "pmid": "12941626",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12941626/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3464,7 +3656,10 @@
   },
   {
     "type": "citation",
-    "citation": "Vasili 2003"
+    "citation": "Vasiliauskas 2003",
+    "pmid": "14512021",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/14512021/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3515,7 +3710,10 @@
   },
   {
     "type": "citation",
-    "citation": "Brauer 2002"
+    "citation": "Brauer 2002",
+    "pmid": "11960708",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11960708/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3547,11 +3745,10 @@
   },
   {
     "type": "citation",
-    "citation": "Delbarrio 2002"
-  },
-  {
-    "type": "citation",
-    "citation": "Diezdelcorral 2002"
+    "citation": "Diez del Corral 2002",
+    "pmid": "11923204",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11923204/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3576,7 +3773,10 @@
   },
   {
     "type": "citation",
-    "citation": "Gaspar 2002"
+    "citation": "Gaspar 2002",
+    "pmid": "12117724",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12117724/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3701,7 +3901,10 @@
   },
   {
     "type": "citation",
-    "citation": "Smith 2002"
+    "citation": "Smith 2002",
+    "pmid": "12617839",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12617839/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3729,6 +3932,13 @@
     "citation": "Tao 2002",
     "pmid": "12128204",
     "url": "https://pubmed.ncbi.nlm.nih.gov/12128204/",
+    "resolved": true
+  },
+  {
+    "type": "citation",
+    "citation": "del Barrio 2002",
+    "pmid": "11923196",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11923196/",
     "resolved": true
   },
   {
@@ -3807,7 +4017,10 @@
   },
   {
     "type": "citation",
-    "citation": "Farrell 2001"
+    "citation": "Farrell 2001",
+    "pmid": "11413158",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11413158/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3825,7 +4038,10 @@
   },
   {
     "type": "citation",
-    "citation": "Holmes 2001"
+    "citation": "Holmes 2001",
+    "pmid": "11668607",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11668607/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3926,7 +4142,10 @@
   },
   {
     "type": "citation",
-    "citation": "Vargesson 2001"
+    "citation": "Vargesson 2001",
+    "pmid": "11472852",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11472852/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3944,11 +4163,17 @@
   },
   {
     "type": "citation",
-    "citation": "Zhang 2001"
+    "citation": "Zhang 2001",
+    "pmid": "11336495",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11336495/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Zhou 2001"
+    "citation": "Zhou 2001",
+    "pmid": "11567617",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11567617/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4053,7 +4278,10 @@
   },
   {
     "type": "citation",
-    "citation": "Ladher 2000"
+    "citation": "Ladher 2000",
+    "pmid": "10656762",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/10656762/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4079,10 +4307,6 @@
   },
   {
     "type": "citation",
-    "citation": "Saki 2000"
-  },
-  {
-    "type": "citation",
     "citation": "Sakiyama 2000",
     "pmid": "11076673",
     "url": "https://pubmed.ncbi.nlm.nih.gov/11076673/",
@@ -4090,7 +4314,10 @@
   },
   {
     "type": "citation",
-    "citation": "Schlange 2000"
+    "citation": "Schlange 2000",
+    "pmid": "11044621",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11044621/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4098,10 +4325,6 @@
     "pmid": "11044624",
     "url": "https://pubmed.ncbi.nlm.nih.gov/11044624/",
     "resolved": true
-  },
-  {
-    "type": "citation",
-    "citation": "Shig 2000"
   },
   {
     "type": "citation",
@@ -4116,7 +4339,10 @@
   },
   {
     "type": "citation",
-    "citation": "Stark 2000"
+    "citation": "Stark 2000",
+    "pmid": "11044615",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11044615/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4155,11 +4381,17 @@
   },
   {
     "type": "citation",
-    "citation": "Yuan 2000"
+    "citation": "Yuan 2000",
+    "pmid": "10993956",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/10993956/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Zhu 2000"
+    "citation": "Zhu 2000",
+    "pmid": "11058112",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11058112/",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4377,11 +4609,17 @@
   },
   {
     "type": "citation",
-    "citation": "Kiernan 1997"
+    "citation": "Kiernan 1997",
+    "pmid": "9398436",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9398436/",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Lemaire 1997"
+    "citation": "Lemaire 1997",
+    "pmid": "9108361",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9108361/",
+    "resolved": true
   },
   {
     "type": "citation",

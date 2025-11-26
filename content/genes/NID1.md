@@ -32,22 +32,22 @@ images:
 - caption: NID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NID1/449629_2.jpg
   location: Eye
-  source: Dias da silva et al. 2007
-  source_label: Dias da silva et al. 2007
+  source: Dias Da Silva et al. 2007
+  source_label: Dias Da Silva et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/nidogen.Dias da Silva.2007.Figure3.jpg
 - caption: NID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NID1/449629_3.jpg
   location: Eye
-  source: Dias da silva et al. 2007
-  source_label: Dias da silva et al. 2007
+  source: Dias Da Silva et al. 2007
+  source_label: Dias Da Silva et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/nidogen.Dias da Silva.2007.Figure3D.jpg
 - caption: NID1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NID1/449629_4.jpg
   location: Eye
-  source: Dias da silva et al. 2007
-  source_label: Dias da silva et al. 2007
+  source: Dias Da Silva et al. 2007
+  source_label: Dias Da Silva et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/nidogen.Dias da Silva.2007.Figure3E.jpg
 - caption: NID1 expression

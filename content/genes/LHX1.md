@@ -653,22 +653,22 @@ images:
 - caption: LHX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LHX1/461671_85.jpg
   location: null
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.ALLIMAGES-9.jpg
 - caption: LHX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LHX1/461671_86.jpg
   location: Diencephalon, Mesencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.R.STHH11.jpg
 - caption: LHX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LHX1/461671_87.jpg
   location: Diencephalon, Mesencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig2.R1.Lim1.STHH17.jpg
 - caption: LHX1 expression
@@ -709,15 +709,15 @@ images:
 - caption: LHX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LHX1/461671_93.jpg
   location: Diencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.R.Ferran.2012.Lim1.HH25.jpg
 - caption: LHX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LHX1/461671_94.jpg
   location: Diencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.T.Ferran.2012.Lim1.HH25.jpg
 - caption: LHX1 expression

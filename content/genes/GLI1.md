@@ -83,72 +83,72 @@ images:
 - caption: GLI1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI1/459521_8.jpg
   location: Midbrain, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI1.FIG5A.AGLYA.2007.jpg
 - caption: GLI1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI1/459521_9.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI1.FIG5B.AGLYA.2007.jpg
 - caption: GLI1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI1/459521_10.jpg
   location: Midbrain
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI1.FIG5C.AGLYA.2007.jpg
 - caption: GLI1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI1/459521_11.jpg
   location: Isthmus/MHB
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI1.FIG5D.AGLYA.2007.jpg
 - caption: GLI1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI1/459521_12.jpg
   location: Forebrain, Hindbrain, Isthmus/MHB, Midbrain, Neural Plate/Tube, Spinal
     Cord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI1.FIG5E.AGLYA.2007.jpg
 - caption: GLI1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI1/459521_13.jpg
   location: Spinal Cord
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI1.FIG7D.AGLYA.2007.jpg
 - caption: GLI1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI1/459521_14.jpg
   location: Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI1.FIG5F.AGLYA.2007.jpg
 - caption: GLI1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI1/459521_15.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI1.FIG5G.AGLYA.2007.jpg
 - caption: GLI1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI1/459521_16.jpg
   location: Isthmus/MHB, Midbrain, Neural Plate/Tube
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI1.FIG5UV.AGLYA.2007.jpg
 - caption: GLI1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GLI1/459521_17.jpg
   location: Isthmus/MHB
-  source: Aglya et al. 2007
-  source_label: Aglya et al. 2007
+  source: Aglyamova et al. 2007
+  source_label: Aglyamova et al. 2007
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GLI1.FIG5H.AGLYA.2007.jpg
 - caption: GLI1 expression

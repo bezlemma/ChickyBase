@@ -18,43 +18,43 @@ images:
 - caption: CCDC3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CCDC3/451441_0.jpg
   location: Widespread Expression
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CCDC3_HH12- x25 dorsal.jpg
 - caption: CCDC3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CCDC3/451441_1.jpg
   location: Widespread Expression
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CCDC3_HH12- x25.jpg
 - caption: CCDC3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CCDC3/451441_2.jpg
   location: Dermatome, Ectoderm, Endoderm, Neural Crest
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CCDC3_HH12-_s03.jpg
 - caption: CCDC3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CCDC3/451441_3.jpg
   location: Ectoderm, Endoderm, Pharynx, extraembryonic mesoderm
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CCDC3_HH12-_s25.jpg
 - caption: CCDC3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CCDC3/451441_4.jpg
   location: null
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CCDC3_HH12-_s41.jpg
 - caption: CCDC3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CCDC3/451441_5.jpg
   location: null
-  source: Anderson et al. 2020
-  source_label: Anderson et al. 2020
+  source: Anderson et al. 2019
+  source_label: Anderson et al. 2019
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CCDC3_HH12-_s57.jpg
 - caption: CCDC3 expression

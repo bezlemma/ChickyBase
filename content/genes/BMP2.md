@@ -496,36 +496,36 @@ images:
 - caption: BMP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP2/458611_65.jpg
   location: Unlabeled
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP2.FIG3B.SAKI.2000.jpg
 - caption: BMP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP2/458611_66.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP2.FIG3D.SAKI.2000.jpg
 - caption: BMP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP2/458611_67.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP2.FIG3FG.SAKI.2000.jpg
 - caption: BMP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP2/458611_68.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP2.FIG3IJ.SAKI.2000.jpg
 - caption: BMP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP2/458611_69.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP2.FIG3L.SAKI.2000.jpg
 - caption: BMP2 expression

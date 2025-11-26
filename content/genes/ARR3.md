@@ -20,29 +20,29 @@ images:
 - caption: ARR3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARR3/462297_0.jpg
   location: Retina
-  source: Brad et al. 2005
-  source_label: Brad et al. 2005
+  source: Bradford et al. 2005
+  source_label: Bradford et al. 2005
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARRESTIN.FIG2M.BRAD.2005.jpg
 - caption: ARR3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARR3/462297_1.jpg
   location: Retina
-  source: Brad et al. 2005
-  source_label: Brad et al. 2005
+  source: Bradford et al. 2005
+  source_label: Bradford et al. 2005
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARRESTIN.FIG2N.BRAD.2005.jpg
 - caption: ARR3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARR3/462297_2.jpg
   location: Retina
-  source: Brad et al. 2005
-  source_label: Brad et al. 2005
+  source: Bradford et al. 2005
+  source_label: Bradford et al. 2005
   stage: stage 43
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARRESTIN.FIG2O.BRAD.2005.jpg
 - caption: ARR3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ARR3/462297_3.jpg
   location: Retina
-  source: Brad et al. 2005
-  source_label: Brad et al. 2005
+  source: Bradford et al. 2005
+  source_label: Bradford et al. 2005
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ARRESTIN.FIG2P.BRAD.2005.jpg
 - caption: ARR3 expression

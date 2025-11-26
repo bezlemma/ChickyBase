@@ -131,92 +131,92 @@ images:
 - caption: SOX9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX9/455162_16.jpg
   location: Lung, Somites
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX9.FIG4B1.THEO.2005.jpg
 - caption: SOX9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX9/455162_17.jpg
   location: Lung, Somites
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX9.FIG4BB.THEO.2005.jpg
 - caption: SOX9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX9/455162_18.jpg
   location: Gizzard, Lung, Somites
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX9.FIG4B3.THEO.2005.jpg
 - caption: SOX9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX9/455162_19.jpg
   location: null
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG4.THEO.2005.jpg
 - caption: SOX9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX9/455162_20.jpg
   location: Gizzard
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX9.FIG1A.THEO.2005.jpg
 - caption: SOX9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX9/455162_21.jpg
   location: Gizzard, Pancreas
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX9.FIG1B.THEO.2005.jpg
 - caption: SOX9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX9/455162_22.jpg
   location: Endoderm, Hindgut
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX9.FIG1C.THEO.2005.jpg
 - caption: SOX9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX9/455162_23.jpg
   location: Gizzard
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX9.FIG4B4.THEO.2005.jpg
 - caption: SOX9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX9/455162_24.jpg
   location: Gizzard
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX9.FIG5A.THEO.2005.jpg
 - caption: SOX9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX9/455162_25.jpg
   location: null
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG5.THEO.2005.jpg
 - caption: SOX9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX9/455162_26.jpg
   location: Duodenum, Endoderm
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX9.FIG1D.THEO.2005.jpg
 - caption: SOX9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX9/455162_27.jpg
   location: Endoderm, Gut, Pancreas
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX9.FIG1E.THEO.2005.jpg
 - caption: SOX9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX9/455162_28.jpg
   location: Endoderm, Hindgut
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SOX9.FIG1F.THEO.2005.jpg
 - caption: SOX9 expression

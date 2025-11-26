@@ -251,22 +251,22 @@ images:
 - caption: FGF10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF10/449229_33.jpg
   location: Foregut, Gizzard, Midgut
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FGF10.FIG5D.THEO.2005.jpg
 - caption: FGF10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF10/449229_34.jpg
   location: Gizzard
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FGF10.FIG5E.THEO.2005.jpg
 - caption: FGF10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF10/449229_35.jpg
   location: null
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG5.THEO.2005.jpg
 - caption: FGF10 expression

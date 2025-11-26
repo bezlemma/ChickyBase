@@ -128,15 +128,15 @@ images:
 - caption: CENPH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CENPH/448901_15.jpg
   location: Ubiquitous Embryonic
-  source: Robb et al. 2012
-  source_label: Robb et al. 2012
+  source: Robb et al. 2013
+  source_label: Robb et al. 2013
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CENPH.HH25.Robb.2012.F3.cenph.png
 - caption: CENPH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CENPH/448901_16.jpg
   location: null
-  source: Robb et al. 2012
-  source_label: Robb et al. 2012
+  source: Robb et al. 2013
+  source_label: Robb et al. 2013
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Robb.2012.F3.cenph.png
 name: centromere protein H

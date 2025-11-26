@@ -516,85 +516,85 @@ images:
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_70.jpg
   location: Ectoderm, Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.FIG2G.SHIG.2000.jpg
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_71.jpg
   location: Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.FIG2H.SHIG.2000.jpg
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_72.jpg
   location: Ectoderm, Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.FIG2I.SHIG.2000.jpg
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_73.jpg
   location: Ectoderm, Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.FIG2J.SHIG.2000.jpg
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_74.jpg
   location: Ectoderm, Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.FIG2F.SHIG.2000.jpg
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_75.jpg
   location: Ectoderm, Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.FIG2K.SHIG.2000.jpg
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_76.jpg
   location: null
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.SHIG.2000.jpg
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_77.jpg
   location: Trunk Mesenchyme
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.FIG3A.SAKI.2000.jpg
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_78.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.FIG3C.SAKI.2000.jpg
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_79.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.FIG3E.SAKI.2000.jpg
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_80.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.FIG3H.SAKI.2000.jpg
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_81.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.FIG3K.SAKI.2000.jpg
 - caption: BMP4 expression
@@ -1027,8 +1027,8 @@ images:
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_143.jpg
   location: Intermediate Mesoderm, Lateral Plate Mesoderm
-  source: Nimma et al. 2005
-  source_label: Nimma et al. 2005
+  source: Nimmagadda et al. 2005
+  source_label: Nimmagadda et al. 2005
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.FIG3C.NIMMA.2005.jpg
 - caption: BMP4 expression

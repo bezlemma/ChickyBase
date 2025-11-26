@@ -129,22 +129,22 @@ images:
 - caption: WNT11 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT11/449534_15.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT11.FIG4B.SAKI.2000.jpg
 - caption: WNT11 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT11/449534_16.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT11.FIG4D.SAKI.2000.jpg
 - caption: WNT11 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT11/449534_17.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 27
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT11.FIG4F.SAKI.2000.jpg
 - caption: WNT11 expression
@@ -157,8 +157,8 @@ images:
 - caption: WNT11 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT11/449534_19.jpg
   location: Lung
-  source: Saki et al. 2000
-  source_label: Saki et al. 2000
+  source: Sakiyama et al. 2000
+  source_label: Sakiyama et al. 2000
   stage: stage 29
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT11.FIG4H.SAKI.2000.jpg
 - caption: WNT11 expression
@@ -332,15 +332,15 @@ images:
 - caption: WNT11 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT11/449534_44.jpg
   location: Gizzard
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/WNT11.FIG5C.THEO.2005.jpg
 - caption: WNT11 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/WNT11/449534_45.jpg
   location: null
-  source: Theo et al. 2005
-  source_label: Theo et al. 2005
+  source: Theodosiou et al. 2005
+  source_label: Theodosiou et al. 2005
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG5.THEO.2005.jpg
 - caption: WNT11 expression

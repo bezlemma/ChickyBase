@@ -24,22 +24,22 @@ images:
 - caption: GNAI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNAI2/461701_0.jpg
   location: Retina
-  source: Brad et al. 2005
-  source_label: Brad et al. 2005
+  source: Bradford et al. 2005
+  source_label: Bradford et al. 2005
   stage: stage 41
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRANSDUCIN.FIG2I.BRAD.2005.jpg
 - caption: GNAI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNAI2/461701_1.jpg
   location: Retina
-  source: Brad et al. 2005
-  source_label: Brad et al. 2005
+  source: Bradford et al. 2005
+  source_label: Bradford et al. 2005
   stage: stage 42
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRANSDUCIN.FIG2J.BRAD.2005.jpg
 - caption: GNAI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNAI2/461701_2.jpg
   location: Retina
-  source: Brad et al. 2005
-  source_label: Brad et al. 2005
+  source: Bradford et al. 2005
+  source_label: Bradford et al. 2005
   stage: stage 43
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRANSDUCIN.FIG2K.BRAD.2005.jpg
 - caption: GNAI2 expression
@@ -52,8 +52,8 @@ images:
 - caption: GNAI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GNAI2/461701_4.jpg
   location: Retina
-  source: Brad et al. 2005
-  source_label: Brad et al. 2005
+  source: Bradford et al. 2005
+  source_label: Bradford et al. 2005
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/TRANSDUCIN.FIG2L.BRAD.2005.jpg
 name: G protein subunit alpha i2

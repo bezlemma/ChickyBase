@@ -62,32 +62,32 @@ images:
 - caption: NEO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEO1/450048_5.jpg
   location: Spinal Cord
-  source: Daiphan et al. 2011
-  source_label: Daiphan et al. 2011
+  source: Phan et al. 2011
+  source_label: Phan et al. 2011
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NEOGENIN.DaiPhan.2011.Fig.2
     neogenin st20.png
 - caption: NEO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEO1/450048_6.jpg
   location: Spinal Cord
-  source: Daiphan et al. 2011
-  source_label: Daiphan et al. 2011
+  source: Phan et al. 2011
+  source_label: Phan et al. 2011
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NEOGENIN.DaiPhan.2011.Fig.2
     neogenin st23.png
 - caption: NEO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEO1/450048_7.jpg
   location: Spinal Cord
-  source: Daiphan et al. 2011
-  source_label: Daiphan et al. 2011
+  source: Phan et al. 2011
+  source_label: Phan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NEOGENIN.DaiPhan.2011.Fig.2
     neogenin st26.png
 - caption: NEO1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NEO1/450048_8.jpg
   location: null
-  source: Daiphan et al. 2011
-  source_label: Daiphan et al. 2011
+  source: Phan et al. 2011
+  source_label: Phan et al. 2011
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NEOGENIN.DaiPhan.2011.Fig.2.png
 name: neogenin 1

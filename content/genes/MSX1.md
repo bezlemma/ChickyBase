@@ -69,29 +69,29 @@ images:
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_6.jpg
   location: Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG3A.SHIG.2000.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_7.jpg
   location: Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 19
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG3B.SHIG.2000.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_8.jpg
   location: Pharyngeal Arches and Clefts
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG3C.SHIG.2000.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_9.jpg
   location: null
-  source: Shig et al. 2000
-  source_label: Shig et al. 2000
+  source: Shigetani et al. 2000
+  source_label: Shigetani et al. 2000
   stage: stage 24
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG3B.SHIG.2000.jpg
 - caption: MSX1 expression
@@ -384,85 +384,85 @@ images:
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_51.jpg
   location: Epiblast, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG1B.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_52.jpg
   location: Epiblast, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG3A.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_53.jpg
   location: Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG3C.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_54.jpg
   location: Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG3D.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_55.jpg
   location: Epiblast, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG1K.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_56.jpg
   location: Ectoderm, Mesoderm, Neural Plate/Tube, Placcode
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG1T.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_57.jpg
   location: null
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_58.jpg
   location: Ectoderm, Mesoderm, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG1CC.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_59.jpg
   location: Neural Crest, Neural Plate/Tube
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG2B.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_60.jpg
   location: Neural Crest
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG2L.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_61.jpg
   location: null
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.KHUD.2009.jpg
 - caption: MSX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MSX1/461090_62.jpg
   location: Neural Crest
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/MSX1.FIG2V.KHUD.2009.jpg
 - caption: MSX1 expression

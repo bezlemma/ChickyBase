@@ -126,36 +126,36 @@ images:
 - caption: DLX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX3/468731_15.jpg
   location: Neural Plate/Tube, Placcode
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX3.FIG1G.KHUD.2009.jpg
 - caption: DLX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX3/468731_16.jpg
   location: Neural Plate/Tube, Placcode
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX3.FIG1P.KHUD.2009.jpg
 - caption: DLX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX3/468731_17.jpg
   location: Ectoderm, Headfold, Neural Plate/Tube, Placcode
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX3.FIG1Y.KHUD.2009.jpg
 - caption: DLX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX3/468731_18.jpg
   location: Ectoderm, Headfold, Neural Plate/Tube, Placcode
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX3.FIG1HH.KHUD.2009.jpg
 - caption: DLX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX3/468731_19.jpg
   location: null
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG1.KHUD.2009.jpg
 - caption: DLX3 expression
@@ -168,22 +168,22 @@ images:
 - caption: DLX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX3/468731_21.jpg
   location: Ear/Otic Placcode, Ectoderm, Nasal Placcode/Nerve
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 9
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX3.FIG2R.KHUD.2009.jpg
 - caption: DLX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX3/468731_22.jpg
   location: Ear/Otic Placcode, Ectoderm, Nasal Placcode/Nerve
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/DLX3.FIG2BB.KHUD.2009.jpg
 - caption: DLX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/DLX3/468731_23.jpg
   location: null
-  source: Khud et al. 2009
-  source_label: Khud et al. 2009
+  source: Khudyakov et al. 2009
+  source_label: Khudyakov et al. 2009
   stage: stage 10
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.KHUD.2009.jpg
 - caption: DLX3 expression

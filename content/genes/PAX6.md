@@ -727,29 +727,29 @@ images:
 - caption: PAX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX6/450497_96.jpg
   location: null
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.ALLIMAGES.jpg
 - caption: PAX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX6/450497_97.jpg
   location: Diencephalon, Mesencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.PAX6.STHH11.jpg
 - caption: PAX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX6/450497_98.jpg
   location: Diencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.PAX3andPAX6.STHH13.jpg
 - caption: PAX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX6/450497_99.jpg
   location: Diencephalon, Eye
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 14
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.D.PAX6.STHH14.jpg
 - caption: PAX6 expression
@@ -776,8 +776,8 @@ images:
 - caption: PAX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX6/450497_103.jpg
   location: Diencephalon, Midbrain
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 17
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Ferran.2012.Fig.2.E.PAX6.STHH17.jpg
 - caption: PAX6 expression
@@ -832,15 +832,15 @@ images:
 - caption: PAX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX6/450497_111.jpg
   location: Midbrain
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.K.Ferran.2012.PAX6.HH25.jpg
 - caption: PAX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX6/450497_112.jpg
   location: Diencephalon, Mesencephalon
-  source: Ferran et al. 2012
-  source_label: Ferran et al. 2012
+  source: Ferran et al. 2007
+  source_label: Ferran et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Fig.7.G.Ferran.2012.PAX7PAx6.HH26.jpg
 - caption: PAX6 expression
