@@ -152,22 +152,22 @@ images:
 - caption: CDH20 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDH20/459492_18.jpg
   location: Ear/Otic Placcode
-  source: Jiankai et al. 2007
-  source_label: Jiankai et al. 2007
+  source: Luo et al. 2007
+  source_label: Luo et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cad20.Figure2H.Jiankai.2007.jpg
 - caption: CDH20 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDH20/459492_19.jpg
   location: Ear/Otic Placcode
-  source: Jiankai et al. 2007
-  source_label: Jiankai et al. 2007
+  source: Luo et al. 2007
+  source_label: Luo et al. 2007
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cad20.Figure2I.Jiankai.2007.jpg
 - caption: CDH20 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDH20/459492_20.jpg
   location: Ear/Otic Placcode
-  source: Jiankai et al. 2007
-  source_label: Jiankai et al. 2007
+  source: Luo et al. 2007
+  source_label: Luo et al. 2007
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cad20.Figure2J.Jiankai.2007.jpg
 name: cadherin 20, type 2

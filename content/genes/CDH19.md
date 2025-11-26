@@ -65,22 +65,22 @@ images:
 - caption: CDH19 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDH19/459854_6.jpg
   location: Ear/Otic Placcode
-  source: Jiankai et al. 2007
-  source_label: Jiankai et al. 2007
+  source: Luo et al. 2007
+  source_label: Luo et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cad19.Figure2E.Jiankai.2007.jpg
 - caption: CDH19 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDH19/459854_7.jpg
   location: Ear/Otic Placcode
-  source: Jiankai et al. 2007
-  source_label: Jiankai et al. 2007
+  source: Luo et al. 2007
+  source_label: Luo et al. 2007
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cad19.Figure2F.Jiankai.2007.jpg
 - caption: CDH19 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDH19/459854_8.jpg
   location: Ear/Otic Placcode
-  source: Jiankai et al. 2007
-  source_label: Jiankai et al. 2007
+  source: Luo et al. 2007
+  source_label: Luo et al. 2007
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cad19.Figure2G.Jiankai.2007.jpg
 name: cadherin 19

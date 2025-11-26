@@ -250,250 +250,250 @@ images:
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_32.jpg
   location: Forebrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.1
     cbln2 dlpall.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_33.jpg
   location: Forebrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.1
     cbln2 glv la vlt.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_34.jpg
   location: Forebrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.1
     cbln2 gp lst.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_35.jpg
   location: Forebrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.1
     cbln2 rf.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_36.jpg
   location: Forebrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.1
     cbln2 rost lfb.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_37.jpg
   location: Forebrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.1
     cbln2 telencep.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_38.jpg
   location: Forebrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.1.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_39.jpg
   location: Hindbrain, Midbrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.2
     cbln2 Ipc.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_40.jpg
   location: Hindbrain, Midbrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.2
     cbln2 io.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_41.jpg
   location: Hindbrain, Midbrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.2
     cbln2 la an.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_42.jpg
   location: Hindbrain, Midbrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.2
     cbln2 m9.10.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_43.jpg
   location: Hindbrain, Midbrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.2
     cbln2 nts.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_44.jpg
   location: Hindbrain, Midbrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.2
     cbln2 prv.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_45.jpg
   location: Hindbrain, Midbrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.2
     cbln2 rgc.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_46.jpg
   location: Hindbrain, Midbrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.2
     cbln2 slu.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_47.jpg
   location: Hindbrain, Midbrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.2
     cbln2 ttd.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_48.jpg
   location: Hindbrain, Midbrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.2.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_49.jpg
   location: Diencephalon, Telencephalon
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.3
     cbln2 a.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_50.jpg
   location: Diencephalon, Telencephalon
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.3
     cbln2 d.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_51.jpg
   location: Diencephalon, Telencephalon
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.3
     cbln2 g.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_52.jpg
   location: Diencephalon, Telencephalon
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.3.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_53.jpg
   location: Forebrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.4
     cbln2  c.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_54.jpg
   location: Forebrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.4
     cbln2  f.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_55.jpg
   location: Forebrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.4
     cbln2 a.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_56.jpg
   location: Forebrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.4.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_57.jpg
   location: Forebrain
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.5.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_58.jpg
   location: Hindbrain, Isthmus/MHB
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.6
     cbln2 a.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_59.jpg
   location: Hindbrain, Isthmus/MHB
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.6
     cbln2 d.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_60.jpg
   location: Hindbrain, Isthmus/MHB
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.6
     cbln2 i.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_61.jpg
   location: Hindbrain, Isthmus/MHB
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.6
     cbln2 l.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_62.jpg
   location: Hindbrain, Isthmus/MHB
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.6.png
 - caption: CBLN2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CBLN2/459842_63.jpg
   location: Cranial Ganglia, Retina
-  source: Renier et al. 2011
-  source_label: Renier et al. 2011
+  source: Reiner et al. 2011
+  source_label: Reiner et al. 2011
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/CBLN2.Renier.2011.Fig.7.png
 - caption: CBLN2 expression

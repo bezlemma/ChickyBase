@@ -20,40 +20,40 @@ images:
 - caption: MTF2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MTF2/462334_0.jpg
   location: Hensen's Node, Primitive Streak
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PCL2.WangS.2004.Fig.2
     pcl2 st4  .png
 - caption: MTF2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MTF2/462334_1.jpg
   location: Hensen's Node, Primitive Streak
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 5
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PCL2.WangS.2004.Fig.2
     pcl2 st5.png
 - caption: MTF2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MTF2/462334_2.jpg
   location: Hensen's Node
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PCL2.WangS.2004.Fig.2
     pcl2 st6.png
 - caption: MTF2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MTF2/462334_3.jpg
   location: Hensen's Node
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PCL2.WangS.2004.Fig.2
     pcl2 st8.png
 - caption: MTF2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/MTF2/462334_4.jpg
   location: null
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 8
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PCL2.WangS.2004.Fig.2.png
 name: metal response element binding transcription factor 2

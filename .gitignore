@@ -10,5 +10,3 @@ resources
 # Pagefind
 static/pagefind/
 
-# Images (Hosted on Cloudflare R2)
-static/images/

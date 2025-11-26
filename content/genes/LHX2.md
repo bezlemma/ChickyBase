@@ -172,95 +172,95 @@ images:
 - caption: LHX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LHX2/449818_21.jpg
   location: Head Mesenchyme, Limb Buds
-  source: Rodriguezestaban et al. 1998
-  source_label: Rodriguezestaban et al. 1998
+  source: Rodriguez-Esteban et al. 1998
+  source_label: Rodriguez-Esteban et al. 1998
   stage: stage 15
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LHX2.RodriguezEstaban.1998.Fig.4
     lhx2 st15.png
 - caption: LHX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LHX2/449818_22.jpg
   location: Eye, Forebrain, Nasal Placode/Nerve
-  source: Rodriguezestaban et al. 1998
-  source_label: Rodriguezestaban et al. 1998
+  source: Rodriguez-Esteban et al. 1998
+  source_label: Rodriguez-Esteban et al. 1998
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LHX2.RodriguezEstaban.1998.Fig.4
     lhx2 eye st16.png
 - caption: LHX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LHX2/449818_23.jpg
   location: Eye, Forebrain, Leg Mesenchyme, Nasal Placode/Nerve, Wing Mesenchyme
-  source: Rodriguezestaban et al. 1998
-  source_label: Rodriguezestaban et al. 1998
+  source: Rodriguez-Esteban et al. 1998
+  source_label: Rodriguez-Esteban et al. 1998
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LHX2.RodriguezEstaban.1998.Fig.4
     lhx2 st16.png
 - caption: LHX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LHX2/449818_24.jpg
   location: Leg Mesenchyme, Spinal Cord
-  source: Rodriguezestaban et al. 1998
-  source_label: Rodriguezestaban et al. 1998
+  source: Rodriguez-Esteban et al. 1998
+  source_label: Rodriguez-Esteban et al. 1998
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LHX2.RodriguezEstaban.1998.Fig.4
     lhx2 st21.png
 - caption: LHX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LHX2/449818_25.jpg
   location: Wing Mesenchyme
-  source: Rodriguezestaban et al. 1998
-  source_label: Rodriguezestaban et al. 1998
+  source: Rodriguez-Esteban et al. 1998
+  source_label: Rodriguez-Esteban et al. 1998
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LHX2.RodriguezEstaban.1998.Fig.4
     lhx2 wing st21.png
 - caption: LHX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LHX2/449818_26.jpg
   location: Leg Mesenchyme, Wing Mesenchyme
-  source: Rodriguezestaban et al. 1998
-  source_label: Rodriguezestaban et al. 1998
+  source: Rodriguez-Esteban et al. 1998
+  source_label: Rodriguez-Esteban et al. 1998
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LHX2.RodriguezEstaban.1998.Fig.4
     lhx2 st22.png
 - caption: LHX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LHX2/449818_27.jpg
   location: Limb Buds
-  source: Rodriguezestaban et al. 1998
-  source_label: Rodriguezestaban et al. 1998
+  source: Rodriguez-Esteban et al. 1998
+  source_label: Rodriguez-Esteban et al. 1998
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LHX2.RodriguezEstaban.1998.Fig.2
     lhx2.png
 - caption: LHX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LHX2/449818_28.jpg
   location: null
-  source: Rodriguezestaban et al. 1998
-  source_label: Rodriguezestaban et al. 1998
+  source: Rodriguez-Esteban et al. 1998
+  source_label: Rodriguez-Esteban et al. 1998
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LHX2.RodriguezEstaban.1998.Fig.2.png
 - caption: LHX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LHX2/449818_29.jpg
   location: Wing Mesenchyme
-  source: Rodriguezestaban et al. 1998
-  source_label: Rodriguezestaban et al. 1998
+  source: Rodriguez-Esteban et al. 1998
+  source_label: Rodriguez-Esteban et al. 1998
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LHX2.RodriguezEstaban.1998.Fig.4
     lhx2 st23.png
 - caption: LHX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LHX2/449818_30.jpg
   location: Leg Mesenchyme, Wing Mesenchyme
-  source: Rodriguezestaban et al. 1998
-  source_label: Rodriguezestaban et al. 1998
+  source: Rodriguez-Esteban et al. 1998
+  source_label: Rodriguez-Esteban et al. 1998
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LHX2.RodriguezEstaban.1998.Fig.4
     lhx2 st25.png
 - caption: LHX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LHX2/449818_31.jpg
   location: Leg Mesenchyme, Wing Mesenchyme
-  source: Rodriguezestaban et al. 1998
-  source_label: Rodriguezestaban et al. 1998
+  source: Rodriguez-Esteban et al. 1998
+  source_label: Rodriguez-Esteban et al. 1998
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LHX2.RodriguezEstaban.1998.Fig.4
     lhx2 st32.png
 - caption: LHX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LHX2/449818_32.jpg
   location: null
-  source: Rodriguezestaban et al. 1998
-  source_label: Rodriguezestaban et al. 1998
+  source: Rodriguez-Esteban et al. 1998
+  source_label: Rodriguez-Esteban et al. 1998
   stage: stage 32
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LHX2.RodriguezEstaban.1998.Fig.4.png
 - caption: LHX2 expression

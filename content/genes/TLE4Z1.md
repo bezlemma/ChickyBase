@@ -35,8 +35,8 @@ images:
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_2.jpg
   location: null
-  source: Vanhateren et al. 2005
-  source_label: Vanhateren et al. 2005
+  source: Van Hateren et al. 2005
+  source_label: Van Hateren et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.VANHATEREN.2005.jpg
 - caption: TLE4Z1 expression
@@ -127,8 +127,8 @@ images:
 - caption: TLE4Z1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE4Z1/454417_15.jpg
   location: null
-  source: Vanhateren et al. 2005
-  source_label: Vanhateren et al. 2005
+  source: Van Hateren et al. 2005
+  source_label: Van Hateren et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.VANHATEREN.2005.jpg
 - caption: TLE4Z1 expression

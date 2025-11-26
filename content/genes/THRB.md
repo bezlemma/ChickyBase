@@ -25,16 +25,16 @@ images:
 - caption: THRB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/THRB/461039_0.jpg
   location: Pituitary (Rudiment)
-  source: Murchow et al. 2005
-  source_label: Murchow et al. 2005
+  source: Muchow et al. 2005
+  source_label: Muchow et al. 2005
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THSBeta.Murchow.2005.Fig.3
     thsb.png
 - caption: THRB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/THRB/461039_1.jpg
   location: null
-  source: Murchow et al. 2005
-  source_label: Murchow et al. 2005
+  source: Muchow et al. 2005
+  source_label: Muchow et al. 2005
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/THSBeta.Murchow.2005.Fig.3.png
 name: thyroid hormone receptor beta

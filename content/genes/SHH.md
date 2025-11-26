@@ -1916,31 +1916,31 @@ images:
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_262.jpg
   location: Hensen's Node, Notochord
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.WangS.2004.Fig.3
     shh.png
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_263.jpg
   location: null
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.WangS.2004.Fig.3.png
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_264.jpg
   location: Hensen's Node
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.WangS.2004.Fig.5
     shh.png
 - caption: SHH expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SHH/449446_265.jpg
   location: null
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SHH.WangS.2004.Fig.5.png
 - caption: SHH expression

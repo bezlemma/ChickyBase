@@ -514,40 +514,40 @@ images:
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_69.jpg
   location: Neural Plate/Tube
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.2
     sfrp2 brain.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_70.jpg
   location: Endoderm, Neural Plate/Tube, Notochord, Somites
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.2
     sfrp2 neural tube.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_71.jpg
   location: Neural Plate/Tube, Somites
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.2
     sfrp2 somites.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_72.jpg
   location: Neural Plate/Tube, Spinal Cord
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.2
     sfrp2 spinal chord.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_73.jpg
   location: null
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 1
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.2.png
 - caption: SFRP2 expression
@@ -561,72 +561,72 @@ images:
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_75.jpg
   location: Central Nervous System
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.3
     sfrp2 st18.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_76.jpg
   location: Retina
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.4
     sfrp2 st18.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_77.jpg
   location: Myotome, Neural Plate/Tube, Notochord, Sclerotome
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.5
     sfrp2 st18.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_78.jpg
   location: Notochord
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.7
     sfrp2 st18 notochord.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_79.jpg
   location: Pharynx
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.7
     sfrp2 st18 pharynx.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_80.jpg
   location: Mesencephalon
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.3
     sfrp2 st23.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_81.jpg
   location: Eye
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.4
     sfrp2 st23 eye.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_82.jpg
   location: null
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.4
     sfrp2 st23.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_83.jpg
   location: Myotome, Neural Plate/Tube, Sclerotome
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 23
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.5
     sfrp2 st23.png
@@ -641,32 +641,32 @@ images:
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_85.jpg
   location: null
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.3
     sfrp2 st26 cs.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_86.jpg
   location: Rhombomeres
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.3
     sfrp2 st26.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_87.jpg
   location: Eye
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.4
     sfrp2 st26.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_88.jpg
   location: Spinal Cord
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.5
     sfrp2 st26.png
@@ -681,40 +681,40 @@ images:
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_90.jpg
   location: Metencephalon, Myelencephalon
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.3
     sfrp2 st28 cs.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_91.jpg
   location: Metencephalon, Myelencephalon
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.3
     sfrp2 st28.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_92.jpg
   location: Eye
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.4
     sfrp2 st28 eye.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_93.jpg
   location: Eye
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.4
     sfrp2 st28.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_94.jpg
   location: Face Mesenchyme
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.7
     sfrp2 st28.png
@@ -729,32 +729,32 @@ images:
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_96.jpg
   location: Central Nervous System
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.3
     sfrp2 st30.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_97.jpg
   location: Retina
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.4
     sfrp2 st30 retina.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_98.jpg
   location: Eye, Retina
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.4
     sfrp2 st30.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_99.jpg
   location: Spinal Cord
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 31
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.5
     sfrp2 st31.png
@@ -769,80 +769,80 @@ images:
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_101.jpg
   location: Telencephalon
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.3
     sfrp2 st34 cs.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_102.jpg
   location: Telencephalon
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.3
     sfrp2 st34.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_103.jpg
   location: Retina
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.4
     sfrp2 st34.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_104.jpg
   location: Spinal Cord
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.5
     sfrp2 st34.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_105.jpg
   location: Wing Bones
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.7
     sfrp2 st34 bones flimbs.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_106.jpg
   location: Face Mesenchyme
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.7
     sfrp2 st34 face.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_107.jpg
   location: Wing
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.7
     sfrp2 st34 flimbs.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_108.jpg
   location: Leg Bones
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.7
     sfrp2 st34 hlimbs g.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_109.jpg
   location: Leg Bones
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.7
     sfrp2 st34 hlimbs.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_110.jpg
   location: null
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 34
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.7.png
 - caption: SFRP2 expression
@@ -864,55 +864,55 @@ images:
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_113.jpg
   location: Telencephalon
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.3
     sfrp2 st35.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_114.jpg
   location: Telencephalon
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.3
     sfrp2 st36 cs.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_115.jpg
   location: Diencephalon, Telencephalon
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.3
     sfrp2 st36.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_116.jpg
   location: null
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.3.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_117.jpg
   location: Retina
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.4
     sfrp2 st35.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_118.jpg
   location: Spinal Cord
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.5
     sfrp2 st35.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_119.jpg
   location: null
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 35
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.5.png
 - caption: SFRP2 expression
@@ -933,16 +933,16 @@ images:
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_122.jpg
   location: Retina
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.4
     sfrp2 st36.png
 - caption: SFRP2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SFRP2/449574_123.jpg
   location: null
-  source: Linct et al. 2007
-  source_label: Linct et al. 2007
+  source: Lin et al. 2007
+  source_label: Lin et al. 2007
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SFRP2.LinCT.2007.Fig.4.png
 - caption: SFRP2 expression

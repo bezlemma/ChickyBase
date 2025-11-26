@@ -531,31 +531,31 @@ images:
 - caption: PITX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PITX2/450780_70.jpg
   location: Lateral Plate Mesoderm
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PITX2.WangS.2004.Fig.3
     pitx2.png
 - caption: PITX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PITX2/450780_71.jpg
   location: null
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PITX2.WangS.2004.Fig.3.png
 - caption: PITX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PITX2/450780_72.jpg
   location: Lateral Plate Mesoderm
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PITX2.WangS.2004.Fig.5
     pitx2.png
 - caption: PITX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PITX2/450780_73.jpg
   location: null
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PITX2.WangS.2004.Fig.5.png
 - caption: PITX2 expression

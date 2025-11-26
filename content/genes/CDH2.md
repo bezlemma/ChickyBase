@@ -259,8 +259,8 @@ images:
 - caption: CDH2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDH2/461302_32.jpg
   location: Ear/Otic Placcode
-  source: Jiankai et al. 2007
-  source_label: Jiankai et al. 2007
+  source: Luo et al. 2007
+  source_label: Luo et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/N-Cad.Figure1N.Jiankai.2007.jpg
 - caption: CDH2 expression
@@ -273,8 +273,8 @@ images:
 - caption: CDH2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDH2/461302_34.jpg
   location: Ear/Otic Placcode
-  source: Jiankai et al. 2007
-  source_label: Jiankai et al. 2007
+  source: Luo et al. 2007
+  source_label: Luo et al. 2007
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/N-Cad.Figure1P.Jiankai.2007.jpg
 - caption: CDH2 expression

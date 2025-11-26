@@ -250,22 +250,22 @@ images:
 - caption: CTNNB1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CTNNB1/450523_31.jpg
   location: Liver
-  source: Suksaw et al. 2004
-  source_label: Suksaw et al. 2004
+  source: Suksaweang et al. 2004
+  source_label: Suksaweang et al. 2004
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BCATENIN.FIG4B.E4.SUKSAW.2004.jpg
 - caption: CTNNB1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CTNNB1/450523_32.jpg
   location: null
-  source: Suksaw et al. 2004
-  source_label: Suksaw et al. 2004
+  source: Suksaweang et al. 2004
+  source_label: Suksaweang et al. 2004
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BCATENIN.FIG2B.E5.SUKSAW.2004.jpg
 - caption: CTNNB1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CTNNB1/450523_33.jpg
   location: null
-  source: Suksaw et al. 2004
-  source_label: Suksaw et al. 2004
+  source: Suksaweang et al. 2004
+  source_label: Suksaweang et al. 2004
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BCATENIN.FIG2B.E7.SUKSAW.2004.jpg
 - caption: CTNNB1 expression

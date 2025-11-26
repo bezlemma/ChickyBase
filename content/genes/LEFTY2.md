@@ -111,16 +111,16 @@ images:
 - caption: LEFTY2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LEFTY2/449607_13.jpg
   location: Neural Plate/Tube
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LEFTY1.WangS.2004.Fig.3
     lefty1.png
 - caption: LEFTY2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/LEFTY2/449607_14.jpg
   location: null
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/LEFTY1.WangS.2004.Fig.3.png
 - caption: LEFTY2 expression

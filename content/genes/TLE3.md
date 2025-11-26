@@ -96,8 +96,8 @@ images:
 - caption: TLE3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE3/460294_10.jpg
   location: null
-  source: Vanhateren et al. 2005
-  source_label: Vanhateren et al. 2005
+  source: Van Hateren et al. 2005
+  source_label: Van Hateren et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.VANHATEREN.2005.jpg
 - caption: TLE3 expression
@@ -188,8 +188,8 @@ images:
 - caption: TLE3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TLE3/460294_23.jpg
   location: null
-  source: Vanhateren et al. 2005
-  source_label: Vanhateren et al. 2005
+  source: Van Hateren et al. 2005
+  source_label: Van Hateren et al. 2005
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/FIG2.VANHATEREN.2005.jpg
 - caption: TLE3 expression

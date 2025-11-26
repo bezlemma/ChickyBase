@@ -286,31 +286,31 @@ images:
 - caption: NODAL expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NODAL/461809_37.jpg
   location: Lateral Plate Mesoderm
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NODAL.WangS.2004.Fig.3
     nodal.png
 - caption: NODAL expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NODAL/461809_38.jpg
   location: null
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 4
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NODAL.WangS.2004.Fig.3.png
 - caption: NODAL expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NODAL/461809_39.jpg
   location: Lateral Plate Mesoderm
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NODAL.WangS.2004.Fig.5
     nodal.png
 - caption: NODAL expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NODAL/461809_40.jpg
   location: null
-  source: Wangs et al. 2004
-  source_label: Wangs et al. 2004
+  source: Wang et al. 2004
+  source_label: Wang et al. 2004
   stage: stage 11
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NODAL.WangS.2004.Fig.5.png
 - caption: NODAL expression

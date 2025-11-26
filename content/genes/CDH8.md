@@ -80,22 +80,22 @@ images:
 - caption: CDH8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDH8/454962_8.jpg
   location: Ear/Otic Placcode
-  source: Jiankai et al. 2007
-  source_label: Jiankai et al. 2007
+  source: Luo et al. 2007
+  source_label: Luo et al. 2007
   stage: stage 37
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cad8.Figure1H.Jiankai.2007.jpg
 - caption: CDH8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDH8/454962_9.jpg
   location: Ear/Otic Placcode
-  source: Jiankai et al. 2007
-  source_label: Jiankai et al. 2007
+  source: Luo et al. 2007
+  source_label: Luo et al. 2007
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cad8.Figure1I.Jiankai.2007.jpg
 - caption: CDH8 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDH8/454962_10.jpg
   location: Ear/Otic Placcode
-  source: Jiankai et al. 2007
-  source_label: Jiankai et al. 2007
+  source: Luo et al. 2007
+  source_label: Luo et al. 2007
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cad8.Figure1J.Jiankai.2007.jpg
 - caption: CDH8 expression

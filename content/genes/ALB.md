@@ -78,29 +78,29 @@ images:
 - caption: ALB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALB/458998_8.jpg
   location: null
-  source: Suksaw et al. 2004
-  source_label: Suksaw et al. 2004
+  source: Suksaweang et al. 2004
+  source_label: Suksaweang et al. 2004
   stage: stage 22
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ALB.FIG1B.E4.SUKSAW.2004.jpg
 - caption: ALB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALB/458998_9.jpg
   location: Liver
-  source: Suksaw et al. 2004
-  source_label: Suksaw et al. 2004
+  source: Suksaweang et al. 2004
+  source_label: Suksaweang et al. 2004
   stage: stage 26
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ALB.FIG1B.E5.SUKSAW.2004.jpg
 - caption: ALB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALB/458998_10.jpg
   location: Liver
-  source: Suksaw et al. 2004
-  source_label: Suksaw et al. 2004
+  source: Suksaweang et al. 2004
+  source_label: Suksaweang et al. 2004
   stage: stage 28
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ALB.FIG1B.E6.SUKSAW.2004.jpg
 - caption: ALB expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ALB/458998_11.jpg
   location: Liver
-  source: Suksaw et al. 2004
-  source_label: Suksaw et al. 2004
+  source: Suksaweang et al. 2004
+  source_label: Suksaweang et al. 2004
   stage: stage 30
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ALB.FIG1B.E7.SUKSAW.2004.jpg
 name: albumin
