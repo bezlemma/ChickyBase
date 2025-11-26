@@ -69,7 +69,8 @@
 
     <!-- Navbar (Layer 1 - Bottom) -->
     <!-- z-40. Chicken (z-50) will overlap it. -->
-    <nav class="bg-white border-b border-slate-200 sticky top-0 shadow-sm" style="z-index: 40;" id="globalNav">
+    <nav class="bg-white/80 backdrop-blur-md border-b border-slate-200/50 sticky top-0 shadow-sm" style="z-index: 60;"
+        id="globalNav">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between h-16">
                 <div class="flex">
@@ -86,8 +87,25 @@
                             class="border-transparent text-slate-500 hover:border-primary hover:text-slate-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">About</a>
                     </div>
                 </div>
-                <!-- Search Icon -->
-                <div class="flex items-center">
+                <!-- Mobile Icons & Search -->
+                <div class="flex items-center space-x-2">
+                    <!-- Mobile Browse Icon -->
+                    <a href="/genes/" class="p-2 text-slate-400 hover:text-primary transition-colors sm:hidden"
+                        aria-label="Browse Genes">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10">
+                            </path>
+                        </svg>
+                    </a>
+                    <!-- Mobile About Icon -->
+                    <a href="/about/" class="p-2 text-slate-400 hover:text-primary transition-colors sm:hidden"
+                        aria-label="About">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
+                    </a>
                     <button id="search-btn" class="p-2 text-slate-400 hover:text-primary transition-colors"
                         aria-label="Search">
                         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -104,7 +122,7 @@
     <!-- z-50 to be ABOVE navbar but BELOW main content -->
     <!-- pointer-events-none is CRITICAL so clicks pass through to navbar/search -->
     <!-- mix-blend-mode-multiply    <!-- Chicken Background -->
-    <div class="absolute top-0 right-0 w-[70%] h-full pointer-events-none" style="z-index: 50;">
+    <div class="absolute top-16 md:top-0 right-0 w-[70%] h-full pointer-events-none" style="z-index: 50;">
         <img src="/images/chicken_bg.png" alt="Chicken Background"
             class="absolute -top-10 right-[15%] w-full object-contain opacity-100">
     </div>
@@ -115,7 +133,7 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
             <!-- Hero Section -->
-            <div class="text-center mb-16 relative">
+            <div class="text-center mb-16 relative hidden md:block">
                 <h1 class="text-5xl font-extrabold text-slate-900 tracking-tight mb-2">
                     ChickyBase
                 </h1>
@@ -124,8 +142,35 @@
                 </p>
             </div>
 
-            <!-- Cards Grid -->
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
+            <!-- Mobile Buttons (Visible only on mobile) -->
+            <div class="grid grid-cols-2 gap-4 mb-12 md:hidden mt-8">
+                <a href="/genes/"
+                    class="flex flex-col items-center justify-center p-6 bg-white/60 backdrop-blur-sm rounded-xl border border-blue-100/50 active:scale-95 transition-transform shadow-sm">
+                    <div
+                        class="w-10 h-10 bg-blue-100/80 text-blue-600 rounded-full flex items-center justify-center mb-2">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10">
+                            </path>
+                        </svg>
+                    </div>
+                    <span class="font-bold text-blue-900">Browse</span>
+                </a>
+                <a href="/about/"
+                    class="flex flex-col items-center justify-center p-6 bg-white/60 backdrop-blur-sm rounded-xl border border-slate-200/50 active:scale-95 transition-transform shadow-sm">
+                    <div
+                        class="w-10 h-10 bg-slate-100/80 text-slate-600 rounded-full flex items-center justify-center mb-2">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
+                    </div>
+                    <span class="font-bold text-slate-900">About</span>
+                </a>
+            </div>
+
+            <!-- Cards Grid (Hidden on mobile) -->
+            <div class="hidden md:grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
 
                 <!-- Card 1: Gene Expression -->
                 <a href="/genes/"
