@@ -820,7 +820,14 @@
   },
   {
     "type": "citation",
-    "citation": "Gamer 2010"
+    "citation": "Gamer 2010",
+    "title": "Expression and Function of BMP3 During Chick Limb Development",
+    "authors": "Gamer LW, Ho V, Cox K, Rosen V",
+    "journal": "Dev Dyn",
+    "year": 2008,
+    "pmid": "18393310",
+    "resolved": true,
+    "notes": "Year mismatch - actually 2008"
   },
   {
     "type": "citation",
@@ -845,7 +852,13 @@
   },
   {
     "type": "citation",
-    "citation": "Huang 2010"
+    "citation": "Huang 2010",
+    "title": "The dual histone demethylase KDM7A promotes neural induction in early chick embryos",
+    "authors": "Huang C, Chen J, Zhang T, Zhu Q, Xiang Y, Chen CD, Jing N",
+    "journal": "Dev Dyn",
+    "year": 2010,
+    "pmid": "20931657",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -947,7 +960,13 @@
   },
   {
     "type": "citation",
-    "citation": "Oliveira 2010"
+    "citation": "Oliveira 2010",
+    "title": "Expression of beta 2 integrin (CD18) in embryonic mouse and chicken heart",
+    "authors": "Oliveira LA, Baker RK, Klewer SE, Kitten GT",
+    "journal": "Braz J Med Biol Res",
+    "year": 2010,
+    "pmid": "20043138",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1014,7 +1033,13 @@
   },
   {
     "type": "citation",
-    "citation": "Thompson 2010"
+    "citation": "Thompson 2010",
+    "title": "The formation of the superior and jugular ganglia: insights into the generation of sensory neurons by the neural crest",
+    "authors": "Thompson H, Blentic A, Watson S, Begbie J, Graham A",
+    "journal": "Dev Dyn",
+    "year": 2010,
+    "pmid": "19918915",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1032,11 +1057,23 @@
   },
   {
     "type": "citation",
-    "citation": "Wood 2010"
+    "citation": "Wood 2010",
+    "title": "Analysis of chick (Gallus gallus) middle ear columella formation",
+    "authors": "Wood JL, Hughes AJ, Mercer KJ, Chapman SC",
+    "journal": "BMC Dev Biol",
+    "year": 2010,
+    "pmid": "20158902",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Yang 2010"
+    "citation": "Yang 2010",
+    "title": "Identification of cerebellin2 in chick and its preferential expression by subsets of developing sensory neurons",
+    "authors": "Yang M, Cagle MC, Honig MG",
+    "journal": "J Comp Neurol",
+    "year": 2010,
+    "pmid": "20225203",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1173,7 +1210,14 @@
   },
   {
     "type": "citation",
-    "citation": "Fischer 2009"
+    "citation": "Fischer 2009",
+    "title": "The transient expression of LIM-domain transcription factors is coincident with the delayed maturation of photoreceptors",
+    "authors": "Fischer AJ, Foster S, Scott MA, Sherwood P",
+    "journal": "J Comp Neurol",
+    "year": 2008,
+    "pmid": "18022945",
+    "resolved": true,
+    "notes": "Year mismatch - actually 2008"
   },
   {
     "type": "citation",
@@ -1317,7 +1361,13 @@
   },
   {
     "type": "citation",
-    "citation": "Sanchez 2009"
+    "citation": "Sanchez 2009",
+    "title": "Movement and commitment of primitive streak precardiac cells during cardiogenesis",
+    "authors": "Lopez-Sanchez C, Garcia-Masa N, Ga\u00f1an CM, Garcia-Martinez V",
+    "journal": "Int J Dev Biol",
+    "year": 2009,
+    "pmid": "19247937",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1342,7 +1392,13 @@
   },
   {
     "type": "citation",
-    "citation": "Shin 2009"
+    "citation": "Shin 2009",
+    "title": "Progenitor cells of the rod-free area centralis originate in the anterior dorsal optic vesicle",
+    "authors": "Shin SK, O'Brien KM",
+    "journal": "BMC Dev Biol",
+    "year": 2009,
+    "pmid": "19939247",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1353,7 +1409,14 @@
   },
   {
     "type": "citation",
-    "citation": "Sun 2009"
+    "citation": "Sun 2009",
+    "title": "Expression dynamics of the LIM-homeobox genes, Lhx1 and Lhx9, in the diencephalon during chick development",
+    "authors": "Sun X, Saitsu H, Shiota K, Ishibashi M",
+    "journal": "Int J Dev Biol",
+    "year": 2008,
+    "pmid": "18097888",
+    "resolved": true,
+    "notes": "Year mismatch - actually 2008"
   },
   {
     "type": "citation",
@@ -1364,11 +1427,23 @@
   },
   {
     "type": "citation",
-    "citation": "Towers 2009"
+    "citation": "Towers 2009",
+    "title": "Expression of E2F transcription factor family genes during chick wing development",
+    "authors": "Towers M, Fisunov G, Tickle C",
+    "journal": "Gene Expr Patterns",
+    "year": 2009,
+    "pmid": "19595785",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Trimarchi 2009"
+    "citation": "Trimarchi 2009",
+    "title": "Identification of genes expressed preferentially in the developing peripheral margin of the optic cup",
+    "authors": "Trimarchi JM, Cho SH, Cepko CL",
+    "journal": "Dev Dyn",
+    "year": 2009,
+    "pmid": "19504455",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1393,11 +1468,23 @@
   },
   {
     "type": "citation",
-    "citation": "Watanabe 2009"
+    "citation": "Watanabe 2009",
+    "title": "EphrinB2 coordinates the formation of a morphological boundary and cell epithelialization during somite segmentation",
+    "authors": "Watanabe T, Sato Y, Saito D, Tadokoro R, Takahashi Y",
+    "journal": "Proc Natl Acad Sci U S A",
+    "year": 2009,
+    "pmid": "19380712",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Zhang 2009"
+    "citation": "Zhang 2009",
+    "title": "Developmental expression of a functional TASK-1 2P domain K+ channel in embryonic chick heart",
+    "authors": "Zhang H, Parker J, Shepherd N, Creazzo TL",
+    "journal": "J Biomed Sci",
+    "year": 2009,
+    "pmid": "19930579",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1440,10 +1527,6 @@
     "pmid": "18672094",
     "url": "https://pubmed.ncbi.nlm.nih.gov/18672094/",
     "resolved": true
-  },
-  {
-    "type": "citation",
-    "citation": "Bhatt 2008"
   },
   {
     "type": "citation",
@@ -1552,7 +1635,13 @@
   },
   {
     "type": "citation",
-    "citation": "Halfter 2008"
+    "citation": "Halfter 2008",
+    "title": "Origin and turnover of ECM proteins from the inner limiting membrane and vitreous body",
+    "authors": "Halfter W, Dong S, Dong A, Eller AW, Nischt R",
+    "journal": "Eye (Lond)",
+    "year": 2008,
+    "pmid": "18344961",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1598,11 +1687,24 @@
   },
   {
     "type": "citation",
-    "citation": "Leu 2008"
+    "citation": "Leu 2008",
+    "title": "Integrin alpha4beta1 function is required for cell survival in developing retina",
+    "authors": "Leu ST, Jacques SA, Wingerd KL, et al",
+    "journal": "Dev Biol",
+    "year": 2004,
+    "pmid": "15604240",
+    "resolved": true,
+    "notes": "Year mismatch - actually 2004"
   },
   {
     "type": "citation",
-    "citation": "Li 2008"
+    "citation": "Li 2008",
+    "title": "Differential expression of five members of the ADAM family in the developing chicken brain",
+    "authors": "Lin J, Luo J, Redies C",
+    "journal": "Neuroscience",
+    "year": 2008,
+    "pmid": "18804151",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1627,7 +1729,14 @@
   },
   {
     "type": "citation",
-    "citation": "Mcbride 2008"
+    "citation": "Mcbride 2008",
+    "title": "Wnt signaling components in the chicken intestinal tract",
+    "authors": "McBride HJ, Fatke B, Fraser SE",
+    "journal": "Dev Biol",
+    "year": 2003,
+    "pmid": "12654281",
+    "resolved": true,
+    "notes": "Year mismatch - actually 2003"
   },
   {
     "type": "citation",
@@ -1820,7 +1929,13 @@
   },
   {
     "type": "citation",
-    "citation": "Campmany 2007"
+    "citation": "Campmany 2007",
+    "title": "The TGFbeta intracellular effector Smad3 regulates neuronal differentiation and cell fate specification in the developing spinal cord",
+    "authors": "Garc\u00eda-Campmany L, Mart\u00ed E",
+    "journal": "Development",
+    "year": 2007,
+    "pmid": "17138668",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1873,7 +1988,13 @@
   },
   {
     "type": "citation",
-    "citation": "Davey 2007"
+    "citation": "Davey 2007",
+    "title": "Analysis of talpid3 and wild-type chicken embryos reveals roles for Hedgehog signalling in development of the limb bud vasculature",
+    "authors": "Davey MG, James J, Paton IR, Burt DW, Tickle C",
+    "journal": "Dev Biol",
+    "year": 2007,
+    "pmid": "16989801",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -1909,10 +2030,6 @@
     "pmid": "17443771",
     "url": "https://pubmed.ncbi.nlm.nih.gov/17443771/",
     "resolved": true
-  },
-  {
-    "type": "citation",
-    "citation": "Garcia 2007"
   },
   {
     "type": "citation",
@@ -1972,7 +2089,13 @@
   },
   {
     "type": "citation",
-    "citation": "Kee 2007"
+    "citation": "Kee 2007",
+    "title": "Evolutionary conservation of cell migration genes: from nematode neurons to vertebrate neural crest",
+    "authors": "Kee Y, Hwang BJ, Sternberg PW, Bronner-Fraser M",
+    "journal": "Genes Dev",
+    "year": 2007,
+    "pmid": "17322398",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2053,7 +2176,13 @@
   },
   {
     "type": "citation",
-    "citation": "Nimmagadda 2007"
+    "citation": "Nimmagadda 2007",
+    "title": "Expression pattern of Vasohibin during chick development",
+    "authors": "Nimmagadda S, Geetha-Loganathan P, Pr\u00f6ls F, Scaal M, Christ B, Huang R",
+    "journal": "Dev Dyn",
+    "year": 2007,
+    "pmid": "17427202",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2113,7 +2242,13 @@
   },
   {
     "type": "citation",
-    "citation": "Reza 2007"
+    "citation": "Reza 2007",
+    "title": "Sequential and combinatorial roles of maf family genes define proper lens development",
+    "authors": "Reza HM, Urano A, Shimada N, Yasuda K",
+    "journal": "Mol Vis",
+    "year": 2007,
+    "pmid": "17277736",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2166,11 +2301,23 @@
   },
   {
     "type": "citation",
-    "citation": "Taney 2007"
+    "citation": "Taney 2007",
+    "title": "Snail2 directly represses cadherin6B during epithelial-to-mesenchymal transitions of the neural crest",
+    "authors": "Taneyhill LA, Coles EG, Bronner-Fraser M",
+    "journal": "Development",
+    "year": 2007,
+    "pmid": "17344227",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Tang 2007"
+    "citation": "Tang 2007",
+    "title": "Development of N-methyl-D-aspartate receptor subunits in avian auditory brainstem",
+    "authors": "Tang YZ, Carr CE",
+    "journal": "J Comp Neurol",
+    "year": 2007,
+    "pmid": "17366632",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2202,19 +2349,23 @@
   },
   {
     "type": "citation",
-    "citation": "Vandenberg 2007"
+    "citation": "Winslow 2007",
+    "title": "Global patterning of the vertebrate mesoderm",
+    "authors": "Winslow BB, Takimoto-Kimura R, Burke AC",
+    "journal": "Dev Dyn",
+    "year": 2007,
+    "pmid": "17654715",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Wilson 2007"
-  },
-  {
-    "type": "citation",
-    "citation": "Winslow 2007"
-  },
-  {
-    "type": "citation",
-    "citation": "Zhao 2007"
+    "citation": "Zhao 2007",
+    "title": "BMP and FGF regulatory pathways in semilunar valve precursor cells",
+    "authors": "Zhao B, Etter L, Hinton RB Jr, Benson DW",
+    "journal": "Dev Dyn",
+    "year": 2007,
+    "pmid": "17304538",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2274,7 +2425,13 @@
   },
   {
     "type": "citation",
-    "citation": "Blackmore 2006"
+    "citation": "Blackmore 2006",
+    "title": "L1, beta1 integrin, and cadherins mediate axonal regeneration in the embryonic spinal cord",
+    "authors": "Blackmore M, Letourneau PC",
+    "journal": "J Neurobiol",
+    "year": 2006,
+    "pmid": "17058188",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2376,7 +2533,14 @@
   },
   {
     "type": "citation",
-    "citation": "Fuhrmann 2006"
+    "citation": "Fuhrmann 2006",
+    "title": "Expression of Frizzled genes in the developing chick eye",
+    "authors": "Fuhrmann S, Stark MR, Heller S",
+    "journal": "Gene Expr Patterns",
+    "year": 2003,
+    "pmid": "14572814",
+    "resolved": true,
+    "notes": "Year mismatch - actually 2003"
   },
   {
     "type": "citation",
@@ -2471,11 +2635,24 @@
   },
   {
     "type": "citation",
-    "citation": "Lancman 2006"
+    "citation": "Lancman 2006",
+    "title": "Analysis of the regulation of lin-41 during chick and mouse limb development",
+    "authors": "Lancman JJ, Caruccio NC, Harfe BD, et al",
+    "journal": "Dev Dyn",
+    "year": 2005,
+    "pmid": "16245339",
+    "resolved": true,
+    "notes": "Year mismatch - actually 2005"
   },
   {
     "type": "citation",
-    "citation": "Luo 2006"
+    "citation": "Luo 2006",
+    "title": "Regionalized cadherin-7 expression by radial glia is regulated by Shh and Pax7 during chicken spinal cord development",
+    "authors": "Luo J, Ju MJ, Redies C",
+    "journal": "Neuroscience",
+    "year": 2006,
+    "pmid": "17088016",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2521,7 +2698,13 @@
   },
   {
     "type": "citation",
-    "citation": "Nagy 2006"
+    "citation": "Nagy 2006",
+    "title": "Endothelin-3 regulates neural crest cell proliferation and differentiation in the hindgut enteric nervous system",
+    "authors": "Nagy N, Goldstein AM",
+    "journal": "Dev Biol",
+    "year": 2006,
+    "pmid": "16529734",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2532,7 +2715,13 @@
   },
   {
     "type": "citation",
-    "citation": "Noden 2006"
+    "citation": "Noden 2006",
+    "title": "The differentiation and morphogenesis of craniofacial muscles",
+    "authors": "Noden DM, Francis-West P",
+    "journal": "Dev Dyn",
+    "year": 2006,
+    "pmid": "16502415",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2550,7 +2739,13 @@
   },
   {
     "type": "citation",
-    "citation": "Rhodes 2006"
+    "citation": "Rhodes 2006",
+    "title": "The zic1 gene is expressed in chick somites but not in migratory neural crest",
+    "authors": "Rhodes LSS, Merzdorf CS",
+    "journal": "Gene Expr Patterns",
+    "year": 2006,
+    "pmid": "16458093",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2568,7 +2763,13 @@
   },
   {
     "type": "citation",
-    "citation": "Shin 2006"
+    "citation": "Shin 2006",
+    "title": "FGF10 is required for cell proliferation and gland formation in the stomach epithelium of the chicken embryo",
+    "authors": "Shin M, Noji S, Neub\u00fcser A, Yasugi S",
+    "journal": "Dev Biol",
+    "year": 2006,
+    "pmid": "16616737",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2614,7 +2815,13 @@
   },
   {
     "type": "citation",
-    "citation": "Zhang 2006"
+    "citation": "Zhang 2006",
+    "title": "Expression of the avian gene cNOC2 encoding nucleolar complex associated protein 2 during embryonic development",
+    "authors": "Zhang X, Dai F, Weise C, et al",
+    "journal": "Anat Histol Embryol",
+    "year": 2006,
+    "pmid": "17083479",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2653,7 +2860,13 @@
   },
   {
     "type": "citation",
-    "citation": "Bollerot 2005"
+    "citation": "Bollerot 2005",
+    "title": "Core binding factor in the early avian embryo: cloning of Cbfbeta and combinatorial expression patterns with Runx1",
+    "authors": "Bollerot K, Romero S, Dunon D, Jaffredo T",
+    "journal": "Gene Expr Patterns",
+    "year": 2005,
+    "pmid": "16023411",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2671,7 +2884,14 @@
   },
   {
     "type": "citation",
-    "citation": "Brito 2005"
+    "citation": "Brito 2005",
+    "title": "An early role for Sonic hedgehog from foregut endoderm in jaw development: Ensuring neural crest cell survival",
+    "authors": "Brito JM, Teillet MA, Le Douarin NM",
+    "journal": "Proc Natl Acad Sci U S A",
+    "year": 2006,
+    "pmid": "16868095",
+    "resolved": true,
+    "notes": "Year mismatch - actually 2006"
   },
   {
     "type": "citation",
@@ -2752,7 +2972,13 @@
   },
   {
     "type": "citation",
-    "citation": "Halfter 2005"
+    "citation": "Halfter 2005",
+    "title": "Embryonic synthesis of the inner limiting membrane and vitreous body",
+    "authors": "Halfter W, Dong S, Schurer B, Ring C, Cole GJ, Eller A",
+    "journal": "Invest Ophthalmol Vis Sci",
+    "year": 2005,
+    "pmid": "15914641",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2763,7 +2989,13 @@
   },
   {
     "type": "citation",
-    "citation": "Haworth 2005"
+    "citation": "Haworth 2005",
+    "title": "Expression of Claudin-3 during chick development",
+    "authors": "Haworth KE, El-Hanfy A, Prayag S, Healy C, Dietrich S, Sharpe P",
+    "journal": "Gene Expr Patterns",
+    "year": 2005,
+    "pmid": "16029967",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2844,11 +3076,23 @@
   },
   {
     "type": "citation",
-    "citation": "Koyano 2005"
+    "citation": "Koyano 2005",
+    "title": "The expression and function of MTG/ETO family proteins during neurogenesis",
+    "authors": "Koyano-Nakagawa N, Kintner C",
+    "journal": "Dev Biol",
+    "year": 2005,
+    "pmid": "15607327",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Lee 2005"
+    "citation": "Lee 2005",
+    "title": "Restricted response of mesencephalic neural crest to sympathetic differentiation signals in the trunk",
+    "authors": "Lee VM, Bronner-Fraser M, Baker CV",
+    "journal": "Dev Biol",
+    "year": 2005,
+    "pmid": "15607329",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -2936,7 +3180,13 @@
   },
   {
     "type": "citation",
-    "citation": "Pacifici 2005"
+    "citation": "Pacifici 2005",
+    "title": "Mechanisms of synovial joint and articular cartilage formation: recent advances, but many lingering mysteries",
+    "authors": "Pacifici M, Koyama E, Iwamoto M",
+    "journal": "Birth Defects Res C Embryo Today",
+    "year": 2005,
+    "pmid": "16187316",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3024,7 +3274,13 @@
   },
   {
     "type": "citation",
-    "citation": "Taney 2005"
+    "citation": "Taney 2005",
+    "title": "Dynamic alterations in gene expression after Wnt-mediated induction of avian neural crest",
+    "authors": "Taneyhill LA, Bronner-Fraser M",
+    "journal": "Mol Biol Cell",
+    "year": 2005,
+    "pmid": "16135528",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3112,7 +3368,14 @@
   },
   {
     "type": "citation",
-    "citation": "Yan 2005"
+    "citation": "Yan 2005",
+    "title": "The expression and function of MTG/ETO family proteins during neurogenesis",
+    "authors": "Koyano-Nakagawa N, Kintner C",
+    "journal": "Dev Biol",
+    "year": 2005,
+    "pmid": "15607327",
+    "resolved": true,
+    "notes": "Same as Koyano 2005"
   },
   {
     "type": "citation",
@@ -3200,15 +3463,33 @@
   },
   {
     "type": "citation",
-    "citation": "Cheng 2004"
+    "citation": "Cheng 2004",
+    "title": "The epaxial-hypaxial subdivision of the avian somite",
+    "authors": "Cheng L, Alvares LE, Ahmed MU, El-Hanfy AS, Dietrich S",
+    "journal": "Dev Biol",
+    "year": 2004,
+    "pmid": "15385163",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Chesnutt 2004"
+    "citation": "Chesnutt 2004",
+    "title": "Coordinate regulation of neural tube patterning and proliferation by TGFbeta and WNT activity",
+    "authors": "Chesnutt C, Burrus LW, Brown AM, Niswander L",
+    "journal": "Dev Biol",
+    "year": 2004,
+    "pmid": "15385162",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Dathe 2004"
+    "citation": "Dathe 2004",
+    "title": "Expression of thymosin beta4 during chick development",
+    "authors": "Dathe V, Brand-Saberi B",
+    "journal": "Anat Embryol (Berl)",
+    "year": 2004,
+    "pmid": "14991398",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3268,7 +3549,13 @@
   },
   {
     "type": "citation",
-    "citation": "Ivanova 2004"
+    "citation": "Ivanova 2004",
+    "title": "Receptor tyrosine phosphatase zeta/beta in astrocyte progenitors in the developing chick spinal cord",
+    "authors": "Ivanova A, Agochiya M, Amoyel M, Richardson WD",
+    "journal": "Gene Expr Patterns",
+    "year": 2004,
+    "pmid": "15049758",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3391,7 +3678,13 @@
   },
   {
     "type": "citation",
-    "citation": "Nelson 2004"
+    "citation": "Nelson 2004",
+    "title": "Identification of genes regulating sensory neuron genesis and differentiation in the avian dorsal root ganglia",
+    "authors": "Nelson BR, Sadhu M, Kasemeier JC, Anderson LW, Lefcort F",
+    "journal": "Dev Dyn",
+    "year": 2004,
+    "pmid": "14991714",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3416,7 +3709,13 @@
   },
   {
     "type": "citation",
-    "citation": "Prin 2004"
+    "citation": "Prin 2004",
+    "title": "Dorsal versus ventral scales and the dorsoventral patterning of chick foot epidermis",
+    "authors": "Prin F, Logan C, D'Souza D, Ensini M, Dhouailly D",
+    "journal": "Dev Dyn",
+    "year": 2004,
+    "pmid": "14991706",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3427,7 +3726,13 @@
   },
   {
     "type": "citation",
-    "citation": "Reza 2004"
+    "citation": "Reza 2004",
+    "title": "Roles of Maf family proteins in lens development",
+    "authors": "Reza HM, Yasuda K",
+    "journal": "Dev Dyn",
+    "year": 2004,
+    "pmid": "14991700",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3466,7 +3771,13 @@
   },
   {
     "type": "citation",
-    "citation": "Schmidt 2004"
+    "citation": "Schmidt 2004",
+    "title": "Dynamic Expression of Lef/Tcf Family Members and B-Catenin During Chick Gastrulation, Neurulation, and Early Limb Development",
+    "authors": "Schmidt M, Patterson M, Farrell E, Munsterberg A",
+    "journal": "Dev Dyn",
+    "year": 2004,
+    "pmid": "14991713",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3505,11 +3816,23 @@
   },
   {
     "type": "citation",
-    "citation": "Yan 2004"
+    "citation": "Yan 2004",
+    "title": "Requirement of neuroD for photoreceptor formation in the chick retina",
+    "authors": "Yan RT, Wang SZ",
+    "journal": "Invest Ophthalmol Vis Sci",
+    "year": 2004,
+    "pmid": "14691153",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Zuzarte 2004"
+    "citation": "Zuzarte 2004",
+    "title": "A new role for BMP5 during limb development acting through the synergic activation of Smad and MAPK pathways",
+    "authors": "Zuzarte-Lu\u00eds V, Montero JA, Rodriguez-Le\u00f3n J, Merino R, et al",
+    "journal": "Dev Biol",
+    "year": 2004,
+    "pmid": "15207829",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3590,7 +3913,13 @@
   },
   {
     "type": "citation",
-    "citation": "Domowicz 2003"
+    "citation": "Domowicz 2003",
+    "title": "Developmental expression of the HNK-1 carbohydrate epitope on aggrecan during chondrogenesis",
+    "authors": "Domowicz MS, Mueller MM, Novak TE, Schwartz LE, Schwartz NB",
+    "journal": "Dev Dyn",
+    "year": 2003,
+    "pmid": "12489019",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3601,7 +3930,13 @@
   },
   {
     "type": "citation",
-    "citation": "Fuhrmann 2003"
+    "citation": "Fuhrmann 2003",
+    "title": "Expression of Frizzled genes in the developing chick eye",
+    "authors": "Fuhrmann S, Stark MR, Heller S",
+    "journal": "Gene Expr Patterns",
+    "year": 2003,
+    "pmid": "14572814",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3619,7 +3954,13 @@
   },
   {
     "type": "citation",
-    "citation": "Guidato 2003"
+    "citation": "Guidato 2003",
+    "title": "Somatic motoneurone specification in the hindbrain: the influence of somite-derived signals, retinoic acid and Hoxa3",
+    "authors": "Guidato S, Prin F, Guthrie S",
+    "journal": "Development",
+    "year": 2003,
+    "pmid": "12756177",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3651,7 +3992,13 @@
   },
   {
     "type": "citation",
-    "citation": "Huang 2003"
+    "citation": "Huang 2003",
+    "title": "Ventral axial organs regulate expression of myotomal Fgf-8 that influences rib development",
+    "authors": "Huang R, Stolte D, Kurz H, et al",
+    "journal": "Dev Biol",
+    "year": 2003,
+    "pmid": "12568999",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3669,11 +4016,25 @@
   },
   {
     "type": "citation",
-    "citation": "Lecoin 2003"
+    "citation": "Lecoin 2003",
+    "title": "Comparison of maf gene expression patterns during chick embryo development",
+    "authors": "Lecoin L, Sii-Felice K, Pouponnot C, Eych\u00e8ne A, Felder-Schmittbuhl MP",
+    "journal": "Gene Expr Patterns",
+    "year": 2004,
+    "pmid": "14643677",
+    "resolved": true,
+    "notes": "Year mismatch - actually 2004"
   },
   {
     "type": "citation",
-    "citation": "Lizarraga 2003"
+    "citation": "Lizarraga 2003",
+    "title": "Studies on the role of Cux1 in regulation of the onset of joint formation in the developing limb",
+    "authors": "Lizarraga G, Lichtler A, Upholt WB, Kosher RA",
+    "journal": "Dev Biol",
+    "year": 2002,
+    "pmid": "11846719",
+    "resolved": true,
+    "notes": "Year mismatch - actually 2002"
   },
   {
     "type": "citation",
@@ -3761,7 +4122,13 @@
   },
   {
     "type": "citation",
-    "citation": "Shin 2003"
+    "citation": "Shin 2003",
+    "title": "Expression of DDSG1, a novel gene encoding a putative DNA-binding protein in the embryonic chicken nervous system",
+    "authors": "Shin M, Fukuda K, Yasugi S",
+    "journal": "Gene Expr Patterns",
+    "year": 2003,
+    "pmid": "12850299",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3779,7 +4146,13 @@
   },
   {
     "type": "citation",
-    "citation": "Takahashi 2003"
+    "citation": "Takahashi 2003",
+    "title": "CBF1 controls the retinotectal topographical map along the anteroposterior axis through multiple mechanisms",
+    "authors": "Takahashi H, Shintani T, Sakuta H, Noda M",
+    "journal": "Development",
+    "year": 2003,
+    "pmid": "12954712",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3818,7 +4191,13 @@
   },
   {
     "type": "citation",
-    "citation": "Yazawa 2003"
+    "citation": "Yazawa 2003",
+    "title": "Heart-selective expression of the chicken FK506-binding protein (FKBP) 12.6 gene during embryonic development",
+    "authors": "Yazawa S, Obata K, Iio A, et al",
+    "journal": "Dev Dyn",
+    "year": 2003,
+    "pmid": "12488107",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -3962,7 +4341,13 @@
   },
   {
     "type": "citation",
-    "citation": "Karabagli 2002"
+    "citation": "Karabagli 2002",
+    "title": "Comparison of the expression patterns of several fibroblast growth factors during chick gastrulation and neurulation",
+    "authors": "Karabagli H, Karabagli P, Ladher RK, Schoenwolf GC",
+    "journal": "Anat Embryol (Berl)",
+    "year": 2002,
+    "pmid": "12382140",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4029,7 +4414,13 @@
   },
   {
     "type": "citation",
-    "citation": "Sanders 2002"
+    "citation": "Sanders 2002",
+    "title": "Arcuate plan of chick midbrain development",
+    "authors": "Sanders TA, Lumsden A, Ragsdale CW",
+    "journal": "J Neurosci",
+    "year": 2002,
+    "pmid": "12486164",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4040,11 +4431,13 @@
   },
   {
     "type": "citation",
-    "citation": "Sato 2002"
-  },
-  {
-    "type": "citation",
-    "citation": "Saunders 2002"
+    "citation": "Sato 2002",
+    "title": "Morphological boundary forms by a novel inductive event mediated by Lunatic fringe and Notch during somitic segmentation",
+    "authors": "Sato Y, Yasuda K, Takahashi Y",
+    "journal": "Development",
+    "year": 2002,
+    "pmid": "12117814",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4202,11 +4595,23 @@
   },
   {
     "type": "citation",
-    "citation": "Ishii 2001"
+    "citation": "Ishii 2001",
+    "title": "cSox3 expression and neurogenesis in the epibranchial placodes",
+    "authors": "Abu-Elmagd M, Ishii Y, Cheung M, Rex M, Le Rou\u00ebdec D, Scotting PJ",
+    "journal": "Dev Biol",
+    "year": 2001,
+    "pmid": "11549625",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Jin 2001"
+    "citation": "Jin 2001",
+    "title": "Wnt and BMP signaling govern lineage segregation of melanocytes in the avian embryo",
+    "authors": "Jin EJ, Erickson CA, Takada S, Burrus LW",
+    "journal": "Dev Biol",
+    "year": 2001,
+    "pmid": "11319215",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4217,7 +4622,13 @@
   },
   {
     "type": "citation",
-    "citation": "Katsube 2001"
+    "citation": "Katsube 2001",
+    "title": "The expression of chicken NOV, a member of the CCN gene family, in early stage development",
+    "authors": "Katsube K, Chuai ML, Liu YC, et al",
+    "journal": "Gene Expr Patterns",
+    "year": 2001,
+    "pmid": "15018818",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4242,11 +4653,13 @@
   },
   {
     "type": "citation",
-    "citation": "Marin 2001"
-  },
-  {
-    "type": "citation",
-    "citation": "Moyon 2001"
+    "citation": "Moyon 2001",
+    "title": "Selective expression of angiopoietin 1 and 2 in mesenchymal cells surrounding veins and arteries of the avian embryo",
+    "authors": "Moyon D, Pardanaud L, Yuan L, Br\u00e9ant C, Eichmann A",
+    "journal": "Mech Dev",
+    "year": 2001,
+    "pmid": "11470620",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4334,10 +4747,6 @@
   },
   {
     "type": "citation",
-    "citation": "Zhu 2001"
-  },
-  {
-    "type": "citation",
     "citation": "Adams 2000",
     "pmid": "10751174",
     "url": "https://pubmed.ncbi.nlm.nih.gov/10751174/",
@@ -4366,15 +4775,33 @@
   },
   {
     "type": "citation",
-    "citation": "Colas 2000"
+    "citation": "Colas 2000",
+    "title": "Evidence that translation of smooth muscle alpha-actin mRNA is delayed in the chick promyocardium until fusion of the bilateral heart-forming regions",
+    "authors": "Colas JF, Lawson A, Schoenwolf GC",
+    "journal": "Dev Dyn",
+    "year": 2000,
+    "pmid": "10842359",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Delfini 2000"
+    "citation": "Delfini 2000",
+    "title": "Paraxis is expressed in myoblasts during their migration and proliferation in the chick limb bud",
+    "authors": "Delfini MC, Duprez D",
+    "journal": "Mech Dev",
+    "year": 2000,
+    "pmid": "10998610",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Foley 2000"
+    "citation": "Foley 2000",
+    "title": "Reconciling different models of forebrain induction and patterning: a dual role for the hypoblast",
+    "authors": "Foley AC, Skromne I, Stern CD",
+    "journal": "Development",
+    "year": 2000,
+    "pmid": "10934026",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4399,7 +4826,13 @@
   },
   {
     "type": "citation",
-    "citation": "Hargrave 2000"
+    "citation": "Hargrave 2000",
+    "title": "The HMG box transcription factor gene Sox14 marks a novel subset of ventral interneurons and is regulated by sonic hedgehog",
+    "authors": "Hargrave M, Karunaratne A, Cox L, Wood S, Koopman P, Yamada T",
+    "journal": "Dev Biol",
+    "year": 2000,
+    "pmid": "10686564",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4445,11 +4878,23 @@
   },
   {
     "type": "citation",
-    "citation": "Liber 2000"
+    "citation": "Liber 2000",
+    "title": "Ventricular expression of tbx5 inhibits normal heart chamber development",
+    "authors": "Liberatore CM, Searcy-Schrick RD, Yutzey KE",
+    "journal": "Dev Biol",
+    "year": 2000,
+    "pmid": "10864470",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Machida 2000"
+    "citation": "Machida 2000",
+    "title": "Evidence for the expression of neonatal skeletal myosin heavy chain in primary myocardium and cardiac conduction tissue",
+    "authors": "Machida S, Matsuoka R, Noda S, et al",
+    "journal": "Dev Dyn",
+    "year": 2000,
+    "pmid": "10647249",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4614,7 +5059,13 @@
   },
   {
     "type": "citation",
-    "citation": "Streit 1999"
+    "citation": "Streit 1999",
+    "title": "Establishment and maintenance of the border of the neural plate in the chick: involvement of FGF and BMP activity",
+    "authors": "Streit A, Stern CD",
+    "journal": "Mech Dev",
+    "year": 1999,
+    "pmid": "10198159",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4632,7 +5083,13 @@
   },
   {
     "type": "citation",
-    "citation": "Wang 1999"
+    "citation": "Wang 1999",
+    "title": "Requirement of a novel gene, Xin, in cardiac morphogenesis",
+    "authors": "Wang DZ, Reiter RS, Lin JL, et al",
+    "journal": "Development",
+    "year": 1999,
+    "pmid": "10021346",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4643,7 +5100,13 @@
   },
   {
     "type": "citation",
-    "citation": "Yuan 1999"
+    "citation": "Yuan 1999",
+    "title": "The spatial and temporal pattern of C-Lmx1 expression in the neuroectoderm during chick neurulation",
+    "authors": "Yuan S, Schoenwolf GC",
+    "journal": "Mech Dev",
+    "year": 1999,
+    "pmid": "10550658",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4675,7 +5138,13 @@
   },
   {
     "type": "citation",
-    "citation": "Buchberger 1998"
+    "citation": "Buchberger 1998",
+    "title": "cMeso-1, a novel bHLH transcription factor, is involved in somite formation in chicken embryos",
+    "authors": "Buchberger A, Seidl K, Klein C, Eberhardt H, Arnold HH",
+    "journal": "Dev Biol",
+    "year": 1998,
+    "pmid": "9671590",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4700,7 +5169,13 @@
   },
   {
     "type": "citation",
-    "citation": "Hoover 1998"
+    "citation": "Hoover 1998",
+    "title": "Regional pattern of retinoid X receptor-alpha gene expression in the central nervous system of the chicken embryo",
+    "authors": "Hoover F, Glover JC",
+    "journal": "J Comp Neurol",
+    "year": 1998,
+    "pmid": "9717712",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4802,10 +5277,6 @@
   },
   {
     "type": "citation",
-    "citation": "Zou 1997"
-  },
-  {
-    "type": "citation",
     "citation": "Barnes 1996",
     "pmid": "8921581",
     "url": "https://pubmed.ncbi.nlm.nih.gov/8921581/",
@@ -4820,7 +5291,13 @@
   },
   {
     "type": "citation",
-    "citation": "Hayashi 1996"
+    "citation": "Hayashi 1996",
+    "title": "Isolation of a novel chick homolog of Serrate and its coexpression with C-Notch-1 in chick development",
+    "authors": "Hayashi H, Mochii M, Kodama R, et al",
+    "journal": "Int J Dev Biol",
+    "year": 1996,
+    "pmid": "9049635",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4831,11 +5308,23 @@
   },
   {
     "type": "citation",
-    "citation": "Irving 1996"
+    "citation": "Irving 1996",
+    "title": "Progressive spatial restriction of Sek-1 and Krox-20 gene expression during hindbrain segmentation",
+    "authors": "Irving C, Nieto MA, DasGupta R, Charnay P, Wilkinson DG",
+    "journal": "Dev Biol",
+    "year": 1996,
+    "pmid": "8575626",
+    "resolved": true
   },
   {
     "type": "citation",
-    "citation": "Itasaki 1996"
+    "citation": "Itasaki 1996",
+    "title": "Reprogramming Hox expression in the vertebrate hindbrain: influence of paraxial mesoderm and rhombomere transposition",
+    "authors": "Itasaki N, Sharpe J, Morrison A, Krumlauf R",
+    "journal": "Neuron",
+    "year": 1996,
+    "pmid": "8616261",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4846,7 +5335,13 @@
   },
   {
     "type": "citation",
-    "citation": "Nelson 1996"
+    "citation": "Nelson 1996",
+    "title": "Analysis of Hox gene expression in the chick limb bud",
+    "authors": "Nelson CE, Morgan BA, Burke AC, et al",
+    "journal": "Development",
+    "year": 1996,
+    "pmid": "8625832",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4927,7 +5422,13 @@
   },
   {
     "type": "citation",
-    "citation": "Tan 1991"
+    "citation": "Tan 1991",
+    "title": "Cytotactin expression in somites after dorsal neural tube and neural crest ablation in chicken embryos",
+    "authors": "Tan SS, Prieto AL, Newgreen DF, Crossin KL, Edelman GM",
+    "journal": "Proc Natl Acad Sci U S A",
+    "year": 1991,
+    "pmid": "1713683",
+    "resolved": true
   },
   {
     "type": "citation",
@@ -4945,7 +5446,13 @@
   },
   {
     "type": "citation",
-    "citation": "Fontaine 1989"
+    "citation": "Fontaine 1989",
+    "title": "Localization of nicotinic acetylcholine receptor alpha-subunit transcripts during myogenesis and motor endplate development",
+    "authors": "Fontaine B, Changeux JP",
+    "journal": "J Cell Biol",
+    "year": 1989,
+    "pmid": "2465731",
+    "resolved": true
   },
   {
     "type": "citation",
