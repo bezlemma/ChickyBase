@@ -1,423 +1,208 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Browse Genes | {{ .Site.Title }}</title>
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-    <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
-    <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    colors: {
-                        primary: '#2563eb',
-                    }
-                }
-            }
-        }
-    </script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-    <link href="{{ "pagefind/pagefind-ui.css" | relURL }}" rel="stylesheet">
-    <script src="{{ "pagefind/pagefind-ui.js" | relURL }}"></script>
-    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-    <style>
-        body { font-family: 'Inter', sans-serif; }
-        [v-cloak] { display: none; }
-    </style>
-</head>
-<body class="bg-slate-50 min-h-screen">
-    <!-- Navbar -->
-    <nav class="bg-white border-b border-slate-200 sticky top-0 z-50 shadow-sm">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex justify-between h-16">
-                <div class="flex">
-                    <div class="flex-shrink-0 flex items-center">
-                        <a href="/" class="text-2xl font-bold text-primary">ChickyBase</a>
-                    </div>
-                    <div class="hidden sm:ml-6 sm:flex sm:space-x-8">
-                        <a href="/" class="border-transparent text-slate-500 hover:text-slate-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">Home</a>
-                        <a href="/genes/" class="border-primary text-slate-900 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">Browse Genes</a>
-                        <a href="/about/" class="border-transparent text-slate-500 hover:text-slate-700 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">About</a>
-                    </div>
-                </div>
-                <div class="flex items-center">
-                    <button id="search-btn" class="p-2 text-slate-400 hover:text-primary transition-colors" aria-label="Search">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+{{ define "title" }}Genes | {{ .Site.Title }}{{ end }}
+
+{{ define "head" }}
+<style>
+    .mono { font-family: ui-monospace, monospace; }
+</style>
+{{ end }}
+
+{{ define "main" }}
+<div id="browse-app" v-cloak>
+    <div class="flex gap-8">
+        <!-- Left Sidebar -->
+        <aside class="w-64 flex-shrink-0">
+            <div class="sticky top-24">
+                <h2 class="text-lg font-bold text-slate-800 mb-4">Filters</h2>
+
+                <!-- Disease Filter -->
+                <button @click="toggleFilter('disease')"
+                        :class="filterType === 'disease' ? 'bg-rose-100 border-rose-400 text-rose-800' : 'bg-rose-50 border-rose-200 text-rose-700 hover:bg-rose-100'"
+                        class="w-full flex items-center justify-between px-4 py-3 text-sm border rounded-lg mb-4 transition-colors">
+                    <span class="flex items-center gap-2">
+                        <span class="w-2.5 h-2.5 bg-rose-500 rounded-full"></span>
+                        <span class="font-medium">Human Disease Associated</span>
+                    </span>
+                    <span class="mono text-xs bg-rose-200 text-rose-800 px-2 py-0.5 rounded" v-text="diseaseCount"></span>
+                </button>
+
+                <!-- Pathways -->
+                <div class="mb-4">
+                    <button @click="showPathways = !showPathways"
+                            class="w-full flex items-center justify-between px-4 py-2 text-sm font-medium text-teal-800 bg-teal-50 hover:bg-teal-100 rounded-lg">
+                        <span>Signaling Pathways</span>
+                        <svg :class="showPathways ? 'rotate-180' : ''" class="w-4 h-4 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
                         </svg>
                     </button>
+                    <div v-show="showPathways" class="mt-2 space-y-1 pl-2">
+                        <button v-for="p in pathways" :key="p.name"
+                                @click="setFilter('pathway', p.name)"
+                                :class="filterType === 'pathway' && filterValue === p.name ? 'bg-teal-200 text-teal-900' : 'text-teal-700 hover:bg-teal-50'"
+                                class="w-full flex items-center justify-between px-3 py-2 text-sm rounded-lg transition-colors">
+                            <span v-text="p.name"></span>
+                            <span class="mono text-xs text-teal-600" v-text="p.count"></span>
+                        </button>
+                    </div>
                 </div>
-            </div>
-        </div>
-    </nav>
 
-    <!-- Search Modal -->
-    <div id="search-modal" class="fixed inset-0 z-[100] hidden" role="dialog" aria-modal="true">
-        <div class="absolute inset-0 bg-slate-900/50 backdrop-blur-sm" id="search-backdrop"></div>
-        <div class="relative min-h-screen px-4 pt-16 pb-4 flex justify-center items-start">
-            <div class="bg-white rounded-xl shadow-2xl w-full max-w-2xl overflow-hidden">
-                <div class="p-4 border-b border-slate-100 flex justify-between items-center">
-                    <h3 class="text-lg font-semibold text-slate-900">Search ChickyBase</h3>
-                    <button id="close-search" class="text-slate-400 hover:text-slate-600">
-                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                <!-- Systems -->
+                <div class="mb-4">
+                    <button @click="showSystems = !showSystems"
+                            class="w-full flex items-center justify-between px-4 py-2 text-sm font-medium text-indigo-800 bg-indigo-50 hover:bg-indigo-100 rounded-lg">
+                        <span>Anatomical Systems</span>
+                        <svg :class="showSystems ? 'rotate-180' : ''" class="w-4 h-4 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
                         </svg>
                     </button>
+                    <div v-show="showSystems" class="mt-2 space-y-1 pl-2">
+                        <button v-for="s in systems" :key="s.name"
+                                @click="setFilter('system', s.name)"
+                                :class="filterType === 'system' && filterValue === s.name ? 'bg-indigo-200 text-indigo-900' : 'text-indigo-700 hover:bg-indigo-50'"
+                                class="w-full flex items-center justify-between px-3 py-2 text-sm rounded-lg transition-colors">
+                            <span v-text="s.name"></span>
+                            <span class="mono text-xs text-indigo-600" v-text="s.count"></span>
+                        </button>
+                    </div>
                 </div>
-                <div class="p-6">
-                    <div id="pagefind-search"></div>
+
+                <!-- Categories -->
+                <div>
+                    <button @click="showCategories = !showCategories"
+                            class="w-full flex items-center justify-between px-4 py-2 text-sm font-medium text-amber-800 bg-amber-50 hover:bg-amber-100 rounded-lg">
+                        <span>Functional Categories</span>
+                        <svg :class="showCategories ? 'rotate-180' : ''" class="w-4 h-4 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                        </svg>
+                    </button>
+                    <div v-show="showCategories" class="mt-2 space-y-1 pl-2">
+                        <button v-for="c in categories" :key="c.name"
+                                @click="setFilter('category', c.name)"
+                                :class="filterType === 'category' && filterValue === c.name ? 'bg-amber-200 text-amber-900' : 'text-amber-700 hover:bg-amber-50'"
+                                class="w-full flex items-center justify-between px-3 py-2 text-sm rounded-lg transition-colors">
+                            <span v-text="c.name"></span>
+                            <span class="mono text-xs text-amber-600" v-text="c.count"></span>
+                        </button>
+                    </div>
                 </div>
             </div>
-        </div>
-    </div>
+        </aside>
 
-    <div id="browse-app" v-cloak>
-        <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-
+        <!-- Main Content -->
+        <div class="flex-1 min-w-0">
             <!-- Header -->
-            <div class="mb-8">
-                <h1 class="text-3xl font-bold text-slate-900 mb-2">Browse Genes</h1>
-                <p class="text-slate-600">Explore {{ len .Pages }} genes with expression data across developmental stages</p>
+            <div class="flex items-center justify-between mb-6">
+                <p class="text-sm text-slate-500">
+                    <span v-if="activeFilter">
+                        <span v-text="filteredGenes.length"></span> genes matching <span class="font-medium text-teal-700" v-text="activeFilter"></span>
+                        <button @click="clearFilter" class="text-teal-600 hover:text-teal-800 ml-2">Clear</button>
+                    </span>
+                    <span v-else><span v-text="genes.length"></span> genes total</span>
+                </p>
+                <input type="text" v-model="search" placeholder="Filter by name..."
+                       class="w-64 px-4 py-2 text-sm border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-teal-500 focus:border-transparent">
             </div>
 
-            <!-- View Toggle -->
-            <div class="flex items-center gap-4 mb-6">
-                <div class="flex bg-white rounded-lg border border-slate-200 p-1">
-                    <button @click="view = 'categories'"
-                            :class="view === 'categories' ? 'bg-primary text-white' : 'text-slate-600 hover:bg-slate-100'"
-                            class="px-4 py-2 rounded-md text-sm font-medium transition-colors">
-                        Categories
-                    </button>
-                    <button @click="view = 'all'"
-                            :class="view === 'all' ? 'bg-primary text-white' : 'text-slate-600 hover:bg-slate-100'"
-                            class="px-4 py-2 rounded-md text-sm font-medium transition-colors">
-                        All Genes
-                    </button>
-                </div>
-
-                <div v-if="view === 'all'" class="flex-1 max-w-md">
-                    <input type="text" v-model="search" placeholder="Search genes..."
-                           class="w-full px-4 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent">
-                </div>
+            <!-- Alphabet -->
+            <div class="flex items-center gap-1 mb-6 pb-4 border-b border-slate-200">
+                <span class="text-xs text-slate-400 mr-2">Jump:</span>
+                <button v-for="letter in alphabet" :key="letter"
+                        @click="setFilter('letter', letter)"
+                        :class="filterType === 'letter' && filterValue === letter ? 'bg-teal-600 text-white' : 'text-slate-500 hover:bg-teal-50 hover:text-teal-700'"
+                        class="w-7 h-7 text-xs font-medium rounded transition-colors"
+                        v-text="letter">
+                </button>
             </div>
 
-            <!-- Categories View -->
-            <div v-if="view === 'categories'" class="space-y-8">
-
-                <!-- Human Disease Section -->
-                <section>
-                    <h2 class="text-xl font-bold text-slate-800 mb-4 flex items-center gap-2">
-                        <svg class="w-6 h-6 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path>
-                        </svg>
-                        Human-Disease Associated Genes
-                    </h2>
-                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                        <button @click="filterByDisease"
-                                class="group p-6 bg-gradient-to-br from-red-500 to-pink-600 rounded-xl text-white text-left hover:shadow-lg transition-all hover:-translate-y-1">
-                            <div class="text-3xl font-bold mb-1" v-text="diseaseCount"></div>
-                            <div class="text-red-100 text-sm">genes with human disease associations (OMIM)</div>
-                            <div class="mt-3 text-xs text-red-200 group-hover:text-white transition-colors">Click to browse &rarr;</div>
-                        </button>
+            <!-- Gene Grid - All genes, no pagination -->
+            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3">
+                <a v-for="gene in filteredGenes" :key="gene.symbol"
+                   :href="'/genes/' + gene.symbol.toLowerCase() + '/'"
+                   class="group block bg-white border border-slate-200 rounded-lg p-4 hover:border-teal-400 hover:shadow-md transition-all">
+                    <div class="flex items-start justify-between">
+                        <span class="mono font-medium text-slate-800 group-hover:text-teal-600" v-text="gene.symbol"></span>
+                        <span v-if="gene.has_disease" class="w-2.5 h-2.5 bg-rose-500 rounded-full" title="Human Disease Associated"></span>
                     </div>
-                </section>
-
-                <!-- Functional Categories Section -->
-                <section>
-                    <h2 class="text-xl font-bold text-slate-800 mb-4 flex items-center gap-2">
-                        <svg class="w-6 h-6 text-emerald-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"></path>
-                        </svg>
-                        Functional Categories
-                    </h2>
-                    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
-                        <button v-for="cat in functionalCategories" :key="cat.name"
-                                @click="filterByCategory(cat.name)"
-                                :class="cat.color"
-                                class="group p-4 rounded-xl text-white text-left hover:shadow-lg transition-all hover:-translate-y-1">
-                            <div class="text-2xl font-bold mb-1" v-text="cat.count"></div>
-                            <div class="text-sm font-medium opacity-90" v-text="cat.name"></div>
-                        </button>
+                    <div class="mt-2 text-xs text-slate-500"><span v-text="gene.image_count"></span> images</div>
+                    <div v-if="gene.pathways.length" class="mt-2 flex flex-wrap gap-1">
+                        <span v-for="p in gene.pathways.slice(0, 2)" :key="p"
+                              class="px-1.5 py-0.5 bg-teal-50 text-teal-700 text-xs rounded" v-text="p"></span>
                     </div>
-                </section>
-
-                <!-- Signaling Pathways Section -->
-                <section>
-                    <h2 class="text-xl font-bold text-slate-800 mb-4 flex items-center gap-2">
-                        <svg class="w-6 h-6 text-purple-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
-                        </svg>
-                        Signaling Pathways
-                    </h2>
-                    <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4">
-                        <button v-for="pathway in pathways" :key="pathway.name"
-                                @click="filterByPathway(pathway.name)"
-                                class="group p-4 bg-white rounded-xl border border-slate-200 hover:border-purple-300 hover:shadow-md transition-all text-left">
-                            <div class="text-2xl font-bold text-purple-600 mb-1" v-text="pathway.count"></div>
-                            <div class="font-medium text-slate-800" v-text="pathway.name"></div>
-                            <div class="text-xs text-slate-500" v-text="pathway.examples"></div>
-                        </button>
-                    </div>
-                </section>
-
-                <!-- Anatomical Systems Section -->
-                <section>
-                    <h2 class="text-xl font-bold text-slate-800 mb-4 flex items-center gap-2">
-                        <svg class="w-6 h-6 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7"></path>
-                        </svg>
-                        Anatomical Systems
-                    </h2>
-                    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-                        <button v-for="system in systems" :key="system.name"
-                                @click="filterBySystem(system.name)"
-                                :class="system.color"
-                                class="group p-5 rounded-xl text-white text-left hover:shadow-lg transition-all hover:-translate-y-1">
-                            <div class="text-2xl font-bold mb-1" v-text="system.count"></div>
-                            <div class="font-medium" v-text="system.name"></div>
-                        </button>
-                    </div>
-                </section>
-
-                <!-- Quick Links -->
-                <section>
-                    <h2 class="text-xl font-bold text-slate-800 mb-4">Browse by Name</h2>
-                    <div class="flex flex-wrap gap-2">
-                        <button v-for="letter in alphabet" :key="letter"
-                                @click="filterByLetter(letter)"
-                                class="w-10 h-10 flex items-center justify-center bg-white border border-slate-200 rounded-lg font-medium text-slate-600 hover:bg-primary hover:text-white hover:border-primary transition-colors"
-                                v-text="letter">
-                        </button>
-                    </div>
-                </section>
+                </a>
             </div>
 
-            <!-- All Genes / Filtered View -->
-            <div v-if="view === 'all'" class="space-y-4">
-
-                <!-- Active Filters -->
-                <div v-if="activeFilter" class="flex items-center gap-2 p-3 bg-blue-50 rounded-lg">
-                    <span class="text-sm text-blue-800">Filtering by:</span>
-                    <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm font-medium" v-text="activeFilter"></span>
-                    <button @click="clearFilter" class="ml-auto text-blue-600 hover:text-blue-800 text-sm">Clear filter</button>
-                </div>
-
-                <!-- Results count -->
-                <div class="text-sm text-slate-600">
-                    Showing <span v-text="filteredGenes.length"></span> genes
-                </div>
-
-                <!-- Gene Grid -->
-                <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-3">
-                    <a v-for="gene in paginatedGenes" :key="gene.symbol"
-                       :href="'/genes/' + gene.symbol.toLowerCase() + '/'"
-                       class="group p-3 bg-white rounded-lg border border-slate-200 hover:border-primary hover:shadow-md transition-all">
-                        <div class="font-semibold text-slate-800 group-hover:text-primary" v-text="gene.symbol"></div>
-                        <div class="text-xs text-slate-500 mt-1"><span v-text="gene.image_count"></span> images</div>
-                        <div v-if="gene.has_disease" class="mt-1">
-                            <span class="inline-block w-2 h-2 bg-red-400 rounded-full" title="Human-disease associated"></span>
-                        </div>
-                    </a>
-                </div>
-
-                <!-- Pagination -->
-                <div v-if="totalPages > 1" class="flex justify-center gap-2 mt-6">
-                    <button @click="page = Math.max(1, page - 1)"
-                            :disabled="page === 1"
-                            class="px-4 py-2 bg-white border border-slate-200 rounded-lg disabled:opacity-50">
-                        Previous
-                    </button>
-                    <span class="px-4 py-2 text-slate-600">Page <span v-text="page"></span> of <span v-text="totalPages"></span></span>
-                    <button @click="page = Math.min(totalPages, page + 1)"
-                            :disabled="page === totalPages"
-                            class="px-4 py-2 bg-white border border-slate-200 rounded-lg disabled:opacity-50">
-                        Next
-                    </button>
-                </div>
+            <!-- Legend -->
+            <div class="mt-6 flex items-center justify-center gap-4 text-xs text-slate-500">
+                <span class="flex items-center gap-1.5">
+                    <span class="w-2.5 h-2.5 bg-rose-500 rounded-full"></span>
+                    Human Disease Associated
+                </span>
             </div>
-
-        </main>
+        </div>
     </div>
+</div>
 
-    <script>
-        // Search modal functionality
-        document.addEventListener('DOMContentLoaded', function() {
-            let pagefindInitialized = false;
-            const searchBtn = document.getElementById('search-btn');
-            const closeBtn = document.getElementById('close-search');
-            const modal = document.getElementById('search-modal');
-            const backdrop = document.getElementById('search-backdrop');
+<script>
+    const geneIndex = {{ .Site.Data.gene_index | jsonify | safeJS }};
+    const { createApp } = Vue;
 
-            function openSearch() {
-                modal.classList.remove('hidden');
-                document.body.style.overflow = 'hidden';
-                if (!pagefindInitialized) {
-                    new PagefindUI({
-                        element: "#pagefind-search",
-                        showSubResults: true,
-                        showImages: false,
-                        autofocus: true
-                    });
-                    pagefindInitialized = true;
-                }
-                setTimeout(() => {
-                    const input = document.querySelector('.pagefind-ui__search-input');
-                    if (input) input.focus();
-                }, 100);
+    createApp({
+        data() {
+            return {
+                genes: geneIndex || [],
+                search: '',
+                filterType: null,
+                filterValue: null,
+                activeFilter: null,
+                showPathways: true,
+                showSystems: false,
+                showCategories: false,
+                alphabet: 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split(''),
+                pathways: [
+                    { name: 'BMP', count: 0 }, { name: 'WNT', count: 0 }, { name: 'FGF', count: 0 },
+                    { name: 'Hedgehog', count: 0 }, { name: 'Notch', count: 0 }, { name: 'TGFb', count: 0 },
+                    { name: 'HOX', count: 0 }, { name: 'SOX', count: 0 }, { name: 'PAX', count: 0 },
+                ],
+                systems: [
+                    { name: 'Neural', count: 0 }, { name: 'Cardiovascular', count: 0 }, { name: 'Limb', count: 0 },
+                    { name: 'Craniofacial', count: 0 }, { name: 'Musculoskeletal', count: 0 },
+                    { name: 'Sensory', count: 0 }, { name: 'Digestive', count: 0 }, { name: 'Respiratory', count: 0 },
+                ],
+                categories: [
+                    { name: 'Transcription Factor', count: 0 }, { name: 'Cell Adhesion', count: 0 },
+                    { name: 'Cell Cycle', count: 0 }, { name: 'Metabolism', count: 0 },
+                    { name: 'Neural Crest', count: 0 }, { name: 'Apoptosis', count: 0 },
+                ]
             }
-
-            function closeSearch() {
-                modal.classList.add('hidden');
-                document.body.style.overflow = '';
+        },
+        computed: {
+            diseaseCount() { return this.genes.filter(g => g.has_disease).length; },
+            filteredGenes() {
+                let result = this.genes;
+                if (this.search) result = result.filter(g => g.symbol.toLowerCase().includes(this.search.toLowerCase()));
+                if (this.filterType === 'disease') result = result.filter(g => g.has_disease);
+                else if (this.filterType === 'pathway') result = result.filter(g => g.pathways.includes(this.filterValue));
+                else if (this.filterType === 'system') result = result.filter(g => g.systems.includes(this.filterValue));
+                else if (this.filterType === 'letter') result = result.filter(g => g.symbol.toUpperCase().startsWith(this.filterValue));
+                else if (this.filterType === 'category') result = result.filter(g => g.categories && g.categories.includes(this.filterValue));
+                return result;
             }
-
-            searchBtn.addEventListener('click', openSearch);
-            closeBtn.addEventListener('click', closeSearch);
-            backdrop.addEventListener('click', closeSearch);
-
-            document.addEventListener('keydown', (e) => {
-                if (e.key === 'Escape' && !modal.classList.contains('hidden')) closeSearch();
-                if ((e.metaKey || e.ctrlKey) && e.key === 'k') { e.preventDefault(); openSearch(); }
-            });
-        });
-
-        const geneIndex = {{ .Site.Data.gene_index | jsonify | safeJS }};
-
-        const { createApp } = Vue;
-
-        createApp({
-            data() {
-                return {
-                    genes: geneIndex || [],
-                    view: 'categories',
-                    search: '',
-                    activeFilter: null,
-                    filterType: null,
-                    filterValue: null,
-                    page: 1,
-                    perPage: 60,
-                    alphabet: 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split(''),
-                    functionalCategories: [
-                        { name: 'Transcription Factor', count: 0, color: 'bg-gradient-to-br from-indigo-500 to-purple-600' },
-                        { name: 'Cell Adhesion', count: 0, color: 'bg-gradient-to-br from-teal-500 to-cyan-600' },
-                        { name: 'Cell Cycle', count: 0, color: 'bg-gradient-to-br from-orange-500 to-amber-600' },
-                        { name: 'Metabolism', count: 0, color: 'bg-gradient-to-br from-green-500 to-emerald-600' },
-                        { name: 'Neural Crest', count: 0, color: 'bg-gradient-to-br from-fuchsia-500 to-pink-600' },
-                        { name: 'Apoptosis', count: 0, color: 'bg-gradient-to-br from-slate-500 to-gray-600' },
-                    ],
-                    pathways: [
-                        { name: 'BMP', count: 0, examples: 'BMP2, BMP4, BMP7...' },
-                        { name: 'WNT', count: 0, examples: 'WNT1, WNT3, FZD1...' },
-                        { name: 'FGF', count: 0, examples: 'FGF4, FGF8, FGFR1...' },
-                        { name: 'Hedgehog', count: 0, examples: 'SHH, GLI1, PTCH1...' },
-                        { name: 'Notch', count: 0, examples: 'NOTCH1, DLL1, JAG1...' },
-                        { name: 'TGFb', count: 0, examples: 'TGFB1, SMAD2...' },
-                        { name: 'HOX', count: 0, examples: 'HOXA1, HOXB4...' },
-                        { name: 'SOX', count: 0, examples: 'SOX2, SOX9, SOX10...' },
-                        { name: 'PAX', count: 0, examples: 'PAX3, PAX6, PAX7...' },
-                    ],
-                    systems: [
-                        { name: 'Neural', count: 0, color: 'bg-gradient-to-br from-violet-500 to-purple-600' },
-                        { name: 'Cardiovascular', count: 0, color: 'bg-gradient-to-br from-red-500 to-rose-600' },
-                        { name: 'Limb', count: 0, color: 'bg-gradient-to-br from-amber-500 to-orange-600' },
-                        { name: 'Craniofacial', count: 0, color: 'bg-gradient-to-br from-cyan-500 to-blue-600' },
-                        { name: 'Musculoskeletal', count: 0, color: 'bg-gradient-to-br from-emerald-500 to-green-600' },
-                        { name: 'Sensory', count: 0, color: 'bg-gradient-to-br from-pink-500 to-fuchsia-600' },
-                        { name: 'Digestive', count: 0, color: 'bg-gradient-to-br from-yellow-500 to-amber-600' },
-                        { name: 'Respiratory', count: 0, color: 'bg-gradient-to-br from-sky-500 to-cyan-600' },
-                    ]
-                }
+        },
+        methods: {
+            toggleFilter(type) {
+                if (this.filterType === type) this.clearFilter();
+                else { this.filterType = type; this.filterValue = null; this.activeFilter = 'Human Disease Associated'; }
             },
-            computed: {
-                diseaseCount() {
-                    return this.genes.filter(g => g.has_disease).length;
-                },
-                filteredGenes() {
-                    let result = this.genes;
-
-                    if (this.search) {
-                        const s = this.search.toLowerCase();
-                        result = result.filter(g => g.symbol.toLowerCase().includes(s));
-                    }
-
-                    if (this.filterType === 'disease') {
-                        result = result.filter(g => g.has_disease);
-                    } else if (this.filterType === 'pathway') {
-                        result = result.filter(g => g.pathways.includes(this.filterValue));
-                    } else if (this.filterType === 'system') {
-                        result = result.filter(g => g.systems.includes(this.filterValue));
-                    } else if (this.filterType === 'letter') {
-                        result = result.filter(g => g.symbol.toUpperCase().startsWith(this.filterValue));
-                    } else if (this.filterType === 'category') {
-                        result = result.filter(g => g.categories && g.categories.includes(this.filterValue));
-                    }
-
-                    return result;
-                },
-                paginatedGenes() {
-                    const start = (this.page - 1) * this.perPage;
-                    return this.filteredGenes.slice(start, start + this.perPage);
-                },
-                totalPages() {
-                    return Math.ceil(this.filteredGenes.length / this.perPage);
-                }
+            setFilter(type, value) {
+                if (this.filterType === type && this.filterValue === value) this.clearFilter();
+                else { this.filterType = type; this.filterValue = value; this.activeFilter = value; }
             },
-            methods: {
-                filterByDisease() {
-                    this.filterType = 'disease';
-                    this.filterValue = null;
-                    this.activeFilter = 'Human-disease associated genes';
-                    this.view = 'all';
-                    this.page = 1;
-                },
-                filterByPathway(pathway) {
-                    this.filterType = 'pathway';
-                    this.filterValue = pathway;
-                    this.activeFilter = pathway + ' pathway';
-                    this.view = 'all';
-                    this.page = 1;
-                },
-                filterBySystem(system) {
-                    this.filterType = 'system';
-                    this.filterValue = system;
-                    this.activeFilter = system + ' system';
-                    this.view = 'all';
-                    this.page = 1;
-                },
-                filterByLetter(letter) {
-                    this.filterType = 'letter';
-                    this.filterValue = letter;
-                    this.activeFilter = 'Starting with ' + letter;
-                    this.view = 'all';
-                    this.page = 1;
-                },
-                filterByCategory(category) {
-                    this.filterType = 'category';
-                    this.filterValue = category;
-                    this.activeFilter = category;
-                    this.view = 'all';
-                    this.page = 1;
-                },
-                clearFilter() {
-                    this.filterType = null;
-                    this.filterValue = null;
-                    this.activeFilter = null;
-                    this.page = 1;
-                }
-            },
-            mounted() {
-                this.pathways.forEach(p => {
-                    p.count = this.genes.filter(g => g.pathways.includes(p.name)).length;
-                });
-                this.systems.forEach(s => {
-                    s.count = this.genes.filter(g => g.systems.includes(s.name)).length;
-                });
-                this.functionalCategories.forEach(c => {
-                    c.count = this.genes.filter(g => g.categories && g.categories.includes(c.name)).length;
-                });
-            }
-        }).mount('#browse-app');
-    </script>
-</body>
-</html>
+            clearFilter() { this.filterType = null; this.filterValue = null; this.activeFilter = null; }
+        },
+        mounted() {
+            this.pathways.forEach(p => { p.count = this.genes.filter(g => g.pathways.includes(p.name)).length; });
+            this.systems.forEach(s => { s.count = this.genes.filter(g => g.systems.includes(s.name)).length; });
+            this.categories.forEach(c => { c.count = this.genes.filter(g => g.categories && g.categories.includes(c.name)).length; });
+        }
+    }).mount('#browse-app');
+</script>
+{{ end }}
