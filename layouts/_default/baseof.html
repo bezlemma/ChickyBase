@@ -7,6 +7,9 @@
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
 
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
     <script>
@@ -16,6 +19,9 @@
                     colors: {
                         primary: '#2563eb',
                         secondary: '#475569',
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
                     }
                 }
             }
@@ -45,7 +51,7 @@
 <body class="bg-slate-50 text-slate-800 flex flex-col min-h-screen">
 
     <!-- Navbar -->
-    <nav class="bg-white border-b border-slate-200 sticky top-0 z-50 shadow-sm" id="globalNav">
+    <nav class="bg-white/10 backdrop-blur-sm border-b border-slate-200/10 sticky top-0 shadow-sm" style="z-index: 40;" id="globalNav">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between h-16">
                 <div class="flex">
