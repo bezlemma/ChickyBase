@@ -80,20 +80,6 @@ images:
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/fig1.all images-1
 - caption: SOX9 expression
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX9/455162_9.jpg
-  location: Sclerotome
-  source: Bendall et al. 2004
-  source_label: Bendall et al. 2004
-  stage: stage 23
-  thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox9.Bendall.2004.Figure1B.jpg
-- caption: SOX9 expression
-  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX9/455162_10.jpg
-  location: Wing Mesenchyme
-  source: Bendall et al. 2004
-  source_label: Bendall et al. 2004
-  stage: stage 26
-  thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Sox9.Bendall.2004.Figure1E.jpg
-- caption: SOX9 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX9/455162_11.jpg
   location: Leg Bones
   source: Montero et al. 2007

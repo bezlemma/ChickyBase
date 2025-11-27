@@ -3,14 +3,15 @@ title: "About ChickyBase"
 layout: "page"
 ---
 
-<div class="mb-8 not-prose">
-  <h2 class="text-2xl font-bold text-slate-900 mb-6">Created, Hosted, and Maintained by Bezia Lemma</h2>
+<div class="mb-12 not-prose">
+  <h2 class="text-2xl font-bold text-slate-900 mb-6">ChickyBase Created, Hosted, and Maintained by</h2>
   <div class="flex flex-col md:flex-row items-center gap-8">
     <div class="w-48 h-48 flex-shrink-0">
       <img src="/images/bezflag.jpg" alt="Bezia Lemma" class="w-full h-full object-cover rounded-full shadow-lg border-4 border-white">
     </div>
     <div class="text-center md:text-left">
-      <div class="flex flex-wrap justify-center md:justify-start gap-4">
+      <h3 class="text-xl font-semibold text-slate-800 mb-2">Bezia Lemma</h3>
+      <div class="flex flex-wrap justify-center md:justify-start gap-4 mt-4">
         <a href="https://bezialemma.com/" target="_blank" class="inline-flex items-center px-4 py-2 bg-slate-900 text-white rounded-full hover:bg-slate-800 transition-colors">
           <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9"/></svg>
           www.bezialemma.com
@@ -20,6 +21,24 @@ layout: "page"
           @bezbez.bsky.social
         </a>
       </div>
+    </div>
+  </div>
+</div>
+
+<div class="mb-12 not-prose">
+  <h2 class="text-2xl font-bold text-slate-900 mb-6">GEISHA Database Creator</h2>
+  <div class="flex flex-col md:flex-row items-center gap-8">
+    <div class="w-48 h-48 flex-shrink-0">
+      <img src="https://medicine.arizona.edu/sites/default/files/2023-10/parkerantin-suit.jpg" alt="Parker B. Antin, PhD" class="w-full h-full object-cover rounded-full shadow-lg border-4 border-white">
+    </div>
+    <div class="text-center md:text-left">
+      <h3 class="text-xl font-semibold text-slate-800 mb-2">Parker B. Antin, PhD</h3>
+      <p class="text-sm text-slate-600 mb-2">Professor of Cellular and Molecular Medicine, University of Arizona</p>
+      <p class="text-sm text-slate-700 mb-3">Creator of <a href="https://geisha.arizona.edu" target="_blank" class="text-blue-600 hover:underline">GEISHA</a> (Gallus Expression In Situ Hybridization Analysis), the foundational chicken embryo gene expression database. <strong>62%</strong> of the images in ChickyBase come directly from original GEISHA ISH analysis.</p>
+      <a href="https://medicine.arizona.edu/person/parker-b-antin-phd" target="_blank" class="inline-flex items-center px-3 py-1.5 text-sm bg-red-700 text-white rounded-full hover:bg-red-800 transition-colors">
+        <svg class="w-4 h-4 mr-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"/></svg>
+        University of Arizona
+      </a>
     </div>
   </div>
 </div>
