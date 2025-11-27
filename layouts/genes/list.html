@@ -34,14 +34,36 @@
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
                         </svg>
                     </button>
-                    <div v-show="showPathways" class="mt-2 space-y-1 pl-2">
-                        <button v-for="p in pathways" :key="p.name"
-                                @click="setFilter('pathway', p.name)"
-                                :class="filterType === 'pathway' && filterValue === p.name ? 'bg-teal-200 text-teal-900' : 'text-teal-700 hover:bg-teal-50'"
-                                class="w-full flex items-center justify-between px-3 py-2 text-sm rounded-lg transition-colors">
-                            <span v-text="p.name"></span>
-                            <span class="mono text-xs text-teal-600" v-text="p.count"></span>
-                        </button>
+                    <div v-show="showPathways" class="mt-2 space-y-2 pl-2">
+                        <div v-for="p in pathways" :key="p.name" class="space-y-1">
+                            <button @click="setFilter('pathway', p.name)"
+                                    :class="filterType === 'pathway' && filterValue === p.name ? 'bg-teal-200 text-teal-900' : 'text-teal-700 hover:bg-teal-50'"
+                                    class="w-full flex items-center justify-between px-3 py-2 text-sm rounded-lg transition-colors">
+                                <span v-text="p.name"></span>
+                                <span class="mono text-xs text-teal-600" v-text="p.count"></span>
+                            </button>
+                            <!-- Ligands/Receptors sub-filters (show when this pathway is selected in any way) -->
+                            <div v-if="filterValue === p.name && ['pathway', 'ligands', 'receptors', 'modulators'].includes(filterType)" class="ml-3 space-y-1 text-xs">
+                                <button @click="setFilter('ligands', p.name)"
+                                        :class="filterType === 'ligands' ? 'bg-teal-100 text-teal-800' : 'text-teal-600 hover:text-teal-800'"
+                                        class="flex items-center gap-1 px-2 py-1 rounded transition-colors">
+                                    <span class="w-1.5 h-1.5 bg-teal-400 rounded-full"></span>
+                                    Ligands
+                                </button>
+                                <button @click="setFilter('receptors', p.name)"
+                                        :class="filterType === 'receptors' ? 'bg-teal-100 text-teal-800' : 'text-teal-600 hover:text-teal-800'"
+                                        class="flex items-center gap-1 px-2 py-1 rounded transition-colors">
+                                    <span class="w-1.5 h-1.5 bg-teal-500 rounded-full"></span>
+                                    Receptors
+                                </button>
+                                <button @click="setFilter('modulators', p.name)"
+                                        :class="filterType === 'modulators' ? 'bg-teal-100 text-teal-800' : 'text-teal-600 hover:text-teal-800'"
+                                        class="flex items-center gap-1 px-2 py-1 rounded transition-colors">
+                                    <span class="w-1.5 h-1.5 bg-teal-600 rounded-full"></span>
+                                    Modulators
+                                </button>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
@@ -145,6 +167,40 @@
     const geneIndex = {{ .Site.Data.gene_index | jsonify | safeJS }};
     const { createApp } = Vue;
 
+    // Pathway component definitions (ligands, receptors, modulators)
+    const pathwayComponents = {
+        'BMP': {
+            ligands: ['BMP2', 'BMP4', 'BMP5', 'BMP6', 'BMP7', 'BMP10', 'GDF5', 'GDF6', 'GDF7'],
+            receptors: ['BMPR1A', 'BMPR1B', 'BMPR2', 'ACVR1', 'ACVR2A', 'ACVR2B'],
+            modulators: ['NOG', 'CHRD', 'GREM1', 'GREM2']
+        },
+        'WNT': {
+            ligands: ['WNT1', 'WNT2', 'WNT2B', 'WNT3', 'WNT3A', 'WNT4', 'WNT5A', 'WNT5B', 'WNT6', 'WNT7A', 'WNT7B', 'WNT8A', 'WNT8B', 'WNT9A', 'WNT9B', 'WNT10A', 'WNT10B', 'WNT11', 'WNT16'],
+            receptors: ['FZD1', 'FZD2', 'FZD3', 'FZD4', 'FZD5', 'FZD6', 'FZD7', 'FZD8', 'FZD9', 'FZD10', 'LRP5', 'LRP6', 'ROR1', 'ROR2', 'RYK'],
+            modulators: ['DKK1', 'DKK2', 'DKK3', 'DKK4', 'SFRP1', 'SFRP2', 'SFRP3', 'SFRP4', 'SFRP5', 'WIF1']
+        },
+        'FGF': {
+            ligands: ['FGF1', 'FGF2', 'FGF3', 'FGF4', 'FGF5', 'FGF6', 'FGF7', 'FGF8', 'FGF9', 'FGF10', 'FGF11', 'FGF12', 'FGF13', 'FGF14', 'FGF16', 'FGF17', 'FGF18', 'FGF19', 'FGF20', 'FGF21', 'FGF22', 'FGF23'],
+            receptors: ['FGFR1', 'FGFR2', 'FGFR3', 'FGFR4'],
+            modulators: ['SPRY1', 'SPRY2', 'SPRY3', 'SPRY4', 'DUSP6']
+        },
+        'Hedgehog': {
+            ligands: ['SHH', 'IHH', 'DHH'],
+            receptors: ['PTCH1', 'PTCH2', 'SMO', 'CDON', 'BOC', 'GAS1'],
+            modulators: ['HHIP', 'SUFU', 'GLI1', 'GLI2', 'GLI3']
+        },
+        'Notch': {
+            ligands: ['DLL1', 'DLL3', 'DLL4', 'JAG1', 'JAG2'],
+            receptors: ['NOTCH1', 'NOTCH2', 'NOTCH3', 'NOTCH4'],
+            modulators: ['HES1', 'HES5', 'HEY1', 'HEY2', 'HEYL', 'LFNG', 'MFNG', 'RFNG']
+        },
+        'TGFb': {
+            ligands: ['TGFB1', 'TGFB2', 'TGFB3', 'INHBA', 'INHBB', 'NODAL', 'GDF1', 'GDF3', 'GDF11'],
+            receptors: ['TGFBR1', 'TGFBR2', 'TGFBR3', 'ACVR1B', 'ACVR1C', 'ACVR2A', 'ACVR2B'],
+            modulators: ['SMAD2', 'SMAD3', 'SMAD4', 'SMAD7', 'LEFTY1', 'LEFTY2', 'FST']
+        }
+    };
+
     createApp({
         data() {
             return {
@@ -171,7 +227,8 @@
                     { name: 'Transcription Factor', count: 0 }, { name: 'Cell Adhesion', count: 0 },
                     { name: 'Cell Cycle', count: 0 }, { name: 'Metabolism', count: 0 },
                     { name: 'Neural Crest', count: 0 }, { name: 'Apoptosis', count: 0 },
-                ]
+                ],
+                pathwayComponents: pathwayComponents
             }
         },
         computed: {
@@ -181,6 +238,18 @@
                 if (this.search) result = result.filter(g => g.symbol.toLowerCase().includes(this.search.toLowerCase()));
                 if (this.filterType === 'disease') result = result.filter(g => g.has_disease);
                 else if (this.filterType === 'pathway') result = result.filter(g => g.pathways.includes(this.filterValue));
+                else if (this.filterType === 'ligands') {
+                    const ligands = pathwayComponents[this.filterValue]?.ligands || [];
+                    result = result.filter(g => ligands.includes(g.symbol.toUpperCase()));
+                }
+                else if (this.filterType === 'receptors') {
+                    const receptors = pathwayComponents[this.filterValue]?.receptors || [];
+                    result = result.filter(g => receptors.includes(g.symbol.toUpperCase()));
+                }
+                else if (this.filterType === 'modulators') {
+                    const modulators = pathwayComponents[this.filterValue]?.modulators || [];
+                    result = result.filter(g => modulators.includes(g.symbol.toUpperCase()));
+                }
                 else if (this.filterType === 'system') result = result.filter(g => g.systems.includes(this.filterValue));
                 else if (this.filterType === 'letter') result = result.filter(g => g.symbol.toUpperCase().startsWith(this.filterValue));
                 else if (this.filterType === 'category') result = result.filter(g => g.categories && g.categories.includes(this.filterValue));
@@ -194,7 +263,14 @@
             },
             setFilter(type, value) {
                 if (this.filterType === type && this.filterValue === value) this.clearFilter();
-                else { this.filterType = type; this.filterValue = value; this.activeFilter = value; }
+                else {
+                    this.filterType = type;
+                    this.filterValue = value;
+                    if (type === 'ligands') this.activeFilter = value + ' Ligands';
+                    else if (type === 'receptors') this.activeFilter = value + ' Receptors';
+                    else if (type === 'modulators') this.activeFilter = value + ' Modulators';
+                    else this.activeFilter = value;
+                }
             },
             clearFilter() { this.filterType = null; this.filterValue = null; this.activeFilter = null; }
         },

@@ -1,9 +1,25 @@
 {{ define "main" }}
+{{/* Look up disease status from gene_index */}}
+{{ $symbol := .Params.symbol }}
+{{ $hasDisease := false }}
+{{ range .Site.Data.gene_index }}
+    {{ if eq .symbol $symbol }}
+        {{ $hasDisease = .has_disease }}
+    {{ end }}
+{{ end }}
+
 <div id="gene-app" v-cloak>
     <!-- Header -->
     <div class="mb-8 border-b border-slate-200 pb-4">
-        <!-- DEBUG: Template Updated -->
-        <h1 class="text-4xl font-bold text-primary mb-2">{{ .Params.symbol }}</h1>
+        <div class="flex items-center justify-between">
+            <h1 class="text-4xl font-bold text-primary mb-2">{{ .Params.symbol }}</h1>
+            {{ if $hasDisease }}
+            <span class="inline-flex items-center gap-2 px-3 py-1.5 bg-rose-50 border border-rose-200 text-rose-700 text-sm font-medium rounded-lg">
+                <span class="w-2.5 h-2.5 bg-rose-500 rounded-full"></span>
+                Human Disease Associated
+            </span>
+            {{ end }}
+        </div>
         <p class="text-xl text-slate-500 italic">{{ .Params.name | default "(No descriptive name provided)" }}</p>
     </div>
 
