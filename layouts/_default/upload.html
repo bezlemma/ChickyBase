@@ -1,35 +1,183 @@
 {{ define "main" }}
-<div class="min-h-[60vh] flex flex-col items-center justify-center text-center px-4">
-    <div class="mb-8">
-        <img src="/images/upload_chicken.png" alt="Upload Chicken" class="w-64 h-auto mx-auto drop-shadow-lg">
+<div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+
+    <div class="text-center mb-12">
+        <div class="mb-8">
+            <img src="/images/upload_chicken.png" alt="Upload Chicken" class="w-48 h-auto mx-auto drop-shadow-lg">
+        </div>
+        <h1 class="text-3xl font-bold text-slate-900 mb-4">Contribute to ChickyBase</h1>
+        <p class="text-lg text-slate-600 max-w-2xl mx-auto">Help expand the chicken gene expression database by submitting new images or improving existing data.</p>
     </div>
 
-    <h1 class="text-4xl font-bold text-slate-900 mb-4">Upload Data</h1>
-    <p class="text-lg text-slate-600 mb-8 max-w-md">
-        We are working on a way for you to contribute data directly to ChickyBase.
-    </p>
+    <!-- Submit Images Section -->
+    <div class="mb-12">
+        <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl p-8 border border-blue-200">
+            <div class="flex items-start gap-4 mb-6">
+                <div class="p-3 bg-blue-100 rounded-xl">
+                    <svg class="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+                    </svg>
+                </div>
+                <div>
+                    <h2 class="text-xl font-bold text-slate-900 mb-2">Submit New Images</h2>
+                    <p class="text-slate-600">Have in situ hybridization images of chicken embryo gene expression? Submit them via GitHub Issues.</p>
+                </div>
+            </div>
 
-    <div class="bg-blue-50 border border-blue-100 rounded-lg p-6 max-w-lg mx-auto mb-8">
-        <h3 class="font-semibold text-blue-800 mb-2">Coming Soon</h3>
-        <p class="text-blue-600 text-sm">
-            For now, if you have data to contribute, please contact us or check our GitHub repository for instructions.
-        </p>
+            <div class="space-y-4">
+                <div class="bg-white rounded-lg p-4 border border-blue-100">
+                    <h3 class="font-semibold text-slate-800 mb-3">What we're looking for:</h3>
+                    <ul class="text-sm text-slate-600 space-y-2">
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                            </svg>
+                            <span>In situ hybridization (ISH) images showing gene expression patterns</span>
+                        </li>
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                            </svg>
+                            <span>Clear embryonic stage information (HH stage preferred)</span>
+                        </li>
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                            </svg>
+                            <span>Gene symbol (official NCBI gene symbol if possible)</span>
+                        </li>
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                            </svg>
+                            <span>Citation/source information (PubMed ID, DOI, or paper reference)</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="bg-white rounded-lg p-4 border border-blue-100">
+                    <h3 class="font-semibold text-slate-800 mb-3">How to submit:</h3>
+                    <ol class="text-sm text-slate-600 space-y-3">
+                        <li class="flex items-start gap-3">
+                            <span class="bg-blue-600 text-white text-xs font-bold w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0">1</span>
+                            <span>Go to our <a href="https://github.com/bezlemma/ChickyBase/issues/new" target="_blank" class="text-blue-600 hover:underline font-medium">GitHub Issues page</a></span>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <span class="bg-blue-600 text-white text-xs font-bold w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0">2</span>
+                            <span>Create a new issue with title: <code class="bg-slate-100 px-1.5 py-0.5 rounded text-xs">[Image Submission] GENE_SYMBOL</code></span>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <span class="bg-blue-600 text-white text-xs font-bold w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0">3</span>
+                            <span>Drag and drop your images into the issue (GitHub supports up to 25MB per file)</span>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <span class="bg-blue-600 text-white text-xs font-bold w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0">4</span>
+                            <span>Include gene symbol, embryonic stage(s), and source/citation in the description</span>
+                        </li>
+                    </ol>
+                </div>
+
+                <a href="https://github.com/bezlemma/ChickyBase/issues/new" target="_blank"
+                    class="inline-flex items-center justify-center w-full px-6 py-3 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 transition-colors">
+                    <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24">
+                        <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                    </svg>
+                    Submit Images on GitHub
+                </a>
+            </div>
+        </div>
     </div>
 
-    <div class="space-x-4">
-        <a href="{{ "" | relURL }}"
-            class="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-primary hover:bg-blue-700 transition-colors">
-            Go Home
-        </a>
-        <a href="https://github.com/bezlemma/ChickyBase" target="_blank"
-            class="inline-flex items-center px-6 py-3 border border-slate-300 text-base font-medium rounded-md text-slate-700 bg-white hover:bg-slate-50 transition-colors">
-            <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                <path fill-rule="evenodd"
-                    d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"
-                    clip-rule="evenodd"></path>
+    <!-- Edit Data Section -->
+    <div class="mb-12">
+        <div class="bg-gradient-to-br from-emerald-50 to-teal-50 rounded-2xl p-8 border border-emerald-200">
+            <div class="flex items-start gap-4 mb-6">
+                <div class="p-3 bg-emerald-100 rounded-xl">
+                    <svg class="w-8 h-8 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/>
+                    </svg>
+                </div>
+                <div>
+                    <h2 class="text-xl font-bold text-slate-900 mb-2">Edit Gene Data</h2>
+                    <p class="text-slate-600">Found an error or want to add information to a gene page? Submit a Pull Request on GitHub.</p>
+                </div>
+            </div>
+
+            <div class="space-y-4">
+                <div class="bg-white rounded-lg p-4 border border-emerald-100">
+                    <h3 class="font-semibold text-slate-800 mb-3">What you can contribute:</h3>
+                    <ul class="text-sm text-slate-600 space-y-2">
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-emerald-500 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                            </svg>
+                            <span>Fix typos or incorrect information</span>
+                        </li>
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-emerald-500 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                            </svg>
+                            <span>Add or correct gene descriptions</span>
+                        </li>
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-emerald-500 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                            </svg>
+                            <span>Update expression pattern descriptions</span>
+                        </li>
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-emerald-500 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                            </svg>
+                            <span>Add missing citations or references</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="bg-white rounded-lg p-4 border border-emerald-100">
+                    <h3 class="font-semibold text-slate-800 mb-3">How to edit:</h3>
+                    <ol class="text-sm text-slate-600 space-y-3">
+                        <li class="flex items-start gap-3">
+                            <span class="bg-emerald-600 text-white text-xs font-bold w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0">1</span>
+                            <span>Find the gene page you want to edit on ChickyBase</span>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <span class="bg-emerald-600 text-white text-xs font-bold w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0">2</span>
+                            <span>Go to <a href="https://github.com/bezlemma/ChickyBase/tree/main/ChickyWebsite/content/genes" target="_blank" class="text-emerald-600 hover:underline font-medium">our GitHub repo</a> and find the corresponding <code class="bg-slate-100 px-1.5 py-0.5 rounded text-xs">.md</code> file</span>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <span class="bg-emerald-600 text-white text-xs font-bold w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0">3</span>
+                            <span>Click the pencil icon to edit, make your changes</span>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <span class="bg-emerald-600 text-white text-xs font-bold w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0">4</span>
+                            <span>Submit a Pull Request with a description of your changes</span>
+                        </li>
+                    </ol>
+                </div>
+
+                <a href="https://github.com/bezlemma/ChickyBase" target="_blank"
+                    class="inline-flex items-center justify-center w-full px-6 py-3 bg-emerald-600 text-white font-medium rounded-lg hover:bg-emerald-700 transition-colors">
+                    <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 24 24">
+                        <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                    </svg>
+                    View Repository on GitHub
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Contact Section -->
+    <div class="text-center bg-slate-100 rounded-2xl p-8">
+        <h2 class="text-xl font-bold text-slate-900 mb-2">Questions?</h2>
+        <p class="text-slate-600 mb-4">Not sure how to contribute or have a large dataset to share?</p>
+        <a href="mailto:bezia.lemma@gmail.com" class="inline-flex items-center text-blue-600 hover:text-blue-700 font-medium">
+            <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
             </svg>
-            GitHub
+            Contact us directly
         </a>
     </div>
+
 </div>
 {{ end }}
