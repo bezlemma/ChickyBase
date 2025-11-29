@@ -24,6 +24,34 @@ forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAGGCGGCAGAATACTTGAGGAG
 gene_id: '396515'
 gene_type: protein-coding
 images:
+- caption: "fgfr3 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr3/page5_img1_fgfr3_A.jpg
+  location: null
+  source: "Moura et al. 2011"
+  source_label: "Moura et al. 2011"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr3/page5_img1_fgfr3_A.jpg
+- caption: "fgfr3 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr3/page5_img1_fgfr3_B.jpg
+  location: null
+  source: "Moura et al. 2011"
+  source_label: "Moura et al. 2011"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr3/page5_img1_fgfr3_B.jpg
+- caption: "fgfr3 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr3/page5_img1_fgfr3_A.jpg
+  location: null
+  source: "Moura et al. 2011"
+  source_label: "Moura et al. 2011"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr3/page5_img1_fgfr3_A.jpg
+- caption: "fgfr3 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr3/page5_img1_fgfr3_B.jpg
+  location: null
+  source: "Moura et al. 2011"
+  source_label: "Moura et al. 2011"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr3/page5_img1_fgfr3_B.jpg
 - caption: FGFR3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGFR3/460368_0.jpg
   location: Extraembryonic, Lateral Plate Mesoderm, Lens, Lung, Midbrain, Spinal Cord

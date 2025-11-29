@@ -12,6 +12,83 @@ forward_primer: CAATGTGAGCGTGAGTGAGAACG
 gene_id: '423718'
 gene_type: protein-coding
 images:
+- caption: "Cdh23 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_B.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_B.jpg
+- caption: "Cdh23 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_B.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_B.jpg
+- caption: "Cdh23 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_H.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_H.jpg
+- caption: "Cdh23 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_K.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_K.jpg
+- caption: "Cdh23 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_F.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_F.jpg
+- caption: "Cdh23 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_H.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_H.jpg
+- caption: "Cdh23 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_M.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_M.jpg
+- caption: "Cdh23 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_K.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_K.jpg
+- caption: "Cdh23 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_H.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_H.jpg
+- caption: "Cdh23 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_H.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page9_img0_Cdh23_H.jpg
+- caption: "Cdh23 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page10_img0_Cdh23_HH26.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh23/page10_img0_Cdh23_HH26.jpg
 - caption: CDH23 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDH23/450877_0.jpg
   location: Unlabeled

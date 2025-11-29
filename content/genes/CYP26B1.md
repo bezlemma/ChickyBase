@@ -17,6 +17,314 @@ external_ids:
 gene_id: '428809'
 gene_type: protein-coding
 images:
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D8.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D8.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D10.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D10.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D12.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D12.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D14.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D14.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D16.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D16.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D8.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D8.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D10.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D10.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D12.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D12.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D14.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D14.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D16.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D16.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_A-Male-Day8.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_A-Male-Day8.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_A-Female-Day8.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_A-Female-Day8.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Male-Day10.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Male-Day10.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Left-Day10.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Left-Day10.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Right-Day10.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Right-Day10.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Male-Day12.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Male-Day12.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Left-Day12.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Left-Day12.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Right-Day12.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Right-Day12.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Male-Day14.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Male-Day14.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Left-Day14.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Left-Day14.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Right-Day14.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Right-Day14.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Male-Day16.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Male-Day16.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D8.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D8.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D10.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D10.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D12.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D12.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D14.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D14.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D16.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Male-D16.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D8.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D8.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D10.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D10.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D12.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D12.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D14.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D14.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D16.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img0_CYP26B1_A-Female-D16.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_A-Male-Day8.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_A-Male-Day8.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_A-Female-Day8.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_A-Female-Day8.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Male-Day10.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Male-Day10.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Left-Day10.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Left-Day10.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Right-Day10.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Right-Day10.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Male-Day12.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Male-Day12.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Left-Day12.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Left-Day12.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Right-Day12.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Right-Day12.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Male-Day14.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Male-Day14.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Left-Day14.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Left-Day14.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Right-Day14.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Female-Right-Day14.5.jpg
+- caption: "CYP26B1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Male-Day16.5.jpg
+  location: null
+  source: "Smith et al. 2008"
+  source_label: "Smith et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/CYP26B1/page13_img1_CYP26B1_B-Male-Day16.5.jpg
 - caption: CYP26B1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CYP26B1/456437_0.jpg
   location: Retina

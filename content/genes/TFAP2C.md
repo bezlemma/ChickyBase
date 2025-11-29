@@ -17,6 +17,34 @@ external_ids:
 gene_id: '419327'
 gene_type: protein-coding
 images:
+- caption: "TFAP2C expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2C/page6_img0_TFAP2C_A.jpg
+  location: null
+  source: "Rothstein et al. 2020"
+  source_label: "Rothstein et al. 2020"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2C/page6_img0_TFAP2C_A.jpg
+- caption: "TFAP2C expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2C/page6_img0_TFAP2C_A.jpg
+  location: null
+  source: "Rothstein et al. 2020"
+  source_label: "Rothstein et al. 2020"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2C/page6_img0_TFAP2C_A.jpg
+- caption: "TFAP2C expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2C/page6_img0_TFAP2C_A.jpg
+  location: null
+  source: "Rothstein et al. 2020"
+  source_label: "Rothstein et al. 2020"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2C/page6_img0_TFAP2C_A.jpg
+- caption: "TFAP2C expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2C/page6_img0_TFAP2C_A.jpg
+  location: null
+  source: "Rothstein et al. 2020"
+  source_label: "Rothstein et al. 2020"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2C/page6_img0_TFAP2C_A.jpg
 - caption: TFAP2C expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TFAP2C/455045_0.jpg
   location: Retina

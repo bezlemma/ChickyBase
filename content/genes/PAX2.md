@@ -12,10 +12,11 @@ external_ids:
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#
   Copyright: Copyright © 2012 Wiley Periodicals, Inc.
   Fruit Fly: http://www.ncbi.nlm.nih.gov/gene/43825
-  Genomic Map: http://www.ncbi.nlm.nih.gov/gene/395574
-  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
+  Genomic Map: http://www.ncbi.nlm.nih.gov/gene/395574
+  In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395574
-  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204793
+  Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204793
+gene: PAX2
 gene_id: '395574'
 gene_type: protein-coding
 images:
@@ -709,57 +710,57 @@ images:
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_96.jpg
   location: null
-  source: Brenneranantharam et al. 2007
-  source_label: Brenneranantharam et al. 2007
+  source: Brenner-Anantharam et al. 2007
+  source_label: Brenner-Anantharam et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BrennerAnantharam.2007.f4.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_97.jpg
   location: Metanephros, Nephric Ducts
-  source: Brenneranantharam et al. 2007
-  source_label: Brenneranantharam et al. 2007
+  source: Brenner-Anantharam et al. 2007
+  source_label: Brenner-Anantharam et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.HH21.BrennerAnantharam.2007.f4.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_98.jpg
   location: Hindgut, Lateral Plate Mesoderm, Metanephros, Nephric Ducts, Nephric Tubules
-  source: Brenneranantharam et al. 2007
-  source_label: Brenneranantharam et al. 2007
+  source: Brenner-Anantharam et al. 2007
+  source_label: Brenner-Anantharam et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.nm.BrennerAnantharam.2007.f4.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_99.jpg
   location: Renal
-  source: Brenneranantharam et al. 2007
-  source_label: Brenneranantharam et al. 2007
+  source: Brenner-Anantharam et al. 2007
+  source_label: Brenner-Anantharam et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.proximalub.BrennerAnantharam.2007.f4.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_100.jpg
   location: Tail
-  source: Brenneranantharam et al. 2007
-  source_label: Brenneranantharam et al. 2007
+  source: Brenner-Anantharam et al. 2007
+  source_label: Brenner-Anantharam et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.wholem.BrennerAnantharam.2007.f4.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_101.jpg
   location: Spinal Cord
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.HH20.GarciaCampmany.2007.f1.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_102.jpg
   location: null
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GarciaCampmany.2007.f1.pax2.png
 - caption: PAX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX2/449557_103.jpg
   location: Spinal Cord
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/PAX2.HH25.GarciaCampmany.2007.f1.pax2.png
 - caption: PAX2 expression
@@ -916,26 +917,15 @@ images:
   source_label: Freter et al. 2012
   stage: ''
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Freter.2012_Fig_2_ALLIMAGES.jpg
-name: paired box 2
+name: Paired box 2
 ncbi_id: '395574'
 orthologs:
-- ensembl: ENSG00000075891
-  entrez: '5076'
-  mod: MIM:167409
-  phenotypes: MIM:120330
+- entrez: '5076'
   species: Human
-- ensembl: ENSMUSG00000004231
-  entrez: '18504'
-  mod: MGI:97486
-  phenotypes: All phenotypic alleles (7):Spontaneous(1) Chemically induced(2) Targeted,
-    knock-out(2) Targeted, other(2)
+  symbol: PAX2
+- entrez: '18504'
   species: Mouse
-- ensembl: ENSDARG00000032578
-  entrez: '60638'
-  mod: ZFIN:ZDB-GENE-001030-4
-  phenotypes: anterior/posterior pattern specification, camera-type eye morphogenesis,
-    hindbrain development, nervous system development, neuron differentiation
-  species: Zebrafish
+  symbol: Pax2
 sources:
 - name: NCBI Gene
   type: database
@@ -945,6 +935,8 @@ symbol: PAX2
 title: PAX2
 ---
 
+
+**Paired box 2**
 # PAX2
 
 **paired box 2**
@@ -966,8 +958,4 @@ title: PAX2
 ## Orthologs
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
-| --- | --- | --- | --- | --- |
-| Human | [ENSG00000075891](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000075891) | [5076](https://www.ncbi.nlm.nih.gov/gene/5076) | [MIM:167409](https://omim.org/entry/167409) | MIM:120330 |
-| Mouse | [ENSMUSG00000004231](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000004231) | [18504](https://www.ncbi.nlm.nih.gov/gene/18504) | [MGI:97486](http://www.informatics.jax.org/marker/MGI:97486) | All phenotypic alleles (7):Spontaneous(1) Chemically induced(2) Targeted, knock-out(2) Targeted, other(2) |
-| Zebrafish | [ENSDARG00000032578](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000032578) | [60638](https://www.ncbi.nlm.nih.gov/gene/60638) | [ZFIN:ZDB-GENE-001030-4](https://zfin.org/ZDB-GENE-001030-4) | anterior/posterior pattern specification, camera-type eye morphogenesis, hindbrain development, nervous system development, neuron differentiation |
-
+| 

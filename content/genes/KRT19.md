@@ -223,6 +223,20 @@ images:
   source_label: Mclarren et al. 2003
   stage: stage 7
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/KERATIN.FIG1E.MCLARREN.2003.jpg
+- caption: "Panel A displays natural state gene expression in a wild-type Stage 10 chick embryo."
+  image_url: /images/genes/KRT19/page2_img1_Ker_A_Col_1.jpg
+  location: null
+  source: "Patthey et al. 2008"
+  source_label: "Patthey et al. 2008"
+  stage: "stage 10"
+  thumbnail_url: /images/genes/KRT19/page2_img1_Ker_A_Col_1.jpg
+- caption: "Panel A displays natural state gene expression in a wild-type Stage 10 chick embryo."
+  image_url: /images/genes/KRT19/page2_img1_Ker_A_Col_2.jpg
+  location: null
+  source: "Patthey et al. 2008"
+  source_label: "Patthey et al. 2008"
+  stage: "stage 10"
+  thumbnail_url: /images/genes/KRT19/page2_img1_Ker_A_Col_2.jpg
 name: keratin 19
 ncbi_id: '450781'
 orthologs:

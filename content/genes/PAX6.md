@@ -1,7 +1,6 @@
 ---
 aliases:
 - PAX-6, paired box protein Pax-6
-- "paired box gene 6, Pax-6 , \r\npaired box gene 6"
 cgnc_id: '49564'
 external_ids:
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0019650
@@ -24,6 +23,20 @@ external_ids:
 gene_id: '395943'
 gene_type: protein-coding
 images:
+- caption: "PAX6 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PAX6/page1_img0_pax6_ab_Col_1.jpg
+  location: null
+  source: "Cardozo et al. 2014"
+  source_label: "Cardozo et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PAX6/page1_img0_pax6_ab_Col_1.jpg
+- caption: "pax6 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/pax6/page1_img0_pax6_ab_Col_1.jpg
+  location: null
+  source: "Cardozo et al. 2014"
+  source_label: "Cardozo et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/pax6/page1_img0_pax6_ab_Col_1.jpg
 - caption: PAX6 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX6/450497_0.jpg
   location: Eye, Retina

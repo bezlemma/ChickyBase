@@ -119,15 +119,15 @@ images:
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_14.jpg
   location: null
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GarciaCampmany.2007.f7.nkx2.2.png
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_15.jpg
   location: Spinal Cord
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 16
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX2.2.GarciaCampmany.2007.f7.nkx2.2.png
 - caption: NKX2-2 expression
@@ -147,15 +147,15 @@ images:
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_18.jpg
   location: null
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GarciaCampmany.2007.f1.nkx2.2.png
 - caption: NKX2-2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX2-2/461093_19.jpg
   location: Spinal Cord
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX2.2.GarciaCampmany.2007.f1.nkx2.2.png
 - caption: NKX2-2 expression

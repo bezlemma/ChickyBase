@@ -24,6 +24,139 @@ forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATGGCGTCGTCTCAACAAAACG
 gene_id: '415860'
 gene_type: protein-coding
 images:
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_A.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_A.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_B.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_B.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_B.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_B.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_G.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_G.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_E.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_E.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_F.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_F.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_G.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_G.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_F.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_F.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_F.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_F.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_F.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_F.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_G.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_G.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_M.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_M.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_K.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_K.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_G.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_G.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_P.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_P.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_P.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_P.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_G.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page3_img0_Cdh1_G.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page10_img0_Cdh1_HH18.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page10_img0_Cdh1_HH18.jpg
+- caption: "Cdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page10_img0_Cdh1_HH22.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh1/page10_img0_Cdh1_HH22.jpg
 - caption: CDH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDH1/350060_0.jpg
   location: Area Opaca, Area Pellucida, Early Mesoderm

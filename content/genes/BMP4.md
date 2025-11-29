@@ -2137,57 +2137,57 @@ images:
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_295.jpg
   location: Allantois, Lateral Plate Mesoderm, Renal, Tail
-  source: Brenneranantharam et al. 2007
-  source_label: Brenneranantharam et al. 2007
+  source: Brenner-Anantharam et al. 2007
+  source_label: Brenner-Anantharam et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.cloaca.BrennerAnantharam.2007.f4.bmp4.png
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_296.jpg
   location: Metanephros
-  source: Brenneranantharam et al. 2007
-  source_label: Brenneranantharam et al. 2007
+  source: Brenner-Anantharam et al. 2007
+  source_label: Brenner-Anantharam et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.d.BrennerAnantharam.2007.f4.bmp4.png
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_297.jpg
   location: Metanephros
-  source: Brenneranantharam et al. 2007
-  source_label: Brenneranantharam et al. 2007
+  source: Brenner-Anantharam et al. 2007
+  source_label: Brenner-Anantharam et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.metanephros.BrennerAnantharam.2007.f4.bmp4.png
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_298.jpg
   location: Lateral Plate Mesoderm, Tail
-  source: Brenneranantharam et al. 2007
-  source_label: Brenneranantharam et al. 2007
+  source: Brenner-Anantharam et al. 2007
+  source_label: Brenner-Anantharam et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.wholemount.BrennerAnantharam.2007.f4.bmp4.png
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_299.jpg
   location: null
-  source: Brenneranantharam et al. 2007
-  source_label: Brenneranantharam et al. 2007
+  source: Brenner-Anantharam et al. 2007
+  source_label: Brenner-Anantharam et al. 2007
   stage: stage 21
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BrennerAnantharam.2007.f4.bmp4.png
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_300.jpg
   location: Nephric Tubules
-  source: Brenneranantharam et al. 2007
-  source_label: Brenneranantharam et al. 2007
+  source: Brenner-Anantharam et al. 2007
+  source_label: Brenner-Anantharam et al. 2007
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.mesen.BrennerAnantharam.2007.f5.bmp4.png
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_301.jpg
   location: Glomeruli, Nephric Tubules
-  source: Brenneranantharam et al. 2007
-  source_label: Brenneranantharam et al. 2007
+  source: Brenner-Anantharam et al. 2007
+  source_label: Brenner-Anantharam et al. 2007
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BMP4.ureter.BrennerAnantharam.2007.f5.bmp4.png
 - caption: BMP4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BMP4/459056_302.jpg
   location: null
-  source: Brenneranantharam et al. 2007
-  source_label: Brenneranantharam et al. 2007
+  source: Brenner-Anantharam et al. 2007
+  source_label: Brenner-Anantharam et al. 2007
   stage: stage 40
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/BrennerAnantharam.2007.f5.bmp4.png
 - caption: BMP4 expression

@@ -17,6 +17,62 @@ forward_primer: ACAAGAGAACATCCCTATTGGCAG
 gene_id: '414849'
 gene_type: protein-coding
 images:
+- caption: "Cdh13 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh13/page7_img1_Cdh13_A.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh13/page7_img1_Cdh13_A.jpg
+- caption: "Cdh13 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh13/page7_img1_Cdh13_B.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh13/page7_img1_Cdh13_B.jpg
+- caption: "Cdh13 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh13/page7_img1_Cdh13_F.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh13/page7_img1_Cdh13_F.jpg
+- caption: "Cdh13 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh13/page7_img1_Cdh13_E.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh13/page7_img1_Cdh13_E.jpg
+- caption: "Cdh13 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh13/page7_img1_Cdh13_E.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh13/page7_img1_Cdh13_E.jpg
+- caption: "Cdh13 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh13/page7_img1_Cdh13_F.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh13/page7_img1_Cdh13_F.jpg
+- caption: "Cdh13 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh13/page10_img0_Cdh13_HH26.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh13/page10_img0_Cdh13_HH26.jpg
+- caption: "Cdh13 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh13/page10_img0_Cdh13_HH28.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh13/page10_img0_Cdh13_HH28.jpg
 - caption: CDH13 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDH13/460584_0.jpg
   location: Epiblast

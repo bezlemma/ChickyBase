@@ -14,9 +14,80 @@ external_ids:
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:395813
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0003677
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204966
+gene: HAND2
 gene_id: '395813'
 gene_type: protein-coding
 images:
+- caption: HAND2 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_A_HH17.jpg
+  location: null
+  source: Sohail et al. 2025
+  source_label: Sohail et al. 2025
+  stage: unknown
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_A_HH17.jpg
+- caption: HAND2 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_B_HH17.jpg
+  location: null
+  source: Sohail et al. 2025
+  source_label: Sohail et al. 2025
+  stage: unknown
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_B_HH17.jpg
+- caption: HAND2 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_C_HH19.jpg
+  location: null
+  source: Sohail et al. 2025
+  source_label: Sohail et al. 2025
+  stage: unknown
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_C_HH19.jpg
+- caption: HAND2 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_D_HH19.jpg
+  location: null
+  source: Sohail et al. 2025
+  source_label: Sohail et al. 2025
+  stage: unknown
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_D_HH19.jpg
+- caption: HAND2 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_E_HH22.jpg
+  location: null
+  source: Sohail et al. 2025
+  source_label: Sohail et al. 2025
+  stage: unknown
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_E_HH22.jpg
+- caption: HAND2 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_F_HH22.jpg
+  location: null
+  source: Sohail et al. 2025
+  source_label: Sohail et al. 2025
+  stage: unknown
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_F_HH22.jpg
+- caption: HAND2 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_G_HH24.jpg
+  location: null
+  source: Sohail et al. 2025
+  source_label: Sohail et al. 2025
+  stage: unknown
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_G_HH24.jpg
+- caption: HAND2 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_H_HH24.jpg
+  location: null
+  source: Sohail et al. 2025
+  source_label: Sohail et al. 2025
+  stage: unknown
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_H_HH24.jpg
+- caption: HAND2 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_I_HH26.jpg
+  location: null
+  source: Sohail et al. 2025
+  source_label: Sohail et al. 2025
+  stage: unknown
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_I_HH26.jpg
+- caption: HAND2 expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_J_HH26.jpg
+  location: null
+  source: Sohail et al. 2025
+  source_label: Sohail et al. 2025
+  stage: unknown
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/HAND2/page4_img0_HAND2_J_HH26.jpg
 - caption: HAND2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/HAND2/450006_0.jpg
   location: Area Opaca, Early Mesoderm, Extraembryonic Mesoderm
@@ -508,34 +579,15 @@ images:
   source_label: GEISHA
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HAND2_stage 12 x25.jpg
-name: heart and neural crest derivatives expressed 2
+name: Heart and neural crest derivatives expressed 2
 ncbi_id: '395813'
 orthologs:
-- ensembl: ''
-  entrez: '34379'
-  mod: FBgn0032209
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ENSG00000164107
-  entrez: '9464'
-  mod: MIM:602407
-  phenotypes: ''
+- entrez: '9464'
   species: Human
-- ensembl: ENSMUSG00000038193
-  entrez: '15111'
-  mod: MGI:103580
-  phenotypes: All phenotypic alleles (9):Targeted, knock-out(3) Targeted, other(6)
+  symbol: HAND2
+- entrez: '15111'
   species: Mouse
-- ensembl: ''
-  entrez: 100101704,373641,373833
-  mod: '481425'
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000008305
-  entrez: '58150'
-  mod: ZFIN:ZDB-GENE-000511-1
-  phenotypes: ''
-  species: Zebrafish
+  symbol: Hand2
 sources:
 - name: GEISHA
   type: database
@@ -548,6 +600,8 @@ symbol: HAND2
 title: HAND2
 ---
 
+
+**Heart and neural crest derivatives expressed 2**
 # HAND2
 
 **heart and neural crest derivatives expressed 2**
@@ -572,10 +626,4 @@ title: HAND2
 ## Orthologs
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
-| --- | --- | --- | --- | --- |
-| Fruit Fly |  | [34379](https://www.ncbi.nlm.nih.gov/gene/34379) | FBgn0032209 |  |
-| Human | [ENSG00000164107](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000164107) | [9464](https://www.ncbi.nlm.nih.gov/gene/9464) | [MIM:602407](https://omim.org/entry/602407) |  |
-| Mouse | [ENSMUSG00000038193](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000038193) | [15111](https://www.ncbi.nlm.nih.gov/gene/15111) | [MGI:103580](http://www.informatics.jax.org/marker/MGI:103580) | All phenotypic alleles (9):Targeted, knock-out(3) Targeted, other(6) |
-| Xenopus |  | [100101704](https://www.ncbi.nlm.nih.gov/gene/100101704), [373641](https://www.ncbi.nlm.nih.gov/gene/373641), [373833](https://www.ncbi.nlm.nih.gov/gene/373833) | [481425](http://www.xenbase.org/gene/showgene.do?method=display&geneId=481425) |  |
-| Zebrafish | [ENSDARG00000008305](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000008305) | [58150](https://www.ncbi.nlm.nih.gov/gene/58150) | [ZFIN:ZDB-GENE-000511-1](https://zfin.org/ZDB-GENE-000511-1) |  |
-
+| 

@@ -1,7 +1,6 @@
 ---
 aliases:
 - acetylcholinesterase
-- 'LOW QUALITY PROTEIN: acetylcholinesterase'
 - acetylcholinesterase (Yt blood group)
 cgnc_id: '49783'
 external_ids:

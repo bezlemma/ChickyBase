@@ -1,7 +1,6 @@
 ---
 aliases:
 - forkhead box protein O4
-- 'LOW QUALITY PROTEIN: forkhead box protein O4'
 cgnc_id: '4215'
 external_ids:
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#

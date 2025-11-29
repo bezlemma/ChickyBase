@@ -1,7 +1,6 @@
 ---
 aliases:
 - G1/S-specific cyclin-D1
-- 'cyclin D1 (PRAD1: parathyroid adenomatosis 1)'
 cgnc_id: '5701'
 external_ids:
   Biological Process: http://amigo.geneontology.org/amigo/term/GO:0000082

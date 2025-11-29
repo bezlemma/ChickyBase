@@ -17,6 +17,181 @@ external_ids:
 gene_id: '416194'
 gene_type: protein-coding
 images:
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_B.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_B.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_H.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_H.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_H.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_H.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_C.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_C.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_C.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_C.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_E.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_E.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_F.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_F.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_C.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_C.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_G.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_G.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_G.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_G.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_F.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_F.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_G.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_G.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_G.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page5_img0_Pcdh1_G.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_A.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_A.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_B.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_B.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_C.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_C.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_C.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_C.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_B.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_B.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_G.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_G.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_C.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_C.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_E.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_E.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_G.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_G.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_G.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page8_img0_Pcdh1_G.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page10_img0_Pcdh1_HH26.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page10_img0_Pcdh1_HH26.jpg
+- caption: "Pcdh1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page10_img0_Pcdh1_HH28.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pcdh1/page10_img0_Pcdh1_HH28.jpg
 - caption: PCDH1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PCDH1/457620_0.jpg
   location: null

@@ -22,6 +22,76 @@ external_ids:
 gene_id: '374127'
 gene_type: protein-coding
 images:
+- caption: "Pax3 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_C.jpg
+  location: null
+  source: "Kawashima-Ohya et al. 2011"
+  source_label: "Shiota and Nakamura 2002"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_C.jpg
+- caption: "Pax3 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_D.jpg
+  location: null
+  source: "Kawashima-Ohya et al. 2011"
+  source_label: "Shiota and Nakamura 2002"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_D.jpg
+- caption: "Pax3 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_F.jpg
+  location: null
+  source: "Kawashima-Ohya et al. 2011"
+  source_label: "Shiota and Nakamura 2002"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_F.jpg
+- caption: "Pax3 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_G.jpg
+  location: null
+  source: "Kawashima-Ohya et al. 2011"
+  source_label: "Shiota and Nakamura 2002"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_G.jpg
+- caption: "Pax3 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_H.jpg
+  location: null
+  source: "Kawashima-Ohya et al. 2011"
+  source_label: "Shiota and Nakamura 2002"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_H.jpg
+- caption: "Pax3 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_C.jpg
+  location: null
+  source: "Kawashima-Ohya et al. 2011"
+  source_label: "Shiota and Nakamura 2002"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_C.jpg
+- caption: "Pax3 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_D.jpg
+  location: null
+  source: "Kawashima-Ohya et al. 2011"
+  source_label: "Shiota and Nakamura 2002"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_D.jpg
+- caption: "Pax3 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_F.jpg
+  location: null
+  source: "Kawashima-Ohya et al. 2011"
+  source_label: "Shiota and Nakamura 2002"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_F.jpg
+- caption: "Pax3 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_G.jpg
+  location: null
+  source: "Kawashima-Ohya et al. 2011"
+  source_label: "Shiota and Nakamura 2002"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_G.jpg
+- caption: "Pax3 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_H.jpg
+  location: null
+  source: "Kawashima-Ohya et al. 2011"
+  source_label: "Shiota and Nakamura 2002"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax3/page4_img0_Pax3_H.jpg
 - caption: PAX3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX3/455729_0.jpg
   location: Eye

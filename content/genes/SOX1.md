@@ -22,6 +22,62 @@ external_ids:
 gene_id: '374240'
 gene_type: protein-coding
 images:
+- caption: "SOX1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX1/page2_img1_Sox1_A_Col_1.jpg
+  location: null
+  source: "Patthey et al. 2008"
+  source_label: "Patthey et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX1/page2_img1_Sox1_A_Col_1.jpg
+- caption: "SOX1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX1/page2_img1_Sox1_A_Col_2.jpg
+  location: null
+  source: "Patthey et al. 2008"
+  source_label: "Patthey et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX1/page2_img1_Sox1_A_Col_2.jpg
+- caption: "SOX1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX1/page2_img1_Sox1_A_Col_3.jpg
+  location: null
+  source: "Patthey et al. 2008"
+  source_label: "Patthey et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX1/page2_img1_Sox1_A_Col_3.jpg
+- caption: "SOX1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX1/page2_img1_Sox1_A_Col_4.jpg
+  location: null
+  source: "Patthey et al. 2008"
+  source_label: "Patthey et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX1/page2_img1_Sox1_A_Col_4.jpg
+- caption: "SOX1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX1/page2_img1_Sox1_A_Col_5.jpg
+  location: null
+  source: "Patthey et al. 2008"
+  source_label: "Patthey et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX1/page2_img1_Sox1_A_Col_5.jpg
+- caption: "Panel A displays natural state gene expression in a wild-type Stage 10 chick embryo."
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Sox1/page2_img1_Sox1_A_Col_3.jpg
+  location: null
+  source: "Patthey et al. 2008"
+  source_label: "Patthey et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Sox1/page2_img1_Sox1_A_Col_3.jpg
+- caption: "Panel A displays natural state gene expression in a wild-type Stage 10 chick embryo."
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Sox1/page2_img1_Sox1_A_Col_4.jpg
+  location: null
+  source: "Patthey et al. 2008"
+  source_label: "Patthey et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Sox1/page2_img1_Sox1_A_Col_4.jpg
+- caption: "Panel A displays natural state gene expression in a wild-type Stage 10 chick embryo."
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Sox1/page2_img1_Sox1_A_Col_5.jpg
+  location: null
+  source: "Patthey et al. 2008"
+  source_label: "Patthey et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Sox1/page2_img1_Sox1_A_Col_5.jpg
 - caption: SOX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX1/456457_0.jpg
   location: null

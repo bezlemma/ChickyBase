@@ -1,7 +1,6 @@
 ---
 aliases:
 - plexin-B2
-- 'LOW QUALITY PROTEIN: plexin-B2'
 cgnc_id: '52617'
 external_ids:
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Mauti+Gemayel+plexins+consistent

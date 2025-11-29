@@ -19,6 +19,90 @@ external_ids:
 gene_id: '395982'
 gene_type: protein-coding
 images:
+- caption: "TFAP2A expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-ii.jpg
+  location: null
+  source: "Rothstein et al. 2020"
+  source_label: "Rothstein et al. 2020"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-ii.jpg
+- caption: "TFAP2A expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-iii.jpg
+  location: null
+  source: "Rothstein et al. 2020"
+  source_label: "Rothstein et al. 2020"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-iii.jpg
+- caption: "TFAP2A expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-iv.jpg
+  location: null
+  source: "Rothstein et al. 2020"
+  source_label: "Rothstein et al. 2020"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-iv.jpg
+- caption: "TFAP2A expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-v.jpg
+  location: null
+  source: "Rothstein et al. 2020"
+  source_label: "Rothstein et al. 2020"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-v.jpg
+- caption: "TFAP2A expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-vi.jpg
+  location: null
+  source: "Rothstein et al. 2020"
+  source_label: "Rothstein et al. 2020"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-vi.jpg
+- caption: "TFAP2A expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_B-Induction.jpg
+  location: null
+  source: "Rothstein et al. 2020"
+  source_label: "Rothstein et al. 2020"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_B-Induction.jpg
+- caption: "TFAP2A expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-ii.jpg
+  location: null
+  source: "Rothstein et al. 2020"
+  source_label: "Rothstein et al. 2020"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-ii.jpg
+- caption: "TFAP2A expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-iii.jpg
+  location: null
+  source: "Rothstein et al. 2020"
+  source_label: "Rothstein et al. 2020"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-iii.jpg
+- caption: "TFAP2A expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-iv.jpg
+  location: null
+  source: "Rothstein et al. 2020"
+  source_label: "Rothstein et al. 2020"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-iv.jpg
+- caption: "TFAP2A expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-v.jpg
+  location: null
+  source: "Rothstein et al. 2020"
+  source_label: "Rothstein et al. 2020"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-v.jpg
+- caption: "TFAP2A expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-vi.jpg
+  location: null
+  source: "Rothstein et al. 2020"
+  source_label: "Rothstein et al. 2020"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_A-vi.jpg
+- caption: "TFAP2A expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_B-Induction.jpg
+  location: null
+  source: "Rothstein et al. 2020"
+  source_label: "Rothstein et al. 2020"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/TFAP2A/page3_img0_TFAP2A_B-Induction.jpg
 - caption: TFAP2A expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/TFAP2A/451263_0.jpg
   location: Area Opaca, Area Pellucida, Extraembryonic

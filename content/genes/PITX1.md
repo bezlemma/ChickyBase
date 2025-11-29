@@ -21,6 +21,62 @@ external_ids:
 gene_id: '374201'
 gene_type: protein-coding
 images:
+- caption: "PITX1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PITX1/page4_img1_PITX1_A_HH16.jpg
+  location: null
+  source: "Sohail et al. 2025"
+  source_label: "Sohail et al. 2025"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PITX1/page4_img1_PITX1_A_HH16.jpg
+- caption: "PITX1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PITX1/page4_img1_PITX1_B_HH16.jpg
+  location: null
+  source: "Sohail et al. 2025"
+  source_label: "Sohail et al. 2025"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PITX1/page4_img1_PITX1_B_HH16.jpg
+- caption: "PITX1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PITX1/page4_img1_PITX1_C_HH20.jpg
+  location: null
+  source: "Sohail et al. 2025"
+  source_label: "Sohail et al. 2025"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PITX1/page4_img1_PITX1_C_HH20.jpg
+- caption: "PITX1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PITX1/page4_img1_PITX1_D_HH20.jpg
+  location: null
+  source: "Sohail et al. 2025"
+  source_label: "Sohail et al. 2025"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PITX1/page4_img1_PITX1_D_HH20.jpg
+- caption: "PITX1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PITX1/page4_img1_PITX1_E_HH22.jpg
+  location: null
+  source: "Sohail et al. 2025"
+  source_label: "Sohail et al. 2025"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PITX1/page4_img1_PITX1_E_HH22.jpg
+- caption: "PITX1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PITX1/page4_img1_PITX1_F_HH22.jpg
+  location: null
+  source: "Sohail et al. 2025"
+  source_label: "Sohail et al. 2025"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PITX1/page4_img1_PITX1_F_HH22.jpg
+- caption: "PITX1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PITX1/page4_img1_PITX1_G_HH24.jpg
+  location: null
+  source: "Sohail et al. 2025"
+  source_label: "Sohail et al. 2025"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PITX1/page4_img1_PITX1_G_HH24.jpg
+- caption: "PITX1 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PITX1/page4_img1_PITX1_H_HH24.jpg
+  location: null
+  source: "Sohail et al. 2025"
+  source_label: "Sohail et al. 2025"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/PITX1/page4_img1_PITX1_H_HH24.jpg
 - caption: PITX1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PITX1/456412_0.jpg
   location: Area Opaca

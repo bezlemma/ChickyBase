@@ -20,6 +20,48 @@ external_ids:
 gene_id: '395573'
 gene_type: protein-coding
 images:
+- caption: "SOX10 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX10/page3_img0_SOX10_C.jpg
+  location: null
+  source: "Mauti et al. 2007"
+  source_label: "Mauti et al. 2007"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX10/page3_img0_SOX10_C.jpg
+- caption: "SOX10 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX10/page3_img0_SOX10_G.jpg
+  location: null
+  source: "Mauti et al. 2007"
+  source_label: "Mauti et al. 2007"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX10/page3_img0_SOX10_G.jpg
+- caption: "SOX10 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX10/page3_img0_SOX10_K.jpg
+  location: null
+  source: "Mauti et al. 2007"
+  source_label: "Mauti et al. 2007"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX10/page3_img0_SOX10_K.jpg
+- caption: "SOX10 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX10/page3_img0_SOX10_C.jpg
+  location: null
+  source: "Mauti et al. 2007"
+  source_label: "Mauti et al. 2007"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX10/page3_img0_SOX10_C.jpg
+- caption: "SOX10 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX10/page3_img0_SOX10_G.jpg
+  location: null
+  source: "Mauti et al. 2007"
+  source_label: "Mauti et al. 2007"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX10/page3_img0_SOX10_G.jpg
+- caption: "SOX10 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX10/page3_img0_SOX10_K.jpg
+  location: null
+  source: "Mauti et al. 2007"
+  source_label: "Mauti et al. 2007"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/SOX10/page3_img0_SOX10_K.jpg
 - caption: SOX10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SOX10/449558_0.jpg
   location: Neural Crest

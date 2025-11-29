@@ -1,6 +1,5 @@
 ---
 aliases:
-- 'LOW QUALITY PROTEIN: frizzled-8'
 - frizzled family receptor 8
 cgnc_id: '49026'
 external_ids:

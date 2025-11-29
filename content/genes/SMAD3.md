@@ -86,64 +86,64 @@ images:
 - caption: SMAD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMAD3/462153_8.jpg
   location: Neural Plate/Tube
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 6
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SMAD3.HH6plus.GarciaCampmany.2007.f1.smad3.png
 - caption: SMAD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMAD3/462153_9.jpg
   location: null
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GarciaCampmany.2007.f2.smad3.png
 - caption: SMAD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMAD3/462153_10.jpg
   location: Spinal Cord
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SMAD3.GarciaCampmany.2007.f2.smad3.png
 - caption: SMAD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMAD3/462153_11.jpg
   location: Spinal Cord, Tail
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SMAD3.HH13.GarciaCampmany.2007.f1.smad3.png
 - caption: SMAD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMAD3/462153_12.jpg
   location: Spinal Cord
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 18
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SMAD3.HH18.GarciaCampmany.2007.f1.smad3.png
 - caption: SMAD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMAD3/462153_13.jpg
   location: null
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SMAD3.HH20.GarciaCampmany.2007.f1.smad3.png
 - caption: SMAD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMAD3/462153_14.jpg
   location: Spinal Cord
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SMAD3.HH20mn.GarciaCampmany.2007.f1.smad3.png
 - caption: SMAD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMAD3/462153_15.jpg
   location: null
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GarciaCampmany.2007.f1.smad3.png
 - caption: SMAD3 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SMAD3/462153_16.jpg
   location: Spinal Cord
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 25
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/SMAD3.HH25.GarciaCampmany.2007.f1.smad3.png
 name: SMAD family member 3

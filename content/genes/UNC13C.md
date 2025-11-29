@@ -1,7 +1,6 @@
 ---
 aliases:
 - protein unc-13 homolog C
-- 'LOW QUALITY PROTEIN: protein unc-13 homolog C'
 cgnc_id: '3345'
 external_ids:
   Comments: No specific expression detected for stages 3-12.

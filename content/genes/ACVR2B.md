@@ -301,15 +301,15 @@ images:
 - caption: ACVR2B expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACVR2B/456530_39.jpg
   location: Neural Plate/Tube, Surface Ectoderm
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/ACTRII.GarciaCampany.2007.f1.actr11.png
 - caption: ACVR2B expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/ACVR2B/456530_40.jpg
   location: null
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 13
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GarciaCampany.2007.f1.actr11.png
 name: activin A receptor type 2B

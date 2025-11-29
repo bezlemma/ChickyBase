@@ -16,6 +16,34 @@ forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATACCAGGTTTTACCCATCCAGTATG
 gene_id: '395432'
 gene_type: protein-coding
 images:
+- caption: "fgf10 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgf10/page2_img1_fgf10_A.jpg
+  location: null
+  source: "Moura et al. 2011"
+  source_label: "Moura et al. 2011"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgf10/page2_img1_fgf10_A.jpg
+- caption: "fgf10 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgf10/page2_img1_fgf10_B.jpg
+  location: null
+  source: "Moura et al. 2011"
+  source_label: "Moura et al. 2011"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgf10/page2_img1_fgf10_B.jpg
+- caption: "fgf10 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgf10/page2_img1_fgf10_A.jpg
+  location: null
+  source: "Moura et al. 2011"
+  source_label: "Moura et al. 2011"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgf10/page2_img1_fgf10_A.jpg
+- caption: "fgf10 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgf10/page2_img1_fgf10_B.jpg
+  location: null
+  source: "Moura et al. 2011"
+  source_label: "Moura et al. 2011"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgf10/page2_img1_fgf10_B.jpg
 - caption: FGF10 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGF10/449229_0.jpg
   location: Unlabeled

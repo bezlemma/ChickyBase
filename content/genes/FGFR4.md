@@ -16,6 +16,20 @@ external_ids:
 gene_id: '395603'
 gene_type: protein-coding
 images:
+- caption: "fgfr4 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr4/page5_img2_fgfr4_A.jpg
+  location: null
+  source: "Moura et al. 2011"
+  source_label: "Moura et al. 2011"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr4/page5_img2_fgfr4_A.jpg
+- caption: "fgfr4 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr4/page5_img2_fgfr4_A.jpg
+  location: null
+  source: "Moura et al. 2011"
+  source_label: "Moura et al. 2011"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr4/page5_img2_fgfr4_A.jpg
 - caption: FGFR4 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGFR4/449457_0.jpg
   location: Primitive Streak

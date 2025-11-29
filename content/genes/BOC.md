@@ -17,6 +17,62 @@ forward_primer: 5'-TCTCGCCTCTCTGTGGAAATCC-3'
 gene_id: '418361'
 gene_type: protein-coding
 images:
+- caption: "BOC expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/BOC/page1_img0_boc_w_12ss.jpg
+  location: null
+  source: "Cardozo et al. 2014"
+  source_label: "Cardozo et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/BOC/page1_img0_boc_w_12ss.jpg
+- caption: "BOC expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/BOC/page1_img0_boc_x_12ss.jpg
+  location: null
+  source: "Cardozo et al. 2014"
+  source_label: "Cardozo et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/BOC/page1_img0_boc_x_12ss.jpg
+- caption: "BOC expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/BOC/page1_img0_boc_y_22ss.jpg
+  location: null
+  source: "Cardozo et al. 2014"
+  source_label: "Cardozo et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/BOC/page1_img0_boc_y_22ss.jpg
+- caption: "BOC expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/BOC/page1_img0_boc_z_22ss.jpg
+  location: null
+  source: "Cardozo et al. 2014"
+  source_label: "Cardozo et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/BOC/page1_img0_boc_z_22ss.jpg
+- caption: "boc expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/boc/page1_img0_boc_w_12ss.jpg
+  location: null
+  source: "Cardozo et al. 2014"
+  source_label: "Cardozo et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/boc/page1_img0_boc_w_12ss.jpg
+- caption: "boc expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/boc/page1_img0_boc_x_12ss.jpg
+  location: null
+  source: "Cardozo et al. 2014"
+  source_label: "Cardozo et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/boc/page1_img0_boc_x_12ss.jpg
+- caption: "boc expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/boc/page1_img0_boc_y_22ss.jpg
+  location: null
+  source: "Cardozo et al. 2014"
+  source_label: "Cardozo et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/boc/page1_img0_boc_y_22ss.jpg
+- caption: "boc expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/boc/page1_img0_boc_z_22ss.jpg
+  location: null
+  source: "Cardozo et al. 2014"
+  source_label: "Cardozo et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/boc/page1_img0_boc_z_22ss.jpg
 - caption: BOC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/BOC/456657_0.jpg
   location: Unlabeled

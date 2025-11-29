@@ -20,6 +20,20 @@ forward_primer: GCTATGATGTGTCCGTGCTCAAC
 gene_id: '374068'
 gene_type: protein-coding
 images:
+- caption: "Cdh5 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh5/page10_img0_Cdh5_HH22.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh5/page10_img0_Cdh5_HH22.jpg
+- caption: "Cdh5 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh5/page10_img0_Cdh5_HH26.jpg
+  location: null
+  source: "Roy et al. 2014"
+  source_label: "Roy et al. 2014"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Cdh5/page10_img0_Cdh5_HH26.jpg
 - caption: CDH5 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/CDH5/454440_0.jpg
   location: Blood Islands

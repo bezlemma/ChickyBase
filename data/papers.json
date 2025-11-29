@@ -1,6 +1,83 @@
 [
   {
     "type": "citation",
+    "citation": "Mauti 2007",
+    "pmid": "18053143",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18053143/",
+    "resolved": true
+  },
+  {
+    "type": "citation",
+    "citation": "Kawashima-Ohya 2011",
+    "pmid": "21631697",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21631697/",
+    "resolved": true
+  },
+  {
+    "type": "citation",
+    "citation": "Ahnfelt-Ronne 2007",
+    "pmid": "17553139",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17553139/",
+    "resolved": true
+  },
+  {
+    "type": "citation",
+    "citation": "Moura 2011",
+    "pmid": "21423653",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21423653/",
+    "resolved": true
+  },
+  {
+    "type": "citation",
+    "citation": "Smith 2008",
+    "pmid": "18822143",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18822143/",
+    "resolved": true
+  },
+  {
+    "type": "citation",
+    "citation": "Roy 2014",
+    "pmid": "24835739",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24835739/",
+    "resolved": true
+  },
+  {
+    "type": "citation",
+    "citation": "Leslie 2007",
+    "pmid": "17428329",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17428329/",
+    "resolved": true
+  },
+  {
+    "type": "citation",
+    "citation": "Patthey 2008",
+    "pmid": "18295582",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18295582/",
+    "resolved": true
+  },
+  {
+    "type": "citation",
+    "citation": "Cardozo 2014",
+    "pmid": "25158610",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25158610/",
+    "resolved": true
+  },
+  {
+    "type": "citation",
+    "citation": "Li 2024",
+    "pmid": "38615822",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38615822/",
+    "resolved": true
+  },
+  {
+    "type": "citation",
+    "citation": "Williams 2024",
+    "pmid": "39483669",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39483669/",
+    "resolved": true
+  },
+  {
+    "type": "citation",
     "citation": "Trevers 2023",
     "pmid": "36867045",
     "url": "https://pubmed.ncbi.nlm.nih.gov/36867045/",
@@ -1908,7 +1985,7 @@
   },
   {
     "type": "citation",
-    "citation": "Brenneranantharam 2007",
+    "citation": "Brenner-Anantharam 2007",
     "pmid": "17442697",
     "url": "https://pubmed.ncbi.nlm.nih.gov/17442697/",
     "resolved": true
@@ -2033,7 +2110,7 @@
   },
   {
     "type": "citation",
-    "citation": "Garciacampmany 2007",
+    "citation": "Garcia-Campmany 2007",
     "pmid": "17138664",
     "url": "https://pubmed.ncbi.nlm.nih.gov/17138664/",
     "resolved": true
@@ -5459,6 +5536,54 @@
     "citation": "Ruzicka 1988",
     "pmid": "3204121",
     "url": "https://pubmed.ncbi.nlm.nih.gov/3204121/",
+    "resolved": true
+  },
+  {
+    "citation": "Li 2024",
+    "pmid": "PMC10999695",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10999695/",
+    "resolved": true
+  },
+  {
+    "citation": "Cardozo 2014",
+    "pmid": "PMC4102123",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4102123/",
+    "resolved": true
+  },
+  {
+    "citation": "Patthey 2008",
+    "pmid": "PMC2229838",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2229838/",
+    "resolved": true
+  },
+  {
+    "citation": "Maia-Fernandes 2024",
+    "pmid": "PMC11025740",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11025740/",
+    "resolved": true
+  },
+  {
+    "citation": "Hald 2005",
+    "pmid": "PMC1906762",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1906762/",
+    "resolved": true
+  },
+  {
+    "citation": "Zhang 2010",
+    "pmid": "PMC2821371",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2821371/",
+    "resolved": true
+  },
+  {
+    "citation": "Leslie 2007",
+    "pmid": "PMC1885949",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1885949/",
+    "resolved": true
+  },
+  {
+    "citation": "Sohail 2025",
+    "pmid": "PMC12271673",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39806436/",
     "resolved": true
   }
 ]

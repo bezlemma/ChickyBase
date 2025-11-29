@@ -1,7 +1,6 @@
 ---
 aliases:
 - zinc finger protein SNAI2
-- 'LOW QUALITY PROTEIN: zinc finger protein SNAI2'
 - slug
 - snail family zinc finger 2
 - snail homolog 2, Slug, Snail-2
@@ -23,6 +22,34 @@ external_ids:
 gene_id: '432368'
 gene_type: protein-coding
 images:
+- caption: "Panel A displays natural state gene expression in a wild-type Stage 10 chick embryo."
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Snail2/page2_img1_Snail2_A_Col_1.jpg
+  location: null
+  source: "Patthey et al. 2008"
+  source_label: "Patthey et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Snail2/page2_img1_Snail2_A_Col_1.jpg
+- caption: "Panel A displays natural state gene expression in a wild-type Stage 10 chick embryo."
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Snail2/page2_img1_Snail2_A_Col_3.jpg
+  location: null
+  source: "Patthey et al. 2008"
+  source_label: "Patthey et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Snail2/page2_img1_Snail2_A_Col_3.jpg
+- caption: "Panel A displays natural state gene expression in a wild-type Stage 10 chick embryo."
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Snail2/page2_img1_Snail2_A_Col_4.jpg
+  location: null
+  source: "Patthey et al. 2008"
+  source_label: "Patthey et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Snail2/page2_img1_Snail2_A_Col_4.jpg
+- caption: "Panel A displays natural state gene expression in a wild-type Stage 10 chick embryo."
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Snail2/page2_img1_Snail2_A_Col_5.jpg
+  location: null
+  source: "Patthey et al. 2008"
+  source_label: "Patthey et al. 2008"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Snail2/page2_img1_Snail2_A_Col_5.jpg
 - caption: SNAI2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/SNAI2/452263_0.jpg
   location: Early Mesoderm, Primitive Streak

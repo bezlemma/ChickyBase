@@ -282,6 +282,27 @@ images:
   source_label: Vilasboas et al. 2010
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/HES6-2VilasBoas.2010.Fig.2.png
+- caption: HES6-1 expression
+  image_url: /images/genes/HES6/page3_img0_Hes6-1_D_E4.jpg
+  location: null
+  source: Hald et al. 2005
+  source_label: Hald et al. 2005
+  stage: unknown
+  thumbnail_url: /images/genes/HES6/page3_img0_Hes6-1_D_E4.jpg
+- caption: HES6-1 expression
+  image_url: /images/genes/HES6/page3_img0_Hes6-1_H_E7.jpg
+  location: null
+  source: Hald et al. 2005
+  source_label: Hald et al. 2005
+  stage: unknown
+  thumbnail_url: /images/genes/HES6/page3_img0_Hes6-1_H_E7.jpg
+- caption: HES6-1 expression
+  image_url: /images/genes/HES6/page3_img0_Hes6-1_L_E7.jpg
+  location: null
+  source: Hald et al. 2005
+  source_label: Hald et al. 2005
+  stage: unknown
+  thumbnail_url: /images/genes/HES6/page3_img0_Hes6-1_L_E7.jpg
 name: hes family bHLH transcription factor 6
 ncbi_id: '424829'
 orthologs:

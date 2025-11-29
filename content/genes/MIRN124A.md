@@ -1,6 +1,5 @@
 ---
 aliases:
-- "gga-mir-124a\r\nGI:269847387\r\nAcc#NR_031421"
 external_ids:
   Citation: http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=Darnell+MicroRNA+Stanislaw+Dev
     Dyn

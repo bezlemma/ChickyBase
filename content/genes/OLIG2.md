@@ -59,29 +59,29 @@ images:
 - caption: OLIG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OLIG2/460387_5.jpg
   location: null
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GarciaCampmany.2007.f2.olig2.png
 - caption: OLIG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OLIG2/460387_6.jpg
   location: Spinal Cord
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OIG2.GarciaCampmany.2007.f2.olig2.png
 - caption: OLIG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OLIG2/460387_7.jpg
   location: null
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GarciaCampmany.2007.f1.olig2.png
 - caption: OLIG2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/OLIG2/460387_8.jpg
   location: Spinal Cord
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 20
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/OLIG2.GarciaCampmany.2007.f1.olig2.png
 - caption: OLIG2 expression

@@ -1,6 +1,5 @@
 ---
 aliases:
-- 'LOW QUALITY PROTEIN: homeobox protein DLX-2'
 external_ids:
   Citation: Stephen T Brown 1, Juemei Wang, Andrew K Groves. Dlx gene expression during
     chick inner ear development. J Comp Neurol. 2005 Feb 28;483(1):48-65.0

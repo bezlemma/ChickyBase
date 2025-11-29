@@ -1,7 +1,5 @@
 ---
 aliases:
-- sulfide:quinone oxidoreductase, mitochondrial
-- Webb, David 4/21/2017 merged with CGNC:70231
 cgnc_id: '4269'
 external_ids:
   BDGP: http://insitu.fruitfly.org/cgi-bin/ex/report.pl?ftype=2&ftext=FBgn0035515

@@ -16,9 +16,52 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0043565
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_205331
   X-XIV: stage XII
-gene_id: '396273'
+gene: GSC
+gene_id: '145258'
 gene_type: protein-coding
 images:
+- caption: GSC expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GSC/page3_img0_GSC_A_HH18.jpg
+  location: null
+  source: Sohail et al. 2025
+  source_label: Sohail et al. 2025
+  stage: unknown
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GSC/page3_img0_GSC_A_HH18.jpg
+- caption: GSC expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GSC/page3_img0_GSC_B_HH18.jpg
+  location: null
+  source: Sohail et al. 2025
+  source_label: Sohail et al. 2025
+  stage: unknown
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GSC/page3_img0_GSC_B_HH18.jpg
+- caption: GSC expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GSC/page3_img0_GSC_C_HH22.jpg
+  location: null
+  source: Sohail et al. 2025
+  source_label: Sohail et al. 2025
+  stage: unknown
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GSC/page3_img0_GSC_C_HH22.jpg
+- caption: GSC expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GSC/page3_img0_GSC_D_HH22.jpg
+  location: null
+  source: Sohail et al. 2025
+  source_label: Sohail et al. 2025
+  stage: unknown
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GSC/page3_img0_GSC_D_HH22.jpg
+- caption: GSC expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GSC/page3_img0_GSC_E_HH26.jpg
+  location: null
+  source: Sohail et al. 2025
+  source_label: Sohail et al. 2025
+  stage: unknown
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GSC/page3_img0_GSC_E_HH26.jpg
+- caption: GSC expression
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GSC/page3_img0_GSC_F_HH26.jpg
+  location: null
+  source: Sohail et al. 2025
+  source_label: Sohail et al. 2025
+  stage: unknown
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GSC/page3_img0_GSC_F_HH26.jpg
 - caption: GSC expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GSC/462405_0.jpg
   location: Endoderm, early, Primitive Streak
@@ -475,30 +518,15 @@ images:
   source_label: Lemaire et al. 1997
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GSC.Lemaire.1997.Fig4.jpg
-name: goosecoid homeobox
-ncbi_id: '396273'
+name: Goosecoid homeobox
+ncbi_id: '145258'
 orthologs:
-- ensembl: ENSG00000133937
-  entrez: '145258'
-  mod: MIM:138890
-  phenotypes: ''
+- entrez: '145258'
   species: Human
-- ensembl: ENSMUSG00000021095
-  entrez: '14836'
-  mod: MGI:95841
-  phenotypes: All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1)
+  symbol: GSC
+- entrez: '14836'
   species: Mouse
-- ensembl: ENSXETG00000023328
-  entrez: '549458'
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ENSDARG00000115937
-  entrez: '30212'
-  mod: ZFIN:ZDB-GENE-980528-2060
-  phenotypes: animal organ development, anterior/posterior axis specification, brain
-    development, dorsal/ventral axis specification, dorsal/ventral pattern formation
-  species: Zebrafish
+  symbol: Gsc
 sources:
 - name: GEISHA
   type: database
@@ -511,6 +539,8 @@ symbol: GSC
 title: GSC
 ---
 
+
+**Goosecoid homeobox**
 # GSC
 
 **goosecoid homeobox**
@@ -533,9 +563,4 @@ title: GSC
 ## Orthologs
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
-| --- | --- | --- | --- | --- |
-| Human | [ENSG00000133937](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000133937) | [145258](https://www.ncbi.nlm.nih.gov/gene/145258) | [MIM:138890](https://omim.org/entry/138890) |  |
-| Mouse | [ENSMUSG00000021095](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000021095) | [14836](https://www.ncbi.nlm.nih.gov/gene/14836) | [MGI:95841](http://www.informatics.jax.org/marker/MGI:95841) | All phenotypic alleles (3):Targeted, knock-out(2) Targeted, other(1) |
-| Xenopus | [ENSXETG00000023328](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000023328) | [549458](https://www.ncbi.nlm.nih.gov/gene/549458) |  |  |
-| Zebrafish | [ENSDARG00000115937](https://www.ensembl.org/Danio_rerio/Gene/Summary?g=ENSDARG00000115937) | [30212](https://www.ncbi.nlm.nih.gov/gene/30212) | [ZFIN:ZDB-GENE-980528-2060](https://zfin.org/ZDB-GENE-980528-2060) | animal organ development, anterior/posterior axis specification, brain development, dorsal/ventral axis specification, dorsal/ventral pattern formation |
-
+| 

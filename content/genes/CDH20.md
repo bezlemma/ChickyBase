@@ -19,6 +19,7 @@ external_ids:
   Molecular Function: http://amigo.geneontology.org/amigo/term/GO:0005509
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_204134
 forward_primer: CCAGATTTCCACAGAAGCACTACC
+gene: CDH20
 gene_id: '373927'
 gene_type: protein-coding
 images:
@@ -170,24 +171,15 @@ images:
   source_label: Luo et al. 2007
   stage: stage 44
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/Cad20.Figure2J.Jiankai.2007.jpg
-name: cadherin 20, type 2
+name: Cadherin 20
 ncbi_id: '373927'
 orthologs:
-- ensembl: ENSG00000101542
-  entrez: '28316'
-  mod: MIM:605807
-  phenotypes: ''
+- entrez: '28316'
   species: Human
-- ensembl: ENSMUSG00000050840
-  entrez: '23836'
-  mod: MGI:1346069
-  phenotypes: All phenotypic alleles (2):Targeted, other(2)
+  symbol: CDH20
+- entrez: '54716'
   species: Mouse
-- ensembl: ENSXETG00000005857
-  entrez: '100498629'
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
+  symbol: Cdh20
 reverse_primer: ATTAACCCTCACTAAAGGGCCGTGTTGTCTTGATTGTCCC
 sources:
 - name: GEISHA
@@ -202,6 +194,8 @@ template_length: '844'
 title: CDH20
 ---
 
+
+**Cadherin 20**
 # CDH20
 
 **cadherin 20, type 2**
@@ -224,8 +218,4 @@ title: CDH20
 ## Orthologs
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
-| --- | --- | --- | --- | --- |
-| Human | [ENSG00000101542](https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000101542) | [28316](https://www.ncbi.nlm.nih.gov/gene/28316) | [MIM:605807](https://omim.org/entry/605807) |  |
-| Mouse | [ENSMUSG00000050840](https://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000050840) | [23836](https://www.ncbi.nlm.nih.gov/gene/23836) | [MGI:1346069](http://www.informatics.jax.org/marker/MGI:1346069) | All phenotypic alleles (2):Targeted, other(2) |
-| Xenopus | [ENSXETG00000005857](https://www.ensembl.org/Xenopus_tropicalis/Gene/Summary?g=ENSXETG00000005857) | [100498629](https://www.ncbi.nlm.nih.gov/gene/100498629) |  |  |
-
+| 

@@ -1,7 +1,6 @@
 ---
 aliases:
 - formin-like protein 1
-- 'LOW QUALITY PROTEIN: formin-like protein 1'
 cgnc_id: '51139'
 external_ids:
   Complete cDNA Template Probe: https://geisha.arizona.edu/geisha/#

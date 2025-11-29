@@ -172,15 +172,15 @@ images:
 - caption: NKX6-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX6-1/450362_22.jpg
   location: null
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/GarciaCampmany.2007.f2.nkx6.1.png
 - caption: NKX6-1 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/NKX6-1/450362_23.jpg
   location: Spinal Cord
-  source: Garciacampmany et al. 2007
-  source_label: Garciacampmany et al. 2007
+  source: Garcia-Campmany et al. 2007
+  source_label: Garcia-Campmany et al. 2007
   stage: stage 12
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NKX6.1.GarciaCampmany.2007.f2.nkx6.1.png
 name: NK6 homeobox 1

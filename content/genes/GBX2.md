@@ -23,6 +23,62 @@ external_ids:
 gene_id: '395950'
 gene_type: protein-coding
 images:
+- caption: "GBX2 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GBX2/page5_img0_GBX2_A_HH18.jpg
+  location: null
+  source: "Sohail et al. 2025"
+  source_label: "Sohail et al. 2025"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GBX2/page5_img0_GBX2_A_HH18.jpg
+- caption: "GBX2 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GBX2/page5_img0_GBX2_B_HH18.jpg
+  location: null
+  source: "Sohail et al. 2025"
+  source_label: "Sohail et al. 2025"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GBX2/page5_img0_GBX2_B_HH18.jpg
+- caption: "GBX2 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GBX2/page5_img0_GBX2_C_HH20.jpg
+  location: null
+  source: "Sohail et al. 2025"
+  source_label: "Sohail et al. 2025"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GBX2/page5_img0_GBX2_C_HH20.jpg
+- caption: "GBX2 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GBX2/page5_img0_GBX2_D_HH20.jpg
+  location: null
+  source: "Sohail et al. 2025"
+  source_label: "Sohail et al. 2025"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GBX2/page5_img0_GBX2_D_HH20.jpg
+- caption: "GBX2 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GBX2/page5_img0_GBX2_E_HH22.jpg
+  location: null
+  source: "Sohail et al. 2025"
+  source_label: "Sohail et al. 2025"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GBX2/page5_img0_GBX2_E_HH22.jpg
+- caption: "GBX2 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GBX2/page5_img0_GBX2_F_HH22.jpg
+  location: null
+  source: "Sohail et al. 2025"
+  source_label: "Sohail et al. 2025"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GBX2/page5_img0_GBX2_F_HH22.jpg
+- caption: "GBX2 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GBX2/page5_img0_GBX2_G_HH26.jpg
+  location: null
+  source: "Sohail et al. 2025"
+  source_label: "Sohail et al. 2025"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GBX2/page5_img0_GBX2_G_HH26.jpg
+- caption: "GBX2 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GBX2/page5_img0_GBX2_H_HH26.jpg
+  location: null
+  source: "Sohail et al. 2025"
+  source_label: "Sohail et al. 2025"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/GBX2/page5_img0_GBX2_H_HH26.jpg
 - caption: GBX2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/GBX2/350067_0.jpg
   location: Central Nervous System

@@ -4,7 +4,6 @@ aliases:
 - adult alpha A globin
 - alpha-A globin
 - hemoglobin alpha, subunit A
-- hemoglobin alpha, subunit?A
 - hemoglobin alpha-A chain
 external_ids:
   Cellular Component: http://amigo.geneontology.org/amigo/term/GO:0005833

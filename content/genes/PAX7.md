@@ -19,6 +19,34 @@ forward_primer: CAAAACTTCTGGTGTTCCACGC
 gene_id: '395942'
 gene_type: protein-coding
 images:
+- caption: "Pax7 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax7/page4_img0_Pax7_I.jpg
+  location: null
+  source: "Kawashima-Ohya et al. 2011"
+  source_label: "Shiota and Nakamura 2002"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax7/page4_img0_Pax7_I.jpg
+- caption: "Pax7 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax7/page4_img0_Pax7_J.jpg
+  location: null
+  source: "Kawashima-Ohya et al. 2011"
+  source_label: "Shiota and Nakamura 2002"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax7/page4_img0_Pax7_J.jpg
+- caption: "Pax7 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax7/page4_img0_Pax7_I.jpg
+  location: null
+  source: "Kawashima-Ohya et al. 2011"
+  source_label: "Shiota and Nakamura 2002"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax7/page4_img0_Pax7_I.jpg
+- caption: "Pax7 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax7/page4_img0_Pax7_J.jpg
+  location: null
+  source: "Kawashima-Ohya et al. 2011"
+  source_label: "Shiota and Nakamura 2002"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/Pax7/page4_img0_Pax7_J.jpg
 - caption: PAX7 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/PAX7/450496_0.jpg
   location: Wing

@@ -1,7 +1,6 @@
 ---
 aliases:
 - dynamin-binding protein
-- 'LOW QUALITY PROTEIN: dynamin-binding protein'
 cgnc_id: '52060'
 external_ids:
   Genomic Map: http://www.ncbi.nlm.nih.gov/gene/423827

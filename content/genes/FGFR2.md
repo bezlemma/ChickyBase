@@ -26,6 +26,34 @@ forward_primer: TTATAAAAGCTTGCGGCCGCAGAATATAGAGCCGCCAACCAAATACC
 gene_id: '396259'
 gene_type: protein-coding
 images:
+- caption: "fgfr2 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr2/page3_img1_fgfr2_A.jpg
+  location: null
+  source: "Moura et al. 2011"
+  source_label: "Moura et al. 2011"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr2/page3_img1_fgfr2_A.jpg
+- caption: "fgfr2 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr2/page3_img1_fgfr2_B.jpg
+  location: null
+  source: "Moura et al. 2011"
+  source_label: "Moura et al. 2011"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr2/page3_img1_fgfr2_B.jpg
+- caption: "fgfr2 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr2/page3_img1_fgfr2_A.jpg
+  location: null
+  source: "Moura et al. 2011"
+  source_label: "Moura et al. 2011"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr2/page3_img1_fgfr2_A.jpg
+- caption: "fgfr2 expression"
+  image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr2/page3_img1_fgfr2_B.jpg
+  location: null
+  source: "Moura et al. 2011"
+  source_label: "Moura et al. 2011"
+  stage: "unknown"
+  thumbnail_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/genes/fgfr2/page3_img1_fgfr2_B.jpg
 - caption: FGFR2 expression
   image_url: https://pub-4386f074e9db4780b372db404f4df488.r2.dev/images/FGFR2/462454_0.jpg
   location: Anterior Intestinal Portal, Extraembryonic, Spinal Cord, Surface Ectoderm

@@ -10,3 +10,6 @@ resources
 # Pagefind
 static/pagefind/
 
+
+# Images hosted on Cloudflare
+static/images/genes/

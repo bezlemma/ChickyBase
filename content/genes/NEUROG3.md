@@ -13,6 +13,7 @@ external_ids:
   In Situ Hybridization: https://geisha.arizona.edu/geisha/#
   KEGG: http://www.genome.jp/dbget-bin/www_bget?gga:100858174
   Sequence Information: http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=XM_003641471
+gene: NEUROG3
 gene_id: '100858174'
 gene_type: protein-coding
 images:
@@ -110,34 +111,17 @@ images:
   source_label: Ma et al. 2008
   stage: stage 36
   thumbnail_url: https://geisha.arizona.edu/geisha/photos/thumbs/NGN3.Ma.2008.Fig.2.png
-name: neurogenin 3
+name: Neurogenin 3
 ncbi_id: '100858174'
 orthologs:
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Fruit Fly
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+- ensembl: ENSG00000170961
+  entrez: '50674'
   species: Human
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
+  symbol: NEUROG3
+- ensembl: ENSMUSG00000004953
+  entrez: '11925'
   species: Mouse
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Xenopus
-- ensembl: ''
-  entrez: ''
-  mod: ''
-  phenotypes: ''
-  species: Zebrafish
+  symbol: Neurog3
 sources:
 - name: NCBI Gene
   type: database
@@ -147,6 +131,8 @@ symbol: NEUROG3
 title: NEUROG3
 ---
 
+
+**Neurogenin 3**
 # NEUROG3
 
 **neurogenin 3**
@@ -166,10 +152,4 @@ title: NEUROG3
 ## Orthologs
 
 | Species | Ensembl | Entrez | MOD | Phenotypes |
-| --- | --- | --- | --- | --- |
-| Fruit Fly |  |  |  |  |
-| Human |  |  |  |  |
-| Mouse |  |  |  |  |
-| Xenopus |  |  |  |  |
-| Zebrafish |  |  |  |  |
-
+| 
